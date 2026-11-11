@@ -29,7 +29,7 @@ The Choir: **"And to thy spirit."**
 The Deacon:  
 **"Wisdom! Standing upright, let us hear the holy Gospel."** (*Премꙋ́дрость, про́сти оу҆слы́шимъ ст҃а́гѡ е҆ѵⷢлїа*)  
 The Priest:  
-**"The reading from the holy Gospel according to [Name]."** (*Ѿ [и҆́мѧкъ] е҆ѵⷢлїа чте́нїе*)  
+**"The reading from the holy Gospel according to [Name]."** (*Ѿ (*и҆́мѧкъ*) е҆ѵⷢлїа чте́нїе*)  
 The Choir:  
 **"Glory to Thee, O Lord, glory to Thee."** (*Сла́ва тебѣ̀ Го́споди, сла́ва тебѣ̀*)  
 
@@ -128,8 +128,8 @@ and the complete Dismissal.
 [Book Page 24]
 
 ## The Order
-### OF GREAT VESPERS,
-#### Chanted on Saturday Evening for Sunday.
+**OF GREAT VESPERS,**
+**Chanted on Saturday Evening for Sunday.**
 
 The Priest, having put on the epitrachelion, and standing before the royal doors, says:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  
@@ -247,7 +247,7 @@ and the rest, as in the Horologion, and commemorates the saint whose service is 
 [Book Page 29]
 
 ## The Order
-### OF SUNDAY MIDNIGHT OFFICE
+**OF SUNDAY MIDNIGHT OFFICE**
 
 Sunday Midnight Office is celebrated before the royal doors in the church.  
 The Priest, having put on the epitrachelion, makes the beginning:  
@@ -282,8 +282,8 @@ and the rest.
 [Book Page 30]
 
 ## The Order
-### OF SUNDAY MATINS,
-#### or Resurrectional Matins.
+**OF SUNDAY MATINS,**
+**or Resurrectional Matins.**
 
 The Priest, after the Dismissal of the Sunday Midnight Office, wearing the epitrachelion only, making a bow, makes the beginning:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  
@@ -300,7 +300,7 @@ Then the Troparia:
 **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy mercies upon the new commonwealth called by Thy name, O Christ God..."** (*Вознесы́йсѧ на Крⷭ҇тъ...*)  
 **"Now and forever, and unto the ages of ages. Amen."**  
 **"O champion and dread Protectress, despise not our prayers, O Good One..."** (*Предста́тельнице стра́шнаѧ...*)  
-After these the Priest says the Litany for the Emperor [Ца́рская екте́нїя]:  
+After these the Priest says the Litany for the Emperor (*Ца́рская екте́нїя*):  
 **"Have mercy on us, O God, according to Thy great mercy..."**  
 and:  
 **"Again we pray for our most pious Emperor [Franz Joseph I]..."**  
@@ -523,8 +523,8 @@ and the Dismissal takes place.
 The Third and Sixth Hours are read by the Priest privately.
 
 ## The Order
-### OF GREAT MATINS
-#### On Weekdays, if there occurs a Saint having a Polyeleos.
+**OF GREAT MATINS**
+**On Weekdays, if there occurs a Saint having a Polyeleos.**
 
 The Priest, having put on the epitrachelion, comes before the royal doors, and having made a bow there, says:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  
@@ -590,8 +590,8 @@ Then the complete Dismissal:
 [Book Page 39]
 
 ## The Order
-### OF WEEKDAY VESPERS,
-#### or Daily Vespers.
+**OF WEEKDAY VESPERS,**
+**or Daily Vespers.**
 
 The Priest, having entered into the temple, makes three bows before the royal doors; he takes also the epitrachelion, and having blessed it and kissed the cross upon it, puts it upon himself; and standing before the royal doors, with a bow begins according to custom:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  

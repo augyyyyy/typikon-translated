@@ -180,7 +180,7 @@ A divinely planted branch of Christ's husbandry, offering spiritual clusters of 
 Illumined with divine radiance, while thy body was consumed by material fire, thou didst pass over, O father, unto the immaterial dawn; and grant remission through thy prayers, enlightening the dark night of our passions, O wise one of our souls.
 
 *Glory... Both now... Theotokion:*
-*In the same Tone and Podoben:*
+*In the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Held fast by the abyss of transgressions, having fled unto the tranquil haven of thy most pure prayer, O Mother of God, I cry unto thee: Save me, stretching forth thy strong right hand unto thy servant, O all-immaculate one.
 
 *Stavrotheotokion, Tone 1, Podoben: "Joy of the heavenly hosts" (Небе́сныхъ чино́въ):*
@@ -224,7 +224,7 @@ As a whole offering thou didst bring thyself unto Christ as a living sacrifice t
 *Theotokion:*
 Thou hast shaken off the dust of our mortality, having truly given birth unto Immortality; and thou hast woven for us garments of incorruption, O Virgin, by thy birthgiving.
 
-*Sessional Hymn, Tone 8, Podoben:*
+*Sessional Hymn, Tone 8, Podoben (Подо́бенъ):*
 
 === LEAF p198 ===
 **[Left Page — Fol. 198v]**
@@ -283,7 +283,7 @@ Instructed by thy words, O father, we overcome every foul heresy and the wicked 
 *Theotokion:*
 Having conceived the pure Lamb Who takes away the sin of the world, O all-immaculate one, pray thou that forgiveness of transgressions be granted unto thy servants.
 
-*Kontakion, Tone 1, Podoben: "The angelic choir" (Ликъ а́нгельскiй):*
+*Kontakion, Tone 1, Podoben: "The angelic choir" (Ликъ а́нгельскій):*
 Offering spiritual fruits unto the Lord, O wise Polycarp, sacrifices of virtues; therefore also by God wast thou glorified as a worthy hierarch; therefore today, enlightened by thy words, we hymn thy praiseworthy memory, glorifying the Lord.
 
 *Ikos:*

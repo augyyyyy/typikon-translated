@@ -1,24 +1,29 @@
 ---
 name: liturgical_vision_auditor
-description: Audits final English translations against original page-scan images (JPG/PDF) to evaluate layout, heading levels, table structures, en/em dash consistency, and visual footnote positioning.
+description: Audits English liturgical translations against 300 DPI page-scan images using Native Gemini Vision, enforcing leaf conservation, H1/H2 heading discipline, cinnabar rubric italics, table layout, and 1:1 footnote bijectivity.
 ---
 
 # Liturgical Vision Auditor Skill Guidelines
 
-When executing a visual page scan audit:
+When executing a visual page-scan audit against 300 DPI rasters (`Page_{p:04d}.jpg` in `Source Text/images/`):
 
-## 1. Audit Log Integrity & Visual Log Limits
-When interpreting the output of `liturgical_vision_auditor` scripts that produce an audit log, the agent must **not** infer missing entries, interpolate "invisible" elements, or fabricate bounding-box coordinates. If the log reports zero matches for a category the agent expected, it must **explicitly state** that detection failed for that category and **persist this empty result** in any summary. Ghost loops (re-running the detector endlessly because the expected count was not reached) are forbidden; after a maximum of 3 retries, the agent must report the discrepancy and stop. Limit visual screenshots of diffs to 50 per run to prevent disk exhaustion.
+## 1. Epigraphic & Visual Audit Integrity (`Rule 1`, `Rule 6`, `Rule 16`)
+* Inspect physical 300 DPI page scans directly via `view_file`/`read_file`. Never infer missing entries, interpolate unwritten elements, or fabricate bounding-box coordinates.
+* All image paths must resolve dynamically via `pathlib.Path` relative to the project root or the monument's NTFS junction (`Liturgical Monuments/<Monument>/Source Text/images/`).
+* Run automated structural and chromatic verifiers alongside visual inspection:
+  * `py scripts/structural_audit.py --monument <ID> --cohort <K>` — Verifies `=== LEAF pN ===` monotonic continuity and `SGC-02` density.
+  * `py scripts/chromatic_rubric_verifier.py` — Verifies red cinnabar rubrics are rendered in italics (`*...*`) and black ink in Roman.
+  * `py scripts/verify_publication_edition.py --monument <ID>` — Runs the 6-Gate Liturgical Canonical Publication Edition (LCPE) audit.
 
-## 2. Absolute Path Checks for Image Loaders
-All image-loading utilities within the auditor (e.g., `load_image()`) must resolve paths using `pathlib` relative to the project root or an environment-defined data directory. Any hardcoded absolute path in a loader is an immediate regression. Before running a detection, the agent should verify that the loaded image path does not contain a drive letter or known user-specific prefix.
+## 2. Footnote Placement & Monotonic Bijectivity (`Rule 4` & Mandate 7)
+* Visually match footnote markers (`[^N]`) in `Draft/` or `Final/` against marginal glosses, scriptural citations, or recensional apparatus on the physical page scan.
+* Never attach a footnote marker `[^N]` directly to a `=== LEAF pN ===` banner or a `**[Left/Right Page — Fol. Xr]**` 2-up spread milestone; always attach `[^N]` to a surviving heading or body line so LCPE milestone stripping never orphans `[^N]`.
+* Verify 1:1 bidirectional symmetry between body markers `[^N]` and definitions `[^N]:` in `Final_footnotes.txt` via `scripts/reconcile_footnotes.py`.
 
-## 3. Footnote Placement Validation
-* Visually match footnote markers (e.g. `[^N]`) in the English draft against their physical positions in the page scan.
-* Ensure no footnotes are dropped or detached from their corresponding paragraphs.
-* Verify the master footnotes file (`Final_footnotes.txt`) contains the definition for every visual footnote present on the page.
+## 3. Epigraphic Typography & Heading Hierarchy (Mandates 8, 10, 12)
+* **`H1 & H2` Only**: Reserve `#` for `publication_spec` Part landmarks and `##` for primary day/service headpieces; render sub-services, offices, canons, odes, heirmoi, troparia, and rubrics as inline italics (`*...*`), never `###` or `####`.
+* **Tables, Vacat Folios & Parenthetical Cyrillic**: Preserve multi-column Paschalion and Menologion tables as Markdown tables; format blank leaves as `*(Vacat — Fol. Xv: Unnumbered blank verso)*`; parenthesize all inline Cyrillic witnesses `(*...*)` (never square-bracketed `[...]`).
 
-## 4. Formatting & Typography Guidelines
-* Check heading structures (bolding, italics, underlines) to make sure they correspond to the formatting style of the source scans.
-* Ensure proper en dashes (` – `) or em dashes (` — `) are used for sentence ranges and breaks, replacing standard hyphens (`-`).
-* Ensure tables are formatted consistently as Markdown tables, preserving original layouts.
+## 4. On-Demand Reference Playbooks
+* [`references/footnote_bijectivity_and_layout.md`](references/footnote_bijectivity_and_layout.md) — Footnote reconciliation rules, 2-up spread milestone handling, and chromatic/table layout verification.
+* [`references/sgc_potemkin_and_publication_gates.md`](references/sgc_potemkin_and_publication_gates.md) — `PE-HSG-01`..`05` Anti-Potemkin invariants, 6-Gate `verify_publication_edition.py` specifications, and 4-shard `Shared_Lexicon` read-only consumption.

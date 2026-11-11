@@ -49,7 +49,7 @@ Walking in the flesh on the other side of the Jordan, O Jesus, Thou didst cry al
 
 Let us the faithful make ourselves like Martha and Mary, and send godly deeds unto the Lord, that having come, He may raise up our mind, which lies dead, grievously insensible in the tomb of slothfulness, in no wise beholding the divine fear, and having now no life-giving activity, crying aloud: Look, O Lord, even as by a fearful presence Thou didst raise up Thy friend Lazarus, O Thou Who alone art compassionate; so give life unto us all, granting great mercy![^2856]
 
-*Another [Sticheron], by Sir Theodore. Tone 6, Podoben: "Lord, [standing] at the tomb of Lazarus" (Гдⷭ҇и на гро́[бѣ Ла́заревѣ]):*
+*Another [Sticheron], by Sir Theodore. Tone 6, Podoben: "Lord, [standing] at the tomb of Lazarus" (Гдⷭ҇и на гро́(*бѣ Ла́заревѣ*)):*
 Lazarus has spent two days in the tomb; he sees those who have died from the beginning of the age; there he beholds strange peoples, an unnumbered multitude, held fast by the bonds of Hades; therefore his kinswomen weep bitterly, seeing his tomb beforehand. But Christ comes to give life unto His friend, to accomplish a single concord of all: Blessed art Thou, O Savior, have mercy upon us![^2857]
 
 *Then, the Martyrikon. And for the rest: as on (see fol. 236)[^2858].*
@@ -161,7 +161,7 @@ The offspring of wisdom is the fear of the Lord, and riches, and glory, and life
 ## ON THURSDAY OF THE SIXTH WEEK OF THE FAST, AT MATINS[^2901]
 
 *After Alleluia, the Hymns to the Trinity of the Tone. After the 1st Stichology, the Sessional Hymn in the Oktoechos.*
-*After the 2nd Stichology, Sessional Hymn of Sir Joseph. Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное [Сло́во]):*
+*After the 2nd Stichology, Sessional Hymn of Sir Joseph. Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное (*Сло́во*)):*
 Having yoked contemplation and action together, let us make haste to send forth unto Christ's mercy our mind which has died, like another Lazarus, that He may give it life by His fearful presence, to bring unto Him branches of righteousness, and to cry: Blessed is He that comes in the Name of the Lord![^2902]
 
 *Glory... the same. Both now... Theotokion:*

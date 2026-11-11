@@ -25,7 +25,7 @@ def get_project_root() -> Path:
     for parent in [curr] + list(curr.parents):
         if (parent / "Ukrainian TXTs").exists() and (parent / "Final").exists():
             return parent
-    return Path(os.environ.get("TRANSLATION_PROJECT_DIR", r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation"))
+    return Path(os.environ.get("TRANSLATION_PROJECT_DIR", r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation"))
 
 def load_text_files(directory: Path) -> dict:
     corpus = {}

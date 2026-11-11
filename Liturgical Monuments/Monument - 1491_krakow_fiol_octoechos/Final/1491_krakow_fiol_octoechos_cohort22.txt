@@ -29,6 +29,8 @@
 === LEAF p213 ===
 ...I had not done among them the works which none other man did, they would not have had sin; but now have they both seen and hated both Me and My Father. But this comes to pass, that the word might be fulfilled that is written in their law: "They hated Me without a cause." But when the Comforter is come, Whom I will send unto you from the Father, even the Spirit of truth, Who proceeds from the Father, He shall testify of Me; and ye also shall bear witness, because ye have been with Me from the beginning. These things have I spoken unto you, that ye should not be offended. They shall put you out of the synagogues; yea, the time comes, that whosoever kills you will think that he offers service unto God.
 
+# WEEKDAY OFFICES OF THE OCTOECHOS (MONDAY THROUGH SATURDAY)
+
 *On Sunday Evening, Stichera to our Lord, of Repentance, Tone 8, Podoben: "Lord, even though at the judgment seat" (Господи аще на судищи):*[^250]
 
 *Sticheron 1:* O good Shepherd, Who didst lay down Thy life for the sheep, Who alone art good, knowing the hidden things and deeds wrought by me: shepherd me wisely away from the wandering one, and snatch me from the wolf, O Lamb of God, and have mercy on me!

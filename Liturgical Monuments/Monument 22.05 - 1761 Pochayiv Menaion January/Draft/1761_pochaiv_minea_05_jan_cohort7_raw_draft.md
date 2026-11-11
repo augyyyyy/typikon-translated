@@ -58,7 +58,7 @@ Having become immovable pillars of the Church and foundations of piety, O discip
 
 *Glory, of the Venerable Father, Tone 1, Podoben: "The stone being sealed" (Ка́мени запеча́тану):*  
 Thou didst tend the flock of the Lord in a manner pleasing unto God, O God-bearing Theoctistus, with the pipe of the Word, leading the saved flock unto God upon the pasture of dispassion and life; and having departed unto Him, thou hast received a worthy reward for thy labors. Glory to Him Who gave thee strength! Glory to Him Who crowned thee! Glory to Him Who through thee works healings for all![^387]  
-*Both now, the same Tone [Tone 1] and Podoben:*  
+*Both now, the same Tone [Tone 1] and Podoben (Подо́бенъ):*  
 When Jesus was born of the Virgin Mary, and was baptized in the Jordan by John, the Spirit descended upon Him visible in the form of a dove. For this cause the Prophet cried with the angels, saying: Glory to Thy coming, O Christ! Glory to Thy kingdom! Glory to Thy dispensation, O only Lover of mankind![^388]  
 *Ode 4. Heirmos:*  
 Christ is my power, God and Lord, the venerable Church singing in a manner befitting God cries aloud, from a pure mind, keeping festival in the Lord.[^389]  

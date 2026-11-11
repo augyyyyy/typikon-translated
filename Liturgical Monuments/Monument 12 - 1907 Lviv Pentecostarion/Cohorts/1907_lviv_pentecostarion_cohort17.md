@@ -558,7 +558,7 @@ Arise, O Compassionate One, raising us up from the abysses of hades!
 
 *Troparion:*
 
-"Arise, O Giver of life!" saith the Mother who bore Thee, shedding tears.
+"Arise, O Giver of life!" says the Mother who bore Thee, shedding tears.
 
 *Verse 169 (Psalm 118:168): I have kept Thy commandments and Thy testimonies, for all my ways are before Thee, O Lord.*
 

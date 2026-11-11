@@ -23,7 +23,7 @@ Unto the glory of the Holy, Consubstantial, Life-Creating, and Undivided Trinity
 
 By the diligence and expense of the STAUROPEGION INSTITUTE, at the Church of the Dormition of the Most Holy Mother of God.[^5]
 
-*[Circular seal of the Stauropegion Institute in Lviv: displaying the double patriarchal cross with Christological monogram and legend: (*(*"СТАВРОПИГІЙСКІЙ ІНСТИТУТЪ"*)*) within concentric beaded borders]*
+*(*Circular seal of the Stauropegion Institute in Lviv: displaying the double patriarchal cross with Christological monogram and legend: (*(*"СТАВРОПИГІЙСКІЙ ІНСТИТУТЪ"*)*) within concentric beaded borders*)*
 
 *[Institutional stamp: Patriarchal Liturgical Commission of the Ukrainian Greek-Catholic Church, Lviv]*
 
@@ -231,7 +231,7 @@ Rejoice, thou who art full of grace, who in thy Dormition forsakest us not.
   * [ON FRIDAY OF THE SAMARITAN WOMAN, AT MATINS](1907_lviv_pentecostarion_part5_samaritan_woman.md#on-friday-of-the-samaritan-woman-at-matins)
   * [ON FRIDAY OF THE SAMARITAN WOMAN, AT VESPERS](1907_lviv_pentecostarion_part5_samaritan_woman.md#on-friday-of-the-samaritan-woman-at-vespers)
   * [ON SATURDAY OF THE SAMARITAN WOMAN, AT MATINS](1907_lviv_pentecostarion_part5_samaritan_woman.md#on-saturday-of-the-samaritan-woman-at-matins)
-* **[PART VI: SUNDAY OF THE BLIND MAN, LEAVE-TAKING OF PASCHA, FEAST OF THE ASCENSION, AND SUNDAY OF THE HOLY FATHERS OF NICAEA](1907_lviv_pentecostarion_part6_blind_man_ascension_fathers.md#part-vi-sunday-of-the-blind-man-leave-taking-of-pascha-feast-of-the-ascension-and-sunday-of-the-holy-fathers-of-nicaea)**
+* **[PART VI: SUNDAY OF THE BLIND MAN, APODOSIS OF PASCHA, FEAST OF THE ASCENSION, AND SUNDAY OF THE HOLY FATHERS OF NICAEA](1907_lviv_pentecostarion_part6_blind_man_ascension_fathers.md#part-vi-sunday-of-the-blind-man-apodosis-of-pascha-feast-of-the-ascension-and-sunday-of-the-holy-fathers-of-nicaea)**
   * [SUNDAY OF THE BLIND MAN AND FEAST OF THE ASCENSION](1907_lviv_pentecostarion_part6_blind_man_ascension_fathers.md#sunday-of-the-blind-man-and-feast-of-the-ascension)
   * [SIXTH SUNDAY AFTER PASCHA, OF THE BLIND MAN](1907_lviv_pentecostarion_part6_blind_man_ascension_fathers.md#sixth-sunday-after-pascha-of-the-blind-man)
   * [AT GREAT VESPERS](1907_lviv_pentecostarion_part4_paralytic_mid_pentecost.md#at-great-vespers)

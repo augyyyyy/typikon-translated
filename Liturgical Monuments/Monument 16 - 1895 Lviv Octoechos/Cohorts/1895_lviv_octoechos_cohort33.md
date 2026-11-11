@@ -259,7 +259,7 @@
 
 *Glory:* O Tri-hypostatic Unity and indivisible, all-effecting Trinity, one Essence and Power! Cover Thy singers from every harm of the enemy, and make them worthy of Thy kingdom, which they that lived well have obtained.[^3083]
 
-*Both now... Stavrotheotokion:* Beholding upon the Cross Him Whom thou didst enflesh from pure blood, weeping didst thou cry aloud, O Mother of God, Maiden: What is this, O Child, that the evil assembly has rendered unto Thee, putting Thee to death, Who art the Life and Resurrection of all the faithful?[^3084]
+*Both now... Stavrotheotokion:* Beholding upon the Cross Him Whom thou didst enflesh from pure blood, weeping didst thou cry aloud, O Mother of God, Maiden: What is this, O Child, that the evil assembly has rendered unto thee, putting thee to death, Who art the Life and Resurrection of all the faithful?[^3084]
 
 ## Thursday: The Holy Apostles and Saint Nicholas[^3085]
 

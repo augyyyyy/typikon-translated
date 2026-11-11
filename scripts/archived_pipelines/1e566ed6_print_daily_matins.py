@@ -1,6 +1,6 @@
 import os
 
-part1_path = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_part1_structure.md"
+part1_path = r"C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_part1_structure.md"
 
 with open(part1_path, 'r', encoding='utf-8') as f:
     content = f.read()

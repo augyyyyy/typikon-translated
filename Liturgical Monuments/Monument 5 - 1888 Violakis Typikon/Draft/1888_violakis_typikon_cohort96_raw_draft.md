@@ -4,8 +4,8 @@
 
 ## Πίναξ τοῦ Ἑορτοδρομίου: Ὁδηγίαι [Violakis, p. 936]
 
-### ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ
-### Ἴδε τὰς Ἀκολούθους Σελίδας
+**ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ**
+**Ἴδε τὰς Ἀκολούθους Σελίδας**
 
     Σημείωσις· Ἡ πρώτη ἡμερομηνία εἰς τὰς δύο πρώτας στήλας εἶναι τοῦ Ἰουλιανοῦ Ἡμερολογίου [ΙΗ]. Ἡ ἡμερομηνία ἐντὸς παρενθέσεων εἶναι ἡ Ἰουλιανὴ ἡμερομηνία ἐφηρμοσμένη εἰς τὴν ἀκριβῆ ἀντίστοιχόν της ἡμερομηνίαν εἰς τὸ Γρηγοριανὸν Ἡμερολόγιον [ΓΗ], ἤτοι 13 ἡμέρας ἀργότερον.
 
@@ -19,8 +19,8 @@
 
 ## Chart of the Feasts: Explanatory Guidelines [Violakis, p. 937]
 
-### CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)
-### See the Following Pages
+**CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)**
+**See the Following Pages**
 
     Note: The first date in each of the first two columns is that of the Julian Calendar [JC]. The date in parentheses appearing next to it is the Julian date adjusted to its exact counterpart in the Gregorian Calendar [GC], that is, 13 days later in each instance.
 
@@ -37,7 +37,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 11, 17, 18 Ἰανουαρίου [Violakis, p. 938]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -63,7 +63,7 @@
 
 ## The Chart of the Feasts: 11, 17, 18 January (Part 1) [Violakis, p. 939]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ*)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ*)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -92,7 +92,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 18, 20, 25 Ἰανουαρίου (Μέρος Α΄) [Violakis, p. 940]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -130,7 +130,7 @@
 
 ## The Chart of the Feasts: 18, 20, 25 January (Part 1) [Violakis, p. 941]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -168,7 +168,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25, 27 Ἰανουαρίου [Violakis, p. 942]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -209,7 +209,7 @@
 
 ## The Chart of the Feasts: 25, 27 January (Part 1) [Violakis, p. 943]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -250,7 +250,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 27, 30 Ἰανουαρίου (Μέρος Α΄) [Violakis, p. 944]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -282,7 +282,7 @@
 
 ## The Chart of the Feasts: 27, 30 January (Part 1) [Violakis, p. 945]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |

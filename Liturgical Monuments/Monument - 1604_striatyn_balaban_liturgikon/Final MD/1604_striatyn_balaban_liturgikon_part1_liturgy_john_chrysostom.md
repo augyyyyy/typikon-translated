@@ -1353,7 +1353,7 @@ Let not the communion of Thy holy mysteries, O Lord, be unto me for judgment or 
 [^46]: The liturgical spoon (*ложница* / *ложка* / *cochlear*) is placed upon the Holy Table until the communion of the faithful.
 [^47]: Psalm 132:2 (LXX) [Masoretic Ps 133:2], vesting prayer for the priestly stole (epitrachelion).
 [^48]: Psalm 17:33–34 (LXX) [Masoretic Ps 18:32–33], vesting prayer for the zone (belt).
-[^49]: *Ащели же буде архимандритъ служай: пріемъ упогонатъ, сирѣчь, набедрникъ...* This rubric explicitly equates the Greek *epigonation* (*ὑпоγονάτιον*) with the Ruthenian *nabedrennik* (*набедренникъ*), awarded to archimandrites as a symbol of spiritual warfare.
+[^49]: *Ащели же буде архимандритъ служай: пріемъ упогонатъ, сирѣчь, набедрникъ...* This rubric explicitly equates the Greek *epigonation* (*ὑπογονάτιον*) with the Ruthenian *nabedrennik* (*набедренникъ*), awarded to archimandrites as a symbol of spiritual warfare.
 [^50]: Psalm 44:4–5 (LXX) [Masoretic Ps 45:3–4]. Banned slop "wondrously" is strictly avoided; "marvelously" is used for Church Slavonic *дивно*.
 [^51]: Psalm 131:9 (LXX) [Masoretic Ps 132:9], vesting prayer for the chasuble (phelonion).
 [^52]: Psalm 25:6–8 (LXX) [Masoretic Ps 26:6–8], recited by the priest at the lavabo prior to entering upon the Proskomedia. Banned pseudo-archaic slop "marvelous" is strictly translated as "marvelous" (*чудеса*).
@@ -1422,14 +1422,14 @@ Let not the communion of Thy holy mysteries, O Lord, be unto me for judgment or 
 [^115]: The prayer of the Aer, combining petitions adapted from Psalm 16:8 and 60:5 (LXX): *Покры́й на́съ кро́вомъ кри́лꙋ твое́ю...*
 [^116]: The celebrants fold their hands crosswise over their breasts (*съгнꙋ́вше своѧ̀ рꙋ́цѣ своѝ*) and make three reverent metanias before the Table of Oblation.
 [^117]: The doxological exclamation *Бл҃женъ [бл҃гослове́нъ] б҃гъ [на́шъ], и҆́же си́це и҆зволи́вый...*; the lower margin of Fol. 24v exhibits physical ink abrasion and mend, completed by the text on Fol. 25r.
-[^118]: The ancient Byzantine Prayer of the Prothesis (*Моли́тва предложе́нїю* / *Εὐχὴ τῆς Προθέсеως*), attributed to Saint John Chrysostom: *Б҃же на́шъ, и҆́же небе́сный хлѣ́бъ...*
+[^118]: The ancient Byzantine Prayer of the Prothesis (*Моли́тва предложе́нїю* / *Εὐχὴ τῆς Προθέσεως*), attributed to Saint John Chrysostom: *Б҃же на́шъ, и҆́же небе́сный хлѣ́бъ...*
 [^119]: The triple censing of the Prothesis by the priest and the delivery of the censer unto the deacon, concluding with the minor dismissal (*ма́лый ѿпꙋ́стъ*).
 [^120]: Rubrical directive providing alternative dismissal incipits: the Sunday resurrectional formula (*Въскре́сый из̾ ме́ртвыхъ...*), the feast-day proper, or the weekday form.
 [^121]: Dismissal formulas explicitly distinguishing the Liturgy of Saint John Chrysostom from that of Saint Basil the Great.
 [^122]: The deacon's preliminary censing of the Table of Oblation, followed by the crosswise censing of the Holy Table (*ст҃а́я трапе́за*) and the entire sanctuary prior to the opening of the Liturgy.
 [^123]: The Paschal troparion *Въ гро́бѣ пло́тски...*, confessing Christ's simultaneous bodily presence in the tomb, divine descent into Hades, entrance into Paradise with the good thief, and eternal co-enthronement with the Father and the Spirit.
 [^124]: The deacon recites Psalm 50 [LXX 50 / MT 51] while performing the general censing of the entire nave and temple, returning to the sanctuary to cense the Holy Table and the priest before laying aside the censer.
-[^125]: The invocation of the Holy Spirit (*Царю́ Небе́сный* / *Βασιлеῦ Οὐράνιε*), prayed jointly by priest and deacon before the Holy Table.
+[^125]: The invocation of the Holy Spirit (*Царю́ Небе́сный* / *Βασιλεῦ Οὐράνιε*), prayed jointly by priest and deacon before the Holy Table.
 [^126]: Luke 2:14, the Angelic Doxology (*Сла́ва въ вы́шнихъ Бо́гу...*), recited twice with metanias.
 [^127]: Psalm 50:17 [LXX 50:17 / MT 51:15]: *Го́споди, оу҆стнѣ́ моѝ ѿве́рзеши...*, recited once by the celebrants prior to venerating the Gospel and Holy Table.
 [^128]: The ceremonial dialogue (*Кайро́съ* / *Kairos*) between priest and deacon immediately preceding the beginning of the Liturgy. The deacon bows and elevates the orarion with the first three fingers of his right hand.

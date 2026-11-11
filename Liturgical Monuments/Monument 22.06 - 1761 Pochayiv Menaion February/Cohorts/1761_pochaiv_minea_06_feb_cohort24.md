@@ -121,10 +121,10 @@ Having first received by fasting, and divinely wise having later pleased the Cre
 
 Exposing those who senselessly rejected the incarnation of the Word, O venerable one, thou didst finish thy course with wounded tortures and all manner of afflictions, with bonds and imprisonment, establishing the truth; therefore thou didst become an heir of the kingdom of Christ, and of ineffable joy, and of ever-existing radiance.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 As thou hast unfailing prayer and enduring supplication unto God, O most pure one, put tribulations to sleep, calm the waves of my wretched soul, and comfort my heart that is in affliction, O Maiden, I pray thee, and enlighten my mind with grace, that I may worthily glorify thee.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 Seeing Thee, the Lamb and Shepherd, upon the Tree, the ewe-lamb that bore Thee lamented and maternally spoke to...
 
 === LEAF p235 ===
@@ -275,10 +275,10 @@ Thou didst unswervingly accomplish the course of temperance, and didst keep the 
 
 Every voluptuousness, enslaving thy body, thou didst cast away, O divinely wise one, making bitter the sense by the pains of temperance, and by harsh dwelling[^517] and endurance of temptations, and patient waiting through afflictions, through which thou receivest unending delight, and uninterrupted sweetness, and ineffable joy.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Bent down by the assaults of demons, and cast into the pit of destruction, take compassion, O Sovereign Lady, and establish me upon the rock of virtues; and having destroyed the snares of the enemy, vouchsafe me to do the commandments of thy Son and our God, that I may obtain remission on the day of judgment.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 Seeing Christ the Lover of mankind crucified, O most pure one, and His side pierced with a spear, weeping she cried aloud: What is this, O my Son? What have the ungrateful people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O Compassionate One, at Thy voluntary crucifixion.
 
 *Troparion, Tone 1:*

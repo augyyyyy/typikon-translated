@@ -20,13 +20,13 @@ Who is so great a god as our God? Thou art the God Who doest wonders (Ps. 76:14)
 *Who is so great a god as our God... And the rest unto the end.*
 
 *To the Most Holy Mystery of the Eucharist.*
-*At the Aposticha, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆vфра́ѳовъ):*
+*At the Aposticha, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 At the Mystical Supper, Christ God gave unto the Apostles His Divine Flesh to eat, unto the healing of souls and bodies.
 *Stichos: Thou hast prepared a table before me in the presence of them that afflict me (Ps. 22:5).*
 Draw near, all ye people, not unto Mount Sinai, but unto the Most High God hidden in these Mysteries, unto Christ our God.
 *Stichos: The Lord feeds me, and I shall want nothing (Ps. 22:1).*
 Christ is given for food unto all sinners, making bread His Body, and divinely transforming wine into His Blood.
-*Glory... Tone and Podoben the same:*
+*Glory... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 We praise Thee, O Christ our good Savior, Who didst pour out Thy Blood for the salvation of mankind.
 *Now and ever... The same:*
 O Virgin Birthgiver of God Mary, beseech Christ Who was born of thee, that He make us worthy to be partakers.
@@ -89,7 +89,7 @@ David the forefather of God accompanied the Ark from the house of Obed-edom into
 The Lord fed His disciples with heavenly food; before His Passion He gave them the bread of angels, surpassing the marvelous manna: Your fathers, said the Lord, ate manna in the wilderness, and died; this is the Bread coming down from Heaven, that if any man eat of it, he shall not die, but shall live unto ages: of Which do Thou account us also now worthy to partake, through the prayers of Thy Mother of God.
 *Glory... Now and ever... Tone 3:*
 O marvelous wisdom! O ineffable mercy of God toward us! How God not only became man for our sake, and hid His Godhead in humanity, but even hid Himself in bread, and gave Himself unto men for food: glory to Thy Divine tender compassion!
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆vфра́ѳовъ):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 Isaac blessed Jacob, saying: God give thee of the dew of heaven, and of the fatness of the earth, abundance of corn and wine (Gen. 27:28); for this was a mystery of the Body and Blood of the Lord, and was forenamed.
 *Stichos: The Lord feeds me, and I shall want nothing (Ps. 22:1).*
 Esau asked not the blessing of his father: Is there not a blessing left for me also, O my father? With corn and wine have I sustained him, [continues to next leaf]
@@ -125,7 +125,7 @@ Come, all ye works of the Lord, sing praise with us unto the Lord Who is here wo
 
 [continued from preceding leaf] the end, God loved the world and mankind: for whose sake He emptied Himself, taking the form of a servant; and in these Mysteries He hid not only His Godhead, but also His humanity, where He is seen as bread, yet we believe Him to be God: Whom worshiping with fear and trembling, we confess that He is the Christ, the Son of the Living God, and the Savior of our souls.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆vфра́ѳовъ):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 O House of David, sing a psalm of praise; for behold the Ark of the Most High, wherein Christ the God of Israel is contained, Who contains all things.
 *Stichos: The Lord hath sent redemption unto His people (Ps. 110:9).*
 He Who gave manna in the wilderness as food unto His people: the Same today is seen covered with Bread, and is given for food unto the faithful, saving our souls.
@@ -144,7 +144,7 @@ Let us cleanse our heart and conscience, drawing near not unto Mount Sinai, but 
 Before Whom the Angelic Powers tremble, and the Heavenly Hosts are astonished: before Him let us fall down and worship, and with compunction cry aloud: Make us worthy, O Lord, to partake worthily of Thy Flesh and Blood.
 *Glory... Now and ever... Tone 6: "David the forefather of God danced with joy before the Ark..." (see fol. 5)[^24].*
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆vфра́ѳовъ):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 This is the Living Bread, That came down from Heaven, Which hath fed the faithful with His Divine Flesh, and grants eternal life.
 *Stichos: Merciful and gracious is the Lord, He hath given food unto them that fear Him (Ps. 110:4–5).*
 Come, ye faithful, let us fall down before Christ God Who is upon the Altar, bowing down unto the Savior of our souls.
@@ -154,7 +154,7 @@ Behold the manna of the Flesh of Christ; and receive with fear the Divine Bread 
 This Lamb of God That takes away the sins of the world, giving Himself for food unto men, is seen festively upon the Altar, hymned by angels and worshiped by men: Who shall come to judge the living and the dead, and to render unto every man according to his works; before Whom we also bow down with compunction, as God and our Creator.
 
 *ON WEDNESDAY AT MATINS: AT THE APOSTICHA*
-*Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆vфра́ѳовъ):*
+*Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 My Flesh is meat indeed, and My Blood is drink indeed, said the Lord: he that eats My Flesh and drinks My Blood abides in Me, and I in him.
 *Stichos: And He rained down manna upon them to eat, and gave them the bread of heaven (Ps. 77:24).*
 This is the Lamb of God That takes away sins, Who suffered on the Cross, and gave His Flesh for food; before Him as God let us bow down. [continues to next leaf]
@@ -219,7 +219,7 @@ With the Virgin Disciple, the Virgin Mother standing by the Cross, beholding Him
 *After the 1st Kathisma, Sessional Hymn, Tone 8, Podoben: "That which was mystically commanded" (Повелѣ́нное та́йно):*
 O ineffable goodness! He Who became incarnate of thee, O all-hymned Birthgiver of God, having endured the Cross and death as the Lover of mankind, that He might save the world which He created: beseech Him also for me the wretched one, that He deliver me from manifold painful torments, and settle me where the never-setting Light shines.
 *Glory... Now and ever... The same.*
-*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben the same:*
+*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 What sight is this which is visible unto mine eyes, O Master! Who upholdest all creation, Thou wast lifted up upon the Tree, and diest, giving life unto all, cried the Birthgiver of God, weeping when she saw Him lifted up upon the Cross, God and man Who ineffably shone forth from her. *(Twice)*
 *Then the Megalynarion:*
 We magnify thee, O all-immaculate Virgin, Mother of Christ our God, and we honor thy most venerable sorrows, which thou didst endure in the passion of thy Son.

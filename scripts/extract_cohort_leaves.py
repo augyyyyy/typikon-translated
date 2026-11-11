@@ -36,6 +36,10 @@ except ImportError:
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 from orchestrator_state import STATE_FILE, load_state, resolve_monument_id
 
@@ -172,6 +176,13 @@ def extract_leaves(
             pass
 
     if vault_jpg_dir and not is_junc:
+        if images_dir.exists() and images_dir.is_dir():
+            existing_imgs = list(images_dir.glob("*.jpg")) + list(images_dir.glob("*.png"))
+            if not existing_imgs:
+                try:
+                    images_dir.rmdir()
+                except OSError:
+                    pass
         if not images_dir.exists():
             images_dir.parent.mkdir(parents=True, exist_ok=True)
             try:

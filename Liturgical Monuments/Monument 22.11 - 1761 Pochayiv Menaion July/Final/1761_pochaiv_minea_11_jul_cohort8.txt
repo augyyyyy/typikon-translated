@@ -159,7 +159,7 @@ Clothed today with thy strength, O martyr of Christ, the Church rejoices, and wo
 *Glory... Tone 4:*
 Adorned with the purple robe of the blood of thy martyrdom, the Church of God sends forth solar rays, O much-suffering Procopius; for arming thyself with the Cross, and desiring with valiant mind to die for Christ, thou didst stand against the host of the alien; and having put to shame the plots of the lawless, thou wast revealed as a victorious warrior of Christ. Therefore we beseech thee, as thou hast boldness toward Him, O adornment of martyrs: pray that our souls may be saved!
 
-*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кw до́блѧ):*
+*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 Beholding Christ, the Lover of mankind, crucified, and His side pierced with a spear, the all-pure one weeping cried aloud: What is this, O my Son? What have the thankless people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O Tenderhearted One, at Thy voluntary crucifixion!
 
 === LEAF p76 ===

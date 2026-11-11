@@ -176,6 +176,26 @@
         "max_leaf": 110
       },
       "anomalies": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "PASSED",
+      "passed": true,
+      "transcript_found": true,
+      "conversation_id": "805c39a3-0069-4a19-8059-3ecfbe5ae2d1",
+      "expected_leaves_count": 10,
+      "viewed_leaves": [],
+      "unviewed_leaves": [],
+      "view_timestamps": {},
+      "total_tool_calls": 108,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
     }
   },
   "argon_review_queue": {

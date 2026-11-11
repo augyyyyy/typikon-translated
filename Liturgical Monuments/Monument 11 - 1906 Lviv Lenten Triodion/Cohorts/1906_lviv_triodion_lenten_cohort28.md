@@ -139,7 +139,7 @@ Thus will I bless Thee in my life.
 *Tone 8, Podoben: "What shall we call you" (Что́ ва́съ нарече́мъ):*[^735]
 Passing today through the middle days of self-control by the power of the Cross, we glorify Christ our Savior and God Who was lifted up upon it in the midst of the earth, crying aloud: Show us to be beholders of Thy Passions, O Master, and of Thy venerable Resurrection, granting us cleansing and great mercy!
 
-*Podoben:*
+*Podoben (Подо́бенъ):*
 Let us humble the passions of the flesh by laying aside food and turning away from pleasures, and let us faithfully embrace the wood of the Cross; for it is seen manifestly set forth for veneration, and it sanctifies all things with divine grace; and let us cry aloud unto the Lord: We thank Thee, O Tenderhearted One, Who by this dost save our souls!
 
 *Another, in the same tone, to the Theotokos:*
@@ -182,7 +182,7 @@ I flee unto thy protection, O holy Virgin Theotokos; I know that through thee I 
 *Tone 8, Podoben: "An unshakable foundation" (Непоколеби́мое ᲂу҆твержде́нїе):*[^741]
 Having enlightened our souls by self-control, let us bow down in worship before the saving Cross upon which Christ was nailed, and let us cry aloud unto Him: Rejoice, sweetness of them that fast, and sure helper; rejoice, destroyer of passions, fellow-warrior of the faithful; rejoice, blessed Wood!
 
-*Theotokion, Podoben:*
+*Theotokion, Podoben (Подо́бенъ):*
 As an unshakable foundation of the faith and an honorable gift unto our souls, we faithful magnify the Theotokos in hymns: Rejoice, thou who in thy womb didst contain the Rock of Life; rejoice, hope of the ends of the earth, helper of the afflicted; rejoice, Bride unwedded!
 
 *After the third stichology, Sessional Hymn, in the same tone.*  

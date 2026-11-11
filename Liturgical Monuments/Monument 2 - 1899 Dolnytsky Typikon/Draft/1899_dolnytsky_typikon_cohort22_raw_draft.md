@@ -14,17 +14,17 @@ and thus **"To thee, the Champion Leader"** (*Взбра́нной*). At the 9th
 5. At the Praises, 4 Stichera, all of the Feast; and **"Glory... Both now..."**, of the Feast.
 6. After the Great Doxology, the Troparion of the Feast.
 
-#### At the Hours and at the Liturgy
+**At the Hours and at the Liturgy**
 All of the Feast alone; only the Epistle and Gospel first of the day, then of the Feast.
 
-### Fifth Sunday of the Great Fast
+**Fifth Sunday of the Great Fast**
 All according to the Typikon of the 4th Sunday, here on p. 405.
 
-### Monday, Tuesday, Wednesday, Thursday, and Friday of the Sixth Week of Fast
+**Monday, Tuesday, Wednesday, Thursday, and Friday of the Sixth Week of Fast**
 All according to the general fasting Typikon of the preceding weeks.
 
 ## Flowery Triodion
-### Disposition of the Synod of Lviv to Pastors of Souls Concerning Church Divine Services from Lazarus Saturday until Bright Tuesday Inclusive
+**Disposition of the Synod of Lviv to Pastors of Souls Concerning Church Divine Services from Lazarus Saturday until Bright Tuesday Inclusive**
 1. On the Saturday before Palm Sunday, called Lazarus [Saturday], they are to celebrate the Liturgy in church.
 
 ---
@@ -52,7 +52,7 @@ All according to the general fasting Typikon of the preceding weeks.
 *Note.*
 From this Saturday even unto Thomas Sunday inclusive, only the Triodion is sung; the Menaion [is used] only if the Annunciation occurs, and from Bright Monday even unto Thomas Sunday inclusive if a Saint with Vigil or Polyeleos occurs; while for Saints without Polyeleos of these 16 days, their Canons have been prescribed to be sung in advance at Complines, beginning from Monday of the 2nd Week of the Great Fast, as was indicated here on p. 403.
 
-### Sixth Saturday of the Great Fast: Lazarus [Saturday]
+**Sixth Saturday of the Great Fast: Lazarus [Saturday]**
 *Note.*
 The Service of this Feast is of the lesser rank, and only at Matins from the Canon downwards is it of the greater rank; yet even before the Canon it has certain elements of the Resurrection Service; namely, after the 2nd Kathisma, that is,
 
@@ -62,24 +62,24 @@ The Service of this Feast is of the lesser rank, and only at Matins from the Can
 
 after the Evlogitaria (*Neporóchni*), it has **"The angelic assembly"** (*А҆́нгельскїй собо́ръ*), and after the 2nd Sessional Hymn **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Хрїсто́во ви́дѣвше*), and before the Exaposteilarion: **"Holy is the Lord our God"** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ*) thrice.
 
-#### Typikon
-##### On Friday Evening
-###### At Vespers with the Presanctified
+**Typikon** <a id="typikon"></a>
+**On Friday Evening**
+**At Vespers with the Presanctified**
 1. Kathisma in course.
 2. At **"Lord, I have cried"** (*Господи воззвахъ*), Stichera for 10: Idiomelon of the day twice, and Martyr-sticheron 1, then of the Feast 7; **"Glory... Both now..."**, of the Feast.
 3. After **"O Gladsome Light"** (*Свѣ́те ти́хїй*), the Prokeimenon of the Triodion, and one Reading of the Triodion, then the 2nd Prokeimenon, and the 2nd Reading of the Triodion, and the rest of the Presanctified.
 
-##### At Little Compline
+**At Little Compline**
 We sing the Canon of Lazarus in the Triodion, and after the Canon, instead of **"It is truly right"** (*Досто́йно*), the Heirmos of the 9th Ode of the Canon. After the Trisagion, the Kontakion of the Feast alone.[^564]
 
-##### At Midnight Office
+**At Midnight Office**
 After the 1st Trisagion, instead of the Troparia **"Uncreated nature"** (*Несозда́нное естество̀*), we say the Troparion of Lazarus; after the 2nd Trisagion, instead of the Troparia **"Remember, O Lord"** (*Помянѝ, Го́споди*), the Kontakion of Lazarus; but the prayer **"Remember, O Lord"** (*Помянѝ, Го́споди*) we do not say.
 
 ---
 
 === LEAF p426 ===
 
-#### At Matins
+**At Matins**
 1. At **"The Lord is God"** (*Бо́гъ Госпо́дь*), the Troparion of the Feast twice; **"Glory... Both now..."**, the same.
 2. After the 1st and after the 2nd Psalter Stichologia, the Sessional Hymn of the Feast; however, after the 2nd Stichologia, before the Sessional Hymn, we sing **"The angelic assembly"** (*А҆́нгельскїй собо́ръ*), without change, just as on Sunday; and after the Sessional Hymn, **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Хрїсто́во ви́дѣвше*), and Psalm 50, and immediately the Canon.
 3. Canons of the Feast, 2: the 1st with the Heirmos for 8, and the 2nd for 6; from the 6th Ode, however, the Four-Ode Canon [Tetraodion], the Heirmos twice, and the Troparia for 6, then the other Canon for 6. Katavasia after each Ode: the Heirmos of the 2nd Canon. As the refrain to the Troparia we say: **"Glory to Thee, our God, glory to Thee"** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*).[^565] After the 3rd Ode, the Sessional Hymn, and after the 6th, the Kontakion and Ikos of the Feast; at the 9th we do not sing **"More honorable"** (*Честнѣ́йшꙋю*); after the 9th we do not say **"It is truly right"** (*Досто́йно*) even unto Thomas Sunday; after the 9th, the Exaposteilarion of the Feast, yet before the Exaposteilarion we sing **"Holy is the Lord our God"** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ*) thrice.
@@ -87,20 +87,20 @@ After the 1st Trisagion, instead of the Troparia **"Uncreated nature"** (*Нес
 5. After the Great Doxology, the Troparion of the Feast alone.
 6. The proper Dismissal.
 
-#### At the Hours and at the Liturgy
+**At the Hours and at the Liturgy**
 All of the Feast alone; and at the Liturgy, instead of the Trisagion, we sing **"All who have been baptized"** (*Є҆ли́цы во Хрїста̀ крести́стеся*).
 
 ---
 
 === LEAF p427 ===
 
-### Palm Sunday[^566]
+**Palm Sunday[^566]**
 All according to the general Typikon of a Master Feast with Vigil, without Afterfeast. It has all its proper texts, and at the Liturgy Antiphons and the Introit (*Vhódnoje*). However, before the Troparion of Palm Sunday, we sing yesterday's Troparion of Lazarus; only after the Great Doxology do we sing the Troparion of Lazarus alone.
 
-#### At Great Vespers
+**At Great Vespers**
 At **"Lord, I have cried"** (*Господи воззвахъ*), Stichera for 10; and at the Blessing of Loaves, the Troparion of Lazarus twice, and of Palm Sunday once.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"The Lord is God"** (*Бо́гъ Госпо́дь*), the Troparion of Lazarus twice; **"Glory... Both now..."**, of Palm Sunday.
 2. The blessing and distribution of branches according to the Typikon takes place immediately after Psalm 50, at the kissing of the Gospel; according to our custom, the blessing is after Psalm 50, but the distribution during the anointing with oil (*myrovánnya*), that is, during the Canon. It takes place in this manner:
 When the Priest has read the Gospel, he places it upon the Analogion near the Tetrapod, between two burning candlesticks,
@@ -116,19 +116,19 @@ After the 9th Ode: "We do not say the Exaposteilarion, but immediately **'Holy i
 
 === LEAF p429 ===
 
-#### At the Liturgy
+**At the Liturgy**
 After the Introit: Troparion of Lazarus; **"Glory..."**, of Palm Sunday; **"Both now..."**, Kontakion of Palm Sunday; and we sing the Trisagion.
 
-### Fast for the Entire Holy Week
+**Fast for the Entire Holy Week**
 On Monday, Wednesday, and Friday the Synod of Lviv prescribes xerophagy (*sukhojastije*); on Tuesday, Thursday, and Saturday it permits cooked food (*navil*). (*Title XI, Part 4*).
 
-### Great Monday, Great Tuesday, and Great Wednesday[^570]
+**Great Monday, Great Tuesday, and Great Wednesday[^570]**
 *Note.*
 1. The sacred vestments for these days and for the entire Holy Week must be violet, beginning from Palm Sunday evening.
 2. All these three days have one and the same form of divine service, which is penitential/fasting, as in the Forty Days, with only certain exceptions, as follows:
 
-#### At Vespers
-##### a) On Palm Sunday Evening
+**At Vespers**
+**a) On Palm Sunday Evening**
 1. At **"Lord, I have cried"** (*Господи воззвахъ*), Stichera of the Triodion for 6; **"Glory... Both now..."**, of the Triodion.
 2. Entrance; Prokeimenon of the day: **"Behold now, bless the Lord"** (*Сѐ ны́нѣ благослови́те Го́спода*), and immediately **"Vouchsafe, O Lord"** (*Сподо́би, Го́споди*).
 
@@ -140,8 +140,8 @@ On Monday, Wednesday, and Friday the Synod of Lviv prescribes xerophagy (*sukhoj
 4. After **"Now You dismiss"** (*Ны́нѣ ѿпꙋща́еши*) with the Trisagion, the Troparion **"Rejoice, O Virgin Theotokos"** (*Богоро́дице Дѣ́во*), and all the rest with prostrations, as on the past Sundays of the Holy Forty Days.
 5. The proper Dismissal, likewise also on Monday, Tuesday, Wednesday, and Thursday until the end of the Hours: **"May He Who comes to His voluntary Passion..."** (*Прише́дый на стра́сть во́льнꙋю...*).[^571]
 
-##### b) On Monday, Tuesday, and Wednesday Evening
-###### At Vespers with the Presanctified
+**b) On Monday, Tuesday, and Wednesday Evening**
+**At Vespers with the Presanctified**
 1. At **"Lord, I have cried"** (*Господи воззвахъ*), 10 Stichera, all of the Triodion; **"Glory... Both now..."**, of the Triodion.
 2. Entrance with the Gospel, and after **"O Gladsome Light"** (*Свѣ́те ти́хїй*), two Prokeimena of the Triodion, each with its Reading.
 3. After **"Let my prayer arise"** (*Да и҆спра́витсѧ*), the Priest: **"And that we may be accounted worthy..."** (*И҆ ѡ҆ є҆́же сподо́битися на́мъ*), etc., and he reads the Gospel from Matthew, peric. 98, and the rest of the Presanctified, with the Dismissal: **"May He Who comes to His voluntary Passion..."** (*Прише́дый на стра́сть во́льнꙋю*).
@@ -152,15 +152,15 @@ On Monday, Wednesday, and Friday the Synod of Lviv prescribes xerophagy (*sukhoj
 
 === LEAF p431 ===
 
-#### At Compline
+**At Compline**
 On Sunday evening we sing Little Compline, according to the Typikon of the other Sundays of the Great Forty Days, and on it the Three-Ode Canon [Triodion] of the Triodion, and after the Trisagion the Kontakion of the Triodion alone.
 On Monday and Tuesday evening we sing Great Compline with prostrations according to the fasting Typikon, and on it likewise the Three-Ode Canon of the Triodion, and after the Trisagion the Kontakion of the Triodion, then **"The Lord of hosts be with us"** (*Го́споди си́лъ съ на́ми бꙋ́ди*).[^572]
 On Wednesday evening we sing Little Compline,[^573] and on it likewise the Three-Ode Canon of the Triodion, and after the Trisagion the Kontakion of the Triodion alone.
 
-#### At Midnight Office
+**At Midnight Office**
 Nothing special.
 
-#### At Matins
+**At Matins**
 1. At the Alleluia, instead of the Trinity Troparia, we sing the Troparion **"Behold, the Bridegroom comes"** (*Се́ Жени́хъ грѧде́тъ*) twice; **"Glory... Both now..."**, the same.
 
 ---
@@ -171,7 +171,7 @@ Nothing special.
 3. Only one Canon: a Three-Ode Canon on Monday and Wednesday, or a Two-Ode Canon on Tuesday; Troparia for 12, Heirmoi twice. We do not say the Biblical Odes, but the refrain to the Troparia of the Canon: **"Glory to Thee, our God, glory to Thee"** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*);[^576] then the Katavasia: the Heirmos of the Canon once, both Choirs together. Before the Kontakion and Ikos the Priest says the Little Ektenia; at the 9th Ode we do not sing **"More honorable"** (*Честнѣ́йшꙋю*), nor **"It is truly right"** (*Досто́йно*) after the Canon, but after the Katavasia immediately the Little Ektenia, and the Exaposteilarion **"Thy bridal chamber"** (*Черто́гъ тво́й*) twice, then **"Glory... Both now..."**, the same a third time.
 4. At the Praises, 4 Stichera of the Triodion; **"Glory... Both now..."**, of the Triodion; and the Little Doxology, and after the Ektenia **"Let us complete"** (*И҆спо́лнимъ*), the Aposticha of the Triodion, and all the rest with prostrations, as on the fasting days of the Holy Forty Days.
 
-#### At the Hours
+**At the Hours**
 All according to the general fasting Typikon of the Great Forty Days; however:
 1. At the 1st and 9th Hour there is no Kathisma, but only at the 3rd and 6th.
 2. Directly after the Theotokion **"Theotokos, thou art the true vine"** (*Богоро́дице, ты̀ е҆сѝ лоза̀*) at the 3rd Hour, and after the corresponding Theotokia at the other
@@ -190,11 +190,11 @@ The Priest, at the beginning of each Reading, vested in a phelonion of fasting c
 the people, having upon it two burning candlesticks, reads from there the Gospel, beginning from **"And that we may be accounted worthy..."** (*И҆ ѡ҆ є҆́же сподо́битися на́мъ*). Upon completing each Reading, having kissed the beginning of the reading and left the Gospel on the Analogion until the completion of the 3rd Reading, he returns to the Sanctuary, and having closed the Holy Doors, divests himself of the phelonion.[^578]
 3. After the Trisagion, the Kontakion of the Triodion.
 
-#### At the Typika (Obidnytsia)
+**At the Typika (Obidnytsia)**
 1. The Kontakion of the Triodion alone.
 2. In the Slavic Typika and in the Greek Typikon of Sabbas, on Great Wednesday, instead of the Dismissal, the prayer **"O Master, Great in Mercy"** (*Влады́ко многоми́лостиве*), which is at Vespers with Vigil, is appointed; in the Slavic ones, moreover, also the Mutual Forgiveness for sins committed during the Forty Days, and commemorations. However, these are superfluous additions of the Graeco-Slavs, unknown to the Greeks; scarcely may the prayer **"O Master, Great in Mercy"** be retained, and the Mutual Forgiveness in monasteries; the commemorations here are superfluous, for they will be taken later at the conclusion of Compline and Midnight Office, having no connection with the forgiveness of the sins of the Forty Days.
 
-#### On Wednesday at Vespers with the Presanctified, at Compline, and at Midnight Office
+**On Wednesday at Vespers with the Presanctified, at Compline, and at Midnight Office**
 All according to the Typikon of Monday and Tuesday, here on p. 573 [428]; only on Wednesday after the dismissal of the Liturgy of the Presanctified
 
 ---
@@ -203,8 +203,8 @@ All according to the Typikon of Monday and Tuesday, here on p. 573 [428]; only o
 
 Presanctified, "the prostrations made in church cease, but in cells they are performed even until the bell for Matins of Christ's Bright Resurrection."[^579] We, however, even until the Resurrection of Christ make 3 great prostrations in church at the end of the divine service, singing the stichon **"Thou Who hast suffered..."** (*Претерпѣ́вый за на́съ*), and at the veneration of the Plashchanytsia, singing **"The noble Joseph"** (*Благообра́зный І҆ѡ́сифъ*).
 
-### Great Thursday[^580]
-#### At Matins
+**Great Thursday[^580]**
+**At Matins**
 1. **"Blessed is our God..."** (*Благослове́нъ Бо́гъ на́шъ*). **"Glory to Thee, our God, glory to Thee"** (*Сла́ва Тебѣ̀, Бо́же на́шъ, сла́ва Тебѣ̀*). **"Heavenly King"** (*Царю̀ небе́сный*) and the rest as usual, with the Two Psalms and the Six Psalms, even unto the end of the Ektenia **"In peace let us pray to the Lord"** (*Ми́ромъ Го́споду помоли́мся*).
 2. Instead of **"The Lord is God"** (*Бо́гъ Госпо́дь*), we sing Alleluia in Tone 8, that is, in the Tone of the following Troparion; but since this Troparion has a special melody in the Heirmologion, for this reason we sing Alleluia also according to the model of this melody.
 3. Troparion: **"When the glorious disciples"** (*Є҆гда̀ сла́внїи оу҆чени́цы*) twice; **"Glory... Both now..."**, the same again.
@@ -219,7 +219,7 @@ Presanctified, "the prostrations made in church cease, but in cells they are per
 7. **"It is good to give praise"** (*Бла́го е҆́сть*) once, Trisagion with the **"Our Father"**, and the Troparion **"When the glorious disciples"** (*Є҆гда̀ сла́внїи оу҆чени́цы*), without a Theotokion.
 8. Priest: **"Wisdom!"** (*Премꙋ́дрость!*) Choir: **"Bless!"** (*Благословѝ!*) Priest: **"Blessed is He Who is..."** (*Сы́й благослове́нъ... и҆ во вѣ́ки вѣкѡ́въ*). Choir: "Amen," and the 1st Hour.
 
-#### At the Hours
+**At the Hours**
 1. At all [Hours], the Troparion and Kontakion of Great Thursday; however, at the 1st Hour, after the Theotokion **"What shall we call thee..."** (*Что́ тѧ нарече́мъ*), we say the Troparion of the Prophecy, and the Prokeimenon, and the Paremia, and another Prokeimenon.
 2. Dismissal: **"May He Who comes to His voluntary Passion..."** (*Прише́дый на стра́сть во́льнꙋю...*)[^585] we say at the 1st Hour; at the others, since they are sung joined with the Typika (Obidnytsia), we say this Dismissal at the end of the Typika; and we say all these things in our cells.
 
@@ -227,13 +227,13 @@ Presanctified, "the prostrations made in church cease, but in cells they are per
 
 === LEAF p437 ===
 
-#### At the Typika (Obidnytsia)
+**At the Typika (Obidnytsia)**
 1. It begins from the Beatitudes without Stichera. The Creed may be omitted, since it will be at the Liturgy.
 2. Instead of the usual Kontakia, we say the Kontakion of Great Thursday.
 3. After the Kontakion: **"Lord, have mercy"** 40 times, **"All-Holy Trinity..."** (*Всесвятáя Тро́йце*),[^586] and the Dismissal.
 
-#### Great Thursday Evening
-##### At Vespers with the Liturgy of Basil[^587]
+**Great Thursday Evening**
+**At Vespers with the Liturgy of Basil[^587]**
 *Note.*
 "The Priest ought on Great Thursday at the Liturgy to consecrate two Lambs, and to consume one in Communion, but to place the other in the Pyx (Ciborium), and to keep it in the Tabernacle in the usual place even unto today (unto Friday)." Thus our Sluzhebnik has it. Concerning the Lamb itself that is to be kept in the Tabernacle until the day of exposition, the Synod of Lviv commands: "that it, before consecration, be fitted to its vessel, the so-called Melchizedek, properly placed therein, and carefully wiped, so that particles might not afterwards fall from it; and that having been thus enclosed in the Melchizedek, it be consecrated at the Liturgy on one of the preceding days, and thus consecrated be kept in the Pyx even unto the exposition itself."[^588] When the Priest prepares at the Proskomide the Lamb that is to be used for the exposition, he is not to say over it the words: **"In remembrance of our Lord..."**, etc., nor perform upon it the actions that are usually performed upon
 
@@ -243,31 +243,31 @@ Presanctified, "the prostrations made in church cease, but in cells they are per
 
 the Lamb that is to be consumed at that same Liturgy, for it is deemed to be only for the Communicants; it suffices to trim it for its easier fracturing and consumption on another day.
 
-###### Typikon
+**Typikon** <a id="typikon"></a>
 1. From the beginning even unto **"Lord, I have cried"** (*Господи воззвахъ*), all according to the Typikon of the Paramony of the Nativity of Christ, here on p. 189.
 2. At **"Lord, I have cried"**, Stichera for 10.
 3. Entrance with the Gospel, and 3 Readings of the Triodion, the first two with their Prokeimena, but the third without a Prokeimenon. The Prokeimenon of the day from the Horologion is omitted.
 4. Immediately after the 3rd Reading, the Little Ektenia with the Exclamation of the Trisagion, and the Trisagion, and the Prokeimenon of the Triodion, and the Epistle and Gospel, and according to the order the Liturgy of Basil the Great.
 5. Instead of the Cherubic Hymn, likewise also after the transfer of the Holy Gifts, and instead of the Kinonikon (Communion verse), and instead of **"Let our mouths be filled"** (*Да и҆спо́лнятся*), we sing the Troparion **"Of Thy Mystical Supper"** (*Ве́чери Твоеѧ̀ та́йныѧ*). Thus the general editions; but our manuscript Typikon, our Sluzhebnyks, and the Moscow Typikon, instead of **"All of creation rejoices in thee"** (*Ѡ҆ тебѣ̀ ра́дуется*), have the Heirmos of the 9th Ode of the Canon (**"Come, O believers, let us enjoy the Master's hospitality"** / *Стра́нствїя Влады́чня*); while the Benedictine Euchologion takes **"Of Thy Mystical Supper"** only instead of **"All of creation rejoices in thee"** (in the order of the Liturgy of Basil).
 
-##### At Little Compline
+**At Little Compline**
 The Three-Ode Canon of the Triodion; and after the Trisagion, the Kontakion of Great Friday alone.
 
-##### At the Daily Midnight Office
+**At the Daily Midnight Office**
 All according to custom. — In cells.
 
 ---
 
 === LEAF p439 ===
 
-### Great Friday
-#### At Matins
-### The Order of the Holy and Saving Passions of Our Lord Jesus Christ
+**Great Friday**
+**At Matins**
+**The Order of the Holy and Saving Passions of Our Lord Jesus Christ**
 *Note.*
 1. We sing this Matins on Friday after sunset; according to the Typikon, in the 2nd hour of the night.
 2. An Analogion is set before the Royal Doors with two candlesticks facing the people, having the Gospel upon it.
 
-#### General Overview
+**General Overview**
 From the usual beginning even unto the conclusion of the chanting of the Troparion that is after the Alleluia, and from the Canon even unto the end of Matins, all things are done according to the Typikon of Matins of Great Thursday, here on p. 423 [433]; but between the Troparion and the Canon there are five Sessional Hymns, each of which has before it three Antiphons of Passion Troparia, without Kathismas and without Little Ektenias; then the Beatitudes, and the Prokeimenon, and Psalm 50. Besides this, we read the 12 Passion Gospels: 1st after the Troparion; the 5 following, after each of the 5 Sessional Hymns; the 7th [6th in the original text] after the Beatitudes; the 8th after Psalm 50; the 9th after the Exaposteilarion; the 10th after the Praises; the 11th after "Let us complete"; the 12th after the Aposticha. Upon the completion of the reading of each Gospel, among us they toll all the church bells, and after the 12th Gospel they cease tolling even unto the Resurrection; and instead of bells they use wooden clappers (*byla*); however, it is better already at the Passion Matins not to toll bells, but to strike the wooden boards or *Klepalo*, for Passion Matins is a time of mourning,
 
 ---
@@ -276,7 +276,7 @@ From the usual beginning even unto the conclusion of the chanting of the Tropari
 
 with which the joyous sound of bells does not harmonize. Likewise in Rome at Passion Matins they already use clappers (*byla*).
 
-#### Detailed Typikon
+**Detailed Typikon**
 1. From the usual beginning even unto the end of the Ektenia **"In peace let us pray to the Lord"** (*Ми́ромъ Го́споду помоли́мся*), all as at Matins on all days.[^589]
 2. Instead of **"The Lord is God"** (*Бо́гъ Госпо́дь*), we sing Alleluia in the Tone of the following Troparion.
 3. Troparion: **"When the glorious disciples"** (*Є҆гда̀ сла́внїи оу҆чени́цы*) twice; **"Glory... Both now..."**, the same again.

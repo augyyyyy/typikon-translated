@@ -1,16 +1,16 @@
 === LEAF p851 ===
 
-### The Praises [Lauds]
+**The Praises [Lauds]**
 
 The fourth and final part of Matins begins. It begins, like all services and portions thereof, with psalms. Naturally, the psalms chosen for this place are the final ones in the Psalter. In proportion unto the modest scope of this part of Matins, three were required here (cf. the Hours and Small Compline). These psalms proved to be Psalm 148, **"Praise the Lord from the heavens"**, Psalm 149, **"Sing unto the Lord a new song"**, and Psalm 150, **"Praise God in His saints"**. All of these psalms share one common theme: a summons unto the glorification of God, on which account their group is designated in the Typikon as 'The Praises' (*Ainoi* [οἱ Αἶνοι]): the first psalm invites all creation unto this, beginning with the angels; the second, Israel; the third, the temple, both heavenly and earthly. The appropriateness of these psalms here is evident: conscious of the insufficiency and unworthiness of their own praise of God, when it is already drawing toward its conclusion, the faithful transfer it unto more worthy (among others, unto the 'assembly of the saints') and unceasing performers. These are among the most joyful and ecstatic psalms, thereby forming a contrast unto the calm, contemplative, and often sorrowful initial psalms of the Psalter, on which account they likewise belong toward the end of the service, when the ever-mounting prayerful inspiration reaches its highest point. By reason of their joyous tone, the Praises psalms, alone of all the morning psalms, are not omitted even at Pascha.
 
-### History of Use
+**History of Use**
 
 Psalms 148–150 conclude the psalter portion of morning synagogal prayer [^2623]. They entered into the composition of Matins, constituting its conclusion, already under St. John Cassian (5th century), and that equally in the East and in the West (Introductory Chapter, 147). They are mentioned in the present place of Matins under their present name by the well-known description of the Sinai Vigil of the 7th century (ibid., 295); decisively all rites of Western divine worship from the most ancient times begin with them the final part of Matins, Matins in the proper sense, called after them *Laudes* (already under St. Benedict—ibid., 312–319); with them all Eastern non-Chalcedonian rites conclude Matins: the Armenian, Abyssinian, Nestorian (ibid., 299, 300, 303), and Jacobite, with the latter concluding Midnight Office with them as well [^2624].
 
 *(Orig. p. 704)*
 
-### Order of Chanting the Praises Psalms
+**Order of Chanting the Praises Psalms**
 
 === LEAF p852 ===
 
@@ -28,21 +28,21 @@ each of the stichera a verse of the psalm is chanted, but the last two verses of
 
 By the Praises psalms with their stichera, therefore, the sticheric melody of the tone is introduced once again into the Vigil, and for the first time into Matins, after the dominance in the divine service first of the troparic-kathismatic melody and then of the kanon-melody. Thereby the Vigil in musical terms returns unto its beginning (the stichera at **"Lord, I have cried"**, the aposticha, and the Litiya stichera), forming a sacred circle of eternity. Having passed through a multitude of diverse melodies of the same tone (sticheric, troparic, sessional, antiphonal, prokeimenon melody, kanon, kontakion, exapostilarion), the Vigil enters anew into the first melody of this long series, the simplest of all, and by this simplicity of its, austere and majestic, perhaps most answering unto the Christian taste of the worshippers. This return unto the sticheric melody is prompted also by the natural subsidence of prayerful ecstasy after the heightened fervor which this ecstasy attained in the kanon (**"Come, let us clap our hands"**, **"My heart hath poured forth"**). This subsidence proceeds further, through the tranquil melody of the Great Doxology, into the serene prayer of two litanies, and finally into the simple reading of the First Hour.
 
-### History of Use
+**History of Use**
 
 According unto the Studite-Alexian (and perhaps also according unto the ancient Jerusalem) Typikon, the Praises psalms had refrains after each verse, specifically the following (in parentheses are variants from the Studite Typikon of the Horologion of the St. Petersburg Sophia Library No. 1052 of the 13th century): Psalm 148 up unto and including verse 6: 'Praise is due unto Thee, O God'; from verse 7 (8): 'Give glory unto God'; verse 12 (13b): 'Unto Him (Thee) praise is due (unto God?)'; Psalm 149 from verse 1: 'Glory to Thee, Holy Father'; from verse 6 (7): 'Spare us, O Lord (Spare us)'; Psalm 150 from verse 1: 'O Son of God, have mercy on us'; at verse 3 (and 4): 'Glory to Him Who hath given (shown) the light'; from verse 4 (5): 'Glory is due unto Thee, O Lord' [^2626]. The Old Believer *Chasovnik* indicates no refrains whatsoever unto the Praises psalms [^2627]. According unto the Roman rite, Psalms 148–150 have before them the antiphon 'Alleluia' (once) and after them 'Glory be to the Father... Alleluia' (thrice), but among themselves they are not separated, in contrast unto other psalms, by 'Glory be to the Father'; according unto the Mozarabic rite, they have before them: '*Lauda*, Praise the Lord from the heavens, Alleluia (twice). Praise Him in the highest, Alleluia (twice)' and the doxology likewise only at the end of the 3rd psalm.
 
 === LEAF p854 ===
 
-### Stichera on the Praises
+**Stichera on the Praises**
 
 The stichera on the Praises (*eis tous ainous* [εἰς τοὺς αἴνους]) are not indispensable with the Praises psalms, but constitute in general an appurtenance of Matins of a semi-festal type, appearing sometimes for six-verse [*shesterik*] saints (see, for example, September 6 and 24, November 1, but October 3, January 16, 18, 19) and being absent on forefeasts, afterfeasts, and Saturdays, with certain exceptions; moreover, stichera on the Praises are permitted even at weekday Matins if it is necessary to transfer them hither from **"Lord, I have cried"** on account of insufficient space there (see the Typikon, Monday of the 1st week of the Great Fast, at Matins). The usual, normal number of stichera on the Praises is four; *(Orig. p. 706)* thus it is always, even on great feasts—Pascha, the Nativity of Christ (on Palm Sunday, six, on account of special considerations), excepting Sunday, when there are eight on account of special circumstances (see below). So few are appointed (one might say, the minimal number for antiphonal chanting: two unto each choir), perhaps in view of fatigue toward the end of the service.
 
-### History
+**History**
 
 The stichera on the Praises under the name of 'troparia' are mentioned by the well-known description of Sinai Matins of the 7th century (Introductory Chapter, 295) and in the Hypotyposis of certain recensions [^2628]. In the Studite Typikon the normal number of stichera on the Praises was considered, apparently, to be six [^2629], but the Jerusalem Typikon from the most ancient manuscripts appoints four [^2630].
 
-### Sunday Stichera on the Praises
+**Sunday Stichera on the Praises**
 
 The stichera on the Praises of Sunday Matins are singled out from the series of others by their number: there are eight of them, twice as many as for the greatest feasts: four called directly 'Resurrectional' and four 'Anatolian' [*vostochny*] (cf. p. 545). Serving as refrains for them are six verses of the Praises psalms, beginning from the 9th, the last, verse of Psalm 149, and, in addition, two psalm verses specifically selected for the event of the Resurrection and named in the Typikon (chapters 3, 4, and others) 'Resurrectional refrains'—the very same that serve as refrains unto the sessional hymns: **"Arise, O Lord..."** and **"I will confess Thee, O Lord"** (Psalm 9:33, 2 [LXX]). Having for themselves specifically festal verses, these latter stichera are properly speaking no longer Praises stichera, but aposticha, on which account for their chanting the choirs unite; this convergence takes place already at the final verse of the Praises psalms
 
@@ -56,7 +56,7 @@ Likewise, in contrast unto the stichera at **"Lord, I have cried"** and the apos
 
 Departures from the indicated order in the chanting of the Praises stichera are made for great, polyeleos, and six-verse saints (see the Typikon, ch. 3, 4, and 5), for forefeasts and afterfeasts occurring on Sunday (see September 7 and 9), and for the Sundays of the Holy Fathers and of the Triodion (see October 11 and the Great Fast).
 
-### History
+**History**
 
 The Sunday stichera, specifically the first four of them, are given by the well-known Jerusalem *Akolouthia* of the 9th–12th centuries [^2631] and, undoubtedly, are intended by the Hypotyposis of certain recensions, which prescribes that they be doubled, and by the Evergetis Typikon, which likewise prescribes that they be doubled and indicates their number as four [^2632].
 
@@ -72,23 +72,23 @@ The evangelical stichera belong, as their present inscription likewise shows, un
 
 === LEAF p857 ===
 
-### THE GREAT DOXOLOGY
+**THE GREAT DOXOLOGY**
 
 The detailed glorification of God for His various particular benefactions is concluded at the Vigil with a general glorification of Him for all benefactions. In this glorification the inspiration of the worshippers, the strength and warmth of their feeling, reach a zenith at which the mind can no longer dwell on particulars, on these or those mercies of God, even though they be so great as our salvation through the death and resurrection of the Son of God, but is wholly immersed in thankful contemplation of all the height of God and of all our nothingness and unworthiness before Him. Such is the character of that doxology with which all the hymns of the Vigil are concluded, and which is justly called 'Great'.
 
-### "Glory to Thee Who Hast Shown Us the Light"
+**"Glory to Thee Who Hast Shown Us the Light"**
 
 Such an outburst of religious feeling as this doxology represents is most immediately evoked by the first glimmer of morning dawn arriving at this moment of the All-Night Vigil. If, 'having come unto the setting of the sun and beheld the evening light,' the faithful pour forth their feelings in so ecstatic a hymn as **"Glory, O Tranquil Light"** [*Phos Hilaron*], then the sight of the morning light being born out of the darkness of night must attune them yet more deeply and warmly unto the contemplation of God as the Uncreated Light (**"in Thy light shall we see light"**). The morning hymn is far longer and fuller than the evening hymn, and therefore begins with a direct thanksgiving unto God (in the evening hymn thanksgiving is indirect: 'we praise the Father and the Son...') for the morning dawn, which is expressed in the solemn exclamation: **"Glory to Thee Who hast shown us the light"**.
 
 Unto whom it belongs to pronounce this exclamation is not indicated in the Typikon in the order of the Sunday Vigil; but in chapter 7 it is stated that this verse, like that preceding it at weekday Matins: **"To Thee praise is due"**, and the Great Doxology [^2639] itself (of course, if it is read), must be pronounced by the superior. On this ground, probably, the pronunciation of this verse at Matins was assigned unto the priest. Yet both this prescription of the Typikon and the close connection of the verse with the Great Doxology rather demand its pronunciation by the one who executes the Great Doxology as well, that is, at the Vigil (and festal Matins), by the choir (hence the vacillation in practice: in some places the verse is assigned to be pronounced by the deacon).
 
-### According unto Ancient Typika
+**According unto Ancient Typika**
 
 === LEAF p858 ===
 
 The verse was one of the refrains unto the Praises psalms (see above, p. 705). In the manuscript Horologion and the Old Believer *Chasovnik*: **"Glory to Him Who hath shown us *(Orig. p. 709)* the light"** [^2640]. In certain Greek manuscripts: **"Glory to Him Who hath shown the true light"** [^2641]. In the Greek Horologion: **"Glory to Thee Who hast shown the light"** [^2642]. The printed Greek Jerusalem Typikon: 'it is necessary to know that after Ode 9 the priest says: **"Holy is the Lord our God"** and the beginning **"Glory to God in the highest"** at the Great Doxologies' [^2643].
 
-### Content of the Great Doxology
+**Content of the Great Doxology**
 
 The doxology itself begins with the angelic hymn at the birth of the Savior—whereby Matins, already drawing near its end, returns unto its beginning (a favorite device in ecclesiastical hymnody). Such a lofty, heavenly hymn sanctifies our lips (as also before Matins) for our own hymn, which begins with the words: **"We praise Thee"** (properly: 'we sing of Thee'—*hymnoumen* [ὑμνοῦμεν]), **"we bless Thee, we worship Thee"** (cf. with the conclusion unto the recent 8th ode of the kanon), recalling by their brevity and generality the greatest hymn of the Divine Liturgy (**"We sing unto Thee"**): just as there it is not specified for what we sing, bless, and thank the Lord and for what we pray unto Him, because we thank then for all things and pray for all things, and an enumeration would turn out to be endless, so neither is it specified here, but rather the supreme cause of our praise, worship, and thanksgiving is indicated: the great glory of God. Following this glorification of God in the hymn comes prayer unto Him, the transition unto which is served by a prayerful address unto all Persons of the Holy Trinity separately. From the Holy Trinity, prayer is directed principally unto our Intercessor in heaven, the Lamb of God (a favorite name for the Savior among ancient Christians), of Whom we ask mercy (the fundamental petition of all prayers of the Vigil—the litanies), conditioned among other things by the acceptance of these present prayers of ours (long and already drawing toward their end). For confidence in the success of this petition, it concludes with that solemn confession of Christ which is proclaimed at the Divine Liturgy immediately before the communion of the Holy Mysteries: '**[For Thou only art] Holy, [Thou only art] Lord, Jesus Christ, in the glory of God the Father**' (the existence of such a Son yet increases the unmeasured glory of God, though there would seem to be no room to increase it). Hereby concludes the first part of the Great Doxology, ending with its first 'Amen'.
 
@@ -108,7 +108,7 @@ intensified ('continue').
 
 One cannot fail to observe that the indicated connection between the individual sentences of this long hymn is not very close; the transitions in it from one thought unto another are rather unexpected. The hymn consists, properly speaking, of disconnected prayerful and laudatory exclamations, of which each is too complete, too finished in itself, for there to be any need of continuation or supplementation thereof. All expressions are taken from Sacred Scripture, and from there the most powerful were chosen.
 
-### History
+**History**
 
 The foundation of the Great Doxology is the angelic hymn at the birth of the Savior, and it was introduced into it, presumably, after the example of the Divine Liturgy, when the latter was transferred unto the morning and began at times to merge with Matins (Introductory Chapter, 88ff.); in the Liturgy of the Apostolic Constitutions this hymn *(Orig. p. 711)* is appointed immediately before communion [^2644], and in the Liturgy of the Apostles Addai and Mari [^2645] and our own—at the beginning. From the Divine Liturgy also, presumably, was borrowed into the morning hymn the phrase **"We praise Thee, we bless Thee"**: at the Matins of the *Testamentum Domini* of the 3rd century a similar expression, but yet closer, almost unto literal identity, unto the present **"We sing unto Thee"** at the Divine Liturgy, constitutes the response of the people unto individual parts of the episcopal or priestly morning prayer (Introductory Chapter, 86). Finally, the third borrowing of the Great Doxology from ancient liturgies is the invocation: **"O Lamb of God, that takest away the sins of the world..."**; according unto St. John Chrysostom: 'not in vain do we make commemoration of the departed at the holy mystery and add prayer for them unto that Lamb Who takes upon Himself the sin of the world' [^2646]; the communion verse at the Liturgy of St. Peter: **"O Lamb of God, that takest away the sin of the world, have mercy on us"** [^2647]; at the Roman Mass after the commingling of the Body and Blood in the chalice (after the Our Father shortly before communion) the priest pronounces: **"Lamb of God, that takest away the sins of the world, have mercy on us"**—twice, and: **"Lamb of God, that takest away the sins of the world, grant us peace"** [^2648]; the Roman litany concludes with the same threefold invocation with the endings: 'spare us', 'graciously hear us', 'have mercy on us, O Lord' [^2649]. (Unto the widespread liturgical application from antiquity of this invocation catacomb depictions of the Savior in the form of a lamb may also have contributed).
 

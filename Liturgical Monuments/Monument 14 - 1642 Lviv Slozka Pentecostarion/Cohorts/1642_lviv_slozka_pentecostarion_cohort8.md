@@ -133,7 +133,7 @@ The heavenly Bridal Chamber and ever-virgin Bride, thou alone hast appeared, hav
 When the glorious disciples were illumined at the washing of the feet at supper, then Judas the ungodly, diseased with the love of money, was darkened, and unto the lawless judges he delivers Thee, the righteous Judge! Behold, O lover of possessions, him that for their sake acquired hanging; flee from the unsated soul that dared such things against the Teacher: O Lord, Who art good towards all, glory to Thee!
 
 *Then Psalm 50. We do not say: "Save, O God, Thy people."*
-*Canon. The Composition of the Lord Cosmas. Tone 6. The Heirmos on 6. And the Troparia on 4 or on 6, according to the quantity. The Canon whose acrostic is: (ΤΗΙ МАКРАI ПЕМПТHI МАКРОН ҮМNON ЕΞАДΩ). Which is: On the Long Thursday I chant a long hymn.*[^275]
+*Canon. The Composition of the Lord Cosmas. Tone 6. The Heirmos on 6. And the Troparia on 4 or on 6, according to the quantity. The Canon whose acrostic is: (ΤΗΙ МАКРАІ ПЕМПТHI МАКРОН ΥΜΝΟΝ ΕΞΑΔΩ). Which is: On the Long Thursday I chant a long hymn.*[^275]
 *Ode 1. Heirmos:*[^276]
 
 === LEAF p75 ===

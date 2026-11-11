@@ -136,7 +136,7 @@ Fair as a bridegroom from the chamber didst Thou come forth from the tomb, havin
 Let us all now form spiritual choirs, and let us cry: The Lord is risen! Let the earth rejoice, let heaven be glad, let the clouds drop down showers of righteousness for us who celebrate radiantly and hymn Christ![^871]
 
 *Troparion:*  
-The Lord, the Life of the living, the Fountain of good things, richly pouring forth the water of teachings, cries unto the woman: Give Me water to drink, that I may give thee water which dris up the fountains of thy sins![^872]
+The Lord, the Life of the living, the Fountain of good things, richly pouring forth the water of teachings, cries unto the woman: Give Me water to drink, that I may give thee water which dries up the fountains of thy sins![^872]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit. Trinity Hymn:*  
 One Light indivisible, Trinity in three suns, unoriginate Father, Son, and Spirit, one Godhead, Life and Creator of all: Him let us, the faithful, hymn with the bodiless powers, sacredly chanting with thrice-holy hymns!
@@ -150,7 +150,7 @@ Having fallen asleep in the flesh as a mortal, O King and Lord, on the third day
 *Glory, of the Samaritan Woman, Tone 2, Podoben: "Give ear, ye women" (Жены̀):*  
 Into Samaria didst Thou come, O my all-powerful Savior, and having conversed with the woman, didst ask water to drink, Who for the Hebrews didst gush forth waters from the flinty rock; whom Thou didst receive unto faith, and she now enjoys life in the heavens unto the ages![^874]
 
-*Both now and for ever and unto ages of ages. Amen. Of Mid-Pentecost, Tone 2, the same Podoben:*  
+*Both now and for ever and unto ages of ages. Amen. Of Mid-Pentecost, Tone 2, the same Podoben (Подо́бенъ то́йже):*  
 When the feast was at Mid-point, Thou didst come into the Sanctuary, O Lover of mankind, and didst say: Ye that are filled with thirst, come unto Me and draw living and nourishing water, whereof having food, grace, and immortal life, enjoy ye all![^875]
 
 *At the Praises, we chant: Let every breath. We set 8 verses, and chant the following Resurrection stichera.*  
@@ -177,7 +177,7 @@ Let heaven and earth rejoice radiantly today, for Christ hath appeared, being in
 
 *Tone 6:*  
 *Verse: Thou hast loved righteousness and hated iniquity.*  
-Thus saith the Lord unto the Samaritan woman: If thou knewest the gift of God, and Who it is that saith unto thee: Give Me water to drink, thou wouldest have asked of Him, and He would have given thee to drink, that thou thirst not unto the ages, saith the Lord![^880]
+Thus says the Lord unto the Samaritan woman: If thou knewest the gift of God, and Who it is that says unto thee: Give Me water to drink, thou wouldest have asked of Him, and He would have given thee to drink, that thou thirst not unto the ages, says the Lord![^880]
 
 *Glory, the same Tone:*  
 The Fountain of the origin of life, Jesus our Savior, having come to the well of the Patriarch Jacob, was asking for water to drink from the Samaritan woman; and when she answered Him concerning the irreconcilability of the Jews, the wise Creator led her with sweet words rather to ask for the ever-flowing water, which having received, she proclaimed unto all, saying: Come, see the Knower of secrets and God, Who came in the flesh to save mankind![^881]
@@ -239,7 +239,7 @@ Standing in the midst of the sanctuary, God uncircumscribed and Lord—for He wa
 *And of the Menaion, 3.*
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8:*  
-When the feast was at Mid-point, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary, O God, the disobedient Jews, Pharisees, and Scribes, crying aloud unto them: Let him that thirsts come unto Me and drink; he that believs in Me, rivers of living water of the divine Spirit shall flow from his belly! O the praise of Thine ineffable wisdom! O our God Who fillest all things, glory to Thee![^892]
+When the feast was at Mid-point, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary, O God, the disobedient Jews, Pharisees, and Scribes, crying aloud unto them: Let him that thirsts come unto Me and drink; he that believes in Me, rivers of living water of the divine Spirit shall flow from his belly! O the praise of Thine ineffable wisdom! O our God Who fillest all things, glory to Thee![^892]
 
 *At the Aposticha, stichera of the Octoechos:*  
 *Tone 4:*  

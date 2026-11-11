@@ -77,10 +77,10 @@ The glorious Hermogenes welcomes the cutting off of hands and the severance of f
 *Troparion:*
 Having your limbs crushed, O wise ones, ye were cast into the depth of the sea, O saints; but by a higher beckoning ye steered unto the calm haven of delight, having drowned the malice of the serpent. Therefore pray ye that there may be granted unto our souls peace and great mercy!
 
-*Glory, both now, Theotokion, the same Tone and Podoben:*
+*Glory, both now, Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Incorruptibly didst thou bear God, Who abolished corruption and poured forth incorruption, O incorrupt and spotless one! Therefore I pray thee: me who am corrupted by grievous things, do thou renew by thy prayers, O pure one, that I may glorify thee, that with love I may magnify thee who hast magnified our race!
 
-*Stavrotheotokion, the same Tone and Podoben:*
+*Stavrotheotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 When the spotless Ewe-lamb once beheld upon the Tree Him Whom she had borne from a seedless womb, not enduring the wounding of maternal bowels, tearing her hair, she said: Thou Who by Thy beckoning upholdest all creation, how art Thou lifted up upon the Cross like a condemned man, willing by all means to save mankind?
 
 *At the Aposticha of the Octoechos.*
@@ -286,7 +286,7 @@ What shall we name thee, O Daniel? Fasting ascetic, for thou didst subdue the pa
 *Sticheron:*
 What shall we call thee now, O Daniel? Pattern of monastics, and teacher of temperance; adornment of the faithful, and dispenser of healings; lamp shedding light upon them that are in darkness; fellow citizen and peer of the angels; dweller of paradise and heavenly man! Pray that our souls may be saved!
 
-*Other Stichera of the most holy Birthgiver of God, the same Tone and Podoben.*
+*Other Stichera of the most holy Birthgiver of God, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже).*
 
 *If Alleluia is chanted, these Stichera are sung first.*
 
@@ -299,8 +299,8 @@ Unto whom art thou become like, O wretched soul,[^85] not looking up at all unto
 *Sticheron:*
 Having borne the intolerable Fire that consumes sins and bedews the faithful, burn up by thy prayers the material kindling of mine immeasurable transgressions, O all-spotless and pure one! And with dew refresh my soul corrupted by passions, that I, thy servant, may with a loud voice magnify thy mercy and power!
 
-*Glory, both now, Theotokion, the same Tone and Podoben:*
+*Glory, both now, Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 O Protection of all, Birthgiver of God, unto me who am burdened by the deep of darkness and ever submerged by the tempestuous waves of the grievous things of life, send down a drop of thy mercy, and give me a hand of help; and account me worthy of the portion of the elect and righteous, as having borne the Abyss of the Lover of mankind!
 
-*If it be Wednesday or Friday, Both now, Stavrotheotokion, the same Tone and Podoben:*
+*If it be Wednesday or Friday, Both now, Stavrotheotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 When the Ewe-lamb beheld the Lamb upon the Tree, stretched out willingly upon the Cross, she cried aloud maternally, grieving with weeping: O my Son, what is this strange sight? Giving life unto all as Lord, how art Thou put to death...

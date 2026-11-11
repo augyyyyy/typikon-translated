@@ -48,7 +48,7 @@ Beholding the Virgin who conceived in her womb and brought forth the incarnate W
 *Theotokion (continued):*
 ...the Son of God, glorious Isaiah the prophet now rejoices.
 
-*Kontakion, Tone 2, Podoben: "In Prayers" (V molitvakh):*
+*Kontakion, Tone 2, Podoben: "In Prayers" (Въ моли́твахъ неусыпа́ющую):*
 Having received the gift of prophecy, O prophet-martyr, God-proclaiming Isaiah, thou didst explain unto all the Incarnation of the Lord, crying aloud with all thy voice unto the ends of the earth: Behold, the Virgin shall conceive in the womb![^105]
 
 *Ikos:*
@@ -128,7 +128,7 @@ The noetic Coal whom Isaiah saw,[^110] O pure Bride of God, thou bearest in thy 
 *At Vespers, we sing: "Blessed is the man," the 1st Antiphon.*
 
 *On "Lord, I have cried," Stichera of the Feast; and of the Saint, 5, Tone 8.*
-*Tone 8, Podoben: "Running Unto Heaven" (Na nebo tekushcheye):*
+*Tone 8, Podoben: "Running Unto Heaven" (На не́бо текꙋ́щее):*
 Ascending unto the heaven of most exalted virtues, thou wast revealed as a wonderworker in Myra, O glorious one; resting in the body in Bari, in spirit thou visitest the faithful everywhere, and deliverest all from misfortunes, worthily receiving honor, and art glorified among hierarchs, O blessed favorite of Christ; calling upon thee now in supplication, we say with compunction: Pray, O Hierarch Nicholas, unto the Savior of all, to pacify the world and save our souls!
 
 *Sticheron:*
@@ -183,7 +183,7 @@ O good and faithful servant, laborer in the vineyard of Christ! Thou didst bear 
 
 *Both now... of the Feast.*
 
-*At the Aposticha, Stichera, Tone 4, Podoben: "As Noble" (Yako doblya):*
+*At the Aposticha, Stichera, Tone 4, Podoben: "As Noble" (Ꙗ҆́кѡ до́блѧ):*
 As an unsetting star* of the all-radiant Sun,* God-inspired,* telling the saving glory of God,* a divine herald,* an enlightener of the nations,* a river pouring forth waters of understanding* and giving the hearts of the faithful to drink:* let us call Nicholas the most glorious hierarch blessed!
 
 *Verse: Honorable in the sight of the Lord is the death of His venerable ones.[^119]*
@@ -212,13 +212,13 @@ The day of radiant solemnity has arrived; the city of Bari rejoices, and with it
 
 *At Matins, at "God is the Lord," Troparion of the Feast, and of the Saint.*
 *After the 1st Kathisma, Sessional Hymn of the Feast, twice.*
-*After the 2nd Kathisma, Sessional Hymn of the Saint, Tone 4, Podoben: "Joseph Was Amazed" (Udivisya):*
+*After the 2nd Kathisma, Sessional Hymn of the Saint, Tone 4, Podoben: "Joseph Was Amazed" (Оу҆диви́сѧ І҆ѡ́сифъ):*
 Thou hast made Thy saint marvelous in the lands, O Master, granting him the grace of wonders, to drive away various afflictions from men, and to deliver those in bonds, and to rescue the wronged from cruel tribulations; unto whom we cry aloud in supplication: O Hierarch Nicholas, deliver us from our enemies! *Twice.*
 
 *Glory... Both now... of the Feast, or Theotokion:*
 Who can recount the multitude of my unclean thoughts and the burden of unseemly imaginings, O all-immaculate one? And the assaults of my bodiless foes and their malice, who can declare? But by thy supplication, O Good One, grant me deliverance from them all!
 
-*After the Polyeleos, Sessional Hymn, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Grob tvoi):*
+*After the Polyeleos, Sessional Hymn, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Гро́бъ тво́й):*
 Being perfect in thyself through life, thou wast revealed as a hierarch of God the Most High, strengthened by Whom thou didst stop the mouths of heretics; therefore we radiantly celebrate thy translation, magnifying Christ God. *Twice.*
 
 *Glory... Both now... of the Feast, or Theotokion:*
@@ -298,5 +298,5 @@ O Hierarch Nicholas, having become the mouth of God, from the mouth of the hosti
 The one Son and Word, beyond word, willed to be born in the flesh from thee, O all-pure Mother of God, having chosen for Himself a servant and teacher for the peoples, the Hierarch Nicholas.
 
 *Kontakion of the Feast, and Ikos.*
-*And Sessional Hymn of the Hierarch, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Grob tvoi):*
+*And Sessional Hymn of the Hierarch, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Гро́бъ тво́й):*
 The translation of thy honorable relics became for us the institution of a radiant festival, O most lauded hierarch of the Lord; which we piously praise, joyfully honoring thee as the beauty of the faithful of the unsetting Sun of Light...

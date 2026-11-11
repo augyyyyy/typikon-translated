@@ -231,7 +231,7 @@ Light is ever for the righteous; for the Saints, being enlightened by Thee, shin
 
 *Sessional Hymn 2:* O Cross, expeller of demons, physician of the ailing, might and guardian of the faithful, victory of kings, praise of the Orthodox in truth, confirmation of the Church of Christ: be Thou our rampart and wall and guardian, O blessed Tree.[^7620]
 
-*Glory... both now... Stavrotheotokion:* Beholding Him Who was incarnate of thy pure blood hanging voluntarily upon the Cross, O only undefiled Ewe-lamb, Virgin Birthgiver of God, thou criedst aloud, O Maiden, with bitter tears: O my gentle Son, I hymn all Thy fearful dispensation.[^7621]
+*Glory... both now... Stavrotheotokion:* Beholding Him Who was incarnate of thy pure blood hanging voluntarily upon the Cross, O only undefiled Ewe-lamb, Virgin Birthgiver of God, thou criedst aloud, O Maiden, with bitter tears: O my gentle Son, I hymn all thy fearful dispensation.[^7621]
 
 *Canon of the Precious and Life-Giving Cross.*[^7622]
 

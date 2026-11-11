@@ -279,7 +279,7 @@ When Herodias saw lawless Herod possessed by drunkenness and lust, she drew him 
 
 We celebrate with love the sacred memory of divine John and Baptist, singing of the transcendent Trinity.
 
-*Glory, and now, Podoben the same:*
+*Glory, and now, Podoben the same (Подо́бенъ то́йже):*
 O sole hope and pure mediatress of Christians: together with the Forerunner pray to thy Son on behalf of thy servants.
 
 *Troparion, Tone 2:*

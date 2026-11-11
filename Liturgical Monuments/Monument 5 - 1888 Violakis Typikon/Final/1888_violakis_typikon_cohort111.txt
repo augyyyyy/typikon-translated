@@ -169,7 +169,7 @@ The name Polyeleos is likewise given to the great chandelier suspended directly 
 
 **POTIRION**: The Holy Chalice. See **AGION POTIRION**.
 
-**PRAISE, PRAISES** (*αἶνος, ὁ*; pl. *αἶνοι, οἱ*; Slav. *Khvalitny* / *Хвалиτны*): See also **ENI**. These festive psalms (Psalms 148–150 LXX) are chanted near the end of **Orthros** (Matins), immediately following the **Exapostilarion**. In Western churches, the Praises are known as Lauds.
+**PRAISE, PRAISES** (*αἶνος, ὁ*; pl. *αἶνοι, οἱ*; Slav. *Khvalitny* / *Хвалитны*): See also **ENI**. These festive psalms (Psalms 148–150 LXX) are chanted near the end of **Orthros** (Matins), immediately following the **Exapostilarion**. In Western churches, the Praises are known as Lauds.
 
 **PRE-FEAST** (*προεόρτια, τά*): The canonical liturgical designation is the **FOREFEAST** (lit. 'pre-feast'). See **PROEORTIA**.
 

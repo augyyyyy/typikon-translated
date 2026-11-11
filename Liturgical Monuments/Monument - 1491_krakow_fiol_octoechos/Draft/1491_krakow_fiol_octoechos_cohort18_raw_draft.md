@@ -91,7 +91,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Theotokion:* O most pure Mother and Virgin, alone all-praised: entreat Thy Savior that He may save our souls!
 
-*Another Canon to the Theotokos. Same Heirmos:* With evil crawling, [the serpent] of Eden ensnared me with the love of divinity and cast me down to earth; but as Thou art merciful by nature and compassionate, Thou hadst pity; the Grace [of God] made its dwelling in thy womb, assimilating Himself unto me in compassion, O Virgin!
+*Another Canon to the Theotokos. Same Heirmos:* With evil crawling, [the serpent] of Eden ensnared me with the love of divinity and cast me down to earth; but as thou art merciful by nature and compassionate, thou hadst pity; the Grace [of God] made its dwelling in thy womb, assimilating Himself unto me in compassion, O Virgin!
 
 *Troparion:* Blessed is the Fruit of thy womb, O Virgin, O Theotokos, joy of all; for thou didst bear gladness unto the whole world, and true rejoicing, destroying sinful sorrow, O Bride of God!
 

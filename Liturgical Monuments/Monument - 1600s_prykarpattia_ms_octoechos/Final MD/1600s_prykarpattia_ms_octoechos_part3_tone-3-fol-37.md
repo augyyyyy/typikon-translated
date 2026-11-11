@@ -42,7 +42,7 @@ O Christ, Who by Thy Passion didst darken the sun, and by the light of Thy Resur
 
 Thy life-giving arising, O Lord, enlightened the whole universe, and summoned His corrupted creation. Therefore, being delivered from the curse of Adam, we all cry aloud: O Almighty Lord, glory to Thee!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 Being God unchangeable, suffering in the flesh Thou wast changed; Whom creation, not enduring to behold hanging, was bowed down with fear, and groaning, it hymned Thy long-suffering. Having descended into Hades, Thou didst arise on the third day, granting life unto the world and great mercy.
 
@@ -62,7 +62,7 @@ Let the heavens be glad, and let the earthly rejoice; for the Lord hath wrought 
 
 *Glory, both now. Theotokion:*
 
-Thee, who didst mediate the salvation of our race, we hymn, O Virgin Mother of God; for having accepted the Passion of the Cross in the flesh taken from thee, Thy Son and our God delivered us from corruption, as Lover of mankind.
+Thee, who didst mediate the salvation of our race, we hymn, O Virgin Mother of God; for having accepted the Passion of the Cross in the flesh taken from thee, thy Son and our God delivered us from corruption, as Lover of mankind.
 
 ## SUNDAY MIDNIGHT OFFICE (TONE 3)
 

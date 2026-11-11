@@ -59,7 +59,7 @@ O mysteries beyond understanding and ineffable! Out of tender mercy God is born 
 
 Let us assemble reverently at the house of the Lord, with acclamations let us sing in concord of His tender mercy and great condescension; for in Bethlehem of Judea He was pleased to appear as an Infant; and let us cry aloud: Blessed art Thou Who wast born! O our God, glory be to Thee!
 
-*Glory, and now. Podoben the same:*
+*Glory, and now. Podoben the same (Подо́бенъ то́йже):*
 O my Sun, how shall I wrap Thee in swaddling-bands? How shall I nourish Thee with milk, the Nourisher of all nature? How shall I hold Thee with my hands, Who holdest all things? How shall I look upon Thee without fear, upon Whom the many-eyed dare not look? Thus spoke the unwedded Maiden, holding Christ.
 
 *At the Liturgy, the Beatitudes of the feast: Ode 8, on 6.*
@@ -185,4 +185,4 @@ No one that hastens unto thee turns away put to shame from thee, O most pure Vir
 
 *At the blessing of the loaves: Troparion of the Saint, twice (look at Small Vespers); and "O Theotokos Virgin," once.*
 
-*At Matins, after the first Kathisma: Sessional hymn, Tone 5. Podoben:...*
+*At Matins, after the first Kathisma: Sessional hymn, Tone 5. Podoben (Подо́бенъ):...*

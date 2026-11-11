@@ -4,14 +4,14 @@
 
 ...in the flesh Thou didst endure suffering; yet being God, Thou didst remain impassible, lifted up upon the tree between two thieves. And Thou didst save our nature, as all-powerful.[^144]
 Willingly laid in the tomb for my sake as dead, O Savior, Thou didst shine forth light, illuminating for three days those held fast in darkness and the shadow of death; and meeting the myrrh-bearing women, Thou didst cry aloud unto them: "Rejoice indeed, and tell the rest unto Mine apostles!" *Theotokion:*
-O Virgin full of grace, Mother and Bride of God: without knowing wedlock, Thou didst receive into Thy womb Him Who was begotten of the unoriginate Father before all ages, and Thou didst bear Him incarnate; pray Him for us all, to send down the multitude of His compassions upon us.
+O Virgin full of grace, Mother and Bride of God: without knowing wedlock, thou didst receive into thy womb Him Who was begotten of the unoriginate Father before all ages, and thou didst bear Him incarnate; pray Him for us all, to send down the multitude of His compassions upon us.
 
 **[Right Page — Fol. 139r]**
 
 *Another Heirmos: Beholding the sea of life surging...*
 Great Moses among the prophets prefigured thee, typifying thee as the Ark, the Table, the Candlestick, and the Jar, revealing the incarnation from thee of the Most High, O Virgin Mother.
-Death is put to death and corruption is abolished, the condemnation of Adam being overturned by Thy fruit, O Sovereign Lady; for Thou hast borne Life, delivering from corruption those who hymn thee.
-The Law grew faint and the shadow passed away, when grace appeared beyond mind and thought through Thy childbearing of God and the Savior from thee, O all-hymned Virgin.
+Death is put to death and corruption is abolished, the condemnation of Adam being overturned by thy fruit, O Sovereign Lady; for thou hast borne Life, delivering from corruption those who hymn thee.
+The Law grew faint and the shadow passed away, when grace appeared beyond mind and thought through thy childbearing of God and the Savior from thee, O all-hymned Virgin.
 *Ode 7. Heirmos:*
 An angel, indeed, made the furnace pour forth dew for the venerable children, but the command of God burned up the Chaldeans, persuading the tyrant to cry:
 
@@ -32,15 +32,15 @@ The impious children of transgressors crucified Thee upon the place of the skull
 Thou didst tear apart the dominion of death, and having arisen, Thou dost grant resurrection unto those who truly glorify Thee as Lord, and who in orthodox faith cry unto Thee: Blessed art Thou, O God our Redeemer! *Theotokion:*
 Thou hast borne One of the Trinity, O all-pure one, Who appeared upon earth in two natures by reason of His tenderheartedness; entreat Him unceasingly to save our souls.
 *Another Heirmos: A shedder of dew...*
-The furnace did not consume the three youths, prefiguring Thy childbearing; for the divine fire dwelt within thee without consuming thee, and enlightened all to cry: Blessed art Thou, O God of our fathers.
-The ends of the earth call thee blessed, O all-venerable Mother, even as thou didst foretell, being enlightened by Thy radiant beams, and shining with grace, they cry: Blessed is she who bore God in the flesh!
+The furnace did not consume the three youths, prefiguring thy childbearing; for the divine fire dwelt within thee without consuming thee, and enlightened all to cry: Blessed art Thou, O God of our fathers.
+The ends of the earth call thee blessed, O all-venerable Mother, even as thou didst foretell, being enlightened by thy radiant beams, and shining with grace, they cry: Blessed is she who bore God in the flesh!
 
 === LEAF p143 ===
 
 **[Left Page — Fol. 140v]**
 
-The all-crafty serpent indeed drove in destructive teeth into the pit; but Thy Son, O Mother of God, shattered them, granting me strength to cry: Blessed art Thou, O God of our fathers.[^146] *Theotokion:*
-Thou alone, O divinely-blessed one, becamest the sanctuary of nature; for having carried in Thine arms God Who sits upon the cherubic shoulder, thou didst cry aloud: Blessed art Thou, O Lord, the God of our fathers!
+The all-crafty serpent indeed drove in destructive teeth into the pit; but thy Son, O Mother of God, shattered them, granting me strength to cry: Blessed art Thou, O God of our fathers.[^146] *Theotokion:*
+Thou alone, O divinely-blessed one, becamest the sanctuary of nature; for having carried in thine arms God Who sits upon the cherubic shoulder, thou didst cry aloud: Blessed art Thou, O Lord, the God of our fathers!
 *Ode 8. Heirmos:*
 From the flame Thou didst pour dew upon the venerable ones, and by water Thou didst burn up the sacrifice of the righteous one; for Thou dost accomplish all things, O Christ, whatsoever Thou desirest. Supremely we exalt Him as Lord unto all ages.
 The Jewish people who of old were murderers of the prophets, now accomplished deicidal envy, lifting Thee up upon the cross, O Word of God; supremely we exalt Him as Lord unto all ages.
@@ -85,7 +85,7 @@ Though Thou didst descend into the tomb as dead, O Giver of life, yet Thou didst
 **[Right Page — Fol. 143r]**
 
 Let creation be made radiant, let all born of earth rejoice; for the enemy Hades has been despoiled! Christ is risen, and the first-created is raised with Him in glory, delivered from corruption!—so the angel cries aloud unto the myrrh-bearing women.
-Creation rejoices with Thy childbearing, O Maiden, for it has opened Eden unto us who behold it; and having partaken of the tree of this life by faith, we cry earnestly: Fulfill our supplications, O Sovereign Lady!
+Creation rejoices with thy childbearing, O Maiden, for it has opened Eden unto us who behold it; and having partaken of the tree of this life by faith, we cry earnestly: Fulfill our supplications, O Sovereign Lady!
 *Another Heirmos: It is impossible for mankind to see God...*
 A Star shining with the beams of the Godhead from Jacob upon those held fast in gloom, through thee, O all-pure one, has shone forth: Christ God, the Word incarnate, by Whom enlightened, together with the heavenly hosts we magnify thee.
 Strengthened by Thy power and grace, I have fervently offered a hymn from my heart unto thee;
@@ -94,7 +94,7 @@ Strengthened by Thy power and grace, I have fervently offered a hymn from my hea
 
 **[Left Page — Fol. 143v]**
 
-...yet accept this hymn, O pure Virgin, granting in return Thy most radiant grace from incorruptible treasures, O divinely-blessed one.[^149]
+...yet accept this hymn, O pure Virgin, granting in return thy most radiant grace from incorruptible treasures, O divinely-blessed one.[^149]
 Thou wast shown to be a divinely-woven loom, O Virgin, in which the Word wove the garment of the body, making divine my form in which He clothed Himself, O Savior of all, Who savest those who magnify Thee from a pure mind.
 Resurrection is now granted unto the dead by Thine unspeakable and ineffable childbearing, O all-venerable Theotokos; for Life, having clothed Himself in flesh from thee, has shone forth upon all, and manifestly destroyed the corrupt mingling of death.
 *At the Praises (Lauds), the Resurrection Stichera, Tone 6:*
@@ -158,7 +158,7 @@ The Father Who is God over all brought forth the powers of heavenly...
 
 ...heavenly minds, formless and immaterial, as chanters of His thrice-radiant glory, with the unique Word and the Spirit.
 *Glory, and now. Theotokion:*
-Having conceived in Thy womb the Word Who is co-unoriginate with the Father and the Spirit at the archangel's greeting, O Theotokos, thou wast revealed as higher than the Cherubim, the Seraphim, and the Thrones.
+Having conceived in thy womb the Word Who is co-unoriginate with the Father and the Spirit at the archangel's greeting, O Theotokos, thou wast revealed as higher than the Cherubim, the Seraphim, and the Thrones.
 *At the Aposticha, Stichera, Tone 6:*
 At Thy fearful coming, O Christ, may we not hear: "I know you not!" For we have placed our hope in Thee, O Savior, even though through our negligence we have not kept Thy commandments; but spare our souls, we pray Thee!
 I have not acquired repentance, nor yet tears; therefore I pray Thee, O God, to turn me before the end, and grant me compunction...

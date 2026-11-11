@@ -131,7 +131,7 @@ Mary, precious receptacle of the Master, raise us up who have fallen into the ab
 *After the third stichology, Sessional Hymn by Lord Theodore, Tone 7, Podoben: "Lord, we are [Thy people]" (Гдⷭ҇и, мы̀ є҆смы̀ / Κύριε, ἡμεῖς ἐσμεν):*[^823]  
 O Lord, beholding Thy Cross lying forth today, we approach in faith, kissing it in chants and hymns with fear and joy: Sanctify Thy servants, give peace unto Thy world by its manifestation, O Thou Who alone art plenteous in mercy! *(Twice)*
 
-*Theotokion, the same Podoben:*  
+*Theotokion, the same Podoben (Подо́бенъ то́йже):*  
 O Lord, we are Thy people, and the sheep of Thy pasture; turn us back who have gone astray through wasting away; gather us who are scattered as a shepherd; have mercy upon Thy flock, O Lover of mankind, show compassion through the intercessions of the Theotokos, O Thou Who alone art without sin![^824]
 
 *Canon of the Menaion, and the present Triode by Lord Joseph.*  

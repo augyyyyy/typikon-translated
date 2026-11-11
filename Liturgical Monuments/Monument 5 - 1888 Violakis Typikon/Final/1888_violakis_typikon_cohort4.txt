@@ -57,7 +57,7 @@ The English translation of the first selection [«Μετὰ προσηκούση
 ...εὐφραίνεσθαι; Βούλει τὴν ἡμέραν ἀναλίσκειν; Ἐγώ σοι δίδωμι πότον πνευματικόν· ἡ γὰρ μέθη καὶ τὴν εὔσημον ἐκκόπτει φωνὴν τῆς γλώσσης τῆς ἡμετέρας ψελλίζειν παρασκευάζουσα, καὶ ὀφθαλμοὺς καὶ πάντα ἁπλῶς διαστρέφουσα. Μάθε ψάλλειν, καὶ ὄψει τοῦ πράγματος τὴν ἡδονήν· οἱ ψάλλοντες γὰρ πνεύματος πληροῦνται ἁγίου, ὥσπερ οἱ ᾄδοντες τὰς σατανικὰς ᾠδὰς πνεύματος ἀκαθάρτου. Τί ἐστιν ἐν ταῖς καρδίαις ὑμῶν τῷ Κυρίῳ; τουτέστι, μετὰ συνέσεως προσέχοντες· οἱ γὰρ οὐ προσέχοντες ἁπλῶς ψάλλουσι, τὰ ῥήματα φθεγγόμενοι, τῆς καρδίας ῥεμβομένης ἑτέρωθι.» (Τοῦ αὐτοῦ Ὁμιλ. ΧΙΧ. εἰς τὴν πρὸς Ἐφεσίους ἐπιστολήν, Migne τόμ. 62).
 
 ## [ΣΥΜΒΟΥΛΗ ΘΕΟΔΩΡΟΥ ΤΟΥ ΣΤΟΥΔΙΤΟΥ]
-### [759-826 μ.Χ.]
+**[759-826 μ.Χ.]**
 
 Ὁ δ’ ἐν Ἁγίοις πατὴρ ἡμῶν Θεόδωρος ὁ Στουδίτης ἐν ταῖς Κατηχήσεσιν αὑτοῦ τὰς ἑξῆς διατυποῖ πρὸς τοὺς κανονάρχας παραινέσεις, αἵτινες ἀφορῶσι σήμερον τοὺς ἱεροψάλτας τῶν Ἐκκλησιῶν.
 
@@ -70,7 +70,7 @@ The English translation of the first selection [«Μετὰ προσηκούση
 ...another in the fear of Christ.’ [Ephesians 5:18–21]. ‘Do you wish,’ he says, ‘to be cheerful, do you wish to spend the day well? I give you spiritual drink; for drunkenness cuts off even the clear articulation of our tongue, causing us to stammer and lisp, and distorts our eyes and our whole frame together. Learn to chant psalms, and you shall see the delightfulness of the employment! For those who chant psalms are filled with the Holy Spirit, even as those who sing satanic songs are filled with an unclean spirit. What is meant by *with your hearts to the Lord*? It means, paying heed with spiritual understanding; for those who do not attend closely merely chant outwardly, uttering the words with their mouth while their heart wanders elsewhere.’” (Saint John Chrysostom, *Homily XIX on the Epistle to the Ephesians*, Migne ed., Vol. 62).[^38]
 
 ## [ADVICE BY THEODORE THE STUDITE]
-### [A.D. 759-826]
+**[A.D. 759-826]**
 
 Our Holy Father Theodore the Studite addresses chanters and canonarchs, exhorting them to refine and further spiritualize their tasks. He first reminds them of the lofty, sacramental character of their ministry. He urges them to obey the established order of service and to be always conscious of the significance and the liturgical form of all types of hymns: e.g. Kathismata, Stichera.[^39]
 

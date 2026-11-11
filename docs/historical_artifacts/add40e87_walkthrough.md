@@ -5,7 +5,7 @@ This walkthrough documents the complete migration of the `Kyivan Musicology` spo
 ## Changes Made
 
 ### 1. Updated Translation Pipeline
-- **File:** [translate_catalogue_pipeline.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_scratch/translate_catalogue_pipeline.py)
+- **File:** [translate_catalogue_pipeline.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_scratch/translate_catalogue_pipeline.py)
 - **Refactoring Details:**
   - Removed all dependencies on `google-genai` and `from google import genai`.
   - Added `from openai import OpenAI`.
@@ -15,13 +15,13 @@ This walkthrough documents the complete migration of the `Kyivan Musicology` spo
   - Updated client instantiation in `main()`.
 
 ### 2. Fixed Auditing Tool
-- **File:** [api_translation_auditor.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/api_translation_auditor.py)
+- **File:** [api_translation_auditor.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/api_translation_auditor.py)
 - **Refactoring Details:**
   - Removed the `reasoning_effort="high"` parameter from the DeepSeek V4 Pro call.
   - This conforms to the DeepSeek V4 API schema, which enables reasoning via `extra_body={"thinking": {"type": "enabled"}}` and does not accept the OpenAI-exclusive `reasoning_effort` parameter (avoiding potential API validation failures).
 
 ### 3. Checked Cursor Rules
-- **File:** [.cursorrules](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/.cursorrules)
+- **File:** [.cursorrules](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/.cursorrules)
 - **Validation:** Confirmed that `.cursorrules` contains zero references to Gemini models or endpoints, and properly forwards to the updated central `GLOBAL_SYSTEM_RULES.md` in the parent directory.
 
 ---
@@ -47,4 +47,4 @@ Executed the refactored catalogue translation pipeline for manuscript entry № 
 ```powershell
 python "Irmologia Catalogue\_scratch\translate_catalogue_pipeline.py" --test 100
 ```
-*Result:* Success. The pipeline resolved the key, connected to DeepSeek, retrieved a perfect translation, parsed it, and successfully wrote [No. 100 - 1650s (before 1659) Lviv Irmologion (ЛНБ, НТШ 469).md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/Catalogue%20Research%20Library/English%20Final/1.%20Yasinovsky%20Catalogue%20Manuscripts/No.%20100%20-%201650s%20(before%201659)%20Lviv%20Irmologion%20(ЛНБ,%20НТШ%20469).md) with its JSON payload.
+*Result:* Success. The pipeline resolved the key, connected to DeepSeek, retrieved a perfect translation, parsed it, and successfully wrote [No. 100 - 1650s (before 1659) Lviv Irmologion (ЛНБ, НТШ 469).md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/Catalogue%20Research%20Library/English%20Final/1.%20Yasinovsky%20Catalogue%20Manuscripts/No.%20100%20-%201650s%20(before%201659)%20Lviv%20Irmologion%20(ЛНБ,%20НТШ%20469).md) with its JSON payload.

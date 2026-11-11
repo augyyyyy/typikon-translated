@@ -153,7 +153,7 @@ Come, ye earthborn, let us form a choir, crying aloud funeral hymns today at the
 *Sticheron:*
 The earth indeed was blessed by thy burial, O Virgin, and the air was sanctified by thy marvelous ascension, dying as thou didst by the law of nature!
 
-*Glory, and now, Podoben the same:*
+*Glory, and now, Podoben the same (Подо́бенъ то́йже):*
 All ye earthborn, let us eagerly hasten together with the bodiless hosts to bury her who bore the Creator of creation!
 
 *At the Hours we say the Kontakion of the Feast.*

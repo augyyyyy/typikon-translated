@@ -12,7 +12,7 @@ Adorned with wisdom, * thou didst pour forth life-flowing speech, * converting t
 
 By the drops of blood * of thy patient suffering, * thou didst present thyself unto God as a sweet-smelling sacrifice: * a pure slaughter, an acceptable gift, * a sacred oblation, * and an entirely blameless sanctification. * Therefore by thy prayers, * preserve the plenitude of the Church in peace, * O suffering-bearer Agathonicus.
 
-*Other Stichera of the Holy Luppus, Tone and Podoben the same [Tone 4, Podoben: "Thou hast given a sign"]:*
+*Other Stichera of the Holy Luppus, Tone and Podoben the same [Tone 4, Podoben: "Thou hast given a sign"] (Да́лъ є҆сѝ зна́менїе):*
 
 The blessed Luppus * melted the heavy ice of godlessness * by the warmth of the divine Spirit; * and having been beheaded with the sword, * he pours forth streams of healings, * and bedews with grace souls that have languished: * let us praise him as our excellent intercessor * and fervent advocate, * O ye lovers of the martyrs.
 
@@ -62,11 +62,11 @@ In childbearing thou didst preserve virginity, and in thy dormition thou didst n
 
 *At Matins, after the first Kathisma, Sessional Hymn, Tone 4, Podoben: "Joseph was amazed" (Удивися Иосиф):*[^766]
 Shown forth on earth more spacious than the heavens, as having given birth in the flesh unto the Creator of all: now from earth thou hast been translated into the very heavens. And the souls of the righteous beholding thee, and the angelic choirs looking upon thee, as Queen worthily ever offer praise unto thee. Therefore cease not to entreat for those who sing of thee.
-*Glory... Both now... Tone and Podoben the same.*
+*Glory... Both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 
 *After the second Kathisma, Sessional Hymn, Tone the same [Tone 4], Podoben: "Speedily anticipate" (Скоро предвари):*[^767]
 We celebrate thy dormition, O all-pure one, wherein Christ our God, Who was incarnate of thee, came with ineffable glory to receive thy spirit. Therefore, even though thou hast been translated, yet cease not, O Mother of God, by thy prayers to visit us who sing of thee.
-*Glory... Both now... Tone and Podoben the same.*
+*Glory... Both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 
 *Canon of the Feast, with the Heirmos to 6; by Lord Cosmas, Tone 4. Ode 1. Heirmos:*
 

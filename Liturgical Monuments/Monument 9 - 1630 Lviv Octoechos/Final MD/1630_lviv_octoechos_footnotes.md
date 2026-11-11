@@ -96,7 +96,7 @@
 
 [^47]: Folio 36v presents the conclusion of the Great Vespers Stichera at *"Lord, I Have Cried"*, including the iconic Dogmatikon Theotokion in Tone 2 (*"Пре́йде сѣ́нь зако́ннаѧ, бл҃гти прише́дши..."* — *"The shadow of the Law passed away when grace arrived..."*), composed by Saint John of Damascus, celebrating the Virgin as the unburnt bush and the mystery of the Incarnation.
 
-[^48]: Folio 37r opens the Sunday Midnight Office in Tone 2 with the Triadical Canon (*"В НЕДѢЛЮ, НА ПОЛꙊНОЩНИЦI, КАНОНЪ ТР(ОИ)ЧЕНЪ"*), bearing the attribution to Metrophanes, Metropolitan of Smyrna (*"Творе́ніе Митрофа́ново"*), meditating on the undivided Trinity of equal majesty and the co-eternal Godhead.
+[^48]: Folio 37r opens the Sunday Midnight Office in Tone 2 with the Triadical Canon (*"В НЕДѢЛЮ, НА ПОЛꙊНОЩНИЦІ, КАНОНЪ ТР(ОИ)ЧЕНЪ"*), bearing the attribution to Metrophanes, Metropolitan of Smyrna (*"Творе́ніе Митрофа́ново"*), meditating on the undivided Trinity of equal majesty and the co-eternal Godhead.
 
 [^49]: Folio 38v — Paleographical Apparatus: Paper Damage and Physical Reconstruction. On Leaf p41 (Folios 38v and 39r), the lower inner and outer margins have suffered physical loss, attrition, and rodent or moisture damage. Standard liturgical restorations for the Tone 2 Sunday Midnight Office conclusion, Sessional Hymns (Sedalna), and Anabathmoi Antiphons are supplied in editorial square brackets `[...]` adhering to epigraphic paleographical standard MTS-1.
 
@@ -182,11 +182,11 @@
 
 [^90]: Tone 3 Sunday Matins, Resurrection Sessional Hymns (after the Second Kathisma): Meditating on the harrowing of Hades and Christ's voluntary passion in the flesh, cutting off the bitterness of death and destroying the ancient curse.
 
-[^91]: Tone 3 Sunday Matins, Hypakoe: The Hypakoe (Greek: Ὑпакоή, "attentive listening" or "response") recounts the dazzling appearance of the Angel at the empty tomb and his announcement of the Resurrection unto the Myrrh-bearing women.
+[^91]: Tone 3 Sunday Matins, Hypakoe: The Hypakoe (Greek: Ὑπακοή, "attentive listening" or "response") recounts the dazzling appearance of the Angel at the empty tomb and his announcement of the Resurrection unto the Myrrh-bearing women.
 
 [^92]: Tone 3 Sunday Matins, Anabathmoi (Antiphons of the Steps) and Prokeimenon: The Anabathmoi are based on the Gradual Psalms (LXX 119–133). Antiphon 1 is rooted in Psalm 125 (LXX): "When the Lord turned again the captivity of Sion..." The Prokeimenon quotes Psalm 95:10 (LXX): "Say among the heathen that the Lord reigns: He hath also established the world so that it cannot be moved."
 
-[^93]: Tone 3 Sunday Matins, Canon of the Resurrection: Composed by St. John of Damascus. In Greek hymnography, the acrostic is Ὁ τρίτος οὗτος ὕμνος ἐντὸς τῆς тριάδος ("This third hymn is within the Trinity").
+[^93]: Tone 3 Sunday Matins, Canon of the Resurrection: Composed by St. John of Damascus. In Greek hymnography, the acrostic is Ὁ τρίτος οὗτος ὕμνος ἐντὸς τῆς τριάδος ("This third hymn is within the Trinity").
 
 [^94]: Tone 3 Sunday Matins, Canon of the Cross and Resurrection: A classic Byzantine liturgical composition meditating upon the mystery of Christ's life-giving death upon the Cross and His victorious descent into Hades.
 
@@ -698,7 +698,7 @@
 
 [^348]: Resurrectional Cycle Continued: Evangelical 9 through Evangelical 10 (physical leaf p265 Left Page): Evangelical Stichera 9 in Tone 5 ('As in the latter days, when it was late on the Sabbath') on Christ appearing through closed doors and confirming the forgiveness of sins; Evangelical 10 Exaposteilarion 10 in Tone 6 ('The Sea of Tiberias with the children of Zebedee') on the miraculous draught of fishes; Evangelical 10 Theotokion ('Worshipping Thine honored icon, O all-pure one'); and Evangelical 10 Evangelical Stichera 10 incipit in Tone 6 ('After the descent into hades and the Resurrection from the dead') on the disciples returning to their fishing boats.
 
-[^349]: Resurrectional Cycle Concluded: Evangelical 10 through Evangelical 11 and 1631 Scribal Colophon (physical leaf p265 Right Page): Concluding Evangelical Stichera 10 on the mystical supper of bread and fish upon the coals; Evangelical 11 Exaposteilarion 11 in Tone 2 ('After the divine Resurrection, the Lord said thrice unto Peter: Lovest thou Me?') on Peter's pastoral commission and inquiry concerning John; Evangelical 11 Theotokion ('Rejoice! we cry aloud unto thee, O all-pure Theotokos'); Evangelical 11 Evangelical Stichera 11 in Tone 8 ('Manifesting Thyself unto the disciples after the Resurrection, O Savior'); and the scribal colophon marking the completion of the manuscript supplement on March 11, 1631 ('Конецъ Стихирамъ Еѵангелскимъ дня а̃і марца рwку ҂аха̃').
+[^349]: Resurrectional Cycle Concluded: Evangelical 10 through Evangelical 11 and 1631 Scribal Colophon (physical leaf p265 Right Page): Concluding Evangelical Stichera 10 on the mystical supper of bread and fish upon the coals; Evangelical 11 Exaposteilarion 11 in Tone 2 ('After the divine Resurrection, the Lord said thrice unto Peter: Lovest thou Me?') on Peter's pastoral commission and inquiry concerning John; Evangelical 11 Theotokion ('Rejoice! we cry aloud unto thee, O all-pure Theotokos'); Evangelical 11 Evangelical Stichera 11 in Tone 8 ('Manifesting Thyself unto the disciples after the Resurrection, O Savior'); and the scribal colophon marking the completion of the manuscript supplement on March 11, 1631 ('Конецъ Стихирамъ Еѵангелскимъ дня а̃і марца рѡку ҂аха̃').
 
 [^350]: 1964 Zaliztsi Novyi Colophon and Soviet State Museum Stamps (physical leaf p266 Left Page & Right Page): Autograph memorandum by cantor Mykola Makar dated December 6, 1964, documenting his clandestine concealment and preservation of the historic 1630 Lviv Octoechos for the Church of the Protection in Zaliztsi Novi during Soviet state-enforced religious closures; facing the cataloguing stamps of the State Museum of the Book and Printing of the Ukrainian SSR in Kyiv (Fond 2124, Inventory No. CD-97).
 

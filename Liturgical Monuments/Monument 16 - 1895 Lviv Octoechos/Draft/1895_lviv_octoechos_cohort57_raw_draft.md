@@ -122,7 +122,7 @@ Having taken on my entire form, the Creator and God clothed Himself, desiring to
 === LEAF p566 ===
 ...unto the guilty, O All-pure One, we honor thee with praises and hymns.[^5771]
 
-*Troparion 2:* Having dwelt in thee, God showed thee to be a sanctified temple, O all-immaculate Virgin; pray Him unceasingly to preserve Thy servants unharmed.[^5772]
+*Troparion 2:* Having dwelt in thee, God showed thee to be a sanctified temple, O all-immaculate Virgin; pray Him unceasingly to preserve thy servants unharmed.[^5772]
 
 *Glory... Troparion 3:* Hear the prayer of the poor who place their hope in thee, O Theotokos, and make haste to deliver us from misfortunes by thy maternal bold intercession.[^5773]
 

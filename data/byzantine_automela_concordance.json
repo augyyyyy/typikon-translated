@@ -455,8 +455,8 @@
       "slavonic_canonical": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
       "slavonic_patterns": ["ибо утверди вселенную"],
       "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
-      "english_canonical": "*Verse: For He hath established the world, so that it cannot be moved.*",
-      "english_patterns": ["for he hath established the world", "for he established the world", "for he established the universe"]
+      "english_canonical": "*Verse: For He has established the world, so that it cannot be moved.*",
+      "english_patterns": ["for he has established the world", "for he hath established the world", "for he established the world", "for he established the universe"]
     },
     {
       "id": "PRIM.VERSE.PS92_5",
@@ -464,8 +464,8 @@
       "slavonic_canonical": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
       "slavonic_patterns": ["дому твоему подобает"],
       "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
-      "english_canonical": "*Verse: Holiness becometh Thine house, O Lord, unto length of days.*",
-      "english_patterns": ["holiness becometh"]
+      "english_canonical": "*Verse: Holiness befits Thy house, O Lord, unto length of days.*",
+      "english_patterns": ["holiness befits", "holiness becometh"]
     },
     {
       "id": "PRIM.VERSE.PS9_33",

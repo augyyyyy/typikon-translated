@@ -18,7 +18,7 @@
 
 [^510]: Fol. 176r (p. 339). The post-communion showing of the Holy Gifts to the people: the deacon raises the chalice proclaiming *Съ стра́хомъ Бо́жїимъ и҆ вѣ́рою приступи́те*, answered by the choir with Psalm 117:26–27 (LXX). The rubric notes the deacon gathering the holy things (*съпрѧ́тавъ ст҃а́а по чи́ноу*). Note signature `ф г҃` at bottom.
 
-[^511]: Fol. 176v (p. 340). The priestly blessing with the chalice (*Сп҃сѝ, Бо́же, лю́ди твоѧ̑...*, Psalm 27:9, LXX) and the choir's traditional Greek acclamation *И҆сполла̀ та̀ є҆́ти де́спота* (Εἰς πολλὰ ἔτη, δέσпота), translated glossatively in the printed text itself (*Си́рѣчь: На мнѡ́га лѣ́та, Владꙑ́ко*). The priest censes the holy things reciting Psalm 56:6, 12 (LXX 56:5, 11).
+[^511]: Fol. 176v (p. 340). The priestly blessing with the chalice (*Сп҃сѝ, Бо́же, лю́ди твоѧ̑...*, Psalm 27:9, LXX) and the choir's traditional Greek acclamation *И҆сполла̀ та̀ є҆́ти де́спота* (Εἰς πολλὰ ἔτη, δέσποτα), translated glossatively in the printed text itself (*Си́рѣчь: На мнѡ́га лѣ́та, Владꙑ́ко*). The priest censes the holy things reciting Psalm 56:6, 12 (LXX 56:5, 11).
 
 [^512]: Fol. 177r (p. 341). The post-communion transfer of the Holy Gifts to the table of oblation (*въ проскомиді́ю*), the choir's hymn *Да и҆спо́лнѧтсѧ ᲂу҆ста̀ на̑ша...* ("Let our mouths be filled with Thy praise", Psalm 70:8, LXX), and the diaconal Litany of Thanksgiving (*Про́сти прїе́мше...*). Signature `ф д҃` at bottom.
 
@@ -36,4 +36,4 @@
 
 [^519]: Fol. 180v (p. 349). Post-liturgical thanksgiving rubrics: the priest washes his hands, face, and lips (*ѡ҆мꙑва́етъ рꙋ́цѣ и҆ лицѐ, и҆ кра́й ᲂу҆сте́нъ свои́хъ*), divests (*съвлачи́тсѧ*), recites the Canticle of Simeon (*Нынѣ̀ ѿпоуща́еши...*, Luke 2:29–32), Trisagion, and the Dismissal Troparion of Saint Basil the Great in Tone 4 (*Въ всѧ́коую зе́млѧ и҆зꙑ́де вѣща́нїе твоѐ...* / Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος σου, Psalm 18:5 LXX / Romans 10:18), celebrating Basil's theological exposition of the nature of things (*є҆ство̀ сꙋ́щи ᲂу҆ꙗсни́ є҆си*) and royal priesthood (1 Peter 2:9).
 
-[^520]: Fol. 181r (p. 350). The Kontakion of Saint Basil in Tone 4 (*Ꙗ҆ви́сѧ сте́пень недви́жимы цр҃кви...* / Ὤφθης βάсїс ἀκλινὴς τῆς Ἐκκλησίας), modeled on the podoben *Thou hast appeared today* (*Ꙗ҆ви́сѧ дне́сь* / Ἐπεφάνης σήμερον). Followed by the incipit of the post-liturgical dismissal Theotokion (*И҆́же ѿ а҆́ггела сло́во прїе́мши...*).
+[^520]: Fol. 181r (p. 350). The Kontakion of Saint Basil in Tone 4 (*Ꙗ҆ви́сѧ сте́пень недви́жимы цр҃кви...* / Ὤφθης βάσϊς ἀκλινὴς τῆς Ἐκκλησίας), modeled on the podoben *Thou hast appeared today* (*Ꙗ҆ви́сѧ дне́сь* / Ἐπεφάνης σήμερον). Followed by the incipit of the post-liturgical dismissal Theotokion (*И҆́же ѿ а҆́ггела сло́во прїе́мши...*).

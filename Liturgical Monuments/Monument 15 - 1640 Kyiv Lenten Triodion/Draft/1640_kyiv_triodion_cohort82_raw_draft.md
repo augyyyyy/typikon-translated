@@ -203,6 +203,6 @@ The way of righteousness and mercy finds life and glory.[^2787]
 *Prokeimenon from Psalm 112, Tone 4:* Praise the Lord, O ye servants, praise the Name of the Lord![^2840] *Verse:* Blessed be the Name of the Lord from this time forth and forevermore.
 
 *Reading from the Prophecy of Isaiah (Chapter 58):*[^2841]
-Thus saith the Lord: Cry aloud in strength, and spare not; lift up thy voice as a trumpet, and declare unto My people their sins, and to the house of Jacob their iniquities.[^2842]
+Thus says the Lord: Cry aloud in strength, and spare not; lift up thy voice as a trumpet, and declare unto My people their sins, and to the house of Jacob their iniquities.[^2842]
 
 Yet they seek Me day by day, and desire to know My ways...[^2843]

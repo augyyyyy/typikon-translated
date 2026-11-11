@@ -28,7 +28,7 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 Ψαλτήριον καὶ ὁ Ἄμωμος· τὰ ἀναστάσιμα Καθίσματα καὶ ἀνὰ ἓν τῆς ἑορτῆς ἀντὶ τῶν Θεοτοκίων· τὰ Εὐλογητάρια, ἡ Ὑπακοή, οἱ Ἀναβαθμοὶ τοῦ ἤχου καὶ τὸ Προκείμενον. Κανόνες ὁ Ἀναστάσιμος καὶ ὁ τῆς ἑορτῆς· ἀπὸ γ΄ Ὠδῆς Κάθισμα τοῦ τυχόντος Ἁγίου καὶ μεθέορτον· ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα καὶ τὸ Μηνολόγιον τῶν Ἁγίων τῆς ἡμέρας· αἱ Καταβασίαι *Σταυρὸν χαράξας* καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου, εἶτα Στιχολογοῦμεν *Τὴν τιμιωτέραν*, τὸ ἀναστάσιμον Ἐξαποστειλάριον, καὶ μεθέορτον. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ μεθέορτα δ΄. *Δόξα* τὸ Ἑωθινον, *Καὶ νῦν* *Ὑπερευλογημένη*, Δοξολογία Μεγάλη καὶ τὸ *Σήμερον σωτηρία*.
 11.    Εἰς τὴν Λειτουργίαν τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῆς ἑορτῆς· μετὰ τὴν Εἴσοδον τὸ ἀναστάσιμον Ἀπολυτίκιον, τῆς ἑορτῆς, τοῦ Ἁγίου τοῦ Ναοῦ, καὶ τὸ Κοντάκιον *Ὁ ὑψωθείς*. Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς μετὰ τὴν Ὕψωσιν. Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### Τῇ Ις΄. Τῆς ἁγίας ἐνδόξου Μεγαλομάρτυρος καὶ πανευφήμου Εὐφημίας.
+**Τῇ Ις΄. Τῆς ἁγίας ἐνδόξου Μεγαλομάρτυρος καὶ πανευφήμου Εὐφημίας.**
 
 12.    Εἰ τύχοι ἡ μνήμη τῆς Ἁγίας ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται ὥς ἐστι διετεταγμένη ἐν τῷ Μηναίῳ μετὰ τῶν μεθεόρτων τοῦ τιμίου Σταυροῦ.
 13.    Εἰ τύχοι ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν ἀναστάσιμα Στιχηρὰ δ΄, μεθέορτα τοῦ Σταυροῦ γ΄ καὶ τῆς Ἁγίας γ΄, *Δόξα* τῆς Ἁγίας *Ἡ διηνθισμένη ταῖς ἀρεταῖς*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρά, *Δόξα* τὰ τῆς Ἁγίας, *Καὶ νῦν* μεθέορτον, Ἀπολυτίκια· τὸ Ἀναστάσιμον, τὸ τῆς Ἁγίας, τὸ τῆς ἑορτῆς καὶ Ἀπόλυσις.
@@ -42,7 +42,7 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 
 11.    At the Divine Liturgy: the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the Feast. After the Little Entrance: the Resurrection Dismissal Troparion, that of the Feast, that of the Patron Saint of the temple, and the Kontakion: **"Thou Who wast lifted up of Thine own will upon the Cross"** (*Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ*). The Epistle and Gospel of the Sunday after the Exaltation [Gal. 2:16–20; Mark 8:34–9:1]. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον ἐκ τῶν οὐρανῶν*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.[^154]
 
-### The 16th Day. The Holy Glorious Great-Martyr and All-Praised Euphemia.
+**The 16th Day. The Holy Glorious Great-Martyr and All-Praised Euphemia.**
 
 12.    If the commemoration of the Saint occurs on any weekday except Sunday: the service is chanted as prescribed in the Menaion together with the post-festal hymns of the Precious Cross.
 13.    If the feast occurs on Sunday: on Saturday evening at Great Vespers, following the Introductory Psalm and the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 4 Resurrection Stichira, 3 post-festal Stichira of the Cross, and 3 Stichira of the Saint; **"Glory"** of the Saint: **"Adorned with the virtues"** (*Ἡ διηνθισμένη ταῖς ἀρεταῖς*); **"Both now"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrection Stichira; **"Glory"** of the Saint; **"Both now"**: of the Feast; Dismissal Troparia: the Resurrection Dismissal Troparion, that of the Saint [**"Thy lamb, O Jesus, Euphemia"** / *Ἡ ἀμνάς σου, Ἰησοῦ*], that of the Feast, and Dismissal.
@@ -55,11 +55,11 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 καὶ μεθέορτον, ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα καὶ τὸ Μηνολόγιον τῶν Ἁγίων τῆς ἡμέρας· αἱ Καταβασίαι *Σταυρὸν χαράξας* καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου, εἶτα Στιχολογοῦμεν *Τὴν τιμιωτέραν*· Ἐξαποστειλάρια τὸ Ἀναστάσιμον, τὸ τῆς Ἁγίας καὶ τὸ τῆς ἑορτῆς. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ τῆς Ἁγίας δ΄, *Δόξα* τὸ Ἑωθινόν, *Καὶ νῦν* *Ὑπερευλογημένη*, Δοξολογία Μ. καὶ τὸ *Σήμερον Σωτηρία*.
 15.    Εἰς τὴν Λειτουργίαν τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῆς Ἁγίας δ΄, μετὰ τὴν Εἴσοδον τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τῆς ἑορτῆς, τὸ τῆς Ἁγίας, τὸ τοῦ Ἁγίου τοῦ Ναοῦ καὶ τὸ Κοντάκιον *Ὁ Ὑψωθείς*, Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς μετὰ τὴν [Ὕψωσιν.] Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### Τῇ Κ΄. Τοῦ ἁγίου Μεγαλομάρτυρος Εὐσταθίου καὶ τῶν συν αὐτῷ.
+**Τῇ Κ΄. Τοῦ ἁγίου Μεγαλομάρτυρος Εὐσταθίου καὶ τῶν συν αὐτῷ.**
 
 16.    Εἰ τύχοι ἐν Κυριακῇ τῷ Σαββάτῳ ἑσπέρας, εἰς τὸ *Κύριε ἐκέκραξα*, ἀναστάσιμα Στιχηρὰ δ΄, μεθέορτα γ΄ καὶ τοῦ Ἁγίου γ΄, *Δόξα* τοῦ Ἁγίου, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἰς τὰ Ἀπόστιχα, *Δόξα* τοῦ Ἁγίου *Καὶ νῦν* μεθέορτον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τοῦ Ἁγίου, τὸ τῆς ἑορτῆς, καὶ Ἀπόλυσις. Εἰς τὸν Ὄρθρον τὰ εἰς τὸ *Θεὸς Κύριος* Ἀπολυτίκια ὡς εἰς τὸν Ἑσπερινόν, Κανόνες ὁ Ἀναστάσιμος, ὁ τῆς ἑορτῆς καὶ ὁ τοῦ Ἁγίου, ἀπὸ γ΄ Ὠδῆς τὸ Κάθισμα τοῦ Ἁγίου, τὸ Ἀναστάσιμον Ἐξαποστειλάριον, τοῦ Ἁγίου, καὶ τὸ τῆς ἑορτῆς. Εἰς τὴν Λειτουργίαν, μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῆς ἑορτῆς, τὸ τοῦ Ἁγίου, καὶ τοῦ Ἁγίου τοῦ ναοῦ. Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς μετὰ τὴν Ὕψωσιν κτλ.
 
-### Τῇ ΚΑ΄. Ἡ Ἀπόδοσις τῆς ἑορτῆς τῆς Ὑψώσεως.
+**Τῇ ΚΑ΄. Ἡ Ἀπόδοσις τῆς ἑορτῆς τῆς Ὑψώσεως.**
 
 17.    Τῇ ΚΑ΄ τοῦ μηνὸς ἀποδίδοται ἡ ἑορτὴ καὶ ψάλλεται ἡ Ἀκολουθία ἀπαραλλάκτως ὡς ἐν τῇ κυρίᾳ τῆς ἑορτῆς ἡμέρᾳ, ἐξαιρουμένων ἐν μὲν τῷ Ἑσπερινῷ τῶν Ἀναγνωσμάτων, ἐν δὲ τῷ
 
@@ -71,11 +71,11 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 
 15.    At the Divine Liturgy: the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the Saint. After the Little Entrance: the Resurrection Dismissal Troparion, that of the Feast, that of the Saint, that of the Patron Saint of the temple, and the Kontakion: **"Thou Who wast lifted up of Thine own will upon the Cross"** (*Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ*); the Epistle and Gospel of the Sunday after the Exaltation [Gal. 2:16–20; Mark 8:34–9:1]. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.
 
-### The 20th Day. The Holy Great-Martyr Eustathius and Those with Him.[^155]
+**The 20th Day. The Holy Great-Martyr Eustathius and Those with Him.[^155]**
 
 16.    If the feast occurs on Sunday: on Saturday evening at Great Vespers, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 4 Resurrection Stichira, 3 post-festal Stichira, and 3 Stichira of the Saint; **"Glory"** of the Saint; **"Both now"**: the First Dogmatic Theotokion of the Tone. At the Aposticha: **"Glory"** of the Saint; **"Both now"**: post-festal Doxastikon of the Feast; Dismissal Troparia: the Resurrection Dismissal Troparion, that of the Saint [**"Thy martyrs, O Lord"** / *Οἱ μάρτυρές σου, Κύριε*], that of the Feast, and Dismissal. At Matins: at **"God is the Lord"** (*Θεὸς Κύριος*), the Dismissal Troparia as at Vespers. The Canons: of the Resurrection, of the Feast, and of the Saint. After the Third Ode: the Kathisma of the Saint; the Resurrection Exapostilarion, that of the Saint, and that of the Feast. At the Divine Liturgy: after the Little Entrance, the Resurrection Dismissal Troparion, that of the Feast, that of the Saint, and that of the Patron Saint of the temple. The Epistle and Gospel of the Sunday after the Exaltation, etc.
 
-### The 21st Day. The Apodosis of the Feast of the Universal Exaltation of the Precious Cross.
+**The 21st Day. The Apodosis of the Feast of the Universal Exaltation of the Precious Cross.**
 
 17.    The Apodosis of the Exaltation takes place on the 21st of the month, and the service is chanted without variation exactly as on the principal day of the Feast, with the following exceptions: at Vespers, the Old Testament Readings are omitted; at Matins:
 
@@ -109,14 +109,14 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 
 === LEAF p199 ===
 
-### Τῇ ΚΓ΄. Ἡ Σύλληψις τοῦ τιμίου Προδρόμου.
+**Τῇ ΚΓ΄. Ἡ Σύλληψις τοῦ τιμίου Προδρόμου.**
 
 1.    Εἰ τύχοι ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ. Εἰς τὸν Ὄρθρον αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου* καὶ Κοντάκιον *Προστασία τῶν χριστιανῶν*.
 2.    Εἰ τύχοι ἐν Κυριακῇ, τῷ Σαββ. ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα ς΄ καὶ τοῦ Προδρόμου δ΄, *Δόξα* τοῦ Προδρόμου, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρά, *Δόξα* τοῦ Προδρόμου, *Καὶ νῦν* *Ὁ ποιητὴς καὶ λυτρωτής μου*, Ἀπολυτίκια, τὸ Ἀναστάσιμον, τοῦ Προδρόμου, *Ἡ πρῴην οὐ τίκτουσα*, τὸ Θεοτοκίον καὶ Ἀπόλυσις.
 
 3.    Τῇ Κυρ. εἰς τὸν Ὄρθρον, μετὰ τὴν ἐξ ἔθους Ἀκολουθίαν τῆς Κυριακῆς, οἱ Κανόνες ἀμφότεροι ὅ, τε Ἀναστάσιμος καὶ ὁ τοῦ Προδρόμου, ἀπὸ γ΄ Ὠδῆς τὸ Κάθισμα *Θυμιῶντι ἐν Ναῷ*, [*Δόξα*,] *Καὶ νῦν*, *Κατεπλάγη Ἰωσήφ*, ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα, καὶ τὸ Μηνολόγιον τῶν Ἁγίων τῆς ἡμέρας, αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου* κτλ. Ἐξαποστειλάρια, τὸ ἀναστάσιμον, τὸ τοῦ Προδρόμου καὶ τὸ Θεοτοκίον. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ δ΄ τοῦ Προδρόμου. *Δόξα* τὸ Ἑωθινόν, *Καὶ νῦν* *Ὑπερευλογημένη*, Δοξολογία Μ., *Σήμερον σωτηρία* καὶ καθεξῆς ἡ Λειτουργία, Ἀπόστολος τοῦ Προδρόμου καὶ Εὐαγγέλιον τῆς Κυριακῆς, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### Τῇ ΚΔ. Μνήμη τοῦ γεγονότος Θαύματος παρὰ τῆς Θεομήτορος ἐν τῇ νήσῳ Κυθήρων, καὶ τῆς ἁγίας πρωτομάρτυρος καὶ Ἰσαποστόλου Θέκλης.
+**Τῇ ΚΔ. Μνήμη τοῦ γεγονότος Θαύματος παρὰ τῆς Θεομήτορος ἐν τῇ νήσῳ Κυθήρων, καὶ τῆς ἁγίας πρωτομάρτυρος καὶ Ἰσαποστόλου Θέκλης.**
 
 1.    Εἰ τύχοι ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα δ΄, τῆς Θεοτόκου γ΄ καὶ τῆς ἁγίας Θέκλης γ΄. *Δόξα* *Τίς μὴ θαυμάσῃ;* *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα τῆς Θεοτόκου. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, *Δόξα* τῆς Ἁγίας *Καὶ νῦν* τῆς Θεοτόκου, Ἀπολυτίκια τὸ Ἀναστάσιμον, τῆς Ἁγίας καὶ τῆς
 
@@ -124,7 +124,7 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 
 === LEAF p200 ===
 
-### The 23rd Day. The Conception [by Elizabeth] of the Honorable Forerunner.
+**The 23rd Day. The Conception [by Elizabeth] of the Honorable Forerunner.**
 
 1.    If the feast occurs on any weekday other than Sunday: the service is chanted as prescribed in the Menaion. At Matins: the Katavasiai: **"I shall open my mouth"** (*Ἀνοίξω τὸ στόμα μου*) and the seasonal Kontakion: **"O Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*).
 
@@ -132,7 +132,7 @@ Entrance Hymn [Isodikon]: **"Exalt the Lord our God, and worship at His footstoo
 
 3.    On Sunday at Matins: after the customary Sunday order, both Canons: that of the Resurrection and that of the Forerunner. After the Third Ode: the Kathisma: **"As Zacharias was offering incense in the temple"** (*Θυμιῶντι ἐν Ναῷ*), and [**"Glory"**,] **"Both now"**: **"Joseph was struck with wonder"** (*Κατεπλάγη Ἰωσήφ*); after the Sixth Ode: the Resurrection Kontakion and Ikos, and the Synaxarion of the Saints of the day from the Menaion; the Katavasiai: **"I shall open my mouth"** (*Ἀνοίξω τὸ στόμα μου*), etc. The Resurrection Exapostilarion, that of the Forerunner, and the Theotokion. At the Praises: 4 Resurrection Stichira and 4 Stichira of the Forerunner; **"Glory"**: the appointed Sunday Eothinon Doxastikon; **"Both now"**: **"Most blessed art thou, O Virgin Theotokos"** (*Ὑπερευλογημένη ὑπάρχεις*); the Great Doxology, and the Sunday Dismissal Troparion: **"Today salvation has come into the world"** (*Σήμερον σωτηρία*). Then follows the Divine Liturgy: the Epistle of the Forerunner [Gal. 4:22–31] and the Gospel of the Sunday; Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.[^157]
 
-### The 24th Day. Commemoration of the Miracle wrought by the Mother of God on the Island of Kythera, and of the Holy Protomartyr and Equal-of-the-Apostles Thecla.
+**The 24th Day. Commemoration of the Miracle wrought by the Mother of God on the Island of Kythera, and of the Holy Protomartyr and Equal-of-the-Apostles Thecla.**
 
 1.    If the commemoration occurs on Sunday: on Saturday evening at Great Vespers, following the Introductory Psalm [Psalm 103 LXX] and the First Kathisma of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 4 Resurrection Stichira, 3 Stichira of the Theotokos, and 3 Stichira of Saint Thecla; **"Glory"**: **"Who will not call thee blessed?"** (*Τίς μὴ θαυμάσῃ;*); **"Both now"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings of the Theotokos [Gen. 28:10–17; Ezek. 43:27–44:4; Prov. 9:1–11]. At the Aposticha: the Resurrection Stichira; **"Glory"** of the Saint; **"Both now"** of the Theotokos. The Dismissal Troparia: of the Resurrection, of the Saint, and of the Theotokos...
 

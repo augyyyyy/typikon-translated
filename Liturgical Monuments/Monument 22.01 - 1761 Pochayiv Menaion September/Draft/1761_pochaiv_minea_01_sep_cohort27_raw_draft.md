@@ -114,7 +114,7 @@ He who was caught up unto the third heaven into paradise and heard unutterable a
 *Sessional Hymn of Eustathius, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Upon the beast thou didst behold the form of the Cross, and upon it the form of Jesus: falling prostrate, thou wast amazed at the vision; and with all thy house thou didst come unto divine baptism, and becoming poor thou didst show thyself as a second Job. Therefore, being deprived of thy spouse and sons, thou didst cry aloud: The Lord gave, and the Lord has taken away [Job 1:21]! O commander Eustathius, pray unto Christ God to grant remission of sins unto those who with love celebrate thy holy memory! *Twice.*[^1846]
 
-*Glory, Both now, of the Feast, the same Tone and Podoben:*
+*Glory, Both now, of the Feast, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 The precious Cross of the Savior, hidden in the earth, came forth, and fills the fullness of the world with joy, and in the divine temple...
 
 === LEAF p265 ===

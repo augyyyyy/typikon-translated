@@ -283,7 +283,7 @@ Adorned with golden robes as a Queen, thou standest now at the right hand of the
 Sitting in glory upon the Throne of the Godhead, Jesus, the Most Divine, came upon a light cloud, from the Most Pure Virgin, and saved those that cry: Glory to Thy power, O Christ!
 
 *Troparion:*
-Held fast by despondency, wholly darkened by the gloom of passions, and enslaved to sin: free me, O Maiden Blessed of God, and reconcile me unto Thy Son and our God.
+Held fast by despondency, wholly darkened by the gloom of passions, and enslaved to sin: free me, O Maiden Blessed of God, and reconcile me unto thy Son and our God.
 
 *Troparion:*
 Quicken me who am slain by the malice of the deceiver, O All-Immaculate One, as thou didst give birth unto Life, for unto thee have I fled; and raise me who am buried in the depth of falls, as thou art merciful, O All-Immaculate One.

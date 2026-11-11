@@ -77,7 +77,7 @@ Brightly didst thou shine forth in thy suffering, O passion-bearer, adorned with
 *Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Having accomplished a twofold struggle on earth, O martyr, thou wast accounted worthy to receive a twofold crown from the hand of thy Bridegroom; for thou didst fast, bridling the passions of the flesh, and having suffered lawfully thou didst cast down the enemy. Therefore by thy supplications save us from perils.[^1412]
 
-*Glory... Both now... The same Tone and Podoben:*
+*Glory... Both now... The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 He Who clothes Himself with light as with a garment, Christ our God, is clothed with Jordan's streams. When the Father of one throne bare witness from on high, and the Spirit of glory came below, He it is that enlightens and sanctifies us.[^1413]
 
 *Ode 4. Heirmos:*
@@ -276,7 +276,7 @@ O initiate and steward of awesome mysteries, forerunner of joy and eyewitness of
 *Sticheron:*
 Let us the faithful lift up our hearts in understanding; let us hasten with diligence unto the streams of Jordan, and behold the Creator baptized in the flesh by John the Forerunner, and theologizing with him let us sing: Blessed art Thou Who hast appeared, our God, glory to Thee![^1472]
 
-*Glory... Both now... The same Tone and Podoben:*
+*Glory... Both now... The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 O the divine dispensation beyond the mind! How does the Creator stand before the creature and bow His head unto him? For by an indication He introduces the pattern of humility unto us who are enlightened through Him, unto Whom we sing: Blessed art Thou Who hast appeared, our God, glory to Thee![^1473]
 
 *At the Liturgy, the Beatitudes of the Feast, Ode 7, on 6.*[^1474]

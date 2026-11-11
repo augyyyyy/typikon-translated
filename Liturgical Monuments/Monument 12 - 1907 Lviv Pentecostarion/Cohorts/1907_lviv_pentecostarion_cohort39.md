@@ -86,7 +86,7 @@ The Creator of all and Giver of life, the Word co-everlasting with the Divine Fa
 === LEAF p384 ===
 When the Jewish feast was halfway through, O Christ, Thou didst present Thyself in the sanctuary, O Master of the Law, teaching with authority and rebuking the scribes, as it is written, and astonishing them by the wisdom of Thy words and the demonstrations of wonders.[^704]
 
-The Giver of wisdom and Pourer forth of good things, Who pours forth divine streams from the ever-flowing fountain, cries: Come unto Me, draw the water of life, ye that thirst; and rivers of divine gifts shall flow forth from the belly as from rock, He saith.[^705]
+The Giver of wisdom and Pourer forth of good things, Who pours forth divine streams from the ever-flowing fountain, cries: Come unto Me, draw the water of life, ye that thirst; and rivers of divine gifts shall flow forth from the belly as from rock, He says.[^705]
 
 *And of the Menaion, 3.*
 
@@ -110,7 +110,7 @@ I glorify the power of the Father and of the Son, and I praise the authority of 
 By Thy Passion, O Christ, Thou didst darken the sun, and by the light of Thy Resurrection Thou didst enlighten all things: accept our evening hymn, O Lover of mankind.
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 2:*
-Thou didst come into the sanctuary, O Wisdom of God, when the feast was halfway through, teaching and rebuking the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me, and drink living water, and he shall never thirst unto eternity; he that believs in My goodness, rivers of eternal life shall flow from his belly! O the goodness and compassion of Thine, O Christ our God, glory to Thee![^712]
+Thou didst come into the sanctuary, O Wisdom of God, when the feast was halfway through, teaching and rebuking the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me, and drink living water, and he shall never thirst unto eternity; he that believes in My goodness, rivers of eternal life shall flow from his belly! O the goodness and compassion of Thine, O Christ our God, glory to Thee![^712]
 
 *Troparion of the Feast. And the dismissal.*
 

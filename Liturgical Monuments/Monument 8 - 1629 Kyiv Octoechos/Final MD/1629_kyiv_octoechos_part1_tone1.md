@@ -178,7 +178,7 @@ Accept praise and honor from an impoverished mind, O incomprehensible, all-perfe
 
 *Theotokion:*
 
-Taking upon Himself human nature without change, O most pure Theotokos, Thy Son ascended unto the heavens by the surpassing abundance of His goodness, delivering ancient Adam, unto Whom also we thank-offeringly sing:
+Taking upon Himself human nature without change, O most pure Theotokos, thy Son ascended unto the heavens by the surpassing abundance of His goodness, delivering ancient Adam, unto Whom also we thank-offeringly sing:
 
 [f. 9rA] Let all creation bless the Lord, and exalt Him unto all ages!
 
@@ -412,7 +412,7 @@ The Word Who was bodiless before became incarnate of thee, O all-pure one, He Wh
 
 *Ode 7:*
 
-*Resurrection Canon. Heirmos:* Thee, O Theotokos, do we the faithful perceive as a spiritual furnace; for just as the Exalted One saved the three youths, so He has renewed the world, being made complete within thy womb: the praised God of our fathers, blessed art Thou!
+*Resurrection Canon. Heirmos:* Thee, O Theotokos, do we the faithful perceive as a spiritual furnace; for just as the Exalted One saved the three youths, so He has renewed the world, being made complete within thy womb: the praised God of our fathers, blessed art thou!
 
 The earth was seized with fear, and the sun hid itself, and the light was darkened; the divine veil of the temple was rent in twain, and the rocks were split; for upon the Cross hangs the Righteous One: the praised and all-glorious God of our fathers!
 
@@ -622,9 +622,9 @@ The rejoicing of the heavenly ranks, and upon earth the mighty helper of mankind
 [^17]: Sunday Canon of the Resurrection, Tone 1, traditionally attributed to St. John of Damascus. The Heirmos of Ode 1 (*Tvoyá pobědítelnaya desnítsa* / "Thy victorious right hand...") is based on the First Biblical Canticle, the Song of Moses at the Red Sea (Exodus 15:1–19 [LXX 15:1–19]).
 [^18]: The Kyiv 1629 Octoechos includes alongside the Resurrection Canon two complementary Sunday canons: the Canon to the Precious and Life-Giving Cross (*In" Kanon" Krestu*) and the Canon to the Most Holy Theotokos (*In" Kanon" Presvyatěi Bogoroditsě*), chanted conjointly at Sunday Matins.
 [^19]: Dogmatic Theotokion of the Canon to the Cross: *Boga dshche zachalá yesi... v" dvoyu sushchestvu, znayemago sna* ("Thou didst conceive God, O daughter... the Only-begotten Son known in two natures"), expressing the Christological dogma of the Council of Chalcedon (451 AD).
-[^20]: Epigraphic reading: *u Piláta isprosíste umobrědno* [Slavonic: оумобрѣ́дно / оумнобрѣ́дно], translating Greek ἐкφρόνως ("madly, frantically, out of your mind"), describing the irrational clamor of the crowd demanding Christ's crucifixion before Pontius Pilate.
+[^20]: Epigraphic reading: *u Piláta isprosíste umobrědno* [Slavonic: оумобрѣ́дно / оумнобрѣ́дно], translating Greek ἐκφρόνως ("madly, frantically, out of your mind"), describing the irrational clamor of the crowd demanding Christ's crucifixion before Pontius Pilate.
 [^21]: Canon to the Cross, Ode 4: *Kto yesí krasen" iz" Edéma... ot" vinograda vosoríka* ("Who art Thou that comest fair from Edom, and this redness of garments from the vineyard of Bozrah?"), drawing directly upon the messianic and prophetic vision of Isaiah 63:1–3 [LXX 63:1–3].
-[^22]: Canon to the Cross, Ode 6: *Um" syi bezstrasten" i neshchestven", priměshayetsya Khs" Bg" umu chlcheskomu* ("Being the impassible and immaterial Mind, Christ God unites Himself to the human mind"), directly echoing St. Gregory the Theologian's soteriological doctrine (Ep. 101): "For that which He has not assumed He has not healed" (τὸ γὰρ ἀπρόσληπτον, ἀθεράпеυτον).
+[^22]: Canon to the Cross, Ode 6: *Um" syi bezstrasten" i neshchestven", priměshayetsya Khs" Bg" umu chlcheskomu* ("Being the impassible and immaterial Mind, Christ God unites Himself to the human mind"), directly echoing St. Gregory the Theologian's soteriological doctrine (Ep. 101): "For that which He has not assumed He has not healed" (τὸ γὰρ ἀπρόσληπτον, ἀθεράπευτον).
 [^23]: Canon of the Cross, Ode 7, Heirmos: *Sotrotsi vo blagochestii vospitani* ("The youths reared in piety..."), rooted in the biblical canticle of the Three Holy Children in the Babylonian furnace (Daniel 3:19–24 [LXX Daniel 3:51–90]). The first troparion explicitly contrasts the earth cursed through the innocent blood of Abel shed by Cain (Genesis 4:10–11) with the earth blessed through sprinkling by Christ's God-flowing Blood (Hebrews 12:24).
 [^24]: Canon of the Most Holy Theotokos, Ode 7: *v Adamovu kozhu obleksya* ("clothed Himself in the skin of Adam"). This draws upon the classic patristic interpretation of the "tunics of skins" (Genesis 3:21) bestowed upon the fallen protoplasts, signifying mortal and passible human nature assumed without sin by the Incarnate Logos (cf. St. Gregory the Theologian, *Oration 38 on the Theophany*, 12; St. John of Damascus, *Exposition of the Orthodox Faith*, III.1).
 [^25]: Epigraphic witness on Fol. 20r: The lower margin contains an identical 19th-century cursive ownership inscription to that found on Fol. 10r (Cohort 2): *Принадлежитъ библїотекѣ Троицкой Сергїевой Лавры. 1859 года* ("Belongs to the library of the Trinity-St. Sergius Lavra, year 1859"), corroborating the provenance of this copy in the collection of the Trinity-St. Sergius Lavra.

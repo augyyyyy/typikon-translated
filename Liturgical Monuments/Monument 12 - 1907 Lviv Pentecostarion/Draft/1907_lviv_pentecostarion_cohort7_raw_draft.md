@@ -179,7 +179,7 @@ At that time, the people that was with Jesus bore witness when He called Lazarus
 *Ending in section 43:*  
 Even as the Father said unto Me, so I speak.
 
-*Psalm 50. And the Tri-ode, the composition of the lord Cosmas, whose acrostic is: "On Wednesday I sing" [Τετράδι ψάλλω / (*(*Тетра́ди ѱалῶ*)*)].*[^93]  
+*Psalm 50. And the Tri-ode, the composition of the lord Cosmas, whose acrostic is: "On Wednesday I sing" [Τετράδι ψάλλω / (* (* (*Тетра́ди ѱалѡ̂*)*)*)].*[^93]  
 *That is: On Wednesday I sing. The Heirmoi twice, and the troparia on 12. The last Heirmos by both choirs together.*
 
 *Tone 2. Ode 3. Heirmos:*  

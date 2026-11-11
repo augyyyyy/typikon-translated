@@ -17,8 +17,8 @@
 [^249]: Penitential Sticheron 1: Tone 1, Podoben "O all-lauded martyrs" (Прехва́льніи мꙋ́ченици / Πανεύφημοι μάρτυρες). Luke 15:4–6 (the Good Shepherd carrying the lost sheep upon His shoulders) conflated with the return of the Prodigal Son (Luke 15:11–32).
 [^250]: Penitential Sticheron 2: Creation ex nihilo and the formation of man in the divine image (Gen. 1:26–27; 2:7), restored through the Incarnation.
 [^251]: Penitential Sticheron 3: Christ the true Son of the heavenly Father becoming the Son of Man to seek out humanity deceived by the serpent (Gen. 3:1–6; Luke 19:10).
-[^252]: Stichera to the Bodiless Powers (Безпло́тнымъ / Ἀσωμάтоις). Sticheron 1: The immaterial celestial hierarchies standing before the divine throne and illuminated by the uncreated light (Dionysius the Areopagite, *De Coelesti Hierarchia*). The stanza begins at the bottom of printed fol. 30 (physical leaf p32) and continues on physical leaf p33.
-[^253]: Sticheron 1 to the Bodiless Powers (concluded): The angels designated as "secondary lights" (φῶта δεύτερα) reflecting the primary divine light (cf. St. Gregory the Theologian, Oration 40.5).
+[^252]: Stichera to the Bodiless Powers (Безпло́тнымъ / Ἀσωμάτοις). Sticheron 1: The immaterial celestial hierarchies standing before the divine throne and illuminated by the uncreated light (Dionysius the Areopagite, *De Coelesti Hierarchia*). The stanza begins at the bottom of printed fol. 30 (physical leaf p32) and continues on physical leaf p33.
+[^253]: Sticheron 1 to the Bodiless Powers (concluded): The angels designated as "secondary lights" (φῶτα δεύτερα) reflecting the primary divine light (cf. St. Gregory the Theologian, Oration 40.5).
 [^254]: Sticheron 2 to the Bodiless Powers: Receiving imperishable life from the First Life and beholding eternal wisdom.
 [^255]: Sticheron 3 to the Bodiless Powers: The nine angelic ranks explicitly invoked (Archangels, Angels, Principalities, Thrones, Dominions, six-winged Seraphim, many-eyed Cherubim, Powers, Authorities; cf. Pseudo-Dionysius).
 [^256]: Theotokion at Lord, I have cried: Pleading the Virgin's intercession with the bodiless hosts before the evening of death arrives.
@@ -28,7 +28,7 @@
 [^260]: Penitential Aposticha Sticheron 2: Condemned by evil thoughts and deeds, praying for the gift of repentance.
 [^261]: LXX Ps. 122:3: "Have mercy on us, O Lord, have mercy on us, for we are utterly filled with contempt."
 [^262]: Aposticha Sticheron 3: Supplication through the prayers of all Saints and the Theotokos.
-[^263]: Theotokion Automelon: Podoben "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ / Τῶν οὐρανίων таγμάτων).
+[^263]: Theotokion Automelon: Podoben "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ / Τῶν οὐρανίων ταγμάτων).
 [^264]: Concluding rubrics of Sunday Vespers: "Lord, now lettest Thou Thy servant depart" (Luke 2:29–32); Trisagion prayers; Troparion of the Saint of the day (from the Menaion); Glory... Both now... Theotokion; Litany and Dismissal.
 [^265]: On Sunday at Compline (Въ Недѣ́лю на Повече́рїи): The Supplicatory Canon to the Most Holy Theotokos (Канѡ́нъ моле́бный прест҃ѣ́й Бцⷣѣ) in Tone 1.
 [^266]: Ode 1 Heirmos: LXX Exod. 15:6 ("Thy right hand, O Lord, is glorified in strength; Thy right hand, O Lord, hath shattered the enemies").

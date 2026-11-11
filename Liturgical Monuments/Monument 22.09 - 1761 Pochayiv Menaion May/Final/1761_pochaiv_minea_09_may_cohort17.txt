@@ -19,7 +19,7 @@ Having wisely adorned the lamp of thy soul with the oil of virtues, O glorious M
 *Theotokion:*
 We the dead have become immortal by the divine grace of thy childbearing; and we have been delivered from the first corruption, O most pure Birthgiver of God, and have been adorned with the garment of incorruption.
 
-*Kontakion, Tone 3. Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion, Tone 3. Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Thou hast appeared as a fellow-sufferer and armed companion of the martyrs, thou wast an excellent warrior of the King of glory; by temptations and torment thou didst trample down the pride of the idol-worshipers. For this cause we sing of thy honored memory, O wise Thalelaeus.
 
 *Ikos:*
@@ -84,7 +84,7 @@ Elevate, O Good and Pure One, the downward-dragging wisdom of my soul unto the a
 
 *In the same month, on the 21st day: The Holy Great Sovereigns and Equal-to-the-Apostles, Constantine and Helena.*[^309]
 
-*At "Lord, I have cried," Stichera of the Feast on 6, and of the Saints on 5,[^310] Tone 4. Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*At "Lord, I have cried," Stichera of the Feast on 6, and of the Saints on 5,[^310] Tone 4. Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 
 *Sticheron 1:*
 Thou hast given a most mighty weapon unto our sovereign: Thy precious Cross, wherewith he reigned righteously upon earth, having shone forth in piety, and was accounted worthy of the heavenly kingdom by Thy tender compassion; with whom we glorify Thy dispensation of love for mankind, O Jesus All-Powerful, Savior of our souls.
@@ -147,7 +147,7 @@ The Church today having adorned herself with thy power, O sovereign, mystically 
 
 *Now and ever... of the Feast; or Theotokion:*
 
-*At the Aposticha, Stichera, Tone 2. Podoben: "When from the Tree" (Yegda ot dreva):*[^315]
+*At the Aposticha, Stichera, Tone 2. Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*[^315]
 As the first king among Christians, O Constantine, thou didst receive the scepter from God; for unto thee was revealed the saving sign hidden in the earth, wherewith thou didst also subdue all nations under the feet of the Romans, having the life-creating Cross as an unconquerable weapon, O blessed one, whereby also thou wast brought unto our God.
 
 *Verse:* I have exalted one chosen out of My people; I have found David My servant.[^316]
@@ -172,13 +172,13 @@ Having seen the pattern of Thy Cross in the heavens, and like Paul having receiv
 *At Matins, at "God is the Lord," the Troparion of the Feast, twice.*
 *Glory... of the Saints; Now and ever... of the Feast.*
 
-*After the 1st Kathisma, Sessional Hymn, Tone 3. Podoben: "Of the Divine Faith" (Bozhestvennyya very):*
+*After the 1st Kathisma, Sessional Hymn, Tone 3. Podoben: "Of the Divine Faith" (Бж҃е́ственныѧ вѣ́ры):*
 A new David wast thou in types, receiving the horn from on high upon the summit of thy kingdom; for the all-radiant Word and Lord anointed thee with the oil of the Spirit, O glorious one; whence thou didst also receive the royal scepter, O all-wise one: ask great mercy for us! *(Twice)*
 
 *Glory... Now and ever... of the Feast; or Theotokion:*
 Thou wast the divine tabernacle of the Word, O only most pure Virgin Mother, who by purity didst surpass the angels: cleanse me who beyond all am become dust, defiled by carnal transgressions, with the divine waters of thy prayers, granting great mercy, O pure one!
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 6. Podoben: "The Angelic Powers" (Angelskiya):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 6. Podoben: "The Angelic Powers" (А҆́гг҃льскїѧ пред̾иди́те си́лы):*
 Fastened upon the Cross, the Creator of the sun and creation drew thee like a radiant star from heaven with the stars, unto Whom as first sovereign He laid upon thee the rule through the Church; therefore we praise thee, O most pious King Constantine, with Helena thy God-wise mother. *(Twice)*
 
 *Glory... Now and ever... of the Feast; or Theotokion:*
@@ -187,7 +187,7 @@ Gideon prefigures the conception, and David declares thy childbearing,
 === LEAF p169 === (Fol. 85r)
 ...childbearing, O Birthgiver of God; for like rain upon the fleece, the Word descended into thy womb, and without seed thou didst bud forth salvation unto the world, Christ our God, O full of grace!
 
-*After the Polyeleos, Sessional Hymn, Tone 4. Podoben: "Speedily Anticipate" (Skoro predvari):*[^319]
+*After the Polyeleos, Sessional Hymn, Tone 4. Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*[^319]
 Thy feastful memory having appeared unto us, illumines the ends of the world with the light of the knowledge of God, O Constantine inspired of God; for thou didst show thyself pious among kings, having kept the laws of the heavenly King. Therefore by thy prayers deliver us from temptations! *(Twice)*
 
 *Glory... Now and ever... Theotokion:*
@@ -256,7 +256,7 @@ Having fallen away from the sacred commonwealth, O most pure one, I was joined u
 
 *Kontakion and Ikos of the Feast.*
 
-*Then, Sessional Hymn, Tone 8. Podoben: "Of Wisdom" (Premudrosti):*[^322]
+*Then, Sessional Hymn, Tone 8. Podoben: "Of Wisdom" (Премꙋ́дрости):*[^322]
 Having stretched thy senses toward heaven, and having learned the beauty of the stars, from them thou wast mystically taught of the Lord; and the sign of the Cross shone brightly in their midst, with the inscription thereon to conquer and be sovereign. Therefore having opened the eyes of thy soul, thou didst read the writing and wast taught the pattern, O all-honored Constantine: pray unto Christ God to grant forgiveness of sins unto them that celebrate thy holy memory with love! *(Twice)*
 
 *Glory... Now and ever... of the Feast; or Theotokion:*

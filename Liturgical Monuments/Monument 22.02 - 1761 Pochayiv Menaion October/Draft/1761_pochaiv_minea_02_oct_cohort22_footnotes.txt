@@ -1,4 +1,4 @@
-[^759]: The sessional hymn is directed to be chanted twice (*Два́жды*). Model heading: Tone 8, Podoben: "The Wisdom and Word" (*Премꙋ́дрости* / *Ті̀ν Σοφίαν καὶ Λόγον*).
+[^759]: The sessional hymn is directed to be chanted twice (*Два́жды*). Model heading: Tone 8, Podoben: "The Wisdom and Word" (*Премꙋ́дрости* / *Τὶν Σοφίαν καὶ Λόγον*).
 [^760]: Theotokion following the sessional hymn to St. Artemius. 'Spiritual Sun' translates *со́лнца ᲂу҆́мнагѡ* (*νοητοῦ ἡλίου*).
 [^761]: Staurotheotokion (Cross-Theotokion) chanted on Wednesdays and Fridays in place of the regular Theotokion.
 [^762]: Heirmos of Ode 4, Tone 2 (*Прише́лъ є҆сѝ ѿ дв҃ы* / *Ἐλήλυθας ἐκ Παρθένου*), based on Habakkuk 3:2–3.
@@ -40,6 +40,6 @@
 [^798]: Kontakion of St. Hilarion begins at the foot of leaf p219 (fol. 108v) and continues onto leaf p220 (fol. 109r).
 [^799]: Kontakion of St. Hilarion the Great, Tone 3, Podoben: "Today the Virgin" (*Дѣ́ва дне́сь* / *Ἡ Παρθένος σήμερον*).
 [^800]: Ikos of St. Hilarion the Great, concluding with the refrain: "Rejoice, O father, foundation of all ascetics!"
-[^801]: Heirmos of Ode 7, Tone 2 (*Бг҃опроти́вное велѣ́нїе* / *Ἀντίθεον πρόстаγμα παρανομούντος τυράννου*), Daniel 3:19–28.
+[^801]: Heirmos of Ode 7, Tone 2 (*Бг҃опроти́вное велѣ́нїе* / *Ἀντίθεον πρόσταγμα παρανομούντος τυράννου*), Daniel 3:19–28.
 [^802]: Heirmos of Ode 8, Tone 2 (*Пе́щь и҆ногда̀ ѻ҆́гненнаѧ въ вавѷлѡ́нѣ* / *Κάμινός ποτε πυρὸς ἐν Βαβυλῶνι*), Daniel 3:57.
 [^803]: Ode 8 troparion continues onto leaf p221 (fol. 109v) in Cohort 23.

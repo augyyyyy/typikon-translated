@@ -1,10 +1,10 @@
 import sys
 import os
 from datetime import date
-sys.path.insert(0, "c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded")
+sys.path.insert(0, "c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded")
 from ruthenian_engine import RuthenianEngine
 
-engine = RuthenianEngine(base_dir="c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded")
+engine = RuthenianEngine(base_dir="c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded")
 target_date = date(2026, 6, 11)
 context = engine.get_liturgical_context(target_date)
 

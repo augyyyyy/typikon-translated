@@ -46,7 +46,7 @@ The Lord said: "I am the door: by Me if anyone enter in, he shall be saved, and 
 
 *Martyrikon:* Thy Martyrs, O Lord, denied Thee not, nor departed from Thy commandments: by their prayers have mercy on us!
 
-*Glory... Both now... Theotokion:* Having come to know the image of Him Who was incarnate of thee,[^179] O Virgin: pray Thou unto Him for the salvation of our souls!
+*Glory... Both now... Theotokion:* Having come to know the image of Him Who was incarnate of thee,[^179] O Virgin: pray thou unto Him for the salvation of our souls!
 
 # TONE 7
 

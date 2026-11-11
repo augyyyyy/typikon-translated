@@ -115,7 +115,7 @@ A radiant luminary hast thou appeared, O Hieromartyr Josaphat; for as a good she
 *Glory... Now and ever... Of the Feast of the Elevation, the same Tone, Podoben: "That which was commanded mystically" (Пове́лѣнное та́йнѡ):*
 *After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: "Joseph was amazed" (Оу҆диви́сѧ І҆ѡ́сифъ):*
 Having made thy heart a fair altar and ministered unbloody sacrifices, thou didst offer them unto God; and having suffered valiantly from the ungodly enemies and endured manifold torments, thou wast brought as an acceptable sacrifice unto Christ our God Who sacrificed Himself for our sake, O all-blessed Hieromartyr Josaphat, all-lauded father: Whom do thou fervently pray unceasingly that all may be saved who praise thee with love.
-*Glory... Now and ever... Of the Feast of the Elevation, the same Tone and Podoben: Moses stretched forth his hands unto the height of heaven...*
+*Glory... Now and ever... Of the Feast of the Elevation, the same Tone and Podoben: Moses stretched forth his hands unto the height of heaven (Гла́съ и҆ подо́бенъ то́йже)...*
 *If it occur on Sunday, all the Sessional Hymns are Resurrectional. Then, "Praise the Name of the Lord."*
 *We sing the Megalynarion:*
 We magnify thee, O Hieromartyr of Christ Josaphat, and we honor thy precious sufferings, which thou didst endure for the Union from the council of dissension.
@@ -291,7 +291,7 @@ Come, ye assemblies of the faithful, let us clap our hands, praising in song the
 Having appeared as a manifestation of the Divine, enlightened with brightness, O Peter, of steadfast mind: thou didst flee Egyptian laws as a shadow by grace and truth, divinely-wise father, being sprinkled; whence having become a receptacle of the Most Holy Spirit, thou didst receive the gift of wonders, and didst enrich us thy children: and now standing with the Chief Hierarchs before Christ, pray for our souls.
 *Now and ever... Of the Forefeast, Theotokion. Prokeimenon of the day, and three Readings: "The memory of the just," "Though the righteous," and "The righteous man is praised..." (seek at fol. 100)[^53]. At the Litiya: of the Forefeast; or these Stichera to the holy martyr are sung at Small Vespers, if there be a vigil.*
 
-*AT THE APOSTICHA, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆vфра́ѳовъ):*
+*AT THE APOSTICHA, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 *Sticheron 1:*
 A spiritual house of the outpouring of grace Peter hath appeared; coming together now, let us sing unto him.
 *Stichos: Thy priests shall clothe themselves with righteousness, and Thy venerable ones shall rejoice (Ps. 131:9).*

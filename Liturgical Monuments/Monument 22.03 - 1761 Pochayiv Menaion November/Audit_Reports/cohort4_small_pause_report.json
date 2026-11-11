@@ -233,7 +233,7 @@
         {
           "type": "out_of_sandbox_write",
           "tool": "edit_file",
-          "detail": "Subagent wrote/edited outside cohort sandbox: c:/users/augus/onedrive/documents/google antigravity/projects/translation/scripts/hieratic_pronoun_audit.py",
+          "detail": "Subagent wrote/edited outside cohort sandbox: c:/users/augus/documents/google antigravity/projects/translation/scripts/hieratic_pronoun_audit.py",
           "attributed_leaf": 40
         }
       ],

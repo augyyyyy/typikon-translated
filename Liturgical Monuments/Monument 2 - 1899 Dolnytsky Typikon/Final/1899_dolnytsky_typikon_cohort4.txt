@@ -2,9 +2,9 @@
 
 === LEAF p61 ===
 
-### Non-Polyeleos Saint on Weekdays, Except Saturday
+**Non-Polyeleos Saint on Weekdays, Except Saturday** <a id="non-polyeleos-saint-on-weekdays-except-saturday"></a>
 
-#### At Vespers
+**At Vespers**
 
 1. The Kathisma of the row.[^71] On Sunday evening, on account of the labor of the Vigil that had taken place sometimes, a Kathisma is not appointed; on Feast evenings, however, to which the Typikon assigns an All-Night Vigil, the Kathisma of the row is omitted.
 2. At **"Lord, I have cried,"** six Stichera: from the Oktoechos of the Tone of the row, 3,[^72] and from the Menaion of the Saint, 3; then **"Glory... Now and forever..."** the Theotokion (or Stavrotheotokion) which is after the Stichera of the Saint. If in the Menaion there is a Doxastikon to the Saint, we chant **"Glory..."** his Doxastikon, **"Now and forever..."** the Theotokion of the Oktoechos according to the Tone of the Doxastikon,
@@ -26,18 +26,18 @@ and according to the day of the week, from **"Lord, I have cried."** Such a Doxa
 5. The Troparion of the Saint; **"Glory... Now and forever..."** the Dismissal Theotokion from the Horologion, according to the Tone of the Troparion of the Saint and according to the day of the week.
 — If two Saints occur, there is the Troparion to the first Saint, **"Glory..."** to the second, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint and according to the day of the week.[^74]
 
-#### At Compline
+**At Compline**
 1. The Canon of the Mother of God from the Oktoechos, of the Tone of the row, without change as in the Oktoechos; that is, each Ode with the Heirmos on 5, without Katavasias and without Litanies, only after the 6th Ode: **"Lord, have mercy,"** thrice; then **"Glory... Now and forever..."** the Sessional Hymn.
 2. Troparia after **"It is truly right"**: of the Temple, if it is of the Lord or of the Mother of God, then of the day of the week, and the other four which are in the Horologion in the sequence of Small Compline. If, however, it is a Temple of a Saint, then first of the day, then of the Temple. On Wednesday and Friday, even if the Temple is of the Lord or of the Mother of God, there is no need to say it before the Temple, because the Troparion of the Cross is of the Lord.[^75]
 
-#### At Midnight Office
+**At Midnight Office**
 All things without change as in the Horologion on weekdays.
 
 ---
 
 === LEAF p64 ===
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord,"** the Troparion of the Saint twice; **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint and according to the day of the week.[^76]
 — If two Saints occur, there is the Troparion to the first Saint twice, **"Glory..."** to the second once, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint.[^77]
 2. The Kathismata of the row, usually two, each of which is followed by the Little Litany and the Sessional Hymn of the Oktoechos,[^78]
@@ -74,11 +74,11 @@ Service is designated for this day, the Theotokion of the Oktoechos is taken, an
 
 === LEAF p68 ===
 
-#### At the Hours
+**At the Hours**
 Troparia and Kontakia: at the 1st, of the day of the week; at the 3rd and 9th, to the Saint; at the 6th, of the Temple.[^88]
 — If two Saints occur, the Troparion and Kontakion at the 1st Hour are of the day of the week; at the 3rd, to the first Saint; at the 6th, of the Temple; at the 9th, to the second Saint.[^89]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 According to our most common custom, all things are taken of the day alone, namely:
 1. The Troparion of the day of the week, then **"Glory..."** its Kontakion, **"Now and forever..."** the Kontakion of the Temple, if it is of the Lord or of the Mother of God; but if it is a Temple of a Saint, then the common Theotokion: **"Steadfast Protectress"** (*Предстательство* / *Заступнице*),[^90] or one of the Festal ones of the Mother of God, according to the Tone.[^91] On Wednesday and Friday we do not select Theotokia, but conclude the Troparion of the day with the Kontakion of the day with the refrain: **"Glory... Now and forever..."**, for this Kontakion is of the Lord.
 2. The Prokimenon, Alleluia, and Communion Hymn of the day of the week (at the end of the Epistolary or of our Sluzhebnik).
@@ -112,12 +112,12 @@ According to our most common custom, all things are taken of the day alone, name
 
 === LEAF p72 ===
 
-### Non-Polyeleos Saint on Saturday
+**Non-Polyeleos Saint on Saturday** <a id="non-polyeleos-saint-on-saturday"></a>
 
-#### Note
+**Note**
 On the first five weekdays the Service of the Oktoechos precedes the Service of the Menaion; on Saturday, on the contrary, the Service of the Menaion precedes that of the Oktoechos: because that on Saturday is common to all Saints and the Departed, while the Service of the Menaion is proper to the Saint whose day it is.
 
-#### At Vespers
+**At Vespers**
 1. The Kathisma of the row (18th), which is omitted only when an All-Night Vigil has preceded.
 2. At **"Lord, I have cried,"** six Stichera: to the Saint from the Menaion, 3, and of the Oktoechos, 3, written in the first place;[^99] then **"Glory... Now and forever..."** the 1st Theotokion of the current Tone that is concluding (the Dogmatikon of the preceding Sunday).[^100] If there is a Doxastikon in the Menaion to the Saint, after it that same 1st Theotokion of the Tone is taken, with the refrain: **"Now and forever..."**
 — If two Saints occur, there are to the first Saint 3, and to the second 3; **"Glory... Now and forever..."** the 1st Theotokion of the Tone. If there is a Doxastikon to the first Saint, after it that same 1st Theotokion of the Tone is taken with the refrain: **"Now and forever..."**
@@ -139,13 +139,13 @@ On the first five weekdays the Service of the Oktoechos precedes the Service of 
 parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
 6. The Dismissal, according to our custom, the Great Dismissal on account of the Apodosis of the Tone, with the commemoration of the daily Service and of the Saint.[^103]
 
-#### At Compline
+**At Compline**
 1. The Canon of the Mother of God from the Oktoechos of the Tone of the row.
 2. After **"It is truly right"**: the Troparion of the day, that is, **"Apostles, Martyrs,"** **"Glory..."** the Kontakion: **"With the Saints give rest,"** **"Now and forever..."** the Kontakion: **"As first-fruits."**[^104]
 
-#### Saturday Midnight Office
+**Saturday Midnight Office**
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord,"** the Troparion of the Saint twice; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^105]
 — If two Saints occur, there is the Troparion of the first Saint twice, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
 2. Two Kathismata of the row, followed by the Little Litany and Sessional Hymns, of which the two of the Martyrs
@@ -176,11 +176,11 @@ first on 4, then of the second on 4. If, however, it is a Temple of a Saint, the
 — If two Saints occur, there is the Troparion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Dismissal Theotokion (which is at the end of Matins) according to the Tone of the second Saint.
 7. The Great Dismissal, with the commemoration of the daily Service (as we stated at Vespers) and of the Saint, one and the other, if there be one.
 
-#### At the Hours
+**At the Hours**
 Troparia, according to our present custom: at the 1st, the Troparion and Kontakion of the day; at the 3rd and 9th, to the Saint; at the 6th, of the Temple.
 — If two Saints occur, then at the 1st and 6th as with a single Saint; at the 3rd, the Troparion and Kontakion to the first Saint; at the 9th, to the second.[^114]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 According to our custom all things are of the day alone: that is, the Troparion; **"Glory... Now and forever..."** the Kontakion of the day; and all the rest of the day.[^115]
 
 ---
@@ -189,11 +189,11 @@ According to our custom all things are of the day alone: that is, the Troparion;
 
 If thou takest the Service both of the day and to the Saint, then the Service of the Saint precedes that of the day, except for the Epistle and Gospel, which are taken first of the day, then to the Saint; and there is the Troparion to the Saint and of the day, **"Glory..."** the Kontakion to the Saint, **"Now and forever..."** the Kontakion of the day. The Prokimenon, Alleluia, and Communion Hymn to the Saint, then of the day; the Epistle and Gospel of the day and to the Saint.[^116]
 
-### Polyeleos Saint on Sunday
+**Polyeleos Saint on Sunday** <a id="polyeleos-saint-on-sunday"></a>
 
 A Polyeleos Saint may be celebrated either on 6 or on 8,[^117] although in present Slavonic books scarcely any Polyeleos Saint is found on 6, but on 8.[^118]
 
-#### At Great Vespers
+**At Great Vespers**
 1. The Kathisma: **"Blessed is the man"** (according to the earlier Typikon, in its entirety).
 2. At **"Lord, I have cried,"** 10 Stichera: that is, the Sunday ones of the Oktoechos of the Tone of the row, 4; then to the Saint, 6; **"Glory..."** to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone of the row (the Dogmatikon).
 3. The Great Prokimenon of the day: **"The Lord is King,"** and three Readings to the Saint.
@@ -206,13 +206,13 @@ A Polyeleos Saint may be celebrated either on 6 or on 8,[^117] although in prese
 5. At the conclusion: the Sunday Troparion; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^120]
 6. The Great Dismissal, with the commemoration of the Sunday and of the Saint.
 
-#### At Compline
+**At Compline**
 The Marian Canon of the Oktoechos of the Tone of the row. After the Trisagion, the Kontakion to the Saint alone.[^121]
 
-#### At Midnight Office
+**At Midnight Office**
 The Triadikon Canon of the Oktoechos of the Tone of the row.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Sunday Troparion of the Tone twice; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^122]
 
 ---

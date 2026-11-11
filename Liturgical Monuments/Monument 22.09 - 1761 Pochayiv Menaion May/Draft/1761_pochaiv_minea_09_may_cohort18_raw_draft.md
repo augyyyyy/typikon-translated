@@ -42,7 +42,7 @@ Guided by Thy hand, O Word, they that reigned through Thee cast away the deepest
 Heal my heart, which hath been incurably diseased and sorely wounded by the wounding of the evil one, O Maiden, and vouchsafe me thy healing, and save me who place my hope in thee, through thine intercessions, O all-immaculate one!
 
 === LEAF p172 === (Fol. 86v)
-*Kontakion, Tone 3. Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion, Tone 3. Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Today Constantine with his mother Helena reveals the Cross, the all-venerable Tree, which is the shame of all the Jews, and a weapon against adversaries for faithful sovereigns; for for our sake there hath appeared a great sign, terrible in battle.
 
 *Ikos:*
@@ -96,18 +96,18 @@ O pre-eternal, immortal King, Thou hast vouchsafed the heavenly kingdom unto the
 *Theotokion:*
 Having conceived the King and Creator of all, O Virgin, thou didst give birth unto Him, and lo, now as a queen thou standest at His right hand, O Pure One; therefore I pray thee: Deliver me from the portion on the left in the hour of judgment, and number me with the sheep on the right!
 
-*Exapostilarion, Podoben: "Give Ear, Ye Women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give Ear, Ye Women" (Жє́ны оу҆слы́шите):*
 Beacons that have illumined the whole universe with the faith of piety have ye truly appeared, O God-crowned Constantine and glorious Helena; we doxologize in hymns Christ Who hath magnified you, Who is marvelous in the saints.
 
-*Glory... Another, Podoben:*
+*Glory... Another, Podoben (Подо́бенъ):*
 
 === LEAF p174 === (Fol. 87v)
-*Podoben: "With the Disciples" (Uchenikom):*
+*Podoben: "With the Disciples" (Оу҆ченикѡ́мъ зрѧ́щымъ):*
 Not from men did great Constantine with his mother receive imperial dominion, but from divine grace; illumined from heaven, he beheld the divine trophy of the Cross, and having thereby destroyed his enemies, he overthrew the idolatrous deceit, and confirmed the Orthodox Faith in the world.
 
 *Both now... of the Feast.*
 
-*At the Praises, Stichera of the Feast on 4, and of the Saints on 3, Tone 8. Podoben: "O Marvelous Wonder" (O preslavnago chudese):*
+*At the Praises, Stichera of the Feast on 4, and of the Saints on 3, Tone 8. Podoben: "O Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 Rejoice, O all-wise Constantine, fountain of Orthodoxy, ever watering the whole world under the sun with sweet streams! Rejoice, O root from which sprang forth the fruit that nourishes the Church of Christ! Rejoice, O glorious boast of the ends of the earth, first of Christian emperors! Rejoice, O joy of the faithful!
 
 He that reigns over creation, foreseeing the well-disposed submission of thy heart, O all-wise one, through the Word caught thee who wast held by unreason; and having illumined thy understanding with the knowledge of piety, He showed thee forth unto the world radiant as the sun, emitting the rays of divine deeds, O most glorious one!
@@ -149,7 +149,7 @@ Their sound hath gone forth into all the earth...
 
 ## May 22. Holy Martyr Basiliscus
 
-*Stichera, Tone 4. Podoben: "As One Valiant Among Martyrs" (Yako dobla):*
+*Stichera, Tone 4. Podoben: "As One Valiant Among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 An unshakable kingdom didst thou receive, having reigned, O glorious Basiliscus, and thou standest before the King of hosts, rejoicing with all the angelic armies, with whom thou, O blessed one, unceasingly singest the divine hymn, brightly illuminated by divine radiances and communions.
 
 Having bound thy feet, they pierced them with nails when thou didst walk with rejoicing upon the path of martyrdom, O most praised one! With them thou didst trample the head of the enemy and didst crush it utterly; and having swiftly traversed the heavenly ways,[^329] thou didst appear victorious before the Master, O glorious one!
@@ -193,7 +193,7 @@ Having been loosed from the body, thou awaitest those who suffer with thee, conf
 *Theotokion:*
 May I find thee, O all-immaculate one, ever guiding me unto virtues, and leading me into the way of repentance!
 
-*Sessional Hymn, Tone 4. Podoben: "Thy Tomb, O Savior" (Grob tvoy):*
+*Sessional Hymn, Tone 4. Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й):*
 Thou standest now rejoicing before the only King, sacredly invested with a bright diadem and a garment dyed purple from thy blood, and deified by pure participation; therefore celebrating thy most holy memory today, we sing thy praise.
 
 *Glory... Both now... of the Feast; or Theotokion:*
@@ -254,7 +254,7 @@ Standing bound by the hands, thou didst fix the eye of thy heart upon God, and d
 *Theotokion:*
 Heal the contrite wounds of my wretched soul and its grievous passions, O Virgin, for thou didst ineffably give birth unto the Physician of souls and bodies; and save me who have placed my hope in thee, O all-immaculate one!
 
-*Kontakion, Tone 8. Podoben: "To Thee, the Champion Leader" (Vzbrannoy):*
+*Kontakion, Tone 8. Podoben: "To Thee, the Champion Leader" (Взбра́нной воево́дѣ):*
 Strong and courageous didst Thou appear in suffering, and most marvelous in miracles; manifestly carrying forward the name of Christ, Thou didst put the tormentor to shame. Therefore we honor thee, O Basiliscus, ever crying aloud in piety: Rejoice, O radiant beauty of martyrs!
 
 *Ode 7. Heirmos:*
@@ -314,14 +314,14 @@ Being indeed God by nature, yet Thou didst endure to be clothed in man, having v
 === LEAF p180 === (Fol. 90v)
 ## May 23. Our Venerable Father and Confessor Michael, Bishop of Synnada[^332]
 
-*Stichera of the Venerable Michael, Tone 8. Podoben: "O Marvelous Wonder" (O preslavnago chudese):*
+*Stichera of the Venerable Michael, Tone 8. Podoben: "O Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 O God-inspired Father Michael, fountain of good things! Thou wast worthily accounted worthy to behold the ultimate desire, the fulfillment of desires, and true blessedness, which every nature truly desires to see, O blessed one! O what fair adornment is thine, O glorious one! By this thou now standest rejoicing before Christ as a radiant hierarch!
 
 O Father Michael, receiver of God, clothed in the vesture of the priesthood, thou didst hasten unto the judgment seat of martyrdom, and wast brought unto Christ, adorned with double crowns, O blessed one, beholding the ranks of the hierarchs! O what ineffable gladness is thine, O all-wise one, whereof thou hast truly been vouchsafed to partake, O God-blessed one!
 
 O Father Michael, God-wise one, bedewed from above, thou didst extinguish the fire of temptations in a manner becoming God, and didst pass through unblemished; and rejoicing, O blessed one, thou didst join the former hierarchs, O radiant hieromartyr... O what an ineffable and radiant dwelling is thine, into which Christ hath now received thee as an honorable hierarch!
 
-*Stichera of the Birthgiver of God, Tone 8. Podoben the same:*
+*Stichera of the Birthgiver of God, Tone 8. Podoben the same (Подо́бенъ то́йже):*
 Rejoice, O illumination of souls, forgiveness of sinners, amendment of the negligent! Rejoice, O comfort and joy, helper of the afflicted! Rejoice, O good one, healing of infirm souls! Rejoice, O reconciliation with God and mediatress, who art more sacred than all the seraphim, O Pure One!
 
 Having received flesh from thy blood, the pre-eternal God showed thee forth as protectress unto mankind, O Pure One! Therefore deliver thy servants from every calamity and adversity, and from the snares of the deceitful enemy; and vouchsafe all that glorify and worship thee to partake of the radiance of the elect!

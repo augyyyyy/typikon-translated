@@ -1,6 +1,6 @@
 === LEAF p701 ===
 
-# Great Lent: Order of Lenten Vespers and Presanctified Opening (§§ 20–21 Opening)
+## Great Lent: Order of Lenten Vespers and Presanctified Opening (§§ 20–21 Opening)
 
 ## Ὁ Ἑσπερινός (§§ 20–21 Ἀρχή) [Violakis, p. 686]
 
@@ -18,7 +18,7 @@
 
 === LEAF p702 ===
 
-# Great Lent: Order of Lenten Vespers and Presanctified Opening (§§ 20–21 Opening)
+## Great Lent: Order of Lenten Vespers and Presanctified Opening (§§ 20–21 Opening)
 
 ## Order of Lenten Vespers (Aliturgical) and Presanctified Opening (§§ 20–21 Opening) [Violakis, p. 687]
 
@@ -34,7 +34,7 @@
 
 === LEAF p703 ===
 
-# Great Lent: Presanctified Liturgy Continued (§ 21 Continued)
+## Great Lent: Presanctified Liturgy Continued (§ 21 Continued)
 
 ## Ὁ Ἑσπερινὸς μετὰ τῆς Λειτουργίας τῶν Προηγιασμένων (§ 21 Συνέχεια) [Violakis, p. 688]
 
@@ -53,7 +53,7 @@
 
 === LEAF p704 ===
 
-# Great Lent: Presanctified Liturgy Continued (§ 21 Continued)
+## Great Lent: Presanctified Liturgy Continued (§ 21 Continued)
 
 ## Presanctified Liturgy Continued: Hymn of the Entrance and Great Entrance (§ 21 Continued) [Violakis, p. 689]
 
@@ -67,7 +67,7 @@
 
 === LEAF p705 ===
 
-# Great Lent: Presanctified Conclusion, Feasts in Lent, and Great Compline (§§ 21 Concl.–23 Opening)
+## Great Lent: Presanctified Conclusion, Feasts in Lent, and Great Compline (§§ 21 Concl.–23 Opening)
 
 ## Τέλος Προηγιασμένης, Ἑορταζόμενοι Ἅγιοι, καὶ Μέγα Ἀπόδειπνον (§§ 21 Τέλος–23 Ἀρχή) [Violakis, p. 690]
 
@@ -85,7 +85,7 @@
 
 === LEAF p706 ===
 
-# Great Lent: Presanctified Conclusion, Feasts in Lent, and Great Compline (§§ 21 Concl.–23 Opening)
+## Great Lent: Presanctified Conclusion, Feasts in Lent, and Great Compline (§§ 21 Concl.–23 Opening)
 
 ## Presanctified Conclusion, Commemorated Saints, and Great Compline Opening (§§ 21 Concl.–23 Opening) [Violakis, p. 691]
 
@@ -103,7 +103,7 @@
 
 === LEAF p707 ===
 
-# Great Lent: Order of Great Compline Continued (§ 23 Continued)
+## Great Lent: Order of Great Compline Continued (§ 23 Continued)
 
 ## Τάξις τοῦ Μεγάλου Ἀποδείπνου (§ 23 Συνέχεια) [Violakis, p. 692]
 
@@ -115,17 +115,17 @@
 
 === LEAF p708 ===
 
-# Great Lent: Order of Great Compline Continued (§ 23 Continued)
+## Great Lent: Order of Great Compline Continued (§ 23 Continued)
 
 ## Order of Great Compline Continued: Psalms, Hymns, and Great Canon (§ 23 Continued) [Violakis, p. 693]
 
-...The Reader recites the Trisagion Prayers. The Priest: **"For Thine is the kingdom..."** (*Ὅτι σοῦ ἐστιν ἡ βασιλεία*). The Reader: **"Lord, have mercy"** (12 times); "Glory... Both now and ever..."; **"Come, let us worship and fall down before our King and God"** (*Δεῦτε προσκυνήσωμεν*) thrice; and then the Reader begins the Six Psalms of Great Compline (Psalms 4, 6, 12, 24, 30, and 90 [LXX]). After the final psalm (Psalm 90 [LXX]): "Glory... Both now and ever..."; **"Alleluia, alleluia, alleluia, glory to Thee, O God"** (*Ἀλληλούϊα, ἀλληλούϊα, ἀλληλούϊα, δόξα σοι, ὁ Θεός*) thrice; **"Lord, have mercy"** thrice; "Glory... Both now and ever...". Immediately the Choirs chant the verses of: **"God is with us: understand, O ye nations, and submit yourselves, for God is with us"** (*Μεθ᾿ ἡμῶν ὁ Θεός, γνῶτε ἔθνη καὶ ἡττᾶσθε, ὅτι μεθ᾿ ἡμῶν ὁ Θεός*, Isa. 8:9 [LXX]); at the conclusion, the First Choir chants: **"God is with us: understand, O ye nations, and submit yourselves, for God is with us"**, repeating the first verse in its entirety. The Reader then recites the following three Troparia in a recitativo (*chuma*), beginning with: **"The day is past, I give Thee thanks, O Lord..."** (*Τὴν ἡμέραν διελθὼν εὐχαριστῶ σοι, Κύριε*); and the Second Choir begins chanting: **"The bodiless nature of the Cherubim glorifies Thee with unceasing hymns..."** (*Ἡ ἀσώματος φύσις τὰ Χερουβὶμ ἀσιγήτοις σε ὕμνοις δοξολογεῖ*), down to: **"That escaping from the deceits of the evil one, we may sing the angelic hymn!"** Then the Reader recites: **"Holy, Holy, Holy, Lord God of Sabaoth, heaven and earth are full of Thy glory!"** (*Ἅγιε, Ἅγιε, Ἅγιε Τρισάγιε, Κύριε, ἐλέησον καὶ σῶσον ἡμᾶς*). Then the Symbol of Faith: **"I believe in one God, the Father Almighty..."** (*Πιστεύω εἰς ἕνα Θεόν*), after which the Second Choir immediately begins chanting the following verses of supplication: **"All-holy Lady, Theotokos, intercede for us sinners"** (*Παναγία Δέσποινα Θεοτόκε, πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν*), which is sung thrice; and the remaining verses are sung twice; at the final verse: **"O Lord, God, forgive us our sins"** (*Ὁ Θεὸς ἱλάσθητι ἡμῖν τοῖς ἁμαρτωλοῖς*) thrice, **"and have mercy on us"** (*καὶ ἐλέησον ἡμᾶς*). Then the Trisagion Prayers etc. After the Trisagion, the Prayer of Manasseh, King of Judah: **"O Lord Almighty, God of our fathers Abraham, Isaac, and Jacob, and of their righteous seed..."** (*Κύριε Παντοκράτορ, ὁ Θεὸς τῶν πατέρων ἡμῶν*). Then the Trisagion Prayers, and the following Penitential Troparia are chanted in a gentle, subdued voice: **"Have mercy on us, O Lord, have mercy on us, for laying aside all excuse, we sinners offer this supplication unto Thee as Master: have mercy on us"** (*Ἐλέησον ἡμᾶς, Κύριε, ἐλέησον ἡμᾶς*). After the Small Doxology: **"Glory to God in the highest..."** (*Δόξα ἐν ὑψίστοις*) and the prayer: **"Vouchsafe, O Lord, to keep us this night without sin"** (*Καταξίωσον, Κύριε*), the Great Penitential Canon¹⁷ is chanted: **"He is my helper and protector unto salvation; He is my God, and I will glorify Him..."** (*Βοηθὸς καὶ σκεπαστὴς ἐγένετό μοι εἰς σωτηρίαν*, Exod. 15:2 [LXX]), whose refrain is: **"Have mercy on me, O God, have mercy on me"** (*Ἐλέησόν με, ὁ Θεός, ἐλέησόν με*). After the Sixth Ode, the Kontakion is sung with melody: **"My soul, my soul, arise! Why sleepest thou? The end draweth near, and thou shalt be confounded..."** (*Ψυχή μου, ψυχή μου, ἀνάστα, τί καθεύδεις;*); and after the Ninth Ode, the Heirmos: **"Without seed of man, by the Holy Spirit, of the Father's will didst thou conceive the Son of God..."** (*Ἀσπόρου συλλήψεως*). Then the Trisagion Prayers, and the Troparion is chanted: **"O Lord of hosts, be with us, for we have no other helper in distress but Thee; O Lord of hosts, have mercy on us!"** (*Κύριε τῶν δυνάμεων, μεθ᾿ ἡμῶν γενοῦ . . .*) with its six scriptural verses. At the conclusion, the First Choir chants the verse: **"Praise God in His Saints!"** (*Αἰνεῖτε τὸν Θεὸν ἐν τοῖς Ἁγίοις αὐτοῦ*, Ps. 150:1 [LXX]); the Second Choir: **"Praise Him in the firmament of His power!"** (*Αἰνεῖτε αὐτὸν ἐν στερεώματι τῆς δυνάμεως αὐτοῦ*, Ps. 150:1 [LXX]); then the...[^413]
+...The Reader recites the Trisagion Prayers. The Priest: **"For Thine is the kingdom..."** (*Ὅτι σοῦ ἐστιν ἡ βασιλεία*). The Reader: **"Lord, have mercy"** (12 times); "Glory... Both now and ever..."; **"Come, let us worship and fall down before our King and God"** (*Δεῦτε προσκυνήσωμεν*) thrice; and then the Reader begins the Six Psalms of Great Compline (Psalms 4, 6, 12, 24, 30, and 90 [LXX]). After the final psalm (Psalm 90 [LXX]): "Glory... Both now and ever..."; **"Alleluia, alleluia, alleluia, glory to Thee, O God"** (*Ἀλληλούϊα, ἀλληλούϊα, ἀλληλούϊα, δόξα σοι, ὁ Θεός*) thrice; **"Lord, have mercy"** thrice; "Glory... Both now and ever...". Immediately the Choirs chant the verses of: **"God is with us: understand, O ye nations, and submit yourselves, for God is with us"** (*Μεθ᾿ ἡμῶν ὁ Θεός, γνῶτε ἔθνη καὶ ἡττᾶσθε, ὅτι μεθ᾿ ἡμῶν ὁ Θεός*, Isa. 8:9 [LXX]); at the conclusion, the First Choir chants: **"God is with us: understand, O ye nations, and submit yourselves, for God is with us"**, repeating the first verse in its entirety. The Reader then recites the following three Troparia in a recitativo (*chuma*), beginning with: **"The day is past, I give Thee thanks, O Lord..."** (*Τὴν ἡμέραν διελθὼν εὐχαριστῶ σοι, Κύριε*); and the Second Choir begins chanting: **"The bodiless nature of the Cherubim glorifies Thee with unceasing hymns..."** (*Ἡ ἀσώματος φύσις τὰ Χερουβὶμ ἀσιγήτοις σε ὕμνοις δοξολογεῖ*), down to: **"That escaping from the deceits of the evil one, we may sing the angelic hymn!"** Then the Reader recites: **"Holy, Holy, Holy, Lord God of Sabaoth, heaven and earth are full of Thy glory!"** (*Ἅγιε, Ἅγιε, Ἅγιε Τρισάγιε, Κύριε, ἐλέησον καὶ σῶσον ἡμᾶς*). Then the Symbol of Faith: **"I believe in one God, the Father Almighty..."** (*Πιστεύω εἰς ἕνα Θεόν*), after which the Second Choir immediately begins chanting the following verses of supplication: **"All-holy Lady, Theotokos, intercede for us sinners"** (*Παναγία Δέσποινα Θεοτόκε, πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν*), which is sung thrice; and the remaining verses are sung twice; at the final verse: **"O Lord, God, forgive us our sins"** (*Ὁ Θεὸς ἱλάσθητι ἡμῖν τοῖς ἁμαρτωλοῖς*) thrice, **"and have mercy on us"** (*καὶ ἐλέησον ἡμᾶς*). Then the Trisagion Prayers etc. After the Trisagion, the Prayer of Manasseh, King of Judah: **"O Lord Almighty, God of our fathers Abraham, Isaac, and Jacob, and of their righteous seed..."** (*Κύριε Παντοκράτορ, ὁ Θεὸς τῶν πατέρων ἡμῶν*). Then the Trisagion Prayers, and the following Penitential Troparia are chanted in a gentle, subdued voice: **"Have mercy on us, O Lord, have mercy on us, for laying aside all excuse, we sinners offer this supplication unto Thee as Master: have mercy on us"** (*Ἐλέησον ἡμᾶς, Κύριε, ἐλέησον ἡμᾶς*). After the Small Doxology: **"Glory to God in the highest..."** (*Δόξα ἐν ὑψίστοις*) and the prayer: **"Vouchsafe, O Lord, to keep us this night without sin"** (*Καταξίωσον, Κύριε*), the Great Penitential Canon¹⁷ is chanted: **"He is my helper and protector unto salvation; He is my God, and I will glorify Him..."** (*Βοηθὸς καὶ σκεπαστὴς ἐγένετό μοι εἰς σωτηρίαν*, Exod. 15:2 [LXX]), whose refrain is: **"Have mercy on me, O God, have mercy on me"** (*Ἐλέησόν με, ὁ Θεός, ἐλέησόν με*). After the Sixth Ode, the Kontakion is sung with melody: **"My soul, my soul, arise! Why sleepest thou? The end draws near, and thou shalt be confounded..."** (*Ψυχή μου, ψυχή μου, ἀνάστα, τί καθεύδεις;*); and after the Ninth Ode, the Heirmos: **"Without seed of man, by the Holy Spirit, of the Father's will didst thou conceive the Son of God..."** (*Ἀσπόρου συλλήψεως*). Then the Trisagion Prayers, and the Troparion is chanted: **"O Lord of hosts, be with us, for we have no other helper in distress but Thee; O Lord of hosts, have mercy on us!"** (*Κύριε τῶν δυνάμεων, μεθ᾿ ἡμῶν γενοῦ . . .*) with its six scriptural verses. At the conclusion, the First Choir chants the verse: **"Praise God in His Saints!"** (*Αἰνεῖτε τὸν Θεὸν ἐν τοῖς Ἁγίοις αὐτοῦ*, Ps. 150:1 [LXX]); the Second Choir: **"Praise Him in the firmament of His power!"** (*Αἰνεῖτε αὐτὸν ἐν στερεώματι τῆς δυνάμεως αὐτοῦ*, Ps. 150:1 [LXX]); then the...[^413]
 
 *(Printed Page 693)*
 
 === LEAF p709 ===
 
-# Great Lent: Great Compline Conclusion and General Rubrics (§ 23 Concluded)
+## Great Lent: Great Compline Conclusion and General Rubrics (§ 23 Concluded)
 
 ## Τέλος τοῦ Μεγάλου Ἀποδείπνου καὶ Γενικαὶ Διατάξεις (§ 23 Τέλος) [Violakis, p. 694]
 
@@ -139,7 +139,7 @@
 
 === LEAF p710 ===
 
-# Great Lent: Great Compline Conclusion and General Rubrics (§ 23 Concluded)
+## Great Lent: Great Compline Conclusion and General Rubrics (§ 23 Concluded)
 
 ## Great Compline Conclusion: Gospel, Mutual Forgiveness, and General Rule (§ 23 Concluded) [Violakis, p. 695]
 

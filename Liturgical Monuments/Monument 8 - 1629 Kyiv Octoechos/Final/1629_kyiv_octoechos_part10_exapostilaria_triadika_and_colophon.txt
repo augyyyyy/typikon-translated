@@ -36,7 +36,7 @@ Let no one disbelieve that Christ is risen! For He appeared unto Mary, and then 
 
 *Theotokion:*
 
-By essential properties, O Virgin, Thy Son awoke from sleep as one dead, and rose as God; for He saw no corruption. Entreat Him unceasingly, O pure Lady, to send down light upon us, Thy people and Thy flock: save from daytime and nighttime stumbling us who worship Him together with the Father and the Spirit, one God.
+By essential properties, O Virgin, thy Son awoke from sleep as one dead, and rose as God; for He saw no corruption. Entreat Him unceasingly, O pure Lady, to send down light upon us, thy people and thy flock: save from daytime and nighttime stumbling us who worship Him together with the Father and the Spirit, one God.
 
 *Evangelical Sticheron 3, Tone 3:*
 
@@ -278,7 +278,7 @@ Being the Light, O Christ, enlighten me through Thyself: through the intercessio
 
 *The End of the Exapostilaria and Triadika.* [^297]
 
-[f. 291vA] [Blank verso of the final printed leaf (Fol. 291v), reinforced with ancient paper repair strips, with pasted slips and manuscript annotations of the 17th–19th centuries.
+[f. 291vA] *(Vacat — Blank verso of the final printed leaf (Fol. 291v), reinforced with ancient paper repair strips, with pasted slips and manuscript annotations of the 17th–19th centuries.
 
 Affixed to the lower part of the page is a rectangular paper label with a bibliographical note in 19th-century cursive ink:
 
@@ -294,7 +294,7 @@ probably should be the verses mentioned by him."
 
 Pasted diagonally in the center of the leaf is a rhomboid paper fragment with 17th-century cursive pen trials: "Lord my God" and calligraphic flourishes.
 
-In the upper part of the leaf beneath the pasted slips can be discerned faded 17th-century cursive notes and pen trials: "... by mercy ...", "... Pan gift ...", "... of the parish clerk ...", as well as ink stains and offsets.]
+In the upper part of the leaf beneath the pasted slips can be discerned faded 17th-century cursive notes and pen trials: "... by mercy ...", "... Pan gift ...", "... of the parish clerk ...", as well as ink stains and offsets.)*
 
 ## CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING
 
@@ -308,7 +308,7 @@ Immediately below follows an inscription in 17th-century cursive in iron-gall in
 
 Across the entire leaf are set large calligraphic monograms, initial letters with intricate flourishes and pen flourishing: a large decorative initial "A", the cursive word "Voin" (Warrior), ornamental paraphs, the cursive phrase "Az esm' v...", an extensive calligraphic cursive inscription "Demezovedchine...", and decorative avian and spiral figures formed of interlaced ink lines. In the lower corner are archival pencil numbers: "65 / 68".]
 
-[Lower Outer Binding Board: Contemporary blind-tooled calfskin binding of the first third of the 17th century (dark brown calf leather over bevelled wooden boards). Around the perimeter of the board runs a blind-tooled framework: an outer double-fillet frame and an inner ornamental frame rolled with a Renaissance palmette and foliate roll. The central panel is unadorned, displaying natural age patina, scuffs, surface abrasions, and isolated minor worming. On the left (fore-edge) of the board are preserved the brass catches and leather strap remnants of two original clasps. On the right edge near the lower spine corner are visible the remains of an early paper shelfmark label. The leather is turned in over the inner board edges with neat diagonal mitered folds at the corners.[^299]]
+[p295LA] [Lower Outer Binding Board: Contemporary blind-tooled calfskin binding of the first third of the 17th century (dark brown calf leather over bevelled wooden boards). Around the perimeter of the board runs a blind-tooled framework: an outer double-fillet frame and an inner ornamental frame rolled with a Renaissance palmette and foliate roll. The central panel is unadorned, displaying natural age patina, scuffs, surface abrasions, and isolated minor worming. On the left (fore-edge) of the board are preserved the brass catches and leather strap remnants of two original clasps. On the right edge near the lower spine corner are visible the remains of an early paper shelfmark label. The leather is turned in over the inner board edges with neat diagonal mitered folds at the corners.[^299]]
 
 ---
 

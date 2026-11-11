@@ -3,7 +3,7 @@
 ...in the confession of Christ as true God and of our hope for mercy and salvation (though in the Greek, *σώσαι*—"may He save," etc.) from Him through the prayers of His all-pure (*panachrantou*) Mother, the apostles (according to the *Sluzhebnik*—see Vespers—*(Orig. p. 720)* there is also commemorated the "saint whose service is chanted"), and all the saints. At the beginning of the dismissal there is joined, or rather prefixed to the name of Christ, a brief commemoration of the celebrated event from His life, which on Sunday takes the form: **"He Who rose from the dead"** (*Voskresy iz mertvykh*), whereby the dismissal is transformed into a kind of concluding festal hymn (at Pascha an entire troparion is prefixed to it at the beginning).
 To the dismissal no response of "Amen" is prescribed, presumably because the confirmation of the entire great promise that the dismissal imparts can be awaited only from the Divine "Amen" (Apoc. 1:18).
 
-### History of the Dismissal
+**History of the Dismissal**
 
 In the Studite-Alexian Typikon, the first exclamation is: **"Wisdom"** (*Mudrost*) [^2686] (*sophia*).
 In the time of Arseny Sukhanov in the East, "the priest, opening the doors and turning toward the west, exclaims: *sophia*; those standing before him: *evlogison*" [^2687].
@@ -57,13 +57,13 @@ The *Sluzhebnik* of Peter Mohyla:
 The *Hieratikon*:
 "May He Who rose from the dead, Christ our true God, through the prayers of His all-pure Mother, by the power of the precious and life-giving Cross, through the intercessions of the honorable bodiless Powers of Heaven, through the supplications (*hikesiais*) of the honorable and glorious Prophet, Forerunner, and Baptist John, of the holy, glorious, and all-laudable apostles, of the holy, glorious, and right-victorious martyrs, of our venerable and God-bearing fathers, of our father among the saints John Chrysostom, Archbishop of Constantinople (or of Basil the Great, heaven-revealed Archbishop of Caesarea [^2696]), of the holy and righteous Ancestors of God Joachim and Anna, and of all the saints, have mercy on us and save us, for He is good, the Lover of mankind, and a merciful God. Through the prayers of our holy fathers, O Lord Jesus Christ our God, have mercy on us. The deacon: Amen" [^2697].
 
-### The Polychronion (*Mnogolyetstvovanie*)
+**The Polychronion (*Mnogolyetstvovanie*)**
 
 === LEAF p875 ===
 
 After the dismissal of festal Matins, the Typikon notes, "we chant many years for the emperor," that is, a prayer is chanted for the preservation for many years of the Emperor, the Empress, the Heir, the reigning house, the Holy Synod, the diocesan hierarch (and in a vicariate, also the vicar bishop), the superior of the monastery with the brethren, and all Orthodox Christians. This Polychronion, beginning with the word **"The most pious"** (*Blagochestiveyshago*) and concluding with the words **"O Lord, preserve them for many years"** (*Gospodi, sokhrani ikh na mnogaya leta*), is cited nowhere in the liturgical books (except the most recent among them: *Services for Each Day of the First and Passion Weeks* and the *Obikhod* of Bakhmetev); consequently, until recent times it was preserved in the oral musical tradition. It represents an abbreviation and simplification of the Polychronion after a moleben, just as this latter, in turn, is an abbreviation of the Polychronion of the Royal Hours, wherein of the several petitions of those Polychronia only the last is taken, and the participation of the priest and deacon therein is eliminated; the melody is likewise simplified and rendered recitative. On weekdays, when the First Hour is immediately joined *(Orig. p. 723)* to Matins, this chanting of many years is performed after it.
 
-### History
+**History**
 
 Something very similar existed at the conclusion of the Asmatic Vespers (Introductory Chapter, p. 344). Manuscript Jerusalem Typika (and naturally also Studite ones) and the Old Rite Typikon make no mention of it.
 In the time of Arseny Sukhanov in the East: "Amen. *Ton despotin kai archierea*... [The master and hierarch...]." Consequently, we have here the tradition of the Hagia Sophia Constantinopolitan typikon, occasioned by the presence of emperors at the services.
@@ -81,7 +81,7 @@ At present among the Greeks, the substitute for such a Polychronion is the bless
 
 Like Vespers, Matins concludes with a litiya ("procession" [*iskhozhdenie*], Greek *litē*—not simply "we go forth") in the narthex, but far more brief, consisting only of the rite of going forth into the narthex and a single sticheron, if one does not include in this litiya the "Studite Catechesis" that follows it. The going forth is performed, it is understood, according to the same order as at the vesperal litiya, to which other descriptions of this litiya refer—in chapter 3 of the Typikon and under September 8. But since no actions are specified for the deacon at this litiya, his participation in the going forth is hardly necessary. The procession takes place during the chanting of an "idiomelon sticheron, as is customary," analogous to the sticheron at the vesperal litiya, that is, the sticheron of the temple. At those Matins services at which the Gospel sticheron is not chanted in its appointed place, it is chanted here instead of the sticheron of the temple (see Typikon, October 11, Sunday of the Fathers; December 11, Sunday of the Forefathers; December 17, Sunday of the Fathers; Sunday of the Publican and Pharisee). The indication of these rubrics of the Typikon that the Gospel sticheron at the morning litiya is preceded by **"Glory... Both now..."** (*Slava i nyne*) must have general application: that is, the sticheron of the temple at the morning litiya is likewise chanted with **"Glory... Both now..."**, whereby it is closely bound *(Orig. p. 724)* to Matins (and also in view of the fact that here there is only one sticheron, and there is no other place for **"Glory... Both now..."**). According to chapter 3 of the Typikon, if anointing with oil occurs at the morning litiya, as is prescribed when a great feast coincides with a Sunday, there is also read at it the prayer **"O Master, Great in Mercy"** (*Vladyko Mnogomilostive*) from the order of the vesperal litiya (cf. also September 8). No censing is performed.
 
-### History
+**History**
 
 Western Studite Typika and the Evergetis Typikon do not specify anything of the kind after Sunday Matins [^2700], but the Studite-Alexian Typikon has a litiya here, canceling it only on occasion: concerning Meatfare Sunday:
 "on that Sunday, as well as on Cheesefare Sunday, they do not go forth outside (later manuscripts: 'into the wing/aisle' [*v krylo*]), but after Matins the catechesis is read"; concerning the Sunday of the Prodigal Son: "they go forth into the church wing and chant for the founder (ktitor) a troparion (a funeral one?), unless it be a great feast, and the catechesis is also read" [^2701].
@@ -113,11 +113,11 @@ The morning litiya, so brief in comparison with that of Vespers and at times ent
 
 134 catecheses, with the addition of the 135th (for the 4th Sunday of Great Lent) and certain other writings of St. Theodore. For liturgical use, there may serve the collection of 95 catecheses of St. Theodore translated from Modern Greek into Slavonic and printed by Paisius Velichkovsky, drawn equally from the *Small* and *Great Catecheses*. In the aforementioned *(Orig. p. 726)* Kyiv manuscript, each catechesis occupies on average 1 1/2 pages in folio; in the Russian translation and edition, 1 1/2 octavo pages.
 
-### Bibliography
+**Bibliography**
 
 Even in Greek there is no complete edition of the *Great Catechesis*; there is an edition only of its second part [^2708] and certain catecheses from other parts [^2709]. The most complete printed edition is therefore the Russian translation produced at the St. Petersburg Theological Academy from various Greek manuscripts [^2710]. The ancient Slavic translation (in places utterly unintelligible) of the second part of the *Great Catechesis* was published by the Imperial Archaeographical Commission in the *Great Menaion Reader* [*Velikiye Cheti-Minei*] under November 11 [^2711]. The *Small Catechesis* has three Greek printed editions [^2712]. The aforementioned collection in Modern Greek (Venice, 1770) and a similar one by Hieromonk Zachariah (1887) are paraphrases. The Slavonic translation of the former by Paisius Velichkovsky states in the preface: "they begin to be read from November 15"; before the 74th catechesis: "at the beginning of the Indiction the catecheses begin to be read every day, until the Precious and Life-Giving Cross, except for a Feast of the Theotokos; and after the Precious Cross, until November 14, on Sundays only. And having been completed up to the Holy Testament (concluding with the 'Testament' of St. Theodore), the book begins again from November 14"; the Russian translation of that same collection in the Optina Hermitage edition adds: "according to this order the instructions of St. Theodore are read in the Athonite monasteries even to this day" [^2713].
 
-### The Order of the Catechesis
+**The Order of the Catechesis**
 
 In the present place of the Typikon, it is not specified who is to read the catecheses of St. Theodore. This is indicated in the order for the Sunday of the Publican and Pharisee:
 "If the abbot be there (in the narthex), they are read by him; but if not, then by the ecclesiarch, while the brethren stand and listen attentively."

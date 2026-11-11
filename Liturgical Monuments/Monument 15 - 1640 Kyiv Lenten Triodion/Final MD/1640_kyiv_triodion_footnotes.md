@@ -68,7 +68,7 @@
 
 [^33]: Matthew 22:13; Matthew 25:30: The cast outer darkness where there shall be weeping and gnashing of teeth.
 
-[^34]: John 3:16: "For God so loved the world, that He gave His only begotten Son, that whosoever believs in Him should not perish, but have everlasting life."
+[^34]: John 3:16: "For God so loved the world, that He gave His only begotten Son, that whosoever believes in Him should not perish, but have everlasting life."
 
 [^35]: The 8th Indiction of 1640: The Byzantine 15-year indiction cycle corresponds exactly: 7148 AM divided by 15 leaves a remainder of 8, confirming the technical accuracy of the Pechersk printing house chronogram.
 
@@ -102,7 +102,7 @@
 
 [^50]: Ode 3 Heirmos: *There is none holy as Thou, O Lord my God* (*Нѣ́сть ст҃ъ, ꙗ҆́коже Ты̀, Гдⷵи Бж҃е мо́й*), based upon the Third Biblical Canticle (1 Kings 2:2 [1 Sam 2:2 MT], the Song of Hannah).
 
-[^51]: Podoben incipit: *Speedily anticipate* (*Ско́рѡ предварѝ* / Greek: *Тахὺ προκατάлаβε*). A standard Tone 4 prosomoion model hymn frequently appointed for sessional hymns, sedalia, and apolytikia.
+[^51]: Podoben incipit: *Speedily anticipate* (*Ско́рѡ предварѝ* / Greek: *Ταχὺ προκατάλαβε*). A standard Tone 4 prosomoion model hymn frequently appointed for sessional hymns, sedalia, and apolytikia.
 
 [^52]: Ode 4 Heirmos: *Christ is my power* (*Хрⷭто́съ мнѣ̀ си́ла* / *Christos mou dynamis*). Based upon the Fourth Biblical Canticle, the Prayer of the Prophet Habakkuk (Hab. 3:2–19).
 
@@ -918,7 +918,7 @@
 
 [^458]: Tone 4 Sessional Hymn (Kathisma) melodic model: *Joseph was amazed* (Slavonic: *Ꙋди́вися І҆ѡ́сифъ*; Greek: *Κατεπλάγη Ἰωσήφ*).
 
-[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σтаυρῷ*).
+[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ*).
 
 [^460]: Patristic reading at Matins: Saint Gregory the Theologian (of Nazianzus), *Oration 19: On the Calamity of the City and the Reconciliation of the Emperor's Tax-Collector* (also known as *On the Hail* or *On the Plague*).
 
@@ -1122,7 +1122,7 @@
 
 [^560]: Monastic Typikon rule prohibiting the singing of two canons alongside the Forty Martyrs at Lenten weekday Matins, transferring the second canon to Compline on the preceding evening.
 
-[^561]: Slavonic rubric *ѡ Меднисонѣ* / *ѡ Медонисонѣ*, transliterating the Byzantine Greek liturgical term μεσονύσιον / μεσονύκтион (referring to the night office / Compline).
+[^561]: Slavonic rubric *ѡ Меднисонѣ* / *ѡ Медонисонѣ*, transliterating the Byzantine Greek liturgical term μεσονύσιον / μεσονύκτιον (referring to the night office / Compline).
 
 [^562]: The historical distinction between the eremitic Sabbaite rule (Great Compline recited individually in cells) and the Palestinian coenobitic communal practice (Great Compline chanted corporately in the monastery church).
 
@@ -1238,7 +1238,7 @@
 
 [^618]: Melodic model (*Podoben*): *Tone 2, Podoben: "When Thou didst appear" (Ꙗ҆́кѡ ꙗ҆ви́сѧ)*; Greek: *Ὡς ἐφάνης*. The incipit refers to the appearance of Christ upon the Cross.
 
-[^619]: Melodic model (*Podoben*): *Tone 2, Podoben: "For the deeds done by me" (Съдѣ́ланныхъ ми)*; Greek: *Τῶν πεπραγμένων μοι δейнῶν*. The hymn reflects on the prohibition of the fruit of the tree in Genesis 2:16–17 and connects ascetic obedience during Great Lent with the mystery of Christ's Cross.
+[^619]: Melodic model (*Podoben*): *Tone 2, Podoben: "For the deeds done by me" (Съдѣ́ланныхъ ми)*; Greek: *Τῶν πεπραγμένων μοι δεινῶν*. The hymn reflects on the prohibition of the fruit of the tree in Genesis 2:16–17 and connects ascetic obedience during Great Lent with the mystery of Christ's Cross.
 
 [^620]: First Vespers Prokeimenon before the Old Testament readings: *Ps. 7:2 (LXX)*. Stichos: *Ps. 7:2*.
 
@@ -1292,7 +1292,7 @@
 
 [^645]: Ode 8 Heirmos of the Triodion Canon by St. Joseph: "The furnace of fire..." (Пещь огненная), Tone 2; Greek: Ἡ κάμινος ποτέ.
 
-[^646]: Ode 9 Heirmos of the Triodion Canon by St. Joseph: "Of the unoriginate Begetter..." (Безначална родителя), Tone 2; Greek: Ἀνάρχου Γεννήторос.
+[^646]: Ode 9 Heirmos of the Triodion Canon by St. Joseph: "Of the unoriginate Begetter..." (Безначална родителя), Tone 2; Greek: Ἀνάρχου Γεννήτορος.
 
 [^647]: Ode 9 Heirmos of the Triodion Canon by St. Theodore the Studite: "Pure and most pure..." (Чистую и пречистую), Tone 2; Greek: Τὴν ἁγνὴν καὶ ἄχραντον.
 
@@ -1348,7 +1348,7 @@
 
 [^673]: Ceremonial rubric for the Vespers Entrance at the Presanctified Liturgy: censer and candle alone unless a Festal Gospel is appointed.
 
-[^674]: The ancient Christian evening hymn "O Gladsome Radiance" (Φῶς ἱлаρόν / Свѣте тихій).
+[^674]: The ancient Christian evening hymn "O Gladsome Radiance" (Φῶς ἱλαρόν / Свѣте тихій).
 
 [^675]: LXX Ps. 11:8 (MT Ps. 12:7), the Evening Prokeimenon preceding the Old Testament readings.
 
@@ -1566,7 +1566,7 @@
 
 [^782]: A compositorial misprint occurs in the 1640 Kyiv edition on physical leaf 291 (f. 277r), where the rubric gives the Prokeimenon heading as "Ѱало́мъ, д҃і" (Psalm 14) with a titlo. The incipit and verse printed immediately beneath ("Оу҆слы́шитъ тѧ̀ Гдⷭ҇ь въ дн҃ь печа́ли... Защити́тъ тѧ̀ и҆́мѧ Бг҃а І҆а́кѡвлѧ"), however, are Psalm 19:2–3 LXX (MT Ps. 20:1–2). The numeral д҃і (14) is a typographical error for ѳ҃і (19).
 
-[^783]: Leaf 292 (f. 278v) contains a full-page-width woodcut engraving from the Kyiv Lavra workshop illustrating the narrative of Genesis 2–3. The left section depicts the creation of Eve from the rib of Adam as he sleeps beneath a fruit-laden tree, with the Slavonic inscriptions "СЪЗДАНИЄ ЄVЫ" (Creation of Eve) and "АДАМ" (Adam). The central composition depicts the serpent coiled about the Tree of Knowledge, whispering to Eve as she offers the forbidden fruit to Adam, labeled "EVA" and "ADAM". The upper right depicts an archangel with a flaming sword driving the weeping Adam and Eve through the arched gate of Eden, inscribed "ИЗГНАНИЄ ИЗ РАЯ" (Expulsion from Paradise). The lower right shows the post-lapsarian condition: Adam cultivating rocky ground with a wooden spade and Eve seated nursing an infant beside a wattle fence, with an inscribed scroll containing Genesis 3:19: "С ПОТЄМ ЛИЦА СНЄСИ ХЛЄБ ТВОЙ" (In the sweat of thy face shalt thou eat bread).
+[^783]: Leaf 292 (f. 278v) contains a full-page-width woodcut engraving from the Kyiv Lavra workshop illustrating the narrative of Genesis 2–3. The left section depicts the creation of Eve from the rib of Adam as he sleeps beneath a fruit-laden tree, with the Slavonic inscriptions "СЪЗДАНИЄ ЄѴЫ" (Creation of Eve) and "АДАМ" (Adam). The central composition depicts the serpent coiled about the Tree of Knowledge, whispering to Eve as she offers the forbidden fruit to Adam, labeled "EVA" and "ADAM". The upper right depicts an archangel with a flaming sword driving the weeping Adam and Eve through the arched gate of Eden, inscribed "ИЗГНАНИЄ ИЗ РАЯ" (Expulsion from Paradise). The lower right shows the post-lapsarian condition: Adam cultivating rocky ground with a wooden spade and Eve seated nursing an infant beside a wattle fence, with an inscribed scroll containing Genesis 3:19: "С ПОТЄМ ЛИЦА СНЄСИ ХЛЄБ ТВОЙ" (In the sweat of thy face shalt thou eat bread).
 
 [^784]: Prokeimenon following the First Reading: Psalm 20:14, 2 LXX (MT Ps. 21:13, 1), Tone 4. In Byzantine and Kyivan usage, the verses are taken from the royal psalm celebrating divine triumph and salvation.
 
@@ -1574,7 +1574,7 @@
 
 [^786]: Troparion to the Great Martyr Theodore, Tone 2: Ве́лїѧ вѣ́ры исправле́нїѧ... ("Great are the achievements of faith..."). This troparion recalls St. Theodore's martyrdom in the fiery furnace at Amasea (c. AD 306), where he yielded his spirit without his body being consumed, offered unto the Holy Trinity as fragrant and sweet bread.
 
-[^787]: The Supplicatory Canon to the Great Martyr Theodore is attributed to St. John of Damascus (c. AD 676–749). In the original Byzantine hymnographic tradition, the acrostic of the canon forms the Greek phrase: Θεοῦ σε μέλπω τῶν δωреῶν ἐπώνυμον ("God's namesake of gifts I sing thee"), which is faithfully translated into Church Slavonic as: "Бж҃їй тѧ пою̀ да́рѡвъ тезоимени́те," playing upon the etymology of the martyr's name Theodoros (God's gift).
+[^787]: The Supplicatory Canon to the Great Martyr Theodore is attributed to St. John of Damascus (c. AD 676–749). In the original Byzantine hymnographic tradition, the acrostic of the canon forms the Greek phrase: Θεοῦ σε μέλπω τῶν δωρεῶν ἐπώνυμον ("God's namesake of gifts I sing thee"), which is faithfully translated into Church Slavonic as: "Бж҃їй тѧ пою̀ да́рѡвъ тезоимени́те," playing upon the etymology of the martyr's name Theodoros (God's gift).
 
 [^788]: Ode 5, Troparion 2 references the opening act of St. Theodore's martyrdom: according to his Passio, being commanded to offer sacrifice to Cybele (the pagan "mother of the gods"), St. Theodore set fire to her temple at Amasea during the night, reducing the sanctuary and its idol to ashes.
 
@@ -1610,7 +1610,7 @@
 
 [^804]: Melodic model *Tone 3, Podoben: "Of the divine faith"* (Greek: *Θείας πίστεως*), automelon for the commemoration of martyrs and confessors.
 
-[^805]: The Slavonic acrostic (*Краегране́сіе*) translates the Greek acrostic *Τύρων ὁ κλεινός, πρῶτον εὖχος σαββάτων* ("Tyro the renowned, the first glory of Saturdays"). The spelling *Ти́рсѡнъ* (*Tyrson*) is an epigraphic Kyivan scribal variant for *Тѵ́ρωνъ* (*Tyron* / Saint Theodore Tyro).
+[^805]: The Slavonic acrostic (*Краегране́сіе*) translates the Greek acrostic *Τύρων ὁ κλεινός, πρῶτον εὖχος σαββάτων* ("Tyro the renowned, the first glory of Saturdays"). The spelling *Ти́рсѡнъ* (*Tyrson*) is an epigraphic Kyivan scribal variant for *Тѵ́рѡнъ* (*Tyron* / Saint Theodore Tyro).
 
 [^806]: Saint John Mauropous, Metropolitan of Euchaita (c. 1000–c. 1075), noted Byzantine hymnographer, scholar, and author of the Canons for Saint Theodore Tyro and the Three Holy Hierarchs.
 
@@ -1636,7 +1636,7 @@
 
 [^817]: In historical chronology, Julian the Apostate succeeded Constantius II (Flavius Julius Constantius, reigned 337–361), son of Saint Constantine the Great.
 
-[^818]: Ruthenian *Ста́роста мѣ́стский* renders the Greek *ἔπαρχος τῆς πόлеως* (Eparch / Urban Prefect of Constantinople), the imperial civil administrator responsible for the municipal markets.
+[^818]: Ruthenian *Ста́роста мѣ́стский* renders the Greek *ἔπαρχος τῆς πόλεως* (Eparch / Urban Prefect of Constantinople), the imperial civil administrator responsible for the municipal markets.
 
 [^819]: Marginal citation: *Нектⷶ: ѻ҃: б҃. мелиф҃: фір҃зı.* referencing Saint Nectarius of Constantinople, *Homily II on the Miracles of Saint Theodore Tyro*, collated with patristic florilegia.
 
@@ -1656,11 +1656,11 @@
 
 [^827]: Scriptural and typological allusion to the Sabbath rest (Gen. 2:2–3, Heb. 4:9–10): the First Saturday of Great Lent is celebrated as the "Sabbath of Sabbaths" (*сꙋббо́та сꙋббо́тамъ*), transforming the austere fast into a spiritual feast through the triumph of the Martyr.
 
-[^828]: Melodic model of the Second Canon of Saint Theodore Tyro, Ode 8, Heirmos: "Out of the flame for the holy ones" (Tone 6, Greek: *Ἐκ фλογὸς τοῖς Ὁσίοις*), automelon for the eighth ode.
+[^828]: Melodic model of the Second Canon of Saint Theodore Tyro, Ode 8, Heirmos: "Out of the flame for the holy ones" (Tone 6, Greek: *Ἐκ φλογὸς τοῖς Ὁσίοις*), automelon for the eighth ode.
 
 [^829]: Scriptural citation of Psalm 29:6 (LXX 29:6 / MT 30:5): "Weeping may tarry for the evening, but joy comes in the morning," applied typologically to the evening distress of the Christians of Constantinople under Julian's edict and their morning deliverance through the appearance of Saint Theodore.
 
-[^830]: Melodic model of the First Canon of Saint Theodore Tyro, Ode 9, Heirmos: "Thy birthgiving was incorrupt" (Tone 4, Greek: *Ἡ ἄфθορος διαфθοράν* or *Ἄσπορος σύλληψις* / Church Slavonic *Рожество̀ ти нетлѣ́нно*).
+[^830]: Melodic model of the First Canon of Saint Theodore Tyro, Ode 9, Heirmos: "Thy birthgiving was incorrupt" (Tone 4, Greek: *Ἡ ἄφθορος διαφθοράν* or *Ἄσπορος σύλληψις* / Church Slavonic *Рожество̀ ти нетлѣ́нно*).
 
 [^831]: Melodic model of the Second Canon of Saint Theodore Tyro, Ode 9, Heirmos: "It is not possible for men to behold God" (Tone 6, Greek: *Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον*), automelon for the ninth ode.
 
@@ -1694,7 +1694,7 @@
 
 [^846]: Small Vespers Theotokion affirming the Christological foundation of icon veneration: the uncircumscribable, beginningless divine Word became truly visible and depictable in human flesh through His Incarnation from the precious blood of the Virgin Mary.
 
-[^847]: Melodic model *Tone 2, Podoben: "O House of Ephratha"* (Greek: *Οἶκος τοῦ Ἐфραθᾶ*, Church Slavonic *До́ме Є҆ѵфра́ѳовъ* / *До́ме Є҆ѵфра́ѳ*), automelon for stichera on the Aposticha.
+[^847]: Melodic model *Tone 2, Podoben: "O House of Ephratha"* (Greek: *Οἶκος τοῦ Ἐφραθᾶ*, Church Slavonic *До́ме Є҆ѵфра́ѳовъ* / *До́ме Є҆ѵфра́ѳ*), automelon for stichera on the Aposticha.
 
 [^848]: Synodal anathematization of classical heresies: Arius (denying the consubstantiality of the Son), Macedonius (denying the divinity of the Holy Spirit), Peter the Fuller / Peter Mongus (Syrian/Alexandrian Monophysitism), Severus of Antioch (Monophysitism), and Pyrrhus I of Constantinople (Monothelitism).
 
@@ -1840,7 +1840,7 @@
 
 [^919]: The theological parallel between the Old Testament Feast of Dedication (*Encaenia*, Hanukkah; 1 Macc. 4:52–59; John 10:22) celebrating the purification and re-dedication of the Temple in Jerusalem, and the Christian Feast of the Restoration of the Holy Icons (*Triumph of Orthodoxy*).
 
-[^920]: Psalm 88:51–52 (LXX versification): "the footsteps of Thine Anointed" (*τὸ ἀντάллаγμα τοῦ χριστοῦ σου*, rendered in Church Slavonic as *измѣненію Христа твоего*), interpreted Patristically as the redeemed members of Christ's Church who confess Him through both oral proclamation and sacred iconography.
+[^920]: Psalm 88:51–52 (LXX versification): "the footsteps of Thine Anointed" (*τὸ ἀντάλλαγμα τοῦ χριστοῦ σου*, rendered in Church Slavonic as *измѣненію Христа твоего*), interpreted Patristically as the redeemed members of Christ's Church who confess Him through both oral proclamation and sacred iconography.
 
 [^921]: The first restoration of holy icons under Empress Irene and the Seventh Ecumenical Council (Nicaea II, 787), following the first iconoclast persecution inaugurated by Leo III the Isaurian (726) and Constantine V Kopronymos.
 
@@ -2218,7 +2218,7 @@
 
 [^1108]: Vespers Old Testament lection: Genesis 3:21–4:7 (lection begins at Gen. 3:21 and continues through leaf p381).
 
-[^1109]: Vespers Old Testament lection: Genesis 3:24–4:7 (conclusion of reading begun on fol. 180 / leaf p380). The phrase "If thou hast offered rightly, but hast not rightly divided..." reflects the Septuagint reading of Genesis 4:7 (οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥмарτες;).
+[^1109]: Vespers Old Testament lection: Genesis 3:24–4:7 (conclusion of reading begun on fol. 180 / leaf p380). The phrase "If thou hast offered rightly, but hast not rightly divided..." reflects the Septuagint reading of Genesis 4:7 (οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες;).
 
 [^1110]: Prokeimenon at Vespers, Psalm 24:16, 1 (LXX versification; MT 25:16, 1).
 
@@ -2394,7 +2394,7 @@
 
 [^1196]: Tone 4 Heirmos: *Ѻ҆́троки бл҃гочести́выѧ въ пещѝ* (Greek: Παῖδας εὐαγεῖς ἐν τῇ καμίνῳ / *The pious children in the furnace*).
 
-[^1197]: Tone 5 Heirmos: *Творца̀ тва́ри* (Greek: Τὸν ποιητὴν тῆς κτίσεως / *The Creator of creation*).
+[^1197]: Tone 5 Heirmos: *Творца̀ тва́ри* (Greek: Τὸν ποιητὴν τῆς κτίσεως / *The Creator of creation*).
 
 [^1198]: Tone 4 Heirmos: *Ка́мень нерꙋкосѣ́чны го́ры* (Greek: Λίθος ἀχειρότμητος ὄρους / *A stone cut without hands from a mountain*).
 
@@ -2454,7 +2454,7 @@
 
 [^1226]: The hymnographic text articulates the core Palamite doctrine of theosis (deification, Slavonic: ѡ҆боже́нїе), whereby humanity participates in the uncreated divine energies made accessible through the Incarnation of the Word.
 
-[^1227]: The canonical Tone 4 prosomoion model 'Speedily anticipate' (Greek: Ταχὺ προκατάлаβε / Slavonic: Ско́рѡ предварѝ).
+[^1227]: The canonical Tone 4 prosomoion model 'Speedily anticipate' (Greek: Ταχὺ προκατάλαβε / Slavonic: Ско́рѡ предварѝ).
 
 [^1228]: Barlaam of Calabria (c. 1290–1348), the primary philosophical opponent of St. Gregory Palamas and the Hesychasts, whose nominalist theology denying real human communion with the uncreated Light of Tabor was condemned at the Councils of Constantinople (1341, 1351).
 
@@ -2534,7 +2534,7 @@
 
 [^1266]: fol. 124 and 109 (Листъ рх҃д и р҃ѳ) — Directs to the rubrical order for Sunday evening Lenten Vespers and the Prayer of St. Ephrem the Syrian on physical leaves 122 (printed fol. 109) and 137 (printed fol. 124).
 
-[^1267]: Compassionate love (соузъ страстное) — A Slavonic calque of the Greek συμпаθές (sympathetic, compassionate love), expressing God's infinite condescension and mercy toward fallen mankind.
+[^1267]: Compassionate love (соузъ страстное) — A Slavonic calque of the Greek συμπαθές (sympathetic, compassionate love), expressing God's infinite condescension and mercy toward fallen mankind.
 
 [^1268]: Three days of Israel (Exod. 19:10–11) — The typology of Israel's three days of purification before the giving of the Law on Mount Sinai, prefiguring the three weeks of fasting leading up to the veneration of the Precious and Life-Giving Cross on the Third Sunday of Great Lent.
 
@@ -2602,7 +2602,7 @@
 
 [^1300]: Tone 3 Ode 3 Heirmos: "The confirmation" (Утвержденіе) — Greek Τὸ στερέωμα τῶν ἐπὶ σοὶ πεποιθότων, calling upon Christ as the bedrock of believers.
 
-[^1301]: Tone 3 Ode 8 Heirmos: "Unto Him Who walked upon the unstable waters" (Непостоянному) — Greek Τῷ ἐν ἀстаσίαις..., evoking Christ's divine power over creation.
+[^1301]: Tone 3 Ode 8 Heirmos: "Unto Him Who walked upon the unstable waters" (Непостоянному) — Greek Τῷ ἐν ἀστασίαις..., evoking Christ's divine power over creation.
 
 [^1302]: Tone 2 Ode 8 Heirmos: "In the bush unto Moses" (Въ купинѣ Мѡѵсеи) — Greek Ἐν βάτῳ Μωσεῖ, typifying the virgin birth and divine revelation.
 
@@ -2692,13 +2692,13 @@
 
 [^1345]: Isa. 13:13 LXX: The Septuagint and Church Slavonic close the clause with "in the day whereinsoever His wrath shall come" (LXX: ἐν τῇ ἡμέρᾳ, ᾗ ἂν ἐπέλθῃ ὁ θυμὸς αὐτοῦ).
 
-[^1346]: Rubrical cross-reference: "(see fol. 312)[^1346]": Physical leaf 325 (printed book folio 312, Листъ т҃в́i), containing the complete order of Vespers stichera distribution and dismissals.
+[^1346]: Rubrical cross-reference: "(see fol. 312)[^1346]": Physical leaf 325 (printed book folio 312, Листъ т҃в́і), containing the complete order of Vespers stichera distribution and dismissals.
 
 [^1347]: Gen. 8:4 LXX: The Septuagint and Church Slavonic text records the ark coming to rest "in the seventh month, on the twenty-seventh day of the month" (LXX: ἑβδόμῃ καὶ εἰκάδι τοῦ μηνός), contrasting with the Hebrew Masoretic Text ("seventeenth day").
 
 [^1348]: Gen. 8:19b LXX: The phrase "on the first day of the third month" (LXX: ἐν τῷ μηνὶ τῷ τρίτῳ, πρώτῃ τοῦ μηνός; Church Slavonic: въ пе́рвый Мц҃а тре́тїягѡ) is a distinct Septuagint chronological specification absent from the Hebrew Masoretic Text.
 
-[^1349]: Prov. 11:4b LXX: The second half of verse 4 in the Septuagint and Church Slavonic contains an additional sententia absent from the Hebrew Masoretic Text: "when a righteous man dies, he leaves repentance, but the destruction of the ungodly is sudden and derisive" (LXX: τελευτήσας δίκαιος ἔλιпе μετάμελον, πρόχειρος δὲ γίνεται καὶ ἐπίχαρτος ἀσεβῶν ἀπώλεια).
+[^1349]: Prov. 11:4b LXX: The second half of verse 4 in the Septuagint and Church Slavonic contains an additional sententia absent from the Hebrew Masoretic Text: "when a righteous man dies, he leaves repentance, but the destruction of the ungodly is sudden and derisive" (LXX: τελευτήσας δίκαιος ἔλιπε μετάμελον, πρόχειρος δὲ γίνεται καὶ ἐπίχαρτος ἀσεβῶν ἀπώλεια).
 
 [^1350]: Prov. 11:7 LXX: The Septuagint and Church Slavonic reading affirms that "when a righteous man dies, his hope does not perish" (LXX: τελευτήσαντος ἀνδρὸς δικαίου οὐκ ὄλλυται ἐλπίς), contrasting with the Hebrew Masoretic Text which speaks only of the expectation of the wicked perishing.
 
@@ -2872,7 +2872,7 @@
 
 [^1435]: Jacob crossing his hands to bless Ephraim and Manasseh: Genesis 48:13–14.
 
-[^1436]: *Tone 3, Ode 9. Heirmos: "On Mount Sinai" (На Сїна́итѣй горѣ̀):* Greek *Ἐν Σιναίῳ τῷ ὄρει καтеῖδέ σε ἐν тῇ βάτῳ Μωϋσῆς*.
+[^1436]: *Tone 3, Ode 9. Heirmos: "On Mount Sinai" (На Сїна́итѣй горѣ̀):* Greek *Ἐν Σιναίῳ τῷ ὄρει κατεῖδέ σε ἐν τῇ βάτῳ Μωϋσῆς*.
 
 [^1437]: Ps. 131:7 LXX: "We will worship at the place where His feet stood."
 
@@ -2902,7 +2902,7 @@
 
 [^1450]: Proverbs 3:34 LXX; James 4:6; 1 Peter 5:5: "God opposes the proud, but gives grace to the humble."
 
-[^1451]: *Tone 8, Podoben: "The unshakable confirmation" (Непоколѣби́мое ᲂу҆тверже́нїе):* Greek *Ἀκλόνητον στήриγμα*.
+[^1451]: *Tone 8, Podoben: "The unshakable confirmation" (Непоколѣби́мое ᲂу҆тверже́нїе):* Greek *Ἀκλόνητον στήριγμα*.
 
 [^1452]: *Tone 8, Podoben: "As first-fruits of nature" (Ꙗ҆́кѡ нача́тки):* Greek *Ὡς ἀπαρχὰς τῆς φύσεως* (from the Kontakion of All Saints).
 
@@ -2916,7 +2916,7 @@
 
 [^1457]: *Tone 8, Ode 8. Heirmos: "He Who covers with waters" (Покрыва́ѧй вода́ми):* Greek *Ὁ στεγάζων ἐν ὕδασι τὰ ὑπερῷα αὐτοῦ* (cf. Ps. 103:3 LXX).
 
-[^1458]: *Tone 8, Ode 8. Another Heirmos: "Angels and the heavens" (А҆́гг҃ли и҆ нб҃са̀):* Greek *Ἄγγελοι καὶ οὐраνοὶ τὸν ἐπὶ θρόνου δόξης ἐποχούμενον*.
+[^1458]: *Tone 8, Ode 8. Another Heirmos: "Angels and the heavens" (А҆́гг҃ли и҆ нб҃са̀):* Greek *Ἄγγελοι καὶ οὐρανοὶ τὸν ἐπὶ θρόνου δόξης ἐποχούμενον*.
 
 [^1459]: *Трїсоло́жный крⷭ҇тъ:* The three-part or three-barred Cross (Greek *ὁ τριμερὴς σταυρός*), venerated as an iconographic and typological image of the Holy Trinity.
 
@@ -2974,7 +2974,7 @@
 
 [^1486]: *Tone 1, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й):* Greek *Τὸν τάφον σου Σωτήρ*.
 
-[^1487]: *Acrostic:* The Slavonic acrostic reads *Всечⷭ҇тно́мꙋ поклони́мсѧ Дре́вꙋ* ("Let us bow down before the all-honorable Wood"), translating the Greek acrostic *Τῷ πασсеβάστῳ προσκυνῶ ξύλῳ* by St. Theophanes the Branded (Graptos, c. 778–845).
+[^1487]: *Acrostic:* The Slavonic acrostic reads *Всечⷭ҇тно́мꙋ поклони́мсѧ Дре́вꙋ* ("Let us bow down before the all-honorable Wood"), translating the Greek acrostic *Τῷ πασσεβάστῳ προσκυνῶ ξύλῳ* by St. Theophanes the Branded (Graptos, c. 778–845).
 
 [^1488]: *Tone 4, Ode 1. Heirmos: "I will open my mouth" (Ѽве́рзꙋ ᲂу҆ста̀):* Greek *Ἀνοίξω τὸ στόμα μου*.
 
@@ -2998,7 +2998,7 @@
 
 [^1498]: Colossians 2:14: "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to His Cross."
 
-[^1499]: *Tone 4, Ode 6. Heirmos: "Prefiguring the three-day burial" (Возопѝ проѡбразꙋѧ):* Greek *Ἐβόηсе προτυπῶν τὴν ταφὴν τὴν τριήμερον* (cf. Jonah 2:1–10).
+[^1499]: *Tone 4, Ode 6. Heirmos: "Prefiguring the three-day burial" (Возопѝ проѡбразꙋѧ):* Greek *Ἐβόησε προτυπῶν τὴν ταφὴν τὴν τριήμερον* (cf. Jonah 2:1–10).
 
 [^1500]: Christ as the fruitful Vine: John 15:1–5; the abolishing of the middle wall of enmity: Ephesians 2:14–15.
 
@@ -3298,7 +3298,7 @@
 
 [^1648]: Scriptural type: Exodus 3:2–4. The Burning Bush on Mount Sinai as a prefiguration of the Virginal Conception.
 
-[^1649]: Tone 4, Ode 8 Heirmos model: *Въ ѻ҆́гни пла́меннѣ* (Byzantine Greek: Ἐν πυρὶ фλογώδει / "In the flaming fire").
+[^1649]: Tone 4, Ode 8 Heirmos model: *Въ ѻ҆́гни пла́меннѣ* (Byzantine Greek: Ἐν πυρὶ φλογώδει / "In the flaming fire").
 
 [^1650]: Scriptural allusions: Mark 9:44, 48 ("where their worm dies not"); Matthew 8:12, 22:13, 25:30 ("the outer darkness: there shall be weeping and gnashing of teeth").
 
@@ -3374,7 +3374,7 @@
 
 [^1686]: Heirmos of Ode 5, Canon to St. John Climacus, Tone 8: "Why hast Thou cast me off" (Въскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ / Ἵνα τί με ἀπώσω), based on Ps. 43:24 and Ps. 87:15 LXX.
 
-[^1687]: Katavasia: Heirmos of Ode 5 from the Canon of the Most Holy Theotokos (Tone 4): "All things were amazed at thy divine glory" (ᲊ҆диви́шасѧ всѧ́чєскаѧ ѡ҆ бж҃твеннѣй сла́вѣ твое́й / Ἐξέστη τὰ σύμπανта).
+[^1687]: Katavasia: Heirmos of Ode 5 from the Canon of the Most Holy Theotokos (Tone 4): "All things were amazed at thy divine glory" (ᲊ҆диви́шасѧ всѧ́чєскаѧ ѡ҆ бж҃твеннѣй сла́вѣ твое́й / Ἐξέστη τὰ σύμπαντα).
 
 [^1688]: The historical Life of St. John Climacus (Vita Sancti Joannis Scholastici / Sinaitae), Abbot of Mount Sinai and author of the *Ladder of Divine Ascent*, composed in the 7th century by Daniel, monk of the nearby monastery of Raithu (Раїѳꙋ̀). In this 1640 Kyivan edition of Petro Mohyla, the Life is translated into Early Modern Ruthenian theological prose (*prosta mova*), designed for direct edification during monastic refectory or Matins reading.
 
@@ -3414,9 +3414,9 @@
 
 [^1706]: Heirmos of Ode 7, Canon of the Triodion, Tone 5: "The highly exalted" (Превозноси́мый / Ὁ ὑπερυψούμενος).
 
-[^1707]: Heirmos of Ode 7, Canon to St. John Climacus, Tone 8: "The children that went down from Judea" (Ѿ І҆ꙋде́а доше́дшїи / Οἱ ἐκ τῆς Ἰουδαίας καταντήсанτες), based on the Song of the Three Holy Youths in Babylon (Dan. 3).
+[^1707]: Heirmos of Ode 7, Canon to St. John Climacus, Tone 8: "The children that went down from Judea" (Ѿ І҆ꙋде́а доше́дшїи / Οἱ ἐκ τῆς Ἰουδαίας καταντήσαντες), based on the Song of the Three Holy Youths in Babylon (Dan. 3).
 
-[^1708]: Katavasia of Ode 7: Heirmos from the Canon of the Most Holy Theotokos (Tone 4): "The godly-minded youths worshipped not the creation rather than the Creator" (Не послꙋжи́ша тва́ри бг҃омꙋ́дрїи / Οὐκ ἐλάτреυσαν τῇ κτίσει οἱ θεόφρονες), based on Dan. 3 and Rom. 1:25.
+[^1708]: Katavasia of Ode 7: Heirmos from the Canon of the Most Holy Theotokos (Tone 4): "The godly-minded youths worshipped not the creation rather than the Creator" (Не послꙋжи́ша тва́ри бг҃омꙋ́дрїи / Οὐκ ἐλάτρευσαν τῇ κτίσει οἱ θεόφρονες), based on Dan. 3 and Rom. 1:25.
 
 [^1709]: Heirmos of Ode 8, Canon of the Triodion, Tone 5: "Unto Thee, the Creator of all" (Тебѣ̀ вседѣ́телю въ пещѝ ѻ҆́троцы / Σοὶ τῷ Παντουργῷ ἐν τῇ καμίνῳ παῖδες). The troparia continue the allegorical meditation on the Parable of the Good Samaritan (Luke 10:25–37), representing the soul wounded by sins and redeemed by Christ.
 
@@ -3464,11 +3464,11 @@
 
 [^1731]: Sessional Hymn, Tone 7, Podoben: "Tell us" (Рцы̀ на́мъ / Рцы̀ мы є҆мы̀ / Εἰπέ ἡμῖν), explicitly beseeching Christ to grant the faithful to traverse the upcoming holy week and reach the Resurrection of Lazarus.
 
-[^1732]: Heirmos of Ode 5, Triodion Canon of Lord Joseph, Tone 3: "Thou Who of old by divine beck" (Во́ды дре́вле ма́нїемъ бж҃твеннымъ / Ὁ τὰ ὕдаτα πάλαι).
+[^1732]: Heirmos of Ode 5, Triodion Canon of Lord Joseph, Tone 3: "Thou Who of old by divine beck" (Во́ды дре́вле ма́нїемъ бж҃твеннымъ / Ὁ τὰ ὕδατα πάλαι).
 
 [^1733]: Heirmos of Ode 5, Canon of Lord Theodore, Tone 7: "Let us sing unto the Lord" (Пои́мъ Гдⷭ҇еви / ᾌσωμεν τῷ Κυρίῳ).
 
-[^1734]: Katavasia of Ode 5, Tone 7: Heirmos from the Canon of Lord Theodore: "Let us sing unto the Lord, Who drowned all the power of Pharaoh in the sea" (Пои́мъ Гдⷭ҇еви погрꙋзи́вшомꙋ всю̀ си́лꙋ Фараѡ́новꙋ въ мо́ри / ᾌσωμεν τῷ Κυρίῳ τῷ καταποντίσανти), based on the First Canticle of Moses (Ex. 15).
+[^1734]: Katavasia of Ode 5, Tone 7: Heirmos from the Canon of Lord Theodore: "Let us sing unto the Lord, Who drowned all the power of Pharaoh in the sea" (Пои́мъ Гдⷭ҇еви погрꙋзи́вшомꙋ всю̀ си́лꙋ Фараѡ́новꙋ въ мо́ри / ᾌσωμεν τῷ Κυρίῳ τῷ καταποντίσαντι), based on the First Canticle of Moses (Ex. 15).
 
 [^1735]: Heirmos of Ode 8, Canon of Lord Joseph, Tone 3: "The Babylonian furnace" (Вавѷлѡ́нскаѧ пе́щь / Ἡ Βαβυλωνία κάμινος).
 
@@ -3480,7 +3480,7 @@
 
 [^1739]: Katavasia of Ode 8, Tone 7: "Him Who is fearsome unto the Cherubim and marvelous unto the Seraphim" (Стра́шнаго Херꙋві́мѡмъ и҆ чꙋ́днаго Серафі́мѡмъ / Τὸν φοβερὸν τοῖς Χερουβίμ).
 
-[^1740]: Heirmos of Ode 9, Canon of Lord Joseph, Tone 3: "A new wonder" (Но́вое чꙋ́до / Καινοπреπὲς θαῦμα).
+[^1740]: Heirmos of Ode 9, Canon of Lord Joseph, Tone 3: "A new wonder" (Но́вое чꙋ́до / Καινοπρεπὲς θαῦμα).
 
 [^1741]: Scriptural allusion to 1 Cor. 11:31: "For if we would judge ourselves, we should not be judged."
 
@@ -3712,7 +3712,7 @@
 
 [^1855]: Sticheron 13 (Nu) of the Great Canon: "При́зри ѻ҆́комъ..." (Νεῦσον ὄμματι...).
 
-[^1856]: Sticheron 14 (Xi) of the Great Canon: "Ме́чъ ꙋ҆гото́ва Велїа́ръ..." (Ξίφος ἡτοίмасе Βελίαρ...).
+[^1856]: Sticheron 14 (Xi) of the Great Canon: "Ме́чъ ꙋ҆гото́ва Велїа́ръ..." (Ξίφος ἡτοίμασε Βελίαρ...).
 
 [^1857]: Sticheron 15 (Omicron) of the Great Canon: "Ве́сь страсте́мъ порабо́тихсѧ..." (Ὅλος τοῖς πάθεσιν ἐδουλώθην...).
 
@@ -3728,7 +3728,7 @@
 
 [^1863]: Sticheron 20 (Upsilon) of the Great Canon: "Сы́нъ блꙋ́дный бы́хъ..." (Υἱὸς ἄσωτος γέγονα...).
 
-[^1864]: Sticheron 21 [Greek Phi]: In the Byzantine liturgical tradition, these 24 penitential stichera by St. Andrew of Crete (sung at *Lord, I have cried* on Wednesday evening of the Fifth Week of Great Lent) form a continuous alphabetic acrostic following the 24 letters of the classical Greek alphabet from Alpha (Α) to Omega (Ω). The present sticheron corresponds to the twenty-first letter, Phi (Φ), based on the Greek opening *Φθόνῳ κατέβалεν* (*Phthonō katebalen*, "By envy cast down..."), faithfully reflected in the Church Slavonic incipit *За́вистію низложи́*.
+[^1864]: Sticheron 21 [Greek Phi]: In the Byzantine liturgical tradition, these 24 penitential stichera by St. Andrew of Crete (sung at *Lord, I have cried* on Wednesday evening of the Fifth Week of Great Lent) form a continuous alphabetic acrostic following the 24 letters of the classical Greek alphabet from Alpha (Α) to Omega (Ω). The present sticheron corresponds to the twenty-first letter, Phi (Φ), based on the Greek opening *Φθόνῳ κατέβαλεν* (*Phthonō katebalen*, "By envy cast down..."), faithfully reflected in the Church Slavonic incipit *За́вистію низложи́*.
 
 [^1865]: Sticheron 23 [Greek Psi]: The twenty-third sticheron corresponds to the Greek letter Psi (Ψ), opening in the Greek archetype with *Ψυχὴν πρόσδεξαι* (*Psychēn prosdexai*, "Receive my soul..."). The 1640 Kyiv Triodion renders the verbal opening *По́има пріими́ мѧ*, preserving the prayer of whole-person dedication (*"soul and body entirely I place into Thy hands"*).
 
@@ -4142,7 +4142,7 @@
 
 [^2070]: Ode 8, Troparion 19. Christ the Good Shepherd seeking the lost sheep and snatching it from the mouth of the noetic wolf (Luke 15:4–6; John 10:11–12).
 
-[^2071]: Ode 8, Troparion 20. The terror of the inexorable judgment seat (*непостоѧ́ннагѡ сꙋди́ща*, translating Greek ἀδέκαστον κριτήριον / ἄстекτον βῆма).
+[^2071]: Ode 8, Troparion 20. The terror of the inexorable judgment seat (*непостоѧ́ннагѡ сꙋди́ща*, translating Greek ἀδέκαστον κριτήριον / ἄστεκτον βῆμα).
 
 [^2072]: Ode 8, To St. Mary, Troparion 1. St. Mary illuminated by the Theotokos, Mother of the Unwaning Light (*Свѣ́та незаходи́магѡ Мт҃и*).
 
@@ -4652,7 +4652,7 @@
 
 [^2325]: Rubric directing that after Ode 5, the canon of the patron saint ceases, referring back to fol. 713 (p725) for subsequent rubrics and kathismata.
 
-[^2326]: Tone 4, Heirmos of Ode 6 (*Τὴν θείαν ταύτην καὶ πάνтиμον* / *Бжтве́нное сїѐ и҆ всечⷭ҇тно́е*).
+[^2326]: Tone 4, Heirmos of Ode 6 (*Τὴν θείαν ταύτην καὶ πάντιμον* / *Бжтве́нное сїѐ и҆ всечⷭ҇тно́е*).
 
 [^2327]: Troparion pairing the prophetic witness of the Old Testament (*Прр҇кѡмъ ѡ҆глаше́нїе*) with the apostolic proclamation of the New (*А҆́плѡмъ оу҆добре́нїе*).
 
@@ -5954,11 +5954,11 @@
 
 [^2976]: Headpiece rubric for Friday of the Sixth Week: В ПѦ́ТОКЪ Ѕ҃ НЛ҃И, СТ҃ГѠ ПО́СТА. НА ᲊТРНИ...
 
-[^2977]: Sessional Hymn of Sir Joseph, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Greek: Ταχὺ προκατάлаβε): Дво́ица посыла́ется ᲊч҃никъ... (Matt. 21:1–9).
+[^2977]: Sessional Hymn of Sir Joseph, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Greek: Ταχὺ προκατάλαβε): Дво́ица посыла́ется ᲊч҃никъ... (Matt. 21:1–9).
 
 [^2978]: Stavrotheotokion of Sir Joseph, Tone 4: Дв҃о всепѣ́таѧ Мт҃и Хрⷭ҇та Бг҃а... (Luke 2:35; John 19:25).
 
-[^2979]: Sessional Hymn of Sir Theodore, Tone 4, Podoben: "Having risen from the dead" (Въскрⷭ҇съ и҆ме́: / Greek: Ὁ ἀναστὰς ἐκ τῶν νекрῶν): Дво́ица ᲊч҃никъ посыла́ется дне́сь... (Matt. 21:1–7; John 11:43–44).
+[^2979]: Sessional Hymn of Sir Theodore, Tone 4, Podoben: "Having risen from the dead" (Въскрⷭ҇съ и҆ме́: / Greek: Ὁ ἀναστὰς ἐκ τῶν νεκρῶν): Дво́ица ᲊч҃никъ посыла́ется дне́сь... (Matt. 21:1–7; John 11:43–44).
 
 [^2980]: Stavrotheotokion of Sir Theodore, Tone 4: При ст҃рⷭ҇ти Сн҃а чтⷭ҇аѧ стоя́щи... (Matt. 27:1–2).
 

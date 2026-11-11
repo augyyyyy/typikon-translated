@@ -2,8 +2,8 @@
 
 ## Great Compline on the Nativity of Christ[^105]
 
-**Priest:** Blessed is our God always, now and ever, and unto ages of ages.
-**Choir:** Amen. Glory to Thee, our God, glory to Thee. O Heavenly King... Trisagion, and after the Our Father: Come, let us worship... and we begin:
+> **Priest:** "Blessed is our God always, now and ever, and unto ages of ages."
+> **Choir:** "Amen. Glory to Thee, our God, glory to Thee. O Heavenly King... Trisagion, and after the Our Father: Come, let us worship... and we begin:"
 *Psalm 4:*
 When I called upon Thee, the God of my righteousness heard me; in tribulation Thou hast enlarged me.
 Have mercy on me, and hear my prayer.
@@ -153,7 +153,7 @@ I believe in one God... (see p. 40)[^114]
 *Troparion, Tone 4:*[^118]
 Thy Nativity, O Christ our God, has shone to the world the light of wisdom; for by it, they that worshipped the stars were taught by a star to worship Thee, the Sun of righteousness, and to know Thee from on high, the Dayspring: O Lord, glory to Thee!
 Lord, have mercy (40 times). *Glory... Both now...* More honorable than the Cherubim... In the name of the Lord, bless, father.
-**Priest:** Through the prayers of our holy fathers... *And he reads this prayer of Saint Basil the Great:*[^119]
+> **Priest:** "Through the prayers of our holy fathers... *And he reads this prayer of Saint Basil the Great:*"[^119]
 O Lord, Lord, Who hast delivered us from every arrow that flies by day, deliver us also from every thing that walks in darkness; accept the evening sacrifice, the lifting up of our hands. Vouchsafe us also to pass the course of the night without blemish, untempted by evils; and deliver us from every trouble and fear that comes to us from the devil; grant unto our souls compunction, and unto our thoughts mindfulness of the trial at Thy dread and righteous judgment; nail down our flesh to Thy fear, and mortify our members that are upon the earth; that even in the quiet of sleep we may be enlightened by the contemplation of Thy judgments; take away from us every improper imagination and harmful lust; and raise us up at the time of prayer, confirmed in faith, and prospering— in Thy commandments, by the good pleasure and goodness of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine All-Holy, good, and life-creating Spirit, now and ever, and unto ages of ages. Amen.
 *Come, let us worship (thrice).*
 *Psalm 50:*[^120]
@@ -193,12 +193,12 @@ The children of Thy servants shall dwell, and their seed shall be guided aright 
 *Prayer of Manasses, King of Judah:*[^123]
 O Lord Almighty, God of our fathers, of Abraham, and Isaac, and Jacob, and of their righteous seed; Who hast made heaven and earth with all the array thereof; Who hast bound the sea by the word of Thy commandment; Who hast shut up the abyss, and sealed it by Thy fearful and glorious name; Whom all things fear, and tremble before the face of Thy power; for the majesty of Thy glory cannot be borne, and the anger of Thy threatening toward sinners is intolerable; yet the mercy of Thy promise is immeasurable and unsearchable; for Thou art the Lord Most High, compassionate, longsuffering, and plenteous in mercy, and repenting of the evils of men. Thou, O Lord, according to the multitude of Thy goodness, hast promised repentance and forgiveness unto them that have sinned against Thee, and in the multitude of Thy compassions hast appointed repentance unto sinners for salvation. Thou therefore, O Lord, God of hosts, hast not appointed repentance unto the righteous, unto Abraham, and Isaac, and Jacob, who have not sinned against Thee; but Thou hast appointed repentance unto me, a sinner; for I have sinned above the number of the sand of the sea. Multiplied are mine iniquities, O Lord, multiplied— —are mine iniquities, and I am not worthy to gaze and see the height of heaven for the multitude of mine unrighteousnesses. I am bowed down with many iron bonds, so that I cannot lift up my head, and there is no release for me; because I have provoked Thy wrath, and done evil before Thee, not doing Thy will, nor keeping Thy commandments. And now I bow the knees of my heart, entreating goodness from Thee. I have sinned, O Lord, I have sinned, and I acknowledge mine iniquities; but I ask, praying Thee: Remit unto me, O Lord, remit unto me, and destroy me not with mine iniquities, neither keep evils for me in hostility forever, nor condemn me into the nethermost parts of the earth; for Thou art God, the God of them that repent; and in me Thou wilt show all Thy goodness, for Thou wilt save me, unworthy though I be, according to Thy great mercy; and I will praise Thee continually all the days of my life; for all the power of the heavens praises Thee, and Thine is the glory unto ages of ages. Amen.
 *Trisagion. All-Holy Trinity... And after the Our Father:*
-**Priest:** For Thine is the kingdom...
-**Choir:** Amen. *And sings the Kontakion, Tone 3:*[^124]
+> **Priest:** "For Thine is the kingdom..."
+> **Choir:** "Amen. *And sings the Kontakion, Tone 3:*"[^124]
 Today the Virgin gives birth to the Supersubstantial One, and the earth offers a cave to the Unapproachable One; Angels with shepherds glorify, and the Magi journey with a star; for unto us is born a young Child, the Pre-eternal God.
 Lord, have mercy (40 times). *Glory... Both now...* More honorable than the Cherubim... In the name of the Lord, bless, father.
 
-**Priest:** Through the prayers of our holy fathers... *And he reads the prayer of Saint Basil:*[^125]
+> **Priest:** "Through the prayers of our holy fathers... *And he reads the prayer of Saint Basil:*"[^125]
 O Master, God the Father Almighty, Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, one Power, have mercy on me, a sinner; and by the judgments which Thou knowest, save me, Thine unworthy servant; for blessed art Thou unto ages of ages. Amen.
 *Then: Come, let us worship (thrice).*
 *Psalm 69:*[^126]
@@ -267,24 +267,24 @@ The Persian magi kings, having clearly recognized the heavenly King born upon ea
 *Both now... Tone 6:*[^132]
 All the Angels dance in heaven, and men rejoice today; and all creation leaps for joy on account of the Savior and Lord born in Bethlehem; for all idol deception has ceased, and Christ reigns unto the ages.
 
-**Priest:** *reads this litany:*[^133]
+> **Priest:** *reads this litany:*[^133]
 Save, O God, Thy people, and bless Thine inheritance; visit Thy world with mercy and compassions; exalt the horn of Christians, and send down upon us Thy rich mercies: through the intercessions of our all-pure Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-creating Cross; through the protection of the honorable heavenly bodiless Hosts; of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; and of our fathers among the saints and great ecumenical Teachers and Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom; Athanasius, and Cyril; and of our father among the saints Nicholas, Wonderworker of Myra in Lycia; and the Holy Hieromartyr Josaphat; of the holy, glorious, and victorious Martyrs; of our venerable and God-bearing fathers; of the holy and righteous Ancestors of God, Joachim and Anna; and of our venerable and God-bearing fathers Anthony and Theodosius of the Caves; and of Saint (whose temple it is, or day); and of all Thy Saints: we pray Thee, O plenteously-merciful Lord, hear us sinners praying unto Thee, and have mercy on us.
-**Choir:** Lord, have mercy (12 times).
+> **Choir:** "Lord, have mercy (12 times)."
 Again we pray for our most holy universal Pontiff (Name), the Pope of Rome, and for our right-believing Emperor (Name); for their dominion, victory, endurance, peace, health, salvation, and the remission of their sins; and that—[^134] the Lord our God may speed and assist them in all things, and subdue under their feet every enemy and adversary.
-**Choir:** Lord, have mercy (12 times).
+> **Choir:** "Lord, have mercy (12 times)."
 Again we pray for our Most Reverend Archbishop, our Metropolitan (Name), and for our God-loving Bishop (Name) (and monks [add]: and for our Most Venerable Father, our Protoarchimandrite [Name], or Superior [Name], Hegumen [Name]), and for our spiritual fathers, and for all our brethren in Christ; and for every Christian soul that is afflicted and oppressed, needing the mercy and help of God; for the protection of this holy monastery and those who dwell therein; for the peace and good ordering of the whole world; for the stable standing of the holy Churches of God; for the salvation and help of our fathers and brethren who labor and serve with diligence and the fear of God; for those who are absent and on journeys; for the healing of those who lie in infirmities; for the repose of blessed memory and the remission of sins of all our fathers and brethren who have fallen asleep before us, who lie here and orthodox everywhere; for the deliverance of captives; for our brethren in public service; and for all who serve and have served in this holy monastery: let us all say.
-**Choir:** Kyrie eleison.
-**Priest:**[^135] Hear us, O God our Savior, the Hope of all the ends of the earth and of those far off upon the sea; and, O Merciful One, be merciful unto our sins, and have mercy on us; for Thou art a merciful God and lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
-**Priest:** Peace be unto all.
-**Choir:** And to thy spirit.
-**Priest:** Bow your heads unto the Lord.
-**Choir:** To Thee, O Lord.
+> **Choir:** "Kyrie eleison."
+> **Priest:** "[^135] Hear us, O God our Savior, the Hope of all the ends of the earth and of those far off upon the sea; and, O Merciful One, be merciful unto our sins, and have mercy on us; for Thou art a merciful God and lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
+> **Priest:** "Bow your heads unto the Lord."
+> **Choir:** "To Thee, O Lord."
 *And the Priest reads this prayer aloud:*[^136]
 O Master plenteously merciful, Lord Jesus Christ our God: through the prayers of our all-pure Lady, the Theotokos and Ever-Virgin Mary; by the power of the precious and life-creating Cross; through the protections of the honorable heavenly bodiless Hosts; of the honorable and glorious Prophet, Forerunner, and Baptist John; of the holy, glorious, and all-praised Apostles; of the holy and victorious Martyrs; of our venerable and God-bearing fathers; and of our fathers among the saints, the great ecumenical Teachers and Hierarchs: Basil the Great, Gregory the Theologian, John Chrysostom, Athanasius, and Cyril; and of our father among the saints Nicholas, Wonderworker of Myra in Lycia; and the Holy Hieromartyr Josaphat; of the holy and righteous Ancestors of God, Joachim and Anna; and of our venerable and God-bearing fathers Anthony and Theodosius of the Caves; (and of Saint [Name], whose temple it is, or day); and of all Thy Saints: make our prayer acceptable; grant us the remission of our transgressions;
 
 shelter us under the cover of Thy wings; drive away from us every enemy and adversary; make our life peaceful, O Lord; have mercy on us and on Thy world, and save our souls, for Thou art good and the lover of mankind.
-**Choir:** Amen.
+> **Choir:** "Amen."
 *At the Aposticha, Stichera Idiomela:*[^137]
 *Tone 2:*
 A great and most glorious wonder is accomplished today! A Virgin gives birth, and her womb suffers no corruption; the Word is incarnate, and is not separated from the Father! Angels with shepherds give glory, and we with them cry out: Glory to God in the highest, and on earth peace!
@@ -305,11 +305,11 @@ A light to the revelation of the Gentiles, and the glory of Thy people Israel.
 *Trisagion, and after Our Father:*
 *Troparion, Tone 4:*[^142]
 Thy Nativity, O Christ... (3 times) (see p. 75)[^143]
-**Priest:** Let us pray to the Lord.
-**Choir:** Lord, have mercy.
+> **Priest:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
 *The Priest reads this prayer:*[^144]
 O Lord Jesus Christ our God, Who didst bless the five loaves and fill the five thousand (people): do Thou Thyself (now also, O Master) bless † these loaves, the wheat, † the wine, † and the oil; † and multiply them in this holy monastery, and in this Thy world (always), and sanctify Thy faithful who partake of them. For Thou art He Who blesses and sanctifies all things, O Christ our God, and unto Thee do we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Choir:** "Amen."
 *Then:*
 Blessed be the name of the Lord, from this time forth and forevermore (3 times).
 *Psalm 33:*[^145]
@@ -326,14 +326,14 @@ O fear the Lord, all you His saints; for there is no want to them that fear Him.
 The rich have become poor and hungry; but they that seek the Lord shall not want any good thing.
 *The Priest blesses the people, saying:*
 The bless†ing of the Lord be upon you, by His grace and love for mankind, always, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Choir:** "Amen."
 *And immediately we begin:*
 
 ## Matins on the Nativity of Christ
 
 *The Priest begins:*[^146]
-**Priest:** Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Priest:** "Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 Glory to God in the highest, and on earth peace, good will among men (3 times).
 O Lord, Thou shalt open my lips, and my mouth shall declare Thy praise (twice).
@@ -490,7 +490,7 @@ Glory...
 By the Holy Spirit every soul is quickened and exalted in purity, radiant in the unity of the Trinity mystically.
 Both now...
 By the Holy Spirit the streams of grace gush forth, watering all creation unto life.
-**Priest:** Let us be attentive! *And the Prokeimenon, Tone 4:*[^163]
+> **Priest:** "Let us be attentive! *And the Prokeimenon, Tone 4:*"[^163]
 Out of the womb before the morning star have I begotten Thee; the Lord has sworn, and will not repent.
 
 *Verse:* The Lord said unto my Lord: Sit Thou at My right hand, until I make Thine enemies the footstool of Thy feet.
@@ -672,7 +672,7 @@ The Father was well pleased, the Word became flesh, and the Virgin gave birth to
 When the time of Thy coming upon earth was at hand, the first census of the world was made; then didst Thou wish to enroll the names of men who believe in Thy Nativity; therefore was such a decree issued by Caesar; for the timeless eternal nature of Thy kingdom was renewed through Thy Nativity; therefore do we also offer Thee, beyond worldly wealth, the tribute of Orthodox theology, as to God and the Savior of our souls.
 *Both now... Tone 2:*[^196]
 Today Christ is born in Bethlehem of the Virgin; today He Who is without beginning begins to be, and the Word becomes incarnate; the heavenly hosts rejoice, and the earth with mankind makes merry; the Magi offer gifts to the Master; the shepherds marvel at Him Who is born; and we unceasingly cry aloud: Glory to God in the highest, and on earth peace, good will among men!
-**Priest:** Glory to Thee Who hast shown us the light!
+> **Priest:** "Glory to Thee Who hast shown us the light!"
 *And the Great Doxology:*[^197]
 Glory to God in the highest, and on earth peace, good will among men.
 We praise Thee, we bless Thee, we worship Thee, we glorify Thee.
@@ -703,9 +703,9 @@ Now and ever, and unto ages of ages. Amen.
 *After the Trisagion, the Troparion of the Feast:*[^198]
 Thy Nativity, O Christ... (see p. 75)[^199]
 *After this, the Litany:*
-**Deacon:** Have mercy on us, O God... (see p. 62)[^200]
+> **Deacon:** "Have mercy on us, O God... (see p. 62)"[^200]
 *Then the Litany:*
-**Deacon:** Let us complete our morning prayer... (see p. 63)[^201]
+> **Deacon:** "Let us complete our morning prayer... (see p. 63)"[^201]
 *And the Dismissal.*[^202]
 
 ## Divine Liturgy on the Nativity of Christ
@@ -738,9 +738,7 @@ O Only-begotten Son...[^206]
 *Verse:* The Lord said unto my Lord: Sit Thou at My right hand.
 *Troparion:* Thy Nativity, O Christ our God, has shone the light of knowledge upon the world; for thereby those who worshiped the stars were taught by a star to adore Thee, the Sun of Righteousness, and to know Thee, the Dayspring from on high: O Lord, glory to Thee!
 *Verse:* Until I make Thine enemies the footstool of Thy feet.
-*Troparion:* Thy Nativity, O Christ our God...
-
-*Verse:* The Lord shall send Thee the rod of power out of Sion; and rule Thou in the midst of Thine enemies.
+*Troparion:* Thy Nativity, O Christ our God *Verse:* The Lord shall send Thee the rod of power out of Sion; and rule Thou in the midst of Thine enemies.
 *Troparion:* Thy Nativity, O Christ our God...
 *Verse:* With Thee is dominion in the day of Thy power, in the splendors of Thy saints.
 *Troparion:* Thy Nativity, O Christ our God...
@@ -756,12 +754,12 @@ As many of you as have been baptized into Christ have put on Christ. Alleluia.
 Let all the earth worship Thee and sing unto Thee; let them sing unto Thy name, O Most High.
 *Verse:* Shout with joy unto the Lord, all the earth; sing unto His name, give glory to His praise.
 *Epistle to the Galatians, Pericope 14:*[^211]
-**Reader:** Brethren, when the fullness of time came, God sent forth His only-begotten Son, born of a woman, born under the law, to redeem those who were under the law, that we might receive adoption as sons. And because you are sons, God sent forth the Spirit of His Son into your hearts, crying: Abba, Father! Therefore thou art no longer a slave, but a son; and if a son, then an heir of God through Jesus Christ.
+> **Reader:** "Brethren, when the fullness of time came, God sent forth His only-begotten Son, born of a woman, born under the law, to redeem those who were under the law, that we might receive adoption as sons. And because you are sons, God sent forth the Spirit of His Son into your hearts, crying: Abba, Father! Therefore thou art no longer a slave, but a son; and if a son, then an heir of God through Jesus Christ."
 *Alleluia, Tone 1:*[^212]
 *Verse:* The heavens declare the glory of God, and the firmament proclaims the work of His hands.
 *Verse:* Day unto day utters speech, and night unto night proclaims knowledge.
 *Gospel according to Matthew, Pericope 3:*[^213]
-**Deacon:** When Jesus was born in Bethlehem of Judea in the days of King Herod, behold, Magi from the East came to Jerusalem, saying: Where is He Who is born King of the Jews? For we saw His star in the East, and have come to worship Him. When King Herod heard this, he was troubled, and all Jerusalem with him. And having gathered all the chief priests and scribes of the people, he inquired of them where the Christ was to be born. And they said unto him: In Bethlehem of Judea, for so it is written by the prophet: And thou, Bethlehem, in the land of Judah, art by no means the least among the rulers of Judah; for out of thee shall come forth a Ruler Who will shepherd My people Israel. Then Herod secretly called the Magi, and ascertained from them the time the star appeared. And sending them to Bethlehem, he said: Go and search diligently for the young Child, and when you have found Him, bring me word, that I also may come and worship Him. Having heard the king, they departed; and behold, the star which they had seen in the East went before them, until it came and stood over where the young Child was. And when they saw the star, they re- -joiced with exceedingly great joy. And having entered the house, they saw the young Child with Mary His Mother, and falling down, they worshiped Him; and opening their treasures, they presented unto Him gifts: gold, frankincense, and myrrh. And being warned in a dream not to return to Herod, they departed into their own country by another way.
+> **Deacon:** "When Jesus was born in Bethlehem of Judea in the days of King Herod, behold, Magi from the East came to Jerusalem, saying: Where is He Who is born King of the Jews? For we saw His star in the East, and have come to worship Him. When King Herod heard this, he was troubled, and all Jerusalem with him. And having gathered all the chief priests and scribes of the people, he inquired of them where the Christ was to be born. And they said unto him: In Bethlehem of Judea, for so it is written by the prophet: And thou, Bethlehem, in the land of Judah, art by no means the least among the rulers of Judah; for out of thee shall come forth a Ruler Who will shepherd My people Israel. Then Herod secretly called the Magi, and ascertained from them the time the star appeared. And sending them to Bethlehem, he said: Go and search diligently for the young Child, and when you have found Him, bring me word, that I also may come and worship Him. Having heard the king, they departed; and behold, the star which they had seen in the East went before them, until it came and stood over where the young Child was. And when they saw the star, they re- -joiced with exceedingly great joy. And having entered the house, they saw the young Child with Mary His Mother, and falling down, they worshiped Him; and opening their treasures, they presented unto Him gifts: gold, frankincense, and myrrh. And being warned in a dream not to return to Herod, they departed into their own country by another way."
 *Instead of "It is truly right," we sing:*[^214]
 *Refrain:* Magnify, O my soul, Christ the King born in the cave.
 *And the Heirmos:*

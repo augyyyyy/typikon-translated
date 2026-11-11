@@ -1,13 +1,11 @@
 # PART II: COMMON RUBRICS FOR THE DIVERSE SERVICES OF THE OCTOECHOS AND MENAION
 
-## Part II
-
 ## Common Rubrics for the Diverse Services of the Oktoechos and Menaion
-### Arising from the Distinction of Their Services, and from Their Diverse Concurrence with One Another
+**Arising from the Distinction of Their Services, and from Their Diverse Concurrence with One Another**
 
 "Of such rubrics, or general patterns of Divine Worship, there are 20: namely, 7 outside a Feast, and 13 within a Feast, as follows:
 
-#### Outside a Feast
+**Outside a Feast** <a id="outside-a-feast"></a>
 1. Non-Polyeleos Saint on Sunday
 2. Non-Polyeleos Saint on weekdays except Saturday
 3. Non-Polyeleos Saint on Saturday
@@ -16,18 +14,18 @@
 6. Vigil Saint on Sunday
 7. Vigil Saint on weekdays
 
-#### Within a Feast
+**Within a Feast** <a id="within-a-feast"></a>
 
-##### In the Forefeast
+**In the Forefeast** <a id="in-the-forefeast"></a>
 1. Forefeast with a Non-Polyeleos Saint on Sunday
 2. Forefeast with a Non-Polyeleos Saint on weekdays
 
-##### On the Feast
+**On the Feast** <a id="on-the-feast"></a>
 3. Feast of the Lord on Sunday and on weekdays
 4. Feast of the Mother of God on Sunday
 5. Feast of the Mother of God on weekdays
 
-##### In the Afterfeast
+**In the Afterfeast** <a id="in-the-afterfeast"></a>
 6. Afterfeast with a Non-Polyeleos Saint on Sunday
 7. Afterfeast with a Non-Polyeleos Saint on weekdays
 8. Afterfeast with a Polyeleos Saint on Sunday
@@ -35,18 +33,16 @@
 10. Afterfeast with a Vigil Saint on Sunday[^45]
 11. Afterfeast with a Vigil Saint on weekdays
 
-##### On the Apodosis of the Feast
+**On the Apodosis of the Feast** <a id="on-the-apodosis-of-the-feast"></a>
 12. Apodosis of a Feast of the Lord and of the Mother of God on Sunday
-13. Apodosis of a Feast of the Lord and of the Mother of God on weekdays"
-
-#### Rubrical Notes
+13. Apodosis of a Feast of the Lord and of the Mother of God on weekdays" **Rubrical Notes**
 
 "A Non-Polyeleos Saint is of a twofold kind, that is, either on 4 or on 6. A Saint is called on 4 or on 6 from the number of Troparia of each Ode of his Canon at Matins. And of cases of a Non-Polyeleos Saint there are three: that is, there may sometimes occur either only one Saint on 4, or two on 4, or one on 6. When we say one or two Saints, we understand them with distinct Services: for there may be many Saints, yet having only a single Service. More than two Services to Saints the Church Typikon does not appoint.[^46]
 Now let us set forth the rubrics for each of the above-mentioned 20 cases.
 
-### 1. Non-Polyeleos Saint on Sunday
+**1. Non-Polyeleos Saint on Sunday** <a id="1-non-polyeleos-saint-on-sunday"></a>
 
-#### At Great Vespers
+**At Great Vespers**
 
 1. Kathisma 1: **"Blessed is the man,"** according to the Typikon entire; according to our present custom, however, only certain selected verses of it are chanted, which we have set down in the Church Chant Book (*Напѣвникъ Церковный*).
 2. At **"Lord, I have cried,"** 10 Stichera: namely, of the Oktoechos Sunday ones of the current Tone 7, and of the Menaion (or Anthologion) to the Saint who is in order in the Menologion 3; then **"Glory... Now and forever..."** the first Theotokion (Dogmatikon) of the current Tone from the Oktoechos, or, as usual, from" "the Heirmologion with musical notes. If there is a Doxastikon to the Saint, then there is **"Glory..."** the Doxastikon to the Saint, then **"Now and forever..."** the 1st Theotokion of the current Tone.[^47]
@@ -59,30 +55,30 @@ Now let us set forth the rubrics for each of the above-mentioned 20 cases.
 
 "6. Great Dismissal with commemoration of the Sunday Service, and of the one Saint, and of the second, if there be.[^52]
 
-#### Rubrical Notes
+**Rubrical Notes**
 
 For the easier finding of the Theotokia used at Vespers and at Matins according to the Tone of the Doxastikon of the Saint, there are placed at the end of each volume of the Menaion (likewise also in the Anthologion) all the Theotokia used after the Stichera at **"Lord, I have cried"** and at the Aposticha, and after the Troparia of the Saint; and this according to the order of the eight Tones and days of the week, first the Sunday ones, then the weekday ones.
 
-#### At Compline
+**At Compline**
 
 1. Canon of the Mother of God from the Oktoechos of the current Tone, invariably as in the Oktoechos, that is, each Ode with the Heirmos on 5, without Katavasias and without Litanies, only after the 6th Ode **"Lord, have mercy"** thrice, then **"Glory... Now and forever..."** and the Sessional Hymn (sometimes the Kontakion).[^53]
 2. There are no Troparia after **"It is truly right,"** except for the single Hypakoe of the current Tone from the Horologion (among the Sunday Troparia).[^54]"
 
 "3. Dismissal: from **"Glory to Thee, O Christ God,"** with the response: **"Glory... Now and forever...; Lord, have mercy"** twice; **"Lord, bless."**[^55]
 
-#### At Midnight Office
+**At Midnight Office**
 
 Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoechos, that is, with the Heirmos on 5, without Katavasias and without Litanies; only after the 3rd and 6th Odes **"Lord, have mercy"** thrice, and the Sessional Hymn. (Pochaiv and Moscow Oktoechos in Tone 1).
 
-#### At Great Matins
+**At Great Matins**
 
 1. At **"God is the Lord"**: Sunday Troparion of the current Tone twice, **"Glory..."** of the Saint, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.
 — If two Saints occur, there will be the Sunday Troparion once, and of the first Saint once, **"Glory..."** of the second once, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.[^56]
-2. Two prescribed Kathismata, each followed by the Little Litany and the Sunday Sessional Hymns in order from the Oktoechos;[^57] then Kathisma 17 (**"The Blameless"** / *Непорочни*), or Kathisma 14 (Polyeleos): the 17th, on the Sundays which are between the Apodosis" "of the Precious Cross (September 21), and the Forefeast of the Nativity of Christ (December 20); the 14th on the Sundays which are between the Apodosis of Theophany (January 14) and the First Sunday of the Great Fast.[^58] After the 17th or 14th Kathisma, immediately the Angelic Synaxis (*Ангелскiй Соборъ* / Evlogitaria), the Little Litany, and the Hypakoe of the current Tone.
+2. Two prescribed Kathismata, each followed by the Little Litany and the Sunday Sessional Hymns in order from the Oktoechos;[^57] then Kathisma 17 (**"The Blameless"** / *Непорочни*), or Kathisma 14 (Polyeleos): the 17th, on the Sundays which are between the Apodosis" "of the Precious Cross (September 21), and the Forefeast of the Nativity of Christ (December 20); the 14th on the Sundays which are between the Apodosis of Theophany (January 14) and the First Sunday of the Great Fast.[^58] After the 17th or 14th Kathisma, immediately the Angelic Synaxis (*Ангелскій Соборъ* / Evlogitaria), the Little Litany, and the Hypakoe of the current Tone.
 2. Gradual Antiphons (*Степенна*) of the current Tone from the Oktoechos or from the Heirmologion.
 3. Sunday Prokimenon of the current Tone from the Oktoechos or from the Heirmologion.
 4. Gospel, one of the eleven Sunday Resurrection Gospels.
-5. Sunday Sticheron: **"Having seen the Resurrection of Christ,"** (*Воскресъ Iисусъ* / *Воскресенiе Христово видѣвше*).
+5. Sunday Sticheron: **"Having seen the Resurrection of Christ,"** (*Воскресъ Іисусъ* / *Воскресеніе Христово видѣвше*).
 6. Four Canons on 14: three of the Oktoechos of the current Tone on 10, and one of the Menaion of the Saint on 4. Of the three Oktoechos Canons, the first, the Resurrectional, is taken with the Heirmos on 4; the second, the Cross-Resurrectional, without the Heirmos on 3; and the third, the Marian, likewise without the Heirmos on 3; finally the fourth from the Menaion of the Saint, without the Heirmos on 4; for the Heirmoi of the first Canon alone are taken, while the others are omitted; they are indicated only to serve as the model of chanting for the Troparia that follow them, which formerly were all chanted according to their pattern. The Katavasia after each Ode is the appointed one (the Heirmos of the first Festal Canon,[^59] for usually there are two Canons), a table of which thou hast at the end of this Typikon. After the 3rd Ode, the Kontakion and Ikos from the 6th Ode of the Saint, if he has them (for the Menaion does not always have a Kontakion and Ikos)" "and the Sessional Hymn of the Saint; after the 6th Ode, the Sunday Kontakion and Ikos; at the 8th Ode, before its Katavasia, the refrain: **"We praise, we bless, we worship the Lord..."**, which we sing to the melody of the Idiomelon refrains according to the Tone of the Katavasia. At the 9th Ode we sing **"My soul doth magnify the Lord"** with **"More honorable than the Cherubim..."** After the 9th Ode, **"Holy is the Lord our God"** thrice, in the Tone of the current Prokimenon, and the Sunday Exaposteilarion, one of the eleven, corresponding to the number of the Sunday Matins Gospel; then **"Glory..."** the Exaposteilarion of the Saint, if he has one, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^60]
 — If two Saints occur, there will be two Canons of the Oktoechos on 6: that is, the Resurrectional with the Heirmos on 4, and the Marian on 2; and two of the Menaion on 8: that is, to the first Saint on 4 and to the second on 4. The Katavasia after each Ode is the appointed one. After the 3rd Ode, the Kontakion and Ikos of the first and second Saint, if they have them; then the Sessional Hymn of the first without a Theotokion, **"Glory..."** of the second, **"Now and forever..."** his Theotokion.[^61] After the 6th Ode, the Sunday Kontakion and Ikos. After the 9th Ode, the Sunday Exaposteilarion; then, if there be in the Menaion, of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion of the Sunday Exaposteilarion.[^62]
 — If a Saint on 6 occurs, there will be the Resurrectional Canon with the Heirmos on 4, the Cross-Resurrectional on 2, the Marian on 2, and the Saint's on 6.[^63]"
@@ -92,29 +88,29 @@ Trinity Canon of the Oktoechos of the current Tone, invariably as in the Oktoech
 8. After the Great Doxology, the Sunday Troparion: **"Today salvation is come to the world,"** when the Tone is odd, that is, 1st, 3rd, 5th, 7th; or **"Having risen from the tomb,"** when the Tone is even, that is, 2nd, 4th, 6th, 8th.
 9. Great Dismissal, as at Vespers, with commemoration of the Sunday Service, and of the one Saint, and of the second, if there be.
 
-#### At the Hours
+**At the Hours**
 
 1. Troparia: the Sunday one at all the Hours; then **"Glory..."** at the 3rd and 9th also to the Saint, at the 6th to the Church; Kontakia: at the 1st and 9th the Sunday one, at the 3rd to the Saint, at the 6th to the Church.[^65]
 — If there are two Saints, the Sunday Troparion at all the Hours; then **"Glory..."** at the 3rd also to the first Saint, at the 6th to the Church, at the 9th to the second Saint; Kontakia alternately, that is: at the 1st the Sunday one, at the 3rd to the first, at the 6th to the Church, at the 9th to the second Saint.[^66]"
 
 "2. Dismissal from **"Glory to Thee, O Christ God,"** with the Sunday commemoration, and of the one Saint, and of the second, if there be.
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 
 1. The first two Antiphons are the Sunday ones, from the very day of Pascha; the third is the usual: **"Come, let us rejoice,"** with the Sunday refrain. (In monasteries: the Typika / *Изобразительна*).[^67]"
 
-"2. Sunday Troparion, **"Glory..."** Sunday Kontakion, **"Now and forever..."** Marian Kontakion, one from the Feasts of the Mother of God, according to the Tone of the Doxastikon of the Sunday Kontakion; or the Kontakion of the Church, if it is a Marian one; but if not, then the Sunday Theotokion according to the Tone of the Sunday Kontakion,[^68] or the general Kontakion: **"Protection of Christians"** (*Заступнице / Предстательство христiанъ*).[^69]
+"2. Sunday Troparion, **"Glory..."** Sunday Kontakion, **"Now and forever..."** Marian Kontakion, one from the Feasts of the Mother of God, according to the Tone of the Doxastikon of the Sunday Kontakion; or the Kontakion of the Church, if it is a Marian one; but if not, then the Sunday Theotokion according to the Tone of the Sunday Kontakion,[^68] or the general Kontakion: **"Protection of Christians"** (*Заступнице / Предстательство христіанъ*).[^69]
 3. Sunday Prokimenon and Alleluia of the current Tone.
 4. Epistle and Gospel: the Sunday series.
 5. Sunday Communion Hymn: **"Praise the Lord from the heavens"** (*Хвалите*).[^70]
 
-#### Rubrical Notes
+**Rubrical Notes**
 
 If the Service of one of the diverse petitions is also taken, then the Sunday Service takes precedence; and the Kontakion of the petition we cover with the Marian one of the petition, if it has one; but if not, then with the Kontakion of the petition, as of the Lord."
 
-### Non-Polyeleos Saint on Weekdays, Except Saturday
+**Non-Polyeleos Saint on Weekdays, Except Saturday** <a id="non-polyeleos-saint-on-weekdays-except-saturday"></a>
 
-#### At Vespers
+**At Vespers**
 
 1. The Kathisma of the row.[^71] On Sunday evening, on account of the labor of the Vigil that had taken place sometimes, a Kathisma is not appointed; on Feast evenings, however, to which the Typikon assigns an All-Night Vigil, the Kathisma of the row is omitted.
 2. At **"Lord, I have cried,"** six Stichera: from the Oktoechos of the Tone of the row, 3,[^72] and from the Menaion of the Saint, 3; then **"Glory... Now and forever..."** the Theotokion (or Stavrotheotokion) which is after the Stichera of the Saint. If in the Menaion there is a Doxastikon to the Saint, we chant **"Glory..."** his Doxastikon, **"Now and forever..."** the Theotokion of the Oktoechos according to the Tone of the Doxastikon, and according to the day of the week, from **"Lord, I have cried."** Such a Doxastikon, according to the rule of the Greek Typikon, is to be chanted by both Choirs joined together: *ἑνουμένων τῶν δύο χορῶν* (Chapter 5).[^73]
@@ -126,14 +122,14 @@ If the Service of one of the diverse petitions is also taken, then the Sunday Se
 5. The Troparion of the Saint; **"Glory... Now and forever..."** the Dismissal Theotokion from the Horologion, according to the Tone of the Troparion of the Saint and according to the day of the week.
 — If two Saints occur, there is the Troparion to the first Saint, **"Glory..."** to the second, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint and according to the day of the week.[^74]
 
-#### At Compline
+**At Compline**
 1. The Canon of the Mother of God from the Oktoechos, of the Tone of the row, without change as in the Oktoechos; that is, each Ode with the Heirmos on 5, without Katavasias and without Litanies, only after the 6th Ode: **"Lord, have mercy,"** thrice; then **"Glory... Now and forever..."** the Sessional Hymn.
 2. Troparia after **"It is truly right"**: of the Temple, if it is of the Lord or of the Mother of God, then of the day of the week, and the other four which are in the Horologion in the sequence of Small Compline. If, however, it is a Temple of a Saint, then first of the day, then of the Temple. On Wednesday and Friday, even if the Temple is of the Lord or of the Mother of God, there is no need to say it before the Temple, because the Troparion of the Cross is of the Lord.[^75]
 
-#### At Midnight Office
+**At Midnight Office**
 All things without change as in the Horologion on weekdays.
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord,"** the Troparion of the Saint twice; **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint and according to the day of the week.[^76]
 — If two Saints occur, there is the Troparion to the first Saint twice, **"Glory..."** to the second once, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint.[^77]
 2. The Kathismata of the row, usually two, each of which is followed by the Little Litany and the Sessional Hymn of the Oktoechos,[^78]
@@ -146,24 +142,24 @@ All things without change as in the Horologion on weekdays.
 5. At the end: the Troparion of the Saint; **"Glory... Now and forever..."** the Dismissal Theotokion according to the Tone of the Troparion of the Saint and according to the day of the week, different from that which was at Vespers and at **"God is the Lord."**
 — If two Saints occur, there is the Troparion of the first, **"Glory..."** of the second, **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second and according to the day of the week.[^86]
 
-#### Notes Concerning a Saint on 6
+**Notes Concerning a Saint on 6**
 1. A Saint on 6 sometimes has nothing more than a Saint on 4, except for six Troparia in the Odes of the Morning Canon and six Stichera at **"Lord, I have cried,"** unless the Saint concurs with some Festal Service; for then at **"Lord, I have cried"** there are 3 Stichera to the Feast and 3 to the Saint (September 9).
 2. Sometimes he has also at the Aposticha of Matins, after the Stichera of the Oktoechos, a single Sticheron with a proper refrain, and moreover a Doxastikon (November 17).
 3. Sometimes he has Stichera at the Praises, 4 in number, and afterwards the Small Doxology and the Aposticha of the Oktoechos in its place (September 6 and October 7). Nevertheless, in this case it is left to the discretion of the Superior whether to take the Great Doxology without the Aposticha, or the Small with the Aposticha.[^87]
 4. Sometimes he has not only Stichera at the Praises and the Great Doxology, but also at **"Lord, I have cried"** a Dogmatikon according to the Tone of the Doxastikon, and the entire Aposticha proper, and after the Troparia the Sunday Theotokion at Vespers and at Matins; at Matins also proper Sessional Hymns, and in the Canon the prescribed Katavasia after each Ode (October 23 and July 25); if it is a Service of the Lord or of the Mother of God on 6, then the Canon is only of this Service without that of the Oktoechos (July 2, August 16 and 31).
 
-#### At the Hours
+**At the Hours**
 Troparia and Kontakia: at the 1st, of the day of the week; at the 3rd and 9th, to the Saint; at the 6th, of the Temple.[^88]
 — If two Saints occur, the Troparion and Kontakion at the 1st Hour are of the day of the week; at the 3rd, to the first Saint; at the 6th, of the Temple; at the 9th, to the second Saint.[^89]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 According to our most common custom, all things are taken of the day alone, namely:
 1. The Troparion of the day of the week, then **"Glory..."** its Kontakion, **"Now and forever..."** the Kontakion of the Temple, if it is of the Lord or of the Mother of God; but if it is a Temple of a Saint, then the common Theotokion: **"Steadfast Protectress"** (*Предстательство* / *Заступнице*),[^90] or one of the Festal ones of the Mother of God, according to the Tone.[^91] On Wednesday and Friday we do not select Theotokia, but conclude the Troparion of the day with the Kontakion of the day with the refrain: **"Glory... Now and forever..."**, for this Kontakion is of the Lord.
 2. The Prokimenon, Alleluia, and Communion Hymn of the day of the week (at the end of the Epistolary or of our Sluzhebnik).
 
 3. The Epistle and Gospel of the day of the week in sequence after Pentecost.[^92]
 
-#### Notes
+**Notes**
 1. If the Service is taken only to the Saint, then the Theotokion, or the Kontakion of the Temple, is taken from among the above-mentioned.
 2. If the Service is only of one of the various Petitions, then the Theotokion is of the diverse Petition, and where this is not appointed, the Troparion of the Service of the Petition is concluded by its Kontakion (with the refrain **"Glory... Now and forever..."**); it is not taken to be of the Lord.
 3. If the Service is taken both of the day and to the Saint, then the Service of the day precedes that of the Saint, and there is the Troparion of the day, then of the Saint, and the Kontakion of the day, then **"Glory..."** the Kontakion of the Saint, **"Now and forever..."** the Theotokion, or Kontakion of the Temple, one of the above-mentioned; on Wednesday and Friday, however, the Kontakion of the Saint is concluded by the Kontakion of the day.
@@ -174,30 +170,28 @@ According to our most common custom, all things are taken of the day alone, name
 
 7. If there be more Prokimena, Alleluias, Epistles-Gospels, and Communion Hymns, that thou mayest understand how they are taken, know first that more than two are not appointed in the Church Typika, except for the Epistles and Gospels, which in the Slavonic Typika alone are appointed even three: for the Slavs abound in supplications more than the Greeks. For where, in the concurrence of three Readings, the Greek Typika omit the one of the row, the Slavonic Typika take it under the incipit (*під зачало*) of the first Reading, as though one with it;[^95] and when this is impossible on account of some Great Feast, they then command to take it a day earlier under the incipit with that of the row.[^96] Nevertheless, this rubric is today preserved among us scarcely in Cathedral Temples, while in the rest they usually take only a single Epistle and Gospel, even as also a single Service, whether of the day, or to the Saint, or one of the various Petitions. If, then, there are two Prokimena and two Alleluias, both are taken under a single heading, that is, both Prokimena before the beginning of the first Reading, and both Alleluias at the conclusion of the second Reading; nevertheless, the first Prokimenon is taken twice, that is, once before, and once after the verse; the second, however, only once and without a verse, because in this case the Typikon does not appoint a verse. Similarly also the Alleluias: both verses thereof are taken only of the first Service, while of the second only a single verse, the first.[^97] The title, that is, whence it is—whether from Paul, or Matthew, or another—is taken only of the first Reading, and of the rest is usually omitted, although it would be better to announce the titles of the other Readings also: for it is not prejudicial to the hearers to know which Sacred Writer's Reading is being pronounced; and only on that supposition would the Typikon commanding to take the Reading of the row under the incipit have any sense, for to take one Reading under the incipit of another we understand to be the merging of it into one with the preceding by the omission of its title. If, however, the title of the succeeding third Reading, which is not taken under the incipit, is also passed over in silence, then it would be necessary to say that this third Reading also is taken under the incipit. **"Let us be attentive"** (*Вонмемъ*) is introduced only at the beginning of the first Reading. If there are two Communion Hymns, we say the Alleluia only at the conclusion of the second.[^98]
 
-### Non-Polyeleos Saint on Saturday
+**Non-Polyeleos Saint on Saturday** <a id="non-polyeleos-saint-on-saturday"></a>
 
-#### Note
+**Note**
 On the first five weekdays the Service of the Oktoechos precedes the Service of the Menaion; on Saturday, on the contrary, the Service of the Menaion precedes that of the Oktoechos: because that on Saturday is common to all Saints and the Departed, while the Service of the Menaion is proper to the Saint whose day it is.
 
-#### At Vespers
+**At Vespers**
 1. The Kathisma of the row (18th), which is omitted only when an All-Night Vigil has preceded.
 2. At **"Lord, I have cried,"** six Stichera: to the Saint from the Menaion, 3, and of the Oktoechos, 3, written in the first place;[^99] then **"Glory... Now and forever..."** the 1st Theotokion of the current Tone that is concluding (the Dogmatikon of the preceding Sunday).[^100] If there is a Doxastikon in the Menaion to the Saint, after it that same 1st Theotokion of the Tone is taken, with the refrain: **"Now and forever..."**
-— If two Saints occur, there are to the first Saint 3, and to the second 3; **"Glory... Now and forever..."** the 1st Theotokion of the Tone. If there is a Doxastikon to the first Saint, after it that same 1st Theotokion of the Tone is taken with the refrain: **"Now and forever..."**
-
-— If a Saint on 6 occurs, then to him alone are taken all 6 Stichera, and the Doxastikon; **"Now and forever..."** the 1st Theotokion of the current Tone.
+— If two Saints occur, there are to the first Saint 3, and to the second 3; **"Glory... Now and forever..."** the 1st Theotokion of the Tone. If there is a Doxastikon to the first Saint, after it that same 1st Theotokion of the Tone is taken with the refrain: **"Now and forever"** — If a Saint on 6 occurs, then to him alone are taken all 6 Stichera, and the Doxastikon; **"Now and forever..."** the 1st Theotokion of the current Tone.
 3. The Prokimenon of the day from the Horologion.
 4. At the Aposticha: three Stichera of the Martyrs from the Oktoechos, with the two usual refrains of the Horologion. Nevertheless, since between the Stichera appointed at the Aposticha the 2nd and 3rd (in Tones 4 and 6 only the 3rd) are for the Departed, which today we restrict to All Souls' Saturdays, for this reason these Stichera for the Departed are omitted here, and in their stead are taken the Stichera of the Martyrs from the last ones that are at **"Lord, I have cried."**[^101] If there is a Doxastikon to the Saint in the Menaion, the Theotokion is taken from the Evening Aposticha of the Oktoechos, according to his Tone and according to the day of the week.
 5. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^102]
 — If two Saints occur, there is the Tro- parion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
 6. The Dismissal, according to our custom, the Great Dismissal on account of the Apodosis of the Tone, with the commemoration of the daily Service and of the Saint.[^103]
 
-#### At Compline
+**At Compline**
 1. The Canon of the Mother of God from the Oktoechos of the Tone of the row.
 2. After **"It is truly right"**: the Troparion of the day, that is, **"Apostles, Martyrs,"** **"Glory..."** the Kontakion: **"With the Saints give rest,"** **"Now and forever..."** the Kontakion: **"As first-fruits."**[^104]
 
-#### Saturday Midnight Office
+**Saturday Midnight Office**
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord,"** the Troparion of the Saint twice; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^105]
 — If two Saints occur, there is the Troparion of the first Saint twice, **"Glory..."** of the second, **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the second.
 2. Two Kathismata of the row, followed by the Little Litany and Sessional Hymns, of which the two of the Martyrs and two of the Departed, according to some editions do not have refrains, but according to some have them, namely: 1st of the Martyrs: **"Wondrous is God,"** 2nd: **"Many are the afflictions;"** 1st of the Departed: **"Blessed are they whom Thou hast chosen,"** 2nd: **"Their souls shall dwell among good things."**
@@ -212,20 +206,20 @@ If, however, the Temple is of a Saint, then the first Canon is of the Saint of t
 — If two Saints occur, there is the Troparion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** the Dismissal Theotokion (which is at the end of Matins) according to the Tone of the second Saint.
 7. The Great Dismissal, with the commemoration of the daily Service (as we stated at Vespers) and of the Saint, one and the other, if there be one.
 
-#### At the Hours
+**At the Hours**
 Troparia, according to our present custom: at the 1st, the Troparion and Kontakion of the day; at the 3rd and 9th, to the Saint; at the 6th, of the Temple.
 — If two Saints occur, then at the 1st and 6th as with a single Saint; at the 3rd, the Troparion and Kontakion to the first Saint; at the 9th, to the second.[^114]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 According to our custom all things are of the day alone: that is, the Troparion; **"Glory... Now and forever..."** the Kontakion of the day; and all the rest of the day.[^115]
 
 If thou takest the Service both of the day and to the Saint, then the Service of the Saint precedes that of the day, except for the Epistle and Gospel, which are taken first of the day, then to the Saint; and there is the Troparion to the Saint and of the day, **"Glory..."** the Kontakion to the Saint, **"Now and forever..."** the Kontakion of the day. The Prokimenon, Alleluia, and Communion Hymn to the Saint, then of the day; the Epistle and Gospel of the day and to the Saint.[^116]
 
-### Polyeleos Saint on Sunday
+**Polyeleos Saint on Sunday** <a id="polyeleos-saint-on-sunday"></a>
 
 A Polyeleos Saint may be celebrated either on 6 or on 8,[^117] although in present Slavonic books scarcely any Polyeleos Saint is found on 6, but on 8.[^118]
 
-#### At Great Vespers
+**At Great Vespers**
 1. The Kathisma: **"Blessed is the man"** (according to the earlier Typikon, in its entirety).
 2. At **"Lord, I have cried,"** 10 Stichera: that is, the Sunday ones of the Oktoechos of the Tone of the row, 4; then to the Saint, 6; **"Glory..."** to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone of the row (the Dogmatikon).
 3. The Great Prokimenon of the day: **"The Lord is King,"** and three Readings to the Saint.
@@ -234,13 +228,13 @@ A Polyeleos Saint may be celebrated either on 6 or on 8,[^117] although in prese
 5. At the conclusion: the Sunday Troparion; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^120]
 6. The Great Dismissal, with the commemoration of the Sunday and of the Saint.
 
-#### At Compline
+**At Compline**
 The Marian Canon of the Oktoechos of the Tone of the row. After the Trisagion, the Kontakion to the Saint alone.[^121]
 
-#### At Midnight Office
+**At Midnight Office**
 The Triadikon Canon of the Oktoechos of the Tone of the row.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Sunday Troparion of the Tone twice; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^122]
 
 2. The first two Kathismata of the row with their usual Sunday Sessional Hymns of the Oktoechos; then the Polyeleos with the Magnifications of the Saint, and the Angelic Synaxis (*Ангелскїй Соборъ*); thereafter the Little Litany with the exclamation: **"For blessed is Thy name,"** and the Hypakoe of the Tone; then the 1st and 2nd Sessional Hymns of the Saint once each without Theotokia, **"Glory..."** the 3rd Sessional Hymn of the Saint, **"Now and forever..."** his Theotokion[^123] (Chapter 75 of Mark takes the 1st Theotokion of the Tone).
@@ -252,57 +246,57 @@ The Katavasia of the row after each Ode. — After the 3rd Ode, the Kontakion-Ik
 6. After the Great Doxology, one of the two usual Resurrectional Troparia, that is: in an odd Tone: **"Today salvation is come unto the world"** (*Дне́сь спасенїе мїрꙋ*); in an even Tone: **"Having risen from the tomb"** (*Воскресъ изъ гроба*).
 7. The Great Dismissal, with the commemoration of the Resurrectional Service and of the Saint.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Resurrectional Troparion, then **"Glory..."** to the Saint; Kontakia alternately: that is, at the 1st and 6th, the Resurrectional one; at the 3rd and 9th, to the Saint.[^130]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 1. The Resurrectional Troparion and to the Saint; then the Resurrectional Kontakion, **"Glory..."** to the Saint, **"Now and forever..."** the Theotokion, either one of the Feasts of the Mother of God according to the Tone of the Doxastikon, or another, as we set down in the first case on page 58.
 2. The Prokimenon, Epistle, Alleluia, Gospel, and Communion Hymn first of the Sunday, then to the Saint.
 
-### Polyeleos Saint on Weekdays and on Saturday
+**Polyeleos Saint on Weekdays and on Saturday** <a id="polyeleos-saint-on-weekdays-and-on-saturday"></a>
 
 *Note: The Oktoechos is omitted.*
 
-#### At Great Vespers
+**At Great Vespers**
 1. The Kathisma: **"Blessed is the man"** (according to the Typikon, the 1st Antiphon only).
 2. At **"Lord, I have cried,"** six Stichera,[^131] or eight,[^132] all to the Saint. **"Glory..."** to the Saint, **"Now and forever..."** the 1st Theotokion (the Dogmatikon according to the Tone of the Doxastikon; on Friday evening, the 1st Theotokion of the current Tone, on account of its Apodosis). The Prokimenon of the day from the Horologion; and three Readings to the Saint.
 3. The Aposticha entirely to the Saint, with proper refrains. To the Doxastikon of the Saint there is selected the Theotokion from the Sunday Aposticha according to the Tone of the Doxastikon.[^133]
 4. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^134]
 5. The Great Dismissal, with the commemoration of the Service of the Saint alone, but of the day in no wise, because in this case the Oktoechos Service is omitted.
 
-#### At Compline
+**At Compline**
 The Canon of the Mother of God from the Oktoechos of the Tone of the row.[^135] After **"It is truly right"** with the Trisagion, the Kontakion of the Saint alone.[^136]
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Troparion of the Saint twice; **"Glory... Now and forever..."** the Theotokion from the Sunday ones, according to the Tone of the Troparion of the Saint.
 
 2. The two Kathismata of the row, with the Sessional Hymns of the Saint; then the 19th Kathisma, that is, the Polyeleos, with the Magnifications, and the Sessional Hymn after the Polyeleos to the Saint.
 3. The Graduals (*Степенна*) of Tone 4, the first Antiphon.
 4. The Prokimenon, Gospel, and Sticheron to the Saint.
 *The rubric of the Pochaiv Anthologion, instead of "Through the prayers of the Holy Apostles," has: "Through the prayers of the Holy [Name] celebrated" (see in the Service of a Prophet). Thus also has the Greco-Venetian Menaion of 1884 (see, for example, January 11, 25, 27, 30); nevertheless, the common editions do not have this.*
-5. Two Canons: the first of the Mother of God, one of the two usual ones (**"Overwhelmed by grief"** [*Нетерпѣ́нь*], Tone 2 at Sunday Matins; or **"Having traversed the water"** [*Во́дꙋ проше́дъ*], Tone 8 at Tuesday Compline) with the Heirmos on 6; then to the Saint, one or two Canons on 8.[^137]
+5. Two Canons: the first of the Mother of God, one of the two usual ones (**"Overwhelmed by grief"** (*Нетерпѣ́нь*), Tone 2 at Sunday Matins; or **"Having traversed the water"** (*Во́дꙋ проше́дъ*), Tone 8 at Tuesday Compline) with the Heirmos on 6; then to the Saint, one or two Canons on 8.[^137]
 On Saturday, if it is a Temple of the Lord or of the Mother of God, there is taken of the Temple with the Heirmos on 6, the Heirmos twice, and to the Saint on 8.[^138]
 The Katavasia of the row after each Ode. After the 3rd Ode, the Sessional Hymn of the Saint; after the 6th, the Kontakion-Ikos of the Saint; after the 9th, the Exaposteilarion of the Saint.
 6. At the Praises (*Хвали́техъ*), 4 Stichera to the Saint; **"Glory..."** his Doxastikon, **"Now and forever..."** the Theotokion which is after the Doxastikon of the Saint.
 7. After the Great Doxology with the Trisagion, the Troparion to the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.
 8. The Great Dismissal, as at Vespers.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Troparion and Kontakion of the Saint.
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 All things to the Saint alone; the Epistle and Gospel first of the day, then to the Saint.
 
-### Vigil Saint on Sunday
+**Vigil Saint on Sunday** <a id="vigil-saint-on-sunday"></a>
 
-#### At Small Vespers
+**At Small Vespers**
 1. At **"Lord, I have cried,"** four Stichera, all the Sunday ones of the Tone of the row of the Oktoechos; then **"Glory..."** the Sticheron to the Saint, **"Now and forever..."** the Theotokion of the Tone of Small Vespers,[^139] that is, the 1st Theotokion of the Tone,[^140] called the Dogmatikon.[^141]
 2. At the Aposticha, four Stichera: that is, one Sunday one, which is in the first place in the Oktoechos of the Tone of the row, and 3 to the Saint with his two refrains which are at the Aposticha of Great Vespers;[^142] then **"Glory..."** to the Saint from his Small Vespers, **"Now and forever..."** the Theotokion from the Aposticha of Small Vespers.[^143]
 
 3. At the conclusion: the Resurrectional Troparion; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.
 4. The Dismissal, with the commemoration of the Sunday and of the Saint.
 
-#### At Great Vespers
+**At Great Vespers**
 1. Kathisma 1: **"Blessed is the man"** (according to the Typikon, in its entirety; according to our present custom, only certain selected verses).
 2. At **"Lord, I have cried,"** 10 Stichera: that is, 4 from the Oktoechos, and 6 to the Saint; **"Glory..."** to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone of the row.
 3. The Prokimenon of the day from the Horologion, and three Readings to the Saint.
@@ -310,7 +304,7 @@ All things to the Saint alone; the Epistle and Gospel first of the day, then to 
 5. At the Aposticha, the Sunday Stichera of the Tone; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday Aposticha of Great Vespers, according to the Tone of the Doxastikon.[^145]
 6. At the Blessing of Loaves: the Troparion **"O Mother of God and Virgin"** (*Богоро́дице Дѣ́во*) twice, and of the Saint once.[^146]
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory..."** to the Saint; **"Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.[^147]
 2. The two Kathismata of the row with their Resurrectional Sessional Hymns of the Oktoechos; then the 19th Kathisma (the Polyeleos) with the Magnifications, and the Angelic Synaxis (*Ангелскїй Соборъ*), and the Hypakoe of the Tone, and immediately all three Sessional Hymns of the Saint, that is, the 1st and 2nd without a Theotokion, then **"Glory..."** the 3rd Sessional Hymn called after the Polyeleos, **"Now and forever..."** his Theotokion.[^148]
 3. The Graduals (*Степенна*), Prokimenon, Gospel, and Sticheron, all of the Sunday alone, Resurrectional.
@@ -320,13 +314,13 @@ The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion, Ikos,
 
 All the rest at Matins, at the Hours, and at the Divine Liturgy as with a Polyeleos Saint, here on pages 79 and 80.
 
-### Vigil Saint on Weekdays and on Saturday
+**Vigil Saint on Weekdays and on Saturday** <a id="vigil-saint-on-weekdays-and-on-saturday"></a>
 
-#### At Small Vespers
+**At Small Vespers**
 1. At **"Lord, I have cried"** and at the Aposticha, all the Stichera to the Saint; at the Aposticha there are also proper refrains to the Saint. Only concerning the Theotokia at **"Lord, I have cried"** and at the Aposticha be it known that the same are sometimes proper,[^151] sometimes only common, indicated only by initial words, sometimes not even indicated by initial words; and in this latter case we consider that they are to be selected from the Oktoechos from weekday Vespers according to the Tone of the Doxastikon, and according to the day of the week, which are also set down at the end of each volume of the Menaion, and of the Lviv Anthologion; or else, according to the Tone of the Doxastikon from those which are set down in the Pochaiv Anthologion at its end.[^152]
 2. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** the Theotokion from the Sunday ones according to the Tone of the Troparion of the Saint.
 
-#### At Great Vespers
+**At Great Vespers**
 1. **"Blessed is the man"** (according to the Typikon, the 1st Antiphon only).
 2. At **"Lord, I have cried,"** the Stichera of the Saint on 8; **"Glory..."** his Doxastikon; **"Now and forever..."** the 1st Theotokion (Dogmatikon), according to the Tone of the Doxastikon; on Friday evening for Saturday, however, the 1st Theotokion of the Tone of the row,[^153] on account of the Apodosis of the Tone.
 3. The Prokimenon of the day, from the Horologion, and three Readings to the Saint.
@@ -334,7 +328,7 @@ All the rest at Matins, at the Hours, and at the Divine Liturgy as with a Polyel
 5. At the Aposticha, all the Stichera to the Saint, with his two refrains; the Theotokion to the Doxastikon, if there be no proper one, is taken from the Sunday Aposticha according to the Tone of the Doxastikon.[^155]
 6. At the Blessing of Loaves: the Troparion of the Saint twice, and **"O Mother of God and Virgin"** once.
 
-#### At Great Matins, at the Hours, and at the Divine Liturgy
+**At Great Matins, at the Hours, and at the Divine Liturgy**
 All things as in the case of a Polyeleos Saint without an All-Night Vigil here on page 81; only Matins begins from **"Glory to the holy"** (*Сла́ва святѣ́й*), and the anointing with oil takes place during the Canon, according to our custom.
 
 *Note.*
@@ -342,11 +336,11 @@ Three Feasts, that is, the Nativity and the Beheading of St. John the Baptist, J
 
 ## Festal Occurrences
 
-### Forefeast with a Non-Polyeleos Saint on Sunday
+**Forefeast with a Non-Polyeleos Saint on Sunday**
 
 *Note: If two Saints occur with a Forefeast on Sunday, then the Service of the one (the second) is transferred to another day according to the discretion of the Ecclesiarches.*[^158]
 
-#### At Great Vespers
+**At Great Vespers**
 1. **"Blessed is the man"** (according to the Typikon, all three Antiphons).
 2. At **"Lord, I have cried,"** 10 Stichera: that is, from the Oktoechos of the Tone of the row, 4; of the Forefeast, 3; and to the Saint, 3. **"Glory..."** of the Forefeast; **"Now and forever..."** the 1st Theotokion of the Tone. If there be a Doxastikon to the Saint, then having omitted the Doxastikon of the Forefeast, there is taken: **"Glory..."** the Doxastikon to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^159]
 — If there be a Saint on 6, then there will be: Resurrectional, 3; of the Forefeast, 3; and to the Saint, 4; **"Glory..."** to the Saint; **"Now and forever..."** the 1st Theotokion of the Tone.[^160]
@@ -354,13 +348,13 @@ Three Feasts, that is, the Nativity and the Beheading of St. John the Baptist, J
 4. At the conclusion: the Sunday Troparion; **"Glory..."** of the Saint; **"Now and forever..."** of the Forefeast.
 5. The Great Dismissal, with the commemoration of the Sunday Service and of the Saint.[^161]
 
-#### At Compline
+**At Compline**
 After **"It is truly right,"** the Kontakion of the Forefeast alone.[^162]
 
-#### At Midnight Office
+**At Midnight Office**
 The Triadikon Canon of the Tone of the row, and all the rest as usual.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord,"** the Sunday Troparion twice; **"Glory..."** to the Saint; **"Now and forever..."** of the Forefeast.
 2. All the rest up to the Canon, Sunday, as usual.
 3. Four Canons, on 14: that is, the first of the Oktoechos, the Resurrectional one with the Heirmos on 4, and the second of the Oktoechos, of the Mother of God on 2, then of the Forefeast on 4, and to the Saint on 4.[^163] (If the Saint is on 6, here he is likewise taken only on 4). The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion and Ikos of the Forefeast and of the Saint, **"Glory..."** the Sessional Hymn of the Saint, **"Now and forever..."** of the Forefeast; after the 6th, the Resurrectional Kontakion and Ikos; after the 9th, **"Holy is the Lord our God"** thrice, and the Resurrectional Exaposteilarion, **"Glory..."** to the Saint, **"Now and forever..."** of the Forefeast.[^164]
@@ -368,13 +362,13 @@ The Triadikon Canon of the Tone of the row, and all the rest as usual.
 5. After the Doxology, one of the two usual Resurrectional Troparia.
 6. The Great Dismissal, as at Vespers.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Sunday Troparion, then **"Glory..."** at the 1st and 6th also of the Forefeast, at the 3rd and 9th also to the Saint. The Resurrectional and Festal Kontakia we recite alternately: that is, at the 1st and 6th, of the Forefeast; and at the 3rd and 9th, the Resurrectional one.[^166]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 The entire Service is of the Sunday alone, except for the Troparia; for these are taken also of the Forefeast with the Resurrectional ones as follows: the Resurrectional Troparion and of the Forefeast; **"Glory..."** the Resurrectional Kontakion, **"Now and forever..."** the Kontakion of the Forefeast.[^167]
 
-### Forefeast with a Non-Polyeleos Saint on Weekdays and on Saturday
+**Forefeast with a Non-Polyeleos Saint on Weekdays and on Saturday**
 
 *Note.*
 *1. Beginning from the Forefeast itself even unto the Apodosis of the Feast, the Oktoechos Service, except on Sunday, is omitted, and in its place the Festal Service is taken, and this in the first place, likewise also on Saturday; it is combined together with the Service of the Saint of the row, except at the Apodosis, for then the Service of the Saint is transferred to another day. Only at Compline is the Marian Canon of the Oktoechos taken.*
@@ -382,7 +376,7 @@ The entire Service is of the Sunday alone, except for the Troparia; for these ar
 
 *3. The sequence of Stichera and Troparia is not concluded with the usual Marian Theotokia of the Oktoechos, but with the Festal ones; except on Friday evening for Saturday, for then, on account of the Apodosis of the Tone, the 1st Theotokion of the Tone is usually taken.*
 
-#### At Vespers
+**At Vespers**
 1. The Kathisma of the row.
 2. At **"Lord, I have cried,"** six Stichera: that is, of the Forefeast, 3; and to the Saint, 3. **"Glory... Now and forever..."** of the Forefeast; or, **"Glory..."** to the Saint, if he has one, **"Now and forever..."** of the Forefeast.
 — If two Saints occur, then there will be: to the first Saint, 3; and to the other, 3; then **"Glory... Now and forever..."** of the Forefeast. Stichera of the Forefeast then are omitted.[^168]
@@ -394,13 +388,13 @@ On Friday evening for Saturday: the Dogmatikon of the outgoing Tone.
 — If there be two Saints, then first the Troparion of the first Saint, **"Glory..."** of the other, **"Now and forever..."** of the Forefeast.
 5. The Middling Dismissal, with the commemoration of the daily Service and of the Saint.[^170]
 
-#### At Compline
+**At Compline**
 The Canon of the Mother of God, which is in sequence of the week in the Oktoechos. After **"It is truly right"** with the Trisagion, the Kontakion of the Forefeast alone.[^171]
 
-#### At Midnight Office
+**At Midnight Office**
 All things without change as in the Horologion, of the festal nothing.
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord"**: the Troparion of the Forefeast twice; **"Glory..."** to the Saint; **"Now and forever..."** of the Forefeast.
 — If two Saints occur, then there will be: the Troparion of the Forefeast once, then to the first Saint once, **"Glory..."** to the other once, **"Now and forever..."** of the Forefeast.[^172]
 2. The two Kathismata of the row with the Sessional Hymns of the Forefeast.
@@ -413,21 +407,21 @@ All things without change as in the Horologion, of the festal nothing.
 5. At the conclusion: the Troparion of the Saint; **"Glory... Now and forever..."** of the Forefeast.
 — If there be two Saints, then the Troparion of the first, **"Glory..."** of the second, **"Now and forever..."** of the Forefeast.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Troparion of the Forefeast; then at the 3rd and 9th also **"Glory..."** to the Saint; Kontakia alternately: that is, at the 1st and 6th, of the Forefeast; at the 3rd and 9th, to the Saint.
 — If there be two Saints, then at the 3rd after **"Glory..."** the Troparion to the first Saint, and at the 9th to the second; Kontakia: at the 3rd to the first, and at the 9th to the second Saint.[^180]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 According to our present custom: the Troparion, **"Glory... Now and forever..."** the Kontakion of the Forefeast; all the rest of the day.[^181]
 
-### Feast of the Lord on Sunday and on Weekdays
+**Feast of the Lord on Sunday and on Weekdays**
 
 *The entire Service is of the Feast alone, in the greater form with an All-Night Vigil.*
 
-#### At Small Vespers
+**At Small Vespers**
 At **"Lord, I have cried,"** Stichera of the Feast on 4, and the Aposticha of the Feast with two Festal refrains, and at the conclusion the Troparion of the Feast alone.
 
-#### At Great Vespers
+**At Great Vespers**
 1. Usually there is no Kathisma; only on Saturday evening for Sunday, the Kathisma **"Blessed is the man,"** according to the Typikon all three Antiphons; on Sunday evening for Monday, however, only the first Antiphon.
 2. At **"Lord, I have cried"**: Stichera of the Feast on 8.
 3. The Prokimenon of the day; only if the Feast occurs on a Saturday, then in place of the daily Prokimenon there is taken the Great Festal Prokimenon written at Vespers of the following day. For in this case Vespers of the following day will be on Saturday evening for Sunday, having the Great Prokimenon **"The Lord is King"** (*Господь воцарися*), which does not yield to the Festal one; for this Vespers is no longer of the Feast itself, but of the Afterfeast, and for this reason cannot exclude the Sunday Service, which occupies the first place; but that the Prokimenon of the Feast not be omitted, it is taken in advance at Great Vespers of the Feast itself, that is, on Friday.[^182]
@@ -436,7 +430,7 @@ At **"Lord, I have cried,"** Stichera of the Feast on 4, and the Aposticha of th
 5. At the Litiya and at the Aposticha, the Stichera of the Feast.
 6. At the Blessing of Loaves: the Troparion of the Feast thrice.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Troparion of the Feast twice, **"Glory... Now and forever..."** again once.
 2. The two Kathismata of the row with the Sessional Hymns of the Feast, then the 19th Kathisma (the Polyeleos), and the Magnifications, and the Sessional Hymn after the Polyeleos of the Feast.
 3. The Graduals (*Степенна*) of Tone 4, the 1st Antiphon. The Prokimenon, Gospel, and Sticheron of the Feast.
@@ -445,25 +439,25 @@ At **"Lord, I have cried,"** Stichera of the Feast on 4, and the Aposticha of th
 6. After the Great Doxology, the Troparion of the Feast.
 7. The Great Dismissal, with the commemoration of the Feast.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Troparion and Kontakion of the Feast. The Dismissal with the Festal commemoration.
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 The Antiphons, the Introit (*Вхо́дное*), and all the rest to the Feast.[^183] — Instead of the Trisagion: at the Precious Cross, and on the Sunday of the Cross- veneration we chant: **"Before Thy Cross we bow down, O Master, and Thy holy Resurrection we glorify"** (*Крестꙋ̀ Твоему̀ покланя́емся, Влады́ко, и̂ свято́е Воскресе́нїе Твоѐ сла́вимъ*); at the Nativity of Christ, at Theophany, on Lazarus Saturday, on Great Saturday, and throughout Bright Week, and on the Sunday of Pentecost: **"As many as have been baptized into Christ have put on Christ. Alleluia"** (*Є̂ли́ци во Хрїста̀ крести́стеся, во Хрїста̀ ѡ̂блеко́стеся. А̂ллилꙋ́їа*).[^184] In place of **"It is truly right,"** according to our later Typikon there is taken the Heirmos of the 9th Ode of the Canon, with the Festal Refrain (*Припѣ́въ*).
 
-### Feast of the Mother of God on Sunday
+**Feast of the Mother of God on Sunday**
 
 *The Festal Service is combined with the Resurrectional Service of the Oktoechos, which occupies the first place.*
 
-#### At Small Vespers
+**At Small Vespers**
 At **"Lord, I have cried,"** four Resurrectional Stichera of the Tone of the row; **"Glory... Now and forever..."** of the Feast.
 At the Aposticha: one Sunday Sticheron of the Tone of the row, which is in the first place, then three Stichera of the Feast from the Aposticha of Great Vespers with their refrains;[^185] **"Glory... Now and forever..."** of the Feast from Small Vespers.[^186]
 
 At the conclusion: the Resurrectional Troparion; **"Glory... Now and forever..."** of the Feast.
 The Small Dismissal, with the commemoration of the Resurrection and of the Feast.
 
-#### At Great Vespers
-1. Kathisma 1 (**"Blessed is the man"** [*Блаже́нъ мꙋ́жъ*]); according to the Typikon, all three Antiphons; according to our present custom, only selected verses.
+**At Great Vespers**
+1. Kathisma 1 (**"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*)); according to the Typikon, all three Antiphons; according to our present custom, only selected verses.
 2. At **"Lord, I have cried,"** 10 Stichera: that is, the Resurrectional ones of the Oktoechos, 4, which are in the first place; then of the Feast, 6; **"Glory... Now and forever..."** of the Feast.[^187]
 3. The Prokimenon of the day from the Horologion.
 4. Three Readings of the Feast.
@@ -471,7 +465,7 @@ The Small Dismissal, with the commemoration of the Resurrection and of the Feast
 6. At the Aposticha, the Resurrectional Stichera; **"Glory... Now and forever..."** of the Feast.
 7. At the Blessing of Loaves, the Troparion of the Feast thrice.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory... Now and forever..."** of the Feast.
 2. The two Kathismata of the row with their Resurrectional Sessional Hymns, and with their Theotokia; then the Polyeleos with the Magnifications, and the Angelic Synaxis, and after the Hypakoe of the Tone, all three Sessional Hymns of the Feast: that is, the 1st Sessional Hymn once, the 2nd Sessional Hymn once; then **"Glory... Now and forever..."** the 3rd Sessional Hymn once; if, however, this one be twofold, then there will be **"Glory..."** one, **"Now and forever..."** the other.[^188]
 3. The Graduals (*Степенна*) of the Tone of the row, and afterwards **"Having beheld the Resurrection of Christ"** (*Воскресе́нїе Хрїсто́во*); all the rest even unto the Canon to the Feast.[^189]
@@ -482,38 +476,38 @@ The Small Dismissal, with the commemoration of the Resurrection and of the Feast
 7. The Great Dismissal, with the commemoration of the Resurrection and of the Feast.
 8. **"Glory... Now and forever..."** the Gospel Sticheron.
 
-#### At the Hours
+**At the Hours**
 At all the Hours: the Resurrectional Troparion, **"Glory..."** of the Feast; the Kontakia alternately: that is, at the 1st and 6th, the Resurrectional one; at the 3rd and 9th, of the Feast.[^192]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 The Sunday Antiphons. At **"Come, let us worship"** (*Прїиди́те поклони́мся*), if one desires, to **"Save us, O Son of God,"** add the refrain: **"Through the prayers of the Mother of God, who chant unto Thee, Alleluia."**[^193] The Resurrectional Troparion and of the Feast; **"Glory..."** the Resurrectional Kontakion, **"Now and forever..."** the Kontakion of the Feast. The Trisagion. The Prokimenon, Epistle, Alleluia, Gospel, and Communion Hymn first of the Sunday, then to the Feast. In place of **"It is truly right,"** according to the later Slavonic custom, we chant the Heirmos of the 9th Ode of the Festal Canon (with its own refrain).[^194]
 
-### Feast of the Mother of God on Weekdays
+**Feast of the Mother of God on Weekdays**
 
 All things according to the Order of a Feast of the Lord set down here on page 96, except for the Antiphons, which are daily, and the Introit (*Вхо́дное*), which is the usual **"Come, let us worship"** (*Прїиди́те поклони́мся*), and the Trisagion, which always occurs on Feasts of the Mother of God.
 
-### Note on the Afterfeast
+**Note on the Afterfeast**
 
 All things are performed according to the Order of the Forefeast set down here previously on pages 88–91. In an Afterfeast, however, there will be: 1: The Troparion and Kontakion of the Feast itself; 2: At the Dismissal, the commemoration likewise of the Festal Service; 3: At the Divine Liturgy, in Afterfeasts of the Lord, the first two Antiphons[^195] of the Feast, but the third the usual one with the Festal Refrain, likewise also the usual Introit **"Come, let us worship,"** with that same Festal Refrain;[^196] 4: The Prokimenon, Alleluia, and Communion Hymn on Sunday: of the day (that is, of Sunday), and of the Feast; on weekdays: of the Feast alone; the Epistle and Gospel of the day;[^197] when, however, on a Sunday the Service of a Saint is also taken, then the Prokimenon, Alleluia, and Communion Hymn of the Feast are omitted, and there are taken only those of the Sunday and of the Saint; on weekdays, when the Service of a Saint coincides with the Festal Service, then all these are taken in the first place to the Feast, then to the Saint; but among us, since to a Saint without a Polyeleos nothing is usually taken at the Divine Liturgy, for this reason all these are taken to the Feast alone. 5: In place of **"It is truly right,"** the Heirmos of the 9th Ode of the Canon of the Feast. We present, however, separate and complete models.
 
-### Afterfeast with a Saint Without a Polyeleos on Sunday
+**Afterfeast with a Saint Without a Polyeleos on Sunday**
 
 *Note: If two Saints coincide on Sunday, then the Service of the second Saint is transferred to another day, according to the discretion of the Ecclesiarches.*
 
-#### At Great Vespers
+**At Great Vespers**
 1. The usual Kathisma: **"Blessed is the man"** (according to the Typikon, all three Antiphons).
 2. At **"Lord, I have cried,"** 10 Stichera: that is, 4 from the Oktoechos of the Tone of the row, and 3 of the Afterfeast, and 3 to the Saint; **"Glory..."** of the Afterfeast, **"Now and forever..."** the 1st Theotokion of the Tone of the row. If there be a Doxastikon to the Saint, then omitting the Doxastikon of the Feast, his Doxastikon is taken with **"Glory..."**; then **"Now and forever..."** the 1st Theotokion of the Tone of the row.
 — If a sixfold Saint coincides, then there will be 3 Resurrectional Stichera, and 3 of the Afterfeast, and 4 to the Saint; **"Glory..."** to the Saint, **"Now and forever..."** the 1st Theotokion of the Tone of the row.
 3. At the Aposticha: the Resurrectional Stichera of the Oktoechos; **"Glory... Now and forever..."** of the Afterfeast.
 4. The Great Dismissal, with the commemoration of the Resurrection and of the Saint.[^198]
 
-#### At Compline
+**At Compline**
 After **"It is truly right"** with the Trisagion: the Hypakoe of the Tone; **"Glory... Now and forever..."** the Kontakion of the Feast.
 
-#### At the Midnight Office
+**At the Midnight Office**
 The Triadic Canon of the Oktoechos of the Tone of the row, and the rest as usual.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory..."** to the Saint, **"Now and forever..."** of the Feast. The rest even unto the Resurrectional Canon as usual.
 2. Four Canons, on 14: that is, the Resurrectional one of the Oktoechos with the Heirmos on 4, and the Marian one of the Oktoechos on 2, and of the Feast on 4, and to the Saint on 4.
 — If it be a sixfold Saint, then likewise on 4.
@@ -524,15 +518,15 @@ If the Saint has Stichera at the Praises, then the Stichera of the Feast are omi
 4. After the Doxology, one of the two usual Resurrectional Troparia.
 5. The Great Dismissal, as at Vespers.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Resurrectional Troparion; then **"Glory..."** at the 1st and 6th, also of the Feast; at the 3rd and 9th, also to the Saint; the Kontakion, however, we say only of the Resurrection and of the Feast, alternating: that is, at the 1st and 6th, of the Feast; at the 3rd and 9th, the Resurrectional one.[^200]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 The Antiphons: in an Afterfeast of the Lord, the first two we take from the Feast, and the third the common one with the Refrain of the Feast, likewise also **"Come, let us worship"**;[^201] in an Afterfeast of the Mother of God, the usual Antiphons for all Sundays. The Resurrectional Troparion and of the Feast; **"Glory..."** the Resurrectional Kontakion, **"Now and forever..."** of the Feast; and the Trisagion.[^202] The Prokimenon, Epistle, Alleluia, Gospel, and Communion Hymn of Sunday alone.[^203]
 
-### Afterfeast with a Saint Without a Polyeleos on Weekdays and on Saturday
+**Afterfeast with a Saint Without a Polyeleos on Weekdays and on Saturday**
 
-#### At Vespers
+**At Vespers**
 1. The Kathisma of the row.
 2. At **"Lord, I have cried,"** 6 Stichera: that is, 3 to the Feast, and 3 to the Saint; **"Glory... Now and forever..."** to the Feast, or **"Glory..."** to the Saint, if he has one, **"Now and forever..."** to the Feast.
 — If two Saints coincide, then there will be 3 to the first Saint, and 3 to the second; **"Glory... Now and forever..."** to the Feast.
@@ -544,13 +538,13 @@ On Friday evening for Saturday: the 1st Theotokion of the departing Tone (the Do
 
 5. The Middling Dismissal, with the commemoration of the Feast and of the Saint, without the commemoration of the weekday Service, because that is not taken.
 
-#### At Compline
+**At Compline**
 The Canon of the Most Holy Mother of God which is in the row of the Oktoechos. After **"It is truly right,"** the single Kontakion of the Feast.
 
-#### At the Midnight Office
+**At the Midnight Office**
 All things unchangingly, as in the Horologion.
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord"**: the Troparion of the Feast twice; **"Glory..."** to the Saint, **"Now and forever..."** of the Feast.
 — If there be two Saints, then the Troparion of the Feast once, and to the first Saint once; **"Glory..."** to the second, **"Now and forever..."** again of the Feast.
 2. The two Kathismata of the row with the Festal Sessional Hymns.
@@ -562,19 +556,19 @@ All things unchangingly, as in the Horologion.
 5. At the conclusion: the Troparion of the Saint, **"Glory... Now and forever..."** of the Feast.
 — If there be two Saints, then the Troparion of the first Saint, **"Glory..."** of the second, **"Now and forever..."** of the Feast.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Troparion of the Feast; **"Glory..."** at the 3rd and 9th also to the Saint; the Kontakia alternately: that is, at the 1st and 6th, of the Feast; at the 3rd and 9th, to the Saint.
 
 — If there be two Saints, then **"Glory..."** at the 3rd to the first, and at the 9th to the second Saint; the Kontakia: at the 3rd to the first, at the 9th to the second Saint.[^209]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 1. The Antiphons: in an Afterfeast of the Lord, the first two we take from the Feast itself, and the third the common one with the Festal Refrain, likewise also **"Come, let us worship"**; in an Afterfeast of the Mother of God, the Antiphons as on all days.
 2. After the Entrance, the Troparion, and **"Glory... Now and forever..."** the Kontakion of the Feast, and the Trisagion.
 3. The Prokimenon, Alleluia, and Communion Hymn of the Feast; the Epistle and Gospel of the day. In place of **"It is truly right,"** the Heirmos of the 9th Ode of the Canon of the Feast with its refrain. The Dismissal with the commemoration of the Feast and of the Saint.[^210]
 
-### Afterfeast with a Polyeleos Saint on Sunday
+**Afterfeast with a Polyeleos Saint on Sunday**
 
-#### At Great Vespers
+**At Great Vespers**
 1. Kathisma 1: **"Blessed is the man"** (according to the Typikon, entire).
 
 2. At **"Lord, I have cried,"** 10 Stichera: that is, 3 Resurrectional from the Oktoechos, and 3 of the Feast, and 4 to the Saint; **"Glory..."** to the Saint, **"Now and forever..."** the 1st Theotokion of the current Tone (the Dogmatikon).[^211]
@@ -583,14 +577,14 @@ At all the Hours, the Troparion of the Feast; **"Glory..."** at the 3rd and 9th 
 5. At the conclusion: the Resurrectional Troparion; **"Glory..."** of the Saint, **"Now and forever..."** of the Feast.
 6. The Great Dismissal, with the commemoration of the Resurrection and of the Saint.[^212]
 
-#### At Compline
+**At Compline**
 1. The Marian Canon from the Oktoechos of the Tone of the row.
 2. After **"It is truly right,"** the Kontakion of the Saint; **"Glory... Now and forever..."** the Kontakion of the Feast.[^213]
 
-#### At the Midnight Office
+**At the Midnight Office**
 The Triadic Canon from the Oktoechos of the Tone of the row; and all the rest as usual in the Horologion.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Resurrectional Troparion of the Tone twice; **"Glory..."** of the Saint, **"Now and forever..."** of the Feast.
 
 2. The two Kathismata of the row with their Resurrectional Sessional Hymns; then the Polyeleos with the Magnifications, and the Angelic Synaxis. After the Little Ektenia, the Hypakoe of the Tone, and all three Sessional Hymns of the Saint without their Theotokia: that is, the 1st and 2nd; then **"Glory..."** the 3rd, **"Now and forever..."** of the Feast. All the rest even unto the Canon is Resurrectional as usual.
@@ -599,16 +593,16 @@ The Triadic Canon from the Oktoechos of the Tone of the row; and all the rest as
 5. After the Great Doxology, one of the two usual Resurrectional Troparia.
 6. The Great Dismissal, with the commemoration of the Resurrection and of the Saint.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Resurrectional Troparion; then **"Glory..."** at the 1st and 6th of the Feast; at the 3rd and 9th to the Saint.[^215] After the Trisagion, the Kontakion of the Resurrection, of the Feast, and to the Saint, alternating:[^216] that is, at the 1st and 9th, the Resurrectional one; at the 3rd, of the Feast; at the 6th, to the Saint.
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 1. The Antiphons: in an Afterfeast of the Lord, the first two will be of the Feast, and the third the common one with the Festal Refrain, likewise also **"Come, let us worship."**
 2. After the Entrance, the Troparion of the Resurrection, and of the Feast, and of the Saint; then the Resurrectional Kontakion, **"Glory..."** of the Saint, **"Now and forever..."** of the Feast. The Prokimenon, Epistle, Alleluia, and Gospel of Sunday, and to the Saint.[^217]
 
-### Afterfeast with a Polyeleos Saint on Weekdays[^218]
+**Afterfeast with a Polyeleos Saint on Weekdays[^218]**
 
-#### At Great Vespers
+**At Great Vespers**
 1. Kathisma 1 (**"Blessed is the man,"** according to the Typikon, the 1st Antiphon).
 2. At **"Lord, I have cried,"** 8 Stichera,[^219] that is, 3 of the Feast, and 5 to the Saint; **"Glory..."** to the Saint, **"Now and forever..."** of the Feast. On Friday evening, **"Now and forever..."** the 1st Theotokion of the Tone (the Dogmatikon).
 3. The Prokimenon of the day, from the Horologion.
@@ -618,14 +612,14 @@ At all the Hours, the Resurrectional Troparion; then **"Glory..."** at the 1st a
 
 7. The Dismissal, with the commemoration of the Feast and of the Saint.
 
-#### At Compline
+**At Compline**
 1. The Marian Canon from the Oktoechos of the Tone of the row.
 2. After **"It is truly right,"** the single Kontakion of the Feast.[^220]
 
-#### At the Midnight Office
+**At the Midnight Office**
 All things as usual.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Troparion of the Feast twice; **"Glory..."** to the Saint, **"Now and forever..."** again of the Feast once.
 2. The two Kathismata of the row with the Sessional Hymns of the Saint; **"Glory... Now and forever..."** of the Feast. Sometimes these two Sessional Hymns will be of the Feast alone (January 11 and May 6).[^221] The third Kathisma is the Polyeleos with the Magnifications; then the Sessional Hymn of the Saint, **"Glory... Now and forever..."** of the Feast.
 3. The Graduals (*Степенна*) of Tone 4, the 1st Antiphon. All the rest even unto the Canon to the Saint.
@@ -634,46 +628,46 @@ All things as usual.
 6. After the Great Doxology, the Troparion to the Saint; **"Glory... Now and forever..."** of the Feast.
 7. The Great Dismissal, with the commemoration of the Feast and of the Saint.
 
-#### At the Hours
+**At the Hours**
 At all the Hours, the Troparion of the Feast and **"Glory..."** to the Saint; the Kontakia alternately: that is, at the 1st and 6th, of the Feast; at the 3rd and 9th, to the Saint.[^225]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 1. The Antiphons: in an Afterfeast of the Lord, the first two will be of the Feast, and the third the usual one with the Festal Refrain, likewise also **"Come, let us worship."** In an Afterfeast of the Mother of God, the daily Antiphons: **"It is good to give praise"** (*Бла́го є̂́сть*).
 2. After the Entrance, the Troparion of the Feast, and of the Saint; **"Glory..."** the Kontakion of the Saint, **"Now and forever..."** the Kontakion of the Feast.
 3. The Prokimenon, Alleluia, and Communion Hymn of the Feast and of the Saint; the Epistle and Gospel of the day and to the Saint.[^226]
 In place of **"It is truly right,"** the Heirmos of the Feast.
 
-### Afterfeast with a Vigil Saint on Sunday
+**Afterfeast with a Vigil Saint on Sunday**
 
-#### At Small Vespers
+**At Small Vespers**
 All things even as outside of an Afterfeast with a Vigil Saint on Sunday: that is, nothing to the Feast.[^227]
 
-#### At Great Vespers
+**At Great Vespers**
 1. The Kathisma, the Stichera at **"Lord, I have cried,"** and at the Aposticha, even as with a Polyeleos Saint in an Afterfeast on Sunday, set down here above.
 2. At the Litiya, the Stichera to the Saint; **"Glory... Now and forever..."** to the Feast.
 3. At the Blessing of Loaves: the Troparion **"O Mother of God and Virgin"** (*Богоро́дице Дѣ́во*) twice, and to the Saint once.[^228]
 
-#### At Great Matins, at the Hours, and at the Divine Liturgy
+**At Great Matins, at the Hours, and at the Divine Liturgy**
 All things according to the Order of a Polyeleos Saint set down here above on pages 111, 112, and 113.
 
-### Afterfeast with a Vigil Saint on Weekdays
+**Afterfeast with a Vigil Saint on Weekdays**
 
-#### At Small Vespers
+**At Small Vespers**
 At **"Lord, I have cried"** and at the Aposticha, all things to the Saint, only **"Now and forever..."** to the Feast; likewise at the conclusion: the Troparion of the Saint, **"Glory... Now and forever..."** of the Feast.
 
-#### At Great Vespers
+**At Great Vespers**
 All things according to the Order of a Polyeleos Saint with an Afterfeast on weekdays, even as set down here above (page 113), only that at the Litiya and at the Aposticha the Stichera will be of the Saint, **"Glory..."** of the same, **"Now and forever..."** of the Feast. — At the Blessing of Loaves: the Troparion of the Saint twice, and **"O Mother of God and Virgin"** once.
 
-#### At Great Matins, at the Hours, and at the Divine Liturgy
+**At Great Matins, at the Hours, and at the Divine Liturgy**
 All things according to the Common Order of a Polyeleos Saint with an Afterfeast on weekdays, even as set down here above (page 114).
 
-### Apodosis of a Feast on Sunday
+**Apodosis of a Feast on Sunday**
 
-#### Note
+**Note**
 1. The Service of the Saint of the row coinciding on the Apodosis of a Feast is transferred to the day immediately preceding,[^229] or following,[^230] sometimes to another day, which if it be not occupied by two Saints, or by a single celebrated Saint with a Polyeleos; and sometimes it is restricted to the Canon at Compline, after the Marian Canon.
 2. The Festal Service at an Apodosis, from Vespers even unto the Canon of Matins, has only the weekday form; from the Canon, however, unto the end of Matins, the greater form. If the Apodosis coincides on a Sunday, then Vespers and Matins are great, on account of the Resurrectional Service.
 
-#### At Great Vespers
+**At Great Vespers**
 1. The Kathisma: **"Blessed is the man."**
 2. At **"Lord, I have cried,"** 10 Stichera: that is, 4 from the Oktoechos, Resurrectional of the Tone, and 6 of the Feast; **"Glory..."** of the Feast, **"Now and forever..."** the 1st Theotokion of the Tone (the Dogmatikon).
 3. The Prokimenon of the day: **"The Lord is King"** (*Господь воцарися*).
@@ -681,13 +675,13 @@ All things according to the Common Order of a Polyeleos Saint with an Afterfeast
 5. At the conclusion: the Resurrectional Troparion of the Tone; **"Glory... Now and forever..."** of the Feast.
 6. The Great Dismissal, with the commemoration of the Resurrection, and of the Saint whose day it is.[^231]
 
-#### At Compline
+**At Compline**
 The Canon of the Mother of God which is in the row of the Oktoechos. After **"It is truly right,"** the single Kontakion of the Feast.[^232]
 
-#### At the Midnight Office
+**At the Midnight Office**
 The Triadic Canon of the Oktoechos as usual. On the Apodosis of Mid-Pentecost and of Pascha, after the 1st Trisagion, the Troparion of the Feast; after the 2nd, the Kontakion of the Feast; the prayers of "Remember, [Lord]" (*Помянѝ*) are not said.
 
-#### At Great Matins
+**At Great Matins**
 1. At **"God is the Lord"**: the Resurrectional Troparion twice; **"Glory... Now and forever..."** of the Feast.
 2. All the rest even unto the Canon, Resurrectional as usual.
 3. Three Canons, or four, on 14: that is, the first from the Oktoechos, Resurrectional with the Heirmos on 4, and the second from the Oktoechos, Marian on 2, and of the Feast one, or two on 8. The Katavasia of the row after each Ode. After the 3rd Ode, the Kontakion, Ikos, and Sessional Hymn of the Feast; after the 6th, the Resurrectional Kontakion and Ikos;[^233] at the 9th, **"More honorable"** (*Честнѣ́йшꙋю*), with the Festal Refrains up to the Troparion of the Festal Canon; after the 9th, the usual Resurrectional Exaposteilarion, **"Glory... Now and forever..."** of the Feast.
@@ -695,17 +689,17 @@ The Triadic Canon of the Oktoechos as usual. On the Apodosis of Mid-Pentecost an
 5. After the Great Doxology, one of the two usual Resurrectional Troparia.
 6. The Great Dismissal, with the commemoration as at Vespers.
 
-#### At the Hours
+**At the Hours**
 At all [the Hours], the Resurrectional Troparion, and **"Glory..."** of the Feast; the Kontakia alternately: that is, at the 1st and 6th, the Resurrectional one; at the 3rd and 9th, of the Feast.[^235]
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 1. The Antiphons: if it be a Feast of the Lord, the first two are of the Feast, and the third the usual one with the Festal Refrain, likewise also **"Come, let us worship"** (*Прїидѣ́те поклони́мся*); if, however, it be a Feast of the Mother of God, the Resurrectional Antiphons, even as is the custom here on all Sundays. Elsewhere, **"It is good to give praise"** (*Бла́го є̂́сть*) with the Resurrectional Refrain.
 2. After the Entrance, the Resurrectional Troparion and of the Feast; **"Glory..."** the Resurrectional Kontakion, **"Now and forever..."** of the Feast.[^236]
 3. The Prokimenon, Alleluia, and Communion Hymn of the Sunday and of the Feast; the Epistle and Gospel, on an Apodosis of the Lord, of the Sunday alone;[^237] on an Apodosis of the Mother of God, first of the Sunday, then of the Feast.[^238]
 
-### Apodosis of a Feast on Weekdays
+**Apodosis of a Feast on Weekdays**
 
-#### At Vespers
+**At Vespers**
 1. The Kathisma of the row.
 2. At **"Lord, I have cried,"** 6 Stichera, all of the Feast; and **"Glory... Now and forever..."** of the Feast.
 On Friday evening, **"Now and forever..."** the 1st Theotokion of the concluding Tone (the Dogmatikon),[^239] except on the Apodoses of the Nativity of Christ and of Theophany, and others; for then **"Glory... Now and forever..."** will be of the Feast.[^240]
@@ -715,23 +709,23 @@ On Friday evening, **"Now and forever..."** the 1st Theotokion of the concluding
 5. At the conclusion, the Troparion of the Feast alone.
 6. The Small Dismissal, with the commemoration of the Feast and of the Saint of the row.[^241]
 
-#### At Compline
+**At Compline**
 1. The Canon of the Mother of God from the Oktoechos of the row.
 2. After **"It is truly right,"** the single Kontakion of the Feast.
 
-#### At the Midnight Office
+**At the Midnight Office**
 All things without change, even as in the Horologion; only on the Apodosis of Mid-Pentecost and of Pascha, after the 1st Trisagion, there will be the Troparion of the Feast; after the 2nd, the Kontakion of the Feast, without the prayer "Remember, [Lord]" (*Помянѝ*).
 
-#### At Matins
+**At Matins**
 1. At **"God is the Lord"**: the Troparion of the Feast twice; **"Glory... Now and forever..."** again once.
 2. The two Kathismata of the row with the Festal Sessional Hymns, and immediately Psalm 50, and the Canon.
-3. The Canon and all the rest even unto the end of Matins without change, even as on the Feast itself; wherefore neither is **"More honorable"** (*Честнѣ́йшꙋю*) sung at the 9th Ode, but the Festal Refrains.
+3. The Canon and all the rest even unto the end of Matins without change, even as on the Feast itself; therefore neither is **"More honorable"** (*Честнѣ́йшꙋю*) sung at the 9th Ode, but the Festal Refrains.
 4. The Great Dismissal, with the commemoration of the Feast and of the Saint.
 
-#### At the Hours
+**At the Hours**
 At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on the Feast itself.
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 1. The Antiphons: on an Apodosis of the Lord, the first two are of the Feast, and the third the usual one with the Festal Refrain, likewise also **"Come, let us worship"** (*Прїидѣ́те поклони́мся*) (on an Apodosis of the Mother of God, the daily Antiphons).
 2. After the Entrance, the Troparion; **"Glory... Now and forever..."** the Kontakion of the Feast; and the Trisagion. The Prokimenon, Alleluia, and Communion Hymn of the Feast.
 3. The Epistle and Gospel on an Apodosis of a Feast of the Lord, of the day alone; on an Apodosis of a Feast of the Mother of God, first of the day, then of the Feast.
@@ -762,7 +756,7 @@ At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on t
 [^64]: Moscow Typikon, ch. 5; and Chapter of Mark 90.
 [^65]: Synod of Lviv, in the Order of the Hours.
 [^66]: Peremyshl Typikon, p. 81. — According to the ancient Typikon the Sunday Troparion is to be at all the Hours; then *Glory...* at the 1st and 6th also to the first Saint, at the 3rd and 9th to the second; Kontakia alternately: at the 1st and 6th to the first, at the 3rd and 9th to the second Saint. (Compare: St. John the Theologian on the Sunday of the Holy Fathers). If the Kontakion is to only one Saint, then it alone is taken at all; if to neither, nor a Feast, then the Hypakoe of the Tone is taken; for the Sunday Kontakia the common Greek editions do not have. Concerning the Hypakoe thou hast the rubric in the Greek Horologia at the 1st Hour, which ought to be observed at the other Hours as well.
-[^67]: Synod of Lviv, Title 5. According to the rubric placed at the end of our Apostoly, and in our earlier Sluzhebnyky, as also in certain Greek Sluzhebnyky in Goar, the daily Antiphons *It is good to give praise* are appointed also on Sundays, with only the Sunday refrain at the 3rd Antiphon, even as the Italo-Greeks also use. The general Greek Sluzhebnyky appoint the Typika (*Izobrazitelna*) on Sunday, and the Oktoechoi likewise on weekdays; for in them Stichera on the Beatitudes are appointed daily, which presuppose the Typika. In this diversity of rubrics let each church preserve its own custom; among us, however, the rubric of the Synod is observed. During the Synod some contended vigorously, asserting that to take the Antiphons daily in place of the Typika is contrary to our Rite; for the daily Antiphons are cited not only by the aforesaid Sluzhebnyky and Apostoly, but also by Greek Anagnostika and the Russian Typikon in ch. 21, and by St. Sophronius, Patriarch of Jerusalem in the 7th century, who in his *Explanation of the Divine Liturgy* (*Spicileg. Rom.*, tom. 4, nn. 12, 13, 14, Rome, Propaganda, 1840) makes no mention whatever of the Typika, but only of the Antiphons *It is good to give praise*. Concerning the Typika (*Izobrazitelna*), however, we consider that they were composed for the case when there was no Divine Liturgy. For from the beginning the majority of monastics consisted of laymen who could not celebrate the Liturgy; and for this reason, after the image of the Divine Liturgy, the Order of the Typika was instituted for their use; wherefore the Synod also restricts them to days on which there is no Divine Liturgy, and that their memory may be preserved, only to monasteries. To use the Antiphons is equally good as the Typika, if the latter are taken in their entirety; but if of each Psalm only a single verse is taken and without Stichera on the Beatitudes, as they commonly use, then it is better to use the Antiphons. Moreover, the full Typika are long, and present times are times of abbreviation.
+[^67]: Synod of Lviv, Title 5. According to the rubric placed at the end of our Apostoly, and in our earlier Sluzhebnyky, as also in certain Greek Sluzhebnyky in Goar, the daily Antiphons *It is good to give praise* are appointed also on Sundays, with only the Sunday refrain at the 3rd Antiphon, even as the Italo-Greeks also use. The general Greek Sluzhebnyky appoint the Typika (*Izobrazitelna*) on Sunday, and the Oktoechoi likewise on weekdays; for in them Stichera on the Beatitudes are appointed daily, which presuppose the Typika. In this diversity of rubrics let each church preserve its own custom; among us, however, the rubric of the Synod is observed. During the Synod some contended vigorously, asserting that to take the Antiphons daily in place of the Typika is contrary to our Rite; for the daily Antiphons are cited not only by the aforesaid Sluzhebnyky and Apostoly, but also by Greek Anagnostika and the Russian Typikon in ch. 21, and by St. Sophronius, Patriarch of Jerusalem in the 7th century, who in his *Explanation of the Divine Liturgy* (*Spicileg. Rom.*, tom. 4, nn. 12, 13, 14, Rome, Propaganda, 1840) makes no mention whatever of the Typika, but only of the Antiphons *It is good to give praise*. Concerning the Typika (*Izobrazitelna*), however, we consider that they were composed for the case when there was no Divine Liturgy. For from the beginning the majority of monastics consisted of laymen who could not celebrate the Liturgy; and for this reason, after the image of the Divine Liturgy, the Order of the Typika was instituted for their use; therefore the Synod also restricts them to days on which there is no Divine Liturgy, and that their memory may be preserved, only to monasteries. To use the Antiphons is equally good as the Typika, if the latter are taken in their entirety; but if of each Psalm only a single verse is taken and without Stichera on the Beatitudes, as they commonly use, then it is better to use the Antiphons. Moreover, the full Typika are long, and present times are times of abbreviation.
 [^68]: Our Sluzhebnik in the order of the Sundays which are from the 2nd to the 9th after the Descent of the Holy Spirit.
 [^69]: Moscow Typikon in ch. 3, and Peremyshl p. 79.
 [^70]: The Troparia and other variable parts of the Divine Liturgy, according to the earlier Typikon, were not to be taken only of the Sunday, but also to the Saint, if he had anything. (For example: Chapter of Mark 68 and 74; and our Menaion September 6, if it occurs on Sunday). For in the earlier Typika the Saint sometimes did not have a Troparion, sometimes not even a Kontakion; sometimes he had only a Troparion or only a Kontakion, and sometimes also a Prokimenon-Alleluia, and Epistle and Gospel, and Communion Hymn. Nevertheless, since among us Troparia and Kontakia were added late to all Saints who are in order in the Menologion, for this reason Services to a Non-Polyeleos Saint are not taken at the Divine Liturgy; the Greeks, however, in the case of a Saint having an Epistle and Gospel on Sunday, began to take the Epistle only to the Saint, but the Gospel only of the Sunday. (New Constantinopolitan Typikon 1851, e.g. September 6).
@@ -773,7 +767,7 @@ At all [the Hours], the Troparion and Kontakion of the Feast alone, even as on t
 [^75]: Greek Horologia appoint only the Troparion to the Saint, if there be one; but if not, the four above-mentioned Troparia.
 [^76]: Chapter of Mark 75.
 [^77]: Moscow Typikon, ch. 52; and Peremyshl p. 115.
-[^78]: When two Kathismata are to be chanted and when three, we stated in the Note to the Order of Daily Matins on p. 44. Concerning the Little Litanies recited between the Kathismata and the Sessional Hymns: the Synod of Lviv, and our Horologia, and our Sluzhebnyky (at the end) appoint them also at Small Matins, and the Greco-Melkites also use them (according to the testimony of their Patriarch, of blessed memory, Clement Bahouth). On the contrary, the Russian Typikon, approved by their Directing Synod (Moscow ed., 1859), in the Order of Daily Matins, states that the Priest recites them only at Vigils, and for celebrated Saints having a Polyeleos and Doxology; likewise also the new Walachian-Bucharest Typikon in the Order of Daily Matins states: we chant the Sessional Hymns from the Oktoechos without Litanies (*fără Ektenii*); and adds, saying: "In monasteries, usually inside the Kathisma, Litanies are recited only on Sunday, and when eminent Saints occur." From the Greek Typikon nothing can be concluded; for it does not mention the Little Litanies either at Small Matins, or at Great, neither here before the Canon, nor later in the Canon; for the Typikon presumes these to be known to all. From the rubric of the Greek Triodion, appointed at Matins on Meatfare Saturday, it can be concluded that these Litanies ought to be recited also at Small Matins. For it says: *ἡ συνήθης στιχολογία. Ἐν δὲ ταῖς συναπταῖς πάσαις τῆς στιχολογίας καὶ τοῦ Κανόνος, μνημονεύονται πάντες οἱ προαπελθόντες Πατέρες καὶ ἀδελφοὶ ἡμῶν*. Let each church adhere to the Typikon and custom of its own Church. Furthermore, we consider that later Typika omit the Litanies here only for the sake of greater abbreviation of the Divine Service; for if one of the distinctions between Small and Great Matins had been the omission or inclusion of the Litanies, that distinction ought to have been indicated in some place in the most ancient Liturgical Books; yet this is not found. Regarding the Exclamation of the 3rd Litany, which one it is to be, it is indicated in not a single place in the Church Books; wherefore we must borrow it from Great Matins. At Great Matins two exclamations are appointed in the Slavonic Books used at the 3rd Litany, namely one for Sunday: *For blessed is [Thy name]*, and the other for Polyeleos Feasts: *For sanctified is [Thy name]*. For the sake, then, of distinguishing Sunday from weekdays, at Small Matins it is more fitting to use the second: *For sanctified is*, although the first, *For blessed is* (*Ὅτι εὐλόγηται*), would not be ill used either, since in Greek Books we find only this single exclamation, without distinction of the day. Concerning the Sessional Hymns: for after each Stichology two or three are taken, according to the difference of editions, besides the Theotokion. And in the Lviv editions of the Oktoechos, and in the Greco-Venetian, the refrain *Glory... Now and forever...* is appended only before the Theotokion; in the Pochaiv and Moscow editions, however, there is appointed also a proper refrain before each 2nd, or additionally the 3rd Sessional Hymn. This refrain, corresponding to the subject of the Sessional Hymn, on Monday and Tuesday is penitential: *O Lord, rebuke me not in Thine anger*; on Wednesday and Friday, of the Cross; on Thursday, of the Apostles; while before the 3rd Sessional Hymn, which is of the Martyrs, the refrain of the Martyrs: *Wondrous is God in His Saints*.
+[^78]: When two Kathismata are to be chanted and when three, we stated in the Note to the Order of Daily Matins on p. 44. Concerning the Little Litanies recited between the Kathismata and the Sessional Hymns: the Synod of Lviv, and our Horologia, and our Sluzhebnyky (at the end) appoint them also at Small Matins, and the Greco-Melkites also use them (according to the testimony of their Patriarch, of blessed memory, Clement Bahouth). On the contrary, the Russian Typikon, approved by their Directing Synod (Moscow ed., 1859), in the Order of Daily Matins, states that the Priest recites them only at Vigils, and for celebrated Saints having a Polyeleos and Doxology; likewise also the new Walachian-Bucharest Typikon in the Order of Daily Matins states: we chant the Sessional Hymns from the Oktoechos without Litanies (*fără Ektenii*); and adds, saying: "In monasteries, usually inside the Kathisma, Litanies are recited only on Sunday, and when eminent Saints occur." From the Greek Typikon nothing can be concluded; for it does not mention the Little Litanies either at Small Matins, or at Great, neither here before the Canon, nor later in the Canon; for the Typikon presumes these to be known to all. From the rubric of the Greek Triodion, appointed at Matins on Meatfare Saturday, it can be concluded that these Litanies ought to be recited also at Small Matins. For it says: *ἡ συνήθης στιχολογία. Ἐν δὲ ταῖς συναπταῖς πάσαις τῆς στιχολογίας καὶ τοῦ Κανόνος, μνημονεύονται πάντες οἱ προαπελθόντες Πατέρες καὶ ἀδελφοὶ ἡμῶν*. Let each church adhere to the Typikon and custom of its own Church. Furthermore, we consider that later Typika omit the Litanies here only for the sake of greater abbreviation of the Divine Service; for if one of the distinctions between Small and Great Matins had been the omission or inclusion of the Litanies, that distinction ought to have been indicated in some place in the most ancient Liturgical Books; yet this is not found. Regarding the Exclamation of the 3rd Litany, which one it is to be, it is indicated in not a single place in the Church Books; therefore we must borrow it from Great Matins. At Great Matins two exclamations are appointed in the Slavonic Books used at the 3rd Litany, namely one for Sunday: *For blessed is [Thy name]*, and the other for Polyeleos Feasts: *For sanctified is [Thy name]*. For the sake, then, of distinguishing Sunday from weekdays, at Small Matins it is more fitting to use the second: *For sanctified is*, although the first, *For blessed is* (*Ὅτι εὐλόγηται*), would not be ill used either, since in Greek Books we find only this single exclamation, without distinction of the day. Concerning the Sessional Hymns: for after each Stichology two or three are taken, according to the difference of editions, besides the Theotokion. And in the Lviv editions of the Oktoechos, and in the Greco-Venetian, the refrain *Glory... Now and forever...* is appended only before the Theotokion; in the Pochaiv and Moscow editions, however, there is appointed also a proper refrain before each 2nd, or additionally the 3rd Sessional Hymn. This refrain, corresponding to the subject of the Sessional Hymn, on Monday and Tuesday is penitential: *O Lord, rebuke me not in Thine anger*; on Wednesday and Friday, of the Cross; on Thursday, of the Apostles; while before the 3rd Sessional Hymn, which is of the Martyrs, the refrain of the Martyrs: *Wondrous is God in His Saints*.
 [^79]: For after the stated Odes of the Canon of the Saint the Menaion appoints his Heirmos.
 [^80]: Pochaiv Oktoechos at the end.
 [^81]: Pochaiv Oktoechos at the end, leaf 7 verso.

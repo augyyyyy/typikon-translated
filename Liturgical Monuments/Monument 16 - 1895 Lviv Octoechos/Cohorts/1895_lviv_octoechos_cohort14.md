@@ -77,7 +77,7 @@ Christ our Savior, having nailed unto the Cross the handwriting that was against
 With the Archangels let us hymn the resurrection of Christ; for He is the Redeemer and Savior of our souls; and in fearful glory and mighty power He comes again to judge the world which He created.[^1330]
 
 *Glory... Both now... Theotokion Dogmatikon, Tone 2:*
-O the great mystery! Beholding the marvels, I proclaim the Godhead; for Emmanuel opened the doors of nature as the Lover of mankind, yet broke not the keys of virginity as God; but in such wise came forth from the womb as He entered through the hearing; in such wise was incarnate as He was conceived; impassibly He entered, ineffably He came forth, according to the Prophet who saith: This gate shall be shut; no one shall pass through it, save only the Lord, the God of Israel, Who hath great mercy.[^1331]
+O the great mystery! Beholding the marvels, I proclaim the Godhead; for Emmanuel opened the doors of nature as the Lover of mankind, yet broke not the keys of virginity as God; but in such wise came forth from the womb as He entered through the hearing; in such wise was incarnate as He was conceived; impassibly He entered, ineffably He came forth, according to the Prophet who says: This gate shall be shut; no one shall pass through it, save only the Lord, the God of Israel, Who hath great mercy.[^1331]
 
 *Then: O Gladsome Radiance. Afterward, the Prokeimenon: The Lord is King, He is robed in majesty. (Thrice).*[^1332]
 
@@ -100,7 +100,7 @@ No other refuge unto the Creator and Master have we acquired, save thee, O Bride
 The fear of manifold temptations and grievous misfortunes now encompass me, and the abyss of despair overwhelms me; the tempest of my transgressions sorely confounds me. Come swiftly and deliver me who am overwhelmed, O only haven of the faithful, and lead me up unto the harbor of the divine high calling.[^1340]
 
 *Glory... Both now... Theotokion, Tone 2:*
-Who can worthily praise thee and call thee blessed, O Maiden and Bride of God, for the deliverance that hath come to the world through thee? Giving thanks, therefore, we cry unto thee, saying: Rejoice, thou who hast deified Adam and united things divided! Rejoice, thou who hast enlightened our race by the light-bearing resurrection of Thy Son and our God! For the Christian race blesses thee unceasingly.[^1341]
+Who can worthily praise thee and call thee blessed, O Maiden and Bride of God, for the deliverance that hath come to the world through thee? Giving thanks, therefore, we cry unto thee, saying: Rejoice, thou who hast deified Adam and united things divided! Rejoice, thou who hast enlightened our race by the light-bearing resurrection of thy Son and our God! For the Christian race blesses thee unceasingly.[^1341]
 
 *Then: Now lettest Thou: Trisagion: and after Our Father: Troparion: When Thou didst descend: Theotokion: Beyond all thought: and the Dismissal.*[^1342]
 

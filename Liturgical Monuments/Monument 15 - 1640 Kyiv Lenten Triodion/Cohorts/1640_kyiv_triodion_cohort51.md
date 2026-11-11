@@ -15,7 +15,7 @@ Beholding Thee upon the Cross, O Christ, suspended voluntarily in the midst of t
 
 Having cleansed our flesh through abstinence, and having enlightened our souls in prayers, O Lord, vouchsafe us to behold Thy most honorable and divine Cross, and to venerate it with fear, singing in hymns and saying: "Glory to the life-bearing Cross, glory to Thy divine Spear, whereby we have been quickened, O Thou Who alone art the Lover of mankind!" *(Twice)*
 
-*Glory... Both now... Stavrotheotokion, the same Podoben:*
+*Glory... Both now... Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 
 === LEAF p502 ===
 Beholding the Lamb suspended upon the Tree with thieves, O longsuffering Word, and pierced in the ribs with a Spear, the Ewe-lamb wailed, crying aloud maternally: "What is this strange and terrible mystery, O my Jesus? And how is the uncircumscribed God covered by a tomb? Ineffable is that which is wrought! Leave me not alone who bare Thee, O my sweetest Jesus!"

@@ -183,7 +183,7 @@
 
 **Third Antiphon**
 
-*Verse 1:* **"Let the heavens and the earth praise Him, the seas, and everything that creepeth in them!"** (*Αἰνεσάτωσαν αὐτὸν οἱ οὐρανοὶ καὶ ἡ γῆ...*, Ps. 68:35 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."** (*Τὴν ἄχραντον Εἰκόνα σου προσκυνοῦμεν, Ἀγαθέ...*)  
+*Verse 1:* **"Let the heavens and the earth praise Him, the seas, and everything that creeps in them!"** (*Αἰνεσάτωσαν αὐτὸν οἱ οὐρανοὶ καὶ ἡ γῆ...*, Ps. 68:35 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."** (*Τὴν ἄχραντον Εἰκόνα σου προσκυνοῦμεν, Ἀγαθέ...*)  
 *Verse 2:* **"This is the day which the Lord has made; let us rejoice and be glad in it!"** (*Αὕτη ἡμέρα Κυρίου, ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν αὐτῇ.*, Ps. 117:24 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."**  
 *Verse 3:* **"O Lord my God, I will give thanks unto Thee forever!"** (*Κύριε ὁ θεός μου εἰς τὸν αἰῶνα ἐξομολογήσομαί σοι.*, Ps. 29:13 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."**  
 

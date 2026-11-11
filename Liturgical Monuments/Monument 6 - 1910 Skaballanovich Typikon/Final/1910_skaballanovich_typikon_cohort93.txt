@@ -2,10 +2,10 @@
 
 and the narrative concerning the rich young ruler, since in Luke these readings may be omitted on account of the Nativity of Christ; in Mark there are repeated in comparison with Matthew the accounts concerning the healing of the paralytic of Capernaum and of the mute and deaf boy—owing to the suitability of these readings for Lent and to the absence in this Gospel of anything new in comparison with Matthew and Luke.
 
-### The Liturgical Shift (*Otstupka*)
+**The Liturgical Shift (*Otstupka*)**
 The above-expounded annual cycle of Liturgical Epistles (*Apostols*) and Gospels is not precisely maintained every year, and is very frequently disrupted. This cycle provides readings for thirty-two weeks between Pentecost and the Sunday of the Publican and the Pharisee. Yet in different years the number of these weeks varies, and this fluctuation depends upon the mobility of the Feast of Pascha. If in one year Pascha was very early and in the following year very late, then the number of weeks between Pentecost and the Sunday of the Publican and the Pharisee will be greater than in the reverse case—that is, if in the first year Pascha was late and in the second early (which is called in the Liturgical Gospel *"within Pascha"* [*vnutr' Paskha*], that is, two Paschas within the course of an annual cycle, while the opposite case is called *"outside Pascha"* [*vne Paskha*]). Thus, between Pentecost and the Sunday of the Publican there can be both more than thirty-two weeks (more frequently) and fewer (rarely). If there is a shortage of Gospels, then on the Sunday after the Nativity of Christ, before the Theophany, and after it, only the Gospels specially appointed for these Sundays are read, while the regular pericopes of these weeks, as well as the regular pericopes falling on the Sundays of the Forefathers and the Fathers, are read in the surplus weeks, but in such a manner that on the Sunday preceding that of the Publican the Gospel concerning Zacchaeus is read without fail. If even these pericopes do not suffice for the surplus weeks, then on the Sunday preceding that of Zacchaeus the pericope (the 17th) of Matthew concerning the Canaanite woman is read. If there are fewer than thirty-two weeks, then the Gospels before Zacchaeus are omitted. The Epistles always accompany their respective Gospels *(Orig. p. 763)* (see the Typikon, January 7, 6th *Note*; cf. the 1st *Note*, and December 26 *Note*; see in the Liturgical Gospel the *"Account containing the number of Gospels for the entire year, and the reception of the Evangelists: whence they begin and where they cease"*).
 
-### History of the Sunday Pericopes
+**History of the Sunday Pericopes**
 As late as the 5th century, the selection of the Epistle and Gospel readings was left to the discretion of the presiding bishop or priest, although even then there are traces of a more or less fixed distribution of pericopes between
 
 === LEAF p922 ===
@@ -72,11 +72,11 @@ Gradually this cycle of readings was subjected to influence and alteration under
 
 === LEAF p925 ===
 
-### Roman Catholic and Protestant Sunday Liturgical Readings
+**Roman Catholic and Protestant Sunday Liturgical Readings**
 The system of Sunday Liturgical readings in the Roman Catholic Church:
 
 - **Easter Sunday** — 1 Cor. 5:6–8 (Rising with Christ); Mark 16:1–8 (The Resurrection).
-- **2nd Sunday of Easter (Low Sunday / Octave of Easter)** — 1 John 5:4–10 (The Faith that Overcometh the World); John 20:19–31 (The Unbelief of Thomas).
+- **2nd Sunday of Easter (Low Sunday / Octave of Easter)** — 1 John 5:4–10 (The Faith that Overcomes the World); John 20:19–31 (The Unbelief of Thomas).
 - **3rd Sunday of Easter** — 1 Pet. 2:21–25 (Christ, the Shepherd of Souls); John 10:12–16 (The Good Shepherd).
 - **4th Sunday of Easter** — 1 Pet. 2:11–20 (Duties toward the Gentiles); John 16:16–23 (*"A little while"*).
 - **5th Sunday of Easter** — James 1:16–21 (The Gift from Above); John 16:5–15 (The Departure unto the Father).
@@ -162,8 +162,8 @@ according to ancient universal custom (*Tolkovy Typikon*, I, p. 183), wherein th
 
 === LEAF p930 ===
 
-### The Armenian Lectionary System
+**The Armenian Lectionary System**
 The principle of continuous reading is most strictly maintained in the Armenian Church. Excepting feast days which have their own proper readings, and Sundays with special commemorations, such as Easter Sunday, the 2nd Sunday of Pentecost, and all the Sundays of the Forty Days, the readings here proceed in biblical order (with the omission of festal readings and, very rarely, of less important passages) on Sundays, Wednesdays, and Fridays, while during festal weeks (all the weeks of Pentecost and two after it, the week before the Dormition, and the fifteen days before the Theophany) readings occur every day, by virtue of which there fall upon Sundays not selected readings (of more prominent passages), but those that occur according to the regular sequence. The series of readings begins from Pascha with the Acts, and from Thomas Sunday with the Gospel of John, which books conclude at Pentecost; after it proceed all the Pauline Epistles (to the Romans—until the Dormition), concluding with the Pastoral Epistles (the Epistle to the Hebrews preceding them) before Septuagesima Sunday (the Catholic Epistles are not read); from Pentecost Matthew begins and proceeds until the 9th Sunday, Mark until the 6th Sunday after the Elevation of the Cross, Luke until the Theophany, and from it John 2–7 is repeated.[^2792]
 
-### The Megalynarion: "It Is Truly Meet" (*Dostoyno*)
+**The Megalynarion: "It Is Truly Meet" (*Dostoyno*)**
 Following the Epistle and the Gospel, a further variable part of the Liturgy is formed by the hymn in honor of the Mother of God, chanted at Her commemoration after the consecration of the Holy Gifts, in response to the celebrant's exclamation: **"Especially for our most holy..."** (*Izryadno o Presvyatey...*). This hymn falls, consequently, upon the most sacred part of the Liturgy, occupied exclusively with prayers and praises unto God Himself, and predominantly unto God the Father. The introduction here of a hymn unto the Most Holy Theotokos testifies to the supreme degree of Her veneration by the Orthodox Church. Naturally, for the ordinary and Sunday Liturgy the most rapturous hymn was selected, confessing the Mother of God as higher than the Seraphim and the Cherubim: **"It is truly meet"** (*Dostoyno yest'*, Ἄξιόν ἐστιν). On the Great Twelve Feasts and their afterfeasts, this hymn is replaced by the 9th Heirmos of the Canon, as likewise dedicated to the Mother of God and fully corresponding to the hymn **"It is truly meet"**, which is also the 9th Heirmos of a Canon (of Great Friday) with a refrain prefixed. By this Heirmos, termed in such liturgical application the *Zadostoynik* (a term of the Slavic Typikon), the Liturgy in its most crucial part at the same time coordinates itself with the feast (which is why there are chanted as the *Zadostoynik* even such 9th Heirmoi as do not mention the Mother of God). At the Liturgy

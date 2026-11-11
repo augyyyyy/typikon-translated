@@ -105,7 +105,7 @@
 *Firm in soul according to faith, the holy ones, two myriad sufferers, receiving suffering by fire, crying aloud unto Him Who was born of the Virgin: Receive our whole-burnt offerings for Thy sake, as the gifts of the Persian kings, gold, and myrrh, and frankincense, O pre-eternal God!*[^627]
 *Sessional Hymn, Tone 4. Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се):*
 *The army in number two myriad of martyrs, being honored, has shone forth unto us, enlightening the hearts and minds of the pious for the sake of the faith. For having been kindled with the divine love of the Master, the noble ones eagerly received a holy end by fire.*
-*Glory, Both now... of the Feast, Tone and Podoben the same:*
+*Glory, Both now... of the Feast, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 *In the manger of the irrational beasts wast Thou laid for our sake, O long-suffering Savior, having voluntarily become an infant; and the shepherds sang of Thee with the angels, crying aloud...*
 
 === LEAF p368 ===

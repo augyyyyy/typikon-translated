@@ -1,5 +1,5 @@
 === LEAF p971 ===
-### Notes to Volume II: Explanatory Typikon (Continued)
+**Notes to Volume II: Explanatory Typikon (Continued)**
 
 ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto the conclusion of our Matins and the First Hour; but this office is not named an Hour.
 
@@ -11,7 +11,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 121. B. Duhm, *Die Psalmen erklärt*, Tübingen, 1899, p. 213. Formerly, upon the basis of v. 10: “look upon the face of Thine anointed [*Christ*]” [LXX Ps. 83:10 / MT Ps. 84:9], this psalm was referred unto David's longing for the temple during his flight from Absalom; but by "anointed" [*christ*] the psalmist could also understand the presiding hierarch of the temple or any king, as the supreme guardian of the temple.
 
-122. Obscure expressions in the psalm [Psalm 83 / MT 84]: “For the sparrow...” [*ибо птица*], literally from the Hebrew: “even the sparrow,” that is, “like the sparrow.” “Blessed is the man whose help is in Thee” [*Блажен муж, емуже есть заступление его у Тебе*], unto whom God grants aid upon his journey unto the temple, which was especially arduous from the lands of the diaspora. “He hath set ascents in his heart” [*Восхождения в сердце своем положи*]—he undertakes the pilgrimage unto the temple through the mountains and “into the vale of weeping” [*в юдоль плачевную*], the valley of tears—on account of its barrenness and perils, “unto the place which He hath appointed” [*в место, еже положи*], having ever in view the coveted destination of the journey; but according unto the Hebrew: “they (the pilgrims journeying unto Jerusalem) make it (the valley of weeping / Baca) a place of springs”—God miraculously sends them water. “For the Lawgiver shall give blessings” [*Ибо благословение даст законополагаяй*]: God, Who prescribed in the Law such pilgrimages unto the temple (thrice a year), blesses these pilgrims (from the Hebrew: “the rain also covers it—the valley—with blessings”), and they “shall go from strength unto strength” [*пойдут от силы в силу*]—in their arduous pilgrimage their vigor will continually increase, whereas with ordinary travelers the contrary occurs. In relation unto the crucified Christ, the valley of weeping is earthly life with its sufferings and death, whereby He exalted His human nature unto heaven.
+122. Obscure expressions in the psalm [Psalm 83 / MT 84]: “For the sparrow...” (*ибо птица*), literally from the Hebrew: “even the sparrow,” that is, “like the sparrow.” “Blessed is the man whose help is in Thee” (*Блажен муж, емуже есть заступление его у Тебе*), unto whom God grants aid upon his journey unto the temple, which was especially arduous from the lands of the diaspora. “He hath set ascents in his heart” (*Восхождения в сердце своем положи*)—he undertakes the pilgrimage unto the temple through the mountains and “into the vale of weeping” (*в юдоль плачевную*), the valley of tears—on account of its barrenness and perils, “unto the place which He hath appointed” (*в место, еже положи*), having ever in view the coveted destination of the journey; but according unto the Hebrew: “they (the pilgrims journeying unto Jerusalem) make it (the valley of weeping / Baca) a place of springs”—God miraculously sends them water. “For the Lawgiver shall give blessings” (*Ибо благословение даст законополагаяй*): God, Who prescribed in the Law such pilgrimages unto the temple (thrice a year), blesses these pilgrims (from the Hebrew: “the rain also covers it—the valley—with blessings”), and they “shall go from strength unto strength” (*пойдут от силы в силу*)—in their arduous pilgrimage their vigor will continually increase, whereas with ordinary travelers the contrary occurs. In relation unto the crucified Christ, the valley of weeping is earthly life with its sufferings and death, whereby He exalted His human nature unto heaven.
 
 123. H. Gunkel, *Ausgewählte Psalmen*, Göttingen, 1904, p. 133. This author, as well as Duhm cited above, are rationalists, but this did not prevent them from offering an excellent explanation of these present psalms, as also of certain others.
 
@@ -34,11 +34,11 @@ the fourth psalm at the Ninth Hour.
 
 131. Manuscript of the Moscow Synodal Library No. 328, fol. 1.
 
-132. Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church* [*Пособие к изучению устава богослужения...*], 7th ed., St. Petersburg, 1907, p. 157.
+132. Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church* (*Пособие к изучению устава богослужения...*), 7th ed., St. Petersburg, 1907, p. 157.
 
 133. Manuscript of the Moscow Typographical Library No. 285/1206/141, fol. 20 verso; see this rubric in the explanation of Chapter 8 of the Typikon.
 
-134. *Prooimiakos* [*Προοιμιακός*], which the 14th-century Slavonic Typikon of the Moscow Synodal Library No. 328/383 glosses as: “introductory of all creation” [*преднеобразный всея твари*].
+134. *Prooimiakos* [*Προοιμιακός*], which the 14th-century Slavonic Typikon of the Moscow Synodal Library No. 328/383 glosses as: “introductory of all creation” (*преднеобразный всея твари*).
 
 135. In antiquity: unto the ecclesiarch (for example, the 13th-century Greek MS of the Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 1; the 14th-century Slavonic MS of the Moscow Synodal Library No. 328/383, fol. 1).
 
@@ -49,7 +49,7 @@ the fourth psalm at the Ninth Hour.
 
 137. 1 Cor. 10:31.
 
-138. Ezek. 46:24. Although the prophet here describes the mystical, symbolic temple of the future, all the details for this description he takes from the actual Jerusalem temple (A. Olesnitsky, *The Old Testament Temple in Jerusalem* [*Ветхозаветный храм в Иерусалиме*], St. Petersburg, 1889, p. 348).
+138. Ezek. 46:24. Although the prophet here describes the mystical, symbolic temple of the future, all the details for this description he takes from the actual Jerusalem temple (A. Olesnitsky, *The Old Testament Temple in Jerusalem* (*Ветхозаветный храм в Иерусалиме*), St. Petersburg, 1889, p. 348).
 
 139. See Introductory Chapter, pp. 23–24.
 
@@ -57,7 +57,7 @@ the fourth psalm at the Ninth Hour.
 
 141. A. Dmitrievsky, *Typika* [*Τυπικά*], pp. LXXVII ff.
 
-142. Archpriest K. Kekelidze, *Liturgical Georgian Monuments in Domestic Book Repositories and Their Scientific Significance* [*Литургические грузинские памятники...*], Tiflis, 1908, p. 308.
+142. Archpriest K. Kekelidze, *Liturgical Georgian Monuments in Domestic Book Repositories and Their Scientific Significance* (*Литургические грузинские памятники...*), Tiflis, 1908, p. 308.
 
 143. Manuscript of the Moscow Synodal Library No. 328/383, fol. 40 and verso.
 
@@ -73,7 +73,7 @@ the fourth psalm at the Ninth Hour.
 
 149. Rule 36 of St. Pachomius the Great.
 
-150. P. Savvaitov, *The Journey of Antony, Archbishop of Novgorod, unto Tsargrad [Constantinople] at the End of the Twelfth Century* [*Путешествие Новгородскаго архиепископа Антония в Царьград...*], St. Petersburg, 1872, pp. 17, 103.
+150. P. Savvaitov, *The Journey of Antony, Archbishop of Novgorod, unto Tsargrad [Constantinople] at the End of the Twelfth Century* (*Путешествие Новгородскаго архиепископа Антония в Царьград...*), St. Petersburg, 1872, pp. 17, 103.
 
 151. Archpriest K. Kekelidze, *Liturgical Monuments*, p. 315.
 
@@ -87,14 +87,14 @@ the fourth psalm at the Ninth Hour.
 
 156. Goar, *Euchologion*, p. 9.
 
-157. I. Mansvetov, *The Church Typikon: Its Formation and Destiny in the Greek and Russian Church* [*Церковный Устав (Типик)...*], Moscow, 1885, p. 197.
+157. I. Mansvetov, *The Church Typikon: Its Formation and Destiny in the Greek and Russian Church* (*Церковный Устав (Типик)...*), Moscow, 1885, p. 197.
 
 158. D. Belyaev, *Byzantina: Essays, Materials, and Notes upon
 
 === LEAF p974 ===
-Byzantine Antiquities* [*Byzantina. Очерки, материалы и заметки по византийским древностям*], Book II, St. Petersburg, 1893, p. 25.
+Byzantine Antiquities* (*Byzantina. Очерки, материалы и заметки по византийским древностям*), Book II, St. Petersburg, 1893, p. 25.
 
-159. Hieromonk John (Rakhmanov), *The Book of Ceremonies of the Byzantine Court (De Cerimoniis Aulae Byzantinae) as an Ecclesiastical-Archaeological Source* [*Обрядник византийского двора... как церковно-археологический источник*], Moscow, 1895, p. VIII.
+159. Hieromonk John (Rakhmanov), *The Book of Ceremonies of the Byzantine Court (De Cerimoniis Aulae Byzantinae) as an Ecclesiastical-Archaeological Source* (*Обрядник византийского двора... как церковно-археологический источник*), Moscow, 1895, p. VIII.
 
 160. Belyaev, *Byzantina*, II, pp. 27–33.
 
@@ -102,7 +102,7 @@ Byzantine Antiquities* [*Byzantina. Очерки, материалы и заме
 
 162. *Euchologion to Mega, emended and verified by Hieromonk Spyridon Zervos* [*Εὐχολόγιον τὸ μέγα ἐπιδιορθὲν καὶ ἐξακριβωθὲν ὑπὸ Σπυρίδωνος Ἱερομ. Ζέρβου*], 8th ed., Athens, 1902, p. 6.
 
-163. Symeon of Thessalonica, *Interpretation of the Divine Temple* (*Ἑρμηνεία περί τε τοῦ θείου ναοῦ*), ch. 19; Migne, *Patrologia Graeca*, vol. 155; *Writings of the Holy Fathers and Teachers of the Church Relating unto the Interpretation of Orthodox Divine Services* [*Писания св. отцов и учит. Церкви...*], St. Petersburg, 1856, vol. 2.
+163. Symeon of Thessalonica, *Interpretation of the Divine Temple* (*Ἑρμηνεία περί τε τοῦ θείου ναοῦ*), ch. 19; Migne, *Patrologia Graeca*, vol. 155; *Writings of the Holy Fathers and Teachers of the Church Relating unto the Interpretation of Orthodox Divine Services* (*Писания св. отцов и учит. Церкви...*), St. Petersburg, 1856, vol. 2.
 
 164. Goar, *Euchologion*, p. 2.
 
@@ -112,7 +112,7 @@ Byzantine Antiquities* [*Byzantina. Очерки, материалы и заме
 
 167. Manuscript of the Museum of the Kyiv Theological Academy Aa 194, p. 19.
 
-168. *Tserkovne Oko* [*Устав сиречь Око церковное*], Edinoverie edition, Moscow, 1898, fol. 8 verso.
+168. *Tserkovne Oko* (*Устав сиречь Око церковное*), Edinoverie edition, Moscow, 1898, fol. 8 verso.
 
 169. Balsamon (13th century) perceives such a purpose in the censing of the narthex in his commentary upon Canon 2 of the Epistle of St. Dionysius of Alexandria to Basilides: *τοῦ θυμιᾶν τοὺς ἐν [recte ἔνδον] ὄντας τάφους καὶ ἁγίους*—“to cense the tombs and holy relics situated herein”; Goar, *Euchologion*, p. 23.
 
@@ -120,7 +120,7 @@ Byzantine Antiquities* [*Byzantina. Очерки, материалы и заме
 
 171. Archpriest K. Kekelidze, *Liturgical Monuments*, p. 315.
 
-172. If a hierarch is present in the temple, then prior unto the All-Night Vigil the exclamation is likewise customarily made: “Master, bless” [*Владыко, благослови*].
+172. If a hierarch is present in the temple, then prior unto the All-Night Vigil the exclamation is likewise customarily made: “Master, bless” (*Владыко, благослови*).
 
 173. These analogies do not permit one to see in the exclamation a prayerful address unto God. With such a meaning for the exclamation, there would be no reason to restrict it solely unto the All-Night Vigil (as the longest and most arduous service?); it would be needed also prior unto the other services, and before the Liturgy no less than before the All-Night Vigil.
 
@@ -155,7 +155,7 @@ fol. 9.
 
 187. See above, pp. 457–458. Paschal Matins according unto its most ancient rites began without an exclamation, with the singing of the troparion.
 
-188. *Order for the Consecration of a Temple Performed by a Hierarch* [*Чин освящения храма, от архиерея творимаго*], Moscow, 1891, fol. 16; *Order of Hierarchical Service* [*Чин архиерейскаго священнослужения*], Moscow, 1897, fol. 156. The same formula without "unto ages" [i.e., concluding without *во веки веков* / *in saecula saeculorum*] occurs in the order for the blessing of antiminsia cited in Goar, *Euchologion*, p. 517. But in the ancient orders for the consecration of temples published by A. Dmitrievsky (*Description of Liturgical Manuscripts Preserved in the Libraries of the Orthodox East*, vol. II: *Euchologia* [*Εὐχολόγια*], Kyiv, 1901), such an exclamation is not encountered.
+188. *Order for the Consecration of a Temple Performed by a Hierarch* (*Чин освящения храма, от архиерея творимаго*), Moscow, 1891, fol. 16; *Order of Hierarchical Service* (*Чин архиерейскаго священнослужения*), Moscow, 1897, fol. 156. The same formula without "unto ages" (*i.e., concluding without *во веки веков* / *in saecula saeculorum*) occurs in the order for the blessing of antiminsia cited in Goar, *Euchologion*, p. 517. But in the ancient orders for the consecration of temples published by A. Dmitrievsky (*Description of Liturgical Manuscripts Preserved in the Libraries of the Orthodox East*, vol. II: *Euchologia* [*Εὐχολόγια*], Kyiv, 1901), such an exclamation is not encountered.
 
 189. Manuscript of the Moscow Typographical Library No. 285/142/1206, fol. 10.
 
@@ -165,7 +165,7 @@ fol. 9.
 
 192. Typikon of the Shiomghvime Monastery according unto a 13th-century manuscript; Archpriest K. Kekelidze, *Liturgical Monuments*, p. 316.
 
-193. 13th-century manuscript of the Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 2; Greek manuscript of the Moscow Synodal Library No. 381, fol. 1 (but on fol. 12 “and Life-creating” [*Животворящей*] is in the margin).
+193. 13th-century manuscript of the Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 2; Greek manuscript of the Moscow Synodal Library No. 381, fol. 1 (but on fol. 12 “and Life-creating” (*Животворящей*) is in the margin).
 
 194. 14th-century manuscript of the Moscow Synodal Library No. 328/383, fols. 3 and 198 verso.
 
@@ -183,7 +183,7 @@ fol. 9.
 
 201. Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 177.
 
-202. Bishop Vissarion, *Vespers: Two Public Lectures* [*Вечерня. 2 публ. чтения*], 2nd ed., Moscow, 1891, p. 20.
+202. Bishop Vissarion, *Vespers: Two Public Lectures* (*Вечерня. 2 публ. чтения*), 2nd ed., Moscow, 1891, p. 20.
 
 203. Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 177.
 
@@ -192,7 +192,7 @@ fol. 9.
 205. Ascribed unto David by the LXX translators (Psalm 102 [103]—
 
 === LEAF p976 ===
-also by the Hebrew Bible) and entitled in the Slavonic Bible: “Concerning the creation of the world” [*о мирстем бытии*].
+also by the Hebrew Bible) and entitled in the Slavonic Bible: “Concerning the creation of the world” (*о мирстем бытии*).
 
 206. Bishop Vissarion, *Vespers*, p. 22.
 
@@ -202,7 +202,7 @@ also by the Hebrew Bible) and entitled in the Slavonic Bible: “Concerning the 
 
 209. That the utility of the rivers for mankind is not indicated is pure Palestinian coloring (H. Gunkel, *Ausgewählte Psalmen*, p. 176).
 
-210. “Rocks” [*Камений*], *petra* (*πέτρα*)—a cliff [in Hebrew: "among the branches"]. “Upon them” [*На тых*]—upon those, that is, upon the springs.
+210. “Rocks” (*Камений*), *petra* (*πέτρα*)—a cliff [in Hebrew: "among the branches"]. “Upon them” (*На тых*)—upon those, that is, upon the springs.
 
 211. In Hebrew a specific tree is named, most likely a cypress or fir.
 
@@ -239,11 +239,11 @@ also by the Hebrew Bible) and entitled in the Slavonic Bible: “Concerning the 
 
 226. Citations—see above, p. 500.
 
-227. Archpriest K. Fomenko, *Peculiarities of the Divine Worship of the Greek Church* [*Особенности богослужения греческой Церкви*]; *Proceedings of the Kyiv Theological Academy* [*Труды Киев. Дух. Акад.*], 1895, vol. 1, p. 151.
+227. Archpriest K. Fomenko, *Peculiarities of the Divine Worship of the Greek Church* (*Особенности богослужения греческой Церкви*); *Proceedings of the Kyiv Theological Academy* (*Труды Киев. Дух. Акад.*), 1895, vol. 1, p. 151.
 
 228. Most likely because it was read at ancient Vespers after *Lord, I have cried*, and at this place in ancient Vespers stood the Great Litany; prior unto *Lord, I have cried* there were three antiphons with Little Litanies (see Archpriest K. Kekelidze, *Liturgical Georgian Monuments*, p. 144).
 
-229. “Who hast pledged [κοαεγγυήσας, recte κατεγγυήσας] unto us the promised Kingdom,” that is, Who hast pledged as surety; “who hast guided us by the promised good things,” *διὰ τῶν ἤδη κεхаρισμένων ἀγαθῶν ὁδοποιήσας ἡμῖν*, that is, guiding us unto the Kingdom through the good things already bestowed; thus according unto the Greek text in Goar, *Euchologion*, p. 29; in the Slavonic, “by the promised” [*обещанными*] is an inexact translation, and the punctuation marks are improperly arranged.
+229. “Who hast pledged [κοαεγγυήσας, recte κατεγγυήσας] unto us the promised Kingdom,” that is, Who hast pledged as surety; “who hast guided us by the promised good things,” *διὰ τῶν ἤδη κεχαρισμένων ἀγαθῶν ὁδοποιήσας ἡμῖν*, that is, guiding us unto the Kingdom through the good things already bestowed; thus according unto the Greek text in Goar, *Euchologion*, p. 29; in the Slavonic, “by the promised” (*обещанными*) is an inexact translation, and the punctuation marks are improperly arranged.
 
 230. Goar, *Euchologion*, p. 35.
 
@@ -260,13 +260,13 @@ and in the manuscript of Bishop Porphyrius Uspensky of the Imperial Public Libra
 
 235. Archpriest K. Kekelidze, *Liturgical Georgian Monuments*, p. 164.
 
-236. Fols. 1–3; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior unto the Sixteenth Century* [*Порядок общественнаго и частнаго богослужения в древней России...*], St. Petersburg, 1881, p. 91.
+236. Fols. 1–3; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior unto the Sixteenth Century* (*Порядок общественнаго и частнаго богослужения в древней России...*), St. Petersburg, 1881, p. 91.
 
-237. A. Dmitrievsky, *The Vesper Prayers* [*Вечерние молитвы*]; *Manual for Village Pastors* [*Руководство для сельских пастырей*], 1888, vol. II, pp. 494–507; vol. III, pp. 20–32.
+237. A. Dmitrievsky, *The Vesper Prayers* (*Вечерние молитвы*); *Manual for Village Pastors* (*Руководство для сельских пастырей*), 1888, vol. II, pp. 494–507; vol. III, pp. 20–32.
 
 238. *Ibid.*; manuscript fols. 54 verso–60.
 
-239. (A. Pavlov), *Russian Historical Library* [*Русская историческая библиотека*], St. Petersburg, 1880, vol. VI, part 1, col. 265.
+239. (A. Pavlov), *Russian Historical Library* (*Русская историческая библиотека*), St. Petersburg, 1880, vol. VI, part 1, col. 265.
 
 240. Manuscript of the Solovki Library in the Kazan Academy No. 1019 of the 15th century—9 prayers; manuscript of the Trinity-Sergius Lavra No. 218 of the 16th century, Solovki Library No. 1021 of the 15th century—10 prayers; *ibid.*, Nos. 1024–1026, 1029, 1032, Moscow Typographical Library No. 131, Moscow Synodal Library No. 615, all of the 16th century—11 prayers (A. Dmitrievsky, *Vesper Prayers*; *Manual for Village Pastors*, 1888, vol. II, pp. 500–502). There are also Sluzhebniki with 15 prayers (manuscript of the Solovki Library No. 1023), but here several morning prayers found their way into the number of vesper prayers (A. Dmitrievsky, *Vesper Prayers*; *Manual for Village Pastors*, 1888, vol. II, pp. 500–502).
 
@@ -282,16 +282,16 @@ and in the manuscript of Bishop Porphyrius Uspensky of the Imperial Public Libra
 
 246. Phil. 4:7.
 
-247. Unto the petition “for the good estate [*εὐσταθείας*] of the Holy Churches of God” is joined the supplication “and for the union of all,” *καὶ τῆς τῶν πάντων ἑνώσεως*, in Old Church Slavonic “for the gathering together of all” [*о съвъкуплении всех*], the union—as shown by the masculine gender of *πάντων*—not of the Holy Churches of God (although in ancient texts of the litany it read: “for the union of all [*πασῶν*] the Holy Churches of God”—see below), but of all in a general
+247. Unto the petition “for the good estate [*εὐσταθείας*] of the Holy Churches of God” is joined the supplication “and for the union of all,” *καὶ τῆς τῶν πάντων ἑνώσεως*, in Old Church Slavonic “for the gathering together of all” (*о съвъкуплении всех*), the union—as shown by the masculine gender of *πάντων*—not of the Holy Churches of God (although in ancient texts of the litany it read: “for the union of all [*πασῶν*] the Holy Churches of God”—see below), but of all in a general
 
 === LEAF p979 ===
-sense—according unto St. Symeon of Thessalonica, “for the union of all in the right faith, love, and life well-pleasing unto God” (*On Divine Prayer*, ch. 332/296). Perhaps there is here an intentional indefiniteness, pointing unto all mankind and including, consequently, heterodox Churches (see in more detail concerning this: Z., *Concerning What Union of All Do We Pray in the Third Petition of the Great Litany?* [*О каком соединении всех молимся мы в 3-м прошении великой ектении*]; *Manual for Village Pastors*, 1910, No. 24; N. Paktov, *Toward an Explanation of the Third Petition of the Great Litany* [*К изъяснению третьего прошения великой ектении*]; *ibid.*, Nos. 36–38).
+sense—according unto St. Symeon of Thessalonica, “for the union of all in the right faith, love, and life well-pleasing unto God” (*On Divine Prayer*, ch. 332/296). Perhaps there is here an intentional indefiniteness, pointing unto all mankind and including, consequently, heterodox Churches (see in more detail concerning this: Z., *Concerning What Union of All Do We Pray in the Third Petition of the Great Litany?* (*О каком соединении всех молимся мы в 3-м прошении великой ектении*); *Manual for Village Pastors*, 1910, No. 24; N. Paktov, *Toward an Explanation of the Third Petition of the Great Litany* (*К изъяснению третьего прошения великой ектении*); *ibid.*, Nos. 36–38).
 
-248. “The diaconate in Christ” [*Во Христе диаконстве*]—the addition “in Christ” corresponds unto “honorable” [*честнем*] with “priesthood,” and at the same time defines “diaconate” (“ministry”) more closely as ecclesiastical; “the clergy” [*причте*]—*κλήρου*; “the people” [*людех*]—*λαοῦ*.
+248. “The diaconate in Christ” (*Во Христе диаконстве*)—the addition “in Christ” corresponds unto “honorable” (*честнем*) with “priesthood,” and at the same time defines “diaconate” (“ministry”) more closely as ecclesiastical; “the clergy” (*причте*)—*κλήρου*; “the people” (*людех*)—*λαοῦ*.
 
-249. “The palace” [*Палате*]—*παλατίου*, the palace (properly the Palatine Hill in Rome), the court, the government.
+249. “The palace” (*Палате*)—*παλατίου*, the palace (properly the Palatine Hill in Rome), the court, the government.
 
-250. “Those that suffer” [*Страждущих*]—*καμνόντων*, that is, those occupied with heavy toils; in ancient litanies: “for those in the mines, in imprisonment, in exile” (see below).
+250. “Those that suffer” (*Страждущих*)—*καμνόντων*, that is, those occupied with heavy toils; in ancient litanies: “for those in the mines, in imprisonment, in exile” (see below).
 
 251. John 17:1, 2, 4; Prov. 16:4; Heb. 2:10.
 
@@ -299,9 +299,9 @@ sense—according unto St. Symeon of Thessalonica, “for the union of all in th
 
 253. Clement of Rome, *First Epistle to the Corinthians* 59:2, 4–61:3. In the well-known Codex Alexandrinus of the 5th century this section of the Epistle of Clement is missing; therefore it was not known until 1875, when Philotheos Bryennios discovered it in a Jerusalem manuscript.
 
-254. By this light is shed upon the original meaning of the first petitions of the Great Litany: these were petitions for that peace which is necessary for the offering of the Eucharist and of which the external expression was the kiss of peace before this offering. In the Persian-Nestorian Liturgy ascribed unto the Apostle Thaddaeus, before the prayer for the consecration of the Gifts the deacon proclaims: “In your minds pray for peace with us”; before communion: “Let us pray for our peace with one another”; after communion—the same (*Collection of Ancient Liturgies* [*Собрание древних литургий*], St. Petersburg, 1874–1878, vol. IV, pp. 22, 30, 36). In the Liturgy of Nestorius at the beginning of its “canon” the deacon proclaims: “Let us pray for our peace with one another” (*ibid.*, p. 47). In the Gallican and Mozarabic Liturgies instead of this the priest or deacon says: “Give peace unto one another.” The choir: “My peace I give unto you” thrice with the refrain of the Minor Doxology, and then the priest: “Give the kiss of love and peace, that ye may be prepared for the Holy Mysteries of God” (*ibid.*, vol. IV, pp. 106, 144).
+254. By this light is shed upon the original meaning of the first petitions of the Great Litany: these were petitions for that peace which is necessary for the offering of the Eucharist and of which the external expression was the kiss of peace before this offering. In the Persian-Nestorian Liturgy ascribed unto the Apostle Thaddaeus, before the prayer for the consecration of the Gifts the deacon proclaims: “In your minds pray for peace with us”; before communion: “Let us pray for our peace with one another”; after communion—the same (*Collection of Ancient Liturgies* (*Собрание древних литургий*), St. Petersburg, 1874–1878, vol. IV, pp. 22, 30, 36). In the Liturgy of Nestorius at the beginning of its “canon” the deacon proclaims: “Let us pray for our peace with one another” (*ibid.*, p. 47). In the Gallican and Mozarabic Liturgies instead of this the priest or deacon says: “Give peace unto one another.” The choir: “My peace I give unto you” thrice with the refrain of the Minor Doxology, and then the priest: “Give the kiss of love and peace, that ye may be prepared for the Holy Mysteries of God” (*ibid.*, vol. IV, pp. 106, 144).
 
-255. *Collection of Ancient Liturgies*, vol. III, pp. 95–101; compare Bishop Porphyrius Uspensky, *The Christian East: Divine Worship of the Abyssinians* [*Восток христианский. Богослужение абиссин.*], Kyiv, 1869, pp. 61 ff.
+255. *Collection of Ancient Liturgies*, vol. III, pp. 95–101; compare Bishop Porphyrius Uspensky, *The Christian East: Divine Worship of the Abyssinians* (*Восток христианский. Богослужение абиссин.*), Kyiv, 1869, pp. 61 ff.
 
 256. *Collection of Ancient Liturgies*, vol. III, pp. 55–63.
 
@@ -318,13 +318,13 @@ the prayer, because in the prayer itself there are indications that it was liste
 
 261. F. E. Brightman, *Liturgies Eastern and Western*, Oxford, 1896, p. 160.
 
-262. I. Karabinov, *The Eucharistic Prayer (Anaphora)* [*Евхаристическая молитва (анафора)*], St. Petersburg, 1908, p. 154. The same petitions, and in an order close unto the Greek manuscripts of the Liturgy of the Apostle Mark, only in a more extensive form, conclude the Coptic Liturgies of Basil the Great and Gregory the Theologian. Here also they alternate with priestly prayers expressed in identical words with the diaconal petitions (A. P. U. [Bishop Porphyrius Uspensky], *Doctrine, Divine Worship... of the Copts*, St. Petersburg, 1856, pp. 142, 313).
+262. I. Karabinov, *The Eucharistic Prayer (Anaphora)* (*Евхаристическая молитва (анафора)*), St. Petersburg, 1908, p. 154. The same petitions, and in an order close unto the Greek manuscripts of the Liturgy of the Apostle Mark, only in a more extensive form, conclude the Coptic Liturgies of Basil the Great and Gregory the Theologian. Here also they alternate with priestly prayers expressed in identical words with the diaconal petitions (A. P. U. [Bishop Porphyrius Uspensky], *Doctrine, Divine Worship... of the Copts*, St. Petersburg, 1856, pp. 142, 313).
 
 263. C. A. Swainson, *The Greek Liturgies*, [Cambridge, 1884], pp. 2–16; *Collection of Ancient Liturgies*, vol. III, pp. 20–30.
 
 264. According unto its most ancient manuscripts, for example in the Georgian manuscript of the Tiflis Ecclesiastical Museum No. 86 of the 10th century (Archpriest K. Kekelidze, *Liturgical Georgian Monuments*, p. 201); in later manuscripts, however, such as the Rossano Codex of the 11th century, the Liturgy of the Apostle Peter has at the beginning the Great Litany borrowed literally from the Liturgy of Basil–Chrysostom (C. A. Swainson, *The Greek Liturgies*, p. 192).
 
-265. A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточ. церкви*], Appendix, p. 63.
+265. A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточ. церкви*), Appendix, p. 63.
 
 266. *Collection of Ancient Liturgies*, vol. II, pp. 187–189.
 

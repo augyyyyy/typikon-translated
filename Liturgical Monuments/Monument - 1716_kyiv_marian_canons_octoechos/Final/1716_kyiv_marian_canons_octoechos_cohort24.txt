@@ -187,7 +187,7 @@ I sin, and anger Thy Son and my God; and though I often repent, I am found a lia
 unto Whom is due all glory, honor, and dominion, with His unoriginate Father, and His All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages. Amen.
 
 *Prayer 7:*[^423]  
-O Good Mother of the Good King, Most Pure and Blessed Theotokos Mary: pour out the mercy of Thy Son and our God upon my passionate soul, and by thy prayers guide me unto good deeds, that I may pass the remaining time of my life without blemish, and through thee may find Paradise, O Virgin Theotokos, who alone art pure and blessed.
+O Good Mother of the Good King, Most Pure and Blessed Theotokos Mary: pour out the mercy of thy Son and our God upon my passionate soul, and by thy prayers guide me unto good deeds, that I may pass the remaining time of my life without blemish, and through thee may find Paradise, O Virgin Theotokos, who alone art pure and blessed.
 
 *Prayer 8, unto the Holy Guardian Angel:*[^424]  
 O Angel of Christ, my holy Guardian and protector of my soul and body: forgive me all whereinsoever I have sinned this day, and deliver me from every malice of the opposing

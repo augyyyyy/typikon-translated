@@ -1,13 +1,15 @@
+# Typikon of the Ruthenian-Catholic Church (1899) <a id="typikon-of-the-ruthenian-catholic-church-1899"></a>
+
 *(Front Cover: Hardcover dark cloth binding with blind-stamped decorative corner flourishes and a central gold-embossed Byzantine floriated cross.)*
 
 *(Icon: Mother of God of Perpetual Help / Мати Божа Неустанної Помочі)*
 
-**М̃Р Ѳ̃Ү** — Mother of God  
-**О̂ Р М̃** — The Archangel Michael  
-**О̂ Р Г̃** — The Archangel Gabriel  
-**ІС̃ ХС̃** — Jesus Christ  
+(**М̃Р Ѳ̃Ү**) — Mother of God  
+(**О̂ Р М̃**) — The Archangel Michael  
+(**О̂ Р Г̃**) — The Archangel Gabriel  
+(**ІС̃ ХС̃**) — Jesus Christ  
 
-# TYPIKON <a id="typikon-of-the-ruthenian-catholic-church-1899"></a>
+## TYPIKON
 ## OF THE RUTHENIAN-CATHOLIC CHURCH
 
 compiled  
@@ -48,7 +50,7 @@ the Mother of God and Ever-Virgin
 
 *[Library Stamp: LVIV THEOLOGICAL ACADEMY / LIBRARY / 1009679]*
 
-### Notice
+**Notice** <a id="notice"></a>
 
 The entire income from this work, according to the intention of the Author, is to be turned over to the Temple of the Entrance of the Most Holy Mother of God, which is to be built in Slovita at the Monastery of the Nuns of the Order of St. Basil the Great.
 
@@ -67,7 +69,7 @@ This Typikon consists of five parts, whereof:
 
 ## TABLE OF CONTENTS
 
-* **[Title Page & Frontispiece Icon](1899_dolnytsky_part3_menaion.md#typikon)**
+* **[Title Page & Frontispiece Icon](#typikon)**
 * **[Approbation and Imprimatur](#approbation-and-imprimatur)**
 * **[Dedication](#dedication)**
 * **[Notice](#notice)**

@@ -1,8 +1,8 @@
 import re
 import os
 
-appendix_path = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final\Final_Dolnytsky_appendix.txt"
-oc_1996_path = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\English OC 1996\Ordo_Celebrationis_1996_CLEAN.txt"
+appendix_path = r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation\Final\Final_Dolnytsky_appendix.txt"
+oc_1996_path = r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation\English OC 1996\Ordo_Celebrationis_1996_CLEAN.txt"
 
 def extract_points(filepath):
     points = {}

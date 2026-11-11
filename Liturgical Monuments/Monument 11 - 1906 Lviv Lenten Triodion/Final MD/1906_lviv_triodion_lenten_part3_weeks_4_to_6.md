@@ -9,13 +9,13 @@
 *After the second stichology, we say the present Sessional Hymn, Tone 8, of Lord Joseph. Podoben: "Having arisen" (Воскре́съ є҆сѝ):*[^713]  
 Let us, the faithful, bow down in worship before the all-honorable Tree whereon the Creator of all was lifted up; it is set forth, sanctifying those who draw near in soul and body, cleansing the defilement of sin from those who fast faithfully, and who ever praise Christ, the only Benefactor.
 
-*Glory... the same. Both now... Theotokion, Podoben:*  
+*Glory... the same. Both now... Theotokion, Podoben (Подо́бенъ):*  
 The Word of the Father came down upon the earth, and an Angel of light cried unto the Theotokos: Rejoice, O blessed one, who alone hast preserved the chamber, having received the conception of the pre-eternal God and Lord, that as God He may save the human race from deception!
 
 *After the third stichology, Sessional Hymn, Tone 3. Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства):*[^714]  
 Having now reached the midpoint of self-control, and having anticipated the veneration of Thy life-bearing Cross, O Christ, falling down before Thee we cry aloud: Great art Thou, O Lover of mankind, and great are Thy works, in that Thou hast shown forth Thy precious Cross, before which bowing down in worship with fear we cry out: Glory to Thy boundless tender-heartedness!
 
-*Glory... the same. Both now... Theotokion, Podoben:*  
+*Glory... the same. Both now... Theotokion, Podoben (Подо́бенъ):*  
 As an uncultivated vine, O Virgin, thou hast blossomed forth the most fair Cluster, which pours out for us saving wine that gladdens the souls and bodies of all; therefore, calling thee blessed as the cause of good things, we ever cry out unto thee with the Angel: Rejoice, O full of grace!
 
 *Canon of the Menaion, and the present triode, and the Ode is sung with verses.*  
@@ -158,7 +158,7 @@ Thus will I bless Thee in my life.
 *Tone 8, Podoben: "What shall we call you" (Что́ ва́съ нарече́мъ):*[^735]
 Passing today through the middle days of self-control by the power of the Cross, we glorify Christ our Savior and God Who was lifted up upon it in the midst of the earth, crying aloud: Show us to be beholders of Thy Passions, O Master, and of Thy venerable Resurrection, granting us cleansing and great mercy!
 
-*Podoben:*
+*Podoben (Подо́бенъ):*
 Let us humble the passions of the flesh by laying aside food and turning away from pleasures, and let us faithfully embrace the wood of the Cross; for it is seen manifestly set forth for veneration, and it sanctifies all things with divine grace; and let us cry aloud unto the Lord: We thank Thee, O Tenderhearted One, Who by this dost save our souls!
 
 *Another, in the same tone, to the Theotokos:*
@@ -197,7 +197,7 @@ I flee unto thy protection, O holy Virgin Theotokos; I know that through thee I 
 *Tone 8, Podoben: "An unshakable foundation" (Непоколеби́мое ᲂу҆твержде́нїе):*[^741]
 Having enlightened our souls by self-control, let us bow down in worship before the saving Cross upon which Christ was nailed, and let us cry aloud unto Him: Rejoice, sweetness of them that fast, and sure helper; rejoice, destroyer of passions, fellow-warrior of the faithful; rejoice, blessed Wood!
 
-*Theotokion, Podoben:*
+*Theotokion, Podoben (Подо́бенъ):*
 As an unshakable foundation of the faith and an honorable gift unto our souls, we faithful magnify the Theotokos in hymns: Rejoice, thou who in thy womb didst contain the Rock of Life; rejoice, hope of the ends of the earth, helper of the afflicted; rejoice, Bride unwedded!
 
 *After the third stichology, Sessional Hymn, in the same tone.*  
@@ -345,7 +345,7 @@ Bless us, O God, our God, bless us, O God![^762]
 *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*[^763]  
 In the midst of the earth Thou didst endure the Cross and Passion, O Compassionate One, granting dispassion and deliverance unto all at this mid-point of the fast; therefore we all set it forth for veneration and joyfully kiss it, that, enlightened by divine virtues, we all may be accounted worthy, O Word of God, to behold Thy Passion and Thy life-bearing Resurrection, O only Abundantly Merciful One.
 
-*Podoben:*[^764]  
+*Podoben (Подо́бенъ):*[^764]  
 Thou wast stretched out dead upon the Cross and pierced with a spear, and given gall to drink, O Long-suffering One, Who by the hand of Moses didst turn the waters of Marah into sweetness; therefore I pray Thee and entreat Thee: drive away the most bitter passions from my mind, and sweetening my intellect with the honey of repentance, show me forth as a venerator of Thy precious Passion.
 
 *Another, Tone 1. Podoben: "Of old Moses" (Дре́вле Мѡѷсе́й):*[^765]  
@@ -394,7 +394,7 @@ Beholding Thee hanging naked upon the Cross, the Author and Creator of all, all 
 *Tone 6, Podoben: "O hope of the world" (Оу҆пова́нїе мі́ра):*[^777]  
 Sanctifying the time of fasting, the divine and most honorable Cross lies forth for veneration; let us draw near with a pure conscience, let us draw forth sanctification and enlightenment, and with fear let us cry aloud: O Lover of mankind, our Savior, glory to Thy tenderhearted compassion! *(Twice)*
 
-*Stavrotheotokion. Podoben:*[^778]  
+*Stavrotheotokion. Podoben (Подо́бенъ):*[^778]  
 Standing by the Cross, the unwedded Mother, beholding Him Who was born of her without seed, cried aloud: A sword has pierced my heart, O Savior, unable to bear seeing Thee suspended upon the Tree, before Whom all creation trembles as Creator and God; O Long-suffering One, glory to Thee!
 
 *After the third stichology, a sessional hymn by Lord Theodore.*  
@@ -685,9 +685,7 @@ Blessed is the Lord God of Israel, Who alone does marvelous deeds!
 *Verse: Give the king Thy judgment, O God, and Thy righteousness unto the king’s son.*
 
 *Reading from Genesis (Chapter 9:18–10:1):*[^817]  
-The sons of Noah who went forth from the ark were Shem, Ham, and Japhs; and Ham was the father of Canaan. These three are the sons of Noah; from these were people spread abroad over all the earth. And Noah began to be a husbandman of the earth, and he planted a vineyard. And he drank of the wine, and was drunken, and was uncovered in his house. And Ham, the father of Canaan, saw the nakedness of his father, and going outside he told his two brethren. And Shem and Japhs took a garment, and laid it upon both their shoulders, and walked backward, and covered the nakedness of their father; and their faces were backward, and they saw not the nakedness of their father. And Noah awoke from his wine, and knew what his younger son had done unto him. And he said: Cursed be the youth Canaan; a servant shall he be unto his brethren. And he said: Blessed be the Lord God of Shem; and the youth Canaan shall be a servant unto him. May God enlarge Japhs, and may he dwell in the tents of Shem; and may Canaan be a servant unto him. And Noah lived after the flood...
-
-...three hundred and fifty years. And all the days of Noah were nine hundred and fifty years, and he died. Now these are the generations of the sons of Noah: Shem, Ham, and Japhs; and unto them were sons born after the flood.
+The sons of Noah who went forth from the ark were Shem, Ham, and Japhs; and Ham was the father of Canaan. These three are the sons of Noah; from these were people spread abroad over all the earth. And Noah began to be a husbandman of the earth, and he planted a vineyard. And he drank of the wine, and was drunken, and was uncovered in his house. And Ham, the father of Canaan, saw the nakedness of his father, and going outside he told his two brethren. And Shem and Japhs took a garment, and laid it upon both their shoulders, and walked backward, and covered the nakedness of their father; and their faces were backward, and they saw not the nakedness of their father. And Noah awoke from his wine, and knew what his younger son had done unto him. And he said: Cursed be the youth Canaan; a servant shall he be unto his brethren. And he said: Blessed be the Lord God of Shem; and the youth Canaan shall be a servant unto him. May God enlarge Japhs, and may he dwell in the tents of Shem; and may Canaan be a servant unto him. And Noah lived after the flood three hundred and fifty years. And all the days of Noah were nine hundred and fifty years, and he died. Now these are the generations of the sons of Noah: Shem, Ham, and Japhs; and unto them were sons born after the flood.
 
 *Prokeimenon, Psalm 72 [LXX 72:28, 1], Tone 4:*[^818]  
 But it is good for me to cleave unto God!  
@@ -715,7 +713,7 @@ Mary, precious receptacle of the Master, raise us up who have fallen into the ab
 *After the third stichology, Sessional Hymn by Lord Theodore, Tone 7, Podoben: "Lord, we are [Thy people]" (Гдⷭ҇и, мы̀ є҆смы̀ / Κύριε, ἡμεῖς ἐσμεν):*[^823]  
 O Lord, beholding Thy Cross lying forth today, we approach in faith, kissing it in chants and hymns with fear and joy: Sanctify Thy servants, give peace unto Thy world by its manifestation, O Thou Who alone art plenteous in mercy! *(Twice)*
 
-*Theotokion, the same Podoben:*  
+*Theotokion, the same Podoben (Подо́бенъ то́йже):*  
 O Lord, we are Thy people, and the sheep of Thy pasture; turn us back who have gone astray through wasting away; gather us who are scattered as a shepherd; have mercy upon Thy flock, O Lover of mankind, show compassion through the intercessions of the Theotokos, O Thou Who alone art without sin![^824]
 
 *Canon of the Menaion, and the present Triode by Lord Joseph.*  
@@ -867,9 +865,7 @@ With my voice have I cried unto the Lord, with my voice unto God, and He gave ea
 *Verse: In the day of my affliction I sought God.*
 
 *Reading from Proverbs (Chapter 13:20–14:6a):*[^846]  
-The desires of the pious sweeten the soul, but the deeds of the ungodly are far from understanding. He that walks with the wise shall be wise; but he that walks with fools shall be known as such. Evil things shall pursue sinners, but good things shall overtake the righteous. A good man shall inherit sons of sons, but the wealth of the ungodly is laid up for the righteous. The righteous shall enjoy wealth for many years, but the unrighteous shall perish quickly. He that spares his rod hates his son; but he that loves him chastens him diligently. The righteous man eating satisfies his soul, but the souls of the ungodly are in want. Wise women build houses, but a foolish woman digs them down with her hands. He that walks uprightly fears the Lord; but he that is perverted in his ways shall be dishonored. From the mouth of fools is a rod of insult, but the lips of the wise preserve them. Where there are no oxen, the mangers are clean; but where there is...
-
-...much grain, the strength of the oxen is manifest. A faithful witness does not lie, but an unrighteous witness kindles falsehood. Thou shalt seek wisdom among the evil, and shalt not find it; but discernment is easy among the wise.
+The desires of the pious sweeten the soul, but the deeds of the ungodly are far from understanding. He that walks with the wise shall be wise; but he that walks with fools shall be known as such. Evil things shall pursue sinners, but good things shall overtake the righteous. A good man shall inherit sons of sons, but the wealth of the ungodly is laid up for the righteous. The righteous shall enjoy wealth for many years, but the unrighteous shall perish quickly. He that spares his rod hates his son; but he that loves him chastens him diligently. The righteous man eating satisfies his soul, but the souls of the ungodly are in want. Wise women build houses, but a foolish woman digs them down with her hands. He that walks uprightly fears the Lord; but he that is perverted in his ways shall be dishonored. From the mouth of fools is a rod of insult, but the lips of the wise preserve them. Where there are no oxen, the mangers are clean; but where there is much grain, the strength of the oxen is manifest. A faithful witness does not lie, but an unrighteous witness kindles falsehood. Thou shalt seek wisdom among the evil, and shalt not find it; but discernment is easy among the wise.
 
 *At the Aposticha, Idiomelon, Tone 6:*[^847]  
 Having learned from the Lord Who humbled Himself even unto the Crucifixion and death for thy sake, O my soul, the humility that comes from lifting up, and the lifting up that comes from humility, boast not in virtues, neither judging thy neighbor in deeming thyself righteous, as the boastful Pharisee; but meditating only upon thy transgressions in a humbled understanding, cry aloud as the Publican: O God, cleanse me a sinner, and save me! *(Twice)*
@@ -893,7 +889,7 @@ She who in latter times gave birth unto Thee, O Christ, Who wast begotten of the
 *After the third stichology, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*[^852]  
 Beholding now the light of our souls, O Christ, Thy most precious Cross, and bowing down before it, with joy let us clearly cry aloud: Glory to Thee Who wast pleased to be lifted up upon it! Glory to Thee Who hast enlightened all creation thereby, in which we unceasingly glorify Thee with hymns!
 
-*Stavrotheotokion, the same Podoben:*  
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*  
 When Thine unwedded Mother beheld Thee lifted up upon the Cross, O Word of God, lamenting maternally she spoke: What is this new and strange wonder, O my Savior? How dost Thou, the Life of all, partake of death, wishing as the Tenderhearted One to make alive the dead?
 
 *Psalm 50. And the Canon of the precious Cross. But that of the Menaion is sung at Compline.*  
@@ -1366,14 +1362,14 @@ Pardon, remit, O Compassionate One, unto those who have been translated unto The
 *Troparion:*  
 O venerable Father John, truly didst thou continually bear the high praises of God in thy throat, meditating all-wisely upon the practical, divinely-inspired words, and wast enriched by the grace flowing thence, becoming blessed, and overturning the counsels of all the ungodly.
 
-*The same Podoben:*  
+*The same Podoben (Подо́бенъ то́йже):*  
 O all-glorious Father John, having cleansed thy soul with fountains of tears, and having propitiated God by all-night standings, thou didst soar, O blessed one, unto His love and beauty, which thou now worthily enjoyest, rejoicing unceasingly with thy fellow sufferers, O divinely-wise and venerable father!
 
-*The same Podoben:*  
+*The same Podoben (Подо́бенъ то́йже):*  
 O venerable Father John, having winged thy mind unto God by faith, thou didst abhor the unsteady confusion of the world, and taking up thy cross, didst follow the All-Seeing One: having enslaved the unbridled body to the mind through the exploits of ascetic training, by the power of the Holy Spirit.
 
 *Glory, Tone 5:*[^917]  
-O venerable Father, having listened unto the voice of the Lord's Gospel, thou didst forsake the world, counting wealth and glory as nothing; whence thou didst cry aloud unto all: Love God, and ye shall find eternal grace; prefer nothing before His love, so that when He comes in His glory, ...ye shall find rest with all the saints: by whose prayers, O Christ, preserve and save our souls!
+O venerable Father, having listened unto the voice of the Lord's Gospel, thou didst forsake the world, counting wealth and glory as nothing; whence thou didst cry aloud unto all: Love God, and ye shall find eternal grace; prefer nothing before His love, so that when He comes in His glory, ye shall find rest with all the saints: by whose prayers, O Christ, preserve and save our souls!
 
 *Both now: Theotokion of the 1st tone.*
 
@@ -1450,9 +1446,7 @@ Restrain the unsteady confusion of my thoughts, O Pure One, Mother of God, direc
 Holding fast Thy most pure Cross, O our Savior, as a weapon of salvation, through it we cry unto Thee: Save us, O God of all, Who didst voluntarily suffer for us, in that Thou art plenteous in mercy!
 
 *Glory: For the Venerable One, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на крⷭ҇тъ):*[^927]  
-Having ascended unto heaven by virtues, manifestly established, thou didst piously ascend unto the unmeasured depth of divine vision: having overcome all demonic snares, thou dost protect men...
-
-...men from their harm, O John, ladder of virtues; and now thou dost pray that thy servants may be saved.
+Having ascended unto heaven by virtues, manifestly established, thou didst piously ascend unto the unmeasured depth of divine vision: having overcome all demonic snares, thou dost protect men from their harm, O John, ladder of virtues; and now thou dost pray that thy servants may be saved.
 
 *Both now: Theotokion, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на крⷭ҇тъ):*[^928]  
 He Who sits upon the Cherubic Throne, and dwells in the bosom of the Father, sits as upon His holy throne, O Lady, in thy bosom according to the flesh; for God has thus become King over all the nations, and with understanding we now sing unto Him: Whom do thou also entreat, O Pure One, that thy servants may be saved!
@@ -1689,7 +1683,7 @@ With the Archangel let us, the faithful, hymn the heavenly Chamber and truly sea
 *After the first stichology, we sing two compunctionate Sessional Hymns of the Octoechos, with the Theotokion.*  
 *After the second stichology, Sessional Hymn of Lord Joseph, Tone 3, Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства):*[^948]  
 A most fair time has arrived, a praiseworthy day has shone forth, the day of self-control, O brethren: let us strive to be cleansed, that we may appear pure unto Him Who made us, and may obtain His beauty, through the prayers of Her that bore Him, the only pure Mother of God.  
-*Glory: the same. Both now: Theotokion, Podoben:*  
+*Glory: the same. Both now: Theotokion, Podoben (Подо́бенъ):*  
 Gabriel was amazed at the beauty of thy virginity and the surpassing brightness of thy purity, and cried aloud unto thee, O Mother of God: What worthy praise shall I offer unto thee? What shall I call thee? I am in perplexity and amazed; therefore, as I was commanded, I cry unto thee: Rejoice, O full of grace!
 
 *After the third stichology, Sessional Hymn of Lord Theodore, Tone 7, Podoben: "Lord, we are Thy people" (Гдⷭ҇и, мы̀ є҆смы̀):*[^949]  
@@ -1820,7 +1814,7 @@ Thine altars, O Lord of hosts, my King and my God!
 *At the Sixth Hour (continued):*
 
 *The Reading from the Prophecy of Isaiah (Isaiah 37:33–38:6):*[^960]  
-**Reader:** Thus saith the Lord concerning the king of the Assyrians: He shall not enter into this city, nor shoot an arrow there, nor cast up a mount against it, nor surround it with an entrenchment. But by the way that he came, by the same shall he return, and into this city he shall not enter, saith the Lord. For I will defend this city to save it for Mine own sake, and for David My servant's sake. And the Angel of the Lord went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand; and when they arose in the morning, behold, they were all dead corpses. So Sennacherib king of the Assyrians departed, and returned, and dwelt in Nineveh. And it came to pass, as he was worshipping in the house of Nasarach his ancestral god, that Adramelech and Sharezer his sons smote him with swords; and they fled into Armenia, and Esarhaddon his son reigned in his stead. In those days Hezekiah was sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him: Thus saith the Lord: Set thine house in order; for thou shalt die, and not live. Then Hezekiah turned his face to the wall, and prayed unto the Lord, saying: Remember now, O Lord, how I have walked before Thee in truth and with a true heart, and have done that which is pleasing before Thee. And Hezekiah wept with a great weeping. Then came the word of the Lord to Isaiah, saying: Go, and say unto Hezekiah: Thus saith the Lord, the God of David thy father: I have heard thy prayer, I have seen thy tears; behold, I will add unto thy days fifteen years. And I will deliver thee and this city out of the hand of the king of the Assyrians, and I will defend this city.
+> **Reader:** "Thus says the Lord concerning the king of the Assyrians: He shall not enter into this city, nor shoot an arrow there, nor cast up a mount against it, nor surround it with an entrenchment. But by the way that he came, by the same shall he return, and into this city he shall not enter, says the Lord. For I will defend this city to save it for Mine own sake, and for David My servant's sake. And the Angel of the Lord went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand; and when they arose in the morning, behold, they were all dead corpses. So Sennacherib king of the Assyrians departed, and returned, and dwelt in Nineveh. And it came to pass, as he was worshipping in the house of Nasarach his ancestral god, that Adramelech and Sharezer his sons smote him with swords; and they fled into Armenia, and Esarhaddon his son reigned in his stead. In those days Hezekiah was sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him: Thus says the Lord: Set thine house in order; for thou shalt die, and not live. Then Hezekiah turned his face to the wall, and prayed unto the Lord, saying: Remember now, O Lord, how I have walked before Thee in truth and with a true heart, and have done that which is pleasing before Thee. And Hezekiah wept with a great weeping. Then came the word of the Lord to Isaiah, saying: Go, and say unto Hezekiah: Thus says the Lord, the God of David thy father: I have heard thy prayer, I have seen thy tears; behold, I will add unto thy days fifteen years. And I will deliver thee and this city out of the hand of the king of the Assyrians, and I will defend this city."
 
 *Prokeimenon, Psalm 84 [LXX 84:8, 2], Tone 8:*[^961]  
 Show us Thy mercy, O Lord, and grant us Thy salvation.  
@@ -1848,7 +1842,7 @@ Guide me, O Lord, in Thy way, and I will walk in Thy truth.
 *Verse: Incline Thine ear, O Lord, and hear me.*
 
 *The Reading from Genesis (Genesis 13:12–18):*[^968]  
-**Reader:** Abram dwelt in the land of Canaan; and Lot dwelt in a city of the surrounding country, and pitched his tent toward Sodom. But the men of Sodom were evil and sinners before God exceedingly. And God said unto Abram, after Lot was separated from him: Lift up now thine eyes, and look from the place where thou now art northward, and southward, and eastward, and seaward; for all the land which thou seest, to thee will I give it, and to thy seed for ever. And I will make thy seed as the dust of the earth; so that if anyone can count the dust of the earth, then shall thy seed also be numbered. Arise, walk through *At Vespers (continued):*
+> **Reader:** "Abram dwelt in the land of Canaan; and Lot dwelt in a city of the surrounding country, and pitched his tent toward Sodom. But the men of Sodom were evil and sinners before God exceedingly. And God said unto Abram, after Lot was separated from him: Lift up now thine eyes, and look from the place where thou now art northward, and southward, and eastward, and seaward; for all the land which thou seest, to thee will I give it, and to thy seed for ever. And I will make thy seed as the dust of the earth; so that if anyone can count the dust of the earth, then shall thy seed also be numbered. Arise, walk through *At Vespers (continued):*"
 
 the land in the length of it and in the breadth of it; for I will give it unto thee, and unto thy seed for ever. And Abram removed his tent, and came and dwelt by the oak of Mamre, which was in Hebron, and built there an altar unto the Lord.
 
@@ -1857,7 +1851,7 @@ The Lord loves the gates of Zion more than all the dwellings of Jacob.
 *Verse: His foundations are in the holy mountains.*
 
 *The Reading from Proverbs (Proverbs 14:27–15:4):*[^970]  
-**Reader:** The fear of the Lord is a fountain of life, and causes men to turn aside from the snare of death. In a multitude of people is the king's glory; but in the failing of the people is the destruction of the mighty. He that is longsuffering is great in understanding; but he that is faint-hearted is strongly foolish. A gentle man is a physician of the heart; but a sensitive heart is a moth to the bones. He that oppresses the poor provokes his Maker; but he that honors Him has mercy on the needy. The ungodly shall be cast out in his wickedness; but the righteous has hope in his own holiness. Wisdom rests in the good heart of a man; but in the heart of fools it is not known. Righteousness exalts a nation; but sins diminish peoples. An intelligent servant is acceptable to a king, and by his good conduct he removes dishonor. Wrath destroys even the prudent; but a soft answer turns away wrath, while a grievous word stirs up anger. The tongue of the wise knows good things; but the mouth of fools publishes evils. In every place the eyes of the Lord behold both the evil and the good. The healing of the tongue is a tree of life; and he that guards it shall be filled with the Spirit.
+> **Reader:** "The fear of the Lord is a fountain of life, and causes men to turn aside from the snare of death. In a multitude of people is the king's glory; but in the failing of the people is the destruction of the mighty. He that is longsuffering is great in understanding; but he that is faint-hearted is strongly foolish. A gentle man is a physician of the heart; but a sensitive heart is a moth to the bones. He that oppresses the poor provokes his Maker; but he that honors Him has mercy on the needy. The ungodly shall be cast out in his wickedness; but the righteous has hope in his own holiness. Wisdom rests in the good heart of a man; but in the heart of fools it is not known. Righteousness exalts a nation; but sins diminish peoples. An intelligent servant is acceptable to a king, and by his good conduct he removes dishonor. Wrath destroys even the prudent; but a soft answer turns away wrath, while a grievous word stirs up anger. The tongue of the wise knows good things; but the mouth of fools publishes evils. In every place the eyes of the Lord behold both the evil and the good. The healing of the tongue is a tree of life; and he that guards it shall be filled with the Spirit."
 
 *At the Aposticha, Idiomelon, Tone 6, once:*[^971]  
 As he that fell among robbers and was wounded, so have I fallen by reason of my sins, and my soul is wounded: unto whom shall I flee to be healed, save only unto Thee, the Physician of souls and bodies? Pour out upon me, O God, Thy great mercy!
@@ -1881,7 +1875,7 @@ From all dangers preserve Thy servants, O blessed Mother of God, that we may glo
 *Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры):*[^977]  
 With the warmth of faith, through abstinence let us burn up the passions of intemperance, and flee from the pit of sin, and with streams of tears quench the eternal flame, crying: O All-good One, we have sinned against Thee; cleanse us, and grant us great mercy! *(Twice)*
 
-*Theotokion, Podoben:*  
+*Theotokion, Podoben (Подо́бенъ):*  
 Thou wast the divine tabernacle of the Word, O all-immaculate Virgin Mother, surpassing the Angels in purity; cleanse me, who beyond all others have become dust and am defiled by bodily transgressions, through thy prayers with divine water, granting me great mercy, O Pure One!
 
 *After the third stichology, the Sessional Hymn by Lord Theodore.*
@@ -2028,7 +2022,7 @@ Poor am I, and in troubles from my youth.
 *Verse: O Lord God of my salvation, I have cried by day, and in the night before Thee.*
 
 *The Reading from the Prophecy of Isaiah (Isaiah 40:18–31):*[^991]  
-**Reader:** Thus saith the Lord: To whom have ye likened the Lord, and to what likeness have ye compared Him? Hath a craftsman made an image, or a goldsmith, having melted gold, overlaid it with gold, or made it in a likeness? For a craftsman chooss wood that will not rot, and wisely seeks how he may set up his image so that it be not shaken. Know ye not? Have ye not heard? Hath it not been told you from the beginning? Have ye not understood the foundations of the earth? He that holds the circle of the earth, and the inhabitants thereof are as grasshoppers; Who hath set up the heaven as a chamber, and stretched it out as a tent to dwell in; Who gives princes as nothing to rule, and hath made the earth as nothing. For they shall not plant, neither shall they sow, neither shall their root be established in the earth; He hath blown upon them, and they are withered, and a tempest shall take them away like stubble. Now therefore to whom have ye likened Me, and unto what shall I be exalted? saith the Holy One. Lift up your eyes on high, and behold: Who hath created all these things? Bringing out their host by number, He calls them all by name, from the greatness of His glory and in the dominion of His power, nothing is hidden from Thee. Why sayest thou, O Jacob, and why hast thou spoken, O Israel: My way is hid from God, and my God hath taken away judgment and departed? And now hast thou not known? or hast thou not heard? The everlasting God, the God Who hath formed the ends of the earth, faints not, neither is weary; nor is there any searching out of His wisdom. He gives power to the faint, and grief to them that are not afflicted. For the younger shall faint, and the youths shall grow weary, and the chosen shall be without strength; but they that wait upon the Lord shall renew their strength!
+> **Reader:** "Thus says the Lord: To whom have ye likened the Lord, and to what likeness have ye compared Him? Hath a craftsman made an image, or a goldsmith, having melted gold, overlaid it with gold, or made it in a likeness? For a craftsman chooss wood that will not rot, and wisely seeks how he may set up his image so that it be not shaken. Know ye not? Have ye not heard? Hath it not been told you from the beginning? Have ye not understood the foundations of the earth? He that holds the circle of the earth, and the inhabitants thereof are as grasshoppers; Who hath set up the heaven as a chamber, and stretched it out as a tent to dwell in; Who gives princes as nothing to rule, and hath made the earth as nothing. For they shall not plant, neither shall they sow, neither shall their root be established in the earth; He hath blown upon them, and they are withered, and a tempest shall take them away like stubble. Now therefore to whom have ye likened Me, and unto what shall I be exalted? says the Holy One. Lift up your eyes on high, and behold: Who hath created all these things? Bringing out their host by number, He calls them all by name, from the greatness of His glory and in the dominion of His power, nothing is hidden from Thee. Why sayest thou, O Jacob, and why hast thou spoken, O Israel: My way is hid from God, and my God hath taken away judgment and departed? And now hast thou not known? or hast thou not heard? The everlasting God, the God Who hath formed the ends of the earth, faints not, neither is weary; nor is there any searching out of His wisdom. He gives power to the faint, and grief to them that are not afflicted. For the younger shall faint, and the youths shall grow weary, and the chosen shall be without strength; but they that wait upon the Lord shall renew their strength!"
 
 *Prokeimenon, Psalm 88 [LXX 88:16, 16b], Tone 6:*[^992]  
 Blessed are the people that know the joyful sound.  
@@ -2044,7 +2038,7 @@ Blessed are the people that know the joyful sound.
 *Tone 8, Podoben: "What shall we call you, O holy ones" (Что̀ вы̀ нарече́мъ):*[^996]  
 Making love our food, through abstinence let us restrain the passions, O ye faithful; and toward God Who was lifted up upon the Cross for our sake and was pierced in the side with a spear, let us be guided to live in a manner well-pleasing, that we may enjoy eternal and better delight, glorifying the Savior of our souls!
 
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 Through the tree of old we found death, but now again through the Tree of the Cross life: let us, the faithful, mortify the surges of passions, and pray that we may attain unto the saving Resurrection of the Benefactor of all, shining with divine deeds, and adorned with virtues, glorifying the Savior of our souls!
 
 *Another Prosomoion Sticheron, by Lord Theodore, Tone 2, Podoben: "Higher than mind of the good things" (Па́че ᲂу҆ма̀ бл҃ги́хъ):*[^997]  
@@ -2055,7 +2049,7 @@ Lord, Thou hast been our dwelling-place in generation and generation.
 *Verse: Before the mountains were brought forth, or ever the earth and the world were formed.*
 
 *The Reading from Genesis (Genesis 15:1–15):*[^999]  
-**Reader:** The word of the Lord came unto Abram in a vision by night, saying: Fear not, Abram: I defend thee, and thy reward shall be exceedingly great. And Abram said: Sovereign Lord, what wilt Thou give me, seeing I go childless, and the son of Masek my handmaid, this Eliezer of Damascus, is my heir? And Abram said: Since Thou hast given me no seed, behold, one born in my house is mine heir. And straightway the voice of the Lord came unto him, saying: This shall not be thine heir; but he that shall come forth out of thee shall be thine heir. And He brought him forth abroad, and said unto him: Look up now toward heaven, and tell the stars, if thou be able to number them.
+> **Reader:** "The word of the Lord came unto Abram in a vision by night, saying: Fear not, Abram: I defend thee, and thy reward shall be exceedingly great. And Abram said: Sovereign Lord, what wilt Thou give me, seeing I go childless, and the son of Masek my handmaid, this Eliezer of Damascus, is my heir? And Abram said: Since Thou hast given me no seed, behold, one born in my house is mine heir. And straightway the voice of the Lord came unto him, saying: This shall not be thine heir; but he that shall come forth out of thee shall be thine heir. And He brought him forth abroad, and said unto him: Look up now toward heaven, and tell the stars, if thou be able to number them."
 
 *At Vespers (continued):*
 
@@ -2066,7 +2060,7 @@ He that dwells in the help of the Most High shall abide in the shelter of the Go
 *Verse: He will say to the Lord: Thou art my protector.*
 
 *The Reading from Proverbs (Proverbs 15:7–19):*[^1001]  
-**Reader:** The lips of the wise are bound with knowledge; but the hearts of fools are not firm. The sacrifices of the ungodly are an abomination to the Lord; but the vows of the upright are acceptable unto Him. The ways of the ungodly are an abomination to the Lord; but He loves those that follow after righteousness. The instruction of the innocent is known by them that pass by; but they that hate reproofs die ignominiously. Hell and destruction are manifest before the Lord; how much more also the hearts of men? An uncorrected man will not love them that reprove him, neither will he converse with the wise. When the heart is merry, the countenance blooms; but when it is in sorrow, it is dejected. An upright heart seeks knowledge; but the mouth of the uncorrected knows evils. At all times the eyes of the wicked receive evil things; but the good are ever at peace. Better is a little with the fear of the Lord than great treasures without fear. Better is an entertainment of herbs with love and grace than a stalled ox with hatred. A wrathful man stirs up strife; but he that is longsuffering calms even that which is to come; a patient man will quench strife, but an ungodly man stirs it up all the more. The ways of the slothful are strewn with thorns; but those of the valiant are made smooth.
+> **Reader:** "The lips of the wise are bound with knowledge; but the hearts of fools are not firm. The sacrifices of the ungodly are an abomination to the Lord; but the vows of the upright are acceptable unto Him. The ways of the ungodly are an abomination to the Lord; but He loves those that follow after righteousness. The instruction of the innocent is known by them that pass by; but they that hate reproofs die ignominiously. Hell and destruction are manifest before the Lord; how much more also the hearts of men? An uncorrected man will not love them that reprove him, neither will he converse with the wise. When the heart is merry, the countenance blooms; but when it is in sorrow, it is dejected. An upright heart seeks knowledge; but the mouth of the uncorrected knows evils. At all times the eyes of the wicked receive evil things; but the good are ever at peace. Better is a little with the fear of the Lord than great treasures without fear. Better is an entertainment of herbs with love and grace than a stalled ox with hatred. A wrathful man stirs up strife; but he that is longsuffering calms even that which is to come; a patient man will quench strife, but an ungodly man stirs it up all the more. The ways of the slothful are strewn with thorns; but those of the valiant are made smooth."
 
 *At the Aposticha, Idiomelon, Tone 5, once:*[^1002]  
 Having slipped from Thy right path, wretch that I am, I fell through passions into a pit; and the Levite and the priest, having seen me, passed by; but Thou, O Christ, didst have mercy on me, and tearing up the handwriting of sin with the weapon of the Cross, Thou didst illuminate me with freedom from passion, and madest me to sit with the Father; therefore do I cry unto Thee: O Incomprehensible Lord, glory to Thee!
@@ -2243,7 +2237,7 @@ It is a good thing to give praise unto the Lord, and to sing unto Thy name, O Mo
 *Verse: To proclaim Thy mercy in the morning, and Thy truth by night.*
 
 *The Reading from the Prophecy of Isaiah (Isaiah 41:4–14):*[^1021]  
-**Reader:** Thus says the Lord: [4] I (am) God, the first, and unto the things that are to come I am. [5] The nations saw, and feared; the ends of the earth drew near, and came together. [6] Each one judging for his neighbor, and to help his brother, and he will say: [7] The carpenter is strong, and the metalsmith that smites with the hammer, forging together; at one time he will say: The soldering is good; they have fastened them with nails, they will set them up, and they will not be moved. [8] But thou, Israel, art My servant Jacob, whom I have chosen, the seed of Abraham, whom I have loved; [9] whom I have taken from the ends of the earth, and called thee from the watch-posts thereof, and said unto thee: Thou art My servant; I have chosen thee, and have not cast thee away. [10] Fear not, for I am with thee; be not deceived, for I am thy God, Who has strengthened thee, and helped thee, and established thee with My righteous right hand. [11] Behold, all that oppose thee shall be ashamed and confounded; for they shall be as though they were not, and all thine adversaries shall perish. [12] Thou shalt seek them, and shalt not find the men that mock thee; for they shall be as though they were not, and they that war against thee shall not be. [13] For I am thy God Who holds thy right hand, Who says unto thee: [14] Fear not, Jacob, O little Israel; I have helped thee, says thy God, the Holy One of Israel Who redeems thee.
+> **Reader:** "Thus says the Lord: [4] I (am) God, the first, and unto the things that are to come I am. [5] The nations saw, and feared; the ends of the earth drew near, and came together. [6] Each one judging for his neighbor, and to help his brother, and he will say: [7] The carpenter is strong, and the metalsmith that smites with the hammer, forging together; at one time he will say: The soldering is good; they have fastened them with nails, they will set them up, and they will not be moved. [8] But thou, Israel, art My servant Jacob, whom I have chosen, the seed of Abraham, whom I have loved; [9] whom I have taken from the ends of the earth, and called thee from the watch-posts thereof, and said unto thee: Thou art My servant; I have chosen thee, and have not cast thee away. [10] Fear not, for I am with thee; be not deceived, for I am thy God, Who has strengthened thee, and helped thee, and established thee with My righteous right hand. [11] Behold, all that oppose thee shall be ashamed and confounded; for they shall be as though they were not, and all thine adversaries shall perish. [12] Thou shalt seek them, and shalt not find the men that mock thee; for they shall be as though they were not, and they that war against thee shall not be. [13] For I am thy God Who holds thy right hand, Who says unto thee: [14] Fear not, Jacob, O little Israel; I have helped thee, says thy God, the Holy One of Israel Who redeems thee."
 
 *Prokeimenon, Psalm 92 [LXX 92:1, 1b], Tone 6:*[^1022]  
 The Lord is King, He is clothed with majesty.  
@@ -2271,7 +2265,7 @@ If any virtue, and if any praise befits the saints? For with the sword they bowe
 O Lord, Thou didst show Thy sacred disciples to be noetic heavens: by their sacred intercessions deliver me from earthly evils, ever lifting up through abstinence my contemplation of mind above passions, as Thou art tender-hearted and the Lover of mankind!
 
 *Verse: In this way wherein I walked have they hidden a snare for me.*  
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 Having the whole time of the fast as a co-worker in divine deeds, let us weep from our whole heart, and cry aloud unto the Savior: Through Thy disciples, O most merciful Lord, save those who praise Thee with love, as Thou art tender-hearted and the Lover of mankind!
 
 *At Vespers (continued):*
@@ -2375,17 +2369,17 @@ The Lord is the God of vengeances, the God of vengeances has spoken freely.
 *Verse: Lift up Thyself, Thou that judgest the earth, render a recompense to the proud.*
 
 *The Reading from Genesis (Genesis 17:1–9):*[^1033]  
-**Reader:** [1] Abram was ninety-nine years old; and the Lord appeared to Abram, and said unto him: I am thy God; be well-pleasing before Me, and be blameless. [2] And I will establish My covenant between Me and between thee, and will multiply thee exceedingly. [3] And Abram fell upon his face; and God spoke unto him, saying: [4] As for Me, behold, My covenant is with thee, and thou shalt be a father of a multitude of nations. [5] And thy name shall no more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee. [6] And I will increase thee exceedingly, and I will make nations of thee, and kings shall come out of thee. [7] And I will establish My covenant between Me and between thee, Abraham, and between thy seed after thee throughout their generations for an everlasting covenant, to be a God unto thee, and unto thy seed after thee. [8] And I will give unto thee, and unto thy seed after thee, the land wherein thou sojournest, all the land of Canaan, for an everlasting possession; and I will be their God. [9] And God said unto Abraham: Thou therefore shalt keep My covenant, thou, and thy seed after thee throughout their generations.
+> **Reader:** "[1] Abram was ninety-nine years old; and the Lord appeared to Abram, and said unto him: I am thy God; be well-pleasing before Me, and be blameless. [2] And I will establish My covenant between Me and between thee, and will multiply thee exceedingly. [3] And Abram fell upon his face; and God spoke unto him, saying: [4] As for Me, behold, My covenant is with thee, and thou shalt be a father of a multitude of nations. [5] And thy name shall no more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee. [6] And I will increase thee exceedingly, and I will make nations of thee, and kings shall come out of thee. [7] And I will establish My covenant between Me and between thee, Abraham, and between thy seed after thee throughout their generations for an everlasting covenant, to be a God unto thee, and unto thy seed after thee. [8] And I will give unto thee, and unto thy seed after thee, the land wherein thou sojournest, all the land of Canaan, for an everlasting possession; and I will be their God. [9] And God said unto Abraham: Thou therefore shalt keep My covenant, thou, and thy seed after thee throughout their generations."
 
 *Prokeimenon, Psalm 94 [LXX 94:1, 2], Tone 4:*[^1034]  
 Sing unto the Lord a new song.  
 *Verse: Sing unto the Lord, bless His name.*
 
 *The Reading from Proverbs (Proverbs 15:20–16:9):*[^1035]  
-**Reader:** [20] A wise son makes a glad father; but a foolish son scorns his mother. [21] The paths of a senseless man lack understanding; but a prudent man walks uprightly. [22] They that honor not assemblies put off counsels; but in the hearts of counselors counsel abides. [23] The wicked man will not give ear unto it, nor speak anything useful and good for the common good. [24] The thoughts of the wise are paths of life, that he may turn aside from hell and be saved. [25] The Lord tears down the houses of scorners; but He establishes the border of the widow. [26] An unrighteous thought is an abomination to the Lord; but the words of the pure are honorable. [27] A taker of bribes destroys himself; but he that hates the receiving of gifts shall be saved. By alms and faiths are sins cleansed; and by the fear of the Lord every man turns away from evil. [28] The hearts of the righteous meditate upon faith; but the mouth of the ungodly answers evil things. The ways of righteous men are acceptable before the Lord; through them even enemies become friends. God is far from the ungodly; but He hears the prayers of the righteous. Better is a small income with righteousness, *At Vespers (continued):*
+> **Reader:** "[20] A wise son makes a glad father; but a foolish son scorns his mother. [21] The paths of a senseless man lack understanding; but a prudent man walks uprightly. [22] They that honor not assemblies put off counsels; but in the hearts of counselors counsel abides. [23] The wicked man will not give ear unto it, nor speak anything useful and good for the common good. [24] The thoughts of the wise are paths of life, that he may turn aside from hell and be saved. [25] The Lord tears down the houses of scorners; but He establishes the border of the widow. [26] An unrighteous thought is an abomination to the Lord; but the words of the pure are honorable. [27] A taker of bribes destroys himself; but he that hates the receiving of gifts shall be saved. By alms and faiths are sins cleansed; and by the fear of the Lord every man turns away from evil. [28] The hearts of the righteous meditate upon faith; but the mouth of the ungodly answers evil things. The ways of righteous men are acceptable before the Lord; through them even enemies become friends. God is far from the ungodly; but He hears the prayers of the righteous. Better is a small income with righteousness, *At Vespers (continued):*"
 
 *The Reading from Proverbs (continued from Proverbs 15:20–16:9):*  
-**Reader:** than great revenues with unrighteousness. [9] The heart of a man thinks righteous things, that his steps may be directed by God. [30] The eye that sees good makes the heart glad; and a good report makes the bones fat. [31] He that hears the reproofs of life shall lodge in the midst of the wise. [32] He that rejects instruction evil-hates himself; but he that keeps reproofs loves his own soul. [33] The fear of the Lord is instruction and wisdom; and the beginning of glory will answer to it; [and glory shall go before the humble]. [16:1] To man belongs the preparation of the heart; and from the Lord is the answer of the tongue. [2] All the works of the humble are manifest before God; and the Lord strengthens spirits. [3] Commit thy works unto the Lord, and thy thoughts shall be established. [4] The Lord has made all things for Himself; but the ungodly shall perish in the evil day. [5] Every one that is high-hearted is unclean before God, and he that puts hand to hand unrighteously shall not be unpunished. [6] The beginning of a good way is to do righteous things; and it is more acceptable before God than to sacrifice sacrifices. [7] He that seeks the Lord shall find knowledge with righteousness; and they that seek Him uprightly shall find peace. [8] All the works of the Lord are with righteousness; but the ungodly man is kept for the evil day.
+> **Reader:** "than great revenues with unrighteousness. [9] The heart of a man thinks righteous things, that his steps may be directed by God. [30] The eye that sees good makes the heart glad; and a good report makes the bones fat. [31] He that hears the reproofs of life shall lodge in the midst of the wise. [32] He that rejects instruction evil-hates himself; but he that keeps reproofs loves his own soul. [33] The fear of the Lord is instruction and wisdom; and the beginning of glory will answer to it; [and glory shall go before the humble]. [16:1] To man belongs the preparation of the heart; and from the Lord is the answer of the tongue. [2] All the works of the humble are manifest before God; and the Lord strengthens spirits. [3] Commit thy works unto the Lord, and thy thoughts shall be established. [4] The Lord has made all things for Himself; but the ungodly shall perish in the evil day. [5] Every one that is high-hearted is unclean before God, and he that puts hand to hand unrighteously shall not be unpunished. [6] The beginning of a good way is to do righteous things; and it is more acceptable before God than to sacrifice sacrifices. [7] He that seeks the Lord shall find knowledge with righteousness; and they that seek Him uprightly shall find peace. [8] All the works of the Lord are with righteousness; but the ungodly man is kept for the evil day."
 
 *Then, "Let my prayer be set forth": and the rest of the Order of the Presanctified Gifts.*[^1036]  
 *If, however, there is no Presanctified Liturgy:*  
@@ -2421,7 +2415,6 @@ Come, O wretched soul, with thy flesh, confess unto the Creator of all, and abst
 
 *At Matins (continued):*
 
-*Ode 1 (continued):*  
 *Troparia:*  
 Having rivaled the transgression of first-formed Adam, I have recognized myself stripped naked of God, and of the everlasting kingdom and delight, on account of my sins.[^1049]
 
@@ -2447,7 +2440,6 @@ Cast down before Thy gates, O Savior, at least in old age cast me not away empty
 
 *At Matins (continued):*
 
-*Ode 1 (continued):*  
 *Troparia:*  
 I am he who fell among robbers through my own thoughts; wholly by them am I wounded now, and filled with sores; but do Thou Thyself draw near, O Christ Savior, and heal me![^1050]
 
@@ -2506,7 +2498,6 @@ The tears of the harlot do I also offer, O Merciful One: cleanse me, O Savior, b
 
 *At Matins (continued):*
 
-*Ode 2 (continued):*  
 *Troparia:*  
 I have darkened the soul's beauty with the pleasures of passions, and in every way have turned my whole mind into dust.[^1056]
 
@@ -2542,7 +2533,6 @@ I have buried the comeliness of the first image with passions, O Savior, which d
 
 *At Matins (continued):*
 
-*Ode 2 (continued):*  
 *Troparia:*  
 I have sinned! As the harlot I cry unto Thee: I alone have sinned against Thee; receive my tears also as myrrh, O Savior!
 
@@ -2575,7 +2565,6 @@ Thou alone, O my soul, hast opened the floodgates of the wrath of thy God, and h
 
 *At Matins (continued):*
 
-*Ode 2 (continued):*  
 *Troparia:*  
 "I have slain a man unto my wound, and a young man unto my hurt," cried Lamech weeping; but thou, O my soul, tremblest not, having sullied thy flesh and defiled thy mind![^1059]
 
@@ -2600,7 +2589,6 @@ We see, we see the love of mankind, O soul, of God and Master: therefore before 
 
 *At Matins (continued):*
 
-*Ode 2 (continued):*  
 *Glory... Trinity Hymn:*  
 O Beginningless, Uncreated Trinity, Undivided Unity: receive me repenting, save me who have sinned; I am Thy creation, despise me not, but spare me, and deliver me from the condemnation of fire!
 
@@ -2633,7 +2621,6 @@ Rejoice, O womb that received God! Rejoice, O throne of the Lord! Rejoice, O Mot
 
 *At Matins (continued):*
 
-*Ode 3 (continued):*  
 *Another Heirmos:*[^1062]  
 Establish, O Lord, upon the rock of Thy commandments my shaken heart, for Thou alone art holy and the Lord!
 
@@ -2668,7 +2655,6 @@ Become not a pillar of salt, O soul, by turning back: let the Sodomite image ter
 
 *At Matins (continued):*
 
-*Ode 3 (continued):*  
 *Troparia:*  
 Fleeing from the burning like Lot, flee, O my soul, from sin; flee from Sodom and Gomorrah; flee from the flame of every irrational desire!
 
@@ -2698,13 +2684,11 @@ Establish, O Lord, upon the rock...
 O radiant luminaries, apostles of the Savior, enlighten us in the darkness of life, that we may now walk becomingly as in the day, fleeing by the light of temperance from nocturnal passions, and may behold with joy the radiant Passions of Christ!
 
 *Glory... Another Sessional Hymn, Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):*[^1065]  
-O God-chosen twelve-fold choir of the Apostles, offer now supplication unto Christ, that all who perform their prayers in compunction...
-
-*At Matins (continued):*
+O God-chosen twelve-fold choir of the Apostles, offer now supplication unto Christ, that all who perform their prayers in compunction *At Matins (continued):*
 
 ...may pass through the course of the Fast, zealously practicing virtues, so that we may thus come beforehand to behold the glorious Resurrection of Christ God, offering glory and praise!
 
-*Both now... Theotokion, Podoben:*[^1066]  
+*Both now... Theotokion, Podoben (Подо́бенъ):*[^1066]  
 O Mother of God, together with the Apostles, entreat the incomprehensible Son and Word of God, Who was ineffably born of thee beyond comprehension, to grant pure peace unto the universe, and before the end to grant us forgiveness of transgressions, and for the sake of His extreme goodness, to make Thy servants worthy of the Heavenly Kingdom!
 
 *Then the Triodion, without prostrations.*[^1067]  
@@ -2761,7 +2745,6 @@ Watch, O my soul, excel as of old the great one among the patriarchs, that thou 
 
 *At Matins (continued):*
 
-*Ode 4 (continued):*  
 *Troparia:*  
 Having begotten the twelve patriarchs, the great one among the patriarchs mystically established for thee, O my soul, a ladder of active ascent, having wisely set his children as foundations and his steps as an ascent![^1073]
 
@@ -2785,7 +2768,6 @@ Thou hast wrought salvation in the midst of the earth, O Compassionate One, that
 
 *At Matins (continued):*
 
-*Ode 4 (continued):*  
 *Troparia:*  
 May the Blood from Thy side be a font for me, and the water that flowed forth a drink of forgiveness together, that I may be cleansed on both sides, anointed and drinking, as an anointing and drink, O Word, Thy life-flowing words![^1075]
 
@@ -2811,7 +2793,6 @@ Having been dragged down into the depth of great iniquities, thou wast not held 
 
 *At Matins (continued):*
 
-*Ode 4 (continued):*  
 *To St. Andrew:*  
 O Andrew, paternal boast, cease not to pray with thy supplications, standing before the all-divine Trinity, that we may be delivered from torment, who with love invoke thee as a divine advocate, O all-blessed one, the ornament of Crete!
 
@@ -2841,7 +2822,6 @@ Thou hast heard, O soul, of the ark of Moses, borne by the waters and the waves 
 
 *At Matins (continued):*
 
-*Ode 5 (continued):*  
 *Troparia:*  
 If thou hast heard of the midwives who of old killed the immature male child, O wretched soul, which is the practice of chastity: now, like great Moses, suckle wisdom![^1079]
 
@@ -2871,7 +2851,6 @@ Even though Thou art a deep well, O Master, pour forth water for me from Thy mos
 
 *At Matins (continued):*
 
-*Ode 5 (continued):*  
 *Troparia:*  
 May my tears be as Siloam unto me, O Master and Lord, that I also may wash the pupils of my heart, and see Thee noetically, the pre-eternal Light![^1081]
 
@@ -2902,7 +2881,6 @@ Like a heifer that has grown wild, O soul, thou hast become like Ephraim: as a g
 
 *At Matins (continued):*
 
-*Ode 6 (continued):*  
 *Troparia:*  
 Let the hand of Moses convince us, O soul, how God can whiten and cleanse a leprous life; and despair not of thyself, even if thou art leprous![^1082]
 
@@ -2933,7 +2911,6 @@ That thou mightest extinguish the flame of passions, thou didst ever shed drops 
 
 *At Matins (continued):*
 
-*Ode 6 (continued):*  
 *To St. Mary:*  
 Thou hast acquired heavenly dispassion by thy supreme life on earth, O mother; therefore pray that those who hymn thee may be delivered from passions by thy prayers!
 
@@ -2955,9 +2932,7 @@ Beholding Christ's healing opened, and health flowing therefrom unto Adam, the d
 *Synaxarion first of the Menaion, then the present one:*[^1085]  
 *Verses:* Grant examples of compunction, O my Christ, unto those who now chant the Great Canon unto Thee.
 
-On this day, according to ancient tradition, we chant the office of the Great Canon. This, truly the greatest of all canons, was excellently and artfully composed and written by our father among the saints, Andrew, Archbishop of Crete, who is also called "of Jerusalem." He originated from Damascus, and at the fourteenth year of his age, having devoted himself to grammatical training, and having mastered the complete cycle of liberal education, he arrived in Jerusalem, where he passed through the monastic life, living venerably and God-pleasingly in quietude and unperturbed living. He also left to the Church of God many other writings profitable for life, discourses and canons, showing himself and appearing particularly valiant in festival celebrations. Together with many others, he also composed the present Great Canon...
-
-*At Matins (continued):*
+On this day, according to ancient tradition, we chant the office of the Great Canon. This, truly the greatest of all canons, was excellently and artfully composed and written by our father among the saints, Andrew, Archbishop of Crete, who is also called "of Jerusalem." He originated from Damascus, and at the fourteenth year of his age, having devoted himself to grammatical training, and having mastered the complete cycle of liberal education, he arrived in Jerusalem, where he passed through the monastic life, living venerably and God-pleasingly in quietude and unperturbed living. He also left to the Church of God many other writings profitable for life, discourses and canons, showing himself and appearing particularly valiant in festival celebrations. Together with many others, he also composed the present Great Canon *At Matins (continued):*
 
 ...having boundless compunction; for having recorded and compiled every narrative of the Old and New Testaments, he composed the present sweet hymnody, clearly from Adam even unto Christ's very Ascension and the apostolic preaching.[^1086] He thereby rouses every soul to emulate and imitate according to its power whatever good stories are told, and to flee whatever evil things, and continually run unto God through repentance, tears, confession, and other clear pleasing of God. Yet it is so vast and sweet-sounding that it is able to soften even the hardest soul and awaken it unto noble vigilance, if only it be sung with a contrite heart and fitting attentiveness. He composed this also at the time when the great Sophronius, Patriarch of Jerusalem, wrote the Life of St. Mary of Egypt. For this Life also offers boundless compunction and grants great consolation unto those who have transgressed and are sinning, if only they wish to depart from evils. They were appointed to be sung and read on the present day for the following reason: because the Holy Forty Days is drawing near to its end, lest men, having grown slothful toward spiritual labors, neglectfully forget themselves and entirely cease from chastity. The great Andrew, therefore, like an instructor, by the narratives of the Great Canon recounted the virtue of great men and again the turning away from evil, as if one might say: he prepares those who labor most valiantly and bravely stretch forward unto what lies ahead. And the holy Sophronius, by his supernatural discourse, causes men to become chaste once more, raises them unto God, and urges them neither to fall down nor despair, even if they have at times been overtaken by certain transgressions. For how great is God's love for mankind and mercy toward those who whole-souledly choose to turn away from their former transgressions, the narrative concerning the Egyptian woman shows forth. It is called the Great Canon, as one might say, both because of these thoughts and recollections—for its composer is worthy of this, having composed them excellently—and because, while other canons contain about thirty troparia or a few more, this one reaches two hundred and fifty, each one dripping with ineffable sweetness. Fittingly and appropriately, therefore, this Great Canon acquired great compunction, for which reason it was appointed unto the Great Forty Days. This excellent and Great Canon, and the discourse on the venerable Mary, the same father of ours Andrew first brought unto the city of Constantine, when he came to assist, being sent by Patriarch Theodore of Jerusalem unto the Sixth Council. For having then contended excellently against the Monothelites, while still remaining among the monastics, he was enrolled in the clergy of the Church in the city of Constantine; then he was ordained deacon and appointed curator of orphans therein. And a little while later having become Archbishop of Crete, afterward, having reached near a place called Hieros toward Mytilene, he departed unto the Lord, having well shared in his see. By his prayers, O God, have mercy upon us.
 
@@ -3026,7 +3001,6 @@ Saul of old, when he lost his father's asses, O soul, suddenly found a kingdom f
 
 *At Matins (continued):*
 
-*Ode 7 (continued):*  
 *Troparia:*  
 David of old, the forefather of God, though he sinned doubly, O my soul, struck by the arrow of adultery and captive to the spear of torment for murder; yet thou art sick with even heavier deeds by thine own voluntary impulses.[^1093]
 
@@ -3050,7 +3024,6 @@ Thou hast rivaled the defilements of Ahab, O my soul—woe is me! Thou hast beco
 
 *At Matins (continued):*
 
-*Ode 7 (continued):*  
 *Troparia:*  
 Elijah of old burned twice fifty of Jezebel's men, when he destroyed the shameful prophets to the rebuke of Ahab; but flee the imitation of both, O soul, and be strengthened.[^1095]
 
@@ -3074,7 +3047,6 @@ Whom thou didst love, Whom thou didst desire, for Whose sake thou didst wear out
 
 *At Matins (continued):*
 
-*Ode 7 (continued):*  
 *To St. Andrew:*  
 Establish me upon the rock of faith by thy prayers, O father, enclosing me with divine fear; and grant me repentance, O Andrew, I pray thee: deliver me from the snare of the enemies who seek after me!
 
@@ -3106,7 +3078,6 @@ O apostles, noble colony, overseers of the world, and heavenly citizens: deliver
 
 *At Matins (continued):*
 
-*Ode 8 (continued):*  
 *Glory... Trinity Hymn:*  
 O thrice-radiant, all-bright Godhead, nature of one glory and one throne: O Father Almighty, Son, and Divine Spirit, I hymn Thee unto the ages!
 
@@ -3135,7 +3106,6 @@ Thou hast heard, O soul, of the Ninevites who repented before God in sackcloth a
 
 *At Matins (continued):*
 
-*Ode 8 (continued):*  
 *Troparia:*  
 In the pit of mire thou hast heard Jeremiah, O soul, crying with lamentations for the city of Zion and seeking tears; imitate his lamenting life, and thou shalt be saved![^1101]
 
@@ -3161,7 +3131,6 @@ Spare Thy creation, O Savior, and seek out what is lost like a shepherd; go befo
 
 *At Matins (continued):*
 
-*Ode 8 (continued):*  
 *Troparia:*  
 When as Judge Thou shalt sit, as Thou art tenderhearted, and shalt display Thy dread glory, O Savior: oh, what fear will there be then, while the furnace burns, for all who fear Thine unbearable judgment-seat![^1103]
 
@@ -3192,7 +3161,6 @@ Having appeared as springs of saving water, O apostles: bedew my soul, withered 
 
 *At Matins (continued):*
 
-*Ode 9 (continued):*  
 *Troparia:*  
 Swimming in the abyss of destruction, and already submerged, save me, O Lord, with Thy right hand, as Thou didst Peter!
 
@@ -3224,7 +3192,6 @@ I have brought before thee, O soul, Moses' account of the creation of the world,
 
 *At Matins (continued):*
 
-*Ode 9 (continued):*  
 *Troparia:*  
 The Law has grown weak, the Gospel is idle, and all the Scripture has been neglected in thee; the prophets have grown feeble, and every word of the righteous; thy wounds, O soul, have multiplied, there being no physician to heal thee.[^1108]
 
@@ -3248,7 +3215,6 @@ Marriage is honorable and the bed undefiled, for Christ blessed both beforehand,
 
 *At Matins (continued):*
 
-*Ode 9 (continued):*  
 *Troparia:*  
 Christ strengthened the paralytic, who took up his bed, and raised the dead youth, the widow's child, and the centurion's servant, and appeared unto the Samaritan woman, prefiguring for thee, O soul, worship in spirit.[^1109]
 
@@ -3272,7 +3238,6 @@ A robber reviled Thee, a robber confessed Thee as God, for both were hanging upo
 
 *At Matins (continued):*
 
-*Ode 9 (continued):*  
 *Troparia:*  
 Creation trembled seeing Thee crucified, mountains and rocks split from fear, and the earth shook, and Hades was stripped bare, and the light darkened at midday, beholding Thee, O Jesus, nailed to the cross!
 
@@ -3298,9 +3263,7 @@ Preserve thy city, O most pure Mother of God; for reigning faithfully in thee, i
 *And immediately the Heirmos. Exapostilarion, as usual.*
 
 *At the Aposticha, automelon, twice. Tone 8:*[^1110]  
-Having fallen into robber-infested paths, O my soul, thou hast been sorely wounded by thine own sins, having surrendered thyself unto mindless enemies; but as...
-
-*At Matins (continued):*
+Having fallen into robber-infested paths, O my soul, thou hast been sorely wounded by thine own sins, having surrendered thyself unto mindless enemies; but as *At Matins (continued):*
 
 *At the Aposticha (continued):*  
 ...thou hast time, cry aloud in compunction: O hope of the hopeless, life of the despairing, Savior, raise me up and save me!
@@ -3450,7 +3413,7 @@ and he that holds back anger is better than one that takes a city.]
 Thou didst stretch out Thy palms upon the tree, O Christ, healing Adam's wound by Thy wounds; therefore I pray Thee: heal my wounds which the deceiver has inflicted upon my soul, and count me worthy in prayer and fasting, O Savior, to be well-pleasing unto Thee!  
 *Twice.*
 
-*Stavrotheotokion, Podoben:*  
+*Stavrotheotokion, Podoben (Подо́бенъ):*  
 Seeing Thee, O Christ, stretched out dead upon the Cross, the all-blameless Mother cried aloud: O My Son, co-unoriginate with the Father and the Spirit, what ineffable dispensation of Thine is this, whereby Thou hast saved the creation of Thine all-pure hands, O Merciful One?
 
 *After the Third Stichologia, Sessional Hymn.*  
@@ -3458,7 +3421,7 @@ Seeing Thee, O Christ, stretched out dead upon the Cross, the all-blameless Moth
 O Cross, guardian of the world, driver-away of demons, invincible protection unto all who have acquired thee: grant us with a pure conscience to traverse the remainder of the fast, making our souls right before Christ, O blessed Wood!  
 *Twice.*
 
-*Stavrotheotokion, Podoben:*  
+*Stavrotheotokion, Podoben (Подо́бенъ):*  
 O pure and honorable Virgin, glory of angels, when thou didst stand by the Cross of thy Son and God, unable to bear the sight of the enemies' mockings, thou didst cry aloud, lamenting with a mother's grief: How dost Thou endure the threats of all, O Lover of mankind? Glory to Thy long-suffering!
 
 *Triodion by Lord Joseph.*  
@@ -3469,7 +3432,6 @@ Having stretched out heaven like a curtain, Thou didst stretch out Thy palms upo
 
 *At Matins (continued):*
 
-*Ode 5 (continued):*  
 *Troparia:*  
 Thou didst fall asleep upon the Cross, O most good Jesus, granting vigilance of salvation unto us who lie in lowest destruction, O Lord; therefore in faith we glorify Thee!
 
@@ -3545,7 +3507,6 @@ Thou art crucified, and Thou savest me; Thou diest, and Thou givest me life. O T
 
 *At Matins (continued):*
 
-*Ode 9 (continued):*  
 *Troparion:*  
 When the sun beheld Thee crucified, it set; for how could it shine, beholding the reproach of its Creator? For all creation also, bowing down, cried out in silence to the crucifiers: Truly Thou art the God of all, though Thou sufferest in the flesh.
 
@@ -4158,7 +4119,7 @@ When Thou shalt raise up all Thy creation to be judged, O Christ, have mercy on 
 *Rejoice, O Isaiah! The Virgin hath conceived in her womb and borne a Son, Emmanuel, both God and man; the Orient is His name; Whom magnifying, we call the Virgin blessed.*
 
 *Exapostilarion, Podoben: "Give ear, ye women" (Жены̀ ᲂу҆слы́шите):*[^1155]
-The mystery hidden from the ages is made known today: the divine God the Word, the Son of the Virgin Mary, becomes man through compassion, and Gabriel announcs the joy of the Annunciation, with whom let us all cry aloud: Rejoice, O Mother of the Lord!
+The mystery hidden from the ages is made known today: the divine God the Word, the Son of the Virgin Mary, becomes man through compassion, and Gabriel announces the joy of the Annunciation, with whom let us all cry aloud: Rejoice, O Mother of the Lord!
 
 *At the Praises [Lauds], let every breath praise the Lord. We set 4 verses, and we chant Stichera, Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́блѧ):*
 
@@ -4212,9 +4173,7 @@ Having with joy venerated the holy places, from thence thou didst receive the mo
 
 Having settled in the wilderness, thou didst banish from thy soul the images of thy passions, inscribing upon thy soul the most Godlike depiction: the forms of virtues. And so greatly didst thou shine forth, O blessed one, that thou didst even walk lightly over the waters, and was lifted up from the earth in thy supplications unto God. And now, O all-glorious Mary, standing before Christ with boldness, pray for our souls!
 
-*Glory...*
-
-*Glory: Tone 4:*
+*Glory* Tone 4:*
 The power of Thy Cross, O Christ, hath wrought a marvel, for even she who was formerly a harlot strove in ascetic contest; therefore, casting aside weakness, she valiantly stood against the devil; therefore, bearing the trophy of victory, she prays for our souls!
 
 *Both now: Theotokion of the Tone [Tone 4, first Theotokion / Dogmatikon].*
@@ -4430,9 +4389,7 @@ O sweetness of the Angels, joy of the afflicted, protectress of Christians, O Vi
 *Then we say the Verse: Arise, O Lord my God, let Thy hand be lifted up [Psalm 9:33 LXX].*
 
 *And we sing the Idiomelon, Tone 1:*
-The Kingdom of God is not food and drink, but righteousness and abstinence with holiness; therefore neither shall the rich enter into it, but those who place their treasures into the hands of the poor. These things David the prophet also teaches, saying: Righteous is the man that is merciful all the day long, who delights in the Lord...
-
-...and walking in the light he will not stumble; all these things were written for our instruction, that while fasting we may practice kindness, and the Lord will give us heavenly things instead of earthly!
+The Kingdom of God is not food and drink, but righteousness and abstinence with holiness; therefore neither shall the rich enter into it, but those who place their treasures into the hands of the poor. These things David the prophet also teaches, saying: Righteous is the man that is merciful all the day long, who delights in the Lord and walking in the light he will not stumble; all these things were written for our instruction, that while fasting we may practice kindness, and the Lord will give us heavenly things instead of earthly!
 
 *Glory, the same again.*
 *Both now:* Most blessed art thou...
@@ -4486,9 +4443,7 @@ Thou didst roll away the stone of callousness, O Lord, from my heart; raise up m
 *Theotokion:*
 Beholding the wonder of wonders in thee, O Full of Grace, creation rejoices; for thou didst conceive without seed, and didst bear ineffably Him Whom the chief ranks of Angels cannot behold; pray Him, O Theotokos, for our souls!
 
-*After the third stichology...*
-
-*After the third stichology, Sessional Hymn, Tone 1, Podoben: "When the stone had been sealed" (Ка́мени запеча́танꙋ):*[^1169]
+*After the third stichology After the third stichology, Sessional Hymn, Tone 1, Podoben: "When the stone had been sealed" (Ка́мени запеча́танꙋ):*[^1169]
 Holding the sixth week of the Fast, let us offer unto Christ a prefestal hymn, palms, as He comes for our sake to sit upon the foal of an ass, to subdue the irrationality of the Gentiles as King unto the Father; let us all prepare for Him the branches of virtues, that rejoicing we may behold His Resurrection!
 
 *Glory, the same again. Both now, Theotokion:*
@@ -4630,13 +4585,9 @@ Give praise to the Lord, for He is good, for His mercy endures forever!
 *Verse [Psalm 106:2 LXX]:* Let the redeemed of the Lord say so!
 
 *Reading from Genesis [Genesis 27:1–6]:*[^1175]
-And it came to pass after Isaac was old, that his eyes were dimmed so that he could not see; and he called Esau his elder son, and said unto him: My son! And he said: Behold, here am I. And Isaac said: Behold, I am old, and I know not the day of my end. Now therefore take thy weapons, thy quiver and thy bow, and go out into the field, and hunt game for me. And make me savory meat, such as I love, and bring it to me, that I may eat; so that my soul may bless thee before I die. And Rebekah heard Isaac speaking to Esau his son. And Esau went to the field to hunt game for his father. And Rebekah spoke unto Jacob...
-
-...unto her younger son, saying: Behold, I heard thy father speaking unto Esau thy brother, saying: Bring me game, and make me savory meat, that I may eat, and bless thee before the Lord, before my death. Now therefore, my son, obey my voice according to what I command thee. Go now to the flock, and fetch me from thence two tender and good kids of the goats; and I will make them savory meat for thy father, such as he loves. And thou shalt bring it to thy father, that he may eat, so that thy father may bless thee before his death. And Jacob said to Rebekah his mother: Behold, Esau my brother is a hairy man, and I am a smooth man. What if my father feel me, and I seem unto him as a deceiver, and I bring a curse upon myself, and not a blessing? And his mother said unto him: Upon me be thy curse, my son; only obey my voice, and go fetch them to me. And he went, and fetched them, and brought them to his mother; and his mother made savory meat, such as his father loved. And Rebekah took the goodly raiment of her eldest son Esau, which was with her in the house, and put it upon Jacob her younger son. And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck. And she gave the savory meat and the bread, which she had prepared, into the hands of her son Jacob.
+And it came to pass after Isaac was old, that his eyes were dimmed so that he could not see; and he called Esau his elder son, and said unto him: My son! And he said: Behold, here am I. And Isaac said: Behold, I am old, and I know not the day of my end. Now therefore take thy weapons, thy quiver and thy bow, and go out into the field, and hunt game for me. And make me savory meat, such as I love, and bring it to me, that I may eat; so that my soul may bless thee before I die. And Rebekah heard Isaac speaking to Esau his son. And Esau went to the field to hunt game for his father. And Rebekah spoke unto Jacob unto her younger son, saying: Behold, I heard thy father speaking unto Esau thy brother, saying: Bring me game, and make me savory meat, that I may eat, and bless thee before the Lord, before my death. Now therefore, my son, obey my voice according to what I command thee. Go now to the flock, and fetch me from thence two tender and good kids of the goats; and I will make them savory meat for thy father, such as he loves. And thou shalt bring it to thy father, that he may eat, so that thy father may bless thee before his death. And Jacob said to Rebekah his mother: Behold, Esau my brother is a hairy man, and I am a smooth man. What if my father feel me, and I seem unto him as a deceiver, and I bring a curse upon myself, and not a blessing? And his mother said unto him: Upon me be thy curse, my son; only obey my voice, and go fetch them to me. And he went, and fetched them, and brought them to his mother; and his mother made savory meat, such as his father loved. And Rebekah took the goodly raiment of her eldest son Esau, which was with her in the house, and put it upon Jacob her younger son. And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck. And she gave the savory meat and the bread, which she had prepared, into the hands of her son Jacob.
 And he came unto his father, and said: My father! And he said: Here am I; who art thou, my son? And Jacob said unto his father: I am Esau thy firstborn; I have done according as thou badest me: arise, sit and eat of my game, that thy soul may bless me. And Isaac said unto his son: How is it that thou hast found it so quickly, my son? And he said: Because the Lord thy God brought it before me. And Isaac said unto Jacob: Come near, I pray thee, that I may feel thee, my son, whether thou be my son Esau or not. And Jacob went near unto Isaac his father; and he felt him, and said: The voice indeed is the voice of Jacob, but the hands are the hands of Esau. And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him. And he said: Art thou my son Esau? And he said: I am. And he said: Bring it near to me, and I will eat of my son's game, that my soul may bless thee. And he brought it near to him, and he did eat; and he brought him wine, and he drank. And his father Isaac said unto him: Come near now, and kiss me, my son. And he came near, and kissed him; and he smelled the smell of his raiment, and blessed him, and said: See, the smell of my son is as the smell of a full field which the Lord hath blessed! And may God give thee of the dew of heaven, and of the fatness of the earth, and plenty of corn and wine; and let nations serve thee, and princes bow down to thee; be lord over thy brother, and let thy father's sons bow down to thee: cursed be everyone that curses thee, and blessed be he that blesses thee!
-And it came to pass, as soon as Isaac had made an end of blessing Jacob his son, and Jacob was scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his hunting. And he also had made savory meat, and brought it unto his father, and said unto his father: Let my father arise, and eat of his son's game, that thy soul may bless me. And Isaac his father said unto him: Who art thou? And he said: I am thy son, thy firstborn, Esau. And Isaac trembled with an exceedingly great trembling, and said: Who then was he that took game and brought it to me, and I have eaten of all before thou camest, and have blessed him? Yea, and he shall be blessed! And when Esau heard the words of his father Isaac, he cried with a great and exceeding bitter cry, and said: Bless me, even me also, O my father! And he said: Thy brother came with subtilty, and hath taken away thy blessing. And Esau said: Is he not rightly named Jacob? For he hath supplanted me these two times: he took away my birthright, and, behold, now he hath taken away my blessing. And Esau said unto his father: Hast thou not reserved a blessing for me, O my father? And Isaac answered and said unto Esau: Behold, I have made him thy master, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son? And Esau said unto his father: Hast thou but one blessing, my father? Bless me, even me also, O my father! And Isaac was moved with compassion, and Esau lifted up his voice, and wept. And Isaac his father answered and said unto him: Behold...
-
-...of the fatness of the earth shall be thy dwelling, and of the dew of heaven from above; and by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt cast down and break loose his yoke from thy neck. And Esau hated Jacob because of the blessing wherewith his father blessed him.
+And it came to pass, as soon as Isaac had made an end of blessing Jacob his son, and Jacob was scarcely gone out from the presence of Isaac his father, that Esau his brother came in from his hunting. And he also had made savory meat, and brought it unto his father, and said unto his father: Let my father arise, and eat of his son's game, that thy soul may bless me. And Isaac his father said unto him: Who art thou? And he said: I am thy son, thy firstborn, Esau. And Isaac trembled with an exceedingly great trembling, and said: Who then was he that took game and brought it to me, and I have eaten of all before thou camest, and have blessed him? Yea, and he shall be blessed! And when Esau heard the words of his father Isaac, he cried with a great and exceeding bitter cry, and said: Bless me, even me also, O my father! And he said: Thy brother came with subtilty, and hath taken away thy blessing. And Esau said: Is he not rightly named Jacob? For he hath supplanted me these two times: he took away my birthright, and, behold, now he hath taken away my blessing. And Esau said unto his father: Hast thou not reserved a blessing for me, O my father? And Isaac answered and said unto Esau: Behold, I have made him thy master, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son? And Esau said unto his father: Hast thou but one blessing, my father? Bless me, even me also, O my father! And Isaac was moved with compassion, and Esau lifted up his voice, and wept. And Isaac his father answered and said unto him: Behold of the fatness of the earth shall be thy dwelling, and of the dew of heaven from above; and by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt cast down and break loose his yoke from thy neck. And Esau hated Jacob because of the blessing wherewith his father blessed him.
 
 *Prokeimenon, Psalm 56 [Psalm 56:6 LXX], Tone 7:*
 Be Thou exalted above the heavens, O God, and Thy glory above all the earth!
@@ -4784,7 +4735,7 @@ Help me, O Lord my God, and save me according to Thy mercy.
 *Verse: O God, pass not over my praise in silence.*
 
 *Reading from the Prophecy of Isaiah (49:6–10):*[^1183]
-Thus saith the Lord: Behold, I have given Thee for a covenant of the race, for a light of the Gentiles, that Thou mayest be for salvation unto the end of the earth. Thus saith the Lord, the God of Israel that delivered Thee: Sanctify Him that despises His own life, Him that is abominable unto the nations, the servant of princes; kings shall behold Him, and princes shall arise, and shall worship Him, for the Lord's sake, because the Holy One of Israel is faithful, and I have chosen Thee. Thus saith the Lord: In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee, and formed Thee; and I have given Thee for an everlasting covenant of the nations, to establish the earth, and to inherit the desolate heritages; saying to them that are in bonds: Go forth! and to them that are in darkness: Show yourselves! They shall feed along all the ways, and their pasture shall be in all paths. They shall not hunger, neither shall they thirst, neither shall heat nor sun smite them; but He that hath mercy on them shall comfort them.
+Thus says the Lord: Behold, I have given Thee for a covenant of the race, for a light of the Gentiles, that Thou mayest be for salvation unto the end of the earth. Thus says the Lord, the God of Israel that delivered Thee: Sanctify Him that despises His own life, Him that is abominable unto the nations, the servant of princes; kings shall behold Him, and princes shall arise, and shall worship Him, for the Lord's sake, because the Holy One of Israel is faithful, and I have chosen Thee. Thus says the Lord: In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee, and formed Thee; and I have given Thee for an everlasting covenant of the nations, to establish the earth, and to inherit the desolate heritages; saying to them that are in bonds: Go forth! and to them that are in darkness: Show yourselves! They shall feed along all the ways, and their pasture shall be in all paths. They shall not hunger, neither shall they thirst, neither shall heat nor sun smite them; but He that hath mercy on them shall comfort them.
 
 *Prokeimenon, Psalm 109, Tone 4:*
 Thou art a Priest forever after the order of Melchizedek.
@@ -4822,9 +4773,7 @@ Merciful, and compassionate, and righteous.
 *Verse: Blessed is the man that fears the Lord.*
 
 *Reading from Proverbs (21:3–11):*[^1187]
-My son, to do what is righteous and to speak the truth is more pleasing to God than the blood of sacrifices. A haughty man is insolent of heart in his reproach; and the lamp of the wicked is sin. The thoughts of the diligent tend to abundance, but every slothful man is in want. He that gathers treasures with a lying tongue pursus vanity into the snares of death. Destruction shall fall upon the ungodly, for they refuse to do what is right. Unto the crooked God sends crooked paths, for pure and right are His works. It is better to dwell in a corner of an unroofed place than in plastered rooms with unrighteousness, and in a shared house. The soul of the wicked shall find no mercy from any man. When the intemperate man is penalized, the simple becomes wiser; and when the wise man is instructed...
-
-...he shall receive understanding. The righteous man understands the hearts of the ungodly, and despises the ungodly in their evils. Whoso stops his ears from hearing the weak, he also shall cry, and there shall be none to hear him. A secret gift turns away anger, but he that is sparing of gifts stirs up strong wrath. It is joy to the righteous to do judgment, but the holy man is an abomination unto evildoers. A man that wanders out of the way of righteousness shall rest in the congregation of the giants. A needy man loves mirth, and he that loves wine and oil shall not be rich. The lawless man is a ransom for the righteous. It is better to dwell in a wilderness than with a contentious, talkative, and passionate woman. A desirable treasure rests in the mouth of the wise, but foolish men swallow it down. The way of righteousness and mercy finds life and glory.
+My son, to do what is righteous and to speak the truth is more pleasing to God than the blood of sacrifices. A haughty man is insolent of heart in his reproach; and the lamp of the wicked is sin. The thoughts of the diligent tend to abundance, but every slothful man is in want. He that gathers treasures with a lying tongue pursus vanity into the snares of death. Destruction shall fall upon the ungodly, for they refuse to do what is right. Unto the crooked God sends crooked paths, for pure and right are His works. It is better to dwell in a corner of an unroofed place than in plastered rooms with unrighteousness, and in a shared house. The soul of the wicked shall find no mercy from any man. When the intemperate man is penalized, the simple becomes wiser; and when the wise man is instructed he shall receive understanding. The righteous man understands the hearts of the ungodly, and despises the ungodly in their evils. Whoso stops his ears from hearing the weak, he also shall cry, and there shall be none to hear him. A secret gift turns away anger, but he that is sparing of gifts stirs up strong wrath. It is joy to the righteous to do judgment, but the holy man is an abomination unto evildoers. A man that wanders out of the way of righteousness shall rest in the congregation of the giants. A needy man loves mirth, and he that loves wine and oil shall not be rich. The lawless man is a ransom for the righteous. It is better to dwell in a wilderness than with a contentious, talkative, and passionate woman. A desirable treasure rests in the mouth of the wise, but foolish men swallow it down. The way of righteousness and mercy finds life and glory.
 
 *At the Aposticha, Idiomelon of the day, twice, Tone 1:*[^1188]
 Clothed in the divinely woven purple robe of dominion and in the scarlet mantle of incorruption, O my soul, thou hast disgraced thy dignity, turning wealth and enjoyment into sin, and despising thy fellow kinsman, even as the rich man despised poor Lazarus; but lest thou be tormented with him, become poor in spirit, and cry aloud unto the Lord Who became poor for thy sake: O Christ, Who before Thy crucifixion wast arrayed in the purple robe of mockery, and for my sake wast crucified naked upon the Cross, by the vesture of Thy Kingdom deliver me from eternal shame!
@@ -4846,7 +4795,7 @@ A sword hath pierced, O my Son, the Virgin said, when she beheld Christ hanging 
 *Tone 2, Podoben: "The stone of the tomb" (Ка́мень гро́бный):*[^1189]
 Weighed down by many sins as with a stone, I lie in the tomb of negligence, O Compassionate One; raise me up from thence, O tender-hearted Lord!
 
-*Cross-Theotokion, Podoben: "Being the wellspring of loving-kindness" (Милосе́рдїа [сꙋ́щи]):*
+*Cross-Theotokion, Podoben: "Being the wellspring of loving-kindness" (Милосе́рдїа (*сꙋ́щи*)):*
 Preserved by the precious Cross of thy Son, O pure Lady Theotokos, we all easily repel every assault of the slanderer; therefore, as is our duty, we glorify thee as Mother of the Light and the only hope of our souls!
 
 *After the third stichology, Sessional Hymn by Lord Theodore:*
@@ -4967,7 +4916,7 @@ Praise the Lord, O ye servants, praise the name of the Lord.
 *Verse: Blessed be the name of the Lord from henceforth and for evermore.*
 
 *Reading from the Prophecy of Isaiah (58:1–11):*[^1196]
-Thus saith the Lord: Cry aloud with strength, and spare not; lift up thy voice like a trumpet, and declare unto My people their sins, and to the house of Jacob their iniquities. They seek Me day by day, and desire to know My ways, as a people that had done righteousness, and had not forsaken the judgment of their God; they ask of Me now righteous judgment, and desire to draw near to God, saying: Why have we fasted, and Thou sawest not? Why have we humbled our souls, and Thou tookest no knowledge? For in the days of your fasts ye find your own pleasures, and afflict all that are under your hand. If ye fast for strifes and debates, and strike the humble with fists, why fast ye unto Me as today, that your voice may be heard in crying aloud? I have not chosen such a fast, nor a day for a man to humble his soul; not even if thou bow down thy neck as a ring, and spread sackcloth and ashes under thee, not even so shall ye call it an acceptable fast. Not such a fast have I chosen, saith the Lord; but loose every bond of iniquity, untie the knots of forced obligations, let the oppressed go free, and tear in pieces every unrighteous bond! Break thy bread to the hungry, and bring the poor that have no shelter into thy house; if thou seest the naked, cover him, and hide not thyself from the kinsfolk of thine own seed. Then shall thy light break forth early in the morning, and thy healing shall spring forth speedily; and thy righteousness shall go before thee, and the glory of God shall encompass thee, O man. Then shalt thou cry, and God shall hear thee, His servant; while thou art yet speaking, He shall say: Behold, I am here! If thou take away from thee the yoke, and the pointing of the hand, and the word of murmuring; and if thou give bread from thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness shall be as the noonday, and thy God shall be with thee continually.
+Thus says the Lord: Cry aloud with strength, and spare not; lift up thy voice like a trumpet, and declare unto My people their sins, and to the house of Jacob their iniquities. They seek Me day by day, and desire to know My ways, as a people that had done righteousness, and had not forsaken the judgment of their God; they ask of Me now righteous judgment, and desire to draw near to God, saying: Why have we fasted, and Thou sawest not? Why have we humbled our souls, and Thou tookest no knowledge? For in the days of your fasts ye find your own pleasures, and afflict all that are under your hand. If ye fast for strifes and debates, and strike the humble with fists, why fast ye unto Me as today, that your voice may be heard in crying aloud? I have not chosen such a fast, nor a day for a man to humble his soul; not even if thou bow down thy neck as a ring, and spread sackcloth and ashes under thee, not even so shall ye call it an acceptable fast. Not such a fast have I chosen, says the Lord; but loose every bond of iniquity, untie the knots of forced obligations, let the oppressed go free, and tear in pieces every unrighteous bond! Break thy bread to the hungry, and bring the poor that have no shelter into thy house; if thou seest the naked, cover him, and hide not thyself from the kinsfolk of thine own seed. Then shall thy light break forth early in the morning, and thy healing shall spring forth speedily; and thy righteousness shall go before thee, and the glory of God shall encompass thee, O man. Then shalt thou cry, and God shall hear thee, His servant; while thou art yet speaking, He shall say: Behold, I am here! If thou take away from thee the yoke, and the pointing of the hand, and the word of murmuring; and if thou give bread from thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness shall be as the noonday, and thy God shall be with thee continually.
 
 *Prokeimenon, Psalm 113, Tone 6:*
 Blessed are ye of the Lord, Who made heaven and earth.
@@ -5000,9 +4949,7 @@ I will please the Lord in the land of the living.
 *Verse: I have loved, because the Lord will hear the voice of my supplication.*
 
 *Reading from Genesis (43:26–31; 45:1):*[^1200]
-His brethren brought Joseph the gifts which they had in their hands into the house, and bowed themselves before him with their faces to the earth. And he asked them: Are ye in health? And he said unto them: Is your father, the old man of whom ye spake, in health? Is he yet alive? And they said: Thy servant our father is in health, he is yet alive; and he said: Blessed be that man of God; and they stooped down and worshiped him. And Joseph lifted up his eyes, and saw Benjamin his brother of the same mother, and said: Is this your younger brother, whom ye said ye would bring unto me? And he said: God have mercy on thee, my child. And Joseph was troubled, for his bowels yearned over his brother, and he sought to weep; and he entered into his chamber, and wept there. And he washed his face, and went out, and refrained himself. And Joseph could not refrain himself before all that stood by him, but said: Send out everyone from me; and there stood no man...
-
-...with Joseph, while he made himself known unto his brethren. And he wept aloud, and all the Egyptians heard, and it was heard in Pharaoh's house. And Joseph said unto his brethren: I am Joseph; doth my father yet live? And his brethren could not answer him, for they were troubled. And Joseph said unto his brethren: Come near to me; and they came near. And he said: I am Joseph your brother, whom ye sold into Egypt. Now therefore be not grieved, nor let it seem harsh unto you, that ye sold me hither: for God did send me before you for life. For these two years hath the famine been on the earth, and there are yet five years remaining, in which there shall neither be plowing nor harvest. For God sent me before you to leave you a remnant on the earth, and to nourish your great remnant. Now therefore it was not you that sent me hither, but God: and He hath made me as a father to Pharaoh, and lord of all his house, and ruler over all the land of Egypt. Haste ye therefore, and go up to my father, and say unto him: Thus saith thy son Joseph: God hath made me lord of all the land of Egypt; come down therefore unto me, and tarry not; and thou shalt dwell in the land of Goshen of Arabia, and thou shalt be near me, thou, and thy sons, and thy sons' sons, thy sheep, and thy oxen, and all that thou hast; and I will nourish thee there, for yet five years the famine shall be on the earth, lest thou perish, and thy sons, and all thy possessions. Behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks unto you. Announce therefore unto my father all my glory that is in Egypt, and all that ye have seen; and haste ye, and bring down my father hither. And falling upon the neck of his brother Benjamin, he wept over him, and Benjamin wept upon his neck. And kissing all his brethren, he wept over them; and after this his brethren talked with him. And the report was carried into Pharaoh's house, saying: Joseph's brethren are come; and Pharaoh rejoiced, and his servants.[^1201]
+His brethren brought Joseph the gifts which they had in their hands into the house, and bowed themselves before him with their faces to the earth. And he asked them: Are ye in health? And he said unto them: Is your father, the old man of whom ye spake, in health? Is he yet alive? And they said: Thy servant our father is in health, he is yet alive; and he said: Blessed be that man of God; and they stooped down and worshiped him. And Joseph lifted up his eyes, and saw Benjamin his brother of the same mother, and said: Is this your younger brother, whom ye said ye would bring unto me? And he said: God have mercy on thee, my child. And Joseph was troubled, for his bowels yearned over his brother, and he sought to weep; and he entered into his chamber, and wept there. And he washed his face, and went out, and refrained himself. And Joseph could not refrain himself before all that stood by him, but said: Send out everyone from me; and there stood no man with Joseph, while he made himself known unto his brethren. And he wept aloud, and all the Egyptians heard, and it was heard in Pharaoh's house. And Joseph said unto his brethren: I am Joseph; doth my father yet live? And his brethren could not answer him, for they were troubled. And Joseph said unto his brethren: Come near to me; and they came near. And he said: I am Joseph your brother, whom ye sold into Egypt. Now therefore be not grieved, nor let it seem harsh unto you, that ye sold me hither: for God did send me before you for life. For these two years hath the famine been on the earth, and there are yet five years remaining, in which there shall neither be plowing nor harvest. For God sent me before you to leave you a remnant on the earth, and to nourish your great remnant. Now therefore it was not you that sent me hither, but God: and He hath made me as a father to Pharaoh, and lord of all his house, and ruler over all the land of Egypt. Haste ye therefore, and go up to my father, and say unto him: Thus says thy son Joseph: God hath made me lord of all the land of Egypt; come down therefore unto me, and tarry not; and thou shalt dwell in the land of Goshen of Arabia, and thou shalt be near me, thou, and thy sons, and thy sons' sons, thy sheep, and thy oxen, and all that thou hast; and I will nourish thee there, for yet five years the famine shall be on the earth, lest thou perish, and thy sons, and all thy possessions. Behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks unto you. Announce therefore unto my father all my glory that is in Egypt, and all that ye have seen; and haste ye, and bring down my father hither. And falling upon the neck of his brother Benjamin, he wept over him, and Benjamin wept upon his neck. And kissing all his brethren, he wept over them; and after this his brethren talked with him. And the report was carried into Pharaoh's house, saying: Joseph's brethren are come; and Pharaoh rejoiced, and his servants.[^1201]
 
 *Prokimenon, Psalm 115, Tone 6:*
 I will pay my vows unto the Lord in the presence of all His people.[^1202]
@@ -5142,7 +5089,7 @@ This is the gate of the Lord; the righteous shall enter into it.[^1215]
 *Verse: Give thanks unto the Lord, for He is good:*
 
 *Reading from the Prophecy of Isaiah (65:8–16):*[^1216]
-Thus saith the Lord: In like manner as a grape is found on the cluster, and they say: Destroy it not, for a blessing is in it; so will I do for My servant's sake, that I will not destroy them all for his sake. And I will lead forth a seed out of Jacob, and out of Judah, and he shall inherit My holy mountain; and Mine elect and My servants shall inherit it, and shall dwell there. And there shall be in the forest folds for flocks, and the valley of Achor shall be for a resting-place of herds for My people who have sought Me. But ye who have left Me, and forget My holy mountain, and prepare a table for the demon, and fill a mingled cup unto fortune: I will deliver you up to the sword, ye shall all fall by slaughter; because I called you, and ye gave no ear; I spake, and ye disobeyed; and ye did evil before Me, and chose the things wherein I delighted not. Therefore thus saith the Lord: Behold, My servants shall eat, but ye shall hunger; behold, My servants shall drink, but ye shall thirst; behold, My servants shall rejoice, but ye shall be ashamed; behold, My servants shall be glad with gladness of heart, but ye shall cry out for sorrow of your heart, and shall wail from contrition of spirit. For ye shall leave your name for a surfeit unto Mine elect, and the Lord shall slay you; but unto them that serve Me a new name shall be named, which shall be blessed upon the earth; for they shall bless the true God.
+Thus says the Lord: In like manner as a grape is found on the cluster, and they say: Destroy it not, for a blessing is in it; so will I do for My servant's sake, that I will not destroy them all for his sake. And I will lead forth a seed out of Jacob, and out of Judah, and he shall inherit My holy mountain; and Mine elect and My servants shall inherit it, and shall dwell there. And there shall be in the forest folds for flocks, and the valley of Achor shall be for a resting-place of herds for My people who have sought Me. But ye who have left Me, and forget My holy mountain, and prepare a table for the demon, and fill a mingled cup unto fortune: I will deliver you up to the sword, ye shall all fall by slaughter; because I called you, and ye gave no ear; I spake, and ye disobeyed; and ye did evil before Me, and chose the things wherein I delighted not. Therefore thus says the Lord: Behold, My servants shall eat, but ye shall hunger; behold, My servants shall drink, but ye shall thirst; behold, My servants shall rejoice, but ye shall be ashamed; behold, My servants shall be glad with gladness of heart, but ye shall cry out for sorrow of your heart, and shall wail from contrition of spirit. For ye shall leave your name for a surfeit unto Mine elect, and the Lord shall slay you; but unto them that serve Me a new name shall be named, which shall be blessed upon the earth; for they shall bless the true God.
 
 *Prokimenon, Psalm 118, Tone 4:*
 I ran the way of Thy commandments, when Thou didst enlarge my heart.[^1217]
@@ -5170,9 +5117,7 @@ Unto the Lord in mine affliction have I cried, and He heard me.[^1220]
 *Verse: O Lord, deliver my soul from unrighteous lips, and from a deceitful tongue.*
 
 *Reading from Genesis (46:1–4):*[^1221]
-Israel himself rose up and all that he had, and came to the well of the oath; and offered sacrifice to the God of his father Isaac. And God spake unto Israel in a vision by night, saying: Jacob, Jacob! And he said: What is it? And He said unto him: I am the God of thy fathers; fear not to go down into Egypt, for there will I make of thee a great nation. And I will go down with thee into Egypt, and I will bring thee up at the end; and Joseph shall lay...
-
-...his hands upon thine eyes. And Jacob rose up from the well of the oath; and the sons of Israel took their father, and their possessions, and their wives upon the wagons which Joseph had sent to take him. And having taken their goods, and all their substance which they had gotten in the land of Canaan, Jacob and all his seed with him entered into Egypt: his sons, and his sons' sons with him; his daughters, and his daughters' daughters, and all his seed he brought into Egypt.
+Israel himself rose up and all that he had, and came to the well of the oath; and offered sacrifice to the God of his father Isaac. And God spake unto Israel in a vision by night, saying: Jacob, Jacob! And he said: What is it? And He said unto him: I am the God of thy fathers; fear not to go down into Egypt, for there will I make of thee a great nation. And I will go down with thee into Egypt, and I will bring thee up at the end; and Joseph shall lay his hands upon thine eyes. And Jacob rose up from the well of the oath; and the sons of Israel took their father, and their possessions, and their wives upon the wagons which Joseph had sent to take him. And having taken their goods, and all their substance which they had gotten in the land of Canaan, Jacob and all his seed with him entered into Egypt: his sons, and his sons' sons with him; his daughters, and his daughters' daughters, and all his seed he brought into Egypt.
 
 *Prokimenon, Psalm 120, Tone 6:*
 The Lord shall preserve thee from all evil; the Lord shall preserve thy soul.[^1222]
@@ -5201,7 +5146,7 @@ O most marvelous wonder! O novel mystery! O dread beginning! The Virgin spake, w
 *Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*[^1226]
 A pair of disciples is sent to bring the colt, as it is written, whereon Christ the Beautiful shall enter before all, to receive divine praise from babes; let us go therefore diligently to meet Him, bringing unto Him the branches of virtuous deeds!
 
-*Glory, the same. Both now, Cross-Theotokion. Podoben:*
+*Glory, the same. Both now, Cross-Theotokion. Podoben (Подо́бенъ):*
 O Virgin all-immaculate, Mother of Christ God, a sword pierced thy most holy soul when thou didst behold thy Son and God voluntarily crucified; cease not, O Blessed One, to pray Him to grant us remission of transgressions in the time of the Fast!
 
 *After the third stichology, the Sessional Hymn by Lord Theodore, Tone 8.*
@@ -5260,7 +5205,7 @@ The sacred voices of the prophets proclaim thee prefiguratively, O Virgin: a doo
 *Tone 8. Heirmos: "The Angels and the heavens:"*[^1231]
 
 *Troparion:*
-The pair of disciples was sent to bring the beast of burden unto Him Who rids upon the clouds, Whom all creation hymns and exalts above all unto all ages!
+The pair of disciples was sent to bring the beast of burden unto Him Who rides upon the clouds, Whom all creation hymns and exalts above all unto all ages!
 
 *Troparion:*
 Christ is at the doors; henceforth weep no more, O Bethany! For He shall turn thy weeping into joy, raising thy nursling Lazarus from the grave, who hymns and exalts Christ above all unto the ages!
@@ -5320,9 +5265,7 @@ Ye that dwell in deserts, and mountains, and caves, come, gather together with u
 Having despised divine anointings, O my soul, thou hast been overwhelmed by the wiles of the enemy, voluntarily surrendering thyself unto corruption; and having become heavy through much sin, thou hast defiled the divinely woven garment, making it unadorned for the royal wedding; but lest thou be dragged down with sin, and recline covered with the garment of passions, being held liable for retribution, and be cast out of the bridal chamber, cry aloud unto the Savior: O awesome Eye, Who didst take on what I am, and didst not abandon what Thou wast, and before the Cross wast clothed in the cloak of mockery for my sake, tear asunder my sackcloth, and clothe me in gladness, and deliver me from the outer darkness and from eternal weeping, and have mercy on me!
 
 *Martyricon:*
-Come, all ye people, let us honor the passion-bearers of Christ with odes and spiritual songs, the luminaries of the world and preachers of the faith, the ever-flowing fountains from which there flow forth...
-
-...healings unto the faithful: by their prayers, O Christ our God, grant peace unto Thy world, and great mercy unto our souls!
+Come, all ye people, let us honor the passion-bearers of Christ with odes and spiritual songs, the luminaries of the world and preachers of the faith, the ever-flowing fountains from which there flow forth healings unto the faithful: by their prayers, O Christ our God, grant peace unto Thy world, and great mercy unto our souls!
 
 *Glory, Tone 8:*[^1236]
 Having completed the forty days that bring profit to our souls, we also pray to behold the Holy Week of Thy Passion, O Lover of Mankind, that we may glorify therein Thy majestic deeds, and Thine ineffable dispensation for our sake, singing with one mind: O Lord, glory to Thee!
@@ -5341,9 +5284,7 @@ Because of the house of the Lord our God, I have sought good things for Thee.
 *Verse:* I was glad when they said unto me: We will go into the house of the Lord.
 
 *Reading from the Prophecy of Isaiah (Chapter 66 [verses 10–19]):*[^1238]
-Be glad, O Jerusalem, and keep festival in it, all ye that love it; and all ye that dwell in it, rejoice together with it in joy, all ye that mourn for it; that ye may suck and be satisfied from the breast of its consolation, that having milked it out ye may delight yourselves from the entrance of its glory. For thus saith the Lord: Behold, I incline toward them like a river of peace, and like a torrent overflowing, the glory of the Gentiles; their children shall be taken upon shoulders, and consoled upon knees. Even as when a mother comforts someone, so also will I comfort you, and in Jerusalem ye shall be comforted. And ye shall see, and your heart shall rejoice, and your bones shall spring up like grass; and the hand of the Lord shall be known unto them that fear Him, and He shall threaten the disobedient. For behold, the Lord shall come like fire, and His chariots like a whirlwind, to render His vengeance with wrath, and His rebuke in a flame of fire. For by the fire of the Lord shall all the earth be judged, and all flesh by His sword: many shall be wounded by the Lord. They that purify and sanctify themselves in the gardens, and eat swine's flesh in the porches, and abominations, and mice, shall perish together, saith the Lord. And I know their works and their thought, and I am coming to gather all nations and tongues; and they shall come and behold My glory. And I will leave a sign upon them, and I will send forth those of them that are saved unto the nations, to Tarshish, and to Pul, and to Lud, and to Meshech, and to Tubal...
-
-...and to Greece, and to the islands afar off, who have not heard My Name, neither have seen My glory: and they shall declare My glory among the Gentiles. And they shall bring your brethren out of all nations for a gift unto the Lord, with horses, and chariots, and with litters of mules, under awnings into the holy city of Jerusalem, saith the Lord, even as if the children of Israel would bring their sacrifices to Me with psalms into the house of the Lord. And from them will I take for Myself priests and Levites, saith the Lord. For as the new heaven and the new earth which I make remain before Me, saith the Lord, so shall your seed and your name stand. And it shall come to pass from month to month, and from Sabbath to Sabbath, all flesh shall come to worship before Me in Jerusalem, saith the Lord. And they shall go forth, and see the corpses of the men that have transgressed against Me; for their worm shall not die, neither shall their fire be quenched; and they shall be a spectacle unto all flesh.[^1239]
+Be glad, O Jerusalem, and keep festival in it, all ye that love it; and all ye that dwell in it, rejoice together with it in joy, all ye that mourn for it; that ye may suck and be satisfied from the breast of its consolation, that having milked it out ye may delight yourselves from the entrance of its glory. For thus says the Lord: Behold, I incline toward them like a river of peace, and like a torrent overflowing, the glory of the Gentiles; their children shall be taken upon shoulders, and consoled upon knees. Even as when a mother comforts someone, so also will I comfort you, and in Jerusalem ye shall be comforted. And ye shall see, and your heart shall rejoice, and your bones shall spring up like grass; and the hand of the Lord shall be known unto them that fear Him, and He shall threaten the disobedient. For behold, the Lord shall come like fire, and His chariots like a whirlwind, to render His vengeance with wrath, and His rebuke in a flame of fire. For by the fire of the Lord shall all the earth be judged, and all flesh by His sword: many shall be wounded by the Lord. They that purify and sanctify themselves in the gardens, and eat swine's flesh in the porches, and abominations, and mice, shall perish together, says the Lord. And I know their works and their thought, and I am coming to gather all nations and tongues; and they shall come and behold My glory. And I will leave a sign upon them, and I will send forth those of them that are saved unto the nations, to Tarshish, and to Pul, and to Lud, and to Meshech, and to Tubal and to Greece, and to the islands afar off, who have not heard My Name, neither have seen My glory: and they shall declare My glory among the Gentiles. And they shall bring your brethren out of all nations for a gift unto the Lord, with horses, and chariots, and with litters of mules, under awnings into the holy city of Jerusalem, says the Lord, even as if the children of Israel would bring their sacrifices to Me with psalms into the house of the Lord. And from them will I take for Myself priests and Levites, says the Lord. For as the new heaven and the new earth which I make remain before Me, says the Lord, so shall your seed and your name stand. And it shall come to pass from month to month, and from Sabbath to Sabbath, all flesh shall come to worship before Me in Jerusalem, says the Lord. And they shall go forth, and see the corpses of the men that have transgressed against Me; for their worm shall not die, neither shall their fire be quenched; and they shall be a spectacle unto all flesh.[^1239]
 
 *Prokeimenon, Psalm 122, Tone 6:*[^1240]
 Have mercy on us, O Lord, have mercy on us.
@@ -5498,19 +5439,19 @@ Have mercy on us, O Lord, have mercy on us.
 [^849]: Friday Matins of the Fourth Week of the Great Fast: beginning with the Trinity Hymns (Triadica) of the Tone of the week instead of "God is the Lord", followed by the Cross Sessional Hymns from the Octoechos after the first stichology.
 [^850]: Friday Matins Sessional Hymn after the second stichology by Lord Joseph the Hymnographer, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на крⷭ҇тъ / Ὁ ὑψωθεὶς ἐν τῷ σταυρῷ), honoring the mid-point of the Fast sanctified by the Precious Cross.
 [^851]: Friday Matins Stavrotheotokion after the second stichology, the Virgin weeping at the Cross: "How art Thou, Who art glorified as God by angels, now voluntarily crucified by lawless men, O Savior?"
-[^852]: Friday Matins Sessional Hymn after the third stichology, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε), beholding the Cross as the light of souls and glorifying Christ's voluntary elevation upon it.
+[^852]: Friday Matins Sessional Hymn after the third stichology, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάλαβε), beholding the Cross as the light of souls and glorifying Christ's voluntary elevation upon it.
 [^853]: The Canon of the Precious Cross chanted at Friday Matins with the acrostic: "Покланѧ́емое всѝ пое́мъ дре́во" (We all sing of the Tree that is worshipped), while the canon of the Menaion is relegated to Compline.
 [^854]: Ode 1 Heirmos of the Canon of the Cross, Tone 6: "Колесницегони́телѧ фараѡ́на" (The chariot-driver Pharaoh / Ἄρματηλάτην Φαραώ), based on the Song of Moses in Exodus 15:1–19.
 [^855]: Typological interpretation of Moses' rod dividing the Red Sea (Exod. 14:16, 21) as a figure of the victory of the Cross over the tempestuous waters of sin.
 [^856]: Ode 3 Heirmos of the Canon of the Cross, Tone 6: "Оу҆твержде́й въ нача́лѣ нб҃са̀" (Thou Who in the beginning didst establish the heavens / Ὁ στερεώσας κατ' ἀρχάς), based on 1 Samuel (1 Kings LXX) 2:2.
 [^857]: Friday Matins Sessional Hymn after Ode 3 in Tone 6: "То́кмѡ водрꙋзи́сѧ дре́во" (No sooner was the Tree of Thy Cross planted, O Christ, than the foundations of death were shaken, O Lord).
 [^858]: Friday Matins Stavrotheotokion after Ode 3, quoting Psalm 98:5 and 131:7 (LXX): "Behold, we worship at the place where Thy feet stood, O Lord."
-[^859]: Ode 4 Heirmos of the Canon of the Cross, Tone 6: "Ты́ моѧ̀ крѣ́пость" (Thou art my strength / Σύ μου ἰσχύς, Κύриε), based on the Canticle of Habakkuk 3 (LXX).
+[^859]: Ode 4 Heirmos of the Canon of the Cross, Tone 6: "Ты́ моѧ̀ крѣ́пость" (Thou art my strength / Σύ μου ἰσχύς, Κύριε), based on the Canticle of Habakkuk 3 (LXX).
 [^860]: Ode 5 Heirmos of the Canon of the Cross, Tone 6: "Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ" (Why hast Thou cast me off / Ἵνα τί με ἀπώσω), based on Isaiah 26:9–20.
 [^861]: Ode 5 Heirmos of the first Triode by Lord Joseph the Hymnographer, Tone 4: "Оу҆жасо́шасѧ всѧ́чєскаѧ" (All things were astonished / Ἐξέστη τὰ σύμπαντα), based on the Song of the Three Youths in Daniel 3 (LXX).
 [^862]: Ode 5 Heirmos of the second Triode by St. Theodore the Studite, Tone 4: "И҆зъ но́щи оу҆́треннююще" (Early in the morning from the night / Ἐκ νυκτὸς ὀρθρίζοντες), based on Isaiah 26:9.
 [^863]: Classical patristic and hymnographic typological tradition based on Isaiah 60:13 (LXX), interpreting the cedar, pine, and cypress as the threefold wood composition of Christ's Holy Cross.
-[^864]: Ode 6 Heirmos of the Canon of the Cross, Tone 6: "Ѡ҆чи́сти мѧ̀ Сп҃се" (Cleanse me, O Savior / Ἱλάσθητί μοι Σωτήр), based on the Canticle of Jonah 2 (LXX).
+[^864]: Ode 6 Heirmos of the Canon of the Cross, Tone 6: "Ѡ҆чи́сти мѧ̀ Сп҃се" (Cleanse me, O Savior / Ἱλάσθητί μοι Σωτήρ), based on the Canticle of Jonah 2 (LXX).
 [^865]: Friday Kontakion of the Precious Cross in Tone 7: "Не ктомꙋ̀ пла́менное ѻ҆рꙋ́жїе" (No longer does the flaming sword guard the gate of Eden), celebrating the abolition of the sting of death (1 Cor. 15:55) and the opening of Paradise to the thief (Luke 23:43).
 [^866]: Friday Ikos of the Precious Cross, dramatically presenting Hades crying out to his infernal powers as Pilate erects three crosses on Golgotha, pierced by the wooden spear and compelled to disgorge Adam and all his lineage.
 [^867]: Ode 7 Heirmos of the Canon of the Cross, Tone 6: "Бж҃їѧ снизхожде́нїа" (The condescension of God / Θεοῦ συγκατάβασιν), based on the Prayer of Azariah in Daniel 3 (LXX).
@@ -5549,8 +5490,8 @@ Have mercy on us, O Lord, have mercy on us.
 [^900]: Ode 7 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Глаго́лавый на горѣ̀" (He Who spoke on the mountain with Moses / Ὁ λαλήσας ἐν ὄρει), based on Exodus 3 and Daniel 3 (LXX).
 [^901]: Ode 8 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Во ѻ҃́гни́ пла́меннѣмъ" (In the fiery flame / Ἐν πυρὶ φλογώδει), based on the Song of the Three Youths in Daniel 3 (LXX).
 [^902]: Ode 8 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Землѧ̀, и҆ всѧ̑ ꙗ҆́же на не́й" (The earth, and all that is therein / Γῆ καὶ πάντα τὰ ἐν αὐτῇ), based on the Benedicite canticle in Daniel 3 (LXX).
-[^903]: Ode 9 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Ꙗ҆́кѡ сотвори́ мнѣ̀ вели́чїе Си́льный" (For He that is mighty has done to me great things / Ὅти ἐποίησέ μοι μεγαлеῖα ὁ δυνατός), based on the Magnificat in Luke 1:49.
-[^904]: Ode 9 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Велича́емъ всѝ" (We all magnify Thy love for mankind / Μεγαλύномен πάντες), based on the Magnificat in Luke 1:46–55.
+[^903]: Ode 9 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Ꙗ҆́кѡ сотвори́ мнѣ̀ вели́чїе Си́льный" (For He that is mighty has done to me great things / Ὅτι ἐποίησέ μοι μεγαλεῖα ὁ δυνατός), based on the Magnificat in Luke 1:49.
+[^904]: Ode 9 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Велича́емъ всѝ" (We all magnify Thy love for mankind / Μεγαλύνομεν πάντες), based on the Magnificat in Luke 1:46–55.
 [^905]: Rubric for the Saturday Matins Exapostilaria: cross-referencing printed folio 107 = physical leaf p111 (Second Saturday of the Great Fast), where the universal Saturday Exapostilaria are written: "Thou Who hast adorned the heaven with stars" (О небеси звѣзды) and the martyria/Hymns for the Departed (Поко́инъ) exapostilaria.
 [^906]: Saturday Matins Aposticha prosomoia by St. Theophanes Graptos (the Branded), Tone 8, Podoben: "O most marvelous wonder" (Ѡ преславнагѡ чудесе).
 [^907]: Saturday Liturgy First Prokeimenon, Tone 8: "Their souls shall dwell among good things" (Psalm 24:13 LXX).
@@ -5568,11 +5509,11 @@ Have mercy on us, O Lord, have mercy on us.
 [^919]: Troparion (Troparion) of St. John Climacus in Tone 1: "Пꙋсты́нный жи́тель" (A dweller of the wilderness), the classic monastic Troparion celebrating St. John's ascetic life on Mount Sinai.
 [^920]: Matins canon rule for the Fourth Sunday of Lent: Resurrectional canon with Theotokion from the Octoechos to 6, followed by the Triodion penitential canon (by St. Theophanes Graptos) to 4, and the Canon of St. John Climacus to 4.
 [^921]: Ode 1 Heirmos of the Triodion Canon, Tone 5: "Спаси́телю Бг҃ꙋ" (Unto God the Savior Who led the people through the sea / Τῷ Σωτῆρι Θεῷ), based on Exodus 15. The canon systematically interprets the Parable of the Good Samaritan (Luke 10:30–37) as an allegory of the human soul stripped, beaten, and wounded by passions and sinful demons, awaiting Christ the true Physician.
-[^922]: Ode 1 Heirmos of the Canon of St. John Climacus, Tone 8: "Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ" (Having traversed the water as dry land / Ὑγρὰν διοδεύσας ὡсеὶ ξηράν), based on Exodus 14.
+[^922]: Ode 1 Heirmos of the Canon of St. John Climacus, Tone 8: "Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ" (Having traversed the water as dry land / Ὑγρὰν διοδεύσας ὡσεὶ ξηράν), based on Exodus 14.
 [^923]: The standard Sunday Katavasia of the Theotokos throughout Great Lent (except when Cross Katavasiai are prescribed): "I shall open my mouth, and it shall be filled with the Spirit" (Отверзу уста моя / Ἀνοίξω τὸ στόμα μου), Ode 1 of the Canon of the Akathist.
 [^924]: Ode 3 Heirmos of the Triodion Canon, Tone 5: "Оу҆тверди́ ны Бж҃е" (Establish us, O God our Savior / Στερέωσον ἡμᾶς ὁ Θεὸς ὁ Σωτὴρ ἡμῶν), based on 1 Samuel (1 Kings LXX) 2:2.
 [^925]: Ode 3 Heirmos of the Canon of St. John Climacus, Tone 8: "Ты̀ є҆сѝ ᲂу҆твержде́нїе" (Thou art the confirmation of them that flee unto Thee / Σὺ εἶ τὸ στερέωμα), based on Psalm 17:3 (LXX).
-[^926]: Matins Sessional Hymn of the Precious Cross in Tone 5, Podoben: "Strange wonder" (Стра́нное чꙋ́до / Τὸ ξένον θαῦма), retaining the mid-Lenten Cross veneration theme on the Fourth Sunday of Lent.
+[^926]: Matins Sessional Hymn of the Precious Cross in Tone 5, Podoben: "Strange wonder" (Стра́нное чꙋ́до / Τὸ ξένον θαῦμα), retaining the mid-Lenten Cross veneration theme on the Fourth Sunday of Lent.
 [^927]: Matins Sessional Hymn for St. John Climacus, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на крⷭ҇тъ / Ὁ ὑψωθεὶς ἐν τῷ σταυρῷ), celebrating his ascent via the ladder of virtues unto the divine vision of God (*theoria*).
 [^928]: Sessional Theotokion, Tone 4 (Podoben: "Thou Who wast lifted up upon the Cross"), completing the hymn begun on Folio 316v (Physical Leaf p320).
 [^929]: Ode 4 Heirmos of the Canon of the Fourth Sunday (Habakkuk biblical canticle), Tone 4: 'I have heard, O Lord, Thy report' (Оу҆слы́шахъ Гдⷭ҇и слꙋ́хъ тво́й / Εἰσακήκοα Κύριε τὴν ἀκοήν σου).
@@ -5623,9 +5564,9 @@ Have mercy on us, O Lord, have mercy on us.
 [^974]: Tuesday Matins of the Fifth Week of the Great Fast.
 [^975]: The Triadica (Hymns to the Trinity) chanted in the tone of the week at Matins during Great Lent.
 [^976]: Tuesday Matins appointed Kathismata: Kathisma 11 (Psalms 77–84 [LXX 77–84]), Kathisma 12 (Psalms 85–90 [LXX 85–90]), and Kathisma 13 (Psalms 91–100 [LXX 91–100]).
-[^977]: Tuesday Matins Sessional Hymn by St. Joseph the Hymnographer, Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры / Θείας πίстеως).
+[^977]: Tuesday Matins Sessional Hymn by St. Joseph the Hymnographer, Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры / Θείας πίστεως).
 [^978]: Tuesday Matins Sessional Hymn by St. Theodore the Studite, Tone 2, Podoben: "Most blessed art thou" (Пребл҃гослове́нна є҆сѝ / Ὑπερευλογημένη ὑπάρχεις).
-[^979]: Sessional Theotokion, Tone 2, Podoben: "Unto Thy most pure icon" (Пречи́стомꙋ / Τὴν ἄхранτον εἰκόνα σου).
+[^979]: Sessional Theotokion, Tone 2, Podoben: "Unto Thy most pure icon" (Пречи́стомꙋ / Τὴν ἄχραντον εἰκόνα σου).
 [^980]: Ode 2 Heirmos of the Tuesday Matins Triode by St. Joseph the Hymnographer, Tone 3: 'Give ear, O earth and heaven' (Вонмѝ землѐ и҆ не́бо / Πρόσεχε γῆ καὶ οὐρανέ), based on the biblical canticle of Moses in Deuteronomy 32.
 [^981]: Ode 2 Heirmos of the Tuesday Matins Triode by St. Theodore the Studite, Tone 2: 'Give ear, ye people' (Внемли́те лю́дїе / Προσέχετε λαοί).
 [^982]: Ode 8 Heirmos of the Tuesday Matins Triode by St. Joseph the Hymnographer, Tone 3: 'Incessantly by angels' (А҆́гг҃льми немо́лчнѡ / Ἀγγέλοις ἀσιγήτως).
@@ -5675,7 +5616,7 @@ Have mercy on us, O Lord, have mercy on us.
 [^1026]: Wednesday Vespers Idiomelon, Tone 8, chanted twice, continuing the contemplation of the Good Samaritan (Luke 10:30–37).
 [^1027]: Martyrikon of Tone 8.
 [^1028]: Vespers Stichera of the Triodion by St. Joseph the Hymnographer, Tone 8, Podoben: "O Lord, though before the judgment seat" (Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи / Κύριε, εἰ καὶ κριτηρίῳ).
-[^1029]: Vespers Sticheron by St. Theodore the Studite, Tone 8, Podoben: "The glorious and most pure" (Сла́внꙋю и҆ Пречⷭ҇тꙋю / Τὴν ἔνδοξον καὶ ἄχранτον).
+[^1029]: Vespers Sticheron by St. Theodore the Studite, Tone 8, Podoben: "The glorious and most pure" (Сла́внꙋю и҆ Пречⷭ҇тꙋю / Τὴν ἔνδοξον καὶ ἄχραντον).
 [^1030]: The twenty-four alphabetical penitential stichera by Saint Andrew of Crete (Tone 4, Podoben: "I desired with tears" [Хотѣ́хъ слеза́ми / Ἤθελον δάκρυσιν]), appointed for Wednesday Vespers of the Fifth Week of the Great Fast as the prelude to the Great Canon chanted at Thursday Matins. In the Greek original, each sticheron forms an acrostic following the twenty-four letters of the Greek alphabet from Alpha (Ἅπαντα τὸν βίον μου) to Omega (Ὦ τῆς ἀφάτου σου εὐσπλαγχνίας). In the Slavonic printed Triodion, the printer preserves this sequence by numbering the stichera in the margin with Cyrillic numerical letters (А҃ through Ѡ҃), with sticheron 15 corresponding to Greek Omicron.
 [^1031]: Rubric directing three full prostrations (metanias) to be made at each of the twenty-four alphabetical stichera, totaling seventy-two prostrations at "Lord, I have cried."
 [^1032]: First Vespers Prokeimenon (Psalm 93:1, 2 [LXX 93:1, 2], Tone 4).
@@ -5701,7 +5642,7 @@ Have mercy on us, O Lord, have mercy on us.
 [^1052]: The acrostic in the Greek Triodion: Σὺ ὁσία Μαρία βοήθει ("Do thou, Venerable Mary, help").
 [^1053]: Refrain for the troparia of Venerable Mary of Egypt: "Venerable Mother Mary, pray to God for us" (Преподобная мати Марїе, моли Бога о насъ).
 [^1054]: Refrain for the troparia added in honor of St. Andrew of Crete: "Venerable Father Andrew, pray to God for us" (Преподобне отче Андрее, моли Бога о насъ).
-[^1055]: Ode 2 Heirmos of the Great Canon, Tone 6: "Give ear, O heaven, and I will speak" (Вонми небо, и возглаголю / Πρόсехе οὐρανέ, καὶ λαλήσω), drawing upon the Great Canticle of Moses in Deuteronomy 32:1.
+[^1055]: Ode 2 Heirmos of the Great Canon, Tone 6: "Give ear, O heaven, and I will speak" (Вонми небо, и возглаголю / Πρόσεχε οὐρανέ, καὶ λαλήσω), drawing upon the Great Canticle of Moses in Deuteronomy 32:1.
 [^1056]: St. Andrew meditates on the coats of skins and fig leaves from Genesis 3:7, 21, Psalm 128:3 [LXX 128:3: "The sinners wrought upon my back"], and the Parable of the Lost Coin (Luke 15:8–10).
 [^1057]: Ode 2 contains two distinct heirmoi and sections in the Great Canon. This second Heirmos of Ode 2 ("See, see that I am God" / Ἴδετε ἴδετε, ὅτι ἐγώ εἰμι Θεός) is drawn from Deuteronomy 32:39, and Exodus 16–17.
 [^1058]: St. Andrew contrasts the penitent's fall with the antediluvian patriarchs: Seth (Genesis 4:25), Enos who began to call upon the name of the Lord (Genesis 4:26), Enoch who pleased God and was translated (Genesis 5:24), and Noah who built the ark (Genesis 6–7).
@@ -5715,7 +5656,7 @@ Have mercy on us, O Lord, have mercy on us.
 [^1066]: Theotokion concluding the sessional hymns after Ode 3, invoking the intercession of the Mother of God together with the Holy Apostles for peace throughout the world and repentance before the end.
 [^1067]: Rubric directing that the Triodion (the three-ode canon to the Apostles by St. Joseph the Hymnographer) is chanted without prostrations (metanias), distinguishing it from the Great Canon where three metanias accompany each troparion.
 [^1068]: Ode 4 Heirmos of the Triodion to the Apostles, Tone 8: "I have heard, O Lord, the mystery of Thy dispensation" (Услышахъ Господи смотренія твоего таинство / Εἰσακήκοα Κύριε, τὴν ἀκοὴν τῆς σῆς οἰκονομίας), drawing upon the Canticle of Habakkuk (Habakkuk 3:2).
-[^1069]: The Twelve Apostles are likened to a mystical twelve-stringed musical instrument (двоенадесятострунный органъ / δωδεκάχорδον ὄργανον), playing the saving melody of the Gospel and confounding evil deceit.
+[^1069]: The Twelve Apostles are likened to a mystical twelve-stringed musical instrument (двоенадесятострунный органъ / δωδεκάχορδον ὄργανον), playing the saving melody of the Gospel and confounding evil deceit.
 [^1070]: Second canon of the Triodion to the Apostles by St. Theodore the Studite (759–826), Tone 8, sharing the same heirmos.
 [^1071]: Ode 4 Heirmos of the Great Canon, Tone 6: "The prophet heard of Thy coming, O Lord" (Услыша пророкъ пришествіе твое Господи / Ἀκήκοεν ὁ προφήτης, τὴν ἔλευσίν σου Κύριε), drawing upon Habakkuk 3:2 and the mystery of the Incarnation from the Virgin.
 [^1072]: St. Andrew allegorizes Jacob's ladder (Genesis 28:12) and his two wives (Genesis 29): Leah represents active ascetical practice (πρᾶξις), fruitful in good deeds, while Rachel represents contemplative knowledge and spiritual vision (θεωρία), attained through great labor. "A mind seeing God" invokes the traditional Patristic etymology of Israel (ὁ ὁρῶν Θεόν), leading to the unwaning divine darkness (γνόφος) of mystical theology.
@@ -5737,7 +5678,7 @@ Have mercy on us, O Lord, have mercy on us.
 [^1088]: Old Testament types in the Beatitudes troparia: Samson conquered by Delilah (Judges 16); Barak and Deborah (Judges 4–5); Jephthah the judge (Judges 11); Jael slaying Sisera with a tent peg (Judges 4:21), a classic patristic type of the Cross defeating Satan; and Jephthah offering his daughter as a vowed sacrifice (Judges 11:30–40), allegorized as the soul immolating carnal passions before God.
 [^1089]: Gideon's fleece receiving heavenly dew and his soldiers lapping water like dogs at the spring of Harod (Judges 6:36–40; 7:4–7); the condemnation of the high priest Eli for failing to discipline his sacrilegious sons Hophni and Phinehas (1 Kingdoms 2:12–36 [1 Samuel 2:12–36]); the Levite of Ephraim cutting the body of his abused concubine into twelve pieces and sending them throughout the tribes of Israel to expose the sin of the Benjaminites of Gibeah (Judges 19); and the barren Hannah praying silently in the tabernacle at Shiloh, moving only her lips, to give birth to Samuel (1 Kingdoms 1 [1 Samuel 1]).
 [^1090]: Samuel raised in the tabernacle at Shiloh and dedicated to the Lord (1 Kingdoms 1–3); King David anointed with the horn of divine oil by Samuel (1 Kingdoms 16:13), urging the soul to receive the mystical anointing of penitential tears; followed by the Beatitudes Doxasticon and Theotokion confessing Christ as one divine Person (Hypostasis) in two distinct unconfused natures, echoing the Definition of Chalcedon (451).
-[^1091]: Ode 7 Heirmos of the Great Canon, Tone 6: "We have sinned, we have transgressed, we have done unrighteously before Thee" (Согрѣши́хомъ, беззако́нновахомъ / Ἡμάρтомен, ἠνομήσαμεν, ἠδικήσαμεν ἐνώπιόν σου), based upon the Canticle of the Three Holy Children in the Babylonian furnace (Daniel 3:26–45 / Prayer of Azariah).
+[^1091]: Ode 7 Heirmos of the Great Canon, Tone 6: "We have sinned, we have transgressed, we have done unrighteously before Thee" (Согрѣши́хомъ, беззако́нновахомъ / Ἡμάρτομεν, ἠνομήσαμεν, ἠδικήσαμεν ἐνώπιόν σου), based upon the Canticle of the Three Holy Children in the Babylonian furnace (Daniel 3:26–45 / Prayer of Azariah).
 [^1092]: Saul seeking the lost asses of his father Kish and unexpectedly receiving the royal anointing from Samuel (1 Kingdoms 9–10 [1 Samuel 9–10]), warning the soul not to prefer irrational passions over the Kingdom of Christ.
 [^1093]: King David's double sin of adultery with Bathsheba and the murder of Uriah the Hittite (2 Kingdoms 11 [2 Samuel 11]), contrasted with his immediate confession before the prophet Nathan and his penitential composition of Psalm 50 (LXX); Uzzah (За́нъ) struck dead for irreverently touching the Ark of the Covenant when the oxen stumbled (2 Kingdoms 6:6–7); Absalom's unnatural rebellion against his father David and the defilement of his father's concubines (2 Kingdoms 15–16); and the wicked counsel of Ahithophel overthrown by the providence of God (2 Kingdoms 15–17).
 [^1094]: Solomon's exemplary wisdom corrupted in old age through his foreign wives who led his heart after strange gods (3 Kingdoms 11 [1 Kings 11]); Rehoboam provoking the division of the kingdom by despising the counsel of the elders (3 Kingdoms 12); Jeroboam leading the northern tribes into golden-calf idolatry at Bethel and Dan (3 Kingdoms 12:26–33); and Ahab's tyrannical wickedness and idolatry incited by Queen Jezebel (3 Kingdoms 16:30–33; 21).
@@ -5785,7 +5726,7 @@ Have mercy on us, O Lord, have mercy on us.
 [^1136]: Physical leaf p342 = Printed Folio 338 + 4. Cross-reference to Thursday of the Great Canon (Fifth Week of the Great Fast), detailing the opening order of Matins with the Royal Office, Six Psalms, and "God is the Lord" in Tone 8.
 [^1137]: Saturday of the Fifth Week of the Great Fast, the Akathist of the Most Holy Theotokos (Saturday of the Akathist / Praise of the Most Holy Theotokos). The festal troparion in Tone 8, "Having received the secret command in spirit" (Τὸ προσταχθὲν μυστικῶς / Повелѣ́нное та́йнѡ), introduces the celebration. Following the 16th Kathisma (Psalms 109–117), the celebrated automelon Kontakion in Tone 8, "To thee, the Champion Leader" (Τῇ ὑπερμάχῳ στρατηγῷ / Взбра́нной воево́дѣ), is chanted slowly and melodiously in the midst of the nave. The rubric prescribes the censing of the entire church and the liturgical division of the 24 stanzas of the Akathist into four stases of six stanzas each, chanted by the priest standing in the holy sanctuary before the icon of the Mother of God.
 [^1138]: First Stasis of the Akathist Hymn (Stanzas 1–6, Greek alphabet Alpha through Zeta, A–Z): Ikos 1 (A: Ἄγγελος πρωτοστάτης / А҆́ггелъ предста́тель) with its twelve angelic salutations ("Rejoice..."); Kontakion 2 (B: Βλέπουσα ἡ Ἁγία / Ви́дѧщи Ст҃а́ѧ); Ikos 2 (G: Γνῶσιν ἄγνωστον / Ра́зꙋмъ недоразꙋмѣва́емый); Kontakion 3 (D: Δύναμις τοῦ Ὑψίστου / Си́ла Вы́шнѧгѡ); Ikos 3 (E: Ἔχουσα θεοδόχον / И҆мꙋ́щи бг҃опрїя́тнꙋю); and Kontakion 4 (Z: Ζάλην ἔνδοθεν ἔχων / Бꙋ́рю внꙋ́трь и҆мѣ́ѧ), portraying the Annunciation, the Visitation of the Virgin to Elizabeth (Luke 1:39–56), and the perplexity and reassurance of the righteous Joseph (Matthew 1:18–25).
-[^1139]: Second Stasis of the Akathist Hymn (Stanzas 7–12, Greek alphabet Eta through Lambda, H–L): Ikos 4 (H: Ἤκουσαν οἱ ποιμένες / Слы́шаша па́стырїе); Kontakion 5 (Th: Θεοδρόμον ἀστέρα / Бг҃оте́чнꙋю ѕвѣздꙋ̀); Ikos 5 (I: Ἴδον παῖδες Χалдаίων / Ви́дѣша ѻ҆́троцы халде́йстїи); Kontakion 6 (K: Κήρυκες θεοφόροι / Проповѣ́дницы бг҃оно́снїи); and Ikos 6 (L: Λάмψας ἐν τῇ Αἰγύπτῳ / Возсїя́вый во Е҆гѵ́птѣ), recounting the adoration of the shepherds at Bethlehem (Luke 2:8–20), the journey and adoration of the Magi from Babylon (Matthew 2:1–12), and the Flight into Egypt with the casting down of idols (Isaiah 19:1). Interspersed with the reading of the 17th Kathisma (The Blameless / LXX Ps. 118) and the patristic reading from the Akathist Synaxarion.
+[^1139]: Second Stasis of the Akathist Hymn (Stanzas 7–12, Greek alphabet Eta through Lambda, H–L): Ikos 4 (H: Ἤκουσαν οἱ ποιμένες / Слы́шаша па́стырїе); Kontakion 5 (Th: Θεοδρόμον ἀστέρα / Бг҃оте́чнꙋю ѕвѣздꙋ̀); Ikos 5 (I: Ἴδον παῖδες Χαλδαίων / Ви́дѣша ѻ҆́троцы халде́йстїи); Kontakion 6 (K: Κήρυκες θεοφόροι / Проповѣ́дницы бг҃оно́снїи); and Ikos 6 (L: Λάμψας ἐν τῇ Αἰγύπτῳ / Возсїя́вый во Е҆гѵ́птѣ), recounting the adoration of the shepherds at Bethlehem (Luke 2:8–20), the journey and adoration of the Magi from Babylon (Matthew 2:1–12), and the Flight into Egypt with the casting down of idols (Isaiah 19:1). Interspersed with the reading of the 17th Kathisma (The Blameless / LXX Ps. 118) and the patristic reading from the Akathist Synaxarion.
 [^1140]: Conclusion of the Second Stasis with Kontakion 7 (M: Μέλλοντος Συμεῶνος / Хотѧ́щꙋ Сѷмеѡ́нꙋ), celebrating the Presentation of the Lord in the Temple (Luke 2:25–35). The Canon of the Akathist in Tone 4, composed by St. Joseph the Hymnographer (ca. 816–886), bearing the Greek acrostic: "Receptacle of joy, to thee alone it is fitting to rejoice. Joseph" (Χαρᾶς δοχεῖον, σοὶ πρέπει χαίρειν μόνῃ. Ἰωσήφ / Ра́дости прїя́телище, тебѣ̀ подоба́етъ ра́доватися є҆ди́нѣй), with Heirmoi of the 4th Tone ("I shall open my mouth" and "Establish thy singers, O Theotokos"). The stanzas extol the Mother of God as the living Book of Christ, the untilled field bearing the Bread of life, and the spotless heifer. Opening of the Third Stasis with Ikos 7 (N: Νέαν ἔδειξε κτίσιν / Но́вꙋю показа̀ тва́рь).
 [^1141]: Third Stasis of the Akathist Hymn (Stanzas 13–18, Greek alphabet Nu through Sigma, N–S): completion of Ikos 7; Kontakion 8 (X: Ξένον τόκον ἰδόντες / Стра́нное Ржⷭ҇тво̀); Ikos 8 (O: Ὅλος ἦν ἐν τοῖς κάτω / Ве́сь бѣ̀ въ ни́жнихъ); Kontakion 9 (P: Πᾶσα φύσις ἀγγέλων / Вся́кое є҆стество̀ А҆́гг҃льское); Ikos 9 (R: Ῥήτορας πολυφθόγγους / Вѣті̑ѧ многовѣща̑нныѧ); and Kontakion 10 (S: Σῶσαι θέλων τὸν κόσμον / Спастѝ хотя̀ мі́ръ), setting forth the theological contemplation of the Incarnation, the paradox of the virginal childbearing confounding pagan philosophers and Athenian sophists, and the good Shepherd calling all creation unto Himself.
 [^1142]: Sessional Hymn after the Third Stasis of the Akathist Hymn, Tone 1, set to the melodic model Podoben "While the soldiers were guarding Thy tomb" (Τὸν τάφον σου Σωτήρ / Гро́бъ тво́й), celebrating the Archangel Gabriel's Annunciation to the Virgin Mary at Nazareth. Ode 4 Heirmos ("He Who sits in glory upon the throne of the Godhead...") and Canon of the Akathist in Tone 4 composed by St. Joseph the Hymnographer (ca. 816–886), featuring the Greek alphabetical acrostic letters Σ-Ο-Ι  Π-Ρ-Ε-Π-Ε-Ι (σοὶ πρέπει).
@@ -5815,7 +5756,7 @@ Have mercy on us, O Lord, have mercy on us.
 [^1166]: The opening sticheron of Sunday evening marks the liturgical transition to the Sixth Week of the Great Fast (Palm Week), introducing the prefestal themes of the Entrance of our Lord into Jerusalem and the raising of Lazarus.
 [^1167]: Physical leaf p179 = Printed Folio 175 + 4. Cross-reference to the Great Prokeimenon of Sunday evening in Tone 8: "Thou hast given an inheritance to them that fear Thy name" (Psalm 60:6 LXX), first printed with its verses at Vespers on the Fourth Sunday of Lent.
 [^1168]: Monday of the Sixth Week of Lent initiates the solemn cycle of Palm Week (Седми́ца ва́їй / Ἑβδομὰς τῶν βαΐων), directing the Church's contemplation toward the raising of the four-days-dead Lazarus in Bethany and the triumphal entry of the Lord into Jerusalem.
-[^1169]: Sessional hymn following the third stichology of the Psalter on Monday of Palm Week. The hymn marks the formal liturgical entry into the Sixth Week of the Great Fast (Седми́ца ва́їй / Ἑβдоμὰς τῶν βαΐων), interweaving the ascetic completion of the Forty Days with the approaching resurrection of Lazarus and the triumphal entry of the Lord into Jerusalem.
+[^1169]: Sessional hymn following the third stichology of the Psalter on Monday of Palm Week. The hymn marks the formal liturgical entry into the Sixth Week of the Great Fast (Седми́ца ва́їй / Ἑβδομὰς τῶν βαΐων), interweaving the ascetic completion of the Forty Days with the approaching resurrection of Lazarus and the triumphal entry of the Lord into Jerusalem.
 [^1170]: The two Matins canons (triodia) of Monday of Palm Week: the first triodion (Odes 1, 8, and 9) in Tone 1 is by St. Joseph the Hymnographer, emphasizing personal compunction, repentance from spiritual sloth, and liberation from the fate of the unmerciful rich man. The second triodion in Tone 1 is by St. Theodore the Studite, dramatizing the impending journey of Christ from beyond Jordan toward Bethany and Bethphage to raise Lazarus.
 [^1171]: Ode 8 of the Studite triodion addresses Bethany directly as the honored home of Lazarus, Martha, and Mary, portraying the village as the holy threshold of the Lord's victory over hades and death.
 [^1172]: The Aposticha Idiomelon of Monday Matins in Tone 5 takes up the Gospel archetype of the Rich Man and Poor Lazarus (Luke 16:19–31), invoking the imagery of the beggar cast before the gate to plead for drops of divine mercy before the dread tribunal.

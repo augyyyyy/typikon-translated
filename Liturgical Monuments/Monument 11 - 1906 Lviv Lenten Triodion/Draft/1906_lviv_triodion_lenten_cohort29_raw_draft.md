@@ -21,7 +21,7 @@ Bless us, O God, our God, bless us, O God![^762]
 *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*[^763]  
 In the midst of the earth Thou didst endure the Cross and Passion, O Compassionate One, granting dispassion and deliverance unto all at this mid-point of the fast; therefore we all set it forth for veneration and joyfully kiss it, that, enlightened by divine virtues, we all may be accounted worthy, O Word of God, to behold Thy Passion and Thy life-bearing Resurrection, O only Abundantly Merciful One.
 
-*Podoben:*[^764]  
+*Podoben (Подо́бенъ):*[^764]  
 Thou wast stretched out dead upon the Cross and pierced with a spear, and given gall to drink, O Long-suffering One, Who by the hand of Moses didst turn the waters of Marah into sweetness; therefore I pray Thee and entreat Thee: drive away the most bitter passions from my mind, and sweetening my intellect with the honey of repentance, show me forth as a venerator of Thy precious Passion.
 
 *Another, Tone 1. Podoben: "Of old Moses" (Дре́вле Мѡѷсе́й):*[^765]  
@@ -75,7 +75,7 @@ Beholding Thee hanging naked upon the Cross, the Author and Creator of all, all 
 *Tone 6, Podoben: "O hope of the world" (Оу҆пова́нїе мі́ра):*[^777]  
 Sanctifying the time of fasting, the divine and most honorable Cross lies forth for veneration; let us draw near with a pure conscience, let us draw forth sanctification and enlightenment, and with fear let us cry aloud: O Lover of mankind, our Savior, glory to Thy tenderhearted compassion! *(Twice)*
 
-*Stavrotheotokion. Podoben:*[^778]  
+*Stavrotheotokion. Podoben (Подо́бенъ):*[^778]  
 Standing by the Cross, the unwedded Mother, beholding Him Who was born of her without seed, cried aloud: A sword has pierced my heart, O Savior, unable to bear seeing Thee suspended upon the Tree, before Whom all creation trembles as Creator and God; O Long-suffering One, glory to Thee!
 
 *After the third stichology, a sessional hymn by Lord Theodore.*  

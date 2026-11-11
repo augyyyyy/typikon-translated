@@ -16,8 +16,8 @@
 [^900]: Ode 7 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Глаго́лавый на горѣ̀" (He Who spoke on the mountain with Moses / Ὁ λαλήσας ἐν ὄρει), based on Exodus 3 and Daniel 3 (LXX).
 [^901]: Ode 8 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Во ѻ҃́гни́ пла́меннѣмъ" (In the fiery flame / Ἐν πυρὶ φλογώδει), based on the Song of the Three Youths in Daniel 3 (LXX).
 [^902]: Ode 8 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Землѧ̀, и҆ всѧ̑ ꙗ҆́же на не́й" (The earth, and all that is therein / Γῆ καὶ πάντα τὰ ἐν αὐτῇ), based on the Benedicite canticle in Daniel 3 (LXX).
-[^903]: Ode 9 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Ꙗ҆́кѡ сотвори́ мнѣ̀ вели́чїе Си́льный" (For He that is mighty has done to me great things / Ὅти ἐποίησέ μοι μεγαлеῖα ὁ δυνατός), based on the Magnificat in Luke 1:49.
-[^904]: Ode 9 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Велича́емъ всѝ" (We all magnify Thy love for mankind / Μεγαλύномен πάντες), based on the Magnificat in Luke 1:46–55.
+[^903]: Ode 9 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Ꙗ҆́кѡ сотвори́ мнѣ̀ вели́чїе Си́льный" (For He that is mighty has done to me great things / Ὅτι ἐποίησέ μοι μεγαλεῖα ὁ δυνατός), based on the Magnificat in Luke 1:49.
+[^904]: Ode 9 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Велича́емъ всѝ" (We all magnify Thy love for mankind / Μεγαλύνομεν πάντες), based on the Magnificat in Luke 1:46–55.
 [^905]: Rubric for the Saturday Matins Exapostilaria: cross-referencing printed folio 107 = physical leaf p111 (Second Saturday of the Great Fast), where the universal Saturday Exapostilaria are written: "Thou Who hast adorned the heaven with stars" (О небеси звѣзды) and the martyria/nekrosima exapostilaria.
 [^906]: Saturday Matins Aposticha prosomoia by St. Theophanes Graptos (the Branded), Tone 8, Podoben: "O most marvelous wonder" (Ѡ преславнагѡ чудесе).
 [^907]: Saturday Liturgy First Prokeimenon, Tone 8: "Their souls shall dwell among good things" (Psalm 24:13 LXX).
@@ -35,9 +35,9 @@
 [^919]: Apolytikion (Troparion) of St. John Climacus in Tone 1: "Пꙋсты́нный жи́тель" (A dweller of the wilderness), the classic monastic apolytikion celebrating St. John's ascetic life on Mount Sinai.
 [^920]: Matins canon rule for the Fourth Sunday of Lent: Resurrectional canon with Theotokion from the Octoechos to 6, followed by the Triodion penitential canon (by St. Theophanes Graptos) to 4, and the Canon of St. John Climacus to 4.
 [^921]: Ode 1 Heirmos of the Triodion Canon, Tone 5: "Спаси́телю Бг҃ꙋ" (Unto God the Savior Who led the people through the sea / Τῷ Σωτῆρι Θεῷ), based on Exodus 15. The canon systematically interprets the Parable of the Good Samaritan (Luke 10:30–37) as an allegory of the human soul stripped, beaten, and wounded by passions and sinful demons, awaiting Christ the true Physician.
-[^922]: Ode 1 Heirmos of the Canon of St. John Climacus, Tone 8: "Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ" (Having traversed the water as dry land / Ὑγρὰν διοδεύσας ὡсеὶ ξηράν), based on Exodus 14.
+[^922]: Ode 1 Heirmos of the Canon of St. John Climacus, Tone 8: "Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ" (Having traversed the water as dry land / Ὑγρὰν διοδεύσας ὡσεὶ ξηράν), based on Exodus 14.
 [^923]: The standard Sunday Katavasia of the Theotokos throughout Great Lent (except when Cross Katavasiai are prescribed): "I shall open my mouth, and it shall be filled with the Spirit" (Отверзу уста моя / Ἀνοίξω τὸ στόμα μου), Ode 1 of the Canon of the Akathist.
 [^924]: Ode 3 Heirmos of the Triodion Canon, Tone 5: "Оу҆тверди́ ны Бж҃е" (Establish us, O God our Savior / Στερέωσον ἡμᾶς ὁ Θεὸς ὁ Σωτὴρ ἡμῶν), based on 1 Samuel (1 Kings LXX) 2:2.
 [^925]: Ode 3 Heirmos of the Canon of St. John Climacus, Tone 8: "Ты̀ є҆сѝ ᲂу҆твержде́нїе" (Thou art the confirmation of them that flee unto Thee / Σὺ εἶ τὸ στερέωμα), based on Psalm 17:3 (LXX).
-[^926]: Matins Sessional Hymn of the Precious Cross in Tone 5, Podoben: "Strange wonder" (Стра́нное чꙋ́до / Τὸ ξένον θαῦма), retaining the mid-Lenten Cross veneration theme on the Fourth Sunday of Lent.
+[^926]: Matins Sessional Hymn of the Precious Cross in Tone 5, Podoben: "Strange wonder" (Стра́нное чꙋ́до / Τὸ ξένον θαῦμα), retaining the mid-Lenten Cross veneration theme on the Fourth Sunday of Lent.
 [^927]: Matins Sessional Hymn for St. John Climacus, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на крⷭ҇тъ / Ὁ ὑψωθεὶς ἐν τῷ σταυρῷ), celebrating his ascent via the ladder of virtues unto the divine vision of God (*theoria*).

@@ -114,7 +114,7 @@ Today all creation rejoices, for the Archangel says unto thee: Rejoice, O blesse
 Gabriel from heaven calls "Rejoice" unto the venerable one, for she shall conceive in her womb the pre-eternal God, Who by His word composed the ends of the earth. Therefore Mary answered: I know not a man, and how shall I bear a son? Who has ever seen a birth without seed? And explaining, the angel spoke unto the Virgin Birthgiver of God: The Holy Spirit shall come upon thee, and the power of the Most High shall overshadow thee!
 
 === LEAF p155 ===
-*Glory, both now, Tone 8, the same Podoben:*
+*Glory, both now, Tone 8, the same Podoben (Подо́бенъ то́йже):*
 
 Gabriel was sent unto the Virgin Mary, and announced unto her the ineffable joy, that without seed she should conceive, and not suffer corruption: For thou shalt bear the Son, the pre-eternal God, and He shall save His people from their sins. And He Who sent me bears witness, that I should cry unto thee, O blessed one: Rejoice! A Virgin thou shalt give birth, and after giving birth thou shalt still remain a virgin!
 

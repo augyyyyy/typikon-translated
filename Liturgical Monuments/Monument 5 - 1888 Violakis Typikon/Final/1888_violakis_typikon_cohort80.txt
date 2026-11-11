@@ -83,7 +83,7 @@ The Epistle of the day: Romans 6:3–11 (Baptized into Christ's Death, Buried wi
 **"Arise, O God, judge the earth; for Thou shalt inherit among all the nations!"** (*Ἀνάστα ὁ Θεὸς κρῖνον τὴν γῆν, ὅτι σὺ κατακληρονομήσεις ἐν πᾶσι τοῖς ἔθνεσι*, Ps. 81:8 LXX).
 
 This verse is repeated by the choirs after each of the following verses of Psalm 81 LXX intoned by the Canonarch:
-    1. **"God standeth in the assembly of gods; in the midst He judgeth gods"** (*Ὁ Θεὸς ἔστη ἐν συναγωγῇ θεῶν*, Ps. 81:1 LXX);
+    1. **"God stands in the assembly of gods; in the midst He judges gods"** (*Ὁ Θεὸς ἔστη ἐν συναγωγῇ θεῶν*, Ps. 81:1 LXX);
     2. **"How long will ye judge unjustly, and accept the persons of the wicked?"** (*Ἕως πότε κρίνετε ἀδικίαν*, Ps. 81:2 LXX);
     3. **"Judge the orphan and the poor; do justice to the humble and needy"** (*Κρίνατε ὀρφανῷ καὶ πτωχῷ*, Ps. 81:3 LXX);
     4. **"Rescue the poor and needy; deliver them out of the hand of the sinner"** (*Ἐξέλεσθε πένητα καὶ πτωχόν*, Ps. 81:4 LXX);
@@ -95,7 +95,7 @@ After the final verse, **"Arise, O God"** is chanted in a slower and more majest
 Then the Gospel: Matthew 28:1–20 (The Resurrection of Christ: "In the end of the Sabbath, as it began to dawn toward the first day of the week..." until "even unto the end of the world") is read from the ambo. And then the Divine Liturgy of Saint Basil the Great continues in its regular order.
 
 Instead of the usual Cherubic Hymn, the following Troparion in Tone 5 is chanted:
-**"Let all mortal flesh keep silence, and stand with fear and trembling, and ponder nothing earthly within itself; for the King of kings and Lord of lords cometh forth to be slain, and to be given as food to the faithful. Before Him go the choirs of angels with every principality and power,"** [The Great Entrance is made] **"the many-eyed Cherubim and the six-winged Seraphim, covering their faces and singing the hymn: Alleluia, Alleluia, Alleluia!"** (*Σιγησάτω πᾶσα σὰρξ βροτεία...*)...[^456]
+**"Let all mortal flesh keep silence, and stand with fear and trembling, and ponder nothing earthly within itself; for the King of kings and Lord of lords comes forth to be slain, and to be given as food to the faithful. Before Him go the choirs of angels with every principality and power,"** [The Great Entrance is made] **"the many-eyed Cherubim and the six-winged Seraphim, covering their faces and singing the hymn: Alleluia, Alleluia, Alleluia!"** (*Σιγησάτω πᾶσα σὰρξ βροτεία...*)...[^456]
 
 *(Printed Page 779)*
 
@@ -201,7 +201,7 @@ Then he sings the Paschal Troparion in Tone 5:
 **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!"** (*Χριστὸς ἀνέστη ἐκ νεκρῶν, θανάτῳ θάνατον πατήσας, καὶ τοῖς ἐν τοῖς μνήμασι, ζωὴν χαρισάμενος*) [three times];
 and the choirs repeat it six times, while the Patriarch censes and intones the four Paschal Verses of Psalm 67 LXX:
     1. **"Let God arise, and let His enemies be scattered; let them also that hate Him flee before Him!"** (*Ἀναστήτω ὁ Θεός*, Ps. 67:2 LXX);
-    2. **"As smoke vanisheth, so let them vanish; as wax melteth before the fire!"** (*Ὡς ἐκλείπει καπνός*, Ps. 67:3 LXX);
+    2. **"As smoke vanishes, so let them vanish; as wax melts before the fire!"** (*Ὡς ἐκλείπει καπνός*, Ps. 67:3 LXX);
     3. **"So let the wicked perish at the presence of God; and let the righteous be glad!"** (*Οὕτως ἀπολοῦνται οἱ ἁμαρτωλοί*, Ps. 67:3 LXX);
     4. **"This is the day which the Lord hath made; let us rejoice and be glad in it!"** (*Αὕτη ἡ ἡμέρα ἣν ἐποίησεν ὁ Κύριος*, Ps. 117:24 LXX).
 

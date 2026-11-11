@@ -3,7 +3,7 @@
 ...circuit [of death], having in truth borne in the flesh beyond mind the eternal Life, Whom touching with bitter lips, Hades was abolished, O most holy Virgin Mother!
 
 *Troparion:*
-Sitting upon the throne in Master's state, Thy Son placed thee, O pure one, at His right hand, shining brightly with the gold of divine virtues, rendering honor unto thee as His Mother, O all-immaculate one!
+Sitting upon the throne in Master's state, thy Son placed thee, O pure one, at His right hand, shining brightly with the gold of divine virtues, rendering honor unto thee as His Mother, O all-immaculate one!
 
 *Troparion:*
 Beyond mind is thy childbirth, O Mother of God; for the conception in thee was without a man, and the birth was virginal; for God is He Who was born, Whom magnifying, we call thee blessed, O Virgin!

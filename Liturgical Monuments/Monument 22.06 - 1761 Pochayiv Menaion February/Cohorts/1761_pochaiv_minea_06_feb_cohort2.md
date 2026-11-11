@@ -231,7 +231,7 @@
 
 *Holding the Master in his arms with fear and joy, Symeon asked release from life, praising the Mother of God.*
 
-*Glory... Both now... Tone 6. Podoben the same:*
+*Glory... Both now... Tone 6. Podoben the same (Подо́бенъ то́йже):*
 
 *Receive into thine embrace as an infant, O Symeon, cried out the all-immaculate one, the Lord of glory, and the salvation of the world!*
 

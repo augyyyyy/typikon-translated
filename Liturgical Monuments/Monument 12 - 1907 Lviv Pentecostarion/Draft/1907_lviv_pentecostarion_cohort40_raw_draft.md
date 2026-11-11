@@ -234,7 +234,7 @@ Having ineffably conceived in thy womb the God of all, O Virgin Mother, thou did
 *Sessional Hymn of the Samaritan Woman, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ):*  
 Let heaven rejoice, let earthly things be glad, for Christ hath appeared from the Virgin as man, and hath delivered all humanity from corruption by His death; and shining forth with miracles unto the Samaritan woman who asked for water, He grants a fountain of healings, as the only Immortal One![^795]
 
-*Glory, both now and for ever and unto ages of ages. Amen. Tone 4, the same Podoben:*  
+*Glory, both now and for ever and unto ages of ages. Amen. Tone 4, the same Podoben (Подо́бенъ то́йже):*  
 O Bestower of wisdom and Master, Thou didst present Thyself at the lawful feast, and sitting in the temple, Thou didst teach, saying thus unto all: Come, ye that thirst, drink the water which I now give, whereby all men shall enjoy life from God and delight![^796]
 
 *Ode 4. Heirmos:*  

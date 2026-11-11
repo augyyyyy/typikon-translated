@@ -34,7 +34,7 @@ O how the lawless assembly condemned to death the King of creation! Not being as
 
 *Both now, in the same tone [Tone 6]:*
 
-A fearsome and most glorious mystery is seen accomplished today: He Who is untouchable is held; He Who loosed Adam from the curse is bound; He Who tris the hearts and reins is unjustly tried; He Who shut up the abyss is shut up in prison; before Pilate stands He before Whom heavenly powers stand with trembling; with the hand of the creature the Creator is buffeted; to the Tree is condemned He Who judges the living and the dead; in the tomb is enclosed the Destroyer of hades! O Thou Who didst endure all things mercifully, and hast saved all from the curse, O innocent Lord, glory to Thee!
+A fearsome and most glorious mystery is seen accomplished today: He Who is untouchable is held; He Who loosed Adam from the curse is bound; He Who tries the hearts and reins is unjustly tried; He Who shut up the abyss is shut up in prison; before Pilate stands He before Whom heavenly powers stand with trembling; with the hand of the creature the Creator is buffeted; to the Tree is condemned He Who judges the living and the dead; in the tomb is enclosed the Destroyer of hades! O Thou Who didst endure all things mercifully, and hast saved all from the curse, O innocent Lord, glory to Thee!
 
 *Entrance with the Gospel.*
 
@@ -66,7 +66,7 @@ The Lord blessed the latter days of Job more than the former; and he had fourtee
 
 *The Reading from the Prophecy of Isaiah (Chapter 52):*[^270]
 
-*Thus saith the Lord: Behold, My Servant shall understand... The End: ...Than she that hath a husband.*
+*Thus says the Lord: Behold, My Servant shall understand... The End: ...Than she that hath a husband.*
 
 *(see fol. 124).*[^271]
 

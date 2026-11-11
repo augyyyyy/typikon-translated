@@ -1,6 +1,6 @@
 === LEAF p801 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (Paschal Matins Concluded: Ode 9 Megalynaria, Praises, and Liturgy Opening)
+## Pentekostarion: The Sunday of Holy Pascha (Paschal Matins Concluded: Ode 9 Megalynaria, Praises, and Liturgy Opening)
 
 ## Τῇ Κυριακῇ τοῦ Πάσχα: Ὁ Ὄρθρος τοῦ Πάσχα (Συνέχεια καὶ Τέλος: Ὠδὴ θ΄ Μεγαλυνάρια καὶ Αἶνοι) [Violakis, p. 786]
 
@@ -37,7 +37,7 @@
 
 === LEAF p802 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (Paschal Matins Concluded: Ode 9 Megalynaria, Praises, and Liturgy Opening)
+## Pentekostarion: The Sunday of Holy Pascha (Paschal Matins Concluded: Ode 9 Megalynaria, Praises, and Liturgy Opening)
 
 ## The Sunday of Pascha: Paschal Matins Concluded (Ode 9 Megalynaria and Praises) [Violakis, p. 787]
 
@@ -47,7 +47,7 @@
     **"Magnify, O my soul, Christ the Giver of life, Who arose from the grave on the third day!"** (*Μεγάλυνον ψυχή μου τὸν ἐξαναστάντα τριήμερον*)
     [The same Heirmos repeated].
 
-    **"Christ is the new Pascha, the living sacrificial Victim, the Lamb of God Who taketh away the sin of the world!"** (*Χριστὸς τὸ καινὸν Πάσχα*)
+    **"Christ is the new Pascha, the living sacrificial Victim, the Lamb of God Who takes away the sin of the world!"** (*Χριστὸς τὸ καινὸν Πάσχα*)
     Troparion: **"O Thy divine, O Thy beloved, O Thy sweetest voice! For Thou hast truly promised to be with us unto the end of the age, O Christ; and holding this as an anchor of hope, we the faithful rejoice!"** (*Ὢ θείας, ὢ φίλης*)...
 
     **"Today the whole creation is glad and does rejoice, for Christ has risen, and Hades has been despoiled!"** (*Σήμερον πᾶσα κτίσις ἀγάλλεται καὶ χαίρει*)
@@ -70,7 +70,7 @@
 
 === LEAF p803 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Opening) (§ 2 Opening)
+## Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Opening) (§ 2 Opening)
 
 ## Τῇ Κυριακῇ τοῦ Πάσχα: Ἡ Θεία Λειτουργία (Ἀρχή) (§ 2 Ἀρχή) [Violakis, p. 788]
 
@@ -117,7 +117,7 @@
 
 === LEAF p804 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Opening) (§ 2 Opening)
+## Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Opening) (§ 2 Opening)
 
 ## The Sunday of Pascha: The Divine Liturgy (Opening) (§ 2 Opening) [Violakis, p. 789]
 
@@ -145,7 +145,7 @@
             Antiphon Three
     **"Let God arise, and let His enemies be scattered; let them also that hate Him flee before Him!"** [Ps. 67:2 LXX]
     *Refrain:* **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!"** (*Χριστὸς ἀνέστη ἐκ νεκρῶν*).
-    **"As smoke vanisheth, so let them vanish; as wax melteth before the fire!"** [Ps. 67:3 LXX]
+    **"As smoke vanishes, so let them vanish; as wax melts before the fire!"** [Ps. 67:3 LXX]
     *Refrain:* **"Christ is risen from the dead..."**
     **"So let the wicked perish at the presence of God; and let the righteous be glad!"** [Ps. 67:3 LXX]
     *Refrain:* **"Christ is risen from the dead..."**
@@ -158,7 +158,7 @@
 
 === LEAF p805 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Concluded) (§ 2 Concluded) and Paschal Vespers Opening (§ 3 Opening)
+## Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Concluded) (§ 2 Concluded) and Paschal Vespers Opening (§ 3 Opening)
 
 ## Τῇ Κυριακῇ τοῦ Πάσχα: Ἡ Θεία Λειτουργία (Τέλος) (§ 2 Τέλος) καὶ ὁ Ἑσπερινὸς τῆς Ἀγάπης (Ἀρχή) (§ 3 Ἀρχή) [Violakis, p. 790]
 
@@ -179,7 +179,7 @@
 
 === LEAF p806 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Concluded) (§ 2 Concluded) and Paschal Vespers Opening (§ 3 Opening)
+## Pentekostarion: The Sunday of Holy Pascha (The Divine Liturgy Concluded) (§ 2 Concluded) and Paschal Vespers Opening (§ 3 Opening)
 
 ## The Sunday of Pascha: The Divine Liturgy Concluded (§ 2 Concluded) and Paschal Vespers Opening (§ 3 Opening) [Violakis, p. 791]
 
@@ -208,7 +208,7 @@ After the Dismissal, the Patriarch and the concelebrating Hierarchs, thus vested
 
 === LEAF p807 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (Paschal Agape Vespers Concluded) (§ 3 Concluded)
+## Pentekostarion: The Sunday of Holy Pascha (Paschal Agape Vespers Concluded) (§ 3 Concluded)
 
 ## Τῇ Κυριακῇ τοῦ Πάσχα: Ὁ Ἑσπερινὸς τῆς Ἀγάπης (Τέλος) (§ 3 Τέλος) [Violakis, p. 792]
 
@@ -218,7 +218,7 @@ After the Dismissal, the Patriarch and the concelebrating Hierarchs, thus vested
 
 === LEAF p808 ===
 
-# Pentekostarion: The Sunday of Holy Pascha (Paschal Agape Vespers Concluded) (§ 3 Concluded)
+## Pentekostarion: The Sunday of Holy Pascha (Paschal Agape Vespers Concluded) (§ 3 Concluded)
 
 ## The Sunday of Pascha: Paschal Agape Vespers Concluded (§ 3 Concluded) [Violakis, p. 793]
 
@@ -244,7 +244,7 @@ While this is chanted, the Patriarch and the Hierarchs exit the Sanctuary and as
 
 === LEAF p809 ===
 
-# Bright Week: Bright Monday (§§ 4–5) and Bright Friday: The Life-Giving Fountain Opening (§ 6 Opening)
+## Bright Week: Bright Monday (§§ 4–5) and Bright Friday: The Life-Giving Fountain Opening (§ 6 Opening)
 
 ## Τῇ Δευτέρᾳ τῆς Διακαινησίμου (§§ 4–5) καὶ τῇ Παρασκευῇ: Ἡ Ζωοδόχος Πηγὴ (Ἀρχή) (§ 6 Ἀρχή) [Violakis, p. 794]
 
@@ -266,7 +266,7 @@ While this is chanted, the Patriarch and the Hierarchs exit the Sanctuary and as
 
 === LEAF p810 ===
 
-# Bright Week: Bright Monday (§§ 4–5) and Bright Friday: The Life-Giving Fountain Opening (§ 6 Opening)
+## Bright Week: Bright Monday (§§ 4–5) and Bright Friday: The Life-Giving Fountain Opening (§ 6 Opening)
 
 ## Bright Monday (§§ 4–5) and Bright Friday: The Life-Giving Fountain (Opening) (§ 6 Opening) [Violakis, p. 795]
 

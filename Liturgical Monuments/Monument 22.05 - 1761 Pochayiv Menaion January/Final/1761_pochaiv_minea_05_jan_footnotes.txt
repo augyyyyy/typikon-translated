@@ -876,7 +876,7 @@
 
 [^437]: Fol. 33r. Troparion of the Forefeast, Ode 7.
 
-[^438]: Fol. 33r. Another Canon of the Seventy Apostles, Ode 7, Heirmos, Tone 4: "Не послужи́ша тва́ри бг҃омꙋ́дрїи па́че созда́вшагѡ...". The Slavonic text in the 1761 Pochaiv print exhibits a damaged font sort or typographical anomaly reading "Не поRangeжи́ша" for "Не послужи́ша".
+[^438]: Fol. 33r. Another Canon of the Seventy Apostles, Ode 7, Heirmos, Tone 4: "Не послужи́ша тва́ри бг҃омꙋ́дрїи па́че созда́вшагѡ..." (cf. Daniel 3).
 
 [^439]: Fol. 33r. Troparion of the Apostles, Ode 7.
 
@@ -1602,7 +1602,7 @@
 
 [^800]: Psalm 113:3 (LXX) [Ps. 114:3 MT]: *The sea saw and fled: Jordan was turned back.*
 
-[^801]: Psalm 76:17 (LXX) [Ps. 77:16 MT]: *The waters saw thee, O God, the waters saw thee, and were afraid.*
+[^801]: Psalm 76:17 (LXX) [Ps. 77:16 MT]: *The waters saw Thee, O God, the waters saw Thee, and were afraid.*
 
 [^802]: Psalm 113:5 (LXX) [Ps. 114:5 MT]: *What ailed thee, O thou sea, that thou fleddest? and thou Jordan, that thou wast turned back?*
 
@@ -1614,7 +1614,7 @@
 
 [^806]: St. Cosmas the Melodist, Bishop of Maiuma (d. ca. 787).
 
-[^807]: Acrostic: In the Greek original, the acrostic reads: Βάπτισма ῥύψις γηγενῶν ἁμαρτάδος (*Baptism is the cleansing of the sin of the earthborn*), replicated faithfully in Slavonic: *Креще́нiе ѡ҆чище́нiе земноро́дныхъ грѣхѡ́въ*.
+[^807]: Acrostic: In the Greek original, the acrostic reads: Βάπτισμα ῥύψις γηγενῶν ἁμαρτάδος (*Baptism is the cleansing of the sin of the earthborn*), replicated faithfully in Slavonic: *Креще́ніе ѡ҆чище́ніе земноро́дныхъ грѣхѡ́въ*.
 
 [^808]: Exodus 14:21–28; 15:1–21.
 
@@ -1682,7 +1682,7 @@
 
 [^840]: Matthew 3:16; Mark 1:10; Luke 3:21–22; John 1:32–34.
 
-[^841]: Psalm 4:6 (LXX) [Ps. 4:6 MT]: *Lord, lift thou up the light of thy countenance upon us.*
+[^841]: Psalm 4:6 (LXX) [Ps. 4:6 MT]: *Lord, lift Thou up the light of Thy countenance upon us.*
 
 [^842]: 1 Timothy 6:16: *Dwelling in the light which no man can approach unto [light inaccessible].*
 
@@ -2006,7 +2006,7 @@
 
 [^1002]: Joshua 3:14–17; Psalm 113:3 (LXX) [Ps. 114:3 MT].
 
-[^1003]: Job 9:10; Psalm 71:18 (LXX) [Ps. 72:18 MT]: *Blessed be the Lord God, the God of Israel, who only does wondrous things.*
+[^1003]: Job 9:10; Psalm 71:18 (LXX) [Ps. 72:18 MT]: *Blessed be the Lord God, the God of Israel, who only does marvelous things.*
 
 [^1004]: Exodus 3:2: *And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.*
 
@@ -5306,7 +5306,7 @@
 
 [^2652]: Troparion of St. Xenophon and his Companions, Tone 4.
 
-[^2653]: The acrostic of the canon in the Greek Menaion is: *Ξενοφῶνта μέλπω σὺν ὁμευνέτιδι καὶ τέκνοις. Θεοφάνους* ("I sing Xenophon with his spouse and children. [A work of] Theophanes").
+[^2653]: The acrostic of the canon in the Greek Menaion is: *Ξενοφῶντα μέλπω σὺν ὁμευνέτιδι καὶ τέκνοις. Θεοφάνους* ("I sing Xenophon with his spouse and children. [A work of] Theophanes").
 
 [^2654]: Ode 1, Heirmos: Exodus 14:21–22; Exodus 15:1.
 
@@ -5926,7 +5926,7 @@
 
 [^2962]: The acrostic reflects the Greek original of St. Theophanes Graptos (Ἰγνάτιον ἑῴαν ἐν ᾄσμασιν ἀστέρα μέλπω. Θεοφάνους), translated literally into Slavonic where the acrostic letters no longer form a verse.
 
-[^2963]: The Pochaiv print reads "помáзєши свѣ́тлѡ, мꙋ́никѡвъ" for "мꙋ́ченикѡвъ" ("of martyrs"). Greek: καταχρίσας φαιδρῶς μυреψικῷ ἐλαίῳ, μαρτύρων ἐγκαλλώπισμα.
+[^2963]: The Pochaiv print reads "помáзєши свѣ́тлѡ, мꙋ́никѡвъ" for "мꙋ́ченикѡвъ" ("of martyrs"). Greek: καταχρίσας φαιδρῶς μυρεψικῷ ἐλαίῳ, μαρτύρων ἐγκαλλώπισμα.
 
 [^2964]: Quoting the celebrated words of St. Ignatius in his Epistle to the Romans, IV: "I am the wheat of God, and let me be ground by the teeth of the wild beasts, that I may be found the pure bread of Christ" (Σῖτός εἰμι θεοῦ, καὶ δι' ὀδόντων θηρίων ἀλήθομαι...).
 

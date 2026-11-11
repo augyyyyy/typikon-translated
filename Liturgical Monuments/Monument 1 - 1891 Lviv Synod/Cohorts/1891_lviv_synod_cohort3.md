@@ -1,64 +1,23 @@
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-## Cohort 3: Physical Pages 41–60 (Leaves p41–p60)
-
-> [!NOTE]
-> **Historical & Canonical Significance**  
-> Cohort 5 of the **1891 Lviv Provincial Synod** (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*) spans three crucial conciliar milestones:  
-> 1. **Conclusion of the Closing Conciliar Rites (Leaves p41–p44 / Book pp. 39–42)**: The formal motion of conciliar closure by the Promoter, the episcopal suffrage (*placet*), the promulgation of the statutory Decree of Conclusion, the solemn charging of the conciliar Notaries, the kneeling adoration and exposition of the Most Holy Eucharist, the singing of the traditional Church Slavonic Supplications (*suplikatsia / умилительну пѣснь*) and *Te Deum laudamus* with the triple episcopal Eucharistic blessing from the Altar (*Prestol*), the solemn Dismissal (*Otpost*), the Polychronion (*Mnohaya Lita*), the mutual Kiss of Peace through all ranks of the clergy, and the statutory mandate enjoining the faithful translation of the conciliar acts into Latin for transmission to the Sacred Congregation *de Propaganda Fide*.  
-> 2. **Part VI: Synodal Epistolary Exchange with the Holy See (Leaves p45–p47 / Book pp. 43–45)**: The official Synodal Letter of the Galician Greek-Catholic Episcopate (Metropolitan Sylvester Sembratovych, Bishop Julian Pelesz, and Bishop Julian Kuylivsky) to Pope Leo XIII (October 8, 1891), reporting the completion of the synodal labors under Apostolic Delegate Agostino Ciasca and petitioning apostolic confirmation; followed by Pope Leo XIII's Apostolic Letter *Venerabilibus Fratribus* (May 20, 1895), praising the pastoral zeal of the Ruthenian hierarchy, commending the codification of liturgical and disciplinary norms, and imparting the Apostolic Blessing upon the episcopate and the entire Ruthenian nation.  
-> 3. **Part VII: Acts of the Congregations and Sessions (Leaves p48–p60 / Book pp. 46–58)**: The official historical protocols of the Synod, beginning with **General Congregation I** (September 24, 1891) in the Metropolitan Chapel—encompassing the Divine Liturgy of the Holy Spirit, the synodal oath of secrecy (*secretum synodale*), the statutory constitution of the conciliar officers (Judges of Excuses and Complaints, Promoters, Secretaries, Notaries, Masters of Ceremonies, Theologians and Canonists) and the three Conciliar Commissions (Dogmatic-Disciplinary, Rubrical-Liturgical, Monastic-Administrative), the examination of chapter credentials, and the scheduling of Session I. This is followed by **Session 1** (Sunday, September 27, 1891) in St. George Cathedral, featuring the conciliar address of Apostolic Delegate Ciasca invoking Saints Cyril and Methodius (with citation of the encyclical *Grande Munus*), the public reading of the Papal Brief of Delegation (*Litterae Apostolicae* of September 4, 1891) and Cardinal Rampolla's telegraphic blessing, the formal opening of the conciliar sessions, the recitation and Gospel oath of the **Solemn Profession of Faith** (*Forma Fidei Orthodoxae*) prescribed by Pope Urban VIII for Orientals—affirming the Nicene-Constantinopolitan Creed, the Seven Ecumenical Councils, the Council of Florence (the *Filioque*, Eucharistic confection in azyme or leavened bread, Purgatory, Papal Primacy), the Council of Trent (the Eucharistic Sacrifice, Transubstantiation, the Seven Sacraments, Scripture and Tradition), and the First Vatican Council (Papal Infallibility and Primacy)—concluding with the nominal subscription register of all synodal prelates, dignitaries, pastors, and theologians.
-
----
-
-## Table of Contents
-1. [Conclusion of the Conciliar Ceremonies (Leaves p41–p44 / pp. 39–42)](#1-conclusion-of-the-conciliar-ceremonies)
-   - [Promoter's Motion & Suffrage of Dissolution (Leaf p41 / p. 39)](#promoters-motion--suffrage-of-dissolution)
-   - [Decree on the Conclusion of the Synod (Leaf p41 / p. 39)](#decree-on-the-conclusion-of-the-synod)
-   - [Admonition to Notaries & Descent to the Altar (Leaf p41 / p. 39)](#admonition-to-notaries--descent-to-the-altar)
-   - [Eucharistic Exposition & The Slavonic Supplications (Leaf p42 / p. 40)](#eucharistic-exposition--the-slavonic-supplications)
-   - [The Te Deum & Triple Eucharistic Blessing (Leaf p42 / p. 40)](#the-te-deum--triple-eucharistic-blessing)
-   - [Solemn Dismissal, Polychronion, & Kiss of Peace (Leaves p43–p44 / pp. 41–42)](#solemn-dismissal-polychronion--kiss-of-peace)
-   - [Mandate on Latin Translation & Propaganda Submission (Leaf p44 / p. 42)](#mandate-on-latin-translation--propaganda-submission)
-2. [Part VI: Epistolary Exchange with the Apostolic See (Leaves p45–p47 / pp. 43–45)](#2-part-vi-epistolary-exchange-with-the-apostolic-see)
-   - [Synodal Letter of the Ruthenian Episcopate to Pope Leo XIII (Leaves p45–p46 / pp. 43–44)](#synodal-letter-of-the-ruthenian-episcopate-to-pope-leo-xiii)
-   - [Apostolic Letter of Pope Leo XIII to the Ruthenian Hierarchy (Leaf p47 / p. 45)](#apostolic-letter-of-pope-leo-xiii-to-the-ruthenian-hierarchy)
-3. [Part VII: Acts of the Congregations and Sessions (Leaves p48–p60 / pp. 46–58)](#3-part-vii-acts-of-the-congregations-and-sessions)
-   - [General Congregation I: Metropolitan Chapel (Leaves p48–p50 / pp. 46–48)](#general-congregation-i-metropolitan-chapel)
-     - [Liturgical Opening & Oath of Synodal Secrecy (Leaf p48 / p. 46)](#liturgical-opening--oath-of-synodal-secrecy)
-     - [Nomination of Synodal Officers & The Three Commissions (Leaves p48–p50 / pp. 46–48)](#nomination-of-synodal-officers--the-three-commissions)
-     - [Verification of Summons & Reading of Session I Decrees (Leaf p50 / p. 48)](#verification-of-summons--reading-of-session-i-decrees)
-   - [Session 1: St. George Archcathedral (Leaves p50–p60 / pp. 48–58)](#session-1-st-george-archcathedral)
-     - [Solemn Procession & Conciliar Address of Delegate Ciasca (Leaves p50–p52 / pp. 48–50)](#solemn-procession--conciliar-address-of-delegate-ciasca)
-     - [Apostolic Brief of Delegation & Cardinal Rampolla's Telegram (Leaves p52–p54 / pp. 50–52)](#apostolic-brief-of-delegation--cardinal-rampollas-telegram)
-     - [Decree of Opening & Profession of Faith (Leaf p54 / p. 52)](#decree-of-opening--profession-of-faith)
-     - [Formula of the Profession of Faith (Urban VIII) (Leaves p54–p59 / pp. 52–57)](#formula-of-the-profession-of-faith-urban-viii)
-     - [Adhesion Formula & Complete Nominal Subscription Register (Leaves p59–p60 / pp. 57–58)](#adhesion-formula--complete-nominal-subscription-register)
-4. [Scholarly Critical Apparatus & Footnotes](#scholarly-critical-apparatus--footnotes)
-
----
-
-## 1. Conclusion of the Conciliar Ceremonies
-
 === LEAF p41 ===
 *(Physical Page 39 / Leaf p41)*
 
-### Promoter's Motion & Suffrage of Dissolution
+**Promoter's Motion & Suffrage of Dissolution**
 
-"Your Grace! Whereas, on the one hand, all that it pleased the Fathers to deliberate and establish at this Synod hath, by the help of God, been happily accomplished; and, on the other hand, pastoral solicitude summoneth the Most Reverend Bishops present at this Synod back to the flock entrusted unto Them: I, the Promoter of this Synod, do make motion and most humbly pray that Your Grace may deign to bring this Synod to a close, and to promulgate the Decree on the Conclusion of the Synod."  
+"Your Grace! Whereas, on the one hand, all that it pleased the Fathers to deliberate and establish at this Synod hath, by the help of God, been happily accomplished; and, on the other hand, pastoral solicitude summons the Most Reverend Bishops present at this Synod back to the flock entrusted unto Them: I, the Promoter of this Synod, do make motion and most humbly pray that Your Grace may deign to bring this Synod to a close, and to promulgate the Decree on the Conclusion of the Synod."  
 *The Metropolitan shall say:* "This we decree and command, if it so please the Most Reverend Fathers" [^20].  
-*The Secretary asketh the Most Reverend Fathers Bishops:* "Most Reverend Fathers Hierarchs! Doth it please you now to conclude this Synod unto the glory of Almighty God?"  
-*Having received the answer:* "It pleaseth us," *and reported the same to the Metropolitan, the latter shall say:* "It pleaseth all the Fathers; wherefore we decree the conclusion of this Synod, and hereby do conclude it."  
+*The Secretary asks the Most Reverend Fathers Bishops:* "Most Reverend Fathers Hierarchs! Doth it please you now to conclude this Synod unto the glory of Almighty God?"  
+*Having received the answer:* "It pleases us," *and reported the same to the Metropolitan, the latter shall say:* "It pleases all the Fathers; therefore we decree the conclusion of this Synod, and hereby do conclude it."  
 
-### Decree on the Conclusion of the Synod
+**Decree on the Conclusion of the Synod**
 
-*The Secretary, having received the Decree on the Conclusion of the Synod from the Most Reverend Metropolitan, shall read it and announce it as followeth:*  
+*The Secretary, having received the Decree on the Conclusion of the Synod from the Most Reverend Metropolitan, shall read it and announce it as follows:*  
 "S. S. . . . Metropolitan, etc.  
-Whereas all that this Provincial Synod was to deliberate upon, what it was to establish and decide, hath by the help of God already been accomplished and brought to an end, and nothing further remaineth whereon deliberation should be held; and moreover, pastoral solicitude summoneth the Most Reverend Fathers Bishops present at this Synod back to their flock: with the assent of the same Most Reverend Fathers Bishops, we ordain and decree that this Synod be concluded, and by this very act we do conclude it. Thanks be to God!" [^21].  
+Whereas all that this Provincial Synod was to deliberate upon, what it was to establish and decide, hath by the help of God already been accomplished and brought to an end, and nothing further remains whereon deliberation should be held; and moreover, pastoral solicitude summons the Most Reverend Fathers Bishops present at this Synod back to their flock: with the assent of the same Most Reverend Fathers Bishops, we ordain and decree that this Synod be concluded, and by this very act we do conclude it. Thanks be to God!" [^21].  
 
-### Admonition to Notaries & Descent to the Altar
+**Admonition to Notaries & Descent to the Altar**
 
-*After the promulgation of the Decree, the Promoter summoneth the Notaries with these words:* "I, the Promoter of this Synod, do admonish and pray you, Venerable Notaries of this Synod, that you diligently record all who were present at this final Session, and draw up an accurate and authentic report of all that was treated and enacted at this Synod."  
-*The First Notary answereth:* "I shall draw it up."  
+*After the promulgation of the Decree, the Promoter summons the Notaries with these words:* "I, the Promoter of this Synod, do admonish and pray you, Venerable Notaries of this Synod, that you diligently record all who were present at this final Session, and draw up an accurate and authentic report of all that was treated and enacted at this Synod."  
+*The First Notary answers:* "I shall draw it up."  
 *After all this, the Most Reverend Metropolitan shall deliver a brief concluding address to the conciliar members.*  
 *At the conclusion of the address, the Most Reverend Metropolitan, vested in all sacred vestments, the Bishops in mantiyas and mitres, and the Chapter Canons in epitrachelia and phelonia, shall descend to the lowest step of the Altar (*Prestol*),*
 
@@ -67,7 +26,7 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 === LEAF p42 ===
 *(Physical Page 40 / Leaf p42)*
 
-### Eucharistic Exposition & The Slavonic Supplications
+**Eucharistic Exposition & The Slavonic Supplications**
 
 *and here all, having bent their knees, shall bow down with a profound inclination of the head before the Most Holy Mystery of the Eucharist, removed from the Tabernacle (*Kyvot*) by the Deacon and exposed upon the Altar. After the thrice-repeated incensation of the Most Holy Mystery by the Metropolitan, the same Metropolitan together with the assisting Priests shall chant the hymn used in the Ruthenian Churches, the so-called Supplication (*suplikatsia* / *умилительну пѣснь*) in the Slavonic tongue:*  
 1) "Holy God, Holy Mighty, Holy Immortal, have mercy on us" *(thrice); and the people, chanting, repeat the same three times.*  
@@ -79,9 +38,9 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 7) "O Jesus, O Jesus, O Jesus, Son of the Living God, have mercy upon us." *And the people the same.*  
 8) "O Mary, O Mary, O Mary, Mother of the Son of God Most High, intercede for us." *And the people.*  
 
-### The Te Deum & Triple Eucharistic Blessing
+**The Te Deum & Triple Eucharistic Blessing**
 
-*Upon the conclusion of these prayers and the thrice-repeated incensation of the Most Holy Gifts, the Metropolitan shall intone the hymn:* "We praise Thee, O God" (*Te Deum laudamus*), *and then the choir and people standing alternately with the clergy shall chant the remaining verses of the hymn up to the words:* "Save Thy people, O Lord." *Before these words, the Metropolitan, having incensed the Most Holy Gifts three times, approacheth the Altar, and holding in his hands the Ostensorium (*Daronosytsia*) containing the Most Holy Gifts, facing the people, proclaimeth:* "Save Thy people, O Lord!" *once and a second time, and these same words are chanted by all assisting with the people; then the Metropolitan proclaimeth again:* "Save Thy people, O Lord, and bless Thine inheritance," *and chanting these words, blesseth the people toward the three sides, while the people, together with the clergy and choir, chant the remaining verses of the Ambrosian hymn unto the end.*  
+*Upon the conclusion of these prayers and the thrice-repeated incensation of the Most Holy Gifts, the Metropolitan shall intone the hymn:* "We praise Thee, O God" (*Te Deum laudamus*), *and then the choir and people standing alternately with the clergy shall chant the remaining verses of the hymn up to the words:* "Save Thy people, O Lord." *Before these words, the Metropolitan, having incensed the Most Holy Gifts three times, approaches the Altar, and holding in his hands the Ostensorium (*Daronosytsia*) containing the Most Holy Gifts, facing the people, proclaims:* "Save Thy people, O Lord!" *once and a second time, and these same words are chanted by all assisting with the people; then the Metropolitan proclaims again:* "Save Thy people, O Lord, and bless Thine inheritance," *and chanting these words, blesses the people toward the three sides, while the people, together with the clergy and choir, chant the remaining verses of the Ambrosian hymn unto the end.*  
 *After this, having incensed the Most Holy Gifts three times, They are reposed into the Tabernacle (*Kyvot*).*  
 *The choir shall begin to chant:* "Blessed be the name of the Lord from now and forever" *(thrice).*
 
@@ -90,15 +49,15 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 === LEAF p43 ===
 *(Physical Page 41 / Leaf p43)*
 
-### Solemn Dismissal, Polychronion, & Kiss of Peace
+**Solemn Dismissal, Polychronion, & Kiss of Peace**
 
 *The Metropolitan, facing the faithful in mitre and with pastoral staff, shall impart the customary blessing to the people and those present; and if he hath most graciously obtained from the Holy Father the faculty to impart the Papal Blessing, he shall then give the Papal Blessing with plenary indulgences according to the form prescribed for such a blessing.*  
-*Then the Deacon proclaimeth:* "Wisdom!" *Choir:* "More honorable than the Cherubim, and more glorious beyond compare than the Seraphim, without defilement Thou gavest birth to God the Word: true Mother of God, Thee do we magnify."  
+*Then the Deacon proclaims:* "Wisdom!" *Choir:* "More honorable than the Cherubim, and more glorious beyond compare than the Seraphim, without defilement Thou gavest birth to God the Word: true Mother of God, Thee do we magnify."  
 *Metropolitan:* "Glory be to Thee, O Christ God, our hope, glory be to Thee." *Choir:* "Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Lord, have mercy" *(twice).* "Master, bless."  
-*The Metropolitan, standing facing the people and holding the holy Cross in his right hand, proclaimeth the Dismissal (*Otpost*):*  
+*The Metropolitan, standing facing the people and holding the holy Cross in his right hand, proclaims the Dismissal (*Otpost*):*  
 "May Christ our true God, through the prayers of His most pure Mother; by the power of the precious and life-giving Cross; of the holy Archistrategos Michael; of the holy Joseph the Betrothed; of the holy, glorious, and all-praised Apostles Peter and Paul; of the holy Andrew the First-Called, and of the other holy Apostles; of the holy Apostles of the Slavs Cyril and Methodius; of the holy Hieromartyr Josaphat; of the holy, glorious, God-fearing Ruthenian Princes Vladimir and Olga; of our venerable Fathers Anthony and Theodosius of the Caves; of the holy and righteous Ancestors of God Joachim and Anna; and of the holy Great-Martyr, Victorious Wonderworker George, whose temple this is; and of all the Saints: have mercy † and save † you †, for He is good and the Lover of mankind." —  
 *Choir:* "Amen."  
-*After these prayers, the Metropolitan intoneth the Polychronion (*Mnohaya Lita*):* "To the Most Holy Ecumenical Hierarch Leo, Pope of Rome: Many years!"  
+*After these prayers, the Metropolitan intones the Polychronion (*Mnohaya Lita*):* "To the Most Holy Ecumenical Hierarch Leo, Pope of Rome: Many years!"  
 *Clergy, choir, and people:* "Many years!"  
 *Metropolitan:* "To our right-believing and God-preserved Emperor Franz Joseph: Many years!"  
 *Choir:* "Many years!"  
@@ -120,10 +79,10 @@ Whereas all that this Provincial Synod was to deliberate upon, what it was to es
 *Choir:* "Many years!"  
 *The same:* "To all orthodox Christians: Many years!"  
 *Choir:* "Many years!"  
-*After this, the Metropolitan, having laid aside the sacred vestments, vesteth in the mantiya, and giving the Kiss of Peace, kisseth the senior Bishop on the left shoulder, saying:* "Christ is among us," *who, kissing the shoulder of the Metropolitan in turn, answereth:* "He is and shall be"; *and he approacheth the other Bishop and giveth him the Kiss of Peace in the same manner, who thereafter approacheth the first Canon and greeteth him with peace and kissing with the aforesaid words, and so it proceedeth down unto the last Priest, repeating the same greeting and response.*  
+*After this, the Metropolitan, having laid aside the sacred vestments, vests in the mantiya, and giving the Kiss of Peace, kisses the senior Bishop on the left shoulder, saying:* "Christ is among us," *who, kissing the shoulder of the Metropolitan in turn, answers:* "He is and shall be"; *and he approaches the other Bishop and gives him the Kiss of Peace in the same manner, who thereafter approaches the first Canon and greets him with peace and kissing with the aforesaid words, and so it proceeds down unto the last Priest, repeating the same greeting and response.*  
 *When all have greeted one another in this manner, they shall forthwith proceed in procession to the Metropolitan Palace, and having bidden farewell to the Metropolitan, shall depart to their homes in peace.*
 
-### Mandate on Latin Translation & Propaganda Submission
+**Mandate on Latin Translation & Propaganda Submission**
 
 The Acts and Decrees of the Synod, not only recorded in the original text, that is, in the vernacular Ruthenian language, but also well and faithfully translated into the Latin tongue, shall be dispatched as speedily as possible to the Holy Apostolic See, through His Eminence the Cardinal Prefect of the Sacred Congregation of Propaganda, for examination and approval.  
 And finally, when they shall have been approved, they shall be promulgated and observed.
@@ -138,23 +97,23 @@ And finally, when they shall have been approved, they shall be promulgated and o
 === LEAF p45 ===
 *(Physical Page 43 / Leaf p45)*
 
-### VI.
+**VI.**
 
-#### Synodal Letter of the Ruthenian Episcopate to Pope Leo XIII
-*Letter of the Ruthenian Episcopate of the Province of Galicia, Wherein the Same Reporteth to the Holy Father the Completion of the Synod and Humbly Prayeth for the Approval of the Decrees.*
+**Synodal Letter of the Ruthenian Episcopate to Pope Leo XIII**
+*Letter of the Ruthenian Episcopate of the Province of Galicia, Wherein the Same Reports to the Holy Father the Completion of the Synod and Humbly Prays for the Approval of the Decrees.*
 
 **Most Holy Father!**
 
-We hasten to report to Your Holiness that the work which we, having assembled for the benefit and good of our Church, undertook, hath been happily accomplished with the help of Almighty God and the Most Blessed Virgin Mary. For unto You, Most Holy Father, and unto Your goodwill toward our Ruthenian people, is it to be attributed that this Provincial Synod was celebrated for the growth of the Catholic faith, for the closest bond of holy Union with the Roman Church, for the ordering of the morals of the clergy, for the proper regulation of priestly life, and for the fitting establishment of our discipline. This Synod, mindful of those truths which You, Most Holy Father, in Your exalted Constitutions and Encyclicals have set forth as testimonies of heavenly doctrine, and which illumine the whole universe like the brightest light, accepteth and revereth the same, and hath resolved to append them unto its own Acts. We profess that all which the Hierarchs and the entire Priesthood of this ecclesiastical Province desired, hath come to pass through the fatherly love of Your Holiness toward us, since it was regarded as exceedingly desirable that some prelate from among the Roman Hierarchy should preside over this our assembly, who, representing the person of the Roman Pontiff Himself, should exercise the office of Apostolic Delegate.  
-Receive, Most Holy Father, the grateful sentiments of our soul, that, gifted with piercing discernment of mind, You selected for that office the Most Reverend Agostino Ciasca, Archbishop of Larissa, a man so illustrious, distinguished in learning, and exceedingly skilled in the knowledge of Eastern rites. He, by his prudence, patience, moderation conjoined with resolve, and other endowments so greatly necessary for such an office, distinguished himself especially in the General Congregations, so that he not only guided divergent and differing opinions to the attainment of truth, but also won the minds of those present unto himself and carried them away in admiration. And indeed his wisdom shone forth most brilliantly in his collaboration both in drafting and in properly arranging all that relateth...
+We hasten to report to Your Holiness that the work which we, having assembled for the benefit and good of our Church, undertook, hath been happily accomplished with the help of Almighty God and the Most Blessed Virgin Mary. For unto You, Most Holy Father, and unto Your goodwill toward our Ruthenian people, is it to be attributed that this Provincial Synod was celebrated for the growth of the Catholic faith, for the closest bond of holy Union with the Roman Church, for the ordering of the morals of the clergy, for the proper regulation of priestly life, and for the fitting establishment of our discipline. This Synod, mindful of those truths which You, Most Holy Father, in Your exalted Constitutions and Encyclicals have set forth as testimonies of heavenly doctrine, and which illumine the whole universe like the brightest light, accepts and reveres the same, and hath resolved to append them unto its own Acts. We profess that all which the Hierarchs and the entire Priesthood of this ecclesiastical Province desired, hath come to pass through the fatherly love of Your Holiness toward us, since it was regarded as exceedingly desirable that some prelate from among the Roman Hierarchy should preside over this our assembly, who, representing the person of the Roman Pontiff Himself, should exercise the office of Apostolic Delegate.  
+Receive, Most Holy Father, the grateful sentiments of our soul, that, gifted with piercing discernment of mind, You selected for that office the Most Reverend Agostino Ciasca, Archbishop of Larissa, a man so illustrious, distinguished in learning, and exceedingly skilled in the knowledge of Eastern rites. He, by his prudence, patience, moderation conjoined with resolve, and other endowments so greatly necessary for such an office, distinguished himself especially in the General Congregations, so that he not only guided divergent and differing opinions to the attainment of truth, but also won the minds of those present unto himself and carried them away in admiration. And indeed his wisdom shone forth most brilliantly in his collaboration both in drafting and in properly arranging all that relates...
 
 ---
 
 === LEAF p46 ===
 *(Physical Page 44 / Leaf p46)*
 
-...unto the establishment of the Minor Seminary, unto the fitting education of alumni in the Major Seminary, unto the proper ordering of the life of the clergy of the New Testament, and unto the statutes to be observed in conducting ecclesiastical courts. He spoke effectively for the propagation of the veneration of the Virgin Mother of God, whose praises and magnificats we have drawn anew, Most Holy Father, from Your most recent Encyclical of the 22nd day of September last (*Octobri Mense*, September 22, 1891). No small labor and effort did he also contribute together with the Bishops both in examining the diverse proposals of the Commissions, in preparing the agenda of the General Congregations, and in collating the Latin text with the Ruthenian translation. Wherefore the outcome of the work was such that everything proceeded in this Synod fittingly and orderly, amid the unanimous and perfect concord of the Fathers.  
-Wherefore, prostrating ourselves at the feet of Your Holiness, we humbly pray that You, Most Holy Father, may accept the celebration of this Synod as the brightest pledge of our honor, obedience, devotion, and love toward You, our most loving Father and most gracious Vicar, Protector, and Defender of the Catholic Ruthenians.  
+...unto the establishment of the Minor Seminary, unto the fitting education of alumni in the Major Seminary, unto the proper ordering of the life of the clergy of the New Testament, and unto the statutes to be observed in conducting ecclesiastical courts. He spoke effectively for the propagation of the veneration of the Virgin Mother of God, whose praises and magnificats we have drawn anew, Most Holy Father, from Your most recent Encyclical of the 22nd day of September last (*Octobri Mense*, September 22, 1891). No small labor and effort did he also contribute together with the Bishops both in examining the diverse proposals of the Commissions, in preparing the agenda of the General Congregations, and in collating the Latin text with the Ruthenian translation. Therefore the outcome of the work was such that everything proceeded in this Synod fittingly and orderly, amid the unanimous and perfect concord of the Fathers.  
+Therefore, prostrating ourselves at the feet of Your Holiness, we humbly pray that You, Most Holy Father, may accept the celebration of this Synod as the brightest pledge of our honor, obedience, devotion, and love toward You, our most loving Father and most gracious Vicar, Protector, and Defender of the Catholic Ruthenians.  
 Deign, Most Holy Father, to command that the Acts of this Synod, as soon as they are transmitted to Rome, be examined and provided with Apostolic confirmation.  
 Humbly prostrate at the feet of Your Holiness, we implore the Apostolic Blessing.
 
@@ -172,10 +131,10 @@ Bishop of Stanyslaviv.
 === LEAF p47 ===
 *(Physical Page 45 / Leaf p47)*
 
-#### Apostolic Letter of Pope Leo XIII to the Ruthenian Hierarchy
+**Apostolic Letter of Pope Leo XIII to the Ruthenian Hierarchy**
 *To Sylvester Sembratovych, Archbishop of Lviv, — Julian Pelesz, Bishop of Przemyśl, — Julian Kuylivsky, Bishop of Stanyslaviv — of the Ruthenians.*
 
-### Leo, Pope XIII
+**Leo, Pope XIII**
 
 **Venerable Brethren!**
 
@@ -192,11 +151,11 @@ Given at Rome, at St. Peter's, the 20th day of May, in the year 1895, the eighte
 === LEAF p48 ===
 *(Physical Page 46 / Leaf p48)*
 
-### VII.
+**VII.**
 
-### Acts of the Congregations and Sessions
+**Acts of the Congregations and Sessions**
 
-#### General Congregation I
+**General Congregation I**
 
 On the 24th day of September, at 9 o'clock before noon, there assembled in the chapel of the Metropolitan Palace:  
 The Most Reverend Fathers:  
@@ -241,7 +200,7 @@ Members: Teofil Pavlykov, Mykhailo Kulmatytsky, Yosyf Zaiachkivsky, Mykola Kobry
 3. Commission:  
 President: The Very Reverend Father Mykhailo Sinhalewych; Vice-Presidents: Ivan Lytvynovych and Ivan Voytovych, Cathedral Canon of Przemyśl. Members: Mykhailo Karachevsky, Dr. Yosyf Komarnytsky, Omelian Bilynsky, Oleksander Stefanovych, Vasyl Kopytchak, Oleksander Chemerynsky, Ivan Zalutsky, Antonii Davydovych, Atanasii Pashkovsky, Ivan Sokhansky, Hryhorii Slovitsky, Yosyf Makohonysky, Kyrylo Seletsky, Sylvester Kopystiansky, Mykola Rozdilsky, Platon Paslavsky, Vasyl Chemarnyk, Rudolf Mokh, Mykola Hoshovsky, Ivan Partytsky.  
 The assembled Fathers present to His Excellency the Apostolic Delegate the letters of their delegation, on the basis of which, after their examination and recognition of their authenticity, they participate in the Synod.  
-The President asketh the Fathers whether they know of anyone absent from among those who by law or custom ought to be present at the council.  
+The President asks the Fathers whether they know of anyone absent from among those who by law or custom ought to be present at the council.  
 Upon receiving a negative reply, he ordered the Decrees, previously drawn up for the First Session by counsel and consent of the Bishops, to be read, namely:  
 1. Decree on the Opening of the Synod.  
 2. Decree on the Profession of Faith to be Made.  
@@ -252,7 +211,7 @@ At the conclusion of this, the President, with the consent of the Bishops, annou
 **Oleksiy Toronsky,**  
 Synodal Protonotary.
 
-### Session 1
+**Session 1**
 
 On Sunday, the 27th day of the month of September, at the 9th hour before noon, all proceeded from the Metropolitan Palace in solemn procession to the Archcathedral Church of St. George. There, after the celebration of the Divine Liturgy sung by the Most Reverend Metropolitan with both Most Reverend Bishops, and after the celebration of the customary prayers, the Most Reverend Apostolic Delegate delivered the following address to the Synod:
 
@@ -261,12 +220,12 @@ On Sunday, the 27th day of the month of September, at the 9th hour before noon, 
 === LEAF p51 ===
 *(Physical Page 49 / Leaf p51)*
 
-### Conciliar Address of Apostolic Delegate Ciasca
+**Conciliar Address of Apostolic Delegate Ciasca**
 
 **Most Reverend and Very Reverend Fathers!**
 
-In the grievous misfortunes of our times, which press upon the Church of Jesus Christ from all sides, nothing so greatly comforteth and uplifteth the spirit of our Most Holy Father Pope Leo XIII as the union of Pastors in faith and charity with the Supreme Governor of the Church and their endeavor actively to provide for the integrity of morals and the benefit of the faithful. Wherefore ye will readily understand, Very Reverend Fathers, how pleasing unto the same Most Holy Chief Pastor was the tidings of your desire to celebrate this Synod in this renowned Metropolitanate of Lviv, imbued with the principles of the true faith by the most holy teacher and Apostle to the Slavs Methodius, and distinguished by an episcopal see from the very beginning. In order to give proof unto all of the joy which arose in His heart from the above-mentioned tidings, and of the solicitude with which He careth for all Churches, and most especially for this your own, the same Supreme Pontiff hath deigned to entrust unto my humility, not only that I should represent His Person in this your glorious Assembly for the elevation of the dignity and splendor of this Synod, but also that I should declare the sentiments of His paternal benevolence and singular love toward the renowned Church of the Ruthenians, and testify anew that your Churches occupy the greatest and most important part of His cares, and that He desireth nothing more or more earnestly than that He might provide what is necessary for their benefit and prosperity [^22].  
-Finally, His Holiness, convinced that very great benefits shall come forth from this Synod, bestoweth upon you all assembled in the Lord, and upon your strivings and labors, and upon the entire Ruthenian people, a special blessing from the heart; and may this blessing be for you a renewed, clear proof of His benevolence toward you, and may it bring unto you, who desire to cultivate the fruitfulness of the Lord's field, an abundance of heavenly gifts.  
+In the grievous misfortunes of our times, which press upon the Church of Jesus Christ from all sides, nothing so greatly comforts and uplifts the spirit of our Most Holy Father Pope Leo XIII as the union of Pastors in faith and charity with the Supreme Governor of the Church and their endeavor actively to provide for the integrity of morals and the benefit of the faithful. Therefore ye will readily understand, Very Reverend Fathers, how pleasing unto the same Most Holy Chief Pastor was the tidings of your desire to celebrate this Synod in this renowned Metropolitanate of Lviv, imbued with the principles of the true faith by the most holy teacher and Apostle to the Slavs Methodius, and distinguished by an episcopal see from the very beginning. In order to give proof unto all of the joy which arose in His heart from the above-mentioned tidings, and of the solicitude with which He cares for all Churches, and most especially for this your own, the same Supreme Pontiff hath deigned to entrust unto my humility, not only that I should represent His Person in this your glorious Assembly for the elevation of the dignity and splendor of this Synod, but also that I should declare the sentiments of His paternal benevolence and singular love toward the renowned Church of the Ruthenians, and testify anew that your Churches occupy the greatest and most important part of His cares, and that He desires nothing more or more earnestly than that He might provide what is necessary for their benefit and prosperity [^22].  
+Finally, His Holiness, convinced that very great benefits shall come forth from this Synod, bestows upon you all assembled in the Lord, and upon your strivings and labors, and upon the entire Ruthenian people, a special blessing from the heart; and may this blessing be for you a renewed, clear proof of His benevolence toward you, and may it bring unto you, who desire to cultivate the fruitfulness of the Lord's field, an abundance of heavenly gifts.  
 This mandate of the Supreme Pontiff I willingly fulfill and with joy announce unto you, and at the same time I pray and beseech Your Graces that ye look upon the supreme dignity of Him Who commanded me to fulfill this mission among you, Most Illustrious Sacred Pastors, and not upon the weakness of the legate. Unto me indeed, on account of that reverence and affection with which I have been imbued from my earliest youth for the rite and the Churches of the East, among...
 
 ---
@@ -277,22 +236,22 @@ This mandate of the Supreme Pontiff I willingly fulfill and with joy announce un
 ...which the Ruthenian Church is exceedingly distinguished both by the number of the faithful and the excellence of her men, it is pleasing to be present at these your assemblies, in which, by God's help and protection, ye strive with redoubled diligence to preserve inviolate the integrity of this Church and to uphold her welfare. Truly a magnificent counsel! And if from the beginning of matters it is permissible to foretell their end, I doubt not that on the foundation of the constitutions and decrees of this Synod, your Church shall from day to day flourish more and more, diffuse the splendor of faith and ecclesiastical discipline, and attain her ancient glory and pristine beauty. — That this may proceed happily, having invoked the aid of the Most Holy Virgin Mary, Mother of God, immaculately conceived, and of the Holy Archangel Michael, heavenly patron, of Cyril and Methodius, Apostles to the Slavic race, of the Hieromartyr Josaphat, and of Vladimir and Olga, former Ruthenian princes: let us beseech God with fervent prayers that He may graciously favor our intentions, direct our counsels, assist the work begun, and crown its end.  
 Immediately thereafter, he ordered the Apostolic Brief of his delegation as President of the Synod to be read publicly, which was of the following tenor:
 
-#### Apostolic Brief of Appointment
+**Apostolic Brief of Appointment**
 
 *To Our Venerable Brother Agostino Ciasca, Archbishop of Larissa.*
 
-### Leo, Pope XIII
+**Leo, Pope XIII**
 
 **Venerable Brother!**  
 *Health and Apostolic Blessing.*  
-The office of the Apostleship, committed by God unto Our humility, requireth that We strive with prompt zeal for that which redoundeth to the good, welfare, and prosperity of the Catholic cause. Wherefore, when Our Venerable Brethren Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets of the Greek-Ruthenian rite, and the Suffragan Bishops of the same rite took counsel to assemble together to celebrate a Provincial Synod: We, praising this salutary and fruitful resolve from Our soul and approving it most highly, having examined all the circumstances of the matter attentively and maturely with Our Venerable Brethren the Cardinals of the Holy Roman Church, Prefects of Propaganda Fide, in order that greater honor might accrue unto the said Synod, upon the counsel of the same Brethren, have resolved to commit the conduct of governing that Synod unto thee, Venerable Brother, in full confidence that thou, with that wisdom, dignity,...
+The office of the Apostleship, committed by God unto Our humility, requires that We strive with prompt zeal for that which redounds to the good, welfare, and prosperity of the Catholic cause. Therefore, when Our Venerable Brethren Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets of the Greek-Ruthenian rite, and the Suffragan Bishops of the same rite took counsel to assemble together to celebrate a Provincial Synod: We, praising this salutary and fruitful resolve from Our soul and approving it most highly, having examined all the circumstances of the matter attentively and maturely with Our Venerable Brethren the Cardinals of the Holy Roman Church, Prefects of Propaganda Fide, in order that greater honor might accrue unto the said Synod, upon the counsel of the same Brethren, have resolved to commit the conduct of governing that Synod unto thee, Venerable Brother, in full confidence that thou, with that wisdom, dignity,...
 
 ---
 
 === LEAF p53 ===
 *(Physical Page 51 / Leaf p53)*
 
-...learning, piety, prudence, skill, and zeal in promoting the Catholic faith — wherein thou mayest be set forth as an exemplar — in the discharge of the duties of this office, wilt fully answer Our expectation. Wherefore, showing thee special favor, and absolving thee and holding thee absolved, for the purpose of this matter only, from any sentences of excommunication, suspension, and interdict, and other ecclesiastical censures and penalties, in whatever manner or for whatever cause inflicted, if thou perchance hast incurred any: We, by Our Apostolic authority, by virtue of these letters, do choose, appoint, and declare thee Apostolic Delegate for the convocation and celebration of the said Provincial Synod of Lviv; and that thou mayest fulfill the office of President of the said Synod the more diligently and splendidly, likewise by Apostolic authority We commit, grant, and give unto thee, Venerable Brother, the necessary and appropriate particular and general faculties for this purpose. It shall therefore be thy first task to see to it that the instructions imparted unto thee by the Congregation for the celebration of the Synod of Our above-mentioned Brethren, and the decrees and regulations issued from time to time, especially in more important matters, by this Holy Apostolic See or by the said Congregation, be executed; but also to assist that such discipline to be observed in practice be enacted as shall be consistent with the above-mentioned decrees and introduce uniformity into all provinces and dioceses. Furthermore, We will that thou endeavor to ensure that the acts and decrees of the said Synod be transmitted unto this Holy Apostolic See for examination, and, when deemed appropriate, confirmed by Our authority or that of Our successors.  
+...learning, piety, prudence, skill, and zeal in promoting the Catholic faith — wherein thou mayest be set forth as an exemplar — in the discharge of the duties of this office, wilt fully answer Our expectation. Therefore, showing thee special favor, and absolving thee and holding thee absolved, for the purpose of this matter only, from any sentences of excommunication, suspension, and interdict, and other ecclesiastical censures and penalties, in whatever manner or for whatever cause inflicted, if thou perchance hast incurred any: We, by Our Apostolic authority, by virtue of these letters, do choose, appoint, and declare thee Apostolic Delegate for the convocation and celebration of the said Provincial Synod of Lviv; and that thou mayest fulfill the office of President of the said Synod the more diligently and splendidly, likewise by Apostolic authority We commit, grant, and give unto thee, Venerable Brother, the necessary and appropriate particular and general faculties for this purpose. It shall therefore be thy first task to see to it that the instructions imparted unto thee by the Congregation for the celebration of the Synod of Our above-mentioned Brethren, and the decrees and regulations issued from time to time, especially in more important matters, by this Holy Apostolic See or by the said Congregation, be executed; but also to assist that such discipline to be observed in practice be enacted as shall be consistent with the above-mentioned decrees and introduce uniformity into all provinces and dioceses. Furthermore, We will that thou endeavor to ensure that the acts and decrees of the said Synod be transmitted unto this Holy Apostolic See for examination, and, when deemed appropriate, confirmed by Our authority or that of Our successors.  
 Anything to the contrary, even Apostolic constitutions and ordinances, notwithstanding.  
 Given at Rome, at St. Peter's, under the Ring of the Fisherman, the 4th day of September, 1891, in the fourteenth year of Our Pontificate.  
 For Cardinal Ledóchowski,  
@@ -305,19 +264,19 @@ At the conclusion of the reading, His Excellency the Metropolitan delivered an a
 === LEAF p54 ===
 *(Physical Page 52 / Leaf p54)*
 
-...and that the purpose of this Synod is to attest and strengthen Union with the Church of Rome and to satisfy the needs of the Ruthenian Church. He greeteth His Excellency the Apostolic Delegate and presenteth a telegram whereby the Holy Father imparteth the Apostolic Blessing unto the Synod.  
-The Protonotary readeth the telegram:  
-"To the Most Reverend, All-Venerable Father, the Greco-Ruthenian Archbishop in Lviv. S. S. br. Rome 17, 32, 25, 5, 10 sp. The Holy Father with singular joy and pleasure hath read the telegram of Your Grace expressing the sentiments of that Synod, and most lovingly imparteth the requested Apostolic Blessing. m. p. Cardinal Rampolla †."  
-Upon the conclusion of this, the Promoters of the Synod make motion for the opening of the Synod. His Excellency the President ordered the Decree on the Opening of the Synod to be read. The First Secretary readeth the same.  
+...and that the purpose of this Synod is to attest and strengthen Union with the Church of Rome and to satisfy the needs of the Ruthenian Church. He greets His Excellency the Apostolic Delegate and presents a telegram whereby the Holy Father imparts the Apostolic Blessing unto the Synod.  
+The Protonotary reads the telegram:  
+"To the Most Reverend, All-Venerable Father, the Greco-Ruthenian Archbishop in Lviv. S. S. br. Rome 17, 32, 25, 5, 10 sp. The Holy Father with singular joy and pleasure hath read the telegram of Your Grace expressing the sentiments of that Synod, and most lovingly imparts the requested Apostolic Blessing. m. p. Cardinal Rampolla †."  
+Upon the conclusion of this, the Promoters of the Synod make motion for the opening of the Synod. His Excellency the President ordered the Decree on the Opening of the Synod to be read. The First Secretary reads the same.  
 Having inquired of the opinion of the Most Reverend Metropolitan and the Bishops, the President announced and declared that this Synod is to begin, and hath already begun.  
 The Promoters moved the making of the Profession of Faith. The President so decided and ordered, and the Secretary promulgated the Decree on the Making of the Profession of Faith.  
-Upon the promulgation of the Decree, the Metropolitan, having laid aside his mitre, facing the altar, kneeleth down, and placing his hand upon the book of the Gospels, maketh in an elevated voice the Profession of Faith prescribed by Pope Urban VIII for the Orientals, and depositeth the same into the hands of the Most Reverend Father President of the Synod:
+Upon the promulgation of the Decree, the Metropolitan, having laid aside his mitre, facing the altar, kneels down, and placing his hand upon the book of the Gospels, makes in an elevated voice the Profession of Faith prescribed by Pope Urban VIII for the Orientals, and deposits the same into the hands of the Most Reverend Father President of the Synod:
 
-### Formula of the Profession of Faith
+**Formula of the Profession of Faith**
 *(Forma Fidei Orthodoxae)*
 
 In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.  
-I, Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, etc., believe with a firm faith and profess each and every thing contained in the Symbol of Faith which the Holy Roman Church maketh use of, that is to say:  
+I, Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, etc., believe with a firm faith and profess each and every thing contained in the Symbol of Faith which the Holy Roman Church makes use of, that is to say:  
 I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages. God of God, Light of Light, true God of true God, begotten, not made, consubstantial with the Father, by Whom all things were made. Who for us men and for our salvation came down from heaven, and was incarnate by the Holy Spirit of the Virgin Mary, and became man. He was crucified also for us...
 
 ---
@@ -325,8 +284,8 @@ I believe in one God, the Father Almighty, Maker of heaven and earth, and of all
 === LEAF p55 ===
 *(Physical Page 53 / Leaf p55)*
 
-...under Pontius Pilate, and suffered, and was buried. And He rose again on the third day according to the Scriptures. And He ascended into heaven, and sitteth at the right hand of the Father. And He shall come again with glory to judge the living and the dead, Whose kingdom shall have no end. And in the Holy Spirit, the Lord and Giver of life, Who proceedeth from the Father and the Son; Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets. And in one, holy, catholic, and apostolic Church. I confess one baptism for the remission of sins. And I look for the resurrection of the dead, and the life of the world to come. Amen.  
-I also venerate and accept the Ecumenical Councils, as followeth, that is:  
+...under Pontius Pilate, and suffered, and was buried. And He rose again on the third day according to the Scriptures. And He ascended into heaven, and sits at the right hand of the Father. And He shall come again with glory to judge the living and the dead, Whose kingdom shall have no end. And in the Holy Spirit, the Lord and Giver of life, Who proceeds from the Father and the Son; Who with the Father and the Son together is worshipped and glorified, Who spake by the Prophets. And in one, holy, catholic, and apostolic Church. I confess one baptism for the remission of sins. And I look for the resurrection of the dead, and the life of the world to come. Amen.  
+I also venerate and accept the Ecumenical Councils, as follows, that is:  
 The First Nicene; and I confess that which was defined therein against Arius, of condemned memory: that the Lord Jesus Christ is the Son of God, begotten of the Father, only-begotten, that is, begotten of the substance of the Father, not made, consubstantial with the Father; and those impious assertions were rightly condemned at the same Council: that there was a time when He was not, or that the Son of God is changeable or mutable.  
 The First of Constantinople, the Second in order; and I confess that which was defined therein against Macedonius, of condemned memory: that the Holy Spirit is not a servant, but the Lord; not a creature, but God; and hath one Godhead with the Father and the Son.  
 The First of Ephesus, the Third in order; and I confess that which was defined therein against Nestorius, of condemned memory: that from the Godhead and the manhood, by an ineffable and incomprehensible union in the one Person of the Son of God, one Jesus Christ was constituted for us, and for this reason the Most Blessed Virgin is truly the Mother of God (*Theotokos*).  
@@ -349,7 +308,7 @@ I likewise venerate and accept all other Ecumenical Councils lawfully held and c
 === LEAF p57 ===
 *(Physical Page 55 / Leaf p57)*
 
-...is truly consecrated, and that priests are bound to consecrate the Body of the Lord in either of these, that is, each according to the custom of his Church, whether Western or Eastern. — Likewise, that if those who are truly penitent depart this life in the charity of God before they have made satisfaction by worthy fruits of penance for sins committed and omitted, their souls are cleansed after death by purgatorial pains, and that, for the lightening of such pains, the suffragals of the living faithful are profitable unto them, that is to say, the sacrifices of the Divine Liturgy, prayers, alms, and other pious works, which are customarily performed by the faithful for other faithful according to the ordinances of the Church; but that the souls of those who, after receiving baptism, have incurred no defilement of sin at all, and also those which, after contracting the defilement of sin, whether in their bodies or after leaving them, have been cleansed, are straightway received into heaven and clearly behold God Himself, one in Trinity, as He is, yet one more perfectly than another according to the diversity of their merits. But the souls of those who die in actual mortal sin, or in original sin alone, straightway descend into hell, to be punished, however, with unequal pains. Likewise, that the Holy Apostolic See and the Roman Pontiff hold primacy over the whole world, and that the Roman Pontiff himself is the successor of blessed Peter, Chief of the Apostles, and the true Vicar of Christ, and the Head of the whole Church, and the Father and Teacher of all Christians, and that unto him in blessed Peter was delivered by our Lord Jesus Christ full power to pasture, rule, and govern the universal Church, as is contained in the acts of the ecumenical councils and in the holy canons. — Likewise, that the legal ceremonies of the Old Testament or the Mosaic law, the sacred sacrifices and mysteries, upon the coming of our Lord Jesus Christ, have ceased and cannot be observed after the promulgation of the Gospel without sin. Likewise also, that the distinction of clean and unclean meats of the Old Law pertaineth to ceremonies which have passed away with the arrival of the Gospel. — Likewise, that the apostolic prohibition against things offered to idols, and blood, and things strangled, was suited to that time, that the occasion of discord between Jews and Gentiles might be taken away; which apostolic prohibition having lost its cause, its operation hath also ceased.  
+...is truly consecrated, and that priests are bound to consecrate the Body of the Lord in either of these, that is, each according to the custom of his Church, whether Western or Eastern. — Likewise, that if those who are truly penitent depart this life in the charity of God before they have made satisfaction by worthy fruits of penance for sins committed and omitted, their souls are cleansed after death by purgatorial pains, and that, for the lightening of such pains, the suffragals of the living faithful are profitable unto them, that is to say, the sacrifices of the Divine Liturgy, prayers, alms, and other pious works, which are customarily performed by the faithful for other faithful according to the ordinances of the Church; but that the souls of those who, after receiving baptism, have incurred no defilement of sin at all, and also those which, after contracting the defilement of sin, whether in their bodies or after leaving them, have been cleansed, are straightway received into heaven and clearly behold God Himself, one in Trinity, as He is, yet one more perfectly than another according to the diversity of their merits. But the souls of those who die in actual mortal sin, or in original sin alone, straightway descend into hell, to be punished, however, with unequal pains. Likewise, that the Holy Apostolic See and the Roman Pontiff hold primacy over the whole world, and that the Roman Pontiff himself is the successor of blessed Peter, Chief of the Apostles, and the true Vicar of Christ, and the Head of the whole Church, and the Father and Teacher of all Christians, and that unto him in blessed Peter was delivered by our Lord Jesus Christ full power to pasture, rule, and govern the universal Church, as is contained in the acts of the ecumenical councils and in the holy canons. — Likewise, that the legal ceremonies of the Old Testament or the Mosaic law, the sacred sacrifices and mysteries, upon the coming of our Lord Jesus Christ, have ceased and cannot be observed after the promulgation of the Gospel without sin. Likewise also, that the distinction of clean and unclean meats of the Old Law pertains to ceremonies which have passed away with the arrival of the Gospel. — Likewise, that the apostolic prohibition against things offered to idols, and blood, and things strangled, was suited to that time, that the occasion of discord between Jews and Gentiles might be taken away; which apostolic prohibition having lost its cause, its operation hath also ceased.  
 Likewise I venerate and accept the Council of Trent; and I confess those things which were defined and declared therein. Especially that in the Divine Liturgy there is offered unto God a true, proper, and propitiatory sacrifice for the living and the dead; and in the Most Holy...
 
 ---
@@ -357,11 +316,11 @@ Likewise I venerate and accept the Council of Trent; and I confess those things 
 === LEAF p58 ===
 *(Physical Page 56 / Leaf p58)*
 
-...Mystery of the Eucharist (according to the faith which hath always been in the Church of God) there are contained truly, really, and substantially the Body and Blood, together with the Soul and Divinity of our Lord Jesus Christ, and therefore the whole Christ; and that there is made a conversion of the whole substance of bread into the Body, and of the whole substance of wine into the Blood, which conversion the Catholic Church most aptly calleth transubstantiation, and that under each species, and under each separate part of each species when divided, the whole Christ is contained. Likewise, that there are seven Sacraments of the New Law instituted by Christ our Lord for the salvation of the human race, although not all are necessary for every individual, namely: Baptism, Chrismation (*Myroponamazaniye*), the Eucharist, Penance, Anointing of the Sick (*Eleosvyashcheniye*), Holy Orders, and Matrimony; and that they confer grace: and that of these, Baptism, Chrismation, and Holy Orders cannot be repeated. Likewise, that Baptism is necessary for salvation: and therefore, when danger of death threateneth, it ought to be conferred forthwith without any delay; and when conferred by anyone, at any time, with the proper matter, form, and intention, it is valid.  
+...Mystery of the Eucharist (according to the faith which hath always been in the Church of God) there are contained truly, really, and substantially the Body and Blood, together with the Soul and Divinity of our Lord Jesus Christ, and therefore the whole Christ; and that there is made a conversion of the whole substance of bread into the Body, and of the whole substance of wine into the Blood, which conversion the Catholic Church most aptly calls transubstantiation, and that under each species, and under each separate part of each species when divided, the whole Christ is contained. Likewise, that there are seven Sacraments of the New Law instituted by Christ our Lord for the salvation of the human race, although not all are necessary for every individual, namely: Baptism, Chrismation (*Myroponamazaniye*), the Eucharist, Penance, Anointing of the Sick (*Eleosvyashcheniye*), Holy Orders, and Matrimony; and that they confer grace: and that of these, Baptism, Chrismation, and Holy Orders cannot be repeated. Likewise, that Baptism is necessary for salvation: and therefore, when danger of death threatens, it ought to be conferred forthwith without any delay; and when conferred by anyone, at any time, with the proper matter, form, and intention, it is valid.  
 Likewise, that the bond of the Sacrament of Matrimony is indissoluble; and even if, on account of adultery, heresy, or other causes, separation of bed and cohabitation may take place between spouses, yet it is not lawful for them to contract another marriage.  
 Likewise, that Apostolic and Ecclesiastical traditions are to be received and venerated. Likewise, that the power of Indulgences was left by Christ in the Church, and that their use is most salutary to Christian people. Likewise, what was defined at the aforesaid Council of Trent concerning original sin, concerning justification, and concerning the canon and interpretation of the sacred books of the Old and New Testaments, I accept and confess.  
 Likewise I venerate and accept the Ecumenical Vatican Council, and all things handed down, defined, and declared thereby, and especially concerning the primacy of the Roman Pontiff and his infallible magisterium, I most firmly accept and confess.  
-Likewise I accept and profess all other things which the Holy Roman Church accepteth and professeth; and at the same time all things contrary, and whatever schisms and heresies have been condemned and anathematized by the same Church, I likewise condemn and anathematize.  
+Likewise I accept and profess all other things which the Holy Roman Church accepts and professes; and at the same time all things contrary, and whatever schisms and heresies have been condemned and anathematized by the same Church, I likewise condemn and anathematize.  
 Moreover, unto the Roman Pontiff, successor of blessed Peter, Chief of the Apostles, and Vicar of Jesus Christ, I promise and swear true obedience.
 
 ---
@@ -369,10 +328,10 @@ Moreover, unto the Roman Pontiff, successor of blessed Peter, Chief of the Apost
 === LEAF p59 ===
 *(Physical Page 57 / Leaf p59)*
 
-This faith of the Catholic Church, outside of which no one can be saved, which I at this present time freely profess and truly hold, the same whole and inviolate, even unto the last breath of life, most constantly, with God's help, to retain and confess, and to take care, as far as in me lieth, that it be held, taught, and preached by those subject to me, or by those whose care shall belong unto me in my office: I, the same Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, do promise, vow, and swear.  
+This faith of the Catholic Church, outside of which no one can be saved, which I at this present time freely profess and truly hold, the same whole and inviolate, even unto the last breath of life, most constantly, with God's help, to retain and confess, and to take care, as far as in me lies, that it be held, taught, and preached by those subject to me, or by those whose care shall belong unto me in my office: I, the same Sylvester Sembratovych, Metropolitan of Halych, Archbishop of Lviv, Bishop of Kamianets, do promise, vow, and swear.  
 So help me God, and this Holy Divine Gospel.  
 
-### Adhesion Formula & Complete Nominal Subscription Register
+**Adhesion Formula & Complete Nominal Subscription Register**
 
 *Immediately thereafter, the Bishops without mitres, the Priests, and the Senior of the Stauropegion Institute approached and, likewise bending their knees and placing their hand upon the book of the Gospels, made the profession of faith in the following words:*  
 "I, N. N., confess this same faith according to the formula which the Most Reverend Metropolitan hath read, and this I promise, vow, and swear. So help me God, and this holy divine Gospel."  
@@ -441,12 +400,3 @@ Dr. Havryil Kryzhanovsky, Chancellor of the Metropolitan Consistory.
 Yevhen Huzar, Provisional Metropolitan Chaplain and School Catechist.  
 Dr. Ivan Hrobelsky, Professor of Pastoral Theology in the Seminary of Przemyśl.  
 Poliyevkt Kmit, Acting Professor of Canon Law in the Seminary of Przemyśl.
-
----
-
-## Footnotes
-[^20]: The Provincial Council of Cologne (1859), celebrated under Cardinal Johannes von Geissel, Titulus VIII *De subscriptione et clausura Concilii*, establishing the formal canonical procedure whereby the presiding Metropolitan queries the assembled conciliar fathers for their definitive consent (*placet*) prior to promulgating the decree of conciliar dissolution.
-
-[^21]: Ibid., Provincial Council of Cologne (1859), Titulus VIII, setting forth the solemn statutory decree of conclusion and closure of the provincial council (*Decretum de clausura Concilii*), followed by the solemn thanksgiving (*Deo gratias*) and the formal charging of the conciliar notaries to compile and authenticate the synodal acts.
-
-[^22]: Pope Leo XIII, Encyclical Letter *Grande Munus* (September 30, 1880), *Acta Sanctae Sedis* 13 (1880), pp. 145–153. In this seminal apostolic encyclical, Pope Leo XIII extended the liturgical feast and veneration of Saints Cyril and Methodius, the Apostles to the Slavs, to the universal Church. The Pontiff extolled the historical planting of the Catholic faith among the Slavic peoples, underscored the paternal solicitude of the Apostolic See toward Eastern Christendom, and affirmed the venerable antiquity, liturgical dignity, and canonical integrity of the Byzantine-Slavonic patrimony within Catholic communion.

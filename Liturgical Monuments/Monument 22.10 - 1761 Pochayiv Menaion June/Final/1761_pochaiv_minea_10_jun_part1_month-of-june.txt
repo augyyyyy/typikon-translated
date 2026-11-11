@@ -6,7 +6,7 @@
 *Alleluia, or Troparion.*[^5]
 *At "Lord, I have cried," if we sing [the service], we sing 3 stichera of the Theotokos:*
 *Tone 2, Podoben: "When from the Tree" (Егда̀ ѿ дре́ва):*
-*And 3 of the Saint, Tone 2, Podoben the same:*
+*And 3 of the Saint, Tone 2, Podoben the same (Подо́бенъ то́йже):*
 
 When the ice of ignorance held fast all creation through the assaults of the enemy, and the multitude of idols was served, then, O glorious martyrs, with a fervent heart and with the warmth of divine faith ye brought this to an end, lovingly shedding your blood for Him Who openly poured out His blood upon the Cross.
 
@@ -14,7 +14,7 @@ When by divine beckoning ye separated yourselves for supernatural struggles, hav
 
 John the valiant sufferer, Valerian, and Chariton, and Charita with them, and divine Justin, Euelpistus, and glorious Hierax, having dyed their garment from their divine blood, and being clothed together, stand before the King of all in the heavens, before Christ the King with the Angels.
 
-*Other stichera of the Theotokos, Tone and Podoben the same:*
+*Other stichera of the Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rejoice, star radiant as the sun; rejoice, all-immaculate cause of all good things! Rejoice, thou who didst contain the uncontainable God, who didst sprout forth the ear of immortality; rejoice, divine palanquin and all-radiant portal!
 
@@ -318,7 +318,7 @@ The all-consecrated children, obeying thee as a father, suffered steadfastly wit
 
 Thy reliquary ever goushes forth waters of healing unto them that hasten to it, O much-suffering martyr, and washes away passions and drowns demonic ranks by the operation of the Holy Spirit. Therefore pray thou that peace and great mercy be granted unto our souls!
 
-*Stichera of the Theotokos, Tone and Podoben the same:*
+*Stichera of the Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rejoice, marvelous hearing, O pure one! Rejoice, sacred tree of Paradise planted by God! Rejoice, destruction of deceitful demons! Rejoice, two-edged weapon that didst cut off the enemy's head by thy marvelous childbearing, O all-holy and all-immaculate one: call back us who have become estranged!
 
@@ -641,7 +641,7 @@ Having dyed thy sacred vesture with the divine streams of blood, O Dorotheus, re
 *Sticheron:*
 Thy life was equal to the Angels, and thy martyrdom was enlightened, whereby thou wast accounted worthy to dance with the Angels in joy, illuminating the earth with divine wonders and teachings, O father Dorotheus; therefore by thy prayers ask that great mercy be granted unto all!
 
-*Other Stichera of the Theotokos, Tone and Podoben the same:*
+*Other Stichera of the Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Snatch me, O Lady, from the hand of the manslaying serpent who strives deceitfully to swallow me up completely; crush his jaws, I pray thee, and destroy his subtleties, that having been delivered from his claws, I may magnify thy power!
 
@@ -1099,7 +1099,7 @@ By the trials of thy flesh, O blessed one, thou didst wound the adversaries, and
 
 Enduringly burned with torches and having thy back broken with wounds, O martyr, thou didst endure, crying aloud: Nothing shall separate me from the love of Christ,[^81] neither death, nor life, nor any other torment!
 
-*Other Stichera of the Most Holy Theotokos, Tone and Podoben the same:*
+*Other Stichera of the Most Holy Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Overcome by unexpected falls, O pure one, having thee as our only protector, O Virgin, we cry aloud thankfully: Cleanse us, O most holy Bride of God; for thou art the refuge of the world and the intercession for our race!
 
@@ -1661,7 +1661,7 @@ Holy Timothy, praise of the righteous, * champion of the universe * and luminary
 
 A beautiful garment dyed in blood * thou didst weave by thy sufferings, O Timothy, * a heavenly garment from on high * of incorruptible purification; * and ineffably thou didst receive immutable life: * bearing it immaterially on high, * pray for all who piously praise thee, * O passion-bearer!
 
-*Other Stichera of the Theotokos, Tone 4, Podoben the same:*
+*Other Stichera of the Theotokos, Tone 4, Podoben the same (Подо́бенъ то́йже):*
 
 From condemnation deliver my humble soul, * O most holy Bride of God, * and from grievous transgressions, * and from death ransom me by thy prayers; * and grant me to obtain justification in the Day of Trial, * which the assemblies of the saints have obtained: * having cleansed me by repentance * and outpourings of tears, * show me forth before the end!
 
@@ -1962,7 +1962,7 @@ The Son of God, co-eternal with the Spirit, having in His good pleasure taken fl
 
 Having drawn [men] up by the net of the word * out of the depth of ignorance in a manner befitting God, * thou didst bring the nations through faith; * and being as a fountain of spiritual waters, * thou didst water the whole universe with grace; * therefore, having been saved through thee, O God-proclaimer, * with one voice we call thee blessed, as the close friend of Christ, * O Bartholomew, crying aloud unto thee: * Entreat Christ God * to grant remission of transgressions * unto them that celebrate thy holy memory with love!
 
-*Glory, of Barnabas, Tone and Podoben the same [Tone 8]:*
+*Glory, of Barnabas, Tone and Podoben the same [Tone 8] (Гла́съ и҆ подо́бенъ то́йже):*
 By words wast thou shown forth, * declaring the heavenly glory of God,[^222] * by the brightness of wonders * and the rays of power, * driving away the night of ignorance by grace, * and flashing forth the rays of the knowledge of God unto the ends of the earth. * Therefore today we the faithful glorify thy light-bearing and holy memory, * and cry aloud unto thee: O all-praised Barnabas, * entreat Christ God * to grant remission of sins * unto them that celebrate thy holy memory with love!
 
 *Both now... of the Feast, or Theotokion:*
@@ -2190,7 +2190,7 @@ O God-wise Father Onuphrius, * the night-time frost and the daytime heat * throu
 
 O God-wise Father Onuphrius, * glorious Paphnutius found thee * hiding in the desert like a treasure,[^259] * and clearly related unto them in the world * the accomplishments of thy labors, * enriching the faithful with narratives * of thy God-pleasing life, O all-praised one: * make us also imitators thereof * by thy prayers, O glorious one!
 
-*Other Stichera, of the Venerable Peter, Tone and Podoben the same [Tone 8, Podoben: "O most marvelous wonder"]:*
+*Other Stichera, of the Venerable Peter, Tone and Podoben the same [Tone 8, Podoben: "O most marvelous wonder"] (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 As namesake of divine Peter,[^260] * following him in truth * and piously arriving at zeal for the faith, * we know thee, O venerable one: * for thou didst love the good Law, * and didst desire his divine commandments, O Father, * and didst adorn thy soul with virtues: * therefore do we honor and call thee blessed!
 
@@ -2538,7 +2538,7 @@ Bearing in thy hand, O Onuphrius, * the Cross of the Lord, * demonic fantasies u
 Having exposed the deceit * of evil demons * by mighty power, * thou didst clearly manifest the glory of Christ, * O Onuphrius, our Father!
 
 *Glory... Both now... Theotokion:*
-*Podoben the same [Tone 2, Podoben: "O house of Ephratha"]:*
+*Podoben the same [Tone 2, Podoben: "O house of Ephratha"] (До́ме Є҆ѵфра́ѳовъ):*
 Lift up thy hands, O good one, * thy holy hands, * unto thy Son, * unto the Maker,[^331] * that He have compassion on thy servants!
 
 *At Great Vespers:*
@@ -3616,7 +3616,7 @@ Unto whom hast thou likened thyself, O wretched soul, in no wise looking up unto
 
 O protection of all, Mother of God: I am bowed down by a dark abyss, and am ever fiercely drowned by the storm of life; send down a drop of thy mercy, and stretch forth the hand of thy help unto me, and account me worthy of the portion of the elect *and the righteous: as having given birth unto the Abyss of the Lover of mankind!*
 
-*Glory... Both now... Podoben: The same [What shall we call you]:*
+*Glory... Both now... Podoben: The same [What shall we call you] (Что̀ вы̀ нарече́мъ):*
 Having given birth unto the unendurable Fire That burns up sins and bedews the faithful: by thy prayers, O all-immaculate, pure one, burn up the material stuff of my measureless transgressions; and with dew refresh my soul melted by passions, that I thy servant may magnify thy mercy and power with a loud voice!
 
 *Stavrotheotokion:*
@@ -4737,7 +4737,7 @@ What shall we call thee, O hierarch? A river flowing forth from noetic Eden, wat
 *Sticheron:*
 What shall I call thee, O Eusebius? A dispenser of piety and a destroyer of impiety, the beauty of passion-bearers and the rejoicing of priests, a sickle cutting down tares and gathering heavenly wheat, a fountain of miracles flowing forth, taking away the burning heat of diseases: pray that our souls may be saved![^604]
 
-*Other Stichera of the Most Holy Birthgiver of God, in the Same Tone and Podoben:*
+*Other Stichera of the Most Holy Birthgiver of God, in the Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 A strange mystery, O pure one, is that of thy seedless childbearing, marvelous and dread, surpassing by its greatness every human mind; for Him Whom the many-eyed [Cherubim] endure not to behold endure not to behold, and all the ranks of holy angels tremble at, thou didst bear in the flesh for us, yet not departing from the Father's essence: we glorify thee who gavest Him birth, O Bride of God![^605]
 
 *Sticheron:*
@@ -4746,10 +4746,10 @@ Unto whom hast thou become likened, O wretched soul, not rising up at all unto r
 *Sticheron:*
 O protection of all, Lady, as I am held fast by an abyss of darkness and ever submerged by the grievous needs of life: send down a drop of thy mercy, and give me the hand of thy help, and account me worthy of the portion of the elect and venerable ones, as thou didst bear God, the Lover of mankind![^607]
 
-*Glory... Both now... in the Same Tone and Podoben:*
+*Glory... Both now... in the Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having given birth unto the unendurable Fire that burns up sins and bedews the faithful: burn up the material [wood] of my transgressions by thy prayers, O all-unblemished one, and refresh my soul, [inflamed] with passions, with dew, that I may [praise] thy mercy and power![^608]
 
-*Stavrotheotokion, in the Same Podoben:*
+*Stavrotheotokion, in the Same Podoben (Подо́бенъ то́йже):*
 When the Ewe-lamb beheld her Lamb stretched out voluntarily upon the Tree of the Cross, maternally crying aloud, she wept in anguish: O my Son, what is this strange sight? Thou Who as Lord givest life unto all, how dost Thou die, O Long-suffering One, granting resurrection unto the earthborn? I glorify Thy great condescension, O my God![^609]
 
 *Canon, whose Acrostic is: "I honor the namesake of piety." The work of Joseph. Tone 8.*
@@ -4903,7 +4903,7 @@ As a precious treasure, Christ our God gives thee unto Sicily, who didst suffer 
 *Sticheron:*
 Bassa and Paula bore thee upon their shoulders by the command of Him Who upholds all things, traversing diverse places and the breadth of the deep, O martyr Agrippina, working dread miracles by divine grace: and thou didst come to rest in the place where God ordained, having become rest for the weary, O all-lauded one![^631]
 
-*Other Stichera of the Birthgiver of God, in the Same Tone and Podoben:*
+*Other Stichera of the Birthgiver of God, in the Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 *When thou singest Alleluia, speak these stichera first:[^632]*
 
@@ -5505,7 +5505,7 @@ Taking up His dwelling from thee, He Who is in the bosom of the Father was born 
 *Podoben: "Give ear, ye women" (Жены̀ оуслы́шите):*
 The joy-bearing nativity of the forerunner today looses the sorrow of his father's speechlessness and the barrenness of her that bore him, and proclaims present joy and gladness; therefore does all creation radiantly keep festival thereof!
 
-*Theotokion, the same Podoben:*
+*Theotokion, the same Podoben (Подо́бенъ то́йже):*
 
 The prophets proclaimed, the apostles taught, and the martyrs in God-wise manner clearly confessed Thy Son, O Birthgiver of God, the God of all, O all-pure one; with them do we magnify thee, having been delivered through thee from the ancient condemnation![^716]
 
@@ -6075,10 +6075,10 @@ O God-wise father Sampson, thou wast numbered among the fasters, adorned with im
 *Sticheron:*
 O God-inspired Sampson, thou wast a luminary, enlightening the world under the sun with the rays of miracles, driving away the darkness of soul-corrupting diseases, dispelling demonic gloom; and now pray that peace and great mercy be granted unto our souls.[^854]
 
-*Glory, both now, Theotokion, in the same Tone and Podoben:*
+*Glory, both now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Woe is me! What shall become of me, having defiled my mind and soul and body with transgressions? What shall I do? And how shall I escape the unendurable flame, the unyielding and eternal bonds? But O all-immaculate [Lady], before the end pray to thy Son to grant me remission.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the ewe-lamb and undefiled Mistress beheld upon the Cross her Lamb, having neither form nor comeliness, woe is me! lamenting, she said: Whither hath Thy beauty departed, O sweetest One? Whither Thy fair comeliness? Whither the radiant grace of Thine image, O my most beloved Son?
 
 *Troparion, Tone 8:*
@@ -7847,48 +7847,48 @@ Ye passed through creation, having enlightened it, O disciples of the Savior; ha
 [^667]: Third Paremia at Great Vespers: a centonized reading from the Book of the Prophet Isaiah combining Isaiah 40:1–3, 9; 41:17–18; 45:8; 48:20–21; and 54:1. The marginal rubrics in the printed codex explicitly indicate the transition across these chapters (*м҃, м҃а, м҃є, м҃и, н҃д*).
 [^668]: Isaiah 54:1 is applied by the Church Fathers and hymnographers to the barren Elizabeth who brought forth the greatest among those born of women.
 [^669]: Opening sticheron at the Litiya (Tone 1, *Искапайте горы сладость*), adapting the imagery of Amos 9:13 and Joel 3:18 to the birth of the Forerunner.
-[^670]: John 1:29: *Се агнецъ Божїй вземляй грѣхи мiра* ("Behold the Lamb of God, which takes away the sin of the world").
+[^670]: John 1:29: *Се агнецъ Божїй вземляй грѣхи міра* ("Behold the Lamb of God, which takes away the sin of the world").
 [^671]: Quoting the Benedictus, the Canticle of Zechariah (Luke 1:76): *И ты, отроча, пророкъ вышняго наречешися: предыдеши бо пред лицемъ Господнимъ уготовати пути его*.
 [^672]: Theotokion dogmatikon (*Храмъ и дверь еси*), referring to the Mother of God as the mystical temple and the closed Eastern gate of Ezekiel 44:1–2.
 [^673]: Canticle of Zechariah (Luke 1:68; LXX Ps. 40:14 / 71:18).
-[^674]: At the bottom of physical leaf p171, the catchword is *путь*, anticipating *путь спасенiя* ("the path of salvation"); however, on leaf p172, column 1, the top line reads *намъ спасенiя*, omitting *путь* due to a typesetter omission between folios 85r and 85v.
+[^674]: At the bottom of physical leaf p171, the catchword is *путь*, anticipating *путь спасенія* ("the path of salvation"); however, on leaf p172, column 1, the top line reads *намъ спасенія*, omitting *путь* due to a typesetter omission between folios 85r and 85v.
 [^675]: Luke 1:76.
 [^676]: Doxasticon at the Aposticha by the 9th-century hymnographer St. Kassia (Cassia) the Nun (*Исаиинъ нынѣ пророка гласъ*).
 [^677]: Conflating Malachi 3:1 and Isaiah 40:3 as cited in Matthew 11:10 and Mark 1:2.
-[^678]: Luke 1:43 (*И откуду мнѣ сiе, да прiиде Мати Господа моего ко мнѣ?*).
-[^679]: The festal troparion of the Nativity of St. John the Baptist (*Пророче и предтече пришествiя Христова*), Tone 4, given in full at Little Vespers (see fol. 84r, cohort 17).
+[^678]: Luke 1:43 (*И откуду мнѣ сіе, да пріиде Мати Господа моего ко мнѣ?*).
+[^679]: The festal troparion of the Nativity of St. John the Baptist (*Пророче и предтече пришествія Христова*), Tone 4, given in full at Little Vespers (see fol. 84r, cohort 17).
 [^680]: Luke 1:76.
 [^681]: Luke 1:68.
 [^682]: Matins Gospel reading for the Feast of the Nativity of the Forerunner: Luke 1:24–25, 57–68, 76, 80 (Slavonic pericope 3: *Зачало 3*).
-[^683]: Tone 4, Ode 1 Heirmos (*Тристаты крѣпкiя*), evoking Exodus 15:4 (*тристаты потопи въ Чермнѣмъ мори*), spiritualized as the drowning of the tripartite powers of the soul (the rational, irascible, and concupiscent faculties) in the deep of dispassion.
+[^683]: Tone 4, Ode 1 Heirmos (*Тристаты крѣпкія*), evoking Exodus 15:4 (*тристаты потопи въ Чермнѣмъ мори*), spiritualized as the drowning of the tripartite powers of the soul (the rational, irascible, and concupiscent faculties) in the deep of dispassion.
 [^684]: Tone 4, Ode 1 Heirmos of the Second Canon by St. Andrew of Crete (*Наставльшему древле Израиля*), recalling the Exodus journey and the feeding with manna in the wilderness.
 [^685]: The standard Katavasia for feasts of the Theotokos and major saints: Tone 4, Ode 1 (*Отверзу уста моя*).
-[^686]: Tone 4, Ode 3 Heirmos (*Не мудростiю, и силою, и богатствомъ хвалимся*), based on the Canticle of Hannah (1 Kings / 1 Samuel 2:2–3) and Jeremiah 9:23–24.
+[^686]: Tone 4, Ode 3 Heirmos (*Не мудростію, и силою, и богатствомъ хвалимся*), based on the Canticle of Hannah (1 Kings / 1 Samuel 2:2–3) and Jeremiah 9:23–24.
 [^687]: Tone 4, Ode 3 Heirmos of the Second Canon (*Утверждаяй громъ, и созидаяй духъ*), echoing Amos 4:13 (*Яко се азъ утверждаяй громъ, и созидаяй духъ, и возвѣщаяй въ человѣцѣхъ христа своего*).
 [^688]: Magnificat (Luke 1:48: *Се бо от нынѣ ублажатъ мя вси роди*).
 [^689]: Tone 4, Ode 4 Heirmos (*Сѣдяй въ славѣ на престолѣ Божества*), drawing upon the vision of Isaiah 19:1 (*Се Господь сѣдитъ на облацѣ легцѣ*) and Habakkuk 3:2.
 [^690]: Conflating Isaiah 40:3 and Malachi 3:1.
 [^691]: Tone 4, Ode 4 Heirmos of the Second Canon (*Услышахъ славное смотреніе твое*), reflecting the prophetic awe of Habakkuk 3:2 (*Господи, услышахъ слухъ твой и убояхся*).
 [^692]: Typological Marian prophecies: the unburnt bush of Exodus 3:2, and the mountain not cut with hands of Daniel 2:34–35, 45.
-[^693]: Tone 4, Ode 5 Heirmos (*Нынѣ востану, пророчески рече Богъ*), derived from Psalm 11:6 (LXX: *Нынѣ воскресну, глаголетъ Господь, положуся во спасенiе, не обинюся о немъ*).
-[^694]: Alluding to Psalm 84:12 (LXX: *Истина от земли возсiя, и правда съ небесе приниче*).
+[^693]: Tone 4, Ode 5 Heirmos (*Нынѣ востану, пророчески рече Богъ*), derived from Psalm 11:6 (LXX: *Нынѣ воскресну, глаголетъ Господь, положуся во спасеніе, не обинюся о немъ*).
+[^694]: Alluding to Psalm 84:12 (LXX: *Истина от земли возсія, и правда съ небесе приниче*).
 [^695]: Alluding to Psalm 131:17–18 (LXX: *Уготовахъ свѣтильникъ помазанному моему: враги его облеку въ студъ*).
-[^696]: Tone 4, Ode 5 Heirmos of the Second Canon (*Возсiяй ми Господи свѣтъ повелѣнiй твоихъ*), drawn from Isaiah 26:9 (*От нощи утренюетъ духъ мой къ тебѣ, Боже, зане свѣтъ повелѣнiя твоя на земли*).
-[^697]: Luke 1:13–17 (*И самъ предыдетъ предъ нимъ духомъ и силою Илiиною*).
+[^696]: Tone 4, Ode 5 Heirmos of the Second Canon (*Возсіяй ми Господи свѣтъ повелѣній твоихъ*), drawn from Isaiah 26:9 (*От нощи утренюетъ духъ мой къ тебѣ, Боже, зане свѣтъ повелѣнія твоя на земли*).
+[^697]: Luke 1:13–17 (*И самъ предыдетъ предъ нимъ духомъ и силою Иліиною*).
 [^698]: Ezekiel 44:1–2; Exodus 3:2; Daniel 2:34–35.
-[^699]: Tone 4, Ode 6 Heirmos (*Прiидохъ во глубины морскiя*), based on the Canticle of Jonah 2:3–7.
-[^700]: Tone 4, Ode 6 Heirmos of the Second Canon (*Буря мя помышленiй постигши*), also drawing upon Jonah 2:3–6.
+[^699]: Tone 4, Ode 6 Heirmos (*Пріидохъ во глубины морскія*), based on the Canticle of Jonah 2:3–7.
+[^700]: Tone 4, Ode 6 Heirmos of the Second Canon (*Буря мя помышленій постигши*), also drawing upon Jonah 2:3–6.
 [^701]: Matthew 3:10 and Luke 3:9 (*Уже бо и сѣкира при корени древа лежитъ*).
 [^702]: Tone 4, Ode 7 Heirmos (*Юношы три въ Вавѷлонѣ*), based on the Prayer of Azariah and the Song of the Three Holy Children (Daniel 3:26ff).
-[^703]: Tone 4, Ode 7 Heirmos of the Second Canon (*Въ пещи, авраамстiи отроцы*), Daniel 3:52 (*Благословенъ еси въ храмѣ святыя славы твоея*).
+[^703]: Tone 4, Ode 7 Heirmos of the Second Canon (*Въ пещи, авраамстіи отроцы*), Daniel 3:52 (*Благословенъ еси въ храмѣ святыя славы твоея*).
 [^704]: Matthew 3:12 and Luke 3:17 (*Емуже лопата въ руцѣ его, и отребитъ гумно свое, и соберетъ пшеницу свою въ житницу*).
 [^705]: Tone 4, Ode 8 Heirmos (*Избавителю всѣхъ всесилне*), Daniel 3:57 (*Благословенъ еси въ храмѣ святыя славы твоея* / *Благословите вся дѣла Господня Господа*).
-[^706]: Tone 4, Ode 8 Heirmos of the Second Canon (*Случескаго владыко премудростiю твоею составилъ еси*), alluding to Job 38:4–6 and Psalm 103:2, 5.
-[^707]: Luke 1:63 (*И испрошь дщицу, написа, глаголя: Iоаннъ будетъ имя ему: и чудишася вси*).
+[^706]: Tone 4, Ode 8 Heirmos of the Second Canon (*Случескаго владыко премудростію твоею составилъ еси*), alluding to Job 38:4–6 and Psalm 103:2, 5.
+[^707]: Luke 1:63 (*И испрошь дщицу, написа, глаголя: Іоаннъ будетъ имя ему: и чудишася вси*).
 [^708]: Daniel 3:57 (*Благословите вся дѣла Господня Господа*).
-[^709]: Tone 4, Ode 9 Heirmos of the First Canon (*Сокровенное Божiе неизреченное въ тебѣ совершается*).
+[^709]: Tone 4, Ode 9 Heirmos of the First Canon (*Сокровенное Божіе неизреченное въ тебѣ совершается*).
 [^710]: Matthew 3:3; Mark 1:3; Luke 3:4; Isaiah 40:3.
-[^711]: John 1:29 (*Се Агнецъ Божiй, вземляй грѣхи мiра*).
+[^711]: John 1:29 (*Се Агнецъ Божій, вземляй грѣхи міра*).
 [^712]: The Ruthenian Pochaiv recension retains the supplication for the ruling King (*подкориваго подложи подъ нозѣ королю*), reflecting the historical civic petition of the Polish-Lithuanian Commonwealth.
 [^713]: Tone 4, Ode 9 Heirmos of the Second Canon by St. Andrew of Crete, citing the Magnificat (Luke 1:49–50).
 [^714]: Luke 1:17 (*Уготовати Господеви люди совершенны*).
@@ -7899,7 +7899,7 @@ Ye passed through creation, having enlightened it, O disciples of the Savior; ha
 [^719]: Luke 1:41 (*И взыграся младенецъ въ чревѣ ея*).
 [^720]: Luke 1:78 (*Посѣтилъ есть насъ востокъ свыше*).
 [^721]: The standard festal Theotokion dismissal chant at Matins (*Богородице, ты еси лоза истинная*).
-[^722]: Theotokion Kontakion (*Предстательство христiанъ непостыдное*), Tone 6.
+[^722]: Theotokion Kontakion (*Предстательство христіанъ непостыдное*), Tone 6.
 [^723]: Psalm 63:11 (LXX).
 [^724]: Psalm 63:2 (LXX).
 [^725]: Liturgical Epistle for the Nativity of the Forerunner: Romans 13:11–14:4 (Slavonic pericope 112: *Зачало 112*).
@@ -7910,7 +7910,7 @@ Ye passed through creation, having enlightened it, O disciples of the Savior; ha
 [^730]: St. Febronia of Nisibis (d. c. 304), virgin and venerable-martyr under Diocletian.
 [^731]: Idiomelon by Anatolius on June 25, celebrating the afterfeast of the Nativity of the Forerunner.
 [^732]: Selenus (Silvanus/Selenus), the Roman governor and persecutor who tortured and condemned St. Febronia to death in Nisibis.
-[^733]: Luke 1:43 (*И откуду мнѣ сiе, да прiиде Мати Господа моего ко мнѣ?*).
+[^733]: Luke 1:43 (*И откуду мнѣ сіе, да пріиде Мати Господа моего ко мнѣ?*).
 [^734]: Luke 1:41–44.
 [^735]: The standard Troparion of the Nativity of the Forerunner, Tone 4 (*Пророче и предтече*).
 [^736]: The General Troparion for a Woman-Martyr (*Агница твоя, Иисусе*), Tone 4, applied to St. Febronia; cf. Romans 6:3–4; 2 Timothy 2:11–12.
@@ -7918,39 +7918,39 @@ Ye passed through creation, having enlightened it, O disciples of the Savior; ha
 [^738]: Tone 8, Ode 1 Heirmos (*Воду прошедъ яко сушу*), recalling Exodus 14.
 [^739]: Luke 1:11–13.
 [^740]: Alluding to Psalm 115:6 (LXX: *Честна предъ Господемъ смерть преподобныхъ его*) and Exodus 13:2 / Luke 2:23.
-[^741]: Canon of the Venerable-Martyr Febronia by St. Theophanes the Branded (Tone 8), bearing the Slavonic acrostic: *Пѣсньми тя пою мудренно Февронiе*.
+[^741]: Canon of the Venerable-Martyr Febronia by St. Theophanes the Branded (Tone 8), bearing the Slavonic acrostic: *Пѣсньми тя пою мудренно Февроніе*.
 [^742]: Tone 8, Ode 3 Heirmos (*Небеснаго круга Верхотворче, Господи*).
 [^743]: Isaiah 11:1 (*И изыдетъ жезлъ изъ корене Иессеова, и цвѣтъ отъ корене его взыдетъ*).
 [^744]: Psalm 50:19 (LXX: *Жертва Богу духъ сокрушенъ: сердце сокрушенно и смиренно Богъ не уничижитъ*).
 [^745]: Numbers 17:8; Hebrews 9:4.
-[^746]: Tone 8, Ode 3 Heirmos of the Second Canon (*Ты еси утвержденiе притекающихъ къ тебѣ, Господи*).
+[^746]: Tone 8, Ode 3 Heirmos of the Second Canon (*Ты еси утвержденіе притекающихъ къ тебѣ, Господи*).
 [^747]: The Kontakion of St. Febronia, drawing upon the Parable of the Ten Virgins (Matthew 25:1–13) and the cup of the Lord's suffering (Matthew 20:22).
 [^748]: Sessional Hymn of the Nativity of the Forerunner, Tone 8.
 [^749]: Sessional Hymn of St. Febronia concluded.
 [^750]: Stavrotheotokion at Matins, mourning at the Cross.
 [^751]: Tone 8, Ode 4 Heirmos (*Ты моя крѣпость, Господи*), based on Habakkuk 3:2.
-[^752]: Matthew 5:8 (*Блажени чистiи сердцемъ, яко тiи Бога узрятъ*).
+[^752]: Matthew 5:8 (*Блажени чистіи сердцемъ, яко тіи Бога узрятъ*).
 [^753]: Matthew 3:10 and Luke 3:9 (*Уже бо и сѣкира при корени древа лежитъ: всяко убо древо, еже не творитъ плода добра, посѣкается и во огнь вметается*).
 [^754]: Philippians 3:20; Hebrews 11:10; 13:14.
-[^755]: Galatians 4:26 (*А вышнiй Iерусалимъ свободь есть, иже есть мати всѣмъ намъ*).
+[^755]: Galatians 4:26 (*А вышній Іерусалимъ свободь есть, иже есть мати всѣмъ намъ*).
 [^756]: Song of Songs 4:7 (*Вся добра еси, ближняя моя, и порока нѣсть въ тебѣ*).
 [^757]: The Slavonic idiom *отъ молодыхъ ногтей* ("from early youth", literally "from tender fingernails") translates the Greek idiom ἐξ ὀνύχων, denoting earliest childhood.
 [^758]: Referring to St. Febronia's ministry in Nisibis reading and expounding the Holy Scriptures to women and catechumens.
 [^759]: Tone 8, Ode 5 Heirmos (*Вскую мя отринулъ еси*), drawing upon Psalm 42:2 and Isaiah 26:9.
 [^760]: Ode 5 Troparion 3 of the First Canon concluded.
-[^761]: Psalm 45:5 (LXX: *Рѣчная устремленiя веселятъ градъ Божiй: освятилъ есть селенiе свое Вышнiй*).
+[^761]: Psalm 45:5 (LXX: *Рѣчная устремленія веселятъ градъ Божій: освятилъ есть селеніе свое Вышній*).
 [^762]: Commemorating the severe bodily mutilation suffered by St. Febronia, who had her limbs, breasts, and teeth violently severed by order of Selenus.
 [^763]: Alluding to the extraction of St. Febronia's teeth during her interrogation.
 [^764]: In the 1761 Pochaiv print, this stanza is labeled with the red rubric *Богородиченъ:*, though its content specifically commemorates the severed feet of St. Febronia while addressing Christ born of the Virgin and Febronia as bride of God.
-[^765]: Tone 8, Ode 6 Heirmos (*Молитву пролiю ко Господу*), based on Jonah 2:3–8 and Psalm 141:2.
+[^765]: Tone 8, Ode 6 Heirmos (*Молитву пролію ко Господу*), based on Jonah 2:3–8 and Psalm 141:2.
 [^766]: Emphasizing the angelic life of St. John the Baptist in the wilderness (*земенъ ангелъ и небесный человѣкъ*).
 [^767]: Genesis 28:12 (Jacob's ladder); Ezekiel 44:1–2 (the closed gate); Hebrews 9:4 (the golden jar of manna).
 [^768]: Lysimachus, the nephew of the persecutor Selenus, witnessed St. Febronia's martyrdom, was converted to Christ along with his kinsman Primus, and was subsequently baptized.
 [^769]: Bryene (Vryena), the abbess of the convent in Nisibis who raised and trained St. Febronia from childhood.
-[^770]: Song of Songs 2:2 (*Яко кринъ въ тернiи, тако искренняя моя посредѣ дщерей*).
+[^770]: Song of Songs 2:2 (*Яко кринъ въ терніи, тако искренняя моя посредѣ дщерей*).
 [^771]: Kontakion of the Nativity of the Forerunner, Tone 3 (*Дѣва днесь* model by St. Romanos the Melodist).
 [^772]: Ikos of the Nativity of the Forerunner; cf. Matthew 11:9–11; Luke 1:41, 76; 7:26–28.
-[^773]: Tone 8, Ode 7 Heirmos (*Отъ Iудеи дошедше отроцы*), Daniel 3:26ff.
+[^773]: Tone 8, Ode 7 Heirmos (*Отъ Іудеи дошедше отроцы*), Daniel 3:26ff.
 [^774]: Luke 1:15 (*И вина и сикера не имать пити, и Духа Святаго исполнится еще изъ чрева матере своея*).
 [^775]: Matthew 3:11; Luke 3:16.
 [^776]: Concluding line of the seventh troparion of Ode 7 of the Canon to St. John the Baptist, concluding the sentence begun on physical leaf p190 (fol. 94v).
@@ -8087,7 +8087,7 @@ Ye passed through creation, having enlightened it, O disciples of the Savior; ha
 [^907]: Saint Germanus I, Patriarch of Constantinople (ca. 659–740).
 [^908]: Slavonic *Вѷзанті́ево* indicates a hymn composed by the Byzantine hymnographer (Leo VI the Wise or Byzantios).
 [^909]: Slavonic *Є҆фре́ма ка́ріа* renders the Byzantine hymnographer Ephrem of Caria.
-[^910]: Slavonic *Гла́вную добле́нія ѡ҆ста́вль* translates the Greek incipit Τὴν ἄκран ἐκλιπὼν ἀνδρείαν (referring to the abandonment of reliance on earthly vigor to receive divine revelation).
+[^910]: Slavonic *Гла́вную добле́нія ѡ҆ста́вль* translates the Greek incipit Τὴν ἄκραν ἐκλιπὼν ἀνδρείαν (referring to the abandonment of reliance on earthly vigor to receive divine revelation).
 [^911]: Saint John of Damascus composed the first canon to Saint Peter; the second canon to Saint Paul is attributed to Saint John of Damascus or Saint Cosmas.
 [^912]: The Katavasia incipit *Ѿве́рзꙋ ꙋ҆ста̀ моѧ̑* corresponds to the Heirmoi of the Canon of the Mother of God (Tone 4).
 [^913]: The liturgical text contrasts Rome, the site of the martyrdom of both Holy Apostles Peter and Paul, with Tarsus in Cilicia, the native city of the Apostle Paul (cf. Acts 22:3), which piously preserves the memory of his infancy and youth.

@@ -18,7 +18,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 1. Introduction Deliverable
 
-#### [MODIFY] [Final_Dolnytsky_intro.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_intro.txt)
+#### [MODIFY] [Final_Dolnytsky_intro.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_intro.txt)
 - **Restore Page Numbers**: Re-integrate the dropped page numbers (e.g., "42", "44", "46") into the introduction text as parenthetical or editorial indicators to match the Ukrainian layout.
 - **Remove Interpolated Heading**: Remove the added heading `"RUBRICS OF THE TRIODION"` after `"PART IV"` as it is an unauthorized addition.
 - **Restore Standing Heading**: Restore the standalone heading `"ПРАВИЛО"` ("RULE") instead of merging it into the subsequent line.
@@ -30,7 +30,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 2. Part I: Structure of Services
 
-#### [MODIFY] [Final_Dolnytsky_part1_structure.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part1_structure.txt)
+#### [MODIFY] [Final_Dolnytsky_part1_structure.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part1_structure.txt)
 - **Correct Clergy Capitalization**:
   - Lowercase all pronouns referring to the priest, deacon, or saints (e.g., change `"He exits"`, `"His right hand"`, `"He takes"`, `"He puts"`, `"when He exclaims"`, `"He places"`, `"His right hand"` to lowercase `he` or `his`).
 - **Remove Service Book Gloss**: Remove the parenthetical explanation `(lit. "Service Book")` next to `Sluzhebnik` to enforce strict compliance with the standalone terminology rule.
@@ -54,7 +54,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 3. Part II: General Rubrics
 
-#### [MODIFY] [Final_Dolnytsky_part2_general_rubrics.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part2_general_rubrics.txt)
+#### [MODIFY] [Final_Dolnytsky_part2_general_rubrics.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part2_general_rubrics.txt)
 - **Remove Bracketed Clarifications**: Purge unauthorized bracketed insertions (`[sung]`, `[commemorated]`, `[on one day]`).
 - **Correct Numerical Kathismata translation**: Change `“two of the current tone”` to **“two appointed”** (or "two successive") to match *„дві чергових”*.
 - **Correct Feast Terminology**: Change `"Forefeast"` to **"Afterfeast"** where the source uses *посвяттям*.
@@ -81,7 +81,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 4. Part III: Menaion
 
-#### [MODIFY] [Final_Dolnytsky_part3_menaion.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part3_menaion.txt)
+#### [MODIFY] [Final_Dolnytsky_part3_menaion.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part3_menaion.txt)
 - **Correct Clergy Capitalization**: Lowercase pronouns referring to the priest or bishop.
 - **Align Footnote Markers**: Correct any missing or duplicated footnotes identified in the visual log (e.g. Page 129, 133).
 
@@ -89,7 +89,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 5. Part IV: Triodion
 
-#### [MODIFY] [Final_Dolnytsky_part4_triodion.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part4_triodion.txt)
+#### [MODIFY] [Final_Dolnytsky_part4_triodion.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part4_triodion.txt)
 - **Correct Troparion Identification (Page 167)**:
   - Change the troparion title from `"Today is salvation"` to **"Save, O Lord"** to match *„Спаси, Господи”*.
 - **Remove Bold Formatting (Page 168)**: Remove bolding from headings and subheadings (e.g., "ON WEDNESDAY EVENING") to align with the plain-text style of the source page.
@@ -121,7 +121,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 6. Part V: Temple and Calendar Statutes
 
-#### [MODIFY] [Final_Dolnytsky_part5_temple.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part5_temple.txt)
+#### [MODIFY] [Final_Dolnytsky_part5_temple.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_part5_temple.txt)
 - **Restore Missing Calendar Entries (Page 222)**: Translate and restore the calendar entries for late November and December.
 - **Restore Vigil List (Page 230)**: Translate and restore the list of All-Night Vigils.
 - **Restore Temple Statutes (Page 232)**: Translate and restore the missing section of temple statutes.
@@ -132,7 +132,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 7. Appendix Deliverable
 
-#### [MODIFY] [Final_Dolnytsky_appendix.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_appendix.txt)
+#### [MODIFY] [Final_Dolnytsky_appendix.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_Dolnytsky_appendix.txt)
 - **Restore Tetrapod and Diskos Diagrams (Pages 253, 257, 263, 264)**:
   - Ensure spatial layouts, Tetrapod coordinates, and Diskos particle placement text diagrams are properly formatted and placed in their respective chapters.
 - **Restore Deacon Arm Crossing (Page 269)**: Restore the dropped sentence: `"...and the deacon, crossing his arms, bows..."`.
@@ -145,7 +145,7 @@ Below is the structured remediation plan grouped by component files.
 
 ### 8. Master Footnotes Corpus
 
-#### [MODIFY] [Final_footnotes.txt](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_footnotes.txt)
+#### [MODIFY] [Final_footnotes.txt](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_footnotes.txt)
 - **Correct Footnote 531**: Restore the missing Greek text and translation.
 - **Correct Footnote 533**: Restore the missing Greek text and translation.
 - **Correct Footnote 537**: Revise to be a direct translation of the Latin Nilles quote instead of an expanded historical explanation.

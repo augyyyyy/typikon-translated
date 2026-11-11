@@ -1,7 +1,7 @@
 === LEAF p31 ===
 
-#### [Left Page — Folio 27v]
-##### Column A
+**[Left Page — Folio 27v]**
+**Column A**
 O Virgin Theotokos, undefiled tabernacle: cleanse me who am defiled by transgressions with thy compassions, by the most honorable sprinkling, and give me a helping hand, that I may cry: Glory to thee, O pure Bride of God!
 O Virgin, thou wast revealed as a sanctified temple unto God, Who dwelt within thee beyond understanding; pray Him to cleanse me from the defilements of sins, that I may be known as a temple and a spiritual dwelling-place!
 Have mercy on me, O Theotokos, who alone didst give birth unto the Wellspring of mercies; and heal the fierce sickness and heartache of my soul, grant me a stream of tears and compunction before the end, and deliverance from evils!
@@ -14,7 +14,7 @@ When the passion came upon Thee unjustly, O righteous Lord, Adam who was formerl
 *For the Martyrs:*
 Like a paradise planted by God were ye revealed, O martyrs; the passions...
 
-##### Column B
+**Column B**
 ...of the honorable ones, having acquired them as sweet-smelling flowers, whereby every soul of the faithful is filled with fragrance!
 *For the Martyrs:*
 As fair-flowering and fruitful trees that blossomed forth the fruit of the immortality of faith and uprooted the evil roots: let us hymn the martyrs of the Lord!
@@ -30,8 +30,8 @@ Cloud, and Paradise, and Door of light, Table and radiant Fleece, Urn carrying w
 *As Thou didst save the type from the whale, O Lover of mankind: lead me up also from the deep of transgressions, I pray!*
 Thou Who art higher than every honor didst endure dishonor, O Christ, being lifted up upon the Cross, wishing to honor mankind!
 
-#### [Right Page — Folio 28r]
-##### Column A
+**[Right Page — Folio 28r]**
+**Column A**
 Grant Thy forgiveness unto me, as unto all the holy ones, who am enslaved unto evil things, O most good Christ!
 *For the Martyrs:*
 By the pains of sufferings ye passed over unto a painless end, O holy ones, being accounted worthy of ineffable joy!
@@ -50,7 +50,7 @@ O Mary, who wast revealed as a sanctified tabernacle: cleanse my wretched soul t
 When crucified, Thou didst shake creation; when slain, Thou didst put the serpent to death: blessed art Thou, O Christ, God of our fathers!
 The Long-suffering One was given gall to drink...
 
-##### Column B
+**Column B**
 ...pouring forth saving sweetness for me, who was deprived of the food of Paradise through pleasurable eating!
 *For the Martyrs:*
 The martyrs, scraped while naked, put off the operation of mortality, and received divine beauty from God!
@@ -69,8 +69,8 @@ Adorned with divine virtues, thou didst bear the Word co-unoriginate with the Fa
 
 === LEAF p32 ===
 
-#### [Left Page — Folio 28v]
-##### Column A
+**[Left Page — Folio 28v]**
+**Column A**
 *...and turned the roaring, flaming furnace into dew: hymn Christ God, and highly exalt Him unto all ages!*
 When Thou wast nailed to the Cross, O Savior, creation quaked; the sun quenched its rays, and the rocks were split, and Hades was swiftly despoiled, unable to endure Thy dominion!
 For the condemnation of the guilty one Thou didst suffer condemnation; for him who took on nakedness, Thou didst hang naked upon the Tree, O Compassionate One: great is Thy forbearance and long-suffering!
@@ -84,7 +84,7 @@ The Bodiless One is incarnate of thee in a manner fitting God; pray Him, O pure 
 Thou didst bear the Savior and God, Who healed the crushing of the first-fashioned Adam, O most pure one; pray Him to heal the wounds of my soul, which drag me down incurably!
 Raise me up who am bowed down unto the depth of evil things, and conquer him who wars against me, O pure one, and...
 
-##### Column B
+**Column B**
 ...despise not my soul that is wounded by shameful pleasures, O most pure one, but have compassion and save me!
 *Stavrotheotokion:*
 We are delivered from all manner of temptations, O most pure one, by thy vigilant prayers unto God, who judge thee to be the blessed and full-of-grace Theotokos!
@@ -99,8 +99,8 @@ The company of sacred martyrs conquered myriads of spiritual enemies, and was jo
 *Stavrotheotokion:*
 With the light, O Virgin, of Him Who shone forth from thee...
 
-#### [Right Page — Folio 29r]
-##### Column A
+**[Right Page — Folio 29r]**
+**Column A**
 ...illuminate my mind and enlighten my heart with the Light that shone forth from thee, driving away the darkness of sin and banishing all the gloom of my slothfulness!
 *Another Canon [to the Theotokos]. Heirmos: Radiant cloud...*
 Being a lover of sin, I abide in slothfulness, and I tremble before the inexorable tribunal, O pure one; preserve me uncondemned therein by thy holy prayers, that as my protectress I may call thee blessed, O most pure one!
@@ -114,7 +114,7 @@ O thou who didst bear the divine Light Who shone forth from the Father: have com
 Thee Who wast nailed in the flesh upon the Tree and didst grant life unto us, as Savior and Master we unceasingly hymn!
 By Thy Cross, O Christ, one flock was made of Angels and men; and...
 
-##### Column B
+**Column B**
 ...in one assembly heaven and earth rejoice: O Lord, glory to Thee!
 *For the Martyrs:*
 Passion-bearers of Christ, come, all ye people, let us honor them with spiritual songs and hymns: the luminaries of the world and preachers of the faith, the ever-flowing fountains from which healings pour forth unto the faithful! By their prayers, O Christ our God, grant peace unto Thy world, and great mercy unto our souls!
@@ -131,8 +131,8 @@ Having assimilated yourselves unto the passions of Him Who voluntarily suffered 
 
 === LEAF p33 ===
 
-#### [Left Page — Folio 29v]
-##### Column A
+**[Left Page — Folio 29v]**
+**Column A**
 ...and drive away illnesses from men by spiritual power!
 *Glory...*
 We glorify Thee, the Trinity of equal power and equal honor: God the unoriginate Father, and the Son, and the Holy Spirit; the one Godhead in three Persons do we magnify in faith!
@@ -145,15 +145,15 @@ The united feast of the martyrs drowned the demonic multitude in the streams of 
 All-venerable pastors: by wise words and teachings ye taught all to glorify the Trinity in the unity of the Godhead, divinely avoiding both the confusion and division of Persons; and now ye pray that there may be granted unto our souls peace and great mercy!
 The choir of venerable fathers lulled to sleep the fleshly desires and bridled their impulses, showing forth an angelic life; therefore they now dance in chorus in the heavenly mansions, praying unto Christ to grant unto our souls peace and great mercy!
 
-##### Column B
+**Column B**
 *Other Stichera to the Martyrs, Tone 1:*
 By the prayers, O Lord, of all the saints and of the Theotokos, grant us Thy peace, and have mercy on us, for Thou alone art compassionate!
 They who inherited your confession, O holy ones, terrified the power of the ages and set men free from deceit; therefore, even when beheaded, ye cried: "Let the sacrifice of our souls, O Lord, be acceptable before Thee, for they loved Thee and disregarded temporal life, O Lover of mankind!"
 O the good merchandise of yours, O holy ones! For ye gave your blood, and inherited the heavens; and having been tried for a time, ye rejoice eternally! Truly good was your merchandise: for leaving behind corruptible things, ye received incorruptible things; and rejoicing in chorus with the Angels, ye unceasingly sing unto the consubstantial Trinity!
 *Glory... Both now... Theotokion: "The glory of the world..."*
 
-#### [Right Page — Folio 30r]
-##### Column A
+**[Right Page — Folio 30r]**
+**Column A**
 ## AT THE APOSTICHA
 *Martyrika, Tone 1:*
 O all-lauded martyrs, the earth hath not concealed you, but heaven hath received you! The gates of Paradise opened unto you, and being within, ye delight in the Tree of Life; pray Christ to grant unto our souls peace and great mercy!
@@ -166,7 +166,7 @@ No one is sinless, none among men hath lived without sin, save Thou alone, O Imm
 Truly beyond understanding are all thy wonders, and the manner of thy birthgiving, O Bride of God, which all the prophets foretold: all-glorious was thy conception and birthgiving, O all-hymned one, incomprehensible and ineffable, whereby the world was saved, for He is merciful!
 
 # ON SATURDAY AT MATINS
-##### Column B
+**Column B**
 *After the 1st Kathisma, Sessional Hymns of the Martyrs, Tone 1:*
 With the praise of suffering and eternal honor, O glorious passion-bearers, having bound yourselves unto the Lord; for by endurance of wounds ye conquered the lawless, and by divine power received victory from heaven. By their prayers deliver us also from the invisible enemy, O Savior, and save us!
 Like good warriors, covered in blood with one mind, ye feared not the threats of the torturers, O holy ones: ye came zealously unto Christ, taking up the precious Cross; and having finished your course, ye received victory from heaven! Glory to Christ Who strengthened you! Glory to Him Who crowned you! Glory to Him Who works healings for all through you!
@@ -178,8 +178,8 @@ Martyrs of Christ, entreat God for us, we all pray, coming unto you in faith: fo
 
 === LEAF p34 ===
 
-#### [Left Page — Folio 30v]
-##### Column A
+**[Left Page — Folio 30v]**
+**Column A**
 ...pour forth the grace of healings, as divine regiments of soldiers, guardians of the faith!
 *For the Departed:*
 Thou didst abolish the power of death, O Christ, and those who were in corruption die no more, but live in Thee; therefore, O Lord, give rest unto the souls of Thy servants, and rank them with Thy saints, by the prayers of the Theotokos, granting them Thy mercies!
@@ -193,14 +193,14 @@ O only strong and fervent protectress of the human race, Virgin Theotokos: uncea
 Being shielded with the buckler of piety, the divine passion-bearers hastened unto the combat and destroyed all the power of the enemy, singing a song of victory unto Christ Who strengthened them!
 Ye shepherded the flock of God, O divine pastors, watering it with sacred words, driving away the savage wolves, and rejoicing ye dwell in the heavenly sheepfold, where the Chief Shepherd is!
 
-##### Column B
+**Column B**
 Having deadened the passions of the flesh by fasting and sufferings, through divine nodding: pray Christ Who became poor for our sake ever to have compassion on us!
 *For the Departed:*
 Having become dead, Thou didst grant of Thy divine life and immortal life unto the dead; make those who have departed from corruptible life in faith partakers of Thy Kingdom, as Thou art compassionate and the only greatly merciful One!
 *Theotokion:*
 The women martyrs bound by the love of Christ and crowned by God, and all the venerable women, faithfully honor thee, O all-immaculate one and fair among women, rejoicing as unto the holy Queen!
 
-### Another Canon for the Departed
+**Another Canon for the Departed**
 *We sing it in order, and where there is no Menaion. Tone 1. Heirmos: "Thy victorious right hand...":*
 Thou didst smash the gates of death and its bars by Thy death, O Immortal One; open the gates of immortality that are beyond understanding unto the departed, O Master, by the prayers of Thy passion-bearers!
 That we might be accounted worthy of divine life, Thou didst descend unto death; and overthrowing its treasuries, Thou didst deliver us from thence: now grant rest unto the departed, O Giver of life!
@@ -209,8 +209,8 @@ Taking upon Thyself my corruptible and dead darkness, Thou didst clothe it with 
 *Both now... Theotokion:*
 Having given birth unto God the Word of God, let us, the faithful, hymn her...
 
-#### [Right Page — Folio 31r]
-##### Column A
+**[Right Page — Folio 31r]**
+**Column A**
 ...for thus the pure one became the way of life unto the dead: let us glorify her as the God-receiver and Theotokos!
 *Ode 3. Heirmos:*
 *Let my heart be established in Thy will, O Christ God: Who didst establish the second heaven upon the waters, and didst found the earth upon the waters, O All-powerful One!*
@@ -224,7 +224,7 @@ O unwedded Mother of God, offer the petitions of all unto God our Benefactor, Wh
 *Another Canon [for the Departed]. Heirmos: Thou Who alone knowest...*
 As Thou alone art good, as Thou alone art greatly merciful: give rest in the heavenly mansions unto those who have piously departed unto Thee, where ineffable joy and delight abide,
 
-##### Column B
+**Column B**
 ...where the all-joyful assembly of the martyrs is!
 Thou alone wast revealed upon earth as sinless, O my Savior, Who takest away the sins of the world as Thou art merciful; therefore give rest unto the souls of those who have departed in faith, in the courts of Thy saints, O Lover of mankind!
 *Glory...*
@@ -243,8 +243,8 @@ They were opened...
 
 === LEAF p35 ===
 
-#### [Left Page — Folio 31v]
-##### Column A
+**[Left Page — Folio 31v]**
+**Column A**
 ...and the choir of women opened unto the Lord, suffering manfully; nor were the holy women overcome by bodily pleasures, having thee as their helper, O most pure one!
 *Another Canon [for the Departed]. Heirmos: The mountain of grace...*
 Having put Hades to death by Thine unconquerable power, Thou wast numbered among the dead, Who alone art free, O Christ: by the entreaties of the holy martyrs, set free the souls of those who piously departed unto Thee from condemnation!
@@ -257,7 +257,7 @@ The human race was saved through thy birthgiving, for thou didst bear for us the
 *Make the bright and ever-existing Light to shine forth upon us who rise early at dawn unto the judgments of Thy commandments: for Thou art the Lover of mankind, O Christ our God!*
 Being girded with piety, the martyrs were revealed unwounded by the arrows of the adversary; and becoming victorious by grace, ye received crowns!
 
-##### Column B
+**Column B**
 Anointing His priests with divine ointment, O Lord, they shepherded the multitude of the faithful in holiness and guided them unto the heavenly sheepfold!
 Most sacred hieromartyrs and all venerable ones: living in the fear of the Spirit and becoming partakers of the Kingdom, ye are divinely glorified!
 *For the Departed:*
@@ -272,8 +272,8 @@ As Paradise was opened unto him who was hung with Thee: receive now the souls of
 Delivering those who hold fast their hope in thee: guide them quietly unto the haven of divine will by thy maternal boldness toward thy Son, O Bride of God!
 *Ode 6. Heirmos:*
 
-#### [Right Page — Folio 32r]
-##### Column A
+**[Right Page — Folio 32r]**
+**Column A**
 *Imitating the Prophet Jonah, I cry: Deliver my life from corruption, O Good One, and save me, O Savior of the world, who cry: Glory to Thee!*
 Being subjected to delay by the infliction of many wounds, ye inherited true life together, praying that we all may be saved, O holy martyrs!
 Ye were recognized upon earth as radiant morning stars, illuminating the faithful with the light of piety, O glorious warriors of Christ and all-wise hierarchs!
@@ -288,7 +288,7 @@ With the blood that flowed from Thy side Thou didst redeem the world; therefore 
 *Glory...*
 Thou Who in the beginning didst fashion me with Thine all-pure hands...
 
-##### Column B
+**Column B**
 ...and didst bestow a spirit, and when I had fallen grievously unto the earth didst renew me most beautifully: now do Thou Thyself give rest unto the souls of the departed!
 *Both now... Theotokion:*
 We hymn thee, O pure one clad with glory, through whom the unwaning Sun of Righteousness shone forth unto us who sit in darkness and the shadow of death: for thou wast the Mediatress of our salvation!
@@ -304,8 +304,8 @@ Thee, O holy, most pure one, do all the holy women...
 
 === LEAF p36 ===
 
-#### [Left Page — Folio 32v]
-##### Column A
+**[Left Page — Folio 32v]**
+**Column A**
 ...both women and the beauty of men, dancing in chorus with the Angels, joyfully praise God Who was born in the flesh of thee out of great loving-kindness!
 *Another Canon [for the Departed]. Heirmos: Thee, the noetic...*
 Grant unto those who have departed unto Thee to be illuminated with the rays of Thine all-pure glory, O Christ, that they may cry unto Thee without doubt: Blessed art Thou, O God praised by the fathers!
@@ -318,7 +318,7 @@ The shadow of the Law and the ancient riddles passed away through thy birthgivin
 *Him before Whom Angels and all the hosts tremble as their Creator and Lord: priests, hymn Him; children, glorify Him; people, bless and highly exalt Him unto all ages!*
 All the martyrs passed through the herb-potions unharmed, and steadfastly endured the boiling caldrons, being gloriously refreshed by the fire of the divine Spirit!
 
-##### Column B
+**Column B**
 ...pre-eminently of the Spirit!
 Thou didst give unto Thy prophets to foresee things far off, and didst sacredly make wise Thy hierarchs; by their prayers, O Christ God, enlighten the hearts of those who faithfully hymn Thee!
 Having crucified yourselves unto the world by fastings, ye truly inherited transcendent life, even as from the ages all who have pleased God have done, ever and righteously!
@@ -333,8 +333,8 @@ Thou Who hast dominion over death and life, and between all things: deign that t
 *Theotokion:*
 Thou wast the Mediatress of salvation unto us, O all-immaculate one...
 
-#### [Right Page — Folio 35r]
-##### Column A
+**[Right Page — Folio 35r]**
+**Column A**
 # ON SATURDAY EVENING, AT LITTLE VESPERS, AT "LORD, I HAVE CRIED"
 *Resurrectional Stichera, on 4, Tone 2:*[^44]
 Unto the pre-eternal Word of God born of the Father, Who was incarnate of the Virgin Mary, come, let us bow down: for having endured crucifixion, He was committed unto burial as He Himself willed; and He rose from the dead, and saved me, wandering man!
@@ -343,7 +343,7 @@ With the Archangels let us hymn the resurrection of Christ: for He is the Redeem
 *Glory... Both now... Theotokion:*
 Beholding the wonders of the great mystery, I proclaim the Godhead; beholding the passions, I deny not the humanity. For Emmanuel opened the gates of nature as man, but as God He unloosed not the bars of virginity...
 
-##### Column B
+**Column B**
 ...but He passed through in like manner as He was formed, even as He entered through hearing; and in like manner He was born as He was conceived: impassibly He entered, and ineffably He came forth, according to the Prophet who said: "This gate shall be shut, and no man shall pass through it, save only the Lord God of Israel, Who hath great mercy!"
 ## AT THE APOSTICHA
 *Resurrectional Stichera, Tone 2:*
@@ -354,23 +354,23 @@ The joy of all who sorrow, protectress of the wronged, feeder of the hungry, con
 
 === LEAF p37 ===
 
-#### [Left Page — Folio 35v]
-##### Column A
+**[Left Page — Folio 35v]**
+**Column A**
 ...shelter and defense of the afflicted, and staff of the blind: thou art all these, O Mother of the Most High God, most pure one; hasten, we pray thee, to save thy servants!
 *Stichos: The rich among the people shall entreat thy countenance.* (Ps. 44:13)
 No other refuge unto God and the Good One have we acquired, save thee, O Virgin, Bride of God: cast us not away from thy protection, nor put us to shame who run with love unto thy patronage, O Mother of God; therefore hasten to our aid, and grant relief unto us, O Savior!
 *Stichos: I will remember thy name in every generation and generation.* (Ps. 44:18)
 The fear of many-formed temptations and dire distresses now tempest-toss me, and the deep...
 
-##### Column B
+**Column B**
 ...of despair drowns me; the winter of my transgressions grievously troubles me: anticipate and deliver me who am tempest-tossed, O only calm of the faithful, and lead me up unto the haven of the high divine calling!
 *Glory... Both now... Theotokion:*
 Thou prayest for all, O Good One, who run with faith unto thy mighty protection: for we sinners have no other refuge unto God, in perils and sorrows an ever-present deliverance, laden with many sins, O Mother of the Most High God; therefore we fall down before thee: deliver thy servants from every distress![^45]
 Then, "Now lettest Thou depart": Trisagion. Troparion: "When Thou didst descend unto death..." Theotokion: "All beyond comprehension..." And the dismissal.
 
-#### [Right Page — Folio 33r]
-##### Column A
-...all-immaculate one, and abiding in brightness unto endless ages: therefore, O pure Virgin, do we ever bless and highly exalt all Thy works unto all ages!
+**[Right Page — Folio 33r]**
+**Column A**
+...all-immaculate one, and abiding in brightness unto endless ages: therefore, O pure Virgin, do we ever bless and highly exalt all thy works unto all ages!
 *Ode 9. Heirmos:*
 *The life-receiving, ever-flowing fountain, the radiant, all-golden lampstand, the animate Church, the all-pure tabernacle more spacious than heaven and earth: as the Theotokos, let us, the faithful, magnify!*
 Let us honor the sacred roots of the sacred martyrs, rejoicing: their sufferings and wounds, nailings and banishments, and blessed slaughter, whereby they were revealed as heirs of Christ!
@@ -380,7 +380,7 @@ Having become the divine lips of the Lord, all the Prophets pre-announced His li
 O Power that rulest over all: show those whom Thou hast translated from earth to be partakers of Thy Kingdom with Thy saints, and in Thine exceeding goodness overlook the deeds committed by them, O God of all!
 O thou who didst bear the natural and timeless Light: loose all my temporal transgressions by thy prayers, and enlighten my mind that is ever darkened by slothfulness, that I may hymn thee and faithfully magnify thee!
 
-##### Column B
+**Column B**
 *Another Canon [for the Departed]. Heirmos: The image of the pure...*
 Spare Thine own creation, O God, as Thou art the Lover of mankind and merciful, and give rest unto all Thy servants where all the martyrs rejoice: those who have departed from temporal things in faith, O greatly merciful One!
 Possessing an abyss of mercy that overflows the transgressions of Thy servants: receive those whom Thou hast chosen, O Lover of mankind, and give them rest in the bosom of Abraham, and show them in Thy light with Lazarus!
@@ -394,8 +394,8 @@ These warriors of the great King opposed the decrees of the torturers, manfully 
 
 === LEAF p38 ===
 
-#### [Left Page — Folio 33v]
-##### Column A
+**[Left Page — Folio 33v]**
+**Column A**
 ...they ask of the Savior peace, and great mercy unto our souls!
 O all-lauded martyrs, neither tribulation, nor distress, nor famine, nor persecution, nor wounds, nor rage of wild beasts, nor sword, nor threatening fire were able to separate you from God; but rather by the love which ye had toward Him, as though contesting in bodies not your own, ye forgot nature and despised death! Therefore ye worthily received the reward of your labors, having become heirs of the Kingdom of Heaven: pray Christ for our souls!
 All-lauded martyrs in the Lord: for ye contested with a good contest; ye opposed kings and conquered torturers; ye feared not fire nor sword, nor savage wild beasts that devoured your bodies! Sending up hymnody unto Christ with the Angels, ye received crowns from heaven: entreat that great mercy may be granted unto us!
@@ -404,7 +404,7 @@ By Thy word, O my Savior, Thou dost reveal that Thou art the Resurrection of all
 *Glory... Both now... Theotokion:*
 Rejoice on our behalf, O holy Virgin Theotokos, pure vessel of the whole universe:
 
-##### Column B
+**Column B**
 ...unquenchable lampstand, dwelling-place of the Uncontainable One, indestructible Church: Rejoice, from whom was born the Lamb of God, Who takes away the sins of the whole world!
 ## AT THE APOSTICHA
 *Stichera for the Departed, Tone 1. Model: "O all-lauded martyrs":*
@@ -417,8 +417,8 @@ Rejoicing in Thy Cross, and hoping in Thy Cross, Thy servants have departed unto
 *Glory... Both now... Stavrotheotokion:*
 Entreat Christ, Whom thou didst bear, O Virgin Mother, to grant forgiveness of sins unto all who faithfully hymn thee!
 
-#### [Right Page — Folio 36r]
-##### Column A
+**[Right Page — Folio 36r]**
+**Column A**
 # TONE 2
 
 # ON SATURDAY EVENING, AT GREAT VESPERS, AT "LORD, I HAVE CRIED"
@@ -430,15 +430,15 @@ With the Archangels let us hymn the resurrection of Christ: for He is the Redeem
 *Other Eastern Stichera. Composition of Anatolius, Patriarch of Constantinople. Tone 2:*
 Thee Who wast crucified and buried, the Angel proclaimed, O Master, and said...
 
-##### Column B
+**Column B**
 ...unto the women: "Come and see where the Lord lay! For He is risen as He said, for He is all-powerful!" Therefore we bow down before Thee, the only Immortal One: O Giver of life, Christ, have mercy on us!
 By Thy Cross Thou didst abolish the curse of the tree; by Thy burial Thou didst put to death the dominion of death; and by Thy resurrection Thou didst enlighten the human race: therefore we cry unto Thee: O Benefactor, Christ our God, glory to Thee!
 The guards were terrified, O Lord, and the gates of death and the gatekeepers of Hades were afraid when they beheld Thee: for Thou didst shatter the brazen gates and didst crush the iron bars, and didst lead us forth from darkness and the shadow of death, and didst break our bonds asunder! Singing a song of victory, we cry:
 
 === LEAF p39 ===
 
-#### [Left Page — Folio 36v]
-##### Column A
+**[Left Page — Folio 36v]**
+**Column A**
 ...enter into the house of the Lord, and let us fall down, saying: Thou Who wast crucified upon the Tree, and didst rise from the dead, and art in the bosom of the Father: cleanse our sins!
 *Glory... Both now... Theotokion (Dogmatikon):*
 The shadow of the Law passed away when grace arrived: for as the bush burned with fire and was not consumed, so as a Virgin thou didst give birth, and a Virgin thou didst remain; instead of a pillar of fire, the Sun of Righteousness hath shone forth; instead of Moses, Christ, the Salvation of our souls![^47]
@@ -451,7 +451,7 @@ By the Tree, O Savior, Thou didst abolish the curse of the tree; the dominion of
 *Stichos: For He hath established the world which shall not be moved.* (Ps. 92:1)
 Thou wast seen nailed upon the Cross, O Christ, reforming the beauty of creation; the soldiers indeed showed cruelty, piercing Thy ribs with a spear, and the Jews asked to seal the tomb, not knowing Thy power: but in Thy tender mercy Thou didst accept burial, and on the third day Thou didst rise:
 
-##### Column B
+**Column B**
 ...O Lord, glory to Thee!
 *Stichos: Holiness becomes Thy house, O Lord, unto length of days.* (Ps. 92:5)
 O Christ, Giver of life, Thou didst voluntarily endure passion for the sake of the dead; and descending into Hades as Mighty, Thou didst snatch away those who were awaiting Thy coming there, as from a mighty beast, and didst grant them to dwell in Paradise instead of Hades: therefore grant unto us also who glorify Thy third-day resurrection cleansing of sins and great mercy!
@@ -462,8 +462,8 @@ When Thou didst descend unto death, O Life Immortal, then didst Thou slay Hades 
 *Theotokion:*
 All beyond comprehension, all all-glorious are thy mysteries, O Theotokos: sealed in purity and preserved in virginity, thou wast known to be a true Mother, having given birth unto the true God; pray Him that our souls may be saved!
 
-#### [Right Page — Folio 37r]
-##### Column A
+**[Right Page — Folio 37r]**
+**Column A**
 # ON SUNDAY AT THE MIDNIGHT OFFICE, TRIADICAL CANON
 *Composition of Metrophanes.*[^48]
 *Ode 1, Tone 2. Heirmos:*
@@ -476,7 +476,7 @@ The stream of actions of our nature, having suffered unworthily and slipped into
 *Establish me upon the rock of faith: the Godhead, first principle of nature, glorifying Thee with equal honor in three Persons; for Thou, proceeding as Life from Life, art without corruption our only God, and none is holy save Thee, O Lord!*
 Thou hast not instructed the bodiless ranks...
 
-##### Column B
+**Column B**
 ...to praise Thy goodness, O Trinity, undivided Monarchy, unceasingly unto Thee; but accept now also the praise from our clay lips!
 Establish upon the rock of faith, and broaden in the ocean of Thy love, the heart and mind of Thy servants, O three-sunned Unity: for Thou art our God, hoping in Whom we are not put to shame!
 *Theotokion:*
@@ -490,8 +490,8 @@ Thy servants are filled with many wounds, wounded by invisible arrows, and lying
 
 === LEAF p40 ===
 
-#### [Left Page — Folio 37v]
-##### Column A
+**[Left Page — Folio 37v]**
+**Column A**
 ...beholding my heavenly weakness, O Almighty One: therefore have compassion on Thy servant, and lead me back unto better life!
 Of the primordial Unity, let us praise the unconfused three Persons, having individual hypostases, yet united and undivided in counsel, in glory, and in Godhead!
 *Theotokion:*
@@ -503,7 +503,7 @@ Not altering the natural and co-eternal glory, O single Holy Trinity: grant unto
 *Theotokion:*
 Being one by nature, yet tried in all things: calling unto the union of the one Dominion...
 
-##### Column B
+**Column B**
 ...calling unto the union of the one Dominion!
 *Ode 6. Heirmos:*
 *Held fast in the abyss of sin, O Creator of mercy, have mercy: Thou Who art the calm of the faithful, O God of three suns: save us from innumerable transgressions and from passions!*
@@ -517,8 +517,8 @@ O pure one, have mercy on thy servants, and deliver from fire and every torment 
 *Ode 7. Heirmos:*
 *Concerning the golden image on the plain of Dura: The Prophets establish that the angelic Godhead is unchanging, O Lord Who alone art immutable and in three Persons: show my heart also ever unchanging, that I may fervently glorify Thee and piously hymn Thee!*
 
-#### [Right Page — Folio 38r]
-##### Column A
+**[Right Page — Folio 38r]**
+**Column A**
 The noetic ranks of bodiless essences are illuminated by Thy rays, O God of single dominion and three suns, being by position secondary lights; show them forth as light, as Thou art the ever-living Giver of light!
 Illuminated by three-radiant rays, O Most Holy Trinity, in one dominion preserve Thy singers from adverse assaults, that we may unceasingly glorify Thee: Father, Son, and Holy Spirit, in one Godhead!
 *Theotokion:*
@@ -527,7 +527,7 @@ Restoring us and raising us up unto heavenly things without departure: He Who ou
 *In the likeness of gold: O ever-existing Trinity, co-eternal, unoriginate, sole ruler, unchanging unto ages: apart from Thy light-bearers, destroy all the evil assaults of adversaries and disturbances among men; keep Thy servants unharmed ever, O Lord of all!*
 Ever-existing and Almighty, uncircumscribed, three-sunned Monarchy, Who didst constitute the world and dost preserve it by Thy power: grant unto the all-perfect, O All-powerful One, to hymn and glorify Thee with the angelic choirs unto all ages!
 
-##### Column B
+**Column B**
 ...of falsehood, and of the divine natural and unchanging nature: Thou didst assume human nature and didst teach us to honor the Trinity as Dominion unto all ages!
 Directing righteousness and wisdom: by Thy standings, therefore, singing unto God, and radiant, O most pure one: bless all ye works, hymn and highly exalt Him unto all ages!
 *Ode 9. Heirmos:*

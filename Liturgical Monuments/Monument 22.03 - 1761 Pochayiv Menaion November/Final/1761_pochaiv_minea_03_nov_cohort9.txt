@@ -253,10 +253,10 @@ The maidens, having loved the Bridegroom and Lord, submitting unto thy teaching,
 
 mastered the passions, and were led in with thee, O Matrona, into the heavenly and divine bridal chamber, and now ever make merry!
 
-*Glory, and now, Theotokion, the same Podoben:*
+*Glory, and now, Theotokion, the same Podoben (Подо́бенъ то́йже):*
 O thou who didst contain in thy womb the uncontainable God, Who out of love for mankind became man, and took from thee our mortal compound, and manifestly deified it: despise me not, O all-pure one, who am now in sorrow; but swiftly have compassion, and deliver me from diverse enmities and from the harm of the evil one!
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When Thine ewe-lamb and Mother beheld Thee nailed upon the Cross, O Lord, she marveled and cried aloud: What is this sight, O most beloved Son? Is this what the faithless, most lawless assembly renders unto Thee, having enjoyed Thy many wonders? But glory to Thine ineffable condescension, O Master!
 
 *Troparion of the Martyrs, Tone 4:*[^382]

@@ -42,7 +42,7 @@
 
 *Troparion:* Thou didst halt the circuitous, mortal, and restrained onset, having in truth given birth in the flesh, beyond comprehension, unto eternal Life, which when bitter Hades touched, it was shattered, O most holy Virgin Mother!
 
-*Troparion:* Sitting upon the throne, Thy Son, the Master, placed thee at His right hand in glory, O pure one, shining with golden fringes and divine virtues, granting, O most blessed one, as Mother, boldness before the Lover of mankind!
+*Troparion:* Sitting upon the throne, thy Son, the Master, placed thee at His right hand in glory, O pure one, shining with golden fringes and divine virtues, granting, O most blessed one, as Mother, boldness before the Lover of mankind!
 
 *Then the Exapostilarion. At the Praises, Stichera of the Resurrection, Tone 5:*
 

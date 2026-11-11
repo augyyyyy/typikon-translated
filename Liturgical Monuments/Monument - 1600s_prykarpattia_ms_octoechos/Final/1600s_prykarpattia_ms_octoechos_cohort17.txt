@@ -1,7 +1,7 @@
 === LEAF p161 ===
 [Tuesday.]
 *Theotokion:*
-In motherly manner dost Thou nourish with milk the Nourisher of all, and barest Him in thine arms, O pure one, Who ever upholds all things by His hand!
+In motherly manner dost thou nourish with milk the Nourisher of all, and barest Him in thine arms, O pure one, Who ever upholds all things by His hand!
 
 *Another Heirmos: Establish me upon the rock of faith, widening my mouth against mine enemies, for my spirit rejoices when I sing: None is holy as our God, and none is righteous save Thee, O Lord!*
 
@@ -71,7 +71,7 @@ Having through faith separated your mind from love of the flesh, O passion-beare
 
 (see fol. 158)[^176]
 *Theotokion:*
-Beholding thee by the Spirit as a great mountain, O Mother of God, whence a stone was cut without hands, Daniel foresaw Thee shattering the idols of the demons!
+Beholding thee by the Spirit as a great mountain, O Mother of God, whence a stone was cut without hands, Daniel foresaw thee shattering the idols of the demons!
 
 *Another Heirmos: The enlightenment of those lying in darkness, the salvation of the despairing, O Christ my Savior, unto Thee do I rise early, O King of peace: enlighten me with Thine illumination, for other than Thee I know no God!*
 
@@ -265,7 +265,7 @@ Taking up the Cross of Christ as an unconquerable weapon, the holy Martyrs broug
 
 === LEAF p168 ===
 [Tuesday.]
-Save Thy servants from perils, O Virgin Mother of God, for after God we all flee unto thee as an unbreakable rampart and protectress!
+Save thy servants from perils, O Virgin Mother of God, for after God we all flee unto thee as an unbreakable rampart and protectress!
 
 *At the Liturgy, The Beatitudes, Tone 8:*
 *Troparion 1:*
@@ -318,7 +318,7 @@ He Who is the Creator and Lord of all things and the God of all is willing to be
 
 *Other Stichera, to the Most Holy Mother of God [Staurotheotokia], Tone the same:*
 *Sticheron 3:*
-Beholding Him Who was born of thee hanging upon the Tree, O all-immaculate one, thou didst cry aloud, exclaiming: O my most beloved Child, whither is Thy light-bearing beauty set, Who hast adorned the nature of mankind?
+Beholding Him Who was born of thee hanging upon the Tree, O all-immaculate one, thou didst cry aloud, exclaiming: O my most beloved Child, whither is thy light-bearing beauty set, Who hast adorned the nature of mankind?
 
 *Sticheron 4:*
 Wounded by the weapon of the evil serpent, and lying half-dead upon the bed of despair: heal me swiftly, O Maiden, with the medicine of thy prayer, and save me, O my hope and protection!
@@ -327,7 +327,7 @@ Wounded by the weapon of the evil serpent, and lying half-dead upon the bed of d
 Put off, O soul, the heavy burdens of thy former transgressions, and bow thy neck unto the easy yoke of thy Lord, Who shone forth from the Virgin as from a light cloud at the angelic voice!
 
 *Glory... Both now... Staurotheotokion:*
-A sword pierced thy heart, O all-pure one, when thou sawest Thy Son upon the Cross, and thou didst cry aloud: Leave me not childless, O my Son and my God, Who didst preserve me a Virgin after childbearing!
+A sword pierced thy heart, O all-pure one, when thou sawest thy Son upon the Cross, and thou didst cry aloud: Leave me not childless, O my Son and my God, Who didst preserve me a Virgin after childbearing!
 
 === LEAF p170 ===
 [Wednesday.]
@@ -357,7 +357,7 @@ The Cross was planted upon the earth and reached unto the heavens, not as a tree
 Lifted up upon the cypress, the pine, and the cedar, O Lamb of God, that Thou mightest save those who in faith bow down before Thy voluntary Crucifixion: O Christ God, glory to Thee!
 
 *Glory... Both now... Staurotheotokion:*
-Having acquired the Cross of Thy Son as a rod of strength, O Mother of God, thereby do we cast down the insolence of the enemy, ever magnifying thee in love!
+Having acquired the Cross of thy Son as a rod of strength, O Mother of God, thereby do we cast down the insolence of the enemy, ever magnifying thee in love!
 
 *After the second Kathisma, Sessional Hymns of the Cross, Tone 3:*
 *Sessional Hymn 3:*

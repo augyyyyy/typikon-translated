@@ -29,7 +29,7 @@ def main():
     print(f"Extracted {len(rd_slugs)} unique slugs from Royal Doors.")
     
     # Load Stamford
-    stamford_path = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
+    stamford_path = r'c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
     with open(stamford_path, 'r', encoding='utf-8') as f:
         text = f.read()
     start = text.find('[')

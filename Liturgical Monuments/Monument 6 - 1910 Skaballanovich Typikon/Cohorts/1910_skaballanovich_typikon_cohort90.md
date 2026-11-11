@@ -13,19 +13,19 @@ In the event of a repetition, it is planned to chant everything in the Great Zna
 
 === LEAF p892 ===
 
-### THE FIRST HOUR
+**THE FIRST HOUR**
 
-#### Its Relationship to the Vigil
+**Its Relationship to the Vigil**
 
 Already from the Praises, that is, from the concluding portion of Matins, the Vigil diminishes its solemn intensity, transitioning first into the quiet and slow singing of the Great Doxology, and then into a long series of litanic petitions; the litiya after Matins with the reading that fills it stands in this regard yet another step lower, while the First Hour, completely devoid of singing, stands lower still. Both the one and the other are even transferred out of the nave into the narthex. Quiet prayer now caresses and refreshes the soul, exhausted by the prolonged ecstasy of festive hymns.
 
 *(Orig. p. 736)*
 
-#### Its Relationship to Matins
+**Its Relationship to Matins**
 
 Falling at the very break of dawn (the first Eastern hour = 7:00 AM for us at the equinox), the First Hour stands in the same relationship to Matins as the Ninth Hour does to Vespers: both, coinciding in time, and partly in content, with these two paramount daily services, nevertheless possess each its own distinctive theological idea and do not repeat from those services a single chant or prayer.
 
-#### Structure and Content of the First Hour
+**Structure and Content of the First Hour**
 
 The theme of the First Hour is the thoughts and sentiments of the believer at the onset of morning; only certain passages of its psalms depicting the treachery of the enemies of the persecuted righteous one (as Psalm 5:11 [LXX 5:10]: **"There is no truth in their mouth... their throat is an open sepulchre..."**) permit also the association of the First Hour, according to the direction of the *Instructional Notice* [*Uchitel'noye izvestiye*] appended to the *Sluzhebnik*, with the commemoration of the trial of Christ before Pilate, which took place at this hour of the day.
 
@@ -55,7 +55,7 @@ The Prayer of the First Hour, attributed to St. Sabbas the Sanctified,[^2722] ad
 
 Liturgical practice has established that this prayer, unlike the other prayers at the Hours, is pronounced by the priest and not by the reader (in the Kyiv Caves Lavra—by the reader); and after it, in keeping with the special attention accorded at this Hour to the Most Holy Theotokos, they sing the kontakion to Her from the service of the Annunciation, **"To Thee, the Champion Leader"** [*Vzbrannoy Voyevode*], as possessing the most comprehensive laudatory and prayerful content. In the Kyiv Caves Lavra they do not sing it. As the concluding service in this group, the First Hour has a dismissal, termed therefore "complete" (*sovershennyy*), in common parlance "lesser" (*malyy*), at which among the saints only the choir of the venerable monastics is commemorated, because it is a monastic service.
 
-#### History of the Hour
+**History of the Hour**
 
 The First Hour was established in the 4th century[^2723] in Palestinian monasteries for ascetic purposes (Introductory Chapter, p. 147), wherein the concluding psalms of Matins—Psalms 50, 62, and 89 [LXX]—were introduced into its composition (*ibid.*). Concerning its subsequent development during the era when the Hours perhaps possessed a sung, musical character, nothing is known; judging from the fact that later sung offices appoint for it Psalm 5 [LXX],[^2724] one may surmise that from antiquity this psalm was part of the Hour's structure.
 
@@ -79,7 +79,7 @@ Slavonic manuscripts indicate the First Hour after the litiya, observing that af
 
 *(Orig. p. 739)*
 
-#### The First Hour on Sunday
+**The First Hour on Sunday**
 
 === LEAF p896 ===
 
@@ -87,7 +87,7 @@ The Sunday First Hour differs from weekday ones only in the troparia and kontaki
 
 *(Orig. p. 740)*
 
-#### According to Ancient Typika
+**According to Ancient Typika**
 
 Greek manuscripts of the Jerusalem Typikon are silent on this matter.
 
@@ -103,9 +103,9 @@ In practice among the Old Believers, according to our Typikon, only the Sunday k
 
 === LEAF p897 ===
 
-### THE THIRD HOUR
+**THE THIRD HOUR**
 
-#### Content of the Hour
+**Content of the Hour**
 
 The Third Hour is always joined with the Sixth, forming with it a single service, which is placed in the same intimate relationship with the Divine Liturgy as the First Hour is with Matins and the Ninth Hour is with Vespers.
 
@@ -133,7 +133,7 @@ The concluding prayer of the Hour, likewise in view of this commemoration, is ad
 
 *(Orig. p. 742)*
 
-#### History of the Hour
+**History of the Hour**
 
 In the rite of the Sung Hours, the Third Hour apparently contained Psalm 16 [LXX].[^2732] In all ancient Horologia, beginning with the celebrated Horologion of the Sinai Library of the 8th century (no. 863), the present psalms are appointed for the Third Hour. Likewise the troparia after the psalms; only the Horologia of the St. Petersburg Public Library no. 57 and Sophia no. 1052 (13th c.) appoint on "Saturday, when there is no troparion" (for the day), for the Third Hour the troparia **"Passion-bearers of the Lord"** (now a sessional hymn in Tone 2) and **"A dread
 
@@ -147,9 +147,9 @@ After the Trisagion, Sinai Horologion no. 865 (12th c.) has the troparia: **"O H
 
 === LEAF p900 ===
 
-### THE SIXTH HOUR
+**THE SIXTH HOUR**
 
-#### Content of the Hour
+**Content of the Hour**
 
 The Sixth Hour is dedicated to the commemoration of the Crucifixion of Christ itself (according to the *Instructional Notice* of the *Sluzhebnik*—of its circumstances from the bearing of the Cross until the darkening of the sun).
 
@@ -159,7 +159,7 @@ The first psalm of the Hour, Psalm 53 [LXX 53; Ps 54], **"Save me, O God, in Thy
 
 The second psalm of the Hour, Psalm 54 [LXX 54; Ps 55], **"Give ear, O God, unto my prayer"** [*Vnushi, Bozhe, molitvu moyu*], is an agitated prayer to God in great affliction,[^2734] reaching even to the desire completely to abandon the city filled with violence and strife (guarded as if by an evil watch upon its walls), especially in view of a friend turned enemy;[^2735] a prayer for the destruction of the enemies, interwoven with the expression of complete certainty in salvation.
 
-The third psalm of the Hour—Psalm 90 [LXX 90; Ps 91], **"He that dwelleth in the aid of the Most High"** [*Zhivyy v pomoshchi Vyshnyago*]—sketches in the form of an instruction all the benefits of complete trust in God (Who is called here by the most sublime titles), Who protects the one hoping in Him as with wings (perhaps an allusion to the Cherubim) from silently ambushing death (the snare of the fowlers), from all dangers of night and day that destroy thousands,[^2736] and from noxious beasts by means of Angels who do not allow him even to stumble against a stone; wherein a solemn assurance is given to us by God Himself, promising, moreover, to the one who trusts all earthly blessings and salvation.[^2737]
+The third psalm of the Hour—Psalm 90 [LXX 90; Ps 91], **"He that dwells in the aid of the Most High"** [*Zhivyy v pomoshchi Vyshnyago*]—sketches in the form of an instruction all the benefits of complete trust in God (Who is called here by the most sublime titles), Who protects the one hoping in Him as with wings (perhaps an allusion to the Cherubim) from silently ambushing death (the snare of the fowlers), from all dangers of night and day that destroy thousands,[^2736] and from noxious beasts by means of Angels who do not allow him even to stumble against a stone; wherein a solemn assurance is given to us by God Himself, promising, moreover, to the one who trusts all earthly blessings and salvation.[^2737]
 
 The Lenten troparion of the Hour, **"Thou Who on the sixth day and hour"** [*Izhe v shestyy den' zhe i chas*], commemorating the Crucifixion, asks for the forgiveness of sins and for salvation; the Theotokion **"Seeing that we have no boldness"** [*Yako ne imamy derznoveniya*] urgently implores the intercessions of the Mother of God in view of our sinfulness, redeemed by the sufferings of Her Son (the reflection on the latter being most general; in the Theotokion of the Ninth Hour it is more detailed).
 

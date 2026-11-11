@@ -4,7 +4,7 @@
 
 ## Περὶ Συλλειτούργου (Μέρος Α΄) [Violakis, p. 906]
 
-### ΠΕΡΙ ΣΥΛΛΕΙΤΟΥΡΓΟΥ
+**ΠΕΡΙ ΣΥΛΛΕΙΤΟΥΡΓΟΥ**
 
 Ὅταν τύχωσι πλείονες τοῦ ἑνὸς Ἱερεῖς συλλειτουργοῦντες, ἀφ’ ἑσπέρας ἂν γένηται Εἴσοδος, ἀπαιτοῦνται τρεῖς τοὐλάχιστον Ἱερεῖς καὶ ψάλλουσιν ἔξωθεν ἡμικύκλιον ἀποτελοῦντες¹ ἐν τῷ μέσῳ τοῦ ναοῦ τὸ **Φῶς ἱλαρὸν** μέχρι τοῦ **καὶ ἅγιον Πνεῦμα θεόν**, ἀπὸ δὲ τοῦ Βήματος τὸ ἐπίλοιπον, καὶ μετ’ αὐτὸ τὸ Προκείμενον τῆς ἡμέρας ἅπαξ ἐκ τοῦ Βήματος καὶ δὶς ἔξωθεν. Εἰς δὲ τὴν Λιτὴν ὁ πρῶτος τῇ τάξει λέγει τὸ **Ἐπάκουσον ἡμῶν ὁ Θεός**, καὶ τὸ **Εἰρήνη πᾶσι**· ὁ δεύτερος, τὸ **Δέσποτα πολυέλεε**· καὶ ὁ τρίτος τὸ **Κύριε Ἰησοῦ Χριστὲ ὁ Θεός**· εἶτα ὁ πρῶτος κατάρχει τὸ **Θεοτόκε Παρθένε** βοηθούντων καὶ τῶν λοιπῶν· ἀλλ’ αὐτὸς μόνος θυμιᾷ καὶ στρέφει περὶ τοὺς ἄρτους μετὰ τοῦ Διακόνου. Τὸ δὲ πρωῒ οὐδὲν ἄλλο ψάλλουσιν οἱ συλλειτουργοῦντες ἱερεῖς ἐκ τοῦ Βήματος πλέον τῶν συνήθων καὶ τῷ ἑνὶ μόνῳ Λειτουργοῦντι ἱερεῖ, εἰμὴ τὸ **Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ** κατὰ τὴν Εἴσοδον, εἶτα τὸ Ἀπολυτίκιον (ὅτε καὶ θυμιᾷ ὁ πρῶτος τῇ τάξει τὴν ἁγίαν Τράπεζαν καὶ τὰς Εἰκόνας)· τὸ Κοντάκιον, καὶ τὸ **Ἅγιος ὁ Θεὸς** τὴν τρίτην φοράν.² Τὰς Ἐκφωνήσεις λέγουσιν ἐξ ὑπαμοιβῆς ὁ εἷς μετὰ τὸν ἄλλον, εὐλογεῖ δὲ τὰ τίμια Δῶρα ὡς καὶ τὸν λαόν, ὁσάκις ἂν δέῃ, ὁ πρῶτος τῇ τάξει, καὶ κοινωνοῦσι τῶν Ἀχράντων Μυστηρίων κατὰ τάξιν ἕκαστος, τοῦ τελευταίου μεταδιδόντος καὶ τῷ Διακόνῳ.
 
@@ -18,7 +18,7 @@
 
 ## Concerning the Co-Celebrant (Part 1) [Violakis, p. 907]
 
-### CONCERNING THE CO-CELEBRATION OF CLERGY
+**CONCERNING THE CO-CELEBRATION OF CLERGY**
 
 When more than one priest concelebrate, beginning in the evening at Vespers, if an Entrance is performed, at least three priests are required. Standing in the middle of the temple forming a semicircle,¹ they chant outside the Holy Sanctuary the Lucernarium hymn **“O Gladsome Light”** (*Φῶς ἱλαρὸν*) up to the phrase: **“and Holy Spirit, God”** (*καὶ ἅγιον Πνεῦμα θεόν*); and from within the Holy Sanctuary the remainder of the hymn is completed; and after it the Prokimenon of the day is chanted once from within the Holy Sanctuary and twice from outside. At the Litiya, the priest first in rank [by ecclesiastical dignity or order of ordination] intones the petition: **“Hear us, O God our Savior”** (*Ἐπάκουσον ἡμῶν ὁ Θεός*), and the blessing: **“Peace be to all”** (*Εἰρήνη πᾶσι*); the second priest intones: **“O Merciful Master”** (*Δέσποτα πολυέλεε*); and the third priest intones: **“Lord Jesus Christ our God”** (*Κύριε Ἰησοῦ Χριστὲ ὁ Θεός*); then the first priest begins the Artoklasia Troparion: **“O Theotokos Virgin, rejoice”** (*Θεοτόκε Παρθένε*), assisted by the others; but he alone censes and circles around the Loaves together with the Deacon.
 
@@ -51,7 +51,7 @@ If the concelebration consists of Hierarchs, the first in rank wears the Mandya 
 
 ## Concerning Hierarchical Concelebration (Part 2) [Violakis, p. 909]
 
-### CONCERNING HIERARCHICAL CONCELEBRATION
+**CONCERNING HIERARCHICAL CONCELEBRATION**
 
 ...entering the Holy Sanctuary, he gives and receives³ forgiveness from his future concelebrants, and thus all vest. During the Great Doxology they process out of the Holy Sanctuary preceded by the priests, and the presiding hierarch comes out last, wearing the miter upon his head and holding the pastoral staff in his right hand. At the Small Entrance, chanting the Entrance Hymn together with the rest of the hierarchs and priests, he blesses with the dikerotrikera; he enters the Holy Sanctuary first, followed by the other hierarchs and priests, and censes around the Holy Table and the Table of Oblation [Prothesis], the holy icons from the Holy Doors, and the people, while chanting the Dismissal Troparion⁴ and finally the Kontakion.
 
@@ -70,7 +70,7 @@ In every occasion of blessing, the first in rank blesses; and he receives the Ho
 
 ## Ἀκολουθία Νεκρώσιμος εἰς Κοιμηθέντας (Μέρος Α΄) [Violakis, p. 910]
 
-### ΑΚΟΛΟΥΘΙΑ ΝΕΚΡΩΣΙΜΟΣ ΕΙΣ ΚΟΙΜΗΘΕΝΤΑΣ (1)
+**ΑΚΟΛΟΥΘΙΑ ΝΕΚΡΩΣΙΜΟΣ ΕΙΣ ΚΟΙΜΗΘΕΝΤΑΣ (1)**
 
 Τελευτήσαντός τινος τῶν εὐσεβῶν, προσκαλεῖται παρὰ τῶν Συγγενῶν αὐτοῦ ὁ ἱερὸς Κλῆρος· ἐλθόντες δὲ εἰς τὸν οἶκον, ἐν ᾧ τὸ λείψανον κεῖται, ἐὰν ᾖ καὶ Ἀρχιερεύς, λαμβάνουσι καιρὸν οἱ Ἱερεῖς καὶ οἱ Διάκονοι· καὶ οἱ μὲν Ἱερεῖς βάλλουσιν Ἐπιτραχήλια, οἱ δὲ Διάκονοι ἐνδύονται Στιχάρια καὶ Ὠράρια κρατοῦντες θυμιατὰ καὶ δικηροτρίκηρα, τότε εἷς Ἱερεὺς μετὰ Διακόνου εἰσέρχονται ὅπου ὁ νεκρὸς κεῖται, καὶ ὁ μὲν Διάκονος ἐκφωνεῖ **Εὐλόγησον Δέσποτα**, ὁ Ἱερεὺς **Εὐλογητὸς ὁ Θεός**, ὁ Διάκονος τὸ Τρισάγιον(2), ὁ Ἱερεὺς **Ὅτι σοῦ ἐστιν**, καὶ ψάλλουσιν εἰς ἦχον δ΄ τὰ Τροπάρια **Μετὰ πνευμάτων δικαίων τετελειωμένων**· **Εἰς τὴν κατάπαυσίν σου Κύριε, ὅπου πάντες οἱ Ἅγιοί σου ἀναπαύονται**· **Δόξα, Σὺ εἶ ὁ Θεὸς ἡμῶν, Καὶ νῦν, Ἡ μόνη Ἁγνὴ καὶ Ἄχραντος Παρθένος**.
 
@@ -84,7 +84,7 @@ In every occasion of blessing, the first in rank blesses; and he receives the Ho
 
 ## The Funeral Service for Those Who Have Fallen Asleep (Part 1) [Violakis, p. 911]
 
-### THE FUNERAL SERVICE FOR THOSE WHO HAVE FALLEN ASLEEP
+**THE FUNERAL SERVICE FOR THOSE WHO HAVE FALLEN ASLEEP**
 
 Upon the death of one of the faithful, the clergy are summoned by the relatives of the deceased; and coming to the house wherein the body lies, if a hierarch is present, the priests and the deacons receive the liturgical blessing (*kairos*) from him. The priests put on their epitrachilia, and the deacons vest in sticharia and oraria, carrying censers and the dikerotrikera. Then one priest together with a deacon enter where the deceased lies, and the deacon exclaims: **“Master, give the blessing”** (*Εὐλόγησον Δέσποτα*). The priest: **“Blessed is our God, always, now and forever, and unto the ages of ages”** (*Εὐλογητὸς ὁ Θεός...*); the deacon chants the Trisagion Prayers; the priest intones the exclamation: **“For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen.”** (*Ὅτι σοῦ ἐστιν...*).
 
@@ -101,7 +101,7 @@ The priest recites the Prayer of Repose: **“O God of spirits and of all flesh.
 Then lifting the body, the clergy depart, the priests bearing candles going before, and the deacons preceding in front of the hierarch who wears the Mandya and holds the pastoral staff, and the chanters chanting **“Holy...**[^522]
 
 ---
-* *Scholarly Apparatus on the Order of the House Trisagion and Funeral Rubrics:* In historical codices and canonical euchologia, the initial panikhida or funeral litany conducted at the home of the deceased initiates the rites of Christian burial. The designation *Trisagion* in this liturgical rubric encompasses the entire opening hexapsalmic or initial prayer cycle: the Thrice-Holy Hymn (*Ἅγιος ὁ Θεός*), the All-Holy Trinity prayer (*Παναγία Τριάς*), the Lord's Prayer (*Πάτερ ἡμῶν*), and the priestly doxological exclamation (*Ὅτι σοῦ ἐστιν*), preceding the four classical mortuary troparia in Tone 4 (*Nekrosima Troparia*). Textual variations between the 1888 editio princeps and modern Athenian and Venetian euchologia are notable: the petitionary phrase *“and forgiveness”* (*καὶ συγχωρήσεως*) is frequently omitted as redundant in modern editions, and Violakis preserves the archaic vocative *“of Thy servant”* (*τοῦ δούλου σου*) rather than the expanded modern recension *“of the servant of God”* (*τοῦ δούλου τοῦ Θεοῦ*).
+* *Scholarly Apparatus on the Order of the House Trisagion and Funeral Rubrics:* In historical codices and canonical euchologia, the initial panikhida or funeral litany conducted at the home of the deceased initiates the rites of Christian burial. The designation *Trisagion* in this liturgical rubric encompasses the entire opening hexapsalmic or initial prayer cycle: the Thrice-Holy Hymn (*Ἅγιος ὁ Θεός*), the All-Holy Trinity prayer (*Παναγία Τριάς*), the Lord's Prayer (*Πάτερ ἡμῶν*), and the priestly doxological exclamation (*Ὅτι σοῦ ἐστιν*), preceding the four classical mortuary troparia in Tone 4 (*Hymns for the Departed (Поко́инъ) Troparia*). Textual variations between the 1888 editio princeps and modern Athenian and Venetian euchologia are notable: the petitionary phrase *“and forgiveness”* (*καὶ συγχωρήσεως*) is frequently omitted as redundant in modern editions, and Violakis preserves the archaic vocative *“of Thy servant”* (*τοῦ δούλου σου*) rather than the expanded modern recension *“of the servant of God”* (*τοῦ δούλου τοῦ Θεοῦ*).
 
 *(Printed Page 911)*
 
@@ -136,11 +136,11 @@ Then lifting the body, the clergy depart, the priests bearing candles going befo
 
 ## The Funeral Office in the Temple: First and Second Stases of the Amomos (Part 2) [Violakis, p. 913]
 
-### THE FUNERAL OFFICE IN THE TEMPLE: AMOMOS (PSALM 118)
+**THE FUNERAL OFFICE IN THE TEMPLE: AMOMOS (PSALM 118)**
 
 ...God,” [*] we enter into the temple. After we enter, the body is placed in the center of the temple [upon the Tetrapod]. The hierarch, blessing with the trikirion, ascends his throne. The deacon exclaims: **“Master, give the blessing”** (*Εὐλόγησον Δέσποτα*); the hierarch intones: **“Blessed is our God, always, now and forever, and unto the ages of ages”** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν...*); and immediately the choirs begin to chant in Tone 6 [Heirmologic melody], the Seventeenth Kathisma (Psalm 118 - The *Amomos*):
 
-#### First Stasis (Tone 6)
+**First Stasis (Tone 6)**
 **“Blessed are the undefiled in the way, who walk in the law of the Lord. Alleluia.”** (*Ἄμωμοι ἐν ὁδῷ...*)
 
 **“Blessed art Thou, O Lord: teach me Thy statutes. Alleluia.”** (*Εὐλογητὸς εἶ Κύριε...*)  
@@ -156,7 +156,7 @@ The deacon recites the Small Funeral Litany: **“Have mercy on us, O God, accor
 The hierarch exclaims: **“For Thou art the Resurrection, and the Life, and the Repose of Thy servant...”** (*Ὅτι σὺ εἶ ἡ ἀνάστασις...*);  
 and the second choir begins the Second Stasis in Tone 5:
 
-#### Second Stasis (Tone 5)
+**Second Stasis (Tone 5)**
 **“Thy hands have made me and fashioned me: give me understanding, and I shall learn Thy commandments. Have mercy on me, O Lord.”** (*Αἱ χεῖρές σου ἐποίησάν με...*)  
 *(At the end of each verse we chant the refrain: “Have mercy on me, O Lord”).*  
 - **“For I am become like a wineskin in the frost: yet have I not forgotten Thy statutes.”**  
@@ -174,7 +174,7 @@ and the second choir begins the Second Stasis in Tone 5:
 
 ## Ἡ Νεκρώσιμος Ἀκολουθία: Τρίτη Στάσις καὶ Εὐλογητάρια (Μέρος Γ΄) [Violakis, p. 914]
 
-### [ΤΡΙΤΗ ΣΤΑΣΙΣ ΤΟΥ ΑΜΩΜΟΥ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΕΥΛΟΓΗΤΑΡΙΑ]
+**[ΤΡΙΤΗ ΣΤΑΣΙΣ ΤΟΥ ΑΜΩΜΟΥ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΕΥΛΟΓΗΤΑΡΙΑ]**
 
 **Ἔκλινα τὴν καρδίαν μου, τοῦ ποιῆσαι τὰ δικαιώματά σου εἰς τὸν αἰῶνα δι’ ἀντάμειψιν.**  
 **Καιρὸς τοῦ ποιῆσαι τῷ Κυρίῳ, διεσκέδασαν τὸν νόμον σου.**  
@@ -204,7 +204,7 @@ and the second choir begins the Second Stasis in Tone 5:
 
 ## The Funeral Office: Conclusion of the Amomos and the Evlogitaria (Part 3) [Violakis, p. 915]
 
-### CONCLUSION OF THE SECOND STASIS, THIRD STASIS (TONE 8), AND FUNERAL EVLOGITARIA
+**CONCLUSION OF THE SECOND STASIS, THIRD STASIS (TONE 8), AND FUNERAL EVLOGITARIA**
 
 ...**“I have inclined my heart to perform Thy statutes forever, even unto the end.”**  
 **“It is time for the Lord to act: for they have made void Thy law.”**  
@@ -214,12 +214,12 @@ The deacon recites the litany: **“Let us pray to the Lord.”**
 The hierarch (or the priest) exclaims: **“For Thou art the Resurrection, and the Life, and the Repose of Thy servant...”** (*Ὅτι σὺ εἶ ἡ ἀνάστασις...*);  
 and the first choir begins the Third Stasis in Tone 8:
 
-#### Third Stasis (Tone 8)
+**Third Stasis (Tone 8)**
 **“And have mercy on me. Alleluia.”** (*Καὶ ἐλέησόν με. Ἀλληλούϊα.*)  
 - **“Look Thou upon me, and be merciful unto me, as Thou art wont to do unto those that love Thy name. Alleluia.”**  
 - **“I am young and despised: yet do I not forget Thy statutes. Alleluia.”**  
 - **“Hear my voice according to Thy lovingkindness, O Lord: quicken me according to Thy judgment. Alleluia.”**  
-- **“Princes have persecuted me without a cause: but my heart standeth in awe of Thy words. Alleluia.”**  
+- **“Princes have persecuted me without a cause: but my heart stands in awe of Thy words. Alleluia.”**  
 - **“My soul shall live, and it shall praise Thee: and Thy judgments shall help me.”**  
 - **“I have gone astray like a lost sheep: seek Thy servant, for I do not forget Thy commandments.”**
 
@@ -227,7 +227,7 @@ And immediately the deacon intones: **“Let us pray to the Lord.”**
 The priest exclaims: **“For Thou art the Resurrection, and the Life, and the Repose of Thy servant...”**;  
 and the second choir begins the Funeral Evlogitaria in Tone 5:
 
-#### The Funeral Evlogitaria (Tone 5)
+**The Funeral Evlogitaria (Tone 5)**
 Refrain: **“Blessed art Thou, O Lord: teach me Thy statutes.”** (*Εὐλογητὸς εἶ Κύριε, δίδαξόν με τὰ δικαιώματά σου.*)  
 *(Each Troparion of the Evlogitaria is preceded by this verse).*
 

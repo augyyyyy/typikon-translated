@@ -100,7 +100,7 @@ A dread, marvelous, and great mystery: the Incomprehensible One is contained wit
 
 [Tailpiece: Ornamental Renaissance woodcut cartouche featuring a grotesque cherubic mascaron flanked by scrollwork and foliate flourishes]
 
-[17th-century cursive ink marginalia at lower margin: "one hundred words... on Saturday" (*сто рословъ нинець всуботу*)]
+(*17th-century cursive ink marginalia at lower margin: "one hundred words... on Saturday" (*сто рословъ нинець всуботу*)*)
 
 **[Right Page — Fol. 123r]**
 
@@ -138,7 +138,7 @@ Thy burial, O Master, broke and tore asunder the bonds of Hades, and Thy Resurre
 
 *Glory... Both now and ever... Theotokion:*
 
-Who does not call Thee blessed, O all-holy Virgin? Who will not hymn Thy pure childbirth? For the only-begotten Son, Who shone forth timelessly from the Father, the Same came forth from Thee, O pure Lady, having ineffably become incarnate, being God by nature, and having become man by nature for our sake: not divided into two persons, but known in two natures without confusion. Him do Thou entreat, O pure and all-blessed one, that our souls may find mercy!
+Who does not call thee blessed, O all-holy Virgin? Who will not hymn thy pure childbirth? For the only-begotten Son, Who shone forth timelessly from the Father, the Same came forth from thee, O pure Lady, having ineffably become incarnate, being God by nature, and having become man by nature for our sake: not divided into two persons, but known in two natures without confusion. Him do thou entreat, O pure and all-blessed one, that our souls may find mercy!
 
 === LEAF p127 ===
 
@@ -194,7 +194,7 @@ Having adorned the Church from the Gentiles as a bride, Paul taught us to worshi
 
 *Both now and ever... Theotokion:*
 
-From Thy womb came forth the noetic Sun, O Mother of God, and illumined us with the rays of the thrice-radiant Godhead; hymning Him, piously we call Thee blessed.
+From thy womb came forth the noetic Sun, O Mother of God, and illumined us with the rays of the thrice-radiant Godhead; hymning Him, piously we call thee blessed.
 
 *Ode 3. Heirmos: There is none holy as Thou:*
 
@@ -214,7 +214,7 @@ O unoriginate Mind, the Father, and co-formal Word of God, and divine Spirit, Go
 
 *Both now and ever... Theotokion:*
 
-Thy Son, O pure Lady, destroyed the pasture of corruption, having become man in essence within Thy womb, and He alone delivered the forefather from ancient condemnation.
+Thy Son, O pure Lady, destroyed the pasture of corruption, having become man in essence within thy womb, and He alone delivered the forefather from ancient condemnation.
 
 *Trinity Sessional Hymn, Tone 6. Podoben: Having fulfilled the dispensation:*[^132]
 
@@ -226,7 +226,7 @@ to obtain forgiveness for the evils wherein we have sinned: be Thou with us, and
 
 *Glory... Both now and ever... Theotokion:*
 
-O pure Sovereign Lady, look down from the heavens, and behold the wounds of my afflictions, and have compassion, O all-pure one; and heal the burning of conscience, bedewing me with Thy mercy, and crying aloud to Thy servant: "I am with thee, and none shall be against thee!"
+O pure Sovereign Lady, look down from the heavens, and behold the wounds of my afflictions, and have compassion, O all-pure one; and heal the burning of conscience, bedewing me with thy mercy, and crying aloud to thy servant: "I am with thee, and none shall be against thee!"
 
 *Ode 4. Heirmos: Christ is my power, God and Lord:*
 
@@ -246,7 +246,7 @@ Having first conceived all things in thought, O most wise Lord, Thou didst estab
 
 *Both now and ever... Theotokion:*
 
-He Who is uncreated by nature, the ever-existing God, having assumed created human nature, formed Himself within Thy holy womb, O Mother of God, ever-virgin.
+He Who is uncreated by nature, the ever-existing God, having assumed created human nature, formed Himself within thy holy womb, O Mother of God, ever-virgin.
 
 *Ode 5. Heirmos: With Thy divine light, O Good One:*[^133]
 

@@ -80,7 +80,7 @@
 
 [^39]: Fol. 3v. The prayer quotes the ancestral curses upon Adam and Eve following the Fall: Genesis 3:19 ("In the sweat of thy face shalt thou eat bread") and Genesis 3:16 ("In sorrow shalt thou bring forth children"), contrasting mortal labor and sorrow with Christ's sinless Nativity from the Virgin.
 
-[^40]: Fol. 4r. Slavonic *соумнѣ́нїе* reflects Greek δισταγμός or ῥύпас, denoting the natural spiritual distress, emotional turmoil, and vulnerability experienced by the mother in childbed.
+[^40]: Fol. 4r. Slavonic *соумнѣ́нїе* reflects Greek δισταγμός or ῥύπας, denoting the natural spiritual distress, emotional turmoil, and vulnerability experienced by the mother in childbed.
 
 [^41]: Fol. 4r. Slavonic *ѿ съжи́тельства дїа́воля, и҆ ро́да вся́каго пога́нствїа* ("from the cohabitation of the devil, and from every manner of defilement/paganism"). The petition reflects the pastoral exorcistic protection invoked by the Church against demonic harassments and pagan folk superstitions historically associated with post-partum recovery.
 
@@ -94,7 +94,7 @@
 
 [^46]: Fol. 6r. The citation of legal and canonical penalties for miscarriages occurring after five months of gestation reflects Byzantine and Slavic canonical jurisprudence (e.g. Canons of St. Basil the Great, Canons 2 and 8; Council in Trullo, Canon 91; Syntagma / *Kormchaia Kniga*), which classified the destruction of a formed fetus as homicide.
 
-[^47]: Fol. 6v. Slavonic *въ цр҃ковьсти́тися* (to be churched, воцерковлятися; Greek: Σαранτισμός / εἰσκκλησιασμός) opens the solemn Order of Churching on the Fortieth Day, patterned upon the Presentation of Christ in the Temple (Luke 2:22–39) and the Mosaic purification (Leviticus 12:1–8).
+[^47]: Fol. 6v. Slavonic *въ цр҃ковьсти́тися* (to be churched, воцерковлятися; Greek: Σαραντισμός / εἰσκκλησιασμός) opens the solemn Order of Churching on the Fortieth Day, patterned upon the Presentation of Christ in the Temple (Luke 2:22–39) and the Mosaic purification (Leviticus 12:1–8).
 
 [^48]: Fol. 6v. The rubric prescribes that the mother present the child before the church doors, accompanied by the intended sponsor (godparent) who will receive the child after baptism.
 
@@ -108,7 +108,7 @@
 
 [^53]: Fol. 7v. This conditional rubric accounts for pastoral situations of neonatal infant mortality occurring before the completion of the forty days. If the child has died, the prayer of churching serves purely as the post-partum purification of the mother, omitting the child-oriented petitions.
 
-[^54]: Fol. 7v. The Greek euchological theology contrasts "sensory light" (*свѣ́тъ чю́вственый*, Greek: αἰσθηтὸν φῶς) of physical birth into the material world with "spiritual/intelligible light" (*вразꙋ́мный свѣ́тъ*, νοηтὸν φῶς) imparted in Holy Illumination (Baptism).
+[^54]: Fol. 7v. The Greek euchological theology contrasts "sensory light" (*свѣ́тъ чю́вственый*, Greek: αἰσθητὸν φῶς) of physical birth into the material world with "spiritual/intelligible light" (*вразꙋ́мный свѣ́тъ*, νοητὸν φῶς) imparted in Holy Illumination (Baptism).
 
 [^55]: Fol. 8r. The second prayer of churching is designated to be recited secretly (*втаѝ*, Greek: μυστικῶς) while the mother and infant bow their heads before the entrance of the nave. It prays specifically for the mother's readmission to the Holy Mysteries of the Eucharist after her forty days of seclusion.
 
@@ -180,7 +180,7 @@
 
 [^89]: Fol. 17v. The demonic host is commanded to depart into tartarus (*тартаръ*, the abyssal prison of fallen spirits; cf. 2 Peter 2:4; Jude 6) until the Great Day of Judgment. The prayer invokes the celestial hierarchy—angels, archangels, thrones, dominions, principalities, authorities, powers, many-eyed cherubim (Ezekiel 1:18; 10:12), and six-winged seraphim (Isaiah 6:2)—and quotes Psalm 103:3–4 (LXX 103:3–4: *"Who walks upon the wings of the wind; Who makes His angels spirits, and His ministers a flame of fire"*). The candidate is solemnly designated as the "newly chosen soldier of Christ our God" (*ново и҆ꙁбра́ннаго во́ина Хрⷭ҇та̀ Бг҃а на́шего*), evoking the patristic typology of baptism as the enlistment oath (*sacramentum militare*) of the Christian soldier.
 
-[^90]: Fol. 18r. The Second Exorcism (*Запрѣще́нїе вто́рое*), likewise attributed in classical Byzantine and Ruthenian euchologia to St. Basil the Great. The priest acts not by his own power, but in persona Christi through whom God Himself commands Satan and his allied force (*споспѣ́шная си́ла*, Greek: συνεργὸς δύнаμις) to depart from the candidate newly signed with the sign of the Cross (*новознамена́нный*).
+[^90]: Fol. 18r. The Second Exorcism (*Запрѣще́нїе вто́рое*), likewise attributed in classical Byzantine and Ruthenian euchologia to St. Basil the Great. The priest acts not by his own power, but in persona Christi through whom God Himself commands Satan and his allied force (*споспѣ́шная си́ла*, Greek: συνεργὸς δύναμις) to depart from the candidate newly signed with the sign of the Cross (*новознамена́нный*).
 
 [^91]: Fol. 18v. Dominical and scriptural catena demonstrating the complete impotence of demonic power before Christ: the exorcism of the deaf and dumb spirit (*ре́кшаго глоухо́моу и҆ беꙁгла́номоу бѣ́соу: и҆ꙁы́ди ѿ чл҃ка...*, Mark 9:25) and Christ's permission to the Legion demons to enter the herd of swine (Matthew 8:31–32; Mark 5:12–13; Luke 8:32–33), proving that demons cannot harm even animals without divine permission. These dominical miracles are framed within Old Testament cosmological proofs of God's almighty creative power: establishing the earth upon the waters (Psalm 135:6 / LXX 135:6), weighing the mountains and valleys (Isaiah 40:12), setting the sand as the eternal bound of the sea (Jeremiah 5:22), and touching the mountains so that they smoke (Psalm 103:32 / LXX 103:32).
 
@@ -188,11 +188,11 @@
 
 [^93]: Fol. 19v. The Third Exorcism Prayer (*Мл҃тва запрѣще́нїю тре́тїа*), attributed in Byzantine euchologia to St. John Chrysostom. The petition invokes the "Lord Sabaoth, God of Israel" (*Гдⷭ҇и саваѡ́ѳъ Бг҃е і҆и҃левъ*) to heal the candidate and crush Satan under his feet shortly, directly citing Romans 16:20 (*"And the God of peace shall bruise Satan under your feet shortly"*).
 
-[^94]: Fol. 20r. The Fourth Exorcism Prayer (*Мл҃тва д҃, запрѣще́нїю*), also attributed to St. John Chrysostom. The prayer recalls the creation of humanity in the image and likeness of God (Genesis 1:26), the tragedy of the Fall, and the divine economy of salvation through the Incarnation of Christ (John 3:17; 1 Timothy 1:15). It petitions God to open the noetic/spiritual eyes (*мы́сленѣи ѻ҆́чи*, Greek: νοεροὺς ὀφθалμούς; Ephesians 1:18) of the candidate.
+[^94]: Fol. 20r. The Fourth Exorcism Prayer (*Мл҃тва д҃, запрѣще́нїю*), also attributed to St. John Chrysostom. The prayer recalls the creation of humanity in the image and likeness of God (Genesis 1:26), the tragedy of the Fall, and the divine economy of salvation through the Incarnation of Christ (John 3:17; 1 Timothy 1:15). It petitions God to open the noetic/spiritual eyes (*мы́сленѣи ѻ҆́чи*, Greek: νοεροὺς ὀφθαλμούς; Ephesians 1:18) of the candidate.
 
-[^95]: Fol. 20v. The prayer petitions God to assign to the candidate an "angel of light" (*а҆́гг҃лъ свѣ́телъ*) to preserve him from all hostile assaults, the encounter of the adversary, the noonday demon (*бѣ́съ полоу́денный*, Greek: δаймо́нїон месемврїно́н; Psalm 90:6 / LXX 90:6), and evil apparitions. The rubrics instruct the priest to breathe thrice upon the candidate and sign his brow, mouth, and breast, followed by the threefold expulsion formula commanding the departure of the spirits of error, deceit, idolatry, covetousness, lying, and uncleanness.
+[^95]: Fol. 20v. The prayer petitions God to assign to the candidate an "angel of light" (*а҆́гг҃лъ свѣ́телъ*) to preserve him from all hostile assaults, the encounter of the adversary, the noonday demon (*бѣ́съ полоу́денный*, Greek: δαιμόνιον месемврїно́н; Psalm 90:6 / LXX 90:6), and evil apparitions. The rubrics instruct the priest to breathe thrice upon the candidate and sign his brow, mouth, and breast, followed by the threefold expulsion formula commanding the departure of the spirits of error, deceit, idolatry, covetousness, lying, and uncleanness.
 
-[^96]: Fol. 21r. The positive transformation of the candidate into a reason-endowed sheep (*ѻ҆́вча слове́сно*, Greek: πρόβατον λογικόν) of Christ's flock (John 10:14–16), an honorable member of the Church (1 Corinthians 12:27), a consecrated vessel (2 Timothy 2:21), a child of light (Ephesians 5:8), and an heir of the Kingdom (Romans 8:17). The candidate is exhorted to keep the baptismal seal (*печа́ть*, Greek: σфραγίς) unbroken and the white baptismal robe (*ри́за*, Greek: χιτών) undefiled (Galatians 3:27; Revelation 3:4). The prayer closes with the classical Trinitarian ekphonesis.
+[^96]: Fol. 21r. The positive transformation of the candidate into a reason-endowed sheep (*ѻ҆́вча слове́сно*, Greek: πρόβατον λογικόν) of Christ's flock (John 10:14–16), an honorable member of the Church (1 Corinthians 12:27), a consecrated vessel (2 Timothy 2:21), a child of light (Ephesians 5:8), and an heir of the Kingdom (Romans 8:17). The candidate is exhorted to keep the baptismal seal (*печа́ть*, Greek: σφραγίς) unbroken and the white baptismal robe (*ри́за*, Greek: χιτών) undefiled (Galatians 3:27; Revelation 3:4). The prayer closes with the classical Trinitarian ekphonesis.
 
 [^97]: Fol. 21v. The Rite of Renunciation of Satan (*Apotaxis* / *Ѽрица́нїе*). The candidate is divested of outer garments and untied, symbolizing the shedding of fallen mortality and earthly entanglements, and turned toward the West (the symbol of darkness, sunset, and demonic power) with hands raised in repudiation. The 1606 Striatyn edition incorporates distinct Ruthenian pastoral rubrics, using both *по́пъ* and *сщ҃енникъ* for priest, and introducing the vernacular term *коу́мъ* (godparent / sponsor) alongside the classical term *въспрїе́мникъ* (*anadochos*). Specific pastoral provisions allow the godparent to answer on behalf of infants unable to speak (*а҆́ще ли бꙋ́детъ мла́до...*) and non-Slavonic foreigners (*и҆ноплеме́нни*). The term *стоу́да є҆го̀* translates Greek *πομπῆς αὐτοῦ* ("his pomps/parade").
 
@@ -212,7 +212,7 @@
 
 [^105]: Fol. 25r. Pauline baptismal theology in the litany: conforming unto the likeness of Christ's death and resurrection (*съѡ́бразенъ и҆ приѡбщи́тель сме́рти и҆ воскресе́нїю*, Romans 6:4–5). The preservation of the white baptismal robe (*ѡ҆де́жда кр҃ще́нїѧ*) is linked with the "betrothal of Christ" (*ѡ҆брꙋче́нїе Хрⷭ҇то́во*), expressing the mystical nuptial union between the baptized soul and Christ the Bridegroom.
 
-[^106]: Fol. 25r. The litany designates the baptismal water as the "laver of regeneration" (*ба́нѧ па́кибытїѧ̀*, Greek: λουτρὸν палиγγενεσίας; Titus 3:5), granting remission of sins and the garment of incorruptibility. The leaf concludes with the standard concluding litany petitions: deliverance from affliction and the petition *Застꙋпѝ, сп҃сѝ...* (*Help us, save us...*).
+[^106]: Fol. 25r. The litany designates the baptismal water as the "laver of regeneration" (*ба́нѧ па́кибытїѧ̀*, Greek: λουτρὸν παλιγγενεσίας; Titus 3:5), granting remission of sins and the garment of incorruptibility. The leaf concludes with the standard concluding litany petitions: deliverance from affliction and the petition *Застꙋпѝ, сп҃сѝ...* (*Help us, save us...*).
 
 [^107]: Fol. 25v. The conclusion of the Great Litany: the commemoration of the Theotokos (*Прⷭ҇тꙋ́ю, чⷭ҇тꙋю и҆ пребл҃гослове́ннꙋю Влⷣчцꙋ...*) and the final commendation (*Са́ми себѐ и҆ дрꙋ́гъ дрꙋ́га...*).
 
@@ -248,7 +248,7 @@
 
 [^123]: Fol. 31v. The Canonical Baptismal Formula and Threefold Immersion. The priest holds the candidate upright, facing eastward, and pronounces the passive Byzantine baptismal formula (*Кр҃ща́етсѧ ра́бъ Бж҃їй [и҆́мѧ ре́къ]...*), immersing the candidate completely beneath the water at each of the three Persons of the Holy Trinity (*въ и҆́мѧ ѻ҆ц҃а... и҆ сн҃а... и҆ дх҃а ст҃а́го*). The Striatyn rubrics explicitly specify that the candidate is immersed and lifted up once at each Person (*низводѧ̀ є҆го̀ въ во́доу, и҆ възводѧ̀*), sealing the sacramental regeneration in accordance with Apostolic Canon 50.
 
-[^124]: Fol. 32r. Psalm 31:1–6a LXX (*Блаже́ни и҆́мже ѿпоусти́шасѧ безако́нїа...* / *Beati quorum remissae sunt iniquitates*). In early Byzantine and Ruthenian euchologia, Psalm 31 is the joyful post-baptismal thanksgiving psalm chanted immediately following the candidate's emergence from the font. It proclaims the core mystery of baptismal regeneration: the absolute remission and covering of sins (Romans 4:7–8), the lifting of guilt, and deliverance from ungodliness. Note the archaic Ruthenian graphic variants in Fol. 32r: *възврати́хсѧ на стра́сть, є҆гда̀ оу҆нзѐ ми те́рнъ* (rendering LXX ἐν τῷ ἐνпаγῆναί μοι ἄκανθαν) and the abbreviation *позна̑* for *позна́хъ*.
+[^124]: Fol. 32r. Psalm 31:1–6a LXX (*Блаже́ни и҆́мже ѿпоусти́шасѧ безако́нїа...* / *Beati quorum remissae sunt iniquitates*). In early Byzantine and Ruthenian euchologia, Psalm 31 is the joyful post-baptismal thanksgiving psalm chanted immediately following the candidate's emergence from the font. It proclaims the core mystery of baptismal regeneration: the absolute remission and covering of sins (Romans 4:7–8), the lifting of guilt, and deliverance from ungodliness. Note the archaic Ruthenian graphic variants in Fol. 32r: *възврати́хсѧ на стра́сть, є҆гда̀ оу҆нзѐ ми те́рнъ* (rendering LXX ἐν τῷ ἐνπαγῆναί μοι ἄκανθαν) and the abbreviation *позна̑* for *позна́хъ*.
 
 [^125]: Fol. 32v. Psalm 31:6b–11 LXX and the threefold repetition (*Сї́й же ѱло́мъ гл҃етсѧ г҃.*). The euchology contrasts the spiritual understanding granted to the newly illuminated with the uncomprehending brute nature of the horse and mule (v. 9), whose jaws must be held with bit and bridle. The rubric requiring the psalm to be sung thrice reflects the ancient baptismal station before the chrismation and vesting, mirroring the Trinitarian nature of the mystery.
 
@@ -270,7 +270,7 @@
 
 [^134]: Fol. 35r–35v. The Baptismal Epistle: Romans 6:3–11 (Pericope 91). The locus classicus of Pauline baptismal theology. St. Paul teaches that baptism is not a mere symbolic washing, but a mystical co-burial (*съпогребо́хомсѧ*) into the death of Christ and a resurrection unto newness of life, crucifying the "old man" and destroying the "body of sin" so that the believer is liberated from servitude to sin.
 
-[^135]: Fol. 35v. Conclusion of the Epistle and the Liturgical Gospel Dialogue. The Pauline pericope culminates in the exhortation to reckon oneself dead unto sin, but alive unto God in Christ Jesus (Romans 6:11). The deacon then commands liturgical vigilance: *Премоу́дрость прѡ́сти оу҆слы́шимъ ст҃го є҆ѵⷢгліа* (Greek: Σοφία. Ὀρθοί. Ἀκούσωмен τοῦ ἁγίου εὐαγγελίου), answered by the announcement of the Holy Gospel according to Matthew.
+[^135]: Fol. 35v. Conclusion of the Epistle and the Liturgical Gospel Dialogue. The Pauline pericope culminates in the exhortation to reckon oneself dead unto sin, but alive unto God in Christ Jesus (Romans 6:11). The deacon then commands liturgical vigilance: *Премоу́дрость прѡ́сти оу҆слы́шимъ ст҃го є҆ѵⷢгліа* (Greek: Σοφία. Ὀρθοί. Ἀκούσωμεν τοῦ ἁγίου εὐαγγελίου), answered by the announcement of the Holy Gospel according to Matthew.
 
 [^136]: Fol. 35v–36r. The Great Commission Gospel: Matthew 28:16–20 (Pericope 116). The final verses of the Gospel of Matthew, proclaimed at every Byzantine baptism. The resurrected Lord, having received all power in heaven and earth, commissions the eleven apostles to go forth, make disciples of all nations, baptize them into the threefold Name of the Father, Son, and Holy Spirit, and keep His commandments, concluding with the perpetual promise: "And lo, I am with you always, even unto the end of the age."
 
@@ -362,7 +362,7 @@
 
 [^180]: Fol. 51r. The Eighth-Day Ablution Prayer (*[И҆́]же и҆збавле́нїе съгрѣше́нїемъ ра́ди ст҃го кр҃ще́нїа рабꙋ̀ твое́моу дарова́въ...*). This prayer adapts the ancient eighth-day euchology of post-baptismal ablution found in the Barberini Euchologion (gr. 336) and early Slavonic Trebnyks for use over a reconciled Latin convert. It celebrates the convert's remission of sins (*и҆збавле́нїе съгрѣше́нїемъ*), petitions for the illumination of his heart with the light of the divine countenance (Psalm 4:7 / 66:2), and prays for the preservation of the incorrupt baptismal robe (*нетлѣ́нїе ѻ҆дѣѧ́нїа*) and the intact seal of the Holy Spirit (*нероуши́ма дх҃овнаѧ печа́ть*).
 
-[^181]: Fol. 51v. The Ritual Ablution Formula and Head-Bowing Prayer (*Кр҃ти́лсѧ є҆сѝ. Просвѣти́лсѧ є҆сѝ. Ѻ҆мы́лсѧ є҆сѝ. Ѻ҆с͠ти́лсѧ є҆сѝ...*). The priest performs the ritual ablution of the holy chrism using warm water and a sponge (*гоу́ба* / Greek: σπόγγος), wiping the loci of anointing while reciting the ancient quadruplicate baptismal declaration: "Thou art baptized. Thou art illumined. Thou art washed. Thou art sanctified..." (cf. 1 Corinthians 6:11: "but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God"). This is immediately followed by the liturgical greeting of peace and the silent inclination prayer (*мл҃тва та́йнѡ* / *εὐχὴ κеклиμένη*), which echoes Galatians 3:27 (*"For as many of you as have been baptized into Christ have put on Christ"*) and petitions for the convert's victory as an "unconquered champion" against the spiritual adversary.
+[^181]: Fol. 51v. The Ritual Ablution Formula and Head-Bowing Prayer (*Кр҃ти́лсѧ є҆сѝ. Просвѣти́лсѧ є҆сѝ. Ѻ҆мы́лсѧ є҆сѝ. Ѻ҆с͠ти́лсѧ є҆сѝ...*). The priest performs the ritual ablution of the holy chrism using warm water and a sponge (*гоу́ба* / Greek: σπόγγος), wiping the loci of anointing while reciting the ancient quadruplicate baptismal declaration: "Thou art baptized. Thou art illumined. Thou art washed. Thou art sanctified..." (cf. 1 Corinthians 6:11: "but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God"). This is immediately followed by the liturgical greeting of peace and the silent inclination prayer (*мл҃тва та́йнѡ* / *εὐχὴ κεκλιμένη*), which echoes Galatians 3:27 (*"For as many of you as have been baptized into Christ have put on Christ"*) and petitions for the convert's victory as an "unconquered champion" against the spiritual adversary.
 
 [^182]: Fol. 52r. The Communion of the Reconciled Latin Penitent and Concluding Rites of Part VII (*и҆ причаща́етъ є҆го̀ ст҃ы́хъ та́инъ...*). The reception of Roman Catholics culminates in their immediate admission to the Holy Mysteries (*прича́стїе ст҃ы́хъ та́инъ*), following the ancient canonical principle articulated by Canon 95 of the Council in Trullo (692) and confirmed by the Council of Constantinople (1484). Having abjured Latin liturgical divergence, confessed the Nicene-Constantinopolitan Creed without the *Filioque*, and received the unction of holy chrism (*myron*), the penitent is admitted to full Eucharistic fellowship, followed by the concluding litany and dismissal (*ѿпоу́стъ*).
 
@@ -396,7 +396,7 @@
 
 [^197]: Fol. 59v. Special Euchological Petitions of the Crowning Litany (*Ѡ҆ рабѣ́хъ Бж҃їихъ... и҆́же нн҃ѣ съчетава́ющихсѧ дроу́гъ дроу́гоу къ бра́ка приѡбще́нїе...*). The Crowning litany incorporates distinctive euchological petitions: praying that the marriage be blessed after the model of Cana of Galilee (*ꙗ҆́коже въ ка́нѣ Галиле́йстѣ*); for chastity (*цѣломꙋ́дрїе* / σωφροσύνη); for the fruit of the womb (*пло́дъ чре́вный*); for joy in the sight of sons and daughters; and for the granting of fair offspring (*бл҃гоча́дїе* / εὐτεκνία) and blameless conduct of life (*незазо́рное пребыва́нїе*).
 
-[^198]: Fol. 60r. The First Euchological Prayer of Crowning: Creation of Eve and the Primordial Blessing (*Бг҃е пречи́стыи, и҆ вьсѧ́коѧ тва́ри създа́телю...*). The solemn prayer of Crowning (Greek: Ὁ Θεὸς ὁ ἄχранτος, καὶ πάσης κτίσεως δημιουργός...) roots the sacrament in the primordial creation narrative of Genesis 1–2: God fashioning Eve from Adam's rib out of His love for mankind, imparting the primordial mandate to increase, multiply, and have dominion over the earth (Genesis 1:28), and establishing husband and wife as one flesh (*є҆ди́нъ оу҆́дъ* / ἓν μέλος).
+[^198]: Fol. 60r. The First Euchological Prayer of Crowning: Creation of Eve and the Primordial Blessing (*Бг҃е пречи́стыи, и҆ вьсѧ́коѧ тва́ри създа́телю...*). The solemn prayer of Crowning (Greek: Ὁ Θεὸς ὁ ἄχραντος, καὶ πάσης κτίσεως δημιουργός...) roots the sacrament in the primordial creation narrative of Genesis 1–2: God fashioning Eve from Adam's rib out of His love for mankind, imparting the primordial mandate to increase, multiply, and have dominion over the earth (Genesis 1:28), and establishing husband and wife as one flesh (*є҆ди́нъ оу҆́дъ* / ἓν μέλος).
 
 [^199]: Fol. 60v. The Old and New Testament Patriarchal Chain of Marriage (*и҆ и҆́хже Бг҃ъ съпрѧжѐ чл҃къ да не раꙁлоуча́етъ...*). The prayer recites the foundational covenantal marriages of salvation history: Adam and Eve (Genesis 2:24, Matthew 19:6); Abraham and Sarah's miraculous conception in old age (Genesis 17:4–5, 18:10–14); Isaac and Rebecca (Genesis 24); Jacob and Rachel with the twelve patriarchs (Genesis 29–35); Joseph and Aseneth with their sons Ephraim and Manasseh (Genesis 41:45–52); Zechariah and Elizabeth giving birth to St. John the Baptist (Luke 1); culminating in the rod of Jesse blossoming into the Theotokos (Isaiah 11:1).
 
@@ -434,7 +434,7 @@
 
 [^216]: Fol. 65v. The Nuptial Epistle Lection (Ephesians 5:20–33). Pericope 230: The foundational Pauline text setting forth the sacramental mystery of Christian marriage as the earthly mirror and icon of Christ's sacrificial love for His Bride, the Church.
 
-[^217]: Fol. 66r. The Washing of Water by the Word (Ephesians 5:26). Alluding to baptismal rebirth (*τῷ λουτρῷ τοῦ ὕδατος ἐν ῥήмаτι* / *ба́нею водно́ю гл҃омъ*), through which the Church is purified and sanctified to become the unblemished Bride of Christ.
+[^217]: Fol. 66r. The Washing of Water by the Word (Ephesians 5:26). Alluding to baptismal rebirth (*τῷ λουτρῷ τοῦ ὕδατος ἐν ῥήματι* / *ба́нею водно́ю гл҃омъ*), through which the Church is purified and sanctified to become the unblemished Bride of Christ.
 
 [^218]: Fol. 66v. The Conjugal Epilogue (Ephesians 5:33). Concluding the apostolic instruction with the call to mutual sacrificial love and reverence (*да бои́тсѧ* / *ἵνα φοβῆται*), understood not as servile terror, but as holy and affectionate awe within the hierarchy of love.
 
@@ -462,7 +462,7 @@
 
 [^230]: Fol. 69r. The Rite of the Common Cup (*Ѻ҆́бщаѧ ча́ша* / *Κοινὸν ποτήριον*). The presentation and blessing of the common cup of wine constitutes a surviving historical vestige and surrogate of the ancient reception of Holy Communion at the nuptial Divine Liturgy. In late Byzantine and Ruthenian practice, unconsecrated wine blessed with this sacerdotal prayer is shared mutually by the bridegroom and bride as a symbol of shared life, common sorrow, and unified joy.
 
-[^231]: Fol. 69r. Prayer of Blessing Over the Common Cup (*Бж҃е, и҆́же всѧ̀ сътвори́выи крѣ́постїю свое́ю...*). Greek: *Ὁ Θεός, ὁ πάντα ποιήσας τῇ ἰσχύϊ σου, καὶ στερεώσας τὴν οἰκουμένην, καὶ κοσμήσας τὸν στέφανον πάντων τῶν ὑπὸ σοῦ γεноμένων...* The euchological text recalls God's creative cosmic fashioning and petitions a spiritual blessing (*бл҃гослове́нїемъ дх҃овнымъ*) upon the cup of wine presented to the spouses.
+[^231]: Fol. 69r. Prayer of Blessing Over the Common Cup (*Бж҃е, и҆́же всѧ̀ сътвори́выи крѣ́постїю свое́ю...*). Greek: *Ὁ Θεός, ὁ πάντα ποιήσας τῇ ἰσχύϊ σου, καὶ στερεώσας τὴν οἰκουμένην, καὶ κοσμήσας τὸν στέφανον πάντων τῶν ὑπὸ σοῦ γενομένων...* The euchological text recalls God's creative cosmic fashioning and petitions a spiritual blessing (*бл҃гослове́нїемъ дх҃овнымъ*) upon the cup of wine presented to the spouses.
 
 [^232]: Fol. 69v. The Nuptial Dance of Isaiah (*Хѡжде́нїе ѡ҆́кръстъ а҆нало́ѧ*). The circular procession around the analogion or tetrapod three times represents eternity, unbroken marital fidelity, and liturgical rejoicing. The rubric specifies that the best man or sponsor (*дроу́гоу женихо́воу*) holds the crowns over the heads of the bridegroom and bride as they are led by the celebrant.
 
@@ -480,11 +480,11 @@
 
 [^239]: Fol. 70v. Prayer at the Deposition of Crowns (*Гдⷭ҇и Бж҃е на́шъ, прише́дыи въ Ка́ноу Галиле́йскоую...*). Greek: *Κύριε ὁ Θεὸς ἡμῶν, ὁ παραγενόμενος ἐν Κανᾷ τῆς Γαλιλαίας, καὶ τὸν ἐκεῖσε γάμον εὐλογήσας...* Beseeching God to receive the bridal crowns into His celestial kingdom (*въспрїимѝ вѣнца̀ и҆́хъ въ црⷭ҇твїе твоѐ*), signifying that the earthly dignity and ascetic struggle of Christian marriage find their ultimate fulfillment in the everlasting Kingdom of God. The blessing of "comings-in and goings-out" (*въхѡ́ды и҆ и҆схѡ́ды*) cites Psalm 120:8 LXX [MT 121:8].
 
-[^240]: Fol. 71r. Sacerdotal Prayer of Head-Bowing and Solemn Trinitarian Blessing (*Ѿц҃ъ и҆ сн҃ъ и҆ дх҃ъ ст҃ыи...*). Greek: *Ὁ Πατὴρ, καὶ ὁ Υἱὸς, καὶ τὸ Ἅγιον Пνεῦμα, ἡ παναγία καὶ ὁμοούσιος καὶ ζωаρχικὴ Тριάς...* This exalted prayer of benediction invokes the Holy Trinity to bestow upon the spouses longevity (*длъгожи́тїе*), fair children (*бл҃гоча́дъство* / *εὐτεκνία*), spiritual advancement (*преспѣва́нїе животоу̀ и҆ вѣ́рѣ*), abundance of earthly goods, and eternal salvation.
+[^240]: Fol. 71r. Sacerdotal Prayer of Head-Bowing and Solemn Trinitarian Blessing (*Ѿц҃ъ и҆ сн҃ъ и҆ дх҃ъ ст҃ыи...*). Greek: *Ὁ Πατὴρ, καὶ ὁ Υἱὸς, καὶ τὸ Ἅγιον Πνεῦμα, ἡ παναγία καὶ ὁμοούσιος καὶ ζωαρχικὴ Τριάς...* This exalted prayer of benediction invokes the Holy Trinity to bestow upon the spouses longevity (*длъгожи́тїе*), fair children (*бл҃гоча́дъство* / *εὐτεκνία*), spiritual advancement (*преспѣва́нїе животоу̀ и҆ вѣ́рѣ*), abundance of earthly goods, and eternal salvation.
 
-[^241]: Fol. 71r. Concluding Congratulatory Rubric and Complete Dismissal (*Съвръше́нный ѿпоу́стъ*). The rubric prescribes mutual fraternal congratulations (*здравствоу́ютъ и҆́хъ*) and the ritual bridal kiss (*цѣлоу́етъ дроу́гъ дроу́га*) prior to the solemn dismissal (*ἀπόлυσις*) pronounced by the celebrant.
+[^241]: Fol. 71r. Concluding Congratulatory Rubric and Complete Dismissal (*Съвръше́нный ѿпоу́стъ*). The rubric prescribes mutual fraternal congratulations (*здравствоу́ютъ и҆́хъ*) and the ritual bridal kiss (*цѣлоу́етъ дроу́гъ дроу́га*) prior to the solemn dismissal (*ἀπόλυσις*) pronounced by the celebrant.
 
-[^242]: Fol. 71v. Nuptial Dismissal Patrons (*Ст҃ы́хъ Бг҃овѣнча́нныхъ цр҃еи... ст҃го великомч҃ника Проко́пїа...*). The proper nuptial dismissal commemorates: (1) St. Constantine and St. Helen, the first Christian sovereigns crowned by God (*Θеоστεφεῖς* / *Бг҃овѣнча́ннїи*); and (2) the Great-Martyr Procopius (d. 303 AD), who according to ancient tradition encouraged twelve Christian women to endure martyrdom by comparing their suffering to glorious bridal adornment, establishing him as a patron of Christian marriage.
+[^242]: Fol. 71v. Nuptial Dismissal Patrons (*Ст҃ы́хъ Бг҃овѣнча́нныхъ цр҃еи... ст҃го великомч҃ника Проко́пїа...*). The proper nuptial dismissal commemorates: (1) St. Constantine and St. Helen, the first Christian sovereigns crowned by God (*Θεοστεφεῖς* / *Бг҃овѣнча́ннїи*); and (2) the Great-Martyr Procopius (d. 303 AD), who according to ancient tradition encouraged twelve Christian women to endure martyrdom by comparing their suffering to glorious bridal adornment, establishing him as a patron of Christian marriage.
 
 [^243]: Fol. 71v. The Office of the Dissolution of Crowns on the Eighth Day (*Мл҃тва на раздрѣше́нїе вѣнце́въ, въ ѡ́смыи дн҃ь*). Greek: *Εὐχὴ ἐπὶ ἀπολύσει στεφάνων εἰς τὴν ὀγδόην ἡμέραν*. In ancient Byzantine usage, the bridegroom and bride wore their wedding crowns for seven days following the nuptial mystery, returning to the church on the eighth day for a solemn rite of uncrowning and prayer before returning to daily secular life. While in later practice the crowns were removed at the end of the Crowning service, the prayer on the eighth day was retained in the euchologies. The opening words of the prayer evoke Psalm 64:12 LXX [MT 65:11] ("Thou shalt bless the crown of the year of Thy goodness").
 
@@ -540,7 +540,7 @@
 
 [^269]: Fol. 79v. Ode 1 Heirmos: *Мо́рѧ чръмна́го поучи́нꙋ немо́кръ[ными стопа́ми...]*; Greek: *Θαλάσσης τὸ ἐρυθραῖον πέλαγος ἀβρόχοις ἴχνεσιν...* Tone 4. The printer records the opening incipit, breaking off at *немо́кръ-* ("unwetted..."), directing the chanters to complete the familiar heirmos of the Passover through the Red Sea (Exodus 14).
 
-[^270]: Fol. 80r. The Oil of Divine Compassion and the Parable of the Wise Virgins. Greek: *Μύρῳ τῷ τῆς σῆς εὐσπλαγχνίας, Δέσποτα...* The opening troparion of the canon connects the physical oil of unction (*ἔлαιον*) with divine mercy (*ἔλεος*), playing upon the classical Patristic paronomasia (*elaion / eleos*). The preservation of the oil of the faithful (*съхранѧ́ѧ ма́сло вѣ́рныхъ*) evokes the oil of good works and grace preserved in the lamps of the wise virgins (Matthew 25:1–13).
+[^270]: Fol. 80r. The Oil of Divine Compassion and the Parable of the Wise Virgins. Greek: *Μύρῳ τῷ τῆς σῆς εὐσπλαγχνίας, Δέσποτα...* The opening troparion of the canon connects the physical oil of unction (*ἔλαιον*) with divine mercy (*ἔλεος*), playing upon the classical Patristic paronomasia (*elaion / eleos*). The preservation of the oil of the faithful (*съхранѧ́ѧ ма́сло вѣ́рныхъ*) evokes the oil of good works and grace preserved in the lamps of the wise virgins (Matthew 25:1–13).
 
 [^271]: Fol. 80r. The Mystical Anointing and the Universal Earthly Mercy. Greek: *Ἵλεων τῷ σῷ ἐλαίῳ, Δέσποτα...* Invoking Psalm 32:5 LXX [MT 33:5] ("The earth is full of the mercy of the Lord"), the hymn affirms that sacramental anointing mystically communicates that transcendent divine mercy which surpasses all human comprehension (Philippians 4:7).
 
@@ -792,7 +792,7 @@
 
 [^395]: Fol. 103r. Continuation and ecphonesis of the Third Consecratory Prayer: the priest prays for divine healing to descend from heaven upon the sick candidate (*и҆́мѧ ре́къ*), quenching fever, subduing passions, and raising him from the couch of suffering (*ѿ ѻ҆́дра ѡ҆злобле́нїа* / Greek: *ἐκ κλίνης ὀδύνης*) to glorify God in His holy Church, concluded by the ecphonesis *Твое́ бо є҆́стъ є҆́же ми́ловати...*.
 
-[^396]: Fol. 103v. Fourth Prokeimenon in Tone 4: Psalm 101:3, 2 (LXX 101:2, 1): *Въ́ньже дн҃ь призовоу́ тѧ, ско́ро оу҆слы́ши мѧ̀...* (Greek: *Ἐν ᾗ ἂν ἡμέρᾳ ἐπικαλέσωμαί σε, тахὺ εἰσάκουσόν μου*).
+[^396]: Fol. 103v. Fourth Prokeimenon in Tone 4: Psalm 101:3, 2 (LXX 101:2, 1): *Въ́ньже дн҃ь призовоу́ тѧ, ско́ро оу҆слы́ши мѧ̀...* (Greek: *Ἐν ᾗ ἂν ἡμέρᾳ ἐπικαλέσωμαί σε, ταχὺ εἰσάκουσόν μου*).
 
 [^397]: Fol. 103v. Announcement and opening of the Fourth Epistle reading: 2 Corinthians 6:16–7:1a (*вы̀ є҆стѐ цр҃кви Бг҃а жи́ва...* / Greek: *Ὑμεῖς γὰρ ναὸς Θεοῦ ἐστε ζῶντος...*), affirming that the faithful are the temple of the living God and quoting Leviticus 26:11–12 and Isaiah 52:11.
 
@@ -892,7 +892,7 @@
 
 [^445]: Fol. 112v. Priestly ecphonesis concluding the litany: *Ꙗ҆́ко мл҃тивый и҆ чл҃колꙋ́бецъ Бг҃ъ є҆сѝ...* (For Thou art a merciful God and the Lover of mankind).
 
-[^446]: Fol. 113r. Rubric prescribing the Sixth Prayer of Holy Unction: *сщ҃енникъ мл҃твоу ·s҃·ю* (Greek: *Εὐχὴ Ϛ'*).
+[^446]: Fol. 113r. Rubric prescribing the Sixth Prayer of Holy Unction: *сщ҃енникъ мл҃твоу ·ѕ҃·ю* (Greek: *Εὐχὴ Ϛ'*).
 
 [^447]: Fol. 113r. Opening of the Sixth Prayer of Holy Unction: *Благодарю́ тѧ Гд҃и Бж҃е на́шъ, бл҃гый чл҃колю́бче...* (Greek: *Εὐχαριστῶ σοι, Κύριε ὁ Θεὸς ἡμῶν, ὁ ἀγαθὸς καὶ φιλάνθρωπος...*). Invoking God as Physician of souls and bodies, bearing our infirmities without pain (Isaiah 53:4; Matthew 8:17), and healing us by His wounds (Isaiah 53:5; 1 Peter 2:24).
 
@@ -1130,7 +1130,7 @@
 
 [^564]: Fol. 125v. Psalm 31 (LXX 31:1–2): *Блажени имже отпустишася беззакония...* ("Blessed are they whose iniquities are forgiven, and whose sins are covered" / Romans 4:7–8).
 
-[^565]: Fol. 125v. Psalm 31:3–4 (LXX 31:3–4): physical and spiritual suffering under silent unconfessed sin: *Яко умолчах, обетшаша кости моя...* (*ἐστράφην εἰς ταλαιπωρίαν ἐν τῷ ἐμπαγῆναι ἄканθαν*).
+[^565]: Fol. 125v. Psalm 31:3–4 (LXX 31:3–4): physical and spiritual suffering under silent unconfessed sin: *Яко умолчах, обетшаша кости моя...* (*ἐστράφην εἰς ταλαιπωρίαν ἐν τῷ ἐμπαγῆναι ἄκανθαν*).
 
 [^566]: Fol. 125v. Psalm 31:5–6a (LXX 31:5–6a): liberating confession of sin and immediate divine remission: *исповем на мя беззаконие мое Господеви: и Ты отпустил еси нечестие сердца моего*.
 
@@ -1198,7 +1198,7 @@
 
 [^598]: Fol. 129r. Illumination of the penitent's spiritual faculties: *ѿвръ́зи є҆мꙋ̀ ѡ҆́чи зрѣ́ти свѣ́тъ є҆ѵⷢлїа твое́го* ("open his eyes to behold the light of Thy Gospel"; cf. 2 Corinthians 4:4–6, Ephesians 1:18), continuing onto Fol. 129v.
 
-[^599]: Fol. 129v. Guardian angel and protection from demonic attack, citing Psalm 90:6 (LXX 90:6: *бѣ́са полꙋ́деннаго* / Greek: *δαιμονίου μεσημβриνοῦ* — the midday demon, associated in the ascetic tradition of Evagrius Ponticus and John Cassian with acedia and spiritual despair).
+[^599]: Fol. 129v. Guardian angel and protection from demonic attack, citing Psalm 90:6 (LXX 90:6: *бѣ́са полꙋ́деннаго* / Greek: *δαιμονίου μεσημβρινοῦ* — the midday demon, associated in the ascetic tradition of Evagrius Ponticus and John Cassian with acedia and spiritual despair).
 
 [^600]: Fol. 129v. Classical exorcistic catalog of vices embedded within the penitential prayer: purging the passions that nest within the heart (cf. Matthew 15:19; Mark 7:21–22): deceit (*пре́лесть*), malice (*лꙋка́вство*), idolatry (*і҆долослꙋже́ніе*), falsehood (*ло́жь*), fornication (*блꙋ́дъ*), and foul speaking (*скверносло́віе*).
 
@@ -1234,7 +1234,7 @@
 
 [^616]: Fol. 131r. Curses and canonical bonds: rashly pronouncing anathemas upon oneself or others (*а҆наѳематиса́нїа своѧ̀ и҆ тоу́ждаѧ*), and falling under solemn ecclesiastical maledictions or bans: parental (*роди́телныѧ*), priestly (*і҆ере́йскыѧ*), hierarchic (*а҆рхїере́йскыѧ*), or hegumeneal (*и҆гоу́менскыѧ*).
 
-[^617]: Fol. 131r. Violations of cenobitic life: *бра́тнаѧ непроще́нїа* (unforgiving rancor toward monastic brethren) and *ѻ҆собле́нїа* (holding private property or peculiar personal possessions; Greek: *ἰδιοрρυθμία* / *ἰδιοκτησία*), contrary to the strict cenobitic vow of poverty and common life.
+[^617]: Fol. 131r. Violations of cenobitic life: *бра́тнаѧ непроще́нїа* (unforgiving rancor toward monastic brethren) and *ѻ҆собле́нїа* (holding private property or peculiar personal possessions; Greek: *ἰδιορρυθμία* / *ἰδιοκτησία*), contrary to the strict cenobitic vow of poverty and common life.
 
 [^618]: Fol. 131r. Summary of self-will and vainglorious hypocrisy: doing one's own will rather than living in obedience, and performing external virtues merely for human applause (Matthew 6:1–5).
 
@@ -1464,7 +1464,7 @@
 
 [^731]: LXX Psalm 4:2: "ἐν θλίψει ἐπλάτυνάς μοι· οἰκτείρησόν με καὶ εἰσάκουσον τῆς προσευχῆς μου." Completes verse 2 from leaf p297.
 
-[^732]: LXX Psalm 4:3: "υἱοὶ ἀνθρώπων, ἕως πότε βαρυκάρдиоι; ἱνατί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος;". Anti-slop adherence: translated "Why" instead of banned "Wherefore".
+[^732]: LXX Psalm 4:3: "υἱοὶ ἀνθρώπων, ἕως πότε βαρυκάρδιοι; ἱνατί ἀγαπᾶτε ματαιότητα καὶ ζητεῖτε ψεῦδος;". Anti-slop adherence: translated "Why" instead of banned "Wherefore".
 
 [^733]: LXX Psalm 4:4: "καὶ γνῶτε ὅτι ἐθαυμάστωσε Κύριος τὸν ὅσιον αὐτοῦ· Κύριος εἰσακούσεταί μου ἐν τῷ κεκραγέναι με πρὸς αὐτόν." Mandate adherence: "made marvelous" used instead of banned "wondrous".
 
@@ -1712,7 +1712,7 @@
 
 [^855]: Cf. 1 Thess. 4:17: "ἔπειτα ἡμεῖς οἱ ζῶντες... ἅμα σὺν αὐτοῖς ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ Κυρίου εἰς ἀέρα...".
 
-[^856]: Cf. Matt. 16:27: "μέλλει γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεσθαι ἐν тῇ δόξῃ τοῦ πατρὸς αὐτοῦ μετὰ τῶν ἀγγέλων αὐτοῦ, καὶ τότε ἀποδώσει ἑκάστῳ κατὰ τὴν πρᾶξιν αὐτοῦ." Also 2 Tim. 4:1 and the Symbol of Faith.
+[^856]: Cf. Matt. 16:27: "μέλλει γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεσθαι ἐν τῇ δόξῃ τοῦ πατρὸς αὐτοῦ μετὰ τῶν ἀγγέλων αὐτοῦ, καὶ τότε ἀποδώσει ἑκάστῳ κατὰ τὴν πρᾶξιν αὐτοῦ." Also 2 Tim. 4:1 and the Symbol of Faith.
 
 [^857]: CS: "и҆ поси́лмъ да́стъ є҆мꙋ̀ за́повѣдь є҆ли́кѡ мо́жет храни́ти .". Pastoral rubric enjoining pastoral economy (*oikonomia*) rather than unbending rigorism (*akribeia*) in assigning penances (*за́повѣдь* / *epitimia*).
 
@@ -1928,7 +1928,7 @@
 
 [^963]: CS: "И҆ нн҃ѣ .". Rubric appointing the Theotokion.
 
-[^964]: Ode 1, Theotokion: Patristic Marian-Eucharistic typology: Christ as the unplowed Ear of wheat (*кла́съ не ѡ҆ра́нный* / ἄротон στάχυν) brought forth from the untilled soil of the Virgin: "Бл҃гаа бл҃гве́наа невѣ́сто, ꙗ҆́же кла́съ въздрасти́вшїа не ѡ҆ра́нный , и҆ сп҃си́телный мироу . Сподо́би мѧ̀ сеѝ ꙗ҆доу́ща сп҃тисѧ :~" (O good and blessed Bride of God, who hast brought forth the unplowed Ear of grain that is salvation to the world: vouchsafe that I, eating thereof, may be saved).
+[^964]: Ode 1, Theotokion: Patristic Marian-Eucharistic typology: Christ as the unplowed Ear of wheat (*кла́съ не ѡ҆ра́нный* / ἄρτον στάχυν) brought forth from the untilled soil of the Virgin: "Бл҃гаа бл҃гве́наа невѣ́сто, ꙗ҆́же кла́съ въздрасти́вшїа не ѡ҆ра́нный , и҆ сп҃си́телный мироу . Сподо́би мѧ̀ сеѝ ꙗ҆доу́ща сп҃тисѧ :~" (O good and blessed Bride of God, who hast brought forth the unplowed Ear of grain that is salvation to the world: vouchsafe that I, eating thereof, may be saved).
 
 [^965]: CS: "Пѣ́снь г҃ . І҆рмо́ : На ка́мени мѧ̀ вѣ́ры оу҆твръдѝ .". Rubric introducing Ode 3 and its Heirmos incipit *Ἐν πέτρᾳ με τῆς πίστεως στερεώσας* (CS: "На ка́мени мѧ̀ вѣ́ры оу҆твръдѝ" / "Establish me upon the rock of faith").
 
@@ -2090,7 +2090,7 @@
 
 [^1044]: Evangelical confession of the Prodigal Son: "Father, I have sinned against heaven, and before thee" (Luke 15:18, 21).
 
-[^1045]: Direct quotation of the divine oath from Ezekiel 33:11: "As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live" (cf. Ezek. 18:23, 32).
+[^1045]: Direct quotation of the divine oath from Ezekiel 33:11: "As I live, says the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live" (cf. Ezek. 18:23, 32).
 
 [^1046]: Direct citation of the Pauline pastoral declaration of the universal salvific will of God: "Who will have all men to be saved, and to come unto the knowledge of the truth" (1 Timothy 2:4).
 
@@ -2222,7 +2222,7 @@
 
 [^1110]: Evangelical confession of persistent faith despite spiritual sloth and despondency, perpetually knocking at the doors of divine mercy (Matthew 7:7-8; Luke 11:9-10) and clinging to the path of Christ.
 
-[^1111]: Scriptural praise echoing Psalm 144:9 LXX (Psalm 145:9 MT): "The Lord is good to all: and his tender mercies are over all his works," concluding with an ascription of eternal dominion unto God.
+[^1111]: Scriptural praise echoing Psalm 144:9 LXX (Psalm 145:9 MT): "The Lord is good to all: and His tender mercies are over all His works," concluding with an ascription of eternal dominion unto God.
 
 [^1112]: Rubric in red cinnabar ink heading the prayer of St. John Chrysostom for the remission of sins (*ТОГО́ СТ҃Ѣ́ЙШАГО І҆ѠА́ННА ЗЛАТООУ́СТАГО, МО: КЪ СТ҃О́Мꙋ ПРИЧАЩЕ́НЇЮ*).
 
@@ -2230,7 +2230,7 @@
 
 [^1114]: Classical liturgical supplication for the remission of sins committed in knowledge and in ignorance (*ꙗ҆́же въ вѣ́дѣнїи и҆ невѣ́дѣнїи съгрѣше́ннаѧ*), entreating reception of the Holy Mysteries without condemnation (1 Cor. 11:29).
 
-[^1115]: Patristic Eucharistic fruits: communion received not unto heaviness or punishment (*не въ та́жесть ни въ моу́кꙋ*), but for the pledge and betrothal of the life and Kingdom to come (*въ ѡ҆броуче́нїе бꙋ́доущаго живота̀ и҆ цр҃твїа*, Greek *εἰς ἀρраβῶνα*).
+[^1115]: Patristic Eucharistic fruits: communion received not unto heaviness or punishment (*не въ та́жесть ни въ моу́кꙋ*), but for the pledge and betrothal of the life and Kingdom to come (*въ ѡ҆броуче́нїе бꙋ́доущаго живота̀ и҆ цр҃твїа*, Greek *εἰς ἀρραβῶνα*).
 
 [^1116]: Spiritual imagery of the Holy Eucharist as a protective wall and fortress (*въ стѣ́ноу и҆ по́мощъ*, Greek *τεῖχος*) against demonic adversaries and for the obliteration of transgressions.
 
@@ -2314,7 +2314,7 @@
 
 [^1156]: Allusion to the Prayer of Manasseh: *"And I am not worthy to behold and see the height of heaven for the multitude of mine iniquities"* (Prayer of Manasseh 9).
 
-[^1157]: Early Christian and Patristic moral classification: Specifically identifying carnal sins including nocturnal/sensual emissions (*и҆стица́нїа*), effeminacy (*оу҆мягче́нїа*, Greek *μαλακίαι*, 1 Cor. 6:9), onanism (*рꙋкоблоу́дїа*), and the corruption of youth (*дѣторастлѣ́нїа*, Greek *παιдофθορίαι*, Didache 2:2).
+[^1157]: Early Christian and Patristic moral classification: Specifically identifying carnal sins including nocturnal/sensual emissions (*и҆стица́нїа*), effeminacy (*оу҆мягче́нїа*, Greek *μαλακίαι*, 1 Cor. 6:9), onanism (*рꙋкоблоу́дїа*), and the corruption of youth (*дѣторастлѣ́нїа*, Greek *παιδοφθορίαι*, Didache 2:2).
 
 [^1158]: Patristic catalog of sensual provocations: Noting rare ascetic terms such as *наскака́нїа* (wanton assaults or leaping, Greek *ἐπιπηδήσεις*) and *и҆скокта́нїа* (titillations, sensual dallying or wanton provocations, from CS *скокта́ти*).
 
@@ -2324,9 +2324,9 @@
 
 [^1161]: Liturgical penitential formula: Pleading for remission and pardon (*ѡ҆сла́би, ѡ҆ста́ви, и҆ прости́*) according to the multitude of God's tender mercies (cf. Ps. 50:3 LXX).
 
-[^1162]: Direct invocation of Psalm 50:3 (LXX): *"Have mercy upon me, O God, according to Thy great mercy, and according to the multitude of Thy compassions blot out my transgression"* (LXX Ps. 50:3: Ἐλέησόν με, ὁ Θεός, κατὰ τὸ μέγα ἔлеос σου).
+[^1162]: Direct invocation of Psalm 50:3 (LXX): *"Have mercy upon me, O God, according to Thy great mercy, and according to the multitude of Thy compassions blot out my transgression"* (LXX Ps. 50:3: Ἐλέησόν με, ὁ Θεός, κατὰ τὸ μέγα ἔλεος σου).
 
-[^1163]: Ascetic terminology of spiritual warfare: Deliverance from demonic assaults (*приложе́нїа*, Greek *προσβοлаί*) and habitual sins that grow along with the fallen soul (*съвъзраста́ющихъ є́й зѡ́лъ*).
+[^1163]: Ascetic terminology of spiritual warfare: Deliverance from demonic assaults (*приложе́нїа*, Greek *προσβολαί*) and habitual sins that grow along with the fallen soul (*съвъзраста́ющихъ є́й зѡ́лъ*).
 
 [^1164]: Direct Pauline citation from Romans 5:20: *"Where sin abounded, grace did much more abound"* (*и҆де́же оу҆мно́жисѧ грѣ́хъ, преизоби́лоуетъ бл҃года́ть* / Greek *οὗ δὲ ἐπλεόνασεν ἡ ἁμαρτία, ὑπερεπερίσσευσεν ἡ χάρις*).
 
@@ -2422,7 +2422,7 @@
 
 [^1210]: Contempt of the divine will: Rejecting God's pure will and holy statutes, failing to desire any of His pure commandments (continuing onto leaf p400).
 
-[^1211]: Scriptural quote from Psalm 18:10–11 (LXX): *"The judgments of the Lord are true... more desirable than gold and much precious stone"* (LXX Ps. 18:10–11: τὰ κρίματα Κυρίου ἀληθινά... ἐпиθυμητὰ ὑπὲρ χρυσίον).
+[^1211]: Scriptural quote from Psalm 18:10–11 (LXX): *"The judgments of the Lord are true... more desirable than gold and much precious stone"* (LXX Ps. 18:10–11: τὰ κρίματα Κυρίου ἀληθινά... ἐπιθυμητὰ ὑπὲρ χρυσίον).
 
 [^1212]: Scriptural quote from the Prayer of Manasseh: Quoting Prayer of Manasseh 11: *"And now, behold, I bend the knee of my heart, entreating Thy goodness"* (*прекланѧ́ю ти срⷣца мое́го колѣ́нѣ* / Greek καὶ νῦν κλίνω γόνυ καρδίας).
 
@@ -2478,7 +2478,7 @@
 
 [^1238]: The classic opening of St. Symeon's prayer: The fourfold confession of unworthiness: *From defiled lips, from an abominable heart, from an unclean tongue, from a polluted soul* (*Ἀπὸ ῥυπαρῶν χειλέων, ἀπὸ βδελυρᾶς καρδίας, ἀπὸ ἀκαθάρτου γλώσσης, ἐκ ψυχῆς ἐρρυπωμένης*).
 
-[^1239]: Boldness of the penitent: Asking Christ not to reject the sinner's words, gestures, or audacious daring (*ни дръ́зость*, Greek μηδὲ τὴν ἀναίδейαν, continuing onto leaf p407).
+[^1239]: Boldness of the penitent: Asking Christ not to reject the sinner's words, gestures, or audacious daring (*ни дръ́зость*, Greek μηδὲ τὴν ἀναίδειαν, continuing onto leaf p407).
 
 [^1240]: Prayer for bold speech (*parrhesia*): St. Symeon asks Christ to grant him freedom of speech (*дръзнове́ннѣ гл҃ати*) and divine instruction on how to pray properly (Rom. 8:26).
 
@@ -2496,7 +2496,7 @@
 
 [^1247]: Scriptural quote from Psalm 138:16 (LXX): *"Thine eyes did see mine unformed substance, and in Thy book all shall be written"* (τὸ ἀκατέργαστόν μου εἶδον οἱ ὀφθαλμοί σου, καὶ ἐπὶ τὸ βιβλίον σου πάντες γραφήσονται / *несꙋдѣ́ланное моѐ ви́дѣша ѡ҆́чи твоѝ, въ кни́гах же твои́хъ написа́на тебѣ̀ соу́тъ*).
 
-[^1248]: Scriptural quote from Psalm 24:18 (LXX): *"Look upon my lowliness and my toil, and forgive all my sins"* (ἴде τὴν ταπείνωσίν μου καὶ τὸν κόπον μου, καὶ ἄφες πάσας τὰς ἁμαρτίας μου / *ви́ждь смире́нїе моѐ, ви́ждь троу́д мои́ є҆ли́къ, и҆ грѣхы̀ ѡ҆ста́ви ми*).
+[^1248]: Scriptural quote from Psalm 24:18 (LXX): *"Look upon my lowliness and my toil, and forgive all my sins"* (ἴδε τὴν ταπείνωσίν μου καὶ τὸν κόπον μου, καὶ ἄφες πάσας τὰς ἁμαρτίας μου / *ви́ждь смире́нїе моѐ, ви́ждь троу́д мои́ є҆ли́къ, и҆ грѣхы̀ ѡ҆ста́ви ми*).
 
 [^1249]: Requisite interior disposition for Communion: Purity of heart, fearful contemplation (*стра́шнаѧ мы́сль*), and contrition of soul necessary to receive the undefiled Mysteries without incurring judgment (continuing onto leaf p409).
 
@@ -2680,7 +2680,7 @@
 
 [^1339]: Fol. 221r (`ск҃і`). A post-communion Thanksgiving prayer to the Mother of God (*Моли́тва къ прест҃ѣ́й Бц҃и, по причаще́нїи: Преблаже́нная Госпоже́...*), concluding the expedited order of holy communion for the sick.
 
-[^1340]: Fol. 222r (`ск҃в`). Woodcut headpiece across the top of the folio. The title in ornamental display cinnabar (*ЧИ́НЪ БЫВА́ЕМЫЙ НА РАЗЛꙋЧЕ́НЇЕ, ДꙋШЍ ѿ ТѢ́ЛА*) initiates the classical Byzantine-Ruthenian office for the agony of death (*Ἀκολουθία εἰς ψυχορраγοῦντα*), chanted at the bedside of the dying.
+[^1340]: Fol. 222r (`ск҃в`). Woodcut headpiece across the top of the folio. The title in ornamental display cinnabar (*ЧИ́НЪ БЫВА́ЕМЫЙ НА РАЗЛꙋЧЕ́НЇЕ, ДꙋШЍ ѿ ТѢ́ЛА*) initiates the classical Byzantine-Ruthenian office for the agony of death (*Ἀκολουθία εἰς ψυχορραγοῦντα*), chanted at the bedside of the dying.
 
 [^1341]: Fol. 222r (`ск҃в`). A historical paper slip repair was pasted over lines 4–6 of the folio, reinforcing paper thinning caused by abraded ink on the verso (fol. 222v). The obscured characters are restored according to Ruthenian Trebnyk and classical Euchologion usage: `Е҆гда̀ кто̀ ѿ [хр҃тїа́нъ...] [...] и҆ прѣ́кѡ начне́тъ и҆знемаг[а́ти ... и҆ сщ҃енникъ] дх҃о́вникъ [въпра́]ша́етъ є҆го̀...` The rubric instructs the father-confessor to inquire gently into any lingering forgotten sin, unconfessed fault, or unforgiven grudge before beginning the office.
 
@@ -2704,7 +2704,7 @@
 
 [^1351]: Fol. 225r (`ск҃е`). Slavonic *Оу҆га́сшоу оу҆́бо ѿню́дъ ѻ҆рга́ноу слове́сномꙋ* (Greek: *Ἀποσβεσθέντος ἄρδην τοῦ ὀργάνου τοῦ λογικοῦ*), describing the physical deathbed cessation of speech while the dying person's inner heart continues to cry out to the Mother of God.
 
-[^1352]: Fol. 225r (`ск҃е`). Tone 6, Heirmos of Ode 4 (Canon 1): *Χριστός μου δύнаμις, Θεὸς καὶ Κύριος* (Slavonic: *Хс҃ мнѣ̀ си́ла Бг҃ъ и҆ Гд҃ь*), based on the Canticle of Habakkuk (Habakkuk 3).
+[^1352]: Fol. 225r (`ск҃е`). Tone 6, Heirmos of Ode 4 (Canon 1): *Χριστός μου δύναμις, Θεὸς καὶ Κύριος* (Slavonic: *Хс҃ мнѣ̀ си́ла Бг҃ъ и҆ Гд҃ь*), based on the Canticle of Habakkuk (Habakkuk 3).
 
 [^1353]: Fol. 225v. The troparion expresses the dramatic terror of the deathbed struggle (*по́двигъ всепа́гꙋбный*) where the soul implores both the celestial angelic orders and earthly friends for mercy and tears as it is unmercifully separated from the flesh.
 
@@ -2774,7 +2774,7 @@
 
 [^1386]: The soul laments that in exchange for passing worldly indulgence (време́нное наслаже́ніе), it faces unending torment in the unquenchable fire (Matt 25:41), pleading that the mercy of the Theotokos may overtake it.
 
-[^1387]: Allusion to Psalm 68:21 (LXX 68:21): "and I looked for one that would sorrow with me, but there was none; and for one that would comfort me, but I found none" (καὶ ὑπέμεινα συλλυπούμενον καὶ οὐχ ὑπῆрξεν καὶ παρακαλοῦντας καὶ οὐχ εὗρον / "и ждахъ сопечалующаго, и не бѣ, и утѣшающихъ, и не обрѣтохъ"), together with Psalm 37:12 (LXX 37:12): "My friends and my neighbors drew near and stood against me, and my near kinsmen stood afar off." [Masoretic: Ps 69:20; Ps 38:11].
+[^1387]: Allusion to Psalm 68:21 (LXX 68:21): "and I looked for one that would sorrow with me, but there was none; and for one that would comfort me, but I found none" (καὶ ὑπέμεινα συλλυπούμενον καὶ οὐχ ὑπῆρξεν καὶ παρακαλοῦντας καὶ οὐχ εὗρον / "и ждахъ сопечалующаго, и не бѣ, и утѣшающихъ, и не обрѣтохъ"), together with Psalm 37:12 (LXX 37:12): "My friends and my neighbors drew near and stood against me, and my near kinsmen stood afar off." [Masoretic: Ps 69:20; Ps 38:11].
 
 [^1388]: Ode 8 Heirmos incipit: *Out of the flame for the godly didst Thou pour forth dew...* (Изъ пла́мене преподо́бнымъ ро́су источи́лъ еси́...). Allusion to the Song of the Three Holy Children in the Babylonian furnace (Daniel 3:49-50 / Song of the Three Children 26-27).
 
@@ -2800,11 +2800,11 @@
 
 [^1399]: Direct Scriptural quotation of 1 Timothy 2:4: "Who will have all men to be saved, and to come unto the knowledge of the truth" (ὃς πάντας ἀνθρώπους θέλει σωθῆναι καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν).
 
-[^1400]: Quotation of the divine oath from Ezekiel 18:23 and 33:11: "As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live" (LXX Ezek 33:11: εἰ βούλομαι τὸν θάνατον τοῦ ἀσεβοῦς, ὡς τὸ ἀποστрέψαι τὸν ἀσεβῆ ἀπὸ τῆς ὁδοῦ αὐτοῦ καὶ ζῆν αὐτόν).
+[^1400]: Quotation of the divine oath from Ezekiel 18:23 and 33:11: "As I live, says the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live" (LXX Ezek 33:11: εἰ βούλομαι τὸν θάνατον τοῦ ἀσεβοῦς, ὡς τὸ ἀποστρέψαι τὸν ἀσεβῆ ἀπὸ τῆς ὁδοῦ αὐτοῦ καὶ ζῆν αὐτόν).
 
 [^1401]: Cinnabar rubrical designation `и́мрⷶк :` (*имярек* / *nomen* / *Name*), indicating the personal baptismal name of the dying person to be pronounced by the priest.
 
-[^1402]: Folio 227r (physical page 471) concluding the prayer at the departure of the soul. Allusion to Psalm 145:7-8 (LXX 145:7-8): "The Lord looses them that are fettered; the Lord sets upright them that are crushed" (Κύριος λύει πεπεδημένους, Κύριος ἀνορθοῖ καтерραγμένους / "Господь рѣшитъ окованныя... возводитъ низверженныя"). [Masoretic: Ps 146:7-8]. The phrase "hope of the hopeless" (наде́жа ненача́ннымъ) translates the Greek ἀνελπίστων ἐλπίς; the 1606 text reads `ненача́ннымъ`, an attested Ruthenian variant/phonetic spelling for `нечая́ннымъ` (those without hope or expectation).
+[^1402]: Folio 227r (physical page 471) concluding the prayer at the departure of the soul. Allusion to Psalm 145:7-8 (LXX 145:7-8): "The Lord looses them that are fettered; the Lord sets upright them that are crushed" (Κύριος λύει πεπεδημένους, Κύριος ἀνορθοῖ κατερραγμένους / "Господь рѣшитъ окованныя... возводитъ низверженныя"). [Masoretic: Ps 146:7-8]. The phrase "hope of the hopeless" (наде́жа ненача́ннымъ) translates the Greek ἀνελπίστων ἐλπίς; the 1606 text reads `ненача́ннымъ`, an attested Ruthenian variant/phonetic spelling for `нечая́ннымъ` (those without hope or expectation).
 
 [^1403]: Cinnabar rubrical abbreviation `и҆́мѧ ре́къ` (*Name*), directing the priest to name the dying person. The prayer concludes with an allusion to the "eternal mansions" (John 14:2: "In My Father's house are many mansions").
 
@@ -2838,7 +2838,7 @@
 
 [^1418]: Folio 231v (physical page 480). Opening of the church station in the narthex: the triple *Come, let us worship*, followed by Psalm 90 (LXX 90 / MT 91:1-7a), traditionally chanted over the deceased as a psalm of divine protection and trust.
 
-[^1419]: Septuagint versification of Psalm 90:1-6 (LXX 90:1-6 / Masoretic: Psalm 91:1-6). The Ruthenian and Church Slavonic text strictly follows the Greek Septuagint rendering: "from troubling speech" (ἀπὸ λόγου ταραχώδους / ѿ словесѐ мѧте́жна, MT: "from the noisome pestilence"), "with His pinions shall He overshadow thee" (ἐν τοῖς μεταφрένοις αὐτοῦ ἐπισκιάσει σοι / пле́щима свои́ма ѡ҆сѣни́тъ тѧ), and "nor of mishap and the noonday demon" (καὶ δαιμονίου μεσημβриνοῦ / ѿ срѧ́ща и҆ бѣ́са полоу́деннаго, MT: "nor for the destruction that wastes at noonday").
+[^1419]: Septuagint versification of Psalm 90:1-6 (LXX 90:1-6 / Masoretic: Psalm 91:1-6). The Ruthenian and Church Slavonic text strictly follows the Greek Septuagint rendering: "from troubling speech" (ἀπὸ λόγου ταραχώδους / ѿ словесѐ мѧте́жна, MT: "from the noisome pestilence"), "with His pinions shall He overshadow thee" (ἐν τοῖς μεταφρένοις αὐτοῦ ἐπισκιάσει σοι / пле́щима свои́ма ѡ҆сѣни́тъ тѧ), and "nor of mishap and the noonday demon" (καὶ δαιμονίου μεσημβρινοῦ / ѿ срѧ́ща и҆ бѣ́са полоу́деннаго, MT: "nor for the destruction that wastes at noonday").
 
 [^1420]: LXX Psalm 90:10 (MT 91:10). The Church Slavonic witness reads *къ телеси твоемоу* ('unto thy body'), an inner-Slavonic or recensional variant where the Greek Septuagint reads τῷ σκηνώματί σου ('unto thy dwelling/tent').
 
@@ -2854,7 +2854,7 @@
 
 [^1426]: LXX Psalm 118:38 (MT 119:38). Slavonic: *Поста́ви ра́боу твое́мꙋ сло́во твоє̀ въ стра́хъ тво́й* (Greek: στῆσον τῷ δούλῳ σου τὸ λόγιόν σου εἰς τὸν φόβον σου).
 
-[^1427]: LXX Psalm 118:44 (MT 119:44). Slavonic: *въ вѣ́кы и҆ въ вѣ́къ вѣ́ка* (Greek: εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶна τοῦ αἰῶνος); rendered in conformity with the Father Paul Doxology Standard.
+[^1427]: LXX Psalm 118:44 (MT 119:44). Slavonic: *въ вѣ́кы и҆ въ вѣ́къ вѣ́ка* (Greek: εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος); rendered in conformity with the Father Paul Doxology Standard.
 
 [^1428]: LXX Psalm 118:54 (MT 119:54). Slavonic: *Пѣ́та бѧ́хоу мнѣ̀ ѡ҆правда́нїа твоѧ̀, на мѣ́стѣ прише́лствїа мое́го*.
 
@@ -2868,7 +2868,7 @@
 
 [^1433]: LXX Psalm 118:83 (MT 119:83). Slavonic: *ꙗ҆́ко мѣ́хъ на сла́нѣ* (Greek: ὡσεὶ ἀσκὸς ἐν πάχνῃ, 'like a wineskin in hoarfrost/smoke'). A traditional patristic and liturgical metaphor for an ascetic or afflicted person dried and shriveled by trials.
 
-[^1434]: LXX Psalm 118:85 (MT 119:85). Slavonic: *законопрестоу́пници глоумле́нїа* (Greek: διηγήσαντό μοι παράноμοι ἀδολεσχίας, 'transgressors recounted to me disputations/idle fables').
+[^1434]: LXX Psalm 118:85 (MT 119:85). Slavonic: *законопрестоу́пници глоумле́нїа* (Greek: διηγήσαντό μοι παράνομοι ἀδολεσχίας, 'transgressors recounted to me disputations/idle fables').
 
 [^1435]: LXX Psalm 118:88 (MT 119:88). The opening hemistich *По ми́лости твое́й живи́ мѧ̀* is rubricated in cinnabar in the Striatyn imprint, emphasizing the choral plea for life before the cosmic meditation of verses 89–91.
 
@@ -2950,19 +2950,19 @@
 
 [^1474]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 3, Troparion 2 (*Наказа́въ пре́жде мнѡ́гыми чудесы̀...*). Greek: Παιδεύσας πρότερον πολλοῖς θαύμασι, καὶ σημείοις, ἐμὲ τὸν πλανηθέντα, ἐπ' ἐσχάτων ἑαυτὸν κενώσας ὡς εὔσπλαγχνος, καὶ ζητήσας εὗρες καὶ διέσωσας. Kenotic theology of Philippians 2:7 (*ἑαυτὸν ἐκένωσε*) and the Good Shepherd seeking the lost sheep (Luke 15:4–7). Acrostic letter 6: προσᾴδω / припѣва́ю.
 
-[^1475]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 3, Troparion 3 (*Текоу́щихъ непостоꙗ́нную тлю̀...*). Greek: Ῥεόντων ἄстаτον φθοράν, ἐκφυγόντα πρὸς σὲ τὸν προσελθόντα, ἐν σκηνώσεσιν αἰωνίοις οἰκεῖν ἀγαλλόμενον, ἀξίωσον Ἀγαθέ, δικαιώσας πίστει καὶ χάριτι. Paulinist doctrine of justification by faith and grace (Romans 3:24, 5:1). Acrostic letter 7: προσᾴδω / припѣва́ю.
+[^1475]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 3, Troparion 3 (*Текоу́щихъ непостоꙗ́нную тлю̀...*). Greek: Ῥεόντων ἄστατον φθοράν, ἐκφυγόντα πρὸς σὲ τὸν προσελθόντα, ἐν σκηνώσεσιν αἰωνίοις οἰκεῖν ἀγαλλόμενον, ἀξίωσον Ἀγαθέ, δικαιώσας πίστει καὶ χάριτι. Paulinist doctrine of justification by faith and grace (Romans 3:24, 5:1). Acrostic letter 7: προσᾴδω / припѣва́ю.
 
-[^1476]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 3, Theotokion (*Нѣ́сть непоро́чнаѧ ꙗ҆́коже ты...*). Greek: Οὐκ ἔστιν ἄмеμπτος ὡς σύ, πανάχραντε Θεομῆτορ· μόνη γὰρ ἐξ αἰῶνος, τὸν ἀληθινὸν Θεὸν ἔσχες ἐν γαστρί, τὸν θανάτου διαλύσαντα τὴν ἰσχύν. Acrostic letter 8: προσᾴδω / припѣва́ю.
+[^1476]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 3, Theotokion (*Нѣ́сть непоро́чнаѧ ꙗ҆́коже ты...*). Greek: Οὐκ ἔστιν ἄμεμπτος ὡς σύ, πανάχραντε Θεομῆτορ· μόνη γὰρ ἐξ αἰῶνος, τὸν ἀληθινὸν Θεὸν ἔσχες ἐν γαστρί, τὸν θανάτου διαλύσαντα τὴν ἰσχύν. Acrostic letter 8: προσᾴδω / припѣва́ю.
 
 [^1477]: The Little Litany for the Departed with its exclamation (*Ꙗ҆́ко ты̀ є҆сѝ въскр҃енїе...*), referred back to the earlier rubrical occurrence (*ꙗ҆́коже назáдѣ* / 'as before', on fol. 239r, p. 495).
 
-[^1478]: Sessional Hymn (Kathisma), Tone 6 (*Въи́стинноу соуета̀ всѧ́ческаѧ...*). Greek: Ὄντως ματαιότης τὰ σύμπαντα, ὁ δὲ βίος σκιὰ καὶ ἐνύпνιον· καὶ γὰρ μάτην ταράττεται πᾶς γηγενής, ὡς εἶπεν ἡ Γραφή· ὅτε τὸν κόσμον κερδήσωμεν, τότε τῷ τάφῳ οἰκήσωμεν, ὅπου ὁμοῦ βασιλεῖς καὶ πτωχοί. Combining LXX Psalm 38:6–7 (MT 39:5–6), Matthew 16:26, and James 4:14.
+[^1478]: Sessional Hymn (Kathisma), Tone 6 (*Въи́стинноу соуета̀ всѧ́ческаѧ...*). Greek: Ὄντως ματαιότης τὰ σύμπαντα, ὁ δὲ βίος σκιὰ καὶ ἐνύπνιον· καὶ γὰρ μάτην ταράττεται πᾶς γηγενής, ὡς εἶπεν ἡ Γραφή· ὅτε τὸν κόσμον κερδήσωμεν, τότε τῷ τάφῳ οἰκήσωμεν, ὅπου ὁμοῦ βασιλεῖς καὶ πτωχοί. Combining LXX Psalm 38:6–7 (MT 39:5–6), Matthew 16:26, and James 4:14.
 
 [^1479]: Sessional Theotokion (*Мт҃рь свѣ́та прчⷭтꙋю Бцⷣꙋ...*). Greek: Τὴν ὑπέρτιμον τοῦ Θεοῦ ἡμῶν Μητέρα / Μητέρα φωτὸς τὴν παναγνόν.
 
 [^1480]: Ode 4 Heirmos, Tone 6: *Х҃с моѧ̀ си́ла Бг҃ъ и҆ Г͠ь* (Greek: Χριστός μου δύναμις, Θεὸς καὶ Κύριος). Based on the Canticle of Habakkuk, Habakkuk 3:2–19.
 
-[^1481]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 4, Troparion 1 (*Премоу́дрости бо́лшаѧ ꙗ҆влѧ́ѧ зна́менїе...*). Greek: Σοφίας πλείονος, δεικνὺς τεκμήριον, καὶ τῆς περὶ τὰ δῶρα πολυτελοῦς, Δέσпота χρηστότητος, τοὺς τῶν Μαρτύρων χορούς, τοῖς Ἀγγέλοις συνέταξας. Acrostic letter 9: προσᾴδω / припѣва́ю.
+[^1481]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 4, Troparion 1 (*Премоу́дрости бо́лшаѧ ꙗ҆влѧ́ѧ зна́менїе...*). Greek: Σοφίας πλείονος, δεικνὺς τεκμήριον, καὶ τῆς περὶ τὰ δῶρα πολυτελοῦς, Δέσποτα χρηστότητος, τοὺς τῶν Μαρτύρων χορούς, τοῖς Ἀγγέλοις συνέταξας. Acrostic letter 9: προσᾴδω / припѣва́ю.
 
 [^1482]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 4, Troparion 2 (*Пречⷭтыѧ сла́вы твоеѧ̀ оу҆лоучи́ти сподо́би...*). Greek: Ἀχράντου δόξης σου, τυχεῖν ἀξίωσον, τὸν μεταστάντα πρὸς σέ, ὅπου Χριστὲ τῶν εὐφραινομένων ἡ κατοικία, καὶ φωνὴ καθαρᾶς ἀγαλλιάσεως. Acrostic letter 10: προσᾴδω / припѣва́ю.
 
@@ -2976,19 +2976,19 @@
 
 [^1487]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 5, Troparion 2 (*Нб҃наго житїа̀, и҆ раздаа́нїа да́рѡвъ...*). Greek: Οὐρανίου διαγωγῆς, καὶ διανομῆς τῶν χαρισμάτων, ἀξίωσον Κύριε, τὸν προκοιμηθέντα πιστὸν δοῦλόν σου, παρέχων ὀφλημάτων τὴν ἀπολύτρωσιν. Acrostic letter 14: τοῖς / ѡ҆ше́дшимъ.
 
-[^1488]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 5, Troparion 3 (*И҆́же є҆ди́ныи є҆ст̀вомъ животво́рецъ...*). Greek: Ὁ μόνος φύσει ζωοποιός, τῆς ἀγαθότητος ὄντως ἀνεξιχνίαστον πέлаγος, τὸν τελευτήσαντα, τῆς βασιλείας σου ἀξίωσον Οἰκτίρμον, μόνε Ἀθάνατε. Acrostic letter 15: τοῖς / ѡ҆ше́дшимъ.
+[^1488]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 5, Troparion 3 (*И҆́же є҆ди́ныи є҆ст̀вомъ животво́рецъ...*). Greek: Ὁ μόνος φύσει ζωοποιός, τῆς ἀγαθότητος ὄντως ἀνεξιχνίαστον πέλαγος, τὸν τελευτήσαντα, τῆς βασιλείας σου ἀξίωσον Οἰκτίρμον, μόνε Ἀθάνατε. Acrostic letter 15: τοῖς / ѡ҆ше́дшимъ.
 
 [^1489]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 5, Theotokion (*Крѣ́пость и҆ пѣ́нїе и҆з̾ те́бе вл҃чце...*). Greek: Ἰσχὺς καὶ ὕμνησις ἡμῶν, ἐκ σοῦ Δέσποινα τῷ κόσμῳ γεννηθείς, καὶ σωτηρία ἐγένετο τοῖς ἀπολλυμένοις, τῶν ᾅδου πυλῶν ῥυόμενος τοὺς πίστει μακαρίζοντάς σε. Reference to LXX Psalm 117:14 and Exodus 15:2.
 
 [^1490]: Ode 6 Heirmos, Tone 6: *Жите́йскаго мо́рѧ воздвиза́емое зрѧ̀ напа́стей бу́рею* (Greek: Τοῦ βίου τὴν θάλασσαν, ὑψουμένην καθορῶν). Based on the Canticle of Jonah, Jonah 2:1–10.
 
-[^1491]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 6, Troparion 1 (*На крⷭтѣ̀ пригвожда́емь...*). Greek: Σταυρῷ προσηλούμενος, τοὺς τῶν Μαρτύρων δήμους πρὸς σὲ συνήγαγες, μιμουμένους τὸ πάθος σου, Ἀγαθέ· διὸ δυσωпоῦμέν σε, τὸν μεταστάντα πρὸς σὲ νῦν ἀνάπαυσον. Acrostic letter 16: θανοῦσι / ѡ҆ше́дшимъ.
+[^1491]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 6, Troparion 1 (*На крⷭтѣ̀ пригвожда́емь...*). Greek: Σταυρῷ προσηλούμενος, τοὺς τῶν Μαρτύρων δήμους πρὸς σὲ συνήγαγες, μιμουμένους τὸ πάθος σου, Ἀγαθέ· διὸ δυσωποῦμέν σε, τὸν μεταστάντα πρὸς σὲ νῦν ἀνάπαυσον. Acrostic letter 16: θανοῦσι / ѡ҆ше́дшимъ.
 
 [^1492]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 6, Troparion 2 (*Неизрече́нною сла́вою свое́ю...*). Greek: Ἀρρήτῳ τῇ δόξῃ σου, ὅταν ἔλθῃς φοβερὸς κρῖναι τὸν κόσμον ἅπαντα, ἐν νεφέλαις εὐδόκησον, Λυτρωτά, φαιδρῶς ὑπαντῆσαί σοι, ὃν προσελάβου ἐκ γῆς πιστὸν δοῦλόν σου. Reference to 1 Thessalonians 4:17. Acrostic letter 17: θανοῦσι / ѡ҆ше́дшимъ.
 
 [^1493]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 6, Troparion 3 (*Исто́чникъ жи́зни сы́й...*). Greek: Πηγὴ ζωῆς ὑπάρχων / Νεκρῶν τε καὶ ζώντων... Acrostic letter 18: θανοῦσι / ѡ҆ше́дшимъ.
 
-[^1494]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 6, Theotokion (*Въ зе́млю възврати́хомсѧ...*). Greek: Οἱ εἰς γῆν ὑпоστρέψαντες, παραβάντες Θεοῦ τὴν θείαν ἐντολήν, διὰ σοῦ Παρθένε εἰς οὐρανόν, ἐκ γῆς ἀνυψώθημεν, φθορὰν τοῦ θανάτου ἀποσεισάμενοι. Typological contrast with the curse of Genesis 3:19. Acrostic letter 19: θανοῦσι / ѡ҆ше́дшимъ.
+[^1494]: St. Theophanes the Branded, Funeral Canon, Tone 6, Ode 6, Theotokion (*Въ зе́млю възврати́хомсѧ...*). Greek: Οἱ εἰς γῆν ὑποστρέψαντες, παραβάντες Θεοῦ τὴν θείαν ἐντολήν, διὰ σοῦ Παρθένε εἰς οὐρανόν, ἐκ γῆς ἀνυψώθημεν, φθορὰν τοῦ θανάτου ἀποσεισάμενοι. Typological contrast with the curse of Genesis 3:19. Acrostic letter 19: θανοῦσι / ѡ҆ше́дшимъ.
 
 [^1495]: The Little Litany for the Departed with the exclamation (*Ꙗ҆́ко ты̀ є҆сѝ въскр҃енїе...*), introducing the Kontakion and Ikos.
 
@@ -3078,7 +3078,7 @@
 
 [^1538]: Lection from the First Epistle of Paul to the Thessalonians (1 Thess. 4:13–17), the statutory Epistle lection for the burial of a layman.
 
-[^1539]: 1 Thess. 4:15–17. Slavonic: *не и҆ма́мы превари́ти оу҆со́пшихъ* (Greek: οὐ μὴ φθάσωмен τοὺς κοιμηθέντας, "shall not precede them that are asleep").
+[^1539]: 1 Thess. 4:15–17. Slavonic: *не и҆ма́мы превари́ти оу҆со́пшихъ* (Greek: οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας, "shall not precede them that are asleep").
 
 [^1540]: Ps. 64:5 [LXX 64:4].
 
@@ -3100,7 +3100,7 @@
 
 [^1549]: The Last Kiss (*Послѣ́днее цѣлова́нїе* / ἀσπασμός), the solemn liturgical farewell offered by clergy, relatives, and faithful to the deceased before the grave is closed.
 
-[^1550]: Melodic model: Tone 2, *Podoben: "When from the Tree"* (*Е҆гда̀ ѿ дрѣ́ва тѧ̀* / Ὅте ἐκ τοῦ ξύλου).
+[^1550]: Melodic model: Tone 2, *Podoben: "When from the Tree"* (*Е҆гда̀ ѿ дрѣ́ва тѧ̀* / Ὅτε ἐκ τοῦ ξύλου).
 
 [^1551]: Opening Sticheron of the Last Kiss (*Прїидѣ́те послѣ́днее цѣлова́нїе...*).
 
@@ -3126,7 +3126,7 @@
 
 [^1562]: Theotokion concluding the Idiomela of the Last Kiss (*Сп҃сѝ оу҆пова́ющихъ на́ тѧ, Мт҃и незаходи́маго слн҃ца...*).
 
-[^1563]: Melodic model: Tone 6, Idiomelon (Samoglásen). The celebrated funeral Doxastikon attributed to St. John of Damascus (*Зрѧ́ще мѧ̀ безгла́сна и҆ бездꙋ́шна прележа́ща...* / Ὁρῶντές με ἄφωνον καὶ ἄпνουν προκείμενον), sung at "Glory..." as the personal testament and farewell supplication of the reposed person.
+[^1563]: Melodic model: Tone 6, Idiomelon (Samoglásen). The celebrated funeral Doxastikon attributed to St. John of Damascus (*Зрѧ́ще мѧ̀ безгла́сна и҆ бездꙋ́шна прележа́ща...* / Ὁρῶντές με ἄφωνον καὶ ἄπνουν προκείμενον), sung at "Glory..." as the personal testament and farewell supplication of the reposed person.
 
 [^1564]: Concluding strophe of the Tone 6 Doxastikon (*но̀ прїидѣ́те всѝ любѧ́щїи мѧ̀...*), articulating the equality of master and servant before the divine tribunal; cf. Col. 3:25; Eph. 6:9.
 
@@ -3360,7 +3360,7 @@
 
 [^1679]: Physical leaf p592 (fol. 287v). The ritual chanting of "Memory Eternal" (*Вѣчная память / Mnēmosynon aionion*) concludes the memorial order for deceased brethren.
 
-[^1680]: Physical leaf p593 (fol. 288r). *Чи́нъ быва́емый на ѡдѣꙗ́нїи ра́сы* (Gk. *Ἀκολουθία εἰς ῥασоφοροῦντα*). This order constitutes the novice's or candidate's tonsure and clothing into the inner rassa (cassock) and kamilavka, known as the ryasophore rank (*расофор*), prior to the Little Schema.
+[^1680]: Physical leaf p593 (fol. 288r). *Чи́нъ быва́емый на ѡдѣꙗ́нїи ра́сы* (Gk. *Ἀκολουθία εἰς ῥασοφοροῦντα*). This order constitutes the novice's or candidate's tonsure and clothing into the inner rassa (cassock) and kamilavka, known as the ryasophore rank (*расофор*), prior to the Little Schema.
 
 [^1681]: Physical leaf p594 (fol. 288v). LXX Psalm 26:1–4 (MT Ps 27). Monastic investiture psalm expressing reliance upon the Lord in spiritual warfare and the aspiration to dwell in His temple.
 
@@ -3374,7 +3374,7 @@
 
 [^1686]: Physical leaf p597 (fol. 290r). Slavonic witness: *въ смире́нїи оу́строи живо́тъ на́шъ* ("in humility direct/order our life"), where standard modern recensions read *въ ми́рѣ упра́ви*.
 
-[^1687]: Physical leaf p597 (fol. 290r). Theotokion, Tone 4 (*Къ Богородицѣ прилѣжно нынѣ притецемъ* / *Τῇ Θεοτόκῳ ἐκтеνῶς νῦν προσδράμωμεν*).
+[^1687]: Physical leaf p597 (fol. 290r). Theotokion, Tone 4 (*Къ Богородицѣ прилѣжно нынѣ притецемъ* / *Τῇ Θεοτόκῳ ἐκτενῶς νῦν προσδράμωμεν*).
 
 [^1688]: Physical leaf p597 (fol. 290r). The rubric designates the monastery superior (*игоуменъ*) to read the prayer over the candidate.
 
@@ -3490,13 +3490,13 @@
 
 [^1744]: Physical leaf p629 (fol. 306r). Dominical logion from Matthew 5:16 spoken at the delivery of the lighted wax candle unto the newly tonsured monk, signifying the light of good works and evangelical witness.
 
-[^1745]: Physical leaf p629 (fol. 306r). The classical tonsure idiomelon (*Да познаимъ братие тайны силу* / Gk. Ἐπιγνῶμεν, ἀδελфоί, τοῦ μυστηρίου τὴν δύναμιν), based upon Christ's parable of the Prodigal Son (Luke 15:11–32). The brethren bestow the fraternal kiss of peace upon the new monk while this hymn is chanted.
+[^1745]: Physical leaf p629 (fol. 306r). The classical tonsure idiomelon (*Да познаимъ братие тайны силу* / Gk. Ἐπιγνῶμεν, ἀδελφοί, τοῦ μυστηρίου τὴν δύναμιν), based upon Christ's parable of the Prodigal Son (Luke 15:11–32). The brethren bestow the fraternal kiss of peace upon the new monk while this hymn is chanted.
 
 [^1746]: Physical leaf p630 (fol. 306v). Allusion to Luke 15:23–24 and 1 Corinthians 5:7: the slain fatted calf of the parable is mystically interpreted as Christ Himself, the sacrificed Victim whose death brings joy to the heavenly hosts and salvation unto penitents.
 
 [^1747]: Physical leaf p630 (fol. 306v). The concluding rubric prescribing that the newly tonsured monk remain in the church for five full days in continuous ascetical contemplation, prayer, and reading of the Scriptures, sequestered from all worldly and manual labors.
 
-[^1748]: In the 1606 Striatyn Trebnyk (fol. 306r), this begins the Order of the Great Angelic Habit (Μεγαлоσχημοσύνη / Великий ангельский образ), the highest degree of monastic asceticism and tonsure.
+[^1748]: In the 1606 Striatyn Trebnyk (fol. 306r), this begins the Order of the Great Angelic Habit (Μεγαλοσχημοσύνη / Великий ангельский образ), the highest degree of monastic asceticism and tonsure.
 
 [^1749]: Church Slavonic: "въ ст҃ы́й же́ртвенникъ" (into the holy sanctuary / altar area; Greek: εἰς τὸ ἅγιον θυσιαστήριον), inside of which stands the Holy Table (трапе́за / ἁγία τράπεζα).
 
@@ -3686,7 +3686,7 @@
 
 [^1842]: The final question of the catechetical examination before the tonsure of the Great and Angelic Schema, concluding the solemn vows.
 
-[^1843]: Isaiah 49:15 (LXX: *Can a woman forget her sucking child... yet will I not forget thee, saith the Lord*).
+[^1843]: Isaiah 49:15 (LXX: *Can a woman forget her sucking child... yet will I not forget thee, says the Lord*).
 
 [^1844]: The first solemn prayer of the Great Schema (*Vseshchedryi ubo Bog i mnogomilostivyi*), invoking the shelter and strengthening of the Lord over the newly tonsured schema-monk.
 
@@ -3726,7 +3726,7 @@
 
 [^1862]: Slav. въ съкрыше́нїствѣ (vъ sъkryšenistvě), an archaic recensional variant formed on the root съкруша́ти / сокруше́нїе (contrition, brokenness of heart; cf. Ps. 50:19 LXX: се́рдце сокруше́нно и смире́нно).
 
-[^1863]: Slav. въ хꙋдо́житвѣ (vъ xudožitvě), an Early Modern Ruthenian variant of художество, designating spiritual craftsmanship, ascetical mastery, or disciplined monastic praxis (Gk. τέхνη τῶν τεχνῶν, "art of arts").
+[^1863]: Slav. въ хꙋдо́житвѣ (vъ xudožitvě), an Early Modern Ruthenian variant of художество, designating spiritual craftsmanship, ascetical mastery, or disciplined monastic praxis (Gk. τέχνη τῶν τεχνῶν, "art of arts").
 
 [^1864]: The printed witness abbreviates съ пр҃ты (sъ pr[ěsvę]ty[mъ]) with a titlo, denoting the All-Holy (Пресвяты́й) Spirit, co-equal with the Father and the Son.
 
@@ -3778,7 +3778,7 @@
 
 [^1888]: Leaf 680 concludes with the incomplete word на- (na-), which is completed on leaf 681 as намѣре́нїе (naměrenie; "intent" or "purpose") of the monastic habit.
 
-[^1889]: Slav. пристрѣ́тїѧ (pristrětija), an epigraphic recensional variant or typographical defect for пристра́стїѧ (pristrastija; Gk. προσпаθείας), denoting worldly affection or passionate attachment to kinsfolk according to the flesh.
+[^1889]: Slav. пристрѣ́тїѧ (pristrětija), an epigraphic recensional variant or typographical defect for пристра́стїѧ (pristrastija; Gk. προσπαθείας), denoting worldly affection or passionate attachment to kinsfolk according to the flesh.
 
 [^1890]: Slav. вы́шше мирскыхъ мꙋдрова́нїи (vyšše mirskyxъ mudrovanij; Gk. ἀνώτερον τῶν κοσμικῶν φρονημάτων), referring to transcending earthly, carnal calculations and mindsets.
 
@@ -3844,7 +3844,7 @@
 
 [^1921]: The ablution of the monastic body is strictly symbolic and modest, restricted to tracing the sign of the cross on the forehead, breast, hands, feet, and knees, precluding general bathing or exposing the deceased naked.
 
-[^1922]: Slav. скръ́бнꙋю ѻ҆де́ждꙋ (skrъbnuju odeždu; Gk. τὸ πενθικὸν ἔνδυма), the penitential, soiled clothing worn during daily ascetical labor, exchanged for clean vestments at burial.
+[^1922]: Slav. скръ́бнꙋю ѻ҆де́ждꙋ (skrъbnuju odeždu; Gk. τὸ πενθικὸν ἔνδυμα), the penitential, soiled clothing worn during daily ascetical labor, exchanged for clean vestments at burial.
 
 [^1923]: For a deceased monk of the Great Schema (великий образ), the cowl is drawn down over the forehead to the beard, veiling the face so that the mortal remains are concealed from view.
 
@@ -3954,7 +3954,7 @@
 
 [^1976]: Leaf p702. Doxasticon to the Holy Spirit concluding the Anabathmoi strophes of Tone 3, citing Acts 17:28 ("For in Him we live, and move, and have our being").
 
-[^1977]: Leaf p702. *Stichera, Tone 3, Podoben: "To the form of the Cross"* (Ст҃ры Гла́ г҃ · по́ · Ѻ҆́бразоу кр҃та). The Greek automelon model is Τῷ τύπῳ τοῦ σταυροῦ (or Σταυροфанῶς), invoking the triumphant sign of the Cross as the tree of life.
+[^1977]: Leaf p702. *Stichera, Tone 3, Podoben: "To the form of the Cross"* (Ст҃ры Гла́ г҃ · по́ · Ѻ҆́бразоу кр҃та). The Greek automelon model is Τῷ τύπῳ τοῦ σταυροῦ (or Σταυροφανῶς), invoking the triumphant sign of the Cross as the tree of life.
 
 [^1978]: Leaf p703 (fol. 346 / тм҃ѕ). First Tone 3 sticheron on the Cross, featuring the recurring liturgical refrain for monastic burial: "where all who rejoice have their dwelling with Thee, to glorify Thy Divinity" (cf. LXX Ps. 86:7: "As of them that rejoice is the dwelling of all in Thee").
 
@@ -4048,7 +4048,7 @@
 
 [^2023]: Physical leaf p720 (`Page_0720.jpg`, fol. 345v). Concluding Theotokion of the Tone 8 Stichera. The phrase "sweet voice of those who feast" (`сла́дкїй гла́съ пра́здноующихъ`) echoes LXX Ps. 41:5 (φωνὴ ἑορτάζοντος). This marks the completion of the 8-Tone cycle of Gradual Antiphons and Stichera in the Funeral Service for Priests, directly preceding the deacon's litany on leaf 721 (Cohort 73).
 
-[^2024]: Physical leaf p721 (`Page_0721.jpg`, fol. 325r, signature ж ж). Following the 8-tone cycle of the funeral office for monastics, the deacon intones the Little Litany (`па́ки и҆ па́ки`), followed by the priest's ecphonesis and the Kontakion in Tone 8 (`С̾ ст҃ыми поко́и Хрⷭ҇ѐ` / Greek: Μετὰ τῶν ἁγίων ἀνάпаυσον, Χριστέ). The rubric `ко҃` abbreviates `кондакъ`.
+[^2024]: Physical leaf p721 (`Page_0721.jpg`, fol. 325r, signature ж ж). Following the 8-tone cycle of the funeral office for monastics, the deacon intones the Little Litany (`па́ки и҆ па́ки`), followed by the priest's ecphonesis and the Kontakion in Tone 8 (`С̾ ст҃ыми поко́и Хрⷭ҇ѐ` / Greek: Μετὰ τῶν ἁγίων ἀνάπαυσον, Χριστέ). The rubric `ко҃` abbreviates `кондакъ`.
 
 [^2025]: Physical leaf p721 (`Page_0721.jpg`, fol. 325r). The funeral Ikos `Ты̀ є҆ди́нъ є҆си без̾сме́ртне` (Greek: Αὐτὸς μόνος εἶ ἀθάνατος) quotes Gen. 3:19 ("for dust thou art, and unto dust shalt thou return"). The phrase "graveside weeping" (`на́дгробное рыда́нїе`) reflects the Greek ἐπιτάφιον θρῆνον.
 
@@ -4068,7 +4068,7 @@
 
 [^2033]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Theotokion at the Beatitudes for *Both now...*, confessing the virginal conception of Christ without human seed (`без̾сѣ́мене бо роди́ла є҆си пло́тїю Бг҃а`).
 
-[^2034]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Prokeimenon of the monastic funeral office in Tone 6: `Блаже́нъ поу́ть въ́ньже по́идеши бра́те дне́сь, ꙗ҆́ко оу҆гото́ва́ ти сѧ мѣ́сто поко́ино` (Greek: Μακαρία ἡ ὁδός, ᾗ πορεύῃ σήμερον, ἀδελφέ, ὅτι ἡτοιμάσθη σοι τόπος ἀναпаύσεως).
+[^2034]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Prokeimenon of the monastic funeral office in Tone 6: `Блаже́нъ поу́ть въ́ньже по́идеши бра́те дне́сь, ꙗ҆́ко оу҆гото́ва́ ти сѧ мѣ́сто поко́ино` (Greek: Μακαρία ἡ ὁδός, ᾗ πορεύῃ σήμερον, ἀδελφέ, ὅτι ἡτοιμάσθη σοι τόπος ἀναπαύσεως).
 
 [^2035]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Verse of the Prokeimenon, quoting LXX Ps. 114:7 (`Ѡ҆брати́сѧ, дш҃е моѧ̀, въ поко́й тво́й, ꙗ҆́ко Гдⷭ҇ь бл҃госотворѝ тебѣ̀` / Greek: Ἐπίστρεψον, ψυχή μου, εἰς τὴν ἀνάπαυσίν σου, ὅτι Κύριος εὐηργέτησέ σε).
 
@@ -4236,7 +4236,7 @@
 
 [^2117]: John 5:3–4 (pericope 14), concluding the Gospel reading for the Lesser Sanctification of Water begun on leaf p750. The pericope details the healing pool of Bethesda (*Виѳезда*) by the Sheep Gate in Jerusalem, where an angel of the Lord troubled the water at certain seasons, healing the first sufferer to step in.
 
-[^2118]: Rubric introducing the Deacon's Great Litany (*И абие начинаетъ дїаконъства:* / *And straightway he begins the litany:*). In Ruthenian liturgical practice, *дїаконъство* denotes the deacon's litanic petitions (Greek: τὰ διακонικά).
+[^2118]: Rubric introducing the Deacon's Great Litany (*И абие начинаетъ дїаконъства:* / *And straightway he begins the litany:*). In Ruthenian liturgical practice, *дїаконъство* denotes the deacon's litanic petitions (Greek: τὰ διακονικά).
 
 [^2119]: The opening petitions of the Great Litany (peace synapte / *мирная ектения*). On this and the following leaves, the 1606 imprint provides a mix of full text and abbreviated incipits for the standard petitions, while printing the special petitions for the sanctification of water in unabridged detail.
 
@@ -4476,7 +4476,7 @@
 
 [^2237]: Slavonic: 'Ѡ҆ а҆рхїепⷭ҇пѣ на́шемъ и҆́мⷬ҇къ , ѡ҆ чⷭ҇тнѣ́мъ преꙁвѵ́терствѣ є҆́же ѡ҆ Хс҃ѣ слоу́жбы . и҆ ѡ҆ въсе́мъ при́чтѣ...' The phrase 'є҆́же ѡ҆ Хс҃ѣ слоу́жбы' literally translates the Greek τῆς ἐν Χριστῷ διακονίας (the diaconate in Christ).
 
-[^2238]: Slavonic: 'ѡ҆ всѐй пола́тѣ и҆ вẃехъ и҆́хъ' (for all their court/palace and armed forces). In the Polish-Lithuanian Commonwealth context, 'пола́та' renders the royal court and council.
+[^2238]: Slavonic: 'ѡ҆ всѐй пола́тѣ и҆ вѡ́ехъ и҆́хъ' (for all their court/palace and armed forces). In the Polish-Lithuanian Commonwealth context, 'пола́та' renders the royal court and council.
 
 [^2239]: Folio 386 recto (numbered т҃пѕ҃). Quire mark 'іі в҃'. Running title in cinnabar: 'Бг҃оꙗвле́нїа'.
 
@@ -4502,7 +4502,7 @@
 
 [^2250]: Concluding petition of the secret prayer recited by the priest while the deacon intones the Great Ectene over the waters. The Slavonic instrumental pronoun `се́ю` refers to the water (`водо́ю`): "through this water mayest Thou grant Thy blessing unto us."
 
-[^2251]: Hieratic doxology concluding the secret prayer. In strict conformity with the Father Paul Doxology Standard, `въ вѣ́кы вѣкẃмъ` is rendered "unto ages of ages" (Greek: εἰς τοὺς αἰῶνας τῶν αἰώνων).
+[^2251]: Hieratic doxology concluding the secret prayer. In strict conformity with the Father Paul Doxology Standard, `въ вѣ́кы вѣкѡ́мъ` is rendered "unto ages of ages" (Greek: εἰς τοὺς αἰῶνας τῶν αἰώνων).
 
 [^2252]: Rubric directing that the celebrant concludes this secret prayer silently without an audible exclamation (`возгласъ`), uttering only `Amen` within himself (`въ себѣ̀ рече́тъ а҆ми́нь`), after which, upon the conclusion of the deacon's litany, he commences aloud the great prayer of St. Sophronius of Jerusalem (`Тро́йце пресꙋ́ществе́ннаѧ...`).
 
@@ -4520,7 +4520,7 @@
 
 [^2259]: Greek: Σήμερον οἱ φωτοειδεῖς ἀστέρες τῇ φαιδρότητι τῆς λάμψεως τὴν οἰκουμένην ὡραΐζουσι ("Today the light-bearing stars adorn the universe with the brightness of their splendor").
 
-[^2260]: Greek: σήμερον τὰ ὕδατα τοῦ Ἰορδάνου ὑποδέχεται τὸν Δεσπότην. The Slavonic renders this vividly: `дне́сь съста́вы вẃдныѧ плещи́ма пое́млют стẃпы влⷣчна` ("Today the watery elements receive upon their shoulders the Master's footsteps"). The crushing of the serpent in the waters reflects LXX Psalm 73:13 [MT 74:13].
+[^2260]: Greek: σήμερον τὰ ὕδατα τοῦ Ἰορδάνου ὑποδέχεται τὸν Δεσπότην. The Slavonic renders this vividly: `дне́сь съста́вы вѡ́дныѧ плещи́ма пое́млют стѡ́пы влⷣчна` ("Today the watery elements receive upon their shoulders the Master's footsteps"). The crushing of the serpent in the waters reflects LXX Psalm 73:13 [MT 74:13].
 
 [^2261]: Continues the anaphora begun on the preceding leaf (`Page_0796.jpg`: `дне́сь`).
 
@@ -4834,7 +4834,7 @@
 
 [^2416]: Ps. 6:1 (LXX); Ps. 37:1 (LXX).
 
-[^2417]: Ps. 144:15 (LXX); Isa. 26:13 (LXX): "O Lord our God... other lords beside thee have had dominion over us: but by thee only will we make mention of thy name."
+[^2417]: Ps. 144:15 (LXX); Isa. 26:13 (LXX): "O Lord our God... other lords beside Thee have had dominion over us: but by Thee only will we make mention of Thy name."
 
 [^2418]: Slavonic: *того́жде кѵ́ръ ѳилоѳе́а, мл҃тва а҃ въ вре́мѧ троу́са* ("By the same Lord Philotheos, prayer 1 in time of earthquake"). Written by Patriarch Philotheos Kokkinos of Constantinople (in office 1353–1354, 1364–1376), author of foundational liturgical diataxeis and prayers for civil distress.
 
@@ -4900,7 +4900,7 @@
 
 [^2449]: Greek parallel in Philotheos: τὸ ἐπικείμενον τῆς ἀθυμίας νέφος ("the impending cloud of despondency/faintheartedness").
 
-[^2450]: Standard Byzantine euchological litany clause: λιμοῦ, λοιμοῦ, σεισμοῦ, καταποντισμοῦ, πυρός, μαχαίρας, ἐπιδроμῆς ἀλлофύλων, καὶ ἐμφυλίου πολέμου ("from famine, pestilence, earthquake, flood, fire, sword, the incursion of foreign nations, and civil war").
+[^2450]: Standard Byzantine euchological litany clause: λιμοῦ, λοιμοῦ, σεισμοῦ, καταποντισμοῦ, πυρός, μαχαίρας, ἐπιδρομῆς ἀλλοφύλων, καὶ ἐμφυλίου πολέμου ("from famine, pestilence, earthquake, flood, fire, sword, the incursion of foreign nations, and civil war").
 
 [^2451]: Slavonic: *ПСЛѢДОВАНЇЕ БЫВА́ЕМО ВЪ ВРЕ́МЯ БЕЗЪДО́ЖДЇА* (Greek: Ἀκολουθία εἰς ἀνομβρίαν / Τάξις γινομένη ἐν καιρῷ ἀνομβρίας, "Order / Office performed in time of drought").
 
@@ -5234,7 +5234,7 @@
 
 [^2616]: Scriptural quotation in the Third Kneeling Prayer for Rain (begun on fol. 446r / physical page 907 and continuing on fol. 446v / physical page 908): Luke 12:32 (*Fear not, little flock; for it is your Father's good pleasure to give you the kingdom* / не бо́йсѧ ма́лое моѐ ста́до, ꙗ҆́ко и҆ꙁво́ли ѿц͠ъ ва́шь нб͠ны[й] да́ти ва́мъ цр͠твїе).
 
-[^2617]: Penitential supplication of the Third Kneeling Prayer for Rain (fol. 446v / physical page 908), invoking Colossians 2:14: imploring Christ to blot out the handwriting of our stumbling blocks and sins (*загла́ди рꙋкописа́нїе събла́ꙁнъ на́шихъ* / τὸ καθ' ἡμῶν χειρόγραφон).
+[^2617]: Penitential supplication of the Third Kneeling Prayer for Rain (fol. 446v / physical page 908), invoking Colossians 2:14: imploring Christ to blot out the handwriting of our stumbling blocks and sins (*загла́ди рꙋкописа́нїе събла́ꙁнъ на́шихъ* / τὸ καθ' ἡμῶν χειρόγραφον).
 
 [^2618]: Continuation of the Third Kneeling Prayer for Rain (begun on fol. 446v / physical page 908 and continuing on fol. 447r / physical page 909), confessing human frailty in the words of Abraham (Gen. 18:27) and Job (Job 42:6): *for we are dust and ashes before Thee, O Lord* (ꙗ҆́ко пръ́сть и҆ пра́хъ є҆смы̀ пр͠ед̾ тобо́ю Г͠и).
 
@@ -5270,7 +5270,7 @@
 
 [^2634]: Slavonic: да̀ не ѿпа́доутъ ѿ вѣ́ры, нетве́рди бо соу́тъ вѣ́рою—a pastoral recognition of human frailty under extreme calamity and prolonged famine.
 
-[^2635]: Cf. Hos. 6:1 (LXX: ὅτι αὐτὸς ἥρπακεν καὶ ἰάσεται ἡμᾶς, паτάξει καὶ μοσχεύσει ἡμᾶς); Is. 5:24. The Ruthenian form стевлїе represents Church Slavonic сте́блїе (stubble/stalks).
+[^2635]: Cf. Hos. 6:1 (LXX: ὅτι αὐτὸς ἥρπακεν καὶ ἰάσεται ἡμᾶς, πατάξει καὶ μοσχεύσει ἡμᾶς); Is. 5:24. The Ruthenian form стевлїе represents Church Slavonic сте́блїе (stubble/stalks).
 
 [^2636]: Liturgical doxological formula concluding the Third Prayer in Time of Drought.
 
@@ -5302,7 +5302,7 @@
 
 [^2650]: Sixth special petition, asking for an angel of peace to enlighten the mind of the faithful.
 
-[^2651]: Physical Leaf p921 (Folio ун҃ѓ [453]r). Slavonic: Ѡ҆ раздрѣше́нїи всѧ́коѧ ꙗ҆́зѧ неприа́зненыѧ прⷭ҇ты дх҃о, Гд҃у помоли́сѧ. The petition invokes the Holy Spirit for release from every demonic assault or wound (ꙗ҆́зва неприа́зненна, Greek: διαλύсеως πάσης πληγῆς τῆς ἐναντίας / τοῦ διαβόλου). The titlo abbreviation прⷭ҇ты дх҃о abbreviates прест҃ы́мъ дх҃омъ.
+[^2651]: Physical Leaf p921 (Folio ун҃ѓ [453]r). Slavonic: Ѡ҆ раздрѣше́нїи всѧ́коѧ ꙗ҆́зѧ неприа́зненыѧ прⷭ҇ты дх҃о, Гд҃у помоли́сѧ. The petition invokes the Holy Spirit for release from every demonic assault or wound (ꙗ҆́зва неприа́зненна, Greek: διαλύσεως πάσης πληγῆς τῆς ἐναντίας / τοῦ διαβόλου). The titlo abbreviation прⷭ҇ты дх҃о abbreviates прест҃ы́мъ дх҃омъ.
 
 [^2652]: Physical Leaf p921 (Folio ун҃ѓ [453]r). Slavonic: Ѡ҆ сп҃се́нїи на́шемъ съвы́ше, колѣ́нѣ преклѡ́ньше вѣ́рою срⷣчнѣи и҆ теле́снѣи въ дн҃ь се́и пѧ́десѧ́тный, Гд҃у помли́. This petition explicitly links bodily prostration and inward spiritual faith on the Day of Pentecost, marking the solemn return to kneeling after the Paschal prohibition mandated by the First Ecumenical Council (Nicaea I, Canon 20).
 
@@ -5650,7 +5650,7 @@
 
 [^2824]: Rubric on fol. 479r (physical page 973): Indicating the beginning of the Supplicatory Canon to the Most Holy Theotokos (*кано́нъ молбѣ̀ пр҃тѣ́й Бц҃и*), Tone 8, Ode 1.
 
-[^2825]: Heirmos of Ode 1, Tone 8, on fol. 479r (physical page 973): *Во́дꙋ прошѐдъ ꙗ҆́ко по сꙋ́хꙋ, и҆з̾ є҆гѵ́пе[тскаго зла бѣжав]* (*Ὑγρὰν διοδεύσας ὡсеὶ ξηράν*). Printed by incipit only, in strict conformity with Ruthenian liturgical typography.
+[^2825]: Heirmos of Ode 1, Tone 8, on fol. 479r (physical page 973): *Во́дꙋ прошѐдъ ꙗ҆́ко по сꙋ́хꙋ, и҆з̾ є҆гѵ́пе[тскаго зла бѣжав]* (*Ὑγρὰν διοδεύσας ὡσεὶ ξηράν*). Printed by incipit only, in strict conformity with Ruthenian liturgical typography.
 
 [^2826]: Troparion 1 of Ode 1, Tone 8 (*Многими содержимь напастьми* / *Πολλοῖς συνεχόμενος πειρασμοῖς*), on fol. 479r (physical page 973).
 
@@ -5670,9 +5670,9 @@
 
 [^2834]: Troparion 2 of Ode 3, Tone 8 (*Молюся, Дѣво, душевное смущеніе* / *Ἱκετεύω, Παρθένε, τὸν ψυχικὸν τάραχον*), on fol. 480r (physical page 975).
 
-[^2835]: Troparion 3 of Ode 3, Tone 8 (*Благодѣтеля рождши добрыхъ виновнаго* / *Εὐεργέτην τεκοῦσα τὸν τῶν καλῶν αἴтиον*), on fol. 480r (physical page 975), preceded by the cue for *Glory*.
+[^2835]: Troparion 3 of Ode 3, Tone 8 (*Благодѣтеля рождши добрыхъ виновнаго* / *Εὐεργέτην τεκοῦσα τὸν τῶν καλῶν αἴτιον*), on fol. 480r (physical page 975), preceded by the cue for *Glory*.
 
-[^2836]: Troparion 4 (Theotokion) of Ode 3, Tone 8, on fol. 480r (physical page 975): *Лютыми недуги и болѣзньными страстьми* (*Χαλεпаῖς ἀррωστίαις καὶ νοσεροῖς πάθεσιν*), preceded by the cue for *Both now*.
+[^2836]: Troparion 4 (Theotokion) of Ode 3, Tone 8, on fol. 480r (physical page 975): *Лютыми недуги и болѣзньными страстьми* (*Χαλεπαῖς ἀρρωστίαις καὶ νοσεροῖς πάθεσιν*), preceded by the cue for *Both now*.
 
 [^2837]: Katavasia cue after Ode 3 on fol. 480r (physical page 975): *Спаси отъ бѣдъ рабы своя, Богородице*.
 
@@ -5990,7 +5990,7 @@
 
 [^2994]: Linguistic and codicological witness: fol. 500r (Gathering 54, sheet 3: `чч г҃`, misnumbered `ф҃з` = 507). Line 2 preserves the distinct Old Ruthenian / Church Slavonic verb form `ѡ҆цѣстѝ ѿ него̀ вьсѧ́ко безако́нїе` ("cleanse from him all lawlessness") from the root *cist-* (attesting to second palatalization morphology *цѣстити* / *ѡ҆цѣсти́ти* alongside standard *ѡ҆чи́стити*), translating Psalm 50:1 [LXX] (*ἐξάλειψον τὸ ἀνόμημά μου*). Following the priestly exclamation (`въꙁгла́съ`), the title of the second healing office appears in red cinnabar: *Second Prayer, for the Same* (`Мл҃тва в҃ , томоу́же`). The prayer opens with an illuminated initial `[В]` (`[В]лко Вседръжителю вра́чю дꙋша́м и҆ тѣ́лѡмъ` / *Master Almighty, Physician of souls and bodies*), invoking 1 Kings [1 Sam.] 2:6–7 and Job 5:18 (`смирѧ́ѧ и҆ възносѧ̀ • пока́зоуѧ и҆ па́ки и҆сцѣлѧ́ѧ` / *ὁ ταπεινῶν καὶ ἀνυψῶν, ὁ παιδεύων καὶ πάλιν ἰώμενος*).
 
-[^2995]: Pneumatological and Christological restoration: fol. 500v. The prayer implores God to stretch forth His invisible healing arm (Ps. 135:12 [LXX]), raise the sick from the bed of infirmity, rebuke the spirit of disease (Luke 13:11–12), and cast out every affliction, burning fever (`ѻ҆гньницꙋ` / *πυреτόν*), and shaking ague / chills (`трѧса́вицоу` / *ῥῖγος*). It petitions for the remission of all deliberate and involuntary transgressions, concluding with an impassioned plea to spare God's own creation in Christ Jesus our Lord, sealed with the Trinitarian doxology unto ages of ages.
+[^2995]: Pneumatological and Christological restoration: fol. 500v. The prayer implores God to stretch forth His invisible healing arm (Ps. 135:12 [LXX]), raise the sick from the bed of infirmity, rebuke the spirit of disease (Luke 13:11–12), and cast out every affliction, burning fever (`ѻ҆гньницꙋ` / *πυρετόν*), and shaking ague / chills (`трѧса́вицоу` / *ῥῖγος*). It petitions for the remission of all deliberate and involuntary transgressions, concluding with an impassioned plea to spare God's own creation in Christ Jesus our Lord, sealed with the Trinitarian doxology unto ages of ages.
 
 [^2996]: Church Slavonic rubric: *Егда кр҃тъ творитъ їерей надъ страстїю недꙋга съ ст҃ымъ копїемъ* ("When the Priest makes the sign of the cross over the suffering of an infirmity with the holy spear"). In Ruthenian and Byzantine Euchologia, the liturgical spear (*kopie*, λόγχη)—customarily employed during the Proskomedia to extract the Lamb and commemorative particles from the prosphora—is utilized as an instrument of blessing over those suffering acute physical afflictions, tumors, or localized pain, making cruciform signs over the afflicted member while chanting troparia honoring the Cross and Christ's side pierced by the lance (John 19:34).
 
@@ -6026,7 +6026,7 @@
 
 [^3012]: The rubrics provide distinct health and salvation proclamations for ecclesiastical dignitaries: a bishop (*преѡсщ҃е́нномꙋ є҆пⷭ҇пꙋ*), an elder hegumen designated as *прпⷡ҇номꙋ въ є҆рмона́сѣхъ* ("venerable among hieromonks"), or any monastic brother, to which the choir/people respond thrice: *Сп҃си бж҃е... три́щи*.
 
-[^3013]: Church Slavonic heading: *Мл҃тва на ѡ҆чїще́нїе цр҃кви, ѡ҆скверненно́й ѿ є҆рети́къ* ("Prayer for the Cleansing of a Church Defiled by Heretics"). Corresponding to the Byzantine Euchologion rite *Εὐχὴ ἐπὶ καθαρισμῷ ναοῦ μιαнθέντος ὑπὸ αἱρετικῶν*, this prayer was appointed for cases where a consecrated church or altar had been occupied, celebrated in, or profaned by heretics or schismatics, purging the sanctuary through invocations of the Holy Spirit and aspersion with holy water prior to the celebration of the Holy Mysteries.
+[^3013]: Church Slavonic heading: *Мл҃тва на ѡ҆чїще́нїе цр҃кви, ѡ҆скверненно́й ѿ є҆рети́къ* ("Prayer for the Cleansing of a Church Defiled by Heretics"). Corresponding to the Byzantine Euchologion rite *Εὐχὴ ἐπὶ καθαρισμῷ ναοῦ μιανθέντος ὑπὸ αἱρετικῶν*, this prayer was appointed for cases where a consecrated church or altar had been occupied, celebrated in, or profaned by heretics or schismatics, purging the sanctuary through invocations of the Holy Spirit and aspersion with holy water prior to the celebration of the Holy Mysteries.
 
 [^3014]: Church Slavonic heading: *Мл҃тва ю҆́же гл҃етъ а҆рхїере́й, и҆ли дх҃о́вникъ проще́нноу • за грѣхы̀ всѧ̑ во́лныѧ и҆ нево́лныѧ...* ("Prayer of Absolution Said by a Hierarch or Spiritual Father for All Sins, Voluntary and Involuntary..."). Known across Slavic Euchologia by its running title *Праща́лнаѧ* (*Praščal'naja molitva*), this monumental prayer of absolution—traditionally ascribed to Patriarch John the Faster or ancient Byzantine patriarchal practice—is read over penitents, monastics at tonsure or death, or during times of public penance, functioning as an exhaustive liturgical absolution covering every canonical transgression, secret sin, and occult involvement.
 
@@ -6054,7 +6054,7 @@
 
 [^3026]: Church Slavonic rubric: *Мл҃тва на кле́ншихсѧ де́рзостїю* ("Prayer over Those Who Have Sworn Rashly/Audaciously"). Greek: *Εὐχὴ ἐπὶ τῶν ἐξ ἀπονοίας ἢ προπετείας ὀμοσάντων* (Goar, *Euchologion*, p. 556). In canonical jurisprudence (Matthew 5:34–37; James 5:12; St. Basil, Canons 10, 29, 64), taking rash, imprudent, or thoughtless oaths was considered a perilous spiritual transgression binding the conscience (*темне́нїе кла́твы*, "the darkening/bond of an oath"); this prayer looses the penitent from the spiritual burden and censure incurred by hasty swearing.
 
-[^3027]: Church Slavonic rubric: *Мл҃тва въ по́стъ въходѧ́щимъ* ("Prayer for Those Entering upon a Fast"). Greek: *Εὐχὴ ἐπὶ τῶν εἰсеρχομένων εἰς τὴν ἁγίαν τεσσαρακοστήν* (Goar, *Euchologion*, p. 558), appointed to be read at the onset of Great Lent (or the seasonal fasts of the Nativity, Apostles, or Dormition) to invoke divine protection, angelic companionship, and bodily endurance for the ascetical journey.
+[^3027]: Church Slavonic rubric: *Мл҃тва въ по́стъ въходѧ́щимъ* ("Prayer for Those Entering upon a Fast"). Greek: *Εὐχὴ ἐπὶ τῶν εἰσερχομένων εἰς τὴν ἁγίαν τεσσαρακοστήν* (Goar, *Euchologion*, p. 558), appointed to be read at the onset of Great Lent (or the seasonal fasts of the Nativity, Apostles, or Dormition) to invoke divine protection, angelic companionship, and bodily endurance for the ascetical journey.
 
 [^3028]: Scriptural citation of Psalm 64:6 (LXX 64:5): *Надѣѧ́нїе всѣ̑мъ кѡ́нцемъ землѝ, и҆ сѫ́щимъ въ мо́ри дале́че* ("O Hope of all the ends of the earth, and of those that are far off upon the sea").
 
@@ -6370,7 +6370,7 @@
 
 [^3184]: Title rubric: *Prayer over Salt* (Слав. *Мл҃тва, надъ со́лью*; Greek *Εὐχὴ ἐπὶ ἅλατος*). In Byzantine and Ruthenian domestic liturgy, salt was formally blessed as a staple of sustenance, a preservative against decay, and an agent of purification, recalling Christ's word: "Ye are the salt of the earth" (Matthew 5:13) and Saint Paul's exhortation: "Let your speech be always with grace, seasoned with salt" (Colossians 4:6).
 
-[^3185]: Scriptural typology: The healing of the poisonous and barren spring at Jericho by the Prophet Elisha through casting salt into a new cruse (2 Kings 2:19-22 / LXX 4 Kingdoms 2:19-22: "Thus saith the Lord: I have healed these waters; there shall not be from thence any more death or barren land").
+[^3185]: Scriptural typology: The healing of the poisonous and barren spring at Jericho by the Prophet Elisha through casting salt into a new cruse (2 Kings 2:19-22 / LXX 4 Kingdoms 2:19-22: "Thus says the Lord: I have healed these waters; there shall not be from thence any more death or barren land").
 
 [^3186]: Slav. *преложѝ ю҆ въ жръ́твоу радова́нїа*—Greek *ποίησον αὐτὸ θυσίαν ἀγαλλιάσεως* ("make it a sacrifice of exultation/joy"), echoing Psalm 26:6 (LXX 26:6: "And I offered in His tabernacle a sacrifice of joy").
 
@@ -6432,7 +6432,7 @@
 
 [^3215]: Scriptural citations: Saint Paul designated as the "chosen vessel" (*съсꙋ́дъ и҆збра́нный*, Greek *σκεῦος ἐκλογῆς*, Acts 9:15), and quoting Titus 1:15: "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure" (Слав. *всѧ̑ чи́ста чи́сты заповѣ́да*; Greek *πάντα μὲν καθαρὰ τοῖς καθαροῖς*).
 
-[^3216]: Explaining Church Slavonic *позо́ра* (*позоръ*, originally "spectacle, public show, shameful exhibition"; cf. Greek θέατρον / θέαма), referring here to shameful worldly spectacles or public ignominy.
+[^3216]: Explaining Church Slavonic *позо́ра* (*позоръ*, originally "spectacle, public show, shameful exhibition"; cf. Greek θέατρον / θέαμα), referring here to shameful worldly spectacles or public ignominy.
 
 [^3217]: Scriptural quotation of Luke 1:75: "In holiness and righteousness before Him, all the days of our life" (Slavonic: *въ преподобїи и правдѣ*).
 
@@ -6446,7 +6446,7 @@
 
 [^3222]: Slavonic *въ пустошъ съдѣяшася* ("were committed in vain, rashly, or futilely").
 
-[^3223]: Slavonic *анаѳематиса*, a direct phonetic loanword from Greek ἀνεθεμάтисе ("anathematized").
+[^3223]: Slavonic *анаѳематиса*, a direct phonetic loanword from Greek ἀνεθεμάτισε ("anathematized").
 
 [^3224]: Scriptural quotation of 1 Timothy 2:4: "Who will have all men to be saved, and to come unto the knowledge of the truth." Note that the physical print exhibits the haplography *итинный* for *истинный*.
 
@@ -6498,7 +6498,7 @@
 
 [^3248]: Scriptural allusion to Matthew 3:10 ("Every tree which brings not forth good fruit is hewn down, and cast into the fire") and Mark 9:43 ("into the fire that never shall be quenched").
 
-[^3249]: Troparion of compunction. Slavonic: *тѣмже тя молю, прежде оноя бѣды обративъ спаси мя*. The connective *тѣмже* is translated as "therefore" in strict compliance with the anti-slop mandate prohibiting pseudo-archaic *wherefore*.
+[^3249]: Troparion of compunction. Slavonic: *тѣмже тя молю, прежде оноя бѣды обративъ спаси мя*. The connective *тѣмже* is translated as "therefore" in strict compliance with the anti-slop mandate prohibiting pseudo-archaic *therefore*.
 
 [^3250]: Standard Byzantine Theotokion of compunction (*Милосердїя двери отверзи намъ...*).
 
@@ -6618,9 +6618,9 @@
 
 [^3308]: Physical leaf 1145 (fol. 565r).
 
-[^3309]: *To the nations that know Thee not...*: Psalm 78:6 (LXX: ἔκхеον τὴν ὀργήν σου ἐπὶ ἔθνη τὰ μὴ γινώσκοντά σε, καὶ ἐπὶ βασιλείας, αἳ τὸ ὄноμά σου οὐκ ἐпекаλέσαντο).
+[^3309]: *To the nations that know Thee not...*: Psalm 78:6 (LXX: ἔκχεον τὴν ὀργήν σου ἐπὶ ἔθνη τὰ μὴ γινώσκοντά σε, καὶ ἐπὶ βασιλείας, αἳ τὸ ὄνομά σου οὐκ ἐπεκαλέσαντο).
 
-[^3310]: *correct us, yet in goodness and not with Thine anger*: Jeremiah 10:24 (LXX: паίδευσον ἡμᾶς, Κύριε, πλὴν ἐν κρίσει καὶ μὴ ἐν θυμῷ, ἵνα μὴ ὀλίγους ἡμᾶς ποιήσῃς).
+[^3310]: *correct us, yet in goodness and not with Thine anger*: Jeremiah 10:24 (LXX: παίδευσον ἡμᾶς, Κύριε, πλὴν ἐν κρίσει καὶ μὴ ἐν θυμῷ, ἵνα μὴ ὀλίγους ἡμᾶς ποιήσῃς).
 
 [^3311]: Continues onto leaf 1146.
 
@@ -6946,7 +6946,7 @@
 
 [^3472]: Ps 78:8 (LXX 78:8: *O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low*).
 
-[^3473]: Ps 78:9 (LXX 78:9: *Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake*).
+[^3473]: Ps 78:9 (LXX 78:9: *Help us, O God of our salvation, for the glory of Thy name: and deliver us, and purge away our sins, for Thy name's sake*).
 
 [^3474]: Liturgical commemoration of the intercessory cloud of witnesses: Apostles, Martyrs, Prophets, Fathers, and Patriarchs.
 
@@ -6956,7 +6956,7 @@
 
 [^3477]: Ps 50:13 (LXX 50:11: *Cast me not away from thy presence; and take not thy holy spirit from me*).
 
-[^3478]: Ps 50:3 (LXX 50:1: *Have mercy upon me, O God, according to thy great mercy: and according unto the multitude of thy tender mercies blot out my transgressions*).
+[^3478]: Ps 50:3 (LXX 50:1: *Have mercy upon me, O God, according to Thy great mercy: and according unto the multitude of Thy tender mercies blot out my transgressions*).
 
 [^3479]: Petition for divine empowerment and victory for the Christian armed host in the hour of battle.
 
@@ -6964,7 +6964,7 @@
 
 [^3481]: Ps 78:6; Ps 98:6.
 
-[^3482]: Isa 26:13 (LXX Isa 26:13: *O Lord our God, other lords beside thee have had dominion over us: but by thee only will we make mention of thy name*).
+[^3482]: Isa 26:13 (LXX Isa 26:13: *O Lord our God, other lords beside Thee have had dominion over us: but by Thee only will we make mention of Thy name*).
 
 [^3483]: 1 Cor 12:6 (*And there are diversities of operations, but it is the same God which works all in all*).
 
@@ -7002,7 +7002,7 @@
 
 [^3500]: Supplication for the overthrow and confounding of the Ottoman/Hagarene invaders and heathen nations.
 
-[^3501]: Ps 78:10 (LXX 78:10: *Therefore should the heathen say, Where is their God? let him be known among the heathen in our sight*); Ps 113:10; Joel 2:17.
+[^3501]: Ps 78:10 (LXX 78:10: *Therefore should the heathen say, Where is their God? let Him be known among the heathen in our sight*); Ps 113:10; Joel 2:17.
 
 [^3502]: Intercession of the Most Holy Theotokos and Ever-Virgin Mary and all the Saints.
 
@@ -7384,7 +7384,7 @@
 
 [^3691]: Jer. 5:3: "Thou hast stricken them, but they have not grieved; Thou hast consumed them, but they have refused to receive correction."
 
-[^3692]: Amos 4:6–11: The prophetic refrain of impenitence under divine chastisement ("yet have ye not returned unto Me, saith the Lord").
+[^3692]: Amos 4:6–11: The prophetic refrain of impenitence under divine chastisement ("yet have ye not returned unto Me, says the Lord").
 
 [^3693]: The prayer continues onto fol. 602v (leaf p1220).
 
@@ -7412,7 +7412,7 @@
 
 [^3705]: Depiction of clinical hyper-vigilance and phobia: any minor gnat or insect bite is immediately misinterpreted as the onset of the fatal plague. The printed margin supplies the adverbial gloss ча́сто ("frequently") for the liturgical Slavonic idiom на ча́стѣ.
 
-[^3706]: Slavonic: ѡ҆стны́мъ съвѣ́сти оу҆кода́еми, translating Greek τῷ κέντρῳ τῆς συνейδήσεως νυττόμενοι ("pricked by the goad / sting of conscience"; cf. Acts 9:5, 26:14).
+[^3706]: Slavonic: ѡ҆стны́мъ съвѣ́сти оу҆кода́еми, translating Greek τῷ κέντρῳ τῆς συνειδήσεως νυττόμενοι ("pricked by the goad / sting of conscience"; cf. Acts 9:5, 26:14).
 
 [^3707]: The classic liturgical confession of divine righteousness under chastisement: Dan. 3:27 LXX / Prayer of Azariah; Ps. 118:137 LXX: "Righteous art Thou, O Lord, and upright are Thy judgments."
 
@@ -7426,7 +7426,7 @@
 
 [^3712]: The biblical narrative of King Hezekiah's mortal illness and miraculous recovery: 4 Kings (2 Kings) 20:1–6 LXX; Isa. 38:1–5.
 
-[^3713]: Ezek. 18:23, 33:11: "As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live."
+[^3713]: Ezek. 18:23, 33:11: "As I live, says the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live."
 
 [^3714]: Ps. 84:5 LXX: "Wilt Thou be angry with us unto ages?"
 
@@ -7468,7 +7468,7 @@
 
 [^3733]: Rubric introducing the third prayer against pestilence and famine, designated подо́бнаѧ • того́жде ("a similar prayer, of the same [Patriarch Kallistos]").
 
-[^3734]: Opening of the third prayer: Slavonic Б[ж҃]е чюде́сныхъ, и҆́же вели́каа и҆ чю́днаа съдѣ́лавый, corresponding to the Byzantine Greek euchological incipit Ὁ τῶν θαυμασίων Θεός, ὁ ποιήσας μεγάла καὶ θαυμαστά (cf. Job 5:9; 9:10; Ps. 71:18, 135:4 LXX).
+[^3734]: Opening of the third prayer: Slavonic Б[ж҃]е чюде́сныхъ, и҆́же вели́каа и҆ чю́днаа съдѣ́лавый, corresponding to the Byzantine Greek euchological incipit Ὁ τῶν θαυμασίων Θεός, ὁ ποιήσας μεγάλα καὶ θαυμαστά (cf. Job 5:9; 9:10; Ps. 71:18, 135:4 LXX).
 
 [^3735]: The liberation of Israel from Egyptian bondage: Ex. 3:7–10; 12:51; 14:30–31.
 
@@ -7658,7 +7658,7 @@
 
 [^3828]: Rubric prescribing three metanias (deep reverences or prostrations) by the communicant or the assembly while chanting the festive troparion of the Epiphany.
 
-[^3829]: The renowned Byzantine Troparion of the Theophany of the Lord (Greek Ἐν Ἰορδάνῃ βαπτιζομένου σου, Кύριε, ἡ τῆς Τριάδος ἐφανερώθη προσκύνησις), Tone 1.
+[^3829]: The renowned Byzantine Troparion of the Theophany of the Lord (Greek Ἐν Ἰορδάνῃ βαπτιζομένου σου, Κύριε, ἡ τῆς Τριάδος ἐφανερώθη προσκύνησις), Tone 1.
 
 [^3830]: Rubric directing the chanting of the Little Doxology followed by the festive Theophany Kontakion, continuing onto fol. 622v (leaf p1260).
 
@@ -7668,7 +7668,7 @@
 
 [^3833]: Opening of the post-communion thanksgiving prayer of St. John Chrysostom, giving thanks for the spiritual illumination and sanctification conferred by the Epiphany water. The prayer continues onto fol. 623r (leaf p1261).
 
-[^3834]: Continuation of the thanksgiving prayer attributed to St. John Chrysostom recited after partaking of the Great Agiasma (Theophany water), from fol. 622v (leaf p1260). The printed Slavonic witness reads въсего̀ къ твое́моу къпери жела́нїю, where къпери represents a scribal or typographer's corruption for въперѝ (imperative of въперити / вперяти, Greek πτέρωσον / ἀνάпτερον, "give wings unto", "wing me wholly unto desire for Thee").
+[^3834]: Continuation of the thanksgiving prayer attributed to St. John Chrysostom recited after partaking of the Great Agiasma (Theophany water), from fol. 622v (leaf p1260). The printed Slavonic witness reads въсего̀ къ твое́моу къпери жела́нїю, where къпери represents a scribal or typographer's corruption for въперѝ (imperative of въперити / вперяти, Greek πτέρωσον / ἀνάπτερον, "give wings unto", "wing me wholly unto desire for Thee").
 
 [^3835]: Concluding Trinitarian ecphonesis of St. John Chrysostom's thanksgiving prayer: "For Thou art the sweetness of our souls..." (Greek Ὅτι σὺ εἶ ὁ γλυκασμὸς τῶν ψυχῶν ἡμῶν). The printed text abbreviates the concluding liturgical formula to нн҃ѣ и҆ прⷭ҇но и҆ въ вѣ́ки вѣкѡ́мъ : ~, with the final "Amen" supplied diplomatically.
 
@@ -7690,7 +7690,7 @@
 
 [^3844]: 1 John 2:20, 27: "But ye have an unction from the Holy One, and ye know all things... the anointing which ye have received of Him abides in you."
 
-[^3845]: Petitions invoking the descent of the Holy Spirit upon the compounded oil, designating it as a "royal anointing" (χρῖσμα βασιλικόν) and a "spiritual anointing" (χρῖσμα πνευματικόν), serving as an invulnerable shield and preserver of life (φυлаκτήριον ζωῆς). The prayer continues onto fol. 624v (leaf p1264).
+[^3845]: Petitions invoking the descent of the Holy Spirit upon the compounded oil, designating it as a "royal anointing" (χρῖσμα βασιλικόν) and a "spiritual anointing" (χρῖσμα πνευματικόν), serving as an invulnerable shield and preserver of life (φυλακτήριον ζωῆς). The prayer continues onto fol. 624v (leaf p1264).
 
 [^3846]: Ps. 44:8 LXX (Ps. 45:7 KJV); Heb. 1:9: "God, even Thy God, hath anointed Thee with the oil of gladness (ἔλαιον ἀγαλλιάσεως) above Thy fellows."
 
@@ -7716,7 +7716,7 @@
 
 [^3857]: Concluding clause of the primary prayer of consecration of the Holy Myron: "...with the Holy Spirit" (Greek σὺν τῷ ἁγίῳ Πνεύματι).
 
-[^3858]: Festive Trinitarian ecphonesis pronounced aloud by the bishop: "For holy art Thou, our God, Who restest upon the saints..." (Greek Ὅτι ἅγιος εἶ, ὁ Θεὸς ἡμῶν, ὁ ἐν ἁγίοις ἐпаναπαυόμενος).
+[^3858]: Festive Trinitarian ecphonesis pronounced aloud by the bishop: "For holy art Thou, our God, Who restest upon the saints..." (Greek Ὅτι ἅγιος εἶ, ὁ Θεὸς ἡμῶν, ὁ ἐν ἁγίοις ἐπαναπαυόμενος).
 
 [^3859]: Choral response confirming the episcopal ecphonesis.
 
@@ -7738,7 +7738,7 @@
 
 [^3868]: Rubric indicating the resumption of the Divine Liturgy of St. Basil the Great: the deacon on the ambo resumes the litany, the holy royal doors are reopened, and the bishop proceeds with the Liturgy of the Faithful, consummating the Eucharistic sacrifice.
 
-[^3869]: Decorative woodcut headpiece and title marking the beginning of Part XLIX: Prayers at the Blessing and Breaking of the Artos (Мл҃тва на бл҃гвнїи а҆́ртоуса; Greek Εὐχὴ εἰς τὴν εὐλόγησιν τοῦ ἄρτου / Ἀκολουθία τοῦ Ἀρτοκлаσίας τοῦ Ἄρτου). The Artos (Greek Ἄρτος, "leavened bread") is a large loaf of leavened bread bearing the stamped icon of Christ's Resurrection, blessed on the night of Holy Pascha at the conclusion of the Divine Liturgy. It symbolizes the physical presence of the risen Christ among His disciples during the forty days between His Resurrection and Ascension. Throughout Bright Week, the Artos remains on the tetrapod or before the iconostasis, is carried in daily Paschal processions, and is solemnly broken and distributed unto the faithful on Bright Saturday.
+[^3869]: Decorative woodcut headpiece and title marking the beginning of Part XLIX: Prayers at the Blessing and Breaking of the Artos (Мл҃тва на бл҃гвнїи а҆́ртоуса; Greek Εὐχὴ εἰς τὴν εὐλόγησιν τοῦ ἄρτου / Ἀκολουθία τοῦ Ἀρτοκλασίας τοῦ Ἄρτου). The Artos (Greek Ἄρτος, "leavened bread") is a large loaf of leavened bread bearing the stamped icon of Christ's Resurrection, blessed on the night of Holy Pascha at the conclusion of the Divine Liturgy. It symbolizes the physical presence of the risen Christ among His disciples during the forty days between His Resurrection and Ascension. Throughout Bright Week, the Artos remains on the tetrapod or before the iconostasis, is carried in daily Paschal processions, and is solemnly broken and distributed unto the faithful on Bright Saturday.
 
 [^3870]: Rubric introducing the solemn prayer for the blessing of the Artos on the night of Holy Pascha.
 
@@ -8256,7 +8256,7 @@
 
 [^4127]: Examination and ecclesiastical reconciliation before witnesses: Drawing upon Matthew 18:15-17 ("take with thee one or two more, that in the mouth of two or three witnesses every word may be established... and if he neglect to hear them, tell it unto the church"), the canon requires contentious brethren—even natural brothers by blood (*по пло́ти бра́тїа*)—to submit their dispute to formal ecclesiastical examination (*пред̾ цр҃ко́вїю и҆стѧза́тисѧ*). Obstinate refusal to reconcile incurs formal excommunication.
 
-[^4128]: Canon against rancor and grudge-bearing (*памѧтозло́бникъ*): Church Slavonic *памѧтозло́бникъ* translates Greek μνησίкаκος (one who harbors resentment or remembers evil). The Nomocanon penalizes unresolved malice with one year of exclusion from communion and twelve daily prostrations (cf. St. John Climacus, *Ladder of Divine Ascent*, Step 9).
+[^4128]: Canon against rancor and grudge-bearing (*памѧтозло́бникъ*): Church Slavonic *памѧтозло́бникъ* translates Greek μνησίκακος (one who harbors resentment or remembers evil). The Nomocanon penalizes unresolved malice with one year of exclusion from communion and twelve daily prostrations (cf. St. John Climacus, *Ladder of Divine Ascent*, Step 9).
 
 [^4129]: Penance for slander and calumny (*клеве́тникъ*): Two years of exclusion and eighteen daily prostrations (cf. Apostolic Canon 84; Council in Trullo, Canon 87).
 

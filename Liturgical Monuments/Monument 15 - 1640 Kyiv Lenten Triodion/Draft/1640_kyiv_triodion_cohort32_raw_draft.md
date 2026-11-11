@@ -63,7 +63,7 @@ Having immediately risen up, therefore, and declared unto the multitude of the p
 
 *Katavasia: "Let every earthborn mortal leap for joy in spirit, being enlightened; and let the nature of the bodiless minds celebrate with joy, honoring the holy festival of the Mother of God, and let them cry aloud: Rejoice, O all-blessed Mother of God, pure and ever-virgin!"*  
 
-*Exapostilarion. Podoben: "With the Disciples":*[^832]  
+*Exapostilarion. Podoben: "With the Disciples" (Съ оу҆ченикѝ взы́демъ):*[^832]  
 O holy crown-bearer, standing now with the Angels before the Throne of Christ, and filled with light from thence, O Passion-bearer, continually entreat peace for the world and salvation for us who piously celebrate thy light-bearing memory, O all-blessed Theodore, most adorned martyr!  
 
 === LEAF p315 ===
@@ -124,7 +124,7 @@ Having piously armed thyself with the fortitude of suffering, O Passion-bearer o
 Be it known that we have received to eat fish only twice [during Lent]: on the Feast of the Annunciation and on Flowery Sunday [Palm Sunday].  
 
 === LEAF p318 ===
-*[Diplomatic description of the full-page woodcut icon engraving: At the top within a decorative strapwork cartouche appears the polyglot Cyrillic-Greek inscription: (ПРОZАХАPIA HAPEYEHOE HMДEMYIΣ). In the central architectural field Christ Pantocrator is enthroned in majesty, blessing with His right hand and holding in His left an open Gospel book inscribed: "To him that overcoms will I grant to sit with Me in My throne, even as I also overcame..." Flanking Him in six circular roundels are the holy images: above, the Holy Great-martyrs Theodore Tyro and George the Victorious; in the middle, the Holy Preeminent Apostles Peter and Paul; below, the Holy Evangelists. In the lower arcade appear the foundational monastic patrons of the Kyiv-Pechersk Lavra, Venerable Theodosius of the Caves and Venerable Anthony of the Caves, flanking the Seventh Ecumenical Council. The architectural border is adorned with floral rosettes.]*[^842]  
+*(*Diplomatic description of the full-page woodcut icon engraving: At the top within a decorative strapwork cartouche appears the polyglot Cyrillic-Greek inscription: (ПРОZАХАPIA HAPEYEHOE HMДEMYIΣ). In the central architectural field Christ Pantocrator is enthroned in majesty, blessing with His right hand and holding in His left an open Gospel book inscribed: "To him that overcoms will I grant to sit with Me in My throne, even as I also overcame..." Flanking Him in six circular roundels are the holy images: above, the Holy Great-martyrs Theodore Tyro and George the Victorious; in the middle, the Holy Preeminent Apostles Peter and Paul; below, the Holy Evangelists. In the lower arcade appear the foundational monastic patrons of the Kyiv-Pechersk Lavra, Venerable Theodosius of the Caves and Venerable Anthony of the Caves, flanking the Seventh Ecumenical Council. The architectural border is adorned with floral rosettes.*)*[^842]  
 
 ## First Sunday of the Holy Fast: The Sunday of Orthodoxy[^843]  
 *In which Orthodoxy is commemorated.*  
@@ -144,7 +144,7 @@ Rejoice, O whole world: for behold, the Lord has cast down from on high the domi
 
 "The honor rendered unto the icon passes over unto the Prototype," said Basil:[^845] therefore in continuity do we honor the icons of Christ the Savior and of all the Saints, that having taken them up, we may never again be led astray by impiety!  
 
-*Glory... both now... Theotokion, Podoben:*[^846]  
+*Glory... both now... Theotokion, Podoben (Подо́бенъ):*[^846]  
 He Who is invisible in His beginningless and divine nature was seen as man, O Maiden, from thy precious blood, by reason of His extreme loving-kindness: having depicted the likeness of His flesh, we the faithful all piously bow down and devoutly magnify Him!  
 
 *On the Aposticha, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳ):*[^847]  
@@ -159,7 +159,7 @@ Abolished is the unclean delusion of Arius, of Macedonius, of Peter, of Severus,
 === LEAF p320 ===
 *Troparion:* No longer is the dark teaching of the impious praised, for unto the Orthodox, through the nodding assent of Theodora,[^849] God gives the rod of strength!  
 
-*Glory... both now... Theotokion, Podoben:*  
+*Glory... both now... Theotokion, Podoben (Подо́бенъ):*  
 Thou hast exalted the horn of the humble, O Mother of God, who didst bear God the Word: therefore do we all faithfully magnify thee, honoring thee!  
 
 *Then: "Now lettest Thou Thy servant depart in peace."*  

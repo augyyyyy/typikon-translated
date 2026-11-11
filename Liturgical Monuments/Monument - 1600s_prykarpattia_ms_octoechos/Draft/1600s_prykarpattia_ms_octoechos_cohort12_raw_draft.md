@@ -33,7 +33,7 @@ Fearful didst Thou appear, O Lord, lying in the tomb as sleeping; but rising on 
 ...unto Thy Resurrection, O only Lover of mankind! Glory. Both now.
 
 *Theotokion:*
-Fleeing under thy protection, O Lady, all of us earth-born cry aloud unto thee: O Mother of God, our hope, deliver us from our boundless transgressions, and save our souls! *Now lettest Thou Thy servant depart. Trisagion through Our Father.*
+Fleeing under thy protection, O Lady, all of us earth-born cry aloud unto thee: O Mother of God, our hope, deliver us from our boundless transgressions, and save our souls! *Now lettest thou thy servant depart. Trisagion through Our Father.*
 
 *Resurrectional Troparion, Tone 7:*
 Thou didst destroy death by Thy Cross, and didst open Paradise unto the Thief; Thou didst transform the lamentation of the Myrrh-bearing women, and didst command the Apostles to preach that Thou art risen, O Christ God, granting great mercy unto the world!

@@ -50,7 +50,7 @@ Even as Moses, thou didst receive the Law from the Lord, O Chrysostom, making wi
 
 Thou wast truly a herald of the divine kingdom, O golden-worded one, crying aloud: Repent, drowning all despair.
 
-*Glory, in the same Tone and Podoben:*
+*Glory, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Thou hast taught us to believe in the precious Trinity in one sovereignty: Father, Word, and Spirit, O Chrysostom our father.
 
 *Now and ever, Theotokion:*

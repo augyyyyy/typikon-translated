@@ -113,7 +113,7 @@ At the hour of the passions, beholding Him Who is fair in beauty having neither 
 
 *Troparion 2:* Send me a shower of tears, drying up the streams of my evil deeds, I pray thee, who didst give birth unto the most tranquil abyss of tender compassion, Christ our God, O all-hymned Virgin Theotokos.[^699]
 
-*Troparion 3:* Be Thou our strength and an unshakable pillar, O woman full of divine grace, and a shield and invincible weapon, driving far from us the hosts of noetic enemies, O most pure Theotokos, who honor thee with faith and love.[^700]
+*Troparion 3:* Be thou our strength and an unshakable pillar, O woman full of divine grace, and a shield and invincible weapon, driving far from us the hosts of noetic enemies, O most pure Theotokos, who honor thee with faith and love.[^700]
 
 *Ode 4. Heirmos:* Of old the Prophet Habakkuk heard Thy marvelous report, O Christ, and with fear he cried: God shall come from Theman, and the Holy One from the mountain overshadowed, to save Thine anointed. Glory to Thy power, O Lord![^701]
 

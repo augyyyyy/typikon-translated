@@ -52,11 +52,11 @@ The remark of the present chapter concerning the censing of the narthex
 is preserved unchanged in the Typikon from its most ancient manuscripts: *ἐξελθὼν δὲ εἰς τὸν νάρθηκα καὶ θυμιάσας καὶ ἐνταῦθα τοὺς ἀδελφοὺς κατὰ τάξιν ὑποστρέφει* ('and having gone forth into the narthex and censed also there the brethren according to rank, he returns') [^2004]. In the Shiomgvime manuscript 'brethren' is absent [^2005].
 
 === LEAF p596 ===
-# THE OPENING EXCLAMATION
+## THE OPENING EXCLAMATION
 
 ## "Bless, Master!" ("Lord, Bless")
 
-After the censing of the narthex the priest, as the present chapter of the Typikon states, 'having returned again into the church and taken his stand in the midst of both choirs (before the holy doors?), signs a cross with the censer, facing toward the east,' that is, he censes a second time toward the open holy doors, returning for the conclusion of the censing unto its beginning, 'and proclaims in a loud voice: **"Lord, bless!"** (*Господи, благослови*).' [Note: In Byzantine Greek this is *Κύριε εὐλόγησον*, rendered in Slavonic as *Господи благослови* and commonly in liturgical English as **"Bless, Master!"**].
+After the censing of the narthex the priest, as the present chapter of the Typikon states, 'having returned again into the church and taken his stand in the midst of both choirs (before the holy doors?), signs a cross with the censer, facing toward the east,' that is, he censes a second time toward the open holy doors, returning for the conclusion of the censing unto its beginning, 'and proclaims in a loud voice: **"Lord, bless!"** (*Господи, благослови*).' (*Note: In Byzantine Greek this is *Κύριε εὐλόγησον*, rendered in Slavonic as *Господи благослови* and commonly in liturgical English as **"Bless, Master!"*).
 
 By this exclamation the priest asks a blessing for the beginning of the service from the superior; for this reason, if a deacon concelebrates with him, the latter pronounces this exclamation, asking thereby a blessing from the priest, as before the Liturgy with the exclamation: **"Bless, Master"** (*Владыко, благослови*) [^2006]; by a similar exclamation ("In the name of the Lord, Father, give the blessing" / *Именем Господним благослови, отче*) the reader asks the priest's blessing at the service of the Hours. (In these exclamations there is a certain gradation of address corresponding unto the importance of the service: master [*vladyko*], lord [*gospodi*], father [*otche*] [^2007]).
 
@@ -104,7 +104,7 @@ The present exclamation has its simplest form in the most ancient manuscript of 
 Slavic manuscripts of the Jerusalem Typikon have after "Trinity" the addition: "To the Father and to the Son and to the Holy Spirit" [^2028]. In St. Symeon of Thessalonica (15th c.), unto the four present adjectives there is added yet a fifth: "All-powerful" (*παντοδυνάμῳ*) [^2029]. Before "now" (*nyně*) there is sometimes present, sometimes absent "and" (*i*) [^2030]. *Ἀδιαιρέτῳ* [*Adiairetō*] in Slavic is translated sometimes as "Undivided" (*Нераздельней*), sometimes as "Indivisible" (*Неразделимей*); the first, apparently, is more ancient [^2031]; the second translation is more frequent [^2032] and was adopted by the Old Believer Typikon.
 
 === LEAF p600 ===
-# THE INTRODUCTORY PSALM
+## THE INTRODUCTORY PSALM
 
 ## The Singing of "O Come, Let Us Worship"
 

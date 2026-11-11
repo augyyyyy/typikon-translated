@@ -173,7 +173,7 @@ That thou mightest quench the flame of passions, thou didst ever pour forth drop
 Heavenly passionlessness didst thou acquire by an exalted life on earth, O mother; therefore pray that those who sing of thee may be delivered from passions by thy prayers.
 
 *Glory, Trinity:*
-I am the Trinity, simple, undivided, divided in Persons, and I am the Unity united by Nature, saith the Father, and the Son, and the divine Spirit.
+I am the Trinity, simple, undivided, divided in Persons, and I am the Unity united by Nature, says the Father, and the Son, and the divine Spirit.
 
 *Both now and ever, Theotokion:*
 Thy womb bare God for us, formed like unto us: Him, as Creator of all, do thou implore, O Mother of God, that by thy prayers we may be justified.
@@ -281,7 +281,7 @@ Preserved by the precious Cross of Thy Son, O pure Lady Mother of God, we all ea
 
 *After the third stichology, Sessional Hymn, by Lord Theodore, Tone 2, Podoben: "Being the wellspring of loving-kindness" (Мѵ́рꙋ сꙋ́щи):*[^342]
 Being the Fountain of purity, preserve us through fasting, O Merciful One; look down upon us who fall down before Thee; give ear unto the lifting up of our hands, Thou Who didst stretch out Thy palms upon the Tree, being crucified for all earthborn, O only Lord of bodiless hosts.
-*Glory, the same. Both now and ever, Cross-Theotokion, Podoben:*
+*Glory, the same. Both now and ever, Cross-Theotokion, Podoben (Подо́бенъ):*
 The Virgin and Thy Mother, O Christ, seeing Thee stretched out dead upon the Tree, weeping bitterly, said: My Son, what is this dread mystery? Granting eternal life unto all, how dost Thou die of Thine own will upon the Cross by a shameful death?
 
 *Canon in the Menaion to 6, and the Triodia according to their order. We recite the fifth ode as usual.*

@@ -1,6 +1,6 @@
 import os
 
-coded_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+coded_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 keywords = ["22", "23", "royal", "pre-feast", "eve", "question", "answer"]
 
 matches = []

@@ -93,11 +93,11 @@ Venerable Father Acacius, having given wings to thy mind unto God by faith, thou
 
 A champion of the divine Council and cloud of theologians, together with Cyril, O Acacius, thou didst deliver fierce Nestorius unto destruction, having exposed his folly, O blessed one, and put his council to shame with spiritual words;[^56] therefore every soul calls thee blessed, celebrating thy divine memory in faith.
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Save me, O all-pure Sovereign Lady, who didst bear Christ the Savior ineffably; for thee alone have I acquired as an intercessor, an impregnable wall, a protection and rejoicing, and the divine comfort of my soul. Deliver me, therefore, from the unsleeping worm and from the eternal fire, O Mother of Christ God!
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Thee nailed upon the Cross, O Jesus, and voluntarily accepting the Passion, the Virgin and Thy Mother, O Master, cried aloud: "Woe is me, sweet Child! How dost Thou endure wounds unjustly,
 

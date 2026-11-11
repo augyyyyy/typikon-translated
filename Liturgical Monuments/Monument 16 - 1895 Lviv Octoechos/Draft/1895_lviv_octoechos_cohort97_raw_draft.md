@@ -29,7 +29,7 @@ Beholding the Author of life hanging upon the Cross, the thief said: "If He Who 
 In the midst of two thieves Thy Cross was found to be a righteous balance: for the one indeed was dragged down into hades by the weight of blasphemy, but the other was lightened of sins unto the knowledge of theology. O Christ God, glory to Thee.[^10623]
 
 *Glory... Both now... Stavrotheotokion:*  
-Being ever preserved by the Cross of Thy Son and God, O Virgin,...[^10624]
+Being ever preserved by the Cross of thy Son and God, O Virgin,...[^10624]
 
 === LEAF p962 ===
 ...we drive away demonic assaults and wiles: truly chanting thee as the Theotokos, and in love all generations call thee blessed, O Pure One, even as thou didst foretell; therefore grant us remission of sins through thy prayers.[^10625]
@@ -49,7 +49,7 @@ In paradise a tree formerly stripped me naked, the enemy introducing mortality b
 With heavenly light this temple is enlightened today, for in it the angelic hosts rejoice; with whom also the choirs of men make merry in the memory of the passion-bearers. By their entreaties, O Christ, send down upon Thy world peace and great mercy.[^10631]
 
 *Glory... Both now... Stavrotheotokion:*  
-Beholding Him Who was incarnate of thy pure blood, and Who beyond understanding was born of thee, O Pure One, hanging upon the Tree in the midst of malefactors, thy womb was pierced, and weeping maternally thou didst cry aloud: "Woe is me, my Child! What is this Thy divine and ineffable dispensation, whereby Thou hast brought to life Thy creation? I hymn Thy tender-heartedness."[^10632]
+Beholding Him Who was incarnate of thy pure blood, and Who beyond understanding was born of thee, O Pure One, hanging upon the Tree in the midst of malefactors, thy womb was pierced, and weeping maternally thou didst cry aloud: "Woe is me, my Child! What is this thy divine and ineffable dispensation, whereby thou hast brought to life thy creation? I hymn thy tender-heartedness."[^10632]
 
 *After the Third Kathisma, Sessional Hymns, Tone 8.*[^10633]  
 *Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):*[^10634]  
@@ -235,7 +235,7 @@ By the streams of blood that flowed from the bodies of the holy sufferers, they 
 The glorious suffering passion-bearers burned in disposition more than fire, when they were delivered over by the sentence of wicked judges to be burned with material fire; and they were preserved unwounded by the operation and grace of the Holy Spirit, Who crowned them that suffered lawfully.[^10697]
 
 *Theotokion:*  
-A sword pierced thy heart, O all-pure Maiden, beholding Thy Son outstretched upon the Cross, enduring sufferings, and slaying the serpent, the ruler of darkness; therefore weeping maternally thou didst magnify Him.[^10698]
+A sword pierced thy heart, O all-pure Maiden, beholding thy Son outstretched upon the Cross, enduring sufferings, and slaying the serpent, the ruler of darkness; therefore weeping maternally thou didst magnify Him.[^10698]
 
 *Canon to the Theotokos. Ode 6. Heirmos:*  
 Cleanse me, O Savior, for many are mine iniquities; and lead me up from the deep of evils, I pray; for unto Thee have I cried, and do Thou give ear unto me, O God of my salvation.[^10699]

@@ -39,7 +39,7 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 Εἰς τὴν Λειτουργίαν, τὰ παρόντα Ἀντίφωνα·
 
-### 'Αντίφωνον Α'
+**'Αντίφωνον Α'**
 
 Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου.  
 Ὡς ἀγαπητὰ τὰ σκηνώματά σου, Κύριε τῶν δυνάμεων, ἐπιποθεῖ καὶ ἐκλείπει ἡ ψυχή μου.  
@@ -48,7 +48,7 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 *Ἐφύμνιον:* Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.
 
-### 'Αντίφωνον Β'
+**'Αντίφωνον Β'**
 
 Σοὶ πρέπει ὕμνος ὁ Θεὸς ἐν Σιών, καὶ σοὶ ἀποδοθήσεται εὐχὴ ἐν Ἱερουσαλήμ.  
 Εἰσάκουσον προσευχῆς μου, πρὸς σὲ πᾶσα σὰρξ ἥξει.  
@@ -57,7 +57,7 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 *Ἐφύμνιον:* Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἀναστὰς ἐκ νεκρῶν, ψάλλοντάς σοι, Ἀλληλούϊα.
 
-### 'Αντίφωνον Γ'
+**'Αντίφωνον Γ'**
 
 Ἐξελεξάμην παραρριπτεῖσθαι ἐν τῷ οἴκῳ τοῦ Θεοῦ μου.  
 Ὅτι ἔλεος καὶ ἀλήθειαν ἀγαπᾷ Κύριος ὁ Θεός.  
@@ -79,16 +79,16 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 In the Divine Liturgy, the following festal Antiphons are chanted:
 
-### Antiphon One
+**Antiphon One**
 
-**"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwelleth."** [Psalm 25:8 LXX]  
-**"How lovely are Thy tabernacles, O Lord of hosts! My soul longeth and fainteth for the courts of the Lord."** [Psalm 83:1–2 LXX]  
+**"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells."** [Psalm 25:8 LXX]  
+**"How lovely are Thy tabernacles, O Lord of hosts! My soul longs and faints for the courts of the Lord."** [Psalm 83:1–2 LXX]  
 **"Thine altars, O Lord of hosts, my King and my God!"** [Psalm 83:4 LXX]  
 **"Blessed are they that dwell in Thy house: they will praise Thee unto the ages of ages."** [Psalm 83:5 LXX]  
 
 *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."**
 
-### Antiphon Two
+**Antiphon Two**
 
 **"To Thee praise is due, O God, in Zion, and unto Thee shall a vow be performed in Jerusalem."** [Psalm 64:1 LXX]  
 **"Hear my prayer: unto Thee all flesh shall come."** [Psalm 64:2 LXX]  
@@ -97,7 +97,7 @@ In the Divine Liturgy, the following festal Antiphons are chanted:
 
 *Refrain:* **"Save us, O Son of God, Who didst arise from the dead, who sing to Thee: Alleluia!"**
 
-### Antiphon Three
+**Antiphon Three**
 
 **"I have chosen rather to be an abject in the house of my God, than to dwell in the tents of sinners."** [Psalm 83:11 LXX]  
 **"For the Lord God loves mercy and truth: the Lord will give grace and glory."** [Psalm 83:12 LXX]  
@@ -125,7 +125,7 @@ In the Divine Liturgy, the following festal Antiphons are chanted:
 
 ## Divine Liturgy Readings, Communion Hymn, and Concurrence with Feasts of the Lord [Violakis, p. 881]
 
-...The readings of the Apostolos and the Holy Gospel are appointed according to the order of the day; and the Communion Hymn is chanted: **"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwelleth. Alleluia."** (*Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου. Ἀλληλούϊα*, Psalm 25:8 LXX), followed by the Dismissal.
+...The readings of the Apostolos and the Holy Gospel are appointed according to the order of the day; and the Communion Hymn is chanted: **"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells. Alleluia."** (*Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου. Ἀλληλούϊα*, Psalm 25:8 LXX), followed by the Dismissal.
 
 *Rubrical Instruction on the Concurrence of a Master Feast:*  
 If the Consecration of a church coincides with a Master Feast [Feast of the Lord], the liturgical hymns of the Feast take precedence over those of the Office of the Consecration; likewise, the Holy Gospel and the Communion Hymn of the Master Feast take precedence over those of the Consecration.*...[^507]
@@ -141,7 +141,7 @@ If the Consecration of a church coincides with a Master Feast [Feast of the Lord
 
 ## Τελετὴ εἰς Ἀνάρρησιν Πατριάρχου ἐπὶ τοῦ Οἰκουμενικοῦ Θρόνου [Violakis, p. 882]
 
-### ΤΕΛΕΤΗ ΕΙΣ ΑΝΑΡΡΗΣΙΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΥ ΟΙΚΟΥΜΕΝΙΚΟΥ ΘΡΟΝΟΥ
+**ΤΕΛΕΤΗ ΕΙΣ ΑΝΑΡΡΗΣΙΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΥ ΟΙΚΟΥΜΕΝΙΚΟΥ ΘΡΟΝΟΥ**
 
 Φθάσας ὁ Πατριάρχης μετὰ τῆς συνήθους ἐν παρατάξει συνοδίας αὐτοῦ εἰς τὰ Πατριαρχεῖα, ἔρχεται ἔμπροσθεν τῆς μεγάλης πύλης τοῦ Ναοῦ ἔνθα ἵσταται ἅπας ὁ Κλῆρος πρὸς προϋπάντησιν αὐτοῦ, καὶ οἱ μὲν ἅγιοι Ἀρχιερεῖς οἱ συνοδεύοντες αὐτὸν εἰσέρχονται κατ’ εὐθεῖαν εἰς τὸ ἱερὸν Βῆμα, τέσσαρες δὲ τῶν διακόνων ἐνδύονται τὰς ἱερὰς αὐτῶν στολάς· καὶ κρατοῦντες δικηροτρίκηρα οἱ μὲν δύο ἐξ αὐτῶν θυμιῶσι τὸν Πατριάρχην εἰσερχόμενον ἐν τῷ Ναῷ, οἱ δὲ δύο ἵστανται περὶ αὐτόν· προπορευομένου δὲ τοῦ Πριμικηρίου μὲ τὸ Διβάμβουλον, καὶ τῶν Χορῶν τῶν ψαλτῶν ψαλλόντων τὸ *Ἄξιόν ἐστιν*, εἰσέρχεται ὁ Πατριάρχης εἰς τὸ ἱερὸν Βῆμα. Τότε ὁ πρῶτος τῇ τάξει Ἀρχιερεὺς φέρων Ἐπιτραχήλιον καὶ Ὠμοφόριον ποιεῖ Εὐλογητόν, ὁ Διάκονος λέγει τὸ Τρισάγιον, ὁ Ἀρχιερεὺς *Ὅτι σοῦ ἐστιν*, μεθ’ ὃ οἱ Ἀρχιερεῖς ψάλλουσι τὸ *Εὐλογητὸς εἶ Χριστὲ ὁ Θεὸς ἡμῶν* καὶ τὸ *Ὅτε καταβάς*, ὁ Ἀρχιερεὺς *Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου δεόμεθά σου ἐπάκουσον καὶ ἐλέησον*, οἱ Ἀρχιερεῖς τὸ *Κύριε ἐλέησον* τρίς, ὁ Ἀρχιερεὺς *Ἔτι δεόμεθα ὑπὲρ τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν*, αὖθις τὸ *Κύριε ἐλέησον* τρίς, ὁ Ἀρχιερεὺς *Ὅτι ἐλεήμων καὶ...*
 
@@ -153,7 +153,7 @@ If the Consecration of a church coincides with a Master Feast [Feast of the Lord
 
 ## Ceremony of the Accession of a Patriarch to the Ecumenical Throne (Arrival, Entrance, and Supplications) [Violakis, p. 883]
 
-### CEREMONY OF THE ACCESSION OF A PATRIARCH TO THE ECUMENICAL THRONE
+**CEREMONY OF THE ACCESSION OF A PATRIARCH TO THE ECUMENICAL THRONE**
 
 Arriving with his customary entourage in solemn cortège at the Patriarchate, the Patriarch comes before the great portal of the church* where all the clergy have assembled to receive him. The holy Hierarchs who accompany him enter directly into the Holy Sanctuary [Bema]; four of the deacons vest in their sacred vestments; holding the Dikerotrikera, two of them cense the Patriarch as he enters the church, while the other two stand beside him. Preceded by the Primikirios carrying the Divamboulon, and with the Choirs of Chanters singing **"It is truly meet to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*), the Patriarch enters into the Holy Sanctuary.
 

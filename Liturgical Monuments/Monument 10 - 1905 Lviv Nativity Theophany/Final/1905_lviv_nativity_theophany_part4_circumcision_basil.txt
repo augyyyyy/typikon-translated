@@ -63,16 +63,16 @@ Enthroned on high upon a fiery-formed throne with the beginningless Father and T
 *At "God is the Lord", Troparion of the Circumcision: "Enthroned on high upon a fiery-formed throne...", twice. Glory: To Basil: "Thy proclamation went forth into all the earth...". Both now: "Enthroned on high upon a fiery-formed throne...". — After the 1st Kathisma, Sessional Hymn, Tone 5. Podoben: "Co-beginningless Word...":*[^571]
 As royal adornment of the Church let us all praise Basil, the inexhaust- -ible treasury of doctrines; for by these he instructed us to revere the Holy Trinity, united indeed in essence, yet divided in hypostases.[^572]
 
-*Glory: Tone 1. Podoben: "Thy tomb, O Savior...":*[^573]
+*Glory: Tone 1. Podoben: "Thy tomb, O Savior..." (Гро́бъ тво́й Сп҃се):*[^573]
 O all-wise Basil, standing before the Trinity, pray that on the day of judgment grace, mercy, and purification of transgressions may be obtained by us who sing unto thee and honor thy memory, that with mouth and heart we may glorify the only Lover of mankind.[^574]
 
 *Both now:*
 The Creator of all and Master of the world, Who is on high with the Father and the Spirit, is circumcised on earth as an eight-day-old infant; truly divine and marvelous are Thy works: for Thou, O Master, wast circumcised for our sake, being the fulfillment of the law.[^575]
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: "The Wisdom...":*[^576]
+*After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: "The Wisdom..." (Премꙋ́дрости):*[^576]
 Having drawn forth the secret wealth of ineffable wisdom in divine contemplation, thou didst pour forth for all the waters of Orthodoxy, divinely gladdening the hearts of the faithful, yet worthily drowning the commands of the unfaithful; whence by both sweatings of piety thou didst show thyself an invincible champion of the Trinity, hierarch Basil: pray Christ God to grant remission of transgressions unto those who celebrate thy holy memory with love.[^577]
 
-*Glory: Tone 3. Podoben: "Of the divine faith...":*[^578]
+*Glory: Tone 3. Podoben: "Of the divine faith..." (Бж҃е́ственныѧ вѣ́ры):*[^578]
 Thou didst water the whole universe as with waters by thy teachings, by the dogmas of piety gathered together; for the fountain of life truly rested in thee, O Basil; pray Him, as one having acquired boldness, O divinely inspired one, to grant us great mercy.[^579]
 
 *Both now: Tone 4:*
@@ -98,7 +98,7 @@ We magnify thee, O hierarch of Christ, Basil, and we honor thy holy memory: for 
 *Of Basil: Blessed are they that dwell in Thy house, they will praise Thee unto ages of ages.*[^591]
 *Glory: Both now: Alleluia, thrice.*
 
-*Thereafter, Sessional Hymn, Tone 8. Podoben: "The Wisdom...":*[^592]
+*Thereafter, Sessional Hymn, Tone 8. Podoben: "The Wisdom..." (Премꙋ́дрости):*[^592]
 By the power of divine words thou didst overthrow dark heresies, thou didst drown all the ragings of Eunomius; for unto men thou didst proclaim the Spirit to be God, and by the lifting up of hands thou didst slay enemies; thou didst drive away all the worship of Sabellius, and didst abolish all the vain reasonings of Nestorius, O hierarch Basil: pray Christ God to grant remission of transgressions unto those who celebrate thy holy memory with love.[^593]
 
 *Glory:*[^594]
@@ -179,13 +179,13 @@ The Lord, Who gives strength unto our kings and exalts the horn of His anointed 
 *The Second Choir:*
 As many of us as have been delivered from the ancient snares of lions' jaws, their teeth crushed: let us rejoice and open wide our mouth, weaving a hymn out of sweet-singing words, delighting in the gifts bestowed upon us.[^627]
 
-*Kontakion of the Circumcision: Tone 3. Podoben: "The Virgin today...":*
+*Kontakion of the Circumcision: Tone 3. Podoben: "The Virgin today..." (Дв҃а дне́сь):*
 The Lord of all endures circumcision, and as good circumcises the transgressions of mortals; He grants salvation today unto the world, and on high rejoices also the Creator's hierarch and light-bearing, divine initiate of Christ, Basil.[^628]
 
-*Then Sessional Hymn: Tone 8. Podoben: "The Wisdom...":*
+*Then Sessional Hymn: Tone 8. Podoben: "The Wisdom..." (Премꙋ́дрости):*
 Having learned the words of wisdom, and laid aside the letter of the law, thou didst proclaim unto all the words of grace, and didst smooth the tablets of souls with thy words, wherein thou didst inscribe divine teachings; therefore, having passed through the gloom by the cloud of the body's covering, thou didst shine forth by the Holy Spirit, O Basil; entreat Christ God to grant remission of sins unto those who honor thy holy memory with love. *(Twice)*[^629]
 
-*Glory; Both now: Of the Circumcision: Tone 4. Podoben: "Thou hast appeared today...":*
+*Glory; Both now: Of the Circumcision: Tone 4. Podoben: "Thou hast appeared today..." (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 As being an abyss of love for mankind, Thou didst clothe Thyself, O Master, in the form of a servant, and wast circumcised in the flesh, granting unto all people Thy great mercy.[^630]
 
 *Ode 4. — Heirmos:*
@@ -266,7 +266,7 @@ The voice of the Word, the lamp of the Light, the morning star of the Sun, the F
 *The Second Choir:*
 With a most blessed voice the Father made manifest the Beloved Whom He brought forth from the womb: Yea, He says, this radiant One, being My consubstantial Son, has sprung forth from the human race: My living Word, and mortal by providence.[^660]
 
-*Kontakion, Tone 4. Podoben: "Thou hast appeared today...":*
+*Kontakion, Tone 4. Podoben: "Thou hast appeared today..." (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 Thou wast shown forth as an unshakable foundation of the Church, dispensing unto all mortals an inviolable dominion, sealing it by thy decrees, O heavenly-manifest Basil, venerable one.[^661]
 
 *Ikos:*
@@ -372,14 +372,14 @@ Magnify, O my soul, the Virgin all-pure Theotokos, more honorable than the heave
 *And the Heirmos:*
 O the wonders of thy childbearing beyond understanding! O all-pure bride, blessed Mother, through whom having obtained all-perfect salvation, we worthily praise Him as Benefactor, bringing as a gift a hymn of thanksgiving.[^694]
 
-*Exapostilarion. — Podoben: By the Spirit in the sanctuary:*
+*Exapostilarion. — Podoben: By the Spirit in the sanctuary (Дх҃омъ во ст҃и́лищи):*
 Through the desire of love of wisdom, O father, thou didst circumcise the veil of thy soul, and wast shown forth unto the world like a sun by wonders; and thou didst illumine the thoughts of the faithful, O divinely wise initiate of the Trinity, O wise Basil, and servant of the Theotokos. (Twice)[^695]
 
 *Glory; Both now: Of the Circumcision:*
 He Who fulfills the law is circumcised in the flesh as an eight-day-old infant, the Creator of the ages; and He is wrapped in swaddling clothes as a man, and is nourished with milk, He Who holds all things by His measureless power as God, and raises them up by His nod.[^696]
 
 *At the Praises, Stichera on 6.*
-*Tone 5. Podoben: Rejoice...*
+*Tone 5. Podoben: Rejoice (Ра́дꙋйсѧ живоно́сный Крⷭ҇те)...*
 He Who was ineffably begotten as the Word of the Father without severing or corruption, and Who as God from God abides in immutable Godhead, endures circumcision in the flesh; therefore, having come under the law though being above the law, He delivers all from the curse of the law, and grants blessing from on high; therefore, praising His most-good condescension, we sing and thankfully glorify Him, entreating Him to grant our souls great mercy. (Twice)[^697]
 
 Having become a son of God by grace through the rebirth of divine baptism, thou didst confess Him Who by nature and truth is the co-eternal Son of God and Word, consubstantial with the Father and co-unoriginate, O venerable one; and the unstopped mouths of heretics thou didst close with the brightness of thy words; therefore also thou didst take up dwelling in the heavenly kingdoms, reigning together with Christ Who alone reigns by nature, Who richly dispenses great mercy unto the world.[^698]
@@ -403,52 +403,52 @@ The Savior, descending unto the human race, accepted swaddling clothes, and did 
 *At the entrance: Troparion of the Circumcision:* On a fiery throne... (see p. 179)[^705]. *And of Basil:* Into all the earth... (p. 179)[^706]. *Glory: Kontakion of Basil:* Thou hast appeared... (p. 192)[^707]. *Both now: Of the Circumcision:* The Lord of all... (p. 187)[^708].
 
 *Prokeimenon, Tone 6:*
-**Reader:** O Lord, save Thy people, and bless Thine inheritance.
-**Choir:** O Lord, save Thy people, and bless Thine inheritance.
-**Reader:** *Verse:* Unto Thee, O Lord, will I cry; O my God, be not silent unto me.
-**Choir:** O Lord, save Thy people, and bless Thine inheritance.[^709]
+> **Reader:** "O Lord, save Thy people, and bless Thine inheritance."
+> **Choir:** "O Lord, save Thy people, and bless Thine inheritance."
+> **Reader:** *Verse:* Unto Thee, O Lord, will I cry; O my God, be not silent unto me.
+> **Choir:** "O Lord, save Thy people, and bless Thine inheritance."[^709]
 
 *Prokeimenon of Basil, Tone 1:*
-**Reader:** My mouth shall speak wisdom, and the meditation of my heart understanding.
-**Choir:** My mouth shall speak wisdom, and the meditation of my heart understanding.[^710]
+> **Reader:** "My mouth shall speak wisdom, and the meditation of my heart understanding."
+> **Choir:** "My mouth shall speak wisdom, and the meditation of my heart understanding."[^710]
 
 *Epistle to the Colossians, Pericope 254 [Colossians 2:8–12]:*
-**Reader:** Brethren, beware lest anyone spoil you through philosophy and vain deceit, according to the tradition of men, according to the rudiments of the world, and not according to Christ. For in Him dwells all the fullness of the Godhead bodily; and you are complete in Him, Who is the head of all principality and power; in Whom also you were circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ; buried with Him in baptism, wherein also you were raised with Him through faith in the working of God, Who raised Him from the dead.[^711]
+> **Reader:** "Brethren, beware lest anyone spoil you through philosophy and vain deceit, according to the tradition of men, according to the rudiments of the world, and not according to Christ. For in Him dwells all the fullness of the Godhead bodily; and you are complete in Him, Who is the head of all principality and power; in Whom also you were circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ; buried with Him in baptism, wherein also you were raised with Him through faith in the working of God, Who raised Him from the dead."[^711]
 
 *And of Basil:*
 *Epistle to the Hebrews, Pericope 318 [Hebrews 7:26–8:2]:*
-**Reader:** Brethren, such a High Priest was fitting for us: holy, innocent, undefiled, separated from sinners, and become higher than the heavens;
+> **Reader:** "Brethren, such a High Priest was fitting for us: holy, innocent, undefiled, separated from sinners, and become higher than the heavens;"
 
 Who has no need daily, as the high priests, to offer up sacrifice first for His own sins, and then for those of the people; for this He did once for all, having offered up Himself. For the law appoints men high priests having infirmity; but the word of the oath, which was after the law, appoints the Son, perfected unto ages of ages. Now of the things which are spoken this is the sum: We have such a High Priest, Who sat down on the right hand of the throne of the Majesty in the heavens, a minister of the sanctuary and of the true tabernacle, which the Lord pitched, and not man.[^712]
 
 *Alleluia, Tone 8:*
-**Choir:** Alleluia, alleluia, alleluia.
-**Reader:** *Verse:* Give ear, O Shepherd of Israel, Thou that leadest Joseph like a sheep.
-**Choir:** Alleluia, alleluia, alleluia.
-**Reader:** *Verse:* The mouth of the righteous shall meditate on wisdom, and his tongue shall speak of judgment.
-**Choir:** Alleluia, alleluia, alleluia.[^713]
+> **Choir:** "Alleluia, alleluia, alleluia."
+> **Reader:** *Verse:* Give ear, O Shepherd of Israel, Thou that leadest Joseph like a sheep.
+> **Choir:** "Alleluia, alleluia, alleluia."
+> **Reader:** *Verse:* The mouth of the righteous shall meditate on wisdom, and his tongue shall speak of judgment.
+> **Choir:** "Alleluia, alleluia, alleluia."[^713]
 
 *Gospel according to Luke, Pericope 6 [Luke 2:20–21, 40–52]:*
-**Deacon:** Let us attend.
-**Priest:** Peace be unto all.
-**Choir:** And to thy spirit.
-**Deacon:** The reading is from the Holy Gospel according to Luke.
-**Choir:** Glory to Thee, O Lord, glory to Thee.
-**Deacon:** At that time, the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them. And when eight days were accomplished for the circumcising of the Child, His name was called Jesus, which was so named of the angel before He was conceived in the womb. And the Child grew, and waxed strong in spirit, filled with wisdom; and the grace of God was upon Him. Now His parents went to Jerusalem every year at the feast of the Passover. And when He was twelve years old, they went up to Jerusalem after the custom of the feast. And when they had fulfilled the days, as they returned, the Boy Jesus tarried behind in Jerusalem; and Joseph and His mother knew it not.
+> **Deacon:** "Let us attend."
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
+> **Deacon:** "The reading is from the Holy Gospel according to Luke."
+> **Choir:** "Glory to Thee, O Lord, glory to Thee."
+> **Deacon:** "At that time, the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them. And when eight days were accomplished for the circumcising of the Child, His name was called Jesus, which was so named of the angel before He was conceived in the womb. And the Child grew, and waxed strong in spirit, filled with wisdom; and the grace of God was upon Him. Now His parents went to Jerusalem every year at the feast of the Passover. And when He was twelve years old, they went up to Jerusalem after the custom of the feast. And when they had fulfilled the days, as they returned, the Boy Jesus tarried behind in Jerusalem; and Joseph and His mother knew it not."
 
 But supposing Him to have been in the company, they went a day's journey; and they sought Him among their kinsfolk and acquaintance. And when they found Him not, they turned back to Jerusalem, seeking Him. And it came to pass, that after three days they found Him in the temple, sitting in the midst of the teachers, both hearing them, and asking them questions. And all that heard Him were astonished at His understanding and answers. And when they saw Him, they were amazed; and His mother said unto Him: Son, why hast Thou thus dealt with us? Behold, Thy father and I have sought Thee sorrowing. And He said unto them: How is it that ye sought Me? Wist ye not that I must be about My Father's business? And they understood not the saying which He spoke unto them. And He went down with them, and came to Nazareth, and was subject unto them; but His mother kept all these sayings in her heart. And Jesus increased in wisdom and stature, and in favor with God and men.[^714]
 
 *And of Basil:*
 *Gospel according to Luke, Pericope 24 [Luke 6:17–23]:*
-**Deacon:** Let us attend.
-**Priest:** Peace be unto all.
-**Choir:** And to thy spirit.
-**Deacon:** The reading is from the Holy Gospel according to Luke.
-**Choir:** Glory to Thee, O Lord, glory to Thee.
-**Deacon:** At that time, Jesus stood on a level place, and a crowd of His disciples, and a great multitude of people from all Judea and Jerusalem, and from the seacoast of Tyre and Sidon, who came to hear Him and to be healed of their diseases, and those who were troubled with unclean spirits; and they were healed. And the whole multitude sought to touch Him, for power went out from Him and healed them all. And He lifted up His eyes on His disciples, and said: Blessed are the poor in spirit, for yours is the kingdom of God. Blessed are ye that hunger now, for ye shall be filled. Blessed are ye that weep now, for ye shall laugh. Blessed are ye when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of Man's sake. Rejoice ye in that day, and leap for joy; for behold, your reward is great in heaven.[^715]
+> **Deacon:** "Let us attend."
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
+> **Deacon:** "The reading is from the Holy Gospel according to Luke."
+> **Choir:** "Glory to Thee, O Lord, glory to Thee."
+> **Deacon:** "At that time, Jesus stood on a level place, and a crowd of His disciples, and a great multitude of people from all Judea and Jerusalem, and from the seacoast of Tyre and Sidon, who came to hear Him and to be healed of their diseases, and those who were troubled with unclean spirits; and they were healed. And the whole multitude sought to touch Him, for power went out from Him and healed them all. And He lifted up His eyes on His disciples, and said: Blessed are the poor in spirit, for yours is the kingdom of God. Blessed are ye that hunger now, for ye shall be filled. Blessed are ye that weep now, for ye shall laugh. Blessed are ye when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of Man's sake. Rejoice ye in that day, and leap for joy; for behold, your reward is great in heaven."[^715]
 
 *Instead of "It is truly meet", we sing:*
-**Choir:** In thee all creation rejoices, O full of grace: the angelic assembly and the human race; O sanctified temple and rational paradise, boast of virgins, from whom God was incarnate and became a child, Who is our God before the ages! For He made thy womb a throne, and made thy body more spacious than the heavens. In thee all creation rejoices, O full of grace: glory to thee![^716]
+> **Choir:** "In thee all creation rejoices, O full of grace: the angelic assembly and the human race; O sanctified temple and rational paradise, boast of virgins, from whom God was incarnate and became a child, Who is our God before the ages! For He made thy womb a throne, and made thy body more spacious than the heavens. In thee all creation rejoices, O full of grace: glory to thee!"[^716]
 
 *Or the Refrain:*
 Magnify, O my soul, the Lord Who according to the law was circumcised in the flesh.
@@ -460,10 +460,10 @@ Magnify, O my soul, Basil the Great from Caesarea.
 Thee Who ineffably didst incarnate God the Luminary, Who shone forth before the sun and came unto us in the flesh from a virginal womb, O blessed and all-pure Theotokos, we magnify.[^717]
 
 *Communion Hymn:*
-**Choir:** Praise the Lord from the heavens, praise Him in the highest.[^718]
+> **Choir:** "Praise the Lord from the heavens, praise Him in the highest."[^718]
 
 *Another:*
-**Choir:** The righteous shall be in everlasting remembrance; he shall not be afraid of evil tidings. Alleluia.[^719]
+> **Choir:** "The righteous shall be in everlasting remembrance; he shall not be afraid of evil tidings. Alleluia."[^719]
 
 *If the Circumcision of the Lord and of Saint Basil the Great fall on a Sunday:*
 *At Great Vespers: At "Lord, I have cried", we chant 3 Resurrection stichera, and 3 of the Circumcision, and 4 of Basil. Glory: Of Basil:* O lover of wisdom... *Both now: Theotokion of the Tone of the week. Entrance. Prokeimenon. And 3 readings. At the Litiya: Sticheron of the temple, and of Saint Basil. Glory: Of Basil. Both now: Of the Circumcision. At the Aposticha, stichera of the Octoechos. Glory: Of Basil. Both now: Of the Circumcision. At the blessing of loaves, Troparion of Basil twice, and "Rejoice, O Virgin Theotokos" once.*

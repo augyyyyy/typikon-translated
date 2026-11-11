@@ -201,7 +201,7 @@ If any virtue, and if any praise befits the saints? For with the sword they bowe
 O Lord, Thou didst show Thy sacred disciples to be noetic heavens: by their sacred intercessions deliver me from earthly evils, ever lifting up through abstinence my contemplation of mind above passions, as Thou art tender-hearted and the Lover of mankind!
 
 *Verse: In this way wherein I walked have they hidden a snare for me.*  
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 Having the whole time of the fast as a co-worker in divine deeds, let us weep from our whole heart, and cry aloud unto the Savior: Through Thy disciples, O most merciful Lord, save those who praise Thee with love, as Thou art tender-hearted and the Lover of mankind!
 
 === LEAF p347 ===

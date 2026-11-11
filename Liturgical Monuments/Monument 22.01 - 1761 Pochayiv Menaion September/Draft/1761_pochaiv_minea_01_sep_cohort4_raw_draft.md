@@ -74,7 +74,7 @@ First offering unto God an unbloody sacrifice, as a most lawful priest, afterwar
 
 The armies of the martyrs, O father, thou didst bring unto Christ by thy teachings, O Anthimus, and by instructions, teaching and instructing, and openly offering thyself as an example, O wise in God; with whom pray that peace and great mercy be granted unto our souls.
 
-*Other Stichera of the Venerable One, in the same Tone and Podoben:*
+*Other Stichera of the Venerable One, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 O father Theoctistus, thy radiant memory makes glad the assemblies of monks with the beauties of thy life, and with the graces of miracles, and with the splendors of gifts. Pray Christ that peace and great mercy be granted unto our souls.
 

@@ -156,9 +156,9 @@
 === LEAF p279 ===
 *"A Flower shall come forth from the root of Jesse,"[^349] was proclaimed by the radiant prophet; for we see the Virgin who through the Spirit has supernaturally given birth in a cave unto the lovely Rose, Who is co-enthroned with the Father in the highest. Ye peoples, let us say: Blessed is He Who is come, our God, glory to Thee!*
 *Today Adam is called back from deception, and from the gloomy deceit of the adversary; for Christ is incarnate of the Virgin as man, Who having renewed Adam has taken away the curse through the Virgin. Ye peoples, let us say: Blessed is He Who is come, our God, glory to Thee!*
-*Glory..., Tone and Podoben: the same:*
+*Glory..., Tone and Podoben: the same (Гла́съ и҆ подо́бенъ то́йже):*
 *Build, O Bethlehem, prepare the things of the Nativity; come, O Joseph, be enrolled with Mary; O all-honored manger, O God-bearing swaddling bands! Wherein Life, having wrapped Himself, shall burst the bonds of death, binding men unto incorruption, Christ our God.*
-*Both now..., Podoben: the same:*
+*Both now..., Podoben: the same (Подо́бенъ то́йже):*
 *O blessed womb of the Maiden of God, which was mentally shown to be greater than Heaven! For Him Whom the heavens cannot contain, thou dost contain, carrying Him within thyself. O blessed breasts of the Virgin, which Christ sucks, He Who nourishes every breath,[^350] having fashioned flesh for Himself in the husbandless womb of the Maiden!*
 *At the Aposticha, Stichera of the Forefeast, Tone 2. Podoben: "O House of Ephratha:" (До́ме є҆ѵфра́ѳовъ:)*
 *Thou hast been shown to be the house of the Creator of all, O Virgin, for having made His abode in thee, the Lord of glory now comes forth to be born.*
@@ -166,9 +166,9 @@
 *A young Child in Bethlehem from the Virgin, the pre-eternal God, is born in a manger of dumb beasts: O wonder!*
 *Verse: O Lord, I have heard Thy report, and was afraid; O Lord, I considered Thy works, and was astonished.*[^352]
 *Ye noetic angelic ranks, with the shepherds and with the Magi, sing unto God in the highest, unto Him Who is born: Glory to Thee!*
-*Glory..., Podoben: the same:*
+*Glory..., Podoben: the same (Подо́бенъ то́йже):*
 *Glory to Thee, Father, Son, and Spirit, by Whom an awesome mystery was arranged, for the rebirth of men.*
-*Both now..., Podoben: the same:*
+*Both now..., Podoben: the same (Подо́бенъ то́йже):*
 *Rejoice, O Virgin Theotokos, who hast given birth unto the Life of the world from the Holy Spirit, unto the deliverance of all.*
 *It is fitting to know: If the Sunday before the Nativity of Christ, of the Holy Fathers, falls on the 24th day of December.*[^353]
 *On Saturday at Small Vespers, the resurrectional stichera on 4. Glory..., Both now...*

@@ -27,47 +27,7 @@ August 17, 1795
 
 "Book very rare — firstling of the Kyiv Printing House; published in the year 1616 (see the end of the Epilogue of the Horologion). Lacks leaves 1 and 189."
 
----
-
-## TABLE OF CONTENTS
-
-* **[1616–1617 Kyiv-Pechersk Lavra Horologion of Zacharias Kopystensky (Часослов, Київ: Друкарня Києво-Печерської Лаври, 1616/1617)](#16161617-kyiv-pechersk-lavra-horologion-of-zacharias-kopystensky)**
-* **[PREFACE](#preface)**
-  * [FOREWORD TO THE HOROLOGION](#foreword-to-the-horologion)
-* **[THE MIDNIGHT OFFICE](#the-midnight-office)**
-  * [The Beginning of the Midnight Office](#the-beginning-of-the-midnight-office)
-* **[THE BOOK OF HOURS (HOROLOGION)](#the-book-of-hours-horologion)**
-  * [The Book of Hours, with God the Holy One](#the-book-of-hours-with-god-the-holy-one)
-  * [The Order upon Rising Swiftly from Sleep](#the-order-upon-rising-swiftly-from-sleep)
-  * [ANOTHER MIDNIGHT OFFICE, SUNG ON SATURDAYS](#another-midnight-office-sung-on-saturdays)
-  * [SUNDAY MIDNIGHT OFFICE](#sunday-midnight-office)
-  * [THE BEGINNING OF MATINS](#the-beginning-of-matins)
-  * [HYMNS TO THE TRINITY OF THE EIGHT TONES](#hymns-to-the-trinity-of-the-eight-tones)
-* **[THE ORDER OF THE FIRST HOUR](#the-order-of-the-first-hour)**
-  * [THE BEGINNING OF THE FIRST HOUR](#the-beginning-of-the-first-hour)
-  * [THE MID-HOUR OF THE FIRST HOUR](#the-mid-hour-of-the-first-hour)
-* **[THE ORDER OF THE THIRD HOUR](#the-order-of-the-third-hour)**
-  * [THE BEGINNING OF THE THIRD HOUR](#the-beginning-of-the-third-hour)
-  * [THE MID-HOUR OF THE THIRD HOUR](#the-mid-hour-of-the-third-hour)
-* **[THE ORDER OF THE SIXTH HOUR](#the-order-of-the-sixth-hour)**
-  * [THE BEGINNING OF THE SIXTH HOUR](#the-beginning-of-the-sixth-hour)
-  * [THE MID-HOUR OF THE SIXTH HOUR](#the-mid-hour-of-the-sixth-hour)
-* **[THE ORDER OF THE TYPIKA: WHICH IS THE OBEDNITSA](#the-order-of-the-typika-which-is-the-obednitsa)**
-  * [THE ORDER OF THE TYPIKA: WHICH IS THE OBEDNITSA](#the-order-of-the-typika-which-is-the-obednitsa)
-* **[THE ORDER OF VESPERS AND COMPLINE](#the-order-of-vespers-and-compline)**
-  * [THE BEGINNING OF GREAT COMPLINE](#the-beginning-of-great-compline)
-* **[KANONIKON: THE VENERABLE PARAKLESIS TO THE MOST HOLY THEOTOKOS](#kanonikon-the-venerable-paraklesis-to-the-most-holy-theotokos)**
-* **[TROPARIA AND KONTAKIA: RESURRECTIONAL TROPARIA, THEOTOKIA, AND HYPAKOAI OF THE EIGHT TONES](#troparia-and-kontakia-resurrectional-troparia-theotokia-and-hypakoai-of-the-eight-tones)**
-  * [DAILY TROPARIA, THEOTOKIA, AND KONTAKIA OF THE WEEK](#daily-troparia-theotokia-and-kontakia-of-the-week)
-  * [THEOTOKIA AND STAVROTHEOTOKIA OF THE EIGHT TONES](#theotokia-and-stavrotheotokia-of-the-eight-tones)
-  * [FEAST OF THE DORMITION OF THE MOST HOLY THEOTOKOS](#feast-of-the-dormition-of-the-most-holy-theotokos)
-* **[TROPARIA AND KONTAKIA TO THE RUS' SAINTS](#troparia-and-kontakia-to-the-rus-saints)**
-* **[TABLE OF CONTENTS OF THE SERVICES OF THIS BOOK](#table-of-contents-of-the-services-of-this-book)**
-  * [TABLE OF CONTENTS OF THE SERVICES OF THIS BOOK](#table-of-contents-of-the-services-of-this-book)
-
----
-
-# PREFACE
+## PREFACE
 
 **Eliseus Pletenetsky,[^4] Archimandrite of the Caves of Kyiv,[^5] unto the Orthodox Russian Race,[^6] the most beloved sons of the Eastern Church: soul-saving health!**
 
@@ -123,6 +83,44 @@ Z. A. K. [Zacharias Archimandrite Kopystensky][^123]
 
 Mark: Chapter 11, [verses] 25, 26:[^125]
 *And when ye stand praying, forgive, if ye have ought against any: that your Father also Who is in heaven may forgive you your trespasses. But if ye do not forgive, neither will your Father Who is in heaven forgive your trespasses.* (Mk. 11:25-26)[^126]
+
+---
+
+## TABLE OF CONTENTS
+
+* **[1616–1617 Kyiv-Pechersk Lavra Horologion of Zacharias Kopystensky (Часослов, Київ: Друкарня Києво-Печерської Лаври, 1616/1617)](#16161617-kyiv-pechersk-lavra-horologion-of-zacharias-kopystensky)**
+  * [PREFACE](#preface)
+  * [FOREWORD TO THE HOROLOGION](#foreword-to-the-horologion)
+* **[THE MIDNIGHT OFFICE](#the-midnight-office)**
+  * [The Beginning of the Midnight Office](#the-beginning-of-the-midnight-office)
+* **[THE BOOK OF HOURS (HOROLOGION)](#the-book-of-hours-horologion)**
+  * [The Book of Hours, with God the Holy One](#the-book-of-hours-with-god-the-holy-one)
+  * [The Order upon Rising Swiftly from Sleep](#the-order-upon-rising-swiftly-from-sleep)
+  * [ANOTHER MIDNIGHT OFFICE, SUNG ON SATURDAYS](#another-midnight-office-sung-on-saturdays)
+  * [SUNDAY MIDNIGHT OFFICE](#sunday-midnight-office)
+  * [THE BEGINNING OF MATINS](#the-beginning-of-matins)
+  * [HYMNS TO THE TRINITY OF THE EIGHT TONES](#hymns-to-the-trinity-of-the-eight-tones)
+* **[THE ORDER OF THE FIRST HOUR](#the-order-of-the-first-hour)**
+  * [THE BEGINNING OF THE FIRST HOUR](#the-beginning-of-the-first-hour)
+  * [THE MID-HOUR OF THE FIRST HOUR](#the-mid-hour-of-the-first-hour)
+* **[THE ORDER OF THE THIRD HOUR](#the-order-of-the-third-hour)**
+  * [THE BEGINNING OF THE THIRD HOUR](#the-beginning-of-the-third-hour)
+  * [THE MID-HOUR OF THE THIRD HOUR](#the-mid-hour-of-the-third-hour)
+* **[THE ORDER OF THE SIXTH HOUR](#the-order-of-the-sixth-hour)**
+  * [THE BEGINNING OF THE SIXTH HOUR](#the-beginning-of-the-sixth-hour)
+  * [THE MID-HOUR OF THE SIXTH HOUR](#the-mid-hour-of-the-sixth-hour)
+* **[THE ORDER OF THE TYPIKA: WHICH IS THE OBEDNITSA](#the-order-of-the-typika-which-is-the-obednitsa)**
+  * [THE ORDER OF THE TYPIKA: WHICH IS THE OBEDNITSA](#the-order-of-the-typika-which-is-the-obednitsa)
+* **[THE ORDER OF VESPERS AND COMPLINE](#the-order-of-vespers-and-compline)**
+  * [THE BEGINNING OF GREAT COMPLINE](#the-beginning-of-great-compline)
+* **[KANONIKON: THE VENERABLE PARAKLESIS TO THE MOST HOLY THEOTOKOS](#kanonikon-the-venerable-paraklesis-to-the-most-holy-theotokos)**
+* **[TROPARIA AND KONTAKIA: RESURRECTIONAL TROPARIA, THEOTOKIA, AND HYPAKOAI OF THE EIGHT TONES](#troparia-and-kontakia-resurrectional-troparia-theotokia-and-hypakoai-of-the-eight-tones)**
+  * [DAILY TROPARIA, THEOTOKIA, AND KONTAKIA OF THE WEEK](#daily-troparia-theotokia-and-kontakia-of-the-week)
+  * [THEOTOKIA AND STAVROTHEOTOKIA OF THE EIGHT TONES](#theotokia-and-stavrotheotokia-of-the-eight-tones)
+  * [FEAST OF THE DORMITION OF THE MOST HOLY THEOTOKOS](#feast-of-the-dormition-of-the-most-holy-theotokos)
+* **[TROPARIA AND KONTAKIA TO THE RUS' SAINTS](#troparia-and-kontakia-to-the-rus-saints)**
+* **[TABLE OF CONTENTS OF THE SERVICES OF THIS BOOK](#table-of-contents-of-the-services-of-this-book)**
+  * [TABLE OF CONTENTS OF THE SERVICES OF THIS BOOK](#table-of-contents-of-the-services-of-this-book)
 
 ---
 
@@ -4281,7 +4279,7 @@ Likewise, Troparia and Kontakia to the Rus' Saints.[^545]
 
 [^215]: The Prayer of Saint Mardarios (*Владыко Боже, Отче Вседержителю...* / *Δέσποτα Θεέ, Πάτερ παντοκράτορ...*), recited after the priest's blessing, was printed in full on fol. 22 (physical leaf p49).
 
-[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγалύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
+[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγαλύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
 
 [^217]: The concluding sequence of the Midnight Office (the trisagion prayers, the troparia of the dead, the litany of supplication, and the mutual forgiveness) is cross-referenced to its complete printing on fol. 23 (physical leaf p51).
 
@@ -4323,7 +4321,7 @@ Likewise, Troparia and Kontakia to the Rus' Saints.[^545]
 
 [^236]: Psalm 87 in the Septuagint (LXX 87; MT 88), the fourth psalm of the Hexapsalmos, known as the most sorrowful lament in the Psalter, chanted as a contemplation of Christ's descent into Hades and tomb.
 
-[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Еѵхаὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
+[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Εὐχαὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
 
 [^238]: Psalm 102 in the Septuagint (LXX 102; MT 103), the fifth psalm of the Hexapsalmos, a hymn of radiant thanksgiving for God's boundless mercy, forgiveness, and paternal compassion.
 
@@ -4361,7 +4359,7 @@ Likewise, Troparia and Kontakia to the Rus' Saints.[^545]
 
 [^255]: The rubric distinguishes the festal singing of the Great Doxology from the Lenten/daily recitation of the Doxology preceded by the doxological acclamation 'To Thee glory is due...' and accompanied by 3 prostrations (metanias).
 
-[^256]: Church Slavonic 'брaзꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
+[^256]: Church Slavonic 'бразꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
 
 [^257]: The rubric provides the branching sequence for Lenten Matins versus non-fasting Matins: on ordinary days, the dismissal is followed directly by the First Hour, whereas on Lenten days, the special Lenten troparion ('In the temple standing...') and the Prayer of St. Ephrem with prostrations are performed before the First Hour.
 
@@ -4567,7 +4565,7 @@ Likewise, Troparia and Kontakia to the Rus' Saints.[^545]
 
 [^358]: The general prayer of the Hours *Thou Who at every time and at every hour* (*И́же на вся́ко вре́мя*) is here attributed to St. Basil the Great (frequently attributed elsewhere to St. Basil or St. John Chrysostom; cross-reference to its full text earlier in the Horologion).
 
-[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσпоτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
+[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσποτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
 
 [^360]: The Prayer of St. Ephrem the Syrian (*Господи и Владыко живота моего*) accompanied by the prescribed monastic prostrations (four great prostrations and twelve waist-bows with *Боже, очисти мя грѣшнаго*), totaling 15 bows.
 
@@ -4819,7 +4817,7 @@ Likewise, Troparia and Kontakia to the Rus' Saints.[^545]
 
 [^484]: Cross-reference to the evening prayer for enemies and benefactors (*Ненавидящихъ и обидящихъ насъ прости, Господи*) on fol. 27 (physical leaf p50).
 
-[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέлеε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
+[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέλεε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
 
 [^486]: Folio 167v: Internal cross-reference to fol. 26 (p49), where the closing litany of petition for the faithful and suffering (*Помолимся о православных христианех...*) is printed in full at the end of the Midnight Office.
 

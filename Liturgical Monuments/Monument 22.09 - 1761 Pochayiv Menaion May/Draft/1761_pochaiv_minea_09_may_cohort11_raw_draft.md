@@ -5,7 +5,7 @@
 *Theotokion:*
 The prophet prefigured thee, O Birthgiver of God, as an all-golden lampstand bearing the unwaning Light, Christ our God, Who enlightens the world with the rays of His divinity.
 
-*Kontakion and Ikos of the Feast, and the Sessional Hymn of the Apostle, Tone 3, Podoben: "Of the Divine Faith" (Bozhestvennyya very):*
+*Kontakion and Ikos of the Feast, and the Sessional Hymn of the Apostle, Tone 3, Podoben: "Of the Divine Faith" (Бж҃е́ственныѧ вѣ́ры):*
 By the illumination of the Holy Spirit, thou didst dispel the darkness of polytheism and didst enlighten the hearts of the faithful, singing the saving commandments, and didst make void the Hellenic fables, O glorious Simon; entreat Christ God to grant us great mercy! *Twice.*
 
 *Glory... Both now... of the Feast.*
@@ -53,7 +53,7 @@ The Savior showed Thee forth as a performer of divine wonders...
 *Theotokion:*
 Let the mouths of the evildoers be stopped, who do not acknowledge thee as Birthgiver of God, O all-immaculate one, and let their faces be clothed with shame!
 
-*Kontakion, Tone 2, Podoben: "The Firm and God-Proclaimed Preachers" (Tverdyya):*
+*Kontakion, Tone 2, Podoben: "The Firm and God-Proclaimed Preachers" (Тве́рдыѧ):*
 Him who securely placed the teachings of wisdom in the souls of the pious, let us all bless in praise, as the God-proclaiming Simon; for he now stands before the throne of glory, and rejoices with the bodiless [hosts], praying unceasingly for us all.
 
 *Ikos:*
@@ -96,12 +96,12 @@ Wholly dedicated unto God, thou wast commingled with Him; pray now unto Him, O G
 *Theotokion:*
 We magnify in songs her who appeared unto men as the mediatress of salvation for all, and who enlightened the world with the splendors of God-beholding purity.
 
-*Exapostilarion, Podoben: "In the Spirit in the Sanctuary" (Dukhom vo svyatilishchi):*
+*Exapostilarion, Podoben: "In the Spirit in the Sanctuary" (Дх҃омъ во ст҃и́лищи):*
 Having turned the course of thy beautiful feet, O Apostle Simon, thou didst ascend rejoicing unto the heavenly pathway, and standing before the Trinity, in the Father thou beholdest the Son and the divine Spirit. Therefore in faith we celebrate thy most sacred and divine memory.
 
 *Glory... Both now... of the Feast.*
 
-*At the Praises, Stichera for 4, Tone 8, Podoben: "What Shall We Call You" (Chto vy narechem):*
+*At the Praises, Stichera for 4, Tone 8, Podoben: "What Shall We Call You" (Что̀ вы̀ нарече́мъ):*
 What shall we name thee, O apostle?* Heaven,* for thou didst declare the glory of God;* a river,* for thou dost mystically water creation;* a star,* illuminating the Church;* a chalice,* pouring forth holy drink;* the closest friend of Christ,* the equal citizen of the bodiless hosts:* pray for the salvation of our souls! *Twice.**
 
 *Sticheron:*
@@ -130,7 +130,7 @@ Having left earthly things, thou didst follow Christ, and having been marked...
 
 ## May 11. The Renewal of the Imperial City, and the Holy Hieromartyr Mocius
 
-*At Vespers, Stichera of the Hieromartyr, Tone 4, Podoben: "As One Valiant Among Martyrs" (Yako dobla):*
+*At Vespers, Stichera of the Hieromartyr, Tone 4, Podoben: "As One Valiant Among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 Like the radiant sun,* thou didst shine forth from the West,* illuminating all that is under the sun* with the lightnings of suffering,* O God-wise, exceedingly rich one,* adornment of sufferers,* beauty of priests,* equal standing-companion of the holy angels,* who didst destroy the power of delusion,* O God-blessed Mocius!*
 
 *Sticheron:*
@@ -182,7 +182,7 @@ Truly thou hast passed from corruption unto incorruption; through supreme love t
 Having found thee as a most pure dwelling, the Wisdom of God became incarnate from thy precious blood, and showed thee forth as incorrupt after childbearing.
 
 === LEAF p106 === (Fol. 53v)
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up" (Voznesyisya):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up" (Вознесы́йсѧ):*
 Let the renowned passion-bearer of all, who humbled the enemy unto the end and steadfastly endured fiery torment, the glorious Mocius, be honored with praises; for having endured unbearable torments and having been beheaded in the head, he ascended rejoicing unto Christ as a crown-bearer.
 
 *Glory... Both now... of the Feast.*
@@ -235,7 +235,7 @@ Without being engulfed thou didst cross the gulf of martyrdom, and didst hasten 
 *Theotokion:*
 O Mary, who alone didst bear Christ, as the only merciful one draw me up from the depth of sins, and save me from the tempest of adverse thoughts!
 
-*Kontakion, Tone 2, Podoben: "The Firm and God-Proclaimed Preachers" (Tverdyya):*
+*Kontakion, Tone 2, Podoben: "The Firm and God-Proclaimed Preachers" (Тве́рдыѧ):*
 Armed with the shield of faith, thou didst crush the hosts of the impious, O hieromartyr, and didst receive a crown from Christ, O Mocius; therefore, rejoicing with the angels, deliver from perils those who sing of thee, praying unceasingly for us all.
 
 *Ikos:*
@@ -297,7 +297,7 @@ Following thy words, we ever bless thee, O Virgin; for ineffably thou didst bear
 
 ## May 12. Our Fathers Among the Saints, Epiphanius, Bishop of Cyprus, and Germanus, Patriarch of Constantinople
 
-*At Vespers, Stichera of Saint Epiphanius, Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Raduisya postnikov):*
+*At Vespers, Stichera of Saint Epiphanius, Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Ра́дꙋйсѧ по́стникѡвъ):*
 Rejoice, in truth [adornment] of ascetics,* who with the cord of thy most wise teachings* didst pasture this lamb* upon the pastures of orthodoxy,* O Epiphanius,* the meek sheep of Christ the Chief Shepherd,* which was reared on the grass of abstinence,* and now hath made its fold in the sheepfold of the life on high,* where dancing in chorus with the saints and martyrs,* ever pray for all who with love celebrate thy memory, O God-wise one,* to grant us peace* and great mercy!*
 
 *Sticheron:*
@@ -309,7 +309,7 @@ Rejoice, mystical river* filled with spiritual waters,* adornment of the Church,
 *Other Stichera, of Saint Germanus,*
 
 === LEAF p110 === (Fol. 55v)
-*Tone 1, Podoben: "O All-Lauded Martyrs" (Vsekhvalnii muchenitsy):*
+*Tone 1, Podoben: "O All-Lauded Martyrs" (Всехва́льнїи мч҃ницы):*
 The scheming of Leo* thou didst firmly overthrow, O Germanus:* full of evil belief, the wretched one* rejected the veneration of the honorable icons of Christ* and of all the saints;* but by thy words, O God-manifested one,* he was refuted as insane* and remained senseless.*
 
 *Sticheron:*

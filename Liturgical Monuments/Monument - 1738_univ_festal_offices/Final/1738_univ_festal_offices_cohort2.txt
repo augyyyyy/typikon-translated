@@ -11,7 +11,7 @@ Praise the Lord, O Jerusalem; praise thy God, O Zion: for He has given thee for 
 Great is our Lord, and great is His power; Who beyond bread has given His Flesh for food unto the Christian race, so that He may be deified in them that partake; for He enters into God's holy ones, into all that partake of Him, and saves our souls.  
 
 *ON TUESDAY AT MATINS, AT THE APOSTICHA*  
-*Tone 1, Podoben: "Of the Heavenly Ranks" (Nebesnykh chinov):*  
+*Tone 1, Podoben: "Of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*  
 *1. "We magnify today the wonders of Christ"; 2. "In the Upper Room where the great..."; 3. "Having taken also the Cup, [He said] aloud...", with their verses. There also Glory... Both now... Tone 6: "Whom without seed thou hast borne, the Sun", (see fol. 11)[^20] on Saturday at Vespers.*  
 
 *ON TUESDAY EVENING, AT "LORD, I HAVE CRIED"*  
@@ -28,7 +28,7 @@ Before Whom the Angelic Powers tremble, and the Heavenly Hosts are struck with d
 
 *Glory... Both now... Tone 6: "Before the Shadow of the Ark he leapt dancing", (see fol. 4).[^21]*  
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfratov):*  
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*  
 
 *Sticheron 1:*  
 This is the Living Bread that came down from heaven, feeding the faithful with His divine Flesh, and granting life eternal.  
@@ -49,7 +49,7 @@ Behold the Lamb, the Flesh of Christ; and receive It with fear: by the divine Br
 This is the Lamb of God Who takes away the sins of the world, Who is given for food unto men: He is seen festively upon the throne, hymned by Angels and worshipped by men: He Who shall come to judge the living and the dead, and to render unto every man according to his works; Whom we also worship with tenderness, as God and our Creator.  
 
 *ON WEDNESDAY AT MATINS, AT THE APOSTICHA*  
-*Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfratov):*  
+*Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*  
 
 *Sticheron 1:*  
 "My Flesh is food indeed, and My Blood is drink," said the Lord; "he that eats My Flesh, and drinks My Blood, abides in Me, and I in him."  
@@ -262,7 +262,7 @@ Standing by the Cross of Thy Son and God, O Virgin All-Pure, glory of the Angels
 *Glory... Both now... The same.*  
 
 *AT THE PRAISES*  
-*Stichera, Tone 2, Podoben: "Thine Angels shall go forth, O Savior" (Angeli Tvoi priidut):*  
+*Stichera, Tone 2, Podoben: "Thine Angels shall go forth, O Savior" (А҆́гг҃ли твоѝ прїи́дꙋтъ):*  
 
 *Sticheron 1:*  
 By many passions, make alive my slain soul, O Theotokos: who without passion didst bear God the Word, Who without passion endured passions and put death to death; and do thou by His deadness slay them that live in the darkness of sins, and direct my deadened thoughts toward divine things.  
@@ -314,7 +314,7 @@ If there be any sorrow like unto my sorrow, therefore my heart is troubled withi
 
 *If it occur on a Sunday, on Saturday at Vespers we recite the Kathisma "Blessed is the man", and we sing at "Lord, I have cried": Resurrection Stichera of the Tone, 4; and of the Saint, 6. But if on another day, we sing the Stichera of the Feast of the Exaltation, and of the Saint:*  
 
-*Stichera unto the Saint, Tone 1, Podoben: "O All-Praised Martyrs" (Prekhvalnii muchenitsy):*  
+*Stichera unto the Saint, Tone 1, Podoben: "O All-Praised Martyrs" (Прехва́льнїи мч҃ницы):*  
 
 *Sticheron 1:*  
 Stained with martyr's blood upon thy sacred vestment, thou didst enter into the Holy of Holies, O crowned head; where are the voices of them that feast, from Whom for thy labors thou dost receive the victories: an unfading crown of eternal beauty, and paradise-dwelling, O Hieromartyr Josaphat; and now pray that there be granted unto the Churches union and peace, and unto our souls great mercy.  
@@ -388,7 +388,7 @@ Radiant is thy solemnity; the Church makes an assembly for thee, rejoicing; O Hi
 
 *If it occur on a Sunday, we sing: the Resurrection Aposticha; Glory... unto the Saint; Both now... unto the Feast. But if on another day, we sing all unto the Saint.*  
 
-*At the Aposticha, Stichera unto the Saint, Tone 4, Podoben: "As One Valiant" (Yako doblia):*  
+*At the Aposticha, Stichera unto the Saint, Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*  
 
 *Sticheron 1:*  
 As a many-splendored sun, spiritually thou hast shone forth upon the firmament of the Church, enlightening souls darkened by the malice of the enemy, through the radiance of words and God-wise teaching, and by a life equal to the Angels; and having guided the wandering into the way of truth, and drawn them unto the union of the Orthodox Catholic Church, therefore today with a loud voice we celebrate thy radiant and holy memory.  
@@ -423,15 +423,15 @@ A radiant lamp hast thou been shown forth, O Hieromartyr Josaphat; for like a go
 
 **[Left Page — Fol. 15v]**
 
-*At Matins, after the 1st Kathisma: Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*  
+*At Matins, after the 1st Kathisma: Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*  
 Having forsaken all earthly things, and lived in the world like an Angel, in preparation of spirit thou wast a partaker with the Angels; for having put to death the present bodily passions, by holy labors thou wast shown forth a favorite of God, O all-blessed one; therefore thou healest the passions of the sick, and castest out evil spirits by the grace of Christ, O God-bearing Father, our Hieromartyr Josaphat: pray unto Christ God to grant remission of sins unto them that with love celebrate thy holy memory.  
 
 *Glory... Both now... Of the Feast of the Exaltation, the same Tone: "The wood alone brought forth death..."*  
 
-*After the 2nd Kathisma: Sessional Hymn, Tone 4, Podoben: "Joseph Was Amazed" (Udivisia Iosif):*  
+*After the 2nd Kathisma: Sessional Hymn, Tone 4, Podoben: "Joseph Was Amazed" (Оу҆диви́сѧ І҆ѡ́сифъ):*  
 Having made thy heart a beautiful altar, thou didst offer unbloody priestly sacrifices unto God; and having suffered strongly from wicked enemies, and endured manifold tortures, an acceptable sacrifice wast thou offered unto Christ our God Who sacrificed Himself for our sake, O all-blessed Hieromartyr Josaphat; Whom do thou fervently entreat always, that all who with love praise thee may be saved.  
 
-*Glory... Both now... Of the Feast of the Exaltation, Tone and Podoben the same: "Moses, stretching forth his hands unto the height..."*  
+*Glory... Both now... Of the Feast of the Exaltation, Tone and Podoben the same: "Moses, stretching forth his hands unto the height..." (Гла́съ и҆ подо́бенъ то́йже)*
 
 *If it occur on a Sunday, all the Sessional Hymns are of the Resurrection. Then: "Praise ye the Name of the Lord..."*  
 
@@ -450,7 +450,7 @@ We magnify thee, O Hieromartyr of Christ, Josaphat, and we honor thy precious su
 *After the Polyeleos, Sessional Hymn, Tone 4:*  
 Having cast down the haughtiness of schismatic enemies, as a good Shepherd and mighty warrior, O blessed one, thou didst receive the crown of victory from the right hand of the Most High, the Chief Shepherd, Christ our God; therefore we call thee blessed today as a good Shepherd and victorious Sufferer, with faith keeping thine unceasing memory, O Hieromartyr of Christ, Josaphat, much-suffering one.  
 
-*Glory... Both now... Of the Feast of the Exaltation, Tone the same, Podoben: "Sent forth secretly" (Poslannoe taino): "In Paradise of old the tree stripped me bare..."*  
+*Glory... Both now... Of the Feast of the Exaltation, Tone the same, Podoben: "Sent forth secretly" (Повелѣ́нное та́йнѡ): "In Paradise of old the tree stripped me bare..."*  
 
 *If it be not Sunday, the Gradual Hymns, Tone 4, 1st Antiphon. Prokeimenon, Tone 4: Precious in the sight of the Lord is the death of His saint and His venerable one. Verse: What shall I render unto the Lord for all that He has rendered unto me? The Gospel from John, Pericope 35 from the half: "I am the Door...". After Psalm 50: Glory... Through the prayers of the Blessed Hieromartyr Josaphat, cleanse the multitude of our transgressions; Both now... Through the prayers of the Ever-Virgin Theotokos...*  
 *Then the Sticheron unto the Saint, Tone 6: "A Lawful Priest", (see fol. 13v)[^26] at "Lord, I have cried".*  

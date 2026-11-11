@@ -55,15 +55,15 @@ edition of 1491. In the modern Greek *Hōrologion*, this prayer is indicated onl
 
 Although in its present form it is of comparatively late origin, the usual beginning consists, nonetheless, of prayers of profound antiquity. The most ancient prayer within it must be acknowledged as **"Lord, have mercy"** (*Gospodi pomiluy* / *Κύριε ἐλέησον*).
 
-### "Lord, Have Mercy"
+**"Lord, Have Mercy"**
 
 "Have mercy" is the most ubiquitous prayerful exclamation in the Psalms; the formula **"Lord, have mercy"** occurs in the Prophets Isaiah and Baruch.[^1885] Concerning its liturgical use in the Christian Church, the earliest witness is provided by the *Apostolic Constitutions* (4th–5th c.), where it serves, as with *(Orig. p. 462)* us, as the response to the petitions of the liturgical litany (*ektenia*).[^1886] Into the daily offices this formula was borrowed from the litany and, consequently, serves as a substitute for it.
 
-### "Our Father"
+**"Our Father"**
 
 The next most ancient prayer in the usual beginning is the Lord's Prayer (**"Our Father"** / *Otche nash* / *Πάτερ ἡμῶν*). However, its concluding doxology did not issue from the lips of the Savior in the form in which it is used among us today, but rather, according to the most widely received text in the Evangelist Matthew, in the following form: "For Thine is the kingdom, and the power, and the glory forever, Amen";[^1887] according to the Evangelist Luke, the Lord's Prayer possesses no doxology whatever.[^1888] In view of this, and on account of the variance in the transmission of this doxology across different documents (for instance, in the *Teaching of the Twelve Apostles* [Didache][^1889] it is transmitted in an even briefer form than in Matthew: "For Thine is the power and the glory forever"), scholars today consider that this doxology found its way into the text of the Gospel of Matthew from liturgical practice.[^1890] (In the Roman Catholic Church it is used without a doxology).
 
-### The Minor Doxology
+**The Minor Doxology**
 
 The next most ancient component of the usual beginning is the doxology, the so-called Minor Doxology: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages. Amen"** (*Slava Ottsu i Synu i Svyatomu Dukhu, nyne i prisno i vo veki vekov. Amin'* / *Δόξα τῷ Πατρὶ καὶ τῷ Υἱῷ καὶ τῷ ἁγίῳ Πνεύματι, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν*), which enjoys the most pervasive use throughout Orthodox divine services. It arose,
 

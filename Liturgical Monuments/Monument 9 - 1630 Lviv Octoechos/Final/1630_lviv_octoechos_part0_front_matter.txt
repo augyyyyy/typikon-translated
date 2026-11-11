@@ -1,6 +1,7 @@
 # Lviv Printed Octoechos (Lviv Stauropegion, 1630) <a id="lviv-printed-octoechos-lviv-stauropegion-1630"></a>
 
-#### [Front Cover — Leather Binding]
+[p1LA] **[Front Cover — Leather Binding]**
+
 [Blind-tooled brown calfskin binding over bevelled wooden boards with concentric decorative rolls and geometric strapwork. In the central oval mandorla medallion is embossed the Crucifixion of our Lord Jesus Christ, with the Most Holy Mother of God and the Holy Apostle and Evangelist John the Theologian standing at the foot of the Cross. Three brass clasp fittings on leather straps are preserved along the fore-edge.][^1]
 
 [p2LA] [Upper left corner, modern library classification and accession marks in ink and pencil:][^2]
@@ -9,7 +10,11 @@ LNBU
 
 2124
 
-SV-97 [p2RA] [Mounted printed fragments of an early Cyrillic liturgical edition:][^3]
+SV-97
+
+*(Vacat — Blank restoration endpaper)*
+
+[p2RA] [Mounted printed fragments of an early Cyrillic liturgical edition:][^3]
 
 [Fragment 1, upper text strip:]
 
@@ -373,44 +378,51 @@ and humble servants,
 
 * **[Lviv Printed Octoechos (Lviv Stauropegion, 1630)](#lviv-printed-octoechos-lviv-stauropegion-1630)**
 * **[TONE 1: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES](1630_lviv_octoechos_part1_tone1.md#tone-1-saturday-vespers-sunday-matins-and-weekday-offices)**
-  * [ON MONDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-monday-at-matins)
-  * [Penitential Canon, whose Acrostic is:](1630_lviv_octoechos_part1_tone1.md#penitential-canon-whose-acrostic-is)
-  * [Another Canon, to the Bodiless Powers. The work of Theophanes.[^26]](#another-canon-to-the-bodiless-powers-the-work-of-theophanes)
-  * [ON MONDAY EVENING, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part1_tone1.md#on-monday-evening-at-lord-i-have-cried)
-  * [ON TUESDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-tuesday-at-matins)
-  * [Penitential Canon. The work of Joseph.[^30]](#penitential-canon-the-work-of-joseph)
-  * [Another Canon, to the Holy and Great Prophet John, the Forerunner.](1630_lviv_octoechos_part1_tone1.md#another-canon-to-the-holy-and-great-prophet-john-the-forerunner)
-  * [ON TUESDAY EVENING, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part1_tone1.md#on-tuesday-evening-at-lord-i-have-cried)
-  * [ON WEDNESDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-wednesday-at-matins)
-  * [ON WEDNESDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS](1630_lviv_octoechos_part1_tone1.md#on-wednesday-canon-to-the-precious-and-life-creating-cross)
-  * [ON WEDNESDAY EVENING, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part1_tone1.md#on-wednesday-evening-at-lord-i-have-cried)
-  * [ON THURSDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-thursday-at-matins)
-  * [ON THURSDAY: CANONS TO THE HOLY APOSTLES](1630_lviv_octoechos_part1_tone1.md#on-thursday-canons-to-the-holy-apostles)
-  * [ON THURSDAY EVENING, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part1_tone1.md#on-thursday-evening-at-lord-i-have-cried)
-  * [ON FRIDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-friday-at-matins)
-  * [ON FRIDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS](1630_lviv_octoechos_part1_tone1.md#on-friday-canon-to-the-precious-and-life-creating-cross)
-  * [ON FRIDAY EVENING, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part1_tone1.md#on-friday-evening-at-lord-i-have-cried)
-  * [ON SATURDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-saturday-at-matins)
-  * [ON SATURDAY: CANON TO THE HOLY MARTYRS, HIERARCHS, VENERABLE ONES, AND THE DEPARTED](1630_lviv_octoechos_part1_tone1.md#on-saturday-canon-to-the-holy-martyrs-hierarchs-venerable-ones-and-the-departed)
-  * [ON SATURDAY EVENING, AT LITTLE VESPERS, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part1_tone1.md#on-saturday-evening-at-little-vespers-at-lord-i-have-cried)
+  * [SATURDAY EVENING: VESPERS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#saturday-evening-vespers-tone-1)
+  * [SUNDAY MATINS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#sunday-matins-tone-1)
+  * [SUNDAY EVENING VESPERS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#sunday-evening-vespers-tone-1)
+  * [MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#monday-matins-repentance-and-the-bodiless-powers-tone-1)
+  * [MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 1)](1630_lviv_octoechos_part1_tone1.md#monday-evening-vespers-for-tuesday-tone-1)
+  * [TUESDAY MATINS: REPENTANCE AND ST. JOHN THE FORERUNNER (TONE 1)](1630_lviv_octoechos_part1_tone1.md#tuesday-matins-repentance-and-st-john-the-forerunner-tone-1)
+  * [TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 1)](1630_lviv_octoechos_part1_tone1.md#tuesday-evening-vespers-for-wednesday-tone-1)
+  * [WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#wednesday-matins-the-precious-cross-and-the-theotokos-tone-1)
+  * [WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 1)](1630_lviv_octoechos_part1_tone1.md#wednesday-evening-vespers-for-thursday-tone-1)
+  * [THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#thursday-matins-the-holy-apostles-and-st-nicholas-tone-1)
+  * [THURSDAY EVENING VESPERS (FOR FRIDAY) (TONE 1)](1630_lviv_octoechos_part1_tone1.md#thursday-evening-vespers-for-friday-tone-1)
+  * [FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 1)](1630_lviv_octoechos_part1_tone1.md#friday-matins-the-precious-cross-and-the-theotokos-tone-1)
+  * [FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 1)](1630_lviv_octoechos_part1_tone1.md#friday-evening-vespers-for-saturday-tone-1)
+  * [SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 1)](1630_lviv_octoechos_part1_tone1.md#saturday-matins-all-saints-martyrs-and-the-departed-tone-1)
 * **[TONE 2: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES](1630_lviv_octoechos_part2_tone2.md#tone-2-saturday-vespers-sunday-matins-and-weekday-offices)**
-  * [ON SATURDAY EVENING, AT GREAT VESPERS, AT "LORD, I HAVE CRIED"](1630_lviv_octoechos_part2_tone2.md#on-saturday-evening-at-great-vespers-at-lord-i-have-cried)
-  * [ON TUESDAY EVENING, AT "LORD, I CALL:"](1630_lviv_octoechos_part2_tone2.md#on-tuesday-evening-at-lord-i-call)
-  * [ON WEDNESDAY EVENING, AT "LORD, I CALL:"](1630_lviv_octoechos_part2_tone2.md#on-wednesday-evening-at-lord-i-call)
-  * [ON THURSDAY EVENING, AT "LORD, I CALL:"](1630_lviv_octoechos_part2_tone2.md#on-thursday-evening-at-lord-i-call)
-  * [ON FRIDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-friday-at-matins)
-  * [ON FRIDAY EVENING, AT "LORD, I CALL:"](1630_lviv_octoechos_part2_tone2.md#on-friday-evening-at-lord-i-call)
-  * [ON SATURDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-saturday-at-matins)
+  * [SATURDAY EVENING: VESPERS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#saturday-evening-vespers-tone-2)
+  * [SUNDAY MIDNIGHT OFFICE (TONE 2)](1630_lviv_octoechos_part2_tone2.md#sunday-midnight-office-tone-2)
+  * [SUNDAY EVENING VESPERS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#sunday-evening-vespers-tone-2)
+  * [MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#monday-matins-repentance-and-the-bodiless-powers-tone-2)
+  * [SUNDAY MATINS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#sunday-matins-tone-2)
+  * [MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 2)](1630_lviv_octoechos_part2_tone2.md#monday-evening-vespers-for-tuesday-tone-2)
+  * [SUNDAY LITURGY: THE BEATITUDES (TONE 2)](1630_lviv_octoechos_part2_tone2.md#sunday-liturgy-the-beatitudes-tone-2)
+  * [TUESDAY MATINS: REPENTANCE AND ST. JOHN THE FORERUNNER (TONE 2)](1630_lviv_octoechos_part2_tone2.md#tuesday-matins-repentance-and-st-john-the-forerunner-tone-2)
+  * [TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 2)](1630_lviv_octoechos_part2_tone2.md#tuesday-evening-vespers-for-wednesday-tone-2)
+  * [WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#wednesday-matins-the-precious-cross-and-the-theotokos-tone-2)
+  * [WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 2)](1630_lviv_octoechos_part2_tone2.md#wednesday-evening-vespers-for-thursday-tone-2)
+  * [THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#thursday-matins-the-holy-apostles-and-st-nicholas-tone-2)
+  * [THURSDAY EVENING VESPERS (FOR FRIDAY) (TONE 2)](1630_lviv_octoechos_part2_tone2.md#thursday-evening-vespers-for-friday-tone-2)
+  * [FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 2)](1630_lviv_octoechos_part2_tone2.md#friday-matins-the-precious-cross-and-the-theotokos-tone-2)
+  * [FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 2)](1630_lviv_octoechos_part2_tone2.md#friday-evening-vespers-for-saturday-tone-2)
+  * [SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 2)](1630_lviv_octoechos_part2_tone2.md#saturday-matins-all-saints-martyrs-and-the-departed-tone-2)
 * **[TONE 3: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES](1630_lviv_octoechos_part3_tone3.md#tone-3-saturday-vespers-sunday-matins-and-weekday-offices)**
-  * [ON SATURDAY EVENING, AT GREAT VESPERS](1630_lviv_octoechos_part3_tone3.md#on-saturday-evening-at-great-vespers)
-  * [ON MONDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-monday-at-matins)
-  * [ON MONDAY EVENING, AT VESPERS](1630_lviv_octoechos_part3_tone3.md#on-monday-evening-at-vespers)
-  * [ON TUESDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-tuesday-at-matins)
-  * [ON TUESDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-tuesday-at-matins)
-  * [ON TUESDAY EVENING, AT VESPERS](1630_lviv_octoechos_part3_tone3.md#on-tuesday-evening-at-vespers)
-  * [ON WEDNESDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-wednesday-at-matins)
-  * [ON WEDNESDAY EVENING, AT VESPERS](1630_lviv_octoechos_part3_tone3.md#on-wednesday-evening-at-vespers)
-  * [ON THURSDAY AT MATINS](1630_lviv_octoechos_part1_tone1.md#on-thursday-at-matins)
+  * [SATURDAY EVENING: VESPERS (TONE 3)](1630_lviv_octoechos_part3_tone3.md#saturday-evening-vespers-tone-3)
+  * [SUNDAY MATINS (TONE 3)](1630_lviv_octoechos_part3_tone3.md#sunday-matins-tone-3)
+  * [SUNDAY EVENING VESPERS (TONE 3)](1630_lviv_octoechos_part3_tone3.md#sunday-evening-vespers-tone-3)
+  * [MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 3)](1630_lviv_octoechos_part3_tone3.md#monday-matins-repentance-and-the-bodiless-powers-tone-3)
+  * [MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 3)](1630_lviv_octoechos_part3_tone3.md#monday-evening-vespers-for-tuesday-tone-3)
+  * [TUESDAY MATINS: REPENTANCE AND ST. JOHN THE FORERUNNER (TONE 3)](1630_lviv_octoechos_part3_tone3.md#tuesday-matins-repentance-and-st-john-the-forerunner-tone-3)
+  * [TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 3)](1630_lviv_octoechos_part3_tone3.md#tuesday-evening-vespers-for-wednesday-tone-3)
+  * [WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 3)](1630_lviv_octoechos_part3_tone3.md#wednesday-matins-the-precious-cross-and-the-theotokos-tone-3)
+  * [WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 3)](1630_lviv_octoechos_part3_tone3.md#wednesday-evening-vespers-for-thursday-tone-3)
+  * [THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 3)](1630_lviv_octoechos_part3_tone3.md#thursday-matins-the-holy-apostles-and-st-nicholas-tone-3)
+  * [SUNDAY LITURGY: THE BEATITUDES (TONE 3)](1630_lviv_octoechos_part3_tone3.md#sunday-liturgy-the-beatitudes-tone-3)
+  * [THURSDAY EVENING VESPERS (FOR FRIDAY) (TONE 3)](1630_lviv_octoechos_part3_tone3.md#thursday-evening-vespers-for-friday-tone-3)
+  * [FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 3)](1630_lviv_octoechos_part3_tone3.md#friday-evening-vespers-for-saturday-tone-3)
 * **[TONE 4: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES](1630_lviv_octoechos_part4_tone4.md#tone-4-saturday-vespers-sunday-matins-and-weekday-offices)**
   * [SATURDAY EVENING: VESPERS (TONE 4)](1630_lviv_octoechos_part4_tone4.md#saturday-evening-vespers-tone-4)
   * [SUNDAY MATINS (TONE 4)](1630_lviv_octoechos_part4_tone4.md#sunday-matins-tone-4)
@@ -428,7 +440,7 @@ and humble servants,
   * [FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 4)](1630_lviv_octoechos_part4_tone4.md#friday-evening-vespers-for-saturday-tone-4)
   * [SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 4)](1630_lviv_octoechos_part4_tone4.md#saturday-matins-all-saints-martyrs-and-the-departed-tone-4)
 * **[TONE 5: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES](1630_lviv_octoechos_part5_tone5.md#tone-5-saturday-vespers-sunday-matins-and-weekday-offices)**
-  * [TONE 5 [^213]](#tone-5)
+  * [TONE 5](1630_lviv_octoechos_part5_tone5.md#tone-5)
   * [SATURDAY EVENING: VESPERS (TONE 5)](1630_lviv_octoechos_part5_tone5.md#saturday-evening-vespers-tone-5)
   * [SUNDAY MIDNIGHT OFFICE (TONE 5)](1630_lviv_octoechos_part5_tone5.md#sunday-midnight-office-tone-5)
   * [SUNDAY MATINS (TONE 5)](1630_lviv_octoechos_part5_tone5.md#sunday-matins-tone-5)
@@ -495,6 +507,3 @@ and humble servants,
 [^12]: Manuscript continuation of the Weekday Midnight Office, containing the prayers of Saint Eustratius and Saint Mardarios (*Владыко Боже, Отче Вседержителю...*), concluding with the mutual forgiveness formula.
 [^13]: Dedicatory preface (*Премова*) by the Lviv Dormition Brotherhood addressed to Archimandrite Petro Mohyla of the Kyiv Caves Monastery (later Metropolitan of Kyiv), honoring his noble Moldavian lineage and lavish benefactions to the Lviv Brotherhood.
 [^14]: Conclusion and date of the dedicatory preface to Petro Mohyla: Lviv, December 25, 1631 (from the Incarnation, 7139 / 1631), signed by the Stauropegion Brotherhood of Lviv.
-[^26]: Saint Theophanes' Canon to the Bodiless Powers in Tone 1 systematically invokes the celestial orders of Dionysian angelology: Angels, Archangels, Principalities, Authorities, Powers, Dominions, Thrones, Cherubim, and Seraphim.
-[^30]: Tuesday Matins Penitential Canon by Saint Joseph the Hymnographer, alternating with the Canon to the Holy Forerunner and Baptist John, commemorating his ascetic dwelling in the wilderness and intercession before Christ.
-[^213]: Codicological Note on Foliation Omission in the 1630 Lviv Edition: In the original printed foliation of the 1630 Lviv Octoechos, folio number 136 (рл҃ѕ) is omitted in the printed sequence. Tone 4 concludes on Folio 135v (physical leaf p136 Left Page), and Tone 5 begins immediately on Folio 137r (physical leaf p136 Right Page), with complete textual and liturgical continuity. Physical leaf indexing (p136) strictly preserves the continuous leaf count of the physical codex.

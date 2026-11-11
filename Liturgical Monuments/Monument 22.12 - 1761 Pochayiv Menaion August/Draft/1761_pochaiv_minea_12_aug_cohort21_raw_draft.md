@@ -20,10 +20,10 @@ The people that were childish, O pious martyrs, by divine teachings ye guide unt
 *Theotokion:*
 O unwedded Virgin, for whose sake the Word shone forth unto us, Who is understood to be above every beginning: save thy flock, and every city and country, from every distress, O thou who art full of divine grace.
 
-*Kontakion of the Saints, Tone 8, Podoben: "As firstfruits of nature" (Yako nachatki):*
+*Kontakion of the Saints, Tone 8, Podoben: "As firstfruits of nature" (Ꙗ҆́кѡ нача́тки):*
 As martyrs of piety and divinely wise sufferers of Christ, the inhabited earth most gloriously honors Florus and Laurus today: that we may obtain grace and mercy through their prayers, and be delivered from perils and misfortunes, and from wrath and affliction on the day of judgment.
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Ye showed yourselves to be spiritual builders: by faith ye build up the souls of the pious by divine grace upon the rock of faith, and having made yourselves a sacred temple of the honorable Trinity, ye suffered steadfastly. Therefore ye also pour forth healings unto those who have recourse in faith unto you, and drive away passions, O twin-brother passion-bearers. Pray Christ God to grant remission of sins unto those who honor your holy memory with love.
 
 *Glory... Both now... of the Feast:*
@@ -210,10 +210,10 @@ Divine and truly light-bearing pair, Laurus and Florus, gloriously triumphant ma
 *Theotokion:*
 Fearful is thy childbearing, O pure Mother: for Him at Whom the heavenly ranks tremble, the Word of God Who became man upon earth, beyond nature thou didst bear, remaining a Virgin as before. Therefore confessing thee to be the Mother of God, both with tongue and heart, we magnify thee.
 
-*Exapostilarion of the Feast, Podoben: "Having adorned the heavens with stars" (Nebo zvezdami):*
+*Exapostilarion of the Feast, Podoben: "Having adorned the heavens with stars" (Не́бо звѣзда́ми):*
 Ye apostles, who have gathered here from the ends [of the earth] in the village of Gethsemane, bury my body; and Thou, my Son and God, receive my spirit. *Glory... Both now... the same.*
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O house of Ephratha" (Dome Evfrathov):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O house of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 The choir of disciples gathers to bury the Mother of God, having come from the ends [of the earth] by an all-powerful nod.
 
 *Verse: Arise, O Lord, into Thy rest, Thou, and the ark of Thy holiness.*[^613]
@@ -233,7 +233,7 @@ Thy most venerable dormition, O most holy pure Virgin, the multitude of angels i
 
 *In the same month, on the 19th day: The Holy Martyr Andrew the General, and with him two thousand five hundred and ninety-three.*[^618]
 
-*At "Lord, I have cried," Stichera of the Feast, Tone 4, Podoben: "As noble among the martyrs" (Yako dobla):*
+*At "Lord, I have cried," Stichera of the Feast, Tone 4, Podoben: "As noble among the martyrs" (Ꙗ҆́кѡ до́блѧ):*
 Thy holy, all-immaculate, and honorable translation was not unto separation for those who love thee, O Virgin, but an inseparable union: for noetically with hymns unto those who truly glorify thee as the Mother of God, thou art manifested, granting thy grace, and showing that thou hast been given as an intercessor unto all men.
 
 Having become the ark of sanctification of Him Who made His abode in thee, O pure Mother of God, thou art translated from earth unto unfading rest: therefore also illumined with His brightness. Therefore from on high thou lookest upon those who sing unto thee with love, and who preach the divine majesty of thy wonders.
@@ -241,7 +241,7 @@ Having become the ark of sanctification of Him Who made His abode in thee, O pur
 As a most radiant bridal chamber, thy Son and Lord, having received thee into His habitations, O all-immaculate one, as an ark of sanctification showed thee forth unto the bodiless hosts and the dwellings of the saints with ineffable glory: delivering from corruption and perils those who sing thy majesty with love, O pure one.
 === LEAF p209 ===
 *(Fol. 103r)*
-*Other Stichera of the Saint, Tone 4, Podoben: "O all-praised martyrs" (Vsekhvalnii muchenitsy):*
+*Other Stichera of the Saint, Tone 4, Podoben: "O all-praised martyrs" (Всехва́льнїи мч҃ницы):*
 Showing forth an image of manly courage, in the assembly thou didst dare to surrender thyself unto the tribunal of suffering, even as grace went before this, O most rich passion-bearer Andrew; and ever unto the faithful thou pourest forth waters of healings, having received grace from heaven.
 
 Showing thyself true to the name of courage,[^619] acting valiantly like a man, grappling with the enemy, thou didst destroy him like another Pharaoh: with streams of thy blood having submerged all his army, O right marvelous one. Therefore pray that peace and great mercy may be granted unto our souls.
@@ -251,7 +251,7 @@ A numerous army thou didst lead unto God the Giver of good things, O glorious on
 *Glory... Both now... Tone 4:*
 When thou didst depart, O Virgin Mother of God, unto Him Who was ineffably born of thee, James the Brother of the Lord and first Hierarch was present, and Peter the most honorable leader, chief of theologians, and the whole divine apostolic choir, chanting hymns with clear theology concerning the divine and fearful mystery of Christ God's dispensation; and having buried thy life-originating and God-receiving body, they rejoiced, O all-hymned one. And higher, the most holy and elder angelic hosts, marveling at the wonder, stooping down said to one another: Lift up your gates, and receive her who bore the Maker of heaven and earth! And with doxology let us praise the honorable and holy body that contained the Lord Who is invisible unto us. Therefore we also, celebrating thy memory, cry aloud unto thee, O all-hymned one: Exalt the horn of Christians, and save our souls.
 
-*At the Aposticha, Stichera, Tone 4, Podoben: "As of the celestial ranks" (Inykh chinov):*
+*At the Aposticha, Stichera, Tone 4, Podoben: "As of the celestial ranks" (Небє́сныхъ чинѡ́въ):*
 At the immortal dormition of the Mother of God, the angelic assembly rejoices; and as she departs, she settles into eternal mansions, and passes unto heavenly gladness, unto divine joy and everlasting delight.
 
 *Verse: Arise, O Lord, into Thy rest, Thou, and the ark of Thy holiness.*[^620]
@@ -273,10 +273,10 @@ Having left the glory of earthly rank, thou didst inherit the heavenly kingdom; 
 *Glory... Both now... of the Feast, Tone 1:*
 In giving birth thou didst preserve thy virginity, in thy dormition thou didst not forsake the world, O Mother of God. Thou hast passed over unto life, being the Mother of Life; and by thy prayers thou deliverest our souls from death.
 
-*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 3, Podoben: "At the beauty of thy virginity" (Krasote detva):*
+*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 3, Podoben: "At the beauty of thy virginity" (Красотѣ̀ дв҃ства):*
 Unto the heavens thy noetic soul, and into paradise thy pure body was translated, from corruption into a radiant place, O all-immaculate one; therefore the Lord repaid the lawless, for they wrought deceit against thine honorable body. Therefore having come together, we honor thy translation, O Virgin. *Glory... Both now... the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Skoro predvari):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 The earth indeed was blessed by thy burial, and the air was sanctified by thine ascent, O all-hymned Mary. And the angels opened the heavenly gates unto thee, where now standing with thy Son, thou prayest for the world, O unwedded Mother. *Glory... Both now... the same.*
 
 *Canon of the Feast, with the heirmos on 8. The work of John of Damascus. Tone 4.*

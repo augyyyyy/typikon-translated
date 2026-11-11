@@ -39,7 +39,7 @@ Having been transfigured upon Mount Tabor, O Savior, Thou didst show Thy glory u
 
 *Glory... Both now... the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, the same tone and podoben [Tone 4, Podoben: "Joseph marveled"]:*
+*After the 2nd Kathisma, Sessional Hymn, the same tone and podoben [Tone 4, Podoben: "Joseph marveled"] (Оу҆диви́сѧ І҆ѡ́сифъ):*
 In Thine unapproachable glory, O Christ, being transfigured in divine light, Thou didst shine upon Thy divine disciples, John, and Peter, and James, and didst fill them with awe by divine grace. And they heard the Father's voice bearing witness to the beloved Son, and beheld the glory of Thy countenance, O Savior. O Word, Who desirest to save all men, enlighten our souls.
 
 *Glory... Both now... the same.*

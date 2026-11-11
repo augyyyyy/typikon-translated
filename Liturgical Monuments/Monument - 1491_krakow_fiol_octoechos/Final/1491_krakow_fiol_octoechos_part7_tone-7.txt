@@ -196,7 +196,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Theotokion:* O most pure Mother and Virgin, alone all-praised: entreat Thy Savior that He may save our souls!
 
-*Another Canon to the Theotokos. Same Heirmos:* With evil crawling, [the serpent] of Eden ensnared me with the love of divinity and cast me down to earth; but as Thou art merciful by nature and compassionate, Thou hadst pity; the Grace [of God] made its dwelling in thy womb, assimilating Himself unto me in compassion, O Virgin!
+*Another Canon to the Theotokos. Same Heirmos:* With evil crawling, [the serpent] of Eden ensnared me with the love of divinity and cast me down to earth; but as thou art merciful by nature and compassionate, thou hadst pity; the Grace [of God] made its dwelling in thy womb, assimilating Himself unto me in compassion, O Virgin!
 
 *Troparion:* Blessed is the Fruit of thy womb, O Virgin, O Theotokos, joy of all; for thou didst bear gladness unto the whole world, and true rejoicing, destroying sinful sorrow, O Bride of God!
 
@@ -448,10 +448,10 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 [^193]: CS: 'и́ кн̃зю нашемоу побѣды дароуина сопротивных ꙗ́ сѡ́постаты'. An important historical witness of the 15th-century Ruthenian liturgical recension printed in Krakow, petitioning for 'our Prince' (the Grand Duke of Lithuania / local Orthodox knyaz) rather than the later Muscovite Tsarist formula ('царю нашему').
 [^194]: CS rubric: 'інь кр̃тȣ ірм̃о · смотрии пр̃ркъ'. Incipit cue for the Heirmos of Ode 4: 'Усмотрев пророк пришествие Твое...' (Greek: Ἐννοῶν ὁ Προφήτης).
 [^195]: CS: 'Плавающаго в молвѣ житенстѣи беꙁветьемь...'. The Tone 7 Sunday Heirmos of Ode 6 (Greek: Ναυτιῶν τῷ σάλῳ τῶν βιωτικῶν μελημάτων...).
-[^196]: CS rubric: 'к̃ѡꙁ істоупнице хр̃тїа : ~'. The Krakow typesetting fuses the abbreviation for Kontakion ('к̃ѡ[ндакъ]') with the initial consonant 'ꙁ' of the appointed Marian incipit 'Застоупнице христїа[номъ непостыдная]' (Greek: Πρoστασία τῶν Χριστιανῶν ἀκαταίσχυντε).
+[^196]: CS rubric: 'к̃ѡꙁ істоупнице хр̃тїа : ~'. The Krakow typesetting fuses the abbreviation for Kontakion ('к̃ѡ[ндакъ]') with the initial consonant 'ꙁ' of the appointed Marian incipit 'Застоупнице христїа[номъ непостыдная]' (Greek: Προστασία τῶν Χριστιανῶν ἀκαταίσχυντε).
 [^197]: CS: 'оу́гль дрѣвле и́саи́ꙗ прѣ · ѡ́браꙁнѣ твое ро́жество провида'. Scriptural and hymnographic allusion to the live burning coal of Isaiah 6:6-7, prefiguring the incarnation of the divine Fire in the womb of the Virgin.
 [^198]: CS: 'Соу́ꙁелныихъ воистворы́и дети'. A typographical corruption or misreading of the antigraph in the Krakow edition for the Greek Ὁ τῶν δεσμίων ῥύστης γενόμενος ('Having become the Deliverer of the prisoners' / Slavonic: 'Узников избавитель бывый').
-[^199]: CS: 'львели ренню' (for 'оумиренїю' / 'примирению', Greek: καταллаγῆς). The Krakow typography exhibits a compositor error or ligature breakdown for 'reconciliation'.
+[^199]: CS: 'львели ренню' (for 'оумиренїю' / 'примирению', Greek: καταλλαγῆς). The Krakow typography exhibits a compositor error or ligature breakdown for 'reconciliation'.
 [^200]: CS: 'колемь' (instrumental of 'колъ' / 'копие', lance/spear; Greek: λόγχῃ).
 [^201]: CS rubric: 'інь кр̃тоу и́ етленнаи : ~'. Krakow typographical error for the incipit of the Heirmos: 'Нетлѣннаꙗ' / 'Неистлѣннаа' (Greek: Ἄφθορον ἐν γαστρὶ συλλαβοῦσα).
 [^202]: CS: 'м̃тоуже мл̃ж-рїн'. A corrupted Krakow contraction for 'мудрители' (Greek: ματαιόφρονες / disputers/fools), warning against the Theopaschite heresy.

@@ -38,7 +38,7 @@ How shall we not marvel at thy theandric giving birth, O all-pure one? For witho
 
 *Resurrection Troparion, Tone 3:[^72]* Let the heavens be glad, and let the earthly rejoice; for the Lord has shown strength with His arm: He has trampled down death by death, and become the first-born from the dead; He has delivered us from the belly of Hades, and granted great mercy unto the world.
 
-*Twice. Glory... Both now... Theotokion:* Thee who didst mediate salvation for our race, we hymn, O Virgin Birthgiver of God; for having accepted the suffering of the Cross in the flesh assumed from thee, Thy Son and our God has delivered us from corruption, as the Lover of mankind.
+*Twice. Glory... Both now... Theotokion:* Thee who didst mediate salvation for our race, we hymn, O Virgin Birthgiver of God; for having accepted the suffering of the Cross in the flesh assumed from thee, thy Son and our God has delivered us from corruption, as the Lover of mankind.
 
 ## SUNDAY MIDNIGHT OFFICE (TONE 3)
 
@@ -64,7 +64,7 @@ He Who of old commanded the universe to be established from non-being, having in
 
 *Sessional Hymn, Tone 3.*
 
-*Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства твоегѡ̀):* [^74]
+*Podoben: "Beholding the beauty of thy virginity" (Красотѣ дѣвства твоего):* [^74]
 
 [p64LA] those who glorify Thy dominion, as Thou alone art merciful, knowing the weakness of our heart.
 
@@ -146,7 +146,7 @@ As Isaiah saw typologically God upon a throne high and lifted up, receiving gift
 
 *Tone 3.*
 
-*Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства твоегѡ̀):* [^80]
+*Podoben: "Beholding the beauty of thy virginity" (Красотѣ дѣвства твоего):* [^80]
 
 *Ypakoe:* Astonishing by his appearance, refreshing with his words, the radiant angel said unto the myrrh-bearing women: "Why seek ye the Living One in the tomb? He is risen, emptying the tombs! Understand Him Who changes corruption to be changeless; say unto God: How awesome are Thy works, for Thou hast saved the human race!"
 
@@ -214,7 +214,7 @@ Let us faithful piously hymn and honor the pure Virgin who after childbirth rema
 
 Every nature bends the knee, O immaculate Lady, unto Him Who was incarnate of thee, together with earthly beings, both noetically and super-cosmically: for He is glorified!
 
-*Troparion:* By Thy good pleasure toward thee, O Good One, for without envy the Giver, the Divine Spirit, came upon thee, and the Word took flesh from thee, O Maiden: for He is glorified!
+*Troparion:* By thy good pleasure toward thee, O Good One, for without envy the Giver, the Divine Spirit, came upon thee, and the Word took flesh from thee, O Maiden: for He is glorified!
 
 *Troparion:* Thou hast borne the Word, Co-worker with Him that begot Him, Who deified human nature; entreat Him on our behalf, that we who have grown weak through long-standing sins may conquer the strong wiles of the enemy through divine consolation.
 

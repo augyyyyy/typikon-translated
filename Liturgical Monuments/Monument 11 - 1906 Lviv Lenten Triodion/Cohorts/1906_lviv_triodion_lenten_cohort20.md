@@ -29,7 +29,7 @@ All-lauded martyrs, neither has the earth hidden you, but heaven has received yo
 *Other stichera by Lord Joseph, Tone 3. Podoben: "Great is the power of Thy Cross" (Ве́лїа крⷭ҇та̀):*[^461]  
 By the prayers of the divine apostles, O Lord, vouchsafe us to accomplish well the season of the fast with compunction of thought, as Thou art good, O Tender-Hearted One, that being saved, we all may glorify Thee.
 
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 Great and terrible is Thy coming, O Lord, wherein sitting Thou shalt execute righteous judgment: therefore condemn me not who am already condemned, but as God spare me, by the acceptable prayers of Thine apostles!
 
 *Another sticheron by Lord Theodore, Tone 6. Podoben: "Having laid aside all" (Всѐ ѿло́жше):*[^462]  
@@ -158,7 +158,7 @@ The apostolic choir entreats Thee, O Jesus, King of all; the angelic ranks entre
 *Theotokion:*  
 Virginity and childbirth came together in thee beyond nature, O ark of honorable sanctification, pure Virgin Mother: therefore with faith I sing of thee: sanctify me wholly; deliver me wholly from every working of passions that afflict me!
 
-*Another. Heirmos: "Of the Seedless Conception" (Безсѣ́меннагw Зача́тїа):*[^477]  
+*Another. Heirmos: "Of the Seedless Conception" (Безсѣ́меннагѡ Зача́тїа):*[^477]  
 **"Of the Seedless Conception..."**
 
 *Troparia:*  
@@ -246,7 +246,7 @@ let us the faithful fast from corruptible foods and all-destroying passions, tha
 *Martyrion:*[^495]  
 Having disregarded all earthly things, and manfully dared to endure torments, ye missed not your longed-for hopes, but became heirs of the heavenly Kingdom, O all-lauded martyrs: having boldness before God the Lover of mankind, entreat peace for the world, and great mercy for our souls!
 
-*Glory, Both now and ever: Stavrotheotokion. Podoben: "Rejoice, ascetic of old" (Ра́дуйсѧ по́стникwмъ):*[^496]  
+*Glory, Both now and ever: Stavrotheotokion. Podoben: "Rejoice, ascetic of old" (Ра́дуйсѧ по́стникѡмъ):*[^496]  
 The Ewe beholding of old her Lamb hastening unto the slaughter, diligently followed, crying aloud unto Him: Whither goest Thou, my sweetest Child Christ? Why dost Thou run this swift course without slackness, O Long-Suffering One? O Jesus most desired, sinless, most merciful Lord: grant a word unto Thy handmaid, O my Son most beloved; despise me not, O Compassionate One, in silence—me who strangely gave birth to Thee, O God all-compassionate, grant great mercy unto the world!
 
 ## On Friday of the Second Week of the Great Fast at Matins[^497]
@@ -258,7 +258,7 @@ The Ewe beholding of old her Lamb hastening unto the slaughter, diligently follo
 *Tone 8, Podoben: "Quickly anticipate" (Ско́рѡ предварѝ):*[^498]  
 Being lifted up through fasting from earthly and zealous passions, let us exalt the Lord Who was lifted up upon the Cross and Who exalted the world; let us drink within our belly the drink of compunction; let us receive the day and the hour into our mind, wherein we shall stand before the eternal Judge!
 
-*Stavrotheotokion. Podoben:*  
+*Stavrotheotokion. Podoben (Подо́бенъ):*  
 Thy Mother who knew not wedlock, when she beheld Thee lifted up upon the Cross, weeping and lamenting spoke in this manner: What is this new and strange wonder, O my Son? How does the lawless people nail Thee to the Cross—Thee the Life of all, my sweetest Light?
 
 *After the third reading of the Psalter, Sessional Hymn by Lord Theodore, Tone 5. Podoben: "Today the light" (Свѣ́тъ дне́сь):*[^499]  

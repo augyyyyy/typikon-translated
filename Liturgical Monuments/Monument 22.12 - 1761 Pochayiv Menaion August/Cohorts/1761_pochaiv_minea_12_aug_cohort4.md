@@ -162,7 +162,7 @@ Dalmatus and Isaac, having received virtuous zeal, mightily pulled down the Aria
 === LEAF p36 ===
 ...Having appeared as stars of the firmament of fasting, do ye enlighten the souls of monastics, O venerable fathers, having driven away demonic darkness; therefore after your demise ye are blessed, praying that all who celebrate your divine memory may be saved.
 
-*Stichera of the Theotokion, in the same tone and podoben:*
+*Stichera of the Theotokion, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Snatch me away, O Sovereign Lady, from the hand of the man-slaying serpent who contends to swallow me up utterly by deceit; crush his jaws by thy prayers, and break his stratagems, so that having been delivered from his claws, I may magnify thy power.
 

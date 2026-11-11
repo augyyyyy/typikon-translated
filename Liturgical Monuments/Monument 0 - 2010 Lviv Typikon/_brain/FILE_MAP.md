@@ -1,13 +1,13 @@
 # File Map — Complete Project Inventory
 
-All files in `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\` with descriptions and roles.
+All files in `C:\Users\augus\Documents\Google Antigravity\Projects\Translation\` with descriptions and roles.
 
 ---
 
 ## Final Files (Production — The Deliverables)
 
 The official deliverables have been converted to Markdown (`.md`) format and are hosted directly in the downstream consumer project:
-`C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\`
+`C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\`
 
 | File | Size | Content |
 |---|---|---|

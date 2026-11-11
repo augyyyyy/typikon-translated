@@ -10,7 +10,7 @@
 
 3.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῶν Πατέρων. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῶν Πατέρων, καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Προστασία τῶν Χριστιανῶν, Ἀπόστολος καὶ Εὐαγγέλιον τῶν Πατέρων. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν. Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ ΙΖ΄. Τῆς Ἁγίας μεγαλομάρτυρος Μαρίνης.
+**Τῇ ΙΖ΄. Τῆς Ἁγίας μεγαλομάρτυρος Μαρίνης.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῆς Μάρτυρος ἐν πάσῃ ἄλλῃ ἡμέρᾳ, πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν· εἰς τὸ Δόξα τῶν Ἀποστίχων, Καὶ νῦν, Θεοτόκε σὺ εἶ ἡ ἄμπελος . . . μετὰ τῆς ἀθληφόρου.
 
@@ -28,7 +28,7 @@
 
 3.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Fathers. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Fathers, that of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*). Epistle and Gospel of the Fathers. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### July 17: The Holy Great-Martyr Marina
+**July 17: The Holy Great-Martyr Marina**
 
 1.    If the commemoration of the Martyr occurs on any other day except Sunday, the service is chanted according to the order in the Menaion; at the "Glory..." of the Aposticha: "Both now and ever...": **"O Theotokos, Thou art the true vine... with the prize-bearer"** (*Θεοτόκε σὺ εἶ ἡ ἄμπελος . . . μετὰ τῆς ἀθληφόρου*).
 
@@ -42,7 +42,7 @@
 
 τὰ Ἀπόστιχα, Δόξα τῆς Ἁγίας, Καὶ νῦν τῶν Πατέρων, Ἀπολυτίκια τὸ Ἀναστάσιμον, τῶν Πατέρων, τῆς Ἁγίας, καὶ θεοτοκίον. Εἰς τὸν Ὄρθρον, μετὰ τὸν Τριαδικὸν κανόνα, ψάλλεται καὶ ἡ Λιτὴ τῆς Ἁγίας. Εἰς τὸ Θεὸς Κύριος, τὰ Ἀπολυτίκια ὡς εἰς τὸν Ἑσπερινόν, τὸ Ψαλτήριον καὶ ὁ Ἄμωμος, τὰ ἀναστάσιμα Καθίσματα, τὰ Εὐλογητάρια, ἡ Ὑπακοή, οἱ Ἀναβαθμοὶ τοῦ ἤχου καὶ τὸ Προκείμενον. Κανόνες ὁ Ἀναστάσιμος, τῶν Πατέρων καὶ τῆς Ἁγίας· ἀπὸ γ΄ Ὠδῆς, Κοντάκιον καὶ Οἶκος Ἀναστάσιμα, εἶτα Κάθισμα τῶν Πατέρων, τῆς Ἁγίας, καὶ Θεοτοκίον· ἀφ᾿ ς΄ Κοντάκιον καὶ Οἶκος τῶν Πατέρων, Ἐξαποστειλάρια, τὸ Ἀναστάσιμον, τῶν Πατέρων, τῆς Ἁγίας καὶ Θεοτοκίον. Εἰς τὴν Λειτουργίαν, μετὰ τὴν Εἴσοδον, τὰ Ἀπολυτίκια, τὸ Ἀναστάσιμον, τῶν Πατέρων, τῆς Ἁγίας καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Ἀπόστολος καὶ Εὐαγγέλιον τῶν Πατέρων καὶ Κοινωνικὸν Αἰνεῖτε.
 
-### Τῇ Κ΄. Τοῦ ἁγίου προφήτου Ἠλιοὺ τοῦ Θεσβίτου.
+**Τῇ Κ΄. Τοῦ ἁγίου προφήτου Ἠλιοὺ τοῦ Θεσβίτου.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Προφήτου ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν. Μετὰ τὸ Δόξα τῶν Ἀποστίχων, Καὶ νῦν, Θεοτόκε σὺ εἶ ἡ ἄμπελος ἡ ἀληθινή . . . μετὰ τοῦ Προφήτου κτλ.
 
@@ -58,7 +58,7 @@
 
 ...the Aposticha: "Glory...": of the Saint; "Both now and ever...": of the Fathers. The Dismissal Troparia: that of the Resurrection, that of the Fathers, that of the Saint, and the Theotokion. On Sunday at Matins, after the Trinity Canon, the Litiya of the Saint is also chanted. At "God is the Lord": the Dismissal Troparia as in Vespers; then the Psalter reading and the 17th Kathisma [Amomos, Ps. 118 LXX]. The Resurrection Sessional Hymns, the Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons: of the Resurrection, of the Fathers, and of the Saint. After Ode 3, the Resurrection Kontakion and Ikos, then the Sessional Hymn of the Fathers, that of the Saint, and the Theotokion; after Ode 6, the Kontakion and Ikos of the Fathers. The Exapostilaria: of the Resurrection, of the Fathers, of the Saint, and the Theotokion. In the Divine Liturgy, after the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Fathers, of the Saint, and that of the Patron Saint of the Church; Epistle and Gospel of the Fathers, and Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX).
 
-### July 20: The Holy Prophet Elias the Thesbite
+**July 20: The Holy Prophet Elias the Thesbite**
 
 1.    If the commemoration of the Prophet occurs on any other day except Sunday, the service is chanted according to the order in the Menaion. After the "Glory..." of the Aposticha: "Both now and ever...": **"O Theotokos, Thou art the true vine... with the Prophet, etc."** (*Θεοτόκε σὺ εἶ ἡ ἄμπελος ἡ ἀληθινή . . . μετὰ τοῦ Προφήτου κτλ.*).
 
@@ -76,7 +76,7 @@
 
 4.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ β΄ Κανόνος τοῦ Προφήτου δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τοῦ Προφήτου, καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Προστασία τῶν χριστιανῶν, Ἀπόστολος τοῦ Προφήτου καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ ΚΕ΄. Ἡ Κοίμησις τῆς ἁγίας Ἄννης, μητρὸς τῆς Θεοτόκου.
+**Τῇ ΚΕ΄. Ἡ Κοίμησις τῆς ἁγίας Ἄννης, μητρὸς τῆς Θεοτόκου.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῆς Ἁγίας ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν τοῦ Μηναίου διάταξιν.
 
@@ -94,7 +94,7 @@
 
 4.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the second Canon of the Prophet. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Prophet, and that of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*). Epistle of the Prophet and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### July 25: The Dormition of the Holy Anna, Mother of the Theotokos
+**July 25: The Dormition of the Holy Anna, Mother of the Theotokos**
 
 1.    If the commemoration of the Saint occurs on any other day except Sunday, the service is chanted according to the order of the Menaion.
 
@@ -112,7 +112,7 @@
 
 4.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῆς Ἁγίας. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῆς Ἁγίας καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον τῆς Ἁγίας Προγόνων Χριστοῦ, Ἀπόστολος τῆς Ἁγίας, καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ Κς΄. Τοῦ ἁγίου Ἱερομάρτυρος Ἑρμολάου καὶ τῆς ἁγίας Ὁσιομάρτυρος Παρασκευῆς.
+**Τῇ Κς΄. Τοῦ ἁγίου Ἱερομάρτυρος Ἑρμολάου καὶ τῆς ἁγίας Ὁσιομάρτυρος Παρασκευῆς.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῶν Ἁγίων ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία τῆς Ἁγίας μετὰ τῆς τοῦ ἁγίου Ἑρμολάου, ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν.
 
@@ -122,7 +122,7 @@
 
 3.    Τῇ Κυριακῇ εἰς τὸν Ὄρθρον, ἅπασα ἡ Ἀκολουθία ψάλλεται ὡς ἐν τῇ μνήμῃ τῆς ἁγίας Κυριακῆς (ὅρα Ἰουλ. Ζ΄ § 3,4). Εἰς τοὺς Αἴνους, Ἀναστάσιμα δ΄ καὶ τῆς Ἁγίας δ΄, Ἀπόστολος τῆς Ἁγίας καὶ Εὐαγγέλιον τῆς Κυριακῆς, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, κτλ.
 
-### Τῇ ΚΖ΄. Τοῦ ἁγίου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος.
+**Τῇ ΚΖ΄. Τοῦ ἁγίου Μεγαλομάρτυρος καὶ Ἰαματικοῦ Παντελεήμονος.**
 
 1.    Εἰ τύχοι ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν. Μετὰ τὸ Δοξαστικὸν
 
@@ -136,7 +136,7 @@
 
 4.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Saint. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Saint, and that of the Patron Saint of the Church, and the Kontakion of the Saint: **"The ancestors of Christ"** (*Προγόνων Χριστοῦ*). Epistle of the Saint and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### July 26: The Holy Hieromartyr Ermolaos and the Holy Venerable-Martyr Paraskevi
+**July 26: The Holy Hieromartyr Ermolaos and the Holy Venerable-Martyr Paraskevi**
 
 1.    If the commemoration of the Saints occurs on any other day except Sunday, the service of the Saint [Paraskevi], together with that of Saint Ermolaos, is chanted according to the order in the Menaion.
 
@@ -146,7 +146,7 @@
 
 3.    On Sunday at Matins, the entire service is chanted as on the commemoration of Saint Kyriake (see July 7, §§ 3–4). At the Praises: 4 Resurrection Stichira and 4 of the Saint. In the Divine Liturgy, Epistle of the Saint and Gospel of the Sunday; **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), etc.
 
-### July 27: The Holy Great-Martyr and Healer Panteleimon
+**July 27: The Holy Great-Martyr and Healer Panteleimon**
 
 1.    If the commemoration of the Saint occurs on any other day except Sunday, the service is chanted according to the order in the Menaion. After the...[^373]
 

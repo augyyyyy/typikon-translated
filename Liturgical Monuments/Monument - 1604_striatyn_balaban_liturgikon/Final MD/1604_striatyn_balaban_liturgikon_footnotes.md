@@ -16,7 +16,7 @@
 
 [^7]: The Greek loanword *каѳоли́цкіѧ* (*katholike*) in Early Modern Ruthenian Church Slavonic signifies the universal, catholic dimension of the Eastern Orthodox Church, in accordance with the Nicene-Constantinopolitan Creed, rather than Roman Catholicism.
 
-[^8]: St. Gregory of Nazianzus (the Theologian), *Oration 2: Apology for His Flight to Pontus*, §35: "As food is for the body, so is the word for the soul" (ὅπεр γὰρ σώματι τροφή, τοῦτο ψυχῇ λόγος).
+[^8]: St. Gregory of Nazianzus (the Theologian), *Oration 2: Apology for His Flight to Pontus*, §35: "As food is for the body, so is the word for the soul" (ὅπερ γὰρ σώματι τροφή, τοῦτο ψυχῇ λόγος).
 
 [^9]: Meletios I Pegas (1549–1601), Pope and Patriarch of Alexandria (1590–1601). A prominent Greek theologian and humanist educated in Venice and Padua, he maintained active epistolary relations with the Ruthenian Orthodox hierarchy, Prince Konstantyn Ostrozky, and the Lviv Dormition Brotherhood, urging the defense of Orthodoxy through education and book printing.
 
@@ -98,7 +98,7 @@
 
 [^48]: Psalm 17:33–34 (LXX) [Masoretic Ps 18:32–33], vesting prayer for the zone (belt).
 
-[^49]: *Ащели же буде архимандритъ служай: пріемъ упогонатъ, сирѣчь, набедрникъ...* This rubric explicitly equates the Greek *epigonation* (*ὑпоγονάτιον*) with the Ruthenian *nabedrennik* (*набедренникъ*), awarded to archimandrites as a symbol of spiritual warfare.
+[^49]: *Ащели же буде архимандритъ служай: пріемъ упогонатъ, сирѣчь, набедрникъ...* This rubric explicitly equates the Greek *epigonation* (*ὑπογονάτιον*) with the Ruthenian *nabedrennik* (*набедренникъ*), awarded to archimandrites as a symbol of spiritual warfare.
 
 [^50]: Psalm 44:4–5 (LXX) [Masoretic Ps 45:3–4]. Banned slop "wondrously" is strictly avoided; "marvelously" is used for Church Slavonic *дивно*.
 
@@ -236,7 +236,7 @@
 
 [^117]: The doxological exclamation *Бл҃женъ [бл҃гослове́нъ] б҃гъ [на́шъ], и҆́же си́це и҆зволи́вый...*; the lower margin of Fol. 24v exhibits physical ink abrasion and mend, completed by the text on Fol. 25r.
 
-[^118]: The ancient Byzantine Prayer of the Prothesis (*Моли́тва предложе́нїю* / *Εὐχὴ τῆς Προθέсеως*), attributed to Saint John Chrysostom: *Б҃же на́шъ, и҆́же небе́сный хлѣ́бъ...*
+[^118]: The ancient Byzantine Prayer of the Prothesis (*Моли́тва предложе́нїю* / *Εὐχὴ τῆς Προθέσεως*), attributed to Saint John Chrysostom: *Б҃же на́шъ, и҆́же небе́сный хлѣ́бъ...*
 
 [^119]: The triple censing of the Prothesis by the priest and the delivery of the censer unto the deacon, concluding with the minor dismissal (*ма́лый ѿпꙋ́стъ*).
 
@@ -250,7 +250,7 @@
 
 [^124]: The deacon recites Psalm 50 [LXX 50 / MT 51] while performing the general censing of the entire nave and temple, returning to the sanctuary to cense the Holy Table and the priest before laying aside the censer.
 
-[^125]: The invocation of the Holy Spirit (*Царю́ Небе́сный* / *Βασιлеῦ Οὐράνιε*), prayed jointly by priest and deacon before the Holy Table.
+[^125]: The invocation of the Holy Spirit (*Царю́ Небе́сный* / *Βασιλεῦ Οὐράνιε*), prayed jointly by priest and deacon before the Holy Table.
 
 [^126]: Luke 2:14, the Angelic Doxology (*Сла́ва въ вы́шнихъ Бо́гу...*), recited twice with metanias.
 
@@ -870,9 +870,9 @@
 
 [^434]: *и҆лито́нъ* (eileton): The liturgical cloth corporal antimension-wrapper unfolded upon the holy table at the dismissal of the catechumens.
 
-[^435]: Rubric governing the Litany and Prayer for Those Preparing for Illumination (*Оглашенніи, иже къ просвѣщенію...* / *τῶν πρὸς τὸ φώτισμα εὐτрепиζομένων*), prescribed from Wednesday of the Fourth Week of the Great Fast (Mid-Lent / *Средокрестная*) through Great and Holy Wednesday. In classical Byzantine euchologia, this office appears in both the Presanctified Liturgy and the Liturgy of Saint Basil the Great when celebrated on Great Thursday and Great Saturday.
+[^435]: Rubric governing the Litany and Prayer for Those Preparing for Illumination (*Оглашенніи, иже къ просвѣщенію...* / *τῶν πρὸς τὸ φώτισμα εὐτρεπιζομένων*), prescribed from Wednesday of the Fourth Week of the Great Fast (Mid-Lent / *Средокрестная*) through Great and Holy Wednesday. In classical Byzantine euchologia, this office appears in both the Presanctified Liturgy and the Liturgy of Saint Basil the Great when celebrated on Great Thursday and Great Saturday.
 
-[^436]: The Prayer for Those Preparing for Illumination in Saint Basil's Liturgy (*"Яви, Владыко, лице Твое..."* / *"Ἐπίφανον, Δέσпота, τὸ πρόσωπόν σου..."*), emphasizing baptismal regeneration as members of the body of Christ.
+[^436]: The Prayer for Those Preparing for Illumination in Saint Basil's Liturgy (*"Яви, Владыко, лице Твое..."* / *"Ἐπίφανον, Δέσποτα, τὸ πρόσωπόν σου..."*), emphasizing baptismal regeneration as members of the body of Christ.
 
 [^437]: *Здѐ пое́ли пре́же средопо́стї* ("Here sing as before Mid-Lent"): Rubric indicating that outside the liturgical period from Mid-Lent to Holy Wednesday, the celebrants omit the petitions for the illuminated and use the customary catechumen dismissal formulas.
 
@@ -884,7 +884,7 @@
 
 [^441]: *а҆́щеже са́мъ і҆ере́и* ("but if the priest is alone"): Important rubrical witness for solitary celebration (priest celebrating without a deacon), directing the priest to recite the diaconal petition and exclamation himself.
 
-[^442]: The Second Prayer of the Faithful in the Liturgy of Saint Basil the Great (*"Боже, посетивый в милости и щедротах смирение наше..."* / *"Ὁ Θεός, ὁ ἐπισκεψάμενος ἐν ἐλέει καὶ οἰкτιρμοῖς τὴν ταпείνωσιν ἡμῶν..."*). The prayer concludes on the subsequent leaf (Cohort 15, fol. 139v / p141).
+[^442]: The Second Prayer of the Faithful in the Liturgy of Saint Basil the Great (*"Боже, посетивый в милости и щедротах смирение наше..."* / *"Ὁ Θεός, ὁ ἐπισκεψάμενος ἐν ἐλέει καὶ οἰκτιρμοῖς τὴν ταπείνωσιν ἡμῶν..."*). The prayer concludes on the subsequent leaf (Cohort 15, fol. 139v / p141).
 
 [^443]: Fol. 139v (p. 266). The Second Prayer of the Faithful of Saint Basil the Great concludes with an explicit petition for the epiklesis: "to invoke the grace of Thy Holy Spirit upon the gifts that are about to be offered" (*въ є҆́же призыва́ти бл҃гⷣть ст҃го дх҃а , на хотѧ́щїѧ преложи́тисѧ да́ры*), highlighting the preparatory consecratory intention before the Great Entrance.
 
@@ -894,7 +894,7 @@
 
 [^446]: Fol. 142r (p. 271). Christological paradox of the Eucharistic sacrifice: "For Thou art He that offers and is offered, that accepts and is distributed" (*Ты́ бо є҆сѝ приносѧ́и и҆ приноси́мый , и҆ прїе́млѧй , и҆ раздава́емый*), affirming Christ as simultaneous High Priest, Victim, Recipient of sacrifice together with the Father and the Spirit, and Food given to the faithful.
 
-[^447]: Fol. 142v (p. 272). The standard Cherubic Hymn (*Херуви́мскаѧ пѣ́снь* / *Cherubikon*) in Church Slavonic: *И҆́же херуві́мъ та́йнѣ ѡ҆бразꙋ́юще...* Note the Greek spelling with double lambda in the printed text: *А҆λληлꙋ́їа*.
+[^447]: Fol. 142v (p. 272). The standard Cherubic Hymn (*Херуви́мскаѧ пѣ́снь* / *Cherubikon*) in Church Slavonic: *И҆́же херуві́мъ та́йнѣ ѡ҆бразꙋ́юще...* Note the Greek spelling with double lambda in the printed text: *А҆ллилꙋ́їа*.
 
 [^448]: Fol. 143r (p. 273). Great and Holy Thursday proper Cherubic replacement hymn: *Ве́чери твое́й та́йнѣ дне́сь сн҃е бж҃їй , прича́стника мѧ̀ прїимѝ...* ("Of Thy Mystical Supper..."), printed in full with its rubric (*А҆ сѐ въ вели́кый четверто́къ то́чїю пое́тсѧ*).
 
@@ -1022,7 +1022,7 @@
 
 [^510]: Fol. 176r (p. 339). The post-communion showing of the Holy Gifts to the people: the deacon raises the chalice proclaiming *Съ стра́хомъ Бо́жїимъ и҆ вѣ́рою приступи́те*, answered by the choir with Psalm 117:26–27 (LXX). The rubric notes the deacon gathering the holy things (*съпрѧ́тавъ ст҃а́а по чи́ноу*). Note signature `ф г҃` at bottom.
 
-[^511]: Fol. 176v (p. 340). The priestly blessing with the chalice (*Сп҃сѝ, Бо́же, лю́ди твоѧ̑...*, Psalm 27:9, LXX) and the choir's traditional Greek acclamation *И҆сполла̀ та̀ є҆́ти де́спота* (Εἰς πολλὰ ἔτη, δέσпота), translated glossatively in the printed text itself (*Си́рѣчь: На мнѡ́га лѣ́та, Владꙑ́ко*). The priest censes the holy things reciting Psalm 56:6, 12 (LXX 56:5, 11).
+[^511]: Fol. 176v (p. 340). The priestly blessing with the chalice (*Сп҃сѝ, Бо́же, лю́ди твоѧ̑...*, Psalm 27:9, LXX) and the choir's traditional Greek acclamation *И҆сполла̀ та̀ є҆́ти де́спота* (Εἰς πολλὰ ἔτη, δέσποτα), translated glossatively in the printed text itself (*Си́рѣчь: На мнѡ́га лѣ́та, Владꙑ́ко*). The priest censes the holy things reciting Psalm 56:6, 12 (LXX 56:5, 11).
 
 [^512]: Fol. 177r (p. 341). The post-communion transfer of the Holy Gifts to the table of oblation (*въ проскомиді́ю*), the choir's hymn *Да и҆спо́лнѧтсѧ ᲂу҆ста̀ на̑ша...* ("Let our mouths be filled with Thy praise", Psalm 70:8, LXX), and the diaconal Litany of Thanksgiving (*Про́сти прїе́мше...*). Signature `ф д҃` at bottom.
 
@@ -1040,7 +1040,7 @@
 
 [^519]: Fol. 180v (p. 349). Post-liturgical thanksgiving rubrics: the priest washes his hands, face, and lips (*ѡ҆мꙑва́етъ рꙋ́цѣ и҆ лицѐ, и҆ кра́й ᲂу҆сте́нъ свои́хъ*), divests (*съвлачи́тсѧ*), recites the Canticle of Simeon (*Нынѣ̀ ѿпоуща́еши...*, Luke 2:29–32), Trisagion, and the Dismissal Troparion of Saint Basil the Great in Tone 4 (*Въ всѧ́коую зе́млѧ и҆зꙑ́де вѣща́нїе твоѐ...* / Εἰς πᾶσαν τὴν γῆν ἐξῆλθεν ὁ φθόγγος σου, Psalm 18:5 LXX / Romans 10:18), celebrating Basil's theological exposition of the nature of things (*є҆ство̀ сꙋ́щи ᲂу҆ꙗсни́ є҆си*) and royal priesthood (1 Peter 2:9).
 
-[^520]: Fol. 181r (p. 350). The Kontakion of Saint Basil in Tone 4 (*Ꙗ҆ви́сѧ сте́пень недви́жимы цр҃кви...* / Ὤφθης βάсїс ἀκλινὴς τῆς Ἐκκλησίας), modeled on the podoben *Thou hast appeared today* (*Ꙗ҆ви́сѧ дне́сь* / Ἐπεφάνης σήμερον). Followed by the incipit of the post-liturgical dismissal Theotokion (*И҆́же ѿ а҆́ггела сло́во прїе́мши...*).
+[^520]: Fol. 181r (p. 350). The Kontakion of Saint Basil in Tone 4 (*Ꙗ҆ви́сѧ сте́пень недви́жимы цр҃кви...* / Ὤφθης βάσϊς ἀκλινὴς τῆς Ἐκκλησίας), modeled on the podoben *Thou hast appeared today* (*Ꙗ҆ви́сѧ дне́сь* / Ἐπεφάνης σήμερον). Followed by the incipit of the post-liturgical dismissal Theotokion (*И҆́же ѿ а҆́ггела сло́во прїе́мши...*).
 
 [^521]: Fol. 181v (p. 351). Concluding dismissal prayers of Saint Basil: the end of the post-liturgical Theotokion, the twelvefold *Kyrie eleison*, the Little Dismissal (*ѿпоу́стъ*), and the priest's departure from the altar after giving thanks to God. Followed by the explicit concluding colophon: *Коне́цъ бж҃тве́нныѧ лїтоургі́а ст҃го васи́лїа вели́каго* ("The End of the Divine Liturgy of Saint Basil the Great").
 
@@ -1306,7 +1306,7 @@
 
 [^652]: A woodcut headpiece and title in ornate Cyrillic vyaz: *Послѣдова́нїе всенощное* ("The Order of the All-Night Vigil"). In early modern Ruthenian Liturgika, this section details the priestly and diaconal prayers, litanies, and ceremonial movements for Matins (*На ᲂу҆́трени*) when celebrated as part of the All-Night Vigil.
 
-[^653]: The curtain of the Royal Doors (*катапета́зма* / καταπέτασма) is opened before the opening doxology, while the Holy Doors themselves may remain closed until the Polyeleos or Hexapsalmos according to Typikon rubrics.
+[^653]: The curtain of the Royal Doors (*катапета́зма* / καταπέτασμα) is opened before the opening doxology, while the Holy Doors themselves may remain closed until the Polyeleos or Hexapsalmos according to Typikon rubrics.
 
 [^654]: Psalm 19 (LXX 19:2–10; Masoretic 20:1–9): "The Lord give ear unto thee in the day of affliction..." The first of the two Royal Psalms recited at the beginning of the introductory Royal Office of Matins.
 
@@ -1712,7 +1712,7 @@
 
 [^855]: The First Morning Prayer at Matins (`Молитва, первая`: "Благодарим Тя, Господи Боже наш, воздвигшаго ны от лож наших..."), corresponding to Greek Εὐχὴ αʹ: Εὐχαριστοῦμέν σοι, Κύριε ὁ Θεὸς ἡμῶν, τῷ ἐξεγείραντι ἡμᾶς ἐκ τῶν κοιτῶν ἡμῶν...
 
-[^856]: Doxological exclamation of the First Morning Prayer (`Възглашение: Яко подобает ти всяка слава, честь, и поклонение...`), corresponding to Greek Ὅти πρέπει σοι πᾶσα δόξα, τιμὴ καὶ προσκύνησις...
+[^856]: Doxological exclamation of the First Morning Prayer (`Възглашение: Яко подобает ти всяка слава, честь, и поклонение...`), corresponding to Greek Ὅτι πρέπει σοι πᾶσα δόξα, τιμὴ καὶ προσκύνησις...
 
 [^857]: The Second Morning Prayer at Matins (`Молитва, в҃`: "От нощи утренюет дух мой к Тебе, Боже..."), corresponding to Greek Εὐχὴ βʹ: Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σέ, ὁ Θεός...
 
@@ -1722,7 +1722,7 @@
 
 [^860]: Liturgical petition citing LXX Psalm 27:9 ("Save Thy people, and bless Thine inheritance").
 
-[^861]: Concluding exclamation of the Second Morning Prayer (`Възглашение: Яко благословися и прославися пречестное и великолепое имя Твое...`), corresponding to Greek Ὅти ηὐλόγηται καὶ δεδόξασται τὸ πάνтимон καὶ μεγαλοπρεπὲς ὄνομά σου...
+[^861]: Concluding exclamation of the Second Morning Prayer (`Възглашение: Яко благословися и прославися пречестное и великолепое имя Твое...`), corresponding to Greek Ὅτι ηὐλόγηται καὶ δεδόξασται τὸ πάντιμον καὶ μεγαλοπρεπὲς ὄνομά σου...
 
 [^862]: The Third Morning Prayer at Matins (`Молитва, г҃`: "От нощи утренюет дух наш к Тебе, Боже..."), corresponding to Greek Εὐχὴ γʹ: Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμα ἡμῶν πρὸς σέ, ὁ Θεός...
 
@@ -1736,7 +1736,7 @@
 
 [^867]: Biblical quotation from the Canticle of Zechariah (Luke 1:79: "to guide our feet into the way of peace").
 
-[^868]: Priestly exclamation of the Third Morning Prayer (`Възглашение: Яко Твоя держава, и Твое есть царство...`), corresponding to Greek Ὅти σὸν τὸ κράτος, καὶ σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα...
+[^868]: Priestly exclamation of the Third Morning Prayer (`Възглашение: Яко Твоя держава, и Твое есть царство...`), corresponding to Greek Ὅτι σὸν τὸ κράτος, καὶ σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα...
 
 [^869]: Typographical error in the 1604 Striatyn print: `цр҃тко` for `цр҃тво` (царство / "kingdom").
 
@@ -1808,7 +1808,7 @@
 
 [^903]: Direct quotation of LXX Psalm 120:8 ("The Lord shall preserve thy coming in and thy going out from this time forth, and even for evermore").
 
-[^904]: Concluding doxological exclamation of the Eighth Morning Prayer: `Възглашение: Яко благословися и прославися пречестное и великолепое имя Твое, Отца и Сына и Святаго Духа...`, corresponding to Greek Ὅτι ηὐλόγηται καὶ δεδόξασται τὸ πάνтимон καὶ μεγαλοπρεπὲς ὄνομά σου...
+[^904]: Concluding doxological exclamation of the Eighth Morning Prayer: `Възглашение: Яко благословися и прославися пречестное и великолепое имя Твое, Отца и Сына и Святаго Духа...`, corresponding to Greek Ὅτι ηὐλόγηται καὶ δεδόξασται τὸ πάντιμον καὶ μεγαλοπρεπὲς ὄνομά σου...
 
 [^905]: The Ninth Morning Prayer at Matins (`Молитва, девятая`: "Господи Боже наш, иже покаяния ради оставление человеком даровав..."), corresponding to Greek Εὐχὴ θʹ: Κύριε ὁ Θεὸς ἡμῶν, ὁ διὰ μετανοίας ἄφεσιν τοῖς ἀνθρώποις χαρισάμενος...
 
@@ -1828,7 +1828,7 @@
 
 [^913]: Direct citation of LXX Psalm 50:21 ("Then shalt Thou be pleased with the sacrifice of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon Thine altar").
 
-[^914]: Concluding doxological exclamation of the Ninth Morning Prayer: `Възглашение: [Милостию и щедротами, и человеколюбием] Единороднаго Сына Твоего, с нимже благословен еси...`, corresponding to Greek Ἐλέει καὶ οἰκтирμοῖς καὶ φιλανθρωπίᾳ τοῦ μονογενοῦς σου Υἱοῦ...
+[^914]: Concluding doxological exclamation of the Ninth Morning Prayer: `Възглашение: [Милостию и щедротами, и человеколюбием] Единороднаго Сына Твоего, с нимже благословен еси...`, corresponding to Greek Ἐλέει καὶ οἰκτιρμοῖς καὶ φιλανθρωπίᾳ τοῦ μονογενοῦς σου Υἱοῦ...
 
 [^915]: The Tenth Morning Prayer at Matins (`Молитва, десятая`: "Боже, Боже наш, иже умныя и словесныя составивый силы..."), corresponding to Greek Εὐχὴ ιʹ: Ὁ Θεὸς ὁ Θεὸς ἡμῶν, ὁ τὰς νοερὰς καὶ λογικὰς συστησάμενος δυνάμεις τῷ σῷ θελήματι...
 

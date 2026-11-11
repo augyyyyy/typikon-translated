@@ -26,11 +26,12 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
     sys.stderr.reconfigure(encoding='utf-8')
 
 NON_VERB_ETH_TOKENS = {
-    "beth", "seth", "nazareth", "elizabeth", "gennesaret", "shibboleth",
-    "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
-    "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
-    "ninetieth", "hundredth", "thousandth", "aseneth", "japheth",
-    "mephibosheth", "ishbosheth", "gath", "sabbath", "hath", "doth",
+    "beth", "seth", "nazareth", "elizabeth", "elisabeth", "gennesaret", "gennesareth",
+    "shibboleth", "shibboleths", "kenneth", "teeth", "beneath", "underneath",
+    "twentieth", "thirtieth", "fortieth", "fiftieth", "sixtieth", "seventieth",
+    "eightieth", "ninetieth", "hundredth", "thousandth", "aseneth", "japheth",
+    "mephibosheth", "ishbosheth", "gath", "sabbath", "tebeth", "meth", "lambeth",
+    "macbeth", "ashtoreth", "hath", "doth",
 }
 
 BANNED_ETH_VERBS = (

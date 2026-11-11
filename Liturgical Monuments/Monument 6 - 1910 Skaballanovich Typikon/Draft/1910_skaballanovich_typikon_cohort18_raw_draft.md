@@ -3,7 +3,7 @@ preaching, but only in the most exceptional cases. Thus it was already in the 3r
 
 Only unto woman, as ever since apostolic times [^871], was preaching unconditionally forbidden. That same Council decrees: "A woman, however learned and holy, let her not presume (*non praesumat*) to teach men in the assembly" [^872]. In the Eastern Churches, however, deaconesses were permitted to engage in the catechization of women preparing for baptism, yet not publicly, but privately [^873]. In this regard certain heretical communities differed sharply from the Catholic Church, not only permitting the preaching of women, but possessing prophetesses, such as were Prisca and Maximilla among the Montanists, and elevating women unto the episcopal and presbyteral ranks, as among them Quintilla and Priscilla [^874]. The same was true among the Collyridians of the 4th century, among whom women celebrated sacred rites in honor of the Most Holy Virgin Mary, as also among the Cataphrygians [^875].
 
-##### Acclamations and Rites Accompanying Preaching
+**Acclamations and Rites Accompanying Preaching**
 
 Inasmuch as preaching, serving as an exposition of Holy Scripture and wholly grounded upon it, was likewise regarded, in some measure, as the word of God, so also was preaching framed with rites and acclamations almost identical unto the reading of Holy Scripture. Thus before the sermon the deacon invited those present unto silence and attention [^876], perhaps with the acclamation **"Let us attend"** (*Proschomen*). Before the instruction the preacher offered a prayer, presumably secretly [^877]. Before the instruction it was customary for the preacher to greet the people in the name of God [^878]. *(Orig. p. 179)* This
 
@@ -13,20 +13,20 @@ greeting was usually expressed by the acclamations: **"Peace be unto you"** [^87
 As regards the bodily posture in which the sermon was delivered and heard, at least the bishop usually delivered the sermon seated upon his ambo [^883], which, perhaps, was a borrowing from the synagogue and was founded upon the example of the Savior [^884]. But in St. John Chrysostom indication is also made of the preacher standing [^885]. The hearers always stood. Blessed Augustine says: "that I may not detain you long, since I speak sitting, whereas it is difficult for you to stand..." [^886] And Constantine the Great refused to sit during the lengthy sermons of Eusebius of Caesarea [^887]. Augustine permitted only weak and infirm listeners to sit down [^888].
 
 === LEAF p173 ===
-#### The Origin of Monasticism
+**The Origin of Monasticism**
 
 Monasticism in the Church appeared much earlier than the 4th century. From her first days there was always within her something corresponding unto this institution. Not to speak of the great *(Orig. p. 180)* asceticism of John the Baptist, which properly opened the era of the New Testament, both the Savior and the Apostles presupposed and sanctioned ascetic dispositions in certain Christians [^889]. In the writers of the 2nd and 3rd centuries, indications increasingly occur concerning the existence in the Church of an entire class of persons who made continence the goal of their lives [^890]. In the 3rd century such ascetics already constitute entire communities. At least there is record of communities of virgins from this era; into one of such communities (*eis parthenona*) St. Anthony placed his only sister before withdrawing into the desert [^891]. The virgins also differed in their outward appearance and clothing from ordinary Christians [^892]. A series of 3rd-century writers occupy themselves with the question concerning them, writing epistles unto them and treatises concerning them, for the most part praising their continence [^893], yet at times also rebuking their shortcomings [^894]. From the 2nd century examples are likewise known of withdrawal for a more or less prolonged period into solitary places for ascetic purposes [^895], sometimes on account of external inducements, for example, owing to persecutions against Christians [^896], yet frequently solely for ascetic struggles of continence. The latter phenomenon is known at least in Egypt, where before St. Anthony hermits were not uncommon, yet they struggled near their own villages, so that "a monk did not yet know the great desert" [^897].
 
 === LEAF p174 ===
-##### Anchoritism
+**Anchoritism**
 
 All these anchorites and even their communities, both by reason of their small number and their little renown, and because they did not break definitively with the former way of life, exercised no influence upon the elaboration of divine worship. This influence on the part of asceticism began when, with the further development of the latter, certain of the anchorites attained universal *(Orig. p. 181)* ecclesiastical fame, when their way of life (*modus vivendi*) and prayerful labors began to evoke imitation among many.
 
-###### St. Paul of Thebes
+**St. Paul of Thebes**
 
 The first ascetic of this kind was St. Paul of Thebes, concerning whom it was revealed unto St. Anthony himself that the former was greater than he. An Egyptian by birth, having withdrawn into the desert [^898] at the age of 15 during one of the persecutions against Christians, fearing the betrayal of his brother-in-law, St. Paul lived there without ever leaving for about 100 years (he died at the age of 113 in the year 341, when St. Anthony was 90 years old), without seeing a human face; he lived in a cave near a spring beside which a date palm grew; its fruits served him for food, and from its fronds he made clothing for himself. St. Anthony discovered this ascetic only a few days before his death [^899]. Yet thereby everything was done that such a life should not pass without a profound influence upon the Church. Perhaps the significance of Anthony himself in the development of monasticism was merely broader and more noticeable. For the history of divine worship, it was important here that the ascetic completely renounced the consolation afforded by public divine worship and replaced it with his own prayer. Thereby was laid the foundation for the elaboration of a new type of divine worship.
 
-###### St. Anthony
+**St. Anthony**
 
 St. Anthony the Great († 356) withdrew into the desert now exclusively from ascetic motives and spent therein his entire 105-year life from his twentieth year. He settled at first in a tomb-cave near his native village in Lower Egypt near the city of Heraclea and the Thebaid desert on the western bank of the Nile, then in an abandoned fortress of the eastern desert (between the Nile and the Red Sea), and finally in the depths of that same desert upon a mountain, in a cell hewn into the rock, of the length and breadth of a man's stature [^900]. St. Anthony nourished himself at first only with bread and salt, which was brought unto him some twice a year [^901]; in old age, partly in order to spare the labor of those who brought him bread, he began to cultivate a fertile plot in the desert, and at the request of his disciples began to eat olives and oil; St. Anthony took food once a day at sunset, remaining without food for 2 days and more, up to 4 or 5 [^902], frequently spending an entire night without sleep; he slept upon the bare ground, *(Orig. p. 182)* sometimes upon a rush mat [^903]. Everyone was especially astonished (which enhanced the attractive power of his ascetic feats) that under such a life "his body preserved its former appearance, not grown heavy from lack of movement, nor wasted away from fasts" [^904].
 
@@ -38,9 +38,9 @@ The constant occupation of Saint Anthony was prayer and the contemplation of God
 === LEAF p176 ===
 Thus in the prayer of St. Anthony a definite order (*taxis*) is observed both in relation to its hours and its quantity.
 
-##### Subsequent Anchoritism
+**Subsequent Anchoritism**
 
-###### St. Sisoes the Great
+**St. Sisoes the Great**
 
 Once having appeared, asceticism could not but develop and grow not only in extent, but also in degree and intensity. Indeed, the anchorites following Anthony the Great elaborate in detail and perfect unto the utmost limits the ascetic life and monasticism. If they do not surpass the first founders of monasticism, they evoke greater amazement by their ascetic feats, and consequently exercise an irresistible influence upon the entire structure of church life. These were living typika of fasting and prayer, whereof written typika were faint copies, and unto which in any event our Typikon owes more than unto all subsequent typika, ktetorial and otherwise. Of the incredible results which this younger generation of Egyptian ascetics achieved, an approximate idea may be given by certain traits from the life of St. Sisoes the Great († 429).
 
@@ -49,9 +49,9 @@ Once having appeared, asceticism could not but develop and grow not only in exte
 === LEAF p177 ===
 certain elders visited him *(Orig. p. 184)* and, speaking of the elders, mentioned Abba Sisoes, Poemen would say: Cease speaking of Abba Sisoes; for his deeds are beyond narration" [^913].
 
-#### The Influence of the Egyptian Anchorites upon Monastic Typika
+**The Influence of the Egyptian Anchorites upon Monastic Typika**
 
-##### a) Fasting
+**a) Fasting**
 
 In general, the life of the Egyptian ascetics of this era outlined an ideal for all aspects of the monastic order touched upon by written typika. Most of all, of course, was accomplished in regard to fasting. Spontaneously there became established certain norms, rules, minimal requirements—and very arduous ones—both as regards the kind of food for the ascetic, and concerning the time of its taking and the durations of fasting. Meat, of course, was unconditionally not used [^914], yet the tasting thereof in case of necessity was not accounted a transgression of the vow [^915]. Dairy products, it seems, were occasionally permitted [^916], fish— *(Orig. p. 185)* more frequently [^917]. Wine was in principle allowed [^918], but many did not drink it [^919] and in general nothing beside water [^920]. The ordinary food consisted, among the majority of the Egyptian anchorites, it seems, of bread alone with salt, with abstinence from all else [^921]; others for decades nourished *(Orig. p. 186)* themselves only with raw herbs, denying themselves even bread [^922]; but many permitted themselves in general any, provided it were the simplest, vegetable food, and even at times (for example, on feast days) oil [^923].
 
@@ -63,7 +63,7 @@ within the capacity of everyone, was dangerous, and they ceased to recommend it 
 *(Orig. p. 188)*
 With such a fast, into which the entire life of an anchorite was turned, it was nevertheless recognized as necessary to honor the general fasts of the Church, to distinguish them from the series of ordinary fasts, and, of course, by an intensification of abstinence, although among certain anchorites there was, it seems, nowhere further to go in this regard. These were thus fasts of fasts. Before the Great Fast (*Tessarakoste*), St. Macarius of Alexandria, "having broken off a great quantity of palm branches (for manual labor), stood in a corner and throughout the entire Great Fast until Pascha itself took no bread, touched no water, bowed not his knees, sat not down, lay not down, and tasted nothing save a few leaves of dry cabbage; and these he ate only on Sundays, and that so that they might see that he was eating, and that he himself might not fall into conceit; and if ever he went forth from the cell for any necessity, he returned as quickly as possible again and took up his work; not opening his lips and speaking not a word, he stood in silence; his entire occupation consisted in prayer of the heart and in weaving the branches which were in his hands" [^935]. St. Paul the Great, the Galatian, "spent the entire Great Fast with a small measure of lentils and a jar of water, and remained in seclusion until the feast itself" [^936]. The ascetics also honored the fast of Wednesday and Friday. "It is not permissible," said St. Apollos of Hermopolis (early 5th c.), "to violate without absolute necessity (*nisi grandis aliqua necessitas fieret*) the universal (*katholikas*, *legitima*) fasts (of Wednesday and Friday), for on Wednesday the Savior was betrayed, and on Friday crucified; therefore, whosoever violates this fast, together with His enemies betrays and crucifies the Savior. If in the fast a brother come unto thee, having need of refreshment (according to Rufinus: and before the 9th hour wishes to be strengthened for the journey), set a table for him alone; yet if it please him not, constrain him not; for we all have a common tradition concerning the fast" [^937].
 
-##### b) Sleep and Clothing
+**b) Sleep and Clothing**
 
 Having by their life composed the chapter on fasts for later monastic typika, the anchorites exercised influence upon these typika also through other aspects of their life, namely by their attitude toward sleep and clothing. Sleep the ascetics considered as dangerous an enemy unto them as the belly. Many of them slept no more than an hour in a day, and that not lying down, but seated [^938].
 
@@ -73,7 +73,7 @@ The hermits wore clothing sometimes made of palm leaves, or by reason of decrepi
 === LEAF p179 ===
 typika, as we shall see, had services of the 12 "night hours") and upon the chapter in them "on garments and footwear."
 
-##### c) Prayer
+**c) Prayer**
 
 The anchorites of the 4th and 5th centuries laid the foundations also for the elaboration of the monastic rule of prayer and psalmody. Our Typikon specifically inherited from them the extensive use of the Psalter. "The love of psalmody gave birth to monasteries," says Blessed Augustine [^940]. The narratives of the life of the anchorites are replete with mentions of the Psalter and citations of it in their sayings. Very early among the ascetics special rules were established also for the prayerful application of the Psalter. The most ancient rule of this kind was probably the reading at one time of the entire Psalter as a day or night prayer.
 

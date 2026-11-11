@@ -240,10 +240,10 @@ By ascetic labors thou didst arm thy soul, and didst wither the bodily surgings,
 
 By the streams of thy divine tears, O Parasceve, Thou didst utterly drown the demonic array, as being powerless, through thine incline ever toward God and mighty ascents: and Thou didst cast down unto the ground their proud soaring, and wast lifted up unto the heavenly and beauteous mansions, wherein Thou dwellest together with the angels: standing before Christ, pray Thou with boldness for our souls!
 
-*Other Stichera, Tone 6, Podoben the same:*
+*Other Stichera, Tone 6, Podoben the same (Подо́бенъ то́йже):*
 
 === LEAF p150 === (Fol. 74)
-*Tone and Podoben the same.*
+*Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 Living after death, O blessed Parasceve, thou visitest all who with faith flee unto thy shrine: from cruel passions thou ever shelterest them, and from afflictions thou deliverest them, and by thy prayers thou bestowest healings, and savest from demonic assault those who honor thy holy memory, asking of God that He grant forgiveness of transgressions.
 
 An earthly angel upon earth wast thou shown forth, a bodiless life didst thou display in an earthly body: for fleeing far from father and mother, thou wast joined unto Christ thy Bridegroom in the heavenly bridal chamber; living purely for Whom, in Kallikrateia thou hast a strong habitation, where thou bestowest healings upon those who flee unto thee in faith, and pourest forth the grace of wonders upon all.[^518]

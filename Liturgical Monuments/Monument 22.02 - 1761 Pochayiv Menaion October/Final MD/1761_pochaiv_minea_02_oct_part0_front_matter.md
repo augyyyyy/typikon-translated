@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 2: October (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-2-october-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 2: October (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-2-october-pochaiv-lavra-1761"></a>
 
 *(Flyleaf — Archival binding sheet) The Book of the*
 *MENAION*
@@ -24,7 +24,7 @@ and of the Nativity of Christ 1761.[^3]
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 2: October (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-2-october-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 2: October (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-2-october-pochaiv-lavra-1761)**
 * **[MONTH OF OCTOBER](1761_pochaiv_minea_02_oct_part1_month-of-october.md#month-of-october)**
 
 ---

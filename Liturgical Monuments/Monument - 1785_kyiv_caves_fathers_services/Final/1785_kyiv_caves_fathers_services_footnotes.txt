@@ -1392,7 +1392,7 @@
 
 [^695]: Rubrical cross-reference to the three Festal Old Testament readings for monastics at the front of the 1785 print (Folio 4 verso; physical leaf p10).
 
-[^696]: Melodic model: *До́ме є҆vфра́ѳовъ* ("House of Ephratha / Joy of the ranks of heaven"), Tone 1.
+[^696]: Melodic model: *До́ме є҆ѵфра́ѳовъ* ("House of Ephratha / Joy of the ranks of heaven"), Tone 1.
 
 [^697]: Psalm 149:5.
 
@@ -1570,7 +1570,7 @@
 
 [^784]: Rubric directing the substitution of the Common Kontakion when no specific proper feast is assigned in the Typikon.
 
-[^785]: Melodic model (*podoben*): Tone 2, *Seeking the highest* (Вы́шнихъ и҆щѧ̀ / *Tὰ ἄνω ζητῶν*), the classic kontakion automelon of the Sunday of the Forefathers and general ascetics.
+[^785]: Melodic model (*podoben*): Tone 2, *Seeking the highest* (Вы́шнихъ и҆щѧ̀ / *Τὰ ἄνω ζητῶν*), the classic kontakion automelon of the Sunday of the Forefathers and general ascetics.
 
 [^786]: Heirmos of Ode 7, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:26–56; LXX Dan. 3:28).
 

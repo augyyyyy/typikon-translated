@@ -1,23 +1,23 @@
 === LEAF p1 ===
 
-# GUIDE TO THE ECCLESIASTICAL TYPIKON,
+## GUIDE TO THE ECCLESIASTICAL TYPIKON,
 
-### which
-### for the spiritually profitable use of youth
-### was composed and augmented by:
+**which**
+**for the spiritually profitable use of youth**
+**was composed and augmented by:**
 ## Dr. ALEXANDER MIKITA,
-### Canon-Custodian of the Cathedral Church of Mukachevo.
+**Canon-Custodian of the Cathedral Church of Mukachevo.**
 
 ---
 
-### With the approval of the Eparchial Government
-### published by:
+**With the approval of the Eparchial Government**
+**published by:**
 ## THE ECCLESIASTICAL-LITERARY CIRCLE
 ## OF THE SEMINARY OF UNGVÁR (UZHHOROD).
 
 ---
 
-### SECOND EDITION.
+**SECOND EDITION.**
 
 ---
 
@@ -32,17 +32,17 @@
 
 === LEAF p3 ===
 
-# TO MY PROTECTRESS:
+## TO MY PROTECTRESS:
 
 ## TO THE QUEEN OF HEAVEN,
 ## THE MOST HOLY MOTHER OF GOD
 ## AND EVER-VIRGIN MARY,
 
-# BE HONOUR AND GLORY!
+## BE HONOUR AND GLORY!
 
 === LEAF p4 ===
 
-[Blank Leaf]
+*(Vacat — Blank Leaf)*
 
 === LEAF p5 ===
 
@@ -56,7 +56,7 @@ Both elements stand in the closest union and in the greatest alliance between th
 
 And although in ecclesiastical services both elements are equally important, nevertheless in this booklet we shall not occupy ourselves with the symbolic meanings of individual holy rites—for all this is taught to youth in Pastoral Theology or in Liturgics—but here we shall speak only of how those services ought to be performed externally according to ecclesiastical prescriptions; that is, here we shall occupy ourselves solely with the material element of our rites.
 
-This material element, these ritual prescriptions, are compiled in our public ecclesiastical books. Our ecclesiastical books are an evident witness to how great, how magnificent, how wondrous is the material element of our
+This material element, these ritual prescriptions, are compiled in our public ecclesiastical books. Our ecclesiastical books are an evident witness to how great, how magnificent, how marvelous is the material element of our
 
 === LEAF p6 ===
 
@@ -68,7 +68,7 @@ This guide, or better to say, this director, is: the **Typikon**.
 
 For through the Typikon a key is given to youth for the use of our ecclesiastical books, and at the same time there is presented therein an anthology of ritual prescriptions.
 
-To possess this key, to know these prescriptions, and according to their direction to perform all services in unity and uniformity (*in unitate et uniformitate* [in unity and uniformity]) is a conscientious and binding duty for all those to whom the celebration of divine services is entrusted, or will be entrusted. Furthermore, to speak of these prescriptions as of little consequence is great frivolity; for the purpose of the rite and of ritual prescriptions is the glorification of God and the salvation of men; and in a matter of such great importance there can be no discussion of insignificant things. Already in the Old Testament God revealed this: *“Cursed is every man that continueth not in all the words of this law, to do them”* (Deut. 27:26 LXX [V Moses 27:26]).
+To possess this key, to know these prescriptions, and according to their direction to perform all services in unity and uniformity (*in unitate et uniformitate* [in unity and uniformity]) is a conscientious and binding duty for all those to whom the celebration of divine services is entrusted, or will be entrusted. Furthermore, to speak of these prescriptions as of little consequence is great frivolity; for the purpose of the rite and of ritual prescriptions is the glorification of God and the salvation of men; and in a matter of such great importance there can be no discussion of insignificant things. Already in the Old Testament God revealed this: *“Cursed is every man that continues not in all the words of this law, to do them”* (Deut. 27:26 LXX [V Moses 27:26]).
 
 However, since such a guiding and systematic booklet, in which this material element of our holy rites might be found briefly set down, has hitherto not been found among us either in the theological seminary or in the cantors’ and teachers’ preparatory institute (*praeparandia*), therefore I ventured to write such a work for the spiritually profitable use of our youth.
 
@@ -92,7 +92,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 
 === LEAF p8 ===
 
-[Blank Leaf]
+*(Vacat — Blank Leaf)*
 
 === LEAF p9 ===
 
@@ -105,9 +105,9 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 1.** Concept, Origin, and Division of the Typikon — 1
 
 ## PART I
-### On Ecclesiastical Services in General
+**On Ecclesiastical Services in General**
 
-### CHAPTER I
+**CHAPTER I**
 **§ 2.** On the Ecclesiastical Menologion (*Misiatsoslov*) in General — 3  
 **§ 3.** On the Menologion of Moveable Feasts — 5  
 **§ 4.** On the Menologion of Immoveable Feasts — 9  
@@ -122,7 +122,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 13.** The Directory of Feasts Prescribed for the Eparchy of Mukachevo — 20  
 **§ 13.** What Must be Noted Concerning Sundays, Weekdays, Fast Days, Common Days, and Days for the Departed? — 23
 
-### CHAPTER II
+**CHAPTER II**
 **§ 14.** On Ecclesiastical Books in General — 25  
 **§ 15.** Which of the Ecclesiastical Books are Public? Horologion (*Chasoslov*), Psalter (*Psaltyr*), Triodion (*Trypisnets*), Pentecostarion (*Piatdesiatnytsia*), Octoechos (*Osmohlasnyk*), Chant Book (*Pisnoslov*), Monthly Books (*Misiachnyia Knyhy* / Menaia), Anthologion (*Tsvitoslov*), Synaxarion, Apostol, Gospel (*Evangeliye*), Sluzhebnik, Trebnik, and Typikon (*Typik*) — 25
 
@@ -134,21 +134,21 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 19.** What Must be Noted Concerning Ecclesiastical Books? — 34  
 **§ 20.** From Whom do Ecclesiastical Books Originate? — 37
 
-### CHAPTER III
+**CHAPTER III**
 **§ 21.** On Technical Terms Found in Ecclesiastical Books in General — 38  
 **§ 22.** On Technical Terms Found in Ecclesiastical Books in Particular: Order (*Chyn*); Service (*Sluzhba*); Psalm (*Psalm*); Kathisma (*Kadizma*); Antiphon; Paroemia; Canticles of Moses; Verse (*Stykh*); Prokimenon; Sticheron; Idiomelon (*Samohlasna*); Prosomoion (*Podoben*); Troparion; Kontakion; Ikos; Hypakoe (*Upakoi*); Canon; Ode (*Pisn*); Heirmos; Refrain (*Pryspiv*); Katavasia; Synaxarion; Exaposteilarion (*Svitylen*); Megalynarion (*Velichaniye*); Polyeleos (*Mnohomylostyven*); Gradual (*Stepenna*); Theotokion (*Bohorodychen*); Ektenia; Bow (*Poklon*); Litiya; Akathist; Paraklesis; Parastas; Dismissal (*Otpust*) — 39  
 **§ 23.** What Else Must be Noted Concerning These Designations? — 57
 
 ## PART II
-### On Ecclesiastical Services in Particular
+**On Ecclesiastical Services in Particular**
 
 ## SECTION I
 **§ 24.** On Pre-Liturgical Services in General — 59
 
-### CHAPTER I
-#### Parts of the Ecclesiastical Rule
+**CHAPTER I**
+**Parts of the Ecclesiastical Rule**
 
-#### MEMBER I
+**MEMBER I**
 **§ 25.** On Vespers — 59
 
 **I. Ordinary Vespers**  

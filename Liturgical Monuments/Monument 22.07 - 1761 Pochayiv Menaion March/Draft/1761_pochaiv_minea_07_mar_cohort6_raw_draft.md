@@ -85,7 +85,7 @@ Having consumed of old the deceit of the raging tyrants, O all-excellent ones, b
 
 In thee have I placed the hope of my salvation, O Mother Ever-Virgin, and thee have I set forth as the protectress of my life, firm and unshakable.
 
-*Kontakion, Tone 6, Podoben: "Fulfilling the dispensation for our sake" (Ezhe o nas):*
+*Kontakion, Tone 6, Podoben: "Fulfilling the dispensation for our sake" (Є҆́же ѡ҆ на́съ):*
 
 Having left behind all the warfare of the world, ye cleaved unto the Master in the heavens, O forty passion-bearers of the Lord; for having passed through fire and water, O blessed ones, ye worthily received glory from the heavens and a multitude of crowns.[^74]
 
@@ -207,7 +207,7 @@ Standing now before Christ with pious boldness, and illuminated thence with the 
 
 O Virgin, enlighten the gloom that hath multiplied over my soul with the immaterial flashes of thy light, O portal of divine Light; and vouchsafe that he who in faith and love magnifies thee in hymns may be delivered from eternal fire, O pure one!
 
-*Exapostilarion, Podoben: "Give ear, ye women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give ear, ye women" (Жє́ны оу҆слы́шите):*
 
 Let us worthily hymn the fourfold decade, the victorious regiment, the army of the holy martyrs; for through fire and cold and water they put to shame the regiments of the adversaries, and from Christ the Savior they received crowns of glory.[^83]
 
@@ -219,7 +219,7 @@ Let the company of the forty martyrs, fourfold in number, of the transcendent Tr
 
 O Mother and Virgin, who hast given birth unto the Deliverer from ruin for all creation,[^85] and as the Maiden who art over all things: O Sovereign Lady, Birthgiver of God, snatch me away from the passions that tyrannize over me, and lead me unto the radiance of emeralds,[^86] and unto the most fair bridal chamber of thy risen Son!
 
-*At the Praises, four Stichera, Tone 5, Podoben: "Rejoice, O container of ascetics" (Raduysya postnikov):*
+*At the Praises, four Stichera, Tone 5, Podoben: "Rejoice, O container of ascetics" (Ра́дꙋйсѧ по́стникѡвъ):*
 
 Come, O brotherly company of martyrs, let us hymn with praises the regiment that was scorched by frost and fire, and that burned up the winter of delusion with kindled zeal: the most valiant army, the most sacred assembly, the indestructible and invincible rampart, the battlements and guardians of the faith, the divine choir of forty martyrs, the intercessors of the Church, who mightily pray unto Christ to send down peace and great mercy upon our souls! *(Twice)*
 
@@ -302,7 +302,7 @@ David prophetically cried aloud in the Psalms: "We went through fire and water, 
 
 === LEAF p60 === (Fol. 29v)
 
-After Ode 3, the Kontakion, and Ikos, and Sessional Hymn of the Martyrs; Glory of Theodore; Both now... Theotokion; and reading concerning St. Theodore. After Ode 6, the Kontakion of Theodore, and Ikos; and we read the Prologue and Synaxarion. After Ode 9, the Exapostilarion of the Martyrs; Glory of Theodore; Both now... Theotokion. At the Praises, Stichera of the Martyrs 3, Tone 5, Podoben: "Rejoice, O container of ascetics" (Raduysya postnikov); and for Theodore, Prosomoia 3. Then the Refrain: "We went through fire and water"; and we sing the Idiomelon Sticheron of the Martyrs: "Trophy-bearers of Christ"; Glory of Theodore; Both now... Theotokion. Great Doxology. Troparion of the Martyrs; Glory of Theodore; Both now... Theotokion. Litanies, and the Dismissal, and the usual procession into the narthex, and the First Hour. At the Hours, the Troparion of the Martyrs; Glory of Theodore; Both now... the Theotokion of the Hours; and we say the Kontakia alternating. At the Liturgy, the Beatitudes of the Martyrs, Ode 3 on 4; and of Theodore, Ode 6 on 4. After the Entrance, the Troparion of the Martyrs, and of Theodore, and his Kontakion; Glory of the Martyrs; Both now... of the Theotokos of the temple, or: "O Protection of Christians"; Prokeimenon, Alleluia, and Communion Verse of the Martyrs and of Theodore; the Epistle and Gospel first of Saturday, and of Theodore according to pericope, then of the Martyrs.
+After Ode 3, the Kontakion, and Ikos, and Sessional Hymn of the Martyrs; Glory of Theodore; Both now... Theotokion; and reading concerning St. Theodore. After Ode 6, the Kontakion of Theodore, and Ikos; and we read the Prologue and Synaxarion. After Ode 9, the Exapostilarion of the Martyrs; Glory of Theodore; Both now... Theotokion. At the Praises, Stichera of the Martyrs 3, Tone 5, Podoben: "Rejoice, O container of ascetics" (Ра́дꙋйсѧ по́стникѡвъ); and for Theodore, Prosomoia 3. Then the Refrain: "We went through fire and water"; and we sing the Idiomelon Sticheron of the Martyrs: "Trophy-bearers of Christ"; Glory of Theodore; Both now... Theotokion. Great Doxology. Troparion of the Martyrs; Glory of Theodore; Both now... Theotokion. Litanies, and the Dismissal, and the usual procession into the narthex, and the First Hour. At the Hours, the Troparion of the Martyrs; Glory of Theodore; Both now... the Theotokion of the Hours; and we say the Kontakia alternating. At the Liturgy, the Beatitudes of the Martyrs, Ode 3 on 4; and of Theodore, Ode 6 on 4. After the Entrance, the Troparion of the Martyrs, and of Theodore, and his Kontakion; Glory of the Martyrs; Both now... of the Theotokos of the temple, or: "O Protection of Christians"; Prokeimenon, Alleluia, and Communion Verse of the Martyrs and of Theodore; the Epistle and Gospel first of Saturday, and of Theodore according to pericope, then of the Martyrs.
 
 *If the Forty Martyrs fall on the 4th Sunday of the Fast:*[^100]
 

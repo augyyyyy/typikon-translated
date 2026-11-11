@@ -4,7 +4,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 21 Μαΐου (Συνέχεια), 25 Μαΐου (Μέρος Α΄) [Violakis, p. 976]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@
 
 ## The Chart of the Feasts: 21 May (Conclusion), 25 May (Part 1) [Violakis, p. 977]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -66,8 +66,6 @@
 | January 30 (12 February) | April 10 (23) | Wednesday | § 10 (p. 277) |
 | January 31 (13 February) | April 11 (24) | Tuesday | § 10 (p. 277) |[^555]
 
----
-[*] *Epigraphic Corrigenda on Facing Pages (pp. 976–977):* In the concluding rows for Saints Constantine and Helen (May 21), the 1888 English column contains a typographical error in the Paschal date column for January 13 (26), printing "14 (7 May)" instead of 24 (7 May); the Greek text on leaf p991 correctly reads "24 (7)". Column 4 exhibits slight vertical typographic displacement: the Greek archetype leaves Thursday unannotated, printing §§ 1–2 (p. 266) opposite Wednesday, §§ 1–2 (p. 266) opposite Tuesday, and § 3 (pp. 266–267) opposite Monday; the facing English column on leaf p992 restores § 6 (p. 267) to Thursday, §§ 3–5 (pp. 266–267) to Wednesday of the Apodosis of Mid-Pentecost, and §§ 1–2 (p. 266) uniformly across Tuesday, Monday, Samaritan Sunday, and Saturday of the Paralytic. In the opening rows for the Third Finding of the Head of the Forerunner (May 25), non-canonical phrasing in the 1888 English column for the Apodosis of Mid-Pentecost and Pentecost is rectified to canonical "Apodosis" per MTS-1; and the English typographical error in row January 24 ("4 (17 Aril)") is emended to April.
 
 *(Printed Page 977)*
 
@@ -77,7 +75,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαΐου (Μέρος Β΄ — Τέλος τοῦ Ἑορτοδρομίου) [Violakis, p. 978]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια καὶ Τέλος)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια καὶ Τέλος)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -107,7 +105,7 @@
 
 ## The Chart of the Feasts: 25 May (Part 2 — Conclusion of the Eortodromion) [Violakis, p. 979]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Conclusion)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Conclusion)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -126,8 +124,6 @@
 | February 12 (25) | April 23 (6 May) | Thursday | § 10 (p. 277) [Greek: §§ 1–2 (p. 275)] |
 | February 13 (26) | April 24 (7 May) | Wednesday of the Apodosis of Mid-Pentecost | §§ 1–2 (p. 275) |[^556]
 
----
-[*] *Epigraphic Corrigenda on Facing Pages (pp. 978–979):* Physical leaves p993 and p994 mark the formal conclusion of the perpetual concurrence tables (*Ἑορτοδρόμιον*) of the 1888 Violakis Typikon. In the lower rows of the table (February 10–13), slight vertical typesetting drift occurs between the Greek archetype and the 1888 English facing translation: on leaf p993, § 10 (p. 277) is printed opposite Saturday of the week of the Samaritan Woman and Friday, while §§ 1–2 (p. 275) is placed opposite Thursday, leaving Wednesday unannotated; on facing leaf p994, the English compositor placed § 10 (p. 277) opposite Thursday and Friday, and assigned §§ 1–2 (p. 275) to Wednesday of the Apodosis of Mid-Pentecost, leaving Saturday blank. Both witness tracks are reconciled in this critical edition. Non-canonical phrasing in the 1888 English column for the Apodosis of Pascha and the Apodosis of Mid-Pentecost is rectified to canonical "Apodosis" per MTS-1.
 
 *(Printed Page 979)*
 
@@ -137,10 +133,10 @@
 
 ## Half-Title Page [Demos, p. 980 / TD-1]
 
-# DICTIONARY OF TERMS RELATED TO THE TYPIKON
+## DICTIONARY OF TERMS RELATED TO THE TYPIKON
 
-### Compiled, adapted, and edited by  
-### GEORGE T. DEMOS, MD
+**Compiled, adapted, and edited by**
+**GEORGE T. DEMOS, MD**
 
 *(Unnumbered Title Page / TD-1)*
 
@@ -150,7 +146,7 @@
 
 ## Introduction to This Dictionary (Part 1) [Demos, p. 981 / TD-2]
 
-### INTRODUCTION TO THIS DICTIONARY
+**INTRODUCTION TO THIS DICTIONARY**
 
 This dictionary was compiled from various sources and defines each term either as it is used in this Typikon by George Violakis, the former First Chanter (*Protopsaltis*) of the Patriarchate of Constantinople, (published in Constantinople in 1888 and subsequently reprinted several times by the publishing firm of Vasilios Saliveros in Athens, Greece), or in other works generally concerning the order of the sacred services of the Greek Orthodox Church.
 
@@ -172,7 +168,7 @@ When the abbreviation *Slav.* is used, it denotes the term in transliterated Sla
 
 ## Introduction to This Dictionary (Part 2) [Demos, p. 982 / TD-3]
 
-### INTRODUCTION TO THIS DICTIONARY (Continued)
+**INTRODUCTION TO THIS DICTIONARY (Continued)**
 
 *Slavic and East European Journal* (SEEJ) and used by many academic institutions.
 
@@ -196,7 +192,7 @@ Finally, I express my gratitude to Theodore Bogdanos, Professor Emeritus of Medi
 
 ## Introduction to This Dictionary (Acknowledgements) [Demos, p. 983 / TD-4]
 
-### ACKNOWLEDGEMENTS
+**ACKNOWLEDGEMENTS**
 
 I am indebted to the following clergymen for their counsel on several critical points:
 
@@ -217,7 +213,7 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letter A) [Demos, p. 984 / TD-5]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -262,7 +258,7 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters B–E) [Demos, p. 985 / TD-6]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -303,7 +299,5 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 | Compline | 44 | Ektenis | 64 |
 | *Confessor | 44 | Engolpion | 64 |[^559]
 
----
-[*] *Editorial Note on the Typikon Dictionary (pp. TD-5–TD-6):* Physical leaves p999 and p1000 record the opening alphabetical index (Letters A through E) of the comprehensive *Dictionary of Terms Related to the Typikon* compiled by George T. Demos, MD, appended to the 2007 Athens/Denver bilingual edition of the 1888 Violakis Typikon. In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, entries designating *Apolytikia* are translated and harmonized to canonical "Dismissal Troparion", and non-canonical variants are cross-referenced to canonical UGCC equivalents (*Tone* for *Mode*, *Dormition* for *Assumption*, *Pascha* for *Easter*).
 
 *(Printed Page TD-6)*

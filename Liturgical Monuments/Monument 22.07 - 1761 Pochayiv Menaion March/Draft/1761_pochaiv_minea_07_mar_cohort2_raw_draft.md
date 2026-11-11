@@ -104,7 +104,7 @@ Having given birth unto the Light for us, O Virgin, Who shone forth ineffably fr
 *In the same month, on the 3rd day: the Holy Martyrs Eutropius, and his companions Cleonicus and Basiliscus.*  
 *At "Lord, I have cried," stichera, Tone 4:*
 
-*Tone 4, Podoben: "O All-Praised Martyrs" (Vsekhvalnii muchenitsy):*
+*Tone 4, Podoben: "O All-Praised Martyrs" (Всехва́льнїи мч҃ницы):*
 
 Appearing as three in number, O martyrs, ye contended against the harsh judges; and having endured with faith every kind of most cruel suffering, ye attained the Kingdom on high. Therefore pray ye that peace and great mercy may be granted unto our souls.
 
@@ -161,7 +161,7 @@ Ye were placed upon the height of suffering like radiant stars, truly illuminati
 
 Thou didst receive Christ in thy womb, Who emptied the belly of Hades by His all-effective counsel: pray unto Him, O thou who art full of divine joy, to deliver from the bondage of sin all who ever faithfully call thee blessed.
 
-*Sessional Hymn, Tone 4, Podoben: "Thy Tomb, O Savior" (Grob tvoi Spase):*
+*Sessional Hymn, Tone 4, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й Сп҃се):*
 
 The trinity of martyrs confessed their honorable contest before many peoples, and having suffered they were numbered with the choirs of the incorporeal; today let us praise them in faith, celebrating their sacred and world-saving memory.
 
@@ -288,7 +288,7 @@ The angelic ranks are struck with awe at Him Who shone forth from thy womb: pray
 *In the same month, on the 4th day: our Venerable Father Gerasimus of the Jordan.*  
 *At "Lord, I have cried," stichera, Tone 8:*
 
-*Tone 8, Podoben: "O Marvelous Wonder" (O preslavnago chudese):*
+*Tone 8, Podoben: "O Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 O God-wise father Gerasimus, united unto God through much self-control, prayer, and supplication, thou didst remain unmoved by the crafts of the adversary, and wast shown to be a servant of the Almighty; therefore we honor thee, and celebrating thy divine memory with joy in faith, we praise thee.
 
@@ -297,11 +297,11 @@ Venerable father Gerasimus, ever abiding in faith in the deserts, caves, and mou
 
 Having submitted to the nods of the all-seeing God, Thou didst receive grace from Him to work wonders, and to drive away spirits of wickedness, and to tame wild beasts by the purity of thy mind.[^17] Therefore we honor thee, and celebrate thy divine memory as is meet, with faith, O God-blessed one.
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 We pray thee, O all-pure Lady, our protectress, we who are troubled with sorrows: despise not thy servants that they perish utterly, but hasten to deliver us from present wrath and sorrow, O thou who art full of divine joy, all-holy and pure one; for thou art our wall and unconquerable help.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Thee nailed upon the Cross, O Jesus, and voluntarily accepting the passions, the Virgin and Thy Mother, O Master, cried aloud weeping: Woe is me, O sweet Child! How is it that Thou endurest wounds unjustly, O Physician Who didst heal human infirmity and didst deliver all from corruption by Thy tender mercy?
 
@@ -340,7 +340,7 @@ Like a great sun, with the beams of thy wonders thou dost enlighten the hearts o
 
 Thou didst bear, O all-undefiled one, the Son Who shares the throne and essence with the Father, Who showed forth the paths of life unto all.
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Hast Appeared Today" (Yavilsya yesi dnes):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Hast Appeared Today" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 
 Having overcome the wiles of the demons by strong grace and divine working, O venerable one, thou didst become a god by adoption;[^19] therefore we faithfully honor thee, O Gerasimus.
 

@@ -51,16 +51,16 @@ As royal adornment of the Church let us all praise Basil, the inexhaust-
 === LEAF p185 ===
 -ible treasury of doctrines; for by these he instructed us to revere the Holy Trinity, united indeed in essence, yet divided in hypostases.[^572]
 
-*Glory: Tone 1. Podoben: "Thy tomb, O Savior...":*[^573]
+*Glory: Tone 1. Podoben: "Thy tomb, O Savior..." (Гро́бъ тво́й Сп҃се):*[^573]
 O all-wise Basil, standing before the Trinity, pray that on the day of judgment grace, mercy, and purification of transgressions may be obtained by us who sing unto thee and honor thy memory, that with mouth and heart we may glorify the only Lover of mankind.[^574]
 
 *Both now:*
 The Creator of all and Master of the world, Who is on high with the Father and the Spirit, is circumcised on earth as an eight-day-old infant; truly divine and marvelous are Thy works: for Thou, O Master, wast circumcised for our sake, being the fulfillment of the law.[^575]
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: "The Wisdom...":*[^576]
+*After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: "The Wisdom..." (Премꙋ́дрости):*[^576]
 Having drawn forth the secret wealth of ineffable wisdom in divine contemplation, thou didst pour forth for all the waters of Orthodoxy, divinely gladdening the hearts of the faithful, yet worthily drowning the commands of the unfaithful; whence by both sweatings of piety thou didst show thyself an invincible champion of the Trinity, hierarch Basil: pray Christ God to grant remission of transgressions unto those who celebrate thy holy memory with love.[^577]
 
-*Glory: Tone 3. Podoben: "Of the divine faith...":*[^578]
+*Glory: Tone 3. Podoben: "Of the divine faith..." (Бж҃е́ственныѧ вѣ́ры):*[^578]
 Thou didst water the whole universe as with waters by thy teachings, by the dogmas of piety gathered together; for the fountain of life truly
 
 === LEAF p186 ===
@@ -90,7 +90,7 @@ We magnify thee, O hierarch of Christ, Basil, and we honor thy holy memory: for 
 *Of Basil: Blessed are they that dwell in Thy house, they will praise Thee unto ages of ages.*[^591]
 *Glory: Both now: Alleluia, thrice.*
 
-*Thereafter, Sessional Hymn, Tone 8. Podoben: "The Wisdom...":*[^592]
+*Thereafter, Sessional Hymn, Tone 8. Podoben: "The Wisdom..." (Премꙋ́дрости):*[^592]
 By the power of divine words thou didst overthrow dark heresies, thou didst drown all the ragings of Eunomius; for unto men thou didst proclaim the Spirit to be God, and by the lifting up of hands thou didst slay enemies; thou didst drive away all the worship of Sabellius, and didst abolish all the vain reasonings of Nestorius, O hierarch Basil: pray Christ God to grant remission of transgressions unto those who celebrate thy holy memory with love.[^593]
 
 *Glory:*[^594]

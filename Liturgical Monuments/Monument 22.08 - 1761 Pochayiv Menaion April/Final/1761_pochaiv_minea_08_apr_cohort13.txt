@@ -45,7 +45,7 @@ Thou didst fight the good fight, O passion-bearer of Christ, through faith; and 
 *Sticheron:*
 As one valiant among martyrs, O passion-bearer George, having gathered together today we praise thee; for having finished the course, thou didst keep the faith, and didst receive from God the crown of thy victory: Whom do thou beseech, to deliver from corruption and perils those who celebrate in faith thy right honorable memory.
 
-*Podoben:*
+*Podoben (Подо́бенъ):*
 Trusting with steadfast intention, thou didst willingly dare, as a lion, O glorious one, unto suffering; having indeed despised the body as that which is about to perish, thou didst wisely care for the incorrupt soul. And thou wast tried by manifold kinds of tortures, as gold refined sevenfold, O George.
 
 *Sticheron:*

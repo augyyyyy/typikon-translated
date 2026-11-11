@@ -4,7 +4,7 @@
 
 ## ΠΑΡΑΡΤΗΜΑ ΤΟΥ ΤΥΠΙΚΟΥ
 
-# ΠΑΡΑΡΤΗΜΑ ΤΟΥ ΤΥΠΙΚΟΥ
+## ΠΑΡΑΡΤΗΜΑ ΤΟΥ ΤΥΠΙΚΟΥ
 
 # Typikon Appendix: Title Page
 
@@ -125,7 +125,7 @@ On Holy and Great Thursday evening, about the Twelfth Hour [6:00 p.m.], the bell
 
 ## Service of the Holy Passion Continued (Opening Prayers, Hexapsalmos, and Troparion)
 
-...**"For many years, Master!"** (*Εἰς πολλὰ ἔτη, Δέσποτα*), and he ascends the Patriarchal Throne. Then the Great Archimandrite, the Great Archdeacon, and the Second Deacon receive Keron [the liturgical permission and blessing to officiate] from the Patriarch; then follow the Third Deacon and the rest of the Deacons. They enter into the Holy Sanctuary [Bema], the former group by the North Deacon's Gate and the latter group by the South Deacon's Gate; only the Great Archdeacon remains beside the Patriarch. The Great Archimandrite, standing before the Holy Table and wearing the Epitrachilion, exclaims: **"Blessed is our God always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*); and the Patriarch begins: **"Glory to Thee, our God, glory to Thee!"**, **"O Heavenly King, Comforter, Spirit of truth..."** (*Δόξα σοι ὁ Θεὸς ἡμῶν, δόξα σοι... Βασιλεῦ οὐράνιε, Παράκλητε...*). The designated Reader-Priest, standing opposite the Patriarch, begins to recite melodiously the Trisagion Prayers and the two Psalms before the Six Psalms [Psalms 19 and 20 LXX]. As the first Psalm begins, the Great Archimandrite, vested in Phelonion with Epitrachilion and preceded by a candle-bearer, exits through the North Gate of the Sanctuary carrying a hand censer (*Katzion*). He censes, as is customary, all the people, and, returning, stands before the Royal Doors [Beautiful Gate] and exclaims after the second Trisagion: **"For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Ὅτι σοῦ ἐστιν ἡ βασιλεία*). The Reader then recites the Troparion **"O Lord, save Thy people, and bless Thine inheritance..."** (*Σῶσον, Κύριε, τὸν λαόν σου*) and the other two Troparia after it. The Archimandrite intones: **"Have mercy on us, O God, according to Thy great mercy..."** (*Ἐλέησον ἡμᾶς, ὁ Θεός*), and following that, the Exclamation: **"For Thou art a merciful God and lovest mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Ὅτι ἐλεήμων καὶ φιλάνθρωπος*). And immediately: **"Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and forever, and unto the ages of ages. Amen."** (*Δόξα τῇ ἁγίᾳ καὶ ὁμοουσίῳ...*). The Patriarch then begins the Six Psalms (*Hexapsalmos*). When these are completed, the Great Archimandrite says the Great Litany, and after the Litany the Choirs begin to sing the **"Alleluia"** (*Ἀλληλούϊα*) melodiously four times, chanting also the customary verses beforehand: 1. **"My spirit seeketh Thee early in the morning watches, O God, for Thy commandments are a light upon the earth."** (*Ἐκ νυκτὸς ὀρθρίζει...*, Isa. 26:9 LXX); 2. **"Learn righteousness, O ye inhabitants of the earth."** (*Δικαιοσύνην μάθετε...*, Isa. 26:9 LXX); 3. **"Zeal shall seize an uninstructed people."** (*Ζῆλος λήψεται λαόν*, Isa. 26:11 LXX); 4. **"Bring more evils upon them, O Lord, bring more evils upon them."** (*Πρόσθες αὐτοῖς κακά, Κύριε*, Isa. 26:15 LXX). [Here, in an apparent editorial slip, Violakis in the Greek text reversed the sequence of the last two verses]. Then we chant the Troparion in Tone 8: **"When the glorious disciples were enlightened at the washing of the feet..."** (*Ὅτε οἱ ἔνδοξοι μαθηταί*): twice slowly, and once moderately fast (*ἀργοσυντόμως*). The last two repetitions are sung with **"Glory..."** and **"Now and forever..."** At the beginning of the chanting of this hymn, the Hierarchs who are to participate in the service exit the Holy Sanctuary through the South Gate, preceded by the Great Ecclesiarch, and stand each in his designated position according to rank. The Great Ecclesiarch, having made a reverent sign (*σχῆμα*) to the Patriarch, enters into the Holy Sanctuary. Immediately also the Great Archdeacon, having made a reverent sign to the Patriarch, enters into the Holy Sanctuary in order to vest, leaving one of the other Deacons in his place. As the Second Choir begins to chant for the second time the Troparion: **"When the glorious disciples..."**, the Archdeacon with the rest of the...[^492]
+...**"For many years, Master!"** (*Εἰς πολλὰ ἔτη, Δέσποτα*), and he ascends the Patriarchal Throne. Then the Great Archimandrite, the Great Archdeacon, and the Second Deacon receive Keron [the liturgical permission and blessing to officiate] from the Patriarch; then follow the Third Deacon and the rest of the Deacons. They enter into the Holy Sanctuary [Bema], the former group by the North Deacon's Gate and the latter group by the South Deacon's Gate; only the Great Archdeacon remains beside the Patriarch. The Great Archimandrite, standing before the Holy Table and wearing the Epitrachilion, exclaims: **"Blessed is our God always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*); and the Patriarch begins: **"Glory to Thee, our God, glory to Thee!"**, **"O Heavenly King, Comforter, Spirit of truth..."** (*Δόξα σοι ὁ Θεὸς ἡμῶν, δόξα σοι... Βασιλεῦ οὐράνιε, Παράκλητε...*). The designated Reader-Priest, standing opposite the Patriarch, begins to recite melodiously the Trisagion Prayers and the two Psalms before the Six Psalms [Psalms 19 and 20 LXX]. As the first Psalm begins, the Great Archimandrite, vested in Phelonion with Epitrachilion and preceded by a candle-bearer, exits through the North Gate of the Sanctuary carrying a hand censer (*Katzion*). He censes, as is customary, all the people, and, returning, stands before the Royal Doors [Beautiful Gate] and exclaims after the second Trisagion: **"For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Ὅτι σοῦ ἐστιν ἡ βασιλεία*). The Reader then recites the Troparion **"O Lord, save Thy people, and bless Thine inheritance..."** (*Σῶσον, Κύριε, τὸν λαόν σου*) and the other two Troparia after it. The Archimandrite intones: **"Have mercy on us, O God, according to Thy great mercy..."** (*Ἐλέησον ἡμᾶς, ὁ Θεός*), and following that, the Exclamation: **"For Thou art a merciful God and lovest mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Ὅτι ἐλεήμων καὶ φιλάνθρωπος*). And immediately: **"Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and forever, and unto the ages of ages. Amen."** (*Δόξα τῇ ἁγίᾳ καὶ ὁμοουσίῳ...*). The Patriarch then begins the Six Psalms (*Hexapsalmos*). When these are completed, the Great Archimandrite says the Great Litany, and after the Litany the Choirs begin to sing the **"Alleluia"** (*Ἀλληλούϊα*) melodiously four times, chanting also the customary verses beforehand: 1. **"My spirit seeks Thee early in the morning watches, O God, for Thy commandments are a light upon the earth."** (*Ἐκ νυκτὸς ὀρθρίζει...*, Isa. 26:9 LXX); 2. **"Learn righteousness, O ye inhabitants of the earth."** (*Δικαιοσύνην μάθετε...*, Isa. 26:9 LXX); 3. **"Zeal shall seize an uninstructed people."** (*Ζῆλος λήψεται λαόν*, Isa. 26:11 LXX); 4. **"Bring more evils upon them, O Lord, bring more evils upon them."** (*Πρόσθες αὐτοῖς κακά, Κύριε*, Isa. 26:15 LXX). [Here, in an apparent editorial slip, Violakis in the Greek text reversed the sequence of the last two verses]. Then we chant the Troparion in Tone 8: **"When the glorious disciples were enlightened at the washing of the feet..."** (*Ὅτε οἱ ἔνδοξοι μαθηταί*): twice slowly, and once moderately fast (*ἀργοσυντόμως*). The last two repetitions are sung with **"Glory..."** and **"Now and forever..."** At the beginning of the chanting of this hymn, the Hierarchs who are to participate in the service exit the Holy Sanctuary through the South Gate, preceded by the Great Ecclesiarch, and stand each in his designated position according to rank. The Great Ecclesiarch, having made a reverent sign (*σχῆμα*) to the Patriarch, enters into the Holy Sanctuary. Immediately also the Great Archdeacon, having made a reverent sign to the Patriarch, enters into the Holy Sanctuary in order to vest, leaving one of the other Deacons in his place. As the Second Choir begins to chant for the second time the Troparion: **"When the glorious disciples..."**, the Archdeacon with the rest of the...[^492]
 
 # Appendix: Service of the Holy Passion Continued (Gospels 1 and 2, Antiphons)
 
@@ -221,13 +221,13 @@ On Holy and Great Thursday evening, about the Twelfth Hour [6:00 p.m.], the bell
 
 ---
 
-### Case 1: If the Consecration of a Church Falls on the Commemoration of a Celebrated Saint
+**Case 1: If the Consecration of a Church Falls on the Commemoration of a Celebrated Saint**
 
 If the Consecration of a Church takes place on the commemoration of a celebrated Saint, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Consecration, 3 of the celebrated Saint, and 3 of the Patron Saint of the church being consecrated; **"Glory..."** (*Δόξα*) of the celebrated Saint; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Old Testament Readings: two of the Consecration and one of the celebrated Saint. At the Aposticha: Stichera of the celebrated Saint; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Then the Dismissal Troparia: that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration.
 
 At Matins: the Kathismata of the celebrated Saint, and those of the Consecration instead of Theotokia. Canons: the Canon of the Consecration, that of the celebrated Saint, and that of the Patron Saint of the church, each Ode with 4 Troparia [totaling 12]. Exapostilaria: that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration. At the Praises (*Ainoi*): 8 Stichera: 2 of the Consecration, 3 of the celebrated Saint, and 3 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Patron Saint of the church (unless it be the feast of the Apostles, or of the Forerunner, or of the Evangelists, or of any solemnly celebrated saint, in which case the Doxastikon is of the celebrated Saint); **"Now and forever..."** (*Καὶ νῦν*) of the Consecration; the Great Doxology, and the Dismissal Troparion of the Consecration.
 
-### Case 2: If the Consecration Takes Place on a Sunday
+**Case 2: If the Consecration Takes Place on a Sunday**
 
 If the Consecration takes place on a Sunday, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Resurrection, 3 of the Consecration...[^497]
 
@@ -256,13 +256,13 @@ If the Consecration takes place on a Sunday, at Vespers, at **"Lord, I have crie
 
 At Matins: the Resurrection Kathismata, and those of the Consecration in place of the Theotokia. Canons: the Resurrection Canon, that of the Consecration, and that of the Patron Saint of the church. Exapostilaria: the Sunday Resurrection Exapostilarion, that of the Patron Saint of the church, and that of the Consecration. At the Praises (*Ainoi*): 8 Stichera: 4 of the Resurrection and 4 of the Consecration; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Sunday Troparion: **"Today salvation is come unto the world..."** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν*).
 
-### Case 3: If the Consecration Takes Place on a Sunday with the Commemoration of a Celebrated Saint
+**Case 3: If the Consecration Takes Place on a Sunday with the Commemoration of a Celebrated Saint**
 
 If the Consecration takes place on a Sunday with the commemoration of a celebrated Saint, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 3 of the Resurrection, 2 of the Consecration, 3 of the celebrated Saint, and 2 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the celebrated Saint; **"Now and forever..."** (*Καὶ νῦν*), the first Dogmatic Theotokion of the Tone of the week. Two Readings of the Consecration and one of the celebrated Saint. At the Aposticha: Resurrection Stichera; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Dismissal Troparia: the Sunday Resurrection Troparion, that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration.
 
 At Matins: the Resurrection Kathismata, those of the celebrated Saint, and those of the Consecration in place of the Theotokia. Canons: the Resurrection Canon, that of the Consecration, and that of the celebrated Saint. Exapostilaria: the Sunday Resurrection Exapostilarion, that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration. At the Praises (*Ainoi*): 8 Stichera: 3 of the Resurrection, 2 of the Consecration, and 3 of the celebrated Saint; **"Glory..."** (*Δόξα*) of the Patron Saint of the church (unless, as has been said, it be the feast of the Apostles, or of the Forerunner, or of the Evangelists, or of a solemnly celebrated saint); **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Sunday Troparion: **"Today salvation is come unto the world..."** (*Σήμερον σωτηρία...*).
 
-### Case 4: If the Consecration Takes Place on a Feast of the Mother of God (Theotokos)
+**Case 4: If the Consecration Takes Place on a Feast of the Mother of God (Theotokos)**
 
 If the Consecration takes place on a Feast of the Mother of God, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Feast, 3 of the Consecration, and 3 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration...[^498]
 
@@ -293,13 +293,13 @@ If the Consecration takes place on a Feast of the Mother of God, at Vespers, at 
 
 At Matins, and in the three poetic Kathisma seatings [Stichologies]: the Kathisma of the Feast, that of the Consecration, and again that of the Feast. Canons: the Canons of the Feast and that of the Consecration. Exapostilaria: of the Feast, that of the Consecration, that of the Patron Saint of the church, and again that of the Feast. At the Praises (*Ainoi*): 8 Stichera: 4 of the Feast, 2 of the Consecration, and 2 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Dismissal Troparion of the Feast.
 
-### Case 5: If the Consecration Takes Place on a Feast of the Lord (Despotic Feast)
+**Case 5: If the Consecration Takes Place on a Feast of the Lord (Despotic Feast)**
 
 If the Consecration takes place on a Feast of the Lord, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 8 Stichera are chanted: 6 of the Feast and 2 of the Consecration; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Two Readings of the Feast and one of the Consecration. At the Aposticha: Stichera of the Feast; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Feast. Dismissal Troparia: the Troparion of the Feast, that of the Consecration, that of the Patron Saint of the church, and again that of the Feast.
 
 At Matins, and in the three poetic Kathisma seatings [Stichologies]: the Kathisma of the Feast, that of the Consecration, and again that of the Feast. Canons: the Canons of the Feast and that of the Consecration. Exapostilaria: of the Feast, that of the Consecration, that of the Patron Saint of the church, and again that of the Feast. At the Praises (*Ainoi*): 8 Stichera: 4 of the Feast, 2 of the Consecration, and 2 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Dismissal Troparion of the Feast.
 
-### Case 6: If the Consecration Takes Place on a Sunday with a Feast of the Mother of God (Theotokos)
+**Case 6: If the Consecration Takes Place on a Sunday with a Feast of the Mother of God (Theotokos)**
 
 If the Consecration takes place on a Sunday with a Feast of the Theotokos, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Resurrection, 4 of the Feast, and 2 of the Consecration; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Two Readings of the Feast and one of the Consecration. At the Aposticha: Resurrection Stichera; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Feast. Dismissal Troparia: the Sunday Resurrection Troparion, that of the Feast, that of the Patron Saint of the church, and that of the Consecration.
 
@@ -313,7 +313,7 @@ At Matins: the Resurrection Kathismata, those of the Consecration...[^499]
 
 Ἀπόστολος καὶ Εὐαγγέλιον ἐν ἑκάστῃ τῶν προταχθεισῶν περιπτώσεων ὁρίζονται ὑπὸ τοῦ Τελετουργοῦ ἀναλόγως τῆς τυχούσης ἑορτῆς.
 
-### Η ΤΕΛΕΤΗ ΤΩΝ ΕΓΚΑΙΝΙΩΝ
+**Η ΤΕΛΕΤΗ ΤΩΝ ΕΓΚΑΙΝΙΩΝ**
 
 Ὀφείλει ὁ Ἀρχιερεὺς ἔχειν προητοιμασμένα τὰ ἀπαιτούμενα εἰς τὴν καθιέρωσιν καὶ τὸν Ἐγκαινιασμὸν τοῦ Ναοῦ διάφορα εἴδη ὡς ἐν τῷ Εὐχολογίῳ σημειοῦνται· καὶ ἀφ’ ἑσπέρας ἀπέρχεται μετὰ τοῦ Κλήρου εἰς τὸν νέον Ναὸν καὶ καταρτίζει πρὸ τοῦ Ἑσπερινοῦ τὰ ἅγια Λείψανα εἰς μερίδας τρεῖς ἐπὶ τῆς ἁγίας Τραπέζης· καὶ τεθέντων τούτων ἔνδον τοῦ Δισκαρίου καὶ ἄνωθεν ἀστερίσκου καὶ καλυφθέντων μετὰ καλύμματος, ποιεῖ Εὐλογητόν, τὸ Τρισάγιον, Ὅτι σοῦ, καὶ ψάλλονται τὰ Τροπάρια Οἱ μάρτυρές σου Κύριε, Ἀθλοφόροι Κυρίου, τοὺς Μάρτυρας Χριστοῦ, τὸ τῆς ἡμέρας Τροπάριον, εἶτα τὸ Ὡς ἀπ’ ἀρχὰς τῆς φύσεως, Δόξα, Μαρτύρων θεῖος χορός, Καὶ νῦν, Θεοτόκε σὺ εἶ ἡ ἄμπελος, μετὰ τῶν Ἀθλοφόρων, καὶ Ἀπόλυσις. Καὶ εἰ μέν ἐστι πλησίον ἄλλος Ναὸς ἐγκαινιασμένος, μεταφέρει ταῦτα ἐν αὐτῷ πρὸ τοῦ Ἑσπερινοῦ, καὶ τίθησιν ἐπὶ τῆς ἁγίας Τραπέζης, ἔνθα καὶ καίει κηρὸς δι’ ὅλης τῆς νυκτός· ψάλλεται δὲ Λυχνικὸν καὶ παννυχὶς ἐν τῷ Ναῷ τῷ ἀποδεξαμένῳ τὰ Λείψανα τῶν Ἁγίων· εἰ δὲ οὐκ ἔστι τοιοῦτος Ναός, πᾶσα ἡ Ἀκολουθία γίνεται ἐν τῷ νέῳ Ναῷ, ὡς ἡ καθωρισμένη τάξις.
 
@@ -327,7 +327,7 @@ At Matins: the Resurrection Kathismata, those of the Consecration...[^499]
 
 The Apostolos and Gospel readings for each of the above situations are decided and appointed by the Chief Celebrant [presiding Bishop] appropriately for the particular feast at hand.
 
-### THE CEREMONY OF THE CONSECRATION
+**THE CEREMONY OF THE CONSECRATION**
 
 The [presiding] Bishop must have prepared in advance all the various items, as prescribed in the Great Euchologion (*Sluzhebnik / Trebnik*), that are required for the dedication and Consecration. On the eve of the service, the Bishop proceeds with the Clergy to the new church and, before Vespers, arranges the Holy Relics in three portions upon the Holy Table. When the Holy Relics have been placed on the Diskarion [Paten] and covered with a Veil over the Asterisk [star], the Bishop intones: **"Blessed is our God, always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*). This is followed by the Trisagion Prayers and the Exclamation **"For Thine is the kingdom..."** (*Ὅτι σοῦ ἐστιν ἡ βασιλεία*), and the following Troparia are chanted: **"Thy Martyrs, O Lord, in their sufferings..."** (*Οἱ μάρτυρές σου, Κύριε*), **"Champions of the Lord..."** (*Ἀθλοφόροι Κυρίου*), **"Let us all implore Christ's Martyrs..."** (*Τοὺς Μάρτυρας Χριστοῦ*), and the Troparion of the day. Then, the Kontakion: **"As first fruits of nature..."** (*Ὡς ἀπαρχὰς τῆς φύσεως*); **"Glory..."** (*Δόξα*), **"Godlike choir of Martyrs..."** (*Μαρτύρων θεῖος χορός*); **"Now and forever..."** (*Καὶ νῦν*), **"Theotokos, thou art the true vine, together with the Champions..."** (*Θεοτόκε, σὺ εἶ ἡ ἄμπελος*), and the Dismissal. If there is another consecrated church nearby, the Bishop transfers the Holy Relics to it before Vespers and places them on the Holy Table, where a candle burns through the whole night. Vespers and an All-night Vigil are chanted in the church that has received the Relics of the Saints.* If, however, there is no nearby consecrated church, the whole Office takes place in the new church, in accordance with the prescribed order.
 
@@ -406,7 +406,7 @@ Then, the Bishop adds the two Prayers: **"O Lord our God..."** (*Κύριε ὁ 
 
 ...permanently, the Bishop pours into the cavity the hot wax-mastic (*κηρομαστίχη*) brought to him and adjusts the paper collar around the rim of the opening. Then, the assisting clergy place the marble slab [mensa] on top of the Column, covering the entire Holy Table or securing the central pillar. While the deposition and sealing of the Holy Relics in the central Column takes place, the Choirs chant Psalm 144 [LXX] in Tone 2: **"I will exalt Thee, my God, my King, and I will bless Thy name forever, and unto the ages of ages..."** (*Ὑψώσω σε, ὁ Θεός μου, ὁ Βασιλεύς μου*). While the spilled wax-mastic is scraped away and the stone slab is cleansed, Psalm 22 [LXX] is chanted: **"The Lord is my shepherd, and I shall not want..."** (*Κύριος ποιμαίνει με καὶ οὐδέν με ὑστερήσει*).
 
-Then, the Bishop exclaims: **"Blessed is our God, always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*), and at once the Savvanon (*σάββανον*), a white linen apron-vestment, is brought to him. The Bishop is vested in it over his sacred archieratical vestments and it is bound with a belt, both in front and behind, so that his vestments are completely covered and protected; his two forearms are likewise wrapped in two new white towels [mandylia], which are also bound with the belt. When the Bishop is thus invested, a prayer mat [*ἐπεύχιον*] is placed before the Royal Doors [Holy Doors]. The Deacon intones: **"Again and again on bended knees, let us pray unto the Lord"** (*Ἔτι καὶ ἔτι κλίναντες τὰ γόνατα, τοῦ Κυρίου δεηθῶμεν*). The Bishop, kneeling down, recites the Prayer: **"O God without beginning and eternal, Who hast brought all things from non-existence into being..."** (*Ὁ Θεὸς ὁ ἄναρχος καὶ ἀΐδιος*). Then the Deacon intones: **"Help us, save us, have mercy on us, raise us up, and protect us, O God, by Thy grace"** (*Ἀντιλαβοῦ, σῶσον, ἐλέησον...*), to which he appends the Great Litany: **"In peace let us pray unto the Lord"** (*Ἐν εἰρήνῃ τοῦ Κυρίου δεηθῶμεν*). After the Exclamation of this Litany, the Bishop approaches the front of the Holy Table and takes the cakes of scented soap [*νίτρα ἢ μοσχοσάπωνα*]; having signed them with the sign of the Cross on both sides, he lays them upon the Holy Table in cruciform arrangement. Then, lukewarm water is brought forward; the Deacon intones: **"Let us pray to the Lord"** (*Τοῦ Κυρίου δεηθῶμεν*); the Bishop bows his head and blesses the water in secret prayer [*μυστικῶς*]. After the Exclamation, he pours the water over the Holy Table, saying: **"In the name of the Father, and of the Son, and of the Holy Spirit. Amen."** (*Εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ ἁγίου Πνεύματος, Ἀμήν*). With the water poured forth and the cakes of soap, he washes the Holy Table and wipes it with new natural sponges. Because the Column cannot be washed by hands alone, he cleanses and dries it with the sponge. While this sacred ablution is being performed, Psalm 83 [LXX] is chanted: **"How lovely are Thy tabernacles, O Lord of hosts! My soul longeth and fainteth for the courts of the Lord..."** (*Ὡς ἀγαπητὰ τὰ σκηνώματά σου, Κύριε τῶν δυνάμεων*). After the washing and sponging are completed, the Bishop exclaims: **"Glory to our God unto the ages. Amen."** (*Δόξα τῷ Θεῷ ἡμῶν εἰς τοὺς αἰῶνας*)...[^503]
+Then, the Bishop exclaims: **"Blessed is our God, always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*), and at once the Savvanon (*σάββανον*), a white linen apron-vestment, is brought to him. The Bishop is vested in it over his sacred archieratical vestments and it is bound with a belt, both in front and behind, so that his vestments are completely covered and protected; his two forearms are likewise wrapped in two new white towels [mandylia], which are also bound with the belt. When the Bishop is thus invested, a prayer mat [*ἐπεύχιον*] is placed before the Royal Doors [Holy Doors]. The Deacon intones: **"Again and again on bended knees, let us pray unto the Lord"** (*Ἔτι καὶ ἔτι κλίναντες τὰ γόνατα, τοῦ Κυρίου δεηθῶμεν*). The Bishop, kneeling down, recites the Prayer: **"O God without beginning and eternal, Who hast brought all things from non-existence into being..."** (*Ὁ Θεὸς ὁ ἄναρχος καὶ ἀΐδιος*). Then the Deacon intones: **"Help us, save us, have mercy on us, raise us up, and protect us, O God, by Thy grace"** (*Ἀντιλαβοῦ, σῶσον, ἐλέησον...*), to which he appends the Great Litany: **"In peace let us pray unto the Lord"** (*Ἐν εἰρήνῃ τοῦ Κυρίου δεηθῶμεν*). After the Exclamation of this Litany, the Bishop approaches the front of the Holy Table and takes the cakes of scented soap [*νίτρα ἢ μοσχοσάπωνα*]; having signed them with the sign of the Cross on both sides, he lays them upon the Holy Table in cruciform arrangement. Then, lukewarm water is brought forward; the Deacon intones: **"Let us pray to the Lord"** (*Τοῦ Κυρίου δεηθῶμεν*); the Bishop bows his head and blesses the water in secret prayer [*μυστικῶς*]. After the Exclamation, he pours the water over the Holy Table, saying: **"In the name of the Father, and of the Son, and of the Holy Spirit. Amen."** (*Εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ ἁγίου Πνεύματος, Ἀμήν*). With the water poured forth and the cakes of soap, he washes the Holy Table and wipes it with new natural sponges. Because the Column cannot be washed by hands alone, he cleanses and dries it with the sponge. While this sacred ablution is being performed, Psalm 83 [LXX] is chanted: **"How lovely are Thy tabernacles, O Lord of hosts! My soul longs and faints for the courts of the Lord..."** (*Ὡς ἀγαπητὰ τὰ σκηνώματά σου, Κύριε τῶν δυνάμεων*). After the washing and sponging are completed, the Bishop exclaims: **"Glory to our God unto the ages. Amen."** (*Δόξα τῷ Θεῷ ἡμῶν εἰς τοὺς αἰῶνας*)...[^503]
 
 # Appendix: The Ceremony of the Consecration of a Church (Rosewater, Holy Myron, Katasarkion, and Antimensia)
 
@@ -456,7 +456,7 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 Εἰς τὴν Λειτουργίαν, τὰ παρόντα Ἀντίφωνα·
 
-### 'Αντίφωνον Α'
+**'Αντίφωνον Α'**
 
 Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου.  
 Ὡς ἀγαπητὰ τὰ σκηνώματά σου, Κύριε τῶν δυνάμεων, ἐπιποθεῖ καὶ ἐκλείπει ἡ ψυχή μου.  
@@ -465,7 +465,7 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 *Ἐφύμνιον:* Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.
 
-### 'Αντίφωνον Β'
+**'Αντίφωνον Β'**
 
 Σοὶ πρέπει ὕμνος ὁ Θεὸς ἐν Σιών, καὶ σοὶ ἀποδοθήσεται εὐχὴ ἐν Ἱερουσαλήμ.  
 Εἰσάκουσον προσευχῆς μου, πρὸς σὲ πᾶσα σὰρξ ἥξει.  
@@ -474,7 +474,7 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 *Ἐφύμνιον:* Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἀναστὰς ἐκ νεκρῶν, ψάλλοντάς σοι, Ἀλληλούϊα.
 
-### 'Αντίφωνον Γ'
+**'Αντίφωνον Γ'**
 
 Ἐξελεξάμην παραρριπτεῖσθαι ἐν τῷ οἴκῳ τοῦ Θεοῦ μου.  
 Ὅτι ἔλεος καὶ ἀλήθειαν ἀγαπᾷ Κύριος ὁ Θεός.  
@@ -492,16 +492,16 @@ The Bishop then takes off the white garment [the Savvanon], the cloths [mandylia
 
 In the Divine Liturgy, the following festal Antiphons are chanted:
 
-### Antiphon One
+**Antiphon One**
 
-**"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwelleth."** [Psalm 25:8 LXX]  
-**"How lovely are Thy tabernacles, O Lord of hosts! My soul longeth and fainteth for the courts of the Lord."** [Psalm 83:1–2 LXX]  
+**"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells."** [Psalm 25:8 LXX]  
+**"How lovely are Thy tabernacles, O Lord of hosts! My soul longs and faints for the courts of the Lord."** [Psalm 83:1–2 LXX]  
 **"Thine altars, O Lord of hosts, my King and my God!"** [Psalm 83:4 LXX]  
 **"Blessed are they that dwell in Thy house: they will praise Thee unto the ages of ages."** [Psalm 83:5 LXX]  
 
 *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."**
 
-### Antiphon Two
+**Antiphon Two**
 
 **"To Thee praise is due, O God, in Zion, and unto Thee shall a vow be performed in Jerusalem."** [Psalm 64:1 LXX]  
 **"Hear my prayer: unto Thee all flesh shall come."** [Psalm 64:2 LXX]  
@@ -510,7 +510,7 @@ In the Divine Liturgy, the following festal Antiphons are chanted:
 
 *Refrain:* **"Save us, O Son of God, Who didst arise from the dead, who sing to Thee: Alleluia!"**
 
-### Antiphon Three
+**Antiphon Three**
 
 **"I have chosen rather to be an abject in the house of my God, than to dwell in the tents of sinners."** [Psalm 83:11 LXX]  
 **"For the Lord God loves mercy and truth: the Lord will give grace and glory."** [Psalm 83:12 LXX]  
@@ -530,7 +530,7 @@ In the Divine Liturgy, the following festal Antiphons are chanted:
 
 ## Divine Liturgy Readings, Communion Hymn, and Concurrence with Feasts of the Lord
 
-...The readings of the Apostolos and the Holy Gospel are appointed according to the order of the day; and the Communion Hymn is chanted: **"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwelleth. Alleluia."** (*Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου. Ἀλληλούϊα*, Psalm 25:8 LXX), followed by the Dismissal.
+...The readings of the Apostolos and the Holy Gospel are appointed according to the order of the day; and the Communion Hymn is chanted: **"O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells. Alleluia."** (*Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου. Ἀλληλούϊα*, Psalm 25:8 LXX), followed by the Dismissal.
 
 *Rubrical Instruction on the Concurrence of a Master Feast:*  
 If the Consecration of a church coincides with a Master Feast [Feast of the Lord], the liturgical hymns of the Feast take precedence over those of the Office of the Consecration; likewise, the Holy Gospel and the Communion Hymn of the Master Feast take precedence over those of the Consecration.*...[^507]
@@ -543,7 +543,7 @@ If the Consecration of a church coincides with a Master Feast [Feast of the Lord
 
 ## Τελετὴ εἰς Ἀνάρρησιν Πατριάρχου ἐπὶ τοῦ Οἰκουμενικοῦ Θρόνου
 
-### ΤΕΛΕΤΗ ΕΙΣ ΑΝΑΡΡΗΣΙΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΥ ΟΙΚΟΥΜΕΝΙΚΟΥ ΘΡΟΝΟΥ
+**ΤΕΛΕΤΗ ΕΙΣ ΑΝΑΡΡΗΣΙΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΥ ΟΙΚΟΥΜΕΝΙΚΟΥ ΘΡΟΝΟΥ**
 
 Φθάσας ὁ Πατριάρχης μετὰ τῆς συνήθους ἐν παρατάξει συνοδίας αὐτοῦ εἰς τὰ Πατριαρχεῖα, ἔρχεται ἔμπροσθεν τῆς μεγάλης πύλης τοῦ Ναοῦ ἔνθα ἵσταται ἅπας ὁ Κλῆρος πρὸς προϋπάντησιν αὐτοῦ, καὶ οἱ μὲν ἅγιοι Ἀρχιερεῖς οἱ συνοδεύοντες αὐτὸν εἰσέρχονται κατ’ εὐθεῖαν εἰς τὸ ἱερὸν Βῆμα, τέσσαρες δὲ τῶν διακόνων ἐνδύονται τὰς ἱερὰς αὐτῶν στολάς· καὶ κρατοῦντες δικηροτρίκηρα οἱ μὲν δύο ἐξ αὐτῶν θυμιῶσι τὸν Πατριάρχην εἰσερχόμενον ἐν τῷ Ναῷ, οἱ δὲ δύο ἵστανται περὶ αὐτόν· προπορευομένου δὲ τοῦ Πριμικηρίου μὲ τὸ Διβάμβουλον, καὶ τῶν Χορῶν τῶν ψαλτῶν ψαλλόντων τὸ *Ἄξιόν ἐστιν*, εἰσέρχεται ὁ Πατριάρχης εἰς τὸ ἱερὸν Βῆμα. Τότε ὁ πρῶτος τῇ τάξει Ἀρχιερεὺς φέρων Ἐπιτραχήλιον καὶ Ὠμοφόριον ποιεῖ Εὐλογητόν, ὁ Διάκονος λέγει τὸ Τρισάγιον, ὁ Ἀρχιερεὺς *Ὅτι σοῦ ἐστιν*, μεθ’ ὃ οἱ Ἀρχιερεῖς ψάλλουσι τὸ *Εὐλογητὸς εἶ Χριστὲ ὁ Θεὸς ἡμῶν* καὶ τὸ *Ὅτε καταβάς*, ὁ Ἀρχιερεὺς *Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου δεόμεθά σου ἐπάκουσον καὶ ἐλέησον*, οἱ Ἀρχιερεῖς τὸ *Κύριε ἐλέησον* τρίς, ὁ Ἀρχιερεὺς *Ἔτι δεόμεθα ὑπὲρ τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν*, αὖθις τὸ *Κύριε ἐλέησον* τρίς, ὁ Ἀρχιερεὺς *Ὅτι ἐλεήμων καὶ...*
 
@@ -551,7 +551,7 @@ If the Consecration of a church coincides with a Master Feast [Feast of the Lord
 
 ## Ceremony of the Accession of a Patriarch to the Ecumenical Throne (Arrival, Entrance, and Supplications)
 
-### CEREMONY OF THE ACCESSION OF A PATRIARCH TO THE ECUMENICAL THRONE
+**CEREMONY OF THE ACCESSION OF A PATRIARCH TO THE ECUMENICAL THRONE**
 
 Arriving with his customary entourage in solemn cortège at the Patriarchate, the Patriarch comes before the great portal of the church* where all the clergy have assembled to receive him. The holy Hierarchs who accompany him enter directly into the Holy Sanctuary [Bema]; four of the deacons vest in their sacred vestments; holding the Dikerotrikera, two of them cense the Patriarch as he enters the church, while the other two stand beside him. Preceded by the Primikirios carrying the Divamboulon, and with the Choirs of Chanters singing **"It is truly meet to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*), the Patriarch enters into the Holy Sanctuary.
 
@@ -590,7 +590,7 @@ After this, the Protopsaltes [First-Chanter] with his Choir chants the Patriarch
 
 ## Τελετὴ εἰς Ἐπάνοδον Πατριάρχου ἐπὶ τὸν Οἰκουμενικὸν Θρόνον
 
-### ΤΕΛΕΤΗ ΕΙΣ ΕΠΑΝΟΔΟΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΝ ΟΙΚΟΥΜΕΝΙΚΟΝ ΘΡΟΝΟΝ
+**ΤΕΛΕΤΗ ΕΙΣ ΕΠΑΝΟΔΟΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΝ ΟΙΚΟΥΜΕΝΙΚΟΝ ΘΡΟΝΟΝ**
 
 Ἀφικόμενος ὁ Πατριάρχης, ὡς ἀνωτέρω ἐρρήθη, μετὰ τῆς συνήθους παρατάξεως ἐν τοῖς Πατριαρχείοις ἵσταται ἔμπροσθεν τῆς μεγάλης πύλης τοῦ Ναοῦ καὶ ἐνδύεται τὸν Μανδύαν, καὶ οἱ μὲν ἅγιοι Ἀρχιερεῖς εἰσέρχονται κατ’ εὐθεῖαν εἰς τὸ ἱερὸν Βῆμα, οἱ δὲ Χοροί, προπορευομένου τοῦ Πριμικηρίου μετὰ τοῦ Διβαμβούλου καὶ δ΄ Διακόνων, τῶν δύο θυμιώντων τὸν Πατριάρχην εἰσερχόμενον εἰς τὸν Ναόν, ψάλλουσι τὸ *Ἄξιόν ἐστιν*, ὁ δὲ ἑστὼς ἐν τῷ μέσῳ τοῦ Ναοῦ εὐλογεῖ ἀλλ’ οὐ φέρει τὴν Πατριαρχικὴν ῥάβδον, δύο δὲ τῶν Ἀρχιερέων ἀναβιβάζουσιν αὐτὸν ἐπὶ τοῦ Θρόνου· τότε προσερχόμενος ὁ Μητροπολίτης Ἡρακλείας, μετὰ τὴν συνήθη προσλαλιάν, ἐγχειρίζει τῷ Πατριάρχῃ τὴν Πατριαρχικὴν ῥάβδον καὶ ἀσπασάμενος τὴν δεξιὰν αὐτοῦ εἰσέρχεται καὶ οὗτος εἰς τὸ ἱερὸν Βῆμα, ὁ δὲ Μ. Λογοθέτης ἵσταται ἐν τῷ παραθρονίῳ. Εἶτα ὁ Μ. Ἐκκλησιάρχης φέρων ἐνδύει τὸν Πατριάρχην Ἐπιτραχήλιον καὶ Ὠμοφόριον, ὁ δὲ Μ. Ἀρχιδιάκονος ἐκφωνεῖ *Εὐλόγησον Δέσποτα*, ὁ Πατριάρχης ποιεῖ εὐλογητόν, ὁ Ἀρχιδιάκονος λέγει τὸ Τρισάγιον, ὁ Πατριάρχης *Ὅτι σοῦ ἐστιν*, καὶ ὁ α΄ Χορὸς ψάλλει τὸ τροπάριον *Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*, ὁ δὲ β΄ *Τῆς εὐσπλαγχνίας τὴν πύλην ἄνοιξον ἡμῖν*, ὁ Μ. Ἀρχιδιάκονος *Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου, Ὑπὲρ τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν, Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν . . ., Ὑπὲρ τοῦ διαφυλαχθῆναι κτλ.* ὁ Πατριάρχης *Ἐπάκουσον ἡμῶν ὁ Θεός*, καὶ εἰς τὸ τέλος ὁ Πρωτοψάλτης τὸν πολυχρονισμόν, ὁ ἀπ’ Ἄμβωνος λόγος, μεθ’ ὃν οἱ Χοροὶ ψάλλουσι *Τὸν Δεσπότην καὶ Ἀρχιερέα*, τοῦ Πατριάρχου εὐλογοῦντος τὸν λαόν,
 
@@ -598,7 +598,7 @@ After this, the Protopsaltes [First-Chanter] with his Choir chants the Patriarch
 
 ## Ceremony of the Return [Reinstallation] of the Patriarch to the Ecumenical Throne (Part 1)
 
-### CEREMONY OF THE RETURN [REINSTALLMENT] OF THE PATRIARCH TO THE ECUMENICAL THRONE
+**CEREMONY OF THE RETURN [REINSTALLMENT] OF THE PATRIARCH TO THE ECUMENICAL THRONE**
 
 Arriving at the Patriarchate with his customary entourage as aforesaid, the Patriarch comes and stands before the Great Portal of the Church* and vests with the Mandya. The holy Hierarchs who have accompanied him enter immediately into the Holy Sanctuary [Bema]. The Choirs, preceded by the Primikirios bearing the Divamboulon and four deacons, two of them censing the Patriarch as he enters the church, sing: **"It is truly meet to bless thee, O Theotokos, ever-blessed and most pure, and the Mother of our God: more honorable than the Cherubim, and beyond compare more glorious than the Seraphim: thee who without defilement gavest birth to God the Word, true Theotokos, thee do we magnify!"** (*Ἄξιόν ἐστιν*). The Patriarch, standing in the middle of the church, blesses, but he does not carry the Patriarchal Staff. Two of the Hierarchs help him ascend the Throne; and then the Metropolitan of Herakleia comes forward, and after the customary welcoming address bestows the Patriarch with the Patriarchal Staff, kissing his right hand, and then enters the Holy Sanctuary. The Great Logothete stands at the Parathrone [a smaller throne near the Patriarchal throne]. Then the Great Ecclesiarch [Grand Master of Ceremonies] vests the Patriarch with the Epitrachilion and the Omophorion. The Great Archdeacon exclaims: **"Bless, Master!"** (*Εὐλόγησον, Δέσποτα*). The Patriarch: **"Blessed is our God, always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*). The Archdeacon recites the Trisagion Prayers. The Patriarch pronounces the Exclamation: **"For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Ὅτι σοῦ ἐστιν*). The First Choir sings the Dismissal Troparion of Saint George in Tone 4: **"As the liberator of captives and defender of the poor, physician of the sick, and champion of monarchs: victorious Great Martyr George, intercede with Christ God that our souls may be saved!"** (*Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*); and the Second Choir sings the Theotokion: **"Open unto us the gate of compassion, O blessed Theotokos, that hoping in thee we may not perish, but be delivered by thee from dangers: for thou art the salvation of the Christian race!"** (*Τῆς εὐσπλαγχνίας τὴν πύλην ἄνοιξον ἡμῖν*). The Great Archdeacon intones the Ektenia: **"Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear us and have mercy!"** (*Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου...*). The Choirs respond: **"Lord, have mercy"** (*Κύριε, ἐλέησον*) three times. The Great Archdeacon continues: **"Again let us pray for all devout and Orthodox Christians."** (*Ὑπὲρ τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν*); **"For our Archbishop..."** (*Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν...*); **"That this holy church and this city, and every city and countryside, may be preserved from wrath, plague, famine, earthquake, flood, fire, sword, the invasion of aliens, and civil war..."** (*Ὑπὲρ τοῦ διαφυλαχθῆναι...*), etc. The Patriarch intones the Exclamation: **"Hear us, O God our Savior, the hope of all the ends of the earth and of them that be far off at sea: and be merciful, be merciful, O Master, unto our sins, and have mercy on us!"** (*Ἐπάκουσον ἡμῶν ὁ Θεός...*). At the conclusion, the First-Chanter [Protopsaltes] sings the Patriarchal Polychronion, then the homily is delivered from the Pulpit [Ambo, customarily by the Great Logothete]. At the conclusion, the Choirs sing...[^510]
 
@@ -618,15 +618,11 @@ Arriving at the Patriarchate with his customary entourage as aforesaid, the Patr
 
 ...**"Our Master and Chief Priest, O Lord, preserve for many years!"** (*Τὸν Δεσπότην καὶ Ἀρχιερέα ἡμῶν, Κύριε, φύλαττε εἰς πολλὰ ἔτη*), while the Patriarch blesses the people. Then from within the Holy Sanctuary [Bema], the clergy intone: **"Through the prayers of our holy Master, Lord Jesus Christ our God, have mercy on us and save us. Amen."** (*Δι' εὐχῶν τοῦ ἁγίου Δεσπότου ἡμῶν, Κύριε Ἰησοῦ Χριστὲ ὁ Θεός, ἐλέησον καὶ σῶσον ἡμᾶς. Ἀμήν*), and thus ends the ceremony.*...[^511]
 
----
-
-* *Rubrical and Historical Note on the Ceremony of Return:* This solemn ceremony of return (*Epanodos*) was appointed for when an Ecumenical Patriarch returned to Constantinople and reoccupied the patriarchal cathedra after a journey, absence, exile, or synodal reinstallation. The Great Church observed this rite with the same liturgical dignity as the accession, culminating in the acclamation of the Primate and the patriarchal blessing upon the city and the faithful.
-
 # Appendix: The Ceremony of the Indiction in the Great Church
 
 ## Ἡ ἐν τῇ Μ. Ἐκκλησίᾳ Τελετὴ τῆς Ἰνδίκτου τῇ Α΄ Σεπτεμβρίου
 
-### Η ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΤΕΛΕΤΗ ΤΗΣ ΙΝΔΙΚΤΟΥ Τῌ Α΄ ΣΕΠΤΕΜΒΡΙΟΥ
+**Η ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΤΕΛΕΤΗ ΤΗΣ ΙΝΔΙΚΤΟΥ Τῌ Α΄ ΣΕΠΤΕΜΒΡΙΟΥ**
 
 Τὴν πρώτην Σεπτεμβρίου ὁ Οἰκουμενικὸς Πατριάρχης κατέρχεται εἰς τὸν πατριαρχικὸν Ναὸν κατὰ τὸν Ἑσπερινὸν καὶ τὸ πρωῒ εἰς τὸν Ὄρθρον καὶ τὴν Λειτουργίαν, ἵσταται δὲ ἐν τῷ παραθρονίῳ φέρων Ἐπανωκαλύμμαυχον καὶ Χαζράνιον. Μετὰ τὴν Λειτουργίαν, οἱ ἅγιοι Ἀρχιερεῖς ἐκ τοῦ ἱεροῦ Βήματος, ἔνθα ἀκροῶνται αὐτῆς, ἀνέρχονται εἰς τὸ μέγα Συνοδικόν, ὅπου, μετὰ τὴν διανομὴν τοῦ Ἀντιδώρου, ἀνέρχεται καὶ ὁ Πατριάρχης, προπορευομένων τῶν Ἑξαπτερύγων καὶ Λαμπάδων, τοῦ Πριμικηρίου μετὰ τοῦ Διβαμβούλου, καὶ τῶν ψαλτῶν, καὶ ἐνδύεται Ἐπιτραχήλιον καὶ Ὠμοφόριον. Εἶτα ὁ Μ. Ἀρχιδιάκονος ἐκφωνεῖ *Εὐλόγησον Δέσποτα*, ὁ Πατριάρχης [corr. text: ὁ Πατριράρχης] *Εὐλογητὸς ὁ Θεὸς ἡμῶν*, ὁ Μ. Ἀρχιδιάκονος τὸ Τρισάγιον, ὁ Πατριάρχης *Ὅτι σοῦ ἐστιν*, καὶ ὁ α΄ Χορὸς ψάλλει τὸ Ἀπολυτίκιον *Ὁ πάσης Δημιουργὸς τῆς κτίσεως*, ὁ β΄ τὸ *Ὑπομονῆς στῦλος γέγονας*, ὁ α΄ Χορὸς αὖθις τὸ *Χαῖρε κεχαριτωμένη*· εἶτα ὁ Μ. Ἀρχιδιάκονος *Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεος σου*, οἱ Χοροὶ τὸ *Κύριε ἐλέησον* τρίς, ὁ Δευτερεύων *Ἔτι δεόμεθα ὑπὲρ τῶν εὐσεβῶν*, ὁ Μ. Ἀρχιδιάκονος *Ἔτι δεόμεθα ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν*, ὁ Δευτερεύων *Ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι*, οἱ Χοροὶ τὸ *Κύριε ἐλέησον* ὡς εἴθισται, ὁ Μ. Ἀρχιδιάκονος *Ἔτι δεόμεθα καὶ ὑπὲρ τοῦ εἰσακοῦσαι Κύριον τὸν Θεόν*, ὁ Πατριάρχης *Ἐπάκουσον ἡμῶν ὁ Θεός*, κτλ. καὶ τὴν Ἀπόλυσιν, τῶν Χορῶν ψαλλόντων *Τὸν*
 
@@ -634,7 +630,7 @@ Arriving at the Patriarchate with his customary entourage as aforesaid, the Patr
 
 ## The Ceremony of the Indiction in the Great Church on September 1 (Part 1)
 
-### THE CEREMONY OF THE INDICTION, IN THE GREAT CHURCH, ON SEPTEMBER 1
+**THE CEREMONY OF THE INDICTION, IN THE GREAT CHURCH, ON SEPTEMBER 1**
 
 On September 1, the Ecumenical Patriarch comes down to the Patriarchal Church at Vespers and, in the morning, for Matins and the Divine Liturgy. He stands at the Parathrone [a smaller throne near the Patriarchal cathedra] wearing the Epanokalymmavchion [a kamilavkion draped with the monastic veil] and carrying the Chazranion [a plain wooden patriarchal staff]. After the Divine Liturgy, the holy Hierarchs who were listening to the Liturgy from within the Holy Sanctuary [Bema], proceed to the Great Synodikon [the hall of the Holy Synod], where, after the distribution of the Antidoron, the Patriarch also arrives, preceded by the Exapteryga [six-winged seraphic fans] and Candles, the Primikirios with the Divamboulon [two-branched candle], and the Chanters, and vests with the Epitrachilion and the Omophorion.
 
@@ -646,11 +642,11 @@ The First Choir chants again the Theotokion in Tone 1: **"Rejoice, full of grace
 
 Then the Great Archdeacon intones: **"Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear us and have mercy."** (*Ἐλέησον ἡμᾶς ὁ Θεός...*).  
 The Choirs: **"Lord, have mercy"** (*Κύριε, ἐλέησον*) three times.  
-> **Second Deacon:** **"Again let us pray for all devout and Orthodox Christians."** (*Ἔτι δεόμεθα ὑπὲρ τῶν εὐσεβῶν...*).
+> **Second Deacon:** "Again let us pray for all devout and Orthodox Christians."** (*Ἔτι δεόμεθα ὑπὲρ τῶν εὐσεβῶν...*).
 The Choirs: **"Lord, have mercy"** three times.  
 The Great Archdeacon: **"For our Archbishop..."** (*Ἔτι δεόμεθα ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν...*).  
 The Choirs: **"Lord, have mercy"** three times.  
-> **Second Deacon:** **"That this holy church and this city, and every city and countryside, may be preserved from wrath, plague, famine, earthquake, flood, fire, sword, foreign invasion, and civil conflict..."** (*Ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι...*).
+> **Second Deacon:** "That this holy church and this city, and every city and countryside, may be preserved from wrath, plague, famine, earthquake, flood, fire, sword, foreign invasion, and civil conflict..."** (*Ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι...*).
 The Choirs: **"Lord, have mercy"** as is customary.  
 The Great Archdeacon: **"Again let us pray that the Lord God will hear the voice of the supplication of us sinners, and have mercy on us."** (*Ἔτι δεόμεθα καὶ ὑπὲρ τοῦ εἰσακοῦσαι...*).  
 The Choirs: **"Lord, have mercy"** three times.  
@@ -680,7 +676,7 @@ Then the Patriarch reads aloud the Synodal Act [the patriarchal encyclical decre
 
 ## Ὡρολόγιον τῆς ἐν τῇ Μ. Ἐκκλησίᾳ Ἐνάρξεως καὶ Ἀπολύσεως τῶν Ἀκολουθιῶν τῶν Μ. Ἑορτῶν
 
-### ΩΡΟΛΟΓΙΟΝ ΤΗΣ ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΕΝΑΡΞΕΩΣ ΚΑΙ ΑΠΟΛΥΣΕΩΣ ΤΩΝ ΑΚΟΛΟΥΘΙΩΝ ΤΩΝ Μ. ΕΟΡΤΩΝ
+**ΩΡΟΛΟΓΙΟΝ ΤΗΣ ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΕΝΑΡΞΕΩΣ ΚΑΙ ΑΠΟΛΥΣΕΩΣ ΤΩΝ ΑΚΟΛΟΥΘΙΩΝ ΤΩΝ Μ. ΕΟΡΤΩΝ**
 
 Τῇ ΚΔ΄ Δεκεμβρίου εἰς τὰς Ὥρας σημαίνει τῇ ιβ΄ τῆς νυκτός, ὁ Πατριάρχης κατέρχεται εἰς τὴν α΄, Ἀπόλυσις εἰς τὰς δ΄ τῆς ἡμέρας.
 
@@ -698,7 +694,7 @@ Then the Patriarch reads aloud the Synodal Act [the patriarchal encyclical decre
 
 ## Hourly Sequence for the Beginning and Ending of the Services of the Great Feasts in the Great Church (Part 1)
 
-### HOURLY SEQUENCE FOR THE BEGINNING AND ENDING OF THE SERVICES OF THE GREAT FEASTS IN THE GREAT CHURCH
+**HOURLY SEQUENCE FOR THE BEGINNING AND ENDING OF THE SERVICES OF THE GREAT FEASTS IN THE GREAT CHURCH**
 
 *Table of Byzantine Horary Reckoning:*  
 [Note: This table is established upon the ancient Byzantine and monastic horary reckoning wherein sunset marks the commencement of the civil and ecclesiastical cycle, dividing each period into twelve variable or canonical hours of night and twelve hours of day. In the modern equinoctial concordance:  
@@ -791,7 +787,7 @@ For Matins, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patria
 
 ## Σημείωσις τῶν Ἑορτῶν καθ’ ἃς Χοροστατεῖ ὁ Πατριάρχης ἐν τῷ Πατριαρχικῷ Ναῷ (Μέρος Α΄)
 
-### ΣΗΜΕΙΩΣΙΣ ΤΩΝ ΕΟΡΤΩΝ ΚΑΘ’ ΑΣ ΧΟΡΟΣΤΑΤΕΙ Ο ΠΑΤΡΙΑΡΧΗΣ ΕΝ Τῼ ΠΑΤΡΙΑΡΧΙΚῼ ΝΑῼ
+**ΣΗΜΕΙΩΣΙΣ ΤΩΝ ΕΟΡΤΩΝ ΚΑΘ’ ΑΣ ΧΟΡΟΣΤΑΤΕΙ Ο ΠΑΤΡΙΑΡΧΗΣ ΕΝ Τῼ ΠΑΤΡΙΑΡΧΙΚῼ ΝΑῼ**
 
 Καθ’ ἅπαντας τοὺς Ἑσπερινοὺς τοῦ Σαββάτου καὶ τὰς Κυριακὰς τοῦ ὅλου ἐνιαυτοῦ.  
 Τὴν ἐπέτειον τοῦ ὀνόματος Αὐτοῦ.  
@@ -827,7 +823,7 @@ For Matins, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patria
 
 ## Register of Feasts at Which the Patriarch Officiates in the Patriarchal Church (Part 1)
 
-### REGISTER OF FEASTS AT WHICH THE PATRIARCH OFFICIATES IN THE PATRIARCHAL CHURCH
+**REGISTER OF FEASTS AT WHICH THE PATRIARCH OFFICIATES IN THE PATRIARCHAL CHURCH**
 
 At all Saturday evening Vespers and all Sundays of the entire year.  
 On the anniversary of his namesday [patronal feast].  
@@ -872,7 +868,7 @@ On the anniversary of his namesday [patronal feast].
 | [Αὐγούστου] | ΙΕ΄. | Τῆς Κοιμήσεως τῆς Θεοτόκου. |
 | | ΚΘ΄. | Τῆς Ἀποτομῆς τοῦ Προδρόμου. |
 
-### Τῌ ΑΓΙᾼ ΚΑΙ Μ. ΤΕΣΣΑΡΑΚΟΣΤῌ
+**Τῌ ΑΓΙᾼ ΚΑΙ Μ. ΤΕΣΣΑΡΑΚΟΣΤῌ**
 
 Εἰς τὸν Ἀκάθιστον Ὕμνον τὸ δὲ πρωῒ ἐν τῷ παραθρονίῳ.  
 Τῇ Ἁγίᾳ καὶ Μ. Πέμπτῃ, τὸ πρωῒ εἰς τὴν Λειτουργίαν, καὶ τὸ ἑσπέρας εἰς τὴν Ἀκολουθίαν τῶν Ἁγίων Παθῶν.  
@@ -892,7 +888,7 @@ On the anniversary of his namesday [patronal feast].
 | [**August**] | 15 | The Dormition of the All-Holy Theotokos. |
 | | 29 | The Beheading of the Honorable Forerunner and Baptist John. |
 
-### DURING THE HOLY AND GREAT FAST [LENT]
+**DURING THE HOLY AND GREAT FAST [LENT]**
 
 At the Akathist Hymn, and in the morning at the Parathrone.  
 On Holy and Great Thursday, in the morning at the Divine Liturgy, and in the evening at the Service of the Holy Passions.  
@@ -914,17 +910,17 @@ Apart from these solemn patriarchal officiations (*chorostasiai*), the Ecumenica
 
 ## Περὶ Χειροτονίας Ἀρχιερέως (Μέρος Α΄)
 
-### ΠΕΡΙ ΧΕΙΡΟΤΟΝΙΑΣ [ΑΡΧΙΕΡΕΩΣ]
+**ΠΕΡΙ ΧΕΙΡΟΤΟΝΙΑΣ [ΑΡΧΙΕΡΕΩΣ]**
 
-#### Α΄. [Χειροτονία ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς ἄνευ ἑορταζομένου Ἁγίου]
+**Α΄. [Χειροτονία ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς ἄνευ ἑορταζομένου Ἁγίου]**
 
 Ὅταν γίνηται χειροτονία Ἀρχιερέως ἐν ἡμέρᾳ ἄλλῃ πλὴν τῆς Κυριακῆς καὶ μὴ τύχῃ μνήμη ἑορταζομένου Ἁγίου, ψάλλονται πάντα τὰ τῆς Πεντηκοστῆς Ἀπολυτίκια, Κοντάκια, Καθίσματα, Κανόνες, Καταβασίαι, Ἐξαποστειλάρια, Αἶνοι, Ἀντίφωνα, Εἰσοδικόν, Ἀπόστολος, Εὐαγγέλιον καὶ Κοινωνικόν.
 
-#### Β΄. [Χειροτονία ἐν Κυριακῇ ἁπλῇ]
+**Β΄. [Χειροτονία ἐν Κυριακῇ ἁπλῇ]**
 
 Ἄν δ’ ἡ χειροτονία συμβῇ ἐν Κυριακῇ ἁπλῇ, λέγονται Καταβασίαι τῆς Πεντηκοστῆς, καὶ μετὰ Τὴν τιμιωτέραν ἡ θ΄ Ὠδὴ τῆς Πεντηκοστῆς. Ἐξαποστειλάρια πρῶτον τὸ Ἀναστάσιμον εἶτα τὸ τῆς Πεντηκοστῆς, ἄνευ Θεοτοκίου. Εἰς τοὺς Αἴνους μετὰ τὰ δ΄ Ἀναστάσιμα λέγονται καὶ τὰ τῆς Πεντηκοστῆς Παράδοξα σήμερον, Δόξα, Βασιλεῦ οὐράνιε, Καὶ νῦν, Ὑπερευλογημένη. Μετὰ τὴν Δοξολογίαν τὸ Σήμερον Σωτηρία. Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς Πεντηκοστῆς. Εἰσοδικὸν Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστάς. Εἶτα τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ Εὐλογητὸς εἶ, τὸ τοῦ Ἁγίου τοῦ ναοῦ καὶ Κοντάκιον Ὅτε καταβάς. Τὸ Τρισάγιον, ὁ Ἀπόστολος τῆς Πεντηκοστῆς καὶ Εὐαγγέλιον τῆς Κυριακῆς, Ἄξιόν ἐστιν, Κοινωνικὸν ἀντὶ τοῦ Αἰνεῖτε, Τὸ Πνεῦμά σου τὸ ἀγαθόν.
 
-#### Γ΄. [Χειροτονία ἐν καθημερινῇ μετὰ ἑορταζομένου Ἁγίου]
+**Γ΄. [Χειροτονία ἐν καθημερινῇ μετὰ ἑορταζομένου Ἁγίου]**
 
 Ἡ αὐτὴ ἀναλογία τηρητέα καὶ ὅταν ἡ χειροτονία Ἀρχιερέως γίνηται ἐν ἄλλῃ πλὴν Κυριακῆς ἡμέρᾳ, καὶ ἑορτάζηται ὁ Ἅγιος τῆς
 
@@ -932,13 +928,13 @@ Apart from these solemn patriarchal officiations (*chorostasiai*), the Ecumenica
 
 ## Concerning the Ordination of a Hierarch (Part 1)
 
-### CONCERNING THE ORDINATION OF A HIERARCH
+**CONCERNING THE ORDINATION OF A HIERARCH**
 
-#### Situation One: [Ordination on a Weekday without a Commemorated Saint]
+**Situation One: [Ordination on a Weekday without a Commemorated Saint]**
 
 When the ordination of a Hierarch takes place on any day other than Sunday and it does not coincide with the commemoration of a celebrated saint, all the hymns are chanted from the Feast of Pentecost: the Dismissal Troparia, Kontakia, Kathismata, Canons, Katavasiai, Exapostilaria, Praises [Lauds], Antiphons, Entrance Hymn, Epistle [Apostolos], Gospel, and Communion Hymn.
 
-#### Situation Two: [Ordination on an Ordinary Sunday]
+**Situation Two: [Ordination on an Ordinary Sunday]**
 
 If the ordination occurs on an ordinary Sunday [without a major coinciding feast]:
 - At the Canon, the Katavasiai of Pentecost are chanted; and after the Magnification **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), the Ninth Ode of Pentecost is chanted.
@@ -953,7 +949,7 @@ If the ordination occurs on an ordinary Sunday [without a major coinciding feast
 - Megalynarion: **"It is truly meet to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*).
 - Communion Hymn: instead of the Sunday Communion Hymn **"Praise the Lord from the heavens..."** (*Αἰνεῖτε τὸν Κύριον*), we chant that of Pentecost: **"Thy Good Spirit shall lead me into the land of uprightness. Alleluia!"** (*Τὸ Πνεῦμά σου τὸ ἀγαθὸν ὁδηγήσει με ἐν γῇ εὐθείᾳ. Ἀλληλούϊα* - Psalm 142:10).
 
-#### Situation Three: [Ordination on a Weekday with a Celebrated Saint]
+**Situation Three: [Ordination on a Weekday with a Celebrated Saint]**
 
 This same liturgical proportion is observed whenever the ordination of a Hierarch takes place on any day other than Sunday, and the commemorated saint of the day is...[^518]
 
@@ -965,19 +961,19 @@ This same liturgical proportion is observed whenever the ordination of a Hierarc
 
 ## Περὶ Χειροτονίας Ἀρχιερέως (Μέρος Β΄)
 
-### [Συνέχεια Γ΄]
+**[Συνέχεια Γ΄]**
 
 ἡμέρας· ἀλλ’ ἐν τοιαύτῃ περιπτώσει προηγοῦνται ἐναντιρρήτως τὰ τῆς Πεντηκοστῆς καὶ ἕπονται τὰ τοῦ Ἁγίου.
 
-#### Δ΄. [Χειροτονία ἐν Κυριακῇ μετὰ Ἁγίου δεδοξασμένου]
+**Δ΄. [Χειροτονία ἐν Κυριακῇ μετὰ Ἁγίου δεδοξασμένου]**
 
 Ἐν Κυριακῇ δὲ μετὰ Ἁγίου δεδοξασμένου ἄν συμπέσῃ χειροτονία Ἀρχιερέως, μετὰ τὰς Καταβασίας τῆς Πεντηκοστῆς Τὴν τιμιωτέραν καὶ τὴν θ΄ Ὠδὴν τῆς Πεντηκοστῆς. Ἐξαποστειλάρια τὸ Ἀναστάσιμον, τῆς Πεντηκοστῆς, τοῦ Ἁγίου, καὶ Θεοτοκίον. Εἰς τοὺς Αἴνους Ἀναστάσιμα β΄, τῆς Πεντηκοστῆς γ΄ καὶ τοῦ Ἁγίου γ΄, Δόξα, Βασιλεῦ οὐράνιε, Καὶ νῦν, Ὑπερευλογημένη. Μετὰ τὴν Δοξολογίαν Σήμερον σωτηρία. Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς Πεντηκοστῆς, καὶ μετὰ τὴν Εἴσοδον Δεῦτε προσκυνήσωμεν...ὁ ἀναστάς. Ἀπολυτίκια τὸ Ἀναστάσιμον, τῆς Πεντηκοστῆς, τοῦ Ἁγίου τῆς ἡμέρας, τοῦ Ἁγίου τοῦ ναοῦ, καὶ τὸ Κοντάκιον Ὅτε καταβάς. (Τὰ λοιπὰ ὡς ἀνωτέρω ἐν § Β΄.)
 
-#### Ε΄. [Χειροτονία ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς]
+**Ε΄. [Χειροτονία ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς]**
 
 Ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς ἄν τελῆται χειροτονία Ἀρχιερέως, Καταβασίαι ψάλλονται αἱ κεκανονισμέναι τῆς ἐποχῆς, καὶ μόνον Ἐξαποστειλάριον πρὸ τοῦ τῆς ἑορτῆς ψάλλεται τῆς Πεντηκοστῆς· καὶ εἰς τοὺς Αἴνους δύο μόνον Στιχηρὰ ἐκ τῶν τῆς Πεντηκοστῆς. Δόξα τὸ Βασιλεῦ οὐράνιε, Καὶ νῦν τῆς ἑορτῆς. Εἰς δὲ τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς ἑορτῆς. Ἀπολυτίκια, μετὰ τὴν Εἴσοδον, πρῶτον τὸ τῆς Πεντηκοστῆς, δεύτερον τῆς ἑορτῆς, καὶ Ἀπόστολος ἐπίσης τῆς Πεντηκοστῆς.
 
-#### ΣΤ΄. [Χειροτονία ἐν Δεσποτικῇ ἑορτῇ]*
+**ΣΤ΄. [Χειροτονία ἐν Δεσποτικῇ ἑορτῇ]***
 
 Ἐν Δεσποτικῇ ἑορτῇ ἄν τελῆται χειροτονία Ἀρχιερέως, οὐδὲν ἄλλο ψάλλεται ἐκ τῶν τῆς Πεντηκοστῆς εἰμὴ τὸ Ἐξαποστειλάριον, οὗ ὅμως προηγεῖται ἅπαξ τό τῆς ἑορτῆς καὶ ἕπεται αὖθις τὸ αὐτό. Μετὰ δὲ τὴν Εἴσοδον, λέγεται τὸ Ἀπολυτίκιον τῆς Πεντηκοστῆς ἀπὸ τοῦ Βήματος μετὰ τὸ τῆς ἑορτῆς καὶ οὐδὲν πλέον.
 
@@ -989,11 +985,11 @@ This same liturgical proportion is observed whenever the ordination of a Hierarc
 
 ## Concerning the Ordination of a Hierarch
 
-### [Conclusion of Situation Three: Weekday with a Celebrated Saint]
+**[Conclusion of Situation Three: Weekday with a Celebrated Saint]**
 
 ...celebrated; but in such an instance, the hymns of Pentecost indisputably take precedence, and those of the commemorated saint follow.
 
-#### Situation Four: [Ordination on a Sunday with a Doxology or Polyeleos Saint]
+**Situation Four: [Ordination on a Sunday with a Doxology or Polyeleos Saint]**
 
 If the ordination of a Hierarch coincides on a Sunday with a glorified saint [having a Great Doxology or Polyeleos rank]:
 - After the Katavasiai of Pentecost, we chant the Magnification **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), and the Ninth Ode of Pentecost.
@@ -1005,7 +1001,7 @@ If the ordination of a Hierarch coincides on a Sunday with a glorified saint [ha
 - Dismissal Troparia: the Resurrection Troparion, the Dismissal Troparion of Pentecost: **"Blessed art Thou, O Christ our God..."** (*Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς ἡμῶν*), the Dismissal Troparion of the commemorated Saint of the day, that of the Patron Saint of the temple, and the Kontakion of Pentecost: **"When the Most High descended..."** (*Ὅτε καταβὰς τὰς γλώσσας συνέχεε...*).
 - (All the remainder is performed as detailed above under Situation Two.)
 
-#### Situation Five: [Ordination on a Feast of the Most Holy Theotokos]
+**Situation Five: [Ordination on a Feast of the Most Holy Theotokos]**
 
 If the ordination of a Hierarch is celebrated on the day of a Marian feast [Feast of the Theotokos]:
 - The Katavasiai appointed for the liturgical season are chanted.
@@ -1014,7 +1010,7 @@ If the ordination of a Hierarch is celebrated on the day of a Marian feast [Feas
 - At the Divine Liturgy: the festal Antiphons of the Feast of the Theotokos are chanted.
 - Dismissal Troparia after the Small Entrance: first the Dismissal Troparion of Pentecost, second that of the Marian Feast; and the Epistle is likewise that of Pentecost.
 
-#### Situation Six: [Ordination on a Dominical Feast of the Lord]*
+**Situation Six: [Ordination on a Dominical Feast of the Lord]***
 
 If the ordination of a Hierarch is celebrated on a Great Feast of the Lord [Dominical Feast]:
 - Nothing else whatsoever of Pentecost is chanted except the Exapostilarion, which is both preceded and followed once by that of the Dominical Feast [i.e., Exapostilarion of the Feast, Exapostilarion of Pentecost, Exapostilarion of the Feast].
@@ -1028,7 +1024,7 @@ If the ordination of a Hierarch is celebrated on a Great Feast of the Lord [Domi
 
 ## Περὶ Συλλειτούργου (Μέρος Α΄)
 
-### ΠΕΡΙ ΣΥΛΛΕΙΤΟΥΡΓΟΥ
+**ΠΕΡΙ ΣΥΛΛΕΙΤΟΥΡΓΟΥ**
 
 Ὅταν τύχωσι πλείονες τοῦ ἑνὸς Ἱερεῖς συλλειτουργοῦντες, ἀφ’ ἑσπέρας ἂν γένηται Εἴσοδος, ἀπαιτοῦνται τρεῖς τοὐλάχιστον Ἱερεῖς καὶ ψάλλουσιν ἔξωθεν ἡμικύκλιον ἀποτελοῦντες¹ ἐν τῷ μέσῳ τοῦ ναοῦ τὸ **Φῶς ἱλαρὸν** μέχρι τοῦ **καὶ ἅγιον Πνεῦμα θεόν**, ἀπὸ δὲ τοῦ Βήματος τὸ ἐπίλοιπον, καὶ μετ’ αὐτὸ τὸ Προκείμενον τῆς ἡμέρας ἅπαξ ἐκ τοῦ Βήματος καὶ δὶς ἔξωθεν. Εἰς δὲ τὴν Λιτὴν ὁ πρῶτος τῇ τάξει λέγει τὸ **Ἐπάκουσον ἡμῶν ὁ Θεός**, καὶ τὸ **Εἰρήνη πᾶσι**· ὁ δεύτερος, τὸ **Δέσποτα πολυέλεε**· καὶ ὁ τρίτος τὸ **Κύριε Ἰησοῦ Χριστὲ ὁ Θεός**· εἶτα ὁ πρῶτος κατάρχει τὸ **Θεοτόκε Παρθένε** βοηθούντων καὶ τῶν λοιπῶν· ἀλλ’ αὐτὸς μόνος θυμιᾷ καὶ στρέφει περὶ τοὺς ἄρτους μετὰ τοῦ Διακόνου. Τὸ δὲ πρωῒ οὐδὲν ἄλλο ψάλλουσιν οἱ συλλειτουργοῦντες ἱερεῖς ἐκ τοῦ Βήματος πλέον τῶν συνήθων καὶ τῷ ἑνὶ μόνῳ Λειτουργοῦντι ἱερεῖ, εἰμὴ τὸ **Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ** κατὰ τὴν Εἴσοδον, εἶτα τὸ Ἀπολυτίκιον (ὅτε καὶ θυμιᾷ ὁ πρῶτος τῇ τάξει τὴν ἁγίαν Τράπεζαν καὶ τὰς Εἰκόνας)· τὸ Κοντάκιον, καὶ τὸ **Ἅγιος ὁ Θεὸς** τὴν τρίτην φοράν.² Τὰς Ἐκφωνήσεις λέγουσιν ἐξ ὑπαμοιβῆς ὁ εἷς μετὰ τὸν ἄλλον, εὐλογεῖ δὲ τὰ τίμια Δῶρα ὡς καὶ τὸν λαόν, ὁσάκις ἂν δέῃ, ὁ πρῶτος τῇ τάξει, καὶ κοινωνοῦσι τῶν Ἀχράντων Μυστηρίων κατὰ τάξιν ἕκαστος, τοῦ τελευταίου μεταδιδόντος καὶ τῷ Διακόνῳ.
 
@@ -1038,7 +1034,7 @@ If the ordination of a Hierarch is celebrated on a Great Feast of the Lord [Domi
 
 ## Concerning the Co-Celebrant (Part 1)
 
-### CONCERNING THE CO-CELEBRATION OF CLERGY
+**CONCERNING THE CO-CELEBRATION OF CLERGY**
 
 When more than one priest concelebrate, beginning in the evening at Vespers, if an Entrance is performed, at least three priests are required. Standing in the middle of the temple forming a semicircle,¹ they chant outside the Holy Sanctuary the Lucernarium hymn **“O Gladsome Light”** (*Φῶς ἱλαρὸν*) up to the phrase: **“and Holy Spirit, God”** (*καὶ ἅγιον Πνεῦμα θεόν*); and from within the Holy Sanctuary the remainder of the hymn is completed; and after it the Prokimenon of the day is chanted once from within the Holy Sanctuary and twice from outside. At the Litiya, the priest first in rank [by ecclesiastical dignity or order of ordination] intones the petition: **“Hear us, O God our Savior”** (*Ἐπάκουσον ἡμῶν ὁ Θεός*), and the blessing: **“Peace be to all”** (*Εἰρήνη πᾶσι*); the second priest intones: **“O Merciful Master”** (*Δέσποτα πολυέλεε*); and the third priest intones: **“Lord Jesus Christ our God”** (*Κύριε Ἰησοῦ Χριστὲ ὁ Θεός*); then the first priest begins the Artoklasia Troparion: **“O Theotokos Virgin, rejoice”** (*Θεοτόκε Παρθένε*), assisted by the others; but he alone censes and circles around the Loaves together with the Deacon.
 
@@ -1064,7 +1060,7 @@ If the concelebration consists of Hierarchs, the first in rank wears the Mandya 
 
 ## Concerning Hierarchical Concelebration (Part 2)
 
-### CONCERNING HIERARCHICAL CONCELEBRATION
+**CONCERNING HIERARCHICAL CONCELEBRATION**
 
 ...entering the Holy Sanctuary, he gives and receives³ forgiveness from his future concelebrants, and thus all vest. During the Great Doxology they process out of the Holy Sanctuary preceded by the priests, and the presiding hierarch comes out last, wearing the miter upon his head and holding the pastoral staff in his right hand. At the Small Entrance, chanting the Entrance Hymn together with the rest of the hierarchs and priests, he blesses with the dikerotrikera; he enters the Holy Sanctuary first, followed by the other hierarchs and priests, and censes around the Holy Table and the Table of Oblation [Prothesis], the holy icons from the Holy Doors, and the people, while chanting the Dismissal Troparion⁴ and finally the Kontakion.
 
@@ -1080,7 +1076,7 @@ In every occasion of blessing, the first in rank blesses; and he receives the Ho
 
 ## Ἀκολουθία Νεκρώσιμος εἰς Κοιμηθέντας (Μέρος Α΄)
 
-### ΑΚΟΛΟΥΘΙΑ ΝΕΚΡΩΣΙΜΟΣ ΕΙΣ ΚΟΙΜΗΘΕΝΤΑΣ (1)
+**ΑΚΟΛΟΥΘΙΑ ΝΕΚΡΩΣΙΜΟΣ ΕΙΣ ΚΟΙΜΗΘΕΝΤΑΣ (1)**
 
 Τελευτήσαντός τινος τῶν εὐσεβῶν, προσκαλεῖται παρὰ τῶν Συγγενῶν αὐτοῦ ὁ ἱερὸς Κλῆρος· ἐλθόντες δὲ εἰς τὸν οἶκον, ἐν ᾧ τὸ λείψανον κεῖται, ἐὰν ᾖ καὶ Ἀρχιερεύς, λαμβάνουσι καιρὸν οἱ Ἱερεῖς καὶ οἱ Διάκονοι· καὶ οἱ μὲν Ἱερεῖς βάλλουσιν Ἐπιτραχήλια, οἱ δὲ Διάκονοι ἐνδύονται Στιχάρια καὶ Ὠράρια κρατοῦντες θυμιατὰ καὶ δικηροτρίκηρα, τότε εἷς Ἱερεὺς μετὰ Διακόνου εἰσέρχονται ὅπου ὁ νεκρὸς κεῖται, καὶ ὁ μὲν Διάκονος ἐκφωνεῖ **Εὐλόγησον Δέσποτα**, ὁ Ἱερεὺς **Εὐλογητὸς ὁ Θεός**, ὁ Διάκονος τὸ Τρισάγιον(2), ὁ Ἱερεὺς **Ὅτι σοῦ ἐστιν**, καὶ ψάλλουσιν εἰς ἦχον δ΄ τὰ Τροπάρια **Μετὰ πνευμάτων δικαίων τετελειωμένων**· **Εἰς τὴν κατάπαυσίν σου Κύριε, ὅπου πάντες οἱ Ἅγιοί σου ἀναπαύονται**· **Δόξα, Σὺ εἶ ὁ Θεὸς ἡμῶν, Καὶ νῦν, Ἡ μόνη Ἁγνὴ καὶ Ἄχραντος Παρθένος**.
 
@@ -1090,7 +1086,7 @@ In every occasion of blessing, the first in rank blesses; and he receives the Ho
 
 ## The Funeral Service for Those Who Have Fallen Asleep (Part 1)
 
-### THE FUNERAL SERVICE FOR THOSE WHO HAVE FALLEN ASLEEP
+**THE FUNERAL SERVICE FOR THOSE WHO HAVE FALLEN ASLEEP**
 
 Upon the death of one of the faithful, the clergy are summoned by the relatives of the deceased; and coming to the house wherein the body lies, if a hierarch is present, the priests and the deacons receive the liturgical blessing (*kairos*) from him. The priests put on their epitrachilia, and the deacons vest in sticharia and oraria, carrying censers and the dikerotrikera. Then one priest together with a deacon enter where the deceased lies, and the deacon exclaims: **“Master, give the blessing”** (*Εὐλόγησον Δέσποτα*). The priest: **“Blessed is our God, always, now and forever, and unto the ages of ages”** (*Εὐλογητὸς ὁ Θεός...*); the deacon chants the Trisagion Prayers; the priest intones the exclamation: **“For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen.”** (*Ὅτι σοῦ ἐστιν...*).
 
@@ -1108,7 +1104,7 @@ Then lifting the body, the clergy depart, the priests bearing candles going befo
 
 ---
 
-* *Scholarly Apparatus on the Order of the House Trisagion and Funeral Rubrics:* In historical codices and canonical euchologia, the initial panikhida or funeral litany conducted at the home of the deceased initiates the rites of Christian burial. The designation *Trisagion* in this liturgical rubric encompasses the entire opening hexapsalmic or initial prayer cycle: the Thrice-Holy Hymn (*Ἅγιος ὁ Θεός*), the All-Holy Trinity prayer (*Παναγία Τριάς*), the Lord's Prayer (*Πάτερ ἡμῶν*), and the priestly doxological exclamation (*Ὅτι σοῦ ἐστιν*), preceding the four classical mortuary troparia in Tone 4 (*Nekrosima Troparia*). Textual variations between the 1888 editio princeps and modern Athenian and Venetian euchologia are notable: the petitionary phrase *“and forgiveness”* (*καὶ συγχωρήσεως*) is frequently omitted as redundant in modern editions, and Violakis preserves the archaic vocative *“of Thy servant”* (*τοῦ δούλου σου*) rather than the expanded modern recension *“of the servant of God”* (*τοῦ δούλου τοῦ Θεοῦ*).
+* *Scholarly Apparatus on the Order of the House Trisagion and Funeral Rubrics:* In historical codices and canonical euchologia, the initial panikhida or funeral litany conducted at the home of the deceased initiates the rites of Christian burial. The designation *Trisagion* in this liturgical rubric encompasses the entire opening hexapsalmic or initial prayer cycle: the Thrice-Holy Hymn (*Ἅγιος ὁ Θεός*), the All-Holy Trinity prayer (*Παναγία Τριάς*), the Lord's Prayer (*Πάτερ ἡμῶν*), and the priestly doxological exclamation (*Ὅτι σοῦ ἐστιν*), preceding the four classical mortuary troparia in Tone 4 (*Hymns for the Departed (Поко́инъ) Troparia*). Textual variations between the 1888 editio princeps and modern Athenian and Venetian euchologia are notable: the petitionary phrase *“and forgiveness”* (*καὶ συγχωρήσεως*) is frequently omitted as redundant in modern editions, and Violakis preserves the archaic vocative *“of Thy servant”* (*τοῦ δούλου σου*) rather than the expanded modern recension *“of the servant of God”* (*τοῦ δούλου τοῦ Θεοῦ*).
 
 # Appendix: The Funeral Service for the Deceased
 
@@ -1135,11 +1131,11 @@ Then lifting the body, the clergy depart, the priests bearing candles going befo
 
 ## The Funeral Office in the Temple: First and Second Stases of the Amomos (Part 2)
 
-### THE FUNERAL OFFICE IN THE TEMPLE: AMOMOS (PSALM 118)
+**THE FUNERAL OFFICE IN THE TEMPLE: AMOMOS (PSALM 118)**
 
 ...God,” [*] we enter into the temple. After we enter, the body is placed in the center of the temple [upon the Tetrapod]. The hierarch, blessing with the trikirion, ascends his throne. The deacon exclaims: **“Master, give the blessing”** (*Εὐλόγησον Δέσποτα*); the hierarch intones: **“Blessed is our God, always, now and forever, and unto the ages of ages”** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν...*); and immediately the choirs begin to chant in Tone 6 [Heirmologic melody], the Seventeenth Kathisma (Psalm 118 - The *Amomos*):
 
-#### First Stasis (Tone 6)
+**First Stasis (Tone 6)**
 **“Blessed are the undefiled in the way, who walk in the law of the Lord. Alleluia.”** (*Ἄμωμοι ἐν ὁδῷ...*)
 
 **“Blessed art Thou, O Lord: teach me Thy statutes. Alleluia.”** (*Εὐλογητὸς εἶ Κύριε...*)  
@@ -1155,7 +1151,7 @@ The deacon recites the Small Funeral Litany: **“Have mercy on us, O God, accor
 The hierarch exclaims: **“For Thou art the Resurrection, and the Life, and the Repose of Thy servant...”** (*Ὅτι σὺ εἶ ἡ ἀνάστασις...*);  
 and the second choir begins the Second Stasis in Tone 5:
 
-#### Second Stasis (Tone 5)
+**Second Stasis (Tone 5)**
 **“Thy hands have made me and fashioned me: give me understanding, and I shall learn Thy commandments. Have mercy on me, O Lord.”** (*Αἱ χεῖρές σου ἐποίησάν με...*)  
 *(At the end of each verse we chant the refrain: “Have mercy on me, O Lord”).*  
 - **“For I am become like a wineskin in the frost: yet have I not forgotten Thy statutes.”**  
@@ -1170,7 +1166,7 @@ and the second choir begins the Second Stasis in Tone 5:
 
 ## Ἡ Νεκρώσιμος Ἀκολουθία: Τρίτη Στάσις καὶ Εὐλογητάρια (Μέρος Γ΄)
 
-### [ΤΡΙΤΗ ΣΤΑΣΙΣ ΤΟΥ ΑΜΩΜΟΥ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΕΥΛΟΓΗΤΑΡΙΑ]
+**[ΤΡΙΤΗ ΣΤΑΣΙΣ ΤΟΥ ΑΜΩΜΟΥ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΕΥΛΟΓΗΤΑΡΙΑ]**
 
 **Ἔκλινα τὴν καρδίαν μου, τοῦ ποιῆσαι τὰ δικαιώματά σου εἰς τὸν αἰῶνα δι’ ἀντάμειψιν.**  
 **Καιρὸς τοῦ ποιῆσαι τῷ Κυρίῳ, διεσκέδασαν τὸν νόμον σου.**  
@@ -1196,7 +1192,7 @@ and the second choir begins the Second Stasis in Tone 5:
 
 ## The Funeral Office: Conclusion of the Amomos and the Evlogitaria (Part 3)
 
-### CONCLUSION OF THE SECOND STASIS, THIRD STASIS (TONE 8), AND FUNERAL EVLOGITARIA
+**CONCLUSION OF THE SECOND STASIS, THIRD STASIS (TONE 8), AND FUNERAL EVLOGITARIA**
 
 ...**“I have inclined my heart to perform Thy statutes forever, even unto the end.”**  
 **“It is time for the Lord to act: for they have made void Thy law.”**  
@@ -1206,12 +1202,12 @@ The deacon recites the litany: **“Let us pray to the Lord.”**
 The hierarch (or the priest) exclaims: **“For Thou art the Resurrection, and the Life, and the Repose of Thy servant...”** (*Ὅτι σὺ εἶ ἡ ἀνάστασις...*);  
 and the first choir begins the Third Stasis in Tone 8:
 
-#### Third Stasis (Tone 8)
+**Third Stasis (Tone 8)**
 **“And have mercy on me. Alleluia.”** (*Καὶ ἐλέησόν με. Ἀλληλούϊα.*)  
 - **“Look Thou upon me, and be merciful unto me, as Thou art wont to do unto those that love Thy name. Alleluia.”**  
 - **“I am young and despised: yet do I not forget Thy statutes. Alleluia.”**  
 - **“Hear my voice according to Thy lovingkindness, O Lord: quicken me according to Thy judgment. Alleluia.”**  
-- **“Princes have persecuted me without a cause: but my heart standeth in awe of Thy words. Alleluia.”**  
+- **“Princes have persecuted me without a cause: but my heart stands in awe of Thy words. Alleluia.”**  
 - **“My soul shall live, and it shall praise Thee: and Thy judgments shall help me.”**  
 - **“I have gone astray like a lost sheep: seek Thy servant, for I do not forget Thy commandments.”**
 
@@ -1219,7 +1215,7 @@ And immediately the deacon intones: **“Let us pray to the Lord.”**
 The priest exclaims: **“For Thou art the Resurrection, and the Life, and the Repose of Thy servant...”**;  
 and the second choir begins the Funeral Evlogitaria in Tone 5:
 
-#### The Funeral Evlogitaria (Tone 5)
+**The Funeral Evlogitaria (Tone 5)**
 Refrain: **“Blessed art Thou, O Lord: teach me Thy statutes.”** (*Εὐλογητὸς εἶ Κύριε, δίδαξόν με τὰ δικαιώματά σου.*)  
 *(Each Troparion of the Evlogitaria is preceded by this verse).*
 
@@ -1248,22 +1244,22 @@ Refrain: **“Blessed art Thou, O Lord: teach me Thy statutes.”**
 
 ## Ἡ Νεκρώσιμος Ἀκολουθία: Εὐλογητάρια καὶ Ἰδιόμελα (Μέρος Δ΄)
 
-### [ΣΥΝΕΧΕΙΑ ΕΥΛΟΓΗΤΑΡΙΩΝ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΙΔΙΟΜΕΛΑ ΤΩΝ ΟΚΤΩ ΗΧΩΝ]
+**[ΣΥΝΕΧΕΙΑ ΕΥΛΟΓΗΤΑΡΙΩΝ ΚΑΙ ΝΕΚΡΩΣΙΜΑ ΙΔΙΟΜΕΛΑ ΤΩΝ ΟΚΤΩ ΗΧΩΝ]**
 
 σου. — Δόξα, Τὸ τριλαμπὲς τῆς μιᾶς θεότητος. — Καὶ νῦν, Χαῖρε σεμνὴ ἡ θεὸν σαρκὶ τεκοῦσα. — Ἀλληλούϊα, Ἀλληλούϊα, Ἀλληλούϊα, δόξα σοι ὁ θεός, καὶ ἀνάπαυσον τὸν δοῦλόν σου.[6] Ἐὰν ὦσι πολλοὶ Ἱερεῖς, εἰς ἕνα ἕκαστον Τροπάριον μνημονεύουσι, τοῦ Διακόνου ἐκφωνοῦντος ἐν ἑκάστῳ **Τοῦ Κυρίου δεηθῶμεν** (τὰ Νεκρώσιμα Εὐλογητάρια ὅρα ἐν τῷ Ὡρολογίῳ).
 
     Μετὰ τὸ τέλος τῶν Εὐλογηταρίων οἱ χοροὶ ἄρχονται τῶν κατ’ ἦχον νεκρωσίμων Ἰδιομέλων.
 
-#### Ἦχος α΄.
+**Ἦχος α΄.**
 **Ποία τοῦ βίου τρυφὴ διαμένει λύπης ἀμέτοχος; ποία δόξα ἕστηκεν ἐπὶ γῆς ἀμετάθετος; πάντα σκιᾶς ἀσθενέστερα, πάντα ὀνείρων ἀπατηλότερα, μία ῥοπὴ καὶ ταῦτα πάντα θάνατος διαδέχεται· ἀλλ’ ἐν τῷ φωτί, Χριστέ, τοῦ προσώπου σου, καὶ τῷ γλυκασμῷ τῆς σῆς ὡραιότητος, ὃν ἐξελέξω ἀνάπαυσον ὡς φιλάνθρωπος.**
 
-#### Ἦχος β΄.
+**Ἦχος β΄.**
 **Ὡς ἄνθος μαραίνεται, καὶ ὡς ὄναρ παρέρχεται, καὶ διαλύεται πᾶς ἄνθρωπος· πάλιν δὲ ἠχούσης τῆς σάλπιγγος, νεκροί, ὡς ἐν συσσεισμῷ, πάντες ἀναστήσονται πρὸς τὴν σὴν ὑπάντησιν, Χριστὲ ὁ Θεός· τότε, Δέσποτα, ὃν μετέστησας ἐξ ἡμῶν, ἐν ταῖς τῶν Ἁγίων σου κατάταξον σκηναῖς, τὸ πνεῦμα τοῦ σοῦ δούλου, Χριστέ.**
 
-#### Ἦχος γ΄.
+**Ἦχος γ΄.**
 **Πάντα ματαιότης τὰ ἀνθρώπινα, ὅσα οὐχ ὑπάρχει μετὰ θάνατον· οὐ παραμένει ὁ πλοῦτος, οὐ συνοδεύει ἡ δόξα· ἐπελθὼν γὰρ ὁ θάνατος, ταῦτα πάντα ἐξηφάνισται· διὸ Χριστῷ τῷ ἀθανάτῳ βασιλεῖ βοήσωμεν, τὸν μεταστάντα ἐξ ἡμῶν ἀνάπαυσον, ἔνθα πάντων ἐστὶν εὐφραινομένων ἡ κατοικία.**
 
-#### Ἦχος δ΄.
+**Ἦχος δ΄.**
 
 ---
 
@@ -1273,7 +1269,7 @@ Refrain: **“Blessed art Thou, O Lord: teach me Thy statutes.”**
 
 ## The Funeral Office: Evlogitaria and Idiomela of the Eight Tones (Part 4)
 
-### CONCLUSION OF EVLOGITARIA AND FUNERAL IDIOMELA (TONES 1–4)
+**CONCLUSION OF EVLOGITARIA AND FUNERAL IDIOMELA (TONES 1–4)**
 
 ...salvation didst bear God in the flesh: through thee may we find paradise, pure and blessed Theotokos.  
 — **“Alleluia, Alleluia, Alleluia, glory to Thee, O God! [and give rest to Thy servant].”**[6]  
@@ -1281,16 +1277,16 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
     After the conclusion of the Evlogitaria, the choirs begin the Funeral Idiomela composed by Saint John of Damascus in each of the Eight Tones:
 
-#### Tone 1
-**“What pleasure in life abideth without sorrow? What glory standeth upon earth unchanging? All things are feebler than shadows, all things more deceptive than dreams: in a single moment death taketh them all away. But in the light of Thy countenance, O Christ, and in the sweetness of Thy beauty, give rest unto him whom Thou hast chosen, for Thou art the Lover of mankind.”** (*Ποία τοῦ βίου τρυφὴ διαμένει λύπης ἀμέτοχος...*)
+**Tone 1**
+**“What pleasure in life abides without sorrow? What glory stands upon earth unchanging? All things are feebler than shadows, all things more deceptive than dreams: in a single moment death takes them all away. But in the light of Thy countenance, O Christ, and in the sweetness of Thy beauty, give rest unto him whom Thou hast chosen, for Thou art the Lover of mankind.”** (*Ποία τοῦ βίου τρυφὴ διαμένει λύπης ἀμέτοχος...*)
 
-#### Tone 2
+**Tone 2**
 **“As a flower withers, and as a dream passes away, so is every mortal dissolved. But when the trumpet sounds, the dead, as in an earthquake, shall all arise to meet Thee, Christ our God. Then, O Master, establish in the tents of Thy saints the soul of him whom Thou hast summoned from our midst, the spirit of Thy servant, O Christ.”** (*Ὡς ἄνθος μαραίνεται, καὶ ὡς ὄναρ παρέρχεται...*)
 
-#### Tone 3
+**Tone 3**
 **“All human pursuits are vanity, whatsoever survives not after death: riches do not endure, nor doth glory accompany along the way; for when death comes upon them, all these things are utterly extinguished. Therefore let us cry aloud unto Christ, the immortal King: Give rest unto him who hath departed from our midst, in the dwelling place of all who rejoice!”** (*Πάντα ματαιότης τὰ ἀνθρώπινα...*)
 
-#### Tone 4
+**Tone 4**
 **“Truly awesome is the mystery of death: how the soul is violently severed from the body’s harmony; how the natural bond that united them is broken by the divine will! Therefore do we entreat Thee...”** (*Ὄντως φοβερώτατον τὸ τοῦ θανάτου μυστήριον... / ὃ σὲ ἱκετεύομεν...*)...[^525]
 
 ---
@@ -1301,46 +1297,46 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ἡ Νεκρώσιμος Ἀκολουθία: Τὰ Ἰδιόμελα τῶν Ὀκτὼ Ἤχων (Μέρος Ε΄)
 
-### [ΣΥΝΕΧΕΙΑ ΙΔΙΟΜΕΛΩΝ: ΗΧΟΣ Δ΄, ΠΛΑΓΙΟΙ ΗΧΟΙ, ΚΑΙ ΔΟΞΑΣΤΙΚΟΝ]
+**[ΣΥΝΕΧΕΙΑ ΙΔΙΟΜΕΛΩΝ: ΗΧΟΣ Δ΄, ΠΛΑΓΙΟΙ ΗΧΟΙ, ΚΑΙ ΔΟΞΑΣΤΙΚΟΝ]**
 
 ὃ σὲ ἱκετεύομεν, τὸν μεταστάντα ἀνάπαυσον, ἐν σκηναῖς τῶν δικαίων σου ζωοδότα φιλάνθρωπε.
 
-#### Ἦχος πλάγιος α΄.
+**Ἦχος πλάγιος α΄.**
 **Ἐμνήσθην τοῦ Προφήτου βοῶντος, ἐγώ εἰμι γῆ καὶ σποδός, καὶ πάλιν κατενόησα ἐν τοῖς μνήμασι, καὶ εἶδον τὰ ὀστᾶ τὰ γεγυμνωμένα καὶ εἶπον, ἆρα τίς ἐστι βασιλεύς, ἢ στρατιώτης; ἢ πλούσιος, ἢ πένης; ἢ δίκαιος, ἢ ἁμαρτωλός; Ἀλλὰ ἀνάπαυσον, Κύριε, μετὰ δικαίων τὸν δοῦλόν σου ὡς φιλάνθρωπος.**
 
-#### Ἦχος πλάγιος β΄.
+**Ἦχος πλάγιος β΄.**
 **Ἀρχή μοι καὶ ὑπόστασις, τὸ πλαστουργόν σου γέγονε πρόσταγμα· βουληθεὶς γὰρ ἐξ ἀοράτου τε καὶ ὁρατῆς μέ ζῴων συμπῆξαι φύσεως, γῆθέν μου τὸ σῶμα διέπλασας, δέδωκας δέ μοι ψυχήν, τῇ θείᾳ σου καὶ ζωοποιῷ ἐμπνεύσει· δι’ ὃ Χριστέ, τὸν δοῦλόν σου, ἐν χώρᾳ ζώντων, ἐν σκηναῖς δικαίων κατάταξον.**
 
-#### Ἦχος βαρύς.
+**Ἦχος βαρύς.**
 **Ἀνάπαυσον, Σωτὴρ ἡμῶν ζωοδότα, ὃν μετέστησας ἀδελφὸν ἡμῶν ἐκ τῶν προσκαίρων, κράζοντα, δόξα σοι.**
 
-#### Ἦχος πλάγιος δ΄.
+**Ἦχος πλάγιος δ΄.**
 **Θρηνῶ καὶ ὀδύρομαι ὅταν ἐννοήσω τὸν θάνατον καὶ ἴδω ἐν τοῖς τάφοις κειμένην τὴν κατ’ εἰκόνα θεοῦ πλασθεῖσαν ἡμῖν ὡραιότητα ἄμορφον, ἄδοξον, μὴ ἔχουσαν εἶδος. Ὢ τοῦ θαύματος! τί τὸ περὶ ἡμᾶς τοῦτο γέγονε μυστήριον; πῶς παρεδόθημεν τῇ φθορᾷ; πῶς συνεζεύχθημεν τῷ θανάτῳ; ὄντως θεοῦ προστάξει, ὡς γέγραπται, τοῦ παρέχοντος τοῖς μεταστᾶσι τὴν ἀνάπαυσιν.**
 
-#### Δόξα Πατρὶ (ὁ αὐτός)
+**Δόξα Πατρὶ (ὁ αὐτός)**
 **Ὁ θάνατός σου, Κύριε, ἀθανασίας γέγονε πρόξενος, εἰ μὴ γὰρ ἐν μνήματι κατετέθης, οὐκ ἂν ὁ Παράδεισος ἠνέῳκτο, δι’ ὃ τὸν μεταστάντα ἀνάπαυσον, ὡς φιλάνθρωπος.**
 
 # Appendix: The Funeral Service for the Deceased
 
 ## The Funeral Office: Idiomela Concluded and Doxastikon (Part 5)
 
-### CONCLUDING IDIOMELA (TONES 5–8) AND DOXASTIKON
+**CONCLUDING IDIOMELA (TONES 5–8) AND DOXASTIKON**
 
 ...**“[Therefore do we entreat Thee], O Giver of life and Lover of mankind: grant rest unto him who is now departed, in the tents of Thy righteous ones.”** (*ὃ σὲ ἱκετεύομεν, τὸν μεταστάντα ἀνάπαυσον, ἐν σκηναῖς τῶν δικαίων σου ζωοδότα φιλάνθρωπε.*)
 
-#### Tone 5 (Tone 1 Plagal)
+**Tone 5 (Tone 1 Plagal)**
 **“I remembered the Prophet crying aloud: I am but dust and ashes; and again I looked into the tombs, and saw the bare bones, and said: Who then is king or soldier? Who is rich or poor? Who is righteous or a sinner? But grant rest unto Thy servant with the righteous, O Lord, as Thou art the Lover of mankind.”** (*Ἐμνήσθην τοῦ Προφήτου βοῶντος, ἐγώ εἰμι γῆ καὶ σποδός...*)
 
-#### Tone 6 (Tone 2 Plagal)
+**Tone 6 (Tone 2 Plagal)**
 **“Thy creating command was my beginning and my substance; for desiring to fashion me a living creature out of invisible and visible nature, Thou didst mould my body from the earth and didst give me a soul by Thy divine and life-creating breath. Therefore, O Christ, number Thy servant in the land of the living, in the tents of the righteous.”** (*Ἀρχή μοι καὶ ὑπόστασις, τὸ πλαστουργόν σου γέγονε πρόσταγμα...*)
 
-#### Tone 7 (Grave Tone / Varys)
-**“Give rest, O our Savior and Giver of life, unto our brother whom Thou hast taken away from temporal things, who crieth aloud: Glory be to Thee!”** (*Ἀνάπαυσον, Σωτὴρ ἡμῶν ζωοδότα...*)
+**Tone 7 (Grave Tone / Varys)**
+**“Give rest, O our Savior and Giver of life, unto our brother whom Thou hast taken away from temporal things, who cries aloud: Glory be to Thee!”** (*Ἀνάπαυσον, Σωτὴρ ἡμῶν ζωοδότα...*)
 
-#### Tone 8 (Tone 4 Plagal)
-**“I weep and lament when I contemplate death, and behold lying in the graves our beauty fashioned in the image of God, bereft of form, without glory, having no shape! O marvel! What is this mystery that hath come upon us? How have we been surrendered unto corruption? How have we been yoked unto death? Truly by the command of God, as it is written, Who granteth repose unto the departed.”** (*Θρηνῶ καὶ ὀδύρομαι ὅταν ἐννοήσω τὸν θάνατον...*)
+**Tone 8 (Tone 4 Plagal)**
+**“I weep and lament when I contemplate death, and behold lying in the graves our beauty fashioned in the image of God, bereft of form, without glory, having no shape! O marvel! What is this mystery that hath come upon us? How have we been surrendered unto corruption? How have we been yoked unto death? Truly by the command of God, as it is written, Who grants repose unto the departed.”** (*Θρηνῶ καὶ ὀδύρομαι ὅταν ἐννοήσω τὸν θάνατον...*)
 
-#### Glory (Tone 8)
+**Glory (Tone 8)**
 **“Glory to the Father, and to the Son, and to the Holy Spirit:**  
 **Thy death, O Lord, hath become the cause of immortality; for hadst Thou not been laid in the tomb, Paradise would not have been opened. Therefore grant rest unto him who hath departed, as Thou art the Lover of mankind.”** (*Ὁ θάνατός σου, Κύριε, ἀθανασίας γέγονε πρόξενος...*)...[^526]
 
@@ -1352,9 +1348,9 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ἡ Νεκρώσιμος Ἀκολουθία: Ἀπόλυσις, Διακαινήσιμος, καὶ Καθολικὴ Τάξις (Μέρος Ϛ΄)
 
-### [ΘΕΟΤΟΚΙΟΝ, ΑΝΑΓΝΩΣΜΑΤΑ, ΑΠΟΛΥΣΙΣ, ΚΑΙ ΤΑΞΙΣ ΕΙΣ ΔΙΑΚΑΙΝΗΣΙΜΟΝ]
+**[ΘΕΟΤΟΚΙΟΝ, ΑΝΑΓΝΩΣΜΑΤΑ, ΑΠΟΛΥΣΙΣ, ΚΑΙ ΤΑΞΙΣ ΕΙΣ ΔΙΑΚΑΙΝΗΣΙΜΟΝ]**
 
-#### Καὶ νῦν (ὁ αὐτός)
+**Καὶ νῦν (ὁ αὐτός)**
 **Ἁγνὴ Παρθένε, τοῦ Λόγου Πύλη, τοῦ θεοῦ ἡμῶν μήτηρ ἱκέτευσε ἐλεηθῆναι τὴν ψυχὴν αὐτοῦ.**
 
     Καὶ εὐθὺς ὁ Ἀπόστολος, **Οὐ θέλω ὑμᾶς ἀγνοεῖν περὶ τῶν κεκοιμημένων**, καὶ τὸ Εὐαγγέλιον, **Εἶπεν ὁ Κύριος πρὸς τοὺς ἐληλυθότας πρὸς αὐτὸν Ἰουδαίους**, ὁ Διάκονος, **Ἐλέησον ἡμᾶς ὁ Θεός**, καὶ ὁ Ἀρχιερεὺς τὰς δύο συγχωρητικὰς Εὐχάς, καὶ εἰς τὸ τέλος, **Ὁ Θεὸς τῶν πνευμάτων καὶ πάσης σαρκός**, ὁ Διάκονος, **Τοῦ Κυρίου δεηθῶμεν**, καὶ μνημονεύουσιν αὖθις ἅπαντες οἱ παρευρισκόμενοι Ἱερεῖς, καὶ ἀκολούθως ἡ παρὰ τοῦ Ἀρχιερέως νεκρώσιμος Ἀπόλυσις. Εἰς δὲ τὸν τελευταῖον τοῦ λειψάνου ἀσπασμὸν ψάλλεται ὑπὸ τοῦ β΄ χοροῦ τὸ Προσόμοιον, **Δεῦτε τελευταῖον ἀσπασμὸν δῶμεν ἀδελφοὶ τῷ θανόντι, εὐχαριστοῦντες Θεῷ**, καὶ συνοδεύομεν τὸ λείψανον μέχρι τοῦ τάφου ψάλλοντες τὸ **Θρηνῶ καὶ ὀδύρομαι**.
@@ -1368,13 +1364,13 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Funeral Office: Absolution, Paschal Order, and Universal Scope (Part 6)
 
-### THE FUNERAL DISMISSAL, BRIGHT WEEK RITE, AND UNIVERSAL ORDER
+**THE FUNERAL DISMISSAL, BRIGHT WEEK RITE, AND UNIVERSAL ORDER**
 
-#### Both now (Tone 8)
+**Both now (Tone 8)**
 **“Both now and forever, and unto the ages of ages. Amen:**  
 **Pure Virgin, portal of the Word, Mother of our God, intercede that his soul may find mercy!”** (*Ἁγνὴ Παρθένε, τοῦ Λόγου Πύλη...*)
 
-    And immediately follows the Epistle (*Apostolos*): **“Brethren, I would not have you ignorant concerning those who are asleep”** (*Οὐ θέλω ὑμᾶς ἀγνοεῖν περὶ τῶν κεκοιμημένων* — 1 Thessalonians 4:13–17); and the Gospel: **“The Lord said to the Jews who came unto Him: Amen, amen, I say unto you, he that heareth My word...”** (*Εἶπεν ὁ Κύριος πρὸς τοὺς ἐληλυθότας πρὸς αὐτὸν Ἰουδαίους* — John 5:24–30). The deacon intones the litany: **“Have mercy on us, O God, according to Thy great mercy...”** (*Ἐλέησον ἡμᾶς ὁ Θεός*); and the hierarch recites the two prayers of absolution, and at the end the prayer: **“O God of spirits and of all flesh...”** (*Ὁ Θεὸς τῶν πνευμάτων καὶ πάσης σαρκός*). The deacon intones: **“Let us pray to the Lord”** (*Τοῦ Κυρίου δεηθῶμεν*); and all the presbyters present commemorate the departed once more; and subsequently the hierarch pronounces the Funeral Dismissal. During the final kissing of the body, the second choir chants the automelon: **“Come, brethren, let us give the last kiss unto the departed, giving thanks unto God”** (*Δεῦτε τελευταῖον ἀσπασμὸν δῶμεν ἀδελφοὶ τῷ θανόντι, εὐχαριστοῦντες Θεῷ*); and we accompany the body to the tomb while chanting: **“I weep and I lament”** (*Θρηνῶ καὶ ὀδύρομαι*).
+    And immediately follows the Epistle (*Apostolos*): **“Brethren, I would not have you ignorant concerning those who are asleep”** (*Οὐ θέλω ὑμᾶς ἀγνοεῖν περὶ τῶν κεκοιμημένων* — 1 Thessalonians 4:13–17); and the Gospel: **“The Lord said to the Jews who came unto Him: Amen, amen, I say unto you, he that hears My word...”** (*Εἶπεν ὁ Κύριος πρὸς τοὺς ἐληλυθότας πρὸς αὐτὸν Ἰουδαίους* — John 5:24–30). The deacon intones the litany: **“Have mercy on us, O God, according to Thy great mercy...”** (*Ἐλέησον ἡμᾶς ὁ Θεός*); and the hierarch recites the two prayers of absolution, and at the end the prayer: **“O God of spirits and of all flesh...”** (*Ὁ Θεὸς τῶν πνευμάτων καὶ πάσης σαρκός*). The deacon intones: **“Let us pray to the Lord”** (*Τοῦ Κυρίου δεηθῶμεν*); and all the presbyters present commemorate the departed once more; and subsequently the hierarch pronounces the Funeral Dismissal. During the final kissing of the body, the second choir chants the automelon: **“Come, brethren, let us give the last kiss unto the departed, giving thanks unto God”** (*Δεῦτε τελευταῖον ἀσπασμὸν δῶμεν ἀδελφοὶ τῷ θανόντι, εὐχαριστοῦντες Θεῷ*); and we accompany the body to the tomb while chanting: **“I weep and I lament”** (*Θρηνῶ καὶ ὀδύρομαι*).
 
     If it be Bright Week [Renewal Week], we chant **“Christ is risen”** (*Χριστὸς ἀνέστη*) all the way to the temple (and the same is done until the Apodosis of Pascha). After the exclamation **“Blessed is our God”**, the hierarch chants **“Christ is risen”** once, and each of the two choirs chants it once. Then the Katavasias of the Paschal Canon are chanted. At the end of each Katavasia, **“Christ is risen”** is chanted three times, followed by **“Having seen the Resurrection of Christ”** [or **“Jesus having risen”** / *Ἀναστὰς ὁ Ἰησοῦς*]. The deacon intones: **“Let us pray to the Lord”**, and the hierarch exclaims: **“For Thou art the Resurrection, and the Life, and the Repose...”** after the First Katavasia; and during the remaining odes the concelebrating priests intone this same exclamation in turn. After the Ninth Ode, the Exapostilarion: **“Having fallen asleep in the flesh as a mortal”** (*Σαρκὶ ὑπνώσας*) is chanted twice, and immediately follow the Epistle and Gospel. At the end, the deacon intones: **“Have mercy on us, O God”**, and the hierarch reads the two prayers of absolution; at the conclusion, the prayer **“O God of spirits and of all flesh...”**, etc., as above, followed by the Dismissal. But instead of **“Come, brethren, let us give the last kiss”**, we chant the Paschal Stichera: **“Let God arise”** with **“Today a sacred Pascha hath been revealed unto us”** and **“It is the day of Resurrection”** (*Ἀναστάσεως ἡμέρα*), and we chant the same during the procession to the grave. After Bright Week, until the Apodosis of Pascha, upon entering the temple with the body of the deceased, the hierarch exclaims: **“Blessed is our God”**, then **“Christ is risen”** is chanted once by the hierarch and twice by the choirs; and thereafter the customary Funeral Service proceeds as described above.
 
@@ -1388,30 +1384,30 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ἡ Νεκρώσιμος Ἀκολουθία καὶ Περὶ Μνημοσύνων
 
-### [ΠΕΡΙΦΗΜΟΣ ΑΠΟΣΤΟΛΟΣ ΕΙΣ ΒΡΕΦΗ ΚΑΙ ΠΕΡΙ ΜΝΗΜΟΣΥΝΩΝ]
+**[ΠΕΡΙΦΗΜΟΣ ΑΠΟΣΤΟΛΟΣ ΕΙΣ ΒΡΕΦΗ ΚΑΙ ΠΕΡΙ ΜΝΗΜΟΣΥΝΩΝ]**
 
 ἐπιστολὴ Β΄, πρὸς Κορινθ. Κεφ. Γ΄.) [Κατὰ τὸ Μικρὸν Εὐχολόγιον, ὁ σωστὸς Ἀπόστολος εἶναι Ῥωμαίους, Κεφ. Ϛ΄, 9-11 «Χριστὸς ἐγερθεὶς ἐκ νεκρῶν..» Μικρὸν Εὐχολόγιον, Ἀποστολικὴ Διακονία, Ἀθῆναι, 1955, σελ. 233.]
 
-### ΠΕΡΙ ΜΝΗΜΟΣΥΝΩΝ
+**ΠΕΡΙ ΜΝΗΜΟΣΥΝΩΝ**
 
     Τὰ εἰς τοὺς κεκοιμημένους ἀδελφοὺς γινόμενα Τρίτα δηλοῦσι, κατὰ τὸν Ἱερὸν Συμεὼν Θεσσαλονίκης, ὅτι ὁ κοιμηθεὶς ἀδελφὸς ὑπὸ τῆς Ἁγίας Τριάδος ἐξ ἀρχῆς συνετέθη. Τὰ δὲ Ἔνατα τῶν κεκοιμημένων σημαίνουσιν ὅτι ὁ διαλυθεὶς εἰς τὰ ἐξ ὧν συνετέθη, ἔχει νὰ συγκαταριθμηθῇ μετὰ τῶν ἐννέα αὔλων ταγμάτων τῶν Ἀγγέλων, ὡς ἄϋλος καὶ αὐτός. Τὰ δὲ τεσσαρακοστὰ δηλοῦσιν ὅτι, ἐν τῇ μελλούσῃ Ἀναστάσει συντεθεὶς πάλιν, κατὰ τρόπον ὑψηλότερον, ἔχει καὶ αὐτὸς νὰ ἀναληφθῇ ὡς ὁ Κύριος καὶ ἁρπαγεὶς ἐν νεφέλαις νὰ ὑπαντήσῃ τῷ Κριτῇ. Ταύτας τὰς τρεῖς καταστάσεις τοῦ ἀνθρώπου σημαίνουσι τὰ Τρίμηνα καὶ Ἑξάμηνα καὶ Ἐννεάμηνα. Καὶ ἁπλῶς εἰπεῖν, ταῦτα τελοῦνται ὑπὲρ καθαρισμοῦ τοῦ ἀποθανόντος.
 
-### ΤΕΛΟΣ ΚΑΙ Τῼ ΘΕῼ ΔΟΞΑ
+**ΤΕΛΟΣ ΚΑΙ Τῼ ΘΕῼ ΔΟΞΑ**
 
 # Appendix: The Funeral Service & Concerning Memorial Services
 
 ## The Funeral Office and Concerning Memorial Services
 
-### EPISTLE FOR INFANTS, THE THEOLOGY OF MEMORIAL SERVICES, AND THE COLOPHON
+**EPISTLE FOR INFANTS, THE THEOLOGY OF MEMORIAL SERVICES, AND THE COLOPHON**
 
-...(Epistle to the Galatians, ch. 3: **“For ye are all one in Christ Jesus”** [Galatians 3:28]). [According to the Small Euchologion (*Mikron Euchologion*), the correct Epistle pericope is Romans 6:9–11: **“Christ, being raised from the dead, dieth no more...”** *Mikron Euchologion*, Apostoliki Diakonia, Athens, 1955, p. 233].
+...(Epistle to the Galatians, ch. 3: **“For ye are all one in Christ Jesus”** [Galatians 3:28]). [According to the Small Euchologion (*Mikron Euchologion*), the correct Epistle pericope is Romans 6:9–11: **“Christ, being raised from the dead, dies no more...”** *Mikron Euchologion*, Apostoliki Diakonia, Athens, 1955, p. 233].
 
-### CONCERNING MEMORIAL SERVICES (*ΠΕΡΙ ΜΝΗΜΟΣΥΝΩΝ*)
+**CONCERNING MEMORIAL SERVICES (*ΠΕΡΙ ΜΝΗΜΟΣΥΝΩΝ*)**
 
     The Third-Day Memorial Service (*Trita*) performed for our fallen-asleep brethren signifies, according to the Holy Symeon of Thessalonica, that the departed brother was composed from the beginning by the Holy Trinity. The Ninth-Day Memorial Service (*Enata*) for the reposed signifies that he who has been dissolved into the elements from which he was composed is to be numbered together with the nine bodiless ranks of the Angels, being now bodiless himself. The Fortieth-Day Memorial Service (*Tessarakonta*) signifies that, having been recomposed in a more exalted manner in the future Resurrection, he also is to be taken up like the Lord and caught up in the clouds to meet the Judge. These three estates of humanity are likewise signified by the Three-Month, Six-Month, and Nine-Month Memorial Services (*Trimena*, *Hexamena*, and *Enneamena*). And to speak simply, all these services are celebrated for the spiritual purification and forgiveness of the deceased.
 
-### THE END AND TO GOD BE GLORY
-### ΤΕΛΟΣ ΚΑΙ Τῼ ΘΕῼ ΔΟΞΑ...[^528]
+**THE END AND TO GOD BE GLORY**
+**ΤΕΛΟΣ ΚΑΙ Τῼ ΘΕῼ ΔΟΞΑ...[^528]**
 
 ---
 
@@ -1421,7 +1417,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Πίναξ τοῦ Ἑορτοδρομίου: Εἰσαγωγικὸν Σημείωμα
 
-### ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ
+**ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ**
 
     Ὁ παρὼν Πίναξ τοῦ Ἑορτοδρομίου ἐγράφη ἀρχικῶς ἐπὶ τῇ βάσει τοῦ Ἰουλιανοῦ Ἡμερολογίου. Εἰς τὸ ἔτος 1921, ἡ Ἑλληνορθόδοξος Ἐκκλησία υἱοθέτησε τὸ Γρηγοριανὸν Ἡμερολόγιον. Ἐφ’ ὅσον τὸ παρὸν Τυπικὸν ἐξεδόθη τὸ ἔτος 1888, ἦτο φύσει ἀδύνατον διὰ τὸν Γεώργιον Βιολάκην ἵνα ἦτο ἐνήμερος αὐτῆς τῆς ἀλλαγῆς πρὸς τὸ Γρηγοριανὸν Ἡμερολόγιον.
 
@@ -1431,7 +1427,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Editorial Preface to the Table of Feasts
 
-### CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)
+**CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)**
 
     The present Chart of the Feasts was originally compiled upon the basis of the Julian Calendar. In the year 1921 [and 1924], the Greek Orthodox Church adopted the Revised Julian / Gregorian Calendar. Inasmuch as this Typikon was published in the year 1888, it was naturally impossible for George Violakis to have foreseen this calendar transition.
 
@@ -1445,9 +1441,9 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Comparative Outline of Movable Feasts: Julian Calendar
 
-### COMPARATIVE OUTLINE OF THE MOVABLE FEASTS BETWEEN THE JULIAN AND GREGORIAN CALENDARS
+**COMPARATIVE OUTLINE OF THE MOVABLE FEASTS BETWEEN THE JULIAN AND GREGORIAN CALENDARS**
 
-#### Julian Calendar: Dates of the Movable Feasts
+**Julian Calendar: Dates of the Movable Feasts**
 
 | Movable Feast | Earliest Possible Date of Occurrence | Latest Possible Date of Occurrence |
 | :--- | :--- | :--- |
@@ -1481,13 +1477,13 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Comparative Outline of Movable Feasts: Gregorian Calendar
 
-### The Relationship Between Immovable and Movable Feasts in the Gregorian Calendar
+**The Relationship Between Immovable and Movable Feasts in the Gregorian Calendar**
 
     In accordance with the Gregorian Calendar, where the Triodion period begins on 24 January (13 days later than the beginning date in the Julian Calendar) the first four immovable feasts listed in the Chart — 11, 17, 18 and 20 January — will no longer fall within the Triodion period. The earliest possible immovable feast to fall within the Triodion period will now be 25 January, St. Gregory the Theologian.
     Similarly, since the end of the movable feasts (Sunday of All Saints) will now be delayed until 3 July, three more immovable feasts may possibly fall within the Pentikostarion period: 24 June, the Nativity of St. John the Baptist; 29 June, Sts. Peter and Paul the Apostles; and 30 June, the 12 Apostles.
     N.B.: In order to facilitate the use of the Julian Chart of Feasts in today's church, the editors of this work have added next to the dates of the Julian Calendar (JC) the corresponding dates of the Gregorian Calendar (GC).
 
-### Gregorian Calendar: Dates of the Movable Feasts
+**Gregorian Calendar: Dates of the Movable Feasts**
 
 | Movable Feast | Earliest Possible Date of Occurrence | Latest Possible Date of Occurrence |
 | :--- | :--- | :--- |
@@ -1521,11 +1517,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Πίναξ τοῦ Ἑορτοδρομίου: Ἑρμηνευτικοὶ Κανόνες
 
-### ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ
-### ΗΤΟΙ ΤΩΝ ΑΠΟ ΤΗΣ ΙΑ΄ ΙΑΝΟΥΑΡΙΟΥ ΜΕΧΡΙ ΤΗΣ ΚΕ΄ ΜΑΙΟΥ ΤΟΥ ΙΟΥΛΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΙΗ) [ΠΕΡΙΕΧΩΝ ΚΑΙ ΤΑΣ ΑΝΤΙΣΤΟΙΧΟΥΣ ΗΜΕΡΟΜΗΝΙΑΣ ΤΟΥ ΓΡΗΓΟΡΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΓΗ)]
-### ΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ ΙΗ΄ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΤΩΝ ΑΠΑΝΤΩΣΩΝ ΕΝΤΟΣ ΤΟΥ ΤΡΙΩΔΙΟΥ ΚΑΙ ΤΟΥ ΠΕΝΤΗΚΟΣΤΑΡΙΟΥ
+**ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ**
+**ΗΤΟΙ ΤΩΝ ΑΠΟ ΤΗΣ ΙΑ΄ ΙΑΝΟΥΑΡΙΟΥ ΜΕΧΡΙ ΤΗΣ ΚΕ΄ ΜΑΙΟΥ ΤΟΥ ΙΟΥΛΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΙΗ) [ΠΕΡΙΕΧΩΝ ΚΑΙ ΤΑΣ ΑΝΤΙΣΤΟΙΧΟΥΣ ΗΜΕΡΟΜΗΝΙΑΣ ΤΟΥ ΓΡΗΓΟΡΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΓΗ)]**
+**ΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ ΙΗ΄ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΤΩΝ ΑΠΑΝΤΩΣΩΝ ΕΝΤΟΣ ΤΟΥ ΤΡΙΩΔΙΟΥ ΚΑΙ ΤΟΥ ΠΕΝΤΗΚΟΣΤΑΡΙΟΥ**
 
-#### Ἑρμηνευτικοὶ τούτου κανόνες
+**Ἑρμηνευτικοὶ τούτου κανόνες**
 
     Σπουδαῖον ἐκρίθη καὶ ἐπάναγκες τοῖς τε Ἱερεῦσι καὶ τοῖς ψάλταις τὸ γινώσκειν, εἰ δὲ μή γε, τὸ εὑρίσκειν εὐχερέστερον τὴν λύσιν ἀποριῶν καὶ δυσχερειῶν, ὅσας συνεπάγεται ἡ τῶν ἀκινήτων λεγομένων ἑορτῶν, ἤτοι τοῦ Μηνολογίου, σύμπτωσις μετὰ τῶν κινητῶν τοῦ Τριῳδίου καὶ Πεντηκοσταρίου. Καὶ ποιεῖται μὲν καθ’ ἑκάστην σύμπτωσιν ἐπαρκῆ λόγον περὶ τούτων τὸ Τυπικόν, ἀλλ’ οὐδὲν ἧττον εἷς Πίναξ, οἷος ὁ ἑπόμενος, παρέχει μείζονα τὴν εὐχέρειαν καὶ ἱκανοποιεῖ τὴν περιέργειαν τοῦ φιλομαθοῦς· ἐπειδὴ δὲ αἱ κινηταὶ ἑορταὶ τοῦ Τριῳδίου καὶ Πεντηκοσταρίου οὔτε πέραν τῆς ΙΑ΄ Ἰανουαρίου τοῦ Ἰουλιανοῦ Ἡμερολογίου (ἥτις ἐστὶ τὸ πρωϊμώτερον ὅριον τῆς ἐνάρξεως τοῦ Τριῳδίου) κατέρχονται [24 Ἰανουαρίου εἰς τὸ Γρηγοριανὸν Ἡμερολόγιον], οὔτε δύνανται προχωρῆσαι ἐπέκεινα τῆς ΚΕ΄ Μαΐου-ΙΗ [Ἰουλίου 3-ΓΗ], ἥτις ἐστὶ τὸ ἔσχατον ὅριον μέχρι τοῦ ὁποίου ἐκτείνεται τὸ τέλος τοῦ Πεντηκοσταρίου, ἤτοι ἡ ἑορτὴ τῶν Ἁγίων Πάντων, διὰ τοῦτο ὁ Πίναξ ταῦτα ἔχει ἀρχῆς καὶ τέλους ὅρια, καὶ μόνον τὰς ἐν τῷ χρονικῷ τούτῳ διαστήματι ἑορτὰς τοῦ Μηνολογίου περιλαμβάνει, παρέχων ὡς ἐν κατόπτρῳ τὰς δυνατὰς εὐκολίας, ὥστε νὰ δύνανται οὕτω πως οἱ Ἱερεῖς καὶ οἱ ψάλται συμβιβάζειν ἀκόπως τὴν τυπικὴν τῶν ἱερῶν Ἀκολουθιῶν διάταξιν, καὶ διαλύειν πάντα δισταγμόν, καὶ διασκεδάζειν πᾶσαν ἐνδεχομένην ἀπορίαν. Ὅπως δὲ κατανοηθῇ καὶ ἀποβῇ εὐχερεστέρα ἡ τοῦ Πίνακος χρῆσις, ἀναγκαῖαι ἐθεωρήθησαν αἱ ἑξῆς σημειώσεις:
 
@@ -1533,11 +1529,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Interpretive Rules for the Chart of Feasts: Preamble
 
-### CHART OF FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)
-### FROM JANUARY 11 UNTIL MAY 25 OF THE JULIAN CALENDAR (JC) [CONTAINING ALSO THE CORRESPONDING DATES OF THE GREGORIAN CALENDAR (GC)]
-### CONTAINING THE 18 IMMOVABLE FEASTS OCCURRING WITHIN THE TRIODION AND PENTIKOSTARION PERIODS
+**CHART OF FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)**
+**FROM JANUARY 11 UNTIL MAY 25 OF THE JULIAN CALENDAR (JC) [CONTAINING ALSO THE CORRESPONDING DATES OF THE GREGORIAN CALENDAR (GC)]**
+**CONTAINING THE 18 IMMOVABLE FEASTS OCCURRING WITHIN THE TRIODION AND PENTIKOSTARION PERIODS**
 
-#### Interpretive Rules (*Ἑρμηνευτικοὶ τούτου κανόνες*)
+**Interpretive Rules (*Ἑρμηνευτικοὶ τούτου κανόνες*)**
 
     It was deemed important and necessary for priests and chanters to know, or at least to find more readily the solution to perplexities and rubrical difficulties occasioned by the concurrence of the so-called immovable feasts—namely, those of the Menologion (*Μηνολόγιον*)—with the movable feasts of the Triodion and Pentecostarion periods. Now while the Typikon provides an adequate exposition concerning each individual concurrence, nonetheless a systematic chart, such as the one that follows, affords greater facility and satisfies the scholarly inquiry of the diligent student. 
 
@@ -1551,7 +1547,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ἑρμηνευτικοὶ Κανόνες: Κανόνες Α΄, Β΄, Γ΄
 
-### [ΚΑΝΟΝΕΣ Α΄, Β΄, Γ΄]
+**[ΚΑΝΟΝΕΣ Α΄, Β΄, Γ΄]**
 
     Α΄. Τὸ Ἅγιον Πάσχα ταλαντεύεται ἐντὸς τοῦ μεταξὺ τῆς ΚΒ΄ Μαρτίου-ΙΗ καὶ ΚΕ΄ Ἀπριλίου-ΙΗ [Ἀπριλίου 4-ΓΗ— Μαΐου 8-ΓΗ] ἐκ τριάκοντα τεσσάρων ἡμερῶν διαστήματος· ἑπομένως καὶ ἡ τοῦ Τριῳδίου ἔναρξις κινεῖται ἐντὸς τοῦ ἀπὸ τῆς ΙΑ΄ Ἰανουαρίου-ΙΗ μέχρι τῆς ΙΓ΄ Φεβρουαρίου-ΙΗ [Ἰανουαρίου 24-ΓΗ — Φεβρουαρίου 28-ΓΗ] χρονικοῦ χώρου· τῶν δ’ ἐν ταῖς δυσὶ πρώταις στήλαις τοῦ Πίνακος ἑκάστης ἑορτῆς κειμένων ἀριθμῶν, οἱ πρῶτοι μὲν δεικνύουσι τὰς ἡμερομηνίας ἀφ’ ὧν, ὅταν ἄρχηται τὸ Τριῴδιον, συμπίπτει τὸ Πάσχα εἰς τὴν ὑπὸ τῆς δευτέρας στήλης δεικνυομένην ἡμερομηνίαν, ἀπέναντι δὲ τῶν ἀριθμῶν τούτων σημειοῦνται αἱ ἡμέραι καὶ ἑβδομάδες τοῦ Τριῳδίου ἢ τοῦ Πεντηκοσταρίου, καθ’ ἃς συμπίπτει ἐν ἑκάστῳ ἔτει ἡ ζητουμένη ἑορτή· καὶ ἐν τῇ τελευταίᾳ στήλῃ σημειοῦνται οἱ ἐν τῷ Τυπικῷ ἀριθμοὶ τῶν παραγράφων τῆς Τυπικῆς Διατάξεως, ἐν αἷς διασαφηνίζονται τὰ τῆς ἱερᾶς Ἀκολουθίας κατὰ τὴν ἡμέραν ἐκείνην. Παραδείγματος χάριν, ἐπιθυμοῦμεν ἵνα γνωρίζωμεν κατὰ τὸ ͵αωπθ΄ (1889) ἔτος ἡ ἑορτὴ τῆς Ὑπαπαντῆς ἐν τίνι ἡμέρᾳ καὶ ἐν τίνι ἑβδομάδι τοῦ Τριῳδίου συμπίπτει· εὑρίσκομεν τὴν ἡμερομηνίαν τοῦ Πάσχα τοῦ ἔτους ἐκείνου, ἥτις ἐστὶν ἡ Θ΄ Ἀπριλίου, εἶτα βλέπομεν ἐν ταῖς δυσὶ στήλαις τῆς ἑορτῆς ταύτης, καὶ εὑρίσκομεν ἐν μὲν τῇ α΄ στήλῃ τὸν ἀριθμὸν κθ΄, ὅς ἐστιν ἡ ἡμερομηνία τῆς ἐνάρξεως τοῦ Τριῳδίου κατὰ τὸ ἔτος ἐκεῖνο, ἐν δὲ τῇ β΄ στήλῃ τὸ ἀριθμὸν θ΄ Ἀπριλίου, ὅς ἐστιν ἡ ἡμερομηνία τοῦ Πάσχα τοῦ ἔτους ἐκείνου, ἀπέναντι δὲ τῶν ἀριθμῶν τούτων σημειοῦνται καὶ ἡ τοῦ Τριῳδίου ἑβδομάς, ὡς καὶ ἡ ἡμέρα ἐν ᾗ συμπίπτει ἡ ἑορτή, ἔστι δὲ ἡ πέμπτη τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος.
 
@@ -1563,7 +1559,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Interpretive Rules for the Chart of Feasts: Rules 1, 2, and 3
 
-### Rules 1, 2, and 3 (*Κανόνες Α΄, Β΄, Γ΄*)
+**Rules 1, 2, and 3 (*Κανόνες Α΄, Β΄, Γ΄*)**
 
 1. Holy Pascha [Easter] may occur between March 22-JC and April 25-JC [between April 4-GC and May 8-GC], a thirty-four day period [comprising 35 calendar dates inclusively]. Therefore, the beginning of the Triodion period may occur between January 11-JC and February 13-JC [between January 24-GC and February 28-GC]. The first column of the Chart indicates the beginning date of the Triodion period; the second column indicates the date of Holy Pascha [Easter]. The third column shows the date and name of each of the 18 immovable feasts and, below it, the days of the movable feasts with which each immovable feast may coincide; and the fourth column displays the paragraph and page numbers in the present work where the rubrical order of service for each concurrence is set forth in detail. We provide the following concrete example: if we desire to know in the year 1889 on which day and in which week of the Triodion period the Feast of the Meeting of the Lord (*Hypapante* / *Presentation*) occurs, we first determine the date of Pascha for that year—which in this case is April 9. We then examine the first two columns under this feast, where we find in the first column the number 29 [i.e., January 29], which represents the date of the beginning of the Triodion period in that year; in the second column we find April 9, which represents the date of Holy Pascha for that year. In the third column, directly across from those dates, the table designates the precise week and day of the Triodion period upon which this immovable feast falls—which in this case is the Thursday of the Week of the Publican and the Pharisee.
 
@@ -1579,7 +1575,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ἑρμηνευτικοὶ Κανόνες: Κανὼν Δ΄ (Μέρος Α΄)
 
-### [ΣΗΜΕΙΩΣΙΣ ΠΕΡΙ ΤΗΣ ΣΧΕΣΕΩΣ ΑΚΙΝΗΤΩΝ ΚΑΙ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΚΑΙ ΚΑΝΩΝ Δ΄]
+**[ΣΗΜΕΙΩΣΙΣ ΠΕΡΙ ΤΗΣ ΣΧΕΣΕΩΣ ΑΚΙΝΗΤΩΝ ΚΑΙ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΚΑΙ ΚΑΝΩΝ Δ΄]**
 
     [Σημειωτέον ὅτι ἡ σχέσις ἀκινήτων καὶ κινητῶν ἑορτῶν διαφέρει μεταξὺ τοῦ Ἰουλιανοῦ καὶ τοῦ Γρηγοριανοῦ Ἡμερολογίου (ὅρα Comparative Outline of Movable Feasts between the Julian and Gregorian Calendar, σελ. 926). Κατὰ τὸ Γρηγοριανὸν Ἡμερολόγιον, ἐν ᾧ τὸ Τριῴδιον ἄρχεται 24 Ἰανουαρίου (13 ἡμέρας ἀργότερον τῆς ἡμερομηνίας ἐνάρξεως εἰς τὸ Ἰουλιανὸν Ἡμερολόγιον) αἱ πρῶται τέσσαρες ἀκίνητοι ἑορταὶ εἰς τὸν Πίνακα—11, 17, 18 καὶ 20 Ἰανουαρίου—δὲν πρόκειται πλέον νὰ συμβοῦν ἐντὸς τοῦ Τριῳδίου. Ἡ πρώτη πιθανὸν ἐνωρίτερη ἀκίνητος ἑορτὴ ἡ ὁποία δύναται νὰ συμβῇ ἐντὸς τοῦ Τριῳδίου εἶναι 25 Ἰανουαρίου, Γρηγορίου τοῦ Θεολόγου. Ἐπίσης δέ, ἐπειδὴ τὸ τέλος τῶν κινητῶν ἑορτῶν (Κυριακὴ τῶν Ἁγίων Πάντων) πρόκειται ἵνα καθυστερηθῇ μέχρι 3 Ἰουλίου, τρεῖς ἐπιπρόσθεται ἀκίνητοι ἑορταὶ δύνανται νὰ συμβοῦν ἐντὸς τοῦ Πεντηκοσταρίου, ἤτοι 24 Ἰουνίου, τὸ Γενέθλιον τοῦ Ἰωάννου τοῦ Βαπτιστοῦ· 29 Ἰουνίου, Πέτρου καὶ Παύλου τῶν Ἀποστόλων· καὶ 30 Ἰουνίου, τῶν 12 Ἀποστόλων.]
 
@@ -1589,7 +1585,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Interpretive Rules for the Chart of Feasts: Rule 4 (Part 1)
 
-### Editorial Note on Calendar Variation and Rule 4 (Part 1) (*Κανὼν Δ΄, Μέρος Α΄*)
+**Editorial Note on Calendar Variation and Rule 4 (Part 1) (*Κανὼν Δ΄, Μέρος Α΄*)**
 
     [It should be noted, however, that the relationship between immovable and movable feasts in the Gregorian Calendar differs from that in the Julian Calendar (see the Comparative Outline of Movable Feasts, p. 926). In accordance with the Gregorian Calendar, where the Triodion period begins on 24 January (13 days later than the date of beginning in the Julian Calendar) the first four immovable feasts listed in the Chart — 11, 17, 18 and 20 January — will no longer fall within the Triodion period. The earliest possible immovable feast to fall within the Triodion period will now be 25 January, St. Gregory the Theologian. Similarly, since the end of the movable feasts (Sunday of All Saints) will now be delayed until 3 July, three more immovable feasts may possibly fall within the Pentikostarion period: 24 June, the Nativity of John the Baptist; 29 June, Peter and Paul the Apostles; and 30 June, the 12 Apostles.]
 
@@ -1607,7 +1603,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ἑρμηνευτικοὶ Κανόνες: Κανὼν Δ΄ (Συνέχεια) καὶ Κανὼν Ε΄
 
-### [ΣΥΝΕΧΕΙΑ ΚΑΝΟΝΟΣ Δ΄ ΚΑΙ ΚΑΝΩΝ Ε΄]
+**[ΣΥΝΕΧΕΙΑ ΚΑΝΟΝΟΣ Δ΄ ΚΑΙ ΚΑΝΩΝ Ε΄]**
 
     μέχρι τέλους, ἔρχονται ἀπέναντι τοῦ Πασχαλίου ἀριθμοῦ. Ἐκ τοῦ παραλληλισμοῦ δύο ἑορτῶν, μιᾶς μὲν συμπιπτούσης πρὸ τῆς ΚΘ΄ Φεβρουαρίου, ἑτέρας δὲ συμπιπτούσης μετὰ τὴν ΚΘ΄, ἀποδεικνύονται σαφῶς τὰ προειρημένα. Παραδείγματος χάριν, ἡ ἑορτὴ τῆς Ὑπαπαντῆς, ἥτις ἐστὶ μία τῶν πρὸ τῆς ΚΘ΄ Φεβρουαρίου ἑορτῶν, ἐν μὲν τῷ μὴ Βισέκτῳ ἔτει ͵αωπθ΄ (1889) συμπίπτει τῇ Πέμπτῃ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος (ὡς προείρηται ἐν § Α΄), ἐν δὲ τῷ Βισέκτῳ ͵αϡ΄ (1900) τῇ Τετάρτῃ τῆς αὐτῆς ἑβδομάδος. Ἡ ἑορτὴ ὅμως τοῦ Εὐαγγελισμοῦ, ἥτις ἐστὶ μετὰ τὴν ἐμβόλιμον τῆς ΚΘ΄ Φεβρουαρίου, συμπίπτει κατ’ ἀμφότερα τὰ ἔτη ἐν μιᾷ καὶ τῇ αὐτῇ ἡμέρᾳ ἤτοι τῷ Σαββάτῳ τῆς Ε΄ Ἑβδομάδος· τοιουτοτρόπως σκεπτέον καὶ περὶ πάσης ἄλλης ζητουμένης ἑορτῆς πρὸς ἄρσιν τῆς φαινομενικῆς ἀνωμαλίας τῶν ἡμερῶν τοῦ Πίνακος ἐπὶ τῇ συμπτώσει Βισέκτου ἔτους.
 
@@ -1617,7 +1613,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Interpretive Rules for the Chart of Feasts: Rule 4 and Rule 5
 
-### Conclusion of Rule 4 and Rule 5 (*Κανὼν Δ΄, Τέλος καὶ Κανὼν Ε΄*)
+**Conclusion of Rule 4 and Rule 5 (*Κανὼν Δ΄, Τέλος καὶ Κανὼν Ε΄*)**
 
     addition of one more day (i.e., February 29), we delay the opening date of the Triodion period by one day. In like manner, we delay the concurring movable feasts by one date as well. As another illustrative example for clarification, consider two immovable feasts occurring respectively before and after February 29: the first, namely the Feast of the Meeting of the Lord (*Hypapante* / *Presentation*), being one of the feasts prior to February 29, in a common year (1889) occurs on Thursday of the Week of the Publican and the Pharisee (as indicated in column 3); in the leap year (1900), however, it occurs on Wednesday of that same week. The Feast of the Annunciation, on the other hand, since it occurs after February 29, falls in both years upon one and the same day—that is, the Saturday of the Fifth Week of Great Lent. In this identical manner all other feasts of the Chart can be determined.
 
@@ -1631,8 +1627,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Πίναξ τοῦ Ἑορτοδρομίου: Ὁδηγίαι
 
-### ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ
-### Ἴδε τὰς Ἀκολούθους Σελίδας
+**ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ**
+**Ἴδε τὰς Ἀκολούθους Σελίδας**
 
     Σημείωσις· Ἡ πρώτη ἡμερομηνία εἰς τὰς δύο πρώτας στήλας εἶναι τοῦ Ἰουλιανοῦ Ἡμερολογίου [ΙΗ]. Ἡ ἡμερομηνία ἐντὸς παρενθέσεων εἶναι ἡ Ἰουλιανὴ ἡμερομηνία ἐφηρμοσμένη εἰς τὴν ἀκριβῆ ἀντίστοιχόν της ἡμερομηνίαν εἰς τὸ Γρηγοριανὸν Ἡμερολόγιον [ΓΗ], ἤτοι 13 ἡμέρας ἀργότερον.
 
@@ -1642,8 +1638,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Chart of the Feasts: Explanatory Guidelines
 
-### CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)
-### See the Following Pages
+**CHART OF THE FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)**
+**See the Following Pages**
 
     Note: The first date in each of the first two columns is that of the Julian Calendar [JC]. The date in parentheses appearing next to it is the Julian date adjusted to its exact counterpart in the Gregorian Calendar [GC], that is, 13 days later in each instance.
 
@@ -1657,7 +1653,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 11, 17, 18 Ἰανουαρίου
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -1679,7 +1675,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 11, 17, 18 January (Part 1)
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ*)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ*)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -1705,7 +1701,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 18, 20, 25 Ἰανουαρίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -1740,6 +1736,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 18, 20, 25 January (Part 1)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **[18 January: Athanasios and Cyril — Continued]** | | | |
@@ -1773,7 +1771,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25, 27 Ἰανουαρίου
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -1811,6 +1809,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 25, 27 January (Part 1)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **[25 January: Gregory the Theologian — Continued]** | | | |
@@ -1847,7 +1847,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 27, 30 Ἰανουαρίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ὁσίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -1874,6 +1874,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 27, 30 January (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -1905,7 +1907,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 30 Ἰανουαρίου (Συνέχεια), 2 Φεβρουαρίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -1941,6 +1943,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 30 January, 2 February (Part 1)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **April (Paschal Dates — The Three Hierarchs Continued)** | | | |
@@ -1971,15 +1975,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 | January 23 (5 February) | April 3 (16) | Wednesday | §§ 1–3 (pp. 170–173) |
 | January 24 (6 February) | April 4 (17) | Tuesday | §§ 1–3 (pp. 170–173) [Greek: §§ 5–7 (pp. 182–183)] |[^540]
 
----
-
-[*] *Epigraphic Corrigenda on Facing English Page (p. 947):* In the printed English text, several numerical lapses occur: under the Three Hierarchs, lines 29 and 30 misprint the Gregorian dates as "29 (9)" and "30 (10)" instead of 29 (11 February) and 30 (12 February). In the Presentation section (Column 4), the printed English shifts the rubrical section references up by one row starting from January 18 (assigning Monday §§ 11–13, Sunday of Meatfare § 19, and Saturday of Souls §§ 1–3), which contradicts the Greek original on p. 946. These discrepancies are reconciled to the Greek archetype.
-
 # Appendix: The Paschalion & Table of Feasts
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 2 Φεβρουαρίου (Συνέχεια), 10 Φεβρουαρίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2008,6 +2008,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 2 February, 10 February (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2041,7 +2043,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 10 Φεβρουαρίου (Συνέχεια), 24 Φεβρουαρίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ἁγίου / τῆς Ἑορτῆς συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2074,6 +2076,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 10 February, 24 February (Part 1)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **April (Paschal Dates — Saint Charalambos Continued)** | | | |
@@ -2101,15 +2105,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 | **24 February: The First and Second Finding of the Venerable Head of the Forerunner** | | | |
 | January 11 (24) | March 22 (4 April) | Tuesday of the 4th Week of the Great Fast | §§ 6–8 (pp. 191–192) [and § 17 (p. 195)] |[^542]
 
----
-
-[*] *Epigraphic Corrigenda on Printed Numerals:* On physical leaves p965 and p966 (printed pages 950–951), Column 1 contains a systematic printing erratum: the Julian dates 21 through 31 January are printed with Gregorian counterparts "21 (6)" through "31 (16)", miscalculating the Gregorian shift as +16 days instead of the solar +13 days (which yield 3 February through 13 February). Furthermore, the page numbers cited in Column 4 of the Greek text err in citing pages "172–175" for the pre-Lenten Sundays instead of pages 182–183; these have been corrected in alignment with the actual pagination of the Saliveros edition and the facing English text.
-
 # Appendix: The Paschalion & Table of Feasts
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 24 Φεβρουαρίου (Μέρος Β΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Προδρόμου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2151,6 +2151,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 24 February (Part 2)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **[24 February: Finding of the Head of the Forerunner — Continued]** | | | |
@@ -2187,15 +2189,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 | February 9 (22) | April 20 (3 May) | Monday | § 3 (p. 191) [English printed: § 1 (p. 190)] |
 | February 10 (23) | April 21 (4 May) | † Sunday of Meatfare | § 2 (p. 191) [English printed: § 3 (p. 191)] |[^543]
 
----
-
-[*] *Epigraphic Corrigenda on Facing English Page (p. 953):* In the printed English edition, physical leaf p968 displays multiple critical typesetting anomalies: In the top table, Column 4 references are shifted by one row, and line 17 contains the garbled compositing error "9 (1926-8 (191)". In the middle table under April Paschal dates, the English typesetter omitted Wednesday on line 24 (Julian Jan 24), shifting Tuesday to line 24, Monday to line 25, Sunday of Orthodoxy to line 26, Saturday to line 27, Friday to line 28, Thursday to line 29, Wednesday to line 30, and completely dropping line 31 (Julian Jan 31). In this critical edition, the correct sequence of days and the missing line 31 have been restored from the Greek archetype on leaf p967.
-
 # Appendix: The Paschalion & Table of Feasts
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 24 Φεβρουαρίου (Τέλος), 9 Μαρτίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ἁγίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2227,6 +2225,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 24 February, 9 March (Part 1)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **[24 February: Finding of the Head of the Forerunner — Conclusion]** | | | |
@@ -2253,15 +2253,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 | January 26 (8 February) | April 6 (19) | † Sunday of the Adoration of the Cross (3rd Sunday of Lent) | § 13 (p. 201) [English printed: §§ 8–10 (pp. 198–200)] |
 | January 27 (9 February) | April 7 (20) | Saturday of the 3rd Week of Lent | § 6 (pp. 197–198) [English printed: § 13 (p. 201)] |[^544]
 
----
-
-[*] *Epigraphic Corrigenda on Facing English Page (p. 955):* On physical leaf p970, the printed English text contains multiple egregious typographical errors: In the top table, the Paschal dates are misprinted as '4 May', '5 May', and '6 May' instead of April (Julian April 22, 23, and 24 correspond to Gregorian May 5, 6, and 7, whereas the printer conflated Julian April dates with Gregorian May dates in reverse). Furthermore, the typographer set '1 (1190)' instead of '1 (190)'. In the Forty Martyrs table under April, the Column 4 paragraph citations are staggered and displaced from the Greek original on p. 954; all references have been reconciled with the canonical Greek archetype.
-
 # Appendix: The Paschalion & Table of Feasts
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 9 Μαρτίου (Συνέχεια), 25 Μαρτίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2293,6 +2289,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 9 March, 25 March (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2329,7 +2327,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαρτίου (Μέρος Β΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2363,6 +2361,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 25 March (Part 2)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2401,7 +2401,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαρτίου (Τέλος), 23 Ἀπριλίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2431,6 +2431,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 25 March, 23 April (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2465,7 +2467,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 23 Ἀπριλίου (Τέλος)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2497,6 +2499,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 23 April
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2533,7 +2537,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Ἀπριλίου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2559,6 +2563,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 25 April (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2589,7 +2595,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Ἀπριλίου (Συνέχεια), 2 Μαΐου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2624,6 +2630,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 25 April, 2 May (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2663,7 +2671,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 2 Μαΐου (Μέρος Β΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2697,6 +2705,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 2 May (Part 2)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2735,7 +2745,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 2 Μαΐου (Τέλος), 8 Μαΐου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2765,6 +2775,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 2 May, 8 May (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2799,7 +2811,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 8 Μαΐου (Τέλος), 21 Μαΐου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2831,6 +2843,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 8 May, 21 May (Part 1)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2867,7 +2881,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 21 Μαΐου (Μέρος Β΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2901,6 +2915,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 # Appendix: The Paschalion & Table of Feasts
 
 ## The Chart of the Feasts: 21 May (Part 2)
+
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -2939,7 +2955,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 21 Μαΐου (Συνέχεια), 25 Μαΐου (Μέρος Α΄)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -2970,6 +2986,8 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 21 May, 25 May (Part 1)
 
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
+
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **[May (Triodion Dates — Saints Constantine and Helen Continued)]** | | | |
@@ -2995,15 +3013,11 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 | January 30 (12 February) | April 10 (23) | Wednesday | § 10 (p. 277) |
 | January 31 (13 February) | April 11 (24) | Tuesday | § 10 (p. 277) |[^555]
 
----
-
-[*] *Epigraphic Corrigenda on Facing Pages (pp. 976–977):* In the concluding rows for Saints Constantine and Helen (May 21), the 1888 English column contains a typographical error in the Paschal date column for January 13 (26), printing "14 (7 May)" instead of 24 (7 May); the Greek text on leaf p991 correctly reads "24 (7)". Column 4 exhibits slight vertical typographic displacement: the Greek archetype leaves Thursday unannotated, printing §§ 1–2 (p. 266) opposite Wednesday, §§ 1–2 (p. 266) opposite Tuesday, and § 3 (pp. 266–267) opposite Monday; the facing English column on leaf p992 restores § 6 (p. 267) to Thursday, §§ 3–5 (pp. 266–267) to Wednesday of the Apodosis of Mid-Pentecost, and §§ 1–2 (p. 266) uniformly across Tuesday, Monday, Samaritan Sunday, and Saturday of the Paralytic. In the opening rows for the Third Finding of the Head of the Forerunner (May 25), non-canonical phrasing in the 1888 English column for the Apodosis of Mid-Pentecost and Pentecost is rectified to canonical "Apodosis" per MTS-1; and the English typographical error in row January 24 ("4 (17 Aril)") is emended to April.
-
 # Appendix: The Paschalion & Table of Feasts
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαΐου (Μέρος Β΄ — Τέλος τοῦ Ἑορτοδρομίου)
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια καὶ Τέλος)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια καὶ Τέλος)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -3030,7 +3044,9 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## The Chart of the Feasts: 25 May (Part 2 of the Eortodromion)
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Conclusion)**
+
+| Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
 | **[February (Triodion Dates — Third Finding of the Head of the Forerunner Conclusion)]** | | | |
 | February 1 (14) | April 12 (25) | Monday | § 10 (p. 277) & § 6 (p. 276) |
@@ -3047,18 +3063,14 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 | February 12 (25) | April 23 (6 May) | Thursday | § 10 (p. 277) [Greek: §§ 1–2 (p. 275)] |
 | February 13 (26) | April 24 (7 May) | Wednesday of the Apodosis of Mid-Pentecost | §§ 1–2 (p. 275) |[^556]
 
----
-
-[*] *Epigraphic Corrigenda on Facing Pages (pp. 978–979):* Physical leaves p993 and p994 mark the formal conclusion of the perpetual concurrence tables (*Ἑορτοδρόμιον*) of the 1888 Violakis Typikon. In the lower rows of the table (February 10–13), slight vertical typesetting drift occurs between the Greek archetype and the 1888 English facing translation: on leaf p993, § 10 (p. 277) is printed opposite Saturday of the week of the Samaritan Woman and Friday, while §§ 1–2 (p. 275) is placed opposite Thursday, leaving Wednesday unannotated; on facing leaf p994, the English compositor placed § 10 (p. 277) opposite Thursday and Friday, and assigned §§ 1–2 (p. 275) to Wednesday of the Apodosis of Mid-Pentecost, leaving Saturday blank. Both witness tracks are reconciled in this critical edition. Non-canonical phrasing in the 1888 English column for the Apodosis of Pascha and the Apodosis of Mid-Pentecost is rectified to canonical "Apodosis" per MTS-1.
-
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Half-Title Page [Demos, p. 980 / TD-1]
 
-# DICTIONARY OF TERMS RELATED TO THE TYPIKON
+## DICTIONARY OF TERMS RELATED TO THE TYPIKON
 
-### Compiled, adapted, and edited by
-### GEORGE T. DEMOS, MD
+**Compiled, adapted, and edited by**
+**GEORGE T. DEMOS, MD**
 
 *(Unnumbered Title Page / TD-1)*
 
@@ -3066,7 +3078,7 @@ If there are many priests concelebrating, after each of these Evlogitaria they c
 
 ## Introduction to This Dictionary (Part 1) [Demos, p. 981 / TD-2]
 
-### INTRODUCTION TO THIS DICTIONARY
+**INTRODUCTION TO THIS DICTIONARY**
 
 This dictionary was compiled from various sources and defines each term either as it is used in this Typikon by George Violakis, the former First Chanter (*Protopsaltis*) of the Patriarchate of Constantinople, (published in Constantinople in 1888 and subsequently reprinted several times by the publishing firm of Vasilios Saliveros in Athens, Greece), or in other works generally concerning the order of the sacred services of the Greek Orthodox Church.
 
@@ -3083,6 +3095,8 @@ When the abbreviation *Slav.* is used, it denotes the term in transliterated Sla
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Introduction to This Dictionary (Part 2) [Demos, p. 982 / TD-3]
+
+**INTRODUCTION TO THIS DICTIONARY (Continued)**
 
 *Slavic and East European Journal* (SEEJ) and used by many academic institutions.
 
@@ -3102,7 +3116,7 @@ Finally, I express my gratitude to Theodore Bogdanos, Professor Emeritus of Medi
 
 ## Introduction to This Dictionary (Acknowledgements) [Demos, p. 983 / TD-4]
 
-### ACKNOWLEDGEMENTS
+**ACKNOWLEDGEMENTS**
 
 I am indebted to the following clergymen for their counsel on several critical points:
 
@@ -3119,7 +3133,7 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letter A) [Demos, p. 984 / TD-5]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3160,7 +3174,7 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters B–E) [Demos, p. 985 / TD-6]
 
-)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3201,15 +3215,11 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 | Compline | 44 | Ektenis | 64 |
 | *Confessor | 44 | Engolpion | 64 |[^559]
 
----
-
-[*] *Editorial Note on the Typikon Dictionary (pp. TD-5–TD-6):* Physical leaves p999 and p1000 record the opening alphabetical index (Letters A through E) of the comprehensive *Dictionary of Terms Related to the Typikon* compiled by George T. Demos, MD, appended to the 2007 Athens/Denver bilingual edition of the 1888 Violakis Typikon. In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, entries designating *Apolytikia* are translated and harmonized to canonical "Dismissal Troparion", and non-canonical variants are cross-referenced to canonical UGCC equivalents (*Tone* for *Mode*, *Dormition* for *Assumption*, *Pascha* for *Easter*).
-
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters E–I) [Demos, p. 986 / TD-7]
 
-)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3254,7 +3264,7 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters I–M) [Demos, p. 987 / TD-8]
 
-)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3295,15 +3305,11 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 | Keros | 84 | Great Synapti (*Megali Synapti*) | 98 |
 | *Dormition (*Kimisis*) | 85 | *Megalynarion | 98 |[^560]
 
----
-
-[*] *Editorial Note on the Index (pp. TD-7–TD-8):* Liturgical terms in this index segment are harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon. Greek and Slavonic loan terms are aligned with canonical UGCC usage, including *Communion Hymn* (*Kinonikon*), *Heirmos* (*Irmos*), *Apodosis* (*Leave-taking*), *Litiya* (*Liti*), *Sessional Hymn* (*Kathisma Hymn*), and *Dormition* (*Kimisis*).
-
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters M–P) [Demos, p. 988 / TD-9]
 
-)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3340,13 +3346,13 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 | Temple / Church (*Naos*) | 105 | Patriarchal Pastoral Staff (*Patriarchiki Pimantoriki Ravdos*) | 112 |
 | Narthex | 105 | Pentikostarion | 113 |
 | Nave | 106 | Phrase | 113 |
-| Nekrosimon | 106 | | |
+| Hymn for the Departed (Поко́инъ) | 106 | | |
 
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters P–S) [Demos, p. 989 / TD-10]
 
-)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3387,15 +3393,11 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 | Psalm 118 [LXX 118 / MT 119] | 120 | Sessional Hymn | 131 |
 | Psalm 119 [LXX 119 / MT 120] | 121 | Sexton | 131 |[^561]
 
----
-
-[*] *Editorial Note on the Index (pp. TD-9–TD-10):* Non-canonical variants in this index section have been harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon. Entries for (*Post-feast*) and (*Pre-feast*) (lit. 'Post-feast' and 'Pre-feast') are indexed under canonical *Afterfeast* and *Forefeast*, *Mode* under *Tone*, and *Kathisma Hymn* under *Sessional Hymn*. Psalter references are harmonized with the Septuagint (LXX) canon with Masoretic (MT) versification supplied in brackets.
-
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters S–V) [Demos, p. 990 / TD-11]
 
-)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -3440,7 +3442,9 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters Y–Z and Bibliography) [Demos, p. 991 / TD-12]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (| Term / Entry | Source Page | Term / Entry | Source Page |
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Conclusion)**
+
+| Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
 | **Y.** | **172–173** | **Z.** | **173** |
 | Hypakoe (*Ypakoi*) | 172 | Zeon (Warm Water) | 173 |
@@ -3449,15 +3453,11 @@ Rev. Protopresbyter Robert T. Athas, translator of the Violakis Typikon.
 | | | | |
 | **Bibliography** | | Dictionary Bibliography | 174 |[^562]
 
----
-
-[*] *Editorial Note on the Typikon Index (pp. TD-11–TD-12):* Physical leaves p1005 and p1006 conclude the preliminary *Brief Alphabetical Index of Typikon Related Terms* (pp. TD-5 to TD-12) preceding the main text of the dictionary. All entries have been harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, ensuring complete cross-referencing between traditional Greek transliterations, Slavonic equivalents, and canonical English nomenclature.
-
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Extended Dictionary of Typikon Related Terms (Letters A–Aetos) [Demos, p. 992 / TD-13]
 
-### EXTENDED DICTIONARY OF TYPIKON RELATED TERMS
+**EXTENDED DICTIONARY OF TYPIKON RELATED TERMS**
 
 **ABSTINENCE** (ἐγκράτεια, ἡ [*ἐγκράτια*]). See also **FAST**: A penitential practice in Christianity consisting of voluntary deprivation of certain foods for religious reasons. In the Orthodox Church, days of abstinence are observed on Wednesdays and Fridays, or other specific periods, such as Great Lent. (FL)
 
@@ -3735,7 +3735,7 @@ event celebrated on that day. According to liturgical commentators, it is termed
 
 **DISMISSAL TROPARION FOR...** (name of saint or event) (lit. 'Apolytikion for...'): This liturgical title designates a common Dismissal Troparion belonging to a general category of saints sharing a similar life or martyr's struggle. This classification corresponds to the saint's title in the Synaxarion, such as “martyr,” “confessor,” “venerable monastic,” or “hieromartyr.”
 
-The Dismissal Troparion is also sung at the conclusion of the Divine Liturgy, at Matins, and at the Small Hours. The Dismissal Troparion (lit. 'Apolytikion') changes according to the liturgical calendar to commemorate the feast of the day. For example, the Dismissal Troparion of the Nativity of Christ is: **“Thy Nativity, O Christ our God, hath shone upon the world the light of knowledge...”** (*«Ἡ Γέννησίς Σου, Χριστὲ ὁ Θεὸς ἡμῶν...»*). The Dismissal Troparion for the Annunciation is: **“Today is the fountainhead of our salvation and the manifestation of the eternal mystery: the Son of God becometh the Son of the Virgin, and Gabriel announceth the good tidings of grace. Therefore, let us also cry aloud with him unto the Mother of God: Rejoice, full of grace, the Lord is with thee!”** (*«Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον...»*).
+The Dismissal Troparion is also sung at the conclusion of the Divine Liturgy, at Matins, and at the Small Hours. The Dismissal Troparion (lit. 'Apolytikion') changes according to the liturgical calendar to commemorate the feast of the day. For example, the Dismissal Troparion of the Nativity of Christ is: **“Thy Nativity, O Christ our God, hath shone upon the world the light of knowledge...”** (*«Ἡ Γέννησίς Σου, Χριστὲ ὁ Θεὸς ἡμῶν...»*). The Dismissal Troparion for the Annunciation is: **“Today is the fountainhead of our salvation and the manifestation of the eternal mystery: the Son of God becomes the Son of the Virgin, and Gabriel announces the good tidings of grace. Therefore, let us also cry aloud with him unto the Mother of God: Rejoice, full of grace, the Lord is with thee!”** (*«Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον...»*).
 
 **DISMISSAL TROPARION OF...** (name of saint) (*Ἀπολυτίκιον τοῦ (δεῖνος)*; lit. 'Apolytikion of...'): This rubric denotes a proper Dismissal Troparion composed uniquely for the specific saint or commemoration named in the title.
 
@@ -3847,7 +3847,7 @@ There are Nine Biblical Canticles appointed for liturgical use at Matins (*Ὄρ
 2. The (Second) Song of Moses (**"Give ear, O heavens"**, Deuteronomy 32:1–43)
 3. The Prayer of Hannah, the mother of Samuel the Prophet (**"My heart is established in the Lord"**, 1 Kingdoms 2:1–10 LXX [1 Samuel 2:1–10])
 4. The Prayer of the Prophet Habakkuk (**"O Lord, I have heard Thy report, and was afraid"**, Habakkuk 3:2–19 LXX)
-5. The Prayer of the Prophet Isaiah (**"From night until morning my spirit seeketh Thee early"**, Isaiah 26:9–20 LXX)
+5. The Prayer of the Prophet Isaiah (**"From night until morning my spirit seeks Thee early"**, Isaiah 26:9–20 LXX)
 6. The Prayer of the Prophet Jonah (**"I cried in mine affliction unto the Lord"**, Jonah 2:2–9 LXX)
 *7. The Prayer of the Three Holy Children in the Furnace (**"Blessed art Thou, O Lord God of our fathers"**, Daniel 3:26–56 LXX)
 *8. The Song of the Three Holy Children (**"Bless the Lord, all ye works of the Lord"** / *The Benedicite*, Daniel 3:57–88 LXX)
@@ -4036,7 +4036,7 @@ Protestant communions do not classify these sacred books as canonical Scripture;
 
 **DIAKONIKON** (*διακονικόν, τό*; Slav. *Diakonik*): The Diakonikon is the sacred vestry and liturgical repository situated on the south side within the **SANCTUARY**, where sacred vessels, vestments, and liturgical appointments are stored. The holy icon traditionally enshrined here depicts either the Resurrection (**"The Resurrection"** / *῾Η ᾿Ανάστασις*) or the Extreme Humility of Christ (**"The Extreme Humility"** / *ἄκρα ταπείνωσις*). It is likewise in the Diakonikon that icons brought by the faithful for blessing remain deposited for forty days.[^593]
 
-### The PROTHESIS, the DIAKONIKON, and the SKEVOPHYLAKION
+**The PROTHESIS, the DIAKONIKON, and the SKEVOPHYLAKION**
 
 The **SANCTUARY** of the Church is the Holy of Holies, wherein man, through the grace of God, unites with the angelic hosts in offering unceasing thanksgiving and glory to our Heavenly Father. Notwithstanding its mystical transcendence, the Sanctuary functions with precise liturgical efficiency. Like the **NARTHEX** and the **NAVE**, the Sanctuary is architecturally disposed to serve the ritual actions of the clergy who officiate at the Divine Services.
 
@@ -4263,7 +4263,7 @@ Hymns of Praise (*Τροπάρια τῶν Αἴνων* / Stichira at the Praise
 
 **EPIGONATION** (*᾿Επιγονάτιον, τό*; Slav. *Palitsa*; cf. *Nabedrennik*): A liturgical vestment awarded as an ecclesiastical distinction. The term derives from the Greek *epi gonatos* ("upon the knee"). It consists of a stiff, diamond-shaped (rhomboid) fabric suspended from one corner by a ribbon worn over the left shoulder, hanging at the right knee below the waist. In the Greek tradition, it signifies that a presbyter holds advanced theological degrees and possesses the episcopal blessing to serve as a spiritual father (*Pnevmatikos*) and hear confessions. In the Slavic tradition, it is awarded as a liturgical honor for distinguished service; when a presbyter is awarded both the oblong *nabedrennik* (thigh-shield) and the rhomboid *palitsa* (*epigonation*), he wears the *palitsa* on the right hip and shifts the *nabedrennik* to the left. Liturgically, the Epigonation symbolizes the spiritual sword of the Spirit, which is the Word of God (cf. Ephesians 6:17).
 
-### Historical Origin
+**Historical Origin**
 
 Its historical genesis remains subject to scholarly discussion. According to certain authorities, it derived from a ceremonial decorative thigh-shield awarded to high civil and military dignitaries in the Byzantine Empire. According to others, it originated as an ornamental handkerchief designated the *encheirion* (*ἐγχείριον*, or[^609]
 
@@ -4295,7 +4295,7 @@ When vesting with the right cuff, the Priest prays: **"Thy right hand, O Lord, i
 
 **EPITRACHILION** (*᾿Επιτραχήλιον, τό*; Slav. *Epitrakhil*, *Obvyjnik*): An Eastern liturgical vestment derived from the two Greek words for upon (*epi*) and neck (*trachilos*); functionally equivalent to the Western stole. The principal morphological distinction is that the Epitrachilion is joined together down the front seam, either sewn continuously or fastened by a series of ornamental buttons. It is also broader than the Western stole. It is the indispensable sacerdotal vestment, worn by bishops and priests; a presbyter does not celebrate any divine service or sacred mystery without donning the epitrachilion.
 
-When vesting with the Epitrachilion, the Priest prays: **“Blessed is God Who poureth His grace upon His priests, as ointment upon the head, that runneth down upon the beard, the beard of Aaron, running down to the fringe of his garment (Psalm 132:2 [LXX 132:2 / MT 133:2]); always, now and forever, and unto the ages of ages. Amen.”** («Εὐλογητὸς ὁ Θεός, ὁ ἐκχέων τὴν χάριν αὐτοῦ ἐπὶ τοὺς ἱερεῖς αὐτοῦ· ὡς μύρον ἐπὶ κεφαλῆς, τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ ᾿Ααρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ» [Ψαλμ. 132:2 / MT 133:2]. Πάντοτε νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν.)[^611]
+When vesting with the Epitrachilion, the Priest prays: **“Blessed is God Who pours His grace upon His priests, as ointment upon the head, that runs down upon the beard, the beard of Aaron, running down to the fringe of his garment (Psalm 132:2 [LXX 132:2 / MT 133:2]); always, now and forever, and unto the ages of ages. Amen.”** («Εὐλογητὸς ὁ Θεός, ὁ ἐκχέων τὴν χάριν αὐτοῦ ἐπὶ τοὺς ἱερεῖς αὐτοῦ· ὡς μύρον ἐπὶ κεφαλῆς, τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ ᾿Ααρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ» [Ψαλμ. 132:2 / MT 133:2]. Πάντοτε νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. ᾿Αμήν.)[^611]
 
 # Appendix: Dictionary of Terms Related to the Typikon
 
@@ -4841,7 +4841,7 @@ For an exhaustive and authoritative presentation of the rubrical order of Matins
 
 **MEGALI OKTOICHOS** (*Μεγάλη ᾿Οκτώηχος*): The Great Oktoechos; synonymous with the **PARAKLITIKI**.
 
-**MEGALI SYNAPTI** (*Μεγάλη Συναπτή, ἡ*): The Great Synapte; the Great Litany or Litany of Peace, consisting of an expansive series of petitions chanted by the deacon and concluded with the priestly doxology.
+**MEGALI SYNAPTI** (*Μεγάλη Συναπτή, ἡ*): The Great Synapte; the Great Litany of Peace, consisting of an expansive series of petitions chanted by the deacon and concluded with the priestly doxology.
 
 **MEGALYNARION** (*Μεγαλυνάριον, τό*; Slav. *Velichanie* / *Величаніе*): A hymn of praise and magnification in honor of the Most Holy Theotokos or a sacred feast, chanted following the epiklesis and the hymn **"We praise Thee, we bless Thee"** (*Σὲ ὑμνοῦμεν*) during the Anaphora of the Divine Liturgy. The Megalynarion is frequently the model strophe or **Heirmos** (*Εἱρμός*) of the Ninth Ode of the Canon appointed at Matins for the feast, such as **"Shine, shine, O New Jerusalem"** (*Φωτίζου, φωτίζου*) from the Ninth Ode of the Paschal Canon. On other occasions, the Megalynarion is an independent festive composition, such as **"All of creation rejoices in thee"** (*«᾿Επὶ σοὶ χαίρει»*) chanted at the Divine Liturgy of Saint Basil the Great. The Megalynarion standardly chanted at the Divine Liturgy of Saint John Chrysostom is **"It is truly meet"** (*«῎Αξιόν ἐστιν»*).[^642]
 
@@ -4879,7 +4879,7 @@ Furthermore, the Megalynarion customarily incorporates either at its beginning o
 
 **METASTASIS** (*μετάστασις, ἡ*): See **TRANSLATION** (*μετάστασις, ἡ*; repose or translation unto Heaven).
 
-**METHEORTA** (*μεθέορτα, τά*), **METHEORTIA** (*μεθεόρτια, τά*; Slav. *Poprazdnstvo* / *Попраздνство*): The Greek neuter plural denoting the festal period of the **Afterfeast** (lit. 'post-feast'): This is a liturgical season appended to a Great Feast celebrated in the Byzantine Rite, extending from one to eight days following the principal feast day, during which the mystery of the feast continues to be commemorated in the daily hymnography and prayers. This festal cycle corresponds functionally to the Western liturgical octave. The final concluding day of this festal period is[^644]
+**METHEORTA** (*μεθέορτα, τά*), **METHEORTIA** (*μεθεόρτια, τά*; Slav. *Poprazdnstvo* / *Попразднство*): The Greek neuter plural denoting the festal period of the **Afterfeast** (lit. 'post-feast'): This is a liturgical season appended to a Great Feast celebrated in the Byzantine Rite, extending from one to eight days following the principal feast day, during which the mystery of the feast continues to be commemorated in the daily hymnography and prayers. This festal cycle corresponds functionally to the Western liturgical octave. The final concluding day of this festal period is[^644]
 
 # Appendix: Dictionary of Terms Related to the Typikon
 
@@ -4919,7 +4919,7 @@ This eightfold modal classification system in Byzantine chant and hymnology gave
 
 ## Extended Dictionary of Typikon Related Terms (The Cycle of Modes Part 2: Weekly Oktoechos Cycle, Paschal Sequence) [Demos, p. 1082 / TD-103]
 
-### The Cycle of the Eight Tones (Modes)
+**The Cycle of the Eight Tones (Modes)**
 
 In Byzantine liturgical music, eight canonical Tones are recognized: Tone 1 (Mode I), Tone 2 (Mode II), Tone 3 (Mode III), Tone 4 (Mode IV), Tone 5 (Mode I Plagal), Tone 6 (Mode II Plagal), Tone 7 (Varys / Grave Tone), and Tone 8 (Mode IV Plagal). All hymnography of the Byzantine liturgical tradition is set within one of these eight Tones. The Eight Tones constitute the foundational architectural framework around which the Church organizes the daily offices and their hymnographic cycles throughout the ecclesiastical year. This structural logic is codified within the principal liturgical book of the daily cycle, the **Paraklitiki** (**Megali Oktoichos** / *Μεγάλη ᾿Οκτώηχος*).
 
@@ -4970,7 +4970,7 @@ A third profound mystery is the divine action of the Holy Mysteries in uniting m
 
 # Appendix: Dictionary of Terms Related to the Typikon
 
-## Extended Dictionary of Typikon Related Terms (Narthex Concluded Part 2 – Nave – Nekrosimon – Nicene-Constantinopolitan Creed – Now and Ever) [Demos, p. 1085 / TD-106]
+## Extended Dictionary of Typikon Related Terms (Narthex Concluded Part 2 – Nave – Hymn for the Departed (Поко́инъ) – Nicene-Constantinopolitan Creed – Now and Ever) [Demos, p. 1085 / TD-106]
 
 the departed, light tapers, and reverence holy icons. In early Christian centuries, the Narthex fulfilled essential liturgical functions: on Sundays and feast days it was occupied by catechumens preparing for Holy Baptism and by penitents performing public penance, who followed the sacred services from this outer station. The poor and infirm gathered in the narthex to receive alms from the faithful. Ecclesiastical history records instances where holy hierarchs and pastors stood in the narthex to bar the entrance of heretics and unrepentant sinners from entering the church proper.
 
@@ -4978,7 +4978,7 @@ During centuries of Ottoman subjection in Greece and under atheist Communist reg
 
 **NAVE** (*ναός, ὁ*): The central hall of the church building situated between the Narthex (vestibule) and the Sanctuary. In Eastern Christian theology, the tripartite structure of the church building (Sanctuary, Nave, and Narthex) mirrors the tripartite structure of the ancient Tabernacle and Solomon's Temple (Holy of Holies, Holy Place, and Outer Court). While the Holy of Holies was entered exclusively by the High Priest once a year on the Day of Atonement, the Christian Sanctuary enshrines the Holy Table where the Eucharistic Sacrifice is continually offered, while the faithful assemble within the Nave to participate in the sacred mysteries.
 
-**NEKROSIMON** (*Νεκρώσιμον, τό*, pl. *Νεκρώσιμα, τά*): A funeral or memorial hymn, or an entire liturgical office chanted in commemoration of the reposed faithful.
+**Hymn for the Departed (Поко́инъ)** (*Νεκρώσιμον, τό*, pl. *Νεκρώσιμα, τά*): A funeral or memorial hymn, or an entire liturgical office chanted in commemoration of the reposed faithful.
 
 **NICENE-CONSTANTINOPOLITAN CREED** (*Σύμβολον τῆς Πίστεως*): The Symbol of Faith. See **CREED**.
 
@@ -5125,7 +5125,7 @@ The name Polyeleos is likewise given to the great chandelier suspended directly 
 
 **POTIRION**: The Holy Chalice. See **AGION POTIRION**.
 
-**PRAISE, PRAISES** (*αἶνος, ὁ*; pl. *αἶνοι, οἱ*; Slav. *Khvalitny* / *Хвалиτны*): See also **ENI**. These festive psalms (Psalms 148–150 LXX) are chanted near the end of **Orthros** (Matins), immediately following the **Exapostilarion**. In Western churches, the Praises are known as Lauds.
+**PRAISE, PRAISES** (*αἶνος, ὁ*; pl. *αἶνοι, οἱ*; Slav. *Khvalitny* / *Хвалитны*): See also **ENI**. These festive psalms (Psalms 148–150 LXX) are chanted near the end of **Orthros** (Matins), immediately following the **Exapostilarion**. In Western churches, the Praises are known as Lauds.
 
 **PRE-FEAST** (*προεόρτια, τά*): The canonical liturgical designation is the **FOREFEAST** (lit. 'pre-feast'). See **PROEORTIA**.
 
@@ -5215,7 +5215,7 @@ Each Kathisma is further subdivided into three sections designated **Stases** (*
 
 The Church maintains as its authentic, canonical witness of the Old Testament the ancient Septuagint (Greek / LXX) version, rather than the later Masoretic (Hebrew / MT) recension. For this reason, the canonical numbering and division of the Psalms in liturgical practice follows the Greek Septuagint numbering rather than the Masoretic numbering found in the King James Version and Western vernacular Bibles.
 
-### Chapter Divisions: Septuagint vs. Masoretic Text
+**Chapter Divisions: Septuagint vs. Masoretic Text**
 
 The Septuagint Greek version (LXX) is the authentic Old Testament text received and utilized by the Church. The LXX Psalter diverges in several respects from the Masoretic Text (MT), which forms the basis for the King James Version and most modern Western translations.
 
@@ -5619,7 +5619,7 @@ The elaborate melodies of these stichira, codified in the **Stichirarion** (*Σ�
 
 **STOLE**: In Western terminology, the clerical neck vestment; for Eastern counterparts, see **ORARION** (deacon), **EPITRACHILION** (priest), and **OMOPHORION** (bishop), or general **VESTMENTS**.
 
-**STROPHE** (*στροφή, ἡ*; Greek *strofe*; lit. "a turning"): In classical Greco-Roman lyric poetry, a metric stanza. Historically derived from the movements of the dramatic chorus, which chanted a strophe while circling the orchestra in one direction, followed by an antistrophe (*ἀντιστроφή*) of identical metric measure as the chorus reversed its circular movement. In ecclesiastical hymnography, strophe is synonymous with the metric stanza or troparion.
+**STROPHE** (*στροφή, ἡ*; Greek *strofe*; lit. "a turning"): In classical Greco-Roman lyric poetry, a metric stanza. Historically derived from the movements of the dramatic chorus, which chanted a strophe while circling the orchestra in one direction, followed by an antistrophe (*ἀντιστροφή*) of identical metric measure as the chorus reversed its circular movement. In ecclesiastical hymnography, strophe is synonymous with the metric stanza or troparion.
 
 **SYNAPTE** (*συναπτή, ἡ*; Slav. *synaptiya* / *ектенія*): Derived from the Greek *synaptein* (*συνάπτειν*, "to join together"); a continuous series of liturgical petitions joined together into a single litany, each petition soliciting a specific spiritual or material blessing from God, followed by the people's response: **"Lord, have mercy"** (*Κύριε, ἐλέησον*). See **LITANY** and **EKTENIA**.
 
@@ -5645,7 +5645,7 @@ thority of the bishop.
 
 **TAXIS** (*τάξις, ἡ*; Slav. *chin* / *чинъ* or *ustav* / *уставъ*): The canonical order, rubrical arrangement, or structured sequence of a divine service.
 
-**TABERNACLE** (*᾿Αρтоφόριον, τό*; Slav. *Darokhranilnytsia* / *Дарохранильниця*): The sacred receptacle situated upon the Holy Table wherein the Reserved Holy Mysteries are reverently preserved for the communion of the sick. See **ARTOFORION**.
+**TABERNACLE** (*᾿Αρτοφόριον, τό*; Slav. *Darokhranilnytsia* / *Дарохранильниця*): The sacred receptacle situated upon the Holy Table wherein the Reserved Holy Mysteries are reverently preserved for the communion of the sick. See **ARTOFORION**.
 
 **TELETI** (*τελετή, ἡ*; Slav. *chinoposlidovanye* / *чинопослѣдованіе*): A sacred rite, liturgical ceremony, or celebration of an ecclesiastical mystery. See **CEREMONY**.
 
@@ -5657,7 +5657,7 @@ thority of the bishop.
 
 ## Extended Dictionary of Typikon Related Terms (Thalassidion Concluded Part 2 – Lavabo Prayer – Thavmatourgos – Theos Kyrios Part 1) [Demos, p. 1124 / TD-145]
 
-**Ieratikon** (**Sluzhebnik** / *῾Ιερατικόν* / *Служебникъ*) as a mandatory installation within the **Diakonikon** (Sacristy / *διακονικόν, τό*). The thalassidion is a consecrated sink draining directly into clean earth beneath the church foundations, into which holy water, water utilized for washing sacred vessels or liturgical linens, and the water of Holy Baptism are reverently poured. The thalassidion is likewise the basin at which the celebrants wash their hands prior to vesting and celebrating the Divine Liturgy. Under strict canonical regulation, the consecrated Eucharistic Gifts are never poured into the thalassidion, but must be consumed entirely by the priest or deacon at the Prothesis table following the Divine Liturgy. While washing his hands, the celebrant recites the Lavabo prayer from the Septuagint Psalter: **"I will wash my hands in innocency, and will compass Thine altar, O Lord; that I may hear the voice of Thy praise, and tell of all Thy marvelous works. O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwelleth. Destroy not my soul with the ungodly, nor my life with men of blood, in whose hands are iniquities; their right hand is filled with gifts. But as for me, I have walked in mine innocence; redeem me, O Lord, and have mercy upon me. My foot standeth in uprightness; in the congregations will I bless Thee, O Lord"** (Psalm 25:6–12 [MT 26:6–12]; *«Νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν Σου, Κύριε, τοῦ ἀκοῦσαί με φωνῆς αἰνέσεώς Σου, καὶ διηγήσασθαι πάντα τὰ θαυμάσιά Σου. Κύριε, ἠγάπησα εὐπρέπειαν οἴκου Σου, καὶ τόπον σκηνώματος δόξης Σου. Μὴ συναπολέσῃς μετὰ ἀσεβῶν τὴν ψυχήν μου, καὶ μετὰ ἀνδρῶν αἱμάτων τὴν ζωήν μου, ὧν ἐν χερσὶν αἱ ἀνομίαι· ἡ δεξιὰ αὐτῶν ἐπλήσθη δώρων. Ἐγὼ δὲ ἐν ἀκακίᾳ μου ἐπορεύθην· λύτρωσαί με, Κύριε, καὶ ἐλέησόν με. Ὁ ποῦς μου ἔστη ἐν εὐθύτητι· ἐν ἐκκλησίαις εὐλογήσω σε, Κύριε»* [Ψαλμὸς 25:6–12 / MT 26:6–12]).
+**Ieratikon** (**Sluzhebnik** / *῾Ιερατικόν* / *Служебникъ*) as a mandatory installation within the **Diakonikon** (Sacristy / *διακονικόν, τό*). The thalassidion is a consecrated sink draining directly into clean earth beneath the church foundations, into which holy water, water utilized for washing sacred vessels or liturgical linens, and the water of Holy Baptism are reverently poured. The thalassidion is likewise the basin at which the celebrants wash their hands prior to vesting and celebrating the Divine Liturgy. Under strict canonical regulation, the consecrated Eucharistic Gifts are never poured into the thalassidion, but must be consumed entirely by the priest or deacon at the Prothesis table following the Divine Liturgy. While washing his hands, the celebrant recites the Lavabo prayer from the Septuagint Psalter: **"I will wash my hands in innocency, and will compass Thine altar, O Lord; that I may hear the voice of Thy praise, and tell of all Thy marvelous works. O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells. Destroy not my soul with the ungodly, nor my life with men of blood, in whose hands are iniquities; their right hand is filled with gifts. But as for me, I have walked in mine innocence; redeem me, O Lord, and have mercy upon me. My foot stands in uprightness; in the congregations will I bless Thee, O Lord"** (Psalm 25:6–12 [MT 26:6–12]; *«Νίψομαι ἐν ἀθῴοις τὰς χεῖράς μου, καὶ κυκλώσω τὸ θυσιαστήριόν Σου, Κύριε, τοῦ ἀκοῦσαί με φωνῆς αἰνέσεώς Σου, καὶ διηγήσασθαι πάντα τὰ θαυμάσιά Σου. Κύριε, ἠγάπησα εὐπρέπειαν οἴκου Σου, καὶ τόπον σκηνώματος δόξης Σου. Μὴ συναπολέσῃς μετὰ ἀσεβῶν τὴν ψυχήν μου, καὶ μετὰ ἀνδρῶν αἱμάτων τὴν ζωήν μου, ὧν ἐν χερσὶν αἱ ἀνομίαι· ἡ δεξιὰ αὐτῶν ἐπλήσθη δώρων. Ἐγὼ δὲ ἐν ἀκακίᾳ μου ἐπορεύθην· λύτρωσαί με, Κύριε, καὶ ἐλέησόν με. Ὁ ποῦς μου ἔστη ἐν εὐθύτητι· ἐν ἐκκλησίαις εὐλογήσω σε, Κύριε»* [Ψαλμὸς 25:6–12 / MT 26:6–12]).
 
 In early basilicas, the thalassidion was situated directly beneath the Holy Table; in contemporary practice, it is located within the diakonikon. Ancient monastic custom appointed that the habit of a newly tonsured monastic be placed upon the thalassidion prior to the rite; following its relocation to the diakonikon, the monastic habit is placed directly upon the Holy Table. When a monk or nun receives the tonsure, the shorn hair is reverently deposited into the thalassidion.
 
@@ -5831,9 +5831,9 @@ When vesting in the Sticharion, the priest takes it in his left hand, bows towar
 
 ## Extended Dictionary of Typikon Related Terms (Vestments Continued – Priest: Epitrachelion Concluded – Zone – Epimanikia Part 1) [Demos, p. 1136 / TD-157]
 
-When vesting with the **Epitrachelion** (*ἐπιτραχήλιον*), the priest signs a cross over it and prays: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who poureth forth His grace upon His priests, as ointment upon the head, which runneth down over the beard, the beard of Aaron, which runneth down to the hem of his garment"** (Psalm 132:2 [MT 133:2]); **"always, now and forever, and unto the ages of ages. Amen."** (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ ἐκχέων τὴν χάριν αὐτοῦ ἐπὶ τοὺς ἱερεῖς αὐτοῦ· ὡς μύρον ἐπὶ κεφαλῆς, τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ Ἀαρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ· Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
+When vesting with the **Epitrachelion** (*ἐπιτραχήλιον*), the priest signs a cross over it and prays: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who pours forth His grace upon His priests, as ointment upon the head, which runs down over the beard, the beard of Aaron, which runs down to the hem of his garment"** (Psalm 132:2 [MT 133:2]); **"always, now and forever, and unto the ages of ages. Amen."** (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ ἐκχέων τὴν χάριν αὐτοῦ ἐπὶ τοὺς ἱερεῖς αὐτοῦ· ὡς μύρον ἐπὶ κεφαλῆς, τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ Ἀαρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ· Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
 
-The **ZONE** (**Girdle** or **Belt** / *ζώνη, ἡ*; Slav. *poyas* / *поясъ*): A textile belt wherewith the priest girds himself over his Epitrachelion and Sticharion to secure them in place for convenience during divine service. It symbolizes the gift of spiritual strength wherewith God assists him in his sacerdotal ministry, and admonishes him unto purity and blamelessness of life. It likewise denotes the priest's readiness to serve the Lord and that he is bound unto Christ. In putting on this girdle, he blesses the cross embroidered upon it and prays: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who girdeth me with strength, and hath made my way blameless"** (Psalm 17:33 [MT 18:32]); **"always, now and forever, and unto the ages of ages. Amen."** (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ περιζωννύων με δύναμιν, καὶ ἔθετο ἄμωμον τὴν ὁδόν μου· Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
+The **ZONE** (**Girdle** or **Belt** / *ζώνη, ἡ*; Slav. *poyas* / *поясъ*): A textile belt wherewith the priest girds himself over his Epitrachelion and Sticharion to secure them in place for convenience during divine service. It symbolizes the gift of spiritual strength wherewith God assists him in his sacerdotal ministry, and admonishes him unto purity and blamelessness of life. It likewise denotes the priest's readiness to serve the Lord and that he is bound unto Christ. In putting on this girdle, he blesses the cross embroidered upon it and prays: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who girds me with strength, and hath made my way blameless"** (Psalm 17:33 [MT 18:32]); **"always, now and forever, and unto the ages of ages. Amen."** (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ περιζωννύων με δύναμιν, καὶ ἔθετο ἄμωμον τὴν ὁδόν μου· Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
 
 The **EPIMANIKIA** (**Liturgical Cuffs** / *ἐπιμανίκια, τά*, sing. *ἐπιμανίκιον, τό*; also termed *ἐπιμάνικα* or *ὑπομάνικα*; Slav. *poruchi* / *поручи*): These are the ceremonial cuffs that are likewise worn by the deacon; however, whereas the deacon laces them about his wrists beneath the wide sleeves of the outer sticharion, the priest wears them laced securely over the tapered sleeves of the priestly sticharion. When vesting with the cuffs, the priest recites the appointed prayers: first, for the right cuff, he prays: **"Thy right hand, O Lord, is glorified in strength; Thy right hand, O Lord, hath shattered the enemy, and in the multitude of Thy glory Thou hast crushed the adversaries"** (Exodus 15:6–7); **"always, now and forever, and unto the ages of ages. Amen."** (*«Ἡ δεξιά Σου, Κύριε, δεδόξασται ἐν ἰσχύϊ· ἡ δεξιά Σου χείρ, Κύριε, ἔθραυσεν*[^701]
 
@@ -5869,9 +5869,9 @@ As the Bishop vests with the **Sticharion** (*στιχάριον*), the First De
 
 continues: **"My soul shall rejoice in the Lord; for He hath clothed me with the garment of salvation, and with the tunic of gladness hath He encompassed me; as a bridegroom He hath set a crown upon me, and as a bride hath He adorned me with ornament"** (Isaiah 61:10) (*«Ἀγαλλιάσεται ἡ ψυχή μου ἐπὶ τῷ Κυρίῳ· ἐνέδυσε γάρ με ἱμάτιον σωτηρίου, καὶ χιτῶνα εὐφροσύνης περιέβαλέ με· ὡς νυμφίῳ περιέθηκέ μοι μίτραν, καὶ ὡς νύμφην κατεκόσμησέ με κόσμῳ»*). The Second Deacon then completes the prayer, saying: **"Always, now and forever, and unto the ages of ages. Amen."** (*«Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
 
-As the Bishop vests with the **Epitrachelion** (*ἐπιτραχήλιον*), the First Deacon proclaims: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who poureth forth His grace upon His priests, as ointment upon the head, which runneth down upon the beard, the beard of Aaron, which runneth down to the fringe of his garment"** (Psalm 132:2 [MT 133:2]) (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ ἐκχέων τὴν χάριν αὐτοῦ ἐπὶ τοὺς ἱερεῖς αὐτοῦ, ὡς μύρον ἐπὶ κεφαλῆς, τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ Ἀαρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ»*). The Second Deacon then completes the prayer, saying: **"Always, now and forever, and unto the ages of ages. Amen."** (*«Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
+As the Bishop vests with the **Epitrachelion** (*ἐπιτραχήλιον*), the First Deacon proclaims: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who pours forth His grace upon His priests, as ointment upon the head, which runs down upon the beard, the beard of Aaron, which runs down to the fringe of his garment"** (Psalm 132:2 [MT 133:2]) (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ ἐκχέων τὴν χάριν αὐτοῦ ἐπὶ τοὺς ἱερεῖς αὐτοῦ, ὡς μύρον ἐπὶ κεφαλῆς, τὸ καταβαῖνον ἐπὶ πώγωνα, τὸν πώγωνα τοῦ Ἀαρών, τὸ καταβαῖνον ἐπὶ τὴν ᾤαν τοῦ ἐνδύματος αὐτοῦ»*). The Second Deacon then completes the prayer, saying: **"Always, now and forever, and unto the ages of ages. Amen."** (*«Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
 
-As the Bishop vests with the **Zone** (**Belt** / *ζώνη*), the First Deacon proclaims: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who girdeth me with strength, and hath made my way blameless"** (Psalm 17:33 [MT 18:32]) (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ περιζωννύων με δύναμιν, καὶ ἔθετο ἄμωμον τὴν ὁδόν μου»*). The Second Deacon then completes the prayer, saying: **"Always, now and forever, and unto the ages of ages. Amen."** (*«Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
+As the Bishop vests with the **Zone** (**Belt** / *ζώνη*), the First Deacon proclaims: **"Let us pray to the Lord. Lord, have mercy. Blessed is God Who girds me with strength, and hath made my way blameless"** (Psalm 17:33 [MT 18:32]) (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Εὐλογητὸς ὁ Θεός, ὁ περιζωννύων με δύναμιν, καὶ ἔθετο ἄμωμον τὴν ὁδόν μου»*). The Second Deacon then completes the prayer, saying: **"Always, now and forever, and unto the ages of ages. Amen."** (*«Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
 
 As the Bishop vests with the **Epimanikia** (**Cuffs** / *ἐπιμανίκια*), the First[^704]
 
@@ -5949,13 +5949,13 @@ When the Bishop receives the Pastoral Staff, the Second Deacon proclaims: **"Let
 
 When the Bishop receives the two- and three-branched candelabras (**Dikerotrikera** / *δικηροτρίκηρα, τά*, comprising the *dikirion* / *δικήριον* and *trikirion* / *τρικήριον*), the First Deacon proclaims: **"Let us pray to the Lord. Lord, have mercy. Let your light so shine before men, that they may see your good works, and glorify your Father Who is in heaven"** (Matthew 5:16) (*«Τοῦ Κυρίου δεηθῶμεν. Κύριε, ἐλέησον. Οὕτω λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσι τὸν Πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς»*). The Second Deacon concludes the prayer with: **"Always, now and forever, and unto the ages of ages. Amen."** (*«Πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν»*).
 
-The **EAGLE** (**Aetos** / *ἀετός, ὁ*; Slav. *orlets* / *орлецъ*): A small circular or oval liturgical rug depicting an eagle with outspread wings soaring over a fortified city. The bishop stands upon this rug during divine services, and its use is reserved strictly and exclusively unto him. A larger Eagle-rug is placed beneath the bishop-elect during the rite of episcopal consecration, as prescribed in the Pontifical Archieratikon. The representation of the city denotes the bishop's pastoral oversight and canonical governance over his diocese, while the soaring eagle signifies the celestial loftiness and purity of orthodox theological doctrine. Thus the eagle-rug spread beneath the bishop symbolizes that in his life, virtue, and sacred teaching, he must emulate the eagle, which with keen vision soareth above all earthly and corruptible things, fixing its gaze upon heavenly realities.[^710]
+The **EAGLE** (**Aetos** / *ἀετός, ὁ*; Slav. *orlets* / *орлецъ*): A small circular or oval liturgical rug depicting an eagle with outspread wings soaring over a fortified city. The bishop stands upon this rug during divine services, and its use is reserved strictly and exclusively unto him. A larger Eagle-rug is placed beneath the bishop-elect during the rite of episcopal consecration, as prescribed in the Pontifical Archieratikon. The representation of the city denotes the bishop's pastoral oversight and canonical governance over his diocese, while the soaring eagle signifies the celestial loftiness and purity of orthodox theological doctrine. Thus the eagle-rug spread beneath the bishop symbolizes that in his life, virtue, and sacred teaching, he must emulate the eagle, which with keen vision soars above all earthly and corruptible things, fixing its gaze upon heavenly realities.[^710]
 
 # Appendix: Dictionary of Terms Related to the Typikon
 
 ## Extended Dictionary of Typikon Related Terms (Clerical Non-Liturgical Attire: Mandyas – Tables of the Law – Fountains – Cassock Part 1) [Demos, p. 1146 / TD-167]
 
-### Non-Liturgical Attire of the Clergy
+**Non-Liturgical Attire of the Clergy**
 
 The **MANDYAS** (*Μανδύας, ὁ*; mantle / Slav. *mantiya* / *мантія*): The mantle of the bishop is also a monastic garment, which, like a cloak, covers the whole body with the exception of the head. All monks, when present at divine services, must be robed in their mantles. The mantle is not technically speaking a liturgical vestment, but at Vespers and Matins (*Orthros*) it is worn when a bishop first arrives for the divine service and presides from the episcopal throne; it is later removed with assistance by the priests or deacons before he is vested for the Divine Liturgy. In Byzantine Greek practice, the bishop descends from the throne after the chanting of the Katavasiai, enters the sanctuary through the Holy Doors (*Royal Doors* / *Beautiful Gate*) where, after reverencing the Book of the Gospels lying upon the Holy Table, he proceeds to the Diakonikon where the mantle is removed, and if he is to celebrate the Divine Liturgy, he begins vesting with full episcopal vestments. In Slavic practice, after the bishop descends from the throne as described above, he proceeds to the center of the soleas where the mantle is removed and, if he is to celebrate, he is publicly vested for the Divine Liturgy with the assistance of the deacon or priest.
 
@@ -6007,10 +6007,10 @@ Regardless of the physical orientation of a local church building, the sanctuary
 
 The elevated platform in the ancient synagogue, likewise designated a *bema*, served as the place from which the Torah (*Pentateuch*) and the Prophets were proclaimed. In ancient Greek temples, the sacrificial altar (*bōmos* / *βωμός*) was similarly situated facing toward the East.
 
-### Letter W
+**Letter W**
 *(No entry)*
 
-### Letter X
+**Letter X**
 *(No entry)*
 
 The **YPAKOE** (*Ὑπακοή, ἡ*; Slav. *Ipakoj* / *ѵпакои* / *ypakoe*): Perhaps the most ancient designation employed in the Christian East for a composed poetic liturgical hymn.[^714]
@@ -6175,14 +6175,14 @@ Greek-English Desk Dictionary*, D. C. Divry, Inc., New York, 1982.
 [^497]: Order of Service for the Consecration of a Church: Situations 1 and 2 (§ Consecration Rubrics 1–2). Detailed epigraphic synthesis of physical leaf p875 (printed page 860) and facing English leaf p876 (printed page 861). Foundational rubrics for the Consecration (Enkainia) of a Christian Temple: Situation 1 governs the Consecration occurring on the commemoration of a celebrated Saint: At Vespers ("Lord, I have cried"), 10 Stichera: 4 of the Consecration, 3 of the celebrated Saint, and 3 of the Patron Saint of the consecrated church; Glory of the Saint, Now and forever of the Consecration; 3 Old Testament Readings (2 of Consecration, 1 of Saint); Aposticha of the Saint, Glory of the Patron Saint of the church, Now and forever of the Consecration; Dismissal Troparia of the Saint, Patron Saint of the church, and Consecration. At Matins, Kathismata of the Saint and Consecration; Canons of Consecration, Saint, and Patron Saint to 4 each (total 12); Praises: 8 Stichera (2 Consecration, 3 Saint, 3 Patron Saint of church); Glory of Patron Saint of church (unless an Apostle, Evangelist, or Forerunner is celebrated, where the celebrated Saint takes precedence), Now and forever of Consecration; Great Doxology and Dismissal Troparion of Consecration. Situation 2 governs Consecration occurring on a Sunday: At Vespers ("Lord, I have cried"), 10 Stichera: 4 of the Resurrection, 3 of the Consecration, and 3 of the Patron Saint of the church; Glory of Patron Saint of church, Now and forever 1st Dogmatic Theotokion of Tone of week; Readings of Consecration; Resurrection Aposticha, Glory of Patron Saint of church, Now and forever of Consecration.
 [^498]: Order of Service for the Consecration of a Church: Situations 2 (Concluded), 3, and 4 (§ Consecration Rubrics 2–4). Detailed epigraphic synthesis of physical leaf p877 (printed page 862) and facing English leaf p878 (printed page 863). Consecration of a Temple on Sundays and Feasts of the Mother of God: Continuation of Situation 2 (Sunday Consecration): At Matins, Resurrection Kathismata with Consecration Kathismata in place of Theotokia; Canons of Resurrection, Consecration, and Patron Saint of church; Praises: 4 Resurrection and 4 Consecration; Glory of Patron Saint of church, Now and forever of Consecration; Great Doxology and "Today salvation is come unto the world...". Situation 3 governs Consecration on a Sunday with a celebrated Saint: At Vespers ("Lord, I have cried"), 10 Stichera: 3 of Resurrection, 2 of Consecration, 3 of Saint, 2 of Patron Saint of church; Glory of Saint, Now and forever 1st Dogmatic Theotokion of Tone of week; 3 Readings (2 of Consecration, 1 of Saint); Resurrection Aposticha, Glory of Patron Saint of church, Now and forever of Consecration; Dismissal Troparia: Resurrection, Saint, Patron Saint of church, and Consecration. At Matins, Canons of Resurrection, Consecration, and Saint; Praises: 8 Stichera (3 Resurrection, 2 Consecration, 3 Saint); Glory of Patron Saint of church, Now and forever of Consecration; Great Doxology and "Today salvation...". Situation 4 governs Consecration on a Feast of the Mother of God (Theotokos): At Vespers ("Lord, I have cried"), 10 Stichera: 4 of Feast, 3 of Consecration, 3 of Patron Saint of church; Glory of Feast, Now and forever of Consecration.
 [^499]: Order of Service for the Consecration of a Church: Situations 4 (Concluded), 5, and 6 (§ Consecration Rubrics 4–6). Detailed epigraphic synthesis of physical leaf p879 (printed page 864) and facing English leaf p880 (printed page 865). Consecration of a Temple on Marian, Despotic, and Sunday-Marian Confluences: Continuation of Situation 4 (Marian Feast): Readings: 2 of Feast, 1 of Consecration; Aposticha of Feast, Glory of Patron Saint of church, Now and forever of Feast; Dismissal Troparia: Feast, Consecration, Patron Saint of church, and again Feast. At Matins, Kathismata of Feast, Consecration, and Feast; Canons of Feast and Consecration; Praises: 8 Stichera (4 Feast, 2 Consecration, 2 Patron Saint of church); Glory of Feast, Now and forever of Consecration; Great Doxology and Dismissal Troparion of Feast. Situation 5 governs Consecration on a Feast of the Lord (Despotic Feast): At Vespers ("Lord, I have cried"), 8 Stichera: 6 of Feast, 2 of Consecration; Glory of Feast, Now and forever of Consecration; 3 Readings (2 Feast, 1 Consecration); Aposticha of Feast, Glory of Patron Saint of church, Now and forever of Feast; Dismissal Troparia: Feast, Consecration, Patron Saint of church, and again Feast. Matins follows the same 3-Kathisma and dual Canon structure; Praises: 8 Stichera (4 Feast, 2 Consecration, 2 Patron Saint of church); Glory of Feast, Now and forever of Consecration. Situation 6 governs Consecration on a Sunday concurring with a Feast of the Mother of God: At Vespers ("Lord, I have cried"), 10 Stichera: 4 of Resurrection, 4 of Feast, 2 of Consecration; Glory of Feast, Now and forever of Consecration; 3 Readings (2 Feast, 1 Consecration); Resurrection Aposticha, Glory of Patron Saint of church, Now and forever of Feast; Dismissal Troparia: Resurrection, Feast, Patron Saint of church, Consecration. Matins commences with Resurrection Kathismata and Consecration Kathismata.
-[^500]: Order of Service for the Consecration of a Church Concluded (Case 6) and The Ceremony of Consecration: Preliminary Preparations and Pre-Vesperal Rites (§ Ceremony of Consecration 1). Detailed epigraphic synthesis of physical leaf p881 (printed page 866) and facing English leaf p882 (printed page 867). Conclusion of Case 6 (Sunday Consecration coinciding with a Feast of the Mother of God): At the Praises, 8 Stichera are chanted: 3 of the Resurrection, 3 of the Feast, and 2 of the Patron Saint of the church; Glory of the Feast, Now and forever of the Consecration; Great Doxology, and the Sunday Dismissal Troparion "Today salvation is come unto the world...". The Lectionary readings of the Apostolos and Gospel in each of the six preceding cases are determined and appointed by the presiding Hierarch according to the feast at hand. The rubrics for the solemn Ceremony of Consecration then commence: The presiding Hierarch prepares the necessary liturgical vessels and realia prescribed in the Euchologion. On the eve of the dedication, prior to Vespers, the Bishop with the clergy enters the new church and arranges the Holy Relics in three portions upon the Holy Table. Placed upon the Diskarion (Paten) beneath the Asterisk and covered with the Veil, the Bishop gives the blessing "Blessed is our God", followed by the Trisagion Prayers and the Troparia of the Holy Martyrs ("Your Martyrs, O Lord...", "Champions of the Lord...", "Christ's Martyrs...", and the Troparion of the day), followed by the Kondakion ("As first fruits of nature..."), Glory ("Godlike choir of Martyrs..."), Now and forever ("Theotokos, thou art the true vine, together with the Champions..."), and the Dismissal. If an already consecrated church is located nearby, the Bishop translates the Holy Relics thither before Vespers, placing them on the Holy Table before an all-night candle; Vespers and an All-night Vigil are celebrated there. If no consecrated church is near, the entire vigil is kept in the new church. On the morning of Consecration, Matins is chanted according to the established order. Following the Praises, the Bishop descends from the Throne into the nave, kneels facing East, and recites the two preparatory prayers of Patriarch Kallistos I.
+[^500]: Order of Service for the Consecration of a Church Concluded (Case 6) and The Ceremony of Consecration: Preliminary Preparations and Pre-Vesperal Rites (§ Ceremony of Consecration 1). Detailed epigraphic synthesis of physical leaf p881 (printed page 866) and facing English leaf p882 (printed page 867). Conclusion of Case 6 (Sunday Consecration coinciding with a Feast of the Mother of God): At the Praises, 8 Stichera are chanted: 3 of the Resurrection, 3 of the Feast, and 2 of the Patron Saint of the church; Glory of the Feast, Now and forever of the Consecration; Great Doxology, and the Sunday Dismissal Troparion "Today salvation is come unto the world...". The Lectionary readings of the Apostolos and Gospel in each of the six preceding cases are determined and appointed by the presiding Hierarch according to the feast at hand. The rubrics for the solemn Ceremony of Consecration then commence: The presiding Hierarch prepares the necessary liturgical vessels and realia prescribed in the Euchologion. On the eve of the dedication, prior to Vespers, the Bishop with the clergy enters the new church and arranges the Holy Relics in three portions upon the Holy Table. Placed upon the Diskarion (Paten) beneath the Asterisk and covered with the Veil, the Bishop gives the blessing "Blessed is our God", followed by the Trisagion Prayers and the Troparia of the Holy Martyrs ("Your Martyrs, O Lord...", "Champions of the Lord...", "Christ's Martyrs...", and the Troparion of the day), followed by the Kontakion ("As first fruits of nature..."), Glory ("Godlike choir of Martyrs..."), Now and forever ("Theotokos, thou art the true vine, together with the Champions..."), and the Dismissal. If an already consecrated church is located nearby, the Bishop translates the Holy Relics thither before Vespers, placing them on the Holy Table before an all-night candle; Vespers and an All-night Vigil are celebrated there. If no consecrated church is near, the entire vigil is kept in the new church. On the morning of Consecration, Matins is chanted according to the established order. Following the Praises, the Bishop descends from the Throne into the nave, kneels facing East, and recites the two preparatory prayers of Patriarch Kallistos I.
 [^501]: The Ceremony of the Consecration: Vesting, Wax-Mastic Preparation, and Procession of Relics (§ Ceremony of Consecration 2). Detailed epigraphic synthesis of physical leaf p883 (printed page 868) and facing English leaf p884 (printed page 869). Archieratical preparation and the external procession: The Bishop completes the two preparatory prayers of Patriarch Kallistos, venerates the holy icons, and vests in his sacred archieratical vestments for the Divine Liturgy while the Choirs chant "Our Master and Chief Priest", followed by the Stichera of the Praises, Doxastikon, Great Doxology, Dismissal Troparion, and Dismissal. The ingredients of the wax-mastic (Kêromastichê) are placed into a cauldron over the fire to melt, and kept near the flame so the mixture does not congeal; cauldrons of water are heated for washing the Holy Table. Heavy paper strips are bound around the rim of the central Column (which supports the Holy Table, symbolizing Christ, while the four surrounding corner pillars symbolize the Four Evangelists), protruding two fingers above the upper lip and filled with pulverized marble to retain the molten wax-mastic. With all preparations completed, the Bishop intones "Blessed is our God", Psalm 142 LXX is recited, followed by the Small Litany intoned by the Deacon. The Bishop exclaims "For holy art Thou, our God...", the Deacon intones "Let us pray to the Lord", the Bishop recites the Prayer and gives "Peace be unto all", the Deacon intones "Let us bow our heads unto the Lord", and the Bishop recites the secret Prayer and exclaims "Blessed and glorified be the majesty of Thy kingdom". The Bishop then takes the Diskarion with the Holy Relics upon his head, preceded by Priests carrying the Holy Gospel Books, the Cross, Ripidia (Exapteryga), and Candles, while the Choirs sing the Troparia "O Holy Martyrs..." and "Glory to Thee, O Christ God...". The Bishop and the entire congregation go forth in solemn procession circling the exterior of the church, as the Chanters chant the Idiomela "Be renewed, be renewed..." and "Of old when renewing...".
 [^502]: The Ceremony of the Consecration: Triple Circuit, Entrance Rites, and Deposition of Relics in the Column (§ Ceremony of Consecration 3). Detailed epigraphic synthesis of physical leaf p885 (printed page 870) and facing English leaf p886 (printed page 871). The triple procession, ceremonial portal dialogue, and deposition of relics: Chanting of the processional Idiomela concludes with Glory, Now and forever: "He Who is in the bosom of the Father...". Upon reaching the western portals of the church, the Bishop deposits the Holy Relics upon the Tetrapod; the Deacon proclaims the Apostolos and the Bishop proclaims the Holy Gospel. A second procession circuits the church while chanting Ode 3 of the Consecration Canon, followed by the second readings of Apostolos and Gospel at the portals. A third circuit is made while chanting Ode 6 of the Consecration Canon. Arriving before the closed western portal for the third time, the Bishop exclaims "Blessed art Thou, O Christ our God, unto the ages of ages. Amen", and the Troparion "Upon the rock of faith..." is sung. The Bishop replaces the Relics upon the Tetrapod and recites the Prayer "O God and Father..." followed by the Prayer of the Entrance. With the doors shut, the Bishop enacts the liturgical dialogue of Psalm 23:7–10 LXX: "Lift up your gates, ye princes, and be ye lifted up, O eternal gates, and the King of glory shall enter in!" A cleric within the nave questions: "Who is this King of glory?", to which the Bishop responds: "The Lord strong and mighty, the Lord mighty in battle" (repeated thrice). The Bishop signs the portal cruciformly three times with the Holy Relics; the doors swing open, and the Bishop enters with clergy and people singing the Dismissal Troparion "As the splendor of the firmament on high...". Entering the Holy Sanctuary (Bema), the Bishop deposits the Relics in a silver reliquary box, anoints them with Holy Myron, and secures them with meticulous care, exclaiming thrice: "May the memory of the founders of this holy church be eternal!", to which the people respond: "Eternal memory!". The Bishop recites two prayers, and molten wax-mastic is poured into the central column cavity ("the plant") to seal the Relics. The marble Holy Table slab is positioned upon the Column while the Choirs chant Psalm 144 LXX in Tone 2: "I will exalt Thee, my God...".
 [^503]: The Ceremony of the Consecration: Savvanon Vesting, Invocatory Prayers, and Washing of the Holy Table (§ Ceremony of Consecration 4). Detailed epigraphic synthesis of physical leaf p887 (printed page 872) and facing English leaf p888 (printed page 873). The sacred ablution of the Holy Table: While excess wax-mastic is scraped away and the stone cleaned, the Choirs chant Psalm 22 LXX: "The Lord is my shepherd...". The Bishop exclaims "Blessed is our God", and the Savvanon (a white linen garment covering the sacred archieratical vestments front and back) is placed over the Bishop and bound with a belt, and both arms are wrapped in two new white towels (mandylia) tied with a cord. A prayer mat (epeuchion) is set before the Royal Doors. The Deacon intones "Again and again on bended knees, let us pray to the Lord", the Bishop kneels and recites the Prayer "O God without beginning...", followed by the Deacon's suffrages ("Help us, save us...") and the Great Litany. After the Exclamation, the Bishop approaches the Holy Table, takes pieces of scented soap (nitra / moschosapona), signs them cruciformly, and places them upon the slab in the form of a Cross. Warm water is brought, the Bishop bows and blesses it in secret, and following the Exclamation pours it upon the Table saying: "In the name of the Father, and of the Son, and of the Holy Spirit. Amen." With the warm water and soap, the Bishop and clergy wash the Holy Table and dry it with new natural sponges, cleansing the central Column likewise, while the Choirs chant Psalm 83 LXX: "How lovely are Thy tabernacles, O Lord of hosts...". Following the ablution and drying, the Bishop exclaims "Glory to our God unto the ages.".
 [^504]: The Ceremony of the Consecration: Rosewater, Chrismation with Holy Myron, Katasarkion, and Consecration of Antimensia (§ Ceremony of Consecration 5). Detailed epigraphic synthesis of physical leaf p889 (printed page 874) and facing English leaf p890 (printed page 875). Final chrismation, investiture, and Antimensia consecration: The Bishop takes a flagon (vikion / kanion) of rosewater, pours it upon the Holy Table, washes it, and sponges it with the Antimensia, while the Choirs chant Psalm 50:9 LXX in Tone 7 (Grave Tone): "Thou shalt sprinkle me with hyssop, and I shall be cleansed; Thou shalt wash me, and I shall be made whiter than snow.". The Bishop gives glory: "Blessed is our God, always, now and forever, and unto the ages of ages. Amen.", and takes the vessel of Holy Myron. At the Deacon's proclamation "Let us attend!", the Bishop pours Holy Myron upon the Holy Table, chanting "Alleluia" three times as at Holy Baptism, traces three Crosses (one central, two lateral), and anoints the entire slab and the Column with his hands, wiping them with the Antimensia. The Choirs chant Psalm 132 LXX: "Behold now, what is so good or so pleasant...", after which the Bishop exclaims the Doxology and "Glory to Thee, O Holy Trinity our God, glory to Thee unto the ages of ages. Amen.". Pieces of linen imprinted with the images or names of the Four Evangelists are affixed to the four corners of the Table with wax-mastic. The Katasarkion (white linen under-vestment) is unfolded over the Holy Table and its cords are tied cruciformly beneath it around the Column while Psalm 131 LXX: "Remember, O Lord, David, and all his meekness..." is sung. The Bishop exclaims "Glory to God unto the ages. Amen.", washes his hands in a clean basin or the sacrarium (choneuterion) so not a single drop is lost, and dries them with a clean towel. He then spreads the outer vestment (Indytion / Ependytes) over the Holy Table while Psalm 92 LXX: "The Lord is King, He is robed in majesty..." is chanted, and proclaims "Glory to Thee, O Holy Trinity our God, unto the ages of ages. Amen.". Finally, the Bishop unfolds the consecrated Antimensia upon the Holy Table one atop another, and upon them the Antimension of the new church.
 [^505]: The Ceremony of the Consecration Concluded: Censing, Anointing of the Pillars, Altar Lamp, and Dismissal (§ Ceremony of Consecration 6). Detailed epigraphic synthesis of physical leaf p891 (printed page 876) and facing English leaf p892 (printed page 877). Completion of the altar investiture and consecration rites: Following the deposition of the Antimensia, the Holy Gospel Book is placed upon the Holy Table, and the sacred Artophorion (Tabernacle) is set in its appointed place. The Bishop and clergy venerate the Holy Gospel. The Bishop takes the censer and censes the Holy Table, the sanctuary, and the entire church, while the Choirs chant Psalm 25 LXX: "Judge me, O Lord...". A priest follows the Bishop carrying Holy Myron; with a natural sponge tied to the tip of a reed, he traces the sign of the Cross with Holy Myron upon every column and arch of the church. Upon the completion of the censing and anointing, the Bishop proclaims in a loud voice: "Glory to the holy, all-powerful, and life-creating Trinity, always, now and forever, and unto the ages of ages. Amen.". The Deacon intones the Small Litany, the Bishop pronounces the Exclamation: "For unto Thee is due all glory...", followed by the Deacon's suffrage "Let us pray to the Lord", the Bishop's prayer "O Lord our God, Maker of heaven and earth...", the blessing of peace, the prayer of bowing of heads "We thank Thee, O Lord...", and the dismissal suffrage "Let us go forth in peace". The Apostolos is read by the Deacon and the Holy Gospel by the Bishop. A new vigil lamp (kandela) with olive oil and a fresh wick is brought to the Bishop; with his own hands he lights the wick while chanting Tone 1, thrice, the first verse of the Great Doxology: "Glory to God in the highest...", and places the lit lamp upon the Holy Table. The Bishop then divests of the Savvanon (linen apron), the wrist cloths (mandylia), and the belt, which are distributed to the faithful as sanctified tokens. Attendants kindle all the lamps and candles throughout the church while the Doxastikon of the Patron Saint is sung, followed by Now and forever: "While celebrating the commemoration of the Consecration, O Lord...", the Trisagion Prayers, the Dismissal Troparia, the Litany of Completion, Exclamation, and the episcopal Dismissal.
 [^506]: The Divine Liturgy for the Consecration of a Church: The Festal Antiphons (§ Consecration Liturgy 1). Detailed epigraphic synthesis of physical leaf p893 (printed page 878) and facing English leaf p894 (printed page 879). Special proper Antiphons appointed for the Divine Liturgy of Consecration: The first Antiphon consists of verses from Psalms 25:8, 83:1–2, 83:4, and 83:5 LXX: "O Lord, I have loved the beauty of Thy house...", "How lovely are Thy tabernacles, O Lord of hosts...", "Thine altars, O Lord of hosts, my King and my God!", and "Blessed are they that dwell in Thy house: they will praise Thee unto the ages of ages.", with the refrain "Through the intercessions of the Theotokos, Savior, save us.". The second Antiphon consists of verses from Psalm 64:1, 64:2, 64:4, and 64:5 LXX: "To Thee praise is due, O God, in Zion...", "Hear my prayer: unto Thee all flesh shall come.", "Blessed is the one whom Thou hast chosen and taken to Thyself...", and "Holy is Thy temple, wonderful in righteousness.", with the refrain "Save us, O Son of God, Who didst arise from the dead, who sing to Thee: Alleluia!". The third Antiphon consists of verses from Psalm 83:11, 83:12, and 83:13 LXX: "I have chosen rather to be an abject in the house of my God...", "For the Lord God loves mercy and truth...", and "The Lord will not withhold good things from them that walk in innocence.", with the Dismissal Troparion of the Consecration ("As the splendor of the firmament on high...") sung as the refrain.
-[^507]: The Divine Liturgy Concluded and Precedence Rules for Feasts of the Lord (§ Consecration Liturgy 2). Detailed epigraphic synthesis of physical leaf p895 (printed page 880) and facing English leaf p896 (printed page 881). Liturgical propers concluded and rubrical hierarchy: The lectionary pericopes of the Apostolos and the Holy Gospel are appointed according to the occurring day and rank of the service. The Communion Hymn is Psalm 25:8 LXX: "O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwelleth. Alleluia.", followed by the Dismissal. A cardinal typikon note governs concurrence: If the Consecration of a church is celebrated on a Master Feast (Feast of the Lord), the festal propers of the Master Feast take precedence over those of the Consecration, and the Gospel reading and Communion Hymn of the Master Feast are chanted instead of those of the Consecration, preserving the immutable Christological hierarchy of the Byzantine-Ruthenian rite.
+[^507]: The Divine Liturgy Concluded and Precedence Rules for Feasts of the Lord (§ Consecration Liturgy 2). Detailed epigraphic synthesis of physical leaf p895 (printed page 880) and facing English leaf p896 (printed page 881). Liturgical propers concluded and rubrical hierarchy: The lectionary pericopes of the Apostolos and the Holy Gospel are appointed according to the occurring day and rank of the service. The Communion Hymn is Psalm 25:8 LXX: "O Lord, I have loved the beauty of Thy house, and the place where Thy glory dwells. Alleluia.", followed by the Dismissal. A cardinal typikon note governs concurrence: If the Consecration of a church is celebrated on a Master Feast (Feast of the Lord), the festal propers of the Master Feast take precedence over those of the Consecration, and the Gospel reading and Communion Hymn of the Master Feast are chanted instead of those of the Consecration, preserving the immutable Christological hierarchy of the Byzantine-Ruthenian rite.
 [^508]: Ceremony of the Accession of a Patriarch to the Ecumenical Throne: Arrival, Reception, and Supplications (§ Accession of a Patriarch 1). Detailed epigraphic synthesis of physical leaf p897 (printed page 882) and facing English leaf p898 (printed page 883). The ancient Constantinopolitan rite of patriarchal accession (Anarrhesis): The Patriarch arrives in state at the Patriarchate and is received at the Great Portal of the patriarchal cathedral church by the entire assembled clergy. Accompanying Hierarchs enter directly into the Holy Sanctuary (Bema); four deacons vest in sacred vestments, two censing the Patriarch with Dikerotrikera as he enters the nave while two accompany him. Preceded by the Primikirios carrying the imperial double candle (Divamboulon), and with the Choirs chanting "It is truly meet to bless thee, O Theotokos...", the Patriarch enters the Sanctuary. The senior Hierarch by episcopal ordination vests in Epitrachilion and Omophorion and intones "Blessed is our God, always, now and forever, and unto the ages of ages. Amen.", followed by the Trisagion Prayers and the Exclamation "For Thine is the kingdom...". The Hierarchs chant the Dismissal Troparion of Pentecost ("Blessed art Thou, O Christ our God...") and the Kontakion of Pentecost ("When the Most High came down..."). The senior Hierarch intones the Ektenia of Fervent Supplication ("Have mercy on us, O God..."), with threefold responses of "Lord, have mercy" from the Hierarchs, supplications for all devout and Orthodox Christians, and the priestly Exclamation.
 [^509]: Ceremony of the Accession of a Patriarch: Investiture, Enthronement, Polychronion, and Dismissal (§ Accession of a Patriarch 2). Detailed epigraphic synthesis of physical leaf p899 (printed page 884) and facing English leaf p900 (printed page 885). Solemn investiture, elevation to the throne, and dismissal: Following the Exclamation, the Dismissal of Pentecost is pronounced: "May Christ our true God, Who sent down the All-Holy Spirit from heaven upon His holy disciples and apostles in the form of fiery tongues...", omitting the concluding clause "Through the prayers of our holy fathers...". The Patriarch, vested in Mandya, Epitrachilion, and Omophorion, stands before the Holy Table, intones "Blessed is our God", reads the Trisagion Prayers, and gives the Dismissal. The Patriarch stands at the Beautiful Gate (Royal Doors); the Great Logothete comes forward and with customary proclamation officially invites him to mount the Ecumenical Throne. The Patriarch renders thanks; the Metropolitan of Herakleia approaches, delivers the traditional allocution, bestows the Patriarchal Pastoral Staff upon him, and kisses his right hand. Escorted by the Great Logothete and deacons, His All-Holiness ascends the throne and blesses the people with the Precious Cross, while the Choirs sing "For many years, Master!" (Eis polla eti, Despota). The Protopsaltes (First-Chanter) leads the Choirs in chanting the Patriarchal Polychronion ("May the Lord God preserve for many years our most holy and venerable Master and Lord, the Ecumenical Patriarch..."). A formal allocution is delivered from the Ambo (customarily by the Great Logothete). The Choirs chant "Our Master and Chief Priest, O Lord, preserve for many years!", while the Patriarch blesses the assembly. The clergy in the Sanctuary intone "Through the prayers of our holy Master, Lord Jesus Christ our God, have mercy on us and save us. Amen.", concluding the solemn rite of patriarchal accession.
 [^510]: Ceremony of the Return of a Patriarch to the Ecumenical Throne: Arrival, Reception, and Supplications (§ Return of a Patriarch 1). Detailed epigraphic synthesis of physical leaf p901 (printed page 886) and facing English leaf p902 (printed page 887). The Constantinopolitan ceremonial order for the reinstallation and return (Epanodos) of the Ecumenical Patriarch to the patriarchal throne: Arriving at the Patriarchate with his customary entourage, the Patriarch halts before the Great Portal of the cathedral church and vests in the Mandya. The accompanying Hierarchs enter directly into the Holy Sanctuary (Bema). Preceded by the Primikirios carrying the double-candled Divamboulon and four deacons (two of whom cense the Patriarch as he enters), the Choirs chant "It is truly meet to bless thee, O Theotokos...". The Patriarch stands in the midst of the church and imparts a blessing, but without carrying the patriarchal staff. Two Hierarchs escort him to ascend the Patriarchal Cathedra; the Metropolitan of Herakleia approaches, delivers the traditional greeting, bestows the Patriarchal Staff upon him, kisses his right hand, and enters the Sanctuary. The Great Logothete stands at the Parathrone. The Great Ecclesiarch (Grand Master of Ceremonies) invests the Patriarch with Epitrachilion and Omophorion. The Great Archdeacon exclaims "Bless, Master", the Patriarch intones the blessing, the Archdeacon reads the Trisagion Prayers, and the Patriarch gives the Exclamation. The First Choir chants the Dismissal Troparion of Saint George in Tone 4 ("As the liberator of captives..."), and the Second Choir chants the Theotokion ("Open unto us the gate of compassion..."). The Great Archdeacon intones the Ektenia of Fervent Supplication ("Have mercy on us, O God..."), with petitions for all devout Orthodox Christians, for the Archbishop, and for preservation of the city and temple. The Patriarch intones the Exclamation "Hear us, O God our Savior...", the Protopsaltes sings the Patriarchal Polychronion, and the customary allocution is delivered from the Ambo.
@@ -6235,8 +6235,8 @@ Greek-English Desk Dictionary*, D. C. Divry, Inc., New York, 1982.
 [^557]: Physical leaf p996 (printed page [981] / TD-2), opening the *Introduction to This Dictionary* of the extensive scholarly appendix *Dictionary of Terms Related to the Typikon* compiled, adapted, and edited by George T. Demos, MD, for the 2007 Athens/Denver bilingual publication of the 1888 Violakis Typikon. While the 1888 Greek original printed in Constantinople ends with the Eortodromion tables on page 978 (physical leaf p993), this bilingual critical edition incorporates Demos's lexicon (pp. TD-1 to TD-112) as an integral reference monument. Demos outlines the scope of the dictionary, acknowledging its primary foundation in the 1888 Violakis Typikon and Theodore Bogdanos's 1993 study *The Byzantine Liturgy: Hymnology and Order*.
 [^558]: Physical leaf p998 (printed page [983] / TD-4), concluding the preliminary matter of the *Dictionary of Terms Related to the Typikon* with Dr. George T. Demos's acknowledgements to the hierarchs, clergy, and liturgical consultants of the Greek Orthodox Metropolis of Denver, specifically noting Rev. Protopresbyter Robert T. Athas, translator of the English text of the 1888 Violakis Typikon, and Theodore Bogdanos, Professor Emeritus of San Jose State University.
 [^559]: Physical leaf p1000 (printed page [985] / TD-6), concluding the first section (Letters A through E) of the *Brief Alphabetical Index of Typikon Related Terms* (pp. TD-5 to TD-6) preceding the full definitions in the *Dictionary of Terms Related to the Typikon*. In this critical edition, entries designating Greek liturgical terms are harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, rectifying non-canonical terminology such as *Apolytikia* to "Dismissal Troparia" and aligning modal designations with the Ruthenian Tone system (Tones 1–8).
-[^560]: Physical leaf p1002 (printed page [987] / TD-8), continuing the *Brief Alphabetical Index of Typikon Related Terms* (Letters I through M) in Dr. George T. Demos's liturgical lexicon. In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, non-canonical variants in the index are reconciled to canonical UGCC nomenclature: *Kinonikon* is indexed under *Communion Hymn*, *Irmos* under *Heirmos*, *Leave-taking* under *Apodosis*, *Liti* under *Litiya*, *Kathisma Hymn* under *Sessional Hymn*, and *Kimisis* under *Dormition*.
-[^561]: Physical leaf p1004 (printed page [989] / TD-10), continuing the *Brief Alphabetical Index of Typikon Related Terms* (Letters P through S). Entries designating liturgical times and items have been harmonized with the Master Translation Standard (MTS-1): *Post-feast* and *Pre-feast* are rectified to canonical *Afterfeast* and *Forefeast*, *Prosomion* to *Prosomoion*, and *Royal Door* to *Royal Doors*. Psalter citations (e.g. Psalms 50, 103, 118, 119) are anchored in the canonical Septuagint (LXX) numbering with corresponding Masoretic (MT) references supplied in brackets.
+[^560]: Physical leaf p1002 (printed page [987] / TD-8), continuing the *Brief Alphabetical Index of Typikon Related Terms* (Letters I through M) in Dr. George T. Demos's liturgical lexicon. In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, non-canonical variants in the index are reconciled to canonical UGCC nomenclature: *Kinonikon* is indexed under *Communion Hymn*, *Heirmos* under *Heirmos*, *Apodosis* under *Apodosis*, *Liti* under *Litiya*, *Kathisma Hymn* under *Sessional Hymn*, and *Kimisis* under *Dormition*.
+[^561]: Physical leaf p1004 (printed page [989] / TD-10), continuing the *Brief Alphabetical Index of Typikon Related Terms* (Letters P through S). Entries designating liturgical times and items have been harmonized with the Master Translation Standard (MTS-1): *Afterfeast* and *Forefeast* are rectified to canonical *Afterfeast* and *Forefeast*, *Prosomion* to *Prosomoion*, and *Royal Door* to *Royal Doors*. Psalter citations (e.g. Psalms 50, 103, 118, 119) are anchored in the canonical Septuagint (LXX) numbering with corresponding Masoretic (MT) references supplied in brackets.
 [^562]: Physical leaf p1006 (printed page [991] / TD-12), concluding the *Brief Alphabetical Index of Typikon Related Terms* (Letters Y through Z and Bibliography, pp. TD-5 to TD-12). Dr. Demos provides citations to the bibliography on page TD-174 for further reference on Byzantine liturgical terminology, hymnography, and patriarchal ceremonies.
 [^563]: Physical leaf p1007 (printed page [992] / TD-13), opening the main definitions of the *Extended Dictionary of Typikon Related Terms* with the entries for Abstinence (*ἐγκράτεια*), Acolyte (*ἀκόλουθος*), Acrostic (*ἀκροστιχίς*), and the episcopal eagle rug (*Ἀετός* / Slavonic *Orlets*). In the Acrostic entry, the Scriptural citation referencing the great alphabetic acrostic psalm is harmonized with the Septuagint canon as Psalm 118 [MT 119], comprising 22 stanzas of 8 verses corresponding to the 22 letters of the Hebrew abjad.
 [^564]: Physical leaf p1008 (printed page [993] / TD-14), concluding the entry for *Aetos* and defining *Afterfeast* (*Μεθέορτα*), *Aftomelon* (*Αὐτόμελον*), and *Agia Trapeza* (*Ἁγία Τράπεζα* — Holy Table / Altar Table). Dr. Demos cites the fundamental patristic principle articulated by St. Ignatius of Antioch (*Epistle to the Philadelphians*, 4) concerning the unity of the Eucharist, the Holy Table, and the bishop. In accordance with the Master Translation Standard (MTS-1), Holy Trinity Deity pronouns (*His gifts*, *His care*) are capitalized with 100% hieratic consistency.
@@ -6250,8 +6250,8 @@ Greek-English Desk Dictionary*, D. C. Divry, Inc., New York, 1982.
 [^572]: Physical leaf p1020 (printed page [1005] / TD-26), concluding the liturgical exposition of the Eucharistic Anaphora (*Ἀναφορά*) and its Antiochene/West Syrian development, followed by definitions for *Anastasimon* (Resurrectional hymnography) and *Anastasimon Apolytikion* (Resurrection Dismissal Troparion; lit. 'Dismissal Troparion of the Resurrection'). In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, the Greek designation *Apolytikion* is harmonized with canonical UGCC usage as Dismissal Troparion (*Відпустительний тропар*), and all eight Resurrection Troparia are ordered according to Tones 1 through 8 of the Oktoechos.
 [^573]: Physical leaf p1021 (printed page [1006] / TD-27), concluding the entry for the Resurrection Dismissal Troparia (*Ἀναστάσιμα Ἀπολυτίκια*) and presenting the liturgical entries for *Anatolikon*, the Gradual Antiphons (*Ἀναβαθμοί* / Slavonic *Stepénny*), *Angel*, *Anointment*, and the *Anthologion*. The eight Resurrection Dismissal Troparia cycle through Tones 1 to 8, beginning on the Third Sunday of Pascha (Sunday of the Myrrh-Bearing Women) with Tone 2 (**"When You descended"** / *Ὅτε κατῆλθες*). The Gradual Antiphons are drawn from the fifteen Songs of Ascents (Psalms 119–133 LXX [MT 120–134]), divided into three antiphons per tone except Tone 8 which has four, with Tone 4 Antiphon 1 appointed on Feasts.
 [^574]: Physical leaf p1022 (printed page [1007] / TD-28), concluding the entry for the *Anthologion* and defining the *Antidoron* (*ἀντίδωρον*) and the *Antiminsion* (*Ἀντιμήνσιον* / Slavonic *Antimins*). The Antiminsion, consecrated by the presiding hierarch with Holy Myron and sealed with holy relics of martyrs in wax mastic, serves as the consecrated portable altar table without which the Divine Liturgy cannot be celebrated. It is wrapped inside the silk *Iliton* (*Εἱλητόν*), symbolizing both the swaddling clothes of the Nativity and the burial shroud (*sindon*) of Christ.
-[^575]: Physical leaf p1024 (printed page [1009] / TD-30), defining *Apocrypha*, *Apodipnon* (Compline), the *Apodosis* (*ἀπόδοσις* / Slavonic *Otdániye*), *Apokrisis*, *Apolysis* (Dismissal), and the *Apolytikion* (Dismissal Troparion / *Відпустительний тропар*). In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, the canonical term *Apodosis* is preserved, designating the final octave day concluding a major feast's afterfeast (*metheorta*), and the Greek hymnographic term *Apolytikion* is harmonized with canonical UGCC usage as Dismissal Troparion.
-[^576]: Physical leaf p1026 (printed page [1011] / TD-32), defining the *Apostolos* (Epistle Lectionary), *Archidiakonos* (Archdeacon), *Archieratikon* (Hierarchical Service Book / Slavonic *Chinovnik* / Roman *Pontificale*), *Archierefs* (Hierarch), and the monastic rank of *Archimandrite*. The *Archieratikon* contains the pontifical ordinals for major orders (deacon, presbyter, bishop) and minor orders (reader, subdeacon), along with the hierarchical liturgies and the solemn orders for the consecration of holy antiminsia and church buildings.
+[^575]: Physical leaf p1024 (printed page [1009] / TD-30), defining *Apocrypha*, *Apodipnon* (Compline), the *Apodosis* (*ἀπόδοσις* / Slavonic *Otdániye*), *Apokrisis*, *Apolysis* (Dismissal), and the *Troparion* (Dismissal Troparion / *Відпустительний тропар*). In accordance with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, the canonical term *Apodosis* is preserved, designating the final octave day concluding a major feast's afterfeast (*metheorta*), and the Greek hymnographic term *Troparion* is harmonized with canonical UGCC usage as Dismissal Troparion.
+[^576]: Physical leaf p1026 (printed page [1011] / TD-32), defining the *Apostolos* (Epistle Lectionary), *Archidiakonos* (Archdeacon), *Archieratikon* (Hierarchical Sluzhebnik / Slavonic *Chinovnik* / Roman *Pontificale*), *Archierefs* (Hierarch), and the monastic rank of *Archimandrite*. The *Archieratikon* contains the pontifical ordinals for major orders (deacon, presbyter, bishop) and minor orders (reader, subdeacon), along with the hierarchical liturgies and the solemn orders for the consecration of holy antiminsia and church buildings.
 [^577]: Physical leaf p1027 (printed page [1012] / TD-33), continuing the historical and canonical exposition of the office of Archimandrite (*Ἀρχιμανδρίτης* / Slavonic *Arkhimandrit*). The text outlines their liturgical vesture (pectoral cross, epigonation or *palitsa*, pastoral staff, and the monastic mantle adorned with the four embroidered *tabulae* or 'tables of the law'), their precedence among the presbyterate, and their historical survival in Southern Italy and Sicily, notably at the Archimandritate of the Basilian Abbey of San Salvatore in Messina.
 [^578]: Physical leaf p1028 (printed page [1013] / TD-34), concluding the entry for Archimandrite and defining the *Artoforion* (Tabernacle / Slavonic *Darokhranitel’nitsa*), *Artoklasia* (Blessing of the Loaves / Slavonic *Blagoslovenie khlebov*), *Asmatikon*, and the *Asterisk* (*Ἀστερίσκος* / Slavonic *Zvezditsa*). The rite of Artoklasia, commemorating the miracle of the five loaves (Matthew 14:13–21), is celebrated at Great Vespers during an All-Night Vigil with the blessing of five loaves of wheat bread, wine, and oil.
 [^579]: Physical leaf p1029 (printed page [1014] / TD-35), concluding the entry for the *Asterisk* (symbolizing the Star of Bethlehem over the Diskos) and presenting entries for the *Baldachin* (Ciborium), *Bastuni* (pastoral walking staff), the *Beatitudes* (*Μακαρισμοί*), and the *Beautiful Gate* (*Ὡραῖα Πύλη* / Royal Doors). In Byzantine and Ruthenian ecclesiology, the central sanctuary doors symbolize the entrance into the heavenly Kingdom and the virginal womb of the Theotokos through which Christ came into the world.
@@ -6296,7 +6296,7 @@ Greek-English Desk Dictionary*, D. C. Divry, Inc., New York, 1982.
 [^618]: Physical leaf p1068 (printed page [1053] / TD-74), concluding the *Gerontika* (reading of the Six Psalms, Psalm 50, and First Hour prayer), cross-referencing *Gospels, Book of the* (*Εὐαγγέλιον*), defining patriarchal dignities (*Great Archdeacon*, *Great Archimandrite*, *Great Chancellor*, *Great Dean*, *Great Ecclesiarch*), defining the initial general litany *Great Ektenis* (*Μεγάλη ᾿Εκτενής*), and commencing the major Eucharistic offertory procession *Great Entrance* (*Μεγάλη Εἴσοδος*).
 [^619]: Physical leaf p1069 (printed page [1054] / TD-75), concluding the *Great Entrance* (deposition of the paten and chalice covered by the Aer upon the Holy Table during the Cherubic Hymn), cross-referencing *Great Ochtoichos* (*Μεγάλη ᾿Οκτώηχος*), defining *Great Protosyngellos* (*Μέγας Πρωτοσύγκελλος*), defining *Great Synapti* (*Μεγάλη Συναπτή*), defining *Hades* (*῞Αδης* / Slavonic *Ad*), cross-referencing *Heirmologic* (*Εἱρμολογικόν* / lit. *Irmologic*), cross-referencing *Hexapsalmos* (*῾Εξάψαλμος*), cross-referencing *Hierarch* (*῾Ιεράρχης*), and cross-referencing *Holy Altar* (*῾Αγία Τράπεζα* / *Ἱερὸν Βῆμα*).
 [^620]: Physical leaf p1070 (printed page [1055] / TD-76), cross-referencing *Holy Chrism* (*῞Αγιον Μῦρον*), defining the central sacrament *Holy Eucharist* (*Θεία Εὐχαριστία*) and its Eucharistic sacrifice, cross-referencing *Holy Myrrh* (*῞Αγιον Μῦρον*), cross-referencing *Holy Sanctuary* (*῞Αγιον Βῆμα*), cross-referencing *Holy Table* (*῾Αγία Τράπεζα* / Slavonic *Prestol*), cross-referencing *Horologion* (*῾Ωρολόγιον* / Slavonic *Chasoslov*), defining the divine offices of the *Hours* (*῟Ωραι* / Slavonic *Chasy*) including the Royal Hours, and cross-referencing *Hymn* (*Ὕμνος* / Troparion).
-[^621]: Physical leaf p1071 (printed page [1056] / TD-77), defining the famous 9th-century Constantinopolitan hymnographer Saint Kassiani and her Great Tuesday Doxastikon (*Τροπάριον τῆς Κασσιανῆς*), cross-referencing the Troparion of the Temple (*Hymn of the Church* / *Τοῦ Ναοῦ*), cross-referencing *Hypakoi* to *Ypakoe* (*῾Υπακοή*), defining *Ichos* (*῏Ηχος* / Tone 1–8), defining the self-metered proper hymn *Idiomelon* (*᾿Ιδιόμελον* / Slavonic *Samoglasen*), defining the sacerdotal service book *Ieratikon* (*῾Ιερατικόν* / Slavonic *Sluzhebnik*), and defining the category *Ieromartys* (*῾Ιερομάρτυς* / Hieromartyr).
+[^621]: Physical leaf p1071 (printed page [1056] / TD-77), defining the famous 9th-century Constantinopolitan hymnographer Saint Kassiani and her Great Tuesday Doxastikon (*Τροπάριον τῆς Κασσιανῆς*), cross-referencing the Troparion of the Temple (*Hymn of the Church* / *Τοῦ Ναοῦ*), cross-referencing *Hypakoi* to *Ypakoe* (*῾Υπακοή*), defining *Ichos* (*῏Ηχος* / Tone 1–8), defining the self-metered proper hymn *Idiomelon* (*᾿Ιδιόμελον* / Slavonic *Samoglasen*), defining the sacerdotal Sluzhebnik *Ieratikon* (*῾Ιερατικόν* / Slavonic *Sluzhebnik*), and defining the category *Ieromartys* (*῾Ιερομάρτυς* / Hieromartyr).
 [^622]: Physical leaf p1072 (printed page [1057] / TD-78), defining *Ieron* (*῾Ιερόν*), cross-referencing *Ieron Vima* (*῾Ιερὸν Βῆμα* / Sanctuary), defining monastic superior *Igumenos* (*῾Ηγούμενος* / Hegumen), defining canonical pastoral dispensation *Ikonomia* (*Οἰκονομία*), describing the icon screen *Ikonostasion* (*Εἰκονοστάσιον* / Templon) with its North, South, and central Holy Doors, defining the poetic hymn stanza *Ikos* (*Οἶκος*, pl. *Οἶκοι*), and commencing the entry for the liturgical corporal *Iliton* (*Εἱλητόν*) and its protective enclosure around the Antiminsion.
 [^623]: Physical leaf p1073 (printed page [1058] / TD-79), concluding the canonical treatise on the *Iliton* (*Εἱλητόν*) and *Antiminsion* (*᾿Αντιμήνσιον* / Antimension, episcopal consecration with Chrism and martyrs' relics, faculty to celebrate), defining the annual liturgical calendar directorium *Imerologion* (*῾Ημερολόγιον* / Typikon calendar), and commencing the classification of fixed feasts as *Immovable Feast* (*᾿Ακίνητος ἑορτή*).
 [^624]: Physical leaf p1074 (printed page [1059] / TD-80), concluding *Immovable Feast*, defining liturgical *Incense* (*Θυμίαμα* / Slavonic *Ladan*), defining the *Introductory Psalm* (Psalm 103 [LXX 103 / MT 104] / *Προοιμιακός*), defining the petitions of peace *Irinika* (*Εἰρηνικά* / Great Litany), defining the model canticle stanza *Heirmos* (*Εἱρμός* / Slavonic *Irmos*), and commencing the enumeration of saints bearing the apostolic dignity of *Isapostolos* (*᾿Ισαπόστολος* / Equal-to-the-Apostles).
@@ -6325,15 +6325,15 @@ Greek-English Desk Dictionary*, D. C. Divry, Inc., New York, 1982.
 [^647]: Physical leaf p1097 (printed page [1082] / TD-103), detailing the *Cycle of the Eight Tones* (*Περίοδοι τῶν ἤχων*), the structural organization of the *Paraklitiki*, the annual inauguration of Tone 1 on Holy Pascha, the daily rotation of Tones 2 through 8 during Bright Week (omitting Tone 7 / Grave Tone), the resumption of Tone 1 on Saint Thomas Sunday, and the weekly Saturday evening shift of Tones until the Fifth Sunday of Lent.
 [^648]: Physical leaf p1098 (printed page [1083] / TD-104), concluding the modal cycle interrupted by Palm Sunday, defining *Moveable Feasts* (*Κινηταὶ ἑορταί*) governed by the Triodion and Pentecostarion and calculated from Holy Pascha, the holy *Myrrh-Bearers* (*Μυροφόροι*), the myrrh-streaming title *Myrovlitis* (*Μυροβλήτης*, Saint Demetrios), Holy Chrism (*Myron*), and commencing the dogmatic and sacramental treatise on the *Holy Mysteries* (*῞Αγια Μυστήρια*).
 [^649]: Physical leaf p1099 (printed page [1084] / TD-105), detailing the theology of the *Holy Mysteries* (the Incarnation, the Resurrection conquering death, the Eucharistic transformation of bread and wine into Christ's true Body and Blood at the Mystical Supper, and the Seven Sacraments: Baptism, Chrismation, Eucharist, Priesthood, Confession, Unction, Matrimony), defining the temple or nave *Naos* (*Ναός*), and introducing the entrance vestibule *Narthex* (*Νάρθηξ* / *Pritvor*, exonarthex, and esonarthex).
-[^650]: Physical leaf p1100 (printed page [1085] / TD-106), concluding the historical functions of the *Narthex* (catechumens, public penitents, almsgiving, and secret catechetical schools under Ottoman subjection and Communist persecution), defining the *Nave* (*Ναός*) in relation to the tripartite architecture of the temple and the Old Testament Tabernacle, the funeral hymn or office *Nekrosimon* (*Νεκρώσιμον*), the *Nicene-Constantinopolitan Creed*, and the minor doxology conclusion *Now and Ever* (*Καὶ νῦν*).
+[^650]: Physical leaf p1100 (printed page [1085] / TD-106), concluding the historical functions of the *Narthex* (catechumens, public penitents, almsgiving, and secret catechetical schools under Ottoman subjection and Communist persecution), defining the *Nave* (*Ναός*) in relation to the tripartite architecture of the temple and the Old Testament Tabernacle, the funeral hymn or office *Hymn for the Departed (Поко́инъ)* (*Νεκρώσιμον*), the *Nicene-Constantinopolitan Creed*, and the minor doxology conclusion *Now and Ever* (*Καὶ νῦν*).
 [^651]: Physical leaf p1101 (printed page [1086] / TD-107), defining the Eucharistic *Oblation* (*Προσκομιδή* / *Proskomide* at the *Prothesis*), the scriptural *Ode* (*ᾠδή* / Canticle), the *Oktoechos* (*᾿Οκτώηχος* / Slavonic *Osmoglasnik*, cross-referenced to the *Paraklitiki*), the all-night prayer *Olonyktia* (*ὁλονυκτία* / Vigil), and introducing the hierarchical vestment *Omophorion* (*᾿Ωμοφόριον* / Slavonic *Omofor*, *Nadramenik*), symbolizing the Good Shepherd bearing the lost sheep upon His shoulders, comparing it to the Western archiepiscopal pallium, and detailing the Great and Small Omophoria.
 [^652]: Physical leaf p1102 (printed page [1087] / TD-108), detailing the liturgical rubrics governing the episcopal use of the Great and Small Omophoria during the Divine Liturgy and concelebrations, and surveying the historical evolution of the Omophorion from early Christian antiquity (attested c. 400 by St. Isidore of Pelusium, the 5th-c. Alexandrian World Chronicle, the Trier ivory relief, and 7th–8th c. frescoes of Santa Maria Antiqua in Rome).
 [^653]: Physical leaf p1103 (printed page [1088] / TD-109), concluding the historical theories of the origin of the Omophorion from late antique civic vesture, defining the saintly title *Omologitis* (*῾Ομολογητής* / Slavonic *Ispovednik*, Confessor of the Faith), and presenting the *Prayer behind the Ambo* (*᾿Οπισθάμβωνος Εὐχή* / Slavonic *Zaamvonnaya Molitva*) chanted before the Master Icon of Christ, with full English text (enforcing the Father Paul Doxology Standard and hieratic Deity pronouns) and the opening Greek text.
-[^654]: Physical leaf p1104 (printed page [1089] / TD-110), concluding the Greek text of the Prayer behind the Ambo, defining the deacon's stole *Orarion* (*᾿Ωράριον* / Slavonic *Orar*), the liturgical *Order of Service* (*Τάξις* / *Чинослѣдованіе*) promulgated in the 1888 Violakis Typikon and service books (*Menaion*, *Triodion*, *Pentecostarion*, *Paraklitiki*, *Euchologion* / *Trebnik*, *Ieratikon* / *Sluzhebnik*), the *Beautiful Gate* (*῾Ωραῖα Πύλη* / Royal Doors), the episcopal eagle rug *Orlets* (*᾿Αετός*), the *Great Book of Hours* (*῾Ωρολόγιον τὸ Μέγα* / Slavonic *Chasoslov*), and introducing the morning office of *Orthros* (*Ὄρθρος* / *Utrenya*).
+[^654]: Physical leaf p1104 (printed page [1089] / TD-110), concluding the Greek text of the Prayer behind the Ambo, defining the deacon's stole *Orarion* (*᾿Ωράριον* / Slavonic *Orar*), the liturgical *Order of Service* (*Τάξις* / *Чинослѣдованіе*) promulgated in the 1888 Violakis Typikon and Sluzhebniks (*Menaion*, *Triodion*, *Pentecostarion*, *Paraklitiki*, *Euchologion* / *Trebnik*, *Ieratikon* / *Sluzhebnik*), the *Beautiful Gate* (*῾Ωραῖα Πύλη* / Royal Doors), the episcopal eagle rug *Orlets* (*᾿Αετός*), the *Great Book of Hours* (*῾Ωρολόγιον τὸ Μέγα* / Slavonic *Chasoslov*), and introducing the morning office of *Orthros* (*Ὄρθρος* / *Utrenya*).
 [^655]: Physical leaf p1105 (printed page [1090] / TD-111), concluding the liturgical office of *Orthros* (*Ὄρθρος* / Matins) culminating with the Great Doxology and Dismissal Troparion (lit. 'Apolytikion'), defining monastic hagiographical titles *Osios* / *Osia* (*Ὅσιος* / Slavonic *Prepodobnyy*, Venerable Monastic) and *Osiomartys* (*῾Οσιομάρτυς* / *Prepodobnomuchenik*, Venerable Martyr), the dome icon of Christ the Almighty *Pantokrator* (*Παντοκράτωρ* / *Vsederzhitel*), and introducing the liturgical compilation *Paraklitiki* (*Παρακλητική* / Great Oktoechos).
 [^656]: Physical leaf p1106 (printed page [1091] / TD-112), concluding the combinatory rubrics of the *Paraklitiki*, defining the festal Eve *Paramoni* (*Παραμονή* / Slavonic *Navecherie*, *Sochelnik*), the supplement *Parartima*, the patriarchal chancellor's chair *Parathronon* (*Παράθρονο*), the Feast of Feasts *Pascha* (*Πάσχα*), the sacred Eucharistic plate *Paten* (*Δισκάριον* / *Diskos*), the abbatial and episcopal walking staff *Pateritsa* (*Πατερίτσα* / *Posokh*), the Ecumenical *Patriarch*, and introducing the serpentine Patriarchal Pastoral Staff (*Πατριαρχικὴ ποιμαντορικὴ ῥάβδος*).
 [^657]: Physical leaf p1107 (printed page [1092] / TD-113), concluding the symbolism of the pastoral staff (rod of Moses), defining the *Pentecostarion* (*Πεντηκοστάριον* / Slavonic *Tsvetnaya Triod* as book and Paschal season), the liturgical clause *Phrase* (*Φράσις*), the episcopal crozier *Pimantoriki Ravdos* (*Ποιμαντορικὴ ῥάβδος*), the feast of the *Placing* of sacred relics (*Κατάθεσις* / *Polozhenie*, Robe of the Theotokos at Blachernae), the Litany of Completion *Plirotika* (*Πληρωτικά* / *Prositelnaya Ekteniya*), the acclamation *Polychronion* (*Πολυχρόνιον* / *Mnogoletie*), and introducing the festal Psalmody of the *Polyeleos* (*Πολυέλεος* / *Полиелей*, Psalms 134–135 LXX).
-[^658]: Physical leaf p1108 (printed page [1093] / TD-114), concluding the dual liturgical and architectural definition of the *Polyeleos* (*Πολυέλεος*, dome chandelier, swinging Athonite vigil rite, and circular *choros*), cross-referencing *Post-Feast* (*Μεθέορτα*, enforcing canonical *Afterfeast*), *Postscript* (*Υπόμνημα*), the Holy Chalice (*Ποτήριον*), the Psalmody of the *Praises* (*Αἶνοι* / Psalms 148–150 LXX / Lauds), *Pre-Feast* (enforcing canonical *Forefeast*), the sacred order of the *Priest* (*῾Ιερεύς*), the patriarchal master of ceremonies *Primikirios* (*Πριμικήριος*), and introducing the preparatory liturgical period of the *Forefeast* (*Προεόρτια* / *Predprazdnstvo*).
+[^658]: Physical leaf p1108 (printed page [1093] / TD-114), concluding the dual liturgical and architectural definition of the *Polyeleos* (*Πολυέλεος*, dome chandelier, swinging Athonite vigil rite, and circular *choros*), cross-referencing *Afterfeast* (*Μεθέορτα*, enforcing canonical *Afterfeast*), *Postscript* (*Υπόμνημα*), the Holy Chalice (*Ποτήριον*), the Psalmody of the *Praises* (*Αἶνοι* / Psalms 148–150 LXX / Lauds), *Pre-Feast* (enforcing canonical *Forefeast*), the sacred order of the *Priest* (*῾Ιερεύς*), the patriarchal master of ceremonies *Primikirios* (*Πριμικήριος*), and introducing the preparatory liturgical period of the *Forefeast* (*Προεόρτια* / *Predprazdnstvo*).
 [^659]: Physical leaf p1109 (printed page [1094] / TD-115), concluding the definition of the *Forefeast* (*Προεόρτια*) and the adjective *Proeortion*, defining the monastic superior or rector *Proestos* (*Προεστώς* / Slavonic *Nastoyatel*), the Old Testament lectionary *Prophetologion* (*Προφητολόγιον* / Slavonic *Paremiynik*), the Introductory Psalm of Vespers *Proimiakos Psalmos* (*Προοιμιακὸς Ψαλμός* / Psalm 103 LXX), the cathedral Dean *Proistamenos* (*Προϊστάμενος*), and introducing the responsorial scripture chant *Prokeimenon* (*Προκείμενον* / Slavonic *Prokimen*).
 [^660]: Physical leaf p1110 (printed page [1095] / TD-116), concluding the liturgical function of the *Prokeimenon* (*Προκείμενον*), defining the Eucharistic bread *Prosphora* (*Προσφορά* / Slavonic *Prosvira*, Holy Lamb *IC XC NIKA*), reverent veneration *Proskynesis* (*Προσκύνησις*), the 18th Kathisma *Ta Pros Kyrion* (*Τὰ Πρὸς Κύριον* / Psalms 119–133 LXX, Gradual Psalms), the Service of Preparation *Proskomide* (*Προσκομιδή* / *Proskomidiya* at the *Prothesis*), and model-governed hymns *Prosomion* (*Προσόμοιον* / Slavonic *Podoben*, derived from an *Automelon*).
 [^661]: Physical leaf p1111 (printed page [1096] / TD-117), defining the bodily posture of *Prostration* (*κατάπτωσις* / Slavonic *zemnoy poklon*), the general methodological introduction *Protheoria* (*προθεωρία*) composed by George Violakis, and introducing the northern Sanctuary alcove and Table of Oblation *Prothesis* (*Πρόθεσις* / Slavonic *Zhertvennik*) where the *Proskomide* is celebrated, tracing its architectural evolution from the external sacristy (*Skevophylakion*).
@@ -6363,7 +6363,7 @@ Greek-English Desk Dictionary*, D. C. Divry, Inc., New York, 1982.
 [^685]: Physical leaf p1135 (printed page [1120] / TD-141), recording the Prothesis vesting prayer for the priestly Sticharion citing Isaiah 61:10 with the Father Paul Doxology Standard, defining the hymnographic structure of the *Stichiron* (*στιχηρόν* / pl. *στιχηρά* / Slavonic *stikhiry*) chanted with psalm verses (*stichoi*) at Vespers and Matins (Praises/Ainoi), and explaining the Sunday Aposticha acrostic cycle across the eight Tones.
 [^686]: Physical leaf p1136 (printed page [1121] / TD-142), distinguishing the melismatic melodies of the *Stichirarion* from the syllabic *Heirmologion*, defining the sequential psalm recitation of *Stichologia* (*στιχολογία* / Slavonic *stikhosloviye*), the scriptural *Stichos* (*στίχος* / verse), Western cross-references for the liturgical *Stole*, the classical dance origins of the *Strophe* (*στροφή*), the petitionary grouping of the *Synapte* (*συναπτή* / litany), and the historical transformation of the *Synaxarion* (*Συναξάριον*) from an early lectionary index (*capitulare*) into the hagiographical calendar read at Matins.
 [^687]: Physical leaf p1137 (printed page [1122] / TD-143), concluding the transmission of the *Synaxarion* compiled by Symeon Metaphrastes and integrated into the twelve volumes of the Menaion, defining the post-festal liturgical assembly of the *Synaxis* (*σύναξις* / Slavonic *Sobor*) honoring central actors in salvation history (January 7 Forerunner, December 26 Theotokos), and detailing the architectural and ecclesiological significance of the apse *Synthronon* (*σύνθρονον*) in the Patriarchal Church of Saint George at the Phanar.
-[^688]: Physical leaf p1138 (printed page [1123] / TD-144), concluding the teaching authority of the episcopate seated upon the *Synthronon*, defining rubrical *Taxis* (*τάξις* / order of service), the Eucharistic *Tabernacle* (*᾿Αρτοφόριον* / Slavonic *Darokhranilnytsia*), sacred liturgical rites (*τεлеτή*), the architectural evolution of the Byzantine *Templon* (*τέμπλον*) into the multi-tiered *Iconostasis* with its Holy Doors and Angel Doors, and introducing the sacristy drain basin (*Thalassidion* / *χωνευτήριον* / *piscina*).
+[^688]: Physical leaf p1138 (printed page [1123] / TD-144), concluding the teaching authority of the episcopate seated upon the *Synthronon*, defining rubrical *Taxis* (*τάξις* / order of service), the Eucharistic *Tabernacle* (*᾿Αρτοφόριον* / Slavonic *Darokhranilnytsia*), sacred liturgical rites (*τελετή*), the architectural evolution of the Byzantine *Templon* (*τέμπλον*) into the multi-tiered *Iconostasis* with its Holy Doors and Angel Doors, and introducing the sacristy drain basin (*Thalassidion* / *χωνευτήριον* / *piscina*).
 [^689]: Physical leaf p1139 (printed page [1124] / TD-145), detailing the liturgical ablution function of the *Thalassidion* (*θαλασσίδιον* / *sacrarium*) prescribed in the *Ieratikon* (*Sluzhebnik*), citing the celebrants' vesting Lavabo prayer from Septuagint Psalm 25:6–12 [MT 26:6–12], noting monastic tonsure customs, defining the hagiographical title *Thaumaturge* (*Θαυματουργός* / Wonderworker), and introducing the Matins chant **"God is the Lord"** (*Θεὸς Κύριος* / Slavonic *Bog Gospod’*).
 [^690]: Physical leaf p1140 (printed page [1125] / TD-146), concluding the liturgical sequence of **"God is the Lord"** (*Θεὸς Κύριος*), defining the Marian hymn collection *Theotokarion* (*Θεοτοκάριον*), the structural function and Saturday entrance Dogmatikon (*Δογματικόν*) rubrics of the *Theotokion* (*Θεοτοκίον* / Slavonic *bohorodichnyj*), the dogmatic definition of the *Theotokos* (*Θεοτόκος* / Birth-giver of God) formulated at the Third Ecumenical Council of Ephesus (431 A.D.), the liturgical office *Theia Akolouthia* (*θεία ἀκολουθία*), and introducing the episcopal *Throne* (*θρόνος*).
 [^691]: Physical leaf p1141 (printed page [1126] / TD-147), concluding the description of the episcopal *Throne* (*θρόνος*) on the soleas and the apse *Synthronon*, detailing the historic Patriarchal Throne of Saint George at the Phanar (inscriptions of Patriarch Jeremiah II in 1577, craftsman Lavrentios, restoration under Paisios I and Iakovos), defining the *Parathrone* (*παραθρόνιον*) for the Grand Protosyngellos, the Magnificat hymn *Timiotera* (*Τιμιωτέρα* / Slavonic *Chestneyshuyu* / Luke 1:46–55) at the 9th Ode of Matins, and cross-referencing *Tone* (*ἦχος*) to *Mode*.

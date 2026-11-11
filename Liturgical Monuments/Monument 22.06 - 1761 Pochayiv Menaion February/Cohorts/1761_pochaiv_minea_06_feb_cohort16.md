@@ -4,10 +4,10 @@
 *Sticheron:*
 Having become a disciple of the Word through the preacher and divine apostle, the all-praised Paul, O thrice-blessed Onesimus, thou receivest from Christ a threefold crown, being adorned as a priest, as a preacher, and as a sufferer, O all-praised one.
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 With the staff of thy intercession, O pure Birthgiver of God, drive away the bestial passions of my wretched soul, directing me peacefully unto life, and number me among the flock of thine elect sheep.
 
-*Stavrotheotokion. Podoben:*
+*Stavrotheotokion. Podoben (Подо́бенъ):*
 When the blameless Virgin saw the Lamb lifted up upon the Cross, weeping she cried aloud: "O my sweet Child, what is this new and most glorious sight? How art Thou, Who holdest all things in Thy fist, nailed in the flesh upon the Tree?"
 
 *Troparion, Tone 3:*
@@ -159,10 +159,10 @@ Brightly elevated in the faith of Christ and divine glory, O glorious Pamphilus,
 *Sticheron:*
 A company didst thou gather, O mighty Pamphilus, of valiant sufferers, twelve in number; ye showed yourselves a divine army, wherewith having conquered the enemies, ye were taken up manifoldly unto the Lord, having finished your course by martyrdom.
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 With the staff of thy intercession, O pure Birthgiver of God, drive away the bestial passions of my wretched soul, directing me peacefully unto life, and number me among the flock of thine elect sheep.
 
-*Stavrotheotokion. Podoben:*
+*Stavrotheotokion. Podoben (Подо́бенъ):*
 When the blameless Virgin saw the Lamb lifted up...
 
 === LEAF p156 ===

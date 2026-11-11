@@ -104,7 +104,7 @@ XXIV.) If It Be Sunday and with the Forefeast or with the Apodosis of Any Feast 
 
 On the evening of the same day the Apodosis takes place for the honor of the temple, as was said above.
 
-### ARTICLE II.
+**ARTICLE II.**
 
 §. 93.
 
@@ -132,9 +132,9 @@ XXVI.) If It Be a Weekday and a Middle Saint (at 6).
 
 (α) At Daily Vespers: Stichera on “Lord, I have cried” 6 of the Saint. (From the Octoechos nothing is taken.) “Glory”: of the Saint; “Now and”: Theotokion according to the tone of the Doxastikon [*Naslavnyk*]. There is no entrance. Prokimenon of the day. “Vouchsafe, O Lord.” Ektenia: “Let us complete.” Stichera on the aposticha 3 from the Octoechos, with the refrains from the Horologion [*Chasoslov*]. “Glory”: of the Saint; “Now and”: Theotokion. At the end, troparion of the Saint. “Glory,” and “Now and”: Dismissal Theotokion according to the tone and day. Ektenia: “Have mercy on us, O God.” Small Dismissal;
 
-(β) At Compline, and (γ) At the Midnight Office all things are in order, as was said above when a small, that is, non-festal Saint occurreth;
+(β) At Compline, and (γ) At the Midnight Office all things are in order, as was said above when a small, that is, non-festal Saint occurs;
 
-(δ) At Matins the beginning is usual. At “God is the Lord” the troparion of the Saint twice. “Glory,” and “Now and”: Dismissal Theotokion on that day according to the tone of the troparion of the Saint. Kathismata of the day and Sessional Hymns from the Octoechos. Psalm 50. The Canon at 14; namely: the 1st from the Octoechos with the heirmos at 4, the 2nd from the Octoechos at 4, and the 3rd of the Saint at 6. Instead of a Katavasia the heirmos from the canon of the Saint, and that only after Ode 3, 6, 8, and 9. After Ode 3: Sessional Hymn of the Saint; “Glory,” and “Now and”: Theotokion in the same place. After Ode 6: Kontakion and ikos of the Saint. After Ode 9: Exaposteilarion from the Octoechos. “Glory”: of the Saint; “Now and”: Theotokion or Stavrotheotokion. On the Praises stichera of the Saint at 4 (if he hath any).[^164] “Glory,” and “Now and”: Theotokion. Small Doxology. Stichera on the aposticha from the Octoechos; “Glory”: of the Saint; “Now and”: Theotokion on that day in the Octoechos. After “It is good to give praise” troparion of the Saint once. “Glory,” and “Now and”: Dismissal Theotokion at the end of Matins. The rest as usual. But if the six-stichera Saint hath a Great Doxology, then after the Doxology followeth the Trisagion. Troparion of the
+(δ) At Matins the beginning is usual. At “God is the Lord” the troparion of the Saint twice. “Glory,” and “Now and”: Dismissal Theotokion on that day according to the tone of the troparion of the Saint. Kathismata of the day and Sessional Hymns from the Octoechos. Psalm 50. The Canon at 14; namely: the 1st from the Octoechos with the heirmos at 4, the 2nd from the Octoechos at 4, and the 3rd of the Saint at 6. Instead of a Katavasia the heirmos from the canon of the Saint, and that only after Ode 3, 6, 8, and 9. After Ode 3: Sessional Hymn of the Saint; “Glory,” and “Now and”: Theotokion in the same place. After Ode 6: Kontakion and ikos of the Saint. After Ode 9: Exaposteilarion from the Octoechos. “Glory”: of the Saint; “Now and”: Theotokion or Stavrotheotokion. On the Praises stichera of the Saint at 4 (if he hath any).[^164] “Glory,” and “Now and”: Theotokion. Small Doxology. Stichera on the aposticha from the Octoechos; “Glory”: of the Saint; “Now and”: Theotokion on that day in the Octoechos. After “It is good to give praise” troparion of the Saint once. “Glory,” and “Now and”: Dismissal Theotokion at the end of Matins. The rest as usual. But if the six-stichera Saint hath a Great Doxology, then after the Doxology follows the Trisagion. Troparion of the
 
 === LEAF p168 ===
 
@@ -164,7 +164,7 @@ from the Menaion. Great Doxology. Troparion of the Saint once. “Glory,” and 
 
 XXVIII.) If It Be a Weekday and Two Small Saints.
 
-(α) At Daily Vespers: On “Lord, I have cried” stichera of the 1st Saint at 3, and of the 2nd Saint 3. “Glory”: of the 1st Saint, if he hath one; but if not, “Glory,” and “Now and”: Theotokion which followeth the stichera of the 2nd Saint. There is no entrance. “Vouchsafe, O Lord.” Ektenia: “Let us complete.” Stichera on the aposticha from the Octoechos. “Glory”: of the 1st Saint; “Now and”: Theotokion in the same tone. After “Now lettest Thou dismiss”: Troparion of the 1st Saint. “Glory”: Troparion of the 2nd Saint; “Now and”: Dismissal Theotokion according to the tone of the 2nd Saint. Ektenia: “Have mercy on us, O God.” Daily Dismissal;[^165]
+(α) At Daily Vespers: On “Lord, I have cried” stichera of the 1st Saint at 3, and of the 2nd Saint 3. “Glory”: of the 1st Saint, if he hath one; but if not, “Glory,” and “Now and”: Theotokion which follows the stichera of the 2nd Saint. There is no entrance. “Vouchsafe, O Lord.” Ektenia: “Let us complete.” Stichera on the aposticha from the Octoechos. “Glory”: of the 1st Saint; “Now and”: Theotokion in the same tone. After “Now lettest Thou dismiss”: Troparion of the 1st Saint. “Glory”: Troparion of the 2nd Saint; “Now and”: Dismissal Theotokion according to the tone of the 2nd Saint. Ektenia: “Have mercy on us, O God.” Daily Dismissal;[^165]
 
 (β) At Compline all things are in order, but only this is necessary to note, that the troparion of the temple is taken if the temple be of Christ or of the Theotokos, and the troparion of the day. If, however, it be a temple of a Saint, then first the troparion of the day is taken, and then the troparion of the temple, and then “O God of our Fathers”;
 

@@ -18,9 +18,9 @@ The user changed setting `Model Selection` from None to Gemini 3.5 Flash (High).
 
 Before evaluating the **Liturgical Context** panel, I have read the active control files and cite the following rules relevant to this assessment:
 
-1. **[.cursorrules](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules)**: Section XVII (Liturgical Terminology Standardization) dictates that we must standardize "Exaposteilarion" to `Exapostilarion` and "Holy Doors" to `Royal Doors`.
-2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: Section "Hierarchy of Authority" establishes that the `Ordo Celebrationis (1944/1996)` is the absolute highest authority (Rank 1) for physical choreography (doors, curtains, censing, bows), superseding all other sources.
-3. **[AGENT_COMPLIANCE.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_COMPLIANCE.m
+1. **[.cursorrules](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules)**: Section XVII (Liturgical Terminology Standardization) dictates that we must standardize "Exaposteilarion" to `Exapostilarion` and "Holy Doors" to `Royal Doors`.
+2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: Section "Hierarchy of Authority" establishes that the `Ordo Celebrationis (1944/1996)` is the absolute highest authority (Rank 1) for physical choreography (doors, curtains, censing, bows), superseding all other sources.
+3. **[AGENT_COMPLIANCE.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_COMPLIANCE.m
 ... [TRUNCATED 5635 chars]
 
 === TURN 78 | USER_INPUT ===
@@ -36,9 +36,9 @@ The current local time is: 2026-06-12T22:18:32-04:00.
 
 I investigated the codebase and located the **multi-audit verification process** you referenced:
 
-* **Service-by-Service Compliance Auditor ([deepseek_compliance_audit.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/deepseek_compliance_audit.py))**:
+* **Service-by-Service Compliance Auditor ([deepseek_compliance_audit.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/deepseek_compliance_audit.py))**:
   This script uses the DeepSeek API to run line-by-line compliance audits for a specific date and service (e.g., `--service vespers` or `--service matins`). It compares the dynamically generated booklet and digest against ground-truth lectionary readings and the official Dolnytsky Typikon reference files, highlighting gaps in rankings, scripture readings, precedence rules, and database formatting until a perfect pass is achieved.
-* **Chronological Fuzzer ([run_century_fuzzer.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/run_century_fuzzer.py))**:
+* **Chronological Fuzzer ([run_century_fuzzer.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/run_century_fuzzer.py))**:
   This executes a day-by-day stress test acros
 ... [TRUNCATED 3356 chars]
 
@@ -46,7 +46,7 @@ I investigated the codebase and located the **multi-audit verification process**
 ### Post-Flight Checklist & Verification
 
 * **Test Suite Result**: `310 passed in 12.28s` (via pytest verification task).
-* **Code Modification**: 1 file changed specifically by this task: [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js) (73 insertions).
+* **Code Modification**: 1 file changed specifically by this task: [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js) (73 insertions).
 
 ---
 
@@ -55,7 +55,7 @@ I investigated the codebase and located the **multi-audit verification process**
 The dynamic liturgical classification panel has been successfully updated on the frontend without requiring changes to the core engine schemas, ensuring backward compatibility.
 
 #### 1. Verifying Liturgical Book Combinations
-When resolving the liturgical day, [main.js:getLiturgicalBookInfo](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L376) executes a classification check:
+When resolving the liturgical day, [main.js:getLiturgicalBookInfo](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L376) executes a classification check:
 
 * **Triodion Source**:
   * Scans `season_id` and `season` variables. Resolves to **Lenten** during Lent/Pre-Lent, **Floral** during the Pentecostarion/Paschal season, and **N
@@ -75,14 +75,14 @@ The user changed setting `Model Selection` from Gemini 3.5 Flash (High) to Gemin
 === TURN 129 | MODEL_RESPONSE ===
 ### Post-Flight Checklist & Verification
 
-* **Code Modification**: Updated [main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L468-L474) to conditionally hide the Triodion row if its value is `"N/A"`.
+* **Code Modification**: Updated [main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L468-L474) to conditionally hide the Triodion row if its value is `"N/A"`.
 * **Tests**: Verified that the core engine tests remain fully functional.
 
 ---
 
 ### Implementation Details
 
-I modified [main.js:renderLiturgicalContext](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L446) to evaluate `bookInfo.triodion` before appending its markup. If the selected date falls outside Lenten/Paschal seasons (resolving to `"N/A"`), the Triodion row is suppressed entirely in the **Liturgical Context** panel, leaving only the active **Menaion** classification details.
+I modified [main.js:renderLiturgicalContext](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L446) to evaluate `bookInfo.triodion` before appending its markup. If the selected date falls outside Lenten/Paschal seasons (resolving to `"N/A"`), the Triodion row is suppressed entirely in the **Liturgical Context** panel, leaving only the active **Menaion** classification details.
 
 === TURN 130 | USER_INPUT ===
 <USER_REQUEST>
@@ -95,14 +95,14 @@ The current local time is: 2026-06-12T22:55:16-04:00.
 === TURN 145 | MODEL_RESPONSE ===
 ### Post-Flight Checklist & Verification
 
-* **Code Modification**: Re-applied the `getLiturgicalBookInfo` helper and integrated the conditional rendering block in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L376-L408).
-* **Git Status**: Git diff shows exactly 75 insertions in [main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js).
+* **Code Modification**: Re-applied the `getLiturgicalBookInfo` helper and integrated the conditional rendering block in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L376-L408).
+* **Git Status**: Git diff shows exactly 75 insertions in [main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js).
 
 ---
 
 ### Summary of Re-Integration
 
-The user-added WebAssembly (Pyodide) capability in the dashboard has been preserved. I re-integrated the book classification panel changes back into [main.js:renderLiturgicalContext](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L446):
+The user-added WebAssembly (Pyodide) capability in the dashboard has been preserved. I re-integrated the book classification panel changes back into [main.js:renderLiturgicalContext](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L446):
 
 1. **Triodion Suppression**: The Triodion book row is hidden when resolving to `"N/A"` (e.g., during the ordinary season, as seen in the uploaded screenshot).
 2.
@@ -120,8 +120,8 @@ The current local time is: 2026-06-12T22:59:07-04:00.
 ### Pre-Flight Compliance Citations
 
 Before answering, I have reviewed the active control files and cite the following rules:
-1. **[.cursorrules](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules#L191)**: Section "St. Sergius Parsing & Conversion Rules" (Stamford Terminology Translation Map) requires mapping Monastic to `venerable`, Nun to `venerable_woman`, Heirarch to `hierarch`, etc., during database ingestion.
-2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: "Hierarchy of Authority" lists the official texts: `Ordo Celebrationis (1944/1996) > Dolnytsky Typikon Parts II–V > Ruthenian Liturgicon`.
+1. **[.cursorrules](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules#L191)**: Section "St. Sergius Parsing & Conversion Rules" (Stamford Terminology Translation Map) requires mapping Monastic to `venerable`, Nun to `venerable_woman`, Heirarch to `hierarch`, etc., during database ingestion.
+2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: "Hierarchy of Authority" lists the official texts: `Ordo Celebrationis (1944/1996) > Dolnytsky Typikon Parts II–V > Ruthenian Liturgicon`.
 
 ---
 
@@ -142,8 +142,8 @@ The current local time is: 2026-06-12T23:01:38-04:00.
 ### Pre-Flight Compliance Citations
 
 Before responding, I have reviewed the active control files and cite the following rules:
-1. **[.cursorrules](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules)**: Section XVII (Liturgical Terminology Standardization) mandates that we standardise "Exaposteilarion" to `Exapostilarion` and "Holy Doors" to `Royal Doors`.
-2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: "Hierarchy of Authority" lists the canonical hierarchy where the `Ordo Celebrationis (1944/1996)` is the Rank 1 physical choreographical authority.
+1. **[.cursorrules](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules)**: Section XVII (Liturgical Terminology Standardization) mandates that we standardise "Exaposteilarion" to `Exapostilarion` and "Holy Doors" to `Royal Doors`.
+2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: "Hierarchy of Authority" lists the canonical hierarchy where the `Ordo Celebrationis (1944/1996)` is the Rank 1 physical choreographical authority.
 
 ---
 
@@ -166,7 +166,7 @@ The current local time is: 2026-06-12T23:03:45-04:00.
 === TURN 207 | MODEL_RESPONSE ===
 I apologize for the misunderstanding. I mistakenly assumed you wanted the client-side setting variable displayed, when you were actually referring to the **canonical structural limits and combinations** mandated by the Typikon itself.
 
-I have removed the redundant "Recension" row and implemented a new **Structure & Limits** section in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L531-L548) that exposes these exact constraints:
+I have removed the redundant "Recension" row and implemented a new **Structure & Limits** section in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L531-L548) that exposes these exact constraints:
 
 ### 1. Canonical Limits & Combinations Added to the UI
 
@@ -189,8 +189,8 @@ The current local time is: 2026-06-12T23:05:11-04:00.
 ### Pre-Flight Compliance Citations
 
 Before responding, I have reviewed the active control files and cite the following rules:
-1. **[.cursorrules](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules)**: Section XVII (Liturgical Terminology Standardization) mandates standardizing Greek/Slavonic variations to Stamford English translations. Anti-Pattern Blacklist #3 strictly forbids rendering raw database keys (e.g. `great_vespers_vigil`) in user-facing outputs.
-2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: "Hierarchy of Authority" sets the physical choreography priority guidelines.
+1. **[.cursorrules](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.cursorrules)**: Section XVII (Liturgical Terminology Standardization) mandates standardizing Greek/Slavonic variations to Stamford English translations. Anti-Pattern Blacklist #3 strictly forbids rendering raw database keys (e.g. `great_vespers_vigil`) in user-facing outputs.
+2. **[AGENT_STARTUP_CONTEXT.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/.agent/brain/AGENT_STARTUP_CONTEXT.md)**: "Hierarchy of Authority" sets the physical choreography priority guidelines.
 
 ---
 
@@ -222,7 +222,7 @@ The user changed setting `Model Selection` from Gemini 3.5 Flash (Medium) to Gem
 The dashboard displayed `Menaion: General — Martyr(s) Class V` on June 13, 2026, due to a bug in how commemorations were categorized in the frontend:
 
 1. **Mutually Exclusive Keyword Checking**:
-   In [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L396-L409), the `getLiturgicalBookInfo` function checked the day's commemoration text (`ctx.dolnytsky_commemoration`) using an `if-else` chain to categorize the saint type:
+   In [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L396-L409), the `getLiturgicalBookInfo` function checked the day's commemoration text (`ctx.dolnytsky_commemoration`) using an `if-else` chain to categorize the saint type:
    ```javascript
    if (commem.includes("martyr") || commem.includes("мученик")) {
        saintType = "Martyr(s)";
@@ -282,7 +282,7 @@ The "double or triple" auditing refers to a **three-tier verification pipeline**
 *   **Tier 1 (Mechanical correctness via Pytest)**: 
     Programmatic validation verifying that every state calculation, variables set, and boundary check (e.g., sessional hymn displacements) is functioning exactly as defined in the test cases. (310/310 tests green).
 *   **Tier 2 (Lexical correctness via static database linter)**: 
-    Defined in [scripts/lint_liturgical_db.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/lint_liturgical_db.py). It scans the **Liturgical Database JSON files** (`json_db/stamford/`) to check for terminology drift (enforcing words like *Royal Doors*, *Apodosis*, *Pochaiv*, and *Exaposteilarion*) and raw internal formatting leftovers.
+    Defined in [scripts/lint_liturgical_db.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/lint_liturgical_db.py). It scans the **Liturgical Database JSON files** (`json_db/stamford/`) to check for terminology drift (enforcing words like *Royal Doors*, *Apodosis*, *Pochaiv*, and *Exaposteilarion*) and raw internal formatting leftovers.
 *   **Tier 3 (Semantic correctness via LLM-based Compliance Auditor)**: 
     Defined
 ... [TRUNCATED 2251 chars]
@@ -303,7 +303,7 @@ The current local time is: 2026-06-12T23:13:47-04:00.
 * **How it was discussed and lost**: 
   The ban on raw keys and developer speak (Anti-Pattern 3) was originally established for the backend logic engine outputs and generated text digests. When the **Cantor Dashboard** frontend was built later, the database linters and LLM compliance auditors were not extended to scan browser JavaScript and HTML files. Consequently, the hardcoded frontend labels (like `"Active"` and `"Max:"`) slipped through.
 * **How we reinforced it**:
-  1. **Extended Linter**: Added a frontend linting pass in [scripts/lint_liturgical_db.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/lint_liturgical_db.py) to check `cantor_dashboard/main.js` and `index.html` for programmer shorthand (`Max:`), raw jargon (`Active` in user text), and static service limit rows. Running the linter now validates that the frontend remains free of jargon.
+  1. **Extended Linter**: Added a frontend linting pass in [scripts/lint_liturgical_db.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/lint_liturgical_db.py) to check `cantor_dashboard/main.js` and `index.html` for programmer shorthand (`Max:`), raw jargon (`Active` in user text), and static service limit rows. Running the linter now validates that the frontend remains free of jargon.
   2. **Updated Rules**: Appended Se
 ... [TRUNCATED 1461 chars]
 
@@ -332,7 +332,7 @@ The current local time is: 2026-06-12T23:18:15-04:00.
 </ADDITIONAL_METADATA>
 
 === TURN 562 | MODEL_RESPONSE ===
-The duplicate rows issue has been successfully fixed and resolved in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js):
+The duplicate rows issue has been successfully fixed and resolved in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js):
 
 ### 1. Separation of Menaion & Class
 * **Menaion Source**: Under *Source Books & Classification*, the **Menaion** row now displays the book classification combined with its saint types (e.g., `General — Martyr & Hierarch`).
@@ -405,7 +405,7 @@ I am waiting for the test execution log.
 === TURN 630 | MODEL_RESPONSE ===
 ### Liturgical Sources and Hover Dialogues
 
-To integrate canonical sources directly into the Cantor Dashboard, I have updated [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to equip **every single row** in the **Liturgical Context** panel with a hover dialogue (`title` attribute tooltip). 
+To integrate canonical sources directly into the Cantor Dashboard, I have updated [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to equip **every single row** in the **Liturgical Context** panel with a hover dialogue (`title` attribute tooltip). 
 
 If you hover over any row, you will see a tooltip displaying the exact rule explanation and its canonical citation (such as the Rome 1944 *Ordo Celebrationis* or Dolnytsky's 1904 *Typik*).
 
@@ -493,7 +493,7 @@ I am waiting for the test suite execution.
 
 === TURN 692 | MODEL_RESPONSE ===
 ### 1. Removing Redundant "Limit" Text
-* **UI Clean-up**: Showing `(Dolnytsky Limit: 2)` on the face of the card daily is redundant since the limit is constant. I have updated [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to remove this text.
+* **UI Clean-up**: Showing `(Dolnytsky Limit: 2)` on the face of the card daily is redundant since the limit is constant. I have updated [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to remove this text.
 * **New Display**: The row now displays just the clean count, e.g., `2` (or `2 (+ 1 Transferred)` if there are transferred commemorations). The explanatory limit rule remains accessible in the hover tooltip.
 
 ---
@@ -520,7 +520,7 @@ I am waiting for the test suite execution.
 === TURN 714 | MODEL_RESPONSE ===
 You are entirely correct. The explanation of the daily cycle combination contained contradictions (since the minor offices and Hours are not strict constants and do change, such as Royal Hours, Lenten hours, or Paschal hours). 
 
-To clean up the dashboard and eliminate this redundancy, I have **removed the "Structure & Limits" section** (including the *Commemorations* count and *Combination* rows) from the dashboard element in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js).
+To clean up the dashboard and eliminate this redundancy, I have **removed the "Structure & Limits" section** (including the *Commemorations* count and *Combination* rows) from the dashboard element in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js).
 
 The Liturgical Context card now transitions cleanly from the *Source Books & Classification* section straight to the *Commemoration & Class* section.
 
@@ -538,7 +538,7 @@ The current local time is: 2026-06-13T00:43:44-04:00.
 I am waiting for the test suite execution.
 
 === TURN 736 | MODEL_RESPONSE ===
-I have updated [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to simplify the Menaion row formatting under **Source Books & Classification**.
+I have updated [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to simplify the Menaion row formatting under **Source Books & Classification**.
 
 The **Menaion** row value is now strictly limited to either `General` or `Festal`, with all Saint types removed from that specific row.
 
@@ -564,7 +564,7 @@ The current local time is: 2026-06-13T00:45:04-04:00.
 I am waiting for the test suite execution.
 
 === TURN 758 | MODEL_RESPONSE ===
-I have updated the commemoration rendering logic in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js):
+I have updated the commemoration rendering logic in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js):
 
 * **Precedence Labels**: The Commemoration row now appends ` (Primary)` to the first saint and ` (Secondary)` to the second saint.
 * **No Redundant Class Labels**: It does not repeat redundant saint types (like "Martyr" or "Hierarch") that are already present in the name of the saint.
@@ -589,7 +589,7 @@ The current local time is: 2026-06-13T00:46:12-04:00.
 I am waiting for the test suite execution.
 
 === TURN 776 | MODEL_RESPONSE ===
-I have updated the commemoration formatting logic in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to address these grammatical and descriptive details:
+I have updated the commemoration formatting logic in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js) to address these grammatical and descriptive details:
 
 1. **Singular/Plural Label**: 
    * Shows **`Commemoration`** (singular) when there is exactly 1 saint.
@@ -672,7 +672,7 @@ I have successfully completed the modifications to map each saint commemoration 
 
 ### Summary of Work Done
 
-1. **Created Saint Classification Helper**: Added `getLiturgicalCategory(name)` in [main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L330-L437) to parse saint names using strict word boundaries to avoid incorrect substring matches.
+1. **Created Saint Classification Helper**: Added `getLiturgicalCategory(name)` in [main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L330-L437) to parse saint names using strict word boundaries to avoid incorrect substring matches.
 2. **Updated Saint Commemoration Rows**: Modified the `Primary`, `Secondary`, and additional saint loops in `renderLiturgicalContext` (around line 768) to display the category after the saint's name in the value column.
 3. **Validation**:
    - Validated the logic across all **493 unique saint commemorations** in the 2026 UGCC calendar almanac, 
@@ -721,7 +721,7 @@ I have created an architecture guide artifact, [typikon_architecture.md](file://
 1. **General Cases & Sub-cases**: Liturgical Case 1 through Case 22 represent the main paradigms (e.g. Sunday Simple, Weekday Apodosis). **Sub-cases & variants** (such as 1 vs. 2 saints, Doxology overrides, Temple/Patronal collisions, or specific Leave-taking targets) are evaluated inside these cases based on conditions.
 2. **Typikon vs. JSON**: 
    * **The Typikon** contains the canonical narrative (e.g., Dolnytsky Part V rules).
-   * **The JSON database** (`json_db/`) houses the machine-readable rules: triggers & variable defaults ([02a_logic_general.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02a_logic_general.json)), the calendars ([02b_XX_month.json](file:/
+   * **The JSON database** (`json_db/`) houses the machine-readable rules: triggers & variable defaults ([02a_logic_general.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02a_logic_general.json)), the calendars ([02b_XX_month.json](file:/
 ... [TRUNCATED 947 chars]
 
 === TURN 969 | USER_INPUT ===
@@ -985,11 +985,11 @@ I will now wait for the LLM Auditor background task to finish. When it finishes 
 === TURN 1866 | MODEL_RESPONSE ===
 startcall:default_api:write_to_file{CodeContent:import sys
 import os
-sys.path.insert(0, "c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded")
-sys.path.insert(0, "c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded/engine")
+sys.path.insert(0, "c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded")
+sys.path.insert(0, "c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded/engine")
 from ruthenian_engine import RuthenianEngine
 
-engine = RuthenianEngine(base_dir="c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded", paschalion="gregorian")
+engine = RuthenianEngine(base_dir="c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded", paschalion="gregorian")
 
 print("Paths:")
 print(f"  fixed_recension_path: {engine.fixed_recension_path}")
@@ -1059,7 +1059,7 @@ I have implemented your preferred solution.
 Please see the updated [walkthrough.md](file:///C:/Users/augus/.gemini/antigravity/brain/9921d969-3a5c-4531-a4b6-3e899725121a/walkthrough.md) for details.
 
 ### Summary of Changes:
-* Refactored the **"Service Title"** row in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L740-L784) so it is now reserved exclusively for special service structures (e.g. `"Bridegroom Matins"`, `"Royal Hours of Theophany"`, `"Liturgy of the Presanctified Gifts"`), Vigil services, and Great Feasts.
+* Refactored the **"Service Title"** row in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L740-L784) so it is now reserved exclusively for special service structures (e.g. `"Bridegroom Matins"`, `"Royal Hours of Theophany"`, `"Liturgy of the Presanctified Gifts"`), Vigil services, and Great Feasts.
 * For ordinary days, it now consistently displays `"Standard Sunday Services"` or `"Standard Daily Services"` instead of redundantly repeating the saint's name.
 * Validated the changes using the compliance gate, confirming that all **315 tests pass successfully**.
 
@@ -1085,7 +1085,7 @@ I have audited the Apostles' Fast fasting logic, resolved the bug, and verified 
 Please refer to the updated [walkthrough.md](file:///C:/Users/augus/.gemini/antigravity/brain/9921d969-3a5c-4531-a4b6-3e899725121a/walkthrough.md) for a full description of the changes and testing.
 
 ### Key Points of the Fix:
-1. **Engine Logic**: Updated [engine/resolvers/ceremonial.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/resolvers/ceremonial.py#L78-L93) to correctly identify the Apostles' Fast window (starting the Monday after All Saints at `pascha_offset >= 57` and ending on the eve of Peter & Paul on June 28).
+1. **Engine Logic**: Updated [engine/resolvers/ceremonial.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/resolvers/ceremonial.py#L78-L93) to correctly identify the Apostles' Fast window (starting the Monday after All Saints at `pascha_offset >= 57` and ending on the eve of Peter & Paul on June 28).
 2. **Weekly Rules & Relaxations**: Mondays, Wednesdays, and Fridays during the fast now resolve as `fast_day` (meat and dairy abstinence) with Lviv Synod citations, while correctly applying standard festal relaxations (e.g. oil/wine on June 8 for Theodore Stratelates, or fish on June 12 for Onuphrius).
 3. **Verification**: Add
 ... [TRUNCATED 255 chars]
@@ -1111,7 +1111,7 @@ The current local time is: 2026-06-13T11:14:45-04:00.
 </ADDITIONAL_METADATA>
 
 === TURN 2856 | MODEL_RESPONSE ===
-The **Rank Code** row in the Liturgical Context panel is formatted for uniformity via the `translateRankCode(code)` helper in [cantor_dashboard/main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js#L438-L460):
+The **Rank Code** row in the Liturgical Context panel is formatted for uniformity via the `translateRankCode(code)` helper in [cantor_dashboard/main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon Coded/cantor_dashboard/main.js#L438-L460):
 
 1. **Code Normalization:** It trims the input code.
 2. **Canonical Mapping:** It translates short codes into full descriptions (e.g., `[VIGIL]` maps to `"Vigil Rank Feast"`, `[4 A+G]` maps to `"Four-Stichera (with Apostle & Gospel)"`).
@@ -1176,7 +1176,7 @@ I have verified the implementation through the "Verification and Alignment" pipe
    - Confirmed that since there is no "Common of the Forerunner" in the standard General Menaion, St. John the Baptist is correctly categorized under the **Prophet** category badge on both the backend and frontend.
 
 2. **Sunday Override Resolution**:
-   - Refactored `resolve_liturgy_readings` in [liturgy.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/resolvers/liturgy.py#L929-L1034) to resolve the failing test suites:
+   - Refactored `resolve_liturgy_readings` in [liturgy.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/resolvers/liturgy.py#L929-L1034) to resolve the failing test suites:
      - On weekdays and Sundays without Vigil/Polyeleos saints (such as Triodion Sundays), the custom 
 ... [TRUNCATED 1100 chars]
 

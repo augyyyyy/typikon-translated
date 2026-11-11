@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 3: November (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-3-november-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 3: November (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-3-november-pochaiv-lavra-1761"></a>
 
 THE BOOK
 MENAION
@@ -22,7 +22,7 @@ And from the Nativity of Christ 1761.
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 3: November (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-3-november-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 3: November (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-3-november-pochaiv-lavra-1761)**
 * **[MONTH OF NOVEMBER](1761_pochaiv_minea_03_nov_part1_month-of-november.md#month-of-november)**
 
 ---

@@ -125,7 +125,7 @@ Reading Final_Dolnytsky_part5_temple.md...
 Reading Final_Dolnytsky_appendix.md...
 Reading Final_Dolnytsky_glossary.md...
 Reading Final_footnotes.md...
-Master document created successfully at: c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Dolnytsky_Typikon_Master.md
+Master document created successfully at: c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Dolnytsky_Typikon_Master.md
 
 --- 6. VERIFYING LINKS ---
   Checked 244 internal links. Found 0 broken links.
@@ -181,7 +181,7 @@ The following code has been modified to include a line number before every line,
 28: 
 29: The orchestration script restored the clean backups, ran the premium service-book formatters, applied manual heading adjustments, aligned remaining headers, compiled the master file, and verified the links.
 30: 
-31: Running the link verification script against the compiled master document [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md) returns:
+31: Running the link verification script against the compiled master document [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md) returns:
 32: 
 33: ```
 34: Checked 244 internal links. Found 0 broken links.
@@ -257,7 +257,7 @@ The issue you noticed where the dialogues looked spaced out and broken into mult
   > 
   > **Priest**: "Blessed and pre-glorified Christ our God..."
   ```
-* Running the link verifier against the new clean master document [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md) successfully reports exactly **0 broken links**.
+* Running the link verifier against the new clean master document [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md) successfully reports exactly **0 broken links**.
 
 All updates have been saved to [walkthrough.md](file:///C:/Users/augus/.gemini/antigravity/brain/1e566ed6-510f-4f9f-9987-1ea377eeb714/walkthrough.md).
 

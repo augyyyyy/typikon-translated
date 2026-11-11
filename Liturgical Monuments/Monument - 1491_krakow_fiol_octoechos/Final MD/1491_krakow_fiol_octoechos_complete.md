@@ -77,7 +77,6 @@ STADT-BIBLIOTHEK BRESLAU[^4]
   * [FRIDAY EVENING VESPERS (FOR SATURDAY)](#friday-evening-vespers-for-saturday)
 * **[EXAPOSTILARIA AND EVANGELICAL STICHERA](#exapostilaria-and-evangelical-stichera)**
 * **[ASCETIC HOMILIES AND COLOPHON](#ascetic-homilies-and-colophon)**
-  * [CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING](#codicological-provenance-archival-inscriptions-and-rear-binding)
 
 ---
 
@@ -115,13 +114,13 @@ STADT-BIBLIOTHEK BRESLAU[^4]
 
 *Sticheron 2:* Thou didst willingly accept crucifixion, O Savior, and having endured burial, Thou didst rise from the dead as our God; as One abundant in mercy, Thou didst shatter the arrogant assaults of the adversary by Thy power, granting salvation unto those who glorify Thy third-day Resurrection.
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 *Sticheron 3:* Being King, out of love for mankind Thou wast willingly crucified and buried. When Hades met Thee below, it was embittered; and when the souls of the righteous received Thee, they rejoiced. And Adam, beholding Thee, the Creator, in the nethermost regions, was set free from corruption. Oh, what a marvel! How did the Life of all taste of death? How was He enclosed in a tomb, save that He willed to illumine the world, as we cry aloud and say: O Thou Who art risen from the dead, granting great mercy unto the world!
 
 *Glory... Both now...*
 
-*Theotokion:* Behold, the prophecy of Isaiah is fulfilled; for a Virgin hast thou given birth, and after childbirth thou remainest as before childbirth; for God was born unto us, therefore nature was not corrupted. Therefore, O Mother of God, despise not the prayers of thy servants offered in thy church; but as thou bearest Thine own compassionate Son in thine arms, have compassion upon us, thy servants, and show mercy unto our souls!
+*Theotokion:* Behold, the prophecy of Isaiah is fulfilled; for a Virgin hast thou given birth, and after childbirth thou remainest as before childbirth; for God was born unto us, therefore nature was not corrupted. Therefore, O Mother of God, despise not the prayers of thy servants offered in thy church; but as thou bearest thine own compassionate Son in thine arms, have compassion upon us, thy servants, and show mercy unto our souls!
 
 *Resurrectional Troparion, Tone 1:*
 
@@ -413,7 +412,7 @@ When Gabriel announced unto the Virgin: Rejoice!, with his voice the Master of a
 
 *Troparion:* Bearing peace by Thy Cross, O Announcer of good tidings, Thou didst preach unto the captives [p22LA] saving remission; and Thou didst put to shame the one who held them fast, O Christ, showing him naked and destitute by Thy divine Resurrection.
 
-*Theotokion:* Despise not the petitions of those who ask in faith, O all-praised One, but accept them, and offer these unto Thy God, O all-pure One, unto God the only Benefactor; for we have acquired thee as our mediatress!
+*Theotokion:* Despise not the petitions of those who ask in faith, O all-praised One, but accept them, and offer these unto thy God, O all-pure One, unto God the only Benefactor; for we have acquired thee as our mediatress!
 
 *Another canon, of the Cross and Resurrection. Heirmos: Being God of peace, Father of mercies...*[^18]
 
@@ -455,9 +454,9 @@ When Gabriel announced unto the Virgin: Rejoice!, with his voice the Master of a
 
 *Troparion:* Guide us into the path of repentance by thy prayers, O all-pure Lady, conquering the enemies by thy supplications!
 
-*Katavasia: Celebrating this divine and all-honorable feast... And the Kontakion of the day, or to the Theotokos: O Protection of Christians that cannot be put to shame...*[^21]
+*Katavasia: Celebrating this divine and all-honorable feast... And the Kontakion of the Saint of the day, or to the Theotokos: O Protection of Christians that cannot be put to shame...*[^21]
 
-*Ode 7. Heirmos: We, the faithful, perceive thee to be a spiritual furnace, O Theotokos; for as the Supremely Exalted One saved the three youths, so hath He wholly renewed the world in thy womb, the praised God of our fathers, and blessed art Thou!*
+*Ode 7. Heirmos: We, the faithful, perceive thee to be a spiritual furnace, O Theotokos; for as the Supremely Exalted One saved the three youths, so hath He wholly renewed the world in thy womb, the praised God of our fathers, and blessed art thou!*
 
 *Troparion:* The earth was dismayed and the sun hid itself; the light was restrained, the divine veil of the temple was rent, and the rocks were split; for the Righteous One hung upon the Cross, the praised God of our fathers!
 
@@ -475,7 +474,7 @@ When Gabriel announced unto the Virgin: Rejoice!, with his voice the Master of a
 
 *Another canon, to the Theotokos. Heirmos the same:*
 
-*Troparion:* Rejoice, O pure One! For clothed in Adam's skin, out of thee in truth came forth the Shepherd, the Supremely Exalted One in humanity, by reason of His incomprehensible mercy: praised is the God of our fathers, and blessed art Thou!
+*Troparion:* Rejoice, O pure One! For clothed in Adam's skin, out of thee in truth came forth the Shepherd, the Supremely Exalted One in humanity, by reason of His incomprehensible mercy: praised is the God of our fathers, and blessed art thou!
 
 *Troparion:* Rejoice, fount of ever-living water! Rejoice, paradise of delight! Rejoice, wall of the faithful! Rejoice, unwedded one! Rejoice, joy of the universe, for whose sake hath shone forth upon us the praised God of our fathers!
 
@@ -959,7 +958,7 @@ In iniquities let not those who live divinely stretch forth their hands; for Chr
 
 *Troparion:* Thou didst clothe Thyself in mortality, and through Thy Resurrection Thou didst grant immortality unto all; therefore, praising Thee, we hymn Thee, an elect people, crying: Bless the Lord, all ye works!
 
-*Theotokion:* Having conceived without seed and ineffably given birth unto Him Who is inseparable from the Father, Who dwelt godworthily in Thy womb, O most pure Birthgiver of God: therefore we praise Thee as salvation unto us all.
+*Theotokion:* Having conceived without seed and ineffably given birth unto Him Who is inseparable from the Father, Who dwelt godworthily in thy womb, O most pure Birthgiver of God: therefore we praise thee as salvation unto us all.
 
 *Another Canon to the Cross. Ode 8, Heirmos: In the light-bearing furnace...*
 
@@ -995,7 +994,7 @@ In iniquities let not those who live divinely stretch forth their hands; for Chr
 
 *Troparion:* Let all us faithful sing a triumphal hymn: Having risen by divine power, destroying the dominion of death and striking down the Ishmaelite enemy,[^63] grant unto Thy servants victories over our adversaries!
 
-*Theotokion:* O Birthgiver of God, great refuge of Christians: we flee unto Thy protection and Thy fervent intercession; receive us into the satiety of divine gladness, O pure one, that we the faithful, ceaselessly praising Thee, may magnify Thee.
+*Theotokion:* O Birthgiver of God, great refuge of Christians: we flee unto thy protection and thy fervent intercession; receive us into the satiety of divine gladness, O pure one, that we the faithful, ceaselessly praising thee, may magnify thee.
 
 *Another Canon to the Theotokos. Ode 9, Heirmos: The same.*
 
@@ -1049,7 +1048,7 @@ In iniquities let not those who live divinely stretch forth their hands; for Chr
 
 *Troparion to the Trinity:* Let us glorify the divine Trinity, hymning one Godhead in three Persons.
 
-*Theotokion:* All generations bless Thee, O pure one; for without seed Thou didst bear in the flesh the heavenly King.
+*Theotokion:* All generations bless thee, O pure one; for without seed thou didst bear in the flesh the heavenly King.
 
 *On Sunday, the Apostle to the Corinthians [sic, recte: Romans, pericope 116].[^66] Prokeimenon: The Lord is my strength and my song, and He is become my salvation (Psalm 117:14 LXX). Verse: Unto Thee, O Lord, will I cry (Psalm 27:1 LXX):*
 
@@ -1063,7 +1062,7 @@ At that time, when Jesus was entered into a ship, His disciples followed Him. An
 
 *On the same Sunday evening, Penitential Stichera, Tone 2.*
 
-*Podoben: "When from the Tree" (Е҆гда̀ ѿ дре́ва):* [^67]
+*Podoben: "When from the Tree" (Егда ѿ дрѣва):* [^67]
 
 *Sticheron:* Possessing a fountain of tender compassion, an unsearchable abyss of mercies, and streams of bounties: O all-good Father, O Word and Son of the Father, and O Holy Spirit, uncreated Nature: receive our supplication and our prayer, granting forgiveness unto all of us who are in sins, as Thou art a compassionate God and Lover of mankind.
 
@@ -1135,7 +1134,7 @@ How shall we not marvel at thy theandric giving birth, O all-pure one? For witho
 
 *Resurrection Troparion, Tone 3:[^72]* Let the heavens be glad, and let the earthly rejoice; for the Lord has shown strength with His arm: He has trampled down death by death, and become the first-born from the dead; He has delivered us from the belly of Hades, and granted great mercy unto the world.
 
-*Twice. Glory... Both now... Theotokion:* Thee who didst mediate salvation for our race, we hymn, O Virgin Birthgiver of God; for having accepted the suffering of the Cross in the flesh assumed from thee, Thy Son and our God has delivered us from corruption, as the Lover of mankind.
+*Twice. Glory... Both now... Theotokion:* Thee who didst mediate salvation for our race, we hymn, O Virgin Birthgiver of God; for having accepted the suffering of the Cross in the flesh assumed from thee, thy Son and our God has delivered us from corruption, as the Lover of mankind.
 
 ## SUNDAY MIDNIGHT OFFICE (TONE 3)
 
@@ -1161,7 +1160,7 @@ He Who of old commanded the universe to be established from non-being, having in
 
 *Sessional Hymn, Tone 3.*
 
-*Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства твоегѡ̀):* [^74]
+*Podoben: "Beholding the beauty of thy virginity" (Красотѣ дѣвства твоего):* [^74]
 
 [p64LA] those who glorify Thy dominion, as Thou alone art merciful, knowing the weakness of our heart.
 
@@ -1243,7 +1242,7 @@ As Isaiah saw typologically God upon a throne high and lifted up, receiving gift
 
 *Tone 3.*
 
-*Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства твоегѡ̀):* [^80]
+*Podoben: "Beholding the beauty of thy virginity" (Красотѣ дѣвства твоего):* [^80]
 
 *Ypakoe:* Astonishing by his appearance, refreshing with his words, the radiant angel said unto the myrrh-bearing women: "Why seek ye the Living One in the tomb? He is risen, emptying the tombs! Understand Him Who changes corruption to be changeless; say unto God: How awesome are Thy works, for Thou hast saved the human race!"
 
@@ -1311,7 +1310,7 @@ Let us faithful piously hymn and honor the pure Virgin who after childbirth rema
 
 Every nature bends the knee, O immaculate Lady, unto Him Who was incarnate of thee, together with earthly beings, both noetically and super-cosmically: for He is glorified!
 
-*Troparion:* By Thy good pleasure toward thee, O Good One, for without envy the Giver, the Divine Spirit, came upon thee, and the Word took flesh from thee, O Maiden: for He is glorified!
+*Troparion:* By thy good pleasure toward thee, O Good One, for without envy the Giver, the Divine Spirit, came upon thee, and the Word took flesh from thee, O Maiden: for He is glorified!
 
 *Troparion:* Thou hast borne the Word, Co-worker with Him that begot Him, Who deified human nature; entreat Him on our behalf, that we who have grown weak through long-standing sins may conquer the strong wiles of the enemy through divine consolation.
 
@@ -1699,7 +1698,7 @@ At that time, when Jesus entered Capernaum, a centurion approached Him, entreati
 
 *Sessional Hymn, Tone 4.*
 
-*Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
+*Podoben: "Speedily anticipate" (Скоро предвари):*
 
 By a single nod and by the most pure counsel of Thy Father and of the Spirit, Thou didst create all things, O Christ, Many-Merciful; and Thou didst accept crucifixion for the human race: therefore, giving thanks, we cry aloud unto Thee, O Merciful One: Have mercy on Thy flock, O Lover of mankind!
 
@@ -1737,7 +1736,7 @@ By a single nod and by the most pure counsel of Thy Father and of the Spirit, Th
 
 *Kontakion, Tone 4.*
 
-*Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йся на Крⷭ҇тъ во́лею):*
+*Podoben: "Thou Who wast lifted up upon the Cross" (Вознесыйся):*
 
 Incomprehensible God and unapproachable, one God by nature: O Father, Son, and Holy Spirit, cover and preserve us who cry aloud in faith in Thy holy church, night and day; and deliver us not, O Master, unto the enemies who seek our destruction!
 
@@ -2173,7 +2172,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Sessional Hymn, Tone 5.*
 
-*Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):*
+*Podoben: "The Word co-unoriginate" (Собезначальное):*
 
 *Theotokion:* O Virgin Theotokos, thou hast given birth unto One of the Trinity, O most beautiful Paradise, salvation of the earthly: protect with thy covering those who piously sing of thee; for thou didst bear Him of Whom the Prophets spoke, for thou didst carry Him Who upholds all things!
 
@@ -2209,7 +2208,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Sessional Hymns, Tone 5.*
 
-*Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):*
+*Podoben: "The Word co-unoriginate" (Собезначальное):*
 
 *Troparion:* Have mercy on me, O my Savior, have mercy on me [p120LA] and reprove me not in Thy wrath, O Merciful One, neither enter into judgment with Thy servant; for I know in truth my foul transgressions which surpass the sands: therefore crying unto Thee with sighs, have mercy on me![^131]
 
@@ -2235,7 +2234,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Theotokion:* The gold-gleaming lampstand foreshadowed thee, who didst receive the ineffable, unapproachable Light; with light thou enlightenest the earthly, Whom we highly exalt unto the ages.
 
-*Ode 9. Heirmos: Rejoice, O Isaiah! For a Virgin hath conceived...*
+*Ode 9. Heirmos: Rejoice, O Isaiah! For a Virgin has conceived...*
 
 *Troparion:* Earthly hymns cannot fittingly hymn Thee, O unoriginate Trinity; but as Thou art good and the Lover of mankind, since we dare by faith, O God-originating and co-enthroned Unity, we offer glory and praise unto Thy dominion!
 
@@ -2483,7 +2482,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Troparion:* Thou didst halt the circuitous, mortal, and restrained onset, having in truth given birth in the flesh, beyond comprehension, unto eternal Life, which when bitter Hades touched, it was shattered, O most holy Virgin Mother!
 
-*Troparion:* Sitting upon the throne, Thy Son, the Master, placed thee at His right hand in glory, O pure one, shining with golden fringes and divine virtues, granting, O most blessed one, as Mother, boldness before the Lover of mankind!
+*Troparion:* Sitting upon the throne, thy Son, the Master, placed thee at His right hand in glory, O pure one, shining with golden fringes and divine virtues, granting, O most blessed one, as Mother, boldness before the Lover of mankind!
 
 *Then the Exapostilarion. At the Praises, Stichera of the Resurrection, Tone 5:*
 
@@ -2637,7 +2636,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Sessional Hymn, Tone 6.*
 
-*Podoben: "The Angelic Powers" (А҆́гг҃льскія си́лы):* [^155]
+*Podoben: "The Angelic Powers" (Ангельскыя силы):* [^155]
 
 *Glory... Both now... Theotokion:* O pure Virgin, look down from heaven and behold the grievous wounds of our passions, and have compassion, O most pure one, and heal [our] hidden infirmity, distilling thy mercy upon thy servants: if thou art with us, none shall be against us!
 
@@ -2673,7 +2672,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Sessional Hymn, Tone 6.*
 
-*Podoben: "Fulfilling the dispensation for our sake" (Е҆́же ѡ҆ на́съ):*
+*Podoben: "Fulfilling the dispensation for our sake" (Иже о нас съвръшив):*
 
 *Glory... Both now... Theotokion:* O Virgin, look upon us, O all-hymned Mother of God; enlighten with light our darkened hearts, preserve thy flock, O most pure one; for as much as thou wilt, thou art able, as being the Mother of thy Creator, for those who call upon thee and love thee: if thou art with us, none shall be against us!
 
@@ -2939,7 +2938,7 @@ The Lord said: Whosoever will come after Me, let him deny himself, and take up h
 
 *Troparion:* How was Life numbered among the dead? How did He endure death? How did He descend into Hades, saving [the human race]? Desiring to bring all the dead to life, and to put death to death, and to release those in Hades: Him do we magnify in hymns!
 
-*Theotokion:* Beholding Him upon the Cross, Whom from thy blood thou didst incarnate, O pure Maiden who gavest birth to God: "Why, O my Son, has an evil people dealt thus with Thee, putting Thee to death, Who art the Life and Resurrection of the faithful?"
+*Theotokion:* Beholding Him upon the Cross, Whom from thy blood thou didst incarnate, O pure Maiden who gavest birth to God: "Why, O my Son, has an evil people dealt thus with thee, putting thee to death, Who art the Life and Resurrection of the faithful?"
 
 *Another Canon, to the Mother of God. Ode 9. Heirmos: The same.*
 
@@ -3009,7 +3008,7 @@ The Lord said: "I am the door: by Me if anyone enter in, he shall be saved, and 
 
 *On Sunday Evening, Penitential Stichera unto the Lord our God, Tone 6.*
 
-*Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*
+*Podoben: "Having laid aside all earthly hope" (Всѐ упова́нїе):*
 
 *Sticheron 1:* I have sinned, O Lover of mankind; I confess unto Thee as a man, that I may seek forgiveness; but that which is beyond man, being above nature, and above the law of mercy,[^174] having acquired love for mankind beyond understanding: have mercy upon him that turns unto Thee!
 
@@ -3037,7 +3036,7 @@ The Lord said: "I am the door: by Me if anyone enter in, he shall be saved, and 
 
 *Martyrikon:* Thy Martyrs, O Lord, denied Thee not, nor departed from Thy commandments: by their prayers have mercy on us!
 
-*Glory... Both now... Theotokion:* Having come to know the image of Him Who was incarnate of thee,[^179] O Virgin: pray Thou unto Him for the salvation of our souls!
+*Glory... Both now... Theotokion:* Having come to know the image of Him Who was incarnate of thee,[^179] O Virgin: pray thou unto Him for the salvation of our souls!
 
 ---
 
@@ -3239,7 +3238,7 @@ Beholding thy children around thy table like young shoots, rejoice and be glad, 
 
 *Theotokion:* O most pure Mother and Virgin, alone all-praised: entreat Thy Savior that He may save our souls!
 
-*Another Canon to the Theotokos. Same Heirmos:* With evil crawling, [the serpent] of Eden ensnared me with the love of divinity and cast me down to earth; but as Thou art merciful by nature and compassionate, Thou hadst pity; the Grace [of God] made its dwelling in thy womb, assimilating Himself unto me in compassion, O Virgin!
+*Another Canon to the Theotokos. Same Heirmos:* With evil crawling, [the serpent] of Eden ensnared me with the love of divinity and cast me down to earth; but as thou art merciful by nature and compassionate, thou hadst pity; the Grace [of God] made its dwelling in thy womb, assimilating Himself unto me in compassion, O Virgin!
 
 *Troparion:* Blessed is the Fruit of thy womb, O Virgin, O Theotokos, joy of all; for thou didst bear gladness unto the whole world, and true rejoicing, destroying sinful sorrow, O Bride of God!
 
@@ -3537,7 +3536,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *Sessional Hymn to the Trinity, Tone 8:*[^214] The power of the Thrice-radiant and thrice-shining unoriginate Principle let all us faithful hymn, and with one desire let all the angelic heavenly choirs and earthly ecclesiastical ranks assemble to cry: "Holy, Holy, Holy art Thou, O most good God: glory and praise unto Thy dominion!"
 
-*Glory... Both now... Theotokion:* Having given birth unto the ineffable and changeless God, Who ever delivers from sins and falls [p193LA] grievous, receive from Him change of sorrow, O good one, and by thy morning prayers [deliver me], that now with thanksgiving I may cry unto thee, O Mary, Mother of God, according to the mercy which thou hast obtained, O most immaculate one!
+*Glory... Both now... Theotokion:* Having given birth unto the ineffable and changeless God, Who ever delivers from sins and falls [p193LA] indolence, transform the sorrows of my heart, O good one, by thy maternal supplications, that I also with thanksgiving may cry unto thee, O Mary, Birthgiver of God: have mercy on thine own flock which thou hast acquired, O most immaculate one!
 
 *Ode 4. Heirmos: Thou art Christ God, Thou art...*[^215]
 
@@ -4137,7 +4136,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *On Monday Evening, Stichera at "Lord, I have cried", Tone 2.*
 
-*Podoben: "When from the Tree" (Е҆гда̀ ѿ дре́ва):*
+*Podoben: "When from the Tree" (Егда от древа):*
 
 *Sticheron 1:* Lament bitterly, O my soul, and repent of the many sins which thou hast committed in life; and implore the multitude of the heavenly [powers] with sighing and tears, that time for repentance may be granted thee, lest like the barren fig tree thou be cut down into the fire of Gehenna, O all-wretched one!
 
@@ -4281,7 +4280,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *Tone 3 Kontakion to the Holy Forerunner.*
 
-*Podoben: "Today the Virgin" (Дѣ́ва дне́сь):*
+*Podoben: "Today the Virgin" (Дѣва днесь):*
 
 [p236LA] the prophets proclaimed, upon Him in the Jordan he laid his hand, and was shown forth as the prophet of God the Word, herald and Forerunner together![^274]
 
@@ -4343,7 +4342,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *Tuesday Matins Exapostilarion to the Holy Forerunner.*
 
-*Podoben: "Give ear, ye women" (Же́ны оу҆слы́шите):*
+*Podoben: "Give ear, ye women" (Женъ оуслыши):*
 
 *Theotokion:* All the prophets proclaimed thee, O Virgin: one called thee a mountain, another an ark, and a lampstand, a ladder and a bridge, a jar bearing the manna, and a rod that budded; and we worthily honor thee as the Mother of God!
 
@@ -4397,7 +4396,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *Other Stichera to the Most Holy Mother of God.*
 
-*Podoben: "Great is the power of Thy Cross, O Lord" (Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и):*
+*Podoben: "Great is the power of Thy Cross, O Lord" (Великя креста Твоего):*
 
 *Sticheron 1:* Knowing thy great mercy, O Sovereign Lady, with voice of compunction we cry unto thee, asking deliverance from our countless offenses; for thee alone do we, thy sinful servants, have as helper![^281]
 
@@ -4629,7 +4628,7 @@ The Lord said unto His disciples: "All things are delivered unto Me of My Father
 
 *Glory... (Trinity):* The Father and the Son let us glorify, and the Holy Spirit, saying: O Holy Trinity, save our souls!
 
-*Both now... (Theotokion):* Beholding upon the Cross Him Whom thou didst incarnate of thy blood, O pure Mother of God: What is this, O Child, that the deceitful assembly hath rendered unto Thee, to put Thee to death Who art the Life and Resurrection of all?
+*Both now... (Theotokion):* Beholding upon the Cross Him Whom thou didst incarnate of thy blood, O pure Mother of God: What is this, O Child, that the deceitful assembly hath rendered unto thee, to put thee to death Who art the Life and Resurrection of all?
 
 *Liturgy Prokeimenon. Song of the Theotokos, Tone 3:* My soul doth magnify the Lord, and my spirit hath rejoiced in God my Savior. *Verse:* For He hath regarded the lowliness of His handmaiden; for behold, from henceforth all generations shall call me blessed.
 
@@ -4647,7 +4646,7 @@ At that time, Jesus entered into a certain village: and a certain woman named Ma
 
 *On Wednesday Evening (Thursday Vespers), on "Lord, I have cried", set 6 stichera: for the Apostles and Saint Nicholas, on 6; we sing stichera in Tone 4.*
 
-*Podoben: "Being called from on high" (Зва́нный свы́ше):*
+*Podoben: "Being called from on high" (Званный свыше):*
 
 *Sticheron 1 (Apostle Peter):* Named mighty for the Kingdom, the summit and beauty, O most blessed Apostle Peter, the immovable foundation of the faith of Christ, bearing upon thyself the spiritual Church, whereof He said: The gates of hades shall not prevail against it; for He hath established it upon the rock[^296] [p259LA] of thy confession, O Peter, and given thee authority in heaven and on earth to bind and to loose sins; therefore I pray thee: loose me also from all evils!
 
@@ -4657,7 +4656,7 @@ At that time, Jesus entered into a certain village: and a certain woman named Ma
 
 *Other Stichera to the Saint (Nicholas), in the same Tone.*
 
-*Podoben: "Being called from on high" (Зва́нный свы́ше):*
+*Podoben: "Being called from on high" (Званный свыше):*
 
 *Sticheron 1 (Saint Nicholas):* O Father Nicholas, the shrine of thy relics pours forth myrrh, enriching the people of Myra; in which, appearing in a dream unto the emperor by thine apparition, thou didst deliver those bound and unjustly condemned from death and from the executioner;[^297] and now, even as then, ever manifest thyself by thine apparition, praying for our souls!
 
@@ -5101,7 +5100,7 @@ At that time: Jesus called unto Him His disciples, and gave them power against u
 
 *Kontakion of the Cross, Tone 4.*
 
-*Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йся на Крⷭ҇тъ во́лею):*
+*Podoben: "Thou Who wast lifted up upon the Cross" (Вознесыйся на Крестъ):*
 
 *Ode 7. Heirmos:*
 
@@ -5167,7 +5166,7 @@ At that time: Jesus called unto Him His disciples, and gave them power against u
 
 *Exapostilarion of the Cross.*
 
-*Podoben: "Give ear, ye women" (Же́ны оу҆слы́шите):*
+*Podoben: "Give ear, ye women" (Жены услышите):*
 
 *Stavrotheotokion:* Beholding Thee nailed upon the Cross, the All-pure One, weeping and lamenting, cried aloud: How hast Thou set, O Sun of glory, O primordial Light? How art Thou nailed upon the Cross, and pierced in the side with a spear, O my Savior and Son, for the sake of the salvation of mankind!
 
@@ -5213,11 +5212,11 @@ The Lord said: No man hath ascended up to heaven, but He that came down from hea
 
 *On Friday evening, at "Lord, I have cried", Stichera of the Prophets and Martyrs, Tone 8.*
 
-*Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чꙋдесѐ):*
+*Podoben: "O most marvelous wonder" (О преславное чудо):*
 
 *Tone 8.*
 
-*Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чꙋдесѐ):*
+*Podoben: "O most marvelous wonder" (О преславное чудо):*
 
 *Sticheron 2:* Despise me not, wretched one, lying in passions and perishing in temptations; but do ye all arise: O Prophets, pray for us; entreat Him, O Hierarchs and Monastics; and ye Martyrs and Passion-bearers of Christ, together with the Queen and the Forerunner, diligently entreat Christ to deliver us from condemnation on the day of judgment!
 
@@ -5235,7 +5234,7 @@ The Lord said: No man hath ascended up to heaven, but He that came down from hea
 
 *Tone 8.*
 
-*Podoben: "Martyrs of the Lord" (Мч҃ницы Гдⷭ҇ни):* [^328]
+*Podoben: "Martyrs of the Lord" (Мученицы Господни):* [^328]
 
 [p291LA] ...and every infirmity ye heal; and now pray that our souls may be delivered from the snare of the enemy, by your prayers!
 
@@ -5415,7 +5414,7 @@ The Lord said: No man hath ascended up to heaven, but He that came down from hea
 
 *Then: It is truly meet, and More honorable. Sessional Hymn (Exapostilarion).*
 
-*Podoben: "Give ear, ye women" (Же́ны оу҆слы́шите):*
+*Podoben: "Give ear, ye women" (Жены услышите):*
 
 *Troparion (All Saints):* Glorious Prophets, sovereign Apostles, righteous Patriarchs, solitary company of Hierarchs, venerable ones, and choir of righteous women, holy Martyrs: with them all, pray unto the Lord with the Mother of God, to have mercy upon Thy servants!
 
@@ -5841,8 +5840,6 @@ ni ex Frankonia anno 1491[^376]
 
 *[Archival service target slip inserted by the microfilming laboratory certifying that the verso of the final blank leaf (fol. 172v / Blatt 172b) is wanting in this surviving exemplar of the 1491 incunabulum.]*[^382]
 
-## CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING
-
 [p345LA] *[Rear flyleaf / endpaper of the historical binding, upon which is mounted in the center a rectangular paper slip bearing a nineteenth-century handwritten German collation certificate in cursive ink by a scholarly bibliographer of the Breslau / Wrocław Stadtbibliothek:]*
 
 diese Incunabel enthaelt 172 (Ein hundert siebenzig und zwei) Blaetter
@@ -5933,7 +5930,7 @@ Breslau. 1866. C.F.
 
 [^36]: Slavonic: *ВЪ СꙊБОТꙊ ВЕЧЕРЪ НА Г̃И въꙁва · ст̃ры · поставимъ стиховь ·и̃· и поем ст̃ры · въскръсны · гла̃ ·в̃·*. Primary rubric in display ligatured cinnabar script marking the inception of Tone 2 in Fiol's 1491 Krakow Octoechos, appointing 8 resurrectional stichera at "Lord, I have cried" for Saturday Vespers (3 resurrectional, 4 Anatolian, and the Dogmatikon Theotokion).
 
-[^37]: Slavonic: *по вторнеи дноy · сла̃ і н̃нѣ б̃ѡ · Преиде сѣнь ꙁаконнаꙗ · бл̃г̃ти пришедши...*. The Dogmatikon Theotokion of Tone 2, celebrating the passing of the Old Testament types and shadows upon the incarnation of Christ from the Virgin Mary, paralleling the burning bush and the pillar of fire (Exodus 3, 13).
+[^37]: Slavonic: *по вторнеи дноу · сла̃ і н̃нѣ б̃ѡ · Преиде сѣнь ꙁаконнаꙗ · бл̃г̃ти пришедши...*. The Dogmatikon Theotokion of Tone 2, celebrating the passing of the Old Testament types and shadows upon the incarnation of Christ from the Virgin Mary, paralleling the burning bush and the pillar of fire (Exodus 3, 13).
 
 [^38]: Slavonic: *тр̃о · въскръсень · гла̃ ·в̃· Егда съниде къ съмрътн животъ бе̃съмртныи...*. The classical Tone 2 Resurrectional Troparion (*тропарь воскресенъ*), hymning Christ's descent into Hades and His victory over death through the brilliance of His Godhead.
 
@@ -5973,7 +5970,7 @@ Breslau. 1866. C.F.
 
 [^56]: Slavonic: *пѣ̃ д̃ і рм̃ · Пришествовавь ѿ д̃вы , ни ходатаин ни аг̃г̃ль · нъ ты самь г̃и въплъщьсѧ...*. Ode 4 of the threefold canon in Tone 2: Canon 1 Heirmos *Пришелъ еси от Дѣвы, не ходатай, ни ангелъ, но Самъ Господи, воплощся...* (Habakkuk 3); Canon 2 Heirmos *Пою Тя, слухомъ бо услышахъ, Господи...*; Canon 3 Heirmos *Се вознесеся божественная гора...*.
 
-[^57]: Slavonic: *пѣ̃ е̃ · ір̃мь · Ходатаи б̃оу · и ч̃лко̃мь бы х̃е б̃е · тобою вл̃ко...*. Ode 5 of the threefold canon in Tone 2: Canon 1 Heirmos *Ходатай Богу и человѣкомъ былъ еси, Христе Боже...* (1 Timothy 2:5; Isaiah 26:9); Canon 2 Heirmos *Свѣтодателю и вѣковъ Творче, Господи...*; Canon 3 Heirmos *Облацы, веселiя сладость кропите...*.
+[^57]: Slavonic: *пѣ̃ е̃ · ір̃мь · Ходатаи б̃оу · и ч̃лко̃мь бы х̃е б̃е · тобою вл̃ко...*. Ode 5 of the threefold canon in Tone 2: Canon 1 Heirmos *Ходатай Богу и человѣкомъ былъ еси, Христе Боже...* (1 Timothy 2:5; Isaiah 26:9); Canon 2 Heirmos *Свѣтодателю и вѣковъ Творче, Господи...*; Canon 3 Heirmos *Облацы, веселія сладость кропите...*.
 
 [^58]: Slavonic: *пѣ̃ ѕ̃ ір̃мо · Въ беꙁднѣ грѣховнѣ ѡ́дръжимь, неислѣднꙗ милосердїа твоего приꙁываꙗ и беꙁдноу...*. Ode 6 of the threefold canon in Tone 2: Canon 1 Heirmos *Въ безднѣ грѣховнѣй одержимь есмь, Спасе...* (Jonah 2); Canon 2 Heirmos *Въ безднѣ грѣховнѣй...*; Canon 3 to the Theotokos.
 
@@ -6151,7 +6148,7 @@ Breslau. 1866. C.F.
 
 [^145]: Slavonic: *и́ны в̃ъсточны :~ Г̃и цр̃ю вѣкомъ и́ тво́рче всьлы насъ ради распѧтїе и́ погребенне прие̃мь · да насъ ѿ съмр̃ти свободиши... Г̃ипросїꙗ́ющаꙗ твоꙗ чюдеса кто и́сповѣсть... ст̃их · въскресни г̃и помоꙁи :~ Бгопрїꙗ́тнаго гро́ба твоего · стражникъ ноу́де ѡ́глаахꙋ · ѡ́ вашего беꙋмрѣнаго съвѣта · стрѣгщи не ѡ́писаннаго по́кꙋснете сѧ · въсебѣ троу́дите сѧ · оу́таити въскре̃нїе распѧтаго · хо́тѧщаго свѣтло ꙗ́вити сѧ... въистинꙋ...*. Leaf p134 continues Tone 5 Sunday Matins Praises with Anatolian (Eastern) Stichera: *Господи, Царю вѣком и Творче всѣх...* (Greek: Κύριε, ὁ Βασιλεὺς τῶν αἰώνων), *Господи, просїяющая Твоя чудеса кто исповѣсть...* (Greek: Κύριε, τὰ ὑπερλάμποντά σου θαύματα), Verse *Воскресни, Господи Боже мой...* (here printed with incipit `въскресни г̃и помоꙁи`), and the extended dramatized Sticheron of the tomb guards addressing the Sanhedrin: *Богопрїятнаго гроба Твоего стражницы всуе оглашаху: О вашего безумнаго совѣта! Стрегуще Неописаннаго покушаетеся...* (Greek: Τοῦ θεοδόχου σου μνήματος). Epigraphic variants include `всьлы` for *всѣх*, `енлы своеꙗ` for *силы своея*, `днаволїю` for *дїаволю*, `стражникъ ноу́де ѡ́глаахꙋ` for *стражницы всуе оглашаху*, `беꙋмрѣнаго` for *безумнаго*, `мрътв ли` for *мертвых*, and `радостиж` for *радостнѣ*. The leaf bears quire signature `л̃є` (quire 35).
 
-[^146]: Slavonic: *...въста г̃ь · и́ и́мѣꙗ велию и́ б̃атꙋю мл̃ть :~ ст̃их и́сповѣмсѧ тебѣ г̃и :~ Мѵроносица жены · на гро́бь твои́ пришедше ѕѣло́ рано · и́скахꙋ тебе помаꙁати бе́смр̃тнаго сло́ва и́ б̃а... сла̃ стра̃ е̃ѵ̃лы въ нѣлю · на литѡргі́и бл̃жна гла̃ є̃ · раꙁбонникь на кр̃тѣ б̃а тѧ сꙋща вѣрова... Распеншоу ти сѧ х̃е · посрѣдѣ двою́ ѡ́соужденож раꙁбонникоу... Дрѣва кре̃тнаго животънсточн ро́доу чл̃чтьскомоу... Въскресе и́ꙁ мрътвыхъ · и́ раꙁоривь дръжавоу съмр̃тноую х̃е... Мѵ́рѡно́сицамь женамь · и́ꙁ роба въсна х̃е... На гро́бь твои х̃е · приидоша ч̃тьстныꙗ жены · и́скахꙋ тебе живо́давца помаꙁати · ꙗ́ви же на а́гг̃ль...*. Leaf p135 concludes the Tone 5 Sunday Matins Praises (conclusion of Sticheron 7; Verse: LXX Ps. 9:2; and Sticheron 8: *Мѵроносицы жены, на гроб Твой пришедша зѣло рано...* / Greek: Μυроφόροι γυναῖκες); followed by the heading for the Sunday Evangelical Doxasticon (*Слава... стихира евангельская в недѣлю*) and the Liturgy Beatitudes (Блаженна) in Tone 5: Troparion 1 (*Разбойник на крестѣ Бога Тя суща вѣрова...*), Troparion 2 (*Распеншуся Ти, Христе, посредѣ двою осужденною разбойнику...*), Troparion 3 (*Древа крестнаго животочный [источник]...*), Troparion 4 (*Воскрес из мертвых и разорив державу смертную, Христе...*), Troparion 5 (*Мѵроносицам женам, из гроба возсияв, Христе...*), and opening of Troparion 6 (*На гроб Твой, Христе, прїидоша честныя жены...*). Epigraphic variants include `б̃атꙋю` for *богатую*, `лирови` for *мирови*, `двои` for *двою*, `животънсточн` for *животочный источник*, `роба въсна` for *гроба возсияв*, and `ѡ́брѣтше радость неизглаголаннѫ ꙗ́` for *обрѣтша радость неизглаголанную*.
+[^146]: Slavonic: *...въста г̃ь · и́ и́мѣꙗ велию и́ б̃атꙋю мл̃ть :~ ст̃их и́сповѣмсѧ тебѣ г̃и :~ Мѵроносица жены · на гро́бь твои́ пришедше ѕѣло́ рано · и́скахꙋ тебе помаꙁати бе́смр̃тнаго сло́ва и́ б̃а... сла̃ стра̃ е̃ѵ̃лы въ нѣлю · на литѡргі́и бл̃жна гла̃ є̃ · раꙁбонникь на кр̃тѣ б̃а тѧ сꙋща вѣрова... Распеншоу ти сѧ х̃е · посрѣдѣ двою́ ѡ́соужденож раꙁбонникоу... Дрѣва кре̃тнаго животънсточн ро́доу чл̃чтьскомоу... Въскресе и́ꙁ мрътвыхъ · и́ раꙁоривь дръжавоу съмр̃тноую х̃е... Мѵ́рѡно́сицамь женамь · и́ꙁ роба въсна х̃е... На гро́бь твои х̃е · приидоша ч̃тьстныꙗ жены · и́скахꙋ тебе живо́давца помаꙁати · ꙗ́ви же на а́гг̃ль...*. Leaf p135 concludes the Tone 5 Sunday Matins Praises (conclusion of Sticheron 7; Verse: LXX Ps. 9:2; and Sticheron 8: *Мѵроносицы жены, на гроб Твой пришедша зѣло рано...* / Greek: Μυροφόροι γυναῖκες); followed by the heading for the Sunday Evangelical Doxasticon (*Слава... стихира евангельская в недѣлю*) and the Liturgy Beatitudes (Блаженна) in Tone 5: Troparion 1 (*Разбойник на крестѣ Бога Тя суща вѣрова...*), Troparion 2 (*Распеншуся Ти, Христе, посредѣ двою осужденною разбойнику...*), Troparion 3 (*Древа крестнаго животочный [источник]...*), Troparion 4 (*Воскрес из мертвых и разорив державу смертную, Христе...*), Troparion 5 (*Мѵроносицам женам, из гроба возсияв, Христе...*), and opening of Troparion 6 (*На гроб Твой, Христе, прїидоша честныя жены...*). Epigraphic variants include `б̃атꙋю` for *богатую*, `лирови` for *мирови*, `двои` for *двою*, `животънсточн` for *животочный источник*, `роба въсна` for *гроба возсияв*, and `ѡ́брѣтше радость неизглаголаннѫ ꙗ́` for *обрѣтша радость неизглаголанную*.
 
 [^147]: Slavonic: *...въпиꙗ въскресе г̃ь · по́мѧни ма г̃и :~ тро́ченъ :~ Покланꙗем ти сѧ тр̃це · е̃динство беꙁначалномꙋ нравенство честно... Радꙋисѧ ѡ́дꙋшевленаꙗ цр̃кви б̃жїꙗ... про̃ · Ты г̃и не съхраниши ны и́ съблю · с̃ · сп̃си ма г̃и · а́п̃лъ , къ еврен :~ Братїа , единомоу къмоу ж до насъ дае̃сѧ бл̃гть · подмѣрѣ дарованна х̃ва · ꙗ́вленїе д̃ха на плъꙁоу... а́ллꙋꙗ · мл̃ти твоꙗ г̃и въспою · ст̃и ꙗ́ко рече въ вѣкы · е̃ѵ̃лїе · ѿ і́о́анна :~ Въ врема ѡ́но , приꙁва і̃с ѡ́банадесѧть оу́ч̃никъ свои · и́ даи имъ вла на доусѣхь неч̃ты... и́дѣте же паче къ ѡ́вцамь погыбьшиимь домоу і́и̃лева...*. Leaf p136 concludes the Liturgy Beatitudes in Tone 5 (conclusion of Troparion 6; Trinity Troparion: *Покланяем Ти ся, Троице, Единство безначалному, равенство честно...*; and Theotokion: *Радуйся, одушевленная церкви Божїя...*); followed by the Tone 5 Liturgy Prokeimenon (*Ты, Господи, сохраниши ны и соблюдеши ны...* / LXX Ps. 11:8; Verse: *Спаси мя, Господи...* / LXX Ps. 11:2); Epistle reading; Alleluia (*Милости Твоя, Господи, воспою...* / LXX Ps. 88:2; Verse: *Яко рече...* / LXX Ps. 88:3); and the Liturgy Gospel reading. Notably, Fiol's printed edition presents two prominent liturgical rubric misattributions: the Epistle is titled *Апостолъ къ Евреом*, yet prints a composite pericope from Ephesians 4:7 and 1 Corinthians 12:7–11; and the Gospel is titled *Евангелїе от Іоанна*, yet prints Matthew 10:1, 5–6 (the synoptic mission pericope of the Twelve Apostles). Epigraphic variants include `нравенство` for *равенство*, `вла на доусѣхь неч̃ты` for *власть над духи нечистыми*, and `самаренскь` for *самарянск*. The leaf bears quire signature `л̃ѕ` (quire 36).
 
@@ -6251,13 +6248,13 @@ Breslau. 1866. C.F.
 
 [^195]: CS: 'Плавающаго в молвѣ житенстѣи беꙁветьемь...'. The Tone 7 Sunday Heirmos of Ode 6 (Greek: Ναυτιῶν τῷ σάλῳ τῶν βιωτικῶν μελημάτων...).
 
-[^196]: CS rubric: 'к̃ѡꙁ істоупнице хр̃тїа : ~'. The Krakow typesetting fuses the abbreviation for Kontakion ('к̃ѡ[ндакъ]') with the initial consonant 'ꙁ' of the appointed Marian incipit 'Застоупнице христїа[номъ непостыдная]' (Greek: Πρoστασία τῶν Χριστιανῶν ἀκαταίσχυντε).
+[^196]: CS rubric: 'к̃ѡꙁ істоупнице хр̃тїа : ~'. The Krakow typesetting fuses the abbreviation for Kontakion ('к̃ѡ[ндакъ]') with the initial consonant 'ꙁ' of the appointed Marian incipit 'Застоупнице христїа[номъ непостыдная]' (Greek: Προστασία τῶν Χριστιανῶν ἀκαταίσχυντε).
 
 [^197]: CS: 'оу́гль дрѣвле и́саи́ꙗ прѣ · ѡ́браꙁнѣ твое ро́жество провида'. Scriptural and hymnographic allusion to the live burning coal of Isaiah 6:6-7, prefiguring the incarnation of the divine Fire in the womb of the Virgin.
 
 [^198]: CS: 'Соу́ꙁелныихъ воистворы́и дети'. A typographical corruption or misreading of the antigraph in the Krakow edition for the Greek Ὁ τῶν δεσμίων ῥύστης γενόμενος ('Having become the Deliverer of the prisoners' / Slavonic: 'Узников избавитель бывый').
 
-[^199]: CS: 'львели ренню' (for 'оумиренїю' / 'примирению', Greek: καταллаγῆς). The Krakow typography exhibits a compositor error or ligature breakdown for 'reconciliation'.
+[^199]: CS: 'львели ренню' (for 'оумиренїю' / 'примирению', Greek: καταλλαγῆς). The Krakow typography exhibits a compositor error or ligature breakdown for 'reconciliation'.
 
 [^200]: CS: 'колемь' (instrumental of 'колъ' / 'копие', lance/spear; Greek: λόγχῃ).
 
@@ -6299,7 +6296,7 @@ Breslau. 1866. C.F.
 
 [^219]: Printed incipit *Б[о]жїа съхожденїа* corresponds to the Greek heirmos *Θεοῦ συγκατάβασιν πῦρ ᾐδέσθη ἐν Βαβυλῶνι ποτέ* (Slavonic: *Божїя снисхожденїя огнь устыдеся въ Вавилонѣ иногда*).
 
-[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χалдаίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
+[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
 
 [^221]: Printed incipit *Т[ѧ] бракоу невѣсен* corresponds to the Greek heirmos *Ἀσπόρου συλλήψεως ὁ τόκος ἀνερμήνευτος* (Slavonic: *Безсѣменнаго зачатия рождество несказанное*).
 
@@ -6313,7 +6310,7 @@ Breslau. 1866. C.F.
 
 [^226]: Versification per the Septuagint (LXX Ps. 131:8, 1; Masoretic Ps. 132:8, 1). This is followed by the rubrics for the Sunday Matins Gospel cycle: *Let every breath... Verse: Praise God in His saints (LXX Ps. 150:1)*, *Resurrection Gospel, Reading 1*, *Having beheld the Resurrection of Christ*, and *Psalm 50*.
 
-[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρмаτηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
+[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρματηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
 
 [^228]: Greek: *Ὑγρὰν διοδεύσας ὡσεὶ ξηράν* (Slavonic: *Воду прошедъ яко сушу*), the heirmos model for the second canon of Sunday Matins (the Canon of the Cross and Resurrection).
 
@@ -6337,7 +6334,7 @@ Breslau. 1866. C.F.
 
 [^238]: Printed incipit of Ode 7 heirmos of the Canon of the Cross: *Иже отъ Отца...*
 
-[^239]: Heirmos of Ode 8, Tone 8: *Седмерицею пещь халдейскїй мучитель...* (Greek: *Ἑπταπλασίως κάμινον τῶν Χαλдаίων ὁ τύραννος...*).
+[^239]: Heirmos of Ode 8, Tone 8: *Седмерицею пещь халдейскїй мучитель...* (Greek: *Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος...*).
 
 [^240]: Printed incipit of Ode 8 heirmos of the Canon of the Cross: *Побѣдителю...* (*Христосъ пропятый на древѣ...* / Greek: *Νικητὴν τυράννου...*).
 
@@ -6369,7 +6366,7 @@ Breslau. 1866. C.F.
 
 [^254]: Monday Matins Canons in Tone 1, Ode 3 Heirmos: *Единый свѣдый человѣческаго естества неможение...* (Greek: *Ὁ μόνος εἰδὼς τῆς τῶν βροτῶν οὐσίας τὴν ἀσθένειαν...*), with troparia of repentance, the holy martyrs, and the Theotokos, followed by the second Canon to the Bodiless Powers.
 
-[^255]: Monday Matins Canons in Tone 1, Ode 4 Heirmos: *Гору Тя благодатию преосѣненную...* (Greek: *Ὄρος σε τῇ χάриτι τῇ θείᾳ κατάσκιον...* / Hab. 3:3), with troparia of repentance, martyrs, and Theotokos, followed by the second Canon to the Angels.
+[^255]: Monday Matins Canons in Tone 1, Ode 4 Heirmos: *Гору Тя благодатию преосѣненную...* (Greek: *Ὄρος σε τῇ χάριτι τῇ θείᾳ κατάσκιον...* / Hab. 3:3), with troparia of repentance, martyrs, and Theotokos, followed by the second Canon to the Angels.
 
 [^256]: Monday Matins Canons in Tone 1, Ode 5 Heirmos: *Просвѣщение наше...* (Greek: *Τὸν φωτισμὸν ἡμῶν...* / Isa. 26:9), with troparia of repentance, martyrs, and Theotokos, followed by the second Canon to the Angels.
 
@@ -6381,7 +6378,7 @@ Breslau. 1866. C.F.
 
 [^260]: Monday Matins Canons in Tone 1, Ode 7 Heirmos of the second Canon to the Bodiless Powers (*Безначальный Свѣт сый, Владыко...* / Greek: *Ἄναρχον φῶς ὑπάρχων, Δέσποτα...*), with troparia to the angelic ranks and Theotokion. Followed by Ode 8 Heirmos of the Canon of Repentance (*В пещи дѣти Израилевы...* / Greek: *Ἐν καμίνῳ Παῖδες Ἰσραήλ...* / Dan. 3:57).
 
-[^261]: Monday Matins Canons in Tone 1, Ode 8 Heirmos of the second Canon to the Bodiless Powers (*Поют Тя вои ангельстии...* / Greek: *Ὑμνοῦσί σε τῶν Ἀγγέλων αἱ στρατιαί...*), concluding with the liturgical Praise verse (*Хвалим, благословим, покланяемся Господеви...* / Dan. 3:56). Followed by Ode 9 Heirmos of the Canon of Repentance (*Образ чистаго рождества Твоего, распаляемая купина...* / Greek: *Τύпон τῆς ἁγνῆς λοχείας σου ἡ φλεгомένη βάτος...* / Ex. 3:2).
+[^261]: Monday Matins Canons in Tone 1, Ode 8 Heirmos of the second Canon to the Bodiless Powers (*Поют Тя вои ангельстии...* / Greek: *Ὑμνοῦσί σε τῶν Ἀγγέλων αἱ στρατιαί...*), concluding with the liturgical Praise verse (*Хвалим, благословим, покланяемся Господеви...* / Dan. 3:56). Followed by Ode 9 Heirmos of the Canon of Repentance (*Образ чистаго рождества Твоего, распаляемая купина...* / Greek: *Τύπον τῆς ἁγνῆς λοχείας σου ἡ φλεγομένη βάτος...* / Ex. 3:2).
 
 [^262]: Monday Matins Canons in Tone 1, Ode 9 Heirmos of the second Canon to the Bodiless Powers (*Причастники неизреченнѣй славѣ...* / Greek: *Κοινωνοὺς ἀρρήτου δόξης...*), with troparia and Theotokion. Followed by the Monday Matins Exapostilarion (Photogogikon / Светилен) to the Bodiless Powers in Tone 1 (*Архангели и ангели, начальства, силы и власти...*).
 
@@ -6397,15 +6394,15 @@ Breslau. 1866. C.F.
 
 [^268]: Tuesday Vespers Prokeimenon in Tone 2: LXX Ps. 22:6 (*Thy mercy, O Lord, shall pursue me all the days of my life*) with verse LXX Ps. 22:1 (*The Lord is my shepherd, and I shall want nothing*). Followed by the Monday Evening Aposticha in Tone 2, and Tuesday Matins Kathisma 1 and Kathisma 2 Sessional Hymns in Tone 2.
 
-[^269]: Tuesday Matins Kathisma 2 Sessional Hymns in Tone 2: concluding the penitential sessional hymns (alluding to David drenched in tears over his two sins, LXX Ps. 6:6 / 2 Sam. 11–12, and the parable of the barren fig tree, Luke 13:6–9), followed by the Martyrikon (*Лицы мученичестии противишася мучителем, глаголюще: мы воинствуем Царю Силам...*) and Theotokion. Followed by Tuesday Matins Canon 1 of Supplication to the Holy Forerunner in Tone 2, Ode 1 Heirmos (*Грядите, людие...* / Greek: *Δεῦτε λαοί, ᾄσωмен ᾆσμα Χριστῷ τῷ Θεῷ...* / Ex. 15:1) with troparia to the Baptist and Theotokion citing LXX Ps. 44:10 (*The queen stood at Thy right hand, in golden vesture, adorned in varied colors*).
+[^269]: Tuesday Matins Kathisma 2 Sessional Hymns in Tone 2: concluding the penitential sessional hymns (alluding to David drenched in tears over his two sins, LXX Ps. 6:6 / 2 Sam. 11–12, and the parable of the barren fig tree, Luke 13:6–9), followed by the Martyrikon (*Лицы мученичестии противишася мучителем, глаголюще: мы воинствуем Царю Силам...*) and Theotokion. Followed by Tuesday Matins Canon 1 of Supplication to the Holy Forerunner in Tone 2, Ode 1 Heirmos (*Грядите, людие...* / Greek: *Δεῦτε λαοί, ᾄσωμεν ᾆσμα Χριστῷ τῷ Θεῷ...* / Ex. 15:1) with troparia to the Baptist and Theotokion citing LXX Ps. 44:10 (*The queen stood at Thy right hand, in golden vesture, adorned in varied colors*).
 
-[^270]: Tuesday Matins Canon 2 to the Lord of Compunction in Tone 2 (*инъ канонъ къ Господу ко умиленію*), Ode 1 Heirmos (*Яко моисейском...* / Greek: *Ὡς Μωσεὺς διὰ θαλάσσης...*) with troparia of repentance, martyrikon, and Theotokion citing the prophetic vision of the Seraph and the live coal with the tongs (Isa. 6:6–7). Followed by Ode 3 of Canon 1 to the Forerunner, Heirmos (*На камени мя вѣры утверди...* / Greek: *Ἐν πέτρᾳ με τῆς πίστεως στεреώσας...* / 1 Sam. 2:1–2) with troparia to the Forerunner (John 1:29–33) and Theotokion, and Ode 3 Heirmos of Canon 2 (*Неплоднаго...* / Greek: *Στειρωθέντα μου τὸν νοῦν...*).
+[^270]: Tuesday Matins Canon 2 to the Lord of Compunction in Tone 2 (*инъ канонъ къ Господу ко умиленію*), Ode 1 Heirmos (*Яко моисейском...* / Greek: *Ὡς Μωσεὺς διὰ θαλάσσης...*) with troparia of repentance, martyrikon, and Theotokion citing the prophetic vision of the Seraph and the live coal with the tongs (Isa. 6:6–7). Followed by Ode 3 of Canon 1 to the Forerunner, Heirmos (*На камени мя вѣры утверди...* / Greek: *Ἐν πέτρᾳ με τῆς πίστεως στερεώσας...* / 1 Sam. 2:1–2) with troparia to the Forerunner (John 1:29–33) and Theotokion, and Ode 3 Heirmos of Canon 2 (*Неплоднаго...* / Greek: *Στειρωθέντα μου τὸν νοῦν...*).
 
 [^271]: Tuesday Matins Canons in Tone 2, concluding Ode 3 of Canon 2 with Christological, martyrial, and Marian troparia. Followed by Ode 4 of Canon 1 to the Forerunner, Heirmos (*Пою Тя слухом, Господи...* / Greek: *Εἰσακήκοα, Κύριε, τὴν ἀκοήν σου καὶ ἐφοβήθην...* / Hab. 3:2) with troparia to the Baptist and Theotokion, and Ode 4 of Canon 2, Heirmos (*От Дѣвы Твое...* / Greek: *Τὴν ἐκ Παρθένου σου γέννησιν...*) with penitential and martyrial troparia.
 
 [^272]: Tuesday Matins Canons in Tone 2, concluding Ode 4 of Canon 2 with troparia of repentance (citing the expulsion of Adam from Eden, Gen. 3:23–24). Followed by Ode 5 of Canon 1 to the Forerunner, Heirmos (*Свѣта подателю...* / Greek: *Φωτὸς χορηγέ, καὶ τῶν αἰώνων ποιητὰ Κύριε...* / Isa. 26:9) with troparia to the Baptist and Theotokion, and Ode 5 of Canon 2, Heirmos (*Мглу души моея...* / Greek: *Τὴν ἀχλὺν τῆς ψυχῆς μου διασκέδασον...*) with troparia of repentance.
 
-[^273]: Tuesday Matins Canons in Tone 2, concluding Ode 5 of Canon 2 with martyrikon and Theotokion citing Daniel's prophecy of the unhewn stone (Dan. 2:34–45). Followed by Ode 6 of Canon 1 to the Forerunner, Heirmos (*В безднѣ грѣховнѣ одержим...* / Greek: *Ἐν ἀβύσσῳ πταισμάτων κυκλούμενος...* / Jonah 2:2–6) with troparia to the Baptist and Theotokion, and Ode 6 of Canon 2, Heirmos (*В глубинѣ прегрѣшеній...* / Greek: *Βυθῷ ἁμαρτημάτων συνέχομαι...*) with troparia of repentance (citing the Canaanite woman, Matt. 15:22), martyrikon, and Theotokion (the Living Bread, John 6:51). Concludes with the Tuesday Matins Kontakion to the Holy Forerunner in Tone 3 to the melodic model (*Podoben*) *Today the Virgin* (*Дѣва днесь* / Greek: *Ἡ Παρθένος σήмеρον*): *Неплоды днесь Христа предтечю ражает...*
+[^273]: Tuesday Matins Canons in Tone 2, concluding Ode 5 of Canon 2 with martyrikon and Theotokion citing Daniel's prophecy of the unhewn stone (Dan. 2:34–45). Followed by Ode 6 of Canon 1 to the Forerunner, Heirmos (*В безднѣ грѣховнѣ одержим...* / Greek: *Ἐν ἀβύσσῳ πταισμάτων κυκλούμενος...* / Jonah 2:2–6) with troparia to the Baptist and Theotokion, and Ode 6 of Canon 2, Heirmos (*В глубинѣ прегрѣшеній...* / Greek: *Βυθῷ ἁμαρτημάτων συνέχομαι...*) with troparia of repentance (citing the Canaanite woman, Matt. 15:22), martyrikon, and Theotokion (the Living Bread, John 6:51). Concludes with the Tuesday Matins Kontakion to the Holy Forerunner in Tone 3 to the melodic model (*Podoben*) *Today the Virgin* (*Дѣва днесь* / Greek: *Ἡ Παρθένος σήμερον*): *Неплоды днесь Христа предтечю ражает...*
 
 [^274]: Tuesday Matins Kontakion to the Holy Forerunner in Tone 3 (concluded, commemorating the baptism of Christ in the Jordan, Matt. 3:13–17). Followed by Ode 7 of Canon 1 to the Forerunner, Heirmos (*Богопротивное велѣніе...* / Greek: *Ἀντίθεον πρόσταγμα παρανομοῦντος τυράννου...* / Dan. 3:19–28) with troparia to the Baptist and Theotokion (alluding to the leaping of John in Elizabeth's womb, Luke 1:41–44), and Ode 7 of Canon 2, Heirmos (*Херувимом подобящеся...* / Greek: *Τὰ Χερουβὶμ μιμούμενοι Παῖδες...* / Dan. 3:52) with troparia of repentance (citing David, LXX Ps. 50:5) and martyrikon.
 
@@ -6481,7 +6478,7 @@ Breslau. 1866. C.F.
 
 [^310]: Thursday Liturgy in Tone 4: conclusion of the Beatitudes (troparia to the Apostles, Martyricon, Triadicon, and Theotokion); followed by the Prokeimenon in Tone 8/4 (*Въ всю землю изыде вѣщанїе ихъ...* / LXX Ps. 18:5, 2); and the incipit of the Thursday Epistle to the Corinthians (1 Cor. 4:9–16), recounting the Apostles as spectacles to angels and men.
 
-[^311]: Thursday Liturgy in Tone 4: conclusion of the Epistle (1 Cor. 4:10–16); Alleluia and the Thursday Gospel of Matthew (Matt. 10:1, 5–8), commissioning the Twelve to preach the kingdom, heal the sick, and cast out devils; Kinonikon (LXX Ps. 18:5); followed by Thursday evening (Friday Vespers) suppliant Stichera to the Cross (3) and to the Theotokos (3) in Tone 6 to the automelon (*Podoben*) *Having placed all their hope* (*Все упованїе* / Greek: *Ὅλην ἀποθέмеνοι*), opening with *Радуйся, живоносный Кресте* (*Rejoice, O life-bearing Cross*).
+[^311]: Thursday Liturgy in Tone 4: conclusion of the Epistle (1 Cor. 4:10–16); Alleluia and the Thursday Gospel of Matthew (Matt. 10:1, 5–8), commissioning the Twelve to preach the kingdom, heal the sick, and cast out devils; Kinonikon (LXX Ps. 18:5); followed by Thursday evening (Friday Vespers) suppliant Stichera to the Cross (3) and to the Theotokos (3) in Tone 6 to the automelon (*Podoben*) *Having placed all their hope* (*Все упованїе* / Greek: *Ὅλην ἀποθέμενοι*), opening with *Радуйся, живоносный Кресте* (*Rejoice, O life-bearing Cross*).
 
 [^312]: Friday Vespers (Thursday evening): conclusion of the Stichera to the Cross (*Радуйся, Кресте Господень...*, *Радуйся, Кресте Христовъ...*), celebrating the Cross as the haven of salvation, beauty of priests, and resurrection of the dead; followed by the Stichera to the Theotokos in Tone 6 to the same automelon (*Обременени прегрѣшенїемъ...* / *Burdened with transgressions...*).
 
@@ -6543,9 +6540,9 @@ Breslau. 1866. C.F.
 
 [^341]: Saturday Liturgy in Tone 8: conclusion of the Saturday Epistle for the Departed (1 Thess. 4:14–17); followed by the Alleluia with its verses (LXX Ps. 64:5, LXX Ps. 24:13); and the Saturday Gospel for the Departed (John 5:24–29), erroneously rubricated by Fiol as *from Matthew* (*еуⷢліе • ѿ матьѳе*).
 
-[^342]: Saturday Liturgy in Tone 8: conclusion of the Gospel for the Departed (John 5:29–30) and Kinonikon (*Радуйтеся, праведнии, о Господѣ...* / LXX Ps. 32:1), marking the conclusion of the weekly liturgical cycles of the Octoechos proper. Followed by the woodcut headpiece opening the major rear appendix: `# EXAPOSTILARIA AND EVANGELICAL STICHERA` (*ВЪСКРЕСНАА ЕУⷢЛІА ЗАУТРЬНАА*), containing the Eleven Matins Resurrection Gospels, accompanied by the corresponding Exapostilaria (*Свѣтильны*) and Theotokia composed by the Byzantine Emperor Leo VI the Wise (reigned 886–912), and the Eleven Evangelical Stichera (*Стихиры евангельския* / Greek: *Ἑωθινὰ ἰδιόμελα*). Here on leaf 304 are printed Gospel 1 (Matt. 28:16–20), Exapostilarion 1 (*Съ ученики взыдем на гору Галилейскую...* / Greek: *Τοῖς Μαθηταῖς συνέλθωмен*), and the opening of its Theotokion (*Иже горѣ сѣдяй со Отцем божественнѣ...* / Greek: *Ὁ ἄνω συγκαθήμενος*).
+[^342]: Saturday Liturgy in Tone 8: conclusion of the Gospel for the Departed (John 5:29–30) and Kinonikon (*Радуйтеся, праведнии, о Господѣ...* / LXX Ps. 32:1), marking the conclusion of the weekly liturgical cycles of the Octoechos proper. Followed by the woodcut headpiece opening the major rear appendix: `# EXAPOSTILARIA AND EVANGELICAL STICHERA` (*ВЪСКРЕСНАА ЕУⷢЛІА ЗАУТРЬНАА*), containing the Eleven Matins Resurrection Gospels, accompanied by the corresponding Exapostilaria (*Свѣтильны*) and Theotokia composed by the Byzantine Emperor Leo VI the Wise (reigned 886–912), and the Eleven Evangelical Stichera (*Стихиры евангельския* / Greek: *Ἑωθινὰ ἰδιόμελα*). Here on leaf 304 are printed Gospel 1 (Matt. 28:16–20), Exapostilarion 1 (*Съ ученики взыдем на гору Галилейскую...* / Greek: *Τοῖς Μαθηταῖς συνέλθωμεν*), and the opening of its Theotokion (*Иже горѣ сѣдяй со Отцем божественнѣ...* / Greek: *Ὁ ἄνω συγκαθήμενος*).
 
-[^343]: Exapostilaria and Evangelical Stichera: completion of the Theotokion of Exapostilarion 1; followed by Evangelical Sticheron 1 in Tone 1 (*На гору учеником идущым...* / Greek: *Εἰς τὸ ὄρος τοῖς Μαθηταῖς ἐπειгоμένοις*); the Second Matins Resurrection Gospel from Mark (Mark 16:1–8); and the opening incipit of Exapostilarion 2 (*Камень видѣвша отвален...* / Greek: *Τὸν λίθον θεωρήσασαι ἀποκεκυλισμένον*).
+[^343]: Exapostilaria and Evangelical Stichera: completion of the Theotokion of Exapostilarion 1; followed by Evangelical Sticheron 1 in Tone 1 (*На гору учеником идущым...* / Greek: *Εἰς τὸ ὄρος τοῖς Μαθηταῖς ἐπειγομένοις*); the Second Matins Resurrection Gospel from Mark (Mark 16:1–8); and the opening incipit of Exapostilarion 2 (*Камень видѣвша отвален...* / Greek: *Τὸν λίθον θεωρήσασαι ἀποκεκυλισμένον*).
 
 [^344]: Exapostilaria and Evangelical Stichera: conclusion of Exapostilarion 2 (*Камень видѣвша отвален...*); Theotokion (*Радоватися провѣщавый...* / Greek: *Χαῖρε προσειπὼν ὁ Κύριος*); followed by Evangelical Sticheron 2 in Tone 2 (*С миры пришедшым яже о Мариами женам...* / Greek: *Μετὰ μύρων προσελθούσαις*); and the opening of the Third Matins Resurrection Gospel from Mark (Mark 16:9–12). Note Fiol's typesetting error in Evangelical Sticheron 2: *еже съдларнею жена* for *яже о Мариами женам*.
 
@@ -6553,7 +6550,7 @@ Breslau. 1866. C.F.
 
 [^346]: Exapostilaria and Evangelical Stichera: conclusion of the Theotokion of Exapostilarion 3; followed by Evangelical Sticheron 3 in Tone 3 (*Магдалыни Марии Спасово благовѣствующей...* / Greek: *Τῆς Μαγδαληνῆς Μαρίας*); and the opening of the Fourth Matins Resurrection Gospel from Luke (Luke 24:1–9).
 
-[^347]: Exapostilaria and Evangelical Stichera: conclusion of the Fourth Matins Resurrection Gospel from Luke (Luke 24:9–12); followed by Exapostilarion 4 (*Добродѣтельми блиставше...* / Greek: *Ταῖς ἀρεтаῖς ἀστрάψанτες*); Theotokion (*В утробу Твою, Пречистая...*); and the opening of Evangelical Sticheron 4 in Tone 4 (*Утро бѣ глубоко...* / Greek: *Ὄρθρος ἦν βαθύς*). Note Fiol's corrupted typesetting in the sticheron: *Оутренѣ бѣ бракѡ* (for *Утро бѣ глубоко*).
+[^347]: Exapostilaria and Evangelical Stichera: conclusion of the Fourth Matins Resurrection Gospel from Luke (Luke 24:9–12); followed by Exapostilarion 4 (*Добродѣтельми блиставше...* / Greek: *Ταῖς ἀρεταῖς ἀστράψαντες*); Theotokion (*В утробу Твою, Пречистая...*); and the opening of Evangelical Sticheron 4 in Tone 4 (*Утро бѣ глубоко...* / Greek: *Ὄρθρος ἦν βαθύς*). Note Fiol's corrupted typesetting in the sticheron: *Оутренѣ бѣ бракѡ* (for *Утро бѣ глубоко*).
 
 [^348]: Exapostilaria and Evangelical Stichera: conclusion of Evangelical Sticheron 4 in Tone 4; followed by the Fifth Matins Resurrection Gospel from Luke (Luke 24:12–25), detailing the journey of Cleopas and his companion to Emmaus and their encounter with the risen Christ.
 
@@ -6561,17 +6558,17 @@ Breslau. 1866. C.F.
 
 [^350]: Exapostilaria and Evangelical Stichera: conclusion of Exapostilarion 5; followed by its Theotokion (*Творяй Господь небеса всяческим...* / Greek: *Ὁ ποιητὴς τῶν ποιημάτων...*); Evangelical Sticheron 5 in Tone 5 (*О премудрых судеб Твоих, Христе!...* / Greek: *Ὢ τῶν σοφῶν σου κριμάτων, Χριστέ...*); and the opening of the Sixth Matins Resurrection Gospel from Luke (Luke 24:36–40).
 
-[^351]: Exapostilaria and Evangelical Stichera: conclusion of the Sixth Matins Resurrection Gospel from Luke (Luke 24:41–53), describing Christ eating the broiled fish and honeycomb before the disciples, expounding the Scriptures, blessing them at Bethany, and ascending into heaven; followed by Exapostilarion 6 (*Показуя яко Человѣк еси, Спасе...* / Greek: *Δεικνύων ὅτι ἄνθρωπος, Σῶтер...*).
+[^351]: Exapostilaria and Evangelical Stichera: conclusion of the Sixth Matins Resurrection Gospel from Luke (Luke 24:41–53), describing Christ eating the broiled fish and honeycomb before the disciples, expounding the Scriptures, blessing them at Bethany, and ascending into heaven; followed by Exapostilarion 6 (*Показуя яко Человѣк еси, Спасе...* / Greek: *Δεικνύων ὅτι ἄνθρωπος, Σῶτερ...*).
 
-[^352]: Exapostilaria and Evangelical Stichera: conclusion of Exapostilarion 6; followed by its Theotokion (*Своего видящи от мертвых воставша...* / Greek: *Ὡς ἴδεν ἐκ νекрῶν ἀναστάντα...*); Evangelical Sticheron 6 in Tone 6 (*Истинно миръ Ты еси, Христе...* / Greek: *Ἡ ὄντως εἰρήνη σὺ Χριστέ...*); and the opening of the Seventh Matins Resurrection Gospel from John (John 20:1–5).
+[^352]: Exapostilaria and Evangelical Stichera: conclusion of Exapostilarion 6; followed by its Theotokion (*Своего видящи от мертвых воставша...* / Greek: *Ὡς ἴδεν ἐκ νεκρῶν ἀναστάντα...*); Evangelical Sticheron 6 in Tone 6 (*Истинно миръ Ты еси, Христе...* / Greek: *Ἡ ὄντως εἰρήνη σὺ Χριστέ...*); and the opening of the Seventh Matins Resurrection Gospel from John (John 20:1–5).
 
-[^353]: Exapostilaria and Evangelical Stichera: conclusion of the Seventh Matins Resurrection Gospel from John (John 20:5–10); followed by Exapostilarion 7 (*Яко взяша Господа, Марии рекшей...* / Greek: *Ὅτι ἦран τὸν Κύριον...*); its Theotokion (*По неизреченному человеколюбию...*), noting Fiol's corrupted typesetting in the incipit (*Поютвожесъчнеле*); and Evangelical Sticheron 7 in Tone 7 (*Се тма и утро, и что при гробе, Марие, стоиши...* / Greek: *Ἰδοὺ σκοτία καὶ πρωΐ...*), with Fiol's variant *Сетлаи рано* for *Се тма и рано*.
+[^353]: Exapostilaria and Evangelical Stichera: conclusion of the Seventh Matins Resurrection Gospel from John (John 20:5–10); followed by Exapostilarion 7 (*Яко взяша Господа, Марии рекшей...* / Greek: *Ὅτι ἦραν τὸν Κύριον...*); its Theotokion (*По неизреченному человеколюбию...*), noting Fiol's corrupted typesetting in the incipit (*Поютвожесъчнеле*); and Evangelical Sticheron 7 in Tone 7 (*Се тма и утро, и что при гробе, Марие, стоиши...* / Greek: *Ἰδοὺ σκοτία καὶ πρωΐ...*), with Fiol's variant *Сетлаи рано* for *Се тма и рано*.
 
-[^354]: Exapostilaria and Evangelical Stichera: Eighth Matins Resurrection Gospel from John (John 20:11–18), recounting Christ's appearance to Mary Magdalene at the sepulchre (*Noli me tangere*); followed by Exapostilarion 8 (*Два ангела видѣвши внутрь гроба...* / Greek: *Δύο Ἀγγέλους βлέψασα...*); and the opening incipit of its Theotokion, noting Fiol's typesetting error *бьспѣдрь* for *нѣдръ* (*Отческих нѣдр не отступив...*).
+[^354]: Exapostilaria and Evangelical Stichera: Eighth Matins Resurrection Gospel from John (John 20:11–18), recounting Christ's appearance to Mary Magdalene at the sepulchre (*Noli me tangere*); followed by Exapostilarion 8 (*Два ангела видѣвши внутрь гроба...* / Greek: *Δύο Ἀγγέλους βλέψασα...*); and the opening incipit of its Theotokion, noting Fiol's typesetting error *бьспѣдрь* for *нѣдръ* (*Отческих нѣдр не отступив...*).
 
 [^355]: Exapostilaria and Evangelical Stichera: conclusion of the Theotokion of Exapostilarion 8; followed by Evangelical Sticheron 8 in Tone 8 (*Мариины слезы не всуе проливаются...* / Greek: *Τὰ τῆς Μαρίας δάκρυα...*); and the opening of the Ninth Matins Resurrection Gospel from John (John 20:19–25), recounting Christ's appearance to the disciples through closed doors and the absence of Thomas.
 
-[^356]: Exapostilaria and Evangelical Stichera: conclusion of the Ninth Matins Resurrection Gospel from John (John 20:25–31), recording the confession of Thomas (*My Lord and my God*) and the Johannine purpose statement; followed by Exapostilarion 9 (*Затвореным, Владыко, дверем...* / Greek: *Συγκεκλεισμένων Δέσποта...*); its Theotokion (*Богородительнице чистая Дѣво, скорбящым радосте...*); and the opening of Evangelical Sticheron 9 in Tone 5 (*Яко в послѣдняя времена...* / Greek: *Ὡς ἐπ' ἐσχάτων τῶν χρόνων...*).
+[^356]: Exapostilaria and Evangelical Stichera: conclusion of the Ninth Matins Resurrection Gospel from John (John 20:25–31), recording the confession of Thomas (*My Lord and my God*) and the Johannine purpose statement; followed by Exapostilarion 9 (*Затвореным, Владыко, дверем...* / Greek: *Συγκεκλεισμένων Δέσποτα...*); its Theotokion (*Богородительнице чистая Дѣво, скорбящым радосте...*); and the opening of Evangelical Sticheron 9 in Tone 5 (*Яко в послѣдняя времена...* / Greek: *Ὡς ἐπ' ἐσχάτων τῶν χρόνων...*).
 
 [^357]: Exapostilaria and Evangelical Stichera: conclusion of Evangelical Sticheron 9 in Tone 5; followed by the opening of the Tenth Matins Resurrection Gospel from John (John 21:1–8), recounting the appearance of the risen Christ by the Sea of Tiberias and the miraculous catch of fish.
 

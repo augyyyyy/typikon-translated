@@ -35,7 +35,7 @@ Thou didst first endure the martyrdom of conscience ascetically, and now art cro
 
 That Thou mightest show us, O Master, the path leading unto holiness, Thou didst dwell in the most pure womb.
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 
 Having fasted, O venerable wise father, thou wast anointed a hierarch to celebrate the divine mysteries for the safekeeping of souls; and having venerated Christ's icon, thou didst endure exiles, afflictions, and long confinement; therefore, pouring out healings after thy repose, thou dost heal the suffering and enlighten those who hymn thee, O hierarch Theophylact: beseech Christ God to grant remission of sins unto those who honor thy holy memory with love.
 
@@ -101,7 +101,7 @@ Christ showed thee forth as a cloud pouring out a shower of life, O father, unto
 
 Comely beyond all the sons of men is Thy Son, O all-pure one, in the beauty of the Godhead, though He became flesh for our sake.
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 
 Thou didst appear as a radiant luminary at the ends of the earth, O hierarch Theophylact: having proclaimed the Word consubstantial with the Father and the Spirit, thou didst elucidate the council of the divine fathers, and wast shown forth as a well-pleaser of the Trinity; before Whom standing, pray unceasingly for us all.
 
@@ -205,11 +205,11 @@ By the sufferings which the saints endured for Thee, be Thou entreated, O Lord, 
 *Litany, and three great prostrations, and the Dismissal.*
 
 *At Matins, at "God is the Lord," the Troparion of the Saints, twice; Glory... Both now... Theotokion. And the usual Kathismata. After the first and second Kathisma, Sessional Hymns of the Triodion; we do not say litanies. After the third Kathisma, the priest says the little litany.*  
-*Then the Sessional Hymn, Tone 4, Podoben: "Thou hast appeared today" (Yavilsya yesi dnes):*
+*Then the Sessional Hymn, Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 
 As greatest stars ye ever enlighten the honorable firmament of the Church, and illuminate the faithful, O divine forty martyrs of Christ!
 
-*Glory, the same Tone, Podoben: "Lifted up" (Voznesyisya):*
+*Glory, the same Tone, Podoben: "Lifted up" (Вознесы́йсѧ):*
 
 With most divine purpose having traversed martyrdom, O marvelous passion-bearers, through fire and water ye passed, and ye pass...
 
@@ -228,7 +228,7 @@ Receiving the supplication from us who flee unto thy covering, O all-pure Virgin
 
 *After the second Kathisma, Sessional Hymn: "With most divine purpose," twice. Glory... Both now... Theotokion: "Those who thankfully..."*
 
-*After the Polyeleos, Sessional Hymn, Tone 5, Podoben: "Co-beginningless" (Sobeznachalnoe):*
+*After the Polyeleos, Sessional Hymn, Tone 5, Podoben: "Co-beginningless" (Собезнача́льное Сло́во):*
 
 Behold the adornment of the holy martyrs, fourfold radiant and chosen by God, the multitude of forty soldiers in truth: tested by frost and fire, O wise ones, ye were shown forth as soldiers of Christ the King of all, Whom also they beseech that we may be saved. *(Twice)*
 
@@ -311,7 +311,7 @@ Warmed in the bosom of Abraham and adorned with a glorious garment, pray ye that
 
 Be thou the confirmation and refuge and protection, O Virgin Bride of God, unto those who in faith flee unto thee and confess thee to be the Mother of God!
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 
 Having assembled as soldiers for Christ, O martyrs, having cast down the enemy through suffering, by your deeds ye fulfilled the sayings of the prophet; for through fire and water ye passed valiantly, finding rest, life incorruptible; therefore, adorned with heavenly crowns, ye rejoice with the choirs of the bodiless, O blessed, all-praised passion-bearers: beseech Christ God to grant remission of sins unto those who honor your holy memory with love. *(Twice)*
 

@@ -250,7 +250,7 @@ Let us all praise the all-wise John, the most loud-voiced preacher of repentance
 *Now and ever... Theotokion:*
 O all-immaculate Virgin, my Lady and Sovereign Lady, entreat thy Son together with the glorious Chrysostom, that they who hymn thee may be delivered from all temptations, and obtain eternal blessings, O all-holy one; for thou canst do whatsoever thou wilt!
 
-*At the Praises, Stichera on 4. Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе):*[^575]
+*At the Praises, Stichera on 4. Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе):*[^575]
 A most honored vessel of the Divine Spirit wast thou, and a most sacred shepherd, an angel on earth, a pillar of the Church, and a foundation of dogmas, a surety of sinners, the divine consolation of the repentant, a provider for the poor, and the comfort of orphans, O John Chrysostom, intercessor for our souls!
 
 *Sticheron:*

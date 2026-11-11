@@ -1,5 +1,5 @@
 import sys
-sys.path.append(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded")
+sys.path.append(r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded")
 
 from ruthenian_engine import RuthenianEngine
 from datetime import date

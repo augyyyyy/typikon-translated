@@ -11,8 +11,8 @@ def main():
     final_txt_dir = root / "Liturgical Monuments" / "1891 Lviv Synod" / "Final"
     source_dir = root / "Liturgical Monuments" / "1891 Lviv Synod" / "Source Text"
     
-    inbox_synod_dir = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\1891_Lviv_Provincial_Synod")
-    inbox_root = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox")
+    inbox_synod_dir = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\1891_Lviv_Provincial_Synod")
+    inbox_root = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox")
 
     c10_md_file = final_md_dir / "1891_synod_cohort10.md"
     c10_txt_file = final_txt_dir / "1891_synod_cohort10.txt"

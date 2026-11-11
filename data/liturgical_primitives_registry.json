@@ -90,8 +90,9 @@
         "ибо утверди вселенную"
       ],
       "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
-      "english_canonical": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "english_canonical": "*Verse: For He has established the world, so that it cannot be moved.*",
       "english_patterns": [
+        "for he has established the world",
         "for he hath established the world",
         "for he established the world",
         "for he established the universe"
@@ -1459,7 +1460,7 @@
       ],
       "attested_english_variants": [
         "Fruit of the womb",
-        "Fruit of Thy womb",
+        "Fruit of thy womb",
         "The fruit of thy womb"
       ]
     },
@@ -2174,8 +2175,8 @@
       "slavonic_incipit": "Нн҃ѣ воста́нꙋ, прр́чески речѐ, Бг҃: нн҃ѣ",
       "slavonic_stem": "нне востану пррчески рече бг нне",
       "greek": "Σύ, Κύριέ μου, φῶς εἰς τὸν κόσμον ἐλήλυθας",
-      "english_incipit": "Now will I arise,\" prophetically saith God; \"now",
-      "english_full": "Now will I arise,\" prophetically saith God; \"now will I be glorified; now will I be exalted, taking up him who fell from the Virgin, and I will lift him up unto the marvelous light of My Godhead."
+      "english_incipit": "Now will I arise,\" prophetically says God; \"now",
+      "english_full": "Now will I arise,\" prophetically says God; \"now will I be glorified; now will I be exalted, taking up him who fell from the Virgin, and I will lift him up unto the marvelous light of My Godhead."
     },
     {
       "id": "HEIRMOS.T4.ODE6",
@@ -2223,7 +2224,7 @@
       "slavonic_stem": "еива ѹбо недуго преслушаниа клятву вселила",
       "greek": "Λίθος ἀχειρότμητος ὄρους",
       "english_incipit": "Eve indeed, through the disease of disobedience, brought",
-      "english_full": "Eve indeed, through the disease of disobedience, brought in the curse; but Thou, O Virgin Theotokos, through the blossoming of Thy childbearing, didst bud forth blessing unto the world. Therefore we all magnify Thee."
+      "english_full": "Eve indeed, through the disease of disobedience, brought in the curse; but thou, O Virgin Theotokos, through the blossoming of thy childbearing, didst bud forth blessing unto the world. Therefore we all magnify thee."
     },
     {
       "id": "HEIRMOS.T5.ODE1",
@@ -2318,8 +2319,8 @@
       "slavonic_incipit": "И҆са́їа ликꙋ́й, Дв҃аа бо прїѧ́тъ въ",
       "slavonic_stem": "исаиа ликуй дваа бо прият в",
       "greek": "Ἠσαΐα χόρευε, ἡ Παρθένος ἔσχεν ἐν γαστρί",
-      "english_incipit": "Rejoice, O Isaiah! For a Virgin hath conceived",
-      "english_full": "Rejoice, O Isaiah! For a Virgin hath conceived in her womb and borne a Son, Emmanuel, God and Man; the Dayspring is His name; Whom magnifying, we call Thee blessed, O Virgin!"
+      "english_incipit": "Rejoice, O Isaiah! For a Virgin has conceived",
+      "english_full": "Rejoice, O Isaiah! For a Virgin has conceived in her womb and borne a Son, Emmanuel, God and Man; the Dayspring is His name; Whom magnifying, we call thee blessed, O Virgin!"
     },
     {
       "id": "HEIRMOS.T6.ODE1",
@@ -2415,7 +2416,7 @@
       "slavonic_stem": "бга члком невозможно видети наньже несмеют",
       "greek": "Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον",
       "english_incipit": "It is impossible for men to see God",
-      "english_full": "It is impossible for men to see God, upon Whom the ranks of Angels dare not gaze; but through Thee, O most pure one, the Word incarnate was revealed unto us: Whom magnifying, together with the heavenly hosts we magnify Thee!"
+      "english_full": "It is impossible for men to see God, upon Whom the ranks of Angels dare not gaze; but through thee, O most pure one, the Word incarnate was revealed unto us: Whom magnifying, together with the heavenly hosts we magnify thee!"
     },
     {
       "id": "HEIRMOS.T7.ODE1",
@@ -2510,8 +2511,8 @@
       "slavonic_incipit": "Нетлѣ́нїа неиску́сѡ ро́ждша, и все-",
       "slavonic_stem": "нетлениа неискусо рождша и все",
       "greek": "Μὴ τῆς φθορᾶς διαπείρᾳ κυοφορήσασα",
-      "english_incipit": "Without knowing corruption Thou didst bring forth, lending",
-      "english_full": "Without knowing corruption Thou didst bring forth, lending flesh unto the all-wise Word, O Mother unwedded, Virgin Birth-giver of God, receptacle of the Uncontainable, dwelling-place of Thine uncircumscribed Creator: Thee do we magnify!"
+      "english_incipit": "Without knowing corruption thou didst bring forth, lending",
+      "english_full": "Without knowing corruption thou didst bring forth, lending flesh unto the all-wise Word, O Mother unwedded, Virgin Birthgiver of God, receptacle of the Uncontainable, dwelling-place of thine uncircumscribed Creator: thee do we magnify!"
     },
     {
       "id": "HEIRMOS.T8.ODE1",

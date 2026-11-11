@@ -41,7 +41,7 @@ def verify_file(orig_path, form_path):
                 f"Formatted: ...{sample_form}...")
 
 if __name__ == "__main__":
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     files = [
         "Final_Dolnytsky_part1_structure.md",
         "Final_Dolnytsky_part2_general_rubrics.md",

@@ -17,7 +17,7 @@ Having given birth to Christ, the Pearl of divine lightnings: disperse the mist 
 With prophetic eyes Jacob secretly foresaw the expectation of the nations, God incarnate from thee, delivering us through thine intercession!
 
 *Troparion:*
-The rulers from the tribe of Judah having failed, O all-pure one, Thy Son and God came forth, a Leader unto the ends of the earth, and now reigns in truth!
+The rulers from the tribe of Judah having failed, O all-pure one, thy Son and God came forth, a Leader unto the ends of the earth, and now reigns in truth!
 
 *Ode 3. Heirmos:*
 There is none holy as Thou, O Lord my God, Who hast exalted the horn of Thy faithful, O Good One, and established them upon the rock of Thy confession!
@@ -168,7 +168,7 @@ Death is slain, and the corruption of Adam's condemnation is abolished...
 
 === LEAF p105 ===
 [Sunday.]
-...abolished, O Lady, having clashed against Thy fruit; for thou didst bear Life, delivering from corruption those who hymn thee!
+...abolished, O Lady, having clashed against thy fruit; for thou didst bear Life, delivering from corruption those who hymn thee!
 
 *Troparion:*
 The Law grew weak and the shadow passed away, when grace beyond mind and understanding appeared unto me through the birth of God and the Savior from thee, O Virgin, much-hymned one!
@@ -246,7 +246,7 @@ Rejoice, Gate of God! Rejoice, rampart of the faithful...
 
 *Another Canon to the Theotokos. Heirmos: In a vesture of gold...*
 *Troparion:*
-Having adorned thee with a vesture of gold like a Queen, illumining thee with the ray of the Spirit, Thy Son set thee at His right hand, O all-pure one; Whom supremely exalt unto all ages!
+Having adorned thee with a vesture of gold like a Queen, illumining thee with the ray of the Spirit, thy Son set thee at His right hand, O all-pure one; Whom supremely exalt unto all ages!
 
 *Troparion:*
 He Who established the world by His sole will borrowed flesh from thy most pure womb, desiring to fashion it again from above; Whom supremely exalt unto all ages!

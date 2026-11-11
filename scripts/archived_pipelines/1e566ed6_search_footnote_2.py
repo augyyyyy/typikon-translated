@@ -1,6 +1,6 @@
 import os
 
-footnotes_path = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_footnotes.md"
+footnotes_path = r"C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_footnotes.md"
 
 if not os.path.exists(footnotes_path):
     print("Footnotes file not found!")

@@ -60,13 +60,13 @@ Thou art our weapon and wall, O Theotokos; thou art the protection of those who 
 *At "Lord, I have cried," stichera on 6, in Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*[^237]
 The God-proclaiming Paul ordains thee as an imitator, called by the same name and adorned with his ways, O all-blessed one, inflamed with piety, and courage of soul, and endurance of afflictions, and zeal, O champion of Orthodoxy; with whom thou art also now glorified together in the heavenly mansions.[^238]
 
-*Sticheron 2, Podoben the same:*
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*
 With the firm cords of thy dogmas, O father, hieromartyr, thou didst choke godless Arius and malignant Macedonius; and by the upright word of teaching thou didst confirm the multitudes of the Orthodox. Therefore, accepting thy most radiant confession, the Lover of mankind showed thee to be a partaker of the Kingdom.[^239]
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 When thou hadst finished the course and kept the faith, O blessed hierarch, Christ crowned thee with a radiant crown of righteousness, and adorned thy confession, O marvelous one. Therefore, having received the heavenly inheritance, pray unto the Savior for those who sing of thee![^240]
 
-*Sticheron 4, Podoben the same:*
+*Sticheron 4, Podoben the same (Подо́бенъ то́йже):*
 O all-blessed Paul, namesake of confession, having become a fervent defender of those who praise thee well: from every tribulation, from every sin, and the storm of passions, and torment do thou deliver them, as an unconquerable martyr and an acceptable hierarch; for thou hast acquired boldness before Christ our God!
 
 *Glory, in Tone 4, by Germanus:*[^241]
@@ -300,7 +300,7 @@ Beholding the Lamb stretched upon the Tree, the Ewe-lamb and Virgin in the midst
 *At "Lord, I have cried," stichera, in Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́блѧ въ мꙋ́ченицѣхъ):*[^277]
 A divinely chosen army, a sacred host, a divine assembly, a holy people, a God-inspired company of martyrs, a fair gathering, an unbreakable fellowship, truly were you shown to be, O praiseworthy ones, and worthy citizens of the heavenly metropolis: therefore as is meet you are called blessed!
 
-*Sticheron 2, Podoben the same:*[^278]
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*[^278]
 With Nicander let us honor Hesychius, Athanasius, Mamas, divine Barachius and Callinicus, Diogenes and Nicon, Longinus and Theodore, Valerius together with Xanthias, Theodulus and Callimachus, and Eugenius
 
 === LEAF p60 ===
@@ -309,16 +309,16 @@ With Nicander let us honor Hesychius, Athanasius, Mamas, divine Barachius and Ca
 
 and Eugenius; having all assembled, together with divine Diodochus and Ostrychius let us honor them![^279]
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 The good Hieron, glorious Epiphanius, Maximian together with Ducitius, Claudian and Theophilus, and divine Gigantius, and Dorotheus faithfully, and Theodotus let us sing, and Castricius and Anicletus together with Themelius, and Eutychius with one accord, witnesses of the truth!
 
 *Other Stichera of the Venerable One, in Tone 6, Podoben: "Having laid all aside" (Всѐ ѿло́жше):*[^280]
 Having laid aside all the irrationality of passions, and subjected the flesh unto the spirit, thou wast a rule of virtue, a confirmation of monastics, an image of fasters, an adornment of the venerable. And now thou beholdest the ineffable beauty of thy Creator, ever feeding upon the good things that are in heaven: assembled together in spirit, in the songs of sweet melodies we celebrate thy honorable and all-festal memory!
 
-*Sticheron 2, Podoben the same:*
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*
 Having shaken off all the heavy burden of earth, and having calmed the turbulent surges of the flesh, O wise one, by thy breathings, thou didst remain unmoved by passions: as a pillar strengthened with spiritual armor by a valiant mind. And now thou hast truly obtained divine vision and brightness, and unto Him Whom thou didst desire hast thou passed over, delighting in His unending light, deified by adoption![^281]
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 Emulating Elijah, and John the Luminary, having loved the light, to keep silence in the mountains and deserts; ever learning divine walking with God, and advancing on the path of virtues: therefore thou didst reach the utmost desire, O all-wise one, and rejoicing thou standest before the tri-radiant light of the Trinity. From Whom directly receiving the divine ray, with boldness pray for our souls!
 
 *Glory, in Tone 6:*[^282]

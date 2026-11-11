@@ -60,7 +60,7 @@ By thy beckoning, O father Simeon, and by thy providential cares, deliver from a
 *Theotokion:*
 Save me, O Mother of God, who didst give birth unto Christ my Savior, God and man, twofold in nature but not in hypostasis; the Only-begotten from the Father, and from thee the Firstborn of all creation.[^361] Therefore we all ceaselessly magnify thee.
 
-*Exapostilarion. Podoben: "O Light Immutable" (Svete neizmennyj):*
+*Exapostilarion. Podoben: "O Light Immutable" (Свѣ́те неизмѣ́нный):*
 
 === LEAF p193 === (Fol. 97r)
 Having shone forth as a light, thou enlightenest the universe. The multitudes of monastics rejoice in thy memory, O Simeon, God-bearer; cease not praying for peace.
@@ -86,7 +86,7 @@ Standing once by the Tree at the time of the Crucifixion with the virgin discipl
 *At Vespers, we chant:* Blessed is the man.
 *On "Lord, I have cried," Stichera of the feast, 3; and of the Forerunner, 5.*
 *If there is no feast, Stichera on 6, Tone 8.*
-*Tone 8, Podoben: "O Most Marvelous Miracle" (O preslavnago chudese):*
+*Tone 8, Podoben: "O Most Marvelous Miracle" (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 *Sticheron:*
 O blessed John the Forerunner, shining forth more brightly than rays of the sun, thy head gleamed from the earth and enlightened the faithful; having which as a divine treasure, we draw forth rich grace, sanctifying our souls and bodies and thoughts, and celebrating we call thee blessed.
@@ -123,7 +123,7 @@ Though the righteous reach his end, he shall be in rest. And the righteous man t
 dishonorable. How is he numbered among the children of God, and his lot is among the saints? Therefore have we erred from the way of truth, and the light of righteousness shone not unto us, and the sun rose not upon us. We wearied ourselves in the way of wickedness and destruction, and we have gone through deserts where there was no way, but the way of the Lord we have not known.[^367]
 
 *On the Aposticha, Stichera, Tone 1.*
-*Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 
 *Sticheron:*
 Come, let us brightly accomplish a divine celebration! For the light of the Light, the voice of the Word, the friend of the Bridegroom, the great lampstand of truth hath appeared, the Baptist of the Lord, showing us his holy head.
@@ -150,23 +150,23 @@ The mystery hidden from the ages... or of the feast.
 
 === LEAF p197 === (Fol. 99r)
 *After the 1st Stichology, Sessional Hymn, Tone 4.*
-*Tone 4, Podoben: "Go Thou Before" (Skoro predvari):*
+*Tone 4, Podoben: "Go Thou Before" (Ско́рѡ предварѝ):*
 Shining forth from the earth, the Forerunner's head emits rays of incorruption and healings unto the faithful; from on high it gathers the multitude of angels, and below it calls together the human race to send up one-voiced glory unto Christ God. (Twice)
 *Glory, now and ever, of the feast.*
-*If it be Lent: Glory, now and ever, Theotokion, Podoben:*
+*If it be Lent: Glory, now and ever, Theotokion, Podoben (Подо́бенъ):*
 As thou art all-immaculate, who didst give birth to the transcendent God, together with the Forerunner unceasingly pray Him to grant us remission of transgressions and amendment of life before the end, unto us who with faith and love hymn thee as is due, O only extolled one.
 
 *After the 2nd Stichology, Sessional Hymn, Tone 4.*
-*Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyjsya):*
+*Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*
 Brought forth like gold from the ore, thy sacred head most gloriously from the unsetting depths of the earth hath enriched all the minds of the faithful today with divine understanding, crying aloud as is its wont: "Repent!" Bowing down before it, O Forerunner, with a loud voice in faith we glorify Christ. (Twice)
 *Glory, now and ever, of the feast, or Theotokion:*
 He that sits upon the cherubic throne, and makes His dwelling in the Father's bosom, sits upon His holy throne in thy bosom, O Sovereign Lady; for God, having truly become incarnate, hath reigned over all the nations, and wisely now we chant unto Him: Beseech Him that thy servants may be saved!
 
 *After the Polyeleos, Sessional Hymn, Tone 4.*
-*Tone 4, Podoben: "Thou Hast Appeared" (Yavilsya yesi):*
+*Tone 4, Podoben: "Thou Hast Appeared" (Ꙗ҆ви́лсѧ є҆сѝ):*
 Herod, acting lawlessly, O Forerunner, wretchedly and accursedly severed thy precious head with the sword; which we, the faithful, kiss with love.
 *Glory, Tone 8.*
-*Tone 8, Podoben: "What Was Commanded" (Povelennoye):*
+*Tone 8, Podoben: "What Was Commanded" (Повелѣ́нное та́йнѡ):*
 The head of the Baptist was hidden like a pearl in the blessed earth, and adorned as a God-illumined candlestick, it shines forth working wonders for all the world; like the dawn hath the Forerunner of the Sun shone forth gloriously, and with unsetting light proclaiming again unto us, calling aloud: "[Behold,] the Lamb of God!"[^371]
 *[Now and ever, Theot]okion:*
 [As thou art all-immaculate, who didst bear the transcend]ent God: my [heart, which is ever] altered by sin [and sloth], and by the assaults of the [evil one, do thou es]tablish, O Good [One, by] thy [supreme prayers, O Birthgiver of God, and save]
@@ -224,7 +224,7 @@ From barren loins thou didst shine forth as a luminous star of the Sun of glory,
 
 *Kontakion and Ikos of the feast.*
 *Then Sessional Hymn, Tone 4.*
-*Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyjsya):*
+*Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*
 Brought forth like gold from the ore, thy sacred head most gloriously from the unsetting depths of the earth, O Baptist of Christ, hath enriched all who hasten unto its finding, who with hymns magnify the Savior and Creator Who grants us great mercy for thy sake. (Twice)
 *Glory, now and ever, of the feast, or Theotokion:*
 Being a lover of sin, I pray thee who didst bear the sinless God Who takes away the sins of the world, O all-pure one: Have compassion upon my sinful soul, and cleanse my many sins; for thou art the cleansing of sinners, and the salvation and protection of the faithful.

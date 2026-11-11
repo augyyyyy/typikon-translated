@@ -62,7 +62,7 @@ Thou who didst give birth unto the Light, the Maker of luminaries: enlighten my 
 **[Left Page — Fol. 131v]**
 
 *Troparion:*
-Entreat Thy Son, O Birthgiver of God, Who of old sweetened the waters of Marah,[^85] swiftly to deliver me from grievous passion and bitterness.
+Entreat thy Son, O Birthgiver of God, Who of old sweetened the waters of Marah,[^85] swiftly to deliver me from grievous passion and bitterness.
 
 *Glory...*
 
@@ -505,7 +505,7 @@ O thou who didst in the flesh bring forth the Master of all: snatch me, O Maiden
 As I lie upon a bed of pain, raise me up by thy visitation, O Maiden, and grant me health of soul and body, who sing of Christ unto the ages.
 
 *Troparion:*
-Quench the flame of my passions by the dew of thy prayers, O Sovereign Lady, and save me, even as of old Thy Son delivered the Children who exalted Him above all unto the ages.
+Quench the flame of my passions by the dew of thy prayers, O Sovereign Lady, and save me, even as of old thy Son delivered the Children who exalted Him above all unto the ages.
 
 *Both now...*
 

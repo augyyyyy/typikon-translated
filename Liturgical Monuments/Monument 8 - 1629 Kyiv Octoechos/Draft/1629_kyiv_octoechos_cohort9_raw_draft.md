@@ -18,7 +18,7 @@ Incomprehensible and unapproachable God, Who art alone by nature good and mercif
 
 *Theotokion:*
 
-We Thy servants shall never cease, O Virgin, thankfully to hymn Thine acts of mercy from the heart, O Sovereign Lady, crying out and saying: O most holy Virgin, anticipate and deliver us from invisible enemies, and from perils and every threat; for thou art our protection.
+We thy servants shall never cease, O Virgin, thankfully to hymn thine acts of mercy from the heart, O Sovereign Lady, crying out and saying: O most holy Virgin, anticipate and deliver us from invisible enemies, and from perils and every threat; for thou art our protection.
 
 *Ode 7. Heirmos: In the furnace, the Abrahamic children:*
 

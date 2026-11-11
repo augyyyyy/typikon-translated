@@ -5,7 +5,7 @@
 Thou wast transfigured upon the mountain, O Christ God, revealing Thy glory unto Thy disciples as far as they could bear it. Let Thine everlasting Light shine forth also upon us sinners, through the prayers of the Mother of God, O Giver of Light, glory to Thee!
 
 *At Great Vespers:*
-*Blessed is the man. On "Lord, I have cried," we sing 8 verses, with Idiomela 4 of the feast, Podoben: Tone 4, "Before Thy Precious Cross"; Glory, and now, Tone 6: "Prefiguring..." Entrance. Prokeimenon of the day, and three readings:*[^463]
+*Blessed is the man. On "Lord, I have cried," we sing 8 verses, with Idiomela 4 of the feast, Podoben: Tone 4, "Before Thy Precious Cross"; Glory, and now, Tone 6: "Prefiguring..." Entrance. Prokeimenon of the day, and three readings (Пре́жде честна́гѡ твоегѡ̀ Крⷭ҇та̀):*[^463]
 *Two from Exodus: "The Lord said unto Moses: Come up to Me into the mount..." [Ex. 24:12–18]; "The Lord spake unto Moses face to face..." [Ex. 33:11–23]; the third from the Prophecy of Kings: the ascent of Elijah [3 Kings 19:3–16].*
 *At the Litiya: Idiomela of the feast 3, Tone 2; Glory, Tone 5: "Come, let us ascend..."; And now, Tone 5: "The law and the prophets..." On the Aposticha: Idiomela 3, Tone 1, Tone 5, and Tone 8, the same tones: "For Thou, Tabor and Hermon..."; Glory, and now, Tone 6: "Taking Peter and James..." Troparion of the feast thrice. Blessing of the loaves.*
 

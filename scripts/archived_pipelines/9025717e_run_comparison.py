@@ -61,7 +61,7 @@ def main():
     sys.stdout.reconfigure(encoding='utf-8')
     
     # Load databases
-    with open(r'C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors.json', 'r', encoding='utf-8') as f:
+    with open(r'C:\Users\augus\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors.json', 'r', encoding='utf-8') as f:
         rd_data = json.load(f)
         
     with open(r'C:\Users\augus\.gemini\antigravity\brain\9025717e-97c6-4ee4-bc59-6a97eba223c0\text_stamford_troparia.json', 'r', encoding='utf-8') as f:

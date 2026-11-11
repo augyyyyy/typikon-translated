@@ -679,9 +679,7 @@ Most blessed art thou, O Virgin Theotokos, for through Him Who became incarnate 
 *At the Liturgy:*
 *The Beatitudes: Odes 3 and 6, on 8. After the Little Entrance, the Troparion of the Feast. Glory... Both now... Kontakion. But instead of the Trisagion, we sing: "As many of you as have been baptized into Christ have put on Christ. Alleluia."*[^77]
 *Prokeimenon, Tone 3: The Lord is my light and my savior; whom shall I fear? Verse: The Lord is the protector of my life; of whom shall I be afraid?*
-*The Epistle to the Hebrews, Pericope 333 (from the middle): Brethren, receiving a kingdom which cannot be moved...*[^78]
-
-*Jesus Christ the same yesterday, and today, and unto ages of ages.*
+*The Epistle to the Hebrews, Pericope 333 (from the middle): Brethren, receiving a kingdom which cannot be moved*[^78] *Jesus Christ the same yesterday, and today, and unto ages of ages.*
 *Alleluia, Tone 5: The Lord is King, He is clothed with majesty. Verse: For He established the universe which shall not be moved.*
 *The Gospel according to Saint John, Pericope 39: At that time, a certain man was sick, named Lazarus...*[^79]
 *Communion Hymn: Out of the mouth of babes and sucklings hast Thou perfected praise. Alleluia.*[^80]
@@ -708,7 +706,7 @@ Let us also, the faithful, clap our hands in unison, bringing branches of virtue
 *Sticheron 4:*
 Let us bring palm branches of virtues, O brethren, unto Christ God Who comes, willing for our sake to suffer in the flesh as man, that by the power of His Godhead He may grant dispassion unto all!
 
-*Glory... Both now... In the same podoben:*
+*Glory... Both now... In the same podoben (Подо́бенъ то́йже):*
 Borne upon the shoulders of the Cherubim as God, sitting upon a colt, coming willingly upon an ass for our sake: come, let us earnestly sing unto Him with palm branches!
 
 *At the Aposticha, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*[^85]
@@ -854,10 +852,10 @@ Borne upon the Cherubic throne, and sitting upon a foal for our sake, arriving u
 *And we read the Homily for the Feast: of Kyr Andrew of Jerusalem, or from John Chrysostom, Homilies 65 and 66.*[^105] *Then the Songs of Ascents: the first Antiphon of Tone 4. Prokeimenon, Tone 4: Out of the mouth of babes and sucklings hast Thou perfected praise. Verse: O Lord our Lord, how marvelous is Thy name in all the earth! Let every breath praise the Lord. The Gospel according to Matthew, Pericope 83: At that time, when Jesus drew near unto Jerusalem...*[^106] *Psalm 50. Having beheld the Resurrection of Christ is not said.*
 
 *Then the Priest, taking the censer, censes in the form of a cross, saying the Prayer for the Blessing of the Palms:*[^107]
-**Deacon:** Let us pray to the Lord.
-**Choir:** Lord, have mercy.
+> **Deacon:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
 
-**Priest:**
+> **Priest:** ""
 O Lord our God, Who sittest upon the Cherubim, Who didst stir up the power of Thine own Son, our Lord Jesus Christ, that He might save the world through His Cross, Burial, and Resurrection; Whom, when He came now into Jerusalem unto His voluntary Passion, the people that sat in darkness and the shadow of death met, bearing symbols of the resurrection—branches of trees and boughs of palms—prefiguring the resurrection: Do Thou Thyself, O Master, keep and preserve us also who, in imitation of them on this eve of the feast, carry palm boughs and branches of trees in our hands; that even as those multitudes and children offered "Hosanna" unto Thee, so we also in hymns and spiritual songs may attain unto the life-creating and third-day Resurrection, in the same Christ Jesus our Lord, with Whom Thou art blessed, together with Thy most holy, good, and life-creating Spirit, now and ever and unto ages of ages. Amen.
 
 *And while the brethren kiss the Holy Gospel, the Superior distributes the palm branches.*[^108]
@@ -1055,9 +1053,7 @@ Borne upon a throne in heaven, and on earth upon a colt, O Christ God, Thou dids
 *At "Lord, I have cried," we set 6 verses, and chant these three idiomela Stichera, repeating them. Tone 8:*
 Rejoice and be glad, O city of Zion! Be beautiful and celebrate, O Church of God! For behold, thy King is come in righteousness, seated upon a colt, praised by children: "Hosanna in the highest! Blessed art Thou that hast a multitude of compassions, have mercy on us!" (Twice)
 
-The Savior is come today into the city of Jerusalem, to fulfill the Scripture...
-
-...to fulfill the Scripture: and all took palms into their hands, and spread garments before Him, knowing that He is our God, unto Whom the Cherubim cry unceasingly: "Hosanna in the highest! Blessed art Thou that hast a multitude of compassions, have mercy on us!" (Twice)
+The Savior is come today into the city of Jerusalem, to fulfill the Scripture to fulfill the Scripture: and all took palms into their hands, and spread garments before Him, knowing that He is our God, unto Whom the Cherubim cry unceasingly: "Hosanna in the highest! Blessed art Thou that hast a multitude of compassions, have mercy on us!" (Twice)
 
 Borne upon the Cherubim and hymned by the Seraphim, Thou didst ascend upon a colt in Davidic fashion, O Good One, and the children praised Thee in a manner worthy of God; but the Jews blasphemed unlawfully: the untamed seat of the colt prefigured the Gentiles, transformed from unbelief unto faith. Glory to Thee, O Christ, Who alone art merciful and the Lover of mankind! (Twice)
 *Glory... the Sticheron: Rejoice and be glad... Both now... Borne upon the Cherubim...*
@@ -1255,9 +1251,7 @@ Let us now add lamentation unto lamentation, and pour forth tears, weeping with 
 *Destitute of spiritual fruits,*
 *Withers it with a curse: let us flee a like fate!*
 
-On Holy and Great Monday, we commemorate the blessed Joseph the All-Comely, and the withered fig tree: because from this point the holy Passions of our Lord Jesus Christ take their beginning, and Joseph is first received as a type of Him. For he was the younger son of the Patriarch Jacob, born unto him of Rachel; and he was envied by his brothers on account of certain dreams. First...
-
-hidden in the digging of a pit; and his father, deceived by the children with the blood-stained garment, grieved, thinking that he had been devoured by a beast. Then he was sold for thirty pieces of silver unto the Ishmaelites, who in turn sold him unto Potiphar, the chief of the eunuchs of Pharaoh, King of Egypt. And when his mistress raged against the chastity of the youth—because he refused to commit iniquity—he left his garment and fled; and she slandered him unto his master, and bonds and a bitter prison received him. Then, on account of the interpretation of dreams, he was brought forth, and shown unto the King, and appointed lord of all the land of Egypt. And again, on account of the distribution of grain, he was revealed unto his brethren. And having well spent the whole course of his life, he died in Egypt, renowned for his great chastity alongside his other virtues. This is a type of Christ: for Christ also was envied by His fellow Jews, and sold by His Disciple for thirty pieces of silver, and shut up in the dark and gloomy pit of the Tomb; and bursting forth thence by His own sovereign power, He reigns over Egypt—that is, over every sin—and utterly overcomes its dominion. And He rules over all the world, and in His love for mankind redeems us, the mystical Giver of grain, since He gave Himself for us, and nourishes us with heavenly Bread, His own Life-bearing Flesh. For this reason, then, the all-comely Joseph is commemorated today.[^185]
+On Holy and Great Monday, we commemorate the blessed Joseph the All-Comely, and the withered fig tree: because from this point the holy Passions of our Lord Jesus Christ take their beginning, and Joseph is first received as a type of Him. For he was the younger son of the Patriarch Jacob, born unto him of Rachel; and he was envied by his brothers on account of certain dreams. First hidden in the digging of a pit; and his father, deceived by the children with the blood-stained garment, grieved, thinking that he had been devoured by a beast. Then he was sold for thirty pieces of silver unto the Ishmaelites, who in turn sold him unto Potiphar, the chief of the eunuchs of Pharaoh, King of Egypt. And when his mistress raged against the chastity of the youth—because he refused to commit iniquity—he left his garment and fled; and she slandered him unto his master, and bonds and a bitter prison received him. Then, on account of the interpretation of dreams, he was brought forth, and shown unto the King, and appointed lord of all the land of Egypt. And again, on account of the distribution of grain, he was revealed unto his brethren. And having well spent the whole course of his life, he died in Egypt, renowned for his great chastity alongside his other virtues. This is a type of Christ: for Christ also was envied by His fellow Jews, and sold by His Disciple for thirty pieces of silver, and shut up in the dark and gloomy pit of the Tomb; and bursting forth thence by His own sovereign power, He reigns over Egypt—that is, over every sin—and utterly overcomes its dominion. And He rules over all the world, and in His love for mankind redeems us, the mystical Giver of grain, since He gave Himself for us, and nourishes us with heavenly Bread, His own Life-bearing Flesh. For this reason, then, the all-comely Joseph is commemorated today.[^185]
 
 On this day also we commemorate the withered fig tree: because the divine Evangelists, namely Matthew and Mark, record after the account of the Palms: on the morrow, as they went out from Bethany, He hungered. And the other says: returning in the morning into the city, He hungered; and seeing a fig tree having leaves only—for it was not the season of figs—He came to it, and when He found no fruit upon it, He said: Let no fruit grow on thee henceforward unto the age! And immediately the fig tree withered away.[^186] Now the fig tree signifies the Jewish synagogue, upon which the Savior found not the fitting fruit, but only the shadow of the Law; and this He took away from them, leaving it entirely destitute. And if anyone should say: Why did the soulless tree, which had not sinned, become dry after receiving a curse? Let him learn that the Jews, seeing Christ always doing good unto all, and having never brought anything painful or grievous upon anyone, supposed that He had power only to do good, but not to work harm. But the Master and Son, the Lover of mankind, would not show this upon a man, that the ungrateful people might indeed be convinced that He possesses sufficient power unto punishment also; yet since as God He desires not to punish man, He worked this chastisement upon a soulless and insensible nature. Together with this, there is also a certain ineffable teaching handed down to us from the ancient wise elders, as Saint Isidore of Pelusium says: that this was the tree of transgression, whose leaves the transgressors needed for a covering; therefore it was cursed by Christ in His love for mankind, since it had not suffered this then, that it might no longer bear fruit that was the cause of sin. And that sin is likened unto a fig is manifest: for it possesses the sweetness of sensual pleasure, the stickiness of guilt, and afterwards the hardening and prickling of the conscience. Nevertheless, by the Fathers, the narrative of the fig tree is placed here for the sake of compunction, just as that of Joseph is placed here because he bears the type of Christ. For the fig tree is every soul destitute of all spiritual fruit; wherein in the morning, after this present life, the Lord finding no rest in her, withers her with a curse and sends her into the eternal fire. And she stands as a withered pillar, striking fear into those who do not bring forth the fitting fruit of virtues. Through the prayers of the all-comely Joseph, O Christ our God, have mercy on us, now and ever and unto ages of ages. Amen.[^187]
 
@@ -1510,9 +1504,7 @@ The books shall then be opened, the thrones being set, and deeds shall be made m
 The Judge of all comes to be led unto judgment—He that sits upon the Cherubic throne—to be delivered up to Pilate as one condemned, and to suffer all things, that He may save Adam!
 
 *Troparion 6:*
-Our great and divine Pascha is drawn near: for after two days Christ foretells, foreshadowing His Passion...
-
-*Troparion 6 (conclusion):*
+Our great and divine Pascha is drawn near: for after two days Christ foretells, foreshadowing His Passion *Troparion 6 (conclusion):*
 ...foreshadowing the day on which the sacrifice shall be brought unto the Father.
 
 *Troparion 7:*
@@ -1582,9 +1574,7 @@ Why art thou despondent, O my wretched soul? Why dost thou imagine unprofitable 
 Great Tuesday brings forth the Ten Virgins,  
 Bearing the victory of the blameless Master.[^216]
 
-*On Great and Holy Tuesday, we commemorate the Parable of the Ten Virgins:[^217] for as the Lord was ascending to Jerusalem and going forth unto His Passion, He spoke such parables unto His disciples, which parables He also directed toward the Jews. The Parable of the Ten Virgins He delivered turning it unto almsgiving, teaching together therewith that everyone must be ready before the end. For He had instructed them much concerning virginity and concerning eunuchs; and though virginity possesses great glory—for it is great in truth—yet lest anyone, fulfilling this one work alone, should neglect the others, and especially almsgiving, by which the lamp of virginity is illuminated, the Holy Gospel introduces this parable. And He names five Wise, because together with virginity they provided abundant and rich oil of almsgiving; and five Foolish, because they also possessed virginity, yet not equal almsgiving.[^218] On this account they are called foolish: for having accomplished the greater, they neglected the lesser, and differed in nothing from harlots; for while harlots were overcome in their bodies, these were overcome by their possessions. But as the night of this present life passed away, all the virgins slumbered—that is, they died; for death is called sleep. And while they were sleeping, a cry arose at midnight; and those who had abundantly supplied oil, the doors being opened, entered in together with the Bridegroom. But the foolish, having insufficient oil, sought oil after their sleep. And the wise, though desiring to give unto them, could not do so before entering, but answered, saying: "Lest there be not enough for us and you, go rather to them that sell—that is, unto the poor—and buy." But it was not easy, for after death this is impossible; as Abraham also showed concerning the Rich Man and Lazarus, saying: "There is a great gulf fixed, so that they who would pass from hence to you cannot." But the foolish, having arrived unenlightened, cry aloud thus, knocking at the gate: "Lord, Lord, open unto us!" But the Lord Himself through Himself gives that terrible answer, saying: "Depart, I know you not!" For how indeed shall ye behold the Bridegroom, not possessing the very mercy that is eternal? On account of this type, therefore, the Parable of the Ten Virgins was appointed by the God-bearing Fathers to be set here, instructing us ever to watch and to be ready for the meeting of the true Bridegroom through good deeds, and above all through almsgiving; for unknown is the day...*
-
-*...unknown is the day and the hour of the end: even as through Joseph chastity is commended, and through the fig tree spiritual fruit is ever brought forth. For he that visibly performs one single and greater work, yet neglects the others, and especially almsgiving, enters not with Christ into eternal rest, but turns back put to shame. For nothing is more sorrowful and full of shame than virginity overcome by possessions! But O Bridegroom Christ, unite us with the wise virgins, and number us among Thine elect flock, and have mercy upon us, now and ever and unto ages of ages. Amen.*
+*On Great and Holy Tuesday, we commemorate the Parable of the Ten Virgins:[^217] for as the Lord was ascending to Jerusalem and going forth unto His Passion, He spoke such parables unto His disciples, which parables He also directed toward the Jews. The Parable of the Ten Virgins He delivered turning it unto almsgiving, teaching together therewith that everyone must be ready before the end. For He had instructed them much concerning virginity and concerning eunuchs; and though virginity possesses great glory—for it is great in truth—yet lest anyone, fulfilling this one work alone, should neglect the others, and especially almsgiving, by which the lamp of virginity is illuminated, the Holy Gospel introduces this parable. And He names five Wise, because together with virginity they provided abundant and rich oil of almsgiving; and five Foolish, because they also possessed virginity, yet not equal almsgiving.[^218] On this account they are called foolish: for having accomplished the greater, they neglected the lesser, and differed in nothing from harlots; for while harlots were overcome in their bodies, these were overcome by their possessions. But as the night of this present life passed away, all the virgins slumbered—that is, they died; for death is called sleep. And while they were sleeping, a cry arose at midnight; and those who had abundantly supplied oil, the doors being opened, entered in together with the Bridegroom. But the foolish, having insufficient oil, sought oil after their sleep. And the wise, though desiring to give unto them, could not do so before entering, but answered, saying: "Lest there be not enough for us and you, go rather to them that sell—that is, unto the poor—and buy." But it was not easy, for after death this is impossible; as Abraham also showed concerning the Rich Man and Lazarus, saying: "There is a great gulf fixed, so that they who would pass from hence to you cannot." But the foolish, having arrived unenlightened, cry aloud thus, knocking at the gate: "Lord, Lord, open unto us!" But the Lord Himself through Himself gives that terrible answer, saying: "Depart, I know you not!" For how indeed shall ye behold the Bridegroom, not possessing the very mercy that is eternal? On account of this type, therefore, the Parable of the Ten Virgins was appointed by the God-bearing Fathers to be set here, instructing us ever to watch and to be ready for the meeting of the true Bridegroom through good deeds, and above all through almsgiving; for unknown is the day unknown is the day and the hour of the end: even as through Joseph chastity is commended, and through the fig tree spiritual fruit is ever brought forth. For he that visibly performs one single and greater work, yet neglects the others, and especially almsgiving, enters not with Christ into eternal rest, but turns back put to shame. For nothing is more sorrowful and full of shame than virginity overcome by possessions! But O Bridegroom Christ, unite us with the wise virgins, and number us among Thine elect flock, and have mercy upon us, now and ever and unto ages of ages. Amen.*
 
 *Then the Two-Ode Canon, whose acrostic is: TRITITE (that is: On the Third Day). The composition of the Lord Cosmas.[^219] The Heirmos twice, and the troparia to 6. The final Heirmos, both choirs together. Tone 2.*
 
@@ -1622,15 +1612,13 @@ Thy bridal chamber do I see adorned, O my Savior, and I have no wedding garment 
 Into the splendors of Thy saints, how shall I enter being unworthy? For if I dare to enter into the bridal chamber, my garment reproaches me, that it is not a wedding garment, and being bound I shall be cast out by the Angels! Cleanse, O Lord, the defilement of my soul, and save me, as Thou art the Lover of mankind! *(Twice)*
 
 *Tone 2:*
-Slumbering in spiritual sloth, I have not acquired a burning lamp from virtues, O Bridegroom Christ, and I am likened unto the foolish virgins, wandering about in the time of labor: shut not against me the loving-kindness of Thy compassions, O Master; but having shaken off my darkened sleep, raise me up, and lead me with the wise virgins into Thy bridal chamber, where the voice of those who feast is pure...
-
-...where the voice of those who feast is pure, and who cry unceasingly: "Lord, glory to Thee!" *(Twice)*
+Slumbering in spiritual sloth, I have not acquired a burning lamp from virtues, O Bridegroom Christ, and I am likened unto the foolish virgins, wandering about in the time of labor: shut not against me the loving-kindness of Thy compassions, O Master; but having shaken off my darkened sleep, raise me up, and lead me with the wise virgins into Thy bridal chamber, where the voice of those who feast is pure where the voice of those who feast is pure, and who cry unceasingly: "Lord, glory to Thee!" *(Twice)*
 
 *Glory, both now, Tone 4:*
 Hearing the condemnation of him that hid the talent, O soul, hide not the word of God! Proclaim His marvelous works, that multiplying the gift, thou mayest enter into the joy of thy Lord!
 
 *At the Aposticha, Stichera Idiomela, Tone 6:*
-Come, ye faithful, let us labor eagerly for the Master: for He distributs riches unto His servants, and according to the measure let each of us multiply the talent of grace![^223] Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply the great reward, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
+Come, ye faithful, let us labor eagerly for the Master: for He distributes riches unto His servants, and according to the measure let each of us multiply the talent of grace![^223] Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply the great reward, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
 
 *Verse: We were filled in the morning with Thy mercy...*
 
@@ -1656,9 +1644,7 @@ Unto those who sin beyond measure, abundantly grant forgiveness, O Savior, and a
 *Verse: Out of the depths have I cried unto Thee, O Lord; Lord, hear my voice.*
 
 *Reading from the Prophecy of Ezekiel (Ezekiel 1:21–28 LXX):*[^225]
-When the living creatures went, the wheels went; and when they stood, they stood; and when they were lifted up from the earth, they were lifted up with them: for the spirit of life was...
-
-...was in the wheels. And the likeness above the head of the living creatures was as a firmament, as the appearance of crystal, stretched out over their wings above. And under the firmament their wings were straight, trembling one toward another: each one had two joined covering their bodies. And I heard the voice of their wings when they flew, as the voice of abundant waters, as the voice of God Shaddai; when they went, the voice of speech was as the voice of a host; and when they stood, their wings ceased. And behold, there was a voice from above the firmament that was over their heads: when they stood, their wings were let down. And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and upon the likeness of the throne was the likeness as the appearance of a man above upon it. And I saw as the appearance of amber, as the appearance of fire within it round about, from the appearance of the loins and upward; and from the appearance of the loins even downward, I saw as the appearance of fire, and the radiance round about. As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the radiance round about: this was the appearance of the likeness of the Glory of the Lord.
+When the living creatures went, the wheels went; and when they stood, they stood; and when they were lifted up from the earth, they were lifted up with them: for the spirit of life was in the wheels. And the likeness above the head of the living creatures was as a firmament, as the appearance of crystal, stretched out over their wings above. And under the firmament their wings were straight, trembling one toward another: each one had two joined covering their bodies. And I heard the voice of their wings when they flew, as the voice of abundant waters, as the voice of God Shaddai; when they went, the voice of speech was as the voice of a host; and when they stood, their wings ceased. And behold, there was a voice from above the firmament that was over their heads: when they stood, their wings were let down. And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and upon the likeness of the throne was the likeness as the appearance of a man above upon it. And I saw as the appearance of amber, as the appearance of fire within it round about, from the appearance of the loins and upward; and from the appearance of the loins even downward, I saw as the appearance of fire, and the radiance round about. As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the radiance round about: this was the appearance of the likeness of the Glory of the Lord.
 
 *Prokeimenon, Psalm 130 LXX, Tone 4: Let Israel hope in the Lord, from henceforth and unto the ages.*  
 *Verse: Lord, my heart was not exalted, neither were mine eyes lifted up.*
@@ -1682,9 +1668,7 @@ Hearing the condemnation of him that hid the talent, O soul, hide not the word o
 O Bridegroom, fairer in beauty than all the sons of men, Who hast called us unto the spiritual banquet of Thy bridal chamber: strip off the unsightly form of my sins, and through the communion of Thy Passions, having clothed me in the robe of glory of Thy beauty, show me to be a radiant guest of Thy kingdom, as Thou art compassionate!
 
 *Tone 6:*
-Come, ye faithful, let us labor eagerly for the Master...
-
-...for He distributs riches unto His servants, and according to the measure let each of us multiply the talent of grace! Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply what was lent, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
+Come, ye faithful, let us labor eagerly for the Master for He distributes riches unto His servants, and according to the measure let each of us multiply the talent of grace! Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply what was lent, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
 
 *Tone 7:*
 Behold, the Master entrusts thee with the talent, O my soul: receive the gift with fear; lend unto Him that gave it; distribute unto the poor, and acquire the Lord as a friend, that thou mayest stand on His right hand when He shall come in glory, and mayest hear the blessed voice: "Enter, good servant, into the joy of thy Lord!" Of this make me worthy, O Savior, who have gone astray, for the sake of Thy great mercy!
@@ -1706,9 +1690,7 @@ The daughter of Pharaoh came down to wash herself at the river; and her maidens 
 *Verse: Like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard.*
 
 *Reading from Job (Job 1:13–22 LXX):*[^228]
-It came to pass on that day, when Job's sons and his daughters were eating and drinking wine in their eldest brother's house, that there came a messenger unto Job, and said: "The oxen were plowing, and the she-asses feeding beside them; and the Sabeans fell upon them, and took them away, and have slain the servants with the edge of the sword; and I only am escaped...
-
-...and I only am escaped alone to tell thee." While he was yet speaking, there came also another messenger unto Job, and said: "The fire of God is fallen from heaven, and hath burned up the sheep, and consumed the shepherds likewise; and I only am escaped alone to tell thee." While he was yet speaking, there came also another messenger unto Job, and said: "The Chaldeans made out three bands, and surrounded the camels, and have carried them away, and have slain the servants with the edge of the sword; and I only am escaped alone to tell thee." While he was yet speaking, there came also another messenger, and said unto Job: "Thy sons and thy daughters were eating and drinking wine in their eldest brother's house; and behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee." Then Job arose, and rent his mantle, and shaved his head, and sprinkled dust upon his head, and fell down upon the ground, and worshipped the Lord, and said: "Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; as it pleased the Lord, so is it done: blessed be the name of the Lord unto the ages!" In all these things that befell him, Job sinned not, nor with his lips, nor did he charge God with folly.
+It came to pass on that day, when Job's sons and his daughters were eating and drinking wine in their eldest brother's house, that there came a messenger unto Job, and said: "The oxen were plowing, and the she-asses feeding beside them; and the Sabeans fell upon them, and took them away, and have slain the servants with the edge of the sword; and I only am escaped and I only am escaped alone to tell thee." While he was yet speaking, there came also another messenger unto Job, and said: "The fire of God is fallen from heaven, and hath burned up the sheep, and consumed the shepherds likewise; and I only am escaped alone to tell thee." While he was yet speaking, there came also another messenger unto Job, and said: "The Chaldeans made out three bands, and surrounded the camels, and have carried them away, and have slain the servants with the edge of the sword; and I only am escaped alone to tell thee." While he was yet speaking, there came also another messenger, and said unto Job: "Thy sons and thy daughters were eating and drinking wine in their eldest brother's house; and behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee." Then Job arose, and rent his mantle, and shaved his head, and sprinkled dust upon his head, and fell down upon the ground, and worshipped the Lord, and said: "Naked came I out of my mother's womb, and naked shall I return thither: the Lord gave, and the Lord hath taken away; as it pleased the Lord, so is it done: blessed be the name of the Lord unto the ages!" In all these things that befell him, Job sinned not, nor with his lips, nor did he charge God with folly.
 
 *And after "Let my prayer arise": Gospel according to Matthew, Pericope 102 (Matthew 24:36–26:2), and the rest of the Presanctified Liturgy.*
 
@@ -1746,9 +1728,7 @@ The senseless disciple, having renounced Thee, O Christ, stirred up the assembly
 Together with the Father I worship Thee, O Son, and the Right Spirit, one Nature, and I sing praise, dividing the Persons and uniting the Essence!
 
 *Both now, Theotokion:*
-The Ewe that bare Thee, the Shepherd and the Lamb, ever...
-
-...ever prays, O Jesus God, for all the people that believe in Thee!
+The Ewe that bare Thee, the Shepherd and the Lamb, ever prays, O Jesus God, for all the people that believe in Thee!
 
 *Sessional Hymn, Tone 1, Podoben: "The Angelic Choir" (Ли́къ А҆́гглскїй):*[^231]
 Behold, the deceitful council is truly gathered together, raging to condemn as a criminal the Lord Who sits on high as the Judge of all! Now Herod convens with Pilate; Annas together with Caiaphas question the One Longsuffering!
@@ -1803,9 +1783,7 @@ Being the Living Bread, O Jesus, Thou eatest with Simon the Pharisee, that the h
 Desiring to show unto all the transcendent humility of Thine essence, O Jesus, Thou didst eat, supping in the house of Simon, O Food of the hungry!
 
 *Troparion 5:*
-Approaching...
-
-...Approaching, the woman poured out myrrh upon Thy feet, O Savior, filling them with sweet fragrance, and being herself filled with the ointment of the cleansing of deeds![^234]
+Approaching the woman poured out myrrh upon Thy feet, O Savior, filling them with sweet fragrance, and being herself filled with the ointment of the cleansing of deeds![^234]
 
 *Troparion 6:*
 "Defiled are my hands, harlot-like are the lips within me; unclean is my life, corrupted are my members: but loose me and forgive me!" cries the harlot unto Christ.
@@ -1836,9 +1814,7 @@ O Mother of God, hope of those that ever honor thee: cease not praying Him that 
 
 *At the third hour of the day, the semantron is struck, and we make a procession outside the monastery, and having returned we chant the Hours with their Kathismata, and the reading of the Four Gospels. At the Hours, Troparion and Kontakion, and the reading of the feast. Likewise also the Ninth Hour, at which we say the Beatitudes, and "Remember us," with "Lord, have mercy," rapidly without singing; after "Our Father," Kontakion of the feast, "Lord, have mercy" (40), and 3 great prostrations, and the Prayer: "O Master, Lord Jesus Christ our God, Who art longsuffering..." Then the Priest: "Wisdom." Little "It is truly meet," Glory, both now, and Dismissal. And the mutual forgiveness to the ground (see below, fol. 93)[^236]. And resting, the Priest recites the Commemoration Book (*Pomiannyk*); then each one receives forgiveness from the other.*
 
-*Then we begin Vespers, with Kathismata, and without prostrations. At "Lord, I have cried," Stichera Idiomela of the day to 5, and of the feast to 6. Glory, of the feast, Tone 6: "He was sent." Both now, of the day, Tone 8: "Lord, the woman fallen into many sins." Entrance with the Gospel. "O Joyful Light." Prokeimenon and reading...*
-
-...and the readings of the day, and of the feast (the 4th). "Let my prayer arise," and 3 prostrations. Little Litany, and the Trisagion. Prokeimenon, Epistle, Alleluia of the feast, Gospel of the feast and of the day. And the rest of the Liturgy of Saint John Chrysostom. Communion hymn of the feast. At the refectory, we eat cooked food with olive oil, and we drink wine; but we do not eat fish under any circumstance.[^237] And we chant Small Compline as written before (see fol. 35)[^237]. We also chant the Triode by Lord Andrew of Crete appointed.
+*Then we begin Vespers, with Kathismata, and without prostrations. At "Lord, I have cried," Stichera Idiomela of the day to 5, and of the feast to 6. Glory, of the feast, Tone 6: "He was sent." Both now, of the day, Tone 8: "Lord, the woman fallen into many sins." Entrance with the Gospel. "O Joyful Light." Prokeimenon and reading* and the readings of the day, and of the feast (the 4th). "Let my prayer arise," and 3 prostrations. Little Litany, and the Trisagion. Prokeimenon, Epistle, Alleluia of the feast, Gospel of the feast and of the day. And the rest of the Liturgy of Saint John Chrysostom. Communion hymn of the feast. At the refectory, we eat cooked food with olive oil, and we drink wine; but we do not eat fish under any circumstance.[^237] And we chant Small Compline as written before (see fol. 35)[^237]. We also chant the Triode by Lord Andrew of Crete appointed.
 
 ## Great and Holy Wednesday: Matins
 
@@ -1861,7 +1837,7 @@ The harlot in weeping cried aloud, O Merciful One, warmly wiping Thy most pure f
 
 *Then the Reading, and Psalm 50. Then the Two-Ode Canon.*
 
-*Two-Ode Canon. The Composition of Lord Cosmas. Its acrostic: ("ΤΕΤРАΔΙ ΨАЛЛΩ"), that is: "On Wednesday I chant." The Heirmos twice, Troparia to 12. Afterward, the Heirmos by both choirs together.*[^242]
+*Two-Ode Canon. The Composition of Lord Cosmas. Its acrostic: ("ΤΕΤΡΑΔΙ ΨΑΛΛΩ"), that is: "On Wednesday I chant." The Heirmos twice, Troparia to 12. Afterward, the Heirmos by both choirs together.*[^242]
 
 *Tone 2. Ode 3. Heirmos:*
 Having established me upon the rock of faith, Thou hast enlarged my mouth against mine enemies: for my spirit hath rejoiced when singing unto Thee: There is none holy as our God, and none righteous besides Thee, O Lord!
@@ -1890,21 +1866,17 @@ Whence was she moved to come? Because she beheld the mercifulness of Christ, and
 
 And while He was reclining at supper, she poured myrrh upon the top of His head, which was worth three hundred denarii, that is, sixty denarii, nine peniazi, and three silver pieces.[^246] And the disciples rebuked her, especially Judas Iscariot; but Christ defended her, lest they should thwart her good intention; and He also made mention of His burial, turning Judas away from betrayal and deeming the woman worthy of honor, commanding that her good work should be proclaimed everywhere.
 
-It is necessary to know that this woman is thought by some to be one and the same in all four Evangelists; but it is not so.[^247] For concerning three of them, as the divine Chrysostom saith, it is indeed one and the same, who was also named a harlot; but in John it is no longer so, but a certain good and marvelous woman of honorable life, Mary the sister of Lazarus, who was not a harlot, and was beloved by Christ.
+It is necessary to know that this woman is thought by some to be one and the same in all four Evangelists; but it is not so.[^247] For concerning three of them, as the divine Chrysostom says, it is indeed one and the same, who was also named a harlot; but in John it is no longer so, but a certain good and marvelous woman of honorable life, Mary the sister of Lazarus, who was not a harlot, and was beloved by Christ.
 
-Now this Mary, six days before Pascha, in her own house in Bethany, while He reclined at supper, performed the anointing with myrrh, pouring it upon the extremities of His feet, wiping them with the hair of her head, expending an abundance of price upon Him, and bringing myrrh unto Him as unto God. For she knew assuredly that oil was offered in sacrifices unto God, and priests were anointed with myrrh; and Jacob of old anointed a pillar unto God. And she brought it unto Him, offering a gift clearly unto the Master as unto God, and again on account of the life of her brother. Therefore no reward was promised unto her...
+Now this Mary, six days before Pascha, in her own house in Bethany, while He reclined at supper, performed the anointing with myrrh, pouring it upon the extremities of His feet, wiping them with the hair of her head, expending an abundance of price upon Him, and bringing myrrh unto Him as unto God. For she knew assuredly that oil was offered in sacrifices unto God, and priests were anointed with myrrh; and Jacob of old anointed a pillar unto God. And she brought it unto Him, offering a gift clearly unto the Master as unto God, and again on account of the life of her brother. Therefore no reward was promised unto her no reward was promised unto her, even though Judas himself murmured, being covetous. But the other woman, that is, the harlot, two days before Pascha, while Christ was still in that same Bethany, though in the house of Simon the leper, reclining at supper then also, poured that precious myrrh upon His head, as the sacred Matthew and Mark narrated.[^248] Concerning this harlot the disciples also were indignant, foreseeing clearly that Christ was prepared for mercy. And unto her the reward was given, that her good work should be praised everywhere throughout the whole world.
 
-...no reward was promised unto her, even though Judas himself murmured, being covetous. But the other woman, that is, the harlot, two days before Pascha, while Christ was still in that same Bethany, though in the house of Simon the leper, reclining at supper then also, poured that precious myrrh upon His head, as the sacred Matthew and Mark narrated.[^248] Concerning this harlot the disciples also were indignant, foreseeing clearly that Christ was prepared for mercy. And unto her the reward was given, that her good work should be praised everywhere throughout the whole world.
-
-Common opinion saith that there was one woman, but he of the Golden Tongue saith that there were two women. Yet there are some who say that there were three women: two being the aforesaid, when the Passion of Christ was drawing near to the doors; and the third a different one before them, or rather in the midst of the Gospel preaching, who did this deed, and she was both a harlot and a sinner. And this was inside the house, not of the leper, but of Simon the Pharisee, pouring out myrrh upon the feet of Christ alone, and in private; when one Pharisee alone was offended, and unto her the Savior granted the reward of the forgiveness of sins.
+Common opinion says that there was one woman, but he of the Golden Tongue says that there were two women. Yet there are some who say that there were three women: two being the aforesaid, when the Passion of Christ was drawing near to the doors; and the third a different one before them, or rather in the midst of the Gospel preaching, who did this deed, and she was both a harlot and a sinner. And this was inside the house, not of the leper, but of Simon the Pharisee, pouring out myrrh upon the feet of Christ alone, and in private; when one Pharisee alone was offended, and unto her the Savior granted the reward of the forgiveness of sins.
 
 Concerning this woman alone the divine Luke narrats in his Gospel in the midst, as was said, in the Seventh Chapter.[^249] For after the account of this harlot, he immediately adds, saying: "And it came to pass afterward, that He went throughout every city and village, preaching and showing the glad tidings of the kingdom of God." From which it is evident that this took place not at the time of the Passion.
 
 It is considered therefore from the time, and from those who received Him, and from the places, persons, and houses, and moreover from the manner of the anointing with myrrh, that these women were three: two indeed harlots, and the third Mary the sister of Lazarus, shining with an honorable life. And one house was that of Simon the Pharisee, another that of Simon the leper in Bethany, and yet another house that of Mary and Martha, the sisters of Lazarus, in that same Bethany.
 
-From these things it is to be understood that there were also two suppers for Christ, both in Bethany: one six days before Pascha, in the house of Lazarus, when Lazarus also ate with Him; as also the Son of Thunder according to John testifies, saying thus: "Six days before Pascha, Jesus came to Bethany, where Lazarus was which had been dead, whom He raised from the dead. There they made Him a supper, and Martha served; but Lazarus was one of them that sat at the table with Him. Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped His feet with her hair." And the other supper was for Him two days before Pascha, while Christ was still in Bethany, in the house of Simon the leper, when the harlot also came unto Him, pouring out precious myrrh, as the divine Matthew narrats, saying that Christ said unto the disciples: "Ye know that after two days is the feast of the Passover"; and shortly after he adds: "Now when Jesus was in Bethany, in the house of Simon...
-
-...the leper, there came unto Him a woman having an alabaster box of very precious ointment, and poured it on His head, as He sat at meat." With which Mark also agrees, saying: "After two days was the feast of the Passover, and of unleavened bread... and being in Bethany in the house of Simon the leper, as He sat at meat, there came a woman," and what follows.
+From these things it is to be understood that there were also two suppers for Christ, both in Bethany: one six days before Pascha, in the house of Lazarus, when Lazarus also ate with Him; as also the Son of Thunder according to John testifies, saying thus: "Six days before Pascha, Jesus came to Bethany, where Lazarus was which had been dead, whom He raised from the dead. There they made Him a supper, and Martha served; but Lazarus was one of them that sat at the table with Him. Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped His feet with her hair." And the other supper was for Him two days before Pascha, while Christ was still in Bethany, in the house of Simon the leper, when the harlot also came unto Him, pouring out precious myrrh, as the divine Matthew narrats, saying that Christ said unto the disciples: "Ye know that after two days is the feast of the Passover"; and shortly after he adds: "Now when Jesus was in Bethany, in the house of Simon the leper, there came unto Him a woman having an alabaster box of very precious ointment, and poured it on His head, as He sat at meat." With which Mark also agrees, saying: "After two days was the feast of the Passover, and of unleavened bread... and being in Bethany in the house of Simon the leper, as He sat at meat, there came a woman," and what follows.
 
 Those who contend and say that it was one and the same woman who anointed the Lord with myrrh in the four Evangelists, think that Simon the Pharisee and the leper were one and the same, whom some also fancied to be the father of Lazarus and of his sisters Mary and Martha; and that it was one and the same supper, and that same single house of his in Bethany, in which the furnished Upper Room was prepared; and they do not think well that it was the Mystical Supper.[^250] For these two suppers were outside Jerusalem in Bethany, six days and two days (as was said) before the legal Passover, when the women brought myrrhs variously unto Christ.
 
@@ -1912,9 +1884,9 @@ But the Mystical Supper, and the furnished Upper Room within the city of Jerusal
 
 Therefore this opinion of Chrysostom of the Golden Head seems to me to be truly right rather than otherwise: that there were indeed two women: one, as was said, in the three Evangelists, being a harlot and sinner, who poured myrrh upon the head of Christ; and the other in John, Mary the sister of Lazarus, who brought this and poured it upon the very divine feet of Christ. And that the suppers in Bethany were different, and different was the Mystical Supper.
 
-And evidently from these things, after the narrative concerning the harlot, the Savior sends the disciples unto the city, to prepare the Passover: "Go ye," He saith, "into the city to such a man, and say unto him: The Master saith, I will keep the Passover at thy house with My disciples. And behold, there shall meet you a man bearing a pitcher of water; and he will show you a large upper room furnished; there make ready for us." And they having gone, he saith, found as He had commanded them, and they made ready the Passover, that is, the legal Passover which was at the doors. Which also having come, He accomplished with the disciples, as the divine Chrysostom saith. Afterward, when the supper was taking place, that is, the Mystical Supper, and the divine Washing having been accomplished in the midst, He immediately sat down, and delivered our Passover upon that very table, as the golden John also recounts. And these things are so.
+And evidently from these things, after the narrative concerning the harlot, the Savior sends the disciples unto the city, to prepare the Passover: "Go ye," He says, "into the city to such a man, and say unto him: The Master says, I will keep the Passover at thy house with My disciples. And behold, there shall meet you a man bearing a pitcher of water; and he will show you a large upper room furnished; there make ready for us." And they having gone, he says, found as He had commanded them, and they made ready the Passover, that is, the legal Passover which was at the doors. Which also having come, He accomplished with the disciples, as the divine Chrysostom says. Afterward, when the supper was taking place, that is, the Mystical Supper, and the divine Washing having been accomplished in the midst, He immediately sat down, and delivered our Passover upon that very table, as the golden John also recounts. And these things are so.
 
-Now the God-inspired John, and with him also the divine Evangelist Mark, added to the myrrh the word *Pistike*, naming it also very costly; and they thought this *Pistike* was so called as being genuine, unadulterated, unmixed, and refined in purity.[^251] So also this was a certain name of the most excellent and primary myrrh. Mark also adds that the woman brake the vessel out of haste, as being narrow-mouthed, which he also calls an alabaster box. Now this vessel was of glass, as the sacred Epiphanius saith, made without any handles, which is also called a *bykion*.[^252] And that myrrh was compounded of many kinds, but especially of these: flower of myrrh, fragrant cinnamon, that is, aromatic spices, and olive oil.
+Now the God-inspired John, and with him also the divine Evangelist Mark, added to the myrrh the word *Pistike*, naming it also very costly; and they thought this *Pistike* was so called as being genuine, unadulterated, unmixed, and refined in purity.[^251] So also this was a certain name of the most excellent and primary myrrh. Mark also adds that the woman brake the vessel out of haste, as being narrow-mouthed, which he also calls an alabaster box. Now this vessel was of glass, as the sacred Epiphanius says, made without any handles, which is also called a *bykion*.[^252] And that myrrh was compounded of many kinds, but especially of these: flower of myrrh, fragrant cinnamon, that is, aromatic spices, and olive oil.
 
 But Thou Who wast anointed with spiritual myrrh, O Christ God, deliver us from approaching passions and have mercy upon us, as the only Holy One and Lover of mankind! Amen.
 
@@ -1939,7 +1911,7 @@ With pure souls and undefiled lips, come, let us magnify the undefiled and most 
 Ungrateful for the manifestation, and envious with malice, the betrayer sells by word the worthy and divine gift, whereby the debt of sins was loosed: the fierce Judas, stealing divine grace! Spare our souls, O Christ God, and save us!
 
 *Troparion 2:*
-Having gone unto the lawless rulers, Judas saith: "What will ye give me, and I will deliver Christ unto you, though none of you seek Him?"—casting away the touch of Christ for gold! Spare our souls, O Christ God, and save us!
+Having gone unto the lawless rulers, Judas says: "What will ye give me, and I will deliver Christ unto you, though none of you seek Him?"—casting away the touch of Christ for gold! Spare our souls, O Christ God, and save us!
 
 *Troparion 3:*
 O ungodly one, blinded by the love of money, whence hast thou forgotten that the world is in no wise equal in value to a soul, as thou wast taught? For by despair thou hast brought judgment upon thyself, O running betrayer! Spare our souls, O Christ God, and save us!
@@ -1975,9 +1947,7 @@ The harlot spread out her hair unto Thee, the Master; Judas stretched out his ha
 The woman evil-smelling and defiled approached, pouring forth tears, loving Thee, O Savior, and confessing Thy Passion: "How shall I look upon Thee, O Master? For Thou Thyself hast come to save the harlot; from the depths of death raise me up, O Thou Who didst raise Lazarus from the tomb on the fourth day! Receive me, wretch that I am, O Lord, and save me!"
 
 *Verse 3: I will give thanks unto Thee, O Lord my God, with all my heart, and I will glorify Thy name unto the ages:*
-Despaired of for her life...
-
-...Despaired of for her life, and well known for her character, bearing myrrh she approached Thee, crying aloud: "Cast me not away, harlot that I am, O Thou Who wast born of the Virgin; despise not my tears, O Joy of the Angels! But receive me repenting, whom Thou hast not cast off when sinning, O Lord, for Thy great mercy's sake!"
+Despaired of for her life Despaired of for her life, and well known for her character, bearing myrrh she approached Thee, crying aloud: "Cast me not away, harlot that I am, O Thou Who wast born of the Virgin; despise not my tears, O Joy of the Angels! But receive me repenting, whom Thou hast not cast off when sinning, O Lord, for Thy great mercy's sake!"
 
 *Glory, both now, Tone 8. The Composition of Kassiani the Nun:*[^258]
 Lord, the woman fallen into many sins, having perceived Thy Divinity, taking up the rank of myrrhbearer, with lamentation brings myrrh unto Thee before Thy burial, crying: "Woe is me! for night is unto me the frenzy of unrestrained lust, the dark and moonless love of sin! Receive the fountains of my tears, O Thou Who leadest forth the water of the sea by clouds! Incline Thyself unto the sighing of my heart, O Thou Who didst bow down the heavens by Thine ineffable self-emptying! I will kiss Thy most pure feet, and wipe them again with the hair of my head, whose sound Eve heard with her ears in Paradise at eventide, and hid herself in fear! The multitude of my sins, and the abyss of Thy judgments, who shall search out, O Savior of souls, my Savior? Despise me not, Thy handmaid, O Thou Whose mercy is boundless!"
@@ -1994,13 +1964,11 @@ Today the evil assembly is gathered together, and hath meditated vain things aga
 *Prokeimenon, Psalm 133, Tone 4: The Lord bless thee out of Zion, Who made heaven and earth. Verse: Behold now, bless ye the Lord, all ye servants of the Lord.*
 
 *Reading from the Prophecy of Ezekiel (Ezekiel 2:3 - 3:3):*[^259]
-The Lord said unto me: Son of man, I send thee to the house of Israel, to them that provoke Me, who have provoked Me, they and their fathers, having rejected Me even unto this day. And they are impudent children and stiff-hearted: I send thee unto them, and thou shalt say unto them: Thus saith the Lord God: whether they will hear, or whether they will fear, for they are a provoking house, yet shall they know that thou art a prophet in the midst of them. And thou, son of man, be not afraid of them, neither be dismayed at their face, because they will rage and surround thee on every side, and thou dwellest in the midst of scorpions: be not afraid of their words, and be not dismayed at their face, for they are a provoking house. And thou shalt speak My words unto them, whether they will hear, or whether they will fear...
-
-...or whether they will fear, for they are a house that provokes to anger. And thou, son of man, hear Him that speaks unto thee, and be not thou provoking, like the house that provokes: open thy mouth, and eat that which I give thee. And I looked, and behold, a hand was stretched out unto me, and therein was a roll of a book. And He spread it before me, and it was written within and without; and there was written therein lamentations, and mourning, and woe. And He said unto me: Son of man, eat this roll, and go, speak unto the children of Israel. And I opened my mouth, and He fed me with this roll. And He said unto me: Son of man, thy mouth shall eat, and thy belly shall be filled with this roll that is given thee. And I ate it, and it was in my mouth sweet as honey.
+The Lord said unto me: Son of man, I send thee to the house of Israel, to them that provoke Me, who have provoked Me, they and their fathers, having rejected Me even unto this day. And they are impudent children and stiff-hearted: I send thee unto them, and thou shalt say unto them: Thus says the Lord God: whether they will hear, or whether they will fear, for they are a provoking house, yet shall they know that thou art a prophet in the midst of them. And thou, son of man, be not afraid of them, neither be dismayed at their face, because they will rage and surround thee on every side, and thou dwellest in the midst of scorpions: be not afraid of their words, and be not dismayed at their face, for they are a provoking house. And thou shalt speak My words unto them, whether they will hear, or whether they will fear or whether they will fear, for they are a house that provokes to anger. And thou, son of man, hear Him that speaks unto thee, and be not thou provoking, like the house that provokes: open thy mouth, and eat that which I give thee. And I looked, and behold, a hand was stretched out unto me, and therein was a roll of a book. And He spread it before me, and it was written within and without; and there was written therein lamentations, and mourning, and woe. And He said unto me: Son of man, eat this roll, and go, speak unto the children of Israel. And I opened my mouth, and He fed me with this roll. And He said unto me: Son of man, thy mouth shall eat, and thy belly shall be filled with this roll that is given thee. And I ate it, and it was in my mouth sweet as honey.
 
 *Prokeimenon, Psalm 134, Tone 2: Ye that fear the Lord, bless ye the Lord. Verse: Praise ye the name of the Lord, praise Him, O ye servants of the Lord.*
 
-*Rubric: It is necessary to know: at the last Trisagion of the Hours, the Paraklesiarch strikes the iron semantron, if any brethren have become slack; and when all are gathered into the church, the Abbot saith (or if in a city church, the Priest) the Dismissal Prayer in the hearing of all:*[^260]
+*Rubric: It is necessary to know: at the last Trisagion of the Hours, the Paraklesiarch strikes the iron semantron, if any brethren have become slack; and when all are gathered into the church, the Abbot says (or if in a city church, the Priest) the Dismissal Prayer in the hearing of all:*[^260]
 
 "O Master, Great in mercy, Lord Jesus Christ our God..."[^261]—all of us lying upon our knees until the end, and praying likewise within ourselves. Then the Abbot makes a prostration unto the brethren (or the Priest unto the people), saying thus:
 
@@ -2010,7 +1978,7 @@ And the brethren answer all together:
 
 "May God forgive thee, holy father!"
 
-After this, the Abbot saith the Litany: "Let us pray for our sovereign Ruler..." and the rest. And at the end, the Abbot saith:
+After this, the Abbot says the Litany: "Let us pray for our sovereign Ruler..." and the rest. And at the end, the Abbot says:
 
 "Through the prayers of Thy most pure Mother and of all the saints, O Lord Jesus Christ our God, have mercy on us!"
 
@@ -2026,9 +1994,7 @@ The harlot mixed precious myrrh with tears, and poured it out upon Thy most pure
 
 When the sinful woman was offering Thee myrrh, then the disciple was agreeing with the lawless. The one rejoiced, pouring out very precious myrrh; the other hastened to sell the One Who is beyond price. She recognized the Master; he separated himself from the Master. She was set free, but Judas became a slave to the enemy. Grievous is slothfulness, and great is repentance! Which grant unto me, O Savior Who didst suffer for our sake, and save us!
 
-O the wretchedness of Judas! He beheld the harlot kissing...
-
-...kissing the footsteps, and he deceitfully meditated the kiss of betrayal. She loosed her hair, but he was bound with fury, bearing foul-smelling malice instead of myrrh: for envy knows not how to choose what is profitable. O the wretchedness of Judas! From which deliver our souls, O God!
+O the wretchedness of Judas! He beheld the harlot kissing the footsteps, and he deceitfully meditated the kiss of betrayal. She loosed her hair, but he was bound with fury, bearing foul-smelling malice instead of myrrh: for envy knows not how to choose what is profitable. O the wretchedness of Judas! From which deliver our souls, O God!
 
 *Tone 2:*
 The sinful woman ran unto the myrrh to buy precious ointment to anoint the Benefactor, and unto the seller of myrrh she cried aloud: "Give me myrrh, that I also may anoint Him Who hath cleansed all my sins!"
@@ -2061,9 +2027,7 @@ In those days, when Moses was grown, he went out unto his brethren the children 
 *Prokeimenon, Psalm 137, Tone 4: O Lord, Thy mercy endures unto all ages; despise not the works of Thine own hands. Verse: I will give thanks unto Thee, O Lord, with all my heart, and before the Angels will I sing praise unto Thee.*
 
 *Reading from Job (Job 2:1–10):*
-Now there was a day when this came to pass, and the Angels of God came to present themselves before the Lord, and the Devil came also in the midst of them to present himself before the Lord. And the Lord said unto the Devil: Whence comest thou? And the Devil said before the Lord: From going to and fro in the earth, and from walking up and down in it, am I come. And the Lord said unto the Devil: Hast thou considered My servant Job, that there is none like him among those that are upon the earth, a man blameless, true, upright, God-fearing, eschewing every evil? And still he holds fast his integrity. But thou spokest of his possessions...
-
-"...to destroy his substance in vain. And the devil answering said unto the Lord: 'Skin for skin, and all that a man hath will he give for his life. Not so only, but put forth Thine hand, and touch his flesh and his bones: surely he will bless Thee to Thy face?' And the Lord said unto the devil: 'Behold, I deliver him unto thee, only keep his life.' And the devil went out from the presence of the Lord, and smote Job with sore boils from his feet unto his head. And Job took himself a potsherd to scrape away his sores, and sat upon a dunghill outside the city. (And when much time had passed,) his wife said unto him: 'How long wilt thou endure, saying: "Behold, I wait a little longer, looking for the hope of my salvation"? For behold, thy memorial is perished from the earth, the sons and daughters, the pangs and labors of my womb, for whom in vain I labored with sorrows! Thou Thyself sittest in the rot of worms, passing the night under the open sky, while I wander about and am a servant-maid, going from place to place and from house to house, waiting for the sun to go down, that I may rest from my labors and the griefs that now compass me about! But say some word against the Lord, and die!' But Job looked upon her and said: 'Why hast thou spoken as one of the foolish women? If we have received good things from the hand of the Lord, shall we not endure evil things?' In all these things that befell him, Job sinned not, neither with his lips, and he gave no folly unto God." (Job 2:3–10)[^265]
+Now there was a day when this came to pass, and the Angels of God came to present themselves before the Lord, and the Devil came also in the midst of them to present himself before the Lord. And the Lord said unto the Devil: Whence comest thou? And the Devil said before the Lord: From going to and fro in the earth, and from walking up and down in it, am I come. And the Lord said unto the Devil: Hast thou considered My servant Job, that there is none like him among those that are upon the earth, a man blameless, true, upright, God-fearing, eschewing every evil? And still he holds fast his integrity. But thou spokest of his possessions "to destroy his substance in vain. And the devil answering said unto the Lord: 'Skin for skin, and all that a man hath will he give for his life. Not so only, but put forth Thine hand, and touch his flesh and his bones: surely he will bless Thee to Thy face?' And the Lord said unto the devil: 'Behold, I deliver him unto thee, only keep his life.' And the devil went out from the presence of the Lord, and smote Job with sore boils from his feet unto his head. And Job took himself a potsherd to scrape away his sores, and sat upon a dunghill outside the city. (And when much time had passed,) his wife said unto him: 'How long wilt thou endure, saying: "Behold, I wait a little longer, looking for the hope of my salvation"? For behold, thy memorial is perished from the earth, the sons and daughters, the pangs and labors of my womb, for whom in vain I labored with sorrows! Thou Thyself sittest in the rot of worms, passing the night under the open sky, while I wander about and am a servant-maid, going from place to place and from house to house, waiting for the sun to go down, that I may rest from my labors and the griefs that now compass me about! But say some word against the Lord, and die!' But Job looked upon her and said: 'Why hast thou spoken as one of the foolish women? If we have received good things from the hand of the Lord, shall we not endure evil things?' In all these things that befell him, Job sinned not, neither with his lips, and he gave no folly unto God." (Job 2:3–10)[^265]
 
 *Then the Deacon: "Let my prayer be set forth..." The Gospel according to Matthew, pericopa 108 (Matt. 26:6–16). And the rest of the Presanctified Gifts; and after the Transfer of the Holy Gifts, three prostrations. And at "Blessed be the name of the Lord," three prostrations. And when we rise at the refectory, in place of "It is truly meet," we chant the Ninth Ode Heirmos of that day. After the Trisagion, the Kontakion in the Triodion. And straightway prostrations made in church cease: both great prostrations, until the bells ring for Matins of the radiant Resurrection of Christ.*[^266]
 
@@ -2125,9 +2089,7 @@ Leading them into mystery, O Christ, Thou didst show forth together unto all the
 Having humbled Thyself for our sake, O Thou Who art rich, rising from supper and taking a towel, Thou didst gird Thyself therewith, and bowing Thy neck, Thou didst wash the feet of the disciples, and of the betrayer.
 
 *Troparion 5:*
-At the height of Thine understanding, beyond mind and ineffable, O Jesus, who will not marvel! How Thou didst stand before clay...
-
-...How Thou didst stand before clay, O Creator of all things, washing their feet and wiping them with a towel!
+At the height of Thine understanding, beyond mind and ineffable, O Jesus, who will not marvel! How Thou didst stand before clay How Thou didst stand before clay, O Creator of all things, washing their feet and wiping them with a towel!
 
 *Troparion 6:*
 The disciple whom the Lord loved, leaning on His breast, said unto Him: "Who is he that betrays Thee?" And Christ unto him: "He that hath now dipped his hand into the dish."
@@ -2171,9 +2133,7 @@ Thou didst stretch forth the hands wherewith thou didst receive the bread of inc
 Christ hath feasted the world, He Who is the heavenly and divine Bread! Come therefore, O lovers of Christ, with lips of clay and pure hearts let us faithfully receive the immolated Passover, which is consecrated among us!
 
 *Glory:*
-Let us glorify the Father, let us supremely exalt the Son, let us faithfully worship the Divine Spirit...
-
-...the undivided Trinity, a Unity in Essence: as Light and Lights, Life and Lives, quickening and enlightening the ends of the earth!
+Let us glorify the Father, let us supremely exalt the Son, let us faithfully worship the Divine Spirit the undivided Trinity, a Unity in Essence: as Light and Lights, Life and Lives, quickening and enlightening the ends of the earth!
 
 *Both now. Theotokion:*
 The heavenly Bridal Chamber and ever-virgin Bride, thou alone hast appeared, having carried God and given birth without change unto Him Who was incarnate of thee! Therefore all generations right-believingly magnify thee as the Mother unwedded of God.
@@ -2190,7 +2150,7 @@ The heavenly Bridal Chamber and ever-virgin Bride, thou alone hast appeared, hav
 When the glorious disciples were illumined at the washing of the feet at supper, then Judas the ungodly, diseased with the love of money, was darkened, and unto the lawless judges he delivers Thee, the righteous Judge! Behold, O lover of possessions, him that for their sake acquired hanging; flee from the unsated soul that dared such things against the Teacher: O Lord, Who art good towards all, glory to Thee!
 
 *Then Psalm 50. We do not say: "Save, O God, Thy people."*
-*Canon. The Composition of the Lord Cosmas. Tone 6. The Heirmos on 6. And the Troparia on 4 or on 6, according to the quantity. The Canon whose acrostic is: (ΤΗΙ МАКРАI ПЕМПТHI МАКРОН ҮМNON ЕΞАДΩ). Which is: On the Long Thursday I chant a long hymn.*[^275]
+*Canon. The Composition of the Lord Cosmas. Tone 6. The Heirmos on 6. And the Troparia on 4 or on 6, according to the quantity. The Canon whose acrostic is: (ΤΗΙ МАКРАІ ПЕМПТHI МАКРОН ΥΜΝΟΝ ΕΞΑΔΩ). Which is: On the Long Thursday I chant a long hymn.*[^275]
 *Ode 1. Heirmos:*[^276]
 
 The Red Sea was cut with a stroke, and the wave-nourished deep was dried up; the same becoming at once a passage for the unarmed, and a tomb for the fully-armed: and a God-pleasing hymn was sung: "Gloriously hath Christ our God been glorified!"
@@ -2234,9 +2194,7 @@ Going forth unto the Passion which pours out compassion for all that are of Adam
 Partaking of the Cup, Thou didst cry unto the disciples, O Immortal One: "I will not drink henceforth of the fruit of the vine, no longer living with you; for the Father hath now sent Me, His Only-begotten, as a cleansing into the world!"
 
 *Troparion 3 (P):*
-"In My Kingdom," Thou didst say unto Thy friends, O Christ, "a new drink beyond speech shall ye drink: for as God with you who are gods...
-
-...with you who are gods will I be," Thou didst say: "for the Father hath now sent Me, His Only-begotten, as a cleansing into the world!"
+"In My Kingdom," Thou didst say unto Thy friends, O Christ, "a new drink beyond speech shall ye drink: for as God with you who are gods with you who are gods will I be," Thou didst say: "for the Father hath now sent Me, His Only-begotten, as a cleansing into the world!"
 
 *Ode 5. Heirmos:*[^279]
 Bound with the bond of love, the Apostles, having offered themselves unto Christ Who rules over all, had their beautiful feet washed, preaching good tidings of peace unto all!
@@ -2278,25 +2236,19 @@ Why the need of knives? Why pieces of wood for lovers of deceit,
 Against Him Who wills to die for the redemption of the world?
 
 *Synaxarion Reading:*[^282]
-On Great and Holy Thursday, the divine Fathers, who have ordered all things well, receiving in succession from the holy Apostles and the sacred and divine Gospels, handed down unto us to celebrate four things: the Holy Washing of the Feet, the Mystical Supper, the Transmission plainly of the Dread Mysteries that are for our sake, the Supernatural Prayer, and the Betrayal itself. For the Jewish Passover was to be sacrificed on Friday; and it was fitting that the type should precede the truth, furthermore that Christ should be slaughtered as our Passover. Therefore our Lord Jesus Christ, having anticipated it, as the divine Fathers say, accomplishes it with His disciples on Thursday evening: for that evening and the whole of Friday are reckoned...
-
-...are reckoned as one single day among the Hebrews; for thus do they count, reckoning by a day-and-night. He accomplished this therefore, and then (as some have said) with the disciples according to the Law, of whom one is the divine Chrysostom: first simply standing, and girded, shod with sandals, and leaning on staves, and all other things that the Law commands, lest He should be thought a transgressor of the Law. For Zebedee prepared these things; for he was the one carrying a pitcher of water, as the great Athanasius says, although others have spoken otherwise concerning this.[^283]
+On Great and Holy Thursday, the divine Fathers, who have ordered all things well, receiving in succession from the holy Apostles and the sacred and divine Gospels, handed down unto us to celebrate four things: the Holy Washing of the Feet, the Mystical Supper, the Transmission plainly of the Dread Mysteries that are for our sake, the Supernatural Prayer, and the Betrayal itself. For the Jewish Passover was to be sacrificed on Friday; and it was fitting that the type should precede the truth, furthermore that Christ should be slaughtered as our Passover. Therefore our Lord Jesus Christ, having anticipated it, as the divine Fathers say, accomplishes it with His disciples on Thursday evening: for that evening and the whole of Friday are reckoned are reckoned as one single day among the Hebrews; for thus do they count, reckoning by a day-and-night. He accomplished this therefore, and then (as some have said) with the disciples according to the Law, of whom one is the divine Chrysostom: first simply standing, and girded, shod with sandals, and leaning on staves, and all other things that the Law commands, lest He should be thought a transgressor of the Law. For Zebedee prepared these things; for he was the one carrying a pitcher of water, as the great Athanasius says, although others have spoken otherwise concerning this.[^283]
 Thereafter, showing unto the disciples the more perfect things, He also transmits the Mystery of our Passover in the Upper Room, night having already come: "For when evening was come," it says, "He reclined at table with the twelve." Behold, this was not the legal Passover; for there was a supper, and reclining, and bread, and water, whereas there all things were roasted with fire and unleavened. And before beginning to sup—for thus says the divine Chrysostom—He rises from supper, and lays aside His garments, and pours water into a basin, Himself performing all things with His own hands: both putting Judas to shame, and at the same time reminding the other disciples not to seek preeminence; even as after the Washing He instructs them, saying: "He that desires to be first, let him be the last of all," setting Himself as an example. And it appears that Christ washed Judas before all, who had sat down more promptly and shamelessly; and afterwards He comes unto Peter. But he, being more fervent than the rest, forbids the Teacher, and leaves it again more forcefully. Having therefore washed their feet, and having shown forth an exceeding exaltation through humility, taking His garments again and reclining, He instructs them to love one another and not to seek preeminence.
 And as they were eating, He introduces the beginning concerning the Betrayal. When the disciples were troubled at the word, Jesus said unto John alone secretly: "He unto whom I shall give the bread when I have dipped it, he it is that betrays Me." For if Peter had known the word, being more fervent than the others, he would have killed Judas; and again: "He that dips his hand with Me in the dish"; thus both took place.
 Then, having waited a little, taking bread, He says: "Take, eat"; and likewise the Cup: "Drink ye all of it," having said: "This is My Blood of the New Covenant; this do ye in remembrance of Me."
 *(Behold, He calls the bread His Body, and not azymes [unleavened wafers]. Let those therefore who offer azymes in the sacrifice be put to shame!)*[^284]
 And after the bread, Satan entered into Judas: for having tempted him before, he now entered into him completely. And going out, it says, he made an agreement with the chief priests, that he would deliver Him unto them for thirty pieces of silver.
-And the disciples after supper went out unto the Mount of Olives, unto a certain place called Gethsemane. After much time Jesus says unto them: "All ye shall be offended because of Me this night." But Peter said: "Even if all, yet will not I deny Thee." And it was late, that is, deep night. But He said: "Before the cock crow twice, thou shalt deny Me thrice." Which...
-
-...Which also came to pass, Peter being seized with boundless fear: God showing forth the infirmity of nature, and at the same time, since He was to commit the inhabited earth unto him, that having understood from his own nature how easily shaken it is, he might be merciful unto sinners. Nevertheless, Peter's threefold denial prefigured the sin of all men against God: the first, the commandment which Adam transgressed; the second, the transgression of the Written Law; and the third, the Incarnation of the Word Himself. Which the Savior afterwards healed again by a threefold repentance, through saying thrice: "Peter, lovest thou Me?"[^285]
+And the disciples after supper went out unto the Mount of Olives, unto a certain place called Gethsemane. After much time Jesus says unto them: "All ye shall be offended because of Me this night." But Peter said: "Even if all, yet will not I deny Thee." And it was late, that is, deep night. But He said: "Before the cock crow twice, thou shalt deny Me thrice." Which also came to pass, Peter being seized with boundless fear: God showing forth the infirmity of nature, and at the same time, since He was to commit the inhabited earth unto him, that having understood from his own nature how easily shaken it is, he might be merciful unto sinners. Nevertheless, Peter's threefold denial prefigured the sin of all men against God: the first, the commandment which Adam transgressed; the second, the transgression of the Written Law; and the third, the Incarnation of the Word Himself. Which the Savior afterwards healed again by a threefold repentance, through saying thrice: "Peter, lovest thou Me?"[^285]
 After these things He says unto the disciples, showing forth the human nature, that death is fearful unto all: "My soul is sorrowful even unto death"; and having gone forward about a stone's cast, He prayed a third time, saying: "O My Father, if this Cup cannot pass away from Me, except I drink it, Thy will be done! If it be possible, let this Cup pass from Me!" Both as man He said this, and at the same time circumventing the devil with subtlety: that thinking Him to be a mere man, lest by any chance being afraid, he should cut short the mystery because of death on the Cross.[^286]
 And returning and finding the disciples submerged in sleep, He turns unto Peter, saying thus: "Could ye not watch with Me one hour?" That is to say: "Thou that saidst thou wouldst strive even unto death, dost thou thus slumber with the rest?"
 And having passed over beyond the Brook of Kedron, where was an orchard, He entered there with His disciples; and He had the custom of coming thither often. Therefore Judas also knew the place, who, taking some of the soldiers and the following crowd, came upon Jesus, having given them the sign of a kiss. This he said, because many times when He was held, He passed invisibly from their midst; and here likewise Christ Himself first goes forth unto them, saying: "Whom seek ye?" But they did not yet recognize Him; for it was not a night of stumbling, for there were lanterns, it says, and burning torches; and falling down with fear they drew back. And when they came again, He Himself answered them.
 And when Judas had made the agreement, Christ says: "Friend, for what purpose art thou come?" That is: "Unto that for which thou art come, Judas, it is the opportune time." And straightway He says: "Have ye come out as against a robber, with weapons and staves, to take Me?" And they came by night, lest there should be any uproar from the people.
 Then the most fervent Peter, drawing a sword—for they were coming from the supper, and were prepared for such things—striking the servant of the High Priest named Malchus, cut off his right ear. But Jesus knew that the High Priests would say that he heard and taught the Law badly. Therefore Christ forbids Peter, that it is not good for a spiritual man of the cloth to make use of a sword; and He heals Malchus's ear.
-Having therefore seized Jesus bound, they lead Him unto the courtyard of the High Priest Annas, who was father-in-law to Caiaphas: for there all were assembled who were seeking to murder Christ, the Pharisees and Scribes. And here Peter's denial on account of the maidservant takes place; and as the middle of the night was passing, the cock crew...
-
-...the cock crew the third time, and he, remembering, wept bitterly.
+Having therefore seized Jesus bound, they lead Him unto the courtyard of the High Priest Annas, who was father-in-law to Caiaphas: for there all were assembled who were seeking to murder Christ, the Pharisees and Scribes. And here Peter's denial on account of the maidservant takes place; and as the middle of the night was passing, the cock crew the cock crew the third time, and he, remembering, wept bitterly.
 And when morning was already come, from Annas they lead Christ unto the High Priest Caiaphas, where He also received spitting, and false witnesses were summoned; and at daybreak Caiaphas sends Him unto Pilate. And they that brought Him, it says, entered not into the Praetorium, that they might not be defiled, but that they might eat the Passover. It is gathered therefore that the High Priests and Pharisees then acted contrary to the Law, having transferred the Passover. For as the divine Chrysostom says: on that night it was proper for them to eat it, but for the sake of murdering Christ they transferred it; and that it was then necessary for them to eat, Christ showed, having eaten before the night of the supper, then mystically having taught the more perfect things, or as was proper in the legal type, even as it was said to be truly. For John says before the Feast of the Passover, on account of these things having happened on Thursday and its night.[^287]
 And we celebrate the commemoration of the dread and ineffable deeds, performing it with fear. By Thine ineffable compassion, O Christ our God, have mercy on us, now and ever, and unto ages of ages. Amen.
 
@@ -2432,9 +2384,7 @@ And Moses went down from the mountain unto the people, and sanctified them; and 
 *Verse:* Rescue me from them that work iniquity.
 *Reading from Job (Job 38:1–23; 42:1–5):*[^305]
 The Lord said unto Job through the whirlwind and cloud: "Who is this that hides counsel from Me, and keeps words in his heart, and thinks to hide them from Me? Gird up now thy loins like a man; for I will demand of thee, and answer thou Me! Where wast thou when I laid the foundations of the earth? Declare unto Me, if thou hast understanding! Who laid the measures thereof, if thou knowest? Or who stretched the line upon it? Whereupon are the foundations thereof fastened? Or who laid the cornerstone thereof, when the stars were made, and all My angels praised Me with a loud voice? And I shut up the sea with doors, when it burst forth, and issued out of its mother's womb. And I placed a cloud for its garment, and wrapped it in mist. And I set bounds for it, and placed bars and doors, and said unto it: 'Hitherto shalt thou come, but no further; and here shall thy waves be broken!' Or did I order the morning light in thy time, and the daystar saw its appointed station, to take hold of the wings of the earth, to shake the wicked out of it? Or didst thou take clay and fashion a living creature, and place this speaking being upon the earth? And hast thou taken away light from the wicked, and crushed the arm of the proud? Hast thou entered into the springs of the sea, and walked in the footprints of the deep? Are the gates of death opened unto thee through fear, and did the gatekeepers of hades tremble when they saw thee? Hast thou learned the breadth of that which is under heaven? Declare unto Me now, how great it is? And in what land does the light dwell, and what is the place thereof? If thou wouldst lead Me to their bounds, and if thou knowest their paths? Thou knowest, then, that thou wast born at that time, and great is the number of thy years! Hast thou entered into the treasuries of the snow, and hast thou seen the treasuries of the hail, which are reserved for thee against the time of enemies, for the day of battle and war?"
-And Job answered the Lord and said: "I know that Thou canst do all things, and that nothing is impossible with Thee. For who is he that hides counsel from Thee? Spares words, and thinks to hide them from Thee? Who...
-
-...Who will declare unto me that which I knew not: great and marvelous things which I knew not? Give ear now unto me, O Lord, that I also may speak; I will ask Thee, and do Thou teach me! I had heard of Thee before by the hearing of the ear; but now mine eye hath seen Thee!"
+And Job answered the Lord and said: "I know that Thou canst do all things, and that nothing is impossible with Thee. For who is he that hides counsel from Thee? Spares words, and thinks to hide them from Thee? Who will declare unto me that which I knew not: great and marvelous things which I knew not? Give ear now unto me, O Lord, that I also may speak; I will ask Thee, and do Thou teach me! I had heard of Thee before by the hearing of the ear; but now mine eye hath seen Thee!"
 
 *Reading from the Prophecy of Isaiah (Isaiah 50:4–11):*[^306]
 The Lord gives me the tongue of instruction, to know when it is opportune to speak a word. He placed me early in the morning, He added unto me an ear to hear. And the instruction of the Lord opens mine ears, and I do not resist, nor speak contrary. I gave My back to stripes, and My cheeks to buffeting; I turned not away My face from the shame of spitting. And the Lord, the Lord was My helper; therefore I was not confounded, but I set My face as a hard stone, and I knew that I should not be ashamed. For He that justifies Me draws near; who is he that contends with Me? Let him stand up against Me together! And who is he that judges Me? Let him draw near unto Me! Behold, the Lord, the Lord will help Me: who shall harm Me? Behold, all ye shall wax old as a garment, and the moth shall devour you. Who among you fears the Lord? Let him give ear unto the voice of His servant! Ye that walk in darkness and have no light, trust in the name of the Lord, and stay upon God! Behold, all ye kindle a fire and strengthen the flame: walk in the light of your fire, and in the flame which ye have kindled! This hath happened unto you for My sake: ye shall lie down in sorrow!
@@ -2480,73 +2430,71 @@ Peter was ashamed to have his feet washed by the most pure hands by which Adam w
 *Tone 8:*[^310]
 Today He Who is unapproachable in essence assumed the work of a servant, girded Himself with a towel, He Who clothes the heaven with clouds; He pours water into the basin, He Who divided the Red Sea, and bowing His knees He began to wash the feet of the disciples, and to wipe them with the towel wherewith He was girded. When therefore He had washed the feet of the disciples, He said unto them: "Ye are clean, but not all of you," signifying him that betrayed Him!
 
-It had been good for thee, Judas, if thou hadst not been conceived in thy mother's womb; it had been good for thee, betrayer, if thou hadst not been born an alien to the Son of God: for thy sake the crown of the disciples of Christ is untwined, and the crucified thief embraces the True Vine; through thee the lawless tear down the eternal rampart and the temple not made with hands. The price of the myrrh for the sinful woman thou didst weep over as costly; how wast thou not afraid to deliver the Blood of the Righteous One unto the lawless? It had been good for thee, betrayer...
-
-...betrayer, if thou hadst not been born an alien to the Son of God!
+It had been good for thee, Judas, if thou hadst not been conceived in thy mother's womb; it had been good for thee, betrayer, if thou hadst not been born an alien to the Son of God: for thy sake the crown of the disciples of Christ is untwined, and the crucified thief embraces the True Vine; through thee the lawless tear down the eternal rampart and the temple not made with hands. The price of the myrrh for the sinful woman thou didst weep over as costly; how wast thou not afraid to deliver the Blood of the Righteous One unto the lawless? It had been good for thee, betrayer if thou hadst not been born an alien to the Son of God!
 
 *Glory, both now, Tone 8:*[^311]
 Held fast by the slumber of the devil, Judas slept unto death. It is time to be watchful, it is time to be sober: let the heart groan, let the eyes weep, let the psalm be sung! For great is the strength of the gate: Christ is at the doors, the sacrificed Passover is come; glory to Thee, O Lord, glory to Thee!
 
 *Then the Litany by the Deacon:*
-**Deacon:** In peace let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** For the peace from above and for the salvation of our souls, let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** That this Washing may be revealed and sanctified by the power, operation, and descent of the Holy Spirit, let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** That it may be for the washing away of the defilement of our transgressions, let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** That we may be delivered from all affliction, wrath, and distress, let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
-**Choir:** Lord, have mercy.
-**Deacon:** Commemorating our all-holy, immaculate, most blessed, and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God.
-**Choir:** To Thee, O Lord.
+> **Deacon:** "In peace let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the peace from above and for the salvation of our souls, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That this Washing may be revealed and sanctified by the power, operation, and descent of the Holy Spirit, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That it may be for the washing away of the defilement of our transgressions, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may be delivered from all affliction, wrath, and distress, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Commemorating our all-holy, immaculate, most blessed, and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ our God."
+> **Choir:** "To Thee, O Lord."
 
 *Exclamation:*
-**Priest:** For Thou art the purification of our souls, and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Priest:** "For Thou art the purification of our souls, and unto Thee we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *Then the Priest says the Prayer Aloud:*
-**Priest:** O Lord and most good God, unapproachable in Divinity, Who didst assume the form of a servant in the likeness of a minister, and for the representation of saving humility didst wash the feet of Thy disciples with Thy most pure hands and wipe them with a towel: look down now also upon us, Thine unworthy servants, who marvelously imitate such great condescension of Thine; and grant that we may be washed from bodily defilements and spiritual impurity by the touch of this water. Grant us the invisible descent of the All-Holy Spirit; strengthen our souls and bodies against the fierce serpent that lies in wait for our heel, that having been instructed we may serve Thee acceptably, treading upon serpents and scorpions, and over all the power of the enemy!
+> **Priest:** "O Lord and most good God, unapproachable in Divinity, Who didst assume the form of a servant in the likeness of a minister, and for the representation of saving humility didst wash the feet of Thy disciples with Thy most pure hands and wipe them with a towel: look down now also upon us, Thine unworthy servants, who marvelously imitate such great condescension of Thine; and grant that we may be washed from bodily defilements and spiritual impurity by the touch of this water. Grant us the invisible descent of the All-Holy Spirit; strengthen our souls and bodies against the fierce serpent that lies in wait for our heel, that having been instructed we may serve Thee acceptably, treading upon serpents and scorpions, and over all the power of the enemy!"
 
 *Exclamation:*
-**Priest:** For unto Thee is due all glory, honor, and worship, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Priest:** "For unto Thee is due all glory, honor, and worship, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
-**Priest:** Peace be unto all.
-**Choir:** And to thy spirit.
-**Deacon:** Bow your heads unto the Lord.
-**Choir:** To Thee, O Lord.
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
+> **Deacon:** "Bow your heads unto the Lord."
+> **Choir:** "To Thee, O Lord."
 
 *The Prayer said Secretly:*
-**Priest:** O Lord our God, Who didst show unto us the measure of humility in Thine exalted coming, and by calling the last first through voluntary will didst teach us to serve one another: exalt us through divine humility; bring us unspotted, washed ever with tears, purified by the illumination of Thy teaching goodness, that always falling down before Thee in truth, we may find mercy and compassions at Thy dread judgment seat!
+> **Priest:** "O Lord our God, Who didst show unto us the measure of humility in Thine exalted coming, and by calling the last first through voluntary will didst teach us to serve one another: exalt us through divine humility; bring us unspotted, washed ever with tears, purified by the illumination of Thy teaching goodness, that always falling down before Thee in truth, we may find mercy and compassions at Thy dread judgment seat!"
 
 *Exclamation:*
-**Priest:** For Thou art a merciful and mankind-loving God, and unto Thee we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Priest:** "For Thou art a merciful and mankind-loving God, and unto Thee we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *Then the Senior Deacon says:*
-**Deacon:** That we may be counted worthy to hear the holy Gospel, in peace let us pray to the Lord.
-**Choir:** Lord, have mercy.
+> **Deacon:** "That we may be counted worthy to hear the holy Gospel, in peace let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
 *And the Deacon begins to read the First Gospel of the Footwashing. And the Abbot, standing apart from the brethren, says:*
 **Abbot:** Wisdom! Stand upright! Let us hear the Holy Gospel!
-**Deacon:** The reading from the Holy Gospel according to John (John 13:1–11, pericopa 41):
+> **Deacon:** "The reading from the Holy Gospel according to John (John 13:1–11, pericopa 41):"
 At that time, before the feast of the Passover...
 *And when the Deacon reads the concluding word, saying:*
-**Deacon:** He rose from supper and laid aside His garments...
+> **Deacon:** "He rose from supper and laid aside His garments..."
 *The Superior takes off his outer vestments. And when the Deacon says:*
-**Deacon:** Having taken...
+> **Deacon:** "Having taken..."
 
-**Deacon:** ...Having taken a towel, He girded Himself...
+> **Deacon:** "...Having taken a towel, He girded Himself..."
 *Then the Superior girds himself with a linen apron. And when the Deacon says:*
-**Deacon:** After that He poured water into a basin...
+> **Deacon:** "After that He poured water into a basin..."
 *The Superior pours water with his own hands into the vessel and basin. And when the Deacon says:*
-**Deacon:** And began to wash the disciples' feet, and to wipe them with the towel wherewith He was girded...
+> **Deacon:** "And began to wash the disciples' feet, and to wipe them with the towel wherewith He was girded..."
 *The Superior begins to wash the feet of the brethren, beginning from the Doorkeeper down to the Ecclesiarch or the Economos, and he washes them, wiping the feet of each one of those being washed, and kissing them. And when he comes unto the Economos, the Deacon says:*
-**Deacon:** Then came He to Simon Peter; and Peter said unto Him:
+> **Deacon:** "Then came He to Simon Peter; and Peter said unto Him:"
 **Peter:** Lord, dost Thou wash my feet?[^312]
 *And he performs according to the pattern of the Gospel. The Superior answers:*
 **Abbot:** What I do thou knowest not now, but thou shalt understand hereafter.
@@ -2563,20 +2511,20 @@ At that time, before the feast of the Passover...
 *And the Superior says:*
 **Abbot:** He that is washed needs not save to wash his feet, for he is clean every whit; and ye are clean, but not all.
 *And when the Deacon has finished the Gospel, the Senior sits down, and the Superior washes his feet also, as he did beforehand unto the rest. And after the washing of all, the Superior, having taken off the towel, girds himself with his own linen cloth, and puts on his vestments. And the Deacon exclaims:*
-**Deacon:** That we may be counted worthy to hear the holy Gospel...
+> **Deacon:** "That we may be counted worthy to hear the holy Gospel..."
 *The Superior himself reads the Second Gospel of the Footwashing, saying:*
 **Abbot:** The reading from the Holy Gospel according to John (John 13:12–17, pericopa 42):
 At that time, when Jesus had washed the feet of the disciples, He took His garments...
 *And after the Gospel the Deacon says:*
-**Deacon:** Let us pray to the Lord.
-**Choir:** Lord, have mercy.
+> **Deacon:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
 
 *Prayer of the Superior in the Hearing of All:*
 **Abbot:** O Lord our God, according to Thy great mercy, Who didst empty Thyself and take the form of a servant, Who at the time of Thy saving, life-creating, and voluntary Passion didst deign to sup with Thy holy disciples and Apostles, and thereafter, having girded Thyself with a towel and washed the feet of Thy holy disciples, didst give them an example of humility and love one toward another, and didst say: "As I have done unto you, so do ye also one to another": do Thou Thyself now also, O Master, coming into the midst of Thine unworthy servants who follow Thine example, wash away every defilement and impurity of our souls, that having washed away the dust of transgressions that has cleaved unto us, and having wiped one another with the towel of love, we may be able to be well-pleasing unto Thee all the days of our life, and find grace before Thee!
 
 *Exclamation:*
 **Abbot:** For Thou art good and the Cleanser of all things, O Christ our God, and unto Thee we send up glory, with Thine unoriginate Father, and Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Choir:** "Amen."
 
 *And after the conclusion of the Prayer, all the brethren are sprinkled from the basin. Together we chant the Troparion from the Fifth Ode of Great Friday, Tone 6:*
 Having washed their feet and having been purified by the communion of the Divine Mysteries, Thy servants, O Christ, now went up from Zion unto the great Mount of Olives, singing unto Thee, O Lover of mankind!
@@ -2620,9 +2568,7 @@ O Jesus, Who clothest heaven with clouds, sitting on the throne of glory with th
 
 When He had washed all, Jesus reclined and said unto His disciples: "Know ye what I have done unto you? For I have given you all an example of humility, that whosoever desires to be first, let him be the last of all by free choice!"
 
-"Ye are clean indeed, but not all of you," Christ said unto His friends reclining at the supper: for one of you...
-
-*On Great and Holy Thursday at Compline:*[^316]
+"Ye are clean indeed, but not all of you," Christ said unto His friends reclining at the supper: for one of you *On Great and Holy Thursday at Compline:*[^316]
 ...unto another, being in doubt, He spoke the word; therefore after these things He openly declared the name of the betrayer.
 
 Even as He said unto them, when the Judge of the ages came unto the disciples on the Mount of Olives, He said then: "Come and let us depart hence; for the betrayer is already at hand; let no one deny Me, for I suffer willingly."
@@ -2738,9 +2684,7 @@ O thou who at the end didst ineffably conceive and bear thy Creator: entreat Him
 
 *Antiphon 6, Tone 7:*
 Today Judas watches to betray the Lord, the pre-eternal Savior of the world, Who fed the multitudes from five loaves.
-Today the lawless one renounces the Master; being a disciple...
-
-*The Service of the Holy Passions.*
+Today the lawless one renounces the Master; being a disciple *The Service of the Holy Passions.*
 ...being a disciple, he betrays the Master; for silver he sells Him Who satisfied man with manna.
 Today the Jews nailed to the Cross the Lord Who cleft the sea with a rod and led them into the wilderness; today they pierced with a lance His ribs, Who scourged Egypt with plagues for their sake; and with gall they gave Him to drink Who rained down manna as food for them.
 O Lord, coming to Thy voluntary suffering, Thou didst cry unto Thy disciples: "If ye could not watch one hour with Me, how did ye promise to die for My sake? At least behold Judas, how he sleeps not, but hastens to deliver Me to the lawless! Arise, pray, that no one deny Me, seeing Me on the Cross!" O longsuffering Lord, glory to Thee!
@@ -2876,9 +2820,7 @@ The council of the deicides, the lawless Jewish race, raging against Pilate, cri
 Thy life-bearing ribs, pouring forth a fountain as from Eden, water Thy Church, O Christ, as a spiritual paradise, parting thence into heads, into the four Gospels, watering the world, gladdening creation, and faithfully teaching the Gentiles to worship Thy Kingdom!
 
 *Blessed are the peacemakers, for they shall be called the children of God.*
-Thou wast crucified for my sake, that Thou mightest pour forth forgiveness for me; Thou wast pierced in the ribs, that Thou mightest drop drops of life for me; Thou wast fastened with nails...
-
-*The Service of the Holy Passions.*
+Thou wast crucified for my sake, that Thou mightest pour forth forgiveness for me; Thou wast pierced in the ribs, that Thou mightest drop drops of life for me; Thou wast fastened with nails *The Service of the Holy Passions.*
 ...Thou wast fastened with nails, that by the depth of Thy Passions I, being assured of the height of Thy power, may cry: "O Giver of life, Christ, glory to Thy Cross, O Savior, and to Thy Passion!"
 
 *Blessed are they that are persecuted for righteousness' sake, for theirs is the kingdom of heaven.*
@@ -2912,9 +2854,7 @@ Early in the morning unto Thee do I rise, O Word of God, Who for Thy tender merc
 
 *Troparia:*
 Having washed their feet and been purified by the communion of the divine Mystery, Thy ministers, O Christ, now ascended with Thee from Sion unto the great Mount of Olives, hymning Thee, O Lover of mankind!
-"Behold," Thou didst say, "O My friends, be not afraid! For now the hour is at hand that I should be taken and slain by the hands of the lawless..."
-
-...of the lawless; but ye shall be scattered, having forsaken Me, compelled to preach Me in faith, the Lover of mankind!"[^334]
+"Behold," Thou didst say, "O My friends, be not afraid! For now the hour is at hand that I should be taken and slain by the hands of the lawless" of the lawless; but ye shall be scattered, having forsaken Me, compelled to preach Me in faith, the Lover of mankind!"[^334]
 
 *Kontakion, Tone 8:*
 Come, let us all hymn Him Who was crucified for our sake; for Mary beheld Him upon the Tree and said: "Even though Thou endurest crucifixion, Thou art My Son and My God!"
@@ -2934,15 +2874,11 @@ Saying: "Remember me!"
 
 *On Holy and Great Friday we celebrate the holy, saving, and fearful Passions of our Lord and God and Savior Jesus Christ, which He willingly accepted for our sake: the spittings, the beatings, the buffeting, the reproaches, the mockeries, the purple robe, the reed, the sponge, the vinegar, the nails, and before all these the Cross and death—all of which were accomplished on this Friday. For having been sold by His friend and disciple for thirty pieces of silver, Christ was betrayed: first He is led away to Annas the High Priest,*
 
-*who sends Him to Caiaphas. There He was spat upon and buffeted on the cheek, together mocked and derided, hearing: "Prophesy unto us, O Christ, who is he that struck Thee?" There also false witnesses came forward slandering Him, saying: "He said, Destroy this temple, and in three days I will raise it up," and because He called Himself the Son of God, whereat the High Priest, not enduring the blasphemy, rent his robe. When morning was come, He is led away to Pilate in the Praetorium; and they entered not, it says, that they might not be defiled, but that they might eat the Passover—and by the Passover is meant the whole Feast which then took place as was fitting; for Christ celebrated the legal Passover one day earlier, willing to be slaughtered on the Friday. And Pilate having come out, asks them concerning His accusations to condemn Him; and when he found nothing worthy of condemnation, he sends Him to Caiaphas, and he back again to Pilate, since he was intent upon His murder. But Pilate said: "Take Him yourselves, and crucify Him, and judge Him according to your Law." And they say again: "It is not lawful for us to put any man to death," urging Pilate to crucify Him. And Pilate asks Christ whether He is the King of the Jews; but He confesses not an earthly king, but an eternal One, saying: "My Kingdom is not of this world." Then Pilate, desiring to release Him, first said concerning Him that he found in Him no plausible guilt; next, he proposes to release one prisoner according to custom at each Feast: but Barabbas seems more acceptable to them than Christ. Pilate then, showing favor to the Jews, having first scourged Jesus...*
-
-*...first scourged Jesus, delivers Him to the soldiers. Clothed in a scarlet robe, crowned with a crown of thorns, and a reed placed in His right hand, He is mocked by the soldiers saying: "Hail, King of the Jews!" Yet having thus mocked Him before the Jews, Pilate said again: "I find in Him no fault unto death." But they said: "We have Him under torment because He names Himself the Son of God." While this was being said, Jesus remained silent, but the multitude cried unto Pilate: "Crucify, crucify Him!" For they wished to put Him away by a dishonorable death, so that they might destroy His memory even among the accursed. Pilate, as though putting them to shame, says: "Shall I crucify your King?" But they said they had no King but Caesar; for having uttered blasphemy, achieving nothing, they shift the charge unto Caesar, that they might at least thus accomplish their frenzy, saying: "Every one that makes himself a king speaks against Caesar." While these things were occurring, Pilate's wife sent unto him, having been terrified by fearful visions, saying: "Have thou nothing to do with that Just Man, for I have suffered many things this night because of Him." And he, having washed his hands, denies guilt of that blood; but they cried: "His blood be on us and on our children! If thou let Him go free, thou art not Caesar's friend!" Therefore Pilate, fearing this, although he strictly knew Him to be innocent, delivers Him over to harsh condemnation and releases Barabbas. Judas, seeing this, cast down the pieces of silver, departed, and already gave himself over to hanging, being hanged upon a tree, where his belly swelled greatly and burst asunder. The soldiers, having struck His head with the reed, prepare to carry the Cross for Him. They compel Simon of Cyrene to bear the Cross.*[^336]
+*who sends Him to Caiaphas. There He was spat upon and buffeted on the cheek, together mocked and derided, hearing: "Prophesy unto us, O Christ, who is he that struck Thee?" There also false witnesses came forward slandering Him, saying: "He said, Destroy this temple, and in three days I will raise it up," and because He called Himself the Son of God, whereat the High Priest, not enduring the blasphemy, rent his robe. When morning was come, He is led away to Pilate in the Praetorium; and they entered not, it says, that they might not be defiled, but that they might eat the Passover—and by the Passover is meant the whole Feast which then took place as was fitting; for Christ celebrated the legal Passover one day earlier, willing to be slaughtered on the Friday. And Pilate having come out, asks them concerning His accusations to condemn Him; and when he found nothing worthy of condemnation, he sends Him to Caiaphas, and he back again to Pilate, since he was intent upon His murder. But Pilate said: "Take Him yourselves, and crucify Him, and judge Him according to your Law." And they say again: "It is not lawful for us to put any man to death," urging Pilate to crucify Him. And Pilate asks Christ whether He is the King of the Jews; but He confesses not an earthly king, but an eternal One, saying: "My Kingdom is not of this world." Then Pilate, desiring to release Him, first said concerning Him that he found in Him no plausible guilt; next, he proposes to release one prisoner according to custom at each Feast: but Barabbas seems more acceptable to them than Christ. Pilate then, showing favor to the Jews, having first scourged Jesus first scourged Jesus, delivers Him to the soldiers. Clothed in a scarlet robe, crowned with a crown of thorns, and a reed placed in His right hand, He is mocked by the soldiers saying: "Hail, King of the Jews!" Yet having thus mocked Him before the Jews, Pilate said again: "I find in Him no fault unto death." But they said: "We have Him under torment because He names Himself the Son of God." While this was being said, Jesus remained silent, but the multitude cried unto Pilate: "Crucify, crucify Him!" For they wished to put Him away by a dishonorable death, so that they might destroy His memory even among the accursed. Pilate, as though putting them to shame, says: "Shall I crucify your King?" But they said they had no King but Caesar; for having uttered blasphemy, achieving nothing, they shift the charge unto Caesar, that they might at least thus accomplish their frenzy, saying: "Every one that makes himself a king speaks against Caesar." While these things were occurring, Pilate's wife sent unto him, having been terrified by fearful visions, saying: "Have thou nothing to do with that Just Man, for I have suffered many things this night because of Him." And he, having washed his hands, denies guilt of that blood; but they cried: "His blood be on us and on our children! If thou let Him go free, thou art not Caesar's friend!" Therefore Pilate, fearing this, although he strictly knew Him to be innocent, delivers Him over to harsh condemnation and releases Barabbas. Judas, seeing this, cast down the pieces of silver, departed, and already gave himself over to hanging, being hanged upon a tree, where his belly swelled greatly and burst asunder. The soldiers, having struck His head with the reed, prepare to carry the Cross for Him. They compel Simon of Cyrene to bear the Cross.*[^336]
 
 *[Woodcut Illustration of the Crucifixion: Christ hanging upon the Cross between the two thieves, with the Mother of God, the beloved disciple John, and Roman soldiers at Golgotha outside Jerusalem.]*[^337]
 
-*And having arrived at the third hour at the Place of the Skull, there they crucify Him, and hanging two other thieves on either side of Him, that He might be numbered with the transgressors. For mockery, the soldiers divide His garments among themselves, and cast lots for His seamless tunic, working every excess of reproach. Nor this alone, but while He was upon the Cross they reviled Him, saying: "Aha, Thou that destroyest the temple and buildest it in three days, save Thyself!" And again: "He saved others; cannot He save Himself?" And again: "If He be the King of Israel, let Him now come down from the Cross, and we will believe in Him!" And indeed, even if they spoke truly, they ought to have approached Him without doubt: for not only is He acknowledged King of Israel, but of all the world. For what meant the darkening of the sun for three hours, and that in the middle of the day, that the Passion might be manifest to all? What meant the earthquake? The rending of the rocks, which convicted the contrary-minded Jews? The resurrection of many...*
-
-*...the resurrection of many bodies, for the assurance of the general resurrection and for the manifestation of the power of the Sufferer? The tearing of the temple veil in two, as though the Temple were grieving for the glorious Sufferer outside, and revealing unseen things unto many?*[^338]
+*And having arrived at the third hour at the Place of the Skull, there they crucify Him, and hanging two other thieves on either side of Him, that He might be numbered with the transgressors. For mockery, the soldiers divide His garments among themselves, and cast lots for His seamless tunic, working every excess of reproach. Nor this alone, but while He was upon the Cross they reviled Him, saying: "Aha, Thou that destroyest the temple and buildest it in three days, save Thyself!" And again: "He saved others; cannot He save Himself?" And again: "If He be the King of Israel, let Him now come down from the Cross, and we will believe in Him!" And indeed, even if they spoke truly, they ought to have approached Him without doubt: for not only is He acknowledged King of Israel, but of all the world. For what meant the darkening of the sun for three hours, and that in the middle of the day, that the Passion might be manifest to all? What meant the earthquake? The rending of the rocks, which convicted the contrary-minded Jews? The resurrection of many the resurrection of many bodies, for the assurance of the general resurrection and for the manifestation of the power of the Sufferer? The tearing of the temple veil in two, as though the Temple were grieving for the glorious Sufferer outside, and revealing unseen things unto many?*[^338]
 
 *At the third hour, then, Christ was crucified, as the divine Mark says; and from the sixth hour until the ninth hour there was darkness, when also Longinus the Centurion, seeing marvelous things, and above all the sun, cried aloud: "TRULY THIS WAS THE SON OF GOD!"*
 
@@ -2950,9 +2886,7 @@ Saying: "Remember me!"
 
 *When all had departed, His Mother stood by the Cross, and her sister Mary the wife of Cleopas, whom James bare when Cleopas died childless; and also John, the disciple whom He loved. The unthinking Jews, not bearing to see the bodies upon the Cross, asked Pilate, because it was the great day of the Passover and a Friday, that the legs of the condemned might be broken, so that death might come quickly.*
 
-*And they broke the legs of the others, for they were still alive; but coming to Jesus, when they saw that He was dead already, they broke not His legs; but a certain soldier named Longinus, gratifying the senseless crowd, lifted his spear and pierced Jesus in His right side, and immediately there came out Blood and Water: both as from a man, and yet beyond man; that is, the Blood for the sake of the sacred Communion of the divine mysteries, and the Water for the sake of Baptism. For that two-streamed Fountain truly contains the Mystery that pertains to us. This John saw and bare witness, and his witness is true; for he was present at all these things and saw them, and writes: and if he had spoken falsely, he would not have recorded things that seemed unrighteous unto the dishonor of his Teacher. (They say that he then received the divine fluid, the stream of His most pure Blood, in a certain vessel from the life-giving side.) While the sentence was thus fulfilled, when it was already evening, Joseph came forth, he who was of Arimathea, a disciple who previously hid himself like the rest; and coming to Pilate with boldness, since he was known unto him, he begs the Body of Jesus. And Pilate commands it to be taken. And having taken it down from the Cross, he laid it in honorable fashion. When night was already come, Nicodemus comes, bearing a mixture of myrrh and aloes, about a hundred pounds weight, and having wound it in linen cloths with the shroud, as the manner of the Jews is to bury, they laid Him nearby in Joseph's new tomb hewn out of rock, where...*[^339]
-
-*...where no man had ever yet been laid, lest when Christ is risen, they should ascribe the resurrection to another. The mixture of aloes and myrrh, being adhesive, was a memorial, so that when they should see the linen cloths and the napkin left behind in the tomb, they might not suspect that He had been stolen away; for how could there be leisure for anyone to strip off such things from the blessed Body? All these things having marvelously occurred at that time on the Friday, the God-bearing Fathers commanded us to celebrate the memory of them all with contrition of heart and compunction.*[^340]
+*And they broke the legs of the others, for they were still alive; but coming to Jesus, when they saw that He was dead already, they broke not His legs; but a certain soldier named Longinus, gratifying the senseless crowd, lifted his spear and pierced Jesus in His right side, and immediately there came out Blood and Water: both as from a man, and yet beyond man; that is, the Blood for the sake of the sacred Communion of the divine mysteries, and the Water for the sake of Baptism. For that two-streamed Fountain truly contains the Mystery that pertains to us. This John saw and bare witness, and his witness is true; for he was present at all these things and saw them, and writes: and if he had spoken falsely, he would not have recorded things that seemed unrighteous unto the dishonor of his Teacher. (They say that he then received the divine fluid, the stream of His most pure Blood, in a certain vessel from the life-giving side.) While the sentence was thus fulfilled, when it was already evening, Joseph came forth, he who was of Arimathea, a disciple who previously hid himself like the rest; and coming to Pilate with boldness, since he was known unto him, he begs the Body of Jesus. And Pilate commands it to be taken. And having taken it down from the Cross, he laid it in honorable fashion. When night was already come, Nicodemus comes, bearing a mixture of myrrh and aloes, about a hundred pounds weight, and having wound it in linen cloths with the shroud, as the manner of the Jews is to bury, they laid Him nearby in Joseph's new tomb hewn out of rock, where*[^339] *where no man had ever yet been laid, lest when Christ is risen, they should ascribe the resurrection to another. The mixture of aloes and myrrh, being adhesive, was a memorial, so that when they should see the linen cloths and the napkin left behind in the tomb, they might not suspect that He had been stolen away; for how could there be leisure for anyone to strip off such things from the blessed Body? All these things having marvelously occurred at that time on the Friday, the God-bearing Fathers commanded us to celebrate the memory of them all with contrition of heart and compunction.*[^340]
 
 *It is to be known, therefore, that on the sixth day of the week, on Friday, the Lord was crucified, because on the sixth day man was created in the beginning; and at the sixth hour of the day He was hung upon the Cross, because at that same hour, as they say, Adam stretched forth his hands and touched the forbidden Tree and died: for it was fitting that at the very hour wherein he was ruined, he should also be renewed. And in the garden, even as Adam in Paradise; the tasting of the bitter drink prefigured the tasting of the fruit; the buffeting showed forth our freedom; the spitting and shameful treatment, the honor bestowed upon us; the crown of thorns, the casting away of the curse that lay upon us; the purple robe, instead of the coats of skins and instead of the royal adornment bestowed upon us; the nails, the absolute immobility of our sin; the Cross, the Tree in Paradise; the pierced side prefigured Adam's rib, out of which came Eve, from whom came the transgression; the spear turns away the flaming sword from me; the water from the side, the image of Baptism; the Blood and the reed, wherewith as King He granted and signed our ancient fatherland with scarlet letters.*
 
@@ -2994,9 +2928,7 @@ The Wise Thief didst Thou make worthy of Paradise in a single hour, O Lord: and 
 *At the Praises, we set 4 verses, and we chant Stichera Idiomela, Tone 3:*[^344]
 Two and evil things hath My firstborn son Israel committed: he hath forsaken Me, the Fountain of living water, and hath hewn out for himself a broken cistern; he hath crucified Me upon the Tree, and hath asked for Barabbas and released him! Heaven was astonished at this, and the sun hid its rays; but thou, Israel, wast not ashamed, but didst deliver Me unto death: Holy Father, forgive them, for they know not what they have done!
 
-Every member of Thy holy Flesh endured dishonor for our sake: the thorns, the Head; the face, spitting; the cheeks, buffeting; the mouth, the tasting of vinegar mingled with gall; the ears, the ungodly blasphemies; the back, scourging, and the hand the reed, and the stretching of the whole body upon the Cross; the joints, the nails; and the side, the spear. O Thou Who didst suffer for us and freed us from passions, Who didst condescend unto us...
-
-...in Thy love for mankind and exalted us, O almighty Savior, have mercy on us!
+Every member of Thy holy Flesh endured dishonor for our sake: the thorns, the Head; the face, spitting; the cheeks, buffeting; the mouth, the tasting of vinegar mingled with gall; the ears, the ungodly blasphemies; the back, scourging, and the hand the reed, and the stretching of the whole body upon the Cross; the joints, the nails; and the side, the spear. O Thou Who didst suffer for us and freed us from passions, Who didst condescend unto us in Thy love for mankind and exalted us, O almighty Savior, have mercy on us!
 
 When Thou wast crucified, O Christ, all creation trembled seeing it; the foundations of the earth were shaken with fear of Thy power: for when Thou wast lifted up today, the Hebrew race perished; the veil of the temple was torn in two, and the dead arose from their tombs; the centurion, seeing the wonder, was struck with awe; and Thy Mother standing by cried aloud, lamenting with motherly grief: "How shall I not weep and beat my breast, seeing Thee naked upon the Tree, hanging as one condemned, O Thou Who wast crucified, buried, and risen from the dead: Lord, glory to Thee!"
 
@@ -3022,9 +2954,7 @@ O lawless and transgressing people, why do ye meditate vain things? Why have ye 
 Today the blameless Virgin, seeing Thee stretched out upon the Cross, O Word, lamenting with motherly grief, was pierced in her heart bitterly, and groaning in pain from the depth of her soul, disheveling her hair, she wept; therefore, beating her breast, she cried out sorrowfully: "Woe is me, O divine Child! Woe is me, O Light of the world! Why hast Thou set from mine eyes, O Lamb of God?" Therefore the hosts of the Bodiless Powers were seized with trembling, saying: "O incomprehensible Lord, glory to Thee!"
 
 *Verse:* God is our King before the ages: He hath wrought salvation in the midst of the earth. (Ps. 73:12 [LXX])
-Seeing Thee hanging upon the Tree, O Christ, Creator and God of all, she who bare Thee without seed cried bitterly: "O My Son, whither hath the beauty of Thy form departed?...
-
-...Thy form departed? I cannot bear to see Thee unjustly crucified: make haste therefore and arise, that I also may behold Thy third-day Resurrection from the dead!"
+Seeing Thee hanging upon the Tree, O Christ, Creator and God of all, she who bare Thee without seed cried bitterly: "O My Son, whither hath the beauty of Thy form departed? Thy form departed? I cannot bear to see Thee unjustly crucified: make haste therefore and arise, that I also may behold Thy third-day Resurrection from the dead!"
 
 *Glory, Tone 8:*
 Lord, when Thou didst ascend the Cross, fear and trembling fell upon creation; and Thou didst forbid the earth to swallow up those who crucified Thee, and didst command hades to release its prisoners for the renewal of men, O Judge of the living and the dead! Thou camest to grant life and not death: O longsuffering Lord, glory to Thee!
@@ -3105,9 +3035,7 @@ They pierced My hands and My feet; they numbered all My bones.
 They looked and stared upon Me; they parted My garments among them, and upon My vesture did they cast lots.
 But Thou, O Lord, remove not Thy help far from Me; attend unto My defense!
 Deliver My soul from the sword, and Mine only-begotten from the hand of the dog!
-Save Me from the lion's mouth, and My lowliness...
-
-...My lowliness from the horns of the unicorns!
+Save Me from the lion's mouth, and My lowliness My lowliness from the horns of the unicorns!
 I will declare Thy name unto My brethren; in the midst of the Church will I hymn Thee.
 Ye that fear the Lord, praise Him; all ye the seed of Jacob, glorify Him!
 Let all the seed of Israel fear Him!
@@ -3142,9 +3070,7 @@ When the transgressors seized Thee, enduring it Thou didst cry, O Lord: "Though 
 *Verse:* Blessed is he that considers the poor and needy. (Ps. 40:2 [LXX])
 
 *Reading from the Prophecy of Zechariah (Zech. 11:10–14; 12:10; 13:7; 14:6–11):*[^351]
-Thus says the Lord: "I will take My fair staff, and cast it away, to break My covenant which I made with all the peoples. And it shall be broken in that day; and so the Canaanites, the sheep that are kept for Me, shall know that it is the word of the Lord. And I will say unto them: 'If it be good in your eyes, give Me My price...
-
-...give Me My price, or else forbear.' And they weighed for My price thirty pieces of silver. And the Lord said unto Me: 'Cast them into the furnace, and see if it be proven, in what manner I was proven by them.' And I took the thirty pieces of silver, and cast them into the house of the Lord, into the furnace. And I turned away My second staff, the measure, to break the covenant between Judah and Israel." (Zech. 11:10–14)
+Thus says the Lord: "I will take My fair staff, and cast it away, to break My covenant which I made with all the peoples. And it shall be broken in that day; and so the Canaanites, the sheep that are kept for Me, shall know that it is the word of the Lord. And I will say unto them: 'If it be good in your eyes, give Me My price give Me My price, or else forbear.' And they weighed for My price thirty pieces of silver. And the Lord said unto Me: 'Cast them into the furnace, and see if it be proven, in what manner I was proven by them.' And I took the thirty pieces of silver, and cast them into the house of the Lord, into the furnace. And I turned away My second staff, the measure, to break the covenant between Judah and Israel." (Zech. 11:10–14)
 "And they shall look upon Him Whom they pierced." (Zech. 12:10)
 "And I will say unto Him: 'What are these wounds in the midst of Thy hands?' And He shall say: 'Those wherewith I was wounded in the house of My beloved.' Awake, O sword, against My Shepherd, and against the Man Who is His fellow, says the Lord Almighty: Smite the Shepherd, and the sheep shall be scattered; and I will bring My hand upon the Shepherd." (Zech. 13:7)
 "And it shall come to pass in that day, that there shall not be light, but cold and frost. It shall be one day, and that day shall be known unto the Lord, and not day, nor night, and toward evening there shall be light. And in that day living water shall go out from Jerusalem, half of it toward the former sea, and half of it toward the hinder sea; in summer and in spring it shall be so. And the Lord shall be King over all the earth: in that day shall the Lord be one, and His name one, encircling all the earth and the wilderness. And that which is upon the bridles of the horses shall be Holy unto the Lord Almighty; and there shall be no more a Canaanite in the house of the Lord of hosts in that day." (Zech. 14:6–11)
@@ -3169,41 +3095,11 @@ O Christ, the True Light, Who enlightenest and sanctifiest every man that comes 
 
 ## Great and Holy Friday: Third Hour
 
-*At the seventh hour of the day, the small semantron is struck, and having gathered in church, we begin the Third Hour:*[^355]
+*At the seventh hour of the day, the small wooden board [Klepalo] is struck, and we gather in the church and begin the Third Hour:*[^355]
 
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages.
+*Trisagion. And after* **"Our Father"***:* **"Lord, have mercy"** *(12 times).* *Glory... Both now...* **"O come, let us worship..."** *(thrice).*
 
-**Reader:** Amen.
-
-Glory to Thee, our God, glory to Thee.
-
-O Heavenly King, Comforter, Spirit of truth, Who art everywhere present and fillest all things, Treasury of good gifts and Giver of life: come and abide in us, and cleanse us from every stain, and save our souls, O Good One.
-
-Holy God, Holy Mighty, Holy Immortal, have mercy on us. *(thrice)*
-
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-
-All-holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy name's sake.
-
-Lord, have mercy. *(thrice)*
-
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-
-Our Father, Who art in the heavens, hallowed be Thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
-
-**Priest:** For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
-
-**Reader:** Amen.
-
-Lord, have mercy. *(12 times)*
-
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
-
-*Psalm 40 (LXX):*
+*Then Psalm 40 (LXX):*
 Blessed is he that considers the poor and needy; the Lord shall deliver him in an evil day.
 The Lord preserve him, and keep him alive, and make him blessed upon the earth, and deliver him not into the hands of his enemies.
 The Lord help the needy man upon his bed of sorrow; Thou hast turned all his bed in his sickness.
@@ -3231,9 +3127,7 @@ For the zeal of Thine house hath eaten me up; and the reproaches of them that re
 And I covered my soul with fasting, and that was made a reproach to me.
 And I made sackcloth my clothing, and I became a proverb unto them.
 They that sit in the gate spoke against me, and they that drank wine sang against me.
-But as for me, with my prayer I cry unto Thee, O Lord; it is an acceptable time, O God: in the multitude...
-
-...of Thy mercy give ear unto me, in the truth of Thy salvation.
+But as for me, with my prayer I cry unto Thee, O Lord; it is an acceptable time, O God: in the multitude of Thy mercy give ear unto me, in the truth of Thy salvation.
 Deliver me out of the mire, that I sink not; let me be delivered from them that hate me, and out of the deep waters.
 Let not the waterflood drown me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.
 Give ear unto me, O Lord, for Thy mercy is good; according to the multitude of Thy tender mercies turn unto me.
@@ -3272,9 +3166,7 @@ For behold, Thou hast loved truth; the hidden and secret things of Thy wisdom ha
 Thou shalt sprinkle me with hyssop, and I shall be cleansed; Thou shalt wash me, and I shall be made whiter than snow.
 Thou shalt make me to hear joy and gladness; the bones that are humbled shall rejoice.
 Turn away Thy face from my sins, and blot out all mine iniquities.
-Create in me a clean heart, O God, and renew...
-
-...a right spirit within me.
+Create in me a clean heart, O God, and renew a right spirit within me.
 Cast me not away from Thy presence, and take not Thy Holy Spirit from me.
 Restore unto me the joy of Thy salvation, and uphold me with Thy governing Spirit.
 I will teach transgressors Thy ways, and the ungodly shall turn again unto Thee.
@@ -3285,15 +3177,12 @@ A sacrifice to God is a broken spirit: a broken and a contrite heart God will no
 Do good, O Lord, in Thy good pleasure unto Zion, and let the walls of Jerusalem be built.
 Then shalt Thou be pleased with the sacrifice of righteousness, with oblation and burnt offerings; then shall they offer calves upon Thine altar.
 
-*Glory to the Father, and to the Son, and to the Holy Spirit.*
+*Glory... Both now...* **"Alleluia"** *(thrice).* **"Lord, have mercy"** *(thrice).*
 
-*Troparion, Tone 6:*
-Lord, the Jews condemned Thee unto death, the Life of all. Those who passed dryshod through the Red Sea by Moses' rod nailed Thee to the Cross; and those who sucked honey from the rock offered Thee gall. But willingly didst Thou endure this, that Thou mightest free us from the slavery of the enemy. O Christ our God, glory to Thee![^360]
+*Then Glory... Troparion, Tone 6:*
+Lord, the Jews condemned Thee unto death, the Life of all. Those who passed dryshod through the Red Sea by Moses' rod nailed Thee to the Cross; and those who sucked honey from the rock offered Thee gall. But willingly didst Thou endure this, that Thou mightest free us from the slavery of the enemy. O Lord, glory to Thee![^360]
 
-*Both now and ever, and unto ages of ages. Amen.*
-
-*Theotokion:*
-O Theotokos, thou art the true Vine that didst bud forth for us the Fruit of life: we entreat thee, intercede, O Lady, together with the Apostles and all the Saints, that He may have mercy on our souls!
+*Both now... Theotokion:* **"O Theotokos, thou art the true vine..."**
 
 *Then Stichera Idiomela, Tone 8:*
 For fear of the Jews, Thy friend and neighbor Peter denied Thee, O Lord; and weeping he cried aloud thus: "Despise not my tears! For I said I would keep the faith, yet I kept it not! Receive our repentance also, and have mercy on us!"[^361]
@@ -3318,52 +3207,29 @@ The same Sticheron.
 *Then the Prokimenon, Tone 4:* For I am ready for scourges, and my sorrow is continually before me. (Ps. 37:18 [LXX])
 *Verse:* O Lord, rebuke me not in Thine anger, neither chasten me in Thy wrath. (Ps. 37:2 [LXX])
 
-*Reading from the Prophecy of Isaiah (Isaiah 50:4–11):*[^363]
-The Lord gives me the tongue of instruction, that I should know when to speak a word in season; He gave me a word early, He added unto me an ear to hear. And the instruction of the Lord, the Lord opens mine ears, and I was not disobedient, nor contradicted. I turned not away...
-
-...My back from scourgings, and My cheeks to buffeting, and I hid not My face from the shame of spittings. And the Lord was My helper; therefore I was not confounded, but I set My face as a solid rock, and I know that I shall not be ashamed. For He is near that justifies Me: who will contend with Me? Let him stand up against Me! And who is My judge? Let him draw near unto Me! Behold, the Lord will help Me: who will harm Me? Behold, all ye shall wax old as a garment, and a moth shall devour you. Who among you fears the Lord? Let him give ear to the voice of His Servant. Ye that walk in darkness and have no light, trust in the name of the Lord, and stay upon God. Behold, all ye kindle a fire, and strengthen the flame: walk in the light of your fire, and in the flame which ye have kindled. This hath happened unto you from My hand; in sorrow shall ye lie down.
+*Reading from the Prophecy of Isaiah, Chapter 50 (Isaiah 50:4–11):*[^363]
+The Lord gives me the tongue of instruction, that I should know when it is fitting to speak a word; He appointed for me early, in the morning He added unto me an ear to hear. And the instruction of the Lord opens mine ears and I do not resist, nor speak against it. I gave My back to scourgings, and My cheeks to buffetings; and I turned not away My face from the shame of spittings. And the Lord, the Lord became My helper; therefore I was not ashamed, but I set My face as a solid rock, and I knew that I should not be confounded. For He draws near Who justified Me: who is he that contends with Me? Let him stand up against Me together! And who is he that judges Me? Let him draw near unto Me! Behold, the Lord God will help Me: who will harm Me? Behold, all ye shall wax old as a garment, and a moth shall devour you. Who among you fears the Lord? Let him hear the voice of His Servant: ye that walk in darkness and have no light, trust in the name of the Lord, and stay upon God. Behold, all ye kindle a fire, and strengthen a flame: walk in the light of your fire, and in the flame which ye have kindled. For My sake hath this happened unto you; in sorrow shall ye lie down.
 
 *Then the Epistle to the Romans, pericopa 88 from the half (Romans 5:6–10):*[^364]
 Brethren: For why did Christ, when we were yet without strength, in due time die for the ungodly? For scarcely for a righteous man will one die; yet perhaps for a good man someone would even dare to die. But God commends His love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by His blood, we shall be saved from wrath through Him. For if, when we were enemies, we were reconciled to God by the death of His Son, much more, having been reconciled, we shall be saved by His life.
 
-*Then the Gospel according to Mark, pericopas 67 and 68 (Mark 15:16–41):*[^365]
-At that time, the soldiers led Jesus away into the hall called Praetorium; and they call together the whole band. And they clothed Him with purple, and platted a crown of thorns, and put it about His head, and began to salute Him: "Hail, King of the Jews!" And they smote Him on the head with a reed, and spat upon Him, and bowing their knees worshiped Him. And when they had mocked Him, they took off the purple from Him, and put His own clothes on Him, and led Him out to crucify Him. And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear His Cross. And they bring Him unto the place Golgotha, which is, being interpreted: The Place of a Skull. And they gave Him to drink wine mingled with myrrh; but He received it not. And when they had crucified Him, they parted His garments, casting lots upon them, what every man should take. And it was the third hour, and they crucified Him. And the superscription of His accusation was written over: THE KING OF THE JEWS. And with Him they crucify two thieves: the one on His right hand, and the other on His left. And the Scripture was fulfilled, which says: "And He was numbered with the transgressors." And they that passed by railed on Him, wagging their heads, and saying: "Ah, Thou that destroyest the temple, and buildest it in three days, save Thyself, and come down from the Cross!" Likewise also the chief priests mocking said among themselves with the scribes: "He saved others; Himself He cannot save! Let Christ the King of Israel descend now from the Cross, that we may see and believe!" And they that were crucified with Him reviled Him. And when the sixth hour was come, there was darkness over the whole land until the ninth hour. And at the ninth hour Jesus cried with a loud voice, saying: "Eloi, Eloi, lama sabachthani?" which is, being interpreted: "My God, My God, why hast Thou forsaken Me?" And some of them that stood by, when they heard it, said: "Behold, He calls Elijah." And one ran and filled a sponge full of vinegar, and put it on a reed, and gave Him to drink, saying: "Let alone; let us see whether Elijah will come to take Him down." And Jesus cried with a loud voice, and gave up the spirit. And the veil of the temple was torn in two from the top to the bottom. And when the centurion, who stood over against Him, saw that He so cried out, and gave up the spirit, he said: "Truly this Man was the Son of God!" There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome; who also, when He was in Galilee, followed Him, and ministered unto Him; and many other women who came up with Him unto Jerusalem.
+*Gospel according to Mark, pericopas 67 and 68 in order:*[^365]
+**"At that time, the soldiers led Jesus away into the hall..."** *End:* **"...who came up with Him unto Jerusalem."**
 
-*Then:*
-Direct my steps according to Thy word, and let no iniquity have dominion over me. Deliver me from the slander of men, and I will keep Thy commandments. Make Thy face to shine upon Thy servant, and teach me Thy statutes. Let my mouth be filled with Thy praise, O Lord, that I may hymn Thy glory and Thy majesty all the day long.
+*Then:* **"The Lord God is blessed..."** *Trisagion, and after* **"Our Father"***:*
 
-*Trisagion through Our Father.*
+*Kontakion:* **"Him Who was crucified for our sake..."** *(Folio 107).*
 
-*Kontakion, Tone 8:*
-Come, let us all hymn Him Who was crucified for our sake; for Mary beheld Him upon the Tree and said: "Even though Thou endurest crucifixion, Thou art My Son and My God!"
+*Then:* **"Lord, have mercy"** *(40 times).* *Prayer:* **"Thou Who at all times..."** **"Lord, have mercy"** *(thrice).* *Glory... Both now...* **"More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**
 
-*Then:* Lord, have mercy. *(40 times)*
+> **Priest:** **"Through the prayers of our holy fathers..."**
 
-*And the Prayer of the Hours:*
-Thou Who at all times and at every hour, in heaven and on earth, art worshiped and glorified, O Christ God, long-suffering, plenteous in mercy, most compassionate; Who lovest the righteous and hast mercy on sinners; Who callest all to salvation through the promise of good things to come: do Thou Thyself, O Lord, receive also our supplications at this hour, and direct our life in Thy commandments. Sanctify our souls, purify our bodies, set right our thoughts, cleanse our minds, and deliver us from all sorrow, evil, and pain. Compass us about with Thy holy Angels, that, guarded and guided by their host, we may attain to the unity of the faith and to the comprehension of Thine unapproachable glory: for blessed art Thou unto ages of ages. Amen.
+*Then this Prayer:*[^366]
+O Master God, Father Almighty, and Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, and one Power, have mercy on me a sinner; and by the judgments which Thou knowest, save me, Thine unworthy servant: for blessed art Thou unto ages of ages. Amen.
 
-Lord, have mercy. *(thrice)*
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify.
-In the name of the Lord, bless, Father.
+## Then the Sixth Hour
 
-**Priest:** God be merciful unto us and bless us, and cause His face to shine upon us, and have mercy on us.
-
-*And this Prayer of Saint Mardarios:*[^366]
-O Master God, Father Almighty, and Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, one Power, have mercy on me a sinner; and by the judgments which Thou knowest, save Thine unworthy servant: for blessed art Thou unto ages of ages. Amen.
-
-## Great and Holy Friday: Sixth Hour
-
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages.
-
-**Reader:** Amen.
-
-Glory to Thee, our God, glory to Thee.
-O Heavenly King... Trisagion through Our Father... Lord, have mercy *(12 times).* Glory, Both now:
-
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
+**"O come, let us worship..."** *(thrice).* *And Psalm 51 (LXX).*
 
 *Psalm 51 (LXX):*
 Why boastest thou in malice, O mighty man?
@@ -3372,9 +3238,7 @@ Thou hast loved evil more than good, unrighteousness rather than to speak righte
 Thou hast loved all words of drowning, a deceitful tongue.
 Therefore God shall destroy thee, O ungodly man, for ever: He shall pluck thee out and remove thee from thy dwelling-place, and thy root out of the land of the living.
 The righteous shall see, and fear, and shall laugh at him, and say:
-Behold the man who...
-
-...made not God his help, but trusted in the abundance of his riches, and strengthened himself in his vanity.
+Behold the man who made not God his help, but trusted in the abundance of his riches, and strengthened himself in his vanity.
 But as for me, I am like a fruitful olive tree in the house of the Lord; I have trusted in the mercy of God for ever, and unto ages of ages.
 I will give thanks unto Thee for ever, because Thou hast done it; and I will wait on Thy name, for it is good before Thy saints.
 
@@ -3431,20 +3295,12 @@ Because he hath set his hope on Me, therefore will I deliver him; I will protect
 He shall cry unto Me, and I will give ear unto him; I am with him in affliction, and I will deliver him and glorify him.
 With length of days will I satisfy him, and show him My salvation.
 
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-Alleluia, alleluia, alleluia, glory to Thee, O God. *(thrice)*
-Lord, have mercy. *(thrice)*
+*Glory... Both now...* **"Alleluia"** *(thrice).* **"Lord, have mercy"** *(thrice).*
 
-*Troparion, Tone 2:*
-Thou hast wrought salvation in the midst of the earth, O Christ God. Thou didst stretch out Thy most pure hands upon the Cross; Thou hast gathered all the nations crying aloud: O Lord, glory to Thee![^368]
+*Glory... Troparion, Tone 2:*
+Thou hast wrought salvation in the midst of the earth, O Christ God; Thou didst stretch out Thy most pure hands upon the Cross, gathering all the nations crying aloud: O Lord, glory to Thee![^368]
 
-*Glory to the Father, and to the Son, and to the Holy Spirit.*
-The same Troparion.
-
-*Both now and ever, and unto ages of ages. Amen.*
-
-*Theotokion:*
-Seeing that we have no boldness because of our many sins, do thou entreat Him Who was born of thee, O Virgin Theotokos: for the supplication of a Mother avails much unto the favor of the Master. Despise not the supplications of sinners, O all-pure one; for He is merciful and able to save, He Who also deigned to suffer for us!
+*Both now... Theotokion:* **"Seeing that we have no boldness..."**
 
 *Then Stichera Idiomela, Tone 8:*
 Thus says the Lord unto the Jews: "My people, what have I done unto thee? Or wherein have I grieved thee? Thy blind have I enlightened, thy lepers have I cleansed, the man lying upon his bed have I restored. My people, what have I done unto thee, and wherewith hast thou repaid Me? Instead of the manna, gall; instead of water, vinegar; instead of loving Me, to the Cross thou hast nailed Me! No longer will I endure you: I will call My Gentiles, and they shall glorify Me with the Father and the Spirit, and I will bestow upon them eternal life!"[^369]
@@ -3473,38 +3329,25 @@ The same Sticheron.
 Thus says the Lord: "Behold, My Servant shall understand, and shall be exalted and glorified exceedingly. As many shall be astonished at Thee, so shall Thy form be without glory from men, and Thy glory from the sons of men. So shall many nations marvel at Him, and kings shall shut their mouths: for they to whom it was not spoken concerning Him shall see, and they that have not heard shall understand. Lord, who hath believed our report? And to whom hath the arm of the Lord been revealed? We have proclaimed before Him as a child, as a root in a thirsty land: He hath no form nor comeliness; and we saw Him, and He had no form nor beauty. But His form was dishonored and forsaken among all the sons of men, a Man of sorrows, and acquainted with grief; for His face was turned away, He was dishonored and not esteemed. Surely He hath borne our griefs and carried our sorrows; yet we esteemed Him to be in pain, smitten and afflicted. But He was wounded for our transgressions, and bruised for our iniquities: the chastisement of our peace was upon Him, and with His stripes we are healed. All we like sheep have gone astray; every one hath turned to his own way; and the Lord delivered Him for our sins. And He, because He was afflicted, opens not His mouth: He was led as a sheep to the slaughter, and as a lamb before its shearer is dumb, so He opens not His mouth. In His humiliation His judgment was taken away: and who shall declare His generation? For His life is taken away from the earth; for the transgressions of My people was He led to death. And I will give the wicked for His burial, and the rich for His death; because He did no iniquity, neither was guile found in His mouth. And the Lord is pleased to cleanse Him from His stripe: if ye give an offering for sin, your soul shall see a prolonged seed. And the Lord is pleased to take away the travail of His soul, to show Him light, and to form Him with understanding; to justify the Just One Who serves many well, and He shall bear their sins. Therefore shall He inherit many, and shall divide the spoils of the strong; because His soul was delivered unto death, and He was numbered with the transgressors; and He bare the sins of many, and was delivered for their iniquities. Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not with child: for more are the children of the desolate than of her that hath a husband."
 
 *Epistle to the Hebrews, pericopa 306 (Hebrews 2:11–18):*[^372]
-Brethren: Both He that sanctifies and they who are sanctified are all of one; for which cause He is not ashamed to call them brethren, saying: "I will declare Thy name unto My brethren, in the midst of the church will I sing praise unto Thee." And again: "I will put My trust...
+Brethren: Both He that sanctifies and they who are sanctified are all of one; for which cause He is not ashamed to call them brethren, saying: "I will declare Thy name unto My brethren, in the midst of the church will I sing praise unto Thee." And again: "I will put My trust in Him." And again: "Behold, I and the children whom God hath given Me." Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise took part of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage. For truly He took not on Him the nature of Angels; but He took on Him the seed of Abraham. Therefore in all things it behooved Him to be made like unto His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make reconciliation for the sins of the people. For in that He Himself hath suffered being tempted, He is able to help them that are tempted.
 
-...in Him." And again: "Behold, I and the children whom God hath given Me." Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise took part of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage. For truly He took not on Him the nature of Angels; but He took on Him the seed of Abraham. Therefore in all things it behooved Him to be made like unto His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make reconciliation for the sins of the people. For in that He Himself hath suffered being tempted, He is able to help them that are tempted.
+*Then the Gospel according to Luke, pericopa 111 (Luke 23:32–49):*[^373]
+**"At that time, there were led with Jesus..."** *End:* **"...they looked back, beholding these things."**
 
-*Then the Gospel according to Luke, pericopa 121 (Luke 23:32–49):*[^373]
-At that time, there were also two other malefactors led with Jesus to be put to death. And when they were come to the place which is called Calvary, there they crucified Him, and the malefactors, one on the right hand, and the other on the left. Then said Jesus: "Father, forgive them; for they know not what they do." And they parted His raiment, and cast lots. And the people stood beholding. And the rulers also with them derided Him, saying: "He saved others; let Him save Himself, if He be Christ, the chosen of God!" And the soldiers also mocked Him, coming to Him, and offering Him vinegar, and saying: "If Thou be the King of the Jews, save Thyself!" And a superscription also was written over Him in letters of Greek, and Latin, and Hebrew: THIS IS THE KING OF THE JEWS. And one of the malefactors who were hanged railed on Him, saying: "If Thou be Christ, save Thyself and us!" But the other answering rebuked him, saying: "Dost not thou fear God, seeing thou art in the same condemnation? And we indeed justly; for we receive the due reward of our deeds: but this Man hath done nothing amiss." And he said unto Jesus: "Lord, remember me when Thou comest into Thy Kingdom!" And Jesus said unto him: "Amen I say unto thee, today shalt thou be with Me in Paradise!" And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour. And the sun was darkened, and the veil of the temple was torn in the midst. And when Jesus had cried with a loud voice, He said: "Father, into Thy hands I commend My spirit!" And having said thus, He gave up the spirit. Now when the centurion saw what was done, he glorified God, saying: "Certainly this was a righteous Man!" And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned. And all His acquaintance, and the women that followed Him from Galilee, stood afar off, beholding these things.
+*Then:* **"Let Thy tender mercies speedily go before us, O Lord..."** *And the Trisagion; after* **"Our Father"***, Kontakion:* **"Him Who was crucified for our sake..."** *(See Folio 107).* **"Lord, have mercy"** *(40 times).*
 
-*Then:*
-Let Thy tender mercies speedily prevent us, O Lord, for we are greatly impoverished. Help us, O God our Savior, for the glory of Thy name; O Lord, deliver us, and purge away our sins, for Thy name's sake.
+*Then the Prayer:* **"Thou Who at all times and at every hour..."** **"Lord, have mercy"** *(thrice).* *Glory... Both now...* **"More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**
 
-*Trisagion through Our Father.*
-
-*Kontakion, Tone 8:*
-Come, let us all hymn Him Who was crucified for our sake; for Mary beheld Him upon the Tree and said: "Even though Thou endurest crucifixion, Thou art My Son and My God!" *(see fol. 102)*
-
-*Lord, have mercy (40 times).*
-
-*Then the Prayer of the Hours:* Thou Who at all times and at every hour...
-*Lord, have mercy (thrice). Glory, Both now: More honorable than the Cherubim... In the name of the Lord, bless, Father.*
-
-**Priest:** Through the prayers of our holy Fathers, Lord Jesus Christ our God, have mercy on us.
+> **Priest:** **"Through the prayers of our holy fathers..."**
 
 *Then this Prayer:*[^374]
-O God and Lord of powers, and Maker of all creation, Who through the compassion of Thine incomprehensible mercy didst send down Thine Only-begotten Son, our Lord Jesus Christ, for the salvation of our race, and by His precious Cross didst tear asunder the handwriting of our sins, and didst triumph over the principalities and powers of darkness: do Thou Thyself, O Master, Lover of mankind, accept also from us sinners these thanksgiving and supplicatory prayers; and deliver us from every destructive and dark transgression, and from all visible and invisible enemies that seek to harm us... [Some do not say this prayer today at all three Hours.]
+**"O God and Lord of powers, Maker of all creation, Who through the compassion of Thine ineffable mercy..."** *[Some do not say this prayer today at all three Hours.]*
 
 *And after the Prayer, immediately the Ninth Hour.*
 
-## Great and Holy Friday: Ninth Hour
+## Then the Ninth Hour
 
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
+**"O come, let us worship..."** *(thrice).* *Psalm 58 (LXX).*
 
 *Psalm 58 (LXX):*
 Deliver me from mine enemies, O God, and from them that rise up against me redeem me.
@@ -3523,9 +3366,7 @@ In the wrath of their destruction they shall cease, and shall not be; and they s
 They shall return at evening, and hunger like dogs, and go round about the city.
 They shall be scattered abroad to eat; and if they be not satisfied, they shall murmur.
 But as for me, I will sing of Thy power, and will rejoice in the morning at Thy mercy.
-For Thou hast been my protector...
-
-...and my refuge in the day of my trouble.
+For Thou hast been my protector and my refuge in the day of my trouble.
 Unto Thee will I sing, O my Helper; for Thou, O God, art my defense, my God, my mercy.
 
 *Psalm 139 (LXX):*
@@ -3569,10 +3410,7 @@ Lord, have mercy. *(thrice) Then, Glory to the Father, and to the Son, and to th
 *Troparion, Tone 8:*
 Beholding the Author of life hanging upon the Cross, the Thief said: "If He Who is crucified with us were not God incarnate, the sun would not have hidden its rays, nor would the earth quaking have been shaken! But Thou Who endurest all things: Remember me, O Lord, in Thy Kingdom!"
 
-*Both now and ever, and unto ages of ages. Amen.*
-
-*Theotokion:*
-Thou Who for our sake wast born of a Virgin, and didst endure crucifixion, O Good One, Who by death didst despoil death and didst manifest the Resurrection as God: despise not those whom Thou hast fashioned with Thine own hand; show forth Thy love for mankind, O Merciful One; accept the Theotokos that bare Thee, who intercedes for us; and save, O our Savior, a despairing people!
+*Both now... Theotokion:* **"Thou Who for our sake wast born of a Virgin, and didst endure crucifixion..."**
 
 *Then Stichera Idiomela, Tone 7:*
 A wonder it was to behold the Creator of heaven and earth hanging upon the Cross, the sun darkened, the day turned into night, and the earth giving up the bodies of the dead from their tombs! With them we worship Thee, our Savior! *(twice)*
@@ -3608,20 +3446,16 @@ The same Sticheron.
 *Then the Prokimenon, Psalm 13, Tone 4:* The fool hath said in his heart: There is no God. (Ps. 13:1 [LXX])
 *Verse:* There is none that does good, no, not one. (Ps. 13:1 [LXX])
 
-*Reading from the Prophecy of Jeremiah (Jer. 11:18–23; 12:1–5, 9–11, 14–15):*
-O Lord, make known to me, and I shall know; then saw I their devices... *(see fol. 77)[^375] on Great Thursday at the 4th Hour, ending: "and each into their own land."*
+*Reading from the Prophecy of Jeremiah, and Paremia (Jer. 11:18–23; 12:1–5, 9–11, 14–15):*
+**"O Lord, make known to me, and I shall know; then saw I..."** *(Seek on Great Thursday at the 1st Hour, Folio 77;[^375] End:* **"...and each into their own land."***)*
 
 *Then immediately the Epistle to the Hebrews, pericopa 324 (Hebrews 10:19–31):*
-Brethren...
-
-Brethren, having therefore boldness to enter into the holies by the blood of Jesus, by a new and living way which He has consecrated for us through the veil, that is to say, His flesh; and having a Great Priest over the house of God: let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water. Let us hold fast the confession of our hope without wavering (for He is faithful That promised); and let us consider one another to provoke unto love and good works: not forsaking our own assembly, as the manner of some is; but exhorting one another, and so much the more as ye see the [Day of Judgment] approaching. For if we sin willfully after having received the knowledge of the truth, there remains no more sacrifice for sins, but a certain fearful expectation of judgment, and fiery indignation which shall devour the adversaries. Anyone who rejected Moses' law died without mercy upon the testimony of two or three witnesses: of how much worse punishment, think ye, shall he be deemed worthy, who has trampled underfoot the Son of God, and has counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and has insulted the Spirit of grace? For we know Him Who said: Vengeance is Mine, I will repay, says the Lord. And again: The Lord shall judge His people. It is a fearful thing to fall into the hands of the living God.
+Brethren having therefore boldness to enter into the holies by the blood of Jesus, by a new and living way which He has consecrated for us through the veil, that is to say, His flesh; and having a Great Priest over the house of God: let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water. Let us hold fast the confession of our hope without wavering (for He is faithful That promised); and let us consider one another to provoke unto love and good works: not forsaking our own assembly, as the manner of some is; but exhorting one another, and so much the more as ye see the [Day of Judgment] approaching. For if we sin willfully after having received the knowledge of the truth, there remains no more sacrifice for sins, but a certain fearful expectation of judgment, and fiery indignation which shall devour the adversaries. Anyone who rejected Moses' law died without mercy upon the testimony of two or three witnesses: of how much worse punishment, think ye, shall he be deemed worthy, who has trampled underfoot the Son of God, and has counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and has insulted the Spirit of grace? For we know Him Who said: Vengeance is Mine, I will repay, says the Lord. And again: The Lord shall judge His people. It is a fearful thing to fall into the hands of the living God.
 
 *Then, the Gospel from John, pericopa 59 [John 18:28–19:37]:*  
 *At that time, they led Jesus from Caiaphas into the Praetorium... Ending: They shall look on Him Whom they pierced.*
 
-*Then: Cast us not off unto the end... Trisagion. After Our Father: Kontakion: He Who for our sake was crucified... (see fol. 102).[^376] Then, Lord, have mercy (40 times). Prayer: At all times... Lord, have mercy (thrice). Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. More honorable than the Cherubim... In the Name of the Lord, bless, father. Priest: Through the prayers of our holy fathers...*
-
-*At the Ninth Hour.*
+*Then: Cast us not off unto the end... Trisagion. After Our Father: Kontakion: He Who for our sake was crucified... (see fol. 107).[^376] Then, Lord, have mercy (40 times). Prayer: At all times... Lord, have mercy (thrice). Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. More honorable than the Cherubim... In the Name of the Lord, bless, father. Priest: Through the prayers of our holy fathers...*
 
 *Then, this Prayer:*  
 *O Master, Lord Jesus Christ our God, Who art long-suffering... Ending: now and ever, and unto ages of ages. Amen.*
@@ -3629,7 +3463,7 @@ Brethren, having therefore boldness to enter into the holies by the blood of Jes
 *Then immediately the Beatitudes: In Thy Kingdom remember us, O Lord, when Thou comest: We sing the sixth verse.*  
 *The Heavenly Choir... Glory to the Father, and to the Son, and to the Holy Spirit: The assembly of holy Angels... Both now and ever, and unto ages of ages. Amen: I believe in one God... Forgive, remit... We sing: Our Father... Kontakion: He Who for our sake was crucified... Lord, have mercy (40 times). And the Prayer: O All-Holy Trinity, consubstantial Dominion unconstrained... Then: Blessed be the Name of the Lord (thrice). Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Psalm 33: I will bless the Lord at all times... Then: It is truly meet... More honorable than the Cherubim... Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Lord, have mercy (twice). Lord, bless. And the Dismissal.*
 
-*It should also be known that we have received tradition not to celebrate the Presanctified, nor again the full Liturgy, on this holy day of Great Friday. Therefore, we do not even set a refectory table, nor do we eat on this day of the Crucifixion. But if anyone is exceedingly infirm or very aged, and unable to remain fasting, let bread and water be given him after the setting of the sun. For thus have we received from the holy injunctions of the holy Apostles,[^377] not to eat on Great Friday. For the Lord's word also, which He spoke to the Pharisees:*
+*It should also be known that we have received tradition in Palestine not to celebrate the Presanctified, nor again the full Liturgy, on this holy day of Great Friday. Therefore, we do not even set a refectory table, nor do we eat on this day of the Crucifixion. But if anyone is exceedingly infirm or very aged, and unable to remain fasting, let bread and water be given him after the setting of the sun. For thus have we received from the holy injunctions of the holy Apostles,[^377] not to eat on Great Friday. For the Lord's word also, which He spoke to the Pharisees:*
 
 *to the Pharisees: That when the Bridegroom shall be taken away from them, then shall they fast in those days. Which the most blessed Apostles also observed, as thou shalt find in the Apostolic Traditions, that is, in the Canons, by examining these things attentively.*
 
@@ -4195,7 +4029,7 @@ Standing by the tomb, the Angel cried aloud unto the Myrrh-bearing women: "Myrrh
 
 *And again the First Refrain, both choirs together.*  
 *Little Litany, and the Exclamation of the First Stasis:*  
-**Priest:** For blessed is Thy Name, and glorified is Thy kingdom, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.
+> **Priest:** "For blessed is Thy Name, and glorified is Thy kingdom, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen."
 
 *And having censed, he begins the Second Stasis.*
 
@@ -4396,7 +4230,7 @@ Right worthy it is to magnify Thee, O Christ the Giver of life, Who hast shatter
 
 *And again the first Troparion, both choirs together.*  
 *Then the Little Litany. Exclamation:*  
-**Priest:** For holy art Thou, Who restest upon the Cherubic Throne of glory, and unto Thee do we send up glory, with Thine Unoriginate Father, and with Thine All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages. Amen.
+> **Priest:** "For holy art Thou, Who restest upon the Cherubic Throne of glory, and unto Thee do we send up glory, with Thine Unoriginate Father, and with Thine All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages. Amen."
 
 *Third Stasis*[^417]
 
@@ -4564,7 +4398,7 @@ Every generation, O compassionate Lord, offers a hymn unto Thy burial.
 Alleluia, alleluia, alleluia: glory to Thee, O God! *(thrice)*
 
 *Then the Little Litany. Exclamation:*  
-**Priest:** For Thou art the King of peace, O Christ our God, and unto Thee do we send up glory, with Thine Unoriginate Father, and with Thine All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages. Amen.
+> **Priest:** "For Thou art the King of peace, O Christ our God, and unto Thee do we send up glory, with Thine Unoriginate Father, and with Thine All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages. Amen."
 
 *Sessional Hymn, Tone 1. Podoben: "The soldiers guarding" (Гро́бъ тво́й сп҃се):*[^422]  
 Having asked Pilate for the Body, Joseph wraps It in a clean Plashchanytsia, anoints It with sweet spices, and lays It in a new tomb. Therefore, early in the morning, the Myrrh-bearing women cried aloud: "Show unto us, as Thou hast foretold, O Christ, the Resurrection!"  
@@ -4735,9 +4569,9 @@ Let God arise, and let His enemies be scattered.
 *And we gather into the church. And the Priest and Deacon having vested in bright vestments:*  
 *[According to other Typika, in crimson vestments.]*  
 *And the Deacon says: "Bless, Master!" And the Priest:*  
-**Priest:** Blessed is the Kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.  
+> **Priest:** "Blessed is the Kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
 *And the appointed Reader having said: "Amen," immediately reads:*  
-**Reader:** Come, let us worship, *(thrice).*  
+> **Reader:** "Come, let us worship, *(thrice).*"
 *Psalm 103: "Bless the Lord, O my soul." Alleluia, (thrice).*  
 *After this, the Great Litany.*  
 *At "Lord, I have cried," we sing in Tone 1. And the Priest and Deacon, having departed, perform the Proskomedia.*  
@@ -4764,7 +4598,7 @@ Let us hymn the Virgin Mary, the glory of the whole world, who sprang forth from
 *Then the Entrance with the Holy Gospel Book.*  
 *O Gentle Light.*  
 *The Prokeimenon is not sung; but immediately the Priest or Deacon says:*  
-**Deacon:** Wisdom!  
+> **Deacon:** "Wisdom!"
 *And the Reader begins the Readings, which are fifteen in order.*[^447]
 
 *The First Reading (Genesis 1:1–13):*[^448]  
@@ -4808,55 +4642,55 @@ And the Lord spoke unto Moses, saying: "Speak unto the children of Israel, that 
 and they were sore afraid; and the children of Israel cried out unto the Lord. And they said unto Moses: "Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? Why hast thou dealt thus with us, to carry us forth out of Egypt? Is not this the word that we spoke unto thee, saying: Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in this wilderness." And Moses said unto the people: "Fear ye not, stand still, and see the salvation of the Lord, which He will show to you today: for the Egyptians whom ye have seen today, ye shall see them again no more unto eternity. The Lord shall fight for you, and ye shall hold your peace." And the Lord said unto Moses: "Why criest thou unto Me? Speak unto the children of Israel, that they go forward. But lift thou up thy rod, and stretch out thine hand over the sea, and divide it; and let the children of Israel go on dry ground through the midst of the sea. And I, behold, I will harden the hearts of Pharaoh and of his servants, and of all the Egyptians, and they shall enter in after them; and I will get Me honor upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen. And all the Egyptians shall know that I am the Lord, when I have gotten Me honor upon Pharaoh, upon his chariots, and upon his horsemen." And the Angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them. And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness, yet the night passed, so that the one came not near the other all the night. And Moses stretched out his hand over the sea; and the Lord caused the sea to go back by a strong south wind all that night, and made the sea dry land, and the waters were divided. And the children of Israel went into the midst of the sea upon the dry ground; and the waters were a wall unto them on their right hand, and on their left. And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh's horses, his chariots, and his horsemen. And it came to pass, that in the morning watch the Lord looked unto the host of the Egyptians through the pillar of fire and of the cloud, and troubled the host of the Egyptians. And He bound their chariot wheels, and drove them heavily; so that the Egyptians said: "Let us flee from the face of Israel; for the Lord fights for them against the Egyptians." And the Lord said unto Moses: "Stretch out thine hand over the sea, that the water may come again and be gathered together upon the Egyptians, upon their chariots, and upon their horsemen." And Moses stretched forth his hand over the sea, and at daybreak the water returned to its accustomed place; and the Egyptians fled beneath the water; and the Lord overthrew the Egyptians in the midst of the sea. And the waters returned, and covered the chariots, and the horsemen, and all the host of Pharaoh that came into the sea after them; there remained not so much as one of them. But the children of Israel walked upon dry land in the midst of the sea; and the waters were a wall unto them on their right hand, and on their left. Thus the Lord saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead upon the sea shore. And Israel saw that great hand which the Lord showed upon the Egyptians; and all the people feared the Lord, and believed God, and His servant Moses.
 
 *Then sang Moses and the children of Israel this Song unto the Lord, and they spoke, saying:*  
-**Reader:** Let us sing unto the Lord, in Tone 5: For He is gloriously glorified!  
+> **Reader:** "Let us sing unto the Lord, in Tone 5: For He is gloriously glorified!"
 *And the Reader gives the verses alternately to each choir:*[^454]  
-**Reader:** The horse and his rider has He thrown into the sea.  
+> **Reader:** "The horse and his rider has He thrown into the sea."
 Let us sing unto the Lord!  
 *And the people of both choirs sing:*  
-**Choir:** For He is gloriously glorified!  
-**Reader:** The Lord is my strength and protector, and is become my salvation:  
+> **Choir:** "For He is gloriously glorified!"
+> **Reader:** "The Lord is my strength and protector, and is become my salvation:"
 Let us sing unto the Lord!  
-**Reader:** He is my God, and I will glorify Him; my father's God, and I will exalt Him:  
+> **Reader:** "He is my God, and I will glorify Him; my father's God, and I will exalt Him:"
 Let us sing unto the Lord!  
-**Reader:** The Lord shatters warfare, the Lord is His name; Pharaoh's chariots and his host has He cast into the sea:  
+> **Reader:** "The Lord shatters warfare, the Lord is His name; Pharaoh's chariots and his host has He cast into the sea:"
 Let us sing unto the Lord!  
-**Reader:** His chosen captains has He drowned in the Red Sea:  
+> **Reader:** "His chosen captains has He drowned in the Red Sea:"
 Let us sing unto the Lord!  
-**Reader:** The depths have covered them; they sank into the bottom as a stone:  
+> **Reader:** "The depths have covered them; they sank into the bottom as a stone:"
 Let us sing unto the Lord!  
-**Reader:** Thy right hand, O Lord, is become glorious in power:  
+> **Reader:** "Thy right hand, O Lord, is become glorious in power:"
 Let us sing unto the Lord!  
-**Reader:** Thy right hand, O Lord, has dashed in pieces the enemy; and in the greatness of Thy glory Thou hast overthrown them that rose up against Thee:  
+> **Reader:** "Thy right hand, O Lord, has dashed in pieces the enemy; and in the greatness of Thy glory Thou hast overthrown them that rose up against Thee:"
 Let us sing unto the Lord!  
-**Reader:** Thou sentest forth Thy wrath, which consumed them as stubble; and with the breath of Thy nostrils the water was divided:  
+> **Reader:** "Thou sentest forth Thy wrath, which consumed them as stubble; and with the breath of Thy nostrils the water was divided:"
 Let us sing unto the Lord!  
-**Reader:** The waters stood upright as a wall, and the depths were congealed in the heart of the sea:  
+> **Reader:** "The waters stood upright as a wall, and the depths were congealed in the heart of the sea:"
 Let us sing unto the Lord!  
-**Reader:** The enemy said: I will pursue, I will overtake, I will divide the spoil; my soul shall be satisfied; I will draw my sword, my hand shall destroy them:  
+> **Reader:** "The enemy said: I will pursue, I will overtake, I will divide the spoil; my soul shall be satisfied; I will draw my sword, my hand shall destroy them:"
 Let us sing unto the Lord!  
-**Reader:** Thou didst blow with Thy wind, the sea covered them; they sank as lead in the mighty waters:  
+> **Reader:** "Thou didst blow with Thy wind, the sea covered them; they sank as lead in the mighty waters:"
 Let us sing unto the Lord!  
-**Reader:** Who is like unto Thee, O Lord, among the gods? Who is like Thee, glorious in holiness, marvelous in praises, doing wonders?  
+> **Reader:** "Who is like unto Thee, O Lord, among the gods? Who is like Thee, glorious in holiness, marvelous in praises, doing wonders?"
 Let us sing unto the Lord!  
-**Reader:** Thou stretchedst out Thy right hand, the earth swallowed them; Thou in Thy righteousness hast guided forth this Thy people which Thou hast redeemed:  
+> **Reader:** "Thou stretchedst out Thy right hand, the earth swallowed them; Thou in Thy righteousness hast guided forth this Thy people which Thou hast redeemed:"
 Let us sing unto the Lord!  
-**Reader:** Thou hast summoned them by Thy strength unto Thy holy habitation; the nations heard, and were angry: pangs have taken hold on the inhabitants of Philistia:  
+> **Reader:** "Thou hast summoned them by Thy strength unto Thy holy habitation; the nations heard, and were angry: pangs have taken hold on the inhabitants of Philistia:"
 Let us sing unto the Lord!  
-**Reader:** Then the dukes of Edom were amazed; the mighty men of Moab, trembling took hold upon them; all the inhabitants of Canaan melted away:  
+> **Reader:** "Then the dukes of Edom were amazed; the mighty men of Moab, trembling took hold upon them; all the inhabitants of Canaan melted away:"
 Let us sing unto the Lord!  
-**Reader:** Fear and dread shall fall upon them; by the greatness of Thine arm let them become as still as a stone:  
+> **Reader:** "Fear and dread shall fall upon them; by the greatness of Thine arm let them become as still as a stone:"
 Let us sing unto the Lord!  
-**Reader:** Till Thy people pass over, O Lord, till this Thy people pass over, which Thou hast purchased:  
+> **Reader:** "Till Thy people pass over, O Lord, till this Thy people pass over, which Thou hast purchased:"
 Let us sing unto the Lord!  
-**Reader:** Bring them in, and plant them in the mountain of Thine inheritance, in the ready habitation which Thou hast made, O Lord; in the Sanctuary, O Lord, which Thy hands have established:  
+> **Reader:** "Bring them in, and plant them in the mountain of Thine inheritance, in the ready habitation which Thou hast made, O Lord; in the Sanctuary, O Lord, which Thy hands have established:"
 Let us sing unto the Lord!  
-**Reader:** The Lord reigns unto ages, and unto ages, and yet more! For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the Lord brought again the waters of the sea upon them:  
+> **Reader:** "The Lord reigns unto ages, and unto ages, and yet more! For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the Lord brought again the waters of the sea upon them:"
 Let us sing unto the Lord!  
-**Reader:** But the children of Israel went on dry land in the midst of the sea:  
+> **Reader:** "But the children of Israel went on dry land in the midst of the sea:"
 Glory: Let us sing unto the Lord!  
 Both now: Let us sing unto the Lord!  
 *And finally the Reader sings the same:*  
-**Reader:** For He is gloriously glorified!
+> **Reader:** "For He is gloriously glorified!"
 
 *The Seventh Reading (Zephaniah 3:8–15):*[^455]  
 *The Prophecy of Zephaniah (Chapter 3):*  
@@ -4909,49 +4743,49 @@ Blessed art Thou that beholdest the depths, and sittest upon the Cherubim: to be
 Blessed art Thou on the glorious throne of Thy kingdom: to be praised and exalted above all unto ages.  
 Blessed art Thou in the firmament of heaven: to be praised and exalted above all unto ages.
 *Then the Reader says:*[^466]  
-**Reader:** Bless the Lord, all ye works of the Lord; sing:  
+> **Reader:** "Bless the Lord, all ye works of the Lord; sing:"
 *(As indicated above, we sing in Tone 5):*  
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye Angels of the Lord, and ye heavens of the Lord, bless ye the Lord; sing:  
+> **Reader:** "O ye Angels of the Lord, and ye heavens of the Lord, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O all ye waters that be above the heaven, and all ye powers of the Lord, bless ye the Lord; sing:  
+> **Reader:** "O all ye waters that be above the heaven, and all ye powers of the Lord, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye sun and moon, and ye stars of heaven, bless ye the Lord; sing:  
+> **Reader:** "O ye sun and moon, and ye stars of heaven, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O every shower and dew, and all ye spirits, bless ye the Lord; sing:  
+> **Reader:** "O every shower and dew, and all ye spirits, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye fire and heat, winter cold and summer heat, bless ye the Lord; sing:  
+> **Reader:** "O ye fire and heat, winter cold and summer heat, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye dews and hoarfrosts, ice and cold, bless ye the Lord; sing:  
+> **Reader:** "O ye dews and hoarfrosts, ice and cold, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye rime and snow, nights and days, bless ye the Lord; sing:  
+> **Reader:** "O ye rime and snow, nights and days, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye light and darkness, lightning and clouds, bless ye the Lord; sing:  
+> **Reader:** "O ye light and darkness, lightning and clouds, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O let the earth, the mountains and the hills, and all things that grow on the earth, bless the Lord; sing:  
+> **Reader:** "O let the earth, the mountains and the hills, and all things that grow on the earth, bless the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye fountains, seas and rivers, sea monsters and all that move in the waters, bless ye the Lord; sing:  
+> **Reader:** "O ye fountains, seas and rivers, sea monsters and all that move in the waters, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O all ye fowls of the air, beasts and all cattle, bless ye the Lord; sing:  
+> **Reader:** "O all ye fowls of the air, beasts and all cattle, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye children of men, let Israel bless the Lord; sing:  
+> **Reader:** "O ye children of men, let Israel bless the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye priests of the Lord, and ye servants of the Lord, bless ye the Lord; sing:  
+> **Reader:** "O ye priests of the Lord, and ye servants of the Lord, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye spirits and souls of the righteous, ye holy and humble men of heart, bless ye the Lord; sing:  
+> **Reader:** "O ye spirits and souls of the righteous, ye holy and humble men of heart, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O Ananias, Azarias, and Misael, bless ye the Lord; sing:  
+> **Reader:** "O Ananias, Azarias, and Misael, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** O ye Apostles, Prophets, and Martyrs of the Lord, bless ye the Lord; sing:  
+> **Reader:** "O ye Apostles, Prophets, and Martyrs of the Lord, bless ye the Lord; sing:"
 Praise Him, and highly exalt Him unto ages!  
-**Reader:** Let us bless the Father, and the Son, and the Holy Spirit, the Lord; let us sing:  
+> **Reader:** "Let us bless the Father, and the Son, and the Holy Spirit, the Lord; let us sing:"
 And let us highly exalt Him unto ages!  
-**Reader:** Both now and ever, and unto ages of ages. Amen. Sing unto the Lord:  
+> **Reader:** "Both now and ever, and unto ages of ages. Amen. Sing unto the Lord:"
 And highly exalt Him unto ages!  
-**Reader:** We praise, we bless, and we worship the Lord, singing:  
+> **Reader:** "We praise, we bless, and we worship the Lord, singing:"
 And highly exalting Him unto ages!  
 *Then the Little Litany. The Priest's ecphonesis:*  
-**Priest:** For holy art Thou, O Christ our God...  
+> **Priest:** "For holy art Thou, O Christ our God..."
 *And in place of the Trisagion:*[^467]  
 As many as have been baptized into Christ have put on Christ. Alleluia!  
 *The Prokeimenon in Tone 8:*  
@@ -4959,19 +4793,19 @@ Let all the earth worship Thee, and sing unto Thee!
 *Verse:* Shout with joy unto the Lord, all the earth; sing praises unto His name!  
 *The Epistle to the Romans (pericope 91):*[^468]  
 Brethren, as many of us as were baptized into Jesus Christ: *ending with:* in Christ Jesus our Lord.  
-**Priest:** Peace be unto thee.  
+> **Priest:** "Peace be unto thee."
 *Then the Deacon:*  
-**Deacon:** Let us attend! Wisdom, let us attend!  
+> **Deacon:** "Let us attend! Wisdom, let us attend!"
 *And immediately the Reader, in place of the Alleluia, says:*[^469]  
-**Reader:** Arise, O God, judge the earth!  
+> **Reader:** "Arise, O God, judge the earth!"
 *The Clergy sing the same in Tone 7:*  
-**Choir:** Arise, O God, judge the earth: for Thou shalt inherit all nations!  
+> **Choir:** "Arise, O God, judge the earth: for Thou shalt inherit all nations!"
 *And the Reader chants these verses:*  
-**Reader:** God stands in the congregation of gods; He judges among the gods.  
+> **Reader:** "God stands in the congregation of gods; He judges among the gods."
 *Verse 2:* How long will ye judge unjustly, and accept the persons of the wicked?  
 *Verse 3:* They know not, neither will they understand; they walk on in darkness.  
 *And again the Reader:*  
-**Reader:** Arise, O God, judge the earth!  
+> **Reader:** "Arise, O God, judge the earth!"
 *And the people sing the same.*
 
 *And the Priest strips off the purple phelonion and vests in white; and reads the Holy Gospel from Matthew (pericope 115): In the end of the Sabbath:*[^470]  
@@ -4981,7 +4815,7 @@ Let all mortal flesh keep silence, and with fear and trembling stand, and ponder
 *Communion Verse:* The Lord awoke as from sleep, and is risen, saving us: Alleluia, *(thrice).*  
 *And the Antidoron is given by the Priest, and the Dismissal.*  
 *Then, upon the analogion prepared beforehand with bread and wine, the customary blessing of these gifts takes place. The Priest comes forward, censes them, and says the customary prayer of blessing:*[^472]  
-**Priest:** O Lord Jesus Christ our God, Who didst bless the five loaves...  
+> **Priest:** "O Lord Jesus Christ our God, Who didst bless the five loaves..."
 *And having said Amen, we sit down each in his own place, in all silence and reverence. Nor do we go out of the church; but immediately the Cellarer enters and distributes the blessed loaves unto the brethren. But see concerning this below.*  
 *Note: But if, on account of some extreme necessity, the Divine Liturgy is not celebrated, we sing everything in the same manner as written above. The Entrance with the Lamp. O Gentle Light:*[^473]  
 *The Prokeimenon: The Lord reigns... And the Readings of the day from the Triodion according to their order. After these, the Litany: Let us all say... Then: Vouchsafe, O Lord... After this: Let us complete our evening prayer unto the Lord.*  
@@ -5098,7 +4932,7 @@ When the pure one cried out: "Would that I might hear the sweetest speech of Thy
 
 *After the dismissal of Compline, if there be one, or as said above on folio 165:*  
 *There is the Reading in the Acts of the Holy Apostles, from the beginning.[^478] The Reader says the beginning, and the Priest the verse:*  
-**Priest:** Through the prayers of the Holy Apostles, O Lord Jesus Christ our God, have mercy on us.  
+> **Priest:** "Through the prayers of the Holy Apostles, O Lord Jesus Christ our God, have mercy on us."
 *And the Reader begins to read.*  
 *All the brethren listening with diligence, let it not be permitted for anyone to give himself unto sleep, fearing the defilement of the adversary the tempter. For at such times and in such places the enemy strives to defile careless and slumberous monks. And the Readers relieve one another. With such vigilance, as in all church offices, the head of the church must take heed. And they read until the fourth hour of the night, or as far as they reach. And all the Acts are read to the end.*  
 *After this, the Paraecclesiarch lights all the lamps in their places.[^479] And having taken a blessing from the Superior, he goes out and strikes the wooden clapper. The Reader concludes the reading. And immediately, the Priest having given the blessing, we say the Trisagion; and after the Our Father: Lord, have mercy, 12 times. Glory, and now: Come, let us worship, thrice. Then Psalm 50. And the Canon of Great Saturday Matins, Tone 6: "He Who with a wave of the sea..." The Heirmos twice, and the Troparia to 12. And after Ode 9, the Heirmos, both choirs together. After Ode 3, the Sessional Hymn: The soldiers guarding Thy tomb, O Savior... Glory, and now, the same.*  
@@ -5178,7 +5012,7 @@ Thy Resurrection, O Christ Savior, the Angels sing in the heavens; and make us w
 [^58]: Cypriot and Athonite sacred traditions concerning the second life of Saint Lazarus: having beheld the terrors of Hades during his four days of death, he remained profoundly grave, never laughing or smiling throughout the remainder of his life (save once when observing someone steal a clay vessel, remarking: 'Earth steals earth'); he partook only of sweets to alleviate the lingering bitterness of the tomb; and during her visit to Cyprus, the Most Holy Theotokos personally presented him with an episcopal omophorion and epigonation woven by her own hands.
 [^59]: The translation of the holy relics of Saint Lazarus from Kition in Cyprus to Constantinople took place in the year 890 under Byzantine Emperor Leo VI the Wise (886–912), who built a splendid basilica dedicated to the saint in the imperial capital and composed festive stichera for his feast.
 [^60]: The patristic rationale (synthesized by Nikephoros Kallistos) explaining why the Synoptic Evangelists (Matthew, Mark, and Luke) did not record the raising of Lazarus: when their Gospels were compiled and circulated, Lazarus was still alive in Cyprus, and publishing the miracle would have endangered his life by renewing the persecuting fury of the Jewish authorities; whereas Saint John wrote late in the first century, long after Lazarus had reposed in the Lord.
-[^61]: An ancient Byzantine and Ruthenian linguistic and rubrical custom: burial winding-sheets and shrouds were known as *lazaroma* (Greek: λάζαρωма; Slavonic: ла́зарома), and any departed Christian was mystically designated a 'Lazarus', resting in anticipation of hearing the voice of Christ and the final trumpet at the general resurrection (1 Corinthians 15:52; 1 Thessalonians 4:16).
+[^61]: An ancient Byzantine and Ruthenian linguistic and rubrical custom: burial winding-sheets and shrouds were known as *lazaroma* (Greek: λάζαρωμα; Slavonic: ла́зарома), and any departed Christian was mystically designated a 'Lazarus', resting in anticipation of hearing the voice of Christ and the final trumpet at the general resurrection (1 Corinthians 15:52; 1 Thessalonians 4:16).
 [^62]: Daniel 3:26–27 (LXX): The prayer and thanksgiving of Azarias and the Hebrew children in the furnace of Babylon.
 [^63]: Second Canon Ode 7 Heirmos: *Tone 8, Heirmos: "The Youths that came from Judea" (Ѿ І҆оуде́а доше́дшїи)*, another classic heirmos composed by Saint John Damascene.
 [^64]: Daniel 3:5–7, 18 (LXX): The refusal of the Three Youths to bow down before Nebuchadnezzar's golden image on the plain of Dura, despite the sound of the sackbut, psaltery, symphony, and all musical instruments.
@@ -5340,7 +5174,7 @@ Thy Resurrection, O Christ Savior, the Angels sing in the heavens; and make us w
 [^220]: Ode 8 of Saint Cosmas's Canon, taking its biblical theme from the canticle of the Three Holy Children in the Babylonian furnace (Daniel 3:57–88 LXX). The troparia cast off spiritual sloth, call the faithful to meet Christ with glowing lamps, urge the soul to fill the vessels of the heart with the communicative oil of loving-kindness, and exhort everyone to multiply the divine talent of grace through the power of Christ.
 [^221]: Ode 9 of Saint Cosmas's Canon, meditating upon the Mother of God who contained within her womb the uncontainable God, bringing divine joy into the world. The troparia echo Christ's solemn injunction in the Olivet Discourse: "Watch, therefore, for ye know not what hour your Lord doth come" (Matthew 24:42), petitioning the Master to number the soul among the sheep at His right hand at the Dread Judgment.
 [^222]: The solemn Exapostilarion (Exaposteilarion) of Holy Week (*"Thy bridal chamber do I see adorned, O my Savior"*) chanted three times, followed by the Stichera Idiomela at the Praises (Lauds) in Tone 1 and Tone 2. The first sticheron (*"Into the splendors of Thy saints, how shall I enter being unworthy?"*) meditates upon the lack of a wedding garment (Matthew 22:11–14), while the second sticheron in Tone 2 repents of spiritual drowsiness and begs the Lord to dispel darkened slumber and unite the soul with the wise virgins.
-[^223]: The Aposticha of Great Tuesday Matins, opening with the renowned Idiomelon in Tone 6: *"Come, ye faithful, let us labor eagerly for the Master; for He distributs riches unto His servants..."* The hymn translates the Parable of the Talents into concrete spiritual actions: one brings forth wisdom through good works, another accomplishes a radiant liturgical service, a third imparts orthodox doctrine to the untaught, and another distributes earthly wealth to the poor, that all may enter into the joy of the Lord.
+[^223]: The Aposticha of Great Tuesday Matins, opening with the renowned Idiomelon in Tone 6: *"Come, ye faithful, let us labor eagerly for the Master; for He distributes riches unto His servants..."* The hymn translates the Parable of the Talents into concrete spiritual actions: one brings forth wisdom through good works, another accomplishes a radiant liturgical service, a third imparts orthodox doctrine to the untaught, and another distributes earthly wealth to the poor, that all may enter into the joy of the Lord.
 [^224]: The Sixth Hour of Great and Holy Tuesday. The Troparion of Prophecy in Tone 4 (*"Unto those who sin without measure, abundantly grant forgiveness, O Savior"*) implores Christ to grant uncondemned veneration of His Holy Resurrection through the prayers of the Theotokos. The Prokeimenon is taken from Psalm 129:7 LXX (*"For with the Lord there is mercy, and with Him is plenteous redemption"*).
 [^225]: Ezekiel 1:21–28 LXX: The prophetic reading at the Sixth Hour of Great Tuesday. This vision of Ezekiel concludes the sublime description of the Merkabah: the four-faced cherubic Living Creatures moving in unison with the wheels full of eyes, the crystalline firmament stretched above their wings, the sound of their wings like the roar of great waters or the voice of the Almighty (El Shaddai), the sapphire throne set above the firmament, and the appearance of the likeness of the Glory of the Lord encircled by the radiant bow of the clouds.
 [^226]: The Liturgy of the Presanctified Gifts of Great and Holy Tuesday evening. The Stichera at "Lord, I have cried" repeat the profound hymnographic meditations of Matins: the unworthiness of the soul entering the bridal chamber (*"Into the splendors of Thy saints"*), the repentance of the foolish virgins (*"Slumbering in spiritual sloth"*), the hiding of the talent (*"Hearing the condemnation of him that hid the talent"*), and the soul's plea to the Good Shepherd not to be separated among the goats at the Day of Judgment.
@@ -5392,7 +5226,7 @@ Thy Resurrection, O Christ Savior, the Angels sing in the heavens; and make us w
 [^272]: Liturgical rubric on the cessation of the Midnight Office (*Polunochnitsa*) in church from Great Thursday until Saint Thomas Sunday, appointing it to be recited privately in cells (*v Keliiakh*).
 [^273]: Decorative woodcut headpiece depicting the Mystical Supper, and the solemn opening of Great and Holy Thursday Matins: the striking of the semantron (*Klepalo*) at the 7th hour of the night (approx. 1:00 AM).
 [^274]: The celebrated Troparion of Great and Holy Thursday (*Tone 8*): "When the glorious disciples were illumined at the washing of the feet at supper, then Judas the ungodly, diseased with the love of money, was darkened..." chanted thrice.
-[^275]: The Full Canon of Great and Holy Thursday by Saint Cosmas of Maiuma (*Tone 6*), bearing the Greek alphabetic acrostic *ΤΗΙ ΜΑΚΡΑΙ ΠΕΜΠΤΗΙ ΜΑΚРОН ΥΜΝΟΝ ΕΞΑΔΩ* ("On the Long Thursday I chant a long hymn"), rendered in Slavonic as *Въ До́лгїи Четверто́къ до́лгꙋю пѣ́снь воспою̀*.
+[^275]: The Full Canon of Great and Holy Thursday by Saint Cosmas of Maiuma (*Tone 6*), bearing the Greek alphabetic acrostic *ΤΗΙ ΜΑΚΡΑΙ ΠΕΜΠΤΗΙ ΜΑΚΡΟΝ ΥΜΝΟΝ ΕΞΑΔΩ* ("On the Long Thursday I chant a long hymn"), rendered in Slavonic as *Въ До́лгїи Четверто́къ до́лгꙋю пѣ́снь воспою̀*.
 [^276]: Ode 1 Heirmos: Exodus 14, the dividing of the Red Sea by Moses's rod, making a dry path for the unarmed Israelites and a watery grave for the fully-armed Egyptians.
 [^277]: Sessional Hymns after Ode 3: Tone 1 (*Podoben: "The Soldiers standing guard at Thy Tomb" [Grob tvoi]*), Tone 3 (*Podoben: "Of the Divine Faith" [Bozhii vêrê]*), and Tone 4 (*Podoben: "Thou hast appeared today" [Iavylsia nynê]*), meditating on Christ girding Himself with a towel and washing the disciples' feet, Peter's initial refusal and subsequent obedience.
 [^278]: Ode 4 Heirmos: Habakkuk 3:2-3, the Prophet foreseeing the ineffable mystery of Christ's love and the Father sending His only-begotten Son as a propitiation into the world.
@@ -5490,10 +5324,10 @@ Thy Resurrection, O Christ Savior, the Angels sing in the heavens; and make us w
 [^370]: Sticheron Idiomelon Tone 8 of the Sixth Hour, where the choir of the Apostles confronts the Jewish elders and Pharisees, professing the resurrected Lamb as the true Temple and the Savior of the wilderness.
 [^371]: Isaiah 52:13–54:1. The Fourth Servant Song of Isaiah (the Suffering Servant), the preeminent Old Testament prophecy of the Passion, vicarious atonement, and resurrection of Christ, concluding with the rejoicing of the desolate Gentile Church.
 [^372]: Hebrews 2:11–18 (pericopa 306). The Epistle of the Sixth Hour, expounding how the Son of God took part in flesh and blood that through death He might destroy the devil who held the power of death, and liberate those bound by fear of death.
-[^373]: Luke 23:32–49 (pericopa 121). The Sixth Hour Passion Gospel, highlighting Christ's prayer for His executioners, the repentance of the Good Thief, the darkness over the earth, and Christ commending His spirit into the Father's hands.
+[^373]: Luke 23:32–49 (pericopa 111). The Sixth Hour Passion Gospel, highlighting Christ's prayer for His executioners, the repentance of the Good Thief, the darkness over the earth, and Christ commending His spirit into the Father's hands.
 [^374]: Prayer of Saint Basil the Great ("Боже и Господи сил..."), the solemn concluding prayer of the Sixth Hour in the Ruthenian Triodion and Horologion, glorifying Christ for breaking the handwriting of our sins by His precious Cross. A rubric notes that some local traditions omit this prayer on Great Friday when the Hours are celebrated continuously.
 [^375]: The text directs the reader to the Prophecy of Jeremiah on Great Thursday (fol. 77 / physical leaf p84), which contains the composite reading Jeremiah 11:18–23; 12:1–5, 9–11, 14–15 ("O Lord, make known to me, and I shall know... ending: and each into their own land").
-[^376]: The Kontakion of Great Friday ("На́съ дѣ́ля распя́таго, прїиди́те всѝ воспои́мъ...") is printed in full at the Third Hour on fol. 102 (physical leaf p109). The text here directs the reader back to fol. 102 for its complete text.
+[^376]: The Kontakion of Great Friday ("На́съ дѣ́ля распя́таго, прїиди́те всѝ воспои́мъ...") is printed in full at the First Hour on fol. 107 (physical leaf p110). The text here directs the reader back to fol. 107 for its complete text.
 [^377]: Apostolic Canon 69: "If any bishop, or presbyter, or deacon, or subdeacon, or reader, or singer, does not fast the holy Forty Days of the Pascha, or the Wednesday, or the Friday, let him be deposed, unless he be hindered by bodily weakness; but if he be a layman, let him be suspended." The early Christian Didascalia and Apostolic Constitutions (Book V, ch. 18) mandate total abstinence on Great Friday and Holy Saturday until the cock-crow of Pascha.
 [^378]: The Studite Typikon prescribes xerophagy (dry bread, water, and dried fruits) for the first week of Great Lent, allowing moderate cooked food without oil on certain days, but strictly prohibiting cooked meals on Great Friday.
 [^379]: Chapter 96 of the Typikon governs the liturgical coincidence of the Feast of the Annunciation (March 25) with Great and Holy Friday (Kyriopascha / Great Friday Annunciation). On Great Thursday evening, Vespers is united with the Liturgy of Saint Basil the Great, and wine and oil are permitted at table. At Matins on Great Friday, the 12 Passion Gospels are interwoven with the festive Polyeleos, Gradual Antiphons of the 4th Tone, and the festal Annunciation Gospel (Luke 1:39–56).

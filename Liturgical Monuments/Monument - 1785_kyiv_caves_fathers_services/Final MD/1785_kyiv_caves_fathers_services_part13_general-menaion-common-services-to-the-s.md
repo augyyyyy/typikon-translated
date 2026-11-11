@@ -300,7 +300,7 @@ All my hope do I place upon thee, O Mother of God: preserve me beneath thy shelt
 [^782]: Heirmos of Ode 5, Tone 8: Biblical Canticle of Isaiah (Isaiah 26:9, 13; LXX Isa. 26:9: *Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σέ, ὁ Θεός*).
 [^783]: Heirmos of Ode 6, Tone 8: Biblical Canticle of Jonah (Jonah 2:3–8; LXX Jon. 2:3: *Ἐβόησα ἐν θλίψει μου πρὸς Κύριον τὸν Θεόν μου*).
 [^784]: Rubric directing the substitution of the Common Kontakion when no specific proper feast is assigned in the Typikon.
-[^785]: Melodic model (*podoben*): Tone 2, *Seeking the highest* (Вы́шнихъ и҆щѧ̀ / *Tὰ ἄνω ζητῶν*), the classic kontakion automelon of the Sunday of the Forefathers and general ascetics.
+[^785]: Melodic model (*podoben*): Tone 2, *Seeking the highest* (Вы́шнихъ и҆щѧ̀ / *Τὰ ἄνω ζητῶν*), the classic kontakion automelon of the Sunday of the Forefathers and general ascetics.
 [^786]: Heirmos of Ode 7, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:26–56; LXX Dan. 3:28).
 [^787]: Heirmos of Ode 8, Tone 8: Song of the Three Holy Youths in Babylon (Daniel 3:57–88; LXX Dan. 3:57).
 [^788]: Heirmos of Ode 9, Tone 8: The Magnificat and Benedictus (Luke 1:46–55, 68–79).

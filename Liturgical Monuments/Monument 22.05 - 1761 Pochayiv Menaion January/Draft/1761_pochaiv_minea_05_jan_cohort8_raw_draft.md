@@ -27,7 +27,7 @@ Thou didst drown sin of old in the days of Noah, having opened by Thy word the c
 
 *Glory... Tone 6, Podoben: "The Angelic Powers" (А҆́ггелскїѧ):*  
 "That the Father's good pleasure may be fulfilled, I am come upon earth, having clothed Myself in poverty: heaven is My throne, and earth My footstool; yet I bow My neck unto thee, for unto this am I come: baptize Me, Who cleansest the transgressions of men in Me."[^484]  
-*Both now... the same Tone and Podoben:*  
+*Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 "Thou Who formerly didst guide as light by a pillar and a cloud, and didst sprinkle dew in the wilderness; Thou Who rulest over all things, ineffable by nature: how hast Thou clothed Thyself in the form of a servant? As hay, I shall not touch Thee Who art fire. Do Thou Thyself baptize me, for I need to receive cleansing from Thee."[^485]  
 *At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме є҆ѵфра́ѳовъ):*  
 The Father's radiance of glory hath appeared upon the streams of Jordan, cleansing the defilement of our souls by baptism.[^486]  
@@ -37,7 +37,7 @@ Receive in a manner befitting a servant, O Prophet John, the Redeemer of the wor
 *Verse: The waters saw Thee, O God, the waters saw Thee and were afraid [LXX Ps. 76:17].*  
 *Sticheron:*  
 The Illumination is come, Redemption hath appeared: come ye unto the Jordan, let us assemble to be cleansed, and to sing the forefeast hymns.[^488]  
-*Glory... Both now... the same Tone and Podoben:*  
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 Today Christ grants saving release unto men, cleansing the defilement of souls by the fire of baptism.[^489]  
 *At the Liturgy, the Beatitudes from the Canon of the Forefeast, Ode 3, and of the Apostles, Ode 6.*  
 *Prokeimenon, Tone 8: Their sound hath gone forth into all the earth, and their words unto the ends of the world [LXX Ps. 18:5].*  
@@ -181,7 +181,7 @@ Let all the earth rejoice, let heaven be glad, let the world leap for joy, let r
 *At Matins, at "God is the Lord", the Troparion of the Forefeast, thrice.*  
 *After the first Kathisma, Sessional Hymn, Tone 4, Podoben: "The Angelic Choir" (Ли́къ а҆́ггелскїй):*  
 Rejoice, O river Jordan, for within thee the Creator of all comes willingly to receive baptism from a servant, as He is tender-hearted. Be glad, dance for joy, O Adam, and Eve our foremother: the Redemption of all is come, our Supremely Good God![^528]  
-*Glory... Both now... the same Tone and Podoben:*  
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 Being the Master and Stream of sweetness, He comes forward to be baptized in the streams of the river, desiring to give me to drink of the waters of cleansing. Beholding Whom, John cried aloud: "How shall I stretch forth my hand upon Thy head, before Whom all things tremble?"[^529]  
 *After the second Kathisma, Sessional Hymn, Tone 3, Podoben: "Beholding the Beauty of Thy Virginity" (Красотѣ̀ дѣ́вства):*  
 Clothing the nakedness of Adam in the garment of glory, O Tender-hearted One, Thou desirest to be stripped naked in the flesh in the river Jordan. O most marvelous wonder! How shall the water receive Thee, O Master and Lord, Who coverest Thine upper chambers with waters, as it is written? All of us hymn Thy Theophany, O Jesus our Benefactor![^530]  

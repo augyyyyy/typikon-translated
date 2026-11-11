@@ -29,7 +29,7 @@ Having appeared as the Birthgiver of the Creator of all beyond every mind, O all
 *In the same month, on the 11th day: Our Father among the Saints Sophronius, Patriarch of Jerusalem.*[^127]
 
 *At "Lord, I have cried," Stichera of St. Sophronius, Tone 4:*
-*Tone 4, Podoben: "As one valiant" (Yako dobla):*
+*Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́блѧ):*
 
 Being named after chaste wisdom,[^128] called Sophronius by divine foreknowledge, thou wast chaste in deeds, righteous, courageous, and prudent, valiantly crowned with the kindred virtues; and thou didst abide flourishing in both soul and body, like an excellent steward.
 
@@ -37,10 +37,10 @@ From God-blessed lips thou didst thunder forth theological teachings, O all-bles
 
 Concerning the flesh, united hypostatically unto the incorporeal and co-unoriginate Word of the Father, O all-wise one, without alteration and without confusion, thou didst wisely teach: acting doubly in both natures, in which He consists and in which He is contemplated, being One, undivided in essence, understood in both the one and the other.[^129]
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 With the showers of the All-Holy Spirit, O all-pure one, bedew my mind, thou who didst bear Christ, the Drop that through compassions washes away the immeasurable and countless iniquities of men; dry up the fountain of my passions, and vouchsafe me ever of the torrent of living delight by thy prayers.[^130]
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the Ewe-lamb and Thy Mother beheld Thee nailed upon the Cross, O Lord, she marveled, crying out: What is this sight, O longed-for Son? Did the lawless and disobedient synagogue render this unto Thee, having enjoyed Thy many miracles? But glory unto Thine ineffable condescension, O Master!
 
 *Canon. Whose acrostic is: "I sing the true sacrifice of him who is named after chaste wisdom." By Lord Joseph.*[^131]
@@ -81,7 +81,7 @@ Thy theological, fair, and honey-flowing tongue pours forth rivers of the Word, 
 We glorify thee as the Birthgiver of God, having given birth unto God, conforming in designation unto thy childbearing and the callings in both, O all-pure Sovereign Lady.[^136]
 
 *Sessional Hymn, Tone 4:*
-*Tone 4, Podoben: "Speedily anticipate" (Skoro predvari):*
+*Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 With words didst thou adorn the Church of Christ, having preserved in deeds that which is according to the image of God, O venerable Sophronius; for the chaste wisdom that was in thee shone forth in the world, grace...
 
 === LEAF p74 === (Fol. 36v)
@@ -144,7 +144,7 @@ By the life-creating weapon of thy words is the heretical council put to death; 
 We hymn thy pure childbearing, O Birthgiver of God, whereby we are all saved, being delivered from the snares of death, and grievous sin, and the bonds of Hades.[^147]
 
 *Kontakion, Tone 8:*
-*Tone 8, Podoben: "To thee, the Champion Leader" (Vzbrannoi):*
+*Tone 8, Podoben: "To thee, the Champion Leader" (Взбра́нной воево́дѣ):*
 Roused by divine zeal, and opening the lips of true commandments, having canonical-lawfully handed down the foundations of the Church unto the monastic orders there, O all-wise Sophronius, patriarch among the hierarchs of Jerusalem: thou didst bring all-wise words into the light, wherewith guided we cry unto thee: Rejoice, O radiant boast of the Orthodox!
 
 *Ode 7. Heirmos:*
@@ -203,7 +203,7 @@ A light cloud did Isaiah behold thee, O Virgin; for the Lord, coming upon thee, 
 *In the same month, on the 12th day: Our Venerable Father and Confessor Theophanes of Sigriane.*[^158]
 
 *At "Lord, I have cried," Stichera, Tone 8:*
-*Tone 8, Podoben: "O most marvelous wonder" (O preslavnago chudese):*
+*Tone 8, Podoben: "O most marvelous wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 O God-wise father Theophanes, named after the divine theophany of Christ, thou didst follow His life-bearing footsteps; and thou didst forsake the fair things of this life, looking unto Him Whom thou didst desire, in comeliness most preeminent, and being divinely deified by divine nods toward Him, both superior and final.[^159]
 
@@ -211,7 +211,7 @@ O God-wise father Theophanes, abiding in weakness thou didst endure bitter exile
 
 In truth the Worker of good things richly granted thee rewards for thy sufferings: having given thee power, O all-blessed one, to drive away demons and to heal sicknesses; having vouchsafed thee unspeakable joy where the angelic ranks exult, ever beholding the face of the Almighty.[^161]
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Rejoice...
 
 === LEAF p78 === (Fol. 38v)
@@ -220,7 +220,7 @@ Rejoice...
 
 Rejoice, O chariot of the Divine Light, most radiant star and tabernacle of sanctification; for the Light shone forth upon us from thy most pure loins, enlightening the ends of the world and communing with all by His grace; rejoice, O cause of our salvation, all-pure one; rejoice, O terrible hearing and speaking for them that hope in thee!
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 What is this visible sight which is seen by mine eyes, O Master? Thou Who holdest all creation art lifted up upon the Tree and tastest death, giving life unto all!—the Birthgiver of God, weeping, spoke, when she beheld God and man, Who ineffably shone forth from her, being lifted up upon the Cross.
 
 *Canon. Whose acrostic is: "Theophanes sings of thee, O Theophanes." By Lord Theophanes.*[^162]
@@ -257,7 +257,7 @@ Quickened by hope and faith, O venerable one, the infirmity of thy flesh...
 He Who formed me in the beginning from the dust as man, is fashioned for my sake in thy womb, O all-immaculate one, amending the ancient fall.[^167]
 
 *Sessional Hymn, Tone 8:*
-*Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Having become a lover of the love of Jesus, thou didst repel pleasures and worldly confusion; and having lived monastically upon earth like a heavenly angel, thou pourest forth the gifts of wonders, O venerable one. Therefore in thy light-bearing and holy memory we faithfully praise thee, and with one accord cry aloud unto thee: O God-bearer Theophanes, pray unto Christ God to grant remission of transgressions unto them that honor thy holy memory with love.[^168]
 
 *Glory... Both now... Theotokion:*
@@ -314,5 +314,5 @@ Unto the martyrly renown didst thou enter, O Theophanes, since thou didst honor 
 The holy Word, having taken up His abode in thy sanctified womb, [revealed] thee to be this, O Birthgiver of God, by an ineffable word; Whom do thou entreat that thy servants may be saved.
 
 *Kontakion, Tone 2:*
-*Tone 2, Podoben: "Seeking the things on high" (Vyshnikh ishcha):*
+*Tone 2, Podoben: "Seeking the things on high" (Вы́шнихъ и҆щѧ̀):*
 Having received divine revelation from on high, with haste thou didst depart from the midst of worldly tumult; and having lived in solitude, O venerable one, thou didst receive the operation of wonders and the dignity of prophecy, of wealth...[^179]

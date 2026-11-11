@@ -907,7 +907,7 @@ Thus says the Lord: Out of Zion shall go forth the Law, and the word of the Lord
 
 *Reading from the Prophecy of Isaiah (Chapter 55):*[^611]
 
-Thus says the Lord: Ye that thirst, go to the water, and as many as have no money, go and buy, and eat and drink without money and without price, wine and fatness. For thus says the Lord Almighty unto you: O My people, draw water with gladness from the wells of salvation! And in that day thou shalt say: Hymn the Lord, call upon His Name, proclaim His glorious deeds among the Gentiles, remember that His Name is exalted! O My people, give ear unto Me, and ye shall eat good things, and your soul shall delight itself in good things. Incline your ears, and follow My paths; give ear unto Me, and your soul shall live in good things, and I will make an everlasting covenant with you, and call upon Me. And when ye draw near unto Me, let the ungodly forsake his ways, and the unrighteous man his counsels, and return unto Me, and I will have mercy on you, and will forgive your sins. For My counsels are not as your counsels, neither are My ways as your ways, says the Lord; but as heaven is distant from the earth, so is My way distant from your ways, and your thoughts from My thoughts. For as rain or snow descends from heaven, and returns not thither until it has watered the earth, and brought forth and budded, and given seed to the sower, and bread for food: so shall My word be, whatsoever goes forth ...from My mouth, it shall not return unto Me empty, until it accomplishes all whatsoever I willed; and I will make straight thy ways and My commandments. For ye shall go forth with gladness, and be instructed with joy; for the mountains and hills shall skip, expecting you in joy, and all the trees of the field shall clap with their branches; and instead of the bramble shall come up the cypress, and instead of the nettle shall come up the myrtle; and the Lord shall be for a name, and for an everlasting sign, and shall not fail, says the Lord God, the Holy One of Israel.
+Thus says the Lord: Ye that thirst, go to the water, and as many as have no money, go and buy, and eat and drink without money and without price, wine and fatness. For thus says the Lord Almighty unto you: O My people, draw water with gladness from the wells of salvation! And in that day thou shalt say: Hymn the Lord, call upon His Name, proclaim His glorious deeds among the Gentiles, remember that His Name is exalted! O My people, give ear unto Me, and ye shall eat good things, and your soul shall delight itself in good things. Incline your ears, and follow My paths; give ear unto Me, and your soul shall live in good things, and I will make an everlasting covenant with you, and call upon Me. And when ye draw near unto Me, let the ungodly forsake his ways, and the unrighteous man his counsels, and return unto Me, and I will have mercy on you, and will forgive your sins. For My counsels are not as your counsels, neither are My ways as your ways, says the Lord; but as heaven is distant from the earth, so is My way distant from your ways, and your thoughts from My thoughts. For as rain or snow descends from heaven, and returns not thither until it has watered the earth, and brought forth and budded, and given seed to the sower, and bread for food: so shall My word be, whatsoever goes forth from My mouth, it shall not return unto Me empty, until it accomplishes all whatsoever I willed; and I will make straight thy ways and My commandments. For ye shall go forth with gladness, and be instructed with joy; for the mountains and hills shall skip, expecting you in joy, and all the trees of the field shall clap with their branches; and instead of the bramble shall come up the cypress, and instead of the nettle shall come up the myrtle; and the Lord shall be for a name, and for an everlasting sign, and shall not fail, says the Lord God, the Holy One of Israel.
 
 *Reading from Proverbs (Chapter 9):*[^612]
 
@@ -1042,7 +1042,7 @@ My heart is established in the Lord, my horn is exalted in my God, my mouth is e
 *Sessional Hymn, Tone 8, Podoben: "The Wisdom and Word of God" (Премꙋ́дрости сло́ва):*
 Standing in the midst of the sanctuary, as the feast was divinely halfway through, Thou didst cry aloud: Let him that is thirsty come unto Me and drink! For he that drinks of this My Divine water shall pour forth from his belly rivers of My commandments; and he that believes in Me, sent from the Divine Begetter, shall be glorified with Me: therefore we cry unto Thee: Glory to Thee, Christ our God, for Thou hast richly poured out the waters of Thy love for mankind upon Thy servants!
 
-*Glory... both now and for ever and unto ages of ages. Amen. Podoben:*
+*Glory... both now and for ever and unto ages of ages. Amen. Podoben (Подо́бенъ):*
 Pouring forth the water of wisdom and life unto the world, Thou callest all men, O Savior, to draw the waters of salvation; for receiving Thy Divine Law, man extinguishes within himself the coals of delusion, whence he shall never thirst for ever, nor cease from Thy satisfaction, O Master, most heavenly King: therefore we glorify Thy dominion, Christ our God, asking that remission of transgressions be richly sent down upon Thy servants.
 
 *Ode 4. Heirmos:*
@@ -1297,7 +1297,7 @@ Rebuking the disobedient Jews, my Deliverer cried aloud: Judge not according to 
 Greater miracles, as Thou didst promise, didst Thou grant unto Thy disciples, O Savior, sending them unto the Gentiles to proclaim Thy glory: and they proclaimed unto the world Thy resurrection, grace, and incarnation.[^631]
 
 *Troparion 5:*
-If ye circumcise a man on the Sabbath, lest the Law should be broken, why now are ye angry at Me, because I made a whole man well by a word? Ye judge according to the flesh, saith Christ unto the Jews.[^632]
+If ye circumcise a man on the Sabbath, lest the Law should be broken, why now are ye angry at Me, because I made a whole man well by a word? Ye judge according to the flesh, says Christ unto the Jews.[^632]
 
 *Troparion 6:*
 O Word, Who by a word didst heal the withered hand: having healed the long-withered earth of my heart, show me forth fruitful, that I also, O Savior, may bring forth fruits in fervent repentance.[^633]
@@ -1349,12 +1349,10 @@ Great is our Lord, and great is His power, and of His understanding there is no 
 *Epistle from the Acts of the Apostles, Pericope 34: Paul and Barnabas fled unto the cities of Lycaonia...*[^640]
 *Alleluia, Tone 1:* Remember Thy congregation, which Thou hast purchased from the beginning.[^641]
 *Verse:* But God is our King before the ages: He hath wrought salvation in the midst of the earth.[^642]
-*Gospel from John, Pericope 26: In the midpoint of Pentecost...*[^643]
-
-*At the Liturgy we sing, as also at the Apodosis of Mid-Pentecost, instead of "It is truly meet," the heirmos: "Virginity is foreign to mothers..." But on the other days we sing: "Shine, shine [O new Jerusalem]..." even until the Apodosis.*
+*Gospel from John, Pericope 26: In the midpoint of Pentecost*[^643] *At the Liturgy we sing, as also at the Apodosis of Mid-Pentecost, instead of "It is truly meet," the heirmos: "Virginity is foreign to mothers..." But on the other days we sing: "Shine, shine [O new Jerusalem]..." even until the Apodosis.*
 
 *Communion Hymn:*
-He that eats My Flesh, and drinks My Blood, abides in Me, and I in him, saith the Lord. Alleluia. *(Thrice)*[^644]
+He that eats My Flesh, and drinks My Blood, abides in Me, and I in him, says the Lord. Alleluia. *(Thrice)*[^644]
 
 *At table there is consolation for the brethren.*
 
@@ -1379,7 +1377,7 @@ As I lie upon the bed of the sickness of my sins, and am paralyzed in my members
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Of the Feast.*
 
 *Tone 2:*
-When Thou didst come unto the sanctuary, O Christ God, as the feast was halfway through, then didst Thou teach the people, crying aloud: He that believs in Me, though he die, yet shall he live. But the Jews were enraged, with the Pharisees and Sadducees and scribes, saying: Who is this Man that speaks blasphemies? Not considering that Thou art before all ages, glorified with the Father and the Spirit, our God: glory to Thee![^647]
+When Thou didst come unto the sanctuary, O Christ God, as the feast was halfway through, then didst Thou teach the people, crying aloud: He that believes in Me, though he die, yet shall he live. But the Jews were enraged, with the Pharisees and Sadducees and scribes, saying: Who is this Man that speaks blasphemies? Not considering that Thou art before all ages, glorified with the Father and the Spirit, our God: glory to Thee![^647]
 
 *Prokeimenon of the day.*
 
@@ -1421,7 +1419,7 @@ The Prophets proclaimed, the Apostles taught, the Martyrs confessed, and we have
 
 *After the 2nd chanting of the Psalter, Sessional Hymn.*
 *Tone 8, Podoben: "The Wisdom and Word of God" (Премꙋ́дрости сло́ва):*
-Standing in the midst of the sanctuary, as the feast was divinely halfway through, Thou didst cry aloud: Let him that thirsts come unto Me and drink: for he that drinks of this My divine water shall pour forth from his belly rivers of My commandments: and he that believs in Me Who was sent from the Divine Begetter shall be glorified with Me: therefore we cry unto Thee: Glory to Thee, O Christ God, for Thou hast richly poured forth the waters of Thy love for mankind unto Thy servants![^655]
+Standing in the midst of the sanctuary, as the feast was divinely halfway through, Thou didst cry aloud: Let him that thirsts come unto Me and drink: for he that drinks of this My divine water shall pour forth from his belly rivers of My commandments: and he that believes in Me Who was sent from the Divine Begetter shall be glorified with Me: therefore we cry unto Thee: Glory to Thee, O Christ God, for Thou hast richly poured forth the waters of Thy love for mankind unto Thy servants![^655]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. The same.*
 
@@ -1457,7 +1455,7 @@ Thou didst stand in the temple, pouring forth Thy streams, as the feast was half
 Desiring to save me, Thou didst become incarnate most gloriously from the Virgin who knew not wedlock; and in the midst of Thy temple Thou didst pour forth grace unto me.
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 8. By John the Monk:*[^664]
-As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believs in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
+As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believes in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
 
 *On Thursday after Mid-Pentecost, the Triodion,*
 *Whose acrostic is: Αἴνεσις Κυρίῳ, that is: Praise unto the Lord:*[^665]
@@ -1538,7 +1536,7 @@ By Thy Cross, O Christ Savior, the dominion of death was destroyed, and the delu
 Great is the power of Thy Cross, O Lord, for it was planted in one place, yet it works in the world; and from fishermen it showed forth Apostles, and from Gentiles Martyrs, that they may pray for our souls.
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 8. By John the Monk:*[^682]
-As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believs in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
+As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believes in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
 
 ## ON FRIDAY AFTER MID-PENTECOST, AT MATINS
 
@@ -1653,7 +1651,7 @@ The Creator of all and Giver of life, the Word co-everlasting with the Divine Fa
 
 When the Jewish feast was halfway through, O Christ, Thou didst present Thyself in the sanctuary, O Master of the Law, teaching with authority and rebuking the scribes, as it is written, and astonishing them by the wisdom of Thy words and the demonstrations of wonders.[^704]
 
-The Giver of wisdom and Pourer forth of good things, Who pours forth divine streams from the ever-flowing fountain, cries: Come unto Me, draw the water of life, ye that thirst; and rivers of divine gifts shall flow forth from the belly as from rock, He saith.[^705]
+The Giver of wisdom and Pourer forth of good things, Who pours forth divine streams from the ever-flowing fountain, cries: Come unto Me, draw the water of life, ye that thirst; and rivers of divine gifts shall flow forth from the belly as from rock, He says.[^705]
 
 *And of the Menaion, 3.*
 
@@ -1677,7 +1675,7 @@ I glorify the power of the Father and of the Son, and I praise the authority of 
 By Thy Passion, O Christ, Thou didst darken the sun, and by the light of Thy Resurrection Thou didst enlighten all things: accept our evening hymn, O Lover of mankind.
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 2:*
-Thou didst come into the sanctuary, O Wisdom of God, when the feast was halfway through, teaching and rebuking the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me, and drink living water, and he shall never thirst unto eternity; he that believs in My goodness, rivers of eternal life shall flow from his belly! O the goodness and compassion of Thine, O Christ our God, glory to Thee![^712]
+Thou didst come into the sanctuary, O Wisdom of God, when the feast was halfway through, teaching and rebuking the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me, and drink living water, and he shall never thirst unto eternity; he that believes in My goodness, rivers of eternal life shall flow from his belly! O the goodness and compassion of Thine, O Christ our God, glory to Thee![^712]
 
 *Troparion of the Feast. And the dismissal.*
 
@@ -1822,7 +1820,7 @@ Rejoice, O Pure One, seeing Thy Son and God arisen in glory from the dead, toget
 [^576]: Daniel 3:49–52 (LXX): The Prayer of the Three Holy Children delivered from the Babylonian furnace, the scriptural basis for Ode 7.
 [^577]: Daniel 3:57–88 (LXX): The Hymn of the Three Holy Children ("Bless the Lord, all ye works of the Lord"), the scriptural foundation for Ode 8.
 [^578]: Ode 9 unites the biblical theophanies of the burning bush seen by Moses (Exodus 3:2), the unhewn mountain seen by Daniel (Daniel 2:34–35, 45), and the budding rod of Jesse prophesied by Isaiah (Isaiah 11:1), all fulfilled in the Virgin Theotokos.
-[^579]: The Eastern or Anatolian Resurrection stichera (Ἀνατολικὰ Σтиχηρά), historically attributed in liturgical collections to Patriarch Anatolius of Constantinople (d. 458).
+[^579]: The Eastern or Anatolian Resurrection stichera (Ἀνατολικὰ Στιχηρά), historically attributed in liturgical collections to Patriarch Anatolius of Constantinople (d. 458).
 [^580]: The 4th Resurrection Gospel Sticheron (Eothinon / ἑωθινόν) in Tone 3, authored by Emperor Leo VI the Wise (886–912), meditating on the fourth Matins Gospel pericope (Luke 24:1–12).
 [^581]: Rubric prescribing the reading of the ascetic and monastic catechetical homilies of St. Theodore the Studite (759–826), appointed for Sundays throughout the Triodion and Pentecostarion seasons.
 [^582]: Psalm 32:22 (LXX 32:22): Prokeimenon at the Divine Liturgy in Tone 1.

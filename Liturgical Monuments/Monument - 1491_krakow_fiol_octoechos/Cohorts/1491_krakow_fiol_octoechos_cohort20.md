@@ -29,7 +29,7 @@
 *Glory... Both now... Theotokion:* Having given birth unto the ineffable and changeless God, Who ever delivers from sins and falls...
 
 === LEAF p193 ===
-...grievous, receive from Him change of sorrow, O good one, and by thy morning prayers [deliver me], that now with thanksgiving I may cry unto thee, O Mary, Mother of God, according to the mercy which thou hast obtained, O most immaculate one!
+...indolence, transform the sorrows of my heart, O good one, by thy maternal supplications, that I also with thanksgiving may cry unto thee, O Mary, Birthgiver of God: have mercy on thine own flock which thou hast acquired, O most immaculate one!
 
 *Ode 4. Heirmos: Thou art Christ God, Thou art...*[^215]
 

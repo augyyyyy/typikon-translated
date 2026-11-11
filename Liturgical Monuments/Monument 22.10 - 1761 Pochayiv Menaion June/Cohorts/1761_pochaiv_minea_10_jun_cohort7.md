@@ -203,7 +203,7 @@ The Son of God, co-eternal with the Spirit, having in His good pleasure taken fl
 === LEAF p67 === (Fol. 33r)
 Having drawn [men] up by the net of the word * out of the depth of ignorance in a manner befitting God, * thou didst bring the nations through faith; * and being as a fountain of spiritual waters, * thou didst water the whole universe with grace; * therefore, having been saved through thee, O God-proclaimer, * with one voice we call thee blessed, as the close friend of Christ, * O Bartholomew, crying aloud unto thee: * Entreat Christ God * to grant remission of transgressions * unto them that celebrate thy holy memory with love!
 
-*Glory, of Barnabas, Tone and Podoben the same [Tone 8]:*
+*Glory, of Barnabas, Tone and Podoben the same [Tone 8] (Гла́съ и҆ подо́бенъ то́йже):*
 By words wast thou shown forth, * declaring the heavenly glory of God,[^222] * by the brightness of wonders * and the rays of power, * driving away the night of ignorance by grace, * and flashing forth the rays of the knowledge of God unto the ends of the earth. * Therefore today we the faithful glorify thy light-bearing and holy memory, * and cry aloud unto thee: O all-praised Barnabas, * entreat Christ God * to grant remission of sins * unto them that celebrate thy holy memory with love!
 
 *Both now... of the Feast, or Theotokion:*

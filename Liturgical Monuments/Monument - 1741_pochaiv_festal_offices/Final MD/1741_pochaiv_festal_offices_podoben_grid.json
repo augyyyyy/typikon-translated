@@ -18,7 +18,6 @@
         "model_id": "POD.T1.NEBESNYKH_CHINOV",
         "tone": 1,
         "prescribed_model": "Joy of the heavenly ranks",
-        "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
         "total_invocations": 3,
         "first_locus": "p6 (p6)",
         "attested_loci": [
@@ -31,7 +30,6 @@
         "model_id": "POD.T3.KRASOTE_DEVSTVA",
         "tone": 3,
         "prescribed_model": "Beholding the beauty of thy virginity",
-        "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
         "total_invocations": 1,
         "first_locus": "p7 (p7)",
         "attested_loci": [
@@ -42,7 +40,6 @@
         "model_id": "POD.T1.KAMENI_ZAPECHATLENU",
         "tone": 1,
         "prescribed_model": "When the stone had been sealed",
-        "byzantine_greek_automelon": "Τοῦ λίθου σφραγισθέντος",
         "total_invocations": 1,
         "first_locus": "p8 (p8)",
         "attested_loci": [
@@ -53,7 +50,6 @@
         "model_id": "POD.T1.EXT_O_MARVELOUS_WONDER",
         "tone": 1,
         "prescribed_model": "O Marvelous Wonder",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p9 (p9)",
         "attested_loci": [
@@ -64,7 +60,6 @@
         "model_id": "POD.T2.EXT_O_HOUSE_OF",
         "tone": 2,
         "prescribed_model": "O House of Ephratha",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 6,
         "first_locus": "p11 (p11)",
         "attested_loci": [
@@ -78,7 +73,6 @@
         "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
         "tone": 6,
         "prescribed_model": "Having risen on the third day",
-        "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
         "total_invocations": 1,
         "first_locus": "p11 (p11)",
         "attested_loci": [
@@ -89,7 +83,6 @@
         "model_id": "POD.T4.YAKO_DOBLYA",
         "tone": 4,
         "prescribed_model": "As one valiant among martyrs",
-        "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
         "total_invocations": 2,
         "first_locus": "p14 (p14)",
         "attested_loci": [
@@ -101,7 +94,6 @@
         "model_id": "POD.T2.EGDA_OT_DREVA",
         "tone": 2,
         "prescribed_model": "When from the Tree",
-        "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
         "total_invocations": 1,
         "first_locus": "p16 (p16)",
         "attested_loci": [
@@ -112,7 +104,6 @@
         "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
         "tone": 1,
         "prescribed_model": "O all-lauded martyrs",
-        "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
         "total_invocations": 1,
         "first_locus": "p17 (p17)",
         "attested_loci": [
@@ -123,7 +114,6 @@
         "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
         "tone": 8,
         "prescribed_model": "That which was commanded mystically",
-        "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
         "total_invocations": 3,
         "first_locus": "p18 (p18)",
         "attested_loci": [
@@ -135,7 +125,6 @@
         "model_id": "POD.T6.ANGELSKIYA_SILY",
         "tone": 6,
         "prescribed_model": "The Angelic Powers",
-        "byzantine_greek_automelon": "Αἱ Ἀγγελικαὶ δυνάμεις",
         "total_invocations": 1,
         "first_locus": "p21 (p21)",
         "attested_loci": [
@@ -146,7 +135,6 @@
         "model_id": "POD.T4.ZVANNYI_SVYSHE",
         "tone": 4,
         "prescribed_model": "Being called from on high",
-        "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
         "total_invocations": 1,
         "first_locus": "p22 (p22)",
         "attested_loci": [
@@ -157,7 +145,6 @@
         "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
         "tone": 8,
         "prescribed_model": "Guiding unto wisdom",
-        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
         "total_invocations": 1,
         "first_locus": "p25 (p25)",
         "attested_loci": [
@@ -168,7 +155,6 @@
         "model_id": "POD.T4.UDIVISIA_IOSIF",
         "tone": 4,
         "prescribed_model": "Joseph was amazed",
-        "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
         "total_invocations": 1,
         "first_locus": "p25 (p25)",
         "attested_loci": [
@@ -179,7 +165,6 @@
         "model_id": "POD.T4.SAME",
         "tone": 4,
         "prescribed_model": "The same (то́йже)",
-        "byzantine_greek_automelon": "Τὸ αὐτό",
         "total_invocations": 1,
         "first_locus": "p25 (p25)",
         "attested_loci": [
@@ -190,7 +175,6 @@
         "model_id": "POD.T2.EXT_WITH_WHAT_CROWNS",
         "tone": 2,
         "prescribed_model": "With what crowns of praise",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p29 (p29)",
         "attested_loci": [
@@ -212,7 +196,6 @@
       "normalized_rubric": "*At the Aposticha, Stichera. Tone 1, Podoben: \"Joy of the Heavenly Ranks\" (Небным чином):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*Tone 1. Sticheron 1:*"
     },
     {
@@ -227,7 +210,6 @@
       "normalized_rubric": "*After the Polyeleos, Sessional Hymn, Tone 3, Podoben: \"Beholding the beauty of thy virginity\" (Красотѣ):*",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "The pre-eternal and unoriginate God, Who assumed human nature, came..."
     },
     {
@@ -242,7 +224,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 1, Podoben: \"When the stone had been sealed\" (Камени знаменану):*",
       "prescribed_model": "When the stone had been sealed",
       "model_id": "POD.T1.KAMENI_ZAPECHATLENU",
-      "byzantine_greek_automelon": "Τοῦ λίθου σφραγισθέντος",
       "governed_hymn_opening": "Eating the Lamb with Thy disciples according to the commandment..."
     },
     {
@@ -257,7 +238,6 @@
       "normalized_rubric": "*At the Praises, Stichera, Tone 1, Podoben: \"O Marvelous Wonder\" (О дивное чудо):*",
       "prescribed_model": "O Marvelous Wonder",
       "model_id": "POD.T1.EXT_O_MARVELOUS_WONDER",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Tone 1. Sticheron 1:*"
     },
     {
@@ -267,12 +247,11 @@
       "leaf": "p11",
       "office": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "До́ме Є҆vфра́ѳовъ",
-      "verbatim_slavonic_witness": "До́ме Є҆vфра́ѳовъ",
-      "normalized_rubric": "*At the Aposticha, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆vфра́ѳовъ):*",
+      "verbatim_1630_slavonic": "До́ме Є҆ѵфра́ѳовъ",
+      "verbatim_slavonic_witness": "До́ме Є҆ѵфра́ѳовъ",
+      "normalized_rubric": "*At the Aposticha, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "At the Mystical Supper, Christ God gave unto the Apostles..."
     },
     {
@@ -287,7 +266,6 @@
       "normalized_rubric": "*At the Aposticha, Festal Stichera, Tone 6, Podoben: \"Having risen on the third day\" (Тридне́вно воскре́слъ есѝ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "Great and awesome is this Mystery, wherein God the Creator..."
     },
     {
@@ -302,7 +280,6 @@
       "normalized_rubric": "*Stichera, Tone 1, Podoben: \"Joy of the heavenly hosts\" (Не́бнымъ чино́мъ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Rejoice today, O Church of Christ, festively bowing down unto..."
     },
     {
@@ -312,12 +289,11 @@
       "leaf": "p13",
       "office": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "До́ме Є҆vфра́ѳовъ",
-      "verbatim_slavonic_witness": "До́ме Є҆vфра́ѳовъ",
-      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆vфра́ѳовъ):*",
+      "verbatim_1630_slavonic": "До́ме Є҆ѵфра́ѳовъ",
+      "verbatim_slavonic_witness": "До́ме Є҆ѵфра́ѳовъ",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Isaac blessed Jacob, saying: God give thee of the dew..."
     },
     {
@@ -332,7 +308,6 @@
       "normalized_rubric": "*Stichera, Tone 4, Podoben: \"As one noble among the martyrs\" (Я҆́ко до́бля въ мч҃ницехъ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "O Christ, Savior and Lover of mankind, Who for the..."
     },
     {
@@ -342,12 +317,11 @@
       "leaf": "p15",
       "office": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "До́ме Є҆vфра́ѳовъ",
-      "verbatim_slavonic_witness": "До́ме Є҆vфра́ѳовъ",
-      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆vфра́ѳовъ):*",
+      "verbatim_1630_slavonic": "До́ме Є҆ѵфра́ѳовъ",
+      "verbatim_slavonic_witness": "До́ме Є҆ѵфра́ѳовъ",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "O House of David, sing a psalm of praise; for..."
     },
     {
@@ -362,7 +336,6 @@
       "normalized_rubric": "*Stichera, Tone 1, Podoben: \"Joy of the heavenly hosts\" (Не́бнымъ чино́мъ): 1. \"Rejoice today, O Church of Christ...\" 2. \"In the large upper room where...\" 3. \"Taking the cup He said...\" with their stichoi. There, Glory... Now and ever... Tone 6: \"The God Whom without seed Thou didst bear...\" All these see on Saturday at Matins, (see fol. 11)[^23].*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*ON TUESDAY EVENING: AT \"LORD, I HAVE CRIED\"*"
     },
     {
@@ -372,12 +345,11 @@
       "leaf": "p15",
       "office": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "До́ме Є҆vфра́ѳовъ",
-      "verbatim_slavonic_witness": "До́ме Є҆vфра́ѳовъ",
-      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆vфра́ѳовъ):*",
+      "verbatim_1630_slavonic": "До́ме Є҆ѵфра́ѳовъ",
+      "verbatim_slavonic_witness": "До́ме Є҆ѵфра́ѳовъ",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "This is the Living Bread, That came down from Heaven,..."
     },
     {
@@ -387,12 +359,11 @@
       "leaf": "p15",
       "office": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "До́ме Є҆vфра́ѳовъ",
-      "verbatim_slavonic_witness": "До́ме Є҆vфра́ѳовъ",
-      "normalized_rubric": "*Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆vфра́ѳовъ):*",
+      "verbatim_1630_slavonic": "До́ме Є҆ѵфра́ѳовъ",
+      "verbatim_slavonic_witness": "До́ме Є҆ѵфра́ѳовъ",
+      "normalized_rubric": "*Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "My Flesh is meat indeed, and My Blood is drink..."
     },
     {
@@ -407,7 +378,6 @@
       "normalized_rubric": "*On Thursday evening, at \"Lord, I have cried,\" Stichera of the Mother of God on 6, Tone 2, Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "Unto all men a protectress, unto all a great refuge,..."
     },
     {
@@ -422,7 +392,6 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 1, Podoben: \"All-praised martyrs\" (Прехва́льнїи мч҃нцы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "Standing by the Cross of her Son and God, and..."
     },
     {
@@ -437,7 +406,6 @@
       "normalized_rubric": "*After the 1st Kathisma, Sessional Hymn, Tone 8, Podoben: \"That which was mystically commanded\" (Повелѣ́нное та́йно):*",
       "prescribed_model": "That which was commanded mystically",
       "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
-      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
       "governed_hymn_opening": "O ineffable goodness! He Who became incarnate of thee, O..."
     },
     {
@@ -452,7 +420,6 @@
       "normalized_rubric": "*At the Praises, Stichera, Tone 6, Podoben: \"The Angelic Powers\" (А҆́ггл҃скїѧ пред̾иду́тъ си̑):*",
       "prescribed_model": "The Angelic Powers",
       "model_id": "POD.T6.ANGELSKIYA_SILY",
-      "byzantine_greek_automelon": "Αἱ Ἀγγελικαὶ δυνάμεις",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
@@ -467,7 +434,6 @@
       "normalized_rubric": "*Stichera to the Saint, Tone 4, Podoben: \"Being called from on high\" (Призва́нїи мꙋ́чницы):*",
       "prescribed_model": "Being called from on high",
       "model_id": "POD.T4.ZVANNYI_SVYSHE",
-      "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
@@ -482,7 +448,6 @@
       "normalized_rubric": "*At the Aposticha, Stichera to the Saint, Tone 4, Podoben: \"As one valiant among martyrs\" (Ꙗ҆́ко до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
@@ -497,7 +462,6 @@
       "normalized_rubric": "*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 8, Podoben: \"Guiding unto wisdom\" (Премꙋ́дрости):* [continues to next leaf] [continued from preceding leaf] Having forsaken all earthly things, and having lived in the world like an angel in bodily purity, in spirit thou wast a partaker with the angels; for having put to death the present bodily passions, thou didst show thyself a pleasing servant unto the Holy Trinity, O all-blessed one; therefore also thou dost heal the afflictions of the sick, and drive away the spirits of malice by the grace of Christ, O our godbearing father, Hieromartyr Josaphat: beseech Christ God that He grant remission of sins unto them that celebrate thy holy memory with love.",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having made thy heart a fair altar and ministered unbloody..."
     },
     {
@@ -512,7 +476,6 @@
       "normalized_rubric": "*Glory... Now and ever... Of the Feast of the Elevation, the same Tone, Podoben: \"That which was commanded mystically\" (Пове́лѣнное та́йнѡ):*",
       "prescribed_model": "That which was commanded mystically",
       "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
-      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
       "governed_hymn_opening": "Having made thy heart a fair altar and ministered unbloody..."
     },
     {
@@ -527,7 +490,6 @@
       "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: \"Joseph was amazed\" (Оу҆диви́сѧ І҆ѡ́сифъ):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Having made thy heart a fair altar and ministered unbloody..."
     },
     {
@@ -537,12 +499,11 @@
       "leaf": "p25",
       "office": "PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Оу҆диви́сѧ І҆ѡ́сифъ",
-      "verbatim_slavonic_witness": "Оу҆диви́сѧ І҆ѡ́сифъ",
-      "normalized_rubric": "*Glory... Now and ever... Of the Feast of the Elevation, the same Tone and Podoben: Moses stretched forth his hands unto the height of heaven...*",
+      "verbatim_1630_slavonic": "Гла́съ и҆ подо́бенъ то́йже",
+      "verbatim_slavonic_witness": "Гла́съ и҆ подо́бенъ то́йже",
+      "normalized_rubric": "*Glory... Now and ever... Of the Feast of the Elevation, the same Tone and Podoben: Moses stretched forth his hands unto the height of heaven (Гла́съ и҆ подо́бенъ то́йже)...*",
       "prescribed_model": "The same (то́йже)",
       "model_id": "POD.T4.SAME",
-      "byzantine_greek_automelon": "Τὸ αὐτό",
       "governed_hymn_opening": "*If it occur on Sunday, all the Sessional Hymns are..."
     },
     {
@@ -557,7 +518,6 @@
       "normalized_rubric": "*Glory... Now and ever... Of the Feast of the Elevation, Tone 8, Podoben: \"That which was commanded mystically\" (Повеле́нное та́йно): In paradise of old the tree stripped me bare...*",
       "prescribed_model": "That which was commanded mystically",
       "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
-      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
       "governed_hymn_opening": "*If it be not Sunday, the Hymns of Ascent, Tone..."
     },
     {
@@ -572,7 +532,6 @@
       "normalized_rubric": "*At Vespers: \"Blessed is the man,\" 1st Stasis. At \"Lord, I have cried,\" 8 Stichera: 3 of the Forefeast, 2 to the holy woman, and 3 to the Saint. Tone 2, Podoben: \"With what crowns of praise\" (Ки́ми похва́льными):*",
       "prescribed_model": "With what crowns of praise",
       "model_id": "POD.T2.EXT_WITH_WHAT_CROWNS",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
@@ -582,12 +541,11 @@
       "leaf": "p29",
       "office": "APPENDIX: MONTH OF DECEMBER",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "До́ме Є҆vфра́ѳовъ",
-      "verbatim_slavonic_witness": "До́ме Є҆vфра́ѳовъ",
-      "normalized_rubric": "*AT THE APOSTICHA, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆vфра́ѳовъ):*",
+      "verbatim_1630_slavonic": "До́ме Є҆ѵфра́ѳовъ",
+      "verbatim_slavonic_witness": "До́ме Є҆ѵфра́ѳовъ",
+      "normalized_rubric": "*AT THE APOSTICHA, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме Є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Sticheron 1:*"
     }
   ]

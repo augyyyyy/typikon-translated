@@ -21,7 +21,7 @@ from the dead, Thou didst raise with Thyself them that have acknowledged Thee as
 
 *Resurrection Troparion, Tone 3:[^72]* Let the heavens be glad, and let the earthly rejoice; for the Lord has shown strength with His arm: He has trampled down death by death, and become the first-born from the dead; He has delivered us from the belly of Hades, and granted great mercy unto the world.
 
-*Twice. Glory... Both now... Theotokion:* Thee who didst mediate salvation for our race, we hymn, O Virgin Birthgiver of God; for having accepted the suffering of the Cross in the flesh assumed from thee, Thy Son and our God has delivered us from corruption, as the Lover of mankind.
+*Twice. Glory... Both now... Theotokion:* Thee who didst mediate salvation for our race, we hymn, O Virgin Birthgiver of God; for having accepted the suffering of the Cross in the flesh assumed from thee, thy Son and our God has delivered us from corruption, as the Lover of mankind.
 
 *Canon to the Holy and Life-Originating Trinity, Tone 3. Ode 1. Heirmos: He Who of old gathered the waters...[^73]*
 

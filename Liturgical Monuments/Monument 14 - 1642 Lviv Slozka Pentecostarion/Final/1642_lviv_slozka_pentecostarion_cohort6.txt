@@ -126,7 +126,7 @@ Slumbering in spiritual sloth, I have not acquired a burning lamp from virtues, 
 Hearing the condemnation of him that hid the talent, O soul, hide not the word of God! Proclaim His marvelous works, that multiplying the gift, thou mayest enter into the joy of thy Lord!
 
 *At the Aposticha, Stichera Idiomela, Tone 6:*
-Come, ye faithful, let us labor eagerly for the Master: for He distributs riches unto His servants, and according to the measure let each of us multiply the talent of grace![^223] Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply the great reward, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
+Come, ye faithful, let us labor eagerly for the Master: for He distributes riches unto His servants, and according to the measure let each of us multiply the talent of grace![^223] Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply the great reward, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
 
 *Verse: We were filled in the morning with Thy mercy...*
 
@@ -184,7 +184,7 @@ Come, ye faithful, let us labor eagerly for the Master...
 
 === LEAF p57 ===
 
-...for He distributs riches unto His servants, and according to the measure let each of us multiply the talent of grace! Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply what was lent, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
+...for He distributes riches unto His servants, and according to the measure let each of us multiply the talent of grace! Let one bring forth wisdom through good works; let another accomplish a radiant service; let another share the word with the untaught in the mystery; and let another distribute his wealth unto the poor: for thus we shall multiply what was lent, and as faithful stewards of grace we shall be accounted worthy of the Master's joy! Of this make us worthy, O Christ God, as Thou art the Lover of mankind!
 
 *Tone 7:*
 Behold, the Master entrusts thee with the talent, O my soul: receive the gift with fear; lend unto Him that gave it; distribute unto the poor, and acquire the Lord as a friend, that thou mayest stand on His right hand when He shall come in glory, and mayest hear the blessed voice: "Enter, good servant, into the joy of thy Lord!" Of this make me worthy, O Savior, who have gone astray, for the sake of Thy great mercy!

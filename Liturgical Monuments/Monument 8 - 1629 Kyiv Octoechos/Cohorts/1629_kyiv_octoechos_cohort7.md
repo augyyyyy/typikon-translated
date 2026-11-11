@@ -318,7 +318,7 @@ He Who is the Lord of glory and ruler of the higher hosts, Who sits with the Fat
 
 **[Left Page — Fol. 65v]**
 
-nds borne: we bless Thy childbearing, O blessed Virgin.[^71]
+nds borne: we bless thy childbearing, O blessed Virgin.[^71]
 
 *Troparia:*  
 Fierce was death, but partaking of it, Thou hast destroyed it; since from the Virgin flesh was united unto God, we cry: Blessed art Thou, O God of our fathers!

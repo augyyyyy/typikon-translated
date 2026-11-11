@@ -8,11 +8,11 @@
 
 32.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τοῦ Πάσχα καὶ τὸ Εἰσοδικόν, τὸ Ἀπολυτίκιον τῆς ἑορτῆς, τὸ τοῦ Ἁγίου καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Τῆς ἑορτῆς τῆς νομικῆς, Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς μνημόσυνον, Χριστὸς ἀνέστη, Εἴη τὸ ὄνομα Κυρίου καὶ Ἀπόλυσις.
 
-### ΙΓ΄.
+**ΙΓ΄.**
 
 33.    Εἰ τύχοι τῇ Κυριακῇ τῆς Σαμαρείτιδος, ἐν τῇ περιπτώσει ταύτῃ ἡ Ἀκολουθία τῆς Μεσοπεντηκοστῆς καταλιμπάνεται⁶ καὶ ψάλλεται ἡ τοῦ Ἁγίου μετὰ τῆς Ἀναστασίμου καὶ τῆς Σαμαρείτιδος κατὰ τὴν διάταξιν τῆς Κυριακῆς τοῦ Παραλύτου (ἐν περιπτώσει Θ΄ § 23-25), τὰ Δοξαστικά, τοῦ Ἁγίου, Καὶ νῦν τῆς Σαμαρείτιδος. Ἀπολυτίκια, τὸ Ἀναστάσιμον, τοῦ Ἁγίου καὶ τῆς Μεσοπεντηκοστῆς. Εἰς τὸν Ὄρθρον, Καθίσματα, εἰς τὴν α΄ Στιχολογίαν Ἀναβλέψασαι τοῦ τάφου, Δόξα, Ἀνέτειλεν ἰδού, Καὶ νῦν, Ἀνέστης ὡς Ἀθάνατος. Εἰς τὴν β΄ Στιχολογίαν Ἐκ τῶν ἄνω κατελθών, Δόξα, Πόθῳ ζέοντι, Καὶ νῦν, Ἑκουσίᾳ σου βουλῇ. Εἰς τὴν γ΄ Στιχολογίαν Γεωργήσας ἐμμελῶς, Δόξα, Καὶ νῦν, Κατεπλάγη Ἰωσήφ, Ἐξαποστειλάρια τοῦ Πάσχα, τοῦ Ἁγίου καὶ τῆς Σαμαρείτιδος. Εἰς τοὺς Αἴνους Ἀναστάσιμα γ΄, τοῦ Ἁγίου γ΄ καὶ τὰ Πάσχα ἱερόν, Δόξα τοῦ Ἁγίου, Καὶ νῦν, Ἡ πηγὴ τῆς ζωαρχίας κτλ. (Ὅρα ἐν τῇ Κυριακῇ τοῦ Παραλύτου).
 
-### ΙΔ΄.
+**ΙΔ΄.**
 
 34.    Εἰ τύχοι ἐν τῇ Ἀποδόσει τῆς Μεσοπεντηκοστῆς, ἡ
 
@@ -28,11 +28,11 @@ the Katavasiai: **"Drowning the prideful Pharaoh"** (*Θάλασσαν ἔπηξ
 
 32.    In the Divine Liturgy, the Antiphons and Entrance Hymn [Eisodikon] of Pascha. After the Entrance, the Dismissal Troparion of the Feast, that of the Saint, and that of the Patron Saint of the Church; the Kontakion: **"Of the feast of the Law"** (*Τῆς ἑορτῆς τῆς νομικῆς*); the Epistle and Gospel of the Saint. At "Especially": **"It is meet in truth"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"The righteous shall be in everlasting remembrance"** (*Εἰς μνημόσυνον αἰώνιον*, Ps. 111:6 LXX); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
 
-### SITUATION THIRTEEN
+**SITUATION THIRTEEN**
 
 33.    If the Feast of the Saint occurs on the Sunday of the Samaritan Woman, in this situation the service of Mid-Pentecost is omitted⁶ and the service of the Saint is chanted together with that of the Resurrection and the Samaritan Woman, according to the order of the Sunday of the Paralytic (Situation Nine, Paragraphs 23–25); the Doxastika: of the Saint; "Both now and ever...": of the Samaritan Woman. Dismissal Troparia: of the Resurrection, of the Saint, and of Mid-Pentecost. At Matins, Sessional Hymns: after the 1st Psalter reading [Stichologia]: **"Having beheld the entrance of the tomb"** (*Ἀναβλέψασαι τοῦ τάφου*); "Glory...": **"Behold, the springtime of grace has dawned"** (*Ἀνέτειλεν ἰδού*); "Both now and ever...": **"Thou didst arise as Immortal"** (*Ἀνέστης ὡς Ἀθάνατος*). After the 2nd Psalter reading: **"Descending from on high"** (*Ἐκ τῶν ἄνω κατελθών*); "Glory...": **"Ablaze with desire"** (*Πόθῳ ζέοντι*); "Both now and ever...": **"By Thine own free will"** (*Ἑκουσίᾳ σου βουλῇ*). After the 3rd Psalter reading: **"Studiously cultivating the seed"** (*Γεωργήσας ἐμμελῶς*); "Glory... Both now and ever...": **"Joseph was struck with amazement"** (*Κατεπλάγη Ἰωσήφ*). Exapostilaria: of Pascha, of the Saint, and of the Samaritan Woman. At the Praises: 3 Resurrection Stichira, 3 of the Saint, and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": of the Saint; "Both now and ever...": **"The wellspring of life-giving principle"** (*Ἡ πηγὴ τῆς ζωαρχίας*), etc. (See on the Sunday of the Paralytic).
 
-### SITUATION FOURTEEN
+**SITUATION FOURTEEN**
 
 34.    If the Feast of Saint George occurs on the Apodosis of Mid-
 
@@ -46,7 +46,7 @@ the Katavasiai: **"Drowning the prideful Pharaoh"** (*Θάλασσαν ἔπηξ
 
 Ἀκολουθία ψάλλεται κατὰ τὴν ἐν περιπτώσει ΙΑ΄ § 27-29 διάταξιν. Εἰς τὸν Ὄρθρον, Κοντάκιον καὶ Οἶκος τοῦ Ἁγίου καὶ τὸ Μηνολόγιον. Ἀντὶ Τὴν τιμιωτέραν, ψάλλεται ἡ θ΄ τῆς ἑορτῆς καὶ ἡ τοῦ Ἁγίου· Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου. Εἰς τὸ Ἐξαιρέτως Ἀλλότριον τῶν μητέρων, Κοινωνικὸν τῆς ἑορτῆς, Ἀπόλυσις καὶ Ἀπόδοσις.
 
-### ΙΕ΄.
+**ΙΕ΄.**
 
 35.    Εἰ τύχοι τῇ Πέμπτῃ μετὰ τὴν Ἀπόδοσιν τῆς Μεσοπεντηκοστῆς, τῇ Τετάρτῃ ἑσπέρας μετὰ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ Κύριε ἐκέκραξα τὰ ς΄ Στιχηρὰ τοῦ Ἁγίου καὶ τὰ Δόξα, Καὶ νῦν, Παρὰ τὸ φρέαρ τοῦ Ἰακώβ, τὰ Ἀναγνώσματα, τὰ Ἀπόστιχα καὶ τὸ Δόξα τοῦ Ἁγίου, Καὶ νῦν τῆς Σαμαρείτιδος, Ἀπολυτίκιον τοῦ Ἁγίου Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον καὶ Ἀπόλυσις.
 
@@ -62,7 +62,7 @@ the Katavasiai: **"Drowning the prideful Pharaoh"** (*Θάλασσαν ἔπηξ
 
 Pentecost, the service is celebrated according to the order in Situation Eleven, Paragraphs 27–29. At Matins, the Kontakion and Ikos of the Saint and the Menologion. In place of **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*), Ode 9 of the Feast and that of the Saint are chanted; the Epistle and Gospel of the Saint. At "Especially": **"Virginity is alien to motherhood"** (*Ἀλλότριον τῶν μητέρων ἡ παρθενία*); Communion Hymn of the Feast; Dismissal, and the Apodosis.
 
-### SITUATION FIFTEEN
+**SITUATION FIFTEEN**
 
 35.    If the Feast of the Saint occurs on the Thursday following the Apodosis of Mid-Pentecost, on Wednesday evening, after the 1st Stasis of the Psalter [Pss. 1–3 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the 6 Stichira of the Saint; "Glory... Both now and ever...": **"At Jacob's well"** (*Παρὰ τὸ φρέαρ τοῦ Ἰακώβ*); the Old Testament Lessons; the Aposticha and "Glory...": of the Saint; "Both now and ever...": of the Samaritan Woman. The Dismissal Troparion of the Saint: **"As the liberator of captives"** (*Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*); "Glory... Both now and ever...": **"The mystery hidden from all eternity"** (*Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον*), and Dismissal.
 
@@ -80,7 +80,7 @@ Pentecost, the service is celebrated according to the order in Situation Eleven,
 
 Σημειωτέον ὅτι ἡ μνήμη τοῦ Ἁγίου δυνατὸν νὰ συμπέσῃ ἐν τῷ Πεντηκοσταρίῳ ἀπὸ τῆς Δευτέρας τῆς Διακαινησίμου μέχρι τῆς Πέμπτης τῆς ἑβδομάδος τῆς Σαμαρείτιδος. (Ὅρα τὸν τοῦ Ἑορτοδρομίου Πίνακα).
 
-### Α΄.
+**Α΄.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Ἀποστόλου τῇ Δευτέρᾳ τῆς Διακαινησίμου, ἡ Ἀκολουθία μετατίθεται καὶ ψάλλεται τῇ Τρίτῃ ὡς ἑξῆς. Τῇ Δευτέρᾳ τῆς Διακαινησίμου ἑσπέρας εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν Ἀναστάσιμα δ΄ καὶ τοῦ Ἀποστόλου δ΄. Δόξα, Οἱ ἀναξίως ἑστῶτες (ἢ τοῦ Ἀποστόλου ἐὰν ἑορτάζηται), Καὶ νῦν, Πῶς μὴ θαυμάσωμεν. Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον Ὁ Θεὸς ἡμῶν ἐν τῷ Οὐρανῷ καὶ ἐν τῇ γῇ. Εἰς τὰ Ἀπόστιχα τὸ Ἀναστάσιμον Ὁ τῷ πάθει σου Χριστέ, καὶ τὰ Στιχηρὰ Πάσχα ἱερόν, Δόξα τοῦ Ἀποστόλου, Καὶ νῦν, Ἀναστάσεως ἡμέρα, Χριστὸς ἀνέστη, τὸ Ἀπολυτίκιον τοῦ Ἀποστόλου, αὖθις Χριστὸς ἀνέστη, καὶ Ἀπόλυσις.
 
@@ -96,7 +96,7 @@ Saint of the Church, and the Kontakion: **"Though Thou didst descend into the to
 
 It should be noted that the commemoration of the Saint may concur in the Pentecostarion from Monday of Bright Week until Thursday of the week of the Samaritan Woman. (See the Table of Movable Feasts [Heortodromion]).
 
-### SITUATION ONE
+**SITUATION ONE**
 
 1.    If the commemoration of the Apostle occurs on Monday of Bright Week, the service is transferred and is chanted on Bright Tuesday as follows: On Monday evening of Bright Week, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 4 Resurrection Stichira and 4 Stichira of the Apostle; "Glory...": **"We who stand unworthily"** (*Οἱ ἀναξίως ἑστῶτες*, or of the Apostle if the church is dedicated to him); "Both now and ever...": **"Who would not marvel at thee"** (*Πῶς μὴ θαυμάσωμεν*). Little Entrance, **"O Gladsome Light"**, the Prokeimenon: **"Our God is in Heaven and on earth"** (*Ὁ Θεὸς ἡμῶν ἐν τῷ Οὐρανῷ καὶ ἐν τῇ γῇ*, Ps. 113:11 LXX). At the Aposticha: the Resurrection Apostichon: **"O Christ, Who by Thy Passion"** (*Ὁ τῷ πάθει σου Χριστέ*), and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": of the Apostle; "Both now and ever...": **"It is the day of Resurrection"** (*Ἀναστάσεως ἡμέρα*); **"Christ is risen"**, the Dismissal Troparion of the Apostle, again **"Christ is risen"**, and Dismissal.
 
@@ -112,7 +112,7 @@ It should be noted that the commemoration of the Saint may concur in the Penteco
 
 Καὶ κατὰ τὰς λοιπὰς τῆς ἑβδομάδος ταύτης ἡμέρας, ἡ αὐτὴ τῆς Ἀκολουθίας τοῦ Ἀποστόλου τηρεῖται τάξις.
 
-### Β΄.
+**Β΄.**
 
 3.    Εἰ τύχοι τῇ Κυριακῇ τοῦ Θωμᾶ, εἰς τὸ Κύριε ἐκέκραξα Στιχηρὰ τῆς ἑορτῆς ψάλλομεν ς΄, καὶ τοῦ Ἀποστόλου δ΄. Δόξα, Καὶ νῦν τῆς ἑορτῆς, εἰς τὰ Ἀπόστιχα Δόξα τοῦ Ἀποστόλου, Καὶ νῦν τῆς ἑορτῆς, Ἀπολυτίκιον τῆς ἑορτῆς, τοῦ Ἀποστόλου, αὖθις τὸ τῆς ἑορτῆς καὶ Ἀπόλυσις.
 
@@ -120,7 +120,7 @@ It should be noted that the commemoration of the Saint may concur in the Penteco
 
 Τὴν διάταξιν τῆς Ἀκολουθίας τοῦ Ἀποστόλου κατὰ τὰς μεθεόρτους ἡμέρας τῆς ἑβδομάδος ταύτης ὅρα ἐν τῇ ἑορτῇ τοῦ Ἁγίου Γεωργίου.
 
-### Γ΄.
+**Γ΄.**
 
 5.    Εἰ τύχοι τῇ Κυριακῇ τῶν Μυροφόρων, τῷ Σαββάτῳ ἑσπέρας, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν Ἀναστάσιμα δ΄, τῶν Μυροφόρων γ΄ καὶ τοῦ Ἀποστόλου γ΄. Δόξα τῶν Μυροφόρων, Καὶ νῦν, Παρῆλθεν ἡ σκιά. Εἰς τὰ Ἀπόστιχα, Δόξα τοῦ Ἀποστόλου, Καὶ νῦν, Σὲ τὸν ἀναβαλλόμενον τὸ φῶς, Ἀπολυτίκια Ὅτε κατῆλθες, Ὁ εὐσχήμων Ἰωσήφ, Ἀπόστολε Ἅγιε, Ταῖς Μυροφόροις γυναιξὶ καὶ Ἀπόλυσις.
 
@@ -136,7 +136,7 @@ the reverse of the usual order—that is, the Epistle of the Saint and the Gospe
 
 And throughout the remaining days of this week, the same order of the service of the Apostle is observed.
 
-### SITUATION TWO
+**SITUATION TWO**
 
 3.    If the commemoration of the Apostle Mark occurs on Thomas Sunday, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 6 Stichira of the Feast and 4 of the Apostle; "Glory... Both now and ever...": of the Feast. At the Aposticha: "Glory...": of the Apostle; "Both now and ever...": of the Feast. Dismissal Troparia: of the Feast, of the Apostle, again that of the Feast, and Dismissal.
 
@@ -144,7 +144,7 @@ And throughout the remaining days of this week, the same order of the service of
 
 For the order of the service of the Apostle on the Afterfeast days of this week, see under the Feast of Saint George.
 
-### SITUATION THREE
+**SITUATION THREE**
 
 5.    If the commemoration of Saint Mark occurs on the Sunday of the Myrrhbearers, on Saturday evening, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 4 Resurrection Stichira, 3 of the Myrrhbearers, and 3 of the Apostle; "Glory...": of the Myrrhbearers; "Both now and ever...": **"The shadow of the Law hath passed away"** (*Παρῆλθεν ἡ σκιά*). At the Aposticha: "Glory...": of the Apostle; "Both now and ever...": **"Thou Who clothest Thyself with light as with a garment"** (*Σὲ τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάτιον*, Ps. 103:2 LXX). The Dismissal Troparia: **"When Thou didst descend unto death, O Life Immortal"** (*Ὅτε κατῆλθες πρὸς τὸν θάνατον*), **"The noble Joseph"** (*Ὁ εὐσχήμων Ἰωσήφ*), **"O Holy Apostle"** (*Ἀπόστολε Ἅγιε*), **"Unto the myrrhbearing women"** (*Ταῖς μυροφόροις γυναιξί*), and Dismissal.
 
@@ -158,7 +158,7 @@ For the order of the service of the Apostle on the Afterfeast days of this week,
 
 Ἀποστόλου, καὶ τὸ ἕτερον τῶν Μυροφόρων κτλ. Ἐξαποστειλάρια τοῦ Πάσχα, τοῦ Ἀποστόλου, καὶ τῶν Μυροφόρων. Εἰς τοὺς Αἴνους, Ἀναστάσιμα γ΄, τοῦ Ἀποστόλου γ΄ καὶ τὰ Πάσχα ἱερόν, Δόξα τὸ Ἑωθινόν, Καὶ νῦν, Ἀναστάσεως ἡμέρα, Δοξολογία Μεγάλη, Σήμερον σωτηρία, καὶ καθεξῆς ἡ Λειτουργία, ἐν ᾗ ψάλλομεν τὰ Ἀντίφωνα, καὶ τὸ Εἰσοδικὸν τοῦ Πάσχα. Μετὰ τὴν Εἴσοδον, τὰ Ἀπολυτίκια τῶν Μυροφόρων, τὸ τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ, καὶ Κοντάκιον Εἰ καὶ ἐν τάφῳ, Ἀπόστολος τοῦ Ἁγίου, καὶ Εὐαγγέλιον τῆς Κυριακῆς κτλ. Κοινωνικὸν Σῶμα Χριστοῦ, Χριστὸς ἀνέστη, Εἴη τὸ ὄνομα Κυρίου καὶ Ἀπόλυσις.
 
-### Δ΄.
+**Δ΄.**
 
 7.    Εἰ τύχοι τῇ Δευτέρᾳ τῶν Μυροφόρων, ἢ ἄλλῃ ἡμέρᾳ τῆς ἑβδομάδος ταύτης, ἐν τῷ ἑσπερινῷ Προσόμοια τοῦ Πεντηκοσταρίου τῆς ἡμέρας γ΄ καὶ γ΄ τοῦ Ἀποστόλου. Δόξα τοῦ Ἀποστόλου, Καὶ νῦν τῶν Μυροφόρων, τὰ Ἀπόστιχα καὶ τὸ Δόξα τοῦ Ἀποστόλου, Καὶ νῦν τῶν Μυροφόρων, τὰ Ἀπολυτίκια Ὁ εὐσχήμων Ἰωσήφ, Ἀπόστολε Ἅγιε, Ταῖς μυροφόροις γυναιξὶ καὶ Ἀπόλυσις.
 
@@ -174,7 +174,7 @@ For the order of the service of the Apostle on the Afterfeast days of this week,
 
 other Sessional Hymn of the Myrrhbearers, etc. The Exapostilaria: of Pascha, of the Apostle, and of the Myrrhbearers. At the Praises: 3 Resurrection Stichira, 3 of the Apostle, and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": the Morning Gospel Doxastikon [Eothinon]; "Both now and ever...": **"It is the day of Resurrection"** (*Ἀναστάσεως ἡμέρα*); Great Doxology, and **"Today salvation is come unto the world"** (*Σήμερον σωτηρία*). And immediately follows the Divine Liturgy, in which we sing the Antiphons and Entrance Hymn [Eisodikon] of Pascha. After the Entrance, the three Dismissal Troparia of the Myrrhbearers, the Dismissal Troparion of the Apostle, the Dismissal Troparion of the Patron Saint of the Church, and the Kontakion: **"Though Thou didst descend into the tomb"** (*Εἰ καὶ ἐν τάφῳ*). The Epistle of the Apostle and the Gospel of the Sunday, etc.; Communion Hymn: **"Receive the Body of Christ"** (*Σῶμα Χριστοῦ*); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
 
-### SITUATION FOUR
+**SITUATION FOUR**
 
 7.    If the Feast of Saint Mark occurs on Monday of the Myrrhbearers or on any day of this week, at Vespers, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant three Prosomia of the day from the Pentecostarion and 3 of the Apostle; "Glory...": of the Apostle; "Both now and ever...": of the Myrrhbearers. The Aposticha and "Glory...": of the Apostle; "Both now and ever...": of the Myrrhbearers. Dismissal Troparia: **"The noble Joseph"** (*Ὁ εὐσχήμων Ἰωσήφ*), **"O Holy Apostle"** (*Ἀπόστολε Ἅγιε*), and **"Unto the myrrhbearing women"** (*Ταῖς μυροφόροις γυναιξί*), and Dismissal.
 

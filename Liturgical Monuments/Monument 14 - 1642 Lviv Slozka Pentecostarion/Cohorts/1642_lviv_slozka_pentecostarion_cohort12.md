@@ -4,41 +4,11 @@
 
 ## Great and Holy Friday: Third Hour
 
-*At the seventh hour of the day, the small semantron is struck, and having gathered in church, we begin the Third Hour:*[^355]
+*At the seventh hour of the day, the small wooden board [Klepalo] is struck, and we gather in the church and begin the Third Hour:*[^355]
 
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages.
+*Trisagion. And after* **"Our Father"***:* **"Lord, have mercy"** *(12 times).* *Glory... Both now...* **"O come, let us worship..."** *(thrice).*
 
-**Reader:** Amen.
-
-Glory to Thee, our God, glory to Thee.
-
-O Heavenly King, Comforter, Spirit of truth, Who art everywhere present and fillest all things, Treasury of good gifts and Giver of life: come and abide in us, and cleanse us from every stain, and save our souls, O Good One.
-
-Holy God, Holy Mighty, Holy Immortal, have mercy on us. *(thrice)*
-
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-
-All-holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy name's sake.
-
-Lord, have mercy. *(thrice)*
-
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-
-Our Father, Who art in the heavens, hallowed be Thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
-
-**Priest:** For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
-
-**Reader:** Amen.
-
-Lord, have mercy. *(12 times)*
-
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
-
-*Psalm 40 (LXX):*
+*Then Psalm 40 (LXX):*
 Blessed is he that considers the poor and needy; the Lord shall deliver him in an evil day.
 The Lord preserve him, and keep him alive, and make him blessed upon the earth, and deliver him not into the hands of his enemies.
 The Lord help the needy man upon his bed of sorrow; Thou hast turned all his bed in his sickness.
@@ -124,15 +94,12 @@ A sacrifice to God is a broken spirit: a broken and a contrite heart God will no
 Do good, O Lord, in Thy good pleasure unto Zion, and let the walls of Jerusalem be built.
 Then shalt Thou be pleased with the sacrifice of righteousness, with oblation and burnt offerings; then shall they offer calves upon Thine altar.
 
-*Glory to the Father, and to the Son, and to the Holy Spirit.*
+*Glory... Both now...* **"Alleluia"** *(thrice).* **"Lord, have mercy"** *(thrice).*
 
-*Troparion, Tone 6:*
-Lord, the Jews condemned Thee unto death, the Life of all. Those who passed dryshod through the Red Sea by Moses' rod nailed Thee to the Cross; and those who sucked honey from the rock offered Thee gall. But willingly didst Thou endure this, that Thou mightest free us from the slavery of the enemy. O Christ our God, glory to Thee![^360]
+*Then Glory... Troparion, Tone 6:*
+Lord, the Jews condemned Thee unto death, the Life of all. Those who passed dryshod through the Red Sea by Moses' rod nailed Thee to the Cross; and those who sucked honey from the rock offered Thee gall. But willingly didst Thou endure this, that Thou mightest free us from the slavery of the enemy. O Lord, glory to Thee![^360]
 
-*Both now and ever, and unto ages of ages. Amen.*
-
-*Theotokion:*
-O Theotokos, thou art the true Vine that didst bud forth for us the Fruit of life: we entreat thee, intercede, O Lady, together with the Apostles and all the Saints, that He may have mercy on our souls!
+*Both now... Theotokion:* **"O Theotokos, thou art the true vine..."**
 
 *Then Stichera Idiomela, Tone 8:*
 For fear of the Jews, Thy friend and neighbor Peter denied Thee, O Lord; and weeping he cried aloud thus: "Despise not my tears! For I said I would keep the faith, yet I kept it not! Receive our repentance also, and have mercy on us!"[^361]
@@ -157,54 +124,33 @@ The same Sticheron.
 *Then the Prokimenon, Tone 4:* For I am ready for scourges, and my sorrow is continually before me. (Ps. 37:18 [LXX])
 *Verse:* O Lord, rebuke me not in Thine anger, neither chasten me in Thy wrath. (Ps. 37:2 [LXX])
 
-*Reading from the Prophecy of Isaiah (Isaiah 50:4–11):*[^363]
-The Lord gives me the tongue of instruction, that I should know when to speak a word in season; He gave me a word early, He added unto me an ear to hear. And the instruction of the Lord, the Lord opens mine ears, and I was not disobedient, nor contradicted. I turned not away...
+*Reading from the Prophecy of Isaiah, Chapter 50 (Isaiah 50:4–11):*[^363]
+The Lord gives me the tongue of instruction, that I should know when it is fitting to speak a word; He appointed for me early, in the morning He added unto me an ear to hear. And the instruction of the Lord opens mine ears...
 
 === LEAF p114 ===
 
-...My back from scourgings, and My cheeks to buffeting, and I hid not My face from the shame of spittings. And the Lord was My helper; therefore I was not confounded, but I set My face as a solid rock, and I know that I shall not be ashamed. For He is near that justifies Me: who will contend with Me? Let him stand up against Me! And who is My judge? Let him draw near unto Me! Behold, the Lord will help Me: who will harm Me? Behold, all ye shall wax old as a garment, and a moth shall devour you. Who among you fears the Lord? Let him give ear to the voice of His Servant. Ye that walk in darkness and have no light, trust in the name of the Lord, and stay upon God. Behold, all ye kindle a fire, and strengthen the flame: walk in the light of your fire, and in the flame which ye have kindled. This hath happened unto you from My hand; in sorrow shall ye lie down.
+...and I do not resist, nor speak against it. I gave My back to scourgings, and My cheeks to buffetings; and I turned not away My face from the shame of spittings. And the Lord, the Lord became My helper; therefore I was not ashamed, but I set My face as a solid rock, and I knew that I should not be confounded. For He draws near Who justified Me: who is he that contends with Me? Let him stand up against Me together! And who is he that judges Me? Let him draw near unto Me! Behold, the Lord God will help Me: who will harm Me? Behold, all ye shall wax old as a garment, and a moth shall devour you. Who among you fears the Lord? Let him hear the voice of His Servant: ye that walk in darkness and have no light, trust in the name of the Lord, and stay upon God. Behold, all ye kindle a fire, and strengthen a flame: walk in the light of your fire, and in the flame which ye have kindled. For My sake hath this happened unto you; in sorrow shall ye lie down.
 
 *Then the Epistle to the Romans, pericopa 88 from the half (Romans 5:6–10):*[^364]
 Brethren: For why did Christ, when we were yet without strength, in due time die for the ungodly? For scarcely for a righteous man will one die; yet perhaps for a good man someone would even dare to die. But God commends His love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by His blood, we shall be saved from wrath through Him. For if, when we were enemies, we were reconciled to God by the death of His Son, much more, having been reconciled, we shall be saved by His life.
 
-*Then the Gospel according to Mark, pericopas 67 and 68 (Mark 15:16–41):*[^365]
-At that time, the soldiers led Jesus away into the hall called Praetorium; and they call together the whole band. And they clothed Him with purple, and platted a crown of thorns, and put it about His head, and began to salute Him: "Hail, King of the Jews!" And they smote Him on the head with a reed, and spat upon Him, and bowing their knees worshiped Him. And when they had mocked Him, they took off the purple from Him, and put His own clothes on Him, and led Him out to crucify Him. And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear His Cross. And they bring Him unto the place Golgotha, which is, being interpreted: The Place of a Skull. And they gave Him to drink wine mingled with myrrh; but He received it not. And when they had crucified Him, they parted His garments, casting lots upon them, what every man should take. And it was the third hour, and they crucified Him. And the superscription of His accusation was written over: THE KING OF THE JEWS. And with Him they crucify two thieves: the one on His right hand, and the other on His left. And the Scripture was fulfilled, which says: "And He was numbered with the transgressors." And they that passed by railed on Him, wagging their heads, and saying: "Ah, Thou that destroyest the temple, and buildest it in three days, save Thyself, and come down from the Cross!" Likewise also the chief priests mocking said among themselves with the scribes: "He saved others; Himself He cannot save! Let Christ the King of Israel descend now from the Cross, that we may see and believe!" And they that were crucified with Him reviled Him. And when the sixth hour was come, there was darkness over the whole land until the ninth hour. And at the ninth hour Jesus cried with a loud voice, saying: "Eloi, Eloi, lama sabachthani?" which is, being interpreted: "My God, My God, why hast Thou forsaken Me?" And some of them that stood by, when they heard it, said: "Behold, He calls Elijah." And one ran and filled a sponge full of vinegar, and put it on a reed, and gave Him to drink, saying: "Let alone; let us see whether Elijah will come to take Him down." And Jesus cried with a loud voice, and gave up the spirit. And the veil of the temple was torn in two from the top to the bottom. And when the centurion, who stood over against Him, saw that He so cried out, and gave up the spirit, he said: "Truly this Man was the Son of God!" There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome; who also, when He was in Galilee, followed Him, and ministered unto Him; and many other women who came up with Him unto Jerusalem.
+*Gospel according to Mark, pericopas 67 and 68 in order:*[^365]
+**"At that time, the soldiers led Jesus away into the hall..."** *End:* **"...who came up with Him unto Jerusalem."**
 
-*Then:*
-Direct my steps according to Thy word, and let no iniquity have dominion over me. Deliver me from the slander of men, and I will keep Thy commandments. Make Thy face to shine upon Thy servant, and teach me Thy statutes. Let my mouth be filled with Thy praise, O Lord, that I may hymn Thy glory and Thy majesty all the day long.
+*Then:* **"The Lord God is blessed..."** *Trisagion, and after* **"Our Father"***:*
 
-*Trisagion through Our Father.*
+*Kontakion:* **"Him Who was crucified for our sake..."** *(Folio 107).*
 
-*Kontakion, Tone 8:*
-Come, let us all hymn Him Who was crucified for our sake; for Mary beheld Him upon the Tree and said: "Even though Thou endurest crucifixion, Thou art My Son and My God!"
+*Then:* **"Lord, have mercy"** *(40 times).* *Prayer:* **"Thou Who at all times..."** **"Lord, have mercy"** *(thrice).* *Glory... Both now...* **"More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**
 
-*Then:* Lord, have mercy. *(40 times)*
+**Priest:** **"Through the prayers of our holy fathers..."**
 
-*And the Prayer of the Hours:*
-Thou Who at all times and at every hour, in heaven and on earth, art worshiped and glorified, O Christ God, long-suffering, plenteous in mercy, most compassionate; Who lovest the righteous and hast mercy on sinners; Who callest all to salvation through the promise of good things to come: do Thou Thyself, O Lord, receive also our supplications at this hour, and direct our life in Thy commandments. Sanctify our souls, purify our bodies, set right our thoughts, cleanse our minds, and deliver us from all sorrow, evil, and pain. Compass us about with Thy holy Angels, that, guarded and guided by their host, we may attain to the unity of the faith and to the comprehension of Thine unapproachable glory: for blessed art Thou unto ages of ages. Amen.
+*Then this Prayer:*[^366]
+O Master God, Father Almighty, and Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, and one Power, have mercy on me a sinner; and by the judgments which Thou knowest, save me, Thine unworthy servant: for blessed art Thou unto ages of ages. Amen.
 
-Lord, have mercy. *(thrice)*
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify.
-In the name of the Lord, bless, Father.
+## Then the Sixth Hour
 
-**Priest:** God be merciful unto us and bless us, and cause His face to shine upon us, and have mercy on us.
-
-*And this Prayer of Saint Mardarios:*[^366]
-O Master God, Father Almighty, and Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, one Power, have mercy on me a sinner; and by the judgments which Thou knowest, save Thine unworthy servant: for blessed art Thou unto ages of ages. Amen.
-
-## Great and Holy Friday: Sixth Hour
-
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages.
-
-**Reader:** Amen.
-
-Glory to Thee, our God, glory to Thee.
-O Heavenly King... Trisagion through Our Father... Lord, have mercy *(12 times).* Glory, Both now:
-
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
+**"O come, let us worship..."** *(thrice).* *And Psalm 51 (LXX).*
 
 *Psalm 51 (LXX):*
 Why boastest thou in malice, O mighty man?
@@ -278,20 +224,12 @@ Because he hath set his hope on Me, therefore will I deliver him; I will protect
 He shall cry unto Me, and I will give ear unto him; I am with him in affliction, and I will deliver him and glorify him.
 With length of days will I satisfy him, and show him My salvation.
 
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-Alleluia, alleluia, alleluia, glory to Thee, O God. *(thrice)*
-Lord, have mercy. *(thrice)*
+*Glory... Both now...* **"Alleluia"** *(thrice).* **"Lord, have mercy"** *(thrice).*
 
-*Troparion, Tone 2:*
-Thou hast wrought salvation in the midst of the earth, O Christ God. Thou didst stretch out Thy most pure hands upon the Cross; Thou hast gathered all the nations crying aloud: O Lord, glory to Thee![^368]
+*Glory... Troparion, Tone 2:*
+Thou hast wrought salvation in the midst of the earth, O Christ God; Thou didst stretch out Thy most pure hands upon the Cross, gathering all the nations crying aloud: O Lord, glory to Thee![^368]
 
-*Glory to the Father, and to the Son, and to the Holy Spirit.*
-The same Troparion.
-
-*Both now and ever, and unto ages of ages. Amen.*
-
-*Theotokion:*
-Seeing that we have no boldness because of our many sins, do thou entreat Him Who was born of thee, O Virgin Theotokos: for the supplication of a Mother avails much unto the favor of the Master. Despise not the supplications of sinners, O all-pure one; for He is merciful and able to save, He Who also deigned to suffer for us!
+*Both now... Theotokion:* **"Seeing that we have no boldness..."**
 
 *Then Stichera Idiomela, Tone 8:*
 Thus says the Lord unto the Jews: "My people, what have I done unto thee? Or wherein have I grieved thee? Thy blind have I enlightened, thy lepers have I cleansed, the man lying upon his bed have I restored. My people, what have I done unto thee, and wherewith hast thou repaid Me? Instead of the manna, gall; instead of water, vinegar; instead of loving Me, to the Cross thou hast nailed Me! No longer will I endure you: I will call My Gentiles, and they shall glorify Me with the Father and the Spirit, and I will bestow upon them eternal life!"[^369]
@@ -328,34 +266,23 @@ Brethren: Both He that sanctifies and they who are sanctified are all of one; fo
 
 ...in Him." And again: "Behold, I and the children whom God hath given Me." Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise took part of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage. For truly He took not on Him the nature of Angels; but He took on Him the seed of Abraham. Therefore in all things it behooved Him to be made like unto His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make reconciliation for the sins of the people. For in that He Himself hath suffered being tempted, He is able to help them that are tempted.
 
-*Then the Gospel according to Luke, pericopa 121 (Luke 23:32–49):*[^373]
-At that time, there were also two other malefactors led with Jesus to be put to death. And when they were come to the place which is called Calvary, there they crucified Him, and the malefactors, one on the right hand, and the other on the left. Then said Jesus: "Father, forgive them; for they know not what they do." And they parted His raiment, and cast lots. And the people stood beholding. And the rulers also with them derided Him, saying: "He saved others; let Him save Himself, if He be Christ, the chosen of God!" And the soldiers also mocked Him, coming to Him, and offering Him vinegar, and saying: "If Thou be the King of the Jews, save Thyself!" And a superscription also was written over Him in letters of Greek, and Latin, and Hebrew: THIS IS THE KING OF THE JEWS. And one of the malefactors who were hanged railed on Him, saying: "If Thou be Christ, save Thyself and us!" But the other answering rebuked him, saying: "Dost not thou fear God, seeing thou art in the same condemnation? And we indeed justly; for we receive the due reward of our deeds: but this Man hath done nothing amiss." And he said unto Jesus: "Lord, remember me when Thou comest into Thy Kingdom!" And Jesus said unto him: "Amen I say unto thee, today shalt thou be with Me in Paradise!" And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour. And the sun was darkened, and the veil of the temple was torn in the midst. And when Jesus had cried with a loud voice, He said: "Father, into Thy hands I commend My spirit!" And having said thus, He gave up the spirit. Now when the centurion saw what was done, he glorified God, saying: "Certainly this was a righteous Man!" And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned. And all His acquaintance, and the women that followed Him from Galilee, stood afar off, beholding these things.
+*Then the Gospel according to Luke, pericopa 111 (Luke 23:32–49):*[^373]
+**"At that time, there were led with Jesus..."** *End:* **"...they looked back, beholding these things."**
 
-*Then:*
-Let Thy tender mercies speedily prevent us, O Lord, for we are greatly impoverished. Help us, O God our Savior, for the glory of Thy name; O Lord, deliver us, and purge away our sins, for Thy name's sake.
+*Then:* **"Let Thy tender mercies speedily go before us, O Lord..."** *And the Trisagion; after* **"Our Father"***, Kontakion:* **"Him Who was crucified for our sake..."** *(See Folio 107).* **"Lord, have mercy"** *(40 times).*
 
-*Trisagion through Our Father.*
+*Then the Prayer:* **"Thou Who at all times and at every hour..."** **"Lord, have mercy"** *(thrice).* *Glory... Both now...* **"More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**
 
-*Kontakion, Tone 8:*
-Come, let us all hymn Him Who was crucified for our sake; for Mary beheld Him upon the Tree and said: "Even though Thou endurest crucifixion, Thou art My Son and My God!" *(see fol. 102)*
-
-*Lord, have mercy (40 times).*
-
-*Then the Prayer of the Hours:* Thou Who at all times and at every hour...
-*Lord, have mercy (thrice). Glory, Both now: More honorable than the Cherubim... In the name of the Lord, bless, Father.*
-
-**Priest:** Through the prayers of our holy Fathers, Lord Jesus Christ our God, have mercy on us.
+**Priest:** **"Through the prayers of our holy fathers..."**
 
 *Then this Prayer:*[^374]
-O God and Lord of powers, and Maker of all creation, Who through the compassion of Thine incomprehensible mercy didst send down Thine Only-begotten Son, our Lord Jesus Christ, for the salvation of our race, and by His precious Cross didst tear asunder the handwriting of our sins, and didst triumph over the principalities and powers of darkness: do Thou Thyself, O Master, Lover of mankind, accept also from us sinners these thanksgiving and supplicatory prayers; and deliver us from every destructive and dark transgression, and from all visible and invisible enemies that seek to harm us... [Some do not say this prayer today at all three Hours.]
+**"O God and Lord of powers, Maker of all creation, Who through the compassion of Thine ineffable mercy..."** *[Some do not say this prayer today at all three Hours.]*
 
 *And after the Prayer, immediately the Ninth Hour.*
 
-## Great and Holy Friday: Ninth Hour
+## Then the Ninth Hour
 
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
+**"O come, let us worship..."** *(thrice).* *Psalm 58 (LXX).*
 
 *Psalm 58 (LXX):*
 Deliver me from mine enemies, O God, and from them that rise up against me redeem me.
@@ -426,10 +353,7 @@ Lord, have mercy. *(thrice)*
 *Troparion, Tone 8:*
 Beholding the Author of life hanging upon the Cross, the Thief said: "If He Who is crucified with us were not God incarnate, the sun would not have hidden its rays, nor would the earth quaking have been shaken! But Thou Who endurest all things: Remember me, O Lord, in Thy Kingdom!"
 
-*Both now and ever, and unto ages of ages. Amen.*
-
-*Theotokion:*
-Thou Who for our sake wast born of a Virgin, and didst endure crucifixion, O Good One, Who by death didst despoil death and didst manifest the Resurrection as God: despise not those whom Thou hast fashioned with Thine own hand; show forth Thy love for mankind, O Merciful One; accept the Theotokos that bare Thee, who intercedes for us; and save, O our Savior, a despairing people!
+*Both now... Theotokion:* **"Thou Who for our sake wast born of a Virgin, and didst endure crucifixion..."**
 
 *Then Stichera Idiomela, Tone 7:*
 A wonder it was to behold the Creator of heaven and earth hanging upon the Cross, the sun darkened, the day turned into night, and the earth giving up the bodies of the dead from their tombs! With them we worship Thee, our Savior! *(twice)*
@@ -465,8 +389,8 @@ The same Sticheron.
 *Then the Prokimenon, Psalm 13, Tone 4:* The fool hath said in his heart: There is no God. (Ps. 13:1 [LXX])
 *Verse:* There is none that does good, no, not one. (Ps. 13:1 [LXX])
 
-*Reading from the Prophecy of Jeremiah (Jer. 11:18–23; 12:1–5, 9–11, 14–15):*
-O Lord, make known to me, and I shall know; then saw I their devices... *(see fol. 77)[^375] on Great Thursday at the 4th Hour, ending: "and each into their own land."*
+*Reading from the Prophecy of Jeremiah, and Paremia (Jer. 11:18–23; 12:1–5, 9–11, 14–15):*
+**"O Lord, make known to me, and I shall know; then saw I..."** *(Seek on Great Thursday at the 1st Hour, Folio 77;[^375] End:* **"...and each into their own land."***)*
 
 *Then immediately the Epistle to the Hebrews, pericopa 324 (Hebrews 10:19–31):*
 Brethren...

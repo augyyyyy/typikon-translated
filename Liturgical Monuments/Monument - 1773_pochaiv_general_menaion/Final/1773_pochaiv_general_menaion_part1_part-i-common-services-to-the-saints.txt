@@ -4803,7 +4803,7 @@ In everlasting remembrance shall the righteous be; [he shall not be afraid of ev
 
 ### Notes
 
-[^6]: The melodic model (*Podoben*) heading designates the common Tone 4 prosomoion *Зва́нный свы́ше* (*Called from on high*, Greek *Ὁ ἐξ ὑψίστου κληθείс*).
+[^6]: The melodic model (*Podoben*) heading designates the common Tone 4 prosomoion *Зва́нный свы́ше* (*Called from on high*, Greek *Ὁ ἐξ ὑψίστου κληθείς*).
 [^7]: The abbreviation *(И҆́мⷶ)* represents *И҆́мярекъ* (*Name*), the liturgical variable placeholder where the celebrant or reader inserts the specific name of the prophet being commemorated.
 [^8]: The Cross-Theotokion (*Крестобогородиченъ*, Greek *Staurotheotokion*) is appointed for Wednesday and Friday services when a polyeleos or higher festal rank is not celebrated, recalling the lamentation of the Mother of God at the Foot of the Cross.
 [^9]: Wisdom of Solomon 3:1–9, the classical First Reading (*Paremia*) common to martyrs, prophets, and monastic saints, setting forth the eternal preservation and glorification of the righteous in the hand of God.
@@ -4838,7 +4838,7 @@ In everlasting remembrance shall the righteous be; [he shall not be afraid of ev
 [^38]: Tone 8 melodic model (*Podoben*) *Премꙋ́дрости и҆ ра́зꙋма* (*Of Wisdom and Understanding*, Greek *Τὴν σοφίαν καὶ λόγον*).
 [^39]: Matthew pericope 34 (Matthew 9:36–10:8), the appointed Matins Gospel for an Apostle, recounting Christ's compassion for the multitude and His commissioning of the Twelve Apostles with power over unclean spirits and infirmities.
 [^40]: The rubrical distribution for the Matins Canons: four troparia are sung from the canon of the Theotokos (drawn from the Oktoechos or the Theotokion appendix), and eight troparia are sung from the canon of the Apostle.
-[^41]: Ode 1 Heirmos of Tone 8, *Пѣ́снь возсле́мъ лю́дїе* (*Let us send up a song, O ye peoples*, Greek *ᾎσμα ἀναπέмψωμεν λαοί*).
+[^41]: Ode 1 Heirmos of Tone 8, *Пѣ́снь возсле́мъ лю́дїе* (*Let us send up a song, O ye peoples*, Greek *ᾎσμα ἀναπέμψωμεν λαοί*).
 [^42]: Ode 3 Heirmos of Tone 8, *Нѣ́сть ст҃ъ ꙗ҆́кѡ Гдⷭ҇ь* (*There is none holy like the Lord*, Greek *Οὐκ ἔστιν ἅγιος ὡς ὁ Κύριος*).
 [^43]: Tone 3 melodic model (*Podoben*) *Бж҃е́ственныя вѣ́ры* (*Of the divine faith*, Greek *Θείας πίστεως*).
 [^44]: The Cross-Theotokion (*Staurotheotokion*) appointed following the Kathisma/Sessional Hymn after Ode 3 when the service is sung without a Polyeleos on Wednesday or Friday.
@@ -5170,7 +5170,7 @@ In everlasting remembrance shall the righteous be; [he shall not be afraid of ev
 [^370]: Dogmatikon Theotokion of Tone 5: Slavonic *Въ чермнѣ́мъ мо́ри* (*V chermnѣm mori*); Greek: Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ (*En tē Erythra thalassē*).
 [^371]: Internal folio cross-reference to physical leaf p52 (fol. 45r), Common Service to a Single Martyr.
 [^372]: Melodic model witness: Slavonic *Всехва́льніи мч҃нцы* (*Vsekhvalnïi muchenitsy*), Tone 1; Greek: Πανεύφημοι μάρτυρες (*Paneuphēmoi martyres*).
-[^373]: Melodic model witness: Slavonic *Ꙗ҆́кѡ до́бла* (*Iako dobla*), Tone 4; Greek: Ὡς γενнаῖον ἐν μάρτυσιν (*Hōs gennaion en martysin*).
+[^373]: Melodic model witness: Slavonic *Ꙗ҆́кѡ до́бла* (*Iako dobla*), Tone 4; Greek: Ὡς γενναῖον ἐν μάρτυσιν (*Hōs gennaion en martysin*).
 [^374]: Common Troparion for a Single Venerable Father / Venerable-Martyr, Tone 8: Slavonic *Въ тебѣ̀ ѻ҆́ч҃е и҆звѣ́стнѡ спасе́ся* (*V tebѣ otche izvѣstno spasesia*); Greek: Ἐν σοὶ Πάτερ ἀκριβῶς διεσώθη (*En soi Pater akribōs diesōthē*).
 [^375]: Melodic model witness: Slavonic *Вознесы́йся на крⷭ҇тъ во́лею* (*Voznesyisia na krest voleiu*), Tone 4; Greek: Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ ἑκουσίως (*Ho hypsōtheis en tō Staurō hekousiōs*).
 [^376]: Melodic model witness: Slavonic *Премꙋ́дрости* (*Premudrosti*), Tone 8; Greek: Τὴν Σοφίαν καὶ Λόγον (*Tēn Sophian kai Logon*).

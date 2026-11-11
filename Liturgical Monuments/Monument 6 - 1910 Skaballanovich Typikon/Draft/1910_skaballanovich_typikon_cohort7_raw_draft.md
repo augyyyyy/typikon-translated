@@ -5,7 +5,7 @@ comprehend the cause of the dispute and all stages of its development Eusebius, 
 
 Unto this extract from St. Irenaeus, Eusebius subjoins his narrative concerning the dispute regarding Pascha in the time of St. Polycarp: when, during the latter's visit unto Bishop Anicetus of Rome, there became evident their disagreement both upon this question and upon others, **"they contended little with each other concerning other matters, but immediately came unto agreement, while regarding this question they were unwilling even to dispute, because neither could Anicetus persuade Polycarp not to observe what he had always observed, living in companionship with John, the disciple of our Lord; nor did Polycarp persuade Anicetus to observe it, for Anicetus declared that he was obligated to maintain the customs of the presbyters who had preceded him."**
 
-### The Paschal Fast
+**The Paschal Fast**
 
 This testimony of St. Irenaeus allows us to behold also the first seed of our present Holy Quadragesima (Forty Days' Fast / Great Lent), which at that time, being restricted unto one or two days, was regarded not as a pre-Paschal fast, but as a Paschal fast—as Pascha itself. The Paschal fast, according to this testimony, lasted in some places a single day, in others two, in others still longer; while in yet others it embraced an interval of forty hours. Three of these four specifications are clear. Only the last is expressed in such a manner that it admits—or at least once admitted—a different interpretation. Namely, Rufinus († 410), the first and most ancient translator of Eusebius's *History* into Latin, a younger contemporary of its author, renders the concluding phrase of Irenaeus thus: *"quidam vero quadraginta, ita ut diurnas ac nocturnas horas connumerent diei"* [some indeed forty, so measuring their day by counting diurnal and nocturnal hours]. Consequently, Rufinus discerned in Irenaeus here an indication of a forty-day duration of the pre-Paschal fast, achieving this simply by placing a punctuation mark after the word *tessarakonta* [τεσσαράκοντα; "forty"] and seeing in the remaining
 
@@ -27,7 +27,7 @@ Yet however that may be, it is beyond doubt that the pre-Paschal fast developed 
 
 *(Orig. p. 67)*
 
-### Disputes concerning the Time of Pascha
+**Disputes concerning the Time of Pascha**
 
 Given such a character of Pascha in the 2nd century, those vehement controversies which were then waged over it become entirely intelligible. The dispute concerned whether to unite with the commemoration of the Savior's death (by fasting) the commemoration of His resurrection (with joy), or not to unite them; and if they were to be united, unto which of these two commemorations preference should be accorded: whether unto the commemoration of the Savior's death, which fell on the 14th of Nisan (on whatever day of the week this date might occur), or unto the commemoration of His resurrection, which necessarily fell on the day of the week whereon it occurred, that is, on Sunday (whatever numerical day of the month this Sunday might have, provided only that it followed upon the 14th of Nisan). The former was maintained by the Churches of Asia Minor; the latter, by the Roman Church and the majority of other Churches. The chief literary champion of the Asia Minor practice regarding the time of Pascha was Melito, Bishop of Sardis, who composed *Two Books on the Pascha* (c. 170). Its literary opponents were Apollinaris, Bishop of Hierapolis, Clement of Alexandria, and St. Hippolytus, Bishop of Rome. In Palestine, Rome, Pontus, Gaul, and Greece councils convened and pronounced in favor of the Roman practice. Pope Victor (c. 196) threatened the Asiatics with excommunication. The aforementioned epistle of St. Irenaeus had as its very purpose to reconcile the contending parties. Apparently the dispute continued down unto the Council of Nicaea, which adopted the Roman practice as universal. The Council of Antioch (341 [cited in the original text as 333]) excommunicates from the Church those **"who celebrate Pascha together with the Jews"** [^330]. The custom of fasting [misprinted in Russian text as *prostit'sya*, "to take leave," for *postit'sya*, "to fast"] at
 
@@ -36,17 +36,17 @@ Given such a character of Pascha in the 2nd century, those vehement controversie
 === LEAF p64 ===
 Pascha is rebuked even by St. John Chrysostom [^331].
 
-### Wednesday and Friday
+**Wednesday and Friday**
 
 In the *Teaching of the Twelve Apostles* (*Didache*) we find an injunction regarding the fast of Wednesday and Friday: **"Let not your fasts be with the hypocrites"** (that is, the Jews, specifically the Pharisees), **"for they fast on the second and fifth days of the week; but fast ye on the fourth and the preparation day [Wednesday and Friday]"** [^332]. *The Shepherd* of Hermas mentions a fast bearing the designation of "station" (*statio*) [^333]. Since later writers designate by this name perhaps Wednesday and Friday [^334], this passage of Hermas is regarded as the most ancient witness unto these weekly fasts. It is remarkable that the *Didache* makes no mention of Pascha and its fast.
 
 *(Orig. p. 68)*
 
-### Pentecost
+**Pentecost**
 
 In a fragment from the writings of St. Irenaeus [^335] we find mention of the celebration in his time (that is, at the end of the 2nd century) of Pentecost, during which, as on Pascha and Sunday, they did not bend the knee. All other feasts in honor of the Savior took their rise later (the most ancient of them being Theophany / Epiphany in the 3rd century).
 
-### Commemorations of Martyrs
+**Commemorations of Martyrs**
 
 From the 2nd century we possess the first notices concerning the liturgical veneration of martyrs. The most ancient of such accounts is found in the martyrdom acts of St. Ignatius (107 or 115): **"having spent several days beside his tomb in the singing of hymns, the Christians resolved also in the future to hymn his life and passion, and at his memory to glorify the Lord Jesus"** [^336]. Eusebius cites the epistle of the Church of Smyrna unto the Church of Philomelium (in Asia Minor) on the occasion of the martyric demise of St. Polycarp († 167); therein it is related that the proconsul, on the counsel of the Jews, burned the body of Polycarp, lest it become an object of worship for the Christians; **"but we gathered up his bones... and laid them where it was fitting; thither, so soon as it may be possible, we shall assemble with jubilation and joy, and the Lord will permit us to celebrate the day of his martyric nativity (*genethlion* [γενέθλιον])"**. Remarkable is this perspective upon the demise of a martyr as his birthday (*dies natalis* / *natalitiae*). This view was the reason why the ecclesiastical year, even in subsequent times, possessed no birthdays of saints whatever, with the exception of the Savior, the Mother of God, and John the Baptist; and why even these birthdays, not excluding the Nativity of Christ, began to be celebrated comparatively late. The cited
 
@@ -63,13 +63,13 @@ The commemorations of martyrs were probably only lo- *(Orig. p. 69)* -cal, and n
 === LEAF p66 ===
 ## III Century
 
-### Sources
+**Sources**
 
 Notices concerning the divine worship of this century are scattered, first of all, in the writings of ecclesiastical authors of that era; such are: Clement of Alexandria († 217), *Stromata* and *Paedagogus*; Tertullian († 220), *Apology*, *De Oratione*, *De Jejuniis*, and others; Minucius Felix, *Octavius* (early 3rd cent.); Origen († 265 [254]), *Contra Celsum*, *De Oratione*; St. Cyprian, Bishop of Carthage († 257 [258]). Accurate accounts of the worship of this century could also reach the ecclesiastical historians of the 4th and 5th centuries—Eusebius, Socrates, Sozomen—as well as other writers of that period, namely the Holy Fathers (SS. John Chrysostom, Basil the Great, Blessed Augustine and Theodoret).
 
 Yet perhaps the most important source for the history of 3rd-century divine worship is the series of canonical monuments of this era, now subjected by Western scholars unto the most detailed and thorough analysis. This analysis, however, has not yet succeeded in firmly establishing the chronology of these monuments so as to permit their dating unto the 3rd century with certainty. We refer unto a series of monuments which, together with the *Teaching of the Twelve Apostles* (*Didache*, a monument almost certainly of the 2nd cent.), formed the foundation of the so-called *Apostolic Constitutions* [^341].
 
-### The Apostolic Constitutions as a Redaction of III-Century Canonical Monuments
+**The Apostolic Constitutions as a Redaction of III-Century Canonical Monuments**
 
 This monument, which attributes itself unto the Apostles and unto St. Clement of Rome, manifestly betrays a non-apostolic origin: therein are encountered such strange and non-Orthodox notions as, for example, the comparison of bishop, presbyter, and deaconess unto God the Father, the Son of God, and the Holy Spirit [^342], or the granting unto the deaconess of the right to baptize women [^343]. Nevertheless, in many portions of the monument and in its general tone there resounds a profound antiquity: from it there breathes palpably the spirit of the 3rd century—the spirit of the rigorism of that day, the immediacy of religious feeling; furthermore, in the *Apostolic Constitutions* there is mention, as of an existing *(Orig. p. 71)* and frequent phenomenon, of confessorship under persecution, of certain spiritual gifts and ministries of the apostolic era and the 2nd century; it is characterized by the complete unsettledness and embryonic state of theological terminology, and the like. Nonetheless, in places the *Apostolic Constitutions* bear the marks of the hierarchical and liturgical order of the 4th century (the offices of subdeacon,
 
@@ -89,7 +89,7 @@ ancient monuments: 1) *The Testament of Our Lord Jesus Christ* (*Testamentum Dom
 
 *(Orig. p. 73)*
 
-### The Testament (Testamentum) of Our Lord Jesus Christ
+**The Testament (Testamentum) of Our Lord Jesus Christ**
 
 In view of the richness of liturgical material in these monuments, especially in the *Testamentum*, it is by no means indifferent for the liturgist whether this latter monument must be assigned unto the 2nd or 5th century, and likewise whether the *Canons of Hippolytus* and the *Egyptian Constitutions* are older than the *Apostolic Constitutions*, that is, whether they may be referred unto the 3rd century. Therefore, the polemic between Funk and Rahmani [^352] possesses great importance for us. Funk refutes all of Rahmani's arguments in favor of the origin of the *Testamentum* in the 2nd century, yet not all of his objections are equally forceful, and in any event they are not capable of removing this
 
@@ -113,8 +113,8 @@ Certain features in that description of the church building given by the *Testam
 
 Thus nothing in the content of the *Testamentum* prevents assigning it at least unto the end of the 3rd century. In any event, among the enumerated canonical monuments, the *Didascalia* is undoubtedly of the 3rd century, the *Testamentum* is almost certainly of the 3rd century, the *Canons of Hippolytus* and the *Egyptian Canons* are probably of the 3rd century, while the *Apostolic Constitutions* stand close unto the 3rd century and have preserved in large measure its *(Orig. p. 75)* liturgical practice. The picture of divine worship afforded by them will in many respects corroborate this conclusion.
 
-### The Agape in the III Century
+**The Agape in the III Century**
 
 The agape at the beginning of the 3rd century continues to occupy the chief place among ecclesiastical services after the Eucharist, although it already begins to lose its significance in favor of Matins, and by the end of the 3rd century becomes a secondary and infrequent service. Almost every one of the 3rd-century writers and every one of the described canonical monuments of this century contains discourse concerning the agape. Here are the testimonies concerning it in approximate chronological order. Each of them points out a new feature in the ritual of the agape, and taken together they provide an exceedingly complete picture of this unique service in the century of its greatest flourishing.
 
-### The Agape according to Clement of Alexandria
+**The Agape according to Clement of Alexandria**

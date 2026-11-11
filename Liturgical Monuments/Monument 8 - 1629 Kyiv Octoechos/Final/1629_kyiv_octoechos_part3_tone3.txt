@@ -60,7 +60,7 @@ Let the heavens be glad, and let the earth rejoice; for the Lord has wrought str
 
 *Theotokion:*
 
-We hymn thee as the mediatress of the salvation of our race, O Virgin Mother of God; for having accepted suffering on the Cross in the flesh which He took from thee, Thy Son and our God has delivered us from corruption, as the Lover of mankind.
+We hymn thee as the mediatress of the salvation of our race, O Virgin Mother of God; for having accepted suffering on the Cross in the flesh which He took from thee, thy Son and our God has delivered us from corruption, as the Lover of mankind.
 
 ## SUNDAY MIDNIGHT OFFICE (TONE 3)
 
@@ -568,7 +568,7 @@ An inexhaustible treasury didst thou become, O blessed and all-pure one, unto th
 
 *The Heirmos, the same:*
 
-He Who is the Lord of glory and ruler of the higher hosts, Who sits with the Father, and with virginal hands [f. 65vA] borne: we bless Thy childbearing, O blessed Virgin.[^71]
+He Who is the Lord of glory and ruler of the higher hosts, Who sits with the Father, and with virginal hands [f. 65vA] borne: we bless thy childbearing, O blessed Virgin.[^71]
 
 *Troparia:*
 
@@ -770,7 +770,7 @@ O Mother of God, intercessor for all that pray unto thee: in thee do we take cou
 [^60]: The Hospitable Theophany to Abraham in Ode 6 (*Preselnik syi Avraam*): Allusion to Genesis 18:1–15, where Abraham the stranger/sojourner welcomed three travelers beneath the oak of Mamre. Patristic tradition, codified liturgically and iconographically (as in the classic Byzantine *Philoxenia*), views this event as an Old Testament typological revelation of the Holy Trinity—the supra-essential Godhead foreshadowed in three distinct persons under human forms.
 [^61]: Trinitarian Terminology in Ode 7 (*Bozhestva zrak yedin vozveshchayem*): The troparion balances unity and distinction: "One Form/Aspect of Godhead (*zrak yedin* / Greek *morphe*) in three hypostatic and distinct properties (*vo triyekh sostavnykh i razdelnykh svoystvekh* / *en trisi hypostatikois kai diakekrimenois idiotēsi*), Father, Son, and Holy Spirit." The response echoes the Song of the Three Youths: "Blessed art Thou, O God of our fathers!" (Daniel 3:52).
 [^62]: Sunday Matins Transition and First Kathisma Sessional Hymn (*Khristos ot mertvykh vosta*): Following the conclusion of the Midnight Office Triadikon canon, the text transitions directly to Sunday Matins. The Troparion at *God is the Lord* (*Da veselyatsya*) and its Theotokion are cross-referenced to Saturday Vespers (*pisa vo subotu na vecherni*). The Sessional Hymn following the first Kathisma of the Psalter celebrates Christ risen as the firstfruits of those that sleep and the firstborn of creation (1 Corinthians 15:20; Colossians 1:15).
-[^63]: The Hypakoe and Anabathmoi (Antiphon 1) of Tone 3: The Hypakoe (*Udivlyaya videniyem*) presents the shining angel at the tomb telling the Myrrh-bearers: "Why seek ye the Living One in the tomb? He is risen, emptying the graves!" quoting Psalm 65:3 LXX. Antiphon 1 of the Songs of Ascent (*Stepennа*) interprets the historical return of the captivity of Zion from Babylon (Psalm 125:1 LXX) as a mystical figure of the soul's liberation from passions into life by the Divine Logos, sowing tears in the south wind to reap sheaves of joy (Psalm 125:5–6 LXX).
+[^63]: The Hypakoe and Anabathmoi (Antiphon 1) of Tone 3: The Hypakoe (*Udivlyaya videniyem*) presents the shining angel at the tomb telling the Myrrh-bearers: "Why seek ye the Living One in the tomb? He is risen, emptying the graves!" quoting Psalm 65:3 LXX. Antiphon 1 of the Songs of Ascent (*Stepenna*) interprets the historical return of the captivity of Zion from Babylon (Psalm 125:1 LXX) as a mystical figure of the soul's liberation from passions into life by the Divine Logos, sowing tears in the south wind to reap sheaves of joy (Psalm 125:5–6 LXX).
 [^64]: The printed foliation in the Kyiv 1629 edition diverges from the physical facsimile leaf index due to unnumbered front matter: the printed recto folio number at the upper right of Page_0061 (Fol. 59r) is `н҃д` (54). In Antiphon 1, the rare Church Slavonic verb `соѡблне́таетъ` (co-illumines / shines forth together) translates Greek συμφωτίζει, expressing the consubstantial co-radiance of the Holy Spirit with the Father and the Son.
 [^65]: The Sunday Matins canon complex in the 1629 Kyiv Octoechos follows the classical Byzantine tri-ode system: the Resurrection Canon by St. John of Damascus, the Canon of the Cross and Resurrection, and the Canon of the Most Holy Mother of God. Here, the Theotokion of Ode 1 articulates the classical hypostatic union formula (`бг҃ъ и҆ чл҃къ и҆стебѐ роди́сѧ`: "God and Man was born of thee").
 [^66]: In Ode 3 of the Canon of the Cross and Resurrection (Fol. 61r / printed `н҃ѕ`), the typesetter printed `и҆долекны́мъ`, a typographic metathesis for `и҆дольскымъ` ("idolatrous"), contrasting the purifying wood of the Cross with heathen defilement.

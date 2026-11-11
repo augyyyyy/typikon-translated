@@ -236,7 +236,7 @@ With the splendors of thy preaching * thou didst illuminate those in darkness, *
 *Sticheron:*
 Thou wast disciplined in every virtue, * patiently, O God-inspired one, * and by the anointing of the Spirit, by the holy anointing, * thou wast clearly shown forth as a most sacred celebrant, * and a true shepherd, * and a champion of the faith; * therefore the whole Church glorifies thy memory, * sacredly celebrating it, * and glorifying the Savior.[^1948]
 
-*Other Stichera of Saint Cyril, Tone and Podoben the same:*
+*Other Stichera of Saint Cyril, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 *Sticheron:*
 From the Church of Christ * thou didst drive away the noetic wolves, O Cyril, * with the staff of thy teachings, * and didst surround her about * with the fortifications of words; * and thou didst present her unto Christ immovable and unshakable. * Pray Him to deliver from corruption and perils * those who celebrate in faith * thy most honorable memory.[^1949]

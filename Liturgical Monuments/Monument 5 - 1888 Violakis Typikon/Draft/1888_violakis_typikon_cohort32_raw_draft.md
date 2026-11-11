@@ -11,7 +11,7 @@
     Ἐξαποστειλάρια τοῦ Ἁγίου καὶ τὸ τῆς ἑορτῆς. Εἰς τοὺς Αἴνους, τὰ Προσόμοια εἰς δ΄, *Δόξα*, *Ἐξεχύθη ἡ χάρις ἐν χείλεσί σου*, *Καὶ νῦν*, *Συγκαταβαίνων ὁ Σωτήρ*, Δοξολογία Μεγάλη, τὸ Ἀπολυτίκιον *Μορφὴν ἀναλλοιώτως* καὶ Ἀπόλυσις.
 3.    Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα.
 
-### ᾿Αντίφωνον α'
+**᾿Αντίφωνον α'**
 
     *᾿Αλαλάξατε τῷ Κυρίῳ πᾶσα ἡ γῆ.*
     *Ψάλατε δὴ τῷ ὀνόματι αὐτοῦ.*
@@ -20,7 +20,7 @@
 *(Δόξα . . . ᾿Αμήν.)*
     Refrain: *Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*
 
-### ᾿Αντίφωνον β'
+**᾿Αντίφωνον β'**
 
     *Εὐφραινέσθωσαν οἱ οὐρανοὶ καὶ ἀγαλλιάσθω ἡ γῆ.*
     *῎Ασατε τῷ Κυρίῳ ᾆσμα καινόν.*
@@ -44,7 +44,7 @@
     Exapostilaria of the Saint and of the Feast. At the Praises: 4 Prosomoia of the Saint; **"Glory"**: **"Grace was poured out upon Thy lips, venerable Father Basil"** (*Ἐξεχύθη ἡ χάρις ἐν χείλεσί σου*); **"Both now and ever"**: **"The Savior, coming down unto the human race"** (*Συγκαταβαίνων ὁ Σωτήρ*); Great Doxology, the Dismissal Troparion: **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*), and the Dismissal.
 3.    In the Divine Liturgy, the Antiphons:
 
-### First Antiphon
+**First Antiphon**
 
     *Verse 1:* **"Make a joyful shout unto the Lord, all the earth!"** (*᾿Αλαλάξατε τῷ Κυρίῳ πᾶσα ἡ γῆ*, Ps. 65:1 LXX)  
     *Verse 2:* **"Sing praises unto His name, give glory to His praise!"** (*Ψάλατε δὴ τῷ ὀνόματι αὐτοῦ*, Ps. 65:2 LXX)  
@@ -53,7 +53,7 @@
     *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."** (*Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*)  
     *(Glory to the Father and to the Son and to the Holy Spirit, now and forever, and unto the ages of ages. Amen.)*
 
-### Second Antiphon
+**Second Antiphon**
 
     *Verse 1:* **"Let the heavens rejoice and let the earth be glad!"** (*Εὐφραινέσθωσαν οἱ οὐρανοὶ καὶ ἀγαλλιάσθω ἡ γῆ*, Ps. 95:11 LXX)  
     *Verse 2:* **"Sing unto the Lord a new song!"** (*῎Ασατε τῷ Κυρίῳ ᾆσμα καινόν*, Ps. 97:1 LXX)  
@@ -70,7 +70,7 @@
 
 ## Θεία Λειτουργία καὶ ἡ Ἑορτὴ ἐν Κυριακῇ [Violakis, p. 298]
 
-### ᾿Αντίφωνον γ'
+**᾿Αντίφωνον γ'**
 
     *Τὰ ἐλέη σου, Κύριε, εἰς τὸν αἰῶνα ᾄσομαι.*
     *᾿Αναγγελῶ τὴν ἀλήθειάν σου ἐν τῷ στόματί μου.*
@@ -92,14 +92,14 @@
 
 ## Divine Liturgy and the Feast on Sunday [Violakis, p. 299]
 
-### Third Antiphon
+**Third Antiphon**
 
     *Verse 1:* **"Thy mercies, O Lord, will I sing forever."** (*Τὰ ἐλέη σου, Κύριε, εἰς τὸν αἰῶνα ᾄσομαι*, Ps. 88:2 LXX)  
     *Verse 2:* **"With my mouth will I declare Thy truth unto all generations."** (*᾿Αναγγελῶ τὴν ἀλήθειάν σου ἐν τῷ στόματί μου*, Ps. 88:3 LXX)  
     *Verse 3:* **"Thou hast loved righteousness and hated iniquity."** (*Ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν*, Ps. 44:8 LXX)  
     *Refrain:* Dismissal Troparion of the Feast: **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*).
 
-    Little Entrance Verse: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who wast circumcised in the flesh, who sing to Thee: Alleluia."** (*Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ· σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ σαρκὶ περιτμηθείς...*). Dismissal Troparia: of the Feast: **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*); of the Saint: **"Their proclamation hath gone out into all the earth"** (*Εἰς πᾶσαν τὴν γῆν*); and of the Temple Patron. The Kontakion: **"The Lord of all endureth circumcision"** (*Ὁ τῶν ὅλων Κύριος περιτομὴν ὑπομένει*, see after the Third Ode of the Canon). The Trisagion Hymn. The Epistle: **"Brethren, beware lest any man cheat you"** (*᾿Αδελφοί, βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν*, Colossians 2:8–12), and the Gospel: **"The shepherds returned, glorifying and praising God"** (*Ὑπέστρεψαν οἱ ποιμένες*, Luke 2:20–21, 40–52), and then the Divine Liturgy of Saint Basil the Great; at the Diptychs we sing the Megalynarion of the Saint:
+    Little Entrance Verse: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who wast circumcised in the flesh, who sing to Thee: Alleluia."** (*Δεῦτε προσκυνήσωμεν καὶ προσπέσωμεν Χριστῷ· σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ σαρκὶ περιτμηθείς...*). Dismissal Troparia: of the Feast: **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*); of the Saint: **"Their proclamation hath gone out into all the earth"** (*Εἰς πᾶσαν τὴν γῆν*); and of the Temple Patron. The Kontakion: **"The Lord of all endures circumcision"** (*Ὁ τῶν ὅλων Κύριος περιτομὴν ὑπομένει*, see after the Third Ode of the Canon). The Trisagion Hymn. The Epistle: **"Brethren, beware lest any man cheat you"** (*᾿Αδελφοί, βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν*, Colossians 2:8–12), and the Gospel: **"The shepherds returned, glorifying and praising God"** (*Ὑπέστρεψαν οἱ ποιμένες*, Luke 2:20–21, 40–52), and then the Divine Liturgy of Saint Basil the Great; at the Diptychs we sing the Megalynarion of the Saint:
     **"Let us all extol the great Basil, revealer of heavenly things, initiate of the Master, the star shining brightly from Caesarea and the land of Cappadocia, honoring and magnifying him."** (*Τὸν οὐρανοφάντορα τοῦ Χριστοῦ μύστην τοῦ Δεσπότου...*)
     Communion Verse: **"Praise the Lord from the heavens, praise Him in the highest"** (*Αἰνεῖτε τὸν Κύριον ἐκ τῶν οὐρανῶν*, Ps. 148:1 LXX; on whatever day the feast occurs); instead of **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), we sing **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*), and the Dismissal.
 4.    If the Feast occurs on a Sunday: in Vespers on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 4 Resurrectional Stichira, the 2 Idiomela of the Feast repeating the first to make 3, and 3 Prosomoia of the Saint; **"Glory"** of the Saint: **"O lover of wisdom"** (*Σοφίας ἐραστής*); **"Both now and ever"**: the First Theotokion Dogmatikon of the Tone. Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings. At the Aposticha: the Resurrectional Stichira; **"Glory"** of the Saint: **"Having received the grace of miracles"** (*Ὁ τὴν χάριν τῶν θαυμάτων*); **"Both now and ever"**: **"The all-good God was not ashamed"** (*Οὐκ ἐπῃσχύνθη ὁ πανάγαθος Θεός*). Dismissal Troparia: the Resurrectional Dismissal Troparion, that of the Saint, that of the Feast, and the Dismissal.
@@ -117,11 +117,11 @@
 
 6.    Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα· εἰς τὸ β΄ Ἀντίφωνον *Ὁ σαρκὶ περιτμηθείς*· μετὰ τὴν Εἴσοδον, *Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστὰς ἐκ νεκρῶν*, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τῆς ἑορτῆς καὶ τὸ τοῦ Ἁγίου, [τοῦ Ἁγίου τοῦ Ναοῦ] Κοντάκιον *Ὁ τῶν ὅλων Κύριος* (ζήτει ἀπὸ γ΄ Ὠδῆς), Ἀπόστολος τοῦ Ἁγίου καὶ Εὐαγγέλιον *Ὑπέστρεψαν οἱ ποιμένες* καὶ καθεξῆς ἡ Λειτουργία τοῦ Μεγάλου Βασιλείου. Εἰς τὰ Δίπτυχα ψάλλεται τὸ Μεγαλυνάριον τοῦ Ἁγίου (ὅρα ὄπισθεν § 3). Κοινωνικὸν *Αἰνεῖτε*, τὸ Ἀπολυτίκιον *Μορφὴν ἀναλλοιώτως* καὶ Ἀπόλυσις.
 
-### Κυριακὴ πρὸ τῶν Φώτων
+**Κυριακὴ πρὸ τῶν Φώτων**
 
-### ΠΕΡΙΠΤΩΣΕΙΣ
+**ΠΕΡΙΠΤΩΣΕΙΣ**
 
-### Α΄.
+**Α΄.**
 
 1.    Εἰ τύχοι ἡ Κυριακὴ πρὸ τῶν Φώτων τῇ Β΄, Γ΄, ἢ Δ΄ τοῦ μηνός, ἡ Ἀκολουθία ψάλλεται ὡς ἐφεξῆς· Τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα ς΄ καὶ Προεόρτια δ΄ *Προεόρτια ᾄσματα* (ζήτει τῇ Β΄ τοῦ μηνός)· *Δόξα*, *Ἔρχετε πρὸς Ἰορδάνην*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, *Δόξα*, *Καὶ νῦν*, *Ἰωάννη Βαπτιστά* (ζήτει τῇ Β΄ τοῦ μηνός). Ἀπολυτίκια τὸ Ἀναστάσιμον, τὸ Προεόρτιον *Ἑτοιμάζου Ζαβουλὼν* καὶ Ἀπόλυσις.
 2.    Τῇ Κυριακῇ εἰς τὸν Ὄρθρον, μετὰ τὸν Ν΄ ψαλμόν, ὁ Τριαδικὸς κανὼν καὶ τὰ Τριαδικὰ *Ἄξιόν ἐστιν*. Εἶτα τὸ Τρισάγιον, τὸ Ἀπολυτίκιον *Ἑτοιμάζου Ζαβουλὼν* καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος* τὸ Ἀναστάσιμον Ἀπολυτίκιον δὶς καὶ τὸ Προεόρτιον ἅπαξ.
@@ -135,13 +135,13 @@
 ## Divine Liturgy on Sunday and Sunday before Theophany: Situation One [Violakis, p. 301]
 
 Saint with 4 troparia each. After the Third Ode: the Resurrectional Kontakion and Ikos, then the Kathisma of the Saint and that of the Feast; after the Sixth Ode: the Kontakion and Ikos of the Saint, and the Menologion of the day. The double Katavasiai: **"He uncovered the bottom of the deep"** (*Βυθοῦ ἀνεκάλυψε πυθμένα*) and **"The Lord, working wonders"** (*Στείβει θαλάσσης*), and the entire order of the Morning Gospel. Then the Ninth Ode of the Feast with that of the Saint is sung with their Megalynaria, and both Katavasiai of the Ninth Ode. Exapostilaria: of the Resurrection, that of the Saint, and that of the Feast. At the Praises: 4 Resurrectional Stichira and 4 of the Feast; **"Glory"** of the Saint: **"Grace was poured out upon Thy lips"** (*Ἐξεχύθη ἡ χάρις ἐν χείλεσί σου*); **"Both now and ever"**: **"The Savior, coming down"** (*Συγκαταβαίνων ὁ Σωτήρ*); Great Doxology, and **"Today salvation"** (*Σήμερον σωτηρία*).
-6.    In the Divine Liturgy, the Antiphons; in the Second Antiphon: **"Save us, O Son of God, Who wast circumcised in the flesh..."**; at the Entrance: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who art risen from the dead..."** The Resurrectional Dismissal Troparion, that of the Feast, that of the Saint, [that of the Temple Patron], the Kontakion: **"The Lord of all endureth circumcision"** (*Ὁ τῶν ὅλων Κύριος περιτομὴν ὑπομένει*, see after the Third Ode of the Canon). The Epistle of the Saint and the Gospel: **"The shepherds returned, glorifying and praising God"**, and then the Divine Liturgy of Saint Basil the Great; at the Diptychs we sing the Megalynarion of the Saint (see above, Paragraph 3). Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); the Dismissal Troparion: **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*), and the Dismissal.
+6.    In the Divine Liturgy, the Antiphons; in the Second Antiphon: **"Save us, O Son of God, Who wast circumcised in the flesh..."**; at the Entrance: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who art risen from the dead..."** The Resurrectional Dismissal Troparion, that of the Feast, that of the Saint, [that of the Temple Patron], the Kontakion: **"The Lord of all endures circumcision"** (*Ὁ τῶν ὅλων Κύριος περιτομὴν ὑπομένει*, see after the Third Ode of the Canon). The Epistle of the Saint and the Gospel: **"The shepherds returned, glorifying and praising God"**, and then the Divine Liturgy of Saint Basil the Great; at the Diptychs we sing the Megalynarion of the Saint (see above, Paragraph 3). Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); the Dismissal Troparion: **"In unalterable form"** (*Μορφὴν ἀναλλοιώτως*), and the Dismissal.
 
-### Sunday before Theophany
+**Sunday before Theophany**
 
-### SITUATION ONE
+**SITUATION ONE**
 
-1.    If the Sunday before Theophany occurs on the 2nd, 3rd, or 4th of the month, the Service is sung as follows: on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrectional Stichira, and 4 Forefeast Idiomela: **"Pre-festal songs"** (*Προεόρτια ᾄσματα*, see January 2); **"Glory"**: **"He cometh unto Jordan"** (*Ἔρχεται πρὸς Ἰορδάνην*); **"Both now and ever"**: the First Theotokion Dogmatikon of the Tone. Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrectional Stichira; **"Glory... Both now and ever..."**: **"O John the Baptist"** (*Ἰωάννη Βαπτιστά*, see in January 2 the Doxastikon of Matins). Dismissal Troparia: the Resurrectional Dismissal Troparion, the Forefeast Dismissal Troparion: **"Prepare, O Zebulun"** (*Ἑτοιμάζου, Ζαβουλών*), and the Dismissal.
+1.    If the Sunday before Theophany occurs on the 2nd, 3rd, or 4th of the month, the Service is sung as follows: on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrectional Stichira, and 4 Forefeast Idiomela: **"Pre-festal songs"** (*Προεόρτια ᾄσματα*, see January 2); **"Glory"**: **"He comes unto Jordan"** (*Ἔρχεται πρὸς Ἰορδάνην*); **"Both now and ever"**: the First Theotokion Dogmatikon of the Tone. Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrectional Stichira; **"Glory... Both now and ever..."**: **"O John the Baptist"** (*Ἰωάννη Βαπτιστά*, see in January 2 the Doxastikon of Matins). Dismissal Troparia: the Resurrectional Dismissal Troparion, the Forefeast Dismissal Troparion: **"Prepare, O Zebulun"** (*Ἑτοιμάζου, Ζαβουλών*), and the Dismissal.
 2.    On Sunday at Matins: after Psalm 50 [LXX], the Triadic Canon and the Triadic hymns: **"It is truly meet"** (*Ἄξιόν ἐστιν*). Then the Trisagion Prayers, the Dismissal Troparion: **"Prepare, O Zebulun"** (*Ἑτοιμάζου, Ζαβουλών*), and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Resurrectional Dismissal Troparion twice and that of the Forefeast once; then the Psalter and the Amomos [Kathisma 17 / Psalm 118 LXX]. The Resurrectional Kathismata in order, the Evlogitaria, the...[^217]
 
 *(Printed Page 301)*
@@ -155,7 +155,7 @@ Saint with 4 troparia each. After the Third Ode: the Resurrectional Kontakion an
 εἶτα τὸ Ψαλτήριον καὶ ὁ Ἄμωμος, τὰ ἀναστάσιμα Καθίσματα κατὰ σειράν, τὰ Εὐλογητάρια, ἡ Ὑπακοὴ τοῦ ἤχου, οἱ Ἀναβαθμοὶ καὶ τὸ Προκείμενον, Κανόνες ὁ Ἀναστάσιμος καὶ ὁ Προεόρτιος τῆς ἡμέρας. Ἀπὸ γ΄ Ὠδῆς τὸ Κάθισμα *Ἀόρατε Θεὲ* ἅπαξ, ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα καὶ τὸ Μηνολόγιον τῶν Ἁγίων τῆς ἡμέρας· αἱ Καταβασίαι *Βυθοῦ ἀνεκάλυψε πυθμένα* καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου· εἶτα στιχολογοῦμεν *Τὴν τιμιωτέραν*. Ἐξαποστειλάρια τὸ Ἀναστάσιμον καὶ τὸ Προεόρτιον *Πῶς ῥεῖθρά σε ποτάμια* (ζήτει τῇ Β΄ τοῦ μηνός). Εἰς τοὺς Αἴνους, Ἀναστάσιμα δ΄ καὶ δ΄ Προεόρτια *Αἱ Ἀγγελικαὶ προπορεύεσθε δυνάμεις*. *Δόξα* τὸ Ἑωθινόν, *Καὶ νῦν*, *Ὑπερευλογημένη*. Δοξολογία Μεγάλη καὶ τὸ *Σήμερον σωτηρία*.
 3.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ προεορτίου Κανόνος δ΄· μετὰ τὴν Εἴσοδον, τὸ Ἀναστάσιμον Ἀπολυτίκιον, τὸ Προεόρτιον *Ἑτοιμάζου Ζαβουλὼν* καὶ τοῦ Ἁγίου τοῦ Ναοῦ. Κοντάκιον *Ἐν τοῖς ῥείθροις σήμερον*, Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς πρὸ τῶν Φώτων. Εἰς τὸ Ἐξαιρέτως *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### Β΄.
+**Β΄.**
 
 4.    Εἰ τύχοι ἡ Κυριακὴ πρὸ τῶν Φώτων τῇ Παραμονῇ τῆς ἑορτῆς (τῇ Ε΄ τοῦ μηνός), τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα ς΄ καὶ Προεόρτια δ΄ *Προεόρτια ᾄσματα*. *Δόξα*, *Ἔρχετε πρὸς Ἰορδάνην*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος *Φῶς ἱλαρὸν* καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, *Δόξα*, *Καὶ νῦν*, *Ἐν Ἰορδάνῃ ποταμῷ* (ζήτει τῇ Γ΄ τοῦ μηνός), Ἀπολυτίκια τὸ Ἀναστάσιμον, τὸ Προεόρτιον *Ἀπεστρέφετό ποτε* καὶ Ἀπόλυσις.
 5.    Τῇ Κυριακῇ εἰς τὸν Ὄρθρον μετὰ τὸν Ν΄ ψαλμόν, ὁ Τριαδικὸς κανὼν καὶ τὰ Τριαδικὰ *Ἄξιόν ἐστιν*. Εἶτα τὸ Τρισάγιον, τὸ Ἀπολυτίκιον *Ἀπεστρέφετό ποτε* καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος*, τὸ ἀναστάσιμον Ἀπολυτίκιον δὶς καὶ τὸ Προεόρτιον ἅπαξ, εἶτα τὸ Ψαλτήριον καὶ ὁ Ἄμωμος, τὰ ἀναστάσιμα Καθίσματα κατὰ σειράν, τὰ Εὐλογητάρια, ἡ Ὑπακοὴ τοῦ ἤχου, οἱ Ἀναβαθμοὶ καὶ τὸ Προκείμενον. Κανόνες, ὁ Ἀναστάσιμος καὶ ὁ Προεόρτιος *Χριστὸς μολεῖ πρὸς τὸ βάπτισμα* (ζήτει τῇ Ε΄ τοῦ μηνὸς) μετὰ Στίχου *Δόξα σοι ὁ Θεός*· ἀπὸ γ΄ Ὠδῆς τὸ ἀναστάσιμον Κοντάκιον καὶ ὁ Οἶκος,
@@ -171,10 +171,10 @@ Saint with 4 troparia each. After the Third Ode: the Resurrectional Kontakion an
 Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons of the Resurrection and of the Forefeast of that day. After the Third Ode: the Kathisma: **"Invisible God"** (*Ἀόρατε Θεέ*) once (see January 2); after the Sixth Ode: the Kontakion and Ikos of the Resurrection and the Menologion of the Saints of the day. The Katavasiai: **"He uncovered the bottom of the deep"** (*Βυθοῦ ἀνεκάλυψε πυθμένα*), and the entire order of the Morning Gospel; then **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilaria: of the Resurrection and of the Forefeast: **"How shall river streams receive Thee"** (*Πῶς ῥεῖθρά σε ποτάμια*, see January 2). At the Praises: 4 Resurrectional Stichira and 4 of the Forefeast: **"O angelic hosts, go before"** (*Αἱ Ἀγγελικαὶ προπορεύεσθε δυνάμεις*); **"Glory"**: the Morning Eothinon Doxastikon; **"Both now and ever"**: **"Most blessed art thou, O Virgin Theotokos"** (*Ὑπερευλογημένη*); Great Doxology, and **"Today salvation"** (*Σήμερον σωτηρία*).
 3.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone and 4 hymns from the Sixth Ode of the Canon of the Forefeast. After the Entrance: the Resurrectional Dismissal Troparion, that of the Forefeast: **"Prepare, O Zebulun"** (*Ἑτοιμάζου, Ζαβουλών*), and that of the Temple Patron. Kontakion: **"Today in the streams of the Jordan"** (*Ἐν τοῖς ῥείθροις σήμερον*). The Epistle and Gospel of the Sunday before Theophany. At **"Especially"**: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and the Dismissal.
 
-### SITUATION TWO
+**SITUATION TWO**
 
-4.    If the Sunday before Theophany occurs on the Eve of the Feast (the 5th of the month): on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrectional Stichira, and 4 Forefeast Idiomela: **"Pre-festal songs"** (*Προεόρτια ᾄσματα*); **"Glory"**: **"He cometh unto Jordan"** (*Ἔρχεται πρὸς Ἰορδάνην*); **"Both now and ever"**: the First Theotokion Dogmatikon of the Tone. Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrectional Stichira; **"Glory... Both now and ever..."**: **"In the River Jordan"** (*Ἐν Ἰορδάνῃ ποταμῷ*, see January 3). Dismissal Troparia: the Resurrectional Dismissal Troparion, of the Forefeast: **"The Jordan formerly turned back"** (*Ἀπεστρέφετό ποτε*), and the Dismissal.
-5.    On Sunday at Matins: after Psalm 50 [LXX], the Triadic Canon, and the Triadic hymns: **"It is truly meet"** (*Ἄξιόν ἐστιν*). Then the Trisagion Prayers, the Dismissal Troparion: **"The Jordan formerly turned back"** (*Ἀπεστρέφετό ποτε*), and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Resurrectional Dismissal Troparion twice and that of the Forefeast once, then the Psalter and the Amomos [Kathisma 17 / Psalm 118 LXX]. The Resurrectional Kathismata in order, the Evlogitaria, the Hypakoe of the Tone, the Anavathmoi, and the Prokeimenon. The Canons: of the Resurrection and of the Forefeast: **"Christ cometh unto baptism"** (*Χριστὸς μολεῖ πρὸς τὸ βάπτισμα*, see the 5th of the month), with the Verse: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι ὁ Θεὸς ἡμῶν*). After the Third Ode, the Resurrectional...[^218]
+4.    If the Sunday before Theophany occurs on the Eve of the Feast (the 5th of the month): on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrectional Stichira, and 4 Forefeast Idiomela: **"Pre-festal songs"** (*Προεόρτια ᾄσματα*); **"Glory"**: **"He comes unto Jordan"** (*Ἔρχεται πρὸς Ἰορδάνην*); **"Both now and ever"**: the First Theotokion Dogmatikon of the Tone. Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrectional Stichira; **"Glory... Both now and ever..."**: **"In the River Jordan"** (*Ἐν Ἰορδάνῃ ποταμῷ*, see January 3). Dismissal Troparia: the Resurrectional Dismissal Troparion, of the Forefeast: **"The Jordan formerly turned back"** (*Ἀπεστρέφετό ποτε*), and the Dismissal.
+5.    On Sunday at Matins: after Psalm 50 [LXX], the Triadic Canon, and the Triadic hymns: **"It is truly meet"** (*Ἄξιόν ἐστιν*). Then the Trisagion Prayers, the Dismissal Troparion: **"The Jordan formerly turned back"** (*Ἀπεστρέφετό ποτε*), and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Resurrectional Dismissal Troparion twice and that of the Forefeast once, then the Psalter and the Amomos [Kathisma 17 / Psalm 118 LXX]. The Resurrectional Kathismata in order, the Evlogitaria, the Hypakoe of the Tone, the Anavathmoi, and the Prokeimenon. The Canons: of the Resurrection and of the Forefeast: **"Christ comes unto baptism"** (*Χριστὸς μολεῖ πρὸς τὸ βάπτισμα*, see the 5th of the month), with the Verse: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι ὁ Θεὸς ἡμῶν*). After the Third Ode, the Resurrectional...[^218]
 
 *(Printed Page 303)*
 
@@ -189,11 +189,11 @@ Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons of the Resu
 
     Μετὰ τὸ *Εἴη τὸ Ὄνομα Κυρίου*, ψάλλονται τὰ Ἰδιόμελα *Φωνὴ Κυρίου ἐπὶ τῶν ὑδάτων* κτλ. καὶ τελεῖται ὁ Ἁγιασμός, ὡς εἴθισται, κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν· Ἀπολυτίκιον *Ἐν Ἰορδάνῃ* καὶ Κοντάκιον *Ἐν τοῖς ῥείθροις σήμερον*· μετὰ τὸ τέλος τοῦ Ἁγιασμοῦ, ἁγιαζομένων τῶν Χριστιανῶν, ὁ β΄ Χορὸς ψάλλει τὸ Ἰδιόμελον *Ἀνυμνήσωμεν οἱ πιστοὶ* καὶ Ἀπόλυσις. Ἐν τῇ τραπέζῃ κατάλυσις οἴνου καὶ ἐλαίου.
 
-### Τῇ ς΄. Τὰ ἅγια Θεοφάνεια τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.
+**Τῇ ς΄. Τὰ ἅγια Θεοφάνεια τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.**
 
-### ΠΕΡΙΠΤΩΣΕΙΣ
+**ΠΕΡΙΠΤΩΣΕΙΣ**
 
-### Α΄.
+**Α΄.**
 
 1.    Εἰ τύχοι ἡ ἑορτὴ τῶν Θεοφανείων ἐν ἡμέρᾳ Παρασκευῇ, τῇ Πέμπτῃ πρωΐ, μετὰ τὴν τοῦ Ὄρθρου ἐνδιάτακτον Ἀκολουθίαν, ψάλλονται αἱ Μ. Ὧραι κατὰ τὴν τάξιν τῆς Παραμονῆς τῶν Χριστουγέννων (Ὅρα ἐκεῖ τὴν διάταξιν ἐν περιπτώσει Α΄ § 2). Ὁ δὲ Μ. Ἑσπερινὸς καὶ ἡ Λειτουργία τοῦ Μ. Βασιλείου μετὰ τοῦ ἐν τῷ τέλει τῆς Λειτουργίας Ἁγιασμοῦ ψάλλονται ὡς ἑξῆς·
 
@@ -209,9 +209,9 @@ Kontakion and the Ikos; then the Kathisma: **"The great downpour"** (*Ὁ μέγ
 6.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone and 4 hymns from the Sixth Ode of the Canon of the Forefeast. After the Entrance: the Resurrectional Dismissal Troparion, that of the Forefeast: **"The Jordan formerly turned back"** (*Ἀπεστρέφετό ποτε*), and that of the Temple Patron. Kontakion: **"Today in the streams of the Jordan"** (*Ἐν τοῖς ῥείθροις σήμερον*). The Epistle and Gospel of the Sunday before Theophany. At **"Especially"**: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*).
     After **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*), the Idiomela: **"The voice of the Lord is upon the waters"** (*Φωνὴ Κυρίου ἐπὶ τῶν ὑδάτων*) etc. are sung, and the Service of the Great Blessing of the Waters is performed, as is customary, according to the order in the Menaion. Dismissal Troparion: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ βαπτιζομένου σου, Κύριε*) and Kontakion: **"Today in the streams of the Jordan"** (*Ἐν τοῖς ῥείθροις σήμερον*); after the conclusion of the Great Blessing of the Waters, while the faithful are blessed with holy water, the Second Choir sings the Idiomelon: **"Let us, the faithful, praise"** (*᾿Ανυμνήσωμεν οἱ πιστοί*), and the Dismissal. At table, wine and olive oil are allowed.
 
-### The 6th. The Holy Theophany of our Lord and God and Savior Jesus Christ.
+**The 6th. The Holy Theophany of our Lord and God and Savior Jesus Christ.**
 
-### SITUATION ONE
+**SITUATION ONE**
 
 1.    If the Feast of the Holy Theophany occurs on a Friday: on Thursday morning, following the prescribed Service of Matins, the Royal Hours alone are sung according to the order of the Eve of Christmas (see the order there, in Situation One, Paragraph 2). The Great Vespers and the Divine Liturgy of Saint Basil the Great with the Great Blessing of the Waters at the conclusion of the Divine Liturgy are sung according to the following order:[^219]
 

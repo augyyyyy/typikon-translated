@@ -15,58 +15,58 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 12 | `f. 12r (p14)` | f. 12r (p14), f. 14r (p16), f. 17r (p19), f. 34r (p36), f. 36r (p38) (+7 more) | *Τὸν τάφον σου Σωτήρ* |
-| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 11 | `f. 30r (p32)` | f. 30r (p32), f. 47r (p49), f. 63r (p65), f. 80r (p82), f. 81r (p83) (+5 more) | *Πανεύφημοι μάρτυρες* |
-| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 6 | `f. 2r (p4)` | f. 2r (p4), f. 31r (p33), f. 64r (p66), f. 65r (p67), f. 81r (p83) (+1 more) | *Τῶν οὐρανίων ταγμάτων* |
-| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | **When the stone had been sealed** | 1 | `f. 16r (p18)` | f. 16r (p18) | *Τοῦ λίθου σφραγισθέντος* |
-| Tone 1 | `POD.T1.EGDA_PRIIDESHI` | **When Thou shalt come** | 1 | `f. 24r (p26)` | f. 24r (p26) | *Ὅταν ἔλθῃς ὁ Θεός* |
-| Tone 1 | `POD.T1.EXT_JOY_OF_THE` | **Joy of the celestial ranks** | 1 | `f. 46r (p48)` | f. 46r (p48) | *—* |
-| Tone 1 | `POD.T1.EXT_THE_SKY_WITH` | **The sky with stars** | 1 | `f. 112r (p114)` | f. 112r (p114) | *—* |
-| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 17 | `f. 133r (p135)` | f. 133r (p135), f. 156r (p158), f. 171r (p173), f. 188r (p190), f. 189r (p191) (+9 more) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 2 | `POD.T2.MILOSERDIA_SUSHCHI` | **Being the wellspring of loving-kindness** | 11 | `f. 141r (p143)` | f. 141r (p143), f. 143r (p145), f. 160r (p162), f. 162r (p164), f. 175r (p177) (+5 more) | *Εὐσπλαγχνίας ὑπάρχουσα πηγή* |
-| Tone 2 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 3 | `f. 1004r (p1006)` | f. 1004r (p1006), f. 1005r (p1007) | *Γυναῖκες ἀκουτίσθητε* |
-| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 1 | `f. 194r (p196)` | f. 194r (p196) | *Τὰ ἄνω ζητῶν* |
-| Tone 2 | `POD.T2.EXT_WE_HAVE_BECOME` | **We have become partakers of the divine** | 1 | `f. 208r (p210)` | f. 208r (p210) | *—* |
-| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 7 | `f. 263r (p265)` | f. 263r (p265), f. 267r (p269), f. 285r (p287), f. 298r (p300), f. 301r (p303) (+1 more) | *Τὴν ὡραιότητα τῆς παρθενίας σου* |
-| Tone 3 | `POD.T3.VELIA_MUCHENIK_TVOIKH` | **Great is the power of Thy martyrs** | 4 | `f. 279r (p281)` | f. 279r (p281), f. 311r (p313), f. 327r (p329), f. 360r (p362) | *Μεγάλη τῶν Μαρτύρων σου* |
-| Tone 3 | `POD.T3.EXT_THOU_WHO_DIDST` | **Thou Who didst adorn heaven with stars** | 3 | `f. 95r (p97)` | f. 95r (p97), f. 1004r (p1006), f. 1006r (p1008) | *—* |
-| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 2 | `f. 265r (p267)` | f. 265r (p267), f. 273r (p275) | *Ἡ Παρθένος σήμερον* |
-| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | **Of the divine faith** | 1 | `f. 282r (p284)` | f. 282r (p284) | *Θείας πίστεως* |
-| Tone 3 | `POD.T3.KRESTOOBRAZNO` | **In the likeness of the Cross** | 1 | `f. 294r (p296)` | f. 294r (p296) | *Σταυροφανῶς Μωϋσῆς* |
-| Tone 3 | `POD.T3.POSTAVISHA_TRIDESYATE` | **They weighed thirty pieces of silver** | 1 | `f. 343r (p345)` | f. 343r (p345) | *Ἔστησαν τὰ τριάκοντα ἀργύρια* |
-| Tone 3 | `POD.T3.VELIA_KRESTA_TVOEGO` | **Great is the power of Thy Cross, O Lord** | 1 | `f. 376r (p378)` | f. 376r (p378) | *Μεγάλη τοῦ Σταυροῦ σου, Κύριε* |
-| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 9 | `f. 404r (p406)` | f. 404r (p406), f. 437r (p439), f. 438r (p440), f. 452r (p454), f. 453r (p455) (+3 more) | *Ὡς γενναῖον ἐν Μάρτυσιν* |
-| Tone 4 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 8 | `f. 381r (p383)` | f. 381r (p383), f. 862r (p864), f. 889r (p891), f. 890r (p892), f. 904r (p906) (+3 more) | *Ὢ τοῦ παραδόξου θαύματος* |
-| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 4 | `f. 379r (p381)` | f. 379r (p381), f. 420r (p422), f. 438r (p440), f. 470r (p472) | *Ὁ κληθεὶς ἄνωθεν* |
-| Tone 4 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 4 | `f. 387r (p389)` | f. 387r (p389), f. 410r (p412), f. 459r (p461), f. 460r (p462) | *Ταχὺ προκατάλαβε* |
-| Tone 4 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 4 | `f. 404r (p406)` | f. 404r (p406), f. 469r (p471), f. 486r (p488), f. 501r (p503) | *Ἔδωκας σημείωσιν* |
-| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 1 | `f. 389r (p391)` | f. 389r (p391) | *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ* |
-| Tone 4 | `POD.T4.UDIVISIA_IOSIF` | **Joseph was amazed** | 1 | `f. 391r (p393)` | f. 391r (p393) | *Κατεπλάγη Ἰωσήφ* |
-| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 1 | `f. 397r (p399)` | f. 397r (p399) | *Ἐπεφάνης σήμερον* |
-| Tone 4 | `POD.T4.KHOTEKH_SLEZAMI` | **With tears I desired** | 1 | `f. 420r (p422)` | f. 420r (p422) | *Ἤθελον δάκρυσιν ἐξαλεῖψαι* |
-| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 11 | `f. 504r (p506)` | f. 504r (p506), f. 528r (p530), f. 529r (p531), f. 543r (p545), f. 560r (p562) (+6 more) | *Χαίροις ἀσκητικῶν* |
-| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 10 | `f. 512r (p514)` | f. 512r (p514), f. 514r (p516), f. 522r (p524), f. 535r (p537), f. 548r (p550) (+5 more) | *Τὸν συνάναρχον Λόγον* |
-| Tone 5 | `POD.T5.PREPODOBNE_OTCHE` | **O venerable father** | 2 | `f. 562r (p564)` | f. 562r (p564), f. 591r (p593) | *Ὅσιε Πάτερ* |
-| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 7 | `f. 624r (p626)` | f. 624r (p626), f. 670r (p672), f. 686r (p688), f. 695r (p697), f. 702r (p704) (+2 more) | *Ὅλην ἀποθέμενοι* |
-| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 4 | `f. 650r (p652)` | f. 650r (p652), f. 680r (p682), f. 695r (p697), f. 711r (p713) | *Τριήμερος ἀνέστης* |
-| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `f. 632r (p634)` | f. 632r (p634), f. 634r (p636) | *Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν* |
-| Tone 6 | `POD.T6.ANGELSKIYA_SILY` | **The Angelic Powers** | 2 | `f. 649r (p651)` | f. 649r (p651), f. 710r (p712) | *Αἱ Ἀγγελικαὶ δυνάμεις* |
-| Tone 6 | `POD.T6.EXT_O_HOPE_OF` | **O hope of the world** | 2 | `f. 685r (p687)` | f. 685r (p687), f. 734r (p736) | *—* |
-| Tone 6 | `POD.T6.EXT_THE_HOPE` | **The Hope** | 1 | `f. 656r (p658)` | f. 656r (p658) | *—* |
-| Tone 6 | `POD.T6.EXT_DESPAIRED_OF_ON` | **Despaired of on account of her life** | 1 | `f. 663r (p665)` | f. 663r (p665) | *—* |
-| Tone 7 | `POD.T7.NE_KTOMU_VOZBRANENI` | **No longer are we forbidden** | 7 | `f. 745r (p747)` | f. 745r (p747), f. 770r (p772), f. 799r (p801), f. 815r (p817), f. 830r (p832) (+2 more) | *Οὐκέτι κωλυόμεθα* |
-| Tone 7 | `POD.T7.DNES_BDIT_IUDA` | **Today Judas watches** | 4 | `f. 769r (p771)` | f. 769r (p771), f. 784r (p786), f. 800r (p802), f. 831r (p833) | *Σήμερον γρηγορεῖ ὁ Ἰούδας* |
-| Tone 7 | `POD.T7.PLOD_CHREVA` | **Fruit of thy womb** | 3 | `f. 775r (p777)` | f. 775r (p777), f. 789r (p791), f. 821r (p823) | *Καρπὸς κοιλίας* |
-| Tone 7 | `POD.T7.IZHE_MENE_RADI` | **He Who for my sake** | 1 | `f. 753r (p755)` | f. 753r (p755) | *Ὁ δι' ἐμὲ* |
-| Tone 7 | `POD.T7.OGNYA_SVETLEE` | **Brighter than fire** | 1 | `f. 754r (p756)` | f. 754r (p756) | *Πυρὸς τηλαυγέστερον* |
-| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 7 | `f. 871r (p873)` | f. 871r (p873), f. 873r (p875), f. 896r (p898), f. 911r (p913), f. 927r (p929) (+2 more) | *Τὸ προσταχθὲν μυστικῶς* |
-| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 4 | `f. 888r (p890)` | f. 888r (p890), f. 889r (p891), f. 922r (p924), f. 938r (p940) | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* |
-| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 2 | `f. 926r (p928)` | f. 926r (p928), f. 978r (p980) | *Τῆς σοφίας ὁδηγέ* |
-| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 1 | `f. 882r (p884)` | f. 882r (p884) | *Ὡς ἀπαρχὰς τῆς φύσεως* |
-| Tone 8 | `POD.T8.MUCHENITSY_GOSPODNI` | **Martyrs of the Lord** | 1 | `f. 921r (p923)` | f. 921r (p923) | *Οἱ Μάρτυρές σου Κύριε* |
-| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 1 | `f. 972r (p974)` | f. 972r (p974) | *Τί ὑμᾶς καλέσωμεν ἅγιοι* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 12 | `f. 12r (p14)` | f. 12r (p14), f. 14r (p16), f. 17r (p19), f. 34r (p36), f. 36r (p38) (+7 more) |
+| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 11 | `f. 30r (p32)` | f. 30r (p32), f. 47r (p49), f. 63r (p65), f. 80r (p82), f. 81r (p83) (+5 more) |
+| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 6 | `f. 2r (p4)` | f. 2r (p4), f. 31r (p33), f. 64r (p66), f. 65r (p67), f. 81r (p83) (+1 more) |
+| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | **When the stone had been sealed** | 1 | `f. 16r (p18)` | f. 16r (p18) |
+| Tone 1 | `POD.T1.EGDA_PRIIDESHI` | **When Thou shalt come** | 1 | `f. 24r (p26)` | f. 24r (p26) |
+| Tone 1 | `POD.T1.EXT_JOY_OF_THE` | **Joy of the celestial ranks** | 1 | `f. 46r (p48)` | f. 46r (p48) |
+| Tone 1 | `POD.T1.EXT_THE_SKY_WITH` | **The sky with stars** | 1 | `f. 112r (p114)` | f. 112r (p114) |
+| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 17 | `f. 133r (p135)` | f. 133r (p135), f. 156r (p158), f. 171r (p173), f. 188r (p190), f. 189r (p191) (+9 more) |
+| Tone 2 | `POD.T2.MILOSERDIA_SUSHCHI` | **Being the wellspring of loving-kindness** | 11 | `f. 141r (p143)` | f. 141r (p143), f. 143r (p145), f. 160r (p162), f. 162r (p164), f. 175r (p177) (+5 more) |
+| Tone 2 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 3 | `f. 1004r (p1006)` | f. 1004r (p1006), f. 1005r (p1007) |
+| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 1 | `f. 194r (p196)` | f. 194r (p196) |
+| Tone 2 | `POD.T2.EXT_WE_HAVE_BECOME` | **We have become partakers of the divine** | 1 | `f. 208r (p210)` | f. 208r (p210) |
+| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 7 | `f. 263r (p265)` | f. 263r (p265), f. 267r (p269), f. 285r (p287), f. 298r (p300), f. 301r (p303) (+1 more) |
+| Tone 3 | `POD.T3.VELIA_MUCHENIK_TVOIKH` | **Great is the power of Thy martyrs** | 4 | `f. 279r (p281)` | f. 279r (p281), f. 311r (p313), f. 327r (p329), f. 360r (p362) |
+| Tone 3 | `POD.T3.EXT_THOU_WHO_DIDST` | **Thou Who didst adorn heaven with stars** | 3 | `f. 95r (p97)` | f. 95r (p97), f. 1004r (p1006), f. 1006r (p1008) |
+| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 2 | `f. 265r (p267)` | f. 265r (p267), f. 273r (p275) |
+| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | **Of the divine faith** | 1 | `f. 282r (p284)` | f. 282r (p284) |
+| Tone 3 | `POD.T3.KRESTOOBRAZNO` | **In the likeness of the Cross** | 1 | `f. 294r (p296)` | f. 294r (p296) |
+| Tone 3 | `POD.T3.POSTAVISHA_TRIDESYATE` | **They weighed thirty pieces of silver** | 1 | `f. 343r (p345)` | f. 343r (p345) |
+| Tone 3 | `POD.T3.VELIA_KRESTA_TVOEGO` | **Great is the power of Thy Cross, O Lord** | 1 | `f. 376r (p378)` | f. 376r (p378) |
+| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 9 | `f. 404r (p406)` | f. 404r (p406), f. 437r (p439), f. 438r (p440), f. 452r (p454), f. 453r (p455) (+3 more) |
+| Tone 4 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 8 | `f. 381r (p383)` | f. 381r (p383), f. 862r (p864), f. 889r (p891), f. 890r (p892), f. 904r (p906) (+3 more) |
+| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 4 | `f. 379r (p381)` | f. 379r (p381), f. 420r (p422), f. 438r (p440), f. 470r (p472) |
+| Tone 4 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 4 | `f. 387r (p389)` | f. 387r (p389), f. 410r (p412), f. 459r (p461), f. 460r (p462) |
+| Tone 4 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 4 | `f. 404r (p406)` | f. 404r (p406), f. 469r (p471), f. 486r (p488), f. 501r (p503) |
+| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 1 | `f. 389r (p391)` | f. 389r (p391) |
+| Tone 4 | `POD.T4.UDIVISIA_IOSIF` | **Joseph was amazed** | 1 | `f. 391r (p393)` | f. 391r (p393) |
+| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 1 | `f. 397r (p399)` | f. 397r (p399) |
+| Tone 4 | `POD.T4.KHOTEKH_SLEZAMI` | **With tears I desired** | 1 | `f. 420r (p422)` | f. 420r (p422) |
+| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 11 | `f. 504r (p506)` | f. 504r (p506), f. 528r (p530), f. 529r (p531), f. 543r (p545), f. 560r (p562) (+6 more) |
+| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 10 | `f. 512r (p514)` | f. 512r (p514), f. 514r (p516), f. 522r (p524), f. 535r (p537), f. 548r (p550) (+5 more) |
+| Tone 5 | `POD.T5.PREPODOBNE_OTCHE` | **O venerable father** | 2 | `f. 562r (p564)` | f. 562r (p564), f. 591r (p593) |
+| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 7 | `f. 624r (p626)` | f. 624r (p626), f. 670r (p672), f. 686r (p688), f. 695r (p697), f. 702r (p704) (+2 more) |
+| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 4 | `f. 650r (p652)` | f. 650r (p652), f. 680r (p682), f. 695r (p697), f. 711r (p713) |
+| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `f. 632r (p634)` | f. 632r (p634), f. 634r (p636) |
+| Tone 6 | `POD.T6.ANGELSKIYA_SILY` | **The Angelic Powers** | 2 | `f. 649r (p651)` | f. 649r (p651), f. 710r (p712) |
+| Tone 6 | `POD.T6.EXT_O_HOPE_OF` | **O hope of the world** | 2 | `f. 685r (p687)` | f. 685r (p687), f. 734r (p736) |
+| Tone 6 | `POD.T6.EXT_THE_HOPE` | **The Hope** | 1 | `f. 656r (p658)` | f. 656r (p658) |
+| Tone 6 | `POD.T6.EXT_DESPAIRED_OF_ON` | **Despaired of on account of her life** | 1 | `f. 663r (p665)` | f. 663r (p665) |
+| Tone 7 | `POD.T7.NE_KTOMU_VOZBRANENI` | **No longer are we forbidden** | 7 | `f. 745r (p747)` | f. 745r (p747), f. 770r (p772), f. 799r (p801), f. 815r (p817), f. 830r (p832) (+2 more) |
+| Tone 7 | `POD.T7.DNES_BDIT_IUDA` | **Today Judas watches** | 4 | `f. 769r (p771)` | f. 769r (p771), f. 784r (p786), f. 800r (p802), f. 831r (p833) |
+| Tone 7 | `POD.T7.PLOD_CHREVA` | **Fruit of thy womb** | 3 | `f. 775r (p777)` | f. 775r (p777), f. 789r (p791), f. 821r (p823) |
+| Tone 7 | `POD.T7.IZHE_MENE_RADI` | **He Who for my sake** | 1 | `f. 753r (p755)` | f. 753r (p755) |
+| Tone 7 | `POD.T7.OGNYA_SVETLEE` | **Brighter than fire** | 1 | `f. 754r (p756)` | f. 754r (p756) |
+| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 7 | `f. 871r (p873)` | f. 871r (p873), f. 873r (p875), f. 896r (p898), f. 911r (p913), f. 927r (p929) (+2 more) |
+| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 4 | `f. 888r (p890)` | f. 888r (p890), f. 889r (p891), f. 922r (p924), f. 938r (p940) |
+| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 2 | `f. 926r (p928)` | f. 926r (p928), f. 978r (p980) |
+| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 1 | `f. 882r (p884)` | f. 882r (p884) |
+| Tone 8 | `POD.T8.MUCHENITSY_GOSPODNI` | **Martyrs of the Lord** | 1 | `f. 921r (p923)` | f. 921r (p923) |
+| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 1 | `f. 972r (p974)` | f. 972r (p974) |
 
 ---
 
@@ -119,7 +119,7 @@
 | 43 | `f. 177r` (p179) | T2 | Tuesday: The Holy Forerunner[^1537] — *Hymnographic Propers* | *Благоꙋтро́бїа сꙋ́щи* | **Being the wellspring of loving-kindness** | "*Sessional Hymn 1:* By reason of the mercy of Thy..." |
 | 44 | `f. 188r` (p190) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва* | **When from the Tree** | "*Sticheron 1:* Unable to bear the sight, the luminaries were..." |
 | 45 | `f. 189r` (p191) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва* | **When from the Tree** | "*Sticheron 1:* As mediatress unto all men, as a great..." |
-| 46 | `f. 190r` (p192) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва тѧ̀* | **When from the Tree** | "Having endured many sorrows at the crucifixion of Thy Son..." |
+| 46 | `f. 190r` (p192) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва тѧ̀* | **When from the Tree** | "Having endured many sorrows at the crucifixion of thy Son..." |
 | 47 | `f. 194r` (p196) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Вы́шнихъ и҆щѧ̀* | **Seeking the highest** | "O new wonder! cried aloud the All-Spotless One, beholding her..." |
 | 48 | `f. 195r` (p197) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Милосе́рдїѧ сꙋ́щи* | **Being the wellspring of loving-kindness** | "The Virgin and Thy Mother, O Christ, beholding Thee stretched..." |
 | 49 | `f. 195r` (p197) | T2 | Wednesday: The Precious and Life-Giving Cross[^1590] — *Hymnographic Propers* | *Милосе́рдїѧ сꙋ́щи* | **Being the wellspring of loving-kindness** | "*Sessional Hymn 1:* Like the thief do I confess, and..." |

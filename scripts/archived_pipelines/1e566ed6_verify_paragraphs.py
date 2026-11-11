@@ -48,7 +48,7 @@ def verify_paragraphs(orig_path, form_path):
         print(f"FAILED: {missing_count} missing paragraph(s) in formatted file.")
 
 if __name__ == "__main__":
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     verify_paragraphs(
         os.path.join(typikon_dir, "backup", "Final_Dolnytsky_part2_general_rubrics.md"),
         os.path.join(typikon_dir, "Final_Dolnytsky_part2_general_rubrics.md")

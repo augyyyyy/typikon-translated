@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-proj_root = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation")
+proj_root = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation")
 md_path = proj_root / "Final MD" / "Final_footnotes.md"
 
 with open(md_path, "r", encoding="utf-8", newline="") as f:

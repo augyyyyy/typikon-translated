@@ -64,7 +64,7 @@
 
 *Sessional Hymn, Tone 6.*
 
-*Podoben: "The Angelic Powers" (А҆́гг҃льскія си́лы):* [^155]
+*Podoben: "The Angelic Powers" (Ангельскыя силы):* [^155]
 
 *Glory... Both now... Theotokion:* O pure Virgin, look down from heaven and behold the grievous wounds of our passions, and have compassion, O most pure one, and heal [our] hidden infirmity, distilling thy mercy upon thy servants: if thou art with us, none shall be against us!
 
@@ -100,7 +100,7 @@
 
 *Sessional Hymn, Tone 6.*
 
-*Podoben: "Fulfilling the dispensation for our sake" (Е҆́же ѡ҆ на́съ):*
+*Podoben: "Fulfilling the dispensation for our sake" (Иже о нас съвръшив):*
 
 *Glory... Both now... Theotokion:* O Virgin, look upon us, O all-hymned Mother of God; enlighten with light our darkened hearts, preserve thy flock, O most pure one; for as much as thou wilt, thou art able, as being the Mother of thy Creator, for those who call upon thee and love thee: if thou art with us, none shall be against us!
 
@@ -366,7 +366,7 @@
 
 *Troparion:* How was Life numbered among the dead? How did He endure death? How did He descend into Hades, saving [the human race]? Desiring to bring all the dead to life, and to put death to death, and to release those in Hades: Him do we magnify in hymns!
 
-*Theotokion:* Beholding Him upon the Cross, Whom from thy blood thou didst incarnate, O pure Maiden who gavest birth to God: "Why, O my Son, has an evil people dealt thus with Thee, putting Thee to death, Who art the Life and Resurrection of the faithful?"
+*Theotokion:* Beholding Him upon the Cross, Whom from thy blood thou didst incarnate, O pure Maiden who gavest birth to God: "Why, O my Son, has an evil people dealt thus with thee, putting thee to death, Who art the Life and Resurrection of the faithful?"
 
 *Another Canon, to the Mother of God. Ode 9. Heirmos: The same.*
 
@@ -436,7 +436,7 @@ The Lord said: "I am the door: by Me if anyone enter in, he shall be saved, and 
 
 *On Sunday Evening, Penitential Stichera unto the Lord our God, Tone 6.*
 
-*Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*
+*Podoben: "Having laid aside all earthly hope" (Всѐ упова́нїе):*
 
 *Sticheron 1:* I have sinned, O Lover of mankind; I confess unto Thee as a man, that I may seek forgiveness; but that which is beyond man, being above nature, and above the law of mercy,[^174] having acquired love for mankind beyond understanding: have mercy upon him that turns unto Thee!
 
@@ -464,7 +464,7 @@ The Lord said: "I am the door: by Me if anyone enter in, he shall be saved, and 
 
 *Martyrikon:* Thy Martyrs, O Lord, denied Thee not, nor departed from Thy commandments: by their prayers have mercy on us!
 
-*Glory... Both now... Theotokion:* Having come to know the image of Him Who was incarnate of thee,[^179] O Virgin: pray Thou unto Him for the salvation of our souls!
+*Glory... Both now... Theotokion:* Having come to know the image of Him Who was incarnate of thee,[^179] O Virgin: pray thou unto Him for the salvation of our souls!
 
 ---
 

@@ -80,7 +80,7 @@ And the appointed Dismissal.
 **CELEBRATED TOGETHER WITH VESPERS.**[^76]  
 
 Be it known that the Divine Service of Saint Basil together with Vespers ought according to the Typikon to be celebrated at the ninth hour of the day [that is, according to our reckoning, at the 3rd hour of the afternoon].  
-When the time for sacred ministry has arrived, the Priest makes bows with the prayers, and vests in order, saying the same things as were written beforehand in the Liturgy of Chrysostom, and prepares the holy vessels at the Table of Oblation (the Prothesis). [In some places the Priest performs here also the Proskomedia as at the Liturgy of Chrysostom; however, the Typikon directs to perform it when the chanters begin to sing **"Lord, I have cried"** (*Го́споди воззва́хъ*); at that time he censes also].  
+When the time for sacred ministry has arrived, the Priest makes bows with the prayers, and vests in order, saying the same things as were written beforehand in the Liturgy of Chrysostom, and prepares the holy vessels at the Table of Oblation (the Prothesis). (*In some places the Priest performs here also the Proskomedia as at the Liturgy of Chrysostom; however, the Typikon directs to perform it when the chanters begin to sing **"Lord, I have cried"** (*Го́споди воззва́хъ*); at that time he censes also*).  
 The beginning of the Liturgy of Saint Basil together with Vespers takes place thus: The Priest having pronounced:  
 **"Blessed is the kingdom**  
 * * *  
@@ -145,7 +145,7 @@ After the exclamation, the Reader chants the third Antiphon of the Kathisma and 
 When the 3rd Antiphon of the Kathisma is completed, the Deacon or the Priest himself says the Little Litany: **"Again and again in peace let us pray to the Lord:"** and the exclamation: **"For Thou art our God, and unto Thee do we send up glory..."**  
 After the Kathisma and litanies, the Choir sings: **"Lord, I have cried"** (*Го́споди воззва́хъ*) in the tone of the sticheron of the day.  
 The Priest [or the Deacon, if there is one] censes the altar and the whole church in the customary manner.  
-[**Behold:** Ancient typika direct the Priest to arrange the sacred vessels here at the table of oblation, and to take from the tabernacle and transfer the presanctified holy Lamb to the table of oblation, and to place it there reverently upon the diskos, and also to pour wine and water into the chalice; but among us the custom has entered that while singing: **"Now the Heavenly Powers invisibly minister with us..."** (*Ны́нѣ си́лы небе́сныѧ...*), these things are performed after the Great Entrance].[^81]  
+(*Behold:** Ancient typika direct the Priest to arrange the sacred vessels here at the table of oblation, and to take from the tabernacle and transfer the presanctified holy Lamb to the table of oblation, and to place it there reverently upon the diskos, and also to pour wine and water into the chalice; but among us the custom has entered that while singing: **"Now the Heavenly Powers invisibly minister with us..."** (*Ны́нѣ си́лы небе́сныѧ...*), these things are performed after the Great Entrance*).[^81]  
 Thereafter they sing the stichera on **"Lord, I have cried"**, and they set 10 verses.  
 When the singers begin to chant: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Priest recites the Entrance Prayer and makes the Entrance with the censer without the Gospel Book, two [servers] with candles preceding him. [When, however, the Gospel Book is to be carried, on
 
@@ -257,9 +257,9 @@ from the First Sunday after All Saints, that is, the 2nd Sunday after the Descen
 
 [Book Page 76]
 
-### Brief Instruction: How to Chant for Minor or Feasted Saints on Sunday and Weekdays
+**Brief Instruction: How to Chant for Minor or Feasted Saints on Sunday and Weekdays**
 
-### 1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]  
+**1. Directory for Sundays: On a Non-Feasted (Minor) Saint Occurring on a Sunday[^88]**
 
 On Saturday at Great Vespers: **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, and we chant 6 stichera of the Octoechos and 3 of the Saint; **"Glory to the Father, and to the Son, and to the Holy Spirit,"** of the Saint, if there is one; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon (the 1st Theotokion) of the current Tone. If there is no sticheron appointed for the Saint at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.  
@@ -275,7 +275,7 @@ We chant the Sunday Midnight Office, at which is the Triadic Canon of the cycle 
 At Matins on Sunday: At **"God is the Lord"** (*Бо́гъ Го́сподь*): the Resurrection Troparion twice; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** the Troparion of the Saint; **"Now and forever, and unto the ages of ages. Amen:"** the Resurrection Theotokion according to the Tone of the Troparion of the Saint.  
 After the Kathismas, the Sessional Hymns of the Octoechos.  
 After the Blameless (Psalm 118), that is, after Kathisma 17, immediately: **"The Angelic Counsel was amazed..."** (*А҆́ггельскїй собо́ръ оу҆диви́ся...*).  
-[**Behold:** From the first Sunday after the Apodosis of the Feast of the Exaltation of the Precious Cross until December 20, and likewise from January 14 until Cheesefare Sunday, there is chanted the Polyeleos or *Many-Merciful*, that is, two psalms from the 19th Kathisma: 1st: **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); 2nd: **"Give thanks unto the Lord, for He is good; for His mercy endures forever..."** (*И҆сповѣ́дайтеся Го́сподеви, я҆́ко бла́гъ...*); customary Bulgarian refrains from the *Heirmologion* are also appended: **"Glory to the Father, and to the Son, and to the Holy Spirit; Glory to Thee, O Holy Trinity; Now and forever, and unto the ages of ages. Amen: Rejoice, thou that art full of grace. Alleluia, alleluia, alleluia, glory to Thee, O God: O Most Pure Bearer of God, Mary:"**][^89]
+(*Behold:** From the first Sunday after the Apodosis of the Feast of the Exaltation of the Precious Cross until December 20, and likewise from January 14 until Cheesefare Sunday, there is chanted the Polyeleos or *Many-Merciful*, that is, two psalms from the 19th Kathisma: 1st: **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); 2nd: **"Give thanks unto the Lord, for He is good; for His mercy endures forever..."** (*И҆сповѣ́дайтеся Го́сподеви, я҆́ко бла́гъ...*); customary Bulgarian refrains from the *Heirmologion* are also appended: **"Glory to the Father, and to the Son, and to the Holy Spirit; Glory to Thee, O Holy Trinity; Now and forever, and unto the ages of ages. Amen: Rejoice, thou that art full of grace. Alleluia, alleluia, alleluia, glory to Thee, O God: O Most Pure Bearer of God, Mary:"*)[^89]
 
 === LEAF p40 ===
 

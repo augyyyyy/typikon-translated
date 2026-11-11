@@ -1,6 +1,6 @@
 import os
 
-typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 output_file = os.path.join(typikon_dir, "Dolnytsky_Typikon_Master.md")
 
 file_order = [

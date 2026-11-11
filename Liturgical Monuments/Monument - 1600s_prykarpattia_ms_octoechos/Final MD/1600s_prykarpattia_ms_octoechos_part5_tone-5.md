@@ -54,7 +54,7 @@ Thee, Who wast incarnate, O Christ Savior, and didst not depart from heaven, in 
 
 From Thy pierced side, O Giver of life, Thou didst pour forth streams of remission unto all, life and salvation; and having received death in the flesh, Thou didst grant immortality unto us; and taking up Thine abode in the tomb, Thou didst free us, raising us up with Thyself gloriously as God; therefore we cry: O Lord, Lover of mankind, glory to Thee!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 *Sticheron 3:*
 
@@ -224,7 +224,7 @@ Holy is God the Father, pre-eternal! Holy also is the Son, begotten of the Fathe
 
 Thou didst shine forth unto us from the tri-solar glory the one Christ and Lord, O all-hymned one, mystically teaching all to sing unto the one Godhead in three Persons unto the ages!
 
-*Ode 9. Heirmos: Rejoice, O Isaiah! For a Virgin hath conceived...*
+*Ode 9. Heirmos: Rejoice, O Isaiah! For a Virgin has conceived...*
 
 *Troparion:*
 
@@ -680,7 +680,7 @@ Thou didst stop the irresistible circuit of death [f. 72A] having in truth borne
 
 *Troparion:*
 
-Sitting upon the throne in Master's state, Thy Son placed thee, O pure one, at His right hand, shining brightly with the gold of divine virtues, rendering honor unto thee as His Mother, O all-immaculate one!
+Sitting upon the throne in Master's state, thy Son placed thee, O pure one, at His right hand, shining brightly with the gold of divine virtues, rendering honor unto thee as His Mother, O all-immaculate one!
 
 *Troparion:*
 

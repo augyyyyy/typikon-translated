@@ -11,7 +11,7 @@
 
 *Troparion 2:* Beholding Thee surrounded, O Master, by myriad myriads and thousands of thousands of Angels, joined unto human form, Daniel was mystically taught the might of Thy glory.[^6933]
 
-*Theotokion:* Fair in beauty did Thy Son appear beyond the sons of earthly men, O all-immaculate Sovereign Lady; for He is God Who is over all, even though He took human nature from thee.[^6934]
+*Theotokion:* Fair in beauty did thy Son appear beyond the sons of earthly men, O all-immaculate Sovereign Lady; for He is God Who is over all, even though He took human nature from thee.[^6934]
 
 *Tone 6. Ode 6. Heirmos:* Swallowed by the whale of sin, I cry unto Thee, O Christ: As Thou didst the Prophet, deliver me from corruption.[^6935]
 

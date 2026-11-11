@@ -3,7 +3,7 @@
 
 ## 1. Spoke Identity & Architectural Role
 * **Project Name**: `Revitalize`
-* **Physical Location**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Revitalize`
+* **Physical Location**: `C:\Users\augus\Documents\Google Antigravity\Projects\Revitalize`
 * **Architectural Role in Ecosystem**: Automated Ingestion Factory for raw OCR data, liturgical book digitization, and bulk JSON packaging.
 
 ---

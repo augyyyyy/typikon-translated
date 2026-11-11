@@ -99,7 +99,7 @@
 === LEAF p306 ===
 *Sessional Hymn:* Having received the divine armor, and having overthrown the deceit of idols, thou didst arouse the Angels to praise thy struggles! For having inflamed thy mind with divine desire, thou didst valiantly despise death in the fire. Therefore, according to thy name, bestow divine gifts and dispensations of healings upon those who ask of thee, O passion-bearer Theodore: entreat Christ God to grant remission of sins unto those who celebrate thy holy memory with love!  
 
-*Glory... Podoben:*  
+*Glory... Podoben (Подо́бенъ):*  
 *Troparion:* Not turning aside unto the flatteries of Maximian,[^810] but showing manhood through the words of Christ, thou didst reduce the idol temple to ashes with fire, gloriously conquering the adversary in martyrdom; running ahead, thou didst pass through fire as through water. Therefore, receiving a worthy recompense for thy struggles, thou pourest forth healings, O passion-bearer Theodore: entreat Christ God to grant remission of sins unto those who celebrate thy holy memory with love!  
 
 *Both now...*  

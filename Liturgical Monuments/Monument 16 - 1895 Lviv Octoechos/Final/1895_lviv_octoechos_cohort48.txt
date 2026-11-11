@@ -18,7 +18,7 @@ Thou art truly the joy of the Apostles and the unfading crown of the passion-bea
 *Then the Stichera of the Saint from the Menaion, if there be any; but if there be no Menaion:*
 *Other Stichera to the Most-holy Theotokos, Tone 4:*
 *Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́блѧ):*[^4661]
-*Sticheron 1:* Tossed by demonic assaults and driven into the pit of perdition, have compassion on me, O Lady, and establish me upon the rock of virtues; and having destroyed the counsels of the enemy, vouchsafe me to do the commandments of Thy Son and our God...[^4662]
+*Sticheron 1:* Tossed by demonic assaults and driven into the pit of perdition, have compassion on me, O Lady, and establish me upon the rock of virtues; and having destroyed the counsels of the enemy, vouchsafe me to do the commandments of thy Son and our God...[^4662]
 
 === LEAF p472 ===
 *On Thursday Evening, Tone 4.*

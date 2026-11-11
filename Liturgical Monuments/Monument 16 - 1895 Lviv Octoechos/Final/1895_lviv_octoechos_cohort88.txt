@@ -63,7 +63,7 @@
 *Sessional Hymn. Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):*[^9596]
 The power of the thrice-radiant and honorable Godhead, let us the faithful now praise, for by a mere nod He hath constituted all the angelic choirs on high, and the lowlier church hierarchies below, that they might cry: Holy, Holy, Holy art Thou, O most good God! Glory and praise be unto Thy dominion![^9597]
 
-*Glory... both now... Theotokion:* Having borne the immutable God, O Good One, do Thou by Thy maternal prayers establish my heart, which is ever altered by sin and slothfulness through the assaults of the deceitful one; that I also may thankfully glorify thee, O Mother of God Mary: have mercy on Thy flock, which Thou hast acquired, O All-Undefiled One.[^9598]
+*Glory... both now... Theotokion:* Having borne the immutable God, O Good One, do thou by thy maternal prayers establish my heart, which is ever altered by sin and slothfulness through the assaults of the deceitful one; that I also may thankfully glorify thee, O Mother of God Mary: have mercy on thy flock, which thou hast acquired, O All-Undefiled One.[^9598]
 
 *Ode 4. Heirmos:* Thou art my strength, O Lord, Thou art also my power; Thou art my God, Thou art my rejoicing, Who leftest not the bosom of the Father, and didst visit our poverty. Therefore with the Prophet Habakkuk do I cry unto Thee: Glory to Thy power, O Lover of mankind![^9599]
 

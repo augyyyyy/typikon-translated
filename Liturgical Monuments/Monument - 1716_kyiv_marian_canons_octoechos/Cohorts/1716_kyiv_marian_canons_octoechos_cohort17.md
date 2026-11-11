@@ -176,7 +176,7 @@ Woe is me, O my soul! How shall we stand then in fear and trembling before the f
 
 *Both now:*
 *Theotokion:*
-Show forth now the unashamed strength of thy protection: for as One indebted, Thy Son is inclined by maternal prayers, O Virgin: anticipate then now in this urgent hour, that I may not depart unprepared, but may live yet longer, O All-hymned Theotokos Pure.
+Show forth now the unashamed strength of thy protection: for as One indebted, thy Son is inclined by maternal prayers, O Virgin: anticipate then now in this urgent hour, that I may not depart unprepared, but may live yet longer, O All-hymned Theotokos Pure.
 
 *Ode 9. Heirmos:*
 Lament Me not, O Mother, beholding in the tomb the Son Whom thou didst conceive in the womb without seed: for I shall arise and be glorified, and as God I shall unceasingly exalt in glory those who magnify thee in faith and love.[^163]
@@ -352,7 +352,7 @@ O Bride of God, Mary unwedded, deliver me, thy servant, from every malicious har
 
 *Both now:*
 *Theotokion:*
-To show me, being perfectly cleansed, a partaker of His divine Kingdom, that He might deify mankind, Thy Son, O Sovereign Lady, appeared from thee as perfect Man:
+To show me, being perfectly cleansed, a partaker of His divine Kingdom, that He might deify mankind, thy Son, O Sovereign Lady, appeared from thee as perfect Man:
 
 **[Right Page — Fol. 158r]**
 

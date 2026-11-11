@@ -1,10 +1,8 @@
-# Typik of Fr. Isidore Dolnytsky (1899) — Cohort 28
-
 === LEAF p541 ===
 
-### II. Of Movable Feasts (Continued)
+**II. Of Movable Feasts (Continued)**
 
-#### 2. From Pascha to All Saints
+**2. From Pascha to All Saints**
 
 | Period | First Words | Tone | From Feast |
 | :--- | :--- | :--- | :--- |
@@ -18,7 +16,7 @@
 | From the Descent to its Apodosis | By divine (*Bozhestvenn*) | 4 | Descent |
 | On the Sunday of All Saints | I shall open (*Otverzu*) | 4 | Common of Theotokos |
 
-### Litany at the Exaltation of the Precious Cross[^699]
+**Litany at the Exaltation of the Precious Cross[^699]**
 
 **1.** Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy: Let us all say.
 
@@ -36,7 +34,7 @@
 
 ## Directory of Services of the Entire Year
 
-### Notes
+**Notes**
 
 **1.** When any Service is transferred from a weekday to a Sunday, then the Service of the Saint occurring on that Sunday is transferred to the weekday of the Service transferred to Sunday.
 
@@ -64,7 +62,7 @@
 
 ## Directory of Immovable Services
 
-### September
+**September** <a id="september"></a>
 
 **1.** **+** Beginning of the Indiction (New Year), and the Venerable Symeon the Stylite.  
    And the Synaxis of the Most Holy Theotokos in Miasena; and the Holy Martyr Callista and her brothers.
@@ -133,7 +131,7 @@
 
 **30.** **(:** Hieromartyr Gregory of Greater Armenia.
 
-### October
+**October**
 
 **1.** **⊕** Protection of the Most Holy Theotokos. (And Apostle Ananias, and Venerable Romanus, on another day.) On Sunday.
 
@@ -206,7 +204,7 @@
 
 **31.** **(** Holy Apostles Stachys, Amplias, Urban, and Narcissus; and Martyr Epimachus.
 
-### November
+**November** <a id="november"></a>
 
 **1.** **(:** Holy Wonderworkers and Unmercenaries Cosmas and Damian.[^711]
 
@@ -277,7 +275,7 @@
 
 === LEAF p548 ===
 
-### December
+**December** <a id="december"></a>
 
 **1.** **(** Prophet Nahum.[^718]
 
@@ -348,7 +346,7 @@
 
 **31.** **(:** ((Venerable Melania) — Apodosis of the Feast of the Nativity.
 
-### January
+**January** <a id="january"></a>
 
 **1.** **⊕** Circumcision of the Lord, and Saint Basil the Great.  
    Saturday and Sunday before Theophany (Illumination).
@@ -424,7 +422,7 @@
 
 === LEAF p551 ===
 
-### February
+**February**
 
 **1.** **(:** Forefeast of the Meeting; and **(·** Martyr Tryphon.
 
@@ -489,7 +487,7 @@
 
 === LEAF p552 ===
 
-### March
+**March** <a id="march"></a>
 
 **1.** **(** Venerable-martyress Eudocia.
 
@@ -557,7 +555,7 @@
 
 === LEAF p553 ===
 
-### April
+**April** <a id="april"></a>
 
 **1.** **(:** Venerable Mary of Egypt.
 
@@ -623,7 +621,7 @@
 
 **30.** **+** Holy Apostle James, brother of the Holy Apostle John.
 
-### May
+**May** <a id="may"></a>
 
 **1.** **(:** Holy Prophet Jeremiah.
 
@@ -691,7 +689,7 @@
 
 **31.** **(:** Holy Martyr Hermas.[^729]
 
-### June
+**June** <a id="june"></a>
 
 **1.** **(:** Holy Martyr Justin the Philosopher and those with him.[^730]
 
@@ -761,7 +759,7 @@
 
 **30.** **(:** Synaxis of the Twelve Holy Apostles, together with the Service of the Preeminent Apostles.
 
-### July
+**July** <a id="july"></a>
 
 **1.** **(:** Holy Wonderworkers and Unmercenaries Cosmas and Damian. (Stichera at the Praises).
 
@@ -834,7 +832,7 @@
 
 **31.** **(:** Forefeast of the Procession of the Precious Cross; and **(·** Righteous Eudocimus.
 
-### August
+**August** <a id="august"></a>
 
 **1.** **(:** Procession of the Precious Cross; and the Holy Maccabean Martyrs.
 
@@ -902,9 +900,9 @@
 
 **31.** **+** Deposition of the Precious Sash of the Most Holy Theotokos.[^739]
 
-### Number of Vigils of the Entire Year according to the Typikon of St. Sabbas[^740]
+**Number of Vigils of the Entire Year according to the Typikon of St. Sabbas[^740]**
 
-#### Chapter 3
+**Chapter 3**
 
 We celebrate a vigil on every Sunday, so that the vigils of the whole year amount to 52. Vigils also take place on Feasts of the Lord in each month of them, as follows:
 

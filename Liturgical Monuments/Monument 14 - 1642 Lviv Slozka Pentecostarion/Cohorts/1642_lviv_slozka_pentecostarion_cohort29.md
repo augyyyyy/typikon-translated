@@ -91,7 +91,7 @@ Being One of the Trinity, having become flesh, Thou wast seen without altering T
 *Sessional Hymn. Tone 8. Podoben: "Of the Wisdom and Word upon Thy breast" (Премꙋ́дрости сло́ва на пе́рси):*[^628]
 Standing in the midst of the sanctuary as the Feast was divinely halved, Thou didst cry aloud: "Let him that thirsts come unto Me and drink; for he that drinks of these My divine waters shall pour forth rivers of My commandments from his belly! And he that believes in Me, Who was sent from the Divine Father, shall be glorified with Me!" Therefore we cry unto Thee: Glory to Thee, O Christ God, for Thou hast richly poured forth the waters of Thy love for mankind upon Thy servants!
 
-Glory... both now and ever... *Theotokion. Podoben: The same:*
+Glory... both now and ever... *Theotokion. Podoben: The same (Подо́бенъ то́йже):*
 Pouring forth the water of Wisdom and Life unto the world, O Savior, Thou callest all to draw the waters of salvation; for man, having received Thy divine law, quenches within himself the coals of delusion. And so unto ages he shall never lack Thy satisfaction, O King Most High! Therefore we glorify Thy dominion, O Christ God, asking that remission of transgressions be sent down upon Thy servants.
 
 *Ode 4. Heirmos:*
@@ -274,7 +274,6 @@ The Chaldean furnace, blazing with fire, was cooled by the descent of the Spirit
 *Ode 8. Heirmos:*
 Daniel, stretching out his hands, stopped the gaping mouths of the lions in the pit; and the Children, lovers of piety, girded with virtue, quenched the power of the fire, crying aloud: Bless the Lord, all ye works of the Lord!
 
-=== LEAF p287 ===
 *Troparion:*
 Fair, having arisen from the grave, adorned with the glory of the Godhead, Thou didst appear unto Thine Apostles, O Lord, promising to send them the operation of the Spirit, as they cry: Bless the Lord, all ye works of the Lord!
 
@@ -303,6 +302,8 @@ On the Sabbaths, O Christ, and throughout all days Thou didst show forth deeds b
 
 *Troparion:*
 "The paralytic who lay for many years," they said, "He healed on the Sabbath, and transgresses the Law!" The Judeans bitterly reviled Him.
+
+=== LEAF p287 ===
 
 *Troparion:*
 "Did not Moses give you the Law? He commands to be circumcised, and on the Sabbath ye circumcise a man, lest the Law of commandments be broken!" Christ said unto the Judeans.[^632]

@@ -175,7 +175,7 @@ Hymns of Praise (*Τροπάρια τῶν Αἴνων* / Stichira at the Praise
 
 **EPIGONATION** (*᾿Επιγονάτιον, τό*; Slav. *Palitsa*; cf. *Nabedrennik*): A liturgical vestment awarded as an ecclesiastical distinction. The term derives from the Greek *epi gonatos* ("upon the knee"). It consists of a stiff, diamond-shaped (rhomboid) fabric suspended from one corner by a ribbon worn over the left shoulder, hanging at the right knee below the waist. In the Greek tradition, it signifies that a presbyter holds advanced theological degrees and possesses the episcopal blessing to serve as a spiritual father (*Pnevmatikos*) and hear confessions. In the Slavic tradition, it is awarded as a liturgical honor for distinguished service; when a presbyter is awarded both the oblong *nabedrennik* (thigh-shield) and the rhomboid *palitsa* (*epigonation*), he wears the *palitsa* on the right hip and shifts the *nabedrennik* to the left. Liturgically, the Epigonation symbolizes the spiritual sword of the Spirit, which is the Word of God (cf. Ephesians 6:17).
 
-### Historical Origin
+**Historical Origin**
 
 Its historical genesis remains subject to scholarly discussion. According to certain authorities, it derived from a ceremonial decorative thigh-shield awarded to high civil and military dignitaries in the Byzantine Empire. According to others, it originated as an ornamental handkerchief designated the *encheirion* (*ἐγχείριον*, or[^609]
 

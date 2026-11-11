@@ -1,5 +1,3 @@
-# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 3 (Leaves p21–p30)
-
 === LEAF p21 ===
 
 [Book Page 40]
@@ -157,14 +155,14 @@ In like manner is chanted also the Saturday Midnight Office.
 [Book Page 46]
 
 **Behold.** The newer Horologia printed in the Pochaiv printing house, and those which have followed them, contain at the Midnight Office also the troparia: **"Have mercy on us, O Lord, have mercy on us"**, and the litany: **"Have mercy on us, O God."** But since the most ancient typika do not prescribe reciting these at the Daily Midnight Office, and in all corrected ancient Horologia these are not found, on this account we also have judged these to be superfluous. For certain men out of arbitrary inclination and lack of instruction have added many things.[^55]  
-**Know also this:** That if the first day of the afterfeast of the Nativity of Christ falls on one of the weekdays, then at the Midnight Office, after the 1st Trisagion, in place of the troparion: **"Behold, the Bridegroom cometh at midnight"** (*Се́ Жени́хъ гряде́тъ въ полꙋ́нощи*), the Troparion of the Feast of the Nativity is said; and after the 2nd Trisagion, in place of the troparion: **"Remember, O Lord"**, the Kontakion: **"Today the Virgin giveth birth unto Him Who is transcendent in essence"** (*Дѣ́ва дне́сь пресꙋ́щественнаго ражда́етъ*). Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal. The prayers for the reposed we do not say.  
+**Know also this:** That if the first day of the afterfeast of the Nativity of Christ falls on one of the weekdays, then at the Midnight Office, after the 1st Trisagion, in place of the troparion: **"Behold, the Bridegroom comes at midnight"** (*Се́ Жени́хъ гряде́тъ въ полꙋ́нощи*), the Troparion of the Feast of the Nativity is said; and after the 2nd Trisagion, in place of the troparion: **"Remember, O Lord"**, the Kontakion: **"Today the Virgin gives birth unto Him Who is transcendent in essence"** (*Дѣ́ва дне́сь пресꙋ́щественнаго ражда́етъ*). Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal. The prayers for the reposed we do not say.  
 In like manner we say also during the afterfeast of Theophany, if it falls on a weekday.  
 Likewise on the Monday of the Descent of the Holy Spirit: after the 1st Trisagion, the Troparion of the Feast; after the 2nd, the Kontakion of the Feast. Then: **"Lord, have mercy"** (12 times) and the Dismissal, and **"Let us pray for our most holy Hierarch..."**  
 In like manner on the commemoration of illustrious saints for whom an All-Night Vigil is appointed, if for reason of necessity there is no Vigil, the Midnight Office takes place, and after the 1st Trisagion is said, in place of **"Behold, the Bridegroom"**: the Troparion of the Saint; and after the 2nd Trisagion, the Kontakion of the Saint. Thereupon: **"Lord, have mercy"** (12 times) and the Dismissal.[^56]
 
 [Book Page 47]
 
-# The Beginning of Weekday or Daily Matins (*Нача́ло оу҆́трени седми́чныѧ, и҆ли́ повседне́вныя*)
+## The Beginning of Weekday or Daily Matins (*Нача́ло оу҆́трени седми́чныѧ, и҆ли́ повседне́вныя*)
 
 Upon the conclusion of the Midnight Office, if we chant it in church, the Priest makes the beginning:  
 **"Blessed is our God always, now and forever, and unto the ages of ages."**  
@@ -182,7 +180,7 @@ The exclamation from the Priest: **"For Thine is the kingdom..."**
 And the Reader says the troparion:  
 **"O Lord, save Thy people, and bless Thine inheritance, granting victories to our Emperor over adversaries, and by Thy Cross preserving Thy commonwealth."**  
 **"Glory to the Father, and to the Son, and to the Holy Spirit:"**  
-Kontakion: **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy compassions upon the new community that beareth Thy name, O Christ God; gladden our Emperor by Thy power, granting him victories over adversaries: having Thy help as an armor of peace, an invincible trophy."**  
+Kontakion: **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy compassions upon the new community that bears Thy name, O Christ God; gladden our Emperor by Thy power, granting him victories over adversaries: having Thy help as an armor of peace, an invincible trophy."**  
 **"Now and forever, and unto the ages of ages. Amen."**  
 Theotokion: **"O dread and unashamed Mediatress, despise not our prayers, O Good One, all-hymned Theotokos..."**  
 And the Priest says the Litany:  
@@ -211,9 +209,9 @@ Upon the completion of the Six Psalms: **"Glory to the Father, and to the Son, a
 And the Priest, standing before the holy doors, says the Great Litany:  
 **"In peace let us pray to the Lord."**  
 After its exclamation, the Choir sings:  
-**"God is the Lord, and hath appeared unto us; blessed is He that cometh in the name of the Lord."** (*Бо́гъ Го́сподь, и҆ яви́сѧ на́мъ*) in the tone of the troparion of the Saint.  
+**"God is the Lord, and hath appeared unto us; blessed is He that comes in the name of the Lord."** (*Бо́гъ Го́сподь, и҆ яви́сѧ на́мъ*) in the tone of the troparion of the Saint.  
 The Priest or Reader says the verses:  
-**"O give thanks unto the Lord, for He is good, for His mercy endureth forever"** which are in the Horologion (or Prayer Book); and after each verse read there is sung: **"God is the Lord."**  
+**"O give thanks unto the Lord, for He is good, for His mercy endures forever"** which are in the Horologion (or Prayer Book); and after each verse read there is sung: **"God is the Lord."**  
 And they sing the Troparion of the Saint twice, and the Theotokion in the tone of the troparion (or as the typikon directs).  
 The Priest, having bowed to the holy doors, departs unto his place.
 
@@ -297,7 +295,7 @@ Then the Priest before the holy doors
 says the prayer: **"Thou Who at all times and at every hour..."**  
 **"Lord, have mercy"** (thrice). **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**  
 The Priest: **"God be merciful unto us, and bless us..."**  
-Then he says the prayer: **"O Christ, the True Light, Who enlightenest and sanctifiest every man that cometh into the world..."** (*Хрⷭ҇тѐ свѣ́те и҆́стинный...*)  
+Then he says the prayer: **"O Christ, the True Light, Who enlightenest and sanctifiest every man that comes into the world..."** (*Хрⷭ҇тѐ свѣ́те и҆́стинный...*)  
 After this: **"Glory to Thee, O Christ God, our hope, glory to Thee."**  
 The Choir: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Lord, have mercy"** (thrice). **"Bless, Father."**  
 The Priest: Daily Dismissal, and he commemorates the Saint whose service is chanted.  
@@ -396,7 +394,7 @@ And they both depart to the High
 [Book Page 58]
 
 Place behind the holy table. The Deacon, if he is alone, passing between the Priest and the holy table to the right side of the holy table, while the Priest goes to the left side, representing by their crosswise passage the sign of the cross, saying quietly:[^68]  
-**"Blessed is He that cometh in the name of the Lord."**  
+**"Blessed is He that comes in the name of the Lord."**  
 [When, however, the Priest celebrates alone without a Deacon, then having bowed according to the direction above before the holy table, he goes not to the left side, but to the right toward the side of the High Place].  
 And upon the completion of the Trisagion, the Deacon, having come before the holy doors, looking toward the people, says:  
 **"Let us be attentive."** (*Во́нмимъ*)  

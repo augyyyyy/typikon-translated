@@ -332,7 +332,7 @@ In iniquities let not those who live divinely stretch forth their hands; for Chr
 
 *Troparion:* Thou didst clothe Thyself in mortality, and through Thy Resurrection Thou didst grant immortality unto all; therefore, praising Thee, we hymn Thee, an elect people, crying: Bless the Lord, all ye works!
 
-*Theotokion:* Having conceived without seed and ineffably given birth unto Him Who is inseparable from the Father, Who dwelt godworthily in Thy womb, O most pure Birthgiver of God: therefore we praise Thee as salvation unto us all.
+*Theotokion:* Having conceived without seed and ineffably given birth unto Him Who is inseparable from the Father, Who dwelt godworthily in thy womb, O most pure Birthgiver of God: therefore we praise thee as salvation unto us all.
 
 *Another Canon to the Cross. Ode 8, Heirmos: In the light-bearing furnace...*
 
@@ -368,7 +368,7 @@ In iniquities let not those who live divinely stretch forth their hands; for Chr
 
 *Troparion:* Let all us faithful sing a triumphal hymn: Having risen by divine power, destroying the dominion of death and striking down the Ishmaelite enemy,[^63] grant unto Thy servants victories over our adversaries!
 
-*Theotokion:* O Birthgiver of God, great refuge of Christians: we flee unto Thy protection and Thy fervent intercession; receive us into the satiety of divine gladness, O pure one, that we the faithful, ceaselessly praising Thee, may magnify Thee.
+*Theotokion:* O Birthgiver of God, great refuge of Christians: we flee unto thy protection and thy fervent intercession; receive us into the satiety of divine gladness, O pure one, that we the faithful, ceaselessly praising thee, may magnify thee.
 
 *Another Canon to the Theotokos. Ode 9, Heirmos: The same.*
 
@@ -422,7 +422,7 @@ In iniquities let not those who live divinely stretch forth their hands; for Chr
 
 *Troparion to the Trinity:* Let us glorify the divine Trinity, hymning one Godhead in three Persons.
 
-*Theotokion:* All generations bless Thee, O pure one; for without seed Thou didst bear in the flesh the heavenly King.
+*Theotokion:* All generations bless thee, O pure one; for without seed thou didst bear in the flesh the heavenly King.
 
 *On Sunday, the Apostle to the Corinthians [sic, recte: Romans, pericope 116].[^66] Prokeimenon: The Lord is my strength and my song, and He is become my salvation (Psalm 117:14 LXX). Verse: Unto Thee, O Lord, will I cry (Psalm 27:1 LXX):*
 
@@ -436,7 +436,7 @@ At that time, when Jesus was entered into a ship, His disciples followed Him. An
 
 *On the same Sunday evening, Penitential Stichera, Tone 2.*
 
-*Podoben: "When from the Tree" (Е҆гда̀ ѿ дре́ва):* [^67]
+*Podoben: "When from the Tree" (Егда ѿ дрѣва):* [^67]
 
 *Sticheron:* Possessing a fountain of tender compassion, an unsearchable abyss of mercies, and streams of bounties: O all-good Father, O Word and Son of the Father, and O Holy Spirit, uncreated Nature: receive our supplication and our prayer, granting forgiveness unto all of us who are in sins, as Thou art a compassionate God and Lover of mankind.
 
@@ -471,7 +471,7 @@ At that time, when Jesus was entered into a ship, His disciples followed Him. An
 ### Notes
 
 [^36]: Slavonic: *ВЪ СꙊБОТꙊ ВЕЧЕРЪ НА Г̃И въꙁва · ст̃ры · поставимъ стиховь ·и̃· и поем ст̃ры · въскръсны · гла̃ ·в̃·*. Primary rubric in display ligatured cinnabar script marking the inception of Tone 2 in Fiol's 1491 Krakow Octoechos, appointing 8 resurrectional stichera at "Lord, I have cried" for Saturday Vespers (3 resurrectional, 4 Anatolian, and the Dogmatikon Theotokion).
-[^37]: Slavonic: *по вторнеи дноy · сла̃ і н̃нѣ б̃ѡ · Преиде сѣнь ꙁаконнаꙗ · бл̃г̃ти пришедши...*. The Dogmatikon Theotokion of Tone 2, celebrating the passing of the Old Testament types and shadows upon the incarnation of Christ from the Virgin Mary, paralleling the burning bush and the pillar of fire (Exodus 3, 13).
+[^37]: Slavonic: *по вторнеи дноу · сла̃ і н̃нѣ б̃ѡ · Преиде сѣнь ꙁаконнаꙗ · бл̃г̃ти пришедши...*. The Dogmatikon Theotokion of Tone 2, celebrating the passing of the Old Testament types and shadows upon the incarnation of Christ from the Virgin Mary, paralleling the burning bush and the pillar of fire (Exodus 3, 13).
 [^38]: Slavonic: *тр̃о · въскръсень · гла̃ ·в̃· Егда съниде къ съмрътн животъ бе̃съмртныи...*. The classical Tone 2 Resurrectional Troparion (*тропарь воскресенъ*), hymning Christ's descent into Hades and His victory over death through the brilliance of His Godhead.
 [^39]: Slavonic: *канѡ · ст҃ѣи · и живоначальнѣи трци · гла̃ ·в̃· пѣ̃ ·а̃· ірм̃съ :~ въ глоубинѣ потопивь древлє фа :~*. The Canon to the Holy and Life-Originating Trinity in Tone 2, chanted at the Sunday Midnight Office / Matins. Heirmos of Ode 1: *Въ глубинѣ потопи древле фараонитское всевоинство преоруженная сила...* (Exodus 15).
 [^40]: Slavonic: *пѣ̃ ·г̃· ірм̃ Процвѣла е̃сть поустынїа ꙗко кринь :~*. Heirmos of Ode 3: *Процвѣла есть пустыня, яко кринъ, Господи, языческая неплодящая Церковь, пришествіемъ Твоимъ, въ нейже утвердися мое сердце* (Isaiah 35:1).
@@ -491,7 +491,7 @@ At that time, when Jesus was entered into a ship, His disciples followed Him. An
 [^54]: Slavonic: *інь пр̃ст̃ѣи · ірм̃о т̃ь :~*. Inception of the third canon appointed for Tone 2 Sunday Matins: the Canon to the Most Holy Theotokos (*Иный Пресвятѣй Богородицѣ*), sung to the same Heirmos as the second canon.
 [^55]: Slavonic: *пѣ̃ г̃ і рм̃ · Процвѣла е̃сть поустынїа ꙗко кринь г̃и...*. Ode 3 of the threefold canonical apparatus for Tone 2 Sunday Matins: Canon 1 Heirmos *Процвѣла есть пустыня, яко кринъ, Господи...* (Isaiah 35:1); Canon 2 Heirmos *На камени мя вѣры утвердивъ...* (1 Samuel 2:2 LXX); Canon 3 to the Theotokos. Note the early ink foliation "23" at the upper right margin of physical leaf p46.
 [^56]: Slavonic: *пѣ̃ д̃ і рм̃ · Пришествовавь ѿ д̃вы , ни ходатаин ни аг̃г̃ль · нъ ты самь г̃и въплъщьсѧ...*. Ode 4 of the threefold canon in Tone 2: Canon 1 Heirmos *Пришелъ еси от Дѣвы, не ходатай, ни ангелъ, но Самъ Господи, воплощся...* (Habakkuk 3); Canon 2 Heirmos *Пою Тя, слухомъ бо услышахъ, Господи...*; Canon 3 Heirmos *Се вознесеся божественная гора...*.
-[^57]: Slavonic: *пѣ̃ е̃ · ір̃мь · Ходатаи б̃оу · и ч̃лко̃мь бы х̃е б̃е · тобою вл̃ко...*. Ode 5 of the threefold canon in Tone 2: Canon 1 Heirmos *Ходатай Богу и человѣкомъ былъ еси, Христе Боже...* (1 Timothy 2:5; Isaiah 26:9); Canon 2 Heirmos *Свѣтодателю и вѣковъ Творче, Господи...*; Canon 3 Heirmos *Облацы, веселiя сладость кропите...*.
+[^57]: Slavonic: *пѣ̃ е̃ · ір̃мь · Ходатаи б̃оу · и ч̃лко̃мь бы х̃е б̃е · тобою вл̃ко...*. Ode 5 of the threefold canon in Tone 2: Canon 1 Heirmos *Ходатай Богу и человѣкомъ былъ еси, Христе Боже...* (1 Timothy 2:5; Isaiah 26:9); Canon 2 Heirmos *Свѣтодателю и вѣковъ Творче, Господи...*; Canon 3 Heirmos *Облацы, веселія сладость кропите...*.
 [^58]: Slavonic: *пѣ̃ ѕ̃ ір̃мо · Въ беꙁднѣ грѣховнѣ ѡ́дръжимь, неислѣднꙗ милосердїа твоего приꙁываꙗ и беꙁдноу...*. Ode 6 of the threefold canon in Tone 2: Canon 1 Heirmos *Въ безднѣ грѣховнѣй одержимь есмь, Спасе...* (Jonah 2); Canon 2 Heirmos *Въ безднѣ грѣховнѣй...*; Canon 3 to the Theotokos.
 [^59]: Slavonic: *к̃то д̃ню · а щеимѧть · и ликци речеть · пѣ̃ ·з̃ · ір̃мо · Б̃гопротивно веленїе...*. Inter-ode rubric appointing the Sunday Kontakion and Ikos if appointed (*Кондакъ дню, аще иматъ, и ликъ речетъ*), followed by Ode 7 of Canon 1, Heirmos: *Богопротивное велѣніе беззаконнующаго мучителя высокъ пламень вознесло есть...* (Daniel 3). Physical leaf p50 concludes with quire signature mark *г̃і* (13) at the bottom right margin.
 [^60]: Slavonic: *Б̃ · ст̃ыихь таи̃ а раꙁоумѣемы · ꙗко е̃дина рождешиꙗ б̃а непрѣмѣннаго... інь кр̃тоу ір̃мь · Ѻ́ тѣлѣ ꙁлатѣ наполн днѡ́рѣ елоужи :~*. Ode 7 of Tone 2 Sunday Matins: concluding Theotokion of Canon 1, followed by the Canon to the Cross with Heirmos incipit referencing Nebuchadnezzar's golden image on the plain of Dura (Daniel 3:1).

@@ -1,5 +1,4 @@
 === LEAF p271 ===
-[Book Page 247]
 
 (p. 247)
 
@@ -14,7 +13,6 @@ After this the one being ordained arises, and having bowed his knees before the 
 After this follows the investiture with the ecclesiastical vestments (*porrectio instrumentorum* [*handing-over of the instruments*]). The Hierarch, having sat upon the faldstool in the mitre with the pastoral staff in his hands, gives unto the newly-ordained Priest the epitrachelion, saying: “Blessed is God Who pours out His grace... Axios”; the choir sings three times: “Axios.” After this he gives unto him the cincture, saying: “Blessed is God Who girds thee with strength... Axios”; and the choir sings: “Axios.” Further he gives unto him the cuffs, saying: “Thy right hand, O Lord, is glorified in strength... Axios”; and the choir sings: “Axios.” Further he gives unto him the phelonion, saying: “Thy priests, O Lord, shall be clothed with righteousness... Axios”; and the choir sings: “Axios.” — After this the Archdeacon carries the holy Chalice with the diskos standing upon it (and upon the diskos lie the asterisk and the veils, and upon the holy Chalice lies the veil and the holy aer) and gives it unto the Hierarch, while the Hierarch gives it unto the newly-ordained Priest, saying: “Receive these vessels, and keep them as a guardian of the Mysteries of Christ... Axios.” The newly-ordained Priest kisses the holy Chalice and the hand of the Hierarch, while the choir sings three times: “Axios.” — Finally the Hierarch gives unto him the holy Sluzhebnik, saying: “Receive this Liturgikon... Axios”; and the Priest again kisses
 
 === LEAF p272 ===
-[Book Page 248]
 
 (p. 248)
 
@@ -33,7 +31,6 @@ It is celebrated in the episcopal cathedral. In the church there is prepared a f
 When the Hierarch (Archbishop) comes into the church, and is vested in all the hierarchal vestments, then two Bishops-consecrators take the one newly elected unto a Bishop, vested in priestly vestments without the phelonion, and lead him before the Royal Doors upon the first eagle-rug.
 
 === LEAF p273 ===
-[Book Page 249]
 
 (p. 249)
 
@@ -50,7 +47,6 @@ After the Little Entrance and after the singing of the troparia, when the choir 
 After this the Bishop Consecrator, delivering unto the one being ordained
 
 === LEAF p274 ===
-[Book Page 250]
 
 (p. 250)
 
@@ -67,7 +63,6 @@ After this the newly-ordained Bishop is led up unto the high place, where he sit
 After the Ambo Prayer the newly-ordained Bishop makes the circuit of the church, blessing the people on both sides, while the choir sings: “Many Years.”
 
 === LEAF p275 ===
-[Book Page 251]
 
 (p. 251)
 
@@ -86,7 +81,6 @@ On the appointed day and hour the bridegroom and bride, accompanied by witnesses
 The priest, vested in epitrachelion and phelonion, comes out before the Royal Doors or unto the tetrapod, and questions the bridegroom: “Hast thou a good and unconstrained desire, and a firm purpose, to take unto thyself as wife this woman (*Name*)?” The bridegroom answers: “I have, reverend Father.” Further he questions: “Hast thou not promised thyself unto another bride?” He answers: “I have not promised myself, reverend Father.” In like manner he questions the bride also.
 
 === LEAF p276 ===
-[Book Page 252]
 
 (p. 252)
 
@@ -103,11 +97,10 @@ After this the priest begins: “Blessed is the Kingdom...” The Great Litany. 
 There follows the Prokimenon, the Epistle (Eph. § 230), the Gospel (John § 6), the Augmented Litany and the Litany of Supplication. “Our Father.”
 
 === LEAF p277 ===
-[Book Page 253]
 
 (p. 253)
 
-After “Our Father” (*Отче нашъ*) there is offered the common cup with blessed wine, from which the bridegroom and bride drink three times. After this the priest binds their hands with the epitrachelion, and leads them three times around the tetrapod, while the cantors sing the troparia: “Rejoice, O Isaiah...”, “O Holy Martyrs...”, “Glory to Thee, O Christ God...”
+After “Our Father” there is offered the common cup with blessed wine, from which the bridegroom and bride drink three times. After this the priest binds their hands with the epitrachelion, and leads them three times around the tetrapod, while the cantors sing the troparia: “Rejoice, O Isaiah...”, “O Holy Martyrs...”, “Glory to Thee, O Christ God...”
 
 After this the priest removes the crowns from the bridegroom and bride, saying unto each the corresponding greeting: “Be thou magnified, O bridegroom, as Abraham...” and: “And thou, O bride, be thou magnified as Sarah...” He reads two prayers for the removal of the crowns. After this there follows the Augmented Litany and the full festal dismissal: “He Who in Cana of Galilee...” The newlyweds kiss the cross and receive congratulations from those present.
 
@@ -122,7 +115,6 @@ After the litany the priest reads two prayers with penitential meaning: “O Ete
 After this he places the rings without special prayers, but directly with the words: “The servant of God is betrothed...”
 
 === LEAF p278 ===
-[Book Page 254]
 
 (p. 254)
 
@@ -145,7 +137,6 @@ In the house of the sick person there is prepared a table covered with a white c
 The priests vest in epitrachelia and phelonia (if, however, there be one priest, then in epitrachelion and phelonion).
 
 === LEAF p279 ===
-[Book Page 255]
 
 (p. 255)
 
@@ -160,7 +151,6 @@ The 1st Epistle from James (§ 57: “Is any sick among you...”). The Gospel f
 In like manner are celebrated also the second, third, fourth, fifth, sixth, and seventh anointings with the corresponding Epistles, Gospels, and prayers.
 
 === LEAF p280 ===
-[Book Page 256]
 
 (p. 256)
 

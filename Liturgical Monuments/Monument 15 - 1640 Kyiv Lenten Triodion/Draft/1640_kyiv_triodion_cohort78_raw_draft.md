@@ -108,7 +108,7 @@ A tongue which she knew not did the Theotokos hear, for the Archangel spoke unto
 *If the Apodosis of the Annunciation, which is also the Synaxis of the Archangel Gabriel, falls on the 5th Sunday of the Fast, see Chapter 84 of Mark, on the page which is folio 125 (see fol. 125)[^2451], above, on the Fourth Sunday of the Holy Great Fast.*
 
 === LEAF p776 ===
-[Woodcut Illustration: Five-panel woodcut engraving of the Life of the Venerable Mary of Egypt. Center panel: The Venerable Mother Mary standing in prayer in the wilderness, naked, covered by her long hair, inscribed: "Ven. Mary of Egypt" (Пр: бнаа Марїа На Єгипетъ), with the date inscribed at the base: "1639". Four surrounding narrative panels: 1) Upper left: "Ven. Zosimas finds her" (Пр: zосїѡ[б]рѣпостяж); 2) Upper right: "Ven. Zosimas communicates Mary" (Пр: zосї причати марю); 3) Lower left: "Ven. Mary stands in prayer" (П: Марїа ста на мод[литву]), elevated above the earth; 4) Lower right: "Ven. Zosimas with the lion buries Mary" (Пр: zосї со лво[мъ] погреб[аетъ] м[арїю]).][^2452]
+(*Woodcut Illustration: Five-panel woodcut engraving of the Life of the Venerable Mary of Egypt. Center panel: The Venerable Mother Mary standing in prayer in the wilderness, naked, covered by her long hair, inscribed: "Ven. Mary of Egypt" (Пр: бнаа Марїа На Єгипетъ), with the date inscribed at the base: "1639". Four surrounding narrative panels: 1) Upper left: "Ven. Zosimas finds her" (Пр: ѕосїѡ(*б*)рѣпостяж); 2) Upper right: "Ven. Zosimas communicates Mary" (Пр: ѕосї причати марю); 3) Lower left: "Ven. Mary stands in prayer" (П: Марїа ста на мод(*литву*)), elevated above the earth; 4) Lower right: "Ven. Zosimas with the lion buries Mary" (Пр: ѕосї со лво(*мъ*) погреб(*аетъ*) м(*арїю*)).*)[^2452]
 
 ## FIFTH SUNDAY OF THE HOLY FAST
 
@@ -203,7 +203,7 @@ The snaring of the soul and the passions of the flesh thou didst cut down with t
 *Sessional Hymn, Tone 8, Podoben: "Of Wisdom and the Word" (Премꙋ́дрости и҆ сло́во):*
 Having bridled all wanton fleshly stirrings by ascetic labors, thou didst show forth the courageous disposition of thy soul; for desiring to see the Cross of the Lord, O all-honored one, thou didst crucify thyself unto the world, whence also thou didst lovingly direct thyself unto the desire of an angelic life, O all-blessed one! Pray thou unto Christ God to grant remission of sins unto those who honor thy holy memory with love![^2487]
 
-*Glory... Both now... Theotokion, Podoben:*
+*Glory... Both now... Theotokion, Podoben (Подо́бенъ):*
 The Heavenly Gate and the Ark, the All-Holy Mountain, the radiant Cloud let us hymn, the Unburnt Bush, the spiritual Paradise, the recall of Eve, the great treasure of all the universe; for in Her salvation was wrought for the world, and remission of ancient transgressions. Therefore also we cry unto Her: Pray Thou unto Thy Son and God to grant remission of sins unto those who piously worship Thy all-holy childbearing![^2488]
 
 *Ode 4. Heirmos: I have heard, O Lord, the mystery of Thy dispensation; I have considered Thy works, and have glorified Thy Divinity!*[^2489]

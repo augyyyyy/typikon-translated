@@ -83,7 +83,7 @@ united with the creation in thy womb, through unmeasured goodness, O Theotokos; 
 Holy Trinity, have mercy on those whom Thou didst create, and deliver them from fire and all condemnation, for Thou canst do all things, as compassionate and most merciful God; therefore falling down before Thee, we cry: Forgive our sins, O Lover of mankind!
 
 *Glory, both now: Theotokion:*
-Filled with many wounds, Thy servants, by the invisible arrows of the destroyer, and lying upon the bed of despair, O Lady, we cry: Despise not our supplication, who flee unto thee in faith!
+Filled with many wounds, thy servants, by the invisible arrows of the destroyer, and lying upon the bed of despair, O Lady, we cry: Despise not our supplication, who flee unto thee in faith!
 
 *Ode 4:*
 

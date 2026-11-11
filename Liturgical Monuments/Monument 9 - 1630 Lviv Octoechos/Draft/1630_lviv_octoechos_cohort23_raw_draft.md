@@ -1,13 +1,13 @@
 === LEAF p221 ===
 
-#### [Left Page — Folio 221v]
-##### Column A
+**[Left Page — Folio 221v]**
+**Column A**
 [1] ...of Thy Cross, which burns up the sins of men and enlightens the hearts of them that sing: O Christ God, glory to Thee for Thy voluntary Crucifixion!
 [2] Today beholding the elevation of Thy Cross, ever falling down in faith and kissing it with songs and singing, in fear and joy: cleanse Thy servants, and give peace unto Thy world by its manifestation, O Thou Who alone art most merciful!
 Martyrs:
 [3] Pray ye, O holy ones, that forgiveness of our transgressions may be granted unto us, and that we may be delivered from grievous secret sins and bitter death, we pray you!
 Glory: Now and ever: Stavrotheotokion:
-[4] Beholding her Son hanging upon the Cross, O pure Birth-giver of God, ever Virgin, weeping like a Mother, the unwedded Sovereign Lady magnified His dreadful condescension!
+[4] Beholding her Son hanging upon the Cross, O pure Birthgiver of God, ever Virgin, weeping like a Mother, the unwedded Sovereign Lady magnified His dreadful condescension!
 After the 3rd Kathisma, Sessional Hymns
 of the Cross. Tone 7:
 [5] Thy precious Cross, O Christ, hath become a weapon and an invincible victory unto the world; wherewith casting down the invisible enemies, we thankfully sing praise unto Thee!
@@ -22,7 +22,7 @@ Let us shake Pharaoh in the Red Sea before God: let us sing a song of victory, f
 Troparia:
 [8] Lifted up upon the Cross, O Christ, Thou didst draw all men unto Thyself, and didst cast down the enemy who had cast down all!
 
-##### Column B
+**Column B**
 [1] From Thy life-bearing side, O Jesus, Thou didst pour forth the stream of my life, and didst slay the enemy, having become as one dead!
 Martyrs:
 [2] Offer supplication diligently unto Christ for us, O passion-bearers: that all may be delivered from the dreadful judgment!
@@ -38,8 +38,8 @@ Ode 1. Tone 7. Heirmos: The same.
 Ode 3. Heirmos:
 The Church of Christ hath been established by faith: the heaven unceasingly cries aloud with hymns, praising:
 
-#### [Right Page — Folio 222r]
-##### Column A
+**[Right Page — Folio 222r]**
+**Column A**
 praising: Holy art Thou, O Lord, and my spirit sings praise unto Thee!
 Troparia:
 [1] "The Sinless One is moved: how did He endure suffering, Who is breathing life unto me? How was He put to death upon the Tree?" Thy Mother beat her breast, crying aloud at Thy long-suffering, O Savior!
@@ -56,7 +56,7 @@ Ode 3. Heirmos: The same.
 [8] The goings of the most high God from thee, O Virgin, were seen, when He was ineffably incarnate; for thou becamest the Mother of Him Who reigns over all!
 [9] Ever guided, the Church of Christ glorifies thee before God: O Virgin Mother of God...
 
-##### Column B
+**Column B**
 ...thou didst bear the incarnate Savior unto them that sing praise unto thee, O Virgin!
 Ode 4. Heirmos:
 I heard Thy report, and was afraid; I understood Thy works, and glorified Thee, O Lord, Lover of mankind!
@@ -72,14 +72,14 @@ Another Canon [to the Theotokos].
 Ode 4. Heirmos: The same.
 [6] Habakkuk heard of thee, O all-pure mountain, being enlightened by spiritual shadows, that God was manifest incarnate from thee!
 [7] The Orthodox assembly is made upright, singing praise unto thee, the all-holy Mother of God, and crying with the Archangel: "Rejoice!"
-[8] The face of Nestorius is confounded, who was unwilling to confess thee as pure Birth-giver of God; for thou didst truly bear God, O all-pure one!
-[9] Having found thee beauteous and radiant in virtues, the Bridegroom took up His abode in thee, and made thee the all-holy Birth-giver of God!
+[8] The face of Nestorius is confounded, who was unwilling to confess thee as pure Birthgiver of God; for thou didst truly bear God, O all-pure one!
+[9] Having found thee beauteous and radiant in virtues, the Bridegroom took up His abode in thee, and made thee the all-holy Birthgiver of God!
 Ode 5. Heirmos: My spirit seeks Thee early in the morning, O Christ...[^300]
 
 === LEAF p222 ===
 
-#### [Left Page — Folio 222v]
-##### Column A
+**[Left Page — Folio 222v]**
+**Column A**
 [1] Lifted up upon the Tree in the flesh, O Master: Thou didst deliver all creation from the cruel slavery of folly unto Thy knowledge, O Lover of mankind!
 [2] Upon the Place of the Skull, the lawless and unjust people crucified Thee, O Jesus, Who crushest the venomous head of the serpent!
 Martyrs:
@@ -92,11 +92,11 @@ Ode 5. Heirmos: The same.
 [6] The all-holy turtledove, beauty of God, most sweet and purifying: having desired thy beauty, the Master God took up His abode in the Virgin!
 [7] O all-holy and light-bearing gate of grace, who shinest upon the universe with the light of the Sun: having illumined us, O Maiden, enlighten them that sing praise unto thee!
 [8] Accounting thee as the bush, O Virgin Mother: may we be accounted worthy through thee, O Mother of God, to obtain the passing kingdom and food!
-[9] Thou wast shown forth as the temple of the all-seeing Almighty, Who found thy womb more honorable than the heavens and took up His abode therein, O all-venerable Birth-giver of God!
+[9] Thou wast shown forth as the temple of the all-seeing Almighty, Who found thy womb more honorable than the heavens and took up His abode therein, O all-venerable Birthgiver of God!
 Ode 6. Heirmos:
 Jonah cried aloud from the belly of hades: Lead my life up from corruption! And we cry aloud unto Thee, O almighty Savior: Have mercy upon us!
 
-##### Column B
+**Column B**
 Troparia:
 [1] When human nature fell sick, Thou didst appear in compassion, O Savior, as a Physician unto the suffering; and by Thy Cross and Passion Thou didst heal it!
 [2] By the tree Adam was first condemned; but by the Tree of the Cross he hath now been justified, receiving entrance into Paradise and the enjoyment thereof once again!
@@ -107,13 +107,13 @@ Theotokion:
 [5] In sorrow of heart thou didst behold Him Who was incarnate of thee, O pure and all-immaculate Virgin Mother, weeping as thou didst look upon Him lifted up upon the Cross!
 Another Canon [to the Theotokos].
 Ode 6. Heirmos: The same.
-[6] Thou didst bear the One Who lived among men, O Virgin Birth-giver of God, the only Savior Who grants life unto mankind!
-[7] Emmanuel, O Birth-giver of God, Whom thou didst bear according to essence, the perfect Word before all ages, incarnate God Who grants redemption unto us!
-[8] The Ark that contained the tables of the law prefigured thee, O Birth-giver of God, as having received the Word of God in thy womb, incarnate for our sake!
+[6] Thou didst bear the One Who lived among men, O Virgin Birthgiver of God, the only Savior Who grants life unto mankind!
+[7] Emmanuel, O Birthgiver of God, Whom thou didst bear according to essence, the perfect Word before all ages, incarnate God Who grants redemption unto us!
+[8] The Ark that contained the tables of the law prefigured thee, O Birthgiver of God, as having received the Word of God in thy womb, incarnate for our sake!
 Ode 7. Heirmos:
 
-#### [Right Page — Folio 223r]
-##### Column A
+**[Right Page — Folio 223r]**
+**Column A**
 The Children in the furnace of burning fire of old showed it forth dewy, singing of the one God and saying: Blessed art Thou, O God of our fathers!
 Troparia:
 [1] Thou didst lighten the weight of my transgressions, lifted up upon the Cross between the lawless, O most good Lord, God of our fathers, Who art supremely exalted: Blessed art Thou!
@@ -128,9 +128,9 @@ Ode 7. Heirmos: The same.
 [6] We thankfully offer unto thee the "Rejoice," O Mother of God, having truly been delivered through thee from every difficulty, and harmoniously crying aloud: In majesty and joy we magnify thee!
 [7] David the forefather of God describes thy glory, O Virgin, and divinely proclaims thee as Queen of creation standing at the right hand of God the Father, O all-immaculate one!
 
-##### Column B
+**Column B**
 [1] Thou hast renewed the nature of earthborn beings, O pure one, by the renewal of thy childbearing; therefore we cry aloud unto thee, O Virgin: Blessed unto all ages is God, the Fruit of thy womb!
-[2] Condemned Adam, held fast by death, is led up by the second Adam through thee, O all-pure one, crying: Blessed art Thou, Who hast renewed him by Thy birthgiving!
+[2] Condemned Adam, held fast by death, is led up by the second Adam through thee, O all-pure one, crying: Blessed art thou, Who hast renewed him by thy birthgiving!
 Ode 8. Heirmos:
 The only beginningless King of glory, Whom the heavenly hosts praise and the angelic ranks tremble before: Praise Him, ye priests, and supremely exalt Him, ye people, unto all ages!
 Troparia:
@@ -144,8 +144,8 @@ Theotokion:
 
 === LEAF p223 ===
 
-#### [Left Page — Folio 223v]
-##### Column A
+**[Left Page — Folio 223v]**
+**Column A**
 [1] God Who came forth from thee, O pure Virgin, showed forth unto these holy ones the sufferings upon the Cross; and they bless thee as more honorable than all!
 Another Canon [to the Theotokos].
 Ode 8. Heirmos: The same.
@@ -159,7 +159,7 @@ Troparia:
 [6] When the sun beheld Thee lifted up upon the Cross, O King of all, it was extinguished, and the earth was shaken, and the veil of the temple was rent in twain, unable to endure Thy radiance, O almighty Jesus!
 [7] The lawless dug through Thy hands and feet, and pierced Thy life-bearing side with a spear, and gave Thee gall and vinegar to drink, O my Christ, Who art the Sweetness of all and true God!
 
-##### Column B
+**Column B**
 Martyrs:
 [1] The valiant passion-bearers crushed the evil-originating demons by manifold forms of torments; and having become crown-bearers in victory, they are called blessed!
 [2] By the laying down of their relics the passion-bearers cleansed all the earth, and put an end to the filth of idol sacrifices, having offered themselves unto the fire and therein mystically been ignited!
@@ -168,12 +168,12 @@ Theotokion:
 Another Canon [to the Theotokos].
 Ode 9. Heirmos: The same.
 [4] Divinely perfected humanity was assumed from thee, O all-pure Maiden, united unto the Word, flesh animate, adorned with the Word: therefore all we, the faithful, magnify thee!
-[5] Let Egyptian praise now be silent; but let the trumpet of David divinely sound, praising thee, O Virgin, with radiant voices, and confessing thee as the true Birth-giver of God!
+[5] Let Egyptian praise now be silent; but let the trumpet of David divinely sound, praising thee, O Virgin, with radiant voices, and confessing thee as the true Birthgiver of God!
 [6] Humanity was now pitied through thee, being truly united in person unto the Word: and God, having become man, was lifted up, O Virgin: therefore all we ever magnify thee!
 [7] Foreknowing by prophetic sharp vision the mystery of thy childbearing, O Maiden, that thou didst bear God incarnate unto men, Who delivers us from temptations: by thy prayers save us!
 
-#### [Right Page — Folio 224r]
-##### Column A
+**[Right Page — Folio 224r]**
+**Column A**
 Aposticha Stichera
 of the Cross. Tone 7:
 [1] Being the Master, Lover of mankind, and Giver of life, Thou didst redeem the universe by Thy Cross: O Lord, glory to Thee!
@@ -187,7 +187,7 @@ Beatitudes. Tone 7:
 [5] Beautiful was that fruit and good for food which put me to death; but Christ is the Tree of Life, whereof eating I die not, but cry aloud with the Thief: Remember me, O Lord, when Thou comest into Thy Kingdom!
 [6] Healing the disease of Adam, which he received through the counsel of the enemy, Thou wast lifted up upon the Tree of the Cross, O Christ King, and didst endure suffering, having Thy hands and feet nailed: therefore we glorify Thy long-suffering, O Word!
 
-##### Column B
+**Column B**
 [1] In the midst of the lawless the Jewish assembly crucified Thee, the only Lawgiver and Deliverer, Who deliverest the human race from every transgression, O Christ: therefore we sing praise unto Thee!
 Martyrs:
 [2] Bearing the wounds of many torments like beauteous ornaments, the valiant sufferers were manifestly recognized as the adornment of the Church: ever praying for our souls!
@@ -203,8 +203,8 @@ Tone 7. Model: "No longer are we forbidden":
 
 === LEAF p224 ===
 
-#### [Left Page — Folio 224v]
-##### Column A
+**[Left Page — Folio 224v]**
+**Column A**
 [1] ...way ye broke the snares, dwelling continually in the trackless wilderness, O venerable fathers!
 Other Stichera to the Holy Martyrs.
 Tone 7:
@@ -219,7 +219,7 @@ to the Martyrs. Tone 7:
 Model:
 [7] O Thou Who in the beginning didst create man according to Thine own image and likeness, and didst set him in Paradise to rule over Thy creatures; but being deceived through the envy of the devil, he partook of the food, becoming a transgressor of Thy commandments: therefore Thou didst condemn him, O Lord, to return again unto the earth whence he was taken, and to ask for rest!
 
-##### Column B
+**Column B**
 Model:
 [1] Give rest, O our Savior and Giver of life, unto our brethren whom Thou hast translated from temporal things, who cry: O Lord, glory to Thee!
 Glory: Now and ever: Theotokion:
@@ -235,8 +235,8 @@ After the 2nd Kathisma, Sessional Hymns
 to the Martyrs. Tone 7:
 [6] Rejoice, ye righteous, and let the heavens be glad! For the Martyrs having struggled upon earth, abolished deceit!
 
-#### [Right Page — Folio 225r]
-##### Column A
+**[Right Page — Folio 225r]**
+**Column A**
 [1] Let the Church dance, triumphantly celebrating the contest of the athletes, and sending up honor unto Christ God, the only Triumphant One, Who grantest great mercy unto the world!
 [2] Thy Martyrs, O Lord, conquered the enemy and put to shame idol deceit, being armed with the power of Thy Cross: therefore, singing with the Angels, they send up a hymn of victory, glorifying Thee, O Christ! By their supplications grant unto our souls cleansing and great mercy!
 [3] In the land of the living, O Lord, and in the tabernacles of Thy righteous ones, do Thou place those whose memory we celebrate, O Lover of mankind! And whatsoever they have sinned in this common life, as Thou art merciful and easily reconciled God, forgive, granting great mercy unto the world!
@@ -251,7 +251,7 @@ Troparia:
 [5] The choir of Martyrs, having conquered every deceit of the adversary, rejoice together before the face of Him Who created them!
 [6] Hierarchs of Christ and all venerable ones who have struggled: ye were accounted worthy of eternal sustenance by grace!
 
-##### Column B
+**Column B**
 [1] Deliver us from all wrath by the prayers of Prophets, Venerable ones, and Holy Women, O Christ, and save our souls!
 For the Departed:
 [2] O Word Who didst create me from the earth, and didst command me to return again unto the earth: give rest unto them whom Thou hast translated in faith!
@@ -269,8 +269,8 @@ Ode 3. Heirmos: Established...[^303]
 
 === LEAF p225 ===
 
-#### [Left Page — Folio 225v]
-##### Column A
+**[Left Page — Folio 225v]**
+**Column A**
 [1] Be Thou my establishment, O Word Who established the heavens, and founded the earth upon the waters, O Savior: as Thou art mighty, save our souls!
 Troparia:
 [2] Being crushed with stones and cast into pits: ye crushed all the power of the evil one, and remained unbroken in mind, O Martyrs!
@@ -285,7 +285,7 @@ Ode 3. Heirmos: In the beginning the heavens:
 [8] Receive, O merciful One, the souls of them that died in the hope of Thy eternal life; and settling them in the desired, divine bosom of holy Abraham, number them with Lazarus and Thine elect!
 [9] O compassionate Savior Who camest down from heaven to save the human race: account them that were piously translated worthy through Thy tender-heartedness to enjoy Thine immaterial Light and divine glory and joy!
 
-##### Column B
+**Column B**
 [1] When thou didst conceive the incomprehensible Word in thee, O pure one, the laws of nature were broken; and the divine law was given unto us, granting forgiveness of transgressions unto all through the grace of divine goodness!
 Ode 4. Heirmos:
 The Prophet Habakkuk, being assured of Thy coming in the flesh, O Christ, cried aloud: Glory to Thy power, O Lord!
@@ -301,8 +301,8 @@ Ode 4. Heirmos: The heavens heard:
 [7] Having patiently shown forth the sufferings of athletes, O Christ, the Martyrs were crowned with the crowns of Thy righteousness and glorified Thy glory!
 [8] Account them that were piously translated worthy of the supernatural beauty of Thy glory, O Christ, when Thou comest in Thy glory with Thine Angels, O all-compassionate and most merciful One!
 
-#### [Right Page — Folio 226r]
-##### Column A
+**[Right Page — Folio 226r]**
+**Column A**
 [1] Account them that have departed before us and glorify Thee, O Lover of mankind, worthy to enjoy the beam of the Triple-radiance and the lightning of the one Godhead!
 Theotokion:
 [2] Without leaving the Father, Christ took up His abode in the virginal womb, and delivered them that bless thee from death, O Mother of good, only all-pure one!
@@ -320,7 +320,7 @@ Another Canon [for the Departed].
 Ode 5. Heirmos: O Lord my God:
 [8] The all-lauded Martyrs, clothed with the life-bearing deadening through torments, asking for radiant garment: ask divine rest for the souls that fell asleep before!
 
-##### Column B
+**Column B**
 [1] O Savior, Who didst come down into the treasuries of the deep, pouring forth tender-heartedness: be pleased that the souls whom Thou hast translated may dwell with the first-born in their heavenly tabernacles!
 [2] Having laid aside the burden of the flesh and loosed from bonds, Thy servants who have now passed unto the higher life, O Christ: be pleased that they may enjoy the brightness of Thy Saints, O Savior!
 Theotokion:
@@ -337,8 +337,8 @@ Ode 7. Heirmos:...[^304]
 
 === LEAF p226 ===
 
-#### [Left Page — Folio 226v]
-##### Column A
+**[Left Page — Folio 226v]**
+**Column A**
 [1] Deliver Thy servants from the fire, O all-holy Virgin, who didst bear the all-holy Word in the flesh, Whom every breath praises, calling thee blessed!
 Another Canon [for the Departed].
 Ode 6. Heirmos: Navigating the sea:
@@ -354,7 +354,7 @@ Troparia:
 [7] Let the holy assembly of Prophets and Venerable monastics be honored in hymns, singing: Blessed art Thou, O God of our fathers!
 [8] Deliver from Gehenna Thy faithful servants whom Thou hast received, O compassionate Christ, who cry: Blessed art Thou, O God of our fathers!
 
-##### Column B
+**Column B**
 Theotokion:
 [1] Together with the Angels we cry aloud unto thee, who art holier than the Angels: Blessed art Thou, O God of our fathers!
 Another Canon [for the Departed].
@@ -370,8 +370,8 @@ Troparia:
 [6] Having overthrown the temples of idols, ye made yourselves spiritual temples, O passion-bearers, having valiantly finished your course!
 [7] Ye became sweet-smelling lilies of creation, O hierarchs, delighting the souls of the faithful with the knowledge of piety: therefore as is meet ye are called blessed!
 
-#### [Right Page — Folio 227r]
-##### Column A
+**[Right Page — Folio 227r]**
+**Column A**
 [1] The venerable ones, arms of God, were strangers unto all the earth, looking unto the higher inheritance and ever-abiding glory!
 For the Departed:
 [2] As Lord of the living and the dead, O Word, number Thy servants who have fallen asleep in faith among the choir of all Thine elect, as Thou alone art the Lover of mankind!
@@ -387,7 +387,7 @@ Theotokion:
 Ode 9. Heirmos:
 Mother beyond nature and Virgin according to nature, the only blessed one among women: with songs we, the faithful, as is meet, call thee blessed!
 
-##### Column B
+**Column B**
 Troparia:
 [1] By the prayers of the most wise Martyrs, Prophets, and Righteous ones who have lived well from all ages: have mercy upon our souls, O Christ!
 [2] As servants of the Good One, having appeared as sacred mystagogues, ye are joined unto the heavenly ministers: with them offer supplications for us!
@@ -404,8 +404,8 @@ Ode 9. Heirmos: The same.
 
 === LEAF p227 ===
 
-#### [Left Page — Folio 227v]
-##### Column A
+**[Left Page — Folio 227v]**
+**Column A**
 [1] ...Whom singing as essentially God, we ever call thee, the pure Virgin, blessed!
 At the Praises, Stichera
 to the Martyrs. Tone 7:
@@ -415,9 +415,9 @@ to the Martyrs. Tone 7:
 [5] United in mind, and looking unto the One, the passion-bearing Martyrs found the one path of life, even death for Christ: equally emulating one another in their end! O wonder! Like treasuries of torments snatching away the contest, one said unto another: "If we die not now, we shall die in any case; let us render what is due unto our nature! Let us make a necessity into an honor, and buy what is common by giving our own: by death let us purchase life!" By their prayers, O God, have mercy upon us!
 [6] O Thou Who in the beginning didst create man according to Thine own image and likeness, and didst set him in Paradise to rule over Thy creatures; but being deceived through the envy of the devil, he partook of the food, becoming a transgressor of Thy commandments: therefore Thou didst condemn him, O Lord, to return again unto the earth whence he was taken, and to ask for rest!
 Glory: Now and ever: Theotokion:
-[7] We sing praise unto thee, O all-holy Birth-giver of God, and we glorify...
+[7] We sing praise unto thee, O all-holy Birthgiver of God, and we glorify...
 
-##### Column B
+**Column B**
 ...Him Whom thou didst bear, God the Word, crying: Glory to Thee!
 Aposticha Stichera.
 Model: "Rejoice":
@@ -430,13 +430,13 @@ Verse: Their souls shall dwell amid good things [Ps. 24:13].
 Glory: Now and ever: Stavrotheotokion:
 [4] Thou didst bear the Deliverer Who came in the flesh as the fulfillment of the Law, Who became justification unto them that were formerly under the Law; and for our sake Christ was crucified and justified [us]...
 
-#### [Right Page — Folio 228r]
+**[Right Page — Folio 228r]**
 # TONE 8
 
 SATURDAY EVENING, AT LITTLE VESPERS
 Resurrectional Stichera, Tone 8.
 Creation of John of Damascus.
-##### Column A
+**Column A**
 [1] An evening song and rational service we offer unto Thee, O Christ: for Thou wast well pleased to have mercy upon us for the sake of Thy Resurrection!
 [2] O Lord, Lord, cast us not away from Thy face; but be well pleased to have mercy upon us for the sake of Thy Resurrection!
 [3] Rejoice, O holy Sion, mother of the Churches, dwelling-place of God: for thou didst first receive forgiveness of sins for the sake of the Resurrection!
@@ -445,7 +445,7 @@ Tone 8:
 [4] The Word born of God the Father before all ages: in the last times, incarnate of the unwedded Virgin by His own will, endured death upon the Cross: and saved man, deadened of old, by His Resurrection!
 [5] Thy Resurrection from the dead we glorify, O Christ: wherewith Thou didst set free the race of Adam from the tyranny of hades, and as God didst bestow upon the world eternal life and great mercy!
 
-##### Column B
+**Column B**
 [1] Glory to Thee, O Christ Savior, only-begotten Son of God, Who wast nailed upon the Cross, and didst rise from the tomb on the third day!
 [2] Thee do we glorify, O Lord, Who willingly didst endure crucifixion for our sake: and unto Thee we bow down, O almighty Savior, cast us not away from Thy face; but hear and save us for the sake of Thy Resurrection, O Lover of mankind!
 Glory: Now and ever: Dogmatic Theotokion:
@@ -453,8 +453,8 @@ Glory: Now and ever: Dogmatic Theotokion:
 
 === LEAF p228 ===
 
-#### [Left Page — Folio 228v]
-##### Column A
+**[Left Page — Folio 228v]**
+**Column A**
 At the Aposticha, Stichera
 Resurrectional. Tone 8:
 [1] Thou didst ascend the Cross, O Jesus, Who camest down from heaven; Thou camest unto death, O immortal Life, the true Light unto them that were in darkness; the Resurrection and illumination of all them that had fallen: O our Savior, glory to Thee!
@@ -466,13 +466,13 @@ Verse: For He established the universe which shall not be moved [Ps. 92:1].
 Verse: Holiness becomes Thy house, O Lord, unto length of days [Ps. 92:5].
 [4] O incomprehensible Master of all, Creator of heaven and earth: by the sufferings of the Cross Thou didst pour forth dispassion unto me; and having received burial and risen in glory, Thou didst raise up Adam with Thyself by Thine almighty hand! Glory to Thy third-day rising, wherewith Thou hast granted us eternal life and cleansing of sins, as Thou alone art compassionate!
 
-##### Column B
+**Column B**
 Glory: Now and ever: Theotokion:
 [1] O unwedded Virgin, who ineffably didst conceive God in the flesh, Mother of God the Most High: receive the supplications of thy servants, O all-immaculate one, who grantest unto all cleansing of transgressions: now receiving our entreaties, pray that we all may be saved!
 Troparion, Tone 8:
 [2] From on high didst Thou descend, O Compassionate One, and didst submit to three-day burial, that Thou mightest free us from our passions: O our Life and Resurrection, Lord, glory to Thee!
 Glory: Now and ever: Theotokion:
-[3] O Thou Who for our sake wast born of the Virgin and didst endure crucifixion, O Good One: Who by death didst despoil death and show forth the Resurrection as God: despise not them whom Thou didst create with Thine own hand; show forth Thy love for mankind, O Merciful One; accept the Birth-giver of God who bore Thee, who prays for us: and save a despairing people, O our Savior!
+[3] O Thou Who for our sake wast born of the Virgin and didst endure crucifixion, O Good One: Who by death didst despoil death and show forth the Resurrection as God: despise not them whom Thou didst create with Thine own hand; show forth Thy love for mankind, O Merciful One; accept the Birthgiver of God who bore Thee, who prays for us: and save a despairing people, O our Savior!
 SUNDAY AT THE MIDNIGHT OFFICE
 Canon to the Holy and Life-Originating
 T R I N I T Y.
@@ -483,8 +483,8 @@ Troparia:
 [4] Unto the Triple-radiant dominion, the Creator and Provider of all things, God Who alone is good by nature, and possesses the single glory of Godhead: we fall down before the single Beginning, singing the Thrice-holy hymn!
 [5] Remembering the divine utterances and the all-pure sayings that declared it: we glorify the single divine Nature, ever-existing, co-beginningless, in three Persons: Father, Son, and Holy Spirit, creative and almighty!
 
-#### [Right Page — Folio 229r]
-##### Column A
+**[Right Page — Folio 229r]**
+**Column A**
 [1] Abraham having become a sacred mystagogue, saw the Trinity of old in sacred manner, and receiving it as unto the Lord in three Persons, he rejoiced; and in three Hypostases he recognized the single dominion!
 Theotokion:
 [2] Without experience of wedlock thou didst bear Christ, Who assumed our nature for our sake, O all-pure one, and remained unchanged in both: Whom do thou entreat without ceasing, to grant me forgiveness of sins and deliverance from temptations!
@@ -497,12 +497,12 @@ Troparia:
 Theotokion:
 [6] Thou wast shown forth as a pure temple, O Virgin Mother Mary: unto Him Who divinely, all-powerfully, and most wisely established the other creation, ordering and upholding it: make Him merciful through thy maternal prayers!
 
-##### Column B
+**Column B**
 Sessional Hymn, Tone 8.
 Model: "That which was commanded mystically":
 [1] The power of the Triple-radiant and honorable Godhead let us, the faithful, praise in hymns: for by a nod alone He established all things: the higher angelic ranks and the lower sacred orders of the Church, that they may cry: Holy, Holy, Holy art Thou, O most good God! Glory and song be unto Thy dominion!
 Glory: Now and ever: Theotokion:
-[2] O thou who didst bear the Unchangeable God: my heart, ever changing through sin and slothfulness by the assaults of the deceitful one, do thou, as good, establish by thy maternal prayers, that I also may thankfully glorify thee: O Birth-giver of God Mary, have mercy upon thy flock which thou hast acquired, O all-immaculate one!
+[2] O thou who didst bear the Unchangeable God: my heart, ever changing through sin and slothfulness by the assaults of the deceitful one, do thou, as good, establish by thy maternal prayers, that I also may thankfully glorify thee: O Birthgiver of God Mary, have mercy upon thy flock which thou hast acquired, O all-immaculate one!
 Ode 4. Heirmos:
 The mysteries, O Christ Lord...
 Troparia:
@@ -511,8 +511,8 @@ Troparia:
 
 === LEAF p229 ===
 
-#### [Left Page — Folio 229v]
-##### Column A
+**[Left Page — Folio 229v]**
+**Column A**
 [1] Indivisible, all-compassionate, tender-hearted, loving mankind, honorable and divine Trinity: forget not me Thy servant unto the end, nor annul the covenant which Thou hast made with Thy servants, for Thine ineffable mercy's sake!
 Theotokion:
 [2] He Who was born of thee, O all-pure one, One of the Trinity, the all-creative and divine Word, almighty God, renewed human nature: Whom do thou entreat without ceasing, to deliver me from all sorrow!
@@ -525,7 +525,7 @@ Troparia:
 Theotokion:
 [6] O Virgin Mother, Maiden, all-pure, all-immaculate, full of God's grace: by thy prayers make Thy Son and God, the Lord Who loves mankind, merciful unto me; and speedily deliver Thy servant from the passions of sin!
 
-##### Column B
+**Column B**
 Ode 6. Heirmos: Cleanse me, O Savior, for many are my transgressions:
 Troparia:
 [1] Emulating the ranks of heavenly minds, O single Beginning of all, supersubstantial Trinity: with Thrice-holy hymns we glorify Thee!
@@ -537,10 +537,10 @@ Sessional Hymn, Tone 8.
 Model: "That which was commanded mystically":
 [5] As beginningless Root, and co-beginningless Son, and Divine Spirit, truly we confess: unconfusedly, unchangeably, and indivisibly: a simple Trinity in essence and equal in dignity, singing with the Angels: Holy art Thou, O Father, and Son, with the most holy and honorable Spirit: remember them whom Thou hast created according to Thine image, O Word!
 Glory: Now and ever: Theotokion:
-[6] We ever thank thee, O Birth-giver of God, and we magnify thee, O pure one, and bow down before thee: singing of thy birthgiving, O full of grace, crying unceasingly: Save us, O most merciful Virgin, as thou art good...
+[6] We ever thank thee, O Birthgiver of God, and we magnify thee, O pure one, and bow down before thee: singing of thy birthgiving, O full of grace, crying unceasingly: Save us, O most merciful Virgin, as thou art good...
 
-#### [Right Page — Folio 230r]
-##### Column A
+**[Right Page — Folio 230r]**
+**Column A**
 ...before the trial, that we thy servants may not be put to shame!
 Ode 7. Heirmos:
 The descending of the Father, the fire:
@@ -555,7 +555,7 @@ Troparia:
 [4] Light unwaning, triple-radiant and supremely brilliant, single Beginning, sovereign, most simple, incomprehensible God, and sovereign Lord: now illumine my dark and darkened heart, and show it forth radiant and light-bearing, faithfully to praise and glorify Thee unto all ages!
 [5] With most sacred wings the divine Seraphim reverently cover their faces and feet, unable to endure the incomprehensible glory of Thy divine,
 
-##### Column B
+**Column B**
 ...divine, self-beginning, supremely radiant Trinity: yet we also dare to sing of Thee and glorify Thee unto all ages!
 [6] Beginningless Lordship, all-powerful, most good, perfect in origin, beneficent, creative, ever-existing, providing for and saving all, single in essence and in three Persons: I glorify Thee, O my God, in faith unto all ages!
 Theotokion:
@@ -570,8 +570,8 @@ Theotokion:
 
 === LEAF p230 ===
 
-#### [Left Page — Folio 230v]
-##### Column A
+**[Left Page — Folio 230v]**
+**Column A**
 [1] ...wisely, in a God-man manner, unchangeably, unconfusedly in truth: and sanctifying forever, Thy mercy abides with Thy servants; therefore by the prayers of her that bore Thee, grant peace unto Thy Church!
 AT MATINS, AFTER THE PSALMS:
 "God is the Lord": and the Resurrectional Troparion. Glory: Now and ever: "O Thou Who for our sake wast born of the Virgin": Then the customary chanting of the Psalter.
@@ -582,7 +582,7 @@ Resurrectional. Tone 8:
 Glory: Now and ever: Theotokion:
 [4] Rejoice, thou who from the Angel didst receive the joy of the world! Rejoice, thou who didst bear the Creator of creation! Rejoice, thou who wast accounted worthy to be the Mother of God!
 
-##### Column B
+**Column B**
 After the 2nd Kathisma, Sessional Hymns
 Resurrectional. Tone 8:
 [1] Men sealed Thy tomb, O Savior, and an Angel rolled away the stone from the doors: and the women, seeing Thee risen from the dead, proclaimed the good tidings unto Thy disciples in Sion: that the Life of all hath risen, and the bonds of death have been loosed! O Lord, glory to Thee!
@@ -594,8 +594,8 @@ Ypakoë. Tone 8:
 Hymns of Ascent (Anavathmoi). Tone 8.
 Antiphon 1:
 
-#### [Right Page — Folio 231r]
-##### Column A
+**[Right Page — Folio 231r]**
+**Column A**
 [1] From my youth the enemy tempts me and burns me with pleasures; but hoping in Thee, O Lord, I conquer him!
 [2] They that hate Sion shall become as grass before it is plucked up; for Christ shall cut off their necks with the cutting of torments!
 Glory: Now and ever:
@@ -612,7 +612,7 @@ Glory: Now and ever:
 [9] By the Holy Spirit everyone divinely sees and foretells: he works wonders on high, singing of one God in three Persons: for though it shines triply, the Godhead reigns as one!
 Antiphon 4:
 
-##### Column B
+**Column B**
 [1] Behold now, what is so good, or what is so pleasant, as for brethren to dwell together in unity? For herein the Lord promised eternal life [Ps. 132:1]!
 [2] Concerning His garment, He Who adorns the lilies of the field commands that it is not meet to be anxious [Matt. 6:28]!
 Glory: Now and ever:

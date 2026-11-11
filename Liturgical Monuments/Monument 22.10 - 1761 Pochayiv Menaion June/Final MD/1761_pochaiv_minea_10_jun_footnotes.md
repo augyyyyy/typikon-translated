@@ -1340,7 +1340,7 @@
 
 [^669]: Opening sticheron at the Litiya (Tone 1, *Искапайте горы сладость*), adapting the imagery of Amos 9:13 and Joel 3:18 to the birth of the Forerunner.
 
-[^670]: John 1:29: *Се агнецъ Божїй вземляй грѣхи мiра* ("Behold the Lamb of God, which takes away the sin of the world").
+[^670]: John 1:29: *Се агнецъ Божїй вземляй грѣхи міра* ("Behold the Lamb of God, which takes away the sin of the world").
 
 [^671]: Quoting the Benedictus, the Canticle of Zechariah (Luke 1:76): *И ты, отроча, пророкъ вышняго наречешися: предыдеши бо пред лицемъ Господнимъ уготовати пути его*.
 
@@ -1348,7 +1348,7 @@
 
 [^673]: Canticle of Zechariah (Luke 1:68; LXX Ps. 40:14 / 71:18).
 
-[^674]: At the bottom of physical leaf p171, the catchword is *путь*, anticipating *путь спасенiя* ("the path of salvation"); however, on leaf p172, column 1, the top line reads *намъ спасенiя*, omitting *путь* due to a typesetter omission between folios 85r and 85v.
+[^674]: At the bottom of physical leaf p171, the catchword is *путь*, anticipating *путь спасенія* ("the path of salvation"); however, on leaf p172, column 1, the top line reads *намъ спасенія*, omitting *путь* due to a typesetter omission between folios 85r and 85v.
 
 [^675]: Luke 1:76.
 
@@ -1356,9 +1356,9 @@
 
 [^677]: Conflating Malachi 3:1 and Isaiah 40:3 as cited in Matthew 11:10 and Mark 1:2.
 
-[^678]: Luke 1:43 (*И откуду мнѣ сiе, да прiиде Мати Господа моего ко мнѣ?*).
+[^678]: Luke 1:43 (*И откуду мнѣ сіе, да пріиде Мати Господа моего ко мнѣ?*).
 
-[^679]: The festal troparion of the Nativity of St. John the Baptist (*Пророче и предтече пришествiя Христова*), Tone 4, given in full at Little Vespers (see fol. 84r, cohort 17).
+[^679]: The festal troparion of the Nativity of St. John the Baptist (*Пророче и предтече пришествія Христова*), Tone 4, given in full at Little Vespers (see fol. 84r, cohort 17).
 
 [^680]: Luke 1:76.
 
@@ -1366,13 +1366,13 @@
 
 [^682]: Matins Gospel reading for the Feast of the Nativity of the Forerunner: Luke 1:24–25, 57–68, 76, 80 (Slavonic pericope 3: *Зачало 3*).
 
-[^683]: Tone 4, Ode 1 Heirmos (*Тристаты крѣпкiя*), evoking Exodus 15:4 (*тристаты потопи въ Чермнѣмъ мори*), spiritualized as the drowning of the tripartite powers of the soul (the rational, irascible, and concupiscent faculties) in the deep of dispassion.
+[^683]: Tone 4, Ode 1 Heirmos (*Тристаты крѣпкія*), evoking Exodus 15:4 (*тристаты потопи въ Чермнѣмъ мори*), spiritualized as the drowning of the tripartite powers of the soul (the rational, irascible, and concupiscent faculties) in the deep of dispassion.
 
 [^684]: Tone 4, Ode 1 Heirmos of the Second Canon by St. Andrew of Crete (*Наставльшему древле Израиля*), recalling the Exodus journey and the feeding with manna in the wilderness.
 
 [^685]: The standard Katavasia for feasts of the Theotokos and major saints: Tone 4, Ode 1 (*Отверзу уста моя*).
 
-[^686]: Tone 4, Ode 3 Heirmos (*Не мудростiю, и силою, и богатствомъ хвалимся*), based on the Canticle of Hannah (1 Kings / 1 Samuel 2:2–3) and Jeremiah 9:23–24.
+[^686]: Tone 4, Ode 3 Heirmos (*Не мудростію, и силою, и богатствомъ хвалимся*), based on the Canticle of Hannah (1 Kings / 1 Samuel 2:2–3) and Jeremiah 9:23–24.
 
 [^687]: Tone 4, Ode 3 Heirmos of the Second Canon (*Утверждаяй громъ, и созидаяй духъ*), echoing Amos 4:13 (*Яко се азъ утверждаяй громъ, и созидаяй духъ, и возвѣщаяй въ человѣцѣхъ христа своего*).
 
@@ -1386,43 +1386,43 @@
 
 [^692]: Typological Marian prophecies: the unburnt bush of Exodus 3:2, and the mountain not cut with hands of Daniel 2:34–35, 45.
 
-[^693]: Tone 4, Ode 5 Heirmos (*Нынѣ востану, пророчески рече Богъ*), derived from Psalm 11:6 (LXX: *Нынѣ воскресну, глаголетъ Господь, положуся во спасенiе, не обинюся о немъ*).
+[^693]: Tone 4, Ode 5 Heirmos (*Нынѣ востану, пророчески рече Богъ*), derived from Psalm 11:6 (LXX: *Нынѣ воскресну, глаголетъ Господь, положуся во спасеніе, не обинюся о немъ*).
 
-[^694]: Alluding to Psalm 84:12 (LXX: *Истина от земли возсiя, и правда съ небесе приниче*).
+[^694]: Alluding to Psalm 84:12 (LXX: *Истина от земли возсія, и правда съ небесе приниче*).
 
 [^695]: Alluding to Psalm 131:17–18 (LXX: *Уготовахъ свѣтильникъ помазанному моему: враги его облеку въ студъ*).
 
-[^696]: Tone 4, Ode 5 Heirmos of the Second Canon (*Возсiяй ми Господи свѣтъ повелѣнiй твоихъ*), drawn from Isaiah 26:9 (*От нощи утренюетъ духъ мой къ тебѣ, Боже, зане свѣтъ повелѣнiя твоя на земли*).
+[^696]: Tone 4, Ode 5 Heirmos of the Second Canon (*Возсіяй ми Господи свѣтъ повелѣній твоихъ*), drawn from Isaiah 26:9 (*От нощи утренюетъ духъ мой къ тебѣ, Боже, зане свѣтъ повелѣнія твоя на земли*).
 
-[^697]: Luke 1:13–17 (*И самъ предыдетъ предъ нимъ духомъ и силою Илiиною*).
+[^697]: Luke 1:13–17 (*И самъ предыдетъ предъ нимъ духомъ и силою Иліиною*).
 
 [^698]: Ezekiel 44:1–2; Exodus 3:2; Daniel 2:34–35.
 
-[^699]: Tone 4, Ode 6 Heirmos (*Прiидохъ во глубины морскiя*), based on the Canticle of Jonah 2:3–7.
+[^699]: Tone 4, Ode 6 Heirmos (*Пріидохъ во глубины морскія*), based on the Canticle of Jonah 2:3–7.
 
-[^700]: Tone 4, Ode 6 Heirmos of the Second Canon (*Буря мя помышленiй постигши*), also drawing upon Jonah 2:3–6.
+[^700]: Tone 4, Ode 6 Heirmos of the Second Canon (*Буря мя помышленій постигши*), also drawing upon Jonah 2:3–6.
 
 [^701]: Matthew 3:10 and Luke 3:9 (*Уже бо и сѣкира при корени древа лежитъ*).
 
 [^702]: Tone 4, Ode 7 Heirmos (*Юношы три въ Вавѷлонѣ*), based on the Prayer of Azariah and the Song of the Three Holy Children (Daniel 3:26ff).
 
-[^703]: Tone 4, Ode 7 Heirmos of the Second Canon (*Въ пещи, авраамстiи отроцы*), Daniel 3:52 (*Благословенъ еси въ храмѣ святыя славы твоея*).
+[^703]: Tone 4, Ode 7 Heirmos of the Second Canon (*Въ пещи, авраамстіи отроцы*), Daniel 3:52 (*Благословенъ еси въ храмѣ святыя славы твоея*).
 
 [^704]: Matthew 3:12 and Luke 3:17 (*Емуже лопата въ руцѣ его, и отребитъ гумно свое, и соберетъ пшеницу свою въ житницу*).
 
 [^705]: Tone 4, Ode 8 Heirmos (*Избавителю всѣхъ всесилне*), Daniel 3:57 (*Благословенъ еси въ храмѣ святыя славы твоея* / *Благословите вся дѣла Господня Господа*).
 
-[^706]: Tone 4, Ode 8 Heirmos of the Second Canon (*Случескаго владыко премудростiю твоею составилъ еси*), alluding to Job 38:4–6 and Psalm 103:2, 5.
+[^706]: Tone 4, Ode 8 Heirmos of the Second Canon (*Случескаго владыко премудростію твоею составилъ еси*), alluding to Job 38:4–6 and Psalm 103:2, 5.
 
-[^707]: Luke 1:63 (*И испрошь дщицу, написа, глаголя: Iоаннъ будетъ имя ему: и чудишася вси*).
+[^707]: Luke 1:63 (*И испрошь дщицу, написа, глаголя: Іоаннъ будетъ имя ему: и чудишася вси*).
 
 [^708]: Daniel 3:57 (*Благословите вся дѣла Господня Господа*).
 
-[^709]: Tone 4, Ode 9 Heirmos of the First Canon (*Сокровенное Божiе неизреченное въ тебѣ совершается*).
+[^709]: Tone 4, Ode 9 Heirmos of the First Canon (*Сокровенное Божіе неизреченное въ тебѣ совершается*).
 
 [^710]: Matthew 3:3; Mark 1:3; Luke 3:4; Isaiah 40:3.
 
-[^711]: John 1:29 (*Се Агнецъ Божiй, вземляй грѣхи мiра*).
+[^711]: John 1:29 (*Се Агнецъ Божій, вземляй грѣхи міра*).
 
 [^712]: The Ruthenian Pochaiv recension retains the supplication for the ruling King (*подкориваго подложи подъ нозѣ королю*), reflecting the historical civic petition of the Polish-Lithuanian Commonwealth.
 
@@ -1444,7 +1444,7 @@
 
 [^721]: The standard festal Theotokion dismissal chant at Matins (*Богородице, ты еси лоза истинная*).
 
-[^722]: Theotokion Kontakion (*Предстательство христiанъ непостыдное*), Tone 6.
+[^722]: Theotokion Kontakion (*Предстательство христіанъ непостыдное*), Tone 6.
 
 [^723]: Psalm 63:11 (LXX).
 
@@ -1466,7 +1466,7 @@
 
 [^732]: Selenus (Silvanus/Selenus), the Roman governor and persecutor who tortured and condemned St. Febronia to death in Nisibis.
 
-[^733]: Luke 1:43 (*И откуду мнѣ сiе, да прiиде Мати Господа моего ко мнѣ?*).
+[^733]: Luke 1:43 (*И откуду мнѣ сіе, да пріиде Мати Господа моего ко мнѣ?*).
 
 [^734]: Luke 1:41–44.
 
@@ -1482,7 +1482,7 @@
 
 [^740]: Alluding to Psalm 115:6 (LXX: *Честна предъ Господемъ смерть преподобныхъ его*) and Exodus 13:2 / Luke 2:23.
 
-[^741]: Canon of the Venerable-Martyr Febronia by St. Theophanes the Branded (Tone 8), bearing the Slavonic acrostic: *Пѣсньми тя пою мудренно Февронiе*.
+[^741]: Canon of the Venerable-Martyr Febronia by St. Theophanes the Branded (Tone 8), bearing the Slavonic acrostic: *Пѣсньми тя пою мудренно Февроніе*.
 
 [^742]: Tone 8, Ode 3 Heirmos (*Небеснаго круга Верхотворче, Господи*).
 
@@ -1492,7 +1492,7 @@
 
 [^745]: Numbers 17:8; Hebrews 9:4.
 
-[^746]: Tone 8, Ode 3 Heirmos of the Second Canon (*Ты еси утвержденiе притекающихъ къ тебѣ, Господи*).
+[^746]: Tone 8, Ode 3 Heirmos of the Second Canon (*Ты еси утвержденіе притекающихъ къ тебѣ, Господи*).
 
 [^747]: The Kontakion of St. Febronia, drawing upon the Parable of the Ten Virgins (Matthew 25:1–13) and the cup of the Lord's suffering (Matthew 20:22).
 
@@ -1504,13 +1504,13 @@
 
 [^751]: Tone 8, Ode 4 Heirmos (*Ты моя крѣпость, Господи*), based on Habakkuk 3:2.
 
-[^752]: Matthew 5:8 (*Блажени чистiи сердцемъ, яко тiи Бога узрятъ*).
+[^752]: Matthew 5:8 (*Блажени чистіи сердцемъ, яко тіи Бога узрятъ*).
 
 [^753]: Matthew 3:10 and Luke 3:9 (*Уже бо и сѣкира при корени древа лежитъ: всяко убо древо, еже не творитъ плода добра, посѣкается и во огнь вметается*).
 
 [^754]: Philippians 3:20; Hebrews 11:10; 13:14.
 
-[^755]: Galatians 4:26 (*А вышнiй Iерусалимъ свободь есть, иже есть мати всѣмъ намъ*).
+[^755]: Galatians 4:26 (*А вышній Іерусалимъ свободь есть, иже есть мати всѣмъ намъ*).
 
 [^756]: Song of Songs 4:7 (*Вся добра еси, ближняя моя, и порока нѣсть въ тебѣ*).
 
@@ -1522,7 +1522,7 @@
 
 [^760]: Ode 5 Troparion 3 of the First Canon concluded.
 
-[^761]: Psalm 45:5 (LXX: *Рѣчная устремленiя веселятъ градъ Божiй: освятилъ есть селенiе свое Вышнiй*).
+[^761]: Psalm 45:5 (LXX: *Рѣчная устремленія веселятъ градъ Божій: освятилъ есть селеніе свое Вышній*).
 
 [^762]: Commemorating the severe bodily mutilation suffered by St. Febronia, who had her limbs, breasts, and teeth violently severed by order of Selenus.
 
@@ -1530,7 +1530,7 @@
 
 [^764]: In the 1761 Pochaiv print, this stanza is labeled with the red rubric *Богородиченъ:*, though its content specifically commemorates the severed feet of St. Febronia while addressing Christ born of the Virgin and Febronia as bride of God.
 
-[^765]: Tone 8, Ode 6 Heirmos (*Молитву пролiю ко Господу*), based on Jonah 2:3–8 and Psalm 141:2.
+[^765]: Tone 8, Ode 6 Heirmos (*Молитву пролію ко Господу*), based on Jonah 2:3–8 and Psalm 141:2.
 
 [^766]: Emphasizing the angelic life of St. John the Baptist in the wilderness (*земенъ ангелъ и небесный человѣкъ*).
 
@@ -1540,13 +1540,13 @@
 
 [^769]: Bryene (Vryena), the abbess of the convent in Nisibis who raised and trained St. Febronia from childhood.
 
-[^770]: Song of Songs 2:2 (*Яко кринъ въ тернiи, тако искренняя моя посредѣ дщерей*).
+[^770]: Song of Songs 2:2 (*Яко кринъ въ терніи, тако искренняя моя посредѣ дщерей*).
 
 [^771]: Kontakion of the Nativity of the Forerunner, Tone 3 (*Дѣва днесь* model by St. Romanos the Melodist).
 
 [^772]: Ikos of the Nativity of the Forerunner; cf. Matthew 11:9–11; Luke 1:41, 76; 7:26–28.
 
-[^773]: Tone 8, Ode 7 Heirmos (*Отъ Iудеи дошедше отроцы*), Daniel 3:26ff.
+[^773]: Tone 8, Ode 7 Heirmos (*Отъ Іудеи дошедше отроцы*), Daniel 3:26ff.
 
 [^774]: Luke 1:15 (*И вина и сикера не имать пити, и Духа Святаго исполнится еще изъ чрева матере своея*).
 
@@ -1820,7 +1820,7 @@
 
 [^909]: Slavonic *Є҆фре́ма ка́ріа* renders the Byzantine hymnographer Ephrem of Caria.
 
-[^910]: Slavonic *Гла́вную добле́нія ѡ҆ста́вль* translates the Greek incipit Τὴν ἄκран ἐκλιπὼν ἀνδρείαν (referring to the abandonment of reliance on earthly vigor to receive divine revelation).
+[^910]: Slavonic *Гла́вную добле́нія ѡ҆ста́вль* translates the Greek incipit Τὴν ἄκραν ἐκλιπὼν ἀνδρείαν (referring to the abandonment of reliance on earthly vigor to receive divine revelation).
 
 [^911]: Saint John of Damascus composed the first canon to Saint Peter; the second canon to Saint Paul is attributed to Saint John of Damascus or Saint Cosmas.
 

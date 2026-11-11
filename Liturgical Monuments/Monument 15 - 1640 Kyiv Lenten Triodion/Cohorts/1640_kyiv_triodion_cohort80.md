@@ -137,7 +137,7 @@ This is our God, terrible in day, Whom reaching until evening we hope not; and t
 Let the heart of them rejoice that seek the Lord! *Verse:* O give thanks unto the Lord, and call upon His Name![^2622]
 
 *Reading from the Prophecy of Isaiah (Chapter 48):*
-Thus saith the Lord that delivers thee, the Holy One of Israel: I am the Lord thy God, Who hath shown thee how thou shouldest find the way wherein thou shouldest walk.[^2623]
+Thus says the Lord that delivers thee, the Holy One of Israel: I am the Lord thy God, Who hath shown thee how thou shouldest find the way wherein thou shouldest walk.[^2623]
 
 And if thou hadst given ear to My commandments, then had thy peace been as a river, and thy righteousness as the wave of the sea.[^2624]
 
@@ -147,9 +147,9 @@ Go forth from Babylon, fleeing from the Chaldeans; declare the voice of joy, and
 
 And if they thirst in the desert, He shall lead them; He shall bring water out of the rock for them; the rock shall be cleft, and water shall flow, and My people shall drink.[^2627]
 
-There is no rejoicing unto the ungodly, saith the Lord.[^2628]
+There is no rejoicing unto the ungodly, says the Lord.[^2628]
 
-Give ear unto Me, ye islands, and attend, ye nations; through a long time it shall stand, saith the Lord: from the womb He called Me, and from the belly of My mother He named My name.[^2629]
+Give ear unto Me, ye islands, and attend, ye nations; through a long time it shall stand, says the Lord: from the womb He called Me, and from the belly of My mother He named My name.[^2629]
 
 And He hath made My mouth as a sharp sword, and under the shelter of His hand hath He hid Me; He hath made Me as an elect shaft, and in His quiver hath He sheltered Me.[^2630]
 

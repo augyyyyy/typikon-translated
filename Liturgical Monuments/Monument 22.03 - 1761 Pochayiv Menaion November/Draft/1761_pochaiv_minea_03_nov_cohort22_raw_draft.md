@@ -60,7 +60,7 @@ The fruit of the holy promise and most glorious, * the Theotokos in truth was re
 
 Nourished with heavenly bread, O Virgin, * faithfully in the temple of the Lord, * thou gavest birth unto the world's Bread of Life, the Word; * unto Whom, as an elect and all-immaculate temple, * thou wast mystically betrothed by the Spirit, * espoused unto God the Father.
 
-*Stichera of the Venerable Father, Tone 1, Podoben: The same:*
+*Stichera of the Venerable Father, Tone 1, Podoben: The same (Подо́бенъ то́йже):*
 Into the heavenly mansions with rejoicing thou didst make thy dwelling, * and standing with the angels, O father, * boldly before the throne...
 
 === LEAF p213 ===
@@ -128,7 +128,7 @@ Before conception thou wast sanctified unto God, O pure one, and having been bor
 
 ...*Both now, the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 4, and the Podoben the same:*
+*After the 2nd Kathisma, Sessional Hymn, Tone 4, and the Podoben the same (Подо́бенъ то́йже):*
 The temple of God, the most precious bridal chamber, goes forth with bright candles to dwell with rejoicing in the temple of God; and Zechariah rejoices over her, seeing the revelation of the sacred prophets clearly fulfilled, and he makes glad, and sings the forefestal song: Thy going forth proclaims joy, O Virgin Maiden!
 *Glory, Both now, the same.*
 

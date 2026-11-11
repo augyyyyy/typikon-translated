@@ -172,11 +172,11 @@ When a pestilent man is scourged, a fool becomes more subtle; and if thou reprov
 *Prokeimenon from Psalm 108, Tone 4:* Help me, O Lord my God, and save me according to Thy mercy! *Verse:* O God, hold not Thy peace at my praise![^2739]
 
 *Reading from the Prophecy of Isaiah (Chapter 49):*[^2740]
-Thus saith the Lord: Behold, I have given Thee for a covenant of a race, for a light of the Gentiles, that Thou mayest be for salvation unto the ends of the earth.[^2741]
+Thus says the Lord: Behold, I have given Thee for a covenant of a race, for a light of the Gentiles, that Thou mayest be for salvation unto the ends of the earth.[^2741]
 
-Thus saith the Lord, the God of Israel that hath redeemed thee: Sanctify Him that is despised, sanctify Him that abhorrs His soul, Him that is abominable unto the nations, a servant of rulers. Kings shall see Him, and princes shall arise and bow down to Him for the Lord's sake, because the Holy One of Israel is faithful, and I have chosen Thee.[^2742]
+Thus says the Lord, the God of Israel that hath redeemed thee: Sanctify Him that is despised, sanctify Him that abhorrs His soul, Him that is abominable unto the nations, a servant of rulers. Kings shall see Him, and princes shall arise and bow down to Him for the Lord's sake, because the Holy One of Israel is faithful, and I have chosen Thee.[^2742]
 
-Thus saith the Lord: In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee; and I have formed Thee, and given Thee for a covenant of the Gentiles, to establish the earth, and to inherit the heritage of the wilderness;[^2743]
+Thus says the Lord: In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee; and I have formed Thee, and given Thee for a covenant of the Gentiles, to establish the earth, and to inherit the heritage of the wilderness;[^2743]
 
 saying to them that are in bonds: Go forth! and to them that are in darkness...
 

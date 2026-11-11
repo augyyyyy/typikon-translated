@@ -193,7 +193,7 @@ Beholding Him Who was born of thee, O All-Immaculate One, hanging upon the Tree,
 O Christ, stretched out upon the Cross, Thou wast put to death, Who didst put to death the enemy and origin of evil, the serpent, and didst make alive those who died through his bite: therefore I pray: make alive my deadened soul, O Savior, which looks unto Thee in prayer and fasting.  
 *(Thrice.)*  
 
-*Stavrotheotokion, Podoben:*[^444]  
+*Stavrotheotokion, Podoben (Подо́бенъ):*[^444]  
 When the Ewe-lamb beheld Thee, the Lamb, hanging upon the Cross, O Christ, in the midst of evildoers, she cried with tears, and bitterly lamented: O most beloved Child, what is this wonder that is seen? O most pure Mother, universal Life, this which thou didst foretell is made known!
 
 === LEAF p188 ===

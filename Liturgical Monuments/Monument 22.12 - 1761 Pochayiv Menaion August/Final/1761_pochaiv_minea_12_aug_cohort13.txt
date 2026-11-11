@@ -340,7 +340,7 @@ As unto thee, O Tabor, that once wast dark: for thou wast accounted worthy of li
 
 Illumined by the light of Thy face, Thy disciples, O Savior, unable to endure the radiance, suddenly fell unto the earth.
 
-*Glory... Both now... the same tone and podoben [Tone 2]:*
+*Glory... Both now... the same tone and podoben [Tone 2] (Гла́съ и҆ подо́бенъ то́йже):*
 And the Father's voice was heard from heaven, crying: This is My beloved Son; give ear unto Him, all ye!
 
 *At the Liturgy: The Beatitudes of the Feast, Ode 6 of both canons, with the heirmos to 6.*[^347]

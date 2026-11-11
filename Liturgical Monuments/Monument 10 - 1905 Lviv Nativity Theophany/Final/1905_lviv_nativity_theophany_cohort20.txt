@@ -32,16 +32,16 @@ The Lord, Who gives strength unto our kings and exalts the horn of His anointed 
 *The Second Choir:*
 As many of us as have been delivered from the ancient snares of lions' jaws, their teeth crushed: let us rejoice and open wide our mouth, weaving a hymn out of sweet-singing words, delighting in the gifts bestowed upon us.[^627]
 
-*Kontakion of the Circumcision: Tone 3. Podoben: "The Virgin today...":*
+*Kontakion of the Circumcision: Tone 3. Podoben: "The Virgin today..." (Дв҃а дне́сь):*
 The Lord of all endures circumcision, and as good circumcises the transgressions of mortals; He grants salvation today unto the world, and on high rejoices also the Creator's hierarch and light-bearing, divine initiate of Christ, Basil.[^628]
 
-*Then Sessional Hymn: Tone 8. Podoben: "The Wisdom...":*
+*Then Sessional Hymn: Tone 8. Podoben: "The Wisdom..." (Премꙋ́дрости):*
 Having learned the words of wisdom, and laid aside the letter of the law, thou didst proclaim unto all the words of grace, and didst smooth the tablets of souls with thy words, wherein thou didst inscribe
 
 === LEAF p193 ===
 divine teachings; therefore, having passed through the gloom by the cloud of the body's covering, thou didst shine forth by the Holy Spirit, O Basil; entreat Christ God to grant remission of sins unto those who honor thy holy memory with love. *(Twice)*[^629]
 
-*Glory; Both now: Of the Circumcision: Tone 4. Podoben: "Thou hast appeared today...":*
+*Glory; Both now: Of the Circumcision: Tone 4. Podoben: "Thou hast appeared today..." (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 As being an abyss of love for mankind, Thou didst clothe Thyself, O Master, in the form of a servant, and wast circumcised in the flesh, granting unto all people Thy great mercy.[^630]
 
 *Ode 4. — Heirmos:*
@@ -126,7 +126,7 @@ The voice of the Word, the lamp of the Light, the morning star of the Sun, the F
 *The Second Choir:*
 With a most blessed voice the Father made manifest the Beloved Whom He brought forth from the womb: Yea, He says, this radiant One, being My consubstantial Son, has sprung forth from the human race: My living Word, and mortal by providence.[^660]
 
-*Kontakion, Tone 4. Podoben: "Thou hast appeared today...":*
+*Kontakion, Tone 4. Podoben: "Thou hast appeared today..." (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 Thou wast shown forth as an unshakable foundation of the Church, dispensing unto all mortals an inviolable dominion, sealing it by thy decrees, O heavenly-manifest Basil, venerable one.[^661]
 
 *Ikos:*

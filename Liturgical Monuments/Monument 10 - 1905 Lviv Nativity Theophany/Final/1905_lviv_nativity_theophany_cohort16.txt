@@ -17,7 +17,7 @@ Rejoice in the Lord, O ye righteous; praise is meet for the upright. Alleluia.
 *And of our venerable Father and Confessor Theodore the Branded, and his brother Theophanes.*[^399]
 *At Vespers.*
 *On "Lord, I have cried," Stichera of the Apostle, 3; and of the Venerable, 3.*
-*Stichera of the Apostle, Tone 4. Podoben: "As one noble...":*
+*Stichera of the Apostle, Tone 4. Podoben: "As one noble..." (Ꙗ҆́кѡ до́блѧ):*
 Having enlightened thy mind by the grace of the Spirit, thou didst appear as an angel in form, O Stephen, thy body shining with inward brightness, showing the radiance of thy soul unto those that beheld thee, through which thou didst also obtain the vision of light, the heavens being most gloriously opened unto thee, O beginning and boast of martyrs.
 As steps and a ladder for ascent into heaven were the hurling of stones unto thee,
 
@@ -35,7 +35,7 @@ and thou hast been enrolled in the church of the firstborn on high, and hast com
 Unto the King and Master of all Who was born on earth, a most radiant crown is offered, not fashioned of precious stones, but blossoming from his own blood. But come, O ye lovers of the martyrs, taking flowers of hymns, let us crown our heads, and singing hymns let us say: O thou who didst enlighten thy soul with wisdom and grace, first-martyr of Christ God, ask peace for us, and great mercy.
 *Both now: Same tone:*
 "A great and most glorious wonder..." (see p. 88).[^407]
-*At the Aposticha, Stichera, Tone 1. Podoben: "Joy of the heavenly hosts":*[^408]
+*At the Aposticha, Stichera, Tone 1. Podoben: "Joy of the heavenly hosts" (Небє́сныхъ чинѡ́въ):*[^408]
 Him Who shone forth from the Father before all ages, and as Son ever-existing in the bosom of the Father, and now in these latter days sitting upon His Mother's arms as upon a throne, and worshiped by angels, shepherds, and Magi, let us hymn.
 *Verse:* From the womb before the morning star have I begotten Thee; the Lord has sworn, and will not repent.[^409]
 Assembling in Bethlehem, O ye faithful, let us behold the Creator of all lying in a manger; and those who have brought from the land of the Chaldeans a chosen three-part gift: as unto King and God, and unto Him Who for our sake would be a dead corpse of three days.[^410]
@@ -58,10 +58,10 @@ Guide of Orthodoxy, teacher of piety and purity, luminary of the universe, divin
 === LEAF p156 ===
 *At Matins.*
 *On "God is the Lord," Troparion of the Nativity: "Thy Nativity, O Christ..."[^418] And of the Apostle: "With a good fight..."[^419] Glory: of the Venerable: "Guide of Orthodoxy..."[^420] Both now: of the Nativity: "Thy Nativity, O Christ..."*
-*After the 1st Kathisma, Sessional Hymn, Tone 2. Podoben: "Today the Virgin":*[^421]
+*After the 1st Kathisma, Sessional Hymn, Tone 2. Podoben: "Today the Virgin" (Дв҃а дне́сь):*[^421]
 The seedless conception gives birth to the Redeemer; and the Magi come to worship Life; men with angels glorify; the cave and manger offer gifts, hymning the One Who was born, a young child, the pre-eternal God.
 *Glory: Both now: the same again.*
-*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "Joseph marveled":*[^422]
+*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "Joseph marveled" (Оу҆диви́сѧ І҆ѡ́сифъ):*[^422]
 He Who is uncontainable everywhere, how was He contained in the womb? He Who is in the bosom of the Father, how is He in the arms of His Mother? In every way as He knows, as He willed, and as He was well pleased; for being bodiless, He voluntarily took flesh; and He became what He was not for our sake, and not departing from His divine nature, He partook of our compound nature; twofold was Christ born, desiring to fulfill the world on high.
 *Glory: Both now: the same again.*
 *Magnification:*[^423]
@@ -120,9 +120,9 @@ David, as if seeing the Ark in Bethlehem with prophetic eyes, O Mother of God, b
 "Today the Virgin gives birth to the Transcendent in essence..." (p. 109).[^447]
 *Ikos:*
 "Bethlehem has opened Eden..." (p. 109).[^448]
-*Sessional Hymn, Tone 1. Podoben: "Thy tomb, O Savior":*[^449]
+*Sessional Hymn, Tone 1. Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й Сп҃се):*[^449]
 Apostle of Christ, first of deacons, wise first-martyr, crown of martyrs, having sanctified the ends of the world by thy sufferings, and enlightened the souls of men by wonders: deliver from all tribulations those who honor thee, O all-praised Stephen.
-*Glory: Of the Venerable, Sessional Hymn, Tone 3. Podoben: "Of the divine faith":*[^450]
+*Glory: Of the Venerable, Sessional Hymn, Tone 3. Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры):*[^450]
 Thou wast a mouth of boldness, putting the pride of the tormentor to shame with lofty wisdom through the endurance of thy sufferings; for being wounded in the face, O Theodore, for the all-venerable icon of Christ, thou didst confirm all to venerate and glorify it, asking great mercy for us.
 *Both now: Theotokion:*[^451]
 Beholding her seedless birth-giving, the all-undefiled one marveled, and unto Him Who was born of her

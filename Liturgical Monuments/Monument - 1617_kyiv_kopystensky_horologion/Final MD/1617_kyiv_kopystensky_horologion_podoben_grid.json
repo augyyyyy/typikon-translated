@@ -15,7 +15,6 @@
         "model_id": "POD.T8.EXT_IT_IS_TRULY",
         "tone": 8,
         "prescribed_model": "It Is Truly Meet",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "f. 40r (p63)",
         "attested_loci": [
@@ -26,7 +25,6 @@
         "model_id": "POD.T6.VSE_OTLOZHSHE",
         "tone": 6,
         "prescribed_model": "Having laid aside all earthly hope",
-        "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
         "total_invocations": 1,
         "first_locus": "f. 156v (p180)",
         "attested_loci": [
@@ -37,7 +35,6 @@
         "model_id": "POD.T2.EGDA_OT_DREVA",
         "tone": 2,
         "prescribed_model": "When from the Tree",
-        "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
         "total_invocations": 1,
         "first_locus": "f. 159r (p182)",
         "attested_loci": [
@@ -59,7 +56,6 @@
       "normalized_rubric": "*Tone 8, Podoben: \"It Is Truly Meet\" (Достойно есть):*",
       "prescribed_model": "It Is Truly Meet",
       "model_id": "POD.T8.EXT_IT_IS_TRULY",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "It is truly meet in a manner worthy of God..."
     },
     {
@@ -74,7 +70,6 @@
       "normalized_rubric": "*Then, Sticheron. Tone 6, Podoben: \"Having laid aside all earthly hope\" (Всѐ ѿло́жше):*[^463]",
       "prescribed_model": "Having laid aside all earthly hope",
       "model_id": "POD.T6.VSE_OTLOZHSHE",
-      "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
       "governed_hymn_opening": "Cast us not away unto human protection, O Most Pure..."
     },
     {
@@ -89,7 +84,6 @@
       "normalized_rubric": "*Then, Supplicatory Stichera. Tone 2, Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва тя̀ мр҃тва, а҆рїмаѳе́й):*[^467] (cont. on fol. 159r) *To the Theotokos. [Fol. 159r]*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "Thou prayest for all, O Good One, who with faith..."
     }
   ]

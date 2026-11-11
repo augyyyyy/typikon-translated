@@ -26,9 +26,9 @@
 
 *Sticheron 3:* Wounded with the sweetest love of the Creator, thou didst turn away completely from the delusion of godlessness, and didst enter within the divine bridal chamber, betrothed unto Christ through many bodily torments, O Daria of great renown, divine receptacle of the Spirit, adornment of martyrs, and beauty of virgins.
 
-*Glory, both now, Theotokion, the same Tone and Podoben:* The weakness and palsy of my soul do thou transform into strength and power, O Virgin, all-immaculate Mother, that in fear and love I may perform and work the ordinances of Christ; so that I may escape the intolerable fire, and through thee receive heavenly inheritance and unending life, ever rejoicing.
+*Glory, both now, Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* The weakness and palsy of my soul do thou transform into strength and power, O Virgin, all-immaculate Mother, that in fear and love I may perform and work the ordinances of Christ; so that I may escape the intolerable fire, and through thee receive heavenly inheritance and unending life, ever rejoicing.
 
-*Stavrotheotokion, the same Podoben:* Beholding Christ, the Lover of mankind, crucified, and His side pierced with a spear, the all-pure one wept and cried aloud: What is this, O my Son? What have the ungrateful people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O compassionate One, at Thy voluntary crucifixion!
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):* Beholding Christ, the Lover of mankind, crucified, and His side pierced with a spear, the all-pure one wept and cried aloud: What is this, O my Son? What have the ungrateful people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O compassionate One, at Thy voluntary crucifixion!
 
 *Canon, whose acrostic is:*
 *The golden-radiant flower of the martyrs do I honor. By Lord Joseph.*
@@ -153,9 +153,9 @@ Thou didst desire the most beautiful beauty, and didst surpass visible beauties;
 === LEAF p117 ===
 ...which do ye unceasingly pray that we who praise you may partake of.
 
-*Glory, both now, Theotokion, the same Tone and Podoben:* Choice repentance and saving medicine, O thou who didst bear God my Savior, and streams of tears, and meditation upon the dread and fearful hour and unbribable judgment, do thou grant me to escape through thy prayers, O Virgin, from trembling torment, and to obtain divine grace.
+*Glory, both now, Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* Choice repentance and saving medicine, O thou who didst bear God my Savior, and streams of tears, and meditation upon the dread and fearful hour and unbribable judgment, do thou grant me to escape through thy prayers, O Virgin, from trembling torment, and to obtain divine grace.
 
-*Stavrotheotokion, the same Podoben:* Beholding Thee nailed upon the Cross, O Lord, the ewe-lamb and Thy Mother marveled, and cried aloud: What vision is this, O longed-for Son? Hath the disobedient and lawless assembly rendered these things unto Thee, which enjoyed Thy many wonders? But glory to Thine ineffable condescension, O Master!
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):* Beholding Thee nailed upon the Cross, O Lord, the ewe-lamb and Thy Mother marveled, and cried aloud: What vision is this, O longed-for Son? Hath the disobedient and lawless assembly rendered these things unto Thee, which enjoyed Thy many wonders? But glory to Thine ineffable condescension, O Master!
 
 *Canon, whose acrostic is:*
 *In hymns I glorify the single-minded martyrs. The work of Lord Stephen of St. Sabbas.*

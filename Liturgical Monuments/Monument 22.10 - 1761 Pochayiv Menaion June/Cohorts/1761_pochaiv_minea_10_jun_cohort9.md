@@ -129,7 +129,7 @@ Bearing in thy hand, O Onuphrius, * the Cross of the Lord, * demonic fantasies u
 Having exposed the deceit * of evil demons * by mighty power, * thou didst clearly manifest the glory of Christ, * O Onuphrius, our Father!
 
 *Glory... Both now... Theotokion:*
-*Podoben the same [Tone 2, Podoben: "O house of Ephratha"]:*
+*Podoben the same [Tone 2, Podoben: "O house of Ephratha"] (До́ме Є҆ѵфра́ѳовъ):*
 Lift up thy hands, O good one, * thy holy hands, * unto thy Son, * unto the Maker,[^331] * that He have compassion on thy servants!
 
 *At Great Vespers:*

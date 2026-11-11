@@ -1,6 +1,6 @@
 === LEAF p811 ===
 
-# Bright Week: Bright Friday (The Life-Giving Fountain Concluded) (§§ 6–8 Opening)
+## Bright Week: Bright Friday (The Life-Giving Fountain Concluded) (§§ 6–8 Opening)
 
 ## Τῇ Παρασκευῇ τῆς Διακαινησίμου: Ἡ Ζωοδόχος Πηγὴ (Συνέχεια καὶ Τέλος) (§§ 6–8 Ἀρχή) [Violakis, p. 796]
 
@@ -24,7 +24,7 @@
 
 === LEAF p812 ===
 
-# Bright Week: Bright Friday (The Life-Giving Fountain Concluded) (§§ 6–8 Opening)
+## Bright Week: Bright Friday (The Life-Giving Fountain Concluded) (§§ 6–8 Opening)
 
 ## Bright Friday: The Life-Giving Fountain Concluded (§§ 6–8 Opening) [Violakis, p. 797]
 
@@ -48,7 +48,7 @@
 
 === LEAF p813 ===
 
-# Bright Friday Concluded (§ 8 Concluded) and The Sunday of Antipascha / Thomas Sunday Opening (§§ 9–10)
+## Bright Friday Concluded (§ 8 Concluded) and The Sunday of Antipascha / Thomas Sunday Opening (§§ 9–10)
 
 ## Τῇ Παρασκευῇ τῆς Διακαινησίμου (Τέλος) καὶ Τῇ Κυριακῇ τοῦ Ἀντιπάσχα (§§ 9–10) [Violakis, p. 798]
 
@@ -68,13 +68,13 @@
 
 === LEAF p814 ===
 
-# Bright Friday Concluded (§ 8 Concluded) and The Sunday of Antipascha / Thomas Sunday Opening (§§ 9–10)
+## Bright Friday Concluded (§ 8 Concluded) and The Sunday of Antipascha / Thomas Sunday Opening (§§ 9–10)
 
 ## Bright Friday Concluded (§ 8 Concluded) and The Sunday of Antipascha / Thomas Sunday Opening (§§ 9–10) [Violakis, p. 799]
 
 ...flowing water of the Fountain, O Virgin, Who pourest forth streams of healings!"** (*Ὕδωρ τὸ ζωῤῥύτον τῆς Πηγῆς*). Communion Hymn: **"Receive the Body of Christ; taste of the immortal Fountain. Alleluia!"** (*Σῶμα Χριστοῦ*), then **"Christ is risen from the dead..."**. After the Prayer behind the Ambo, **"Christ is risen from the dead..."** (three times intoned plainly), and Dismissal.
 
-# THE SUNDAY OF ANTIPASCHA
+## THE SUNDAY OF ANTIPASCHA
 ## (Sunday of Thomas)
 
 9.    On Saturday evening, the Ninth Hour of Pascha is recited (as noted in Paragraph 2, Note 8). After **"Blessed is our God always, now and forever, and unto the ages of ages. Amen."**, **"Christ is risen from the dead..."** is sung once from the Sanctuary and once by each of the choirs, and immediately we recite the Introductory Psalm (Ps. 103 LXX) and the First Stasis of the First Kathisma of the Psalter (Pss. 1–3 LXX). At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the six Idiomela of the Feast in order; "Glory... Both now and ever...": **"When the doors were closed, the disciples being assembled, Jesus entered..."** (*Τῶν θυρῶν κεκλεισμένων*); and the Saturday Evening Great Prokimenon: **"The Lord is King, He is clothed with majesty!"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX) with its verses. At the Aposticha: the three Idiomela; "Glory... Both now and ever...": Tone 8: **"O Lover of mankind, great and unsearchable is the multitude of Thy compassions!..."** (*Φιλάνθρωπε μέγα καὶ ἀνείκαστον*). The Dismissal Troparion in Tone 7: **"While the tomb was sealed, Thou, O Life, didst shine forth from the grave, O Christ God..."** (*Ἐσφραγισμένου τοῦ μνήματος*) three times, and Dismissal.
@@ -91,7 +91,7 @@
 
 === LEAF p815 ===
 
-# Sunday of Antipascha Divine Liturgy and Vespers (§§ 11–12), and The Apodosis of the Feast of Thomas (§§ 13–14 Opening)
+## Sunday of Antipascha Divine Liturgy and Vespers (§§ 11–12), and The Apodosis of the Feast of Thomas (§§ 13–14 Opening)
 
 ## Τῇ Κυριακῇ τοῦ Ἀντιπάσχα (§§ 11–12) καὶ Τῷ Σαββάτῳ: Ἡ Ἀπόδοσις τῆς Ἑορτῆς τοῦ Θωμᾶ (§§ 13–14 Ἀρχή) [Violakis, p. 800]
 
@@ -112,7 +112,7 @@
 
 === LEAF p816 ===
 
-# Sunday of Antipascha Divine Liturgy and Vespers (§§ 11–12), and The Apodosis of the Feast of Thomas (§§ 13–14 Opening)
+## Sunday of Antipascha Divine Liturgy and Vespers (§§ 11–12), and The Apodosis of the Feast of Thomas (§§ 13–14 Opening)
 
 ## Sunday of Antipascha Divine Liturgy and Vespers (§§ 11–12), and The Apodosis of the Feast of Thomas (§§ 13–14 Opening) [Violakis, p. 801]
 
@@ -122,7 +122,7 @@
 
     On Monday morning, the Service is chanted as prescribed in the Pentekostarion.
 
-# ON SATURDAY:
+## ON SATURDAY:
 ## THE APODOSIS OF THE FEAST OF THOMAS
 
 13.    On Friday evening, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the first three Stichera of the Feast: **"When the doors were closed..."** (*Τῶν θυρῶν κεκλεισμένων*) and three Stichera of the Menaion; "Glory...": **"When the doors were closed..."**; "Both now and ever...": Dogmatic Theotokion in Tone 1: **"The Joy of all the world, who sprang forth from mankind and gave birth unto the Master, the gate of heaven: let us hymn Mary the Virgin!..."** (*Τὴν παγκόσμιον δόξαν*); and the Prokimenon of the day. At the Aposticha: the four Resurrectional Stichera; "Glory... Both now and ever...": Tone 8: **"O Lover of mankind, great and unsearchable is the multitude of Thy compassions!..."** (*Φιλάνθρωπε μέγα καὶ ἀνείκαστον*). The Dismissal Troparion: **"While the tomb was sealed..."** (three times), and Dismissal.
@@ -133,7 +133,7 @@
 
 === LEAF p817 ===
 
-# Saturday of Thomas Week Concluded (§§ 14–15) and The Third Sunday After Pascha: Sunday of the Myrrh-Bearing Women (§§ 16–17 Opening)
+## Saturday of Thomas Week Concluded (§§ 14–15) and The Third Sunday After Pascha: Sunday of the Myrrh-Bearing Women (§§ 16–17 Opening)
 
 ## Ἡ Ἀπόδοσις τῆς Ἑορτῆς τοῦ Θωμᾶ (Τέλος) καὶ Τῇ Γ΄ Κυριακῇ ἀπὸ τοῦ Πάσχα: Τῶν Μυροφόρων (§§ 16–17 Ἀρχή) [Violakis, p. 802]
 
@@ -154,7 +154,7 @@
 
 === LEAF p818 ===
 
-# Saturday of Thomas Week Concluded (§§ 14–15) and The Third Sunday After Pascha: Sunday of the Myrrh-Bearing Women (§§ 16–17 Opening)
+## Saturday of Thomas Week Concluded (§§ 14–15) and The Third Sunday After Pascha: Sunday of the Myrrh-Bearing Women (§§ 16–17 Opening)
 
 ## Saturday of Thomas Week Concluded (§§ 14–15) and The Third Sunday After Pascha: Sunday of the Myrrh-Bearing Women (§§ 16–17 Opening) [Violakis, p. 803]
 
@@ -162,7 +162,7 @@
 
 15.    In the Divine Liturgy, the Antiphons and Entrance Hymn of Pascha. After the Entrance, the Dismissal Troparion: **"While the tomb was sealed..."** (*Ἐσφραγισμένου τοῦ μνήματος*) and the Kontakion: **"With his inquisitive right hand, Thomas explored Thy life-giving side, O Christ God..."** (*Τῇ φιλοπράγμονι δεξιᾷ*); the Epistle (Acts 5:21–33) and Gospel (John 3:22–33) of the day. At "Especially", the Ninth Heirmos of the Feast: **"O Thou radiant lamp and Mother of God, unsetting torch of the divine Glory, thee do we magnify in hymns!"** (*Σὲ τὴν φαεινὴν λαμπάδα*). Communion Hymn: **"Praise the Lord, O Jerusalem"** (*Ἐπαίνει Ἱερουσαλὴμ τὸν Κύριον*, Ps. 147:1 LXX), **"Christ is risen from the dead..."**, **"Blessed be the name of the Lord from this time forth, and unto the ages"**, and Dismissal.
 
-# THE THIRD SUNDAY AFTER PASCHA
+## THE THIRD SUNDAY AFTER PASCHA
 ## (Sunday of the Myrrh-Bearing Women)
 
 16.    On Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant seven Resurrectional Stichera in Tone 2 and three of the Myrrh-bearers; "Glory...": Doxastikon in Tone 6: **"The Myrrh-bearing Women, reaching Thy tomb at deep dawn, sought Thee to anoint Thine immaculate Body with myrrh!..."** (*Αἱ Μυροφόροι Γυναῖκες*); "Both now and ever...": Dogmatic Theotokion in Tone 2: **"The shadow of the law passed away when grace arrived..."** (*Παρῆλθεν ἡ σκιὰ τοῦ νόμου*). At the Aposticha: the Resurrectional Apostichon Sticheron in Tone 2: **"Thy Resurrection, O Christ Savior, hath enlightened the whole universe..."** (*Ἡ Ἀνάστασίς σου Χριστὲ Σωτήρ*), then the Stichera of Pascha: **"A sacred Pascha is shown forth unto us today..."** (*Πάσχα ἱερόν*) with their verses; "Glory... Both now and ever...": Paschal Doxastikon in Tone 5: **"Thou Who clothest Thyself with light as with a garment, Joseph taking Thee down from the Tree with Nicodemus wept and lamented..."** (*Σὲ τὸν ἀναβαλλόμενον τὸ φῶς*). The three Dismissal Troparia of the Myrrh-bearers: 1. Tone 2: **"The noble Joseph, taking down Thine immaculate Body from the Tree..."** (*Ὁ εὐσχήμων Ἰωσήφ*), 2. "Glory...": **"When Thou didst descend unto death, O Life Immortal, then didst Thou slay Hades with the brilliance of Thy Godhead..."** (*Ὅτε κατῆλθες πρὸς τὸν θάνατον*), 3. "Both now and ever...": **"Unto the myrrh-bearing women, the Angel standing by the tomb cried aloud: Myrrh is fitting for the dead, but Christ is shown to be a stranger to corruption!..."** (*Ταῖς μυροφόροις γυναιξί*), and Dismissal.
@@ -176,7 +176,7 @@
 
 === LEAF p819 ===
 
-# Sunday of the Myrrh-Bearing Women Concluded (§§ 17–19) and The Fourth Sunday After Pascha: Sunday of the Paralytic (§§ 20–21 Opening)
+## Sunday of the Myrrh-Bearing Women Concluded (§§ 17–19) and The Fourth Sunday After Pascha: Sunday of the Paralytic (§§ 20–21 Opening)
 
 ## Τῇ Κυριακῇ τῶν Μυροφόρων (Τέλος) καὶ Τῇ Δ΄ Κυριακῇ ἀπὸ τοῦ Πάσχα: Τοῦ Παραλύτου (§§ 20–21 Ἀρχή) [Violakis, p. 804]
 
@@ -198,7 +198,7 @@
 
 === LEAF p820 ===
 
-# Sunday of the Myrrh-Bearing Women Concluded (§§ 17–19) and The Fourth Sunday After Pascha: Sunday of the Paralytic (§§ 20–21 Opening)
+## Sunday of the Myrrh-Bearing Women Concluded (§§ 17–19) and The Fourth Sunday After Pascha: Sunday of the Paralytic (§§ 20–21 Opening)
 
 ## Sunday of the Myrrh-Bearing Women Concluded (§§ 17–19) and The Fourth Sunday After Pascha: Sunday of the Paralytic (§§ 20–21 Opening) [Violakis, p. 805]
 
@@ -210,7 +210,7 @@
 
     In the morning the Service is chanted as prescribed in the Pentekostarion, Epistle, Gospel and Communion Hymn of the day; and at "Especially", **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*).
 
-# THE FOURTH SUNDAY AFTER PASCHA
+## THE FOURTH SUNDAY AFTER PASCHA
 ## (Sunday of the Paralytic)
 
 20.    On Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant seven Resurrectional Stichera in Tone 3, and three of the Paralytic, repeating the first; "Glory...": Doxastikon in Tone 5: **"Jesus went up to Jerusalem to the Sheep's Pool, which is called in Hebrew Bethesda, having five porches..."** (*Ἀνέβη ὁ Ἰησοῦς εἰς Ἱεροσόλυμα*); "Both now and ever...": Dogmatic Theotokion in Tone 3: **"How can we not marvel at thy childbirth, wherein God and man are united, O all-honored Lady?..."** (*Πῶς μὴ θαυμάσωμεν*). At the Aposticha: the Resurrectional Apostichon Sticheron in Tone 3: **"Thou Who by Thy Passion, O Christ, didst darken the sun, and by the light of Thy Resurrection didst enlighten all things: accept our evening hymn, O Lover of mankind!"** (*Ὁ τῷ πάθει σου Χριστέ*), then the Stichera of Pascha: **"A sacred Pascha is shown forth unto us today..."** (*Πάσχα ἱερόν*) with their verses; "Glory...": Doxastikon in Tone 8: **"In Solomon's porch lay a multitude of the sick, and at Mid-feast Christ found the Paralytic who had been lying there thirty and eight years..."** (*Ἐν τῇ στοᾷ τοῦ Σολομῶντος*); "Both now and ever...": Tone 5: **"It is the day of Resurrection: let us be radiant for the festival..."** (*Ἀναστάσεως ἡμέρα*). The Dismissal Troparion in Tone 3: **"Let the heavens rejoice, let earthly things be glad; for the Lord hath wrought might with His arm!..."** (*Εὐφραινέσθω τὰ Οὐράνια*); the Theotokion in Tone 3: **"Thou Who for our sake wast born of the Virgin, and didst endure the Cross, O Good One, and didst despoil death by death, and as God didst reveal the Resurrection: overlook not those whom Thou hast fashioned with Thine own hand!..."** (*Σὲ τὴν μεσιτεύσασαν*), and Dismissal.

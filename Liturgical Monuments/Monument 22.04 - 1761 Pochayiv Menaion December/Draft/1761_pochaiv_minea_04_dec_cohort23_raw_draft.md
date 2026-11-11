@@ -4,10 +4,10 @@
 *Troparion:*
 Come, O hard-hearted Israel, cast off the cloud that hangs over thy soul; recognize the Creator Who is born in the cave! He is the Expectation of the nations; He shall dissolve thy feasts. For thou refusest to cry aloud: Christ the King of Israel comes!
 
-*Glory, Tone and Podoben the same:*
+*Glory, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Christ draws near; O Bethlehem, make ready beforehand! Already the salvation of the nations shines forth; adorn the manger; assemble the shepherds; summon the Magi from Persia! Ye hosts of the bodiless intellects, cry aloud: [unto Him Who cannot be contained by all!] And the manger prepares to receive the Eternal Life. Unto Him let us all sing, and let us cry aloud: Save our souls, O Jesus our God, Who wast incarnate for our sake!
 
-*Both now, Tone and Podoben the same:*
+*Both now, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Truly envy and fire shall consume thee, O foolish deceiver, and the curse of the Law: for behold, the Virgin, as Isaiah foretold, has conceived in her womb, and shall lay the King to recline in the manger; by Whom all the mighty of the tribe of Judah shall be brought to nought.
 
 *At the Aposticha, Stichera Idiomela, Tone 4:*
@@ -54,7 +54,7 @@ Thy womb, O all-undefiled Theotokos, is shown forth as a threshing-floor stack, 
 
 The undefiled Heifer, carrying the fatted Calf in her womb, comes unto the holy cave, by a most marvelous word to give birth unto Him, and to swaddle Him like a man, and to lay Him in a manger like a babe. O creation, celebrate the forefeast, joyfully magnifying Him Who has wrought such glorious things upon the earth!
 
-*And of the Saint, Tone the same, Podoben: "As one valiant" (Ꙗ҆́кw до́блѧ):*
+*And of the Saint, Tone the same, Podoben: "As one valiant" (Ꙗ҆́кѡ до́блѧ):*
 Having dyed for thyself the garment of salvation in the purple of thy blood, O all-praised one, and having been enlightened by the Spirit, thou wast betrothed unto the Lord, the immortal King, Who preserves thee undefiled and uncorrupted unto ages of ages in the manifest bridal chambers, as a maiden adorned and incorrupt.
 
 Sharing in wounds and wrestling with fire, having endured the tearing of thy flesh and valiantly borne terminal beatings, thou wast not vanquished in thy mind, [unto the idols]...
@@ -204,7 +204,7 @@ The Redeemer Who delivers mankind is born in Bethlehem of the Pure One, receivin
 *Kontakion of the Saint, Tone 2, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Purified with the beauties of virginity, O maiden, and crowned now with the wreaths of martyrdom, O Juliana: thou grantest healing and salvation unto those who are in needs and infirmities, who draw near unto thy shrine; for Christ pours forth divine grace and life eternal!
 
-*Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рw предварѝ):*
+*Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 Having loved the Bridegroom, the Creator and God, thou didst forsake a corruptible bridegroom, O honored martyr, and rejoicing didst endure torments and tearings, and the burning of fire. Therefore, crowned with wreaths, thou didst ascend unto the divine bridal chamber, entreating forgiveness of transgressions for all!
 
 *Glory, both now, of the Forefeast, Tone 3, Podoben: "The beauty of virginity" (Красотѣ̀ дѣ́вства):*

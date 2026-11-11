@@ -122,8 +122,14 @@ def audit_structure(
     mon_entry = {}
     if REGISTRY_FILE.exists() and resolved_monument:
         try:
-            with open(REGISTRY_FILE, "r", encoding="utf-8") as rf:
-                reg_data = json.load(rf)
+            st_ns = REGISTRY_FILE.stat().st_mtime_ns
+            cache = getattr(audit_structure, "_reg_cache", None)
+            if not cache or cache[0] != str(REGISTRY_FILE) or cache[1] != st_ns:
+                with open(REGISTRY_FILE, "r", encoding="utf-8") as rf:
+                    reg_data = json.load(rf)
+                setattr(audit_structure, "_reg_cache", (str(REGISTRY_FILE), st_ns, reg_data))
+            else:
+                reg_data = cache[2]
             mon_entry = reg_data.get("monuments", {}).get(resolved_monument, {})
             lang = mon_entry.get("source_language", "")
             if "bilingual" in lang.lower():
@@ -135,6 +141,7 @@ def audit_structure(
 
     headings: List[Dict[str, Any]] = []
     numbered_items: List[int] = []
+    bold_section_items: List[int] = []
     odd_numbered_items: List[int] = []
     even_numbered_items: List[int] = []
     current_leaf: Optional[int] = None
@@ -156,7 +163,17 @@ def audit_structure(
             title = s.lstrip("#").strip()
             headings.append({"line": line_num, "level": level, "title": title, "leaf": current_leaf})
 
-        m_statute = re.match(r"^(?:\*{1,2})?(\d+)\.(?:\*{1,2})?\s+", s)
+        if re.match(r"^(?:>\s*)?[\"“«*]*\d+\.\s+(?:Sept(?:ember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?|Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?)[.:\s]", s, re.IGNORECASE):
+            continue
+        if re.search(r"(?:\.\s+){2,}\.\s*\d+\s*$", s):
+            continue
+
+        m_bold_sec = re.match(r"^\*\*\[?(\d+)\.\]?\s+.+\*\*(?:\s*<a id=.*)?$", s)
+        if m_bold_sec:
+            bold_section_items.append(int(m_bold_sec.group(1)))
+            continue
+
+        m_statute = re.match(r"^(?:>\s*)?(?:[\"“«]|\*)?\[?(\d+)\.\]?(?:\*)?\s+", s)
         if m_statute:
             num = int(m_statute.group(1))
             numbered_items.append(num)
@@ -179,11 +196,12 @@ def audit_structure(
             if next_n > curr_n + 1 and next_n < curr_n + 5:
                 breaks.append(f"Even/Translation leaf jump from {curr_n} to {next_n}")
     else:
-        for i in range(len(numbered_items) - 1):
-            curr_n = numbered_items[i]
-            next_n = numbered_items[i + 1]
-            if next_n > curr_n + 1 and next_n < curr_n + 5:
-                breaks.append(f"Jump from {curr_n} to {next_n}")
+        for seq_label, seq in (("", numbered_items), ("Section ", bold_section_items)):
+            for i in range(len(seq) - 1):
+                curr_n = seq[i]
+                next_n = seq[i + 1]
+                if next_n > curr_n + 1 and next_n < curr_n + 5:
+                    breaks.append(f"{seq_label}Jump from {curr_n} to {next_n}")
 
     curr_leaves = extract_accounted_leaves(content)
     leaf_stats: Dict[str, Any] = {
@@ -247,12 +265,22 @@ def audit_structure(
                     f"Historical codices format rubrics as inline italics ('*...*')."
                 )
 
-        if is_hymnographic and lvl >= 2:
+        if lvl >= 3:
+            anomalies.append(
+                f"EPIGRAPHIC_HEADING_VIOLATION (L{line_no}, leaf p{hleaf}): "
+                f"Level-{lvl} heading '{htitle}' violates Mandate 8 (H1 & H2 Only). "
+                f"Use inline bold/italic rubrics instead of ###/####."
+            )
+        elif is_hymnographic and lvl == 2:
             is_authorized_h2 = False
-            if lvl == 2:
-                guardrails_str = " ".join(mon_entry.get("flash_execution_guardrails", []))
-                if "H1 & H2" in guardrails_str:
-                    is_authorized_h2 = True
+            guardrails_str = " ".join(mon_entry.get("flash_execution_guardrails", []))
+            pub_mode = mon_entry.get("publication_spec", {}).get("mode", "")
+            if (
+                "H1 & H2" in guardrails_str
+                or mon_type in ("anthologion", "monthly_menaion")
+                or pub_mode == "universal_dynamic_h1"
+            ):
+                is_authorized_h2 = True
             if not is_authorized_h2:
                 anomalies.append(
                     f"EPIGRAPHIC_HEADING_VIOLATION (L{line_no}, leaf p{hleaf}): "

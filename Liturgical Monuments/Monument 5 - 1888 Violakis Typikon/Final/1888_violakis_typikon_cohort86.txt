@@ -14,7 +14,7 @@
 
 ## All Saints Liturgy Concluded (§ 55) [Violakis, p. 837]
 
-...of the Saints, that of the Patron Saint of the Church, and the Kontakion in Tone 8: **"Unto Thee, O Lord, the Planter of creation, the world offereth the God-bearing Martyrs as first-fruits of nature..."** (*Ὡς ἀπαρχὰς τῆς φύσεως*). The Epistle of the Saints (Hebrews 11:33–12:2) and Gospel of the Saints (Matthew 10:32–33, 37–38; 19:27–30). At "Especially", **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Rejoice in the Lord, O you righteous, praise is meet for the upright. Alleluia!"** (*Ἀγαλλιᾶσθε δίκαιοι ἐν Κυρίῳ, τοῖς εὐθέσι πρέπει αἴνεσις*, Ps. 32:1 LXX); **"We have seen the true Light..."** (*Εἴδομεν τὸ φῶς*), **"Blessed be the name of the Lord from this time forth, and unto the ages"** (*Εἴη τὸ ὄνομα Κυρίου*), and Dismissal.[^485]
+...of the Saints, that of the Patron Saint of the Church, and the Kontakion in Tone 8: **"Unto Thee, O Lord, the Planter of creation, the world offers the God-bearing Martyrs as first-fruits of nature..."** (*Ὡς ἀπαρχὰς τῆς φύσεως*). The Epistle of the Saints (Hebrews 11:33–12:2) and Gospel of the Saints (Matthew 10:32–33, 37–38; 19:27–30). At "Especially", **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Rejoice in the Lord, O you righteous, praise is meet for the upright. Alleluia!"** (*Ἀγαλλιᾶσθε δίκαιοι ἐν Κυρίῳ, τοῖς εὐθέσι πρέπει αἴνεσις*, Ps. 32:1 LXX); **"We have seen the true Light..."** (*Εἴδομεν τὸ φῶς*), **"Blessed be the name of the Lord from this time forth, and unto the ages"** (*Εἴη τὸ ὄνομα Κυρίου*), and Dismissal.[^485]
 
 *(Printed Page 837)*
 

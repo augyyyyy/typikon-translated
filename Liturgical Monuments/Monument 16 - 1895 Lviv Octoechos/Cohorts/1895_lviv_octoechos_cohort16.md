@@ -1,7 +1,7 @@
 === LEAF p151 ===
 *On Sunday at Matins, Tone 2.*[^1439]
 
-*Theotokion:* Thee, as a haven of salvation and an unshakable wall, O Lady Theotokos, all we faithful know; for by Thy prayers Thou deliverest our souls from afflictions.
+*Theotokion:* Thee, as a haven of salvation and an unshakable wall, O Lady Theotokos, all we faithful know; for by thy prayers thou deliverest our souls from afflictions.
 
 *Another Heirmos:*[^1440] I heard, O Lord, Thy glorious dispensation, and I glorified Thy incomprehensible power, O Lover of mankind.
 
@@ -11,7 +11,7 @@
 
 *Another Heirmos the same:*[^1441] Lo, the divine mountain of the house of the Lord has clearly been exalted above the powers, as the Mother of God.
 
-*Troparion:* Apart from natural laws, O Virgin, alone having given birth to Him Who rules over creation, Thou wast vouchsafed the divine calling.
+*Troparion:* Apart from natural laws, O Virgin, alone having given birth to Him Who rules over creation, thou wast vouchsafed the divine calling.
 
 *Ode 5. Heirmos:*[^1442] A Mediator between God and men hast Thou become, O Christ God; for through Thee, O Master, we have access from the night of ignorance unto Thy Father, the Author of light.
 
@@ -40,7 +40,7 @@
 
 *Troparion:* By one man, the first Adam, of old did death enter into the world, and by one, the Son of God, has resurrection been revealed.
 
-*Theotokion:* Without experience of man, O Virgin, didst Thou give birth, and Thou abidest a virgin, showing forth the images of the true Godhead of Thy Son and God.
+*Theotokion:* Without experience of man, O Virgin, didst thou give birth, and thou abidest a virgin, showing forth the images of the true Godhead of thy Son and God.
 
 *Another Heirmos:*[^1448] Having heard the voice of prayerful words from an afflicted soul, O Master, deliver me from evil plights; for Thou alone art the author of our salvation.
 
@@ -48,7 +48,7 @@
 
 *Troparion:* Hades was emptied and overthrown by the death of One; for the abundant wealth which it had treasured up, Christ, the One on behalf of us all, has poured out.
 
-*Another Heirmos the same:*[^1450] Human nature that was in servitude to sin, O pure Lady, has attained freedom through Thee; for Thy Son, as a Lamb, is slain on behalf of all.
+*Another Heirmos the same:*[^1450] Human nature that was in servitude to sin, O pure Lady, has attained freedom through thee; for thy Son, as a Lamb, is slain on behalf of all.
 
 *Troparion:* We all cry unto Thee, the true Mother of God: deliver Thy servants who have provoked [Him] to anger; for Thou alone hast boldness toward the Son.
 
@@ -84,7 +84,7 @@
 
 *Another Heirmos the same (continued):* ...unto them that sing: O supremely divine God of our fathers, and supremely praised.
 
-*Troparion:* Foreshowing the tokens of the ineffable union in Thee, He wrestled with Jacob, through which He willingly united Himself unto men, O Pure One, the supremely divine God of our fathers, and supremely praised.
+*Troparion:* Foreshowing the tokens of the ineffable union in thee, He wrestled with Jacob, through which He willingly united Himself unto men, O Pure One, the supremely divine God of our fathers, and supremely praised.
 
 *Troparion:* Abominable is he who with unhesitating faith proclaims Thee not to be the Son of the Virgin, One of the most-praised Trinity, and crying with his tongue: O supremely divine God of our fathers, and supremely praised.
 
@@ -130,7 +130,7 @@
 === LEAF p156 ===
 *On Sunday at Matins, Tone 2.*[^1469]
 
-*Another Heirmos the same (continued):* ...Thy womb, O Pure One, and it raised this [nature], which had slipped down unto hades; therefore, O All-pure One, we magnify Thee as the Theotokos.
+*Another Heirmos the same (continued):* ...Thy womb, O Pure One, and it raised this [nature], which had slipped down unto hades; therefore, O All-pure One, we magnify thee as the Theotokos.
 
 *Troparion:* Graciously receive as intercessor on our behalf Thy Mother, whom Thou wast well-pleased [to choose], O Master, and all things shall be filled with Thy goodness; that we all may magnify Thee as Benefactor.
 
@@ -163,7 +163,7 @@
 
 *Sticheron 4:* In truth, O ye lawless ones who sealed the stone, ye have made us worthy of greater marvels! The watchmen have understanding: "Today He came forth from the tomb," they said; "say ye: While we were asleep, His disciples came and stole Him." And who steals a dead body, especially even naked? He Himself rose by His own power as God, having left His burial wrappings in the tomb. Come, see, O ye Jews, how He broke not the seals—He that trampled down death, and grants unending life unto mankind, and great mercy!
 
-*Glory: Evangelical Sticheron. Both now: Theotokion:* "Most blessed art Thou, O Theotokos." *Great Doxology. Troparion:* "Having risen from the tomb."[^1478]
+*Glory: Evangelical Sticheron. Both now: Theotokion:* "Most blessed art thou, O Theotokos." *Great Doxology. Troparion:* "Having risen from the tomb."[^1478]
 
 *AT THE LITURGY, Beatitudes, Tone 2.*[^1479]
 
@@ -243,19 +243,19 @@
 === LEAF p160 ===
 *On Sunday at Compline, Tone 2.*[^1495]
 
-*Troparion 2 (continued):* ...that cleansed [it]; I pray Thee, O Lady: wash away the filth of my many transgressions, and deliver me by Thy prayers from defiling passions.
+*Troparion 2 (continued):* ...that cleansed [it]; I pray thee, O Lady: wash away the filth of my many transgressions, and deliver me by thy prayers from defiling passions.
 
 *Glory:* Having given birth unto Christ, the Fountain of mercy, O Most Pure One, and opened Eden unto men: open unto me the doors of Thy mercy, O Theotokos, and grant forgiveness of transgressions, O Lady of the world.
 
-*Both now:* Burst asunder the bonds of my transgressions, O Lady, praying unto Thy Son and God; and cast down the sin that torments me, O Ever-virgin, that, being saved, I may ever hymn Thee, O All-immaculate One.
+*Both now:* Burst asunder the bonds of my transgressions, O Lady, praying unto thy Son and God; and cast down the sin that torments me, O Ever-virgin, that, being saved, I may ever hymn thee, O All-immaculate One.
 
 *Ode 3. Heirmos:*[^1496] Having established me upon the rock of faith, Thou hast enlarged my mouth against mine enemies; for my spirit has rejoiced when singing: There is none holy as our God, and none righteous besides Thee, O Lord.
 
 *Troparion 1:* Dispel the gloom and darkness of my passions by the radiances of Thy prayers, and enlighten me, O most pure Lady, who gavest birth to Christ Who shone forth before the morning star, the never-setting Sun from the Sun.[^1497]
 
-*Troparion 2:* By Thy birthgiving, O Most Pure One, Thou didst raise up the fallen and crushed tabernacle of David Thy forefather; therefore raise up also me, Thy servant, O Theotokos, crushed by passions and transgressions.[^1498]
+*Troparion 2:* By thy birthgiving, O Most Pure One, thou didst raise up the fallen and crushed tabernacle of David thy forefather; therefore raise up also me, thy servant, O Theotokos, crushed by passions and transgressions.[^1498]
 
-*Glory:* Be Thou a weapon putting to flight the sins and passions of my soul, O Virgin! And show me forth like another paradise, unharmed and guarded by Thee, and bearing the flowers of the Spirit.
+*Glory:* Be thou a weapon putting to flight the sins and passions of my soul, O Virgin! And show me forth like another paradise, unharmed and guarded by thee, and bearing the flowers of the Spirit.
 
 *Both now:* Stretching forth the hand of Thy tender compassion, receive me, O Parent of God, and snatch from all condemnation him that flees unto Thee, and falls down before Thee, and calls upon Thy help.
 
@@ -263,4 +263,4 @@
 
 *Troparion 1:* The undefiled and holy leaven of human nature, taking dough from which the Creator fashioned it; wash away from me also the filth of passions, and cleanse the mire of my transgressions.[^1500]
 
-*Troparion 2:* By the healing medicine of Thy prayers, O Lady, and with plaster and oil, heal Thou now, O Pure One, the scabs and sinful wounds of my soul,
+*Troparion 2:* By the healing medicine of thy prayers, O Lady, and with plaster and oil, heal thou now, O Pure One, the scabs and sinful wounds of my soul,

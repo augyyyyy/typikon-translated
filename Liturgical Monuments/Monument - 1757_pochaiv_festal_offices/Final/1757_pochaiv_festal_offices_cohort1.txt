@@ -505,7 +505,7 @@ This is My Body: drink ye all of the cup, this is My Blood of the New Testament,
 
 *Sticheron 3:* Christ is given unto all sinners for food, transforming bread into His Body, and wine into His divine Blood, reproaching [unbelief].
 
-*Glory... Tone 8. Podoben: The same:* We praise Thee, O Christ our good Savior, Who didst pour out Thy Blood for the salvation of mankind.
+*Glory... Tone 8. Podoben: The same (Подо́бенъ то́йже):* We praise Thee, O Christ our good Savior, Who didst pour out Thy Blood for the salvation of mankind.
 
 *Now and ever... The same:* O Virgin Mary, Birthgiver of God, entreat Him Who was born of thee, that He may make us worthy to become partakers of the divine Mysteries.
 

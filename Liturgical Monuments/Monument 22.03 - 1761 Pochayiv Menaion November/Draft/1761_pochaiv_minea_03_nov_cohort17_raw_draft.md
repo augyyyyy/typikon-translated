@@ -54,7 +54,7 @@ He Who entered into thy womb, O most pure Mother of God, showed thee to be a fou
 *Sessional Hymn, Tone 8, Podoben: "Of wisdom" (Премꙋ́дрости):*[^650]
 Armed with the Cross of Christ, through it ye manfully cast down all the might of the tormentors, as champions of the faith: ye rebuked all the godlessness of idols, and fervently proclaimed the Holy Trinity! Therefore did ye worthily receive from Her the crowns of victory, as having lawfully suffered, O all-glorious passion-bearers: entreat Christ God, that He grant remission of sins unto those who celebrate with love your holy memory!
 
-*Glory... Tone 8, Podoben the same:*[^651]
+*Glory... Tone 8, Podoben the same (Подо́бенъ то́йже):*[^651]
 Having served Christ as martyrs, ye enslaved the deception of the tormentor, possessing an unenslaved soul and wisdom; for, wounded by faith in the Trinity, O all-praised ones, ye rebuked the inglorious glory of polytheism! Therefore as stars ye shine brightly in the world with the radiance of wonders, O blessed ones, all-lauded passion-bearers: entreat Christ God, that He grant remission of sins unto those who honor with love your holy memory!
 
 *Now and ever... Theotokion:*[^652]
@@ -214,7 +214,7 @@ When Christ called Thee unto His discipleship, O God-receiver, Thou didst eagerl
 
 *If the superior will to chant the Litiya: see the 14th day of this month.*[^679]
 
-*At the Aposticha, Stichera, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе):*[^680]
+*At the Aposticha, Stichera, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе):*[^680]
 With the trumpet of thy words thou didst gather men into the knowledge of God, O ever-hymned one; and having driven from the earth the assemblies of deception, thou didst direct the faithful into one single-mindedness: and thou prayest now, that those who ever perform with faith thy honorable memory may be delivered from corruption and misfortunes!
 
 *Verse: Their proclamation hath gone out into all the earth, and their words unto the ends of the universe.*[^681]
@@ -312,4 +312,4 @@ The theological trumpet of divinely-wise Matthew, uttering mightily, enlightened
 *Sessional Hymn, Tone 8, Podoben: "Of wisdom" (Премꙋ́дрости):*[^703]
 Unto all the ends of the earth hath the sound of thy wise words truly run, O all-praised Apostle of the Lord; clearly didst thou preach the vision of God unto all, and didst bring the folly of the nations unto understanding! Therefore, having driven away the darkness of idolatry, thou didst shine forth the light of knowledge unto those in darkness, O all-praised Matthew: entreat Christ God, that He grant remission of sins unto those who honor with love thy holy memory!
 
-*Glory... Podoben the same:*
+*Glory... Podoben the same (Подо́бенъ то́йже):*

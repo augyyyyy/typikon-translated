@@ -6,8 +6,8 @@
 
 *The First Hour:*
 
-**Priest:** Blessed is the kingdom...
-**Choir:** Amen. O Heavenly King... Trisagion. Our Father... Lord, have mercy (12). Glory... Both now... Come, let us worship (3).
+> **Priest:** "Blessed is the kingdom..."
+> **Choir:** "Amen. O Heavenly King... Trisagion. Our Father... Lord, have mercy (12). Glory... Both now... Come, let us worship (3)."
 
 *Psalm 5:*
 Give ear unto my words... (see p. 2)[^723]
@@ -94,13 +94,13 @@ Order my steps according to Thy word, and let no iniquity have dominion over me;
 Let my mouth be filled with Thy praise, O Lord, that I may sing of Thy glory, and of Thy majesty all the day long.[^740]
 
 *After this, the Trisagion; and after "Our Father...":*
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 
 *Kontakion, Tone 4:*
 Today the Lord, standing in the streams of the Jordan, cries aloud unto John: Fear not to baptize Me, for I am come to save Adam, the first-formed.[^741]
 
 *Lord, have mercy (40). Prayer:* Thou Who at all times... *Lord, have mercy (3). Glory... Both now... More honorable than the Cherubim... In the name of the Lord, bless, father.*
-**Priest:** God be gracious unto us, and bless us...
+> **Priest:** "God be gracious unto us, and bless us..."
 *Then the Prayer:*
 O Christ, the true Light... (see p. 11)[^742]
 
@@ -184,7 +184,7 @@ The beginning of the Gospel of Jesus Christ, the Son of God. As it is written in
 Blessed be the Lord God, blessed be the Lord day by day; may the God of our salvation prosper us, our God, the God of salvation.[^759]
 
 *Trisagion. And after Our Father:*
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 
 *Kontakion, Tone 4:*
 Standing this day in the streams of the Jordan, the Lord cries unto John: Fear not to baptize Me; for I have come to save Adam, the first-formed.[^760]
@@ -193,7 +193,7 @@ Lord, have mercy (40).
 *Prayer:* Thou Who at every time and every hour...
 Lord, have mercy (3).
 *Glory; Both now:* More honorable than the Cherubim... In the name of the Lord, bless, father.
-**Priest:** Through the prayers of our holy fathers...
+> **Priest:** "Through the prayers of our holy fathers..."
 
 *Then the prayer:*
 O Master God, Father Almighty... (see p. 18)[^761]
@@ -283,9 +283,7 @@ Thy way is in the sea, and Thy paths in many waters.[^775]
 *Verse:* The voice of Thy thunder was in the wheel.[^776]
 
 *The Reading from the Prophecy of Isaiah (Chapter 12):*
-Thus says the Lord: Draw ye water with gladness from the wells of salvation. And in that day shalt thou say: Praise the Lord, and call upon His name; declare His glory among the nations; make mention that His name is exalted. Sing unto the name of the Lord, for He has wrought exalted...[^777]
-
-...things; declare ye this in all the earth. Rejoice and be glad, ye that dwell in Sion: for the Holy One of Israel is exalted in the midst thereof.[^778]
+Thus says the Lord: Draw ye water with gladness from the wells of salvation. And in that day shalt thou say: Praise the Lord, and call upon His name; declare His glory among the nations; make mention that His name is exalted. Sing unto the name of the Lord, for He has wrought exalted[^777] things; declare ye this in all the earth. Rejoice and be glad, ye that dwell in Sion: for the Holy One of Israel is exalted in the midst thereof.[^778]
 
 *The Reading from the Epistle of the Holy Apostle Paul to the Romans (Pericope 91):*
 Brethren, as many of us as were baptized into Christ Jesus were baptized into His death. Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been united together in the likeness of His death, certainly we shall also be in the likeness of His resurrection, knowing this, that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves to sin. For he who has died has been freed from sin. Now if we died with Christ, we believe that we shall also live with Him, knowing that Christ, having been raised from the dead, dies no more; death no longer has dominion over Him. For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. Likewise you also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord.[^779]
@@ -299,13 +297,13 @@ and was with the wild beasts; and the angels ministered unto Him. Now after John
 Let Thy compassions quickly anticipate us, O Lord, for we are become exceedingly poor. Help us, O God our Savior, for the glory of Thy name; O Lord, deliver us, and purge away our sins, for Thy name's sake.[^782]
 
 *After this, the Trisagion; and after the Our Father:*
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 
 *Kontakion, Tone 4:*
 Being today in the streams of the Jordan, the Lord cries unto John: Fear not to baptize Me, for I am come to save Adam, the first-formed.[^783]
 
 *Lord, have mercy (40). Prayer: 'Thou Who at all times...' Lord, have mercy (3). Glory; Both now: More honorable than the Cherubim... In the name of the Lord, father, bless.*
-**Priest:** Through the prayers of our holy fathers...
+> **Priest:** "Through the prayers of our holy fathers..."
 
 *And the Prayer:*
 O God and Lord of hosts... (see p. 27)[^784]
@@ -480,14 +478,14 @@ The men of the city of Jericho said unto Elisha: Behold, the dwelling of this ci
 Thus says the Lord... (see p. 232)[^844]
 
 *Then the Litany:*[^845]
-**Priest:** Again and again in peace let us pray to the Lord.
-**Choir:** Lord, have mercy.
-**Priest:** Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
+> **Priest:** "Again and again in peace let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Priest:** "Help us, save us, have mercy on us, and keep us, O God, by Thy grace."
 
 Remembering our most holy, most pure, most blessed and glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ God.
-**Choir:** To Thee, O Lord.
-**Priest:** For Thou art a good God and lovest mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Choir:** "To Thee, O Lord."
+> **Priest:** "For Thou art a good God and lovest mankind, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Exclamation for the Trisagion: and the Trisagion.*[^846]
 *Then the Prokeimenon, Tone 3:*
 The Lord is my light and my Savior; whom shall I fear?
@@ -535,14 +533,14 @@ The voice of the Lord is upon the waters; the God of glory has thundered, the Lo
 *The Gospel according to Mark (Pericope 2):*[^870]
 At that time, Jesus came from Nazareth of Galilee, and was baptized of John in the Jordan. And straightway coming up out of the water, He saw the heavens opened, and the Spirit like a dove descending upon Him. And there came a voice from heaven, saying: Thou art My beloved Son, in Whom I am well pleased.
 *After this, the Litany:*[^871]
-**Deacon:** In peace let us pray to the Lord.
+> **Deacon:** "In peace let us pray to the Lord."
 *The Choir says after each petition:*
-**Choir:** Lord, have mercy.
-**Deacon:** For the peace from above and for the salvation of our souls, let us pray to the Lord.
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the peace from above and for the salvation of our souls, let us pray to the Lord."
 For the peace of the whole world, for the good estate of the holy churches of God, and for the union of all, let us pray to the Lord.
 For this holy temple, and for them that with faith, reverence, and the fear of God enter therein, let us pray to the Lord.
 
-**Deacon:** For our most reverend Archbishop and Metropolitan, Lord *(Name)*, and for our God-loving Bishop, Lord *(Name)*, for the venerable presbytery, the diaconate in Christ, for all the clergy and the people, let us pray to the Lord.[^872]
+> **Deacon:** "For our most reverend Archbishop and Metropolitan, Lord *(Name)*, and for our God-loving Bishop, Lord *(Name)*, for the venerable presbytery, the diaconate in Christ, for all the clergy and the people, let us pray to the Lord."[^872]
 For our most religious Emperor *(Name)*, for all his court and army, let us pray to the Lord.[^873]
 That He will aid him and subdue under his feet every foe and adversary, let us pray to the Lord.
 For this city *(or village, or this monastery)*, and for every city, village, and countryside, and for them that dwell therein in faith, let us pray to the Lord.
@@ -552,7 +550,7 @@ That this water may be sanctified by the power, operation, and descent of the Ho
 That there may come down upon this water the cleansing operation of the supersubstantial Trinity, let us pray to the Lord.[^875]
 That it may be for the cleansing of the souls and bodies of all who need and receive it in faith, and who partake thereof, let us pray to the Lord.
 
-**Deacon:** That there may be granted unto it the grace of redemption, the blessing of the Jordan, by the power, operation, and descent of the Holy Spirit, let us pray to the Lord.[^876]
+> **Deacon:** "That there may be granted unto it the grace of redemption, the blessing of the Jordan, by the power, operation, and descent of the Holy Spirit, let us pray to the Lord."[^876]
 That Satan may quickly be crushed under our feet, and every evil counsel stirred up against us may be brought to nought, let us pray to the Lord.
 That we may be enlightened with the enlightenment of understanding and piety by the descent of the Holy Spirit, let us pray to the Lord.
 That we may receive the gift of sanctification, for the cleansing of sins, for the healing of soul and body, and for every extraordinary benefit, let us pray to the Lord.
@@ -564,7 +562,7 @@ That we who receive the sanctification of this water may be enlightened through 
 That it may be unto all who anoint themselves therewith in faith, or partake thereof, for the cleansing of the defilement of flesh and spirit, let us pray to the Lord.
 That there may come upon it cleansing by the grace of the supernatural Trinity, let us pray to the Lord.[^877]
 
-**Deacon:** For them that draw and drink thereof unto the sanctification of souls and bodies, let us pray to the Lord.
+> **Deacon:** "For them that draw and drink thereof unto the sanctification of souls and bodies, let us pray to the Lord."
 That it may be a fountain of incorruption and for the sanctification of homes, let us pray to the Lord.
 That it may be blessed as the streams of the Jordan, let us pray to the Lord.
 That we may be accounted worthy to be filled with sanctification through partaking of this water, by the invisible manifestation of the Holy Spirit, let us pray to the Lord.
@@ -573,13 +571,13 @@ That the Lord God may hear the voice of our supplication, and have mercy on us, 
 That we may be delivered from all affliction, wrath, and need, let us pray to the Lord.
 Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 Remembering our most holy, most pure, most blessed and glorious Lady, the Mother of God and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and our whole life unto Christ God.[^878]
-**Choir:** To Thee, O Lord.
+> **Choir:** "To Thee, O Lord."
 
 *While these petitions are being said by the Deacon, the Priest prays, saying this prayer secretly to himself. If, however, there is no Deacon, he says it after the conclusion of the diaconal petitions:*[^879]
-**Priest:** O Lord Jesus Christ, the Only-begotten Son, Who art in the bosom of the Father, true God, Fountain of life and immortality, Light of Light, Who didst come into the world that Thou mightest enlighten it: illumine our mind with Thy Holy Spirit, and receive us who bring majesty and thanksgiving unto Thee—[^880] —for Thy marvelous mighty deeds from the beginning of time; and for Thy saving dispensation in the latter ages, wherein, having clothed Thyself in our weak and poor nature, and descended to the measure of a servant, O King of all, Thou didst moreover endure to be baptized by a servant's hand in the Jordan, that having sanctified the nature of the waters, O Sinless One, Thou mightest make a way for our regeneration by water and the Spirit, and restore us unto our original freedom. Celebrating the commemoration of this divine mystery, we beseech Thee, O Master, Lover of mankind: sprinkle also upon us, Thine unworthy servants, according to Thy divine promise, clean water, the gift of Thy tender mercy, that our supplication of us sinners over this water may be acceptable through Thy goodness, and that Thy blessing through it may be granted unto us and unto all Thy faithful people, unto the glory of Thy holy and worshipful Name. For unto Thee is due all glory, honor, and worship, with Thine unoriginate Father, and Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages.[^881]
+> **Priest:** "O Lord Jesus Christ, the Only-begotten Son, Who art in the bosom of the Father, true God, Fountain of life and immortality, Light of Light, Who didst come into the world that Thou mightest enlighten it: illumine our mind with Thy Holy Spirit, and receive us who bring majesty and thanksgiving unto Thee—[^880] —for Thy marvelous mighty deeds from the beginning of time; and for Thy saving dispensation in the latter ages, wherein, having clothed Thyself in our weak and poor nature, and descended to the measure of a servant, O King of all, Thou didst moreover endure to be baptized by a servant's hand in the Jordan, that having sanctified the nature of the waters, O Sinless One, Thou mightest make a way for our regeneration by water and the Spirit, and restore us unto our original freedom. Celebrating the commemoration of this divine mystery, we beseech Thee, O Master, Lover of mankind: sprinkle also upon us, Thine unworthy servants, according to Thy divine promise, clean water, the gift of Thy tender mercy, that our supplication of us sinners over this water may be acceptable through Thy goodness, and that Thy blessing through it may be granted unto us and unto all Thy faithful people, unto the glory of Thy holy and worshipful Name. For unto Thee is due all glory, honor, and worship, with Thine unoriginate Father, and Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."[^881]
 
 *And after the prayer he does not exclaim aloud, but says to himself: Amen. And when: "Remembering our most holy, most pure, most blessed..." is said, the Priest begins again this prayer aloud:*
-**Priest:** Great art Thou, O Lord, and marvelous are Thy works, and no word is sufficient to hymn Thy wonders. *(Thrice)*[^882]
+> **Priest:** "Great art Thou, O Lord, and marvelous are Thy works, and no word is sufficient to hymn Thy wonders. *(Thrice)*"[^882]
 
 *And he signs the water thrice with three burning candles.*
 
@@ -597,17 +595,17 @@ Do Thou Thyself now also, O Master, sanctify this water by Thy Holy Spirit.
 *And the Priest signs it with the cross, breathing upon the water crosswise thrice; then he says:*
 Grant also unto all who touch it, and partake thereof, and anoint themselves therewith, sanctification—[^887] —health, cleansing, and blessing. And save, O Lord, Thy servants, the Universal Pontiff [Name], Pope of Rome, and our most devout Emperor [Name], *(The Choir sings Many Years unto them)*, and preserve them under Thy protection in peace; subdue under their feet every enemy and adversary, and grant them all their petitions which are unto salvation, and life eternal. Remember, O Lord, our Archbishop [Name], (or our Bishop [Name]), the whole presbytery, the diaconate in Christ, and every sacred order; and the people here present, and our brethren who for a worthy cause are absent; and have mercy on them and on us, according to Thy great mercy; that also by all elements, and angels, and men, visible and invisible, Thy most holy Name may be glorified, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.[^888]
 
-**Choir:** Amen.
-**Priest:** Peace be unto all.
-**Choir:** And to thy spirit.
-**Deacon:** Bow your heads unto the Lord.
-**Choir:** To Thee, O Lord.
+> **Choir:** "Amen."
+> **Priest:** "Peace be unto all."
+> **Choir:** "And to thy spirit."
+> **Deacon:** "Bow your heads unto the Lord."
+> **Choir:** "To Thee, O Lord."
 *The Priest, having bowed down, prays secretly:*
-**Priest:** Incline Thine ear, O Lord, and hear us, Who didst deign to be baptized in the Jordan and didst sanctify the waters; and bless all of us who, by the bowing of our neck, manifest our servant-like semblance; and account us worthy to be filled with Thy sanctification through partaking of this water, and let it be unto us, O Lord, for the health of soul and body.[^889]
+> **Priest:** "Incline Thine ear, O Lord, and hear us, Who didst deign to be baptized in the Jordan and didst sanctify the waters; and bless all of us who, by the bowing of our neck, manifest our servant-like semblance; and account us worthy to be filled with Thy sanctification through partaking of this water, and let it be unto us, O Lord, for the health of soul and body."[^889]
 
 *Exclamation:*
-**Priest:** For Thou art our sanctification, and unto Thee do we send up glory, and thanksgiving, and worship, with Thine unoriginate Father, and Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Priest:** "For Thou art our sanctification, and unto Thee do we send up glory, and thanksgiving, and worship, with Thine unoriginate Father, and Thy most holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *And immediately, blessing the water crosswise with the precious Cross, he immerses it straight down, dipping it into the water and raising it up, holding it with both hands, singing this Troparion:*[^890]
 *Tone 1:*
@@ -625,7 +623,7 @@ I will bless the Lord at all times... (see p. 90)[^894]
 *And the Dismissal.*
 
 *Some, after the prayer which the Priest says secretly: "O Lord Jesus Christ...", appoint the prayer: "O Trinity supersubstantial..."; yet it is found only in certain editions. We set it forth here:*[^895]
-**Priest:** O Trinity supersubstantial, all-good, and transcendent in Godhead, almighty, overlooking all things, invisible, incomprehensible, Creator of intelligent substances and rational natures, supernatural goodness, Light unapproachable, that enlightens every man coming into the world: shine forth also in me, Thine unworthy servant; enlighten the eyes of my mind, that I may dare to hymn Thine immeasurable beneficence and power; and let the supplication made by me for the people here present be acceptable; and let not my transgressions prevent Thy Holy Spirit from coming hither; but forgive me, that uncondemned I may cry aloud unto Thee, and say now, O All-good: We glorify Thee, O Master, Lover of mankind, Almighty, Eternal King; we glorify Thee, Creator and Maker of all; we glorify Thee, without father from a mother, without mother from a Father—[^896] —for in the preceding feast we beheld Thee as an Infant, but in the present feast we behold Thee mature: our God Who hast appeared perfect from the Perfect. For today the time of festival has arrived for us all, and angels feast together with men, and the choir of saints gathers with us; for today the grace of the Holy Spirit, in the appearance of a dove, came down upon the waters; today the unsetting Sun has shone forth, and the world is illuminated with the light of the Lord; today the moon with its bright rays illumines the whole earth; today the light-bearing stars with the brilliance of their radiance adorn the inhabited earth; today the clouds from heaven drop down the dew of righteousness upon mankind; today the Uncreated is willingly touched by the hands of His own creation; today the watery elements take up upon their shoulders the footsteps of the Master; today the Invisible becomes visible, that He may make us beholders of Himself; today the Prophet and Forerunner draws near in love unto the Creator, and stands by with trembling, beholding God's descent unto us; today the Unoriginate bows His neck unto His own servant, that He may drown the dragon that is in the waters; today the prophetic hand touches the flame-bearing head, that with the laver of incorruption He may clothe us; today the streams of the Jordan are ordered for healing unto men by the manifestation of our God; today by mystical streams all creation is watered; today human sins are washed away by the waters of the Jordan; today Paradise is opened unto men, and the Sun of righteousness shines upon us; today the bitter water which—[^897][^898] —was for the people under Moses is transformed into sweetness by the coming of the Lord; today we are delivered from the ancient lamentation, and as the new Israel we have been saved; today we are set free from darkness and illuminated with the light of the knowledge of God; today we put off the old garments of sin, and put on new robes; today the salty waters of the sea are turned into sweetness by Thy manifestation, O Master; today the gloom of the world is abolished by the manifestation of Christ our God; today all nature is brightly illuminated from on high; today delusion is brought to nought, and the path of salvation is wrought for us all by the Master's coming; today the holy and orthodox faith of the Church has shone forth, the spiritual triumph of them that keep the feast; today the things on high feast together with the things below, and the things below are joined with the things on high; today the sacred and loud-voiced festival of the orthodox rejoices; today the Master hastens unto baptism, that He may raise mankind unto the heights; today the Unbowed bows Himself down unto His servant, that He may free us from bondage; today we have purchased the Heavenly Kingdom, for of the Lord's kingdom there is no end; today the earth and the sea of this world have divided their joy, and the world is filled with gladness.[^899]
+> **Priest:** "O Trinity supersubstantial, all-good, and transcendent in Godhead, almighty, overlooking all things, invisible, incomprehensible, Creator of intelligent substances and rational natures, supernatural goodness, Light unapproachable, that enlightens every man coming into the world: shine forth also in me, Thine unworthy servant; enlighten the eyes of my mind, that I may dare to hymn Thine immeasurable beneficence and power; and let the supplication made by me for the people here present be acceptable; and let not my transgressions prevent Thy Holy Spirit from coming hither; but forgive me, that uncondemned I may cry aloud unto Thee, and say now, O All-good: We glorify Thee, O Master, Lover of mankind, Almighty, Eternal King; we glorify Thee, Creator and Maker of all; we glorify Thee, without father from a mother, without mother from a Father—[^896] —for in the preceding feast we beheld Thee as an Infant, but in the present feast we behold Thee mature: our God Who hast appeared perfect from the Perfect. For today the time of festival has arrived for us all, and angels feast together with men, and the choir of saints gathers with us; for today the grace of the Holy Spirit, in the appearance of a dove, came down upon the waters; today the unsetting Sun has shone forth, and the world is illuminated with the light of the Lord; today the moon with its bright rays illumines the whole earth; today the light-bearing stars with the brilliance of their radiance adorn the inhabited earth; today the clouds from heaven drop down the dew of righteousness upon mankind; today the Uncreated is willingly touched by the hands of His own creation; today the watery elements take up upon their shoulders the footsteps of the Master; today the Invisible becomes visible, that He may make us beholders of Himself; today the Prophet and Forerunner draws near in love unto the Creator, and stands by with trembling, beholding God's descent unto us; today the Unoriginate bows His neck unto His own servant, that He may drown the dragon that is in the waters; today the prophetic hand touches the flame-bearing head, that with the laver of incorruption He may clothe us; today the streams of the Jordan are ordered for healing unto men by the manifestation of our God; today by mystical streams all creation is watered; today human sins are washed away by the waters of the Jordan; today Paradise is opened unto men, and the Sun of righteousness shines upon us; today the bitter water which—[^897][^898] —was for the people under Moses is transformed into sweetness by the coming of the Lord; today we are delivered from the ancient lamentation, and as the new Israel we have been saved; today we are set free from darkness and illuminated with the light of the knowledge of God; today we put off the old garments of sin, and put on new robes; today the salty waters of the sea are turned into sweetness by Thy manifestation, O Master; today the gloom of the world is abolished by the manifestation of Christ our God; today all nature is brightly illuminated from on high; today delusion is brought to nought, and the path of salvation is wrought for us all by the Master's coming; today the holy and orthodox faith of the Church has shone forth, the spiritual triumph of them that keep the feast; today the things on high feast together with the things below, and the things below are joined with the things on high; today the sacred and loud-voiced festival of the orthodox rejoices; today the Master hastens unto baptism, that He may raise mankind unto the heights; today the Unbowed bows Himself down unto His servant, that He may free us from bondage; today we have purchased the Heavenly Kingdom, for of the Lord's kingdom there is no end; today the earth and the sea of this world have divided their joy, and the world is filled with gladness."[^899]
 
 The waters saw Thee, O God, the waters saw Thee and were afraid; Jordan turned back, beholding the fire of the Godhead descending bodily and entering into it; Jordan turned back, seeing the Holy Spirit in the form of a dove descending and hovering round about it; Jordan turned back, seeing the Invisible become visible, the Creator incarnate—[^900] —the Master in the form of a servant; Jordan turned back, and the mountains skipped, seeing God in the flesh; and the clouds gave voice, marveling at Him Who has come, Light of Light, true God of true God, beholding the Master's festival today in the Jordan; and Him Who drowned in the Jordan transgression itself, death, the sting of delusion, and the bonds of hades, and granted the baptism of salvation unto the world. Therefore I also, a sinner and Thine unworthy servant, declaring the majesty of Thy wonders, held fast by fear, in compunction cry unto Thee.[^901]
 

@@ -17,4 +17,4 @@
 [^682]: Physical leaf p292. Mid-Pentecost Praises and Aposticha.
 [^683]: The 1642 Slozka print explicitly designates Tone 6 (Гла́съ, ѕ҃) for these stichera, although the melodic model "O House of Ephratha" (Οἶκος τοῦ Ἐφραθᾶ) is traditionally Tone 2 in the standard Octoechos.
 [^684]: Greek acrostic Δόξα τῷ Θεῷ ἡμῶν ("Glory to our God") transliterated into Cyrillic as ДО́ХА ТѠ ѲЕѠ И҆МѠН in the Mid-Pentecost Beatitudes Triodion canon.
-[^685]: The 1642 Slozka print designates Tone 4 (Гла́съ, д҃) for the prosomoion model "Joy of the heavenly ranks" (Небе́сныхъ чино́въ / Τῶν οὐρανίων таγμάτων), which in standard received Octoechoi is rooted in Tone 1.
+[^685]: The 1642 Slozka print designates Tone 4 (Гла́съ, д҃) for the prosomoion model "Joy of the heavenly ranks" (Небе́сныхъ чино́въ / Τῶν οὐρανίων ταγμάτων), which in standard received Octoechoi is rooted in Tone 1.

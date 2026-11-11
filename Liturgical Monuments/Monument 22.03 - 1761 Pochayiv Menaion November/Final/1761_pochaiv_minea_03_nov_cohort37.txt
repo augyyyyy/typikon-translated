@@ -273,7 +273,7 @@ The three-hypostatic Nature and undivided Glory, praised in one Godhead unceasin
 *Both now, Theotokion:*
 Unto those who flee beneath thy lovingkindness in faith and devoutly worship thy Son, O Virgin Mother of God: beseech Him as God and Lord of the world to deliver them from corruption and dangers and every assault.
 
-*Exapostilarion, Podoben:*
+*Exapostilarion, Podoben (Подо́бенъ):*
 
 === LEAF p370 ===
 *Tone 2, Podoben: "In the Spirit in the sanctuary" (Духомъ во святилищи):*[^1227]

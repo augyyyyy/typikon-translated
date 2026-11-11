@@ -22,7 +22,7 @@ Rebuking the disobedient Jews, my Deliverer cried aloud: Judge not according to 
 Greater miracles, as Thou didst promise, didst Thou grant unto Thy disciples, O Savior, sending them unto the Gentiles to proclaim Thy glory: and they proclaimed unto the world Thy resurrection, grace, and incarnation.[^631]
 
 *Troparion 5:*
-If ye circumcise a man on the Sabbath, lest the Law should be broken, why now are ye angry at Me, because I made a whole man well by a word? Ye judge according to the flesh, saith Christ unto the Jews.[^632]
+If ye circumcise a man on the Sabbath, lest the Law should be broken, why now are ye angry at Me, because I made a whole man well by a word? Ye judge according to the flesh, says Christ unto the Jews.[^632]
 
 *Troparion 6:*
 O Word, Who by a word didst heal the withered hand: having healed the long-withered earth of my heart, show me forth fruitful, that I also, O Savior, may bring forth fruits in fervent repentance.[^633]
@@ -83,7 +83,7 @@ Great is our Lord, and great is His power, and of His understanding there is no 
 *At the Liturgy we sing, as also at the Apodosis of Mid-Pentecost, instead of "It is truly meet," the heirmos: "Virginity is foreign to mothers..." But on the other days we sing: "Shine, shine [O new Jerusalem]..." even until the Apodosis.*
 
 *Communion Hymn:*
-He that eats My Flesh, and drinks My Blood, abides in Me, and I in him, saith the Lord. Alleluia. *(Thrice)*[^644]
+He that eats My Flesh, and drinks My Blood, abides in Me, and I in him, says the Lord. Alleluia. *(Thrice)*[^644]
 
 *At table there is consolation for the brethren.*
 
@@ -110,7 +110,7 @@ As I lie upon the bed of the sickness of my sins, and am paralyzed in my members
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Of the Feast.*
 
 *Tone 2:*
-When Thou didst come unto the sanctuary, O Christ God, as the feast was halfway through, then didst Thou teach the people, crying aloud: He that believs in Me, though he die, yet shall he live. But the Jews were enraged, with the Pharisees and Sadducees and scribes, saying: Who is this Man that speaks blasphemies? Not considering that Thou art before all ages, glorified with the Father and the Spirit, our God: glory to Thee![^647]
+When Thou didst come unto the sanctuary, O Christ God, as the feast was halfway through, then didst Thou teach the people, crying aloud: He that believes in Me, though he die, yet shall he live. But the Jews were enraged, with the Pharisees and Sadducees and scribes, saying: Who is this Man that speaks blasphemies? Not considering that Thou art before all ages, glorified with the Father and the Spirit, our God: glory to Thee![^647]
 
 *Prokeimenon of the day.*
 
@@ -154,7 +154,7 @@ The Prophets proclaimed, the Apostles taught, the Martyrs confessed, and we have
 
 *After the 2nd chanting of the Psalter, Sessional Hymn.*
 *Tone 8, Podoben: "The Wisdom and Word of God" (Премꙋ́дрости сло́ва):*
-Standing in the midst of the sanctuary, as the feast was divinely halfway through, Thou didst cry aloud: Let him that thirsts come unto Me and drink: for he that drinks of this My divine water shall pour forth from his belly rivers of My commandments: and he that believs in Me Who was sent from the Divine Begetter shall be glorified with Me: therefore we cry unto Thee: Glory to Thee, O Christ God, for Thou hast richly poured forth the waters of Thy love for mankind unto Thy servants![^655]
+Standing in the midst of the sanctuary, as the feast was divinely halfway through, Thou didst cry aloud: Let him that thirsts come unto Me and drink: for he that drinks of this My divine water shall pour forth from his belly rivers of My commandments: and he that believes in Me Who was sent from the Divine Begetter shall be glorified with Me: therefore we cry unto Thee: Glory to Thee, O Christ God, for Thou hast richly poured forth the waters of Thy love for mankind unto Thy servants![^655]
 
 === LEAF p376 ===
 
@@ -192,7 +192,7 @@ Thou didst stand in the temple, pouring forth Thy streams, as the feast was half
 Desiring to save me, Thou didst become incarnate most gloriously from the Virgin who knew not wedlock; and in the midst of Thy temple Thou didst pour forth grace unto me.
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 8. By John the Monk:*[^664]
-As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believs in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
+As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believes in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
 
 === LEAF p377 ===
 
@@ -281,7 +281,7 @@ By Thy Cross, O Christ Savior, the dominion of death was destroyed, and the delu
 Great is the power of Thy Cross, O Lord, for it was planted in one place, yet it works in the world; and from fishermen it showed forth Apostles, and from Gentiles Martyrs, that they may pray for our souls.
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 8. By John the Monk:*[^682]
-As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believs in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
+As the feast was halfway through, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary the disobedient Jews, and Pharisees, and scribes, and crying aloud unto them: Let him that thirsts come unto Me and drink; he that believes in Me, rivers of the water of the life of the Divine Spirit shall flow from his belly! O ineffable praise of Thy wisdom! O our God Who fillest all things, glory to Thee!
 
 === LEAF p380 ===
 

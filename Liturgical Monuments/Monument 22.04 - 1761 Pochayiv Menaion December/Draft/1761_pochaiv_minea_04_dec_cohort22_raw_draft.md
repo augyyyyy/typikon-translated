@@ -23,10 +23,10 @@ O Theotokos and Virgin, who containedst in thy womb God Whom nothing can contain
 *After the 1st Kathisma, Sessional Hymn, Tone 1, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се):*
 Rejoice, O Bethlehem! Ephratha, make ready! For behold, the Ewe-lamb, carrying the great Shepherd in her womb, hastens to give birth; and seeing beforehand the divine star, the Magi rejoice, singing with the shepherds in uprightness of heart.
 
-*Glory, both now, Tone and Podoben the same:*
+*Glory, both now, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 He Who bowed the heavens and dwelt in the Virgin comes forth in the flesh to be born in the cave of Bethlehem, as it was written; and He is seen as a babe, Who gives life to babes in the womb. Rejoicing at this, let us all now go to meet Him in uprightness of heart.
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рw предварѝ):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 O virgins, lead the maidenly rejoicing! O mothers, praise the approach of the Mother of Christ our God! Magi with the angels, shepherds with us: for the Virgin comes into the city of Bethlehem to give birth to the Son of the pre-eternal God, Who saves the world from corruption.
 
 *Glory, both now, Tone the same:*
@@ -120,7 +120,7 @@ Ordained by Christ God, thou didst illumine thy sacred vesture, truly having rec
 *Glory, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Shining forth from the east like a star, and illuminating with the rays of thy words, thou didst enlighten the world and drive away darkness, and like Paul thou didst valiantly finish the course, having endured perils among nations and cities; whence also, like wheat, by the teeth of beasts wast thou ground, O blessed one, an offering unto thy Lord, O God-bearer Ignatius. Pray to Christ God to grant remission of transgressions unto those who with love honor thy holy memory!
 
-*Both now, Tone and Podoben the same:*
+*Both now, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 The Word of God, having shone forth unsown from the Father's bosom before the ages, without seed comes forth from thy womb, O all-undefiled one, in the last times: to renew him who of old fell grievously, and raising him up to his ancient beauty, as He is merciful; before Whose Nativity the hosts of the bodiless go forth, mystically sending up songs of victory unto men, crying: "Glory to God Who has granted us peace, Who has broken down the middle wall of enmity as He willed!"
 
 *Ode 4. Heirmos:*

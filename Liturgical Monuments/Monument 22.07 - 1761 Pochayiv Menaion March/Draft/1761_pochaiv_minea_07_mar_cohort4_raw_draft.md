@@ -60,7 +60,7 @@ Fairly rushing forth like a river out of Eden, ye martyrs gladden the city of Go
 
 As an animate ark thou didst contain the Lawgiver, and as a holy temple thou didst receive the Holy One Who became man, for the benefaction of men, O pure Birthgiver of God.
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 
 The newly-manifested stars of the faith, who suffered eagerly for Christ, we all worthily crown with praiseworthy crowns, as they pray unto Christ for us; for they are pillars and ramparts of the Christian realm.
 
@@ -127,7 +127,7 @@ O divine four-numbered decad of martyrs with the honorable pair, dwelling now in
 
 Without seed, O Virgin, thou didst conceive the Word of God Who created all things, without the desires of the flesh; and without corruption thou didst give birth, without maternal pangs; therefore confessing thee as the Birthgiver of God in tongue and heart, we magnify thee.
 
-*Exapostilarion, Podoben: "Give Ear, Ye Women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give Ear, Ye Women" (Жє́ны оу҆слы́шите):*
 
 === LEAF p35 === (Fol. 17r)
 ...What satiety shall there be for lovers of the martyrs of the divine memory of the martyrs, as Basil the Great said aforetime?[^40] But now it lies before us to praise the forty and two divine martyrs, who patiently suffered for Christ the Savior.
@@ -139,7 +139,7 @@ Having given birth to Hypostatic Wisdom, the supersubstantial Word, and the Phys
 *March 7: The Holy Hieromartyrs Who Were Bishops in Cherson: Basil, Ephraim, Capito, Eugenius, Aetherius, and the rest.*[^41]  
 *At "Lord, I have cried," stichera, Tone 1:*
 
-*Tone 1, Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*Tone 1, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 
 Invincible martyrs, and all-praised hierarchs, and universal luminaries, immovable pillars of the divine Church, and foundation of dogmas, guides of the pious, and destroyers of delusion were ye, O heavenly-minded fathers, illuminators of our souls, companions of the angels, champions of the Trinity!
 
@@ -147,14 +147,14 @@ Let glorious Ephraim and God-wise Basil, great Capito and divine Agathodorus, wi
 
 Having put to death the carnal mind through ascetical struggles, glorious Basil raised up a dead man by divine invocation;[^42] and Capito again, most sacred shepherd, standing in the midst of the flame rejoicing, was seen unburned;[^43] through their prayers, O Lover of mankind, grant us propitiation and Thy great mercy.
 
-*Glory... Both now... Theotokion, the same Tone and Podoben:*
+*Glory... Both now... Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Wash away the defilement of my passionate heart, O all-hymned Birthgiver of God, and cleanse all its wounds and festerings that come from sin, O pure one, and of my mind...
 
 === LEAF p36 === (Fol. 17v)
 ...calm the instability of my mind, that I, thy wretched and unprofitable servant, may magnify thy power and great protection.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Christ the Lover of mankind crucified, and His side pierced with a spear, the all-pure one cried aloud weeping: What is this, O my Son? What have the ungrateful people rendered unto Thee for the good things Thou didst unto them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O Tender-hearted One, at Thy voluntary crucifixion!
 
@@ -191,7 +191,7 @@ Thy paths were directed straight unto God, O Basil; by grace they turned all men
 
 Thou didst bear the mighty Lord Who delivers men from the tyranny of the enemy, O all-pure, all-hymned Virgin.
 
-*Sessional Hymn, Tone 3, Podoben: "The Beauty of Virginity" (Krasote devstva):*
+*Sessional Hymn, Tone 3, Podoben: "The Beauty of Virginity" (Красотѣ̀ дв҃ства):*
 
 With the myrrh...
 
@@ -260,7 +260,7 @@ Ye appeared from different cities as teachers,[^47] but as shepherds of one peop
 
 The shadows of the Law and the riddles of the prophets prefigured thee, O Virgin, who by the ineffable Word didst have a childbearing that saves the world, O all-blameless one.
 
-*Kontakion, Tone 2, Podoben: "Living in the Highest" (V vyshnikh zhivyi):*
+*Kontakion, Tone 2, Podoben: "Living in the Highest" (Въ вы́шнихъ живы́й):*
 
 The light-bearing day of the shepherds who shone as bishops in Cherson hath arrived; we hymn their feast, who suffered for Christ's sheep. O hieromartyrs, pray unto Christ the Chief Shepherd, that He may number us also among the sheep of His right hand, that we may cry aloud unto you: Rejoice, O sacred fathers, who poured out your blood for Christ!
 
@@ -326,7 +326,7 @@ Holding Christ in her arms, Who holds all things in His hand, the Maiden full of
 *March 8: Our Venerable Father and Confessor Theophylact, Bishop of Nicomedia.*[^52]  
 *At "Lord, I have cried," stichera, Tone 1:*
 
-*Tone 1, Podoben: "O All-Praised Martyrs" (Vsekhvalnii muchenitsy):*
+*Tone 1, Podoben: "O All-Praised Martyrs" (Всехва́льнїи мч҃ницы):*
 
 O father Theophylact, guarded by divine watches thou wast preserved unhurt, and didst appear as an unshakable pillar of the Church, unmoved by temptations of heretical wiles;[^53] and now pray thou that peace and great mercy may be granted unto our souls.
 

@@ -21,9 +21,9 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ## 1.2 Vespers
 
-### 1.2.1 Order of Great Vespers with All-Night Vigil
+**1.2.1 Order of Great Vespers with All-Night Vigil** <a id="121-order-of-great-vespers-with-all-night-vigil"></a>
 
-#### 1. Vesting and Initial Censing
+**1. Vesting and Initial Censing**
 
 *After the candles on the main Holy Table are lit and two censers prepared, if two deacons are to serve (if not, then one), the Priest, having blessed the epitrachelion with his hand arranged as for the blessing at Liturgy and having kissed the cross upon it, puts it on himself[^6]. The deacons take upon themselves the sticharion with the orarion, having kissed it beforehand. All three come out, one after another—first the second deacon, after him the first, and last the Priest—from the sacristy to the front of the steps of the Holy Table. Having taken their stand: the first deacon on the left, and the second on the right of the Priest, with the Priest between them, all three bow low to the Holy Mysteries and, having turned all together to the Holy Doors (the Priest and second deacon to the right, and the first deacon to the left), they open them and, having turned toward the Holy Table, likewise by a half-turn, the deacons take the censers, and the Priest, with his right hand, takes the spoon and puts incense first into the censer of the first, and then into the censer of the second deacon. And after the deacons say:*
 
@@ -61,7 +61,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...and returns to the sanctuary through the Holy, that is, the central doors of the iconostasis.*
 
-#### 2. From "Glory to the Holy" to the Entrance
+**2. From "Glory to the Holy" to the Entrance**
 
 *When the deacons, having put away the censers, take their stand, each on his own side, near the Priest in front of the steps, the Priest sings in a loud voice:*
 
@@ -101,7 +101,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...after which the deacons cense the Holy Table from the four sides, the iconostasis, the clergy, the choirs, and the people and, having bowed before the Holy Doors, return behind the Holy Table to the Priest.*
 
-#### 3. Entrance and Censing at *“Gladsome Light”*
+**3. Entrance and Censing at *“Gladsome Light”***
 
 *When the Choir begins to sing the last verse of the psalm, that is, "For His mercy is great toward us," the Priest vests in the phelonion, having blessed it and having kissed the cross upon it, and at "Glory" makes the Entrance with the censer together with the deacons in the following manner:*
 
@@ -131,7 +131,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *After the deacons, the Priest also enters the sanctuary and waits before the steps until the deacons, having returned to the sanctuary after the censing and having bowed to the Holy Mysteries, stand together with him before the steps of the Holy Table.*
 
-#### 4. Prokimenon and Readings
+**4. Prokimenon and Readings**
 
 *After the singing of "Gladsome Light," the deacons approach the Holy Doors and the first of them, looking at the people, exclaims:*
 
@@ -147,7 +147,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *During the singing of the Prokimenon with its verses, all three turn to the Holy Table, and the Priest, having bowed low to the Holy Mysteries, goes to the right behind the Holy Table and sits there during the readings. The deacons remain near the Holy Doors and, before the title of each reading, the first of them exclaims to the people: "Wisdom!", and after the title—the second, likewise to the people: "Let us be attentive!". If there are no deacons, the Priest exclaims all this from his place.*
 
-#### 5. From "Let us say all" to the Litiya
+**5. From "Let us say all" to the Litiya**
 
 *Upon the conclusion of the readings, the Priest comes to the front of the steps and, together with the deacons, bows to the Holy Mysteries. After this, the Priest approaches the Holy Table, while the deacons withdraw to the front of the iconostasis, and the first of them sings the litany "Let us say all," and the second, after "Vouchsafe, O Lord," sings the litany "Let us complete our evening prayer." The exclamations for the litanies are sung by the Priest, and after the first exclamation of the litany "Let us complete," while singing:*
 
@@ -155,7 +155,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...he blesses the people with his right hand as before the Prokimenon. During the prayer at the bowing of heads, the sacred ministers and all the people bow their heads[^13].*
 
-#### 6. Order of the Litiya
+**6. Order of the Litiya**
 
 *After the exclamation:*
 
@@ -179,7 +179,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...blesses with his right hand in the form of a cross. During the concluding prayer "O Master, Plenteous in Mercy," which the Priest sings, all stand with bowed heads.*
 
-#### 7. From the Aposticha to the Blessing of Loaves
+**7. From the Aposticha to the Blessing of Loaves**
 
 *After the prayer, the choirs sing "Amen" and return to the church together with the sacred ministers, where, having taken their stand behind them, they begin to sing the Aposticha, while the sacred ministers, first the deacons and after them the Priest, having entered the temple, stand in one row before the tetrapod. After the singing of the Aposticha and "Lord, now lettest Thou," the choirs recite the Trisagion with "Our Father," and the Priest exclaims:*
 
@@ -201,7 +201,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **On a Feast of a Saint on a weekday:** The troparion of the Saint twice, and "Rejoice, O Virgin Theotokos" once, without "Glory, Both now."
 *(Note: Formerly the Vigil was celebrated every Sunday, and then the troparion "Rejoice, O Virgin Theotokos" was sung three times).*
 
-#### 8. Order of the Blessing of Loaves
+**8. Order of the Blessing of Loaves**
 
 *After the singing of the last troparion, the blessing of loaves takes place in the following manner: Five prosphora are placed on the vigil vessel—four crosswise together, and the fifth above them. At the bottom of the vigil vessel is wheat; on the left side (from the icon of the Theotokos)—a vessel with wine; on the right—a vessel with oil. After the first Deacon exclaims:*
 
@@ -221,7 +221,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...and, naming each of the four, blesses it with the sign of the cross.*
 
-#### 9. Conclusion of Vespers
+**9. Conclusion of Vespers**
 
 *Upon the conclusion of the prayer, when the choirs respond "Amen" and read the psalm "I will bless the Lord at all times" (Psalm 33), one of the deacons takes the vigil vessel with the blessed loaves; at this time the choirs withdraw to their places, and all three sacred ministers enter the sanctuary: the Priest through the central doors, the deacons through the side doors. The deacons put away the candles and the vigil vessel, after which all three stand before the steps of the Holy Table and immediately after the words of the psalm "they shall not lack any good thing," the Priest, having turned right toward the people, blesses them in the form of a cross, simultaneously singing:*
 
@@ -243,9 +243,9 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.2.2 Order of Great Vespers without Vigil
+**1.2.2 Order of Great Vespers without Vigil** <a id="122-order-of-great-vespers-without-vigil"></a>
 
-#### 1. Beginning and Introductory Prayers
+**1. Beginning and Introductory Prayers**
 
 *The Priest takes the epitrachelion, blesses it and, having kissed the cross upon it at the top, puts it on himself and exits through the northern door to the front of the closed Holy Doors. Here, having bowed low, he begins as usual:*
 
@@ -263,7 +263,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 >    > **Deacon:** "Bless, Master."
 >    > **Priest:** "Blessed is our God..."[^15]
 
-#### 2. Main Order of Service
+**2. Main Order of Service**
 
 *After this, from the Prefatory Psalm to the exclamation "Blessed be the might of Thy kingdom" of the litany "Let us complete," all parts are taken and everything is done as at Great Vespers with Vigil, only at this Vespers, at *“Lord, I have cried”* there can be not only 10 or 8 stichera, but also 6.*
 
@@ -276,7 +276,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **On a weekday with a Polyeleos Saint (without Sunday):** Troparion of the Saint; **Glory, Both now:** Sunday Theotokion according to the tone of the troparion of the Saint.
 * **In the midst of a Feast (of the Lord or of the Theotokos):** Theotokia are not taken, but after the troparion of the Saint, the troparion of the Feast is taken.
 
-#### 3. Dismissal and Conclusion
+**3. Dismissal and Conclusion**
 
 > **Priest:** "Wisdom!"
 > 
@@ -306,9 +306,9 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.2.3 Order of Daily Vespers
+**1.2.3 Order of Daily Vespers** <a id="123-order-of-daily-vespers"></a>
 
-#### 1. General Rubrics
+**1. General Rubrics**
 
 *Let it be known that at Daily Vespers there is no Entrance; therefore the Holy Doors are not opened, nor do deacons serve, nor does the Priest vest in the phelonion, but only the epitrachelion. He censes only at "Lord, I have cried."*
 
@@ -320,7 +320,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
    ...during which he gives the peace, having turned to the people.
 4. At the end, at the dismissal.
 
-#### 2. Order of Service
+**2. Order of Service**
 
 *From the beginning of Vespers until the stichera at *“Lord, I have cried”* everything proceeds as at Great Vespers without Vigil, with these exceptions:*
 * Instead of the 1st Kathisma (*“Blessed is the man”*), the **current Kathisma** is read. If on the previous day there was a Vigil, then on account of the vigil labor, the Kathisma is omitted. (Similarly, at Vespers on Sunday evening for Monday there is no Kathisma).
@@ -344,7 +344,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.2.4 Order of Small Vespers
+**1.2.4 Order of Small Vespers** <a id="124-order-of-small-vespers"></a>
 
 *Small Vespers is celebrated just as Daily Vespers[^18], but without a Kathisma and without litanies, except for the final litany "Have mercy on us, O God" (prescribed by Slavic Typikons, though omitted in Greek rubrics). At *“Lord, I have cried”* there are only 4 stichera. The dismissal is preceded by "Wisdom!" and "More honorable," exactly as at Daily Vespers.*
 
@@ -352,9 +352,9 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ## 1.3 Compline
 
-### 1.3.1 Order of Small Compline
+**1.3.1 Order of Small Compline** <a id="131-order-of-small-compline"></a>
 
-#### 1. Order of Service
+**1. Order of Service**
 
 1. **Beginning:** The beginning is usual:
    > **Priest:** "Blessed is our God always, now and ever, and unto ages of ages."
@@ -363,7 +363,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 3. **Canon to the Theotokos:** The Canon to the Theotokos of the *Octoechos*, according to the tone and day of the week, without Katavasias and without litanies. After the 6th Ode: "Lord, have mercy" (3); **Glory, Both now:** Sessional Hymn (and sometimes a Kontakion).
 4. **Trisagion Prayers:** After the Canon: "It is truly meet," Trisagion with "Our Father," and the exclamation "For Thine is the kingdom."
 
-#### 2. Troparia for Various Days and Occasions
+**2. Troparia for Various Days and Occasions**
 
 * **a) On the first five weekdays (Monday through Friday):**
   Six troparia are taken: first of the Temple (if dedicated to the Lord or the Theotokos), then the troparion of the weekday. If the Temple is dedicated to a Saint, then first the troparion of the day, and after it of the Temple; followed by the four troparia in the *Horologion* beginning with "O God of our Fathers." (On Thursday, having a double commemoration, there are 7 troparia, and in monasteries 8 with St. Basil[^20]. On Wednesday and Friday, the Cross troparion "O Lord, save Thy people" always takes first place).
@@ -374,7 +374,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **d) Festal Occasions & Polyeleos Saints:**
   Only the Kontakion of the festal service (Forefeast, Feast, Afterfeast, or Polyeleos Saint) is said.
 
-#### 3. Conclusion and Rubrics
+**3. Conclusion and Rubrics**
 
 1. After the troparia: "Lord, have mercy" (40), the prayer "Thou Who at all times," and the remaining prayers as given in the *Horologion*.
 2. At the end: The dismissal, followed by the mutual forgiveness litany ("Remit, pardon").
@@ -383,7 +383,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.3.2 Order of Great Compline without Vigil
+**1.3.2 Order of Great Compline without Vigil** <a id="132-order-of-great-compline-without-vigil"></a>
 
 *The Order of Great Compline is given in the *Horologion* and *Sluzhebnik*. The rubrics for the Priest are:*
 
@@ -397,7 +397,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.3.3 Order of Great Compline with All-Night Vigil
+**1.3.3 Order of Great Compline with All-Night Vigil** <a id="133-order-of-great-compline-with-all-night-vigil"></a>
 
 *From the beginning of Compline to the end of the Doxology ("Glory to God in the highest"), everything is taken exactly as at Great Compline without Vigil[^21]. After the Doxology, the **Litiya** follows immediately, according to the order of Great Vespers with Vigil.*
 
@@ -427,9 +427,9 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ## 1.5 Matins
 
-### 1.5.1 Order of Great Matins (With Vigil and Without Vigil)
+**1.5.1 Order of Great Matins (With Vigil and Without Vigil)** <a id="151-order-of-great-matins-with-vigil-and-without-vigil"></a>
 
-#### 1. From the Beginning to the Troparia at *“God is the Lord”*
+**1. From the Beginning to the Troparia at *“God is the Lord”***
 
 * **When celebrated with an All-Night Vigil:** Matins begins immediately after Great Vespers. The Priest, vested in epitrachelion and phelonion, having concluded Vespers with "The blessing of the Lord be upon you," turns to the Holy Table and exclaims:
   > **Priest:** "Glory to the Holy, Consubstantial, Life-Creating, and Undivided Trinity, always, now and ever, and unto ages of ages."
@@ -444,7 +444,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 *...and sings the verses at "God is the Lord," followed by the appointed troparia.*
 
-#### 2. Order of Troparia at *“God is the Lord”*
+**2. Order of Troparia at *“God is the Lord”***
 
 * **On a Feast of the Lord or of the Theotokos:** Troparion of the Feast twice; **Glory, Both now:** troparion of the Feast once more.
 * **On a Sunday with a Saint having a troparion:** Sunday troparion of the current tone twice; **Glory:** troparion of the Saint once; **Both now:** Sunday Theotokion in the tone of the Saint's troparion.
@@ -455,7 +455,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **On a weekday in a Feast with a Saint:** Troparion of the Feast twice; **Glory:** troparion of the Saint; **Both now:** troparion of the Feast[^3a].
 * **On a weekday in a Feast with two Saints:** Troparion of the Feast once, of the first Saint once; **Glory:** of the second Saint once; **Both now:** troparion of the Feast[^26].
 
-#### 3. From the Kathismata to the Graduals (Polyeleos Rubrics)
+**3. From the Kathismata to the Graduals (Polyeleos Rubrics)**
 
 *After the troparia, the Reader reads the appointed **Kathisma** from the Psalter, followed by the Small Litany and the Sessional Hymn with its Theotokion.*
 
@@ -464,7 +464,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * **On Feasts & Polyeleos Saints:** The 19th Kathisma (Polyeleos) is always sung, followed by the **Magnification (Megalynarion)**, Small Litany, and the Polyeleos Sessional Hymns[^27].
 * **On a Sunday with a Polyeleos Saint:** After the Polyeleos, both the Magnification and the Resurrectional Evlogitaria are sung, followed by the Hypakoe and all three Sessional Hymns of the Saint.
 
-#### 4. From the Graduals to the Matins Gospel and Anointing
+**4. From the Graduals to the Matins Gospel and Anointing**
 
 1. **Gradual (Anavathmoi):** Sung according to the current tone from the *Octoechos* (all three antiphons; in Tone 8, four). On Feasts of the Lord and Theotokos, the 1st Antiphon of Tone 4 ("From my youth") is sung[^28].
 2. **Prokimenon & "Let everything that hath breath":** The Priest vests in the phelonion, opens the Holy Doors, and exclaims:
@@ -478,7 +478,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
    > **Response:** "He is and shall be."
    *(In the Paschal season: "Christ is risen!" — "Truly He is risen!").*
 
-#### 5. Order of the Matins Canon
+**5. Order of the Matins Canon**
 
 *The Canon consists of eight odes (outside the Great Fast, where Ode 2 is omitted) or nine odes (during Lent). Canons are taken on 12 or 14 troparia.*
 
@@ -510,7 +510,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
   * *After the 6th Ode:* Small Litany, followed by the **Kontakion and Ikos** (Resurrectional or Festal)[^37].
   * *After the 9th Ode:* Small Litany. On Sundays: "Holy is the Lord our God" (3), followed by the appointed **Exaposteilarion (Hymn of Light)**[^38].
 
-#### 6. Praises (Lauds), Great Doxology, and Dismissal
+**6. Praises (Lauds), Great Doxology, and Dismissal**
 
 1. **Praises (Psalms 148, 149, 150):**
    * Begun with "Let everything that hath breath praise the Lord"[^39].
@@ -531,7 +531,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.5.2 Rubric for Deacons at Matins
+**1.5.2 Rubric for Deacons at Matins**
 
 *The deacons, if serving, begin their ministry from the Prokimenon (though they may also say the initial litanies):*
 
@@ -556,9 +556,9 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 ---
 
-### 1.5.3 Order of Daily Matins
+**1.5.3 Order of Daily Matins** <a id="153-order-of-daily-matins"></a>
 
-#### 1. From the Beginning to the Canon
+**1. From the Beginning to the Canon**
 
 *From the beginning to the second Sessional Hymn, everything proceeds as at Great Matins without Vigil (the initial censing is omitted according to local custom)[^40]. After the second (or even the third)[^41] Sessional Hymn, Psalm 50 is read, followed immediately by the **Canon**.*
 
@@ -569,7 +569,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 * The Psalms of Praise (Praises) are read simply, without singing.
 * The **Small Doxology** is read. (During Great Lent, the Priest precedes it with "To Thee belongs glory"; outside Lent, he exclaims immediately: "Glory to Thee Who hast shown us the light!").
 
-#### 2. The Doxology, Aposticha, and Dismissal
+**2. The Doxology, Aposticha, and Dismissal**
 
 *After the Small Doxology, the litany "Let us complete" is sung. The Priest gives the peace and withdraws. The **Aposticha** is sung, followed by "It is a good thing to give praise," Trisagion, and "Our Father."*
 
@@ -592,7 +592,7 @@ Except for the four Hours, of which each has one and the same form, all other pa
 
 The Order of the Hours (First, Third, Sixth, and Ninth) is contained in the *Horologion*. The changeable parts are: the **troparia**, **kontakia**, and the **commemoration at the dismissal**.
 
-#### 1. Rules for Troparia and Kontakia
+**1. Rules for Troparia and Kontakia**
 
 1. **Single Commemoration:** If there is only one troparion, it is taken with "**Glory:**", followed by "**Both now:**" and the Theotokion of the Hour. If there are two troparia and two kontakia, the first troparion is taken simply, the second with "**Glory:**", followed by "**Both now:**" and the Theotokion of the Hour. The kontakia are taken alternately: at the 1st and 6th Hours—the first; at the 3rd and 9th Hours—the second.
 2. **Limit of Two Troparia per Hour:** At any single Hour there cannot be more than two troparia and one kontakion. If more are appointed, they alternate across the Hours (1st & 6th vs 3rd & 9th).
@@ -601,7 +601,7 @@ The Order of the Hours (First, Third, Sixth, and Ninth) is contained in the *Hor
    * **3rd & 9th Hours:** Troparion and Kontakion of the Saint.
    * **6th Hour:** Troparion and Kontakion of the Temple.
 
-#### 2. Sunday and Festal Distributions
+**2. Sunday and Festal Distributions**
 
 * **On Sundays:** The Sunday troparion of the current tone is taken at every Hour:
   * **1st Hour:** Sunday troparion alone; Sunday Kontakion.
@@ -609,7 +609,7 @@ The Order of the Hours (First, Third, Sixth, and Ninth) is contained in the *Hor
   * **6th Hour:** Sunday troparion, **Glory:** of the Temple; Kontakion of the Temple.
 * **On Feasts & Polyeleos Saints:** The festal troparia and kontakia are taken at all Hours, and the troparion of the Temple is omitted.
 
-#### 3. Commemorations at the Dismissal
+**3. Commemorations at the Dismissal**
 
 At the dismissal of the Hours, all concurring commemorations are mentioned in order:
 
@@ -627,7 +627,6 @@ When Vespers is combined with the Divine Liturgy (as on the eves of the Nativity
 * **From the Liturgy:** The introductory portion (from the opening exclamation through the Antiphons) falls away, and the Liturgy begins directly:
   * *At a Full Liturgy (St. Basil or St. John Chrysostom):* The bridge is the Small Litany with the exclamation of the **Trisagion**, from which the Liturgy of the Word begins.
   * *At the Liturgy of the Presanctified Gifts:* The bridge is the singing of *"Let my prayer arise"*, which the Priest sings before the four sides of the Holy Table, followed immediately by the Litany of Fervent Supplication ("Let us say all"). If a Polyeleos Saint occurs, his Epistle and Gospel precede the litany.
-
 ---
 
 ### Notes

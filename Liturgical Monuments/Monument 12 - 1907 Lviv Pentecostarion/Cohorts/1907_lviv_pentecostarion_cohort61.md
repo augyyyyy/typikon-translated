@@ -132,7 +132,7 @@ O most-pure Theotokos, who gavest birth beyond nature to the incarnate, everlast
 The Virgin brought forth Christ, the life-bearing cluster of grapes, dropping down the sweetness of salvation for all the world.  
 
 === LEAF p607 ===
-*Canon of All Saints, whose acrostic is: Tῶν ἁγίων πάντων πολυώνυμα τάγματα μέλπω, that is: I sing the multifold ranks of all the saints.*[^2757]  
+*Canon of All Saints, whose acrostic is: Τῶν ἁγίων πάντων πολυώνυμα τάγματα μέλπω, that is: I sing the multifold ranks of all the saints.*[^2757]  
 *Tone 8. Heirmos: Pharaoh the charioteer (Колесницегони́телѧ Фараѡ́на):*  
 *Troparion [T]:*  
 Singing the ranks of Thy saints, I pray that my soul may be illumined with Thy light through their prayers: for Thou art unapproachable Light, driving away the gloom of ignorance by Thy splendors, O Word of God, Christ the Giver of Light. *(Twice)*  

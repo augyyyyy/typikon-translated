@@ -1,6 +1,6 @@
 === LEAF p711 ===
 
-# Great Lent: Wednesday and Friday of First Week, Presanctified Liturgy, and First Stasis of Akathist Hymn (§§ 24–26 Opening)
+## Great Lent: Wednesday and Friday of First Week, Presanctified Liturgy, and First Stasis of Akathist Hymn (§§ 24–26 Opening)
 
 ## Τετάρτη καὶ Παρασκευὴ τῆς Α΄ Ἑβδομάδος (§§ 24–26 Ἀρχή) [Violakis, p. 696]
 
@@ -20,7 +20,7 @@
 
 === LEAF p712 ===
 
-# Great Lent: Wednesday and Friday of First Week, Presanctified Liturgy, and First Stasis of Akathist Hymn (§§ 24–26 Opening)
+## Great Lent: Wednesday and Friday of First Week, Presanctified Liturgy, and First Stasis of Akathist Hymn (§§ 24–26 Opening)
 
 ## Wednesday and Friday of the First Week of Great Lent (§§ 24–26 Opening) [Violakis, p. 697]
 
@@ -38,7 +38,7 @@
 
 === LEAF p713 ===
 
-# Great Lent: Friday Evening Akathist Conclusion and First Saturday (§§ 26 Concluded, 27 Opening)
+## Great Lent: Friday Evening Akathist Conclusion and First Saturday (§§ 26 Concluded, 27 Opening)
 
 ## Τέλος τοῦ Ἀκαθίστου καὶ Σάββατον τῆς Α΄ Ἑβδομάδος (§§ 26 Τέλος, 27 Ἀρχή) [Violakis, p. 698]
 
@@ -55,7 +55,7 @@
 
 === LEAF p714 ===
 
-# Great Lent: Friday Evening Akathist Conclusion and First Saturday (§§ 26 Concluded, 27 Opening)
+## Great Lent: Friday Evening Akathist Conclusion and First Saturday (§§ 26 Concluded, 27 Opening)
 
 ## Friday Evening Akathist Conclusion and Saturday of the First Week (§§ 26 Concluded, 27 Opening) [Violakis, p. 699]
 
@@ -69,7 +69,7 @@
 
 === LEAF p715 ===
 
-# Great Lent: First Saturday Concluded and Sunday of Orthodoxy Opening (§§ 27 Concluded, 28, 29)
+## Great Lent: First Saturday Concluded and Sunday of Orthodoxy Opening (§§ 27 Concluded, 28, 29)
 
 ## Σάββατον τῆς Α΄ Ἑβδομάδος Τέλος καὶ Κυριακὴ τῆς Ὀρθοδοξίας (§§ 27 Τέλος, 28, 29) [Violakis, p. 700]
 
@@ -87,7 +87,7 @@
 
 === LEAF p716 ===
 
-# Great Lent: First Saturday Concluded and Sunday of Orthodoxy Opening (§§ 27 Concluded, 28, 29, 30 Opening)
+## Great Lent: First Saturday Concluded and Sunday of Orthodoxy Opening (§§ 27 Concluded, 28, 29, 30 Opening)
 
 ## First Saturday Concluded and Sunday of Orthodoxy (§§ 27 Concluded, 28, 29, 30 Opening) [Violakis, p. 701]
 
@@ -105,7 +105,7 @@
 
 === LEAF p717 ===
 
-# Great Lent: Sunday of Orthodoxy Divine Liturgy Antiphons (§ 30 Antiphons 1 & 2)
+## Great Lent: Sunday of Orthodoxy Divine Liturgy Antiphons (§ 30 Antiphons 1 & 2)
 
 ## Ἀντίφωνα τῆς Θείας Λειτουργίας (§ 30 Ἀντίφωνα Α΄ & Β΄) [Violakis, p. 702]
 
@@ -131,7 +131,7 @@
 
 === LEAF p718 ===
 
-# Great Lent: Sunday of Orthodoxy Divine Liturgy Antiphons (§ 30 Antiphons 1 & 2)
+## Great Lent: Sunday of Orthodoxy Divine Liturgy Antiphons (§ 30 Antiphons 1 & 2)
 
 ## Festal Antiphons of the Divine Liturgy (§ 30 Antiphons 1 & 2) [Violakis, p. 703]
 
@@ -157,7 +157,7 @@
 
 === LEAF p719 ===
 
-# Great Lent: Sunday of Orthodoxy Antiphon 3, Divine Liturgy Conclusion, and Vespers (§§ 30 Concluded, 31)
+## Great Lent: Sunday of Orthodoxy Antiphon 3, Divine Liturgy Conclusion, and Vespers (§§ 30 Concluded, 31)
 
 ## Ἀντίφωνον Γ΄, Τέλος Λειτουργίας καὶ Ἑσπερινὸς τῆς Κυριακῆς (§§ 30 Τέλος, 31) [Violakis, p. 704]
 
@@ -177,13 +177,13 @@
 
 === LEAF p720 ===
 
-# Great Lent: Sunday of Orthodoxy Antiphon 3, Divine Liturgy Conclusion, and Vespers (§§ 30 Concluded, 31)
+## Great Lent: Sunday of Orthodoxy Antiphon 3, Divine Liturgy Conclusion, and Vespers (§§ 30 Concluded, 31)
 
 ## Third Antiphon, Divine Liturgy Conclusion, Solemn Memorial, and Lenten Vespers (§§ 30 Concluded, 31) [Violakis, p. 705]
 
 **Third Antiphon**
 
-*Verse 1:* **"Let the heavens and the earth praise Him, the seas, and everything that creepeth in them!"** (*Αἰνεσάτωσαν αὐτὸν οἱ οὐρανοὶ καὶ ἡ γῆ...*, Ps. 68:35 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."** (*Τὴν ἄχραντον Εἰκόνα σου προσκυνοῦμεν, Ἀγαθέ...*)  
+*Verse 1:* **"Let the heavens and the earth praise Him, the seas, and everything that creeps in them!"** (*Αἰνεσάτωσαν αὐτὸν οἱ οὐρανοὶ καὶ ἡ γῆ...*, Ps. 68:35 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."** (*Τὴν ἄχραντον Εἰκόνα σου προσκυνοῦμεν, Ἀγαθέ...*)  
 *Verse 2:* **"This is the day which the Lord has made; let us rejoice and be glad in it!"** (*Αὕτη ἡμέρα Κυρίου, ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν αὐτῇ.*, Ps. 117:24 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."**  
 *Verse 3:* **"O Lord my God, I will give thanks unto Thee forever!"** (*Κύριε ὁ θεός μου εἰς τὸν αἰῶνα ἐξομολογήσομαί σοι.*, Ps. 29:13 [LXX]) | *Refrain:* **"Thy pure icon do we venerate, O Good One, asking forgiveness of our offenses, O Christ God..."**  
 

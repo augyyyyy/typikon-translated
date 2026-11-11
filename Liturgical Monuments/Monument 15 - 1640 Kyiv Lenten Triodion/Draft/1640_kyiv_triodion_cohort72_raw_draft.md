@@ -95,7 +95,7 @@ The Lord is King, let the earth rejoice!
 *Verse:* Let the many islands be glad![^2125]
 
 *Reading from the Prophecy of Isaiah (Chapter 42).*
-Thus saith the Lord God, Who made heaven and fixed it, Who established the earth and that which is therein, and Who gives breath unto the people that are upon it, and spirit unto them that walk thereon:
+Thus says the Lord God, Who made heaven and fixed it, Who established the earth and that which is therein, and Who gives breath unto the people that are upon it, and spirit unto them that walk thereon:
 I the Lord God have called Thee in righteousness, and have taken hold of Thy hand, and will strengthen Thee for a covenant of My people, for a light to the Gentiles:
 to open the eyes of the blind, to bring forth them that are bound from fetters, and them that sit in darkness out of the prison house.
 I am the Lord God, that is My name;
@@ -110,7 +110,7 @@ Let them give glory unto God, let them proclaim His praise in the islands.
 The Lord God of hosts shall go forth, and shall crush war; He shall stir up jealousy, and shall cry out against His enemies with might.
 I have held My peace from of old; shall I also forever be silent and endure? I have endured like a woman in travail; I will destroy and root out, and dry up together.
 I will make desolate mountains and hills, and all grass will I dry up; and I will make the rivers into islands, and dry up the groves.
-And I will bring the blind by a way that they knew not, and along paths that they have not known will I make them to tread; I will make darkness into light for them, and crooked things into straight: these words will I do for them, and will not forsake them, saith the Lord.[^2127]
+And I will bring the blind by a way that they knew not, and along paths that they have not known will I make them to tread; I will make darkness into light for them, and crooked things into straight: these words will I do for them, and will not forsake them, says the Lord.[^2127]
 
 *Prokeimenon, Psalm 97, Tone 6:*
 Sing unto the Lord a new song, for the Lord hath done marvelous things!

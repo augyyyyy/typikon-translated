@@ -186,7 +186,7 @@
 
 [^92]: The Matins Gospel of Holy and Great Wednesday: John 12:17–50 (sections 41 to 43), recounting the testimony of the crowds regarding the raising of Lazarus, the Greeks seeking Jesus, the Father's voice from heaven, Christ's prophecy of being lifted up upon the Cross, and His solemn warning to walk while they have the Light.
 
-[^93]: The Matins Tri-ode of Holy and Great Wednesday, composed by Saint Cosmas the Melodist, Bishop of Maiuma (ca. 675–752), consisting of Odes 3, 8, and 9, bearing the Greek acrostic *Τετράδι ψάλλω* ("On Wednesday I sing" / *Тетра́ди ѱалῶ*).
+[^93]: The Matins Tri-ode of Holy and Great Wednesday, composed by Saint Cosmas the Melodist, Bishop of Maiuma (ca. 675–752), consisting of Odes 3, 8, and 9, bearing the Greek acrostic *Τετράδι ψάλλω* ("On Wednesday I sing" / *Тетра́ди ѱалѡ̂*).
 
 [^94]: The Kontakion of Holy and Great Wednesday, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (*Вознесы́йсѧ*), voicing the soul's profound sorrow for having exceeded the harlot in sinfulness without offering tears, yet begging for forgiveness through silent supplication.
 
@@ -292,7 +292,7 @@
 
 [^145]: The third troparion of Ode 9 formulates the orthodox doctrine of the hypostatic union and the communication of idioms (*communicatio idiomatum*): Christ is truly God and truly man, without confusion or separation, working our salvation through both natures united in His single divine Hypostasis.
 
-[^146]: The famous Exapostilarion of Great Week (*Черто́гъ тво́й ви́ждꙋ* / *Тὸν νυμφῶνά σου βλέπω*), based upon the Parable of the Ten Virgins (Matthew 25:1–13) and the Wedding Feast (Matthew 22:11–14), is chanted for the final time at Matins of Holy and Great Thursday.
+[^146]: The famous Exapostilarion of Great Week (*Черто́гъ тво́й ви́ждꙋ* / *Τὸν νυμφῶνά σου βλέπω*), based upon the Parable of the Ten Virgins (Matthew 25:1–13) and the Wedding Feast (Matthew 22:11–14), is chanted for the final time at Matins of Holy and Great Thursday.
 
 [^147]: The first sticheron at the Praises (Lauds), Tone 2, vividly depicts the morning gathering of the Sanhedrin, contrasting the judicial pretensions of the mortal judges with the sovereign dignity of the divine Judge of all creation.
 
@@ -336,7 +336,7 @@
 
 [^167]: Codicological and Typikon rubrics of the Liturgy of Saint Basil the Great on Holy Thursday: At this service, an additional Holy Lamb (*Agnets*) is consecrated, saturated with the Precious Blood, dried according to the prescribed rite in the Sluzhebnik, and reverently placed in the Artophorion (Tabernacle) upon the holy table as the Reserved Sacrament (*запасні Дари*) for the communion of the sick throughout the entire subsequent year. Furthermore, the rubric specifies that the customary post-communion prostrations cease, and that the liturgical Order of the Foot-Washing is celebrated immediately following the Prayer behind the Ambo. At the monastic or parish refectory following the Liturgy, wine and oil are permitted to console the faithful before the severe fast of Great Friday.
 
-[^168]: The Order of the Washing of Feet (*Чинъ Оумове́нїю но́гъ* / *Нιπτήρ* / *Niptēr*) on Holy and Great Thursday. An ancient ceremony attested as early as the 4th-century pilgrimage of Egeria and codified in the Byzantine imperial and monastic typika, commemorating Christ's self-emptying love in washing the feet of the twelve disciples at the Mystical Supper (John 13:1–17). In the Ruthenian Greek Catholic Church, the rite was celebrated with special episcopal solemnity in cathedral churches (such as St. George's Cathedral and the Dormition Church in Lviv), performed by the Metropolitan or Bishop vested in full episcopal vestments, assisted by twelve archpriests, priests, and deacons representing the Apostles.
+[^168]: The Order of the Washing of Feet (*Чинъ Оумове́нїю но́гъ* / *Νιπτήρ* / *Niptēr*) on Holy and Great Thursday. An ancient ceremony attested as early as the 4th-century pilgrimage of Egeria and codified in the Byzantine imperial and monastic typika, commemorating Christ's self-emptying love in washing the feet of the twelve disciples at the Mystical Supper (John 13:1–17). In the Ruthenian Greek Catholic Church, the rite was celebrated with special episcopal solemnity in cathedral churches (such as St. George's Cathedral and the Dormition Church in Lviv), performed by the Metropolitan or Bishop vested in full episcopal vestments, assisted by twelve archpriests, priests, and deacons representing the Apostles.
 
 [^169]: The Heirmos of Ode 5 of the Holy Thursday Matins Canon by Saint Cosmas the Melodist (*Союзомъ любве свѧзуеми апли* / *Συνδέσμῳ ἀγάπης συνδεόμενοι οἱ Ἀπόστολοι*), Tone 6, chanted as the procession of clergy, led by the Hierarch, moves from the sanctuary to the elevated dais prepared in the center of the nave for the Foot-Washing.
 
@@ -562,7 +562,7 @@
 
 [^280]: Ikos of the Lament of the Theotokos: *Своего̀ А҆́гнца А҆́гница зрѧ́щи* ("Seeing her own Lamb drawn unto the slaughter..."). Reminiscent of the classical Kontakion of St. Romanos the Melodist on the Passion (*Mary at the Cross*), asking whether there is another marriage in Cana of Galilee.
 
-[^281]: The Prayer of Compline to the Most Holy Theotokos by Paul the Monk of the Monastery of the Benefactress (Evergetis): *А҆́спиле, а҆мо́лѷнте, а҆́фѳоре, а҆́хранте, а҆́гнὴ Па́рѳене* (*Нескве́рнаѧ, небла́знаѧ, нетлѣ́ннаѧ, пречи́стаѧ, неискꙋсобра́чнаѧ* / "O Spotless, undefiled, incorrupt, immaculate, pure Virgin Bride of God").
+[^281]: The Prayer of Compline to the Most Holy Theotokos by Paul the Monk of the Monastery of the Benefactress (Evergetis): *А҆́спиле, а҆мо́лѷнте, а҆́фѳоре, а҆́хранте, а҆́гні̀ Па́рѳене* (*Нескве́рнаѧ, небла́знаѧ, нетлѣ́ннаѧ, пречи́стаѧ, неискꙋсобра́чнаѧ* / "O Spotless, undefiled, incorrupt, immaculate, pure Virgin Bride of God").
 
 [^282]: Codicological rubric: the Midnight Office of Holy and Great Saturday (*Полно́щницꙋ же пое́мъ въ ке́ллїахъ*) is read privately in the cells, without public ecclesiastical chanting, before the solemn nocturnal or dawn Matins of Holy Saturday.
 
@@ -600,7 +600,7 @@
 
 [^299]: Hymnographic mariology: The Mother of God as the Ewe (*А҆́гница*) weeping over her Lamb (*А҆́гнецъ*) led to the slaughter, directly continuing the poetic paradigm of St. Romanos the Melodist's Kontakion *Mary at the Cross*.
 
-[^300]: Physical witnesses of the Resurrection: The empty grave clothes—the linen winding-sheet (*плащани́ца* / *σινδών*) and the napkin that was about His head (*суда́рь* / *σουδάрион*, John 20:6-7)—left behind in the tomb as silent, irrefutable testimony against the slanders of the chief priests.
+[^300]: Physical witnesses of the Resurrection: The empty grave clothes—the linen winding-sheet (*плащани́ца* / *σινδών*) and the napkin that was about His head (*суда́рь* / *σουδάριον*, John 20:6-7)—left behind in the tomb as silent, irrefutable testimony against the slanders of the chief priests.
 
 [^301]: Direct apostrophe to Judas Iscariot: Indicting his feigned concern for the poor at the anointing in Bethany (John 12:4-6) and his covetous betrayal of the uncontainable divine Myrrh for thirty pieces of silver.
 
@@ -710,7 +710,7 @@
 
 [^354]: The Canticle of Moses at the Red Sea (Exodus 15:1-19): Chanted antiphonally with the refrains "Let us sing unto the Lord: for He hath been gloriously glorified!" following the Sixth Reading, standing as the universal Christian canticle of baptismal illumination, resurrection victory over hades, and deliverance from spiritual Pharaoh.
 
-[^355]: The Prophecy of Zephaniah on the Day of the Resurrection: In Zephaniah 3:8, the LXX text explicitly reads: *ὑπόμεινόν με, λέγει Κύριος, εἰς ἡμέραν ἀναστάσεώς μου εἰς μαρτύριον* ("Wait for Me, saith the Lord, unto the day of My resurrection as a witness"), celebrated as a direct prophetic witness of Christ's resurrection.
+[^355]: The Prophecy of Zephaniah on the Day of the Resurrection: In Zephaniah 3:8, the LXX text explicitly reads: *ὑπόμεινόν με, λέγει Κύριος, εἰς ἡμέραν ἀναστάσεώς μου εἰς μαρτύριον* ("Wait for Me, says the Lord, unto the day of My resurrection as a witness"), celebrated as a direct prophetic witness of Christ's resurrection.
 
 [^356]: Elijah, the Widow of Zarephath, and the Inexhaustible Cruse: The miracle of the jar of flour and the cruse of oil that did not fail, followed by the resurrection of the widow's son by Elijah breathing threefold upon him, serves as an Old Testament type of both the inexhaustible Eucharistic gifts and the universal resurrection from the dead.
 
@@ -924,7 +924,7 @@
 
 [^461]: Rubrical and recensional note documenting the liturgical variance between Ruthenian/Slavonic editions (which print the weekday Triodia of Saint Joseph in the Pentecostarion for Liturgy/Matins) and Byzantine Greek usage (which assigns them to Compline together with the Theotokion Canon).
 
-[^462]: The Greek alphabetical acrostic *ᾄδει δὲ σὲ Ἰωσήф* ("Joseph also hymns Thee"), preserved in the printed Slavonic edition with individual marginal letters (*А, Д, Є, І, Д, Є, С, Є, І, Ѡ, С, И, Ф*) marking the successive troparia across Odes 1, 8, and 9 of the Triodion.
+[^462]: The Greek alphabetical acrostic *ᾄδει δὲ σὲ Ἰωσήφ* ("Joseph also hymns Thee"), preserved in the printed Slavonic edition with individual marginal letters (*А, Д, Є, І, Д, Є, С, Є, І, Ѡ, С, И, Ф*) marking the successive troparia across Odes 1, 8, and 9 of the Triodion.
 
 [^463]: *Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́блѧ)* is the widely used Prosomoion melody *Ὡς γενναῖον ἐν μάρτυσιν* (*Я́кѡ до́бля въ мꙋ́ченицѣхъ*), originating from the feast of Saint George the Great-Martyr.
 
@@ -1068,11 +1068,11 @@
 
 [^533]: The weekday Matins canon structure combines the feast's Paschal-Myrrhbearer canon with the canon from the daily Menaion, totaling 12 troparia per ode.
 
-[^534]: The *Prologue* (Church Slavonic: Прологъ; Greek: Συναξάрион) is the traditional Slavonic collection of brief hagiographical lives and moral-edifying patristic narratives arranged by calendar day, read liturgically after Ode 6 of Matins.
+[^534]: The *Prologue* (Church Slavonic: Прологъ; Greek: Συναξάριον) is the traditional Slavonic collection of brief hagiographical lives and moral-edifying patristic narratives arranged by calendar day, read liturgically after Ode 6 of Matins.
 
 [^535]: The Typikon prescribes the standard order of troparia and kontakia at the Divine Liturgy for ferias (weekdays) of the Myrrh-bearers, prioritizing the feast's three troparia followed by temple and Menaion saints, unless superseded by a ranked Polyeleos feast.
 
-[^536]: The Three-Ode Canon (*Triodion*) for Monday of the Myrrh-bearers was composed by St. Joseph the Hymnographer (c. 816–886). Its Greek acrostic ᾍδει τάδε Ἰωσήф ('Joseph sings these') is distributed letter-by-letter across the troparia of Odes 1, 8, and 9.
+[^536]: The Three-Ode Canon (*Triodion*) for Monday of the Myrrh-bearers was composed by St. Joseph the Hymnographer (c. 816–886). Its Greek acrostic ᾍδει τάδε Ἰωσήφ ('Joseph sings these') is distributed letter-by-letter across the troparia of Odes 1, 8, and 9.
 
 [^537]: The rubric refers back to the general rule established on Monday of the Myrrh-bearers (physical leaf p304, fol. 298), directing the alternation of the three troparia ('The noble Joseph...', 'When Thou didst descend unto death...', and 'Unto the Myrrh-bearing women...') at 'God is the Lord' on all weekdays of this third week after Pascha.
 
@@ -1082,15 +1082,15 @@
 
 [^540]: The Tuesday Matins Three-Ode Canon (*Triodion*), composed by St. Joseph the Hymnographer (c. 816–886), bears the Greek acrostic ΧΡΙΣΤΕ ΣΩΣΟΝ ΜΕ (*Christ, save me!*), which is distributed across the initial letters of the troparia in Odes 2, 8, and 9.
 
-[^541]: The Tone 6 Doxasticon *Joseph asked for the Body of Jesus* (Church Slavonic: Просѝ І҆ѡ́сифъ Тѣ́ло І҆и҃сово; Greek: ᾘτήσαто Ἰωσὴφ τὸ σῶμα τοῦ Ἰησοῦ) is drawn from the classic Great Friday Vespers hymnography of St. Symeon the Metaphrast, celebrating the daring petition of the noble counselor before Pontius Pilate.
+[^541]: The Tone 6 Doxasticon *Joseph asked for the Body of Jesus* (Church Slavonic: Просѝ І҆ѡ́сифъ Тѣ́ло І҆и҃сово; Greek: ᾘτήσατο Ἰωσὴφ τὸ σῶμα τοῦ Ἰησοῦ) is drawn from the classic Great Friday Vespers hymnography of St. Symeon the Metaphrast, celebrating the daring petition of the noble counselor before Pontius Pilate.
 
 [^542]: The rubric refers back to the general weekly ordinance established on Monday of the Myrrh-bearers (physical leaf p304, fol. 298r), directing the daily alternation of the three feast troparia (*The noble Joseph...*, *When Thou didst descend unto death...*, and *Unto the Myrrh-bearing women...*) at 'God is the Lord' on all ferias of the third week after Pascha.
 
 [^543]: The abbreviated rubric *Loving-kindness* (Church Slavonic: Бл҃гоꙋтро́бїа) designates the Tone 2 sessional automelon *Being the wellspring of loving-kindness* (Greek: Εὐσπλαγχνίας ὑπάρχουσα πηγή; Church Slavonic: Милосе́рдїѧ / Благоꙋтро́бїѧ сꙋ́щи и҆сто́чникъ), historically appointed for both festal and penitential sessional strophes.
 
-[^544]: The monumental Tone 5 Aposticha Doxasticon *Thee Who clothest Thyself with light as with a garment* (Church Slavonic: Тебѐ Ѡ҆дѣ́ющагося свѣ́томъ ꙗ҆́кѡ ри́зою; Greek: Σὲ τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάтиον) was composed by the 9th-century Byzantine hymnographer Kassiani (Nun Cassia); it forms the emotional climax of Great Friday Vespers, here repeated at Wednesday Matins of the Myrrh-bearers.
+[^544]: The monumental Tone 5 Aposticha Doxasticon *Thee Who clothest Thyself with light as with a garment* (Church Slavonic: Тебѐ Ѡ҆дѣ́ющагося свѣ́томъ ꙗ҆́кѡ ри́зою; Greek: Σὲ τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάτιον) was composed by the 9th-century Byzantine hymnographer Kassiani (Nun Cassia); it forms the emotional climax of Great Friday Vespers, here repeated at Wednesday Matins of the Myrrh-bearers.
 
-[^545]: The Wednesday Matins Three-Ode Canon (*Triodion*), composed by St. Joseph the Hymnographer (c. 816–886), features the Greek acrostic Ἠγέρθη ὁ Σωτήр (*The Savior is risen!*), distributed across the troparia of Odes 3, 8, and 9.
+[^545]: The Wednesday Matins Three-Ode Canon (*Triodion*), composed by St. Joseph the Hymnographer (c. 816–886), features the Greek acrostic Ἠγέρθη ὁ Σωτήρ (*The Savior is risen!*), distributed across the troparia of Odes 3, 8, and 9.
 
 [^546]: The Aposticha sticheron for the Apostles pairs the preeminent Apostles Peter and Paul: Peter called from the Galilean fishermen whose shadow healed the sick (Acts 5:15), and Paul called from among the Jewish Pharisees whose garments and aprons banished diseases and evil spirits (Acts 19:12).
 
@@ -1104,11 +1104,11 @@
 
 [^551]: The rubric refers back to the general weekly ordinance established on Monday of the Myrrh-bearers (physical leaf p304, fol. 298r), directing the daily alternation of the three feast troparia (*The noble Joseph...*, *When Thou didst descend unto death...*, and *Unto the Myrrh-bearing women...*) at 'God is the Lord' on all ferias of the third week after Pascha.
 
-[^552]: The venerable Tone 2 sessional hymn *We venerate Thine immaculate icon, O Good One* (Church Slavonic: Пречⷭ҇томꙋ ѻ҆́бразꙋ твоемꙋ̀ покланѧ́емсѧ Бл҃гі́й; Greek: Τὴν ἄχранτον εἰκόνα σου προσκυνοῦμεν ἀγαθέ) is one of the classic dogmatic troparia of the Byzantine rite defending the veneration of holy images against the iconoclasts, appointed here on Friday in direct connection with the contemplation of Christ's voluntary Crucifixion.
+[^552]: The venerable Tone 2 sessional hymn *We venerate Thine immaculate icon, O Good One* (Church Slavonic: Пречⷭ҇томꙋ ѻ҆́бразꙋ твоемꙋ̀ покланѧ́емсѧ Бл҃гі́й; Greek: Τὴν ἄχραντον εἰκόνα σου προσκυνοῦμεν ἀγαθέ) is one of the classic dogmatic troparia of the Byzantine rite defending the veneration of holy images against the iconoclasts, appointed here on Friday in direct connection with the contemplation of Christ's voluntary Crucifixion.
 
 [^553]: The Friday Matins Three-Ode Canon (*Triodion*), composed by St. Joseph the Hymnographer (c. 816–886), bears the Greek acrostic ΔΟΞΑ ΘΕΩ ΑΜΗΝ (*Glory to God, amen*), distributed across Odes 5, 8, and 9.
 
-[^554]: The Tone 6 Doxasticon *The Myrrh-bearing women, having reached Thy tomb* (Church Slavonic: Мѵроно́сицы жєны̀, гро́ба твоегѡ̀ дости́гша; Greek: Αἱ Μυроφόροι γυναῖκες τοῦ μνήματος ἐπέστησαν) articulates the bewildered lament of the women disciples, who feared that their hope had been stolen away before the reality of the Resurrection was revealed.
+[^554]: The Tone 6 Doxasticon *The Myrrh-bearing women, having reached Thy tomb* (Church Slavonic: Мѵроно́сицы жєны̀, гро́ба твоегѡ̀ дости́гша; Greek: Αἱ Μυροφόροι γυναῖκες τοῦ μνήματος ἐπέστησαν) articulates the bewildered lament of the women disciples, who feared that their hope had been stolen away before the reality of the Resurrection was revealed.
 
 [^555]: The monumental Tone 5 Aposticha Doxasticon *Thee Who clothest Thyself with light as with a garment* (Church Slavonic: Тебѐ Ѡ҆дѣ́ющагося свѣ́томъ ꙗ҆́кѡ ри́зою; Greek: Σὲ τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάτιον) was composed by the 9th-century Byzantine hymnographer Kassiani (Nun Cassia); it forms the liturgical and musical culmination of Great Friday Vespers, repeated here at Friday Vespers of the Myrrh-bearers.
 
@@ -1158,7 +1158,7 @@
 
 [^578]: Ode 9 unites the biblical theophanies of the burning bush seen by Moses (Exodus 3:2), the unhewn mountain seen by Daniel (Daniel 2:34–35, 45), and the budding rod of Jesse prophesied by Isaiah (Isaiah 11:1), all fulfilled in the Virgin Theotokos.
 
-[^579]: The Eastern or Anatolian Resurrection stichera (Ἀνατολικὰ Σтиχηρά), historically attributed in liturgical collections to Patriarch Anatolius of Constantinople (d. 458).
+[^579]: The Eastern or Anatolian Resurrection stichera (Ἀνατολικὰ Στιχηρά), historically attributed in liturgical collections to Patriarch Anatolius of Constantinople (d. 458).
 
 [^580]: The 4th Resurrection Gospel Sticheron (Eothinon / ἑωθινόν) in Tone 3, authored by Emperor Leo VI the Wise (886–912), meditating on the fourth Matins Gospel pericope (Luke 24:1–12).
 
@@ -2110,7 +2110,7 @@
 
 [^1054]: Stichera at the Aposticha, Tone 4: Martyrikon (*Мꙋ́чениченъ*). Physical Leaf p424 (printed fol. 418v). Addressing the holy Martyrs as living, rational sacrifices and unblemished sheep of Christ, petitioning that the faithful may be shepherded alongside them beside the still waters of eternal rest (cf. Ps 22:2 [LXX 22:2 / MT 23:2]).
 
-[^1055]: Thursday Vespers Aposticha: Doxastikon, Tone 6 (*Сла́ва, и҆ ны́нѣ*). Physical Leaf p425 (printed fol. 419r). Concluding Thursday Vespers with Christ's evangelical words unto the Samaritan woman: "If thou knewest the gift of God, and Who it is that saith to thee, Give Me to drink; thou wouldest have asked of Him, and He would have given thee living water" (Jn 4:10).
+[^1055]: Thursday Vespers Aposticha: Doxastikon, Tone 6 (*Сла́ва, и҆ ны́нѣ*). Physical Leaf p425 (printed fol. 419r). Concluding Thursday Vespers with Christ's evangelical words unto the Samaritan woman: "If thou knewest the gift of God, and Who it is that says to thee, Give Me to drink; thou wouldest have asked of Him, and He would have given thee living water" (Jn 4:10).
 
 [^1056]: Friday of the Samaritan Woman, Matins opening rubric: the Resurrection Troparion of Tone 4 (*Светлꙋю воскресенїѧ проповедь*) is chanted at "God is the Lord". Physical Leaf p425 (printed fol. 419r).
 
@@ -2282,7 +2282,7 @@
 
 [^1140]: Saturday Tetraodion, Ode 8: Theotokion (preceded by *Both now*), bearing Greek acrostic initial α (Slavonic А), completing τέτα-. Physical Leaf p433 (printed fol. 427r). The incarnation of the Word from the Virgin Mary to reverse Adam's fall in Eden.
 
-[^1141]: Saturday Tetraodion, Tone 4, Ode 9: Heirmos (*Є҆́vа ᲂу҆́бѡ недꙋ́гомъ преслꙋша́нїѧ*), contrasting Eve's disobedience bringing the curse with the Virgin's childbearing blossoming blessing upon the world. Physical Leaf p433 (printed fol. 427r).
+[^1141]: Saturday Tetraodion, Tone 4, Ode 9: Heirmos (*Є҆́ѵа ᲂу҆́бѡ недꙋ́гомъ преслꙋша́нїѧ*), contrasting Eve's disobedience bringing the curse with the Virgin's childbearing blossoming blessing upon the world. Physical Leaf p433 (printed fol. 427r).
 
 [^1142]: Saturday Tetraodion, Ode 9: first troparion, bearing Greek acrostic initial ρ (Slavonic Р). Physical Leaf p433 (printed fol. 427r). The cosmic portents at Christ's voluntary crucifixion: the rending of the veil and the darkening of the sun (Mt 27:51).
 
@@ -2290,7 +2290,7 @@
 
 [^1144]: Saturday Tetraodion, Ode 9: third troparion (preceded by *Glory*), bearing Greek acrostic initial ο (Slavonic О). Physical Leaf p433 (printed fol. 427r). The Master Who holds creation in His palm condescending to be numbered among the dead to save mankind from the serpent's sting.
 
-[^1145]: Saturday Tetraodion, Ode 9: Theotokion (preceded by *Both now*), bearing Greek acrostic initial ν (Slavonic Н), concluding the acrostic ᾌδω μέλος τέтартон. Physical Leaf p433 (printed fol. 427r). The Mother of God sorrowing at her Son's crucifixion and rejoicing at His third-day Resurrection.
+[^1145]: Saturday Tetraodion, Ode 9: Theotokion (preceded by *Both now*), bearing Greek acrostic initial ν (Slavonic Н), concluding the acrostic ᾌδω μέλος τέταρτον. Physical Leaf p433 (printed fol. 427r). The Mother of God sorrowing at her Son's crucifixion and rejoicing at His third-day Resurrection.
 
 [^1146]: Saturday of the Samaritan Woman, Divine Liturgy liturgical rubrics and Scriptural citations: Prokeimenon and Alleluia of the day; Epistle: Acts pericope 37 [Acts 15:35–41]; Gospel: John pericope 38 [John 10:27–38]; and Communion hymn of the day. Physical Leaf p433 (printed fol. 427r).
 
@@ -2904,7 +2904,7 @@
 
 [^1451]: Rubric for the Midnight Office on the Apodosis of Pascha: chanted according to custom with the censer; substituting the Resurrection Troparion in Tone 5 (*The Word co-unoriginate*) after the first Trisagion in place of *Behold, the Bridegroom comes*, and the Paschal Kontakion after the second Trisagion in place of *Remember, O Lord, for Thou art good*; concluding with 40 repetitions of *Lord, have mercy* and the dismissal, while omitting the prayer for the departed (*Remember, O Lord, in hope...*). Physical Leaf p461 (printed p. 455 / fol. 455r).
 
-[^1452]: Title and Matins opening rubric for Wednesday of the Sixth Week after Pascha (the Apodosis or Apodosis of Pascha): the priest begins with the censer before the open Royal Doors, proclaiming *Glory to the holy, consubstantial...*, chanting *Christ is risen from the dead...* with the Paschal verses as on the eve; followed by the Superior or Reader reciting the Lesser Doxology (*Glory to God in the highest...*) and the customary Six Psalms. Physical Leaf p461 (printed p. 455 / fol. 455r).
+[^1452]: Title and Matins opening rubric for Wednesday of the Sixth Week after Pascha (the Apodosis of Pascha): the priest begins with the censer before the open Royal Doors, proclaiming *Glory to the holy, consubstantial...*, chanting *Christ is risen from the dead...* with the Paschal verses as on the eve; followed by the Superior or Reader reciting the Lesser Doxology (*Glory to God in the highest...*) and the customary Six Psalms. Physical Leaf p461 (printed p. 455 / fol. 455r).
 
 [^1453]: Rubric for *God is the Lord* (Ps. 117:27 LXX) and the Resurrection Troparion in Tone 5 (*The Word co-unoriginate with the Father and the Spirit...*), chanted twice, followed by *Glory... Both now...* and its Theotokion. Physical Leaf p461 (printed p. 455 / fol. 455r).
 
@@ -5138,7 +5138,7 @@
 
 [^2568]: Headpiece and rubrics for the Midnight Office (*на Полꙋ́нощницѣ*) of Bright Monday of the Holy Spirit (*Въ Понедѣ́лникъ ст҃а́гѡ Дх҃а*), noting that by some traditions the day is dedicated to the Life-Creating Trinity (*Живонача́льныѧ Трⷪ҇цы*); the customary memorial prayers for the departed are omitted throughout Bright Week and the post-festal period of Pentecost.
 
-[^2569]: Service opening for Matins on Bright Monday of the Holy Spirit (*День Свѧта́гw Дх҃а*).
+[^2569]: Service opening for Matins on Bright Monday of the Holy Spirit (*День Свѧта́гѡ Дх҃а*).
 
 [^2570]: Rubric for the singing of *God is the Lord* (*Бо́гъ Госпо́дь* / Ps. 117:27, 26 LXX) and the threefold repetition of the Pentecost Dismissal Troparion (*Благослове́нъ еси́, Христе́ Бо́же на́шъ*).
 
@@ -5156,7 +5156,7 @@
 
 [^2577]: Headpiece for the Synaxarion of Monday after Pentecost, dedicated explicitly to the Third Person of the Holy Trinity, the All-Holy and Life-Creating Spirit (*Сѷнаѯа́рь, въ Понедѣ́лникъ по Пѧтдесѧ́тницѣ, сїе́сть, ст҃а́гѡ Дх҃а*), composed by Nicephorus Callistus Xanthopoulos (c. 1256–1335).
 
-[^2578]: Opening iambic stichoi of the Synaxarion, translating the Greek original: *Πᾶσα πνοὴ δόξαζε Πνεῦμα Κυρίου, / ᾯ τῶν πονηρῶν πνευμάτων φроῦδα θράση* (*Let every breath glorify the Spirit of the Lord, by Whom the audacity of the evil spirits fell*).
+[^2578]: Opening iambic stichoi of the Synaxarion, translating the Greek original: *Πᾶσα πνοὴ δόξαζε Πνεῦμα Κυρίου, / ᾯ τῶν πονηρῶν πνευμάτων φροῦδα θράση* (*Let every breath glorify the Spirit of the Lord, by Whom the audacity of the evil spirits fell*).
 
 [^2579]: Theological opening of the Synaxarion treatise, setting forth the feast of the Holy Spirit as equal in honor, consubstantial, and co-glorious with the Father and the Son, commemorated on Monday to give distinct honor to the Paraclete.
 
@@ -5736,7 +5736,7 @@
 
 [^2867]: Physical leaf p635 corresponds to printed folio 629 (`х҃кѳ`). Conclusion of the Aposticha on Thursday Evening, Dismissal, and Matins on Friday (Day 2 of the Octave) with Stichera at the Aposticha.
 
-[^2868]: For the Sessional Hymns at Matins on Friday, the rubric directs the reader back to printed folio 617 (`х҃зi`, physical leaf p623).
+[^2868]: For the Sessional Hymns at Matins on Friday, the rubric directs the reader back to printed folio 617 (`х҃зі`, physical leaf p623).
 
 [^2869]: The Stichera at the Aposticha at Friday Matins are sung to the melodic model *Tone 6, Podoben: "Having risen on the third day" (Тридне́венъ воскре́слъ)*.
 
@@ -5774,7 +5774,7 @@
 
 [^2886]: Physical leaf p640 corresponds to printed folio 634 (`х҃лд`). Conclusion of Sunday Evening Aposticha, Doxasticon in Tone 8, and Matins on Monday (Day 5 of the Octave) with Stichera at the Aposticha in Tone 4 and Doxasticon in Tone 2.
 
-[^2887]: The Aposticha Doxasticon in Tone 8 weaves together Christ's invitation in John 7:37–38 ("If any man thirst, let him come unto Me, and drink. He that believs on Me, as the scripture hath said, out of his belly shall flow rivers of living water") with John 6:56.
+[^2887]: The Aposticha Doxasticon in Tone 8 weaves together Christ's invitation in John 7:37–38 ("If any man thirst, let him come unto Me, and drink. He that believes on Me, as the scripture hath said, out of his belly shall flow rivers of living water") with John 6:56.
 
 [^2888]: The Stichera at the Aposticha at Monday Matins are sung to the melodic model *Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́блѧ)*.
 

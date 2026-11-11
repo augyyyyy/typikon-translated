@@ -92,7 +92,7 @@ Holy Trinity, have mercy on those whom Thou didst create, and deliver them from 
 
 *Glory, both now: Theotokion:*
 
-Filled with many wounds, Thy servants, by the invisible arrows of the destroyer, and lying upon the bed of despair, O Lady, we cry: Despise not our supplication, who flee unto thee in faith!
+Filled with many wounds, thy servants, by the invisible arrows of the destroyer, and lying upon the bed of despair, O Lady, we cry: Despise not our supplication, who flee unto thee in faith!
 
 *Ode 4:*
 

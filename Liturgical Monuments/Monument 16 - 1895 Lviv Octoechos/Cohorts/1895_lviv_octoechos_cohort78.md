@@ -119,7 +119,7 @@
 *Both now...* The Word Who was incarnate beyond mind and word didst thou bear, O pure Virgin, Who delivered us from unreason; therefore with divine words we unceasingly hymn thee, and faithfully glorify thee.[^8307]
 
 *Then: Lord, have mercy (thrice). Glory... Both now...*[^8308]
-*Sessional Hymn, Tone 7:* O Sovereign Lady, Thy Son hath been angered against us, thy sinful servants, for we turned Him that is merciful unto wrath; but change Him unto mercy, O Pure One! Have compassion, O Mother of God; pray the tender-hearted One with spontaneous supplications, and deliver the captives.[^8309]
+*Sessional Hymn, Tone 7:* O Sovereign Lady, thy Son hath been angered against us, thy sinful servants, for we turned Him that is merciful unto wrath; but change Him unto mercy, O Pure One! Have compassion, O Mother of God; pray the tender-hearted One with spontaneous supplications, and deliver the captives.[^8309]
 
 *Ode 7. Heirmos:* Cast into the fiery furnace, the venerable Children turned the fire into dew by their singing, crying aloud thus: Blessed art Thou, O Lord God of our fathers.[^8310]
 
@@ -130,7 +130,7 @@
 === LEAF p776 ===
 *Glory...* Cease not at all to pray thy Son for our sake, O most pure Mother of God, delivering thy servants by thy prayers from human sorrows and afflictions.[^8313]
 
-*Both now...* The transcendent Son received flesh without change from thee, O Virgin, and became man, that He might save those who sing: Blessed art Thou, O Most Pure One, and blessed is the Fruit of thy womb.[^8314]
+*Both now...* The transcendent Son received flesh without change from thee, O Virgin, and became man, that He might save those who sing: Blessed art thou, O Most Pure One, and blessed is the Fruit of thy womb.[^8314]
 
 *Ode 8. Heirmos:* The Children in the furnace, being bedewed, cried aloud: Let all creation bless Him Who created all things by His word, and supremely exalt Him unto all ages.[^8315]
 

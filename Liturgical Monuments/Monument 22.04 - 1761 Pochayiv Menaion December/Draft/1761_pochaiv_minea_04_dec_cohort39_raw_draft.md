@@ -100,7 +100,7 @@
 *What is Thy great and inscrutable poverty, for the sake of which Adam has been enriched with divine things? cried the Virgin, holding in her embrace Emmanuel, God and Creator, Who received flesh from her; unto Whom we cry: Blessed art Thou Who wast born, O our God, glory to Thee!*
 *Verse: The Lord said unto my Lord: Sit Thou at My right hand.*
 *As the noetic morning dawn, O Virgin, thou didst shine forth Christ the Sun, holding Him in thine embrace; by Whom the entire rational nature is enlightened with the brightness of perfect knowledge, and is counted worthy of incorruption, faithfully crying: Blessed art Thou Who wast born, O our God, glory to Thee!*
-*Glory, in the same tone and podoben:*
+*Glory, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 *Now is the Child revealed on earth, Who was begotten of the Father before the ages: let all creation rejoice, let the heavens be glad, beholding those who before were cast off now reunited unto God, and crying unto Him: Blessed art Thou Who wast born, O our God, glory to Thee!*
 *Now and ever:*
 *With fiery lips the transcendent powers on high praise Him that was born in the cave, for His ineffable mercy: may we also be counted worthy to praise Him with clay tongues, unceasingly crying unto Him: Blessed art Thou Who wast born, O our God, glory to Thee!*

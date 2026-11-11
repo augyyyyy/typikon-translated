@@ -61,7 +61,7 @@ Standing before the throne of the Thrice-Radiant Godhead, and richly...
 
 *Then the Entrance, the Prokeimenon of the day, and three readings for venerable monks: seek in the beginning of this book, Folio 4 on the reverse.*[^695]
 
-*At the Aposticha, Stichera, Tone 1, Podoben: "Joy of the ranks of heaven" (До́ме є҆vфра́ѳовъ):*[^696]
+*At the Aposticha, Stichera, Tone 1, Podoben: "Joy of the ranks of heaven" (До́ме є҆ѵфра́ѳовъ):*[^696]
 O God-chosen laborers, our venerable fathers of the Caves, ye planted upon earth an intelligible vineyard of virtues, wherefrom there grew up for you the worthy fruit of eternal life!
 
 *Verse: The venerable shall boast in glory, and they shall rejoice upon their beds.*[^697]

@@ -107,10 +107,10 @@ Having taken up the Cross from infancy, O father, thou didst diligently and most
 
 The matter of wonders belongs to every virtue, O divinely wise one, wherewith also formerly in the flesh upon earth, observing silence, O venerable one, and speaking afterwards by words and deeds, humble, meek, and guileless, and an exceedingly eloquent prophetic herald; but all the more now, when having ascended unto God Thou wast made marvelous, and receivedst the grace of healings.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Slipping into evil ways and enslaved by crafty deceit, O Bride unwedded, unto thy most marvelous compassion and fervent protection, O all-holy Maiden, do I the wretched one flee. Deliver me from the bond of temptations and sorrows, and save me, O all-immaculate one, from the constraints of demons; that I may glorify thee, and sing in love, and worship, and magnify thee, O Sovereign Lady, who art ever-blessed.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 A sword, even as Symeon said, pierced thy heart, O most pure Sovereign Lady, when thou didst behold Him Who shone forth from thee by an ineffable Word, by the lawless...
 
 === LEAF p245 ===

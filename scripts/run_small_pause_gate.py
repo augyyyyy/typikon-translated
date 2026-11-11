@@ -817,6 +817,56 @@ def run_gate(
         print(f"  FAILED: {type_gate_data.get('violation_count', 1)} monument-type / epigraphic pre-check violations")
     master_report["gates"]["monument_type_policy"] = type_gate_data
 
+    # Gate 4C (Vector 5C): Orthographic Authenticity & Fake-Archaism Interceptor on Source Text
+    print("\n[Gate 4C / Vector 5C] Auditing Source Text for synthetic 'Ѿц'/'ѿц' hyper-corrections...")
+    from scripts.audit_transcript_trajectory import (
+        audit_source_orthographic_authenticity,
+        heal_source_orthographic_hypercorrections,
+        audit_cohort_subagent_trajectory,
+    )
+    src_cohort_file = ws / "Source Text" / f"{monument_id}_cohort{cohort_num}_source.txt"
+    v5c_data = audit_source_orthographic_authenticity(src_cohort_file)
+    if not v5c_data.get("passed", True) and src_cohort_file.exists():
+        raw_s = src_cohort_file.read_text(encoding="utf-8")
+        healed_s, healed_cnt = heal_source_orthographic_hypercorrections(raw_s)
+        if healed_cnt > 0:
+            src_cohort_file.write_text(healed_s, encoding="utf-8", newline="\n")
+            v5c_data = audit_source_orthographic_authenticity(src_cohort_file)
+            v5c_data["self_healed_count"] = healed_cnt
+            print(f"  PASSED (Self-healed {healed_cnt} synthetic 'Ѿц'/'ѿц' hyper-corrections in {src_cohort_file.name})")
+    elif v5c_data.get("passed", True):
+        print("  PASSED (Zero synthetic 'Ѿц'/'ѿц' orthographic hyper-corrections)")
+    else:
+        all_passed = False
+        print(f"  FAILED: {v5c_data.get('violation_count', 1)} synthetic 'Ѿц'/'ѿц' hyper-corrections in {src_cohort_file.name}")
+    master_report["gates"]["orthographic_authenticity_v5c"] = v5c_data
+
+    # Gate 4D (Vector 7 & 11): Subagent JSONL Transcript Trajectory & Sandbox Audit
+    print("\n[Gate 4D / Vector 11] Auditing Subagent JSONL Transcript Trajectory & Sandbox Integrity...")
+    traj_data = audit_cohort_subagent_trajectory(
+        monument_id=monument_id,
+        cohort_num=cohort_num,
+        expected_leaves=cohort_leaves,
+        ws=ws,
+    )
+    master_report["gates"]["subagent_trajectory"] = traj_data
+    traj_quarantine_leaves: List[int] = traj_data.get("contaminated_leaves", [])
+    traj_quarantine_reasons: List[str] = [
+        f"vector11_{v.get('type', 'sandbox_violation')}" for v in traj_data.get("violations", [])
+    ]
+    if not traj_data.get("transcript_found"):
+        print("  PASSED (Transcript telemetry skipped: no matching subagent session in local brain directory)")
+    elif traj_data.get("passed", True):
+        print(
+            f"  PASSED (Session {traj_data.get('conversation_id')}: {len(traj_data.get('viewed_leaves', []))} leaves witnessed, "
+            f"0 web/sandbox violations, tool waste={traj_data.get('tool_call_waste_pct', 0.0):.1f}%)"
+        )
+    else:
+        print(
+            f"  [TRAJECTORY CONTAMINATION — ROUTED TO ARGON] Session {traj_data.get('conversation_id')}: "
+            f"{len(traj_data.get('violations', []))} sandbox/web violations attributed to leaves {traj_quarantine_leaves}"
+        )
+
     master_report["overall_status"] = "PASSED" if all_passed else "FAILED"
 
     # Gate 5: Argon Review Queue Signal Collector (Phase 1 -> Phase 2)
@@ -826,6 +876,8 @@ def run_gate(
         cohort_num=cohort_num,
         ws=ws,
         target_text=target_text,
+        quarantine_reasons=traj_quarantine_reasons if traj_quarantine_leaves else None,
+        quarantine_leaves=traj_quarantine_leaves if traj_quarantine_leaves else None,
         footnotes_file=footnotes_file,
         fn_symmetry_passed=fn_symmetry_passed,
         mon_info=mon_info,

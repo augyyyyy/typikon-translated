@@ -111,7 +111,7 @@ With precious hymns, ye men, sing with the Angels unto Him Who is risen on the t
 Thou didst appear unto Thine ordained Apostles, O Savior, while the doors were shut, renewing for us through them Thy Holy Spirit!  
 *Stichos:* For He hath strengthened the bars of thy gates. (Ps. 147:2)  
 Having seen Thee now, not with our eyes, but having believed in God with heartfelt love, we magnify Thee in hymns!  
-*Glory: Both now: In the same Tone and Podoben:*  
+*Glory: Both now: In the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 Granting the Savior and Redeemer unto the world, grant also unto Thy people remission of debts, through the prayers of the all-pure, only Mother of God!  
 *Then:* Now lettest Thou Thy servant depart in peace, O Master... *Troparion, Tone 7:*  
 While the tomb was sealed, Thou didst shine forth Life from the tomb, O Christ God; and while the doors were shut, Thou didst stand among the disciples, the Resurrection of all, renewing an upright spirit in us through them, according to Thy great mercy!  
@@ -151,7 +151,7 @@ O Lover of mankind, great and unsearchable is the multitude of Thy compassions! 
 *Then:* Now lettest Thou Thy servant depart in peace... *After "Our Father": Troparion, Tone 7 (thrice):* While the tomb was sealed... *(see fol. 200). And the Blessing of Loaves. And the Reading of the Acts of the Holy Apostles, or the Homilies of John of Golden Speech.*  
 
 *If anywhere for a justifiable reason a Vigil cannot be celebrated, we sing the Triadic Canon of the Octoechos for the Angelic Tone, sung at the Midnight Office, whose acrostic or (*краегране́сїе*) is:[^529]*  
-(`ΜΙΑΝ ΣΕ ΜΕЛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН`)
+(`ΜΙΑΝ ΣΕ ΜΕΛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН`)
 *That is: "Singing, I hymn Thee, the one Tri-radiant Nature." A creation of Metrophanes of Smyrna, Tone 4: "Thy victorious right hand."*  
 *It is fitting to know that from this Sunday even unto All Saints, we make the first reading from the Acts of the Apostles; and when they are finished, we begin the Homilies of Chrysostom, and begin them again. At the conclusion of such reading, we say: "Having heard...", that is, the Six Psalms, and the rest of Matins.*  
 

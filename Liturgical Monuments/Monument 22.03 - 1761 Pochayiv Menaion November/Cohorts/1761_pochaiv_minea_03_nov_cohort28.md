@@ -113,17 +113,17 @@ Thou wast a sacred vessel of Christ, O father, a pillar of the Church, and a hav
 Having given birth unto the timeless Light, Who shone forth from the Father, enlighten my soul and mind, O Maiden, driving far from me the darkness of passions, that I may call thee blessed, the ever-blessed hope of the faithful.
 
 *Exapostilarion of Saint Amphilochius.*
-*Tone 2, Podoben: "With the disciples" (Uchenikom):*
+*Tone 2, Podoben: "With the disciples" (Оу҆ченикѡ́мъ зрѧ́щымъ):*
 Having become god by adoption[^1036] through the immaterial communion of the divine nature, O all-wise one, thou wast anointed by Angels as a hierarch of the divine clergy; mediating between the Creator and creation, O divinely receptive father Amphilochius. Therefore, celebrating thy memory, we hymn thee, being delivered by thy prayers from corruption and tribulations.
 
 *Glory, of Saint Gregory:*
 Having adorned thy life through asceticism, O wise father, thou didst appear as an honorable hierarch of the Church of Christ, O blessed Gregory, enlightening the Orthodox with the beams of thy teachings and with unutterable wonders. Therefore, ask by thy prayers salvation of soul for those who celebrate thy most holy dormition.
 
 *Both now, of the Feast.*
-*Tone 2, Podoben: "Hear, ye women" (Zheny uslyshite):*
+*Tone 2, Podoben: "Hear, ye women" (Жє́ны оу҆слы́шите):*
 Her whom of old the prophetic company foreannounced as the jar, the rod, the tablet, and the unquarried mountain: Mary, the Maiden of God, let us faithfully praise; for today is she led into the Holy of Holies to be brought up for the Lord.
 
-*Aposticha Stichera, Tone 2. Podoben: "O house of Ephratha" (Dome Evfrathov):*
+*Aposticha Stichera, Tone 2. Podoben: "O house of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 The partition of the cities hath truly been gilded with gold by the divine entrance of the Theotokos; and we on earth are now united with the heavenly ones.
 
 *Verse: The virgins that follow after her shall be brought unto the King; those near her shall be brought unto Thee.*
@@ -151,7 +151,7 @@ Thy priests shall be clothed with righteousness, and Thy venerable ones shall re
 
 *On the 24th Day of the Same Month: The Holy Great-Martyr Catherine, and the Holy Great-Martyr Mercurius:*
 
-*At "Lord, I have cried", Stichera of the Saint, Tone 1. Podoben: "Joy of the celestial ranks" (Nebesnykh chinov):*
+*At "Lord, I have cried", Stichera of the Saint, Tone 1. Podoben: "Joy of the celestial ranks" (Небє́сныхъ чинѡ́въ):*
 Today the city of Alexandria rejoices, wisely possessing thy swaddling-clothes in thy divine temple, O martyr. Therefore, we also piously celebrate thy venerable memory, O Catherine; pray thou for those who honor thee.
 
 Let us now celebrate the memory of Catherine; for she in truth valiantly cast down all the power of the enemy, both by word and by deed, and the opposition of the rhetors; but by her prayers deliver us, O God, from godless foes.
@@ -159,7 +159,7 @@ Let us now celebrate the memory of Catherine; for she in truth valiantly cast do
 Rejoice, all-glorious and venerable martyr Catherine; for on Mount Sinai, wherein Moses saw the unburnt bush, Christ, having now translated thy God-pleasing body, keeps it preserved even unto the time of His Second Coming.[^1037]
 
 === LEAF p276 ===
-*Other Stichera, of the Martyr [Mercurius], Tone 4. Podoben: "As one noble" (Yako dobla):*
+*Other Stichera, of the Martyr [Mercurius], Tone 4. Podoben: "As one noble" (Ꙗ҆́кѡ до́блѧ):*
 By the assistance of the Spirit, O passion-bearer Mercurius, having overcome the adversary as an invincible soldier, with the weapon of faith thou didst cut down myriads of spiritual Ethiopians;[^1038] and having lawfully accomplished thy contest, thou wast crowned together with all the sufferers, O most blessed great-martyr.
 
 From heaven an Angel was sent unto thee to heal thy wounds by the beck of the Divine Spirit; having been healed thereby, O right-renowned one, when thou wast pierced most fiercely with red-hot spikes, thou didst endure hanging and being stretched out, and being bound unto a heavy stone, and being bathed everywhere with thy blood, O martyr.
@@ -172,7 +172,7 @@ Let us run joyfully unto the festival of the divinely wise martyr Catherine, O l
 *Both now, Tone 8:*
 After thy birth, O Bride of God and Sovereign Lady, thou didst come into the temple of the Lord to be brought up in the Holy of Holies as consecrated. Then Gabriel also was sent unto thee, the all-immaculate one, bringing thee food. All the heavenly ones were astonished, beholding the Holy Spirit dwell within thee. Therefore, O all-pure and undefiled Mother of God, who art glorified in heaven and upon earth, save our race.
 
-*At the Aposticha, of the Feast, Tone 4. Podoben: "Joy of the celestial ranks" (Nebesnykh chinov):*
+*At the Aposticha, of the Feast, Tone 4. Podoben: "Joy of the celestial ranks" (Небє́сныхъ чинѡ́въ):*
 Come, all ye lovers of the feasts, let us honor with songs the only pure Theotokos and Virgin; for into the house of God is she led today to dwell brightly therein: the truly holiest temple of Christ, and the mediatress of joy...
 === LEAF p277 ===
 ...and the mediatress of all joy.
@@ -205,12 +205,12 @@ Thy martyr, O Lord, Mercurius, in his contest received an incorruptible crown fr
 
 *At Matins, at "God is the Lord", Troparion of the Feast, twice; and of Catherine, once. Glory, of the Martyr; Both now, of the Feast.*
 
-*After the 1st Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Kameni zapechatannu):*
+*After the 1st Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Ка́мени запеча́танꙋ):*
 Praise, O virgins! Celebrate, O mothers! Glorify, O peoples! Bless, O priests, the all-pure Mother of God! For being an infant in the flesh, she was of old brought into the temple, as the holiest temple of God. Therefore, celebrating a spiritual festival, let us hymn her as the protectress of the human race.
 
 *Glory, Both now, the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Kameni zapechatannu):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Ка́мени запеча́танꙋ):*
 Being the Holy of Holies, O Theotokos, thou wast worthily brought to dwell in the Holy of Holies, as an animate ark of the Lord, and truly a divine dwelling-place of the Holy Spirit, O Virgin Mother. Therefore, He Who is Only-begotten unto the Father and co-essential with the Holy Spirit, even Thy Son, dwelt within thee without knowing man, deifying all humanity.[^1040]
 
 *Glory, Both now, the same.*

@@ -148,7 +148,7 @@ def main():
     proj_root = Path(__file__).resolve().parent.parent
     # Check if inside brain directory or project directory
     if "brain" in str(proj_root):
-        output_dir = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\scratch\reports")
+        output_dir = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation\scratch\reports")
     else:
         output_dir = proj_root / "scratch" / "reports"
     output_dir.mkdir(parents=True, exist_ok=True)

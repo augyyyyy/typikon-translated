@@ -1,7 +1,7 @@
 import os
 import re
 
-projects_dir = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects"
+projects_dir = r"C:\Users\augus\Documents\Google Antigravity\Projects"
 
 for root, dirs, files in os.walk(projects_dir):
     for file in files:

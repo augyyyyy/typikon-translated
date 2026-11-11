@@ -50,7 +50,7 @@ Ye were bereft of your children, O lovely couple, by a greater ascetic contest, 
 *Glory, both now and ever, Theotokion:*
 Rejoice, shoot from the root; rejoice, divine rod of Aaron that budded forth the unfading flower; fruitful paradise, living tree that cleanly blossomed forth from the root of Jesse, O Maiden, nourishing earthborn men with the noetic Bread; rejoice, all-honorable purple robe of the King of all, O Bride of God, radiant adornment, splendor of high priests; rejoice, thou who alone art all-pure![^233]
 
-*Stavrotheotokion. Podoben the same:*
+*Stavrotheotokion. Podoben the same (Подо́бенъ то́йже):*
 When the undefiled ewe-lamb of old, the blameless Mistress, beheld upon the wood of the Cross her Lamb, as a mother she cried aloud, and wondering cried out: O sweetest Child, what is this new and most glorious sight? How has the ungrateful assembly delivered Thee unto the judgment seat of Pilate, and condemns unto death the Life of all? Yet I hymn Thine ineffable condescension, O Word![^234]
 
 *At Matins, at "God is the Lord", Troparion of the Apostle, twice:*

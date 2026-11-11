@@ -578,7 +578,7 @@
 
 *Holding the Master in his arms with fear and joy, Symeon asked release from life, praising the Mother of God.*
 
-*Glory... Both now... Tone 6. Podoben the same:*
+*Glory... Both now... Tone 6. Podoben the same (Подо́бенъ то́йже):*
 
 *Receive into thine embrace as an infant, O Symeon, cried out the all-immaculate one, the Lord of glory, and the salvation of the world!*
 
@@ -1399,7 +1399,7 @@ In thee, O father, was preserved with certainty that which is according to the i
 Rejoice, O Virgin Birthgiver of God, full of grace; for from thee hath shone forth the Sun of righteousness, Christ our God, Who enlightens those in darkness. Rejoice thou also, O righteous elder, who received in thine arms the Deliverer of our souls, Who grants us resurrection.
 
 *At Matins, at "God is the Lord," the Troparion of the Feast, twice; Glory..., of the Saint; Both now..., of the Feast.*
-*After the 1st Kathisma, Sessional Hymn, Tone 1, Podoben:*
+*After the 1st Kathisma, Sessional Hymn, Tone 1, Podoben (Подо́бенъ):*
 
 *Podoben: "The angelic choir" (Ли́къ а҆́гглскїй):*
 Being with the Father on the holy throne, having come upon earth He was born of the Virgin, and became an infant, Who is uncircumscribed in years; Whom Symeon, having received into his hands, rejoicing said: Now lettest Thou Thy servant depart, O Compassionate One, having gladdened him.
@@ -1911,7 +1911,7 @@ Now release me unto true life, Symeon cried aloud, O my Savior; for I have seen 
 
 Anna the chaste and venerable prophetically confessed Him Who sprouted from the Virgin for the deliverance of those on earth.
 
-*Glory..., both now... Tone and Podoben the same:*
+*Glory..., both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Rejoice, thou who didst receive joy for the world, Christ the Giver of Life, and didst put an end to the grief of our ancestral mother, O Virgin.
 
 *On the same month, on the 6th day: Our Venerable Father Bucolus, Bishop of Smyrna.*[^233]
@@ -2217,7 +2217,7 @@ An infant in the flesh, * the Ancient of Days, * is seen most gloriously; * on t
 *Verse: A light for revelation unto the gentiles, and the glory of Thy people Israel.*
 Receive, O Symeon, * cried the all-immaculate one * in the sanctuary, * as an infant, * the Lord of glory and salvation of the world.
 
-*Glory... Both now... the same Tone and Podoben:*
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 A great and awesome mystery * and strange dispensation: * He Who encompasses all things * and fashions infants, * is carried as an infant in arms!
 
 *On the Seventh Day of the Same Month: Our Venerable Father Parthenius, Bishop of Lampsacus; and our Venerable Father Luke of Hellas:*
@@ -2638,7 +2638,7 @@ Present in the sanctuary in spirit, the Elder took into his arms the Master of t
 
 *Glory... Both now... the same.*
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfrathov):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 Bearing the Creator and Master as an infant in her arms, the pure and all-immaculate Virgin enters into the church.
 
 *Verse: Now lettest Thou Thy servant depart in peace, O Master, according to Thy word.*
@@ -2650,14 +2650,14 @@ Receive, O Simeon, the Lord of glory, as it was revealed unto thee by the Holy S
 
 ...Now have mine eyes seen Thy promise, O good God; quickly loose me, Thy servant, O Lover of mankind.
 
-*Glory... Both now... Tone 2, the same Podoben:*
+*Glory... Both now... Tone 2, the same Podoben (Подо́бенъ то́йже):*
 Rejoice, thou who didst receive the Joy of the world, Christ the Giver of life, and didst cause the sorrow of our foremother to cease, O Virgin.
 
 *On the eighth day of the same month: the holy Great-Martyr Theodore the Stratelates; and the holy Prophet Zechariah who saw the sickle.[^288]*
 
 *At "Lord, I have cried," Stichera of the Martyr, 3; and of the Prophet, 3.*
 
-*Stichera of the Martyr, Tone 4, Podoben: "As one noble" (Yako dobla):*
+*Stichera of the Martyr, Tone 4, Podoben: "As one noble" (Ꙗ҆́кѡ до́блѧ):*
 A valiant sufferer, an invincible soldier, wast thou shown to be by the Holy Spirit, having cast down the adversary by the wisdom of thy words and by the patient manifestations of thy deeds, O wise one; therefore hast thou received the crowns of victory, and art joined with the choirs on high, O Great-Martyr Theodore.
 
 *Sticheron:*
@@ -2666,7 +2666,7 @@ A divine pillar of piety wast thou, O exceedingly rich one, abhorring the temple
 *Sticheron:*
 Lifted up upon a cross, and scraped upon thy flesh, and pierced with sharp arrows, and stretched upon the tree, and severed with swords, and encompassed with all manner of torturous contrivances, thou wast shown to be unyielding and unconquerable by the power of Him Who was nailed to the Cross, O Theodore, glory of martyrs.
 
-*Other Stichera, of the Prophet, Tone 2, Podoben: "What shall we call you" (Chto vas narechem):*
+*Other Stichera, of the Prophet, Tone 2, Podoben: "What shall we call you" (Что̀ ва́съ нарече́мъ):*
 Having an angel-like life, thou didst openly converse with the angels, O divinely blessed one, having thine intellect illuminated by them with things beyond mind: a purification of marvelous figures, a revelation of great mysteries, a prophetic illumination and spiritual uplifting; pray thou that our souls may be saved.
 
 *Sticheron:*
@@ -2685,7 +2685,7 @@ As one whose name bespeaks the gifts of God,[^289] and an heir of His beatitude,
 *Both now... of the Feast, the same Tone:*
 He Who is borne upon the Cherubim and hymned by the Seraphim, today being brought into the divine sanctuary according to the Law, sits as upon a throne in the arms of the Elder, and from Joseph receives gifts in a manner becoming God: as a pair of turtledoves, the undefiled Church and the newly chosen people from the Gentiles; and two young pigeons, as Author of both the Old and the New. Simeon, having received the fulfillment of the promise made unto him, blessed Mary the Virgin Birthgiver of God, and proclaimed the figures of the sufferings that would come from Her; and he asked release from Him, crying aloud: Now dismiss me, O Master, as Thou didst tell me beforehand; for I have seen Thee, the Pre-eternal Light, and the Savior Lord of the people named after Christ.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfrathov):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 Today the heavenly gates are opened: for Christ, as an infant, is brought into the church by the Virgin Mother unto God and the Father.
 
 *Verse: Now lettest Thou Thy servant depart in peace, O Master, according to Thy word.*
@@ -2712,12 +2712,12 @@ Rejoice, O Birthgiver of God, Virgin full of grace; for from thee hath shone for
 
 *At Matins, at "God is the Lord," the Troparion of the Feast, twice; Glory... of the Martyr; Both now... of the Feast.*
 
-*After the first Kathisma, Sessional Hymn, Tone 3, Podoben: "The beauty of virginity" (Krasote devstva):*
+*After the first Kathisma, Sessional Hymn, Tone 3, Podoben: "The beauty of virginity" (Красотѣ̀ дв҃ства):*
 Holding Thee incarnate, O Christ, holy Simeon rejoiced: Now lettest Thou Thy servant depart, O Master, he cried; and Anna, the blameless and glorious prophetess, now offers thanksgiving and praise unto Thee. And we, O Giver of life, cry unto Thee: Glory be to Thee Who wast thus well pleased!
 
 *Glory... Both now... the same.*
 
-*After the second Kathisma, Sessional Hymn, Tone 8, Podoben: "The shepherds' pipes" (Svireley pastyrskikh):*
+*After the second Kathisma, Sessional Hymn, Tone 8, Podoben: "The shepherds' pipes" (Свирѣ́лей па́стырскихъ):*
 Thou wast born on earth, Who art co-unoriginate with the Father; Thou wast brought into the church, Who art incomprehensible; and rejoicing, the Elder took Thee into his arms, crying aloud: Now lettest Thou him whom Thou hast visited depart according to Thy word, O Thou Who as God wast well pleased to save mankind.
 
 *Glory... Both now... the same.*
@@ -3402,10 +3402,10 @@ When thy blessed and patient body was pierced with nails, O sufferer Charalampes
 *Sticheron:*
 A radiant joy and all-honorable glory didst thou inherit having suffered, and everlasting rejoicing, O venerable captive,[^308] honorable sufferer, valiant warrior, who by the streams of thy blood didst manifestly drown the army and host of the dragon by grace; and by divine prayer didst truly raise the dead, praying with boldness for our souls.
 
-*Glory... Both now... Theotokion, the same Podoben:*
+*Glory... Both now... Theotokion, the same Podoben (Подо́бенъ то́йже):*
 Wounded by the bandit assaults of demons, and lying completely helpless on the path of this present life, O all-immaculate one, and in need of mercy, visit me speedily, pouring wine and oil upon my incurable wounds, and restore me unto health, that I may glorify thee and with love dutifully hymn thy great deeds, O pure and only Virgin Mother.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 A sword pierced thy heart, as Simeon said [Luke 2:35], O most pure Lady, when thou didst behold Him Who shone forth from thee by an ineffable word, lifted up upon the Cross by the lawless as one condemned, tasting vinegar and gall, pierced in His side, and His hands and feet nailed; and weeping, thou didst cry out, lamenting maternally: "What is this sweetest wonder, this new mystery?"
 
 *Troparion, Tone 4:*
@@ -4197,10 +4197,10 @@ Conformably fleeing from servitude to deceitful things, O wise one, a child a ch
 *Sticheron:*
 Having become a disciple of the Word through the preacher and divine apostle, the all-praised Paul, O thrice-blessed Onesimus, thou receivest from Christ a threefold crown, being adorned as a priest, as a preacher, and as a sufferer, O all-praised one.
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 With the staff of thy intercession, O pure Birthgiver of God, drive away the bestial passions of my wretched soul, directing me peacefully unto life, and number me among the flock of thine elect sheep.
 
-*Stavrotheotokion. Podoben:*
+*Stavrotheotokion. Podoben (Подо́бенъ):*
 When the blameless Virgin saw the Lamb lifted up upon the Cross, weeping she cried aloud: "O my sweet Child, what is this new and most glorious sight? How art Thou, Who holdest all things in Thy fist, nailed in the flesh upon the Tree?"
 
 *Troparion, Tone 3:*
@@ -4340,10 +4340,10 @@ Brightly elevated in the faith of Christ and divine glory, O glorious Pamphilus,
 *Sticheron:*
 A company didst thou gather, O mighty Pamphilus, of valiant sufferers, twelve in number; ye showed yourselves a divine army, wherewith having conquered the enemies, ye were taken up manifoldly unto the Lord, having finished your course by martyrdom.
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 With the staff of thy intercession, O pure Birthgiver of God, drive away the bestial passions of my wretched soul, directing me peacefully unto life, and number me among the flock of thine elect sheep.
 
-*Stavrotheotokion. Podoben:*
+*Stavrotheotokion. Podoben (Подо́бенъ):*
 When the blameless Virgin saw the Lamb lifted up upon the Cross, weeping she cried aloud: "O my sweet Child, what is this new and most glorious sight? How art Thou, Who holdest all things in Thy fist, nailed in the flesh upon the Tree?"
 
 *Canon, whose acrostic is: "I will hymn the twelve-numbered choir of the passion-bearers. The work of Theophanes."[^347] Tone 4.*
@@ -4551,7 +4551,7 @@ Still the unstable confusion of my thoughts, O Mother of God, directing their mo
 *Sessional Hymn, Tone 4, Podoben: "Thou Who wast lifted up" (Вознесы́йсѧ):*
 Adorned with the beauties of martyrdom, rejoicing before the Heavenly King, O crowned martyr Theodore, thou dost stand; for upon a cross wast thou lifted up for His sake,[^356] and the driving in of nails, the ox-hide thongs, the scrapings with claws, and the gouging out of the pupils of thine eyes didst thou endure steadfastly; therefore with faith we honor thee, O great victor. *Twice.*
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 He Who sits upon the cherubic throne and rests in the bosom of the Father, sits as upon His holy throne in thy womb, O Lady; for God, having truly become incarnate, is become King over all nations; and understandingly we now sing unto Him: Whom do thou entreat, that thy servants may be saved.
 
 *Stavrotheotokion:*
@@ -4678,10 +4678,10 @@ What shall I now call thee, O marvelous one? A preacher of truth, and a firm fou
 *Sticheron:*
 What shall I now call thee, O marvelous one? A ruler and king over bodily passions, guiding spiritual virtue brightly? A vessel of divine mercy; an abode of perfect love; waiting for the conversion of those who sin against the love of mankind. Pray that our souls may be saved!
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Unto whom hast thou become like, O wretched soul, in no wise looking up unto repentance, nor fearing the fire that awaits the wicked? Arise, and call upon the one who is speedy unto protection, and cry aloud: "O Virgin Mother, pray thy Son and our God, to deliver me from the snare of the deceitful one!"
 
-*Stavrotheotokion, Podoben:*
+*Stavrotheotokion, Podoben (Подо́бенъ):*
 When the ewe-lamb beheld the Lamb willingly stretched out upon the Tree of the Cross, weeping maternally and suffering with tears, she cried aloud: "O my Son, what is this strange sight? How art Thou Who grantest life unto all as Lord, put to death, O Long-suffering One, granting resurrection unto earthborn men? I glorify Thy great condescension, O my God!"
 
 *Troparion, Tone 8:*
@@ -4721,7 +4721,7 @@ Thou hast been adorned like a bride with maidenly beauties, O Maiden full of gra
 *Sessional Hymn, Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры):*
 Thou didst still insolent boldnesses, and by deeds didst convince of Orthodoxy, having hoped like a lion, O righteous one;[^368] thou declarest true teachings and exposest the hiding places of deceit, O venerable father. Entreat Christ God, that He grant us great mercy!
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Without separating from the divine nature, becoming flesh in thy womb, yet God having become man remained, Who preserved thee as a Virgin Mother after childbearing, even as before childbirth, all-immaculate, the only Lord: Him do thou diligently pray, that He grant us great mercy!
 
 *Stavrotheotokion:*
@@ -4985,10 +4985,10 @@ As a living pillar and a proclaimer of the words of upright doctrines does the C
 *Sticheron:*
 Lord, Thou hast shown forth the hierarch's word as a sharpened sword against those who act impiously against Thy Orthodox faith; and thereby cutting off false opinions, Thou hast multiplied the doctrines of piety in the world, O Master.
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 The distress of my contrite heart, and the groanings, O Bride of God, do thou accept, O pure Virgin; and do not cast away the lifting up of my hands, O all-immaculate and pure one, since thou art a lover of goodness; that I may praise and magnify thee who hast magnified our race.[^400]
 
-*Stavrotheotokion, Podoben:*
+*Stavrotheotokion, Podoben (Подо́бенъ):*
 When the ewe-lamb and virgin beheld Thee, the Lamb, led unto slaughter, weeping she followed Thee, O Word, and cried aloud: "Whither dost Thou hasten, O my sweetest Child, at Thy departure? For I cannot endure not to see Thee, O my most merciful Jesus!"
 
 *Troparion, Tone 4:*
@@ -5154,10 +5154,10 @@ By the flood of thy sacred streams, thou didst manifestly stop up the blasphemie
 *Sticheron:*
 Pasturing with the staff of thy words, O all-sacred shepherd, thou didst thereby preserve the rational flock of God unharmed from all wolves; therefore the Good Shepherd led thee into the heavenly sheepfold, where the chosen ancestral spirits of the righteous dwell, O divinely-bearing and all-blessed Eustathius.
 
-*Glory... both now..., Theotokion, the same Tone and Podoben:*
+*Glory... both now..., Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Unto whom hast thou become likened, O wretched soul, in no way rousing thyself unto repentance, and not dreading the fire that awaits the wicked? Arise, and call upon the only one who is swift to help, and cry aloud: O Virgin Mother, entreat Thy Son and our God, to deliver me from the snare of the deceiver.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the Ewe-lamb beheld her Lamb stretched out willingly upon the Tree of the Cross, she cried aloud maternally, grieving with weeping: My Son, what strange sight is this? Thou Who givest life unto all as Lord, how art Thou put to death, O Long-suffering One, granting resurrection unto earthly beings? I glorify Thy great condescension, O my God!
 
 *Troparion, Tone 4:*
@@ -5588,7 +5588,7 @@ A divinely planted branch of Christ's husbandry, offering spiritual clusters of 
 Illumined with divine radiance, while thy body was consumed by material fire, thou didst pass over, O father, unto the immaterial dawn; and grant remission through thy prayers, enlightening the dark night of our passions, O wise one of our souls.
 
 *Glory... Both now... Theotokion:*
-*In the same Tone and Podoben:*
+*In the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Held fast by the abyss of transgressions, having fled unto the tranquil haven of thy most pure prayer, O Mother of God, I cry unto thee: Save me, stretching forth thy strong right hand unto thy servant, O all-immaculate one.
 
 *Stavrotheotokion, Tone 1, Podoben: "Joy of the heavenly hosts" (Небе́сныхъ чино́въ):*
@@ -5628,7 +5628,7 @@ As a whole offering thou didst bring thyself unto Christ as a living sacrifice t
 *Theotokion:*
 Thou hast shaken off the dust of our mortality, having truly given birth unto Immortality; and thou hast woven for us garments of incorruption, O Virgin, by thy birthgiving.
 
-*Sessional Hymn, Tone 8, Podoben:*
+*Sessional Hymn, Tone 8, Podoben (Подо́бенъ):*
 
 *Sessional Hymn, Tone 8, Podoben: "Of the Wisdom" (Прему́дрости):*
 Having truly cultivated in thy soul the cluster of grace, O wise father, as wine thou didst pour forth the word of faith, gladdening the minds of all the faithful; and thou hast appeared as an impassable abyss of wonders.[^474] Therefore thou hast also appeared as the adornment of martyrs, finishing thy course in fire, and accounted worthy of the unwaning light, O Polycarp: entreat Christ God to grant remission of transgressions unto those who celebrate thy holy memory with love.
@@ -5682,7 +5682,7 @@ Instructed by thy words, O father, we overcome every foul heresy and the wicked 
 *Theotokion:*
 Having conceived the pure Lamb Who takes away the sin of the world, O all-immaculate one, pray thou that forgiveness of transgressions be granted unto thy servants.
 
-*Kontakion, Tone 1, Podoben: "The angelic choir" (Ликъ а́нгельскiй):*
+*Kontakion, Tone 1, Podoben: "The angelic choir" (Ликъ а́нгельскій):*
 Offering spiritual fruits unto the Lord, O wise Polycarp, sacrifices of virtues; therefore also by God wast thou glorified as a worthy hierarch; therefore today, enlightened by thy words, we hymn thy praiseworthy memory, glorifying the Lord.
 
 *Ikos:*
@@ -6207,10 +6207,10 @@ Even as of old God saved three youths from the fire by an Angel, so now through 
 
 Who can worthily sing of thy tribulations and illnesses, thy afflictions and sorrows, which were thy struggles according to faith, O Porphyrios? For great was thy boldness which thou didst show forth before God; therefore we beseech thee, for thou hast boldness, pray to the Lord on our behalf, that our souls may be saved.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having received flesh from thy blood, the God before all ages showed thee forth as an intercessor unto men, O pure one; therefore deliver thy servants from every affliction and distress, and from the snares of the deceitful enemy; and vouchsafe all who glorify and worship thee to partake of the radiance of the elect.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 Seeing Thee nailed upon the Cross, O Jesus, and accepting sufferings willingly, Thy Virgin Mother cried out, O Master: Woe is me, O sweet Child! How dost Thou unjustly endure wounds, O Physician Who didst heal human infirmity and deliver all from corruption by Thy tender mercy?
 
 *Troparion, Tone 4:*
@@ -6345,10 +6345,10 @@ Having first received by fasting, and divinely wise having later pleased the Cre
 
 Exposing those who senselessly rejected the incarnation of the Word, O venerable one, thou didst finish thy course with wounded tortures and all manner of afflictions, with bonds and imprisonment, establishing the truth; therefore thou didst become an heir of the kingdom of Christ, and of ineffable joy, and of ever-existing radiance.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 As thou hast unfailing prayer and enduring supplication unto God, O most pure one, put tribulations to sleep, calm the waves of my wretched soul, and comfort my heart that is in affliction, O Maiden, I pray thee, and enlighten my mind with grace, that I may worthily glorify thee.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 Seeing Thee, the Lamb and Shepherd, upon the Tree, the ewe-lamb that bore Thee lamented and maternally spoke to Thee: O beloved Son, how art Thou suspended upon the Tree of the Cross, O longsuffering One? How are Thy hands and feet nailed by the lawless, O Word? And how hast Thou shed Thy blood, O Master?
 
 *Troparion, Tone 8:*
@@ -6482,10 +6482,10 @@ Thou didst unswervingly accomplish the course of temperance, and didst keep the 
 
 Every voluptuousness, enslaving thy body, thou didst cast away, O divinely wise one, making bitter the sense by the pains of temperance, and by harsh dwelling[^517] and endurance of temptations, and patient waiting through afflictions, through which thou receivest unending delight, and uninterrupted sweetness, and ineffable joy.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Bent down by the assaults of demons, and cast into the pit of destruction, take compassion, O Sovereign Lady, and establish me upon the rock of virtues; and having destroyed the snares of the enemy, vouchsafe me to do the commandments of thy Son and our God, that I may obtain remission on the day of judgment.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 Seeing Christ the Lover of mankind crucified, O most pure one, and His side pierced with a spear, weeping she cried aloud: What is this, O my Son? What have the ungrateful people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O Compassionate One, at Thy voluntary crucifixion.
 
 *Troparion, Tone 1:*
@@ -6618,10 +6618,10 @@ Having taken up the Cross from infancy, O father, thou didst diligently and most
 
 The matter of wonders belongs to every virtue, O divinely wise one, wherewith also formerly in the flesh upon earth, observing silence, O venerable one, and speaking afterwards by words and deeds, humble, meek, and guileless, and an exceedingly eloquent prophetic herald; but all the more now, when having ascended unto God Thou wast made marvelous, and receivedst the grace of healings.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Slipping into evil ways and enslaved by crafty deceit, O Bride unwedded, unto thy most marvelous compassion and fervent protection, O all-holy Maiden, do I the wretched one flee. Deliver me from the bond of temptations and sorrows, and save me, O all-immaculate one, from the constraints of demons; that I may glorify thee, and sing in love, and worship, and magnify thee, O Sovereign Lady, who art ever-blessed.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 A sword, even as Symeon said, pierced thy heart, O most pure Sovereign Lady, when thou didst behold Him Who shone forth from thee by an ineffable Word, by the lawless condemned as a criminal, uplifted upon the Cross, given vinegar and gall to drink, His side pierced, His hands and feet nailed; and weeping thou didst cry aloud, maternally lamenting: What is this new mystery, O sweetest Child?
 
 *Canon, Tone 2. Ode 1. Heirmos:*

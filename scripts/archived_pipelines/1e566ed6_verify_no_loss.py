@@ -8,7 +8,7 @@ if hasattr(sys.stdout, 'reconfigure'):
 else:
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-src_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+src_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 backup_dir = os.path.join(src_dir, "backup_pre_citation")
 
 files = [

@@ -170,7 +170,7 @@ Gymnasium Professor of Religion, Councillor of the Metropolitan Consistory.
 
 *Verse: For He hath established the world, so that it shall not be moved [LXX Ps. 92:1].*
 
-*Alphabetical Sticheron 2:* Being King of heaven and earth, O Incomprehensible One, Thou wast willingly crucified in Thy love for mankind. When Hades met Thee below, it was embittered, and receiving the souls of the righteous, they rejoiced; and Adam, seeing Thee, the Creator, in the nethermost regions, arose. O marvel! How did the Life of all taste death? But as He willed, He enlightened the world that cries aloud and saith: Risen from the dead, O Lord, glory to Thee!
+*Alphabetical Sticheron 2:* Being King of heaven and earth, O Incomprehensible One, Thou wast willingly crucified in Thy love for mankind. When Hades met Thee below, it was embittered, and receiving the souls of the righteous, they rejoiced; and Adam, seeing Thee, the Creator, in the nethermost regions, arose. O marvel! How did the Life of all taste death? But as He willed, He enlightened the world that cries aloud and says: Risen from the dead, O Lord, glory to Thee!
 
 === LEAF p7 ===
 
@@ -238,7 +238,7 @@ Gymnasium Professor of Religion, Councillor of the Metropolitan Consistory.
 
 *Troparion 1:* Forefiguring thee as the one who among women is fair and all-honorable, coming up as from the wilderness [Cant. 3:6, 8:5][^47] and bearing the Branch Christ on thine arm [Isa. 11:1],[^48] O Mother of God, the prince of myrrh cried aloud: Glory to Thy power, O Lord!
 
-*Troparion 2:* Incline Thine ear unto me, O good one, and behold my affliction and the multiplication of perils; for having stretched the soul's eye toward thee, O Lady, and bowing my knees with tears, I now entreat thee, crying aloud: Put an end unto the turmoil of my tribulations. Glory...
+*Troparion 2:* Incline thine ear unto me, O good one, and behold my affliction and the multiplication of perils; for having stretched the soul's eye toward thee, O Lady, and bowing my knees with tears, I now entreat thee, crying aloud: Put an end unto the turmoil of my tribulations. Glory...
 
 *Troparion 3:* Knowing thee to be an invincible wall, drawn by supplication, I thy servant now flee unto thee; and I account the arrows of the foes as infantile and ineffective, O all-abundant one! Therefore, rejoicing, I cry aloud: Glory to thy childbirth, O Mother of God!
 

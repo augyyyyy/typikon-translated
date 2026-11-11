@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 6: February (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-6-february-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 6: February (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-6-february-pochaiv-lavra-1761"></a>
 
 *(Title Page: Baroque woodcut ornamental architectural border printed in red and black ink)*
 
@@ -18,7 +18,7 @@ And from the Nativity of Christ 1761.[^4]
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 6: February (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-6-february-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 6: February (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-6-february-pochaiv-lavra-1761)**
 * **[MONTH OF FEBRUARY](1761_pochaiv_minea_06_feb_part1_month-of-february.md#month-of-february)**
 
 ---

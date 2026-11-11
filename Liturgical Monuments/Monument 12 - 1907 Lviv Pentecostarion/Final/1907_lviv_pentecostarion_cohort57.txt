@@ -4,7 +4,7 @@
 **Choir:** Amen.  
 *Then we sing "Lord, I have cried," and we set 6 verses.*[^2416]  
 *And we sing idiomelic stichera. Tone 4:*[^2417]  
-Glorious things all the nations beheld today in the city of David, when the Holy Spirit came down in fiery tongues, even as Luke the proclaimer of God recounts; for he saith: When the disciples of Christ were gathered together, there came a sound as of a rushing violent wind, and filled the house where they were sitting; and they all began to speak with strange words, strange doctrines, strange ordinances of the Holy Trinity.[^2418]  
+Glorious things all the nations beheld today in the city of David, when the Holy Spirit came down in fiery tongues, even as Luke the proclaimer of God recounts; for he says: When the disciples of Christ were gathered together, there came a sound as of a rushing violent wind, and filled the house where they were sitting; and they all began to speak with strange words, strange doctrines, strange ordinances of the Holy Trinity.[^2418]  
 The Holy Spirit was ever, and is, and shall be...[^2419]  
 The Holy Spirit, Light and Life...[^2420]  
 *Repeating them.*[^2421]  

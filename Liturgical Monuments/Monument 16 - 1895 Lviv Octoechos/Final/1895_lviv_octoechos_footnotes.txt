@@ -38,7 +38,7 @@
 
 [^18]: Saint John Damascene (c. 676–749), Father and Doctor of the Church, traditionally revered as the primary compiler and hymnographer of the Byzantine Octoechos.
 
-[^19]: Incipit: Ѡбиди́те лю́дїе Сїẃнъ (Greek: Κυκλώσατε λαοὶ Σιών). Cf. LXX Ps. 47:13.
+[^19]: Incipit: Ѡбиди́те лю́дїе Сїѡ́нъ (Greek: Κυκλώσατε λαοὶ Σιών). Cf. LXX Ps. 47:13.
 
 [^20]: LXX Ps. 92:1: Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο (The Lord is King, He is robed in majesty).
 
@@ -250,7 +250,7 @@
 
 [^124]: LXX Ps. 150:6: Πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον.
 
-[^125]: LXX Ps. 50:3 (Masoretic 51:1): Ἐλέησόν με, ὁ Θεός, κατὰ τὸ μέγα ἔлеός σου.
+[^125]: LXX Ps. 50:3 (Masoretic 51:1): Ἐλέησόν με, ὁ Θεός, κατὰ τὸ μέγα ἔλεός σου.
 
 [^126]: Matt. 28:6; Mark 16:6.
 
@@ -504,9 +504,9 @@
 
 [^251]: Penitential Sticheron 3: Christ the true Son of the heavenly Father becoming the Son of Man to seek out humanity deceived by the serpent (Gen. 3:1–6; Luke 19:10).
 
-[^252]: Stichera to the Bodiless Powers (Безпло́тнымъ / Ἀσωμάтоις). Sticheron 1: The immaterial celestial hierarchies standing before the divine throne and illuminated by the uncreated light (Dionysius the Areopagite, *De Coelesti Hierarchia*). The stanza begins at the bottom of printed fol. 30 (physical leaf p32) and continues on physical leaf p33.
+[^252]: Stichera to the Bodiless Powers (Безпло́тнымъ / Ἀσωμάτοις). Sticheron 1: The immaterial celestial hierarchies standing before the divine throne and illuminated by the uncreated light (Dionysius the Areopagite, *De Coelesti Hierarchia*). The stanza begins at the bottom of printed fol. 30 (physical leaf p32) and continues on physical leaf p33.
 
-[^253]: Sticheron 1 to the Bodiless Powers (concluded): The angels designated as "secondary lights" (φῶта δεύτερα) reflecting the primary divine light (cf. St. Gregory the Theologian, Oration 40.5).
+[^253]: Sticheron 1 to the Bodiless Powers (concluded): The angels designated as "secondary lights" (φῶτα δεύτερα) reflecting the primary divine light (cf. St. Gregory the Theologian, Oration 40.5).
 
 [^254]: Sticheron 2 to the Bodiless Powers: Receiving imperishable life from the First Life and beholding eternal wisdom.
 
@@ -526,7 +526,7 @@
 
 [^262]: Aposticha Sticheron 3: Supplication through the prayers of all Saints and the Theotokos.
 
-[^263]: Theotokion Automelon: Podoben "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ / Τῶν οὐρανίων таγμάτων).
+[^263]: Theotokion Automelon: Podoben "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ / Τῶν οὐρανίων ταγμάτων).
 
 [^264]: Concluding rubrics of Sunday Vespers: "Lord, now lettest Thou Thy servant depart" (Luke 2:29–32); Trisagion prayers; Troparion of the Saint of the day (from the Menaion); Glory... Both now... Theotokion; Litany and Dismissal.
 
@@ -980,7 +980,7 @@
 
 [^489]: Tuesday Matins, After the first stichology, Sessional Hymn 2, Tone 1. Scriptural synthesis of 1 Peter 4:18 ('And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?') and the Parable of the Laborers hired at the eleventh hour (Matthew 20:1–16).
 
-[^490]: Tuesday Matins, After the first stichology, Theotokion, Tone 1. The Virgin Mary as the 'unbreakable wall' (неразрꙋши́маѧ стѣна̀ / τεῖχος ἀκαтаμάχητον) interceding against divine wrath and eternal death.
+[^490]: Tuesday Matins, After the first stichology, Theotokion, Tone 1. The Virgin Mary as the 'unbreakable wall' (неразрꙋши́маѧ стѣна̀ / τεῖχος ἀκαταμάχητον) interceding against divine wrath and eternal death.
 
 [^491]: Tuesday Matins, After the second stichology, Sessional Hymn 1, Tone 1 (physical leaf p55, printed fol. 53). Liturgical paraphrase of the Parable of the Prodigal Son (Luke 15:11–32), pleading for the opening of the Father's embracing arms.
 
@@ -3026,11 +3026,11 @@
 
 [^1512]: Sessional Hymn 1: Tone 2 Podoben model *Being the wellspring of loving-kindness* (*Милосе́рдїа сꙋ́щи и҆сто́чникъ*).
 
-[^1513]: Canon 1 of compunction: Acrostic in Church Slavonic: *Тýчy да́ждь мнѣ̀ сле́зъ, Бж҃їй Сло́ве* ("Grant me a cloud of tears, O Word of God"). A composition of St. Joseph the Hymnographer (*Творе́нїе І҆ѡ́сифово*).
+[^1513]: Canon 1 of compunction: Acrostic in Church Slavonic: *Ту́чу да́ждь мнѣ̀ сле́зъ, Бж҃їй Сло́ве* ("Grant me a cloud of tears, O Word of God"). A composition of St. Joseph the Hymnographer (*Творе́нїе І҆ѡ́сифово*).
 
-[^1514]: Ode 1 Heirmos (Tone 2): Exodus 14:21–22; 15:1. The 1895 Lviv Stauropegion edition contains the textual variant *раздѣ́льшемy лю́ди, я҆́же и҆зведѐ* in place of the fuller reading *раздѣ́льшемy мо́ре, и҆ лю́ди наста́вльшемy, я҆́же и҆зведѐ*.
+[^1514]: Ode 1 Heirmos (Tone 2): Exodus 14:21–22; 15:1. The 1895 Lviv Stauropegion edition contains the textual variant *раздѣ́льшему лю́ди, я҆́же и҆зведѐ* in place of the fuller reading *раздѣ́льшему мо́ре, и҆ лю́ди наста́вльшему, я҆́же и҆зведѐ*.
 
-[^1515]: Canon 2 to the Bodiless Powers: Acrostic in Church Slavonic: *Пою̀ хвалỳ ли́кy А҆́гг҃лскомy* ("I sing praise unto the Angelic choir"). A composition of St. Theophanes the Branded (*Творе́нїе Ѳеофа́ново*).
+[^1515]: Canon 2 to the Bodiless Powers: Acrostic in Church Slavonic: *Пою̀ хвалу̀ ли́ку А҆́гг҃лскому* ("I sing praise unto the Angelic choir"). A composition of St. Theophanes the Branded (*Творе́нїе Ѳеофа́ново*).
 
 [^1516]: Ode 1 Heirmos of second Canon (Tone 2): Exodus 14:29; 15:1.
 
@@ -3474,7 +3474,7 @@
 
 [^1736]: Ode 3 heirmos of the Compline canon, invoking the tree of the Cross which abolished sin.
 
-[^1737]: Church Slavonic `благопремѣ́нна` translates the Greek liturgical term `εὐδιάллаκτον` ("easily appeased," "reconciled," "propitiated"), entreating the Theotokos to make God merciful to penitent sinners.
+[^1737]: Church Slavonic `благопремѣ́нна` translates the Greek liturgical term `εὐδιάλλακτον` ("easily appeased," "reconciled," "propitiated"), entreating the Theotokos to make God merciful to penitent sinners.
 
 [^1738]: Christ addressed as the Hypostatic Wisdom of God (1 Corinthians 1:24) carried in the arms of the Theotokos.
 
@@ -3482,7 +3482,7 @@
 
 [^1740]: Ode 5 heirmos of the Compline canon, based on Isaiah 26:9.
 
-[^1741]: Allusion to Romans 10:4: "For Christ is the end of the law for righteousness to every one that believs."
+[^1741]: Allusion to Romans 10:4: "For Christ is the end of the law for righteousness to every one that believes."
 
 [^1742]: Conclusion of the supplication of Ode 5, continued from physical leaf p209.
 
@@ -4636,7 +4636,7 @@
 
 [^2317]: Numbers 24:17 ('A sceptre shall rise out of Israel, and shall smite the princes of Moab').
 
-[^2318]: Isaiah 19:1 ('Behold, the Lord rids upon a light cloud, and shall come into Egypt').
+[^2318]: Isaiah 19:1 ('Behold, the Lord rides upon a light cloud, and shall come into Egypt').
 
 [^2319]: Dogmatic confession of Christ in two natures, perfect God and perfect man (Fourth and Sixth Ecumenical Councils).
 
@@ -4816,7 +4816,7 @@
 
 [^2407]: Psalm 126:1 [LXX 126:1]: 'Except the Lord build the house, they labor in vain that build it: except the Lord keep the city, the watchman wakes but in vain.'
 
-[^2408]: Romans 8:14-17 (the Spirit of adoption); Psalm 126:3 [LXX 126:3: 'the fruit of the womb is his reward'].
+[^2408]: Romans 8:14-17 (the Spirit of adoption); Psalm 126:3 [LXX 126:3: 'the fruit of the womb is His reward'].
 
 [^2409]: Trinitarian doxasticon of Antiphon 2, confessing the creative and vivifying divinity of the Holy Spirit.
 
@@ -4894,7 +4894,7 @@
 
 [^2446]: Isaiah 50:6 ('I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting'); Isaiah 53:5.
 
-[^2447]: Psalm 11:5 [LXX 11:6: 'For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord']; Hebrews 2:14.
+[^2447]: Psalm 11:5 [LXX 11:6: 'For the oppression of the poor, for the sighing of the needy, now will I arise, says the Lord']; Hebrews 2:14.
 
 [^2448]: Acts 20:28 ('the church of God, which He hath purchased with His own blood').
 
@@ -6658,7 +6658,7 @@
 
 [^3328]: Friday Matins, Kathisma 3 Stavrotheotokion: *Небе́снаѧ ви́дѧще оу҆страши́шасѧ, и҆ земна̑ѧ стра́хомъ трепета́хꙋ...*
 
-[^3329]: Canon of the Cross inscription: *КАНѠ́НЪ честно́мꙋ и҆ животворѧ́щемꙋ Крестꙋ̀. (Е҆гѡ́же краегране́сїе си́це: Похвала̀ вѣ́рнымъ крⷭ҇тъ є҆́сть и҆ сла́ва. Творе́нїе І҆ѡ́сифово.)* The acrostic forms the phrase in the Greek original: Σταυρὸς πέφυκε χарμονή τε καὶ κλέος.
+[^3329]: Canon of the Cross inscription: *КАНѠ́НЪ честно́мꙋ и҆ животворѧ́щемꙋ Крестꙋ̀. (Е҆гѡ́же краегране́сїе си́це: Похвала̀ вѣ́рнымъ крⷭ҇тъ є҆́сть и҆ сла́ва. Творе́нїе І҆ѡ́сифово.)* The acrostic forms the phrase in the Greek original: Σταυρὸς πέφυκε χαρμονή τε καὶ κλέος.
 
 [^3330]: Canon of the Cross, Tone 3, Ode 1 Heirmos: *Сꙋ́шꙋ глꙋбороди́тельнꙋю зе́млю со́лнце нашє́ствова и҆ногда̀...* Cf. Exodus 14:21–22; 15:1.
 
@@ -8474,7 +8474,7 @@
 
 [^4236]: Penitential self-examination before the inevitable terror of the future judgment-seat (*стра́шнагѡ сꙋди́ща ѻ҆́нагѡ*).
 
-[^4237]: CSD: *Цѣвни́ца* ("harp/pipe/lyre", Greek: κινύра). The martyrs as musical instruments of the Holy Spirit.
+[^4237]: CSD: *Цѣвни́ца* ("harp/pipe/lyre", Greek: κινύρα). The martyrs as musical instruments of the Holy Spirit.
 
 [^4238]: Patristic martyric motif: the martyrs triumphing over fleshly torments as though suffering in bodies not their own (*ꙗ҆́кѡ въ тѣлесѣ́хъ чꙋжди́хъ*).
 
@@ -8670,7 +8670,7 @@
 
 [^4334]: Ode 4, Both now: prayer for tears, groaning, and deliverance from impassioned thoughts unto divine compunction.
 
-[^4335]: Ode 5 Heirmos (*Оу҆жасо́шасѧ всѧ́ческаѧ*, Greek: Ἐξέστη τὰ σύμπанта). The cosmic wonder of the unwedded Virgin carrying the God over all in her womb.
+[^4335]: Ode 5 Heirmos (*Оу҆жасо́шасѧ всѧ́ческаѧ*, Greek: Ἐξέστη τὰ σύμπαντα). The cosmic wonder of the unwedded Virgin carrying the God over all in her womb.
 
 [^4336]: Ode 5 Troparion 1: the Virgin as an animate cloud (*ѡ҆́блакъ ѡ҆дꙋшевле́нъ*) of Christ the King, showering the dew of healing upon the sick.
 
@@ -8740,7 +8740,7 @@
 
 [^4369]: Sessional Hymn (*Ско́рѡ предварѝ*): petition for swift divine help against threatening foes, manifesting the power of the Orthodox faith.
 
-[^4370]: Scripture: LXX Ps. 73:12 (*Ὁ δὲ Θεὸς βασιлеὺς ἡμῶν πρὸ αἰώνων*).
+[^4370]: Scripture: LXX Ps. 73:12 (*Ὁ δὲ Θεὸς βασιλεὺς ἡμῶν πρὸ αἰώνων*).
 
 [^4371]: Sessional Hymn of the Cross: healing the primordial wound of Adam through Christ's voluntary Crucifixion on Golgotha.
 
@@ -8982,7 +8982,7 @@
 
 [^4490]: Aposticha Sticheron 1 to the Apostles, Tone 4: the Holy Spirit descending upon the apostolic choir at Pentecost to illumine the world (Acts 2).
 
-[^4491]: Scripture: LXX Ps. 122:1-2 (*Πρὸς σὲ ἦρα τοὺς ὀφθалμούς μου τὸν κατοικοῦντα ἐν τῷ οὐρανῷ*).
+[^4491]: Scripture: LXX Ps. 122:1-2 (*Πρὸς σὲ ἦρα τοὺς ὀφθαλμούς μου τὸν κατοικοῦντα ἐν τῷ οὐρανῷ*).
 
 [^4492]: Aposticha Sticheron 2: unlettered disciples made eloquent doctors and preachers through the gift of tongues (Acts 2:4).
 
@@ -9068,7 +9068,7 @@
 
 [^4533]: Compline Ode 8, Both now: opening the gates of hope and eternal life, making the faithful servant an heir of the heavenly kingdom.
 
-[^4534]: Compline Ode 9 Heirmos (*Е҆́vа оу҆́бѡ недꙋ́гомъ преслꙋша́нїѧ*, Greek: Εὔα μὲν τῷ τῆς παρακοῆς νοσήματι). Contrast between Eve bringing the curse through disobedience (Gen. 3:16) and Mary blossoming forth universal blessing through the Incarnation.
+[^4534]: Compline Ode 9 Heirmos (*Е҆́ѵа оу҆́бѡ недꙋ́гомъ преслꙋша́нїѧ*, Greek: Εὔα μὲν τῷ τῆς παρακοῆς νοσήματι). Contrast between Eve bringing the curse through disobedience (Gen. 3:16) and Mary blossoming forth universal blessing through the Incarnation.
 
 [^4535]: Compline Ode 9 Troparion 1: petition for swift protection against the unseen assaults of demonic enemies.
 
@@ -9568,7 +9568,7 @@
 
 [^4783]: ODE 5 (Canon 2, Troparion 4). Slavonic *шата̑ніѧ* ("insolence" / "rage"), Greek φρυάγματα; cf. LXX Ps. 2:1.
 
-[^4784]: ODE 6. Heirmos. Slavonic: *Бж҃е́ственное сїѐ и҆ всечестно́е соверша́юще пра́зднество...* Greek: Τὴν θείαν ταύτην καὶ πάνтиμον τελοῦντες ἑορτήν.
+[^4784]: ODE 6. Heirmos. Slavonic: *Бж҃е́ственное сїѐ и҆ всечестно́е соверша́юще пра́зднество...* Greek: Τὴν θείαν ταύτην καὶ πάντιμον τελοῦντες ἑορτήν.
 
 [^4785]: ODE 6 (Canon 1, Troparion 1). The Christological paradox of Christ's voluntary passion putting an end to human pain (*бѡлѣ́зни оу҆ста́вилъ є҆сѝ*).
 
@@ -9592,7 +9592,7 @@
 
 [^4795]: ODE 6 (Canon 2, Troparion 4). The antithesis between the deep of sins (*ѕѡ́лъ пꙋчи́на*) and the Virgin who bore the abyss of divine goodness (*бла́гости пꙋчи́на*).
 
-[^4796]: ODE 7. Heirmos. Slavonic: *Не послꙋжи́ша тва́ри бгомоу́дріи...* Greek: Οὐκ ἐλάτреυσαν τῇ κτίσει οἱ θεόφρονες; cf. Rom. 1:25, Dan. 3:28.
+[^4796]: ODE 7. Heirmos. Slavonic: *Не послꙋжи́ша тва́ри бгомоу́дріи...* Greek: Οὐκ ἐλάτρευσαν τῇ κτίσει οἱ θεόφρονες; cf. Rom. 1:25, Dan. 3:28.
 
 [^4797]: ODE 7 (Canon 1, Troparion 1). The casting down of Satan by the Cross; cf. John 12:31, Col. 2:15.
 
@@ -9732,7 +9732,7 @@
 
 [^4865]: Vespers concluding order: Canticle of Simeon (Luke 2:29-32), Trisagion prayers, Dismissal Troparion of Saturday (*А҆по́столи, Мꙋ́ченицы и҆ Проро́цы...*), and Dismissal.
 
-[^4866]: COMPLINE CANON TO THE THEOTOKOS, ODE 1. Heirmos. Slavonic: *Трїста́ты крѣ́пкїѧ, рожде́йся ѿ Дѣ́вы...* Greek: Θαλάσσης τὸ ἐρυθраῖον πέλαγος; cf. Exod. 14:28, 15:4. The mystical allegorization of the drowning of Pharaoh's "three captains" (*триста́ты*, Exod. 14:7) as the subjection of the tripartite soul (rational, irascible, and appetitive / *дꙋшѝ трича́стное* in Platonic-Patristic psychology) unto the depth of divine dispassion (*безстра́стїе* / apatheia).
+[^4866]: COMPLINE CANON TO THE THEOTOKOS, ODE 1. Heirmos. Slavonic: *Трїста́ты крѣ́пкїѧ, рожде́йся ѿ Дѣ́вы...* Greek: Θαλάσσης τὸ ἐρυθραῖον πέλαγος; cf. Exod. 14:28, 15:4. The mystical allegorization of the drowning of Pharaoh's "three captains" (*триста́ты*, Exod. 14:7) as the subjection of the tripartite soul (rational, irascible, and appetitive / *дꙋшѝ трича́стное* in Platonic-Patristic psychology) unto the depth of divine dispassion (*безстра́стїе* / apatheia).
 
 [^4867]: The liturgical refrain (*припѣ́въ*) to the Theotokos used between troparia in the canon.
 
@@ -9744,7 +9744,7 @@
 
 [^4871]: ODE 1, Troparion 4 (*Both now...*). Christ as the fountain of incorruption abolishing death and corruption through His Nativity.
 
-[^4872]: ODE 3. Heirmos. Slavonic: *Не мꙋ́дростїю, и҆ си́лою, и҆ бога́тствомъ хва́лимся...* Greek: Οὐκ ἐν σοφίᾳ, καὶ δυνάμει καὶ πλούτῳ καυχώмеθα; cf. 1 Reg. (1 Sam.) 2:2, Jer. 9:23-24, 1 Cor. 1:30-31.
+[^4872]: ODE 3. Heirmos. Slavonic: *Не мꙋ́дростїю, и҆ си́лою, и҆ бога́тствомъ хва́лимся...* Greek: Οὐκ ἐν σοφίᾳ, καὶ δυνάμει καὶ πλούτῳ καυχώμεθα; cf. 1 Reg. (1 Sam.) 2:2, Jer. 9:23-24, 1 Cor. 1:30-31.
 
 [^4873]: ODE 3, Troparion 1. Deliverance from the darkness and chains of sin.
 
@@ -9880,7 +9880,7 @@
 
 [^4939]: ODE 3 (Canon 1, Troparion 2). Allusion to Jer. 15:19: "If thou bring forth the precious from the vile, thou shalt be as my mouth."
 
-[^4940]: ODE 3 (Canon 1, Troparion 3). Ascetic contemplation (*теоρία*) and divine ascents (*восхожде́ніѧ* / ἀναβάσεις); cf. LXX Ps. 83:6.
+[^4940]: ODE 3 (Canon 1, Troparion 3). Ascetic contemplation (*θεωρία*) and divine ascents (*восхожде́ніѧ* / ἀναβάσεις); cf. LXX Ps. 83:6.
 
 [^4941]: ODE 3 (Canon 1, Hymn for the Departed (Поко́инъ)). Intercession of all saints for the faithful departed.
 
@@ -10012,7 +10012,7 @@
 
 [^5005]: ODE 8 (Canon 2, Theotokion). Concluding Theotokion (`И҆ ны́нѣ:`) of Ode 8 (Second Canon), praising the Virgin Mary as the unwedded Mother of Life.
 
-[^5006]: ODE 9 (Canon 1). Heirmos. Slavonic: *Є҆́vа ѹ҆́бѡ недꙋ́гомъ преслꙋша́нїѧ...* Greek: Ἡ μὲν τῷ τῆς παρακοῆς νοσήματι; contrasting Eve's curse (Genesis 3:16) with the Virgin's blessing (Luke 1:42).
+[^5006]: ODE 9 (Canon 1). Heirmos. Slavonic: *Є҆́ѵа ѹ҆́бѡ недꙋ́гомъ преслꙋша́нїѧ...* Greek: Ἡ μὲν τῷ τῆς παρακοῆς νοσήματι; contrasting Eve's curse (Genesis 3:16) with the Virgin's blessing (Luke 1:42).
 
 [^5007]: ODE 9 (Canon 1, Troparion 1). The martyrs crowned with divine gifts and honors (2 Timothy 4:8).
 
@@ -10990,7 +10990,7 @@
 
 [^5494]: Tone 5 Monday Matins, Canon to the Bodiless Powers, Ode 8, Theotokion. CS: Две́ри свѣ́та, Дѣ́вома́ти ѻ҆трокови́це, свѣ́томъ твои̑мъ ѡ҆зарѝ вѣ́рою пою́щихъ: Гдⷭ҇а воспѣва́йте дѣла̀, и҆ превозноси́те є҆го̀ во вѣ́ки.
 
-[^5495]: Tone 5 Monday Matins, Penitential Canon, Ode 9, Heirmos. CS: Пѣ́снь θ҃. І҆рмо́съ: Тѧ̀ блаже́ннꙋю въ жена́хъ, и҆ благослове́ннꙋю Бг҃омъ, человѣ́ческїй ро́дъ пѣ́сньми велича́етъ.
+[^5495]: Tone 5 Monday Matins, Penitential Canon, Ode 9, Heirmos. CS: Пѣ́снь ѳ҃. І҆рмо́съ: Тѧ̀ блаже́ннꙋю въ жена́хъ, и҆ благослове́ннꙋю Бг҃омъ, человѣ́ческїй ро́дъ пѣ́сньми велича́етъ.
 
 [^5496]: Tone 5 Monday Matins, Penitential Canon, Ode 9, Troparion 1. CS: Ми́лостивъ бꙋ́ди мнѣ̀ Гдⷭ҇и, безъ числа̀ безꙋ́мнѡ согрѣши́вшемꙋ, и҆ твоегѡ̀ ца́рствїа, Сло́ве, сподо́би мѧ.
 
@@ -11436,7 +11436,7 @@
 
 [^5717]: Tone 5 Tuesday Matins, Canon to the Forerunner, Ode 9, Troparion 3. CS: Ты̀ не бы́лъ є҆сѝ тро́сть, проти́вными вѣ́тры, Премꙋ́дре, коле́блема, но на́ше бж҃твенное оу҆твержде́нїе, и҆ непоколе́блемо це́ркве оу҆крѣпле́нїе; ю҆́же твои́ми моли́твами соблюда́й непрекло́ннꙋ, оу҆толя́ѧ всѧ́кїй собла́знъ. Acrostic letter М (Σ). Cf. Matt. 11:7; Luke 7:24.
 
-[^5718]: Tone 5 Tuesday Matins, Canon to the Forerunner, Ode 9, Troparion 4. CS: Зижди́телево при две́рехъ прише́ствїе! что̀ оу҆́бѡ не пла́чеши себѐ, ѻ҆каѧ́ннаѧ дꙋшѐ, живꙋ́щи въ небреже́нїи? возни́кни и҆ возопі́й Гдⷭ҇еви: пощади́ ма Спа́се мольба́ми Предте́чи, ꙗ҆́кѡ человѣколю́бецъ. Acrostic letter И (ΙN, completing `прїимѝ` / `δέησιν`). Cf. Matt. 24:33; James 5:9.
+[^5718]: Tone 5 Tuesday Matins, Canon to the Forerunner, Ode 9, Troparion 4. CS: Зижди́телево при две́рехъ прише́ствїе! что̀ оу҆́бѡ не пла́чеши себѐ, ѻ҆каѧ́ннаѧ дꙋшѐ, живꙋ́щи въ небреже́нїи? возни́кни и҆ возопі́й Гдⷭ҇еви: пощади́ ма Спа́се мольба́ми Предте́чи, ꙗ҆́кѡ человѣколю́бецъ. Acrostic letter И (ΙΝ, completing `прїимѝ` / `δέησιν`). Cf. Matt. 24:33; James 5:9.
 
 [^5719]: Physical Leaf p561 (Printed Folio 559). Concluding Theotokion of Ode 9 of the Tuesday Matins Canon to the Forerunner, Tone 5.
 
@@ -14480,7 +14480,7 @@
 
 [^7239]: Tone 6 Wednesday Matins, After the Second Kathisma, Stavrotheotokion: The Virgin Mother beholding her Son hanging upon the Tree, wounded by the sword of Simeon's prophecy (Luke 2:35).
 
-[^7240]: Tone 6 Wednesday Matins, After the Third Kathisma, Sessional Hymn 1 (of the Cross), Tone 6, Podoben: "Having laid aside all earthly hope" (*Всѐ ѿло́жше* / *Ὅλην ἀποθέмеνοι*): The cosmic convulsions attending the Crucifixion (Matthew 27:45, 51; Luke 23:44–45).
+[^7240]: Tone 6 Wednesday Matins, After the Third Kathisma, Sessional Hymn 1 (of the Cross), Tone 6, Podoben: "Having laid aside all earthly hope" (*Всѐ ѿло́жше* / *Ὅλην ἀποθέμενοι*): The cosmic convulsions attending the Crucifixion (Matthew 27:45, 51; Luke 23:44–45).
 
 [^7241]: Tone 6 Wednesday Matins, After the Third Kathisma, Sessional Hymn 2 (of the Cross): The theological parallel between the tree of knowledge in Eden bringing death to Adam and the Tree of the Cross on Calvary bringing eternal life.
 
@@ -16220,7 +16220,7 @@
 
 [^8109]: Psalm 126:1 LXX: "Except the Lord build the house, they labor in vain that build it."
 
-[^8110]: Psalm 126:3 LXX: "Lo, sons are an heritage of the Lord: the fruit of the womb is his reward."
+[^8110]: Psalm 126:3 LXX: "Lo, sons are an heritage of the Lord: the fruit of the womb is His reward."
 
 [^8111]: Patristic Triadikon on the Divinity of the Holy Spirit as source of being and unapproachable light (1 Timothy 6:16).
 
@@ -16748,7 +16748,7 @@
 
 [^8373]: Physical leaf p780. Martyrion 2 of Ode 4: the Martyrs typified as a spiritual paradise possessing Christ, the Planter and Tree of Life, in their midst.
 
-[^8374]: Physical leaf p780. Theotokion of Ode 4: prayer unto the Virgin full of grace (Кеcharitomene) to enlighten the darkened intellect and liberate it from spiritual ignorance.
+[^8374]: Physical leaf p780. Theotokion of Ode 4: prayer unto the Virgin full of grace (Kecharitomene) to enlighten the darkened intellect and liberate it from spiritual ignorance.
 
 [^8375]: Physical leaf p780. Canon to the Bodiless Powers. Ode 4. Heirmos: the prophet Habakkuk trembling with sacred awe upon contemplating the works of God (Habakkuk 3:2).
 
@@ -17648,7 +17648,7 @@
 
 [^8823]: Second Canon, Ode 6, Troparion 3 ('Ꙗ҆́звы дꙋ́шъ на́шихъ Бцⷣе ѿженѝ...').
 
-[^8824]: Second Canon, Ode 6, Troparion 4 ('Ꙗ҆́же разрѣши́вшаѧ ѿ болѣ́зней Дѣ́во Є҆́vꙋ...').
+[^8824]: Second Canon, Ode 6, Troparion 4 ('Ꙗ҆́же разрѣши́вшаѧ ѿ болѣ́зней Дѣ́во Є҆́ѵꙋ...').
 
 [^8825]: Matins Canon of the Cross, Ode 7. Heirmos ('Пе́щь ѻ҆́троцы ѻ҆гнепа́льнꙋ дре́вле росоточа́щꙋ показа́ша...').
 
@@ -18504,7 +18504,7 @@
 
 [^9251]: Canon to the Theotokos, Ode 9, Troparion 1. Affirmation of Christ's complete human nature with rational soul against Apollinarianism (Council of Constantinople, 381 AD).
 
-[^9252]: Canon to the Theotokos, Ode 9, Troparion 2. Slavonic 'бладосло́віе' is a variant/misprint for 'басносло́віе' / 'бладосло́віе' (idle talk, babbling, myth-making; Greek μωроλογία / μυθολογία).
+[^9252]: Canon to the Theotokos, Ode 9, Troparion 2. Slavonic 'бладосло́віе' is a variant/misprint for 'басносло́віе' / 'бладосло́віе' (idle talk, babbling, myth-making; Greek μωρολογία / μυθολογία).
 
 [^9253]: Canon to the Theotokos, Ode 9, Troparion 3. High Christological formulation of hypostatic union and theosis (deification). 2 Pet. 1:4.
 
@@ -19346,7 +19346,7 @@
 
 [^9672]: Resurrectional Theotokion of Ode 1 of the Sunday Resurrectional Canon, Tone 8. Cf. LXX Ps. 86:3.
 
-[^9673]: Heirmos of Ode 1 of the Sunday Canon of the Cross and Resurrection, Tone 8 (*Во́дꙋ проше́дъ ꙗ҆́кw сꙋ́шꙋ* / *Having passed through the water as dry land*).
+[^9673]: Heirmos of Ode 1 of the Sunday Canon of the Cross and Resurrection, Tone 8 (*Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ* / *Having passed through the water as dry land*).
 
 [^9674]: Troparion refrain to the Cross and Resurrection (*Сла́ва Гдⷭи, крестꙋ̀ твоемꙋ̀ и҆ воскресе́нїю*).
 
@@ -20630,7 +20630,7 @@
 
 [^10314]: Physical Leaf p936. Tone 8 Wednesday Matins, Canon of the Cross, Ode 8, Martyrion 1. Incipit: Свѧ́зани бы́вше Мꙋ́ченици, и҆ ꙗ҆́кѡ а҆́гнци закала́еми.
 
-[^10315]: Physical Leaf p936. Tone 8 Wednesday Matins, Canon of the Cross, Ode 8, Martyrion 2. Incipit: Вѣнцено́сци мꙋ́ченици, А҆́ггеλωмъ соприча́стници.
+[^10315]: Physical Leaf p936. Tone 8 Wednesday Matins, Canon of the Cross, Ode 8, Martyrion 2. Incipit: Вѣнцено́сци мꙋ́ченици, А҆́ггелѡмъ соприча́стници.
 
 [^10316]: Physical Leaf p936. Tone 8 Wednesday Matins, Canon of the Cross, Ode 8, Stavrotheotokion. Incipit: Болѣ́зненнѣ стеню́щи, ма́терски восклица́ше.
 
@@ -20904,7 +20904,7 @@
 
 [^10451]: Title of the Second Canon at Matins, dedicated to Saint Nicholas the Wonderworker.
 
-[^10452]: Acrostic: Greek Σοὶ Νικόλαε προσφόρει τὸ ὄγдоον ᾆσμα. Composed by Saint Joseph the Hymnographer.
+[^10452]: Acrostic: Greek Σοὶ Νικόλαε προσφόρει τὸ ὄγδοον ᾆσμα. Composed by Saint Joseph the Hymnographer.
 
 [^10453]: Heirmos of Ode 1, Tone 8; based on Exodus 14.
 

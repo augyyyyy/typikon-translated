@@ -47,7 +47,7 @@
     **"Magnify, O my soul, Christ the Giver of life, Who arose from the grave on the third day!"** (*Μεγάλυνον ψυχή μου τὸν ἐξαναστάντα τριήμερον*)
     [The same Heirmos repeated].
 
-    **"Christ is the new Pascha, the living sacrificial Victim, the Lamb of God Who taketh away the sin of the world!"** (*Χριστὸς τὸ καινὸν Πάσχα*)
+    **"Christ is the new Pascha, the living sacrificial Victim, the Lamb of God Who takes away the sin of the world!"** (*Χριστὸς τὸ καινὸν Πάσχα*)
     Troparion: **"O Thy divine, O Thy beloved, O Thy sweetest voice! For Thou hast truly promised to be with us unto the end of the age, O Christ; and holding this as an anchor of hope, we the faithful rejoice!"** (*Ὢ θείας, ὢ φίλης*)...
 
     **"Today the whole creation is glad and does rejoice, for Christ has risen, and Hades has been despoiled!"** (*Σήμερον πᾶσα κτίσις ἀγάλλεται καὶ χαίρει*)
@@ -145,7 +145,7 @@
             Antiphon Three
     **"Let God arise, and let His enemies be scattered; let them also that hate Him flee before Him!"** [Ps. 67:2 LXX]
     *Refrain:* **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!"** (*Χριστὸς ἀνέστη ἐκ νεκρῶν*).
-    **"As smoke vanisheth, so let them vanish; as wax melteth before the fire!"** [Ps. 67:3 LXX]
+    **"As smoke vanishes, so let them vanish; as wax melts before the fire!"** [Ps. 67:3 LXX]
     *Refrain:* **"Christ is risen from the dead..."**
     **"So let the wicked perish at the presence of God; and let the righteous be glad!"** [Ps. 67:3 LXX]
     *Refrain:* **"Christ is risen from the dead..."**

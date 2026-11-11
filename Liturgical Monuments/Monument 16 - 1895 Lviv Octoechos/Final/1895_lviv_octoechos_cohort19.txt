@@ -223,7 +223,7 @@
 
 *Martyrikon:* Having taken up the Cross of Christ, the holy martyrs, an invincible weapon, abolished all the power of the devil; and having received heavenly crowns, they became a wall unto us, praying unto Him for us.
 
-*Glory, both now: Theotokion:* Save Thy servants from perils, O Virgin Theotokos, for after God we all flee unto thee, as unto an unbreakable wall and protectress.
+*Glory, both now: Theotokion:* Save thy servants from perils, O Virgin Theotokos, for after God we all flee unto thee, as unto an unbreakable wall and protectress.
 
 *Then: It is good to give praise: Trisagion. After Our Father: troparion and litany; then the First Hour.*
 

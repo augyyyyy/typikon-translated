@@ -293,7 +293,7 @@ As being truly the root and confirmation of incorruption, O Virgin, do all we th
 
 === LEAF p69 ===
 *July 8: The Holy Great-Martyr Procopius.*[^177]
-*Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кw до́блѧ):*
+*Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 A calling came unto thee from heaven, even as unto the preacher of the Gentiles,[^178] O all-glorious Procopius; and enlightened in mind, thou didst leave behind the darkness of idols, and becamest a luminary of the faithful, illuminating the ends of the world with the divine brightness of thine honored struggles: the glory and praise of martyrs!
 
 *Sticheron:*

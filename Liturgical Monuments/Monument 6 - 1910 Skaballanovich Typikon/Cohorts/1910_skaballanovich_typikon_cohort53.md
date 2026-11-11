@@ -157,10 +157,10 @@ Irene, ch. 11; Migne, *Patrologia Graeca*, vol. 127).
 261. It is characteristic, however, that even in the Palestinian Lavra of St. Sabbas, whence our present Typikon derived, they are now guided by this Constantinopolitan edition of the Typikon.
 
 === LEAF p527 ===
-*[Blank facsimile leaf separating Volume I and Volume II]*
+*(Vacat — Blank facsimile leaf separating Volume I and Volume II)*
 
 === LEAF p528 ===
-### Editorial Annotation
+**Editorial Annotation**
 
 The text of the *Explanatory Typikon* contains Greek citations with full diacritics and requires a full-Unicode font containing this range of Unicode (such as Arial Unicode MS, Palatino Linotype). In curly brackets of the form `{p. NN}` is the page numbering of the original, marked at the beginning of each page according to the edition: *Explanatory Typikon: An Expository Account of the Typikon, with a Historical Introduction*, Publishing House of Sretensky Monastery, Moscow, 2004.
 

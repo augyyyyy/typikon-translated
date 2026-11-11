@@ -44,7 +44,7 @@ O father Patapius, thou wast numbered with the ascetics' choirs,[^54] adorning t
 *Sticheron:*
 O father Patapius, thou didst shine forth from Egypt as a luminary, enlightening the world beneath the sun with the brightness of wonders, driving away the gloom of soul-corrupting diseases, dispelling the darkness of demons. And now pray unto Christ, that peace and great mercy may be granted unto our souls.
 
-*Other Stichera to the Most Holy Theotokos, Tone and Podoben the same:*
+*Other Stichera to the Most Holy Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 *Theotokion:*
 Incorruption didst thou bear God, Who destroyed corruption and poured forth incorruption, O incorrupt and immaculate one. Therefore I pray thee: by thy prayers, O pure one, renew me who am corrupted by grievous sins, that I may glorify thee, that with love I may magnify thee, who hast magnified our race.
@@ -55,11 +55,11 @@ O extolled Sovereign Lady, hope and confirmation of the faithful, refuge and hel
 *Theotokion:*
 Woe is me, what shall become of me, having defiled mind and soul and body with transgressions? What shall I do? How shall I escape the unquenchable flame, and the everlasting bonds that cannot be loosed? But O all-immaculate one, before the end entreat thy Son to grant me remission.
 
-*Glory, both now, Theotokion, Podoben:*
+*Glory, both now, Theotokion, Podoben (Подо́бенъ):*
 
 === LEAF p73 ===
 **[Right Page — Fol. 36r]**
-*Podoben the same:*
+*Podoben the same (Подо́бенъ то́йже):*
 Thou didst bear the Fire of the Godhead, even Christ, in thy womb. Entreat Him now, O all-pure one, to quench all the easily-kindled matter of my passions, and deliver me from the eternal fire, and make me worthy of the brightness of the righteous, when He comes to judge all things.
 
 *Stavrotheotokion:*
@@ -253,7 +253,7 @@ Be glad, ye ends of the earth! For behold, the Mother of the Creator of all spro
 
 === LEAF p79 ===
 **[Right Page — Fol. 39r]**
-*Glory, both now, Podoben the same:*
+*Glory, both now, Podoben the same (Подо́бенъ то́йже):*
 Rejoice, O Joachim, and rejoice, O Anna! For the mediatress of salvation and joy of the world do ye bear as fruit today.
 
 *Troparion, Tone 4:*

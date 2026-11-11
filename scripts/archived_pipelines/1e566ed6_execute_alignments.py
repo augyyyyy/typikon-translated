@@ -4,7 +4,7 @@ import subprocess
 import re
 
 def main():
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     scratch_dir = r"C:\Users\augus\.gemini\antigravity\brain\1e566ed6-510f-4f9f-9987-1ea377eeb714\scratch"
     
     # 1. Restore files from backup
@@ -214,7 +214,7 @@ def main():
         
     # 5. Compile Master Document
     print("\n--- 5. COMPILED MASTER DOCUMENT ---")
-    build_script = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\scratch\build_master_document.py"
+    build_script = r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation\scratch\build_master_document.py"
     res = subprocess.run(["python", build_script], capture_output=True, text=True)
     if res.returncode != 0:
         print(f"  Error compiling master document:\n{res.stderr}")

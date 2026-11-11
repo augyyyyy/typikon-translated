@@ -38,7 +38,7 @@ O God-chosen twelve-fold choir of the Apostles, offer now supplication unto Chri
 
 ...may pass through the course of the Fast, zealously practicing virtues, so that we may thus come beforehand to behold the glorious Resurrection of Christ God, offering glory and praise!
 
-*Both now... Theotokion, Podoben:*[^1066]  
+*Both now... Theotokion, Podoben (Подо́бенъ):*[^1066]  
 O Mother of God, together with the Apostles, entreat the incomprehensible Son and Word of God, Who was ineffably born of thee beyond comprehension, to grant pure peace unto the universe, and before the end to grant us forgiveness of transgressions, and for the sake of His extreme goodness, to make Thy servants worthy of the Heavenly Kingdom!
 
 *Then the Triodion, without prostrations.*[^1067]  

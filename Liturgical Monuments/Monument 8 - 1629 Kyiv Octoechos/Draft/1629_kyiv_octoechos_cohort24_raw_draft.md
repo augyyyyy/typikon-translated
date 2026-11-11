@@ -6,11 +6,11 @@ bride weeping cried aloud: "The sweet Sun has set from my eyes, Who enlightens t
 
 *Another Canon [to the Mother of God], Same Heirmos:*
 
-Deliver Thy servant from Gehenna and all other torments in the hour of judgment, O all-immaculate Lady, and make him a partaker of the kingdom of Thy Son and God.
+Deliver thy servant from Gehenna and all other torments in the hour of judgment, O all-immaculate Lady, and make him a partaker of the kingdom of thy Son and God.
 
 Heal the wounds of my soul, O Sovereign Lady, calm the storm of tempestuous thoughts, and grant me peaceful resolve.
 
-Severely inflamed now with passions, I seek healing for my soul, O all-immaculate Lady; forsake not Thy servant utterly, O Virgin.
+Severely inflamed now with passions, I seek healing for my soul, O all-immaculate Lady; forsake not thy servant utterly, O Virgin.
 
 Slain in the heart of my soul, bring me to life from the multitude of the malice of the passions, O Sovereign Lady who gave birth ineffably to the Giver of life, Christ.
 
@@ -32,15 +32,15 @@ Having acquired divine incorruption with corruptible bodies, O honorable ones, t
 
 *Theotokion:*
 
-A scroll did the Prophet of old behold Thee to be, O Maiden, upon which the Word taking flesh was written by the Father's finger; and the handwriting of the forefather did He tear apart with the spear, O all-immaculate Lady.
+A scroll did the Prophet of old behold thee to be, O Maiden, upon which the Word taking flesh was written by the Father's finger; and the handwriting of the forefather did He tear apart with the spear, O all-immaculate Lady.
 
 *Another Canon, Same Heirmos:*
 
 When the Bridegroom comes in the night to judge the earth, then grant, O all-immaculate Lady, that I may go forth to meet Him with a radiant lamp, and worship His coming.
 
-A dark night of passions grips Thy servant; but with Thy light, O Good Lady, dispel the cloud of my soul, and guide me to the light of God's commandments, O all-immaculate One.
+A dark night of passions grips thy servant; but with thy light, O Good Lady, dispel the cloud of my soul, and guide me to the light of God's commandments, O all-immaculate One.
 
-With the storm of temptations and surging billows am I wholly inundated by evil thoughts, and drawn down perpetually into the abyss of despair: save Thy servant crying unto Thee, O Sovereign Lady!
+With the storm of temptations and surging billows am I wholly inundated by evil thoughts, and drawn down perpetually into the abyss of despair: save thy servant crying unto thee, O Sovereign Lady!
 
 **[Right Page — Fol. 230r]**
 
@@ -70,7 +70,7 @@ Behold, O Pure One, the affliction of my humble and passion-wracked soul; behold
 
 Lured by demonic temptations into unfitting thoughts at all times, forsake me not in mind, O Sovereign Lady, but establish me immutably.
 
-Seeking after sinners was Thy Son revealed, for the sake of His great mercy; have mercy on me, O Pure One, who have sinned more than all men, and make me like unto them.
+Seeking after sinners was thy Son revealed, for the sake of His great mercy; have mercy on me, O Pure One, who have sinned more than all men, and make me like unto them.
 
 Let me not be rebuked by the wrath of Thy Son at the time of His coming, nor let me be condemned by His anger, O All-praised One, but save me by Thy prayers.
 
@@ -96,11 +96,11 @@ Beholding Him dead Who voluntarily was incarnate of Thy blood, the Word, O All-p
 
 *Another Canon, Same Heirmos:*
 
-By the waves of this life am I harmed in soul, and I the wretched one am continually inundated and buffeted ever by enemy winds; now do I cry unto Thee: O Mother of God, help me!
+By the waves of this life am I harmed in soul, and I the wretched one am continually inundated and buffeted ever by enemy winds; now do I cry unto thee: O Mother of God, help me!
 
 Grant me a stream of spiritual tears, O all-immaculate Maiden, that I may wash away the mire of my transgressions, the burden of the passions, and bodily defilements.
 
-I have fallen asleep unto the death of the soul, and in sins do I lie in despair; but stretch forth Thy hand, I pray, and raise me up unto repentance, guiding me unto life, O Sovereign Lady.
+I have fallen asleep unto the death of the soul, and in sins do I lie in despair; but stretch forth thy hand, I pray, and raise me up unto repentance, guiding me unto life, O Sovereign Lady.
 
 **[Right Page — Fol. 232r]**
 
@@ -154,7 +154,7 @@ He who formerly boasted to destroy earth and sea is seen lying as a laughingstoc
 
 *Theotokion:*
 
-In time didst Thou give birth unto Him Who is above time, Who looses the temporal bonds of Adam the first-formed with His bonds, O All-immaculate One, and binds him with the bonds of His sweet love.
+In time didst thou give birth unto Him Who is above time, Who looses the temporal bonds of Adam the first-formed with His bonds, O All-immaculate One, and binds him with the bonds of His sweet love.
 
 *Another Canon, Heirmos: By unstable fire...*
 
@@ -166,7 +166,7 @@ When by divine command my soul is about to depart from life, snatch it away, O M
 
 A dark night holds me fast, for I have enslaved myself to dark deeds; but do Thou Thyself enlighten me with Thy light, O Portal of the Light, as I sing: "Bless all ye works, and exalt Him above all forever!"
 
-Grant Thy mercy unto the world, O Sovereign Lady, as Thy servant entreats Thee; and deliver Thy people from the punishment they dread, O all-honorable One, that we may cry unto Thee in thanksgiving: Glory to Thee, Queen of all!
+Grant thy mercy unto the world, O Sovereign Lady, as thy servant entreats thee; and deliver thy people from the punishment they dread, O all-honorable One, that we may cry unto thee in thanksgiving: Glory to thee, Queen of all!
 
 *Ode 9. Heirmos: By the bush and the fire...* [^239]
 
@@ -186,19 +186,19 @@ The multitude of sufferers, the choir of the saints, entreats Thee, O Christ, fo
 
 *Theotokion:*
 
-Thou didst give birth, O Virgin, to Him Who bears the form of earthly men yet is in the bosom of the Father; and when He was lifted up upon the Cross, the sun could not bear to behold Him and was darkened, and the gloom of idolatrous frenzy departed; therefore together with Him do we magnify Thee.
+Thou didst give birth, O Virgin, to Him Who bears the form of earthly men yet is in the bosom of the Father; and when He was lifted up upon the Cross, the sun could not bear to behold Him and was darkened, and the gloom of idolatrous frenzy departed; therefore together with Him do we magnify thee.
 
 *Another Canon, Heirmos: In the shadow of the Law...* [^240]
 
 The end draws near, O my soul; the judgment-seat is at the doors! Depart from shameful deeds and lay hold of a good life; for thou hast the Mother of God as thy helper, delivering thee from every affliction.
 
-I the wretched one have fallen among spiritual thieves, and through their wiles have I been harmfully stripped of the garment of my virtues, and filled with soul-corrupting passions; I cry unto Thee, O all-immaculate Sovereign Lady: despise me not!
+I the wretched one have fallen among spiritual thieves, and through their wiles have I been harmfully stripped of the garment of my virtues, and filled with soul-corrupting passions; I cry unto thee, O all-immaculate Sovereign Lady: despise me not!
 
 === LEAF p238 ===
 
 **[Left Page — Fol. 235v]**
 
-My whole life, O All-immaculate One, is consumed in despondency, and now through despair have I drawn near unto Hades, O Pure One; but grant me amendment, and suffer me not to be afflicted therein, as I flee unto Thy protection.
+My whole life, O All-immaculate One, is consumed in despondency, and now through despair have I drawn near unto Hades, O Pure One; but grant me amendment, and suffer me not to be afflicted therein, as I flee unto thy protection.
 
 *Theotokion:*
 
@@ -212,7 +212,7 @@ The invincible weapon and confirmation of the faith, the divine Cross, do we hym
 
 *Staurotheotokion:*
 
-Standing by the Cross, O All-immaculate One, and seeing Thy Son hanging upon the Tree, Thou didst sob, crying aloud: "Woe is me, sweet Sun! How has Thy beauty set, which was full of good will, and which adorned human nature?"
+Standing by the Cross, O All-immaculate One, and seeing thy Son hanging upon the Tree, thou didst sob, crying aloud: "Woe is me, sweet Sun! How has thy beauty set, which was full of good will, and which adorned human nature?"
 
 *On the Aposticha, Stichera of the Cross, Tone 3:*
 

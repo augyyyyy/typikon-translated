@@ -46,7 +46,7 @@
 
 === LEAF p164 ===
 
-*[Iconography: Half-page woodcut engraving of the Fall and Expulsion of Adam and Eve from Paradise. At upper left: the Creation of Eve from Adam's side ("Созда́ні́е Еѵ҆́вы"). In the center: the Tree of the Knowledge of Good and Evil with the serpent coiled around its trunk offering the fruit to Eve, who gives it to Adam ("Престꙋпле́ні́е", The Transgression). At right: a Cherub with a fiery sword driving Adam and Eve forth from the gates of Eden ("И҆згна́ні́е и҆з̾ Ра́я", The Expulsion from Paradise). Below: Adam tilling the ground with a spade and Eve spinning wool, inscribed with the divine decree: "In the sweat of thy face shalt thou eat thy bread" (Gen. 3:19).]*
+*(*Iconography: Half-page woodcut engraving of the Fall and Expulsion of Adam and Eve from Paradise. At upper left: the Creation of Eve from Adam's side ("Созда́ні́е Еѵ҆́вы"). In the center: the Tree of the Knowledge of Good and Evil with the serpent coiled around its trunk offering the fruit to Eve, who gives it to Adam ("Престꙋпле́ні́е", The Transgression). At right: a Cherub with a fiery sword driving Adam and Eve forth from the gates of Eden ("И҆згна́ні́е и҆з̾ Ра́я", The Expulsion from Paradise). Below: Adam tilling the ground with a spade and Eve spinning wool, inscribed with the divine decree: "In the sweat of thy face shalt thou eat thy bread" (Gen. 3:19).*)*
 
 ## CHEESEFARE SUNDAY: THE EXPULSION OF ADAM
 

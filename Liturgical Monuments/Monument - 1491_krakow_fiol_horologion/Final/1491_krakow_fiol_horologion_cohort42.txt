@@ -68,13 +68,13 @@ The divine memory of the martyrs has shone forth, enlightening brightly all ends
 
 === LEAF p417 ===
 *Our Venerable Father Poemen [August 27]:*[^495]
-*Troparion: "With the streams of thy tears..." Sessional hymn, Tone 3; Kontakion, Tone 4, Podoben: "Thou hast appeared":*
+*Troparion: "With the streams of thy tears..." Sessional hymn, Tone 3; Kontakion, Tone 4, Podoben: "Thou hast appeared" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 
 *Kontakion of Our Venerable Father Poemen:*
 Thy luminous ascetical struggles, O venerable father, have today arisen as a holy memory, cheering devout souls, O Poemen divinely-wise, our venerable father!
 
 *Our Venerable Father Moses the Black [August 28]:*[^496]
-*Troparion: "A dweller of the wilderness..." Sessional hymn... Kontakion, Tone 4, Podoben: "Thou hast appeared":*
+*Troparion: "A dweller of the wilderness..." Sessional hymn... Kontakion, Tone 4, Podoben: "Thou hast appeared" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 
 *Kontakion of Our Venerable Father Moses the Black:*
 Having spiritually struck the faces of the demons, thou didst shine forth brightly as the sun, guiding with light our souls who honor thee, O venerable Moses!
@@ -105,7 +105,7 @@ Herod, having transgressed the law, O Forerunner, gave thy precious head unto a 
 
 *On the Aposticha, of the Oktoechos; Glory, of the Forerunner; And now, Theotokion. Troparia of the Forerunner and of the Saints.*
 *The Deposition of the Precious Sash of our Most Pure Lady Theotokos in Chalkoprateia [August 31]:*[^502]
-*At Vespers: ordinary psalmody [Kathisma]. Stichera in the Menaion on 6; Glory, and now, Tone 2: "As a crown..."; on the Aposticha, of the Oktoechos; Glory, and now, Idiomelon, Tone 2; Troparion: "O Theotokos, Ever-Virgin..."; and Hypakoe twice. At Matins: Troparion thrice; Sessional hymn in the Oktoechos; Canon to the Mother of God in the Menaion on 6, and in the Oktoechos two [canons] on 8. After Ode 6: Kontakion, Tone 4, Podoben: "Thou hast appeared":*[^503]
+*At Vespers: ordinary psalmody [Kathisma]. Stichera in the Menaion on 6; Glory, and now, Tone 2: "As a crown..."; on the Aposticha, of the Oktoechos; Glory, and now, Idiomelon, Tone 2; Troparion: "O Theotokos, Ever-Virgin..."; and Hypakoe twice. At Matins: Troparion thrice; Sessional hymn in the Oktoechos; Canon to the Mother of God in the Menaion on 6, and in the Oktoechos two [canons] on 8. After Ode 6: Kontakion, Tone 4, Podoben: "Thou hast appeared" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*[^503]
 
 *Kontakion of the Deposition of the Sash of the Theotokos:*
 The deposition of Thy precious sash celebrates today Thy temple, O All-praised one, and diligently cries unto Thee: Rejoice, O Virgin, boast of Christians!

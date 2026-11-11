@@ -67,7 +67,7 @@ Without seed from the Divine Spirit, and by the Father's good pleasure, thou did
 Let the heavens be glad, and let the earthly rejoice; for the Lord hath wrought might with His arm: He trampled down death by death, He became the Firstborn of the dead, He delivered us from the belly of Hades, and granted great mercy unto the world!
 
 *Glory, both now. Theotokion:*
-Thee, who didst mediate the salvation of our race, we hymn, O Virgin Mother of God; for having accepted the Passion of the Cross in the flesh taken from thee, Thy Son and our God delivered us from corruption, as Lover of mankind.
+Thee, who didst mediate the salvation of our race, we hymn, O Virgin Mother of God; for having accepted the Passion of the Cross in the flesh taken from thee, thy Son and our God delivered us from corruption, as Lover of mankind.
 
 *At the Midnight Office, Canon to the Holy Trinity. Ode 1, Tone 3. Heirmos: He Who of old by divine beckoning...* (fol. 39)[^57]
 

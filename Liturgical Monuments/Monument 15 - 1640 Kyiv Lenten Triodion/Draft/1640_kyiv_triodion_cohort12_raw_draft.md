@@ -36,7 +36,7 @@
 
 *Martyrikon:* Neither tribulation, nor distress, nor famine, nor persecution, nor peril, nor the fury of wild beasts, nor sword, nor threatening fire were able to separate you from God, O all-praised martyrs! (Rom. 8:35). But rather by love toward Him, having contended as though in alien bodies, ye forgot nature and despised death: therefore according to the desert of your sufferings ye have received the reward, and have become heirs of the Heavenly Kingdom. Pray ye for our souls!
 
-*Glory... Both now... Stavrotheotokion, the same Tone. Podoben: "O all-praised martyrs" (Prekhvalnii muchenitsy):*
+*Glory... Both now... Stavrotheotokion, the same Tone. Podoben: "O all-praised martyrs" (Прехва́льнїи мч҃ницы):*
 
 A sword has pierced, O Son, said the Virgin, when on the Tree she beheld Christ hanging, and it tears my heart, O Master, even as Simeon foretold unto me of old (Luke 2:35). But arise and co-glorify, O Immortal One, Thy Mother and handmaid, who prays unto Thee!
 
@@ -72,7 +72,7 @@ O Holy King, All-powerful, Whom all creation fears and trembles before: save us,
 
 *The Reading from the Prophecy of Joel (Joel 2:12–26):*
 
-Thus saith the Lord: Turn ye unto Me with all your heart, and in fasting, and in sackcloth, and in weeping, and in mourning; and rend your hearts, and not your garments, and turn unto the Lord your God: for He is merciful and compassionate, long-suffering and plenteous in mercy, and repents of evil (Joel 2:12–13 [LXX]). Who knows if He will turn...
+Thus says the Lord: Turn ye unto Me with all your heart, and in fasting, and in sackcloth, and in weeping, and in mourning; and rend your hearts, and not your garments, and turn unto the Lord your God: for He is merciful and compassionate, long-suffering and plenteous in mercy, and repents of evil (Joel 2:12–13 [LXX]). Who knows if He will turn...
 
 === LEAF p114 ===
 
@@ -112,7 +112,7 @@ Thus saith the Lord: Turn ye unto Me with all your heart, and in fasting, and in
 
 *The Reading from the Prophecy of Joel (Joel 3:12–21 [LXX]):*
 
-Thus saith the Lord: Let all the nations awake and go up to the Valley of Jehoshaphat: for there will I sit to judge all the heathen round about! Put ye in the sickles, for the harvest is ripe; come, tread, for the press is full, the vats overflow, for their wickedness is multiplied! (Joel 3:12–13 [LXX]). Voices resounded in the valley of judgment, for the day of the Lord is near in the valley of judgment! The sun and the moon shall be darkened, and the stars shall withdraw their shining (Joel 3:14–15 [LXX]). And the Lord shall cry out of Zion, and utter His voice from Jerusalem, and heaven and earth shall be shaken; but the Lord will spare His people, and strengthen the sons of Israel (Joel 3:16 [LXX]). And ye shall know that I am the Lord your God, Who dwell in Zion, My holy mountain: then shall Jerusalem be holy, and strangers shall no more pass through her (Joel 3:17 [LXX]). And it shall come to pass in that day, that the mountains shall drop down sweetness, and the hills shall flow with milk, and all the streams of Judah shall pour forth waters; and a fountain shall go forth from the house of the Lord, and water the valley of earthly measures (Joel 3:18 [LXX]). Egypt shall be a desolation, and Edom shall be a wilderness of destruction, for the injustices against the sons of Judah, because they shed righteous blood in their land (Joel 3:19 [LXX]). But Judah shall be inhabited unto ages, and Jerusalem from generation to generation (Joel 3:20 [LXX]). And I will avenge their blood, and will not leave it unpunished; and the Lord shall dwell in Zion! (Joel 3:21 [LXX]).
+Thus says the Lord: Let all the nations awake and go up to the Valley of Jehoshaphat: for there will I sit to judge all the heathen round about! Put ye in the sickles, for the harvest is ripe; come, tread, for the press is full, the vats overflow, for their wickedness is multiplied! (Joel 3:12–13 [LXX]). Voices resounded in the valley of judgment, for the day of the Lord is near in the valley of judgment! The sun and the moon shall be darkened, and the stars shall withdraw their shining (Joel 3:14–15 [LXX]). And the Lord shall cry out of Zion, and utter His voice from Jerusalem, and heaven and earth shall be shaken; but the Lord will spare His people, and strengthen the sons of Israel (Joel 3:16 [LXX]). And ye shall know that I am the Lord your God, Who dwell in Zion, My holy mountain: then shall Jerusalem be holy, and strangers shall no more pass through her (Joel 3:17 [LXX]). And it shall come to pass in that day, that the mountains shall drop down sweetness, and the hills shall flow with milk, and all the streams of Judah shall pour forth waters; and a fountain shall go forth from the house of the Lord, and water the valley of earthly measures (Joel 3:18 [LXX]). Egypt shall be a desolation, and Edom shall be a wilderness of destruction, for the injustices against the sons of Judah, because they shed righteous blood in their land (Joel 3:19 [LXX]). But Judah shall be inhabited unto ages, and Jerusalem from generation to generation (Joel 3:20 [LXX]). And I will avenge their blood, and will not leave it unpunished; and the Lord shall dwell in Zion! (Joel 3:21 [LXX]).
 
 *Then we sing with melody, instead of "Let my prayer be set forth," the Prokimenon, Tone 6: Let Israel hope in the Lord, from henceforth and unto the age! (Ps. 130:3 [LXX / MT 131:3]).*
 
@@ -182,7 +182,7 @@ Thus saith the Lord: Let all the nations awake and go up to the Valley of Jehosh
 
 *At the 1st Stichology: Sessional hymn in the Octoechos.*
 
-*At the 2nd Stichology: Sessional Hymn, Tone 4. Podoben: "Thou Who wast lifted up" (Voznesyisya):*
+*At the 2nd Stichology: Sessional Hymn, Tone 4. Podoben: "Thou Who wast lifted up" (Вознесы́йсѧ):*
 
 Even as Moses led Israel out of bondage through the Red Sea (Exod. 14), having drowned Pharaoh in the deep with Thy supreme right hand: so in wonders, O disciples of Mary, Thy disciples opened the sea of grievous godlessness, and guided all unto Thee, O Word without beginning, O only Lover of mankind!
 

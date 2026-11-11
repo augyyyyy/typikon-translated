@@ -2,14 +2,14 @@
 
 === LEAF p181 ===
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 Nothing proper, except the Liturgy of Basil the Great with Vespers of the Feast on the Eve of the Nativity and of Theophany, if the Eve occurs on one of the five fasting days from Monday unto Friday; for if it occurs on Saturday or Sunday, then on the Eve the Liturgy of Chrysostom is celebrated at its own time without Vespers, and afterwards Vespers of the Feast at its own time; while on the Feast itself the Liturgy of Basil the Great without Vespers; and on Friday before the Eve, unto which the Royal Hours are transferred, the Typikon appoints no Liturgy whatever, which the Synod of Lviv also follows.[^311]
 
-### Saturday before the Nativity of Christ
+**Saturday before the Nativity of Christ**
 *Within the Forefeast of the Nativity of Christ.*  
 See the Typikon on page 170.
 
-### December 24: Eve of the Nativity of Christ
+**December 24: Eve of the Nativity of Christ**
 
 All according to the Typikon previously indicated for the Forefeast of the Nativity of Christ; however, in place of the customary Hours we sing the Great Hours and the Liturgy of Basil with Vespers; except that, if the Eve occurs on Saturday or Sunday, we sing the Hours previously on Friday, and the Liturgy of Basil on the day of the Feast itself, while on the Eve the Liturgy of Chrysostom at its own time, and afterwards Vespers at its own time.
 
@@ -17,7 +17,7 @@ All according to the Typikon previously indicated for the Forefeast of the Nativ
 
 === LEAF p182 ===
 
-### The Hours of the Eve of the Nativity of Christ
+**The Hours of the Eve of the Nativity of Christ**
 *(And of Theophany)*
 
 #### Notes
@@ -34,7 +34,7 @@ All according to the Typikon previously indicated for the Forefeast of the Nativ
 6. The Royal Hours are celebrated with the Holy Doors closed, being opened only for the reading of the Gospel.
 7. We light the candles upon the Altar only for the reading of the Gospel.
 
-#### Order of Service
+**Order of Service**
 The time having arrived, the Priest enters the church, approaches the Holy Table, bows profoundly, and kisses the Gospel; he places the markers for the four Gospel readings, and having bowed again, enters the Diakonikon; taking upon himself the epitrachelion, he goes out before the closed Holy Doors, and making a profound metania toward the Holy Mysteries, begins customarily: **"Blessed is our God"**; Choir: **"Amen"**; then **"Glory to Thee, our God, glory to Thee"**, **"O Heavenly King"**, and all the rest according to custom up to and including **"Come, let us worship"**.[^317] The Priest, having made a profound metania at the 3rd **"Come, let us worship"**, enters the sanctuary, and read-
 
 ---
@@ -76,11 +76,11 @@ the analogion; and having bowed profoundly to the Holy Mysteries, they return, e
 **Question:** When the Royal Hours are transferred back from Sunday or Saturday unto Friday, are the Troparion and Kontakion of the Eve to be taken at them, or of the Forefeast, of December 22 or 23?  
 **Answer:** The Typikon mentions only the Troparion and Kontakion of the Eve: on this account we deem that those of the Eve are to be taken. But if to anyone this seems improper, that one and the same Troparion should be taken on two days, that is, both on the Eve and before the Eve, let him consider that the Troparion of the Forefeast is also one and the same, taken on various days of the Forefeast.
 
-### The Typika (Obidnytsia)
+**The Typika (Obidnytsia)**
 
 After the concluding prayer of the 9th Hour, we immediately read the Typika (*Obidnytsia*), as in the Horologion, yet without the introductory verse which is before the first Psalm, without Stichera on the Beatitudes, without the Apostle and Gospel; likewise, if there is to be a Liturgy, also without the Creed (*Viruyu*), and without **"Blessed be the name of the Lord"**, and without Psalm 33 which follows after it, because these will be taken at the Liturgy. When, however, the Royal Hours are sent back from the Eve or from the Fore-eve unto Friday, then, since a Liturgy does not occur then, both the Creed (*Viruyu*) and **"Blessed be the name of the Lord"** with Psalm 33 are read here. In place of the Kontakia of the Temple, of the day, and the others, the single Kontakion of the Eve is taken. Here is the more detailed Order of Service for thee:
 
-#### More Detailed Order of Service
+**More Detailed Order of Service**
 1. The Priest, after the concluding prayer of the 9th Hour, having made a metania before the Holy Doors, enters the sanctuary, and sits in his place.
 
 ---
@@ -104,10 +104,10 @@ Priest to the people: the Daily Dismissal.[^321]
 
 === LEAF p189 ===
 
-### Saturday before the Nativity of Christ
+**Saturday before the Nativity of Christ**
 If this occurs on the Eve, seek the Typikon concerning the Liturgy here on page 170.
 
-### Sunday before the Nativity of Christ
+**Sunday before the Nativity of Christ**
 If this occurs on the Eve, seek the Typikon here on page 175.
 
 ## December 25: The Nativity in the Flesh of Our Lord Jesus Christ
@@ -135,8 +135,8 @@ Now we set forth three detailed Orders of Service: one for the case of Vespers w
 
 === LEAF p191 ===
 
-### Order of Service
-#### 1. Vespers with the Liturgy of Basil
+**Order of Service**
+**1. Vespers with the Liturgy of Basil**
 *With the Eve on Monday, Tuesday, Wednesday, Thursday, and Friday.*
 
 1. From the beginning even unto **"Blessed is the kingdom"**, all things without change as customarily at the Liturgy without Vespers.[^323]
@@ -164,7 +164,7 @@ Now we set forth three detailed Orders of Service: one for the case of Vespers w
 13. After the Ambo Prayer: **"Blessed be the name of the Lord"** with Psalm 33: **"I will bless the Lord"**.
 14. After the Dismissal, both Choirs having assembled together in the midst of the church, sing together the Troparion, **"Glory... Both now..."**, and Kontakion of the Feast.
 
-#### 2. Vespers Itself Without the Liturgy
+**2. Vespers Itself Without the Liturgy**
 *With the Eve on Saturday or on Sunday.*  
 *Note.* In this case the Liturgy of Chrysostom takes place at its own time without Vespers, according to the Typikon laid down previously on page 170 if Saturday, and 176 if Sunday; while Vespers at its own time is celebrated thus:
 1. The Priest, having taken upon himself the epitrachelion, and gone out before the Holy Doors, and made a profound metania, begins customarily: **"Blessed is our God"**; Choirs: **"Amen"**; then **"Glory to Thee, our God, glory to Thee"**, **"O Heavenly King"**, and the rest with the Trisagion and **"Our Father"**, up to and including **"Come, let us worship"**.  
@@ -196,7 +196,7 @@ remain at the Holy Doors, exclaiming: **"Wisdom!"** and **"Let us attend!"** for
 then to the other, departs unto the Holy Table, and having placed the Holy Gospel upon it, stands there; while the Deacons, having bowed profoundly before the steps of the Altar, go out each by his own doors before the Holy Doors, and having bowed again profoundly, first the second Deacon says: **"Let us all say"**, then the first, after **"Vouchsafe, O Lord"**, the Litany: **"Let us complete"**. If there be no Deacons, the Priest himself chants the Litanies from the sanctuary; and immediately after the second exclamation of the Litany *Let us complete*, the Great Dismissal of the Feast itself takes place. (At Theophany there is no Dismissal here, but after the Blessing of Water).
 10. After the Dismissal, both Choirs having gathered together in the midst of the church, sing together the Troparion, **"Glory... Both now..."**, and Kontakion of the Feast; and at the end the sacred ministers, having closed the Holy Doors and bowed profoundly, depart unto the Vestry.
 
-### All-Night Vigil with Great Compline
+**All-Night Vigil with Great Compline**
 1. At the customary time of the All-Night Vigil, the Priest having put upon himself the epitrachelion, and the Deacons, if there be any, having vested in dalmatics with the orarion, go before the steps of the Altar, and having bowed profoundly to the Holy Mysteries, open the Holy Doors; and the Deacons cense all things without change, as at the All-Night Vigil with Vespers.[^331]
 2. After the censing, the Priest (the Deacon having first exclaimed, if there be one: **"Bless, Master!"**) begins: **"Blessed is our God"**; and as the Choir sings **"Amen"**, the sacred ministers, having closed the Holy Doors, stand before the steps of the Altar, and the Choirs follow: **"Glory to Thee,"**
 
@@ -216,7 +216,7 @@ Feast is sung; and in place of the Troparia: **"Have mercy on us, O Lord"**, app
 5. The Priest goes out before the Holy Doors for three prayers, that is, for that of Basil, for that of Manasseh, and for the other of Basil.
 6. After **"Glory to God in the highest"**, the Priest having vested in phelonion and opened the Holy Doors, the Litiya and the remaining Order of Service take place even unto the end of Matins without change, as at the All-Night Vigil with Vespers.
 
-#### At the Hours and at the Divine Liturgy
+**At the Hours and at the Divine Liturgy**
 All of the Feast; in place of the Trisagion we sing at the Liturgy: **"All of you who have been baptized into Christ"** (*Єлицы во Христа крестистеся*).
 
 *Note.* “Be it known also concerning this: that from the Nativity of Christ even unto the Holy Theophanies there is no fast in any way, nor do prostrations (kneelings) occur, neither in church nor in cells” (*Menaion*, at the end of Dec. 24).[^335] However, the custom among our people is to observe a fast on the Eve of Theophany, as another Typikon of the Menaion has on the Eve of Theophany, and likewise during these days to bend the knees in church as also throughout the whole year.
@@ -236,9 +236,9 @@ and the Synaxis of the Most Holy Theotokos likewise has little. Vespers of this 
 3. Although the divine worship of this day, as also of the following day, does not have an All-Night Vigil, nor a Polyeleos, nevertheless our custom, approved by the Synods of Zamosc (*Titulo de Jejuniis et Festis*) and of Lviv (Title IV, Chap. 6), commands to abstain through the first three days of this Feast from servile works and to attend divine services; for to this they reckon December 25, 26, and 27.
 4. The Synaxis of the Most Holy Theotokos has three cases: for it may occur: (1) on a weekday except Monday; (2) on Monday; (3) on Sunday. The reason why the Synaxis of the Most Holy Theotokos has a special Typikon for Monday is this: that in this case the service of the Synaxis has to be joined with the service of the Sunday after the Nativity, which is of the Holy God-ancestors, David the King, Joseph the Betrothed, and James the Brother of the Lord according to the flesh. For if the Synaxis occurs on Monday, then the Sunday after the Nativity would fall on January 1, that is, already after the Apodosis of the Feast, which occurs on December 31; and on this account according to the Typikon it is transferred back to December 26. We set forth the Typikon for all three aforesaid cases.
 
-### Order of Service
-#### Synaxis of the Most Holy Theotokos on Weekdays Except Monday
-##### At Vespers
+**Order of Service**
+**Synaxis of the Most Holy Theotokos on Weekdays Except Monday**
+**At Vespers**
 1. Kathisma there is none.
 2. At **"Lord, I have cried"**, Stichera of the Feast on 6; and **"Glory... Both now..."**, of the Feast.
 3. After the Entrance, the Great Prokimenon of the Feast: **"Who is a god so great as our God?"**.
@@ -251,13 +251,13 @@ and the Synaxis of the Most Holy Theotokos likewise has little. Vespers of this 
 
 6. Great Festal Dismissal with commemoration of the Synaxis of the Most Holy Theotokos and of the Betrothed, and of the Holy Hieromartyr.[^336]
 
-##### At Compline
+**At Compline**
 There is no Canon of the Theotokos even unto the Apodosis of Theophany (January 14). After **"It is truly right"**, Kontakion of the Betrothed; **"Glory... Both now..."**, Kontakion of the Synaxis of the Most Holy Theotokos.
 
-##### At Midnight Office
+**At Midnight Office**
 “After the 1st Trisagion in place of **"Behold, the Bridegroom"** we say the Troparion of the Feast: **"Thy Nativity"**; after the 2nd Trisagion, Kontakion of the Theotokos: **"He Who is before the morning star"**; then **"Lord, have mercy"**, 12 times, and the Dismissal. The prayers **"Remember, O Lord"** we do not say.”[^337]
 
-##### At Matins
+**At Matins**
 1. At **"God is the Lord"**, Troparion of the Nativity twice; **"Glory..."**, of the Betrothed; **"Both now..."**, of the Nativity.
 2. Two regular Kathismata with their proper Sessional Hymns, and immediately Psalm 50.
 3. Both Canons of yesterday, and all the rest in the Canon as yesterday, only after the 3rd Ode Kontakion-Ikos and Hypakoe of the Feast; and after the 6th Ode Kontakion-Ikos of the Synaxis of the Most Holy Theotokos.

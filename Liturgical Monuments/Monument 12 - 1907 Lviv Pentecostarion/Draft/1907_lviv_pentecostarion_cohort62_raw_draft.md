@@ -294,7 +294,7 @@ A heavenly tabernacle was shown forth in the upper chamber, where Christ accompl
 
 Having blessed the bread, being Himself the Heavenly Bread, having given thanks unto the Father Who begat Him; having taken also the cup, He gave it unto the Disciples, crying: Take, eat, this is My Body; and drink ye the Blood of incorruptible life. *(Twice)*
 
-The Lord nourished His Disciples with heavenly food; before His Passion He gave them Angelic Bread, marvelous beyond manna: Your fathers, (saith the Lord) did eat manna in the wilderness, and died; this is the Bread which comes down from heaven, that if any man eat thereof, he shall not die, but shall live for ever: of which do Thou now vouchsafe us also to partake, for the sake of the supplications of Thy Mother of God. *(Twice)*[^2807]
+The Lord nourished His Disciples with heavenly food; before His Passion He gave them Angelic Bread, marvelous beyond manna: Your fathers, (says the Lord) did eat manna in the wilderness, and died; this is the Bread which comes down from heaven, that if any man eat thereof, he shall not die, but shall live for ever: of which do Thou now vouchsafe us also to partake, for the sake of the supplications of Thy Mother of God. *(Twice)*[^2807]
 
 *Glory... Both now... Tone 6:*
 Come, ye faithful lovers of the feasts, let us clap our hands today at the salvation-bearing feast for the world, of the Bread of life and the Lamb of God, Who takes away the sins of the world and our transgressions, not in the old leaven of malice...[^2808]

@@ -2,10 +2,10 @@
 *On the second Saturday, on the second week after Pascha:*  
 *O sing unto the Lord, all ye works of the Lord, and supreme exalt Him unto all ages!*  
 *Ode 9. Heirmos: An image of the pure...*  
-*Troparion ([Б]):* Thou didst stand, O Master, upon the Tree of the Cross, and didst draw all nations unto Thy knowledge, O Lord; and Thou didst open Paradise, which the Forefathers had closed of old by tasting of the tree: therefore we all magnify Thee!  
-*Troparion ([Л]):* They laid Thee in the tomb as dead, O Giver and Builder of life; and fulfilling the rites of burial, O Christ, the noble Joseph and Nicodemus, and the choir of women with them, wrapping Thee about, weeping lamentably, magnified Thee in a manner befitting God! *Glory:*  
-*Troparion ([О]):* All enlightenment and desire, all consolation and strengthening, O my Savior, wast Thou unto all who devoutly celebrate Thy holy and third-day rising, O only Compassionate One: for Whose sake we all magnify Thee! *Both now:*  
-*Theotokion ([С]):* From thy all-immaculate womb, the All-perfect One willingly assumed flesh, endowed with understanding and animated with a rational soul according to truth; and He is placed beside the Father's dominion in the heavens, O most pure Lady, from whence He shall come again!  
+*Troparion ((*Б*)):* Thou didst stand, O Master, upon the Tree of the Cross, and didst draw all nations unto Thy knowledge, O Lord; and Thou didst open Paradise, which the Forefathers had closed of old by tasting of the tree: therefore we all magnify Thee!  
+*Troparion ((*Л*)):* They laid Thee in the tomb as dead, O Giver and Builder of life; and fulfilling the rites of burial, O Christ, the noble Joseph and Nicodemus, and the choir of women with them, wrapping Thee about, weeping lamentably, magnified Thee in a manner befitting God! *Glory:*  
+*Troparion ((*О*)):* All enlightenment and desire, all consolation and strengthening, O my Savior, wast Thou unto all who devoutly celebrate Thy holy and third-day rising, O only Compassionate One: for Whose sake we all magnify Thee! *Both now:*  
+*Theotokion ((*С*)):* From thy all-immaculate womb, the All-perfect One willingly assumed flesh, endowed with understanding and animated with a rational soul according to truth; and He is placed beside the Father's dominion in the heavens, O most pure Lady, from whence He shall come again!  
 *At the Liturgy. Prokeimenon: Great is our Lord, and great is His power, and of His understanding there is no number. (Ps. 146:5 LXX) Another for the reposed: Their souls shall dwell among good things. (Ps. 24:13 LXX) Epistle: Acts, section 15 (Acts 5:21-33). Another to the Thessalonians, section 270 (1 Thess. 4:13-17). Alleluia of the feast with its stichoi: Come, let us rejoice in the Lord: Stichos: Praise the Lord, O Jerusalem! (Ps. 147:1 LXX) And for the reposed: Blessed are they whom Thou hast chosen. Gospel: John, section 14 (John 5:17-24). And another for the reposed. Communion Hymn of the feast: Praise the Lord, O Jerusalem! And for the reposed: Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord. Alleluia.*  
 *And the feast of the passing week is dismissed. Thereafter, we chant every service on Saturday according to its full order until the Ascension of Christ.*[^564]
 
@@ -17,7 +17,7 @@ With the Archangels let us hymn: And the Anatolian Sticheron, in the same Tone:
 Thee Who wast crucified and buried: *Glory, Tone 4:*  
 Why pour ye out myrrh with tears: *Seek all these Stichera below at Great Vespers. Both now, Theotokion, or the Dogmatikon which by custom is sung at Great Vespers; for the Oktoechos according to the Syncletics considers this hymn to be sung instead of our customary Theotokion at Great Vespers.*[^565]  
 *Theotokion Dogmatikon, Tone 2:*  
-O exceedingly great mystery! Beholding the wonders, I proclaim the Godhead; for Emmanuel opened the doors of nature as the Lover of mankind, yet as God He did not break the seals: but He came forth from the womb even as He entered in; thus in the flesh, even as the Bodiless One entered, ineffably He came forth, according to the Prophet who saith: This gate shall be shut, and no man shall pass through it, but only the Lord God of Israel, Who hath great mercy!  
+O exceedingly great mystery! Beholding the wonders, I proclaim the Godhead; for Emmanuel opened the doors of nature as the Lover of mankind, yet as God He did not break the seals: but He came forth from the womb even as He entered in; thus in the flesh, even as the Bodiless One entered, ineffably He came forth, according to the Prophet who says: This gate shall be shut, and no man shall pass through it, but only the Lord God of Israel, Who hath great mercy!  
 *At the Aposticha:*  
 *Prokeimenon: The Lord is King, He is robed in majesty; with its verses. And "Vouchsafe, O Lord". At the Aposticha:*
 
@@ -155,35 +155,35 @@ Arise, O Lord my God, in the precept which Thou hast commanded, and the congrega
 *Refrain: Christ is risen from the dead!*  
 *Troparion: Let us purify our senses... And all the rest unto the end.*  
 *Another Canon of the Theotokos, Prosomoion, bearing the Acrostic on the first Troparia: (ѲЕѠФАНИС), that is, Theophanes, because he was the author thereof. The same Tone:*[^573]  
-*Troparion ([Ѳ]):* O all-immaculate Virgin, who didst ineffably give birth unto Christ Who broke the cords of death, Who is eternal Life, Who hath shone forth today from the tomb, and enlightened the world!  
+*Troparion ((*Ѳ*)):* O all-immaculate Virgin, who didst ineffably give birth unto Christ Who broke the cords of death, Who is eternal Life, Who hath shone forth today from the tomb, and enlightened the world!  
 *Troparion:* Beholding Thy Son and God arisen, rejoice with the Apostles, O pure one graced of God; and thou who wast first to receive the greeting "Rejoice!" as the cause of joy for all, O all-immaculate Mother of God!  
 *Ode 3. Heirmos: Come, let us drink a new drink...*  
 *Troparion: Now are all things filled with light...*  
 *Troparion: Yesterday I was buried with Thee, O Christ...*  
-*Troparion ([Е]):* Unto incorruptible life do I come today, by the goodness of Him Who was born of thee, O pure one, and Who hath flashed forth light unto all the ends of the earth!  
+*Troparion ((*Е*)):* Unto incorruptible life do I come today, by the goodness of Him Who was born of thee, O pure one, and Who hath flashed forth light unto all the ends of the earth!  
 *Troparion:* Beholding Christ, Whom thou didst bear in the flesh, arisen from the dead as He said, dance, O pure one, and magnify Him as God, O most pure Lady!  
 *Ode 4. Heirmos: Upon the divine watch...*  
 *Troparion: Unto the male gender...*  
 *Troparion: As a yearling lamb...*  
 *Troparion: David the ancestor of God...*  
-*Troparion ([Ѡ]):* He Who created Adam, thy forefather, O pure one, is formed from thee, and hath destroyed the dwelling of death by His own death today, and hath illuminated all things with the divine radiance of the Resurrection!  
+*Troparion ((*Ѡ*)):* He Who created Adam, thy forefather, O pure one, is formed from thee, and hath destroyed the dwelling of death by His own death today, and hath illuminated all things with the divine radiance of the Resurrection!  
 *Troparion:* Beholding Christ, Whom thou didst bear, shining forth wonderfully from the dead, O pure one, good and spotless among women and fair, today for the salvation of all, rejoicing with His Apostles, glorify Him!  
 *Ode 5. Heirmos: Let us rise early in deep dawn...*  
 *Troparion: Beholding Thy boundless compassion...*  
 *Troparion: Bearing lamps, let us draw near...*  
-*Troparion ([Ф]):* The singular festival of the devout is enlightened by the divine and life-bearing rays of the rising of thy Son, O most pure Mother of God, and is filled with joy!  
+*Troparion ((*Ф*)):* The singular festival of the devout is enlightened by the divine and life-bearing rays of the rising of thy Son, O most pure Mother of God, and is filled with joy!  
 *Troparion:* Without opening the doors of virginity in Thine Incarnation, Thou didst not break the seals of the tomb, O King of creation; therefore, seeing Thee arisen, Thy Mother rejoiced!  
 *Ode 6. Heirmos: Thou didst descend into the nethermost parts of the earth...*  
 *Troparion: Preserving the seals unbroken...*  
 *Troparion: O my Savior, the living and unslain sacrifice...*  
-*Troparion ([А]):* That which was held of old by death and corruption is raised up by Him Who was incarnate from thy most pure womb unto incorruptible and everlasting life, O Virgin Theotokos!  
+*Troparion ((*А*)):* That which was held of old by death and corruption is raised up by Him Who was incarnate from thy most pure womb unto incorruptible and everlasting life, O Virgin Theotokos!  
 *Troparion:* He Who descended into the nethermost parts of the earth, descending into thy pure womb, and dwelling and becoming incarnate beyond understanding, raised Adam up with Himself, arising from the tomb!  
 *Kontakion: Though Thou didst descend into the tomb... Ikos: Before the morning the sun...*  
 *Ode 7. Heirmos: He Who delivered the Children from the furnace...*  
 *Troparion: The women with myrrh...*  
 *Troparion: We celebrate the death of death...*  
 *Troparion: As truly sacred and all-festive...*  
-*Troparion ([Н]):* Put to death, Thy Son slew death, O all-immaculate Virgin, and granted abiding life unto all the faithful unto ages of ages: the only blessed and exceedingly praised God of our fathers!  
+*Troparion ((*Н*)):* Put to death, Thy Son slew death, O all-immaculate Virgin, and granted abiding life unto all the faithful unto ages of ages: the only blessed and exceedingly praised God of our fathers!  
 *Troparion:* Reigning over all creation, becoming man He dwelt in thy womb graced of God, and enduring crucifixion and death, He arose in a manner befitting God, raising us together with Himself, as He is almighty!
 
 === LEAF p238 ===
@@ -192,12 +192,12 @@ Arise, O Lord my God, in the precept which Thou hast commanded, and the congrega
 *Troparion: Come, on this auspicious day...*  
 *Troparion: Lift up thine eyes round about, O Zion, and see...*  
 *Troparion: O Father Almighty, the Word, and the Spirit...*  
-*Troparion ([И]):* Through thee, O Virgin Theotokos, the Lord came into the world, and tearing open the belly of hades, granted resurrection unto us who were dead: therefore we bless Him unto all ages!  
+*Troparion ((*И*)):* Through thee, O Virgin Theotokos, the Lord came into the world, and tearing open the belly of hades, granted resurrection unto us who were dead: therefore we bless Him unto all ages!  
 *Troparion:* Overthrowing all the dominion of death in His Resurrection, Thy Son, O Virgin, as mighty God, exalted us together with Himself and deified us: therefore we sing praises unto Him unto all ages!  
 *Ode 9. Heirmos: Shine, shine, O new Jerusalem...*  
 *Troparion: O divine! O beloved! O sweetest voice!...*  
 *Troparion: O great and most sacred Pascha, Christ!...*  
-*Troparion ([С]):* With one accord, O Virgin, we the faithful bless thee: Rejoice, O gate of the Lord; rejoice, O living city; rejoice, through whom the light of the Resurrection from the dead of Him Who was born of thee hath shone upon us today!  
+*Troparion ((*С*)):* With one accord, O Virgin, we the faithful bless thee: Rejoice, O gate of the Lord; rejoice, O living city; rejoice, through whom the light of the Resurrection from the dead of Him Who was born of thee hath shone upon us today!  
 *Troparion:* Be glad and rejoice, O divine gate of light; for Jesus, setting into the tomb, hath shone forth, radiating brighter than the sun, and enlightening all the faithful, O Lady graced of God!
 
 *Another Canon of the Myrrh-bearing Women, composed by the Lord Andrew of Crete, Tone 2:*[^574]  

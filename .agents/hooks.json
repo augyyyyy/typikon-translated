@@ -1,0 +1,16 @@
+{
+  "translation-governance": {
+    "PreToolUse": [
+      {
+        "matcher": "search_web|run_command|write_file|edit_file",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "py scripts/governance_gate.py",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

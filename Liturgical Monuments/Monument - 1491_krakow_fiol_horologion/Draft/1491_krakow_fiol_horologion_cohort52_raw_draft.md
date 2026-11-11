@@ -31,7 +31,7 @@ Most glorious art Thou, O Christ our God, Who didst establish our Fathers as lum
 The preaching of the Apostles and the doctrines of the Fathers confirmed the one Faith for the Church; and wearing the garment of truth woven from theology on high, she rightly defins and glorifies the great mystery of piety![^816]
 
 *"More honorable than the Cherubim" is not chanted. Exapostilarion of the feast and of the Fathers.*
-*At the Praises: Resurrectional stichera 4, and of the Fathers on 4, Tone 6, Podoben: "Having laid up all hope":* "Having laid up all hope..."; *Glory, Tone 8:* "The choir of the holy Fathers..."; *Both now:* "Most blessed art thou, [O Virgin Theotokos...]"; *Resurrectional Troparion; Ektenia and Dismissal.*
+*At the Praises: Resurrectional stichera 4, and of the Fathers on 4, Tone 6, Podoben: "Having laid up all hope" (Всѐ оу҆пова́нїе):* "Having laid up all hope..."; *Glory, Tone 8:* "The choir of the holy Fathers..."; *Both now:* "Most blessed art thou, [O Virgin Theotokos...]"; *Resurrectional Troparion; Ektenia and Dismissal.*
 *At the Liturgy: From the Canon of the Holy Fathers, Ode 3 and Ode 6. Prokeimenon: Song of the Fathers:* "Blessed art Thou, O Lord, God of our fathers, and praised and glorified is Thy name unto the ages!" [Dan. 3:26].[^817]
 *Verse:* "For Thou art righteous in all that Thou hast done to us!" [Dan. 3:27].
 *Epistle: Pericope 44 [Acts 20:16–18, 28–36].*
@@ -40,7 +40,7 @@ The preaching of the Apostles and the doctrines of the Fathers confirmed the one
 *Communion verse:* "Praise the Lord from the heavens...", *and another of the commemoration:* "Rejoice in the Lord, O ye righteous: praise is comely for the upright!" [Ps. 32:1].
 
 *On that same day, in the evening: at Vespers, Stichera: 3 of the Fathers, Tone 6:* "The unoriginate [Father]...", *and 3 Dominical; Glory, Tone 6:* "The mysterious trumpets of the Spirit today..."; *Both now, of the feast:* "On the mountains [of holy Olives]...".
-*At the Aposticha: of the Fathers, Tone 6, Podoben: "Having laid up all hope":* "Having laid up all hope..."...
+*At the Aposticha: of the Fathers, Tone 6, Podoben: "Having laid up all hope" (Всѐ оу҆пова́нїе):* "Having laid up all hope..."...
 
 === LEAF p514 ===
 *...Glory, Tone 3:* "Apostolic [traditions]..."; *Both now, Tone 6:* "God is gone up with a shout...". *Troparion of the Fathers; Glory, Both now, of the feast; and the feast of the Fathers is concluded.*

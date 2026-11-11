@@ -242,7 +242,7 @@ Though I be encompassed with bonds, Lazarus cried below unto the Deliverer: yet 
 I pray thee, Lazarus, said Hades: arise, depart quickly from my bars, go forth indeed; for it is better for me to bewail the bitter loss of one, than of all whom I swallowed voraciously aforetime.
 
 *Troparion:*
-O why dost thou delay, Lazarus? He saith: Come forth! Thy Friend, standing outside, calls thee; go forth therefore, that I also may receive relief: for since I devoured thee, food hath become turned to vomiting for me.
+O why dost thou delay, Lazarus? He says: Come forth! Thy Friend, standing outside, calls thee; go forth therefore, that I also may receive relief: for since I devoured thee, food hath become turned to vomiting for me.
 
 *Troparion:*
 Why dost thou not arise quickly, Lazarus? cried Hades from below with weeping: Why dost thou not straightway run hence having been raised? Lest Christ, having raised thee, take captive the others also from me.

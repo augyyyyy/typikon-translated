@@ -182,7 +182,7 @@ Every mother, having given birth to a child, can no longer remain a virgin; but 
 *Sessional Hymn, Tone 8. Podoben: "Of wisdom:" (Премудрости:)*
 As the first-called of all the disciples, and eyewitness and minister of the Word, O Andrew the Apostle, we honor thee as is meet; for with unwavering faith thou didst warmly follow the Lamb Who takes away the sins of the world. Therefore thou didst also show thyself a partaker of His Sufferings, Who for our sake willingly endured death in the flesh. Therefore we cry unto thee: Pray to Christ God to grant remission of sins unto those who celebrate with love thy holy memory.
 
-*Glory, another Sessional Hymn, the same Tone and Podoben:*
+*Glory, another Sessional Hymn, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having overthrown the savage fury of idols, and desired the Sufferings of the Savior, O blessed Andrew, thou didst show thyself an Apostle, pouring forth miracles from heaven upon all, and thou wast a teacher of the nations, O all-blessed one. Therefore, worthily honoring thy memory, in hymns we glorify and faithfully magnify thee, O Apostle of the Lord. Pray to Christ God to grant remission of sins unto those who celebrate with love thy holy memory.
 
 *Both now, Theotokion:*

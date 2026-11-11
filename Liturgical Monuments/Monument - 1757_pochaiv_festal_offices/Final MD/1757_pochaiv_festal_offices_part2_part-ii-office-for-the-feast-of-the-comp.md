@@ -58,7 +58,7 @@ In those days, Jeremiah wept over Jerusalem, and said: Let us search out our way
 
 *Glory... Now and ever... The same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben: The same.* What is this spectacle that is visible to mine eyes, O Master! He Who holds all creation is lifted up upon the Tree, and Thou diest, Who givest life unto all! cried weeping the Birthgiver of God, when she beheld Him Who ineffably shone forth from her, God and Man, lifted up upon the Tree. (Twice).
+*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben: The same (Гла́съ и҆ подо́бенъ то́йже).* What is this spectacle that is visible to mine eyes, O Master! He Who holds all creation is lifted up upon the Tree, and Thou diest, Who givest life unto all! cried weeping the Birthgiver of God, when she beheld Him Who ineffably shone forth from her, God and Man, lifted up upon the Tree. (Twice).
 
 *Megalynarion:* We magnify thee, O all-blameless Virgin, Mother of Christ our God, and we honor thy most venerable sorrows, which thou didst endure in the passion of thy Son.
 
@@ -204,7 +204,7 @@ I hymn Thy compassion, O Lover of mankind, and I worship the wealth of Thy mercy
 
 *Glory... Now and ever... The same.*
 
-*At the Praises, Stichera, on 4, Tone 2. Podoben: "Ye angelic powers, go before":*
+*At the Praises, Stichera, on 4, Tone 2. Podoben: "Ye angelic powers, go before" (А҆́гг҃льскїѧ пред̾иди́те си́лы):*
 
 *Sticheron 1:* Vivify my soul, slain by many passions, O Sovereign Lady, who didst bear God the Word impassibly, Who suffered passions being impassible, and Who put death and Hades to death: by His mortification slay the sin that lives within me, and direct my turbulent thoughts unto divine things. (Twice).
 

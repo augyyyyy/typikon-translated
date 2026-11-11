@@ -12,21 +12,21 @@ This plan resolves:
 
 ### Component 1: Centralized Category Badge Classification
 
-#### [MODIFY] [calendar.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/calendar.py)
+#### [MODIFY] [calendar.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/calendar.py)
 - In `get_liturgical_category`, map `john the baptist`, `john the forerunner`, and `forerunner` to `Prophet` (singular) or `Prophets` (plural).
 
-#### [MODIFY] [main.js](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js)
+#### [MODIFY] [main.js](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js)
 - In `getLiturgicalCategory`, map `john the baptist`, `john the forerunner`, and `forerunner` to `Prophet`.
 
 ---
 
 ### Component 2: Weekday Vigil Outlines & Liturgy Readings Exception
 
-#### [MODIFY] [rubrics.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/rubrics.py)
+#### [MODIFY] [rubrics.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/rubrics.py)
 - In `_resolve_rubrics_logic`, check if the day is a weekday (day of week != 0) and falls on June 24, June 29, or August 29.
 - If so, override `rubrics["variables"]["matins_canon_distribution"]` to contain only the saint's canon on 12 (dropping the Theotokos canon), citing `Dolnytsky §3.10.2`.
 
-#### [MODIFY] [liturgy.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/resolvers/liturgy.py)
+#### [MODIFY] [liturgy.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/resolvers/liturgy.py)
 - In `resolve_liturgy_readings`, refactor how the `liturgy_readings` override is processed:
   - Bypassing the early return on Sundays if the saint rank > 1, and instead appending the Sunday readings followed by the saint's overridden readings.
   - Ensuring that weekdays for June 24, June 29, and August 29 return ONLY the saint's readings (suppressing daily lectionary readings), citing `Dolnytsky §3.10.2`.
@@ -35,10 +35,10 @@ This plan resolves:
 
 ### Component 3: Unit Tests & Verification
 
-#### [MODIFY] [test_ui_classification.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/tests/test_ui_classification.py)
+#### [MODIFY] [test_ui_classification.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/tests/test_ui_classification.py)
 - Add test cases to assert `get_liturgical_category` returns `Prophet` for `**Nativity of St. John the Baptist.**`.
 
-#### [MODIFY] [test_prokeimenon_precedence.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/tests/test_prokeimenon_precedence.py)
+#### [MODIFY] [test_prokeimenon_precedence.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/tests/test_prokeimenon_precedence.py)
 - Add test cases verifying:
   - Sunday readings are combined with St. Nicholas readings on Sunday, Dec 6, 2026.
   - Sunday readings are combined with St. John the Baptist readings on Sunday, June 24, 2029.

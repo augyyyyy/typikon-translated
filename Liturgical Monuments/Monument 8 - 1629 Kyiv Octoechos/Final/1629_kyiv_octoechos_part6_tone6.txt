@@ -26,7 +26,7 @@ Thy burial, O Master, broke and tore asunder the bonds of Hades, and Thy Resurre
 
 *Glory... Both now and ever... Theotokion:*
 
-Who does not call Thee blessed, O all-holy Virgin? Who will not hymn Thy pure childbirth? For the only-begotten Son, Who shone forth timelessly from the Father, the Same came forth from Thee, O pure Lady, having ineffably become incarnate, being God by nature, and having become man by nature for our sake: not divided into two persons, but known in two natures without confusion. Him do Thou entreat, O pure and all-blessed one, that our souls may find mercy!
+Who does not call thee blessed, O all-holy Virgin? Who will not hymn thy pure childbirth? For the only-begotten Son, Who shone forth timelessly from the Father, the Same came forth from thee, O pure Lady, having ineffably become incarnate, being God by nature, and having become man by nature for our sake: not divided into two persons, but known in two natures without confusion. Him do thou entreat, O pure and all-blessed one, that our souls may find mercy!
 
 [f. 124vA] *At the Aposticha, Stichera. Tone 6:*[^130]
 
@@ -66,7 +66,7 @@ Having adorned the Church from the Gentiles as a bride, Paul taught us to worshi
 
 *Both now and ever... Theotokion:*
 
-From Thy womb came forth the noetic Sun, O Mother of God, and illumined us with the rays of the thrice-radiant Godhead; hymning Him, piously we call Thee blessed.
+From thy womb came forth the noetic Sun, O Mother of God, and illumined us with the rays of the thrice-radiant Godhead; hymning Him, piously we call thee blessed.
 
 *Ode 3. Heirmos: There is none holy as Thou, O Lord...*
 
@@ -80,7 +80,7 @@ O unoriginate Mind, the Father, and co-formal Word of God, and divine Spirit, Go
 
 *Both now and ever... Theotokion:*
 
-Thy Son, O pure Lady, destroyed the pasture of corruption, having become man in essence within Thy womb, and He alone delivered the forefather from ancient condemnation.
+Thy Son, O pure Lady, destroyed the pasture of corruption, having become man in essence within thy womb, and He alone delivered the forefather from ancient condemnation.
 
 *Trinity Sessional Hymn, Tone 6.*
 
@@ -90,7 +90,7 @@ O Master and God, look down from heaven and see our humility, as Bountiful, and 
 
 *Glory... Both now and ever... Theotokion:*
 
-O pure Sovereign Lady, look down from the heavens, and behold the wounds of my afflictions, and have compassion, O all-pure one; and heal the burning of conscience, bedewing me with Thy mercy, and crying aloud to Thy servant: "I am with thee, and none shall be against thee!"
+O pure Sovereign Lady, look down from the heavens, and behold the wounds of my afflictions, and have compassion, O all-pure one; and heal the burning of conscience, bedewing me with thy mercy, and crying aloud to thy servant: "I am with thee, and none shall be against thee!"
 
 *Ode 4. Heirmos: Christ is my power, God and Lord!" the...*
 
@@ -104,7 +104,7 @@ Having first conceived all things in thought, O most wise Lord, Thou didst estab
 
 *Both now and ever... Theotokion:*
 
-He Who is uncreated by nature, the ever-existing God, having assumed created human nature, formed Himself within Thy holy womb, O Mother of God, ever-virgin.
+He Who is uncreated by nature, the ever-existing God, having assumed created human nature, formed Himself within thy holy womb, O Mother of God, ever-virgin.
 
 *Ode 5. Heirmos: With Thy divine light, O Good One:*[^133]
 
@@ -162,7 +162,7 @@ Grant Thine illuminations into the hearts of Thy servants, O unsetting Sun, and 
 
 Being God, the unique Light and light-giver in three persons: illumine those who hymn Thee in faith, deliver them from gloomy wickedness, and make them worthy of Thy most radiant mansions, as Thou art good. *Theotokion:*
 
-Having in wisdom formed man of old, Thy Son, O Virgin, renewed him when he had fallen into corruption, through thee, O all-hymned one; and fill with the thrice-radiant brightness of the divine Light all who in true faith glorify thee as Theotokos.
+Having in wisdom formed man of old, thy Son, O Virgin, renewed him when he had fallen into corruption, through thee, O all-hymned one; and fill with the thrice-radiant brightness of the divine Light all who in true faith glorify thee as Theotokos.
 
 ## SUNDAY MATINS (TONE 6)
 
@@ -176,7 +176,7 @@ O Virgin Theotokos, entreat Thy Son, Christ our God, Who willingly was nailed up
 
 O Lord, as Mary Magdalene stood before Thy tomb and wept, she cried aloud, supposing Thee to be the gardener, saying: "Where hast Thou laid the eternal Life? Where hast Thou hidden Him Who is upon the cherubic throne? For they that guarded Him became as dead men from fear. Either give me my Lord, or cry out with me: O Thou Who wast among the dead, and hast raised up the dead: Lord, glory to Thee!" *Glory, and now. Theotokion:*
 
-Gideon prefigured the conception, and David foretold Thy childbearing, O Virgin Theotokos; for the Word came down like dew upon the fleece into Thy womb [f. 131vA] and without seed Thou hast sprouted forth, O holy earth, Christ our God, O full of grace. *Hypakoe:* [^137]
+Gideon prefigured the conception, and David foretold thy childbearing, O Virgin Theotokos; for the Word came down like dew upon the fleece into thy womb [f. 131vA] and without seed Thou hast sprouted forth, O holy earth, Christ our God, O full of grace. *Hypakoe:* [^137]
 
 By Thy voluntary and life-creating death, O Christ God, having shattered the gates of Hades as God, Thou hast opened ancient Paradise unto us; and having arisen from the dead, Thou hast delivered our life from corruption.
 
@@ -228,7 +228,7 @@ Having brought forth Christ, the Pearl from the divine lightning, drive away the
 
 Jacob secretly foresaw with spiritual eyes God Who was incarnate of thee, the Expectation of the Gentiles, Who delivers us by Thine intercession.
 
-When the rulers from the tribe of Judah had failed, O all-pure one, Thy Son came forth as Leader, and has now truly reigned over the ends of the earth.
+When the rulers from the tribe of Judah had failed, O all-pure one, thy Son came forth as Leader, and has now truly reigned over the ends of the earth.
 
 *Ode 3. Heirmos:*
 
@@ -238,7 +238,7 @@ Beholding God crucified in the flesh, creation melted away in fear; but by the a
 
 By death, wretched death lies destroyed and breathless; for unable to endure the divine assault of Life, the strong one is slain, and resurrection is granted unto all. *Theotokion:*
 
-The wonder of Thy divine childbearing, O pure one, surpasses every order of nature; for beyond nature Thou didst conceive God in Thy womb, and having given birth, Thou remainest ever a Virgin.
+The wonder of thy divine childbearing, O pure one, surpasses every order of nature; for beyond nature thou didst conceive God in thy womb, and having given birth, thou remainest ever a Virgin.
 
 *Another Heirmos: Thee Who didst hang the whole earth unsupported upon the waters...*
 
@@ -250,7 +250,7 @@ Thee, the Word Who wast incarnate of the holy maiden and didst save from decepti
 
 *Another Heirmos: There is none holy like Thee, O Lord my God...*
 
-My corruptible and mortal flesh, O all-pure Mother of God, the Good One ineffably assumed from Thy womb, and having made it incorruptible, united it eternally unto Himself.
+My corruptible and mortal flesh, O all-pure Mother of God, the Good One ineffably assumed from thy womb, and having made it incorruptible, united it eternally unto Himself.
 
 Beholding God incarnate of thee, O Virgin, the angelic choirs were amazed with fear, and as the Mother [f. 135rA] of God they glorified thee with unceasing hymns.
 
@@ -266,7 +266,7 @@ The tree of true life has blossomed, O Christ, and brought forth life for us; fo
 
 [f. 135vA] No longer does the serpent falsely suggest deification unto me; for Christ, the Benefactor of human nature, has now prepared an unhindered path unto my life. *Theotokion:* [^141]
 
-Truly ineffable and incomprehensible to those on earth and in heaven, O Virgin Theotokos, are the mysteries of Thy divine-fitting childbearing. *Another Heirmos: Foreseeing Thy divine condescension upon the Cross...*
+Truly ineffable and incomprehensible to those on earth and in heaven, O Virgin Theotokos, are the mysteries of thy divine-fitting childbearing. *Another Heirmos: Foreseeing thy divine condescension upon the Cross...*
 
 He Who is co-eternal with the Father on high was nailed in the flesh upon the tree for our sake; and as all-powerful, He destroyed the curse that was in Paradise.
 
@@ -276,7 +276,7 @@ Unto the myrrh-bearing women our Savior, having arisen from [f. 136rA] the dead,
 
 We hymn thee, O all-pure and most immaculate one, having been saved through thee; and chanting piously, we cry: Blessed art thou who hast borne God in the flesh.
 
-Having borne the unsetting Light, O Virgin, shining in the flesh upon those who dwell in the darkness of this life, O most blessed one, Thou hast poured out joy upon them that hymn thee, O Ever-Virgin.
+Having borne the unsetting Light, O Virgin, shining in the flesh upon those who dwell in the darkness of this life, O most blessed one, thou hast poured out joy upon them that hymn thee, O Ever-Virgin.
 
 Grace has blossomed and the Law has ceased because of thee, O all-pure one; for thou, O pure one, hast borne the Lord, Who ever grants us remission, O Virgin.
 
@@ -296,13 +296,13 @@ In Thy tenderheartedness toward us, O Good One, having taken flesh, Thou wast wi
 
 Beholding Thee upon the throne as God, and yet numbered among the dead as mortal, Hades vomited forth those whom the wretched one held before; and on the third day, as the Mighty One, Thou didst raise fallen nature with Thyself, and Thou Thyself didst enlighten the whole world, O Christ. *Theotokion:*
 
-Thou didst not suffer corruption in womb, having undergone childbirth like a maiden; but Thou remainest again as before, O Virgin Mother unwedded; therefore pray fervently for Thy servants who glorify thee, that they may be delivered from [f. 137vA] temptations and perils. *Another Heirmos: With Thy divine light, O Good One...* [^143]
+Thou didst not suffer corruption in womb, having undergone childbirth like a maiden; but thou remainest again as before, O Virgin Mother unwedded; therefore pray fervently for thy servants who glorify thee, that they may be delivered from [f. 137vA] temptations and perils. *Another Heirmos: With Thy divine light, O Good One...* [^143]
 
-Shining from afar with purity, a divine habitation was prepared, O all-hymned Theotokos; for thou alone wast truly revealed as the Mother of God, carrying Him in Thine arms like an infant.
+Shining from afar with purity, a divine habitation was prepared, O all-hymned Theotokos; for thou alone wast truly revealed as the Mother of God, carrying Him in thine arms like an infant.
 
-Bearing spiritual beauty and the preeminence of Thy soul, thou wast the Bride of God, sealed with virginity, O pure one, and enlightening the world with the light of purity.
+Bearing spiritual beauty and the preeminence of thy soul, thou wast the Bride of God, sealed with virginity, O pure one, and enlightening the world with the light of purity.
 
-Let the assembly of the impious lament, who do not confess thee as pure Theotokos by Thy childbearing; for thou wast shown unto us as the door of the divine Light, dispelling the cloud of sins. *Ode 6. Heirmos:*
+Let the assembly of the impious lament, who do not confess thee as pure Theotokos by thy childbearing; for thou wast shown unto us as the door of the divine Light, dispelling the cloud of sins. *Ode 6. Heirmos:*
 
 Beholding the sea of life surging with the tempest of temptations, fleeing unto Thy calm haven [f. 138rA] I cry unto Thee: Lead up my life from corruption, O Most Merciful One!
 
@@ -318,15 +318,15 @@ How didst Thou endure wounds, insults, and evil slanders, O Word? For Thou wast 
 
 Willingly laid in the tomb for my sake as dead, O Savior, Thou didst shine forth light, illuminating for three days those held fast in darkness and the shadow of death; and meeting the myrrh-bearing women, Thou didst cry aloud unto them: "Rejoice indeed, and tell the rest unto Mine apostles!" *Theotokion:*
 
-O Virgin full of grace, Mother and Bride of God: without knowing wedlock, Thou didst receive into Thy womb Him Who was begotten of the unoriginate Father before all ages, and Thou didst bear Him incarnate; pray Him for us all, to send down the multitude of His compassions upon us.
+O Virgin full of grace, Mother and Bride of God: without knowing wedlock, thou didst receive into thy womb Him Who was begotten of the unoriginate Father before all ages, and thou didst bear Him incarnate; pray Him for us all, to send down the multitude of His compassions upon us.
 
 [f. 139rA] *Another Heirmos: Beholding the sea of life surging...*
 
 Great Moses among the prophets prefigured thee, typifying thee as the Ark, the Table, the Candlestick, and the Jar, revealing the incarnation from thee of the Most High, O Virgin Mother.
 
-Death is put to death and corruption is abolished, the condemnation of Adam being overturned by Thy fruit, O Sovereign Lady; for Thou hast borne Life, delivering from corruption those who hymn thee.
+Death is put to death and corruption is abolished, the condemnation of Adam being overturned by thy fruit, O Sovereign Lady; for thou hast borne Life, delivering from corruption those who hymn thee.
 
-The Law grew faint and the shadow passed away, when grace appeared beyond mind and thought through Thy childbearing of God and the Savior from thee, O all-hymned Virgin.
+The Law grew faint and the shadow passed away, when grace appeared beyond mind and thought through thy childbearing of God and the Savior from thee, O all-hymned Virgin.
 
 *Ode 7. Heirmos:*
 
@@ -350,13 +350,13 @@ Thou hast borne One of the Trinity, O all-pure one, Who appeared upon earth in t
 
 *Another Heirmos: A shedder of dew...*
 
-The furnace did not consume the three youths, prefiguring Thy childbearing; for the divine fire dwelt within thee without consuming thee, and enlightened all to cry: Blessed art Thou, O God of our fathers.
+The furnace did not consume the three youths, prefiguring thy childbearing; for the divine fire dwelt within thee without consuming thee, and enlightened all to cry: Blessed art Thou, O God of our fathers.
 
-The ends of the earth call thee blessed, O all-venerable Mother, even as thou didst foretell, being enlightened by Thy radiant beams, and shining with grace, they cry: Blessed is she who bore God in the flesh!
+The ends of the earth call thee blessed, O all-venerable Mother, even as thou didst foretell, being enlightened by thy radiant beams, and shining with grace, they cry: Blessed is she who bore God in the flesh!
 
-[f. 140vA] The all-crafty serpent indeed drove in destructive teeth into the pit; but Thy Son, O Mother of God, shattered them, granting me strength to cry: Blessed art Thou, O God of our fathers.[^146] *Theotokion:*
+[f. 140vA] The all-crafty serpent indeed drove in destructive teeth into the pit; but thy Son, O Mother of God, shattered them, granting me strength to cry: Blessed art Thou, O God of our fathers.[^146] *Theotokion:*
 
-Thou alone, O divinely-blessed one, becamest the sanctuary of nature; for having carried in Thine arms God Who sits upon the cherubic shoulder, thou didst cry aloud: Blessed art Thou, O Lord, the God of our fathers!
+Thou alone, O divinely-blessed one, becamest the sanctuary of nature; for having carried in thine arms God Who sits upon the cherubic shoulder, thou didst cry aloud: Blessed art Thou, O Lord, the God of our fathers!
 
 *Ode 8. Heirmos:*
 
@@ -402,13 +402,13 @@ Though Thou didst descend into the tomb as dead, O Giver of life, yet Thou didst
 
 [f. 143rA] Let creation be made radiant, let all born of earth rejoice; for the enemy Hades has been despoiled! Christ is risen, and the first-created is raised with Him in glory, delivered from corruption!—so the angel cries aloud unto the myrrh-bearing women.
 
-Creation rejoices with Thy childbearing, O Maiden, for it has opened Eden unto us who behold it; and having partaken of the tree of this life by faith, we cry earnestly: Fulfill our supplications, O Sovereign Lady!
+Creation rejoices with thy childbearing, O Maiden, for it has opened Eden unto us who behold it; and having partaken of the tree of this life by faith, we cry earnestly: Fulfill our supplications, O Sovereign Lady!
 
 *Another Heirmos: It is impossible for mankind to see God...*
 
 A Star shining with the beams of the Godhead from Jacob upon those held fast in gloom, through thee, O all-pure one, has shone forth: Christ God, the Word incarnate, by Whom enlightened, together with the heavenly hosts we magnify thee.
 
-Strengthened by Thy power and grace, I have fervently offered a hymn from my heart unto thee; [f. 143vA] yet accept this hymn, O pure Virgin, granting in return Thy most radiant grace from incorruptible treasures, O divinely-blessed one.[^149]
+Strengthened by Thy power and grace, I have fervently offered a hymn from my heart unto thee; [f. 143vA] yet accept this hymn, O pure Virgin, granting in return thy most radiant grace from incorruptible treasures, O divinely-blessed one.[^149]
 
 Thou wast shown to be a divinely-woven loom, O Virgin, in which the Word wove the garment of the body, making divine my form in which He clothed Himself, O Savior of all, Who savest those who magnify Thee from a pure mind.
 
@@ -480,7 +480,7 @@ The Father Who is God over all brought forth the powers of heavenly [f. 147rA] m
 
 *Glory, and now. Theotokion:*
 
-Having conceived in Thy womb the Word Who is co-unoriginate with the Father and the Spirit at the archangel's greeting, O Theotokos, thou wast revealed as higher than the Cherubim, the Seraphim, and the Thrones.
+Having conceived in thy womb the Word Who is co-unoriginate with the Father and the Spirit at the archangel's greeting, O Theotokos, thou wast revealed as higher than the Cherubim, the Seraphim, and the Thrones.
 
 *At the Aposticha, Stichera, Tone 6:*
 
@@ -506,13 +506,13 @@ With archangelic voices let us the faithful hymn the heavenly chamber and truly 
 [^135]: Folios 129v–130r contain Odes 8 and 9 of the Sunday Midnight Office Triadica Canon of Tone 6. The Heirmos of Ode 8 (*И҆спла́мене ст҃ымъ* / *Ἐκ φλογὸς τοῖς ὁσίοις*) evokes the furnace of Babylon, and Ode 9 (*Бг҃а чл҃комъ неꙋдо́бъ ви́дѣти* / *Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον*) provides the classic Damascene theological contemplation of the cherubic ranks veiling their faces before the unapproachable divine essence.
 [^136]: Folios 130v–131r conclude the Sunday Midnight Office and mark the formal transition into Sunday Matins (*Оу҆треня*) of Tone 6. The Resurrection Troparion *А҆́гглскїа си́лы* (*The angelic powers at Thy tomb...*) is prescribed at *God is the Lord*, followed after the first Psalter reading (*По а҃ . Стїхоло́гїи*) by the Sessional Hymn depicting Mary Magdalene weeping at the empty tomb and mistaking the risen Savior for the gardener (John 20:15).
 [^137]: Folios 131v–132r contain the Sunday Hypakoe (*Во́лною и҆ животво́рною тѝ сме́ртїю*), followed by the three Antiphons of the Gradual Hymns (*Степенны*) of Tone 6 and the Matins Prokeimenon. Each antiphon concludes with a pneumatological triadion celebrating the Holy Spirit as the divine source of life, deification (*ѡ҆бже́нїе*, Greek θέωσις), and regal dominion over all creation.
-[^138]: Folios 132v–133r open the three Sunday Matins Canons of Tone 6 with their respective first odes: the Resurrection Canon by St. John of Damascus (Heirmos: *Ꙗ҆́кѡ посꙋ́хꙋ ходи́въ і҆ил҃ь* / *Ὡς ἐν ἠπείρῳ πεζεύσας*), the Cross-Resurrection Canon (Heirmos: *Волно́ю морско́ю* / *Κύмаτι θαλάσσης*), and the Theotokos Canon.
+[^138]: Folios 132v–133r open the three Sunday Matins Canons of Tone 6 with their respective first odes: the Resurrection Canon by St. John of Damascus (Heirmos: *Ꙗ҆́кѡ посꙋ́хꙋ ходи́въ і҆ил҃ь* / *Ὡς ἐν ἠπείρῳ πεζεύσας*), the Cross-Resurrection Canon (Heirmos: *Волно́ю морско́ю* / *Κύματι θαλάσσης*), and the Theotokos Canon.
 [^139]: Folios 133v–134r encompass Ode 3 across the three canons. The Theotokion on Fol. 133v incorporates the messianic prophecy of the Patriarch Jacob (Genesis 49:10: "The sceptre shall not depart from Judah... until Shiloh come"), as well as the patristic metaphor of Christ as the mystical Pearl engendered by the divine lightning flash (*бї́сера ѿ бж҃тве́нныѧ мо́лнїа*).
 [^140]: Folios 134v–135r transition through the completion of Ode 3 and the opening of Ode 4. In the Theotokion of Ode 3 on Fol. 135r, Daniel's vision of the uncut mountain and the mystical stone (Daniel 2:34, 45) is invoked as an Old Testament type of the Virgin Conception shattering pagan idol shrines (*є҆́ллинскаѧ тре́бища*), while the Cross is hymned as the Tree of Life watering all creation with water and blood from Christ's pierced side (John 19:34).
 [^141]: Folios 135v–136r contain Ode 4 troparia and the beginning of Ode 5. The hymnographic text sharply contrasts the deceit of the serpent, who falsely promised deification (*ло́жно ѡ҆боже́ні́е*, Genesis 3:5), with the true life and path to incorruption opened by Christ's Passion and Resurrection, noting that "Grace hath blossomed and the Law hath ceased" (*Бл҃гть процвѣтѐ , зако́ преста̀*).
 [^142]: Folios 136v–137r present Ode 5 troparia. The hymnography depicts the cherub with the flaming sword (Genesis 3:24) withdrawing and turning his back to give passage to the redeemed, since Christ opened Paradise to the thief; Hades is graphically described as vomiting forth those whom it formerly held captive (*видѣ́въ а҆́дъ и҆зблева̀*).
 [^143]: Folios 137v–138r encompass the close of Ode 5 and the troparia of Ode 6. Fol. 138r weaves together Christ tearing up the handwriting of debt against Adam (Colossians 2:14) with the parable of the Good Shepherd descending to the pit of Hades to seek the lost sheep and carrying fallen humanity upon His shoulders (*нара́мꙋ понесѐ совоскреси́лъ є҆сѝ*, Luke 15:5).
-[^144]: Folios 138v–139r conclude Ode 6 of the Tone 6 Sunday Matins Canons and open Ode 7. The Theotokion of Ode 6 on Fol. 139r compiles the classical Old Testament tabernacle types of the Virgin from Exodus and Hebrews 9:4: the Ark of the Covenant (*ковче́гъ* / κιβωτός), the Table of Showbread (*тра́пеза* / τράпеζα), the golden Candlestick (*свѣ́щникъ* / λυχνία), and the golden Jar of Manna (*рꙋ́чка* / στάмνος). At the bottom of Fol. 139r, the Heirmos of Ode 7 (*Хладода́вцꙋ ᲂу҆́бѡ пе́щь* / *Δροσοβόλον μὲν τὴν κάμινον*) exhibits the curious spelling *ᲂу҆бѣ́йца* (for *ᲂу҆бѣди́въ* / *ᲂу҆бѣжда́ѧ*, persuading the tyrant to cry: "Blessed is the God of our fathers").
+[^144]: Folios 138v–139r conclude Ode 6 of the Tone 6 Sunday Matins Canons and open Ode 7. The Theotokion of Ode 6 on Fol. 139r compiles the classical Old Testament tabernacle types of the Virgin from Exodus and Hebrews 9:4: the Ark of the Covenant (*ковче́гъ* / κιβωτός), the Table of Showbread (*тра́пеза* / τράπεζα), the golden Candlestick (*свѣ́щникъ* / λυχνία), and the golden Jar of Manna (*рꙋ́чка* / στάμνος). At the bottom of Fol. 139r, the Heirmos of Ode 7 (*Хладода́вцꙋ ᲂу҆́бѡ пе́щь* / *Δροσοβόλον μὲν τὴν κάμινον*) exhibits the curious spelling *ᲂу҆бѣ́йца* (for *ᲂу҆бѣди́въ* / *ᲂу҆бѣжда́ѧ*, persuading the tyrant to cry: "Blessed is the God of our fathers").
 [^145]: Folios 139v–140r present the troparia of Ode 7 across the three Sunday Matins canons. In the first canon, the eclipse of the sun at the Crucifixion (Matthew 27:45) is coupled with Adam's ecstatic dancing (*ли́кѡствꙋѧ и҆гра́ше*) upon the Harrowing of Hades. On Fol. 140r, the Theotokion of the Cross-Resurrection canon provides a strict Chalcedonian christological formula: the Virgin bore One of the Trinity (*Є҆дина́го ѿ Тро́ицы*) Who appeared upon earth "in two natures" (*водво́ю є҆стествꙋ̀* / ἐν δύο φύσεσιν). The subsequent Theotokos canon invokes the Magnificat prophecy ("all generations shall call me blessed", Luke 1:48) alongside the typological interpretation of the burning yet unconsumed Babylonian furnace (Daniel 3) as an image of the divine fire dwelling in the Virgin's womb (*бж҃е́ственный бо ѻ҃гнь тебѐ неопалѝ всели́сѧ вътѧ̀*).
 [^146]: Folios 140v–141r conclude Ode 7 and open Ode 8 of the Tone 6 Matins canons. In the Theotokion on Fol. 140v, the Virgin is called the sanctuary (*ᲂу҆свѣти́лище*) of human nature, bearing upon her arms the Lord Who sits upon the cherubim. Ode 8 of the first canon pairs the furnace of Babylon with Elijah's sacrifice upon Mount Carmel consumed by fire from heaven despite being soaked with water (3 Kings / 1 Kings 18:38). On Fol. 141r, Christ's descent into Hades is depicted as lifting fallen man from the dung-heap (*вогнои́щи*, Psalm 112:7 / 113:7 LXX: "He raises up the poor out of the dust, and lifts the needy out of the dunghill").
 [^147]: Folios 141v–142r encompass the close of Ode 8 and the opening of Ode 9 of the Sunday Matins canons. In the Theotokos troparia of Ode 8 on Fol. 141v, Psalm 44:10 LXX ("At Thy right hand stood the queen in a vesture of gold") is applied to the Mother of God glorified in heaven. The theological language of Fol. 142r for Ode 9 captures the paradox of the impassible Word entering into passion (*стра́стемъ бы́въ стра́сть*, becoming the destruction of passions through His own Passion), reflecting St. John of Damascus's profound antithetical soteriology.

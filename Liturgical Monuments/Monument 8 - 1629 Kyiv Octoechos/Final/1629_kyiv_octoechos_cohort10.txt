@@ -99,7 +99,7 @@ We behold thee, O pure one, clothed like a lily, O all-immaculate one, shining i
 
 Taking corruptible earthly nature from thine all-immaculate womb, the Incorruptible One showed it forth in Himself as entirely incorruptible through the bowels of His compassion; therefore do we magnify thee as the Theotokos.
 
-O Sovereign Lady Who rulest over all creatures, grant unto Thy people victorious overcome; subdue the disobedient under the feet of the king, that we may magnify thee as the Theotokos.
+O Sovereign Lady Who rulest over all creatures, grant unto thy people victorious overcome; subdue the disobedient under the feet of the king, that we may magnify thee as the Theotokos.
 
 === LEAF p95 ===
 

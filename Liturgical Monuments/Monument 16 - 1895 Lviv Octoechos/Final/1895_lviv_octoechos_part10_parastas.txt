@@ -46,30 +46,30 @@ On Friday at Vespers, after the customary psalmody, at "Lord, I have cried": Sti
 On Saturday at Matins, as usual, after the Six Psalms, litany; then instead of:-[^11187] -"God is the Lord": we sing Alleluia in Tone 2, thrice. Verse 1: "From night-time my spirit watches early for Thee, O God" [Isa. 26:9 LXX]; and the other verses. Then the Troparion, Tone 2: "Apostles, Prophets, and Martyrs," twice; Glory: "Remember, O Lord, as Thou art good"; Both now: Theotokion: "O holy Mother." After Kathisma 1: "The Lord said unto my Lord" [Ps. 109:1 LXX]: Sessional Hymn in the Octoechos, and reading. And the Evlogetaria [Amomos / Psalm 118] we sing, dividing the Kathisma into two stases with refrains.[^11188]
 
 After the 1st stasis we do not say: "Glory: Both now:"; but we sing at the end: "Unless Thy law had been my meditation" [Ps. 118:92 LXX]; and the remaining 3 [verses], and the Deacon (or Priest) makes this Litany:  
-**Deacon:** Again and again in peace, let us pray to the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** Again we pray for the blessed repose of the servants of God who from the beginning of the world have fallen asleep: the most holy ecumenical Hierarchs, Right Reverend Metropolitans, God-loving Archbishops and Bishops, venerable Archimandrites and Igumens, and the entire Priestly and Monastic Order, the right-believing Emperors and Empresses, Czars and Czarinas, Princes and Princesses, the blessed and ever-memorable founders and benefactors of this holy Temple (of this holy Monastery), parents and kinsfolk (of our fathers and brethren) lying here, inscribed here, and Orthodox Christians everywhere, of whom we make remembrance; (This is said when universal commemoration is made for the departed.) and that every transgression of theirs, voluntary and involuntary, may be pardoned them.  
-**Choir:** Lord, have mercy (40 times).  
-**Deacon:** That the Lord our God may establish their souls in a place of light, in a place of green pasture, in a place of refreshment, in the bosom of Abraham, and Isaac, and Jacob, where all the Saints and Righteous take their rest.  
-**Choir:** Lord, have mercy.  
-**Deacon:** The mercies of God, the heavenly kingdom, and the remission of their sins, let us entreat of Christ, the Immortal King and our God.  
-**Choir:** Grant, O Lord.  
-**Deacon:** Let us pray to the Lord.  
-**Choir:** Lord, have mercy.  
+> **Deacon:** "Again and again in peace, let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Again we pray for the blessed repose of the servants of God who from the beginning of the world have fallen asleep: the most holy ecumenical Hierarchs, Right Reverend Metropolitans, God-loving Archbishops and Bishops, venerable Archimandrites and Igumens, and the entire Priestly and Monastic Order, the right-believing Emperors and Empresses, Czars and Czarinas, Princes and Princesses, the blessed and ever-memorable founders and benefactors of this holy Temple (of this holy Monastery), parents and kinsfolk (of our fathers and brethren) lying here, inscribed here, and Orthodox Christians everywhere, of whom we make remembrance; (This is said when universal commemoration is made for the departed.) and that every transgression of theirs, voluntary and involuntary, may be pardoned them."
+> **Choir:** "Lord, have mercy (40 times)."
+> **Deacon:** "That the Lord our God may establish their souls in a place of light, in a place of green pasture, in a place of refreshment, in the bosom of Abraham, and Isaac, and Jacob, where all the Saints and Righteous take their rest."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "The mercies of God, the heavenly kingdom, and the remission of their sins, let us entreat of Christ, the Immortal King and our God."
+> **Choir:** "Grant, O Lord."
+> **Deacon:** "Let us pray to the Lord."
+> **Choir:** "Lord, have mercy."
 *The Priest reads the Prayer secretly:* "O God of spirits and of all flesh," *unto the end; thereafter the Exclamation:*  
-**Priest:** For Thou art the resurrection, the life, and the repose of Thy servants who from the beginning of the world have fallen asleep: the most holy ecumenical Hierarchs, Right Reverend Metropolitans, God-loving Archbishops and Bishops, venerable Archimandrites and Igumens, and all those of the Priestly and Monastic Order, right-believing Emperors and Empresses, Czars and Czarinas, Princes and Princesses, the blessed and ever-memorable founders of this holy Temple (of this holy Monastery, of our fathers and brethren), parents and kinsfolk lying here, inscribed here, and Orthodox Christians everywhere, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and with Thy most holy, good, and life-creating Spirit, both now and for ever and unto ages of ages.  
-**Choir:** Amen.[^11189]
+> **Priest:** "For Thou art the resurrection, the life, and the repose of Thy servants who from the beginning of the world have fallen asleep: the most holy ecumenical Hierarchs, Right Reverend Metropolitans, God-loving Archbishops and Bishops, venerable Archimandrites and Igumens, and all those of the Priestly and Monastic Order, right-believing Emperors and Empresses, Czars and Czarinas, Princes and Princesses, the blessed and ever-memorable founders of this holy Temple (of this holy Monastery, of our fathers and brethren), parents and kinsfolk lying here, inscribed here, and Orthodox Christians everywhere, O Christ our God; and unto Thee do we send up glory, with Thine unoriginate Father, and with Thy most holy, good, and life-creating Spirit, both now and for ever and unto ages of ages."
+> **Choir:** "Amen."[^11189]
 
 *Then we sing the second stasis:* "I am Thine, save me" [Ps. 118:94 LXX]; *with the refrain:* "Give rest, O Lord, to the souls of Thy servants." *And some chant the refrain:* "O Savior, save the souls of Thy servants." *And at the end we say:* "My soul shall live, and shall praise Thee" [Ps. 118:175 LXX]. *Then:* "Blessed art Thou, O Lord" [Ps. 118:12 LXX]; *and we sing the Funeral Troparia:* "The choir of the Saints hath found the fountain," *and the rest; and after them the aforesaid diaconal petitions of repose,-*[^11190] -repose; and the Priest reads the Diptychs [Pomyannyk] and the Prayer secretly: "O God of spirits and of all flesh"; and the Choir sings: "Lord, have mercy" (thrice). After the Exclamation, Sessional Hymn, Tone 5: "Give rest, O our Savior"; Glory: Both now: Theotokion: "Thou Who didst shine forth from the Virgin"; then Psalm 50: "Have mercy upon me, O God." The Canon first in the Menaion with the Heirmos to 6, and to the Saint of whom the Temple is [dedicated] to 4, and in the Octoechos to 4, Canon 1. But where there is a Temple of the Lord or of the Theotokos: the Canon first of the Temple with the Heirmos to 6, then in the Menaion and in the Octoechos. After Ode 3, Sessional Hymn in the Menaion to the Saint; after Ode 6, Kontakion, Tone 8: "With the Saints give rest," and the Ikos. After Ode 9, Photagogicon [Exapostilarion] of the day. At the Praises [Lauds], Martyr Stichera 4, and of repose; Glory: Both now: Theotokion. At the Aposticha, prosomoia Stichera of repose; Glory: Both now: Theotokion. After "It is good to give praise to the Lord": Trisagion; the above-mentioned Troparia; litany, and dismissal. First Hour, and procession into the Narthex, and the complete dismissal. At the Liturgy, the Beatitudes in the Octoechos to 6. But if on Saturday a forefeast or afterfeast occurs with the Octoechos, that of repose is not sung until the Apodosis of the feast.[^11191]
 
 *Instruction, how it is proper to sing the Parastas for deceased orthodox Christians.*[^11192]
 
 On Friday evening, after the Dismissal of Vespers, the Priest and the Deacon, having entered into the Altar, vest: the Priest in epitrachelion and phelonion, and the Deacon in sticharion and orarion. And having come forth and taken their stand according to custom before the Tetrapod,[^11193] upon which is a dish with kolyvo or kutia, that is, with boiled wheat mixed with honey: the Priest, having taken the censer with incense, censes over the kutia, having said:  
-**Priest:** Blessed is our God...  
+> **Priest:** "Blessed is our God..."
 *And we say the Trisagion; and after "Our Father," and after the Exclamation:*  
-**Reader:** Lord, have mercy (12 times); Glory: Both now: Come, let us worship (thrice); Psalm 90: "He that dwells in the aid of the Most High" [Ps. 90 LXX]; and at the end of it: Glory: Both now: Alleluia (thrice).  
+> **Reader:** "Lord, have mercy (12 times); Glory: Both now: Come, let us worship (thrice); Psalm 90: "He that dwells in the aid of the Most High" [Ps. 90 LXX]; and at the end of it: Glory: Both now: Alleluia (thrice)."
 *And there is the Litany of Repose:*  
-**Deacon:** In peace let us pray to the Lord.  
+> **Deacon:** "In peace let us pray to the Lord."
 For the peace from above, and the salvation of our souls, let us pray to the Lord.  
 For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray to the Lord.  
 For this holy Temple, and for those that with faith, reverence, and the fear of God enter therein, let us pray to the Lord.  
@@ -77,15 +77,15 @@ For the remission of the sins of the servants of God who from the beginning of t
 For the remission of the sins of the fallen-asleep servants of God, the blessed and ever-memorable founders of this holy Temple (or of this holy Monastery), parents and kinsfolk (and monks say: Of our fathers and brethren) lying here and inscribed here, and Orthodox Christians everywhere, and those now remembered *(Names)*, and for their blessed repose, let us pray to the Lord.  
 That every transgression of theirs, voluntary and involuntary, may be pardoned them, let us pray to the Lord.  
 That He may establish their souls in the land of the li-[^11194] -ving, in a place of light, where all the Saints and Righteous take their rest, let us pray to the Lord.
-**Deacon:** That they may stand uncondemned before the dread judgment seat of Christ, let us pray to the Lord.  
+> **Deacon:** "That they may stand uncondemned before the dread judgment seat of Christ, let us pray to the Lord."
 That they may inherit the immortal kingdom that is in the heavens, let us pray to the Lord.  
 That they may be partakers of the unceasing gladness of the Saints from the beginning of the world, let us pray to the Lord.  
 For those who weep and are in pain, and that they may have consolation in Christ, let us pray to the Lord.  
 That we may be delivered...  
 Help us, save us...  
 Calling to remembrance our most holy, pure, most blessed, glorious Lady, Theotokos and Ever-Virgin Mary, with all the Saints, let us commit ourselves and one another, and our whole life unto Christ our God.  
-**Choir:** To Thee, O Lord.  
-**Priest:** For Thou art the resurrection, and the life, and the repose of Thy fallen-asleep servants, the blessed and ever-memorable founders of this holy Temple (or: of this holy Monastery, of our fathers and brethren), our parents and kinsfolk, and those lying here, inscribed here, and Orthodox Christians everywhere, and those now remembered *(Names)*, O Christ our God; and unto Thee do we send up glory... and the rest.  
+> **Choir:** "To Thee, O Lord."
+> **Priest:** "For Thou art the resurrection, and the life, and the repose of Thy fallen-asleep servants, the blessed and ever-memorable founders of this holy Temple (or: of this holy Monastery, of our fathers and brethren), our parents and kinsfolk, and those lying here, inscribed here, and Orthodox Christians everywhere, and those now remembered *(Names)*, O Christ our God; and unto Thee do we send up glory... and the rest."
 *Then:* Alleluia (thrice), *in Tone 8. And we say these verses:*  
 *Verse 1:* Blessed are they whom Thou hast chosen and taken to Thyself, O Lord [Ps. 64:5 LXX].  
 *Verse 2:* And their remembrance is unto generation and generation [Ps. 101:13 LXX].  
@@ -94,7 +94,7 @@ Calling to remembrance our most holy, pure, most blessed, glorious Lady, Theotok
 
 *After this, the Kathisma:* "Blessed are the blameless" [Ps. 118:1 LXX]: *we sing these in Tone 5 with refrains:* "Blessed art Thou, O Lord" [Ps. 118:12 LXX]; *and some sing:* "Remember, O Lord, the souls of Thy servants"; *the first Choir beginning the 1st verse, the second Choir the 2nd verse, and the rest of the verses in order; and we divide them into two stases. And after the first stasis we do not say: "Glory: Both now:"; but immediately this verse:* "Unless Thy law had been my meditation" [Ps. 118:92 LXX], *thrice.*  
 *Then the Deacon, or the Priest himself, the Litany:*  
-**Deacon:** Again and again in peace, let us pray to the Lord.  
+> **Deacon:** "Again and again in peace, let us pray to the Lord."
 Again we pray for the repose of the fallen-asleep, ever-memorable servants of God *(Names)*. (If it be a universal commemoration, the Litany is as was prescribed above on Saturday at Matins. But if a non-universal Pannikhida is sung, we say thus:) Again we pray for the repose of the fallen-asleep servants of God, the blessed and ever-memorable founders of this holy Temple (of this holy Monastery, of our fathers and brethren), our parents and kinsfolk, lying here, inscribed here, and Orthodox Christians everywhere, and the servants of God *(Names)*, of whom we make remembrance, and that every transgression of theirs, voluntary and involuntary, may be pardoned them.  
 "That the Lord our God...": "The mercies of God, the kingdom...": seek there. And the Clerics: "Lord, have mercy," until the Priest recites the Prayer secretly: "O God of spirits and of all flesh"; Exclamation: "For Thou art the resurrection, and the life, and the repose," and the rest unto the end.  
 *Then the second Choir begins:* "I am Thine, save me" [Ps. 118:94 LXX]. *Refrain:* "Give rest, O Lord, to the souls of Thy servants." *And some chant:* "O Savior, save the souls of Thy servants"; *and the other verses in order. And at the end we sing the verse:* "My soul shall live, and shall praise Thee" [Ps. 118:175 LXX], *thrice, unto the end.*  
@@ -150,23 +150,23 @@ Thou alone art immortal, Who didst fashion and make man; for we earthly beings w
 *Theotokion:* O Virgin, alone pure and immaculate, who didst bear God without seed: intercede for the salvation of their souls.[^11214]
 
 *Then the Litany:*  
-**Deacon:** Have mercy upon us, O God, according to Thy great mercy...  
-**Choir:** Lord, have mercy (thrice).  
-**Deacon:** Again we pray for the repose of the blessed memory... And the rest in order, as was prescribed above.  
+> **Deacon:** "Have mercy upon us, O God, according to Thy great mercy..."
+> **Choir:** "Lord, have mercy (thrice)."
+> **Deacon:** "Again we pray for the repose of the blessed memory... And the rest in order, as was prescribed above."
 *And the Priest the Prayer secretly (and at the conclusion of the Parastas aloud):*  
-**Priest:** O God of spirits and of all flesh, Who hast trampled down death, and overthrown the devil, and given life unto Thy world: do Thou Thyself, O Lord, give rest to the souls of Thy fallen-asleep servants, in a place of light, in a place of green pasture, in a place of refreshment, whence pain, sorrow, and sighing have fled away; and every sin committed by them in word, or deed, or thought, as a good God and Lover of mankind do Thou forgive: for there is no man who shall live and not sin; for Thou alone art without sin, Thy righteousness is an everlasting righteousness, and Thy word is truth.  
+> **Priest:** "O God of spirits and of all flesh, Who hast trampled down death, and overthrown the devil, and given life unto Thy world: do Thou Thyself, O Lord, give rest to the souls of Thy fallen-asleep servants, in a place of light, in a place of green pasture, in a place of refreshment, whence pain, sorrow, and sighing have fled away; and every sin committed by them in word, or deed, or thought, as a good God and Lover of mankind do Thou forgive: for there is no man who shall live and not sin; for Thou alone art without sin, Thy righteousness is an everlasting righteousness, and Thy word is truth."
 *Exclamation:* For Thou art the resurrection and the life...  
 *Then the Priest:* Wisdom!  
-**Choir:** More honorable than the Cherubim...  
-**Priest:** Glory to Thee, O Christ God, our hope, glory to Thee.  
-**Choir:** Glory: Both now: Lord, have mercy (thrice). Give the blessing.  
+> **Choir:** "More honorable than the Cherubim..."
+> **Priest:** "Glory to Thee, O Christ God, our hope, glory to Thee."
+> **Choir:** "Glory: Both now: Lord, have mercy (thrice). Give the blessing."
 *The Priest, the Dismissal:*  
-**Priest:** May He Who rose from the dead,  
+> **Priest:** "May He Who rose from the dead,"
 Christ our true God, Who rules over the living and the dead, through the intercessions of His all-pure Mother, of the holy, glorious, and all-praised Apostles, of our venerable and God-bearing-[^11215] -Fathers, and of all the Saints, establish the souls of His servants who have passed away from us in the tents of the Righteous, give them rest in the bosom of Abraham, number them among the Righteous, and have mercy upon us and save us, as He is good and the Lover of mankind.
-**Choir:** Amen.  
+> **Choir:** "Amen."
 *Then the Deacon or the Priest says:*  
-**Deacon:** In blessed falling-asleep, eternal rest grant, O Lord, to Thy fallen-asleep servants *(Names)*, and make their memory to be eternal.  
-**Choir:** Memory eternal (thrice).[^11216]  
+> **Deacon:** "In blessed falling-asleep, eternal rest grant, O Lord, to Thy fallen-asleep servants *(Names)*, and make their memory to be eternal."
+> **Choir:** "Memory eternal (thrice)."[^11216]
 *This Order is proper to be performed on all Fridays on which we make commemoration over the Kolyvo for our departed fathers and brethren.*[^11217]
 
 *The End, and unto God be Glory.*[^11218]

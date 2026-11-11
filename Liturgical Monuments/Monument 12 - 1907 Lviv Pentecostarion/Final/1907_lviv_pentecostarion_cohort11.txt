@@ -213,7 +213,7 @@ We have known God Who was incarnate of thee, O Virgin Theotokos, thou only pure,
 *Both now, the same.*
 
 *Antiphon 12, Tone 8:*
-Thus saith the Lord unto the Jews: "O My people, what have I done unto you, or wherein have I wearied you? I gave light unto your blind, I cleansed your lepers, I raised up the man that was upon his bed: O My people, what have I done unto you, and what have ye repaid Me? For manna, gall; for water, vinegar; instead of loving Me, ye nailed Me unto the Cross: no longer will I endure it, I will call My Gentiles, and they shall glorify Me with the Father and the Spirit, and I will grant them life eternal."
+Thus says the Lord unto the Jews: "O My people, what have I done unto you, or wherein have I wearied you? I gave light unto your blind, I cleansed your lepers, I raised up the man that was upon his bed: O My people, what have I done unto you, and what have ye repaid Me? For manna, gall; for water, vinegar; instead of loving Me, ye nailed Me unto the Cross: no longer will I endure it, I will call My Gentiles, and they shall glorify Me with the Father and the Spirit, and I will grant them life eternal."
 
 *Troparion:*
 Today the veil of the temple is rent in twain for the conviction of the lawless, and the sun hids its rays, beholding the Master crucified.

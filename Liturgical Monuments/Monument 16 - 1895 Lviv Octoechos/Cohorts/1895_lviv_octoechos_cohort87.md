@@ -191,7 +191,7 @@ Let us sing unto the Lord, Who led His people through the Red Sea: for He alone 
 
 *Glory:* Rejoice, beautiful palace of the Word, virginal bridal chamber of the King! Rejoice, boast of all the bodiless ones! Rejoice, help of men![^9552]
 
-*Both now:* They withdraw from God and therefore perish, who reject the icons of Thy Son, O Mother of God, Virgin Theotokos, through which they that honor thee are saved.[^9553]
+*Both now:* They withdraw from God and therefore perish, who reject the icons of thy Son, O Mother of God, Virgin Theotokos, through which they that honor thee are saved.[^9553]
 
 *Ode 5. Heirmos:* Dispel the darkness of my soul, O Christ God, Giver of light, having driven away the primeval darkness of the abyss; and grant me the light of Thy commandments, O Word, that waking early I may glorify Thee.[^9554]
 
@@ -210,7 +210,7 @@ Let us sing unto the Lord, Who led His people through the Red Sea: for He alone 
 
 *Troparion 2:* God was incarnate in thy womb, impassibly and awesomely, O Bride of God, as upon a new scroll written by the Father's finger.[^9561]
 
-*Glory:* We have thy protection as cleansing, and an assured hope and defense, O pure Virgin! Put not to shame Thy servants, O Sovereign Lady.[^9562]
+*Glory:* We have thy protection as cleansing, and an assured hope and defense, O pure Virgin! Put not to shame thy servants, O Sovereign Lady.[^9562]
 
 *Both now:* By thine intercession, O Bride of God, stay the unceasing madness of passions into stillness; and guide us unto the haven of calm.[^9563]
 

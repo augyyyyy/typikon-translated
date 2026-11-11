@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 1: September (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-1-september-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 1: September (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-1-september-pochaiv-lavra-1761"></a>
 
 *[Architectural Typographical Title Border]*
 
@@ -17,7 +17,7 @@ In the year from the creation of the world according to the Greek chronographers
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 1: September (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-1-september-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 1: September (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-1-september-pochaiv-lavra-1761)**
 * **[MONTH OF SEPTEMBER](#month-of-september)**
   * [The Same Month, on the 27th Day. The Holy Martyr Callistratus, and His Companions](#the-same-month-on-the-27th-day-the-holy-martyr-callistratus-and-his-companions)
 
@@ -274,7 +274,7 @@ Dwelling in the highest, O Christ King, Creator and Builder of all things visibl
 
 Thou Who dost grant fruitful seasons and rains from heaven unto those on earth, receiving now the supplications of Thy servants, deliver Thy city from every necessity; for Thy compassions are truly upon all Thy works. Therefore bless our entrances and our exits, direct the works of our hands among us, and grant us forgiveness of sins, O God; for Thou, as powerful, didst bring all things from non-being into being.
 
-*Another Sessional Hymn of the Venerable Father, Tone and Podoben the same:*
+*Another Sessional Hymn of the Venerable Father, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Having forsaken all earthly things, and being in the world in the body, in spirit thou wast a heavenly angel. For having put to death by the flesh the passions that assail, thou didst appear as a pleasing servant of the Trinity, O blessed one. Therefore thou healest the ailments of the suffering, and by a word drivest away spirits by grace. O all-blessed Symeon, entreat Christ God to grant forgiveness of transgressions unto those who honor thy holy memory with love.
 
@@ -908,7 +908,7 @@ First offering unto God an unbloody sacrifice, as a most lawful priest, afterwar
 
 The armies of the martyrs, O father, thou didst bring unto Christ by thy teachings, O Anthimus, and by instructions, teaching and instructing, and openly offering thyself as an example, O wise in God; with whom pray that peace and great mercy be granted unto our souls.
 
-*Other Stichera of the Venerable One, in the same Tone and Podoben:*
+*Other Stichera of the Venerable One, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 O father Theoctistus, thy radiant memory makes glad the assemblies of monks with the beauties of thy life, and with the graces of miracles, and with the splendors of gifts. Pray Christ that peace and great mercy be granted unto our souls.
 
@@ -1986,7 +1986,7 @@ Having despised wealth and temporary life in a martyric manner, O Eudoxius, thou
 
 Held fast by the abyss of transgressions, fleeing unto the quiet haven of thy most pure supplication, O Mother of God, I cry unto thee: Save me, stretching forth thy sovereign right hand unto thy servant, O all-immaculate one.
 
-*Stavrotheotokion, Podoben:*
+*Stavrotheotokion, Podoben (Подо́бенъ):*
 
 Standing by the Cross of thy Son and God, and beholding His longsuffering, the pure Mother wept and said:
 
@@ -2578,7 +2578,7 @@ Thou alone of earthborn mortals hast been shown forth as salvation, having borne
 
 Put away all sorrow, O Adam and Eve! For the Mother of Joy most gloriously blossoms forth today from a barren woman.
 
-*Glory, both now, the same Podoben:*
+*Glory, both now, the same Podoben (Подо́бенъ то́йже):*
 
 The temple of God, the only Birthgiver of God, comes forth from a barren and unbearing woman; and Adam rejoices, crying aloud.
 
@@ -3034,7 +3034,7 @@ This is the day of the Lord: rejoice, ye people! For behold, the bridal chamber 
 *At the Liturgy: Prokeimenon, Tone 6:* Save, O Lord, Thy people [and bless Thine inheritance.] *Verse: Unto Thee, O Lord, will I cry [LXX Ps. 27:1].[^439] Epistle to the Galatians, Pericope 215 [Gal. 6:11-18]: "Brethren, see with how large letters..."[^440] Alleluia, Tone 1:* I have exalted one chosen out of My people [LXX Ps. 88:20].[^441] *Gospel according to John, Pericope 9 [John 3:13-17]: "The Lord said: No man hath ascended up to heaven..."[^442] Then the regular sequence. Communion Verse of the day.*[^443]
 *On the Ninth Day of the Same Month:*[^444]
 *The Holy and Righteous Ancestors of God, Joachim and Anna; and the Holy Martyr Severian:*[^445]
-*At "Lord, I have cried," stichera of the feast, 3, Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чинẃвъ):*[^446]
+*At "Lord, I have cried," stichera of the feast, 3, Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ):*[^446]
 Joachim and Anna keep festival, having given birth to the first-fruits of our salvation, the only Birthgiver of God: with them we also keep feast today, blessing the pure Virgin from that root of Jesse.[^447]
 
 The Maiden who contained God, the pure Birthgiver of God, the glory of the prophets, the daughter of David: today is born of Joachim and chaste Anna; and the curse of Adam which was upon us is abolished by her nativity.[^448]
@@ -3868,7 +3868,7 @@ When the sun set beneath the earth, it saw thee not buried; but the Unsetting Su
 *Sticheron:*
 In no way understanding the enemy's scheming, thou didst love the child whom thou barest not, and with a father's tender compassion didst nourish him, O glorious one, enduring human reproach with pious thoughts, an innocent interdict in truth, O Theodora: therefore do we celebrate thine honorable festival.[^762]
 
-*Other Stichera of Autonomus, the same Tone and Podoben:*[^763]
+*Other Stichera of Autonomus, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*[^763]
 *Sticheron:*
 Enlightened by virtues, adorned with piety, thou wast a divine hierarch, and like a multi-radiant sun thou didst traverse the world, instructing everywhere the preaching of the faith; and thou didst uproot delusion with the sickle of thy tongue, O God-wise hierarch, great preacher Autonomus![^764]
 
@@ -4802,7 +4802,7 @@ Ask enlightenment for me, O thou who didst give birth unto the Light that shone 
 *Exapostilarion of the Dedication, Tone 2, Podoben: "In the spirit in the sanctuary" (Дꙋ́хомъ во ст҃и́лищи):*
 Renew by the Spirit, O Good Word, the all-hymned, all-honorable, and holy Church which Thou hast redeemed with Thy most pure Blood, and adorn her with most divine rays, glorifying with glory those that worthily celebrate the dedication of Thy temple.[^1077]
 
-*Glory, now and ever, of the Forefeast, the same Podoben:*
+*Glory, now and ever, of the Forefeast, the same Podoben (Подо́бенъ то́йже):*
 With light-giving splendors the Cross of the Lord, lying before us, calls all by divine love unto its exaltation: come, let us all kiss it faithfully with joy, love, and fear, and let us glorify the one Creator and Master.[^1078]
 
 *At the Praises, Stichera of the Dedication on 6, Tone 4:*
@@ -4851,7 +4851,7 @@ O Christ our God, Who didst accept Thy voluntary Crucifixion for the common resu
 
 *At Small Vespers: Resurrection Stichera and of the Birthgiver of God, according to custom. Troparion of the Resurrection; Glory, now and ever, Theotokion.*
 *At Great Vespers: Blessed is the man, the entire kathisma. At "Lord, I have cried", 3 Resurrection Stichera; 1 Anatolian; 3 of the Dedication; and 3 of the Cross: Tone 5, Podoben: "Rejoice" (written at the Aposticha). Glory, of the Dedication; Now and ever, Dogmatic Theotokion of Tone 1. Entrance; and the 3 readings of the Dedication. At the Litiya, the Sticheron of the Temple, and of the Dedication from the Praises, Tone 1: "Be renewed, be renewed"; and of Tone 4: "Today is renewed"; the same Tone: "Lifting up in the midst of the earth". Glory, Tone 5:* O Word Who restest in the bosom of the Father, by Thy Holy Spirit renew the temple erected unto Thy name.[^1096] *Now and ever, Tone 6: "Today the Tree is deemed". At the Aposticha, Resurrection Stichera of the Tone. Glory, Tone 2: "Celebrating the Dedication"; Now and ever, of the Cross, the same Tone: "The divine treasure". At the Blessing of the Loaves, Troparion: "O Birthgiver of God and Virgin", twice; and of the Dedication, once. And a reading from the Apostolic Epistles.*[^1097]
-*At Matins: At "God is the Lord", Troparion of the Resurrection, twice; Glory, of the Dedication; Now and ever, of the Cross. After the kathismata, Sessional Hymns of the Resurrection; Glory, now and ever, of the Dedication; the Theotokia are omitted. And a reading from the Gospel commentary for the Sunday before the Exaltation. After the Evlogitaria: Hypakoe; and we read from the Gospel commentary for the Sunday in course. The Graduals, and the Prokeimenon of the Tone. "Let every breath"; Gospel of the Resurrection. "Having beheld the Resurrection of Christ"; and Psalm 50. Sticheron of the Resurrection. Canon of the Resurrection with its Heirmos on 4; and of the Birthgiver of God on 2; and of the Dedication on 4; and of the Cross on 4. Katavasia: "Inscribing the Cross". After Ode 3, Kontakion and Ikos of the Dedication, and the Sessional Hymn; Glory, now and ever, of the Cross; and a reading. After Ode 6, Kontakion and Ikos of the Resurrection; and the Prologue. At Ode 9, we sing "More honorable". Exapostilarion of the Resurrection; Glory, of the Dedication; Now and ever, of the Cross. At the Praises, 4 Resurrection Stichera; and of the Dedication, Tone 4, Podoben: "Thou hast given a sign", 2; and 2 Idiomela, Tone 3: "Ascend unto thyself, O man"; the other: "O Christ our God". First verse:* Holiness befits Thine house, O Lord, unto length of days. *The other:* The Lord is King, He is clothed with majesty. *Glory, the Gospel Sticheron; Now and ever:* Most blessed art thou, O Virgin Birthgiver of God. *Great Doxology. Troparion of the Resurrection; the Litanies; Dismissal; and Catechesis*[^1098] *and the customary procession into the narthex; and the First Hour. At the Hours, Troparion of the Resurrection; Glory, of the Dedication; Now and ever, the Theotokion of the Hours. After "Our Father", Kontakion of the Resurrection and of the Dedication, saying them alternately. At the Liturgy, the Beatitudes of the Resurrection of the Tone on 6; and of the Dedication, Ode 3 on 4. After the Entrance, Troparion of the Resurrection, of the Dedication, and of the Cross. Kontakion of the Resurrection; Glory, now and ever, of the Dedication. Prokeimenon, Epistle, Alleluia, and Gospel: first of the Sunday before the Exaltation, and the daily under one section; then of the Dedication. Communion Hymn: "Praise the Lord from the heavens"; and of the Dedication.*[^1099]
+*At Matins: At "God is the Lord", Troparion of the Resurrection, twice; Glory, of the Dedication; Now and ever, of the Cross. After the kathismata, Sessional Hymns of the Resurrection; Glory, now and ever, of the Dedication; the Theotokia are omitted. And a reading from the Gospel commentary for the Sunday before the Exaltation. After the Evlogitaria: Hypakoe; and we read from the Gospel commentary for the Sunday in course. The Graduals, and the Prokeimenon of the Tone. "Let every breath"; Gospel of the Resurrection. "Having beheld the Resurrection of Christ"; and Psalm 50. Sticheron of the Resurrection. Canon of the Resurrection with its Heirmos on 4; and of the Birthgiver of God on 2; and of the Dedication on 4; and of the Cross on 4. Katavasia: "Inscribing the Cross". After Ode 3, Kontakion and Ikos of the Dedication, and the Sessional Hymn; Glory, now and ever, of the Cross; and a reading. After Ode 6, Kontakion and Ikos of the Resurrection; and the Prologue. At Ode 9, we sing "More honorable". Exapostilarion of the Resurrection; Glory, of the Dedication; Now and ever, of the Cross. At the Praises, 4 Resurrection Stichera; and of the Dedication, Tone 4, Podoben: "Thou hast given a sign", 2; and 2 Idiomela, Tone 3: "Ascend unto thyself, O man"; the other: "O Christ our God". First verse (Да́лъ є҆сѝ зна́менїе):* Holiness befits Thine house, O Lord, unto length of days. *The other:* The Lord is King, He is clothed with majesty. *Glory, the Gospel Sticheron; Now and ever:* Most blessed art thou, O Virgin Birthgiver of God. *Great Doxology. Troparion of the Resurrection; the Litanies; Dismissal; and Catechesis*[^1098] *and the customary procession into the narthex; and the First Hour. At the Hours, Troparion of the Resurrection; Glory, of the Dedication; Now and ever, the Theotokion of the Hours. After "Our Father", Kontakion of the Resurrection and of the Dedication, saying them alternately. At the Liturgy, the Beatitudes of the Resurrection of the Tone on 6; and of the Dedication, Ode 3 on 4. After the Entrance, Troparion of the Resurrection, of the Dedication, and of the Cross. Kontakion of the Resurrection; Glory, now and ever, of the Dedication. Prokeimenon, Epistle, Alleluia, and Gospel: first of the Sunday before the Exaltation, and the daily under one section; then of the Dedication. Communion Hymn: "Praise the Lord from the heavens"; and of the Dedication.*[^1099]
 
 *(Woodcut Headpiece: The Universal Exaltation of the Precious and Life-Creating Cross)*
 
@@ -5448,7 +5448,7 @@ Perceiving passing things with chaste understanding, and surmounting the raging 
 *Theotokion:*
 Having found thee alone as an apple tree in the woods, and as the purest lily and the flower of the valley, O Mother of God, the noetic Bridegroom took up His abode in thee.[^1283]
 
-*Kontakion of the Saint, Tone 2, Podoben:*
+*Kontakion of the Saint, Tone 2, Podoben (Подо́бенъ):*
 
 *Podoben: "Seeking the highest" (Вы́шнихъ и҆щѧ̀):*
 Having cut down the dominion of delusion by thy endurance, and having received the crown of victory in thy sufferings, O glorious Nicetas, named after victory, thou rejoicest with the angels, praying with them unceasingly unto Christ God for us all.[^1284]
@@ -6027,7 +6027,7 @@ He who was caught up unto the third heaven into paradise [2 Cor. 12:2–4], and 
 *Sessional Hymn of the Saint, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 Thou didst burn up the deception of the schismatics, O hieromartyr Josaphat; thou didst rightly clarify the faith by the Union, and didst enlighten the world; therefore thou didst appear as a sign-bearing sufferer, a pillar of the Church, and a true pastor: pray unceasingly unto Christ, that we all may be saved.[^1484]
 
-*Glory, both now, in the same tone and same podoben:*
+*Glory, both now, in the same tone and same podoben (Подо́бенъ то́йже):*
 In thee, O thrice-blessed and life-giving Cross, the peoples, feasting, celebrate together with the immaterial choirs; the hierarchal orders devoutly sing hymns, and the multitude of monastics and fasters bow down in worship; and all of us glorify Christ Who was crucified.[^1485]
 
 *Ode 4. Heirmos:*
@@ -6301,7 +6301,7 @@ Having been shown forth as the most sacred branches of honorable Sophia, Faith, 
 *Sessional Hymn, Tone 1. Podoben: "The Angelic Choir" (Ли́къ а҆́гг҃льскїй):*
 As noetic lambs of the Lamb and Shepherd, ye were surrendered unto fire and cruel torments, and were shown forth as equal in honor unto the angels; therefore we all celebrate your sacred memory in gladness of heart, O divinely wise virgins.[^1557]
 
-*Glory, Both now, of the Feast. Podoben: The same:*
+*Glory, Both now, of the Feast. Podoben: The same (Подо́бенъ то́йже):*
 The weapon of the Cross was shown forth of old in warfare unto the pious Emperor Constantine, an invincible victory over the enemies for the sake of the faith; whereat the adverse powers tremble: this was both the salvation of the faithful and Paul's boast.[^1558]
 
 *Ode 4 [of the Feast]. Heirmos:*
@@ -6500,7 +6500,7 @@ Psalmodically foreseeing now Thy footstool, O Master, where Thy most pure feet s
 *Sticheron:*
 As an invincible weapon, an insurmountable shield, and as a divine scepter, we bow down before Thy Cross, O Christ, Thy throne: through which the world was saved and Adam dances for joy; we, the assemblies of earthborn beings, honor it with songs, praising it well, and accomplishing its divine Exaltation, we ask for purification.[^1618]
 
-*Other Stichera of the Saint, Tone 8. Podoben: The same:*
+*Other Stichera of the Saint, Tone 8. Podoben: The same (Подо́бенъ то́йже):*
 Having purified thy soul and body from passions, thou wast a house of the Holy Spirit, and didst adorn thyself with the anointing of sacred things; thou wast an excellent protector, O Eumenius, and a converser with the holy angels, and an heir of the glory of the Lord, and an intercessor for those who praise thee.[^1619]
 
 *Sticheron:*
@@ -6809,7 +6809,7 @@ Having rejected the counsel of the godless, Dorymedon strengthened his mind with
 *Glory, Both now, Tone 4:*
 Let us clap our hands today in hymnic triumph, and with radiant countenance and clear tongue let us cry aloud: O Christ, Who for our sake didst receive judgment, spitting, and stripes, and wast clothed in purple, and didst ascend the Cross [Matt. 27:28–31], seeing which the sun and moon hid their light, and the earth shook with fear, and the veil of the temple was rent in two [Matt. 27:45, 51]! Do Thou even now grant us Thy precious Cross as a guardian and keeper, and a driver-away of demons; that kissing it, we may all cry unto it: Save us, O Cross, by thy power; sanctify us by thy brightness, O precious Cross; and strengthen us by thine exaltation, for thou hast been given unto us as light and the salvation of our souls![^1720]
 
-*At the Aposticha, Stichera, Tone 1, Podoben: "Of the heavenly hosts" (Небе́сныхъ чинẃвъ):*
+*At the Aposticha, Stichera, Tone 1, Podoben: "Of the heavenly hosts" (Небе́сныхъ чинѡ́въ):*
 The Cross is exalted, and demons are driven away; the thief opens the gates of Eden [Luke 23:43]; death is put to death and now shown to be despoiled; Christ is magnified: therefore rejoice, all ye earthborn, for the curse is dissolved![^1721]
 
 *Verse: Exalt ye the Lord our God, and worship at His footstool, for He is holy [Ps. 98:5; LXX Ps. 98:5].*
@@ -7114,7 +7114,7 @@ Today the heavens declared Thy glory unto men, O Incomprehensible One [Ps. 18:1;
 *Troparion:*
 By stretching forth his hands, Moses conquered Amalek, prefiguring the form of the Cross of old [Exod. 17:11–12]; and we, now worshiping the Tree of the Cross, trample down the wiles and snares of the enemy, having Christ as our subjugator, Who was lifted up upon it in the flesh, and slew the serpent, and saved man.[^1811]
 
-*Other Stichera, of the Saints, the same Tone and Podoben:*
+*Other Stichera, of the Saints, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Thy calling was from on high, not from men, O Eustathius [Gal. 1:1]; but Christ Himself, the Lover of mankind, appeared unto thee, and caught thee with the nets of faith, O blessed one; and having cleansed thy sins through thy baptism, as Master He extended patience unto thee through the trials of life, and showed thee forth as a renowned victor.[^1812]
 
 *Troparion:*
@@ -7227,7 +7227,7 @@ He who was caught up unto the third heaven into paradise and heard unutterable a
 *Sessional Hymn of Eustathius, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Upon the beast thou didst behold the form of the Cross, and upon it the form of Jesus: falling prostrate, thou wast amazed at the vision; and with all thy house thou didst come unto divine baptism, and becoming poor thou didst show thyself as a second Job. Therefore, being deprived of thy spouse and sons, thou didst cry aloud: The Lord gave, and the Lord has taken away [Job 1:21]! O commander Eustathius, pray unto Christ God to grant remission of sins unto those who with love celebrate thy holy memory! *Twice.*[^1846]
 
-*Glory, Both now, of the Feast, the same Tone and Podoben:*
+*Glory, Both now, of the Feast, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 The precious Cross of the Savior, hidden in the earth, came forth, and fills the fullness of the world with joy, and in the divine temple it proclaims to be exalted in deed, and bears the sceptre into the royal palaces. Therefore Helen cried unto her son: Stretch forth, O master, and receive with thy hands thy dominion and victories, O wise one, and teach the nations in grace to worship the Cross and the Passions of Christ![^1847]
 
 *Ode 4. Heirmos:*
@@ -9210,7 +9210,7 @@ The enemy was shown forth stripped naked by thy divine glory and that of the suf
 *Theotokion:*
 Fervently make supplication unto thy Son, O Virgin, that He may save us from the afflictions that encompass us, and from eternal torment.
 
-*Kontakion, Tone 4. Podoben:*
+*Kontakion, Tone 4. Podoben (Подо́бенъ):*
 
 *Podoben: "Thou Hast Appeared Today" (Ꙗ҆ви́лся є҆сѝ):*
 Celebrating every labor today, O holy ones, the Church mystically praises you who suffered for her, O divine martyrs, fair-victorious and all-wise.
@@ -12437,7 +12437,7 @@ Thou art the comfort of all creation, O Birthgiver of God, who didst give birth 
 
 [^1131]: Church Slavonic: *Свѣтосїѧ́ненъ ѕвѣзда́ми ѡ҆́бразъ предпоказа̀ крⷭ҇те...* Sticheron at the Litiya attributed to Anatolios, celebrating the vision of the Cross granted to Saint Constantine the Great before the Battle of the Milvian Bridge and its finding by his mother Saint Helen.
 
-[^1132]: Church Slavonic: *Чⷭ҇тна́гѡ крⷭ҇та, хрⷭ҇тѐ, дѣ́йство проwбрази́въ мѡѷсе́й...* Doxasticon at the Litiya referencing Exodus 17:11–12, where Moses' raised arms formed the figure of the Cross to overcome Amalek.
+[^1132]: Church Slavonic: *Чⷭ҇тна́гѡ крⷭ҇та, хрⷭ҇тѐ, дѣ́йство проѡбрази́въ мѡѷсе́й...* Doxasticon at the Litiya referencing Exodus 17:11–12, where Moses' raised arms formed the figure of the Cross to overcome Amalek.
 
 [^1133]: Church Slavonic: *Ра́дуйсѧ живоно́сный крⷭ҇те...* Automelon sticheron at the Aposticha, Tone 5.
 
@@ -12449,7 +12449,7 @@ Thou art the comfort of all creation, O Birthgiver of God, who didst give birth 
 
 [^1137]: Church Slavonic: *Ра́дуйсѧ слѣпы́хъ наста́вниче...* Third sticheron at the Aposticha, completing the triadic set of prosomoia on Tone 5.
 
-[^1138]: Church Slavonic: *Є҆го́же дре́вле мѡѷсе́й проwбразова́въ собо́ю...* Doxasticon at the Aposticha attributed to Saint John the Monk (Saint John Damascene).
+[^1138]: Church Slavonic: *Є҆го́же дре́вле мѡѷсе́й проѡбразова́въ собо́ю...* Doxasticon at the Aposticha attributed to Saint John the Monk (Saint John Damascene).
 
 [^1139]: Church Slavonic: *коро́лю на́шемꙋ, [и҆́мⷬк]*. In the 1761 Pochaiv edition, the text prints a rubrical blank/formula space (*имярек* / placeholder) for the reigning monarch of the Polish-Lithuanian Commonwealth (King Augustus III of Poland, r. 1734–1763).
 
@@ -12461,7 +12461,7 @@ Thou art the comfort of all creation, O Birthgiver of God, who didst give birth 
 
 [^1143]: Church Slavonic: *Дне́сь проро́ческое и҆спо́лнисѧ сло́во...* Second Kathisma Sessional Hymn, Tone 6, citing Psalm 131:7 (LXX): "We will worship at the place where His feet stood."
 
-[^1144]: Church Slavonic: *Проwбража́ше та́инственнѡ дре́вле і҆исꙋ́съ навѵ́нъ...* Sessional Hymn on Tone 8 modeled on *Повелѣ́нное та́йнѡ*, referencing Joshua 10:12–14.
+[^1144]: Church Slavonic: *Проѡбража́ше та́инственнѡ дре́вле і҆исꙋ́съ навѵ́нъ...* Sessional Hymn on Tone 8 modeled on *Повелѣ́нное та́йнѡ*, referencing Joshua 10:12–14.
 
 [^1145]: Church Slavonic: *Въ раи́ мѧ пре́жде дре́во ѡ҆бнажѝ...* Polyeleos Sessional Hymn on Tone 8, modeled on *Повелѣ́нное та́йнѡ*.
 
@@ -14005,7 +14005,7 @@ Thou art the comfort of all creation, O Birthgiver of God, who didst give birth 
 
 [^1915]: September 21: Commemoration of the holy Apostle Quadratus of the Seventy, Bishop of Athens and Magnesia (d. ca. 130). In the Ruthenian Typikon, because the Apodosis of the Exaltation of the Holy Cross falls on September 21, the Apostle's office is transferred to September 22 to be chanted together with the Hieromartyr Phocas of Sinope.
 
-[^1916]: *Leavetaking of the Exaltation of the Precious and Life-giving Cross* (Ѿда́нїе воздви́женїѧ честна́гѡ крⷭ҇та̀). On this day, the entire service of the Feast of the Exaltation (September 14) is repeated without change, except for the entrance at Vespers and the polyeleos at Matins.
+[^1916]: *Apodosis of the Exaltation of the Precious and Life-giving Cross* (Ѿда́нїе воздви́женїѧ честна́гѡ крⷭ҇та̀). On this day, the entire service of the Feast of the Exaltation (September 14) is repeated without change, except for the entrance at Vespers and the polyeleos at Matins.
 
 [^1917]: Rubrics governing the occurrence of the Apodosis on a Saturday, specifying the chanting of the Resurrection Dogmatic Theotokion of the Tone at the entrance of Vespers.
 
@@ -14483,7 +14483,7 @@ Thou art the comfort of all creation, O Birthgiver of God, who didst give birth 
 
 [^2154]: Psalm 91:13 (LXX 91:12).
 
-[^2155]: Slavonic typographical error: the printed text reads *и҆з̾ два̀ ро́ждшагwся* (*iz dva rozhdshagosya*), an obvious erratum for *и҆з̾ дв҃ы ро́ждшагwся* (*iz Dvy rozhdshagosya*, "of Him Who was born of the Virgin").
+[^2155]: Slavonic typographical error: the printed text reads *и҆з̾ два̀ ро́ждшагѡся* (*iz dva rozhdshagosya*), an obvious erratum for *и҆з̾ дв҃ы ро́ждшагѡся* (*iz Dvy rozhdshagosya*, "of Him Who was born of the Virgin").
 
 [^2156]: Heirmos of Ode 5, Canon of St. Euphrosyne, Tone 5 (referencing Psalm 103:2, LXX).
 

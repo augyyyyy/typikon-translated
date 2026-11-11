@@ -26,7 +26,7 @@ We the faithful joyfully offer unto thee the voice of the angels, O Bride of God
 
 *Alleluia.*
 
-*Stichera of the Martyrs, Tone 6, Podoben: "Having Laid Aside All" (Vse otlozhshe):*
+*Stichera of the Martyrs, Tone 6, Podoben: "Having Laid Aside All" (Всѐ ѿло́жше):*
 
 *Sticheron:*
 Steered by fire, the blessed hieromartyrs easily sailed across the turbulent surging of sufferings; and by hot waters they were entrusted to heal the afflictions of men; whose relics, having been buried in sacred manner, pour forth healings richly unto those in need; let us worthily honor them,
@@ -40,7 +40,7 @@ Wearing a purple robe of martyr's blood, and holding the precious Cross as a sce
 *Sticheron:*
 Desiring the kingdom of Christ, the blessed martyrs accounted temporal death as delight, and having endured famine and the wounds of pain with manly courage, O noble ones; therefore they became protectors unto all the faithful, ungrudgingly procuring health for souls and bodies; whom now we the faithful worthily hymn with joy, as they pray unto the Lord for our souls.
 
-*Stichera of the Theotokos. (If it be a fast and Alleluia is sung, then the Stichera of the Theotokos are sung first, then those of the saints; Tone and Podoben the same):*
+*Stichera of the Theotokos. (If it be a fast and Alleluia is sung, then the Stichera of the Theotokos are sung first, then those of the saints; Tone and Podoben the same) (Гла́съ и҆ подо́бенъ то́йже):*
 
 *Sticheron:*
 Rejoice, fulfillment of the law; rejoice, temple of the Holy Trinity, incorrupt Bride; rejoice, divine carriage of the King of all; rejoice, immaterial fire, bearing upon thy hands as with tongs the Live Coal; new paradise of the enclosed garden, divine and most radiant table; undefiled dove, throne of the Most High, spiritual couch of God, whom as a maiden the Holy Spirit overshadowed!
@@ -91,7 +91,7 @@ Beholding the fierce governor slain by the drunkenness of impiety, Patrick cried
 *Theotokion:*
 Without knowing wedlock, O Theotokos, thou didst give birth unto the Word of God, the Son incarnate of thee; Whom when the martyrs manfully confessed, they became His soldiers and crown-bearers.
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 With Menander, let us honor in songs wise Acacius, and Polyaenus, sacred through faith, and great Patrick; for having been priests of God the Almighty, they were well-pleasing unto Him through faith. Therefore at the close of life they were radiantly accounted worthy of martyrdom and joined unto the angels; unto whom we cry aloud with love: Pray Christ God to grant remission of transgressions unto those who with love honor your holy memory!
 
 *Glory..., Now and ever..., Of the feast, or Theotokion:*
@@ -151,7 +151,7 @@ Raise up for me a spiritual morning, lying as I am in the darkness of transgress
 *Theotokion:*
 Illumine my soul, O Virgin Theotokos, all-hymned one, who didst bear the Radiance of the Father's glory; for having thy grace, the sufferers cast away the vain speech of the torturers.
 
-*Kontakion, Tone 4, Podoben: "Thou Hast Appeared" (Yavilsya yesi):*
+*Kontakion, Tone 4, Podoben: "Thou Hast Appeared" (Ꙗ҆ви́лсѧ є҆сѝ):*
 As one brightly shining with the beauty of the priesthood and preeminently adorned with the blood of martyrdom, standing before Christ with those who suffered with thee, O Patrick: remember us, as an honorable sufferer!
 
 *Ode 7. Heirmos:*
@@ -205,7 +205,7 @@ the holy ones piously proclaimed, preeminently illumined them radiantly, as He p
 
 ## May 20. Holy Martyr Thalelaeus
 
-*Stichera of the Martyr, Tone 4, Podoben: "As Noble" (Yako dobla):*
+*Stichera of the Martyr, Tone 4, Podoben: "As Noble" (Ꙗ҆́кѡ до́блѧ):*
 
 *Sticheron:*
 When such great tempest held sway under heaven and mistreated the soul, O all-glorious one, guided by the helmsmanship of the high calling, unharmed thou didst pass through the much-afflicted deep of tortures; and having reached the high havens, thou wast filled with eternal calm, O martyr Thalelaeus!
@@ -216,7 +216,7 @@ Thou didst depict the suffering of the Master of creation, when lifted up upon t
 *Sticheron:*
 At the command of the tormentor, thou wast surrendered unto the deep of the sea, yet by divine grace thou didst remain undrowned, O all-wise one; and by the streams of thy blood thou didst drown the spiritual Pharaoh and his host, and didst deliver them unto utter destruction, O God-wise one, being mightily strengthened by Christ.
 
-*Stichera of the Theotokos, Tone 4, the same Podoben:*
+*Stichera of the Theotokos, Tone 4, the same Podoben (Подо́бенъ то́йже):*
 
 *Sticheron:*
 Deliver my humble soul from condemnation and grievous transgressions, O most holy Bride of God, and change death by thy prayers, and grant me to obtain justification in the day of trial, which the assemblies of the saints obtained; show me forth cleansed before the end by repentance and outpourings of tears!
@@ -269,7 +269,7 @@ by resistance to adversaries, O Thalelaeus!
 *Theotokion:*
 Thy childbearing loosed the debts of our sins, and bound all the faithful unto righteousness.
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyisya):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*
 Having shown thyself radiant, O passion-bearer, thou didst cast away the gloom of godlessness, and didst hasten[^306] unto tortures and death. Therefore, having finished thy great struggles, thou didst receive a great inheritance and glory that never passes away, O noble sufferer, glorious Thalelaeus!
 
 *Glory..., Now and ever..., Theotokion:*

@@ -129,7 +129,7 @@ O Bride of God, All-Blameless, deliver from temptations by thy prayers those who
 *After the 1st Stichology, Sessional Hymn, Tone 4, Podoben: "Joseph was amazed" (Оу҆диви́сѧ І҆ѡ́сифъ):*  
 The post-festal, O ye faithful, and final feast let us celebrate brightly; this is Pentecost, the fulfillment of the promise and of the pledge; for on this day the Fire of the Comforter came down upon the earth, as in the appearance of tongues, and enlightened the Disciples, and revealed them to be initiates of heavenly mysteries: the light of the Comforter has come, and enlightened the world.[^2571]  
 *Glory, both now, the same.*  
-*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben the same:*  
+*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 The Fountain of the Spirit, having come upon the earth, dividing Itself noetically into fiery rivers, bedewed the Apostles, enlightening them; and the fire became for them a bedewing cloud, enlightening them and raining down flame, through which we have received grace by fire and by water: the light of the Comforter has come, and enlightened the world. (Twice)[^2572]
 
 === LEAF p577 ===

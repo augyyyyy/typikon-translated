@@ -330,7 +330,7 @@ When they that were with Mary came before the dawn and found the stone rolled aw
 === LEAF p210 ===
 *Ode 4. Heirmos:*
 
-Let Habakkuk the divine speaker stand with us upon divine watch, and show forth the light-bearing angel who clearly saith: Today salvation is come to the world, for Christ is risen as almighty!
+Let Habakkuk the divine speaker stand with us upon divine watch, and show forth the light-bearing angel who clearly says: Today salvation is come to the world, for Christ is risen as almighty!
 
 *Troparion:*
 

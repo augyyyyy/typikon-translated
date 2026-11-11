@@ -40,7 +40,7 @@ Having preserved that which is according to the image unharmed, and having ascet
 *Both now, of the Feast.*
 
 *At the Aposticha, Stichera, Tone 2:*
-*Tone 2, Podoben: "O Marvelous Wonder" (Preslavnago chudese):*
+*Tone 2, Podoben: "O Marvelous Wonder" (Пресла́внагѡ чꙋдесѐ):*
 *Sticheron 1:*
 O god-wise father Theodosius, from the womb thou didst draw thy mind near unto God; thou didst despise all things for the ruling King, offering unto Him worthy fruits from thy labors, O venerable one, crowned with virtuous crowns. Therefore thou didst find a wealth of good things, O thou who art worthy of wonder.
 
@@ -68,17 +68,17 @@ We honor thee, O our father Theodosius, as the instructor of a multitude of mona
 *At "God is the Lord," Troparion of the Feast, twice. Glory, Troparion of the Saint, Tone 8 (written at Small Vespers). Both now, of the Feast.*
 
 *After the 1st Kathisma, Sessional Hymn, Tone 4:*
-*Tone 4, Podoben: "Speedily Anticipate" (Skoro predvari):*
+*Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Thou didst follow the calling of thy Lord: forsaking the world and all the fair things of the world, O all-blessed Theodosius, thou didst endure bodily afflictions, being earnestly strengthened in the cave, in a place grievous and narrow, and didst valiantly drive away the hosts of demons. Therefore we ever faithfully praise thy memory with hymns.
 
 *After the 2nd Kathisma, Sessional Hymn, Tone 8:*
-*Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 With streams of tears thou didst richly water thy soul, O wise father, and hast reaped the fruitful ear of virtues; and having become a shepherd unto the sheep, O venerable one, thou didst nourish them upon the grass of temperance. Therefore being released from life gloriously, thou wast united unto the choirs of the fathers, O Theodosius. Therefore we cry unto thee: Entreat Christ God to grant remission of sins unto those who honor thy holy memory with love. (Twice)
 
 *Glory, both now, of the Feast.*
 
 *After the Polyeleos, Sessional Hymn, Tone 8:*
-*Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Having been sanctified from the womb in truth, O Theodosius
 
 === LEAF p25 === (Fol. 13r)
@@ -267,7 +267,7 @@ Rejoice
 Rejoice, O all-hymned one, who didst bear the all-hymned God of all: show those who hymn thee to be partakers of the Light, O pure one, and deliver them from the eternal fire.
 
 *Kontakion, Tone 3:*
-*Tone 3, Podoben: "Today the Virgin" (Deva dnes):*
+*Tone 3, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Today let us honor the star of Rus', which shone forth from the East and came unto the West: for he enriched all this land with wonders and goodness, and all of us, by the creation and grace of the monastic rule, the blessed Theodosius.
 
 *Ikos:*

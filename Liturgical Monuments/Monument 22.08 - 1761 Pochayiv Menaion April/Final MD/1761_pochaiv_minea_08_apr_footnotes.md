@@ -18,7 +18,7 @@
 
 [^8]: St. Titus the Wonderworker (9th c.), Studite monk and confessor during the second Iconoclastic controversy under Leo V the Armenian.
 
-[^9]: Slavonic: Монашествꙋ́ющихъ сто́лпъ да пое́тся Тíтъ. Acrostic across the troparia of the canon of St. Titus.
+[^9]: Slavonic: Монашествꙋ́ющихъ сто́лпъ да пое́тся Ті́тъ. Acrostic across the troparia of the canon of St. Titus.
 
 [^10]: St. Nicetas the Confessor (c. 760–824), Hegumen of the Medikion Monastery in Bithynia, an ardent defender of the veneration of holy icons under the Iconoclastic emperors Leo V the Armenian and Michael II.
 
@@ -114,7 +114,7 @@
 
 [^56]: Slavonic: `посрами́въ свѣ́тство`, an epigraphic corruption in the Pochaiv print for `свирѣ́пство` ("ferocity/cruelty") or `совѣ́тъ` ("counsel/assembly"), referring to the deposition of Nestorius and the condemnation of his heresy at the Council of Ephesus.
 
-[^57]: The acrostic in the Greek Menaion is: Στέφω σε τὸν μάκαρα Συмеὼν ᾄσμασιν. Ἰωσήφ ("I crown thee, the blessed Symeon, with songs. Joseph"), translated into Church Slavonic as: Вѣнча́ю блаже́ннаго тѧ̀ Сѷмеѡ́на пѣснопѣ́нїи. Творе́нїе І҆ѡ́сифово.
+[^57]: The acrostic in the Greek Menaion is: Στέφω σε τὸν μάκαρα Συμεὼν ᾄσμασιν. Ἰωσήφ ("I crown thee, the blessed Symeon, with songs. Joseph"), translated into Church Slavonic as: Вѣнча́ю блаже́ннаго тѧ̀ Сѷмеѡ́на пѣснопѣ́нїи. Творе́нїе І҆ѡ́сифово.
 
 [^58]: Slavonic: `пре́лести мре́теченїа ... ста́до сла́вне`. The printed word `мре́теченїа` appears to be a typesetting corruption for `мꙋ́тнотече́нїѧ` ("turbid currents") or `моретече́нїѧ` ("surging currents of the sea").
 

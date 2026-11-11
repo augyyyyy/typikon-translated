@@ -126,7 +126,7 @@ Let us all sing a song of victory unto God, Who wrought marvelous wonders with a
 *To Athanasius the Recluse of the Caves*
 
 *Troparia:*
-Unto them that now desire to sing thy fitting falling asleep with blessed mouths, O father, not a song, but compunction do thou grant, as they pray and cry out now in the day of thy solemnity, wherein thy memory is glorified.
+Despise me not, O father, who now desire with lips of clay to sing thy twofold falling asleep, but have compassion; I pray thee, crying out now on the day of thy solemnity, wherein thy memory was glorified.
 
 Understanding that human life in this world is cut down by the axe of death, O venerable one, that thou mightest crush the passions by thyself, thou didst run unto the firm rock; and by most marvelous virtues escaping the assault of death, thou singest unto God, for He hath been glorified.
 

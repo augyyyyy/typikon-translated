@@ -1,11 +1,11 @@
 === LEAF p51 ===
 
 # ΠΡΟΘΕΩΡΙΑ ΤΟΥ ΤΥΠΙΚΟΥ
-### ΗΤΟΙ
-### ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ ΤΗΣ ΑΚΟΛΟΥΘΙΑΣ
-#### ΤΟΥ ΕΣΠΕΡΙΝΟΥ, ΤΟΥ ΟΡΘΡΟΥ ΚΑΙ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ
-#### ΚΑΤΑ ΤΕ ΤΑΣ ΚΥΡΙΑΚΑΣ ΚΑΙ ΤΑΣ ΛΟΙΠΑΣ ΕΟΡΤΑΣ ΤΟΥ ΟΛΟΥ ΕΝΙΑΥΤΟΥ
-#### ΜΕΤΑ ΠΑΣΩΝ ΤΩΝ ΠΕΡΙΠΤΩΣΕΩΝ ΑΥΤΩΝ
+**ΗΤΟΙ**
+**ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ ΤΗΣ ΑΚΟΛΟΥΘΙΑΣ**
+**ΤΟΥ ΕΣΠΕΡΙΝΟΥ, ΤΟΥ ΟΡΘΡΟΥ ΚΑΙ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ**
+**ΚΑΤΑ ΤΕ ΤΑΣ ΚΥΡΙΑΚΑΣ ΚΑΙ ΤΑΣ ΛΟΙΠΑΣ ΕΟΡΤΑΣ ΤΟΥ ΟΛΟΥ ΕΝΙΑΥΤΟΥ**
+**ΜΕΤΑ ΠΑΣΩΝ ΤΩΝ ΠΕΡΙΠΤΩΣΕΩΝ ΑΥΤΩΝ**
 
 ---
 
@@ -18,9 +18,9 @@
 === LEAF p52 ===
 
 # PRETHEORY OF THE TYPIKON
-### That Is:
-### The Typikon Order of the Services of Vespers, Matins, and the Divine Liturgy
-#### For Sundays and the Remaining Feasts of the Entire Year, with All of Their Cases
+**That Is:**
+**The Typikon Order of the Services of Vespers, Matins, and the Divine Liturgy**
+**For Sundays and the Remaining Feasts of the Entire Year, with All of Their Cases**
 
 ---
 
@@ -38,11 +38,11 @@ The Ninth Hour, read daily before Vespers, is the seal of the services of the ec
 
 ## Ο ΕΣΠΕΡΙΝΟΣ
 
-### ΠΕΡΙ ΤΟΥ ΕΥΛΟΓΗΤΟΣ Ο ΘΕΟΣ
+**ΠΕΡΙ ΤΟΥ ΕΥΛΟΓΗΤΟΣ Ο ΘΕΟΣ**
 
 **2.** Ἀρχὴ τῆς Ἀκολουθίας τοῦ Ἑσπερινοῦ καὶ τῆς τοῦ Ὄρθρου καὶ πάσης ἄλλης ἱερᾶς τελετῆς ἐστιν ἡ ὑπὸ τοῦ Ἱερέως ἐκφωνουμένη εὐχή, **«Εὐλογητὸς ὁ Θεὸς ἡμῶν»**¹, ἐξαιρέσει τῆς Θείας Λειτουργίας, τῆς τελετῆς τοῦ Ἁγίου Βαπτίσματος καὶ τοῦ Μυστηρίου τοῦ Γάμου, πρὸ τῶν ὁποίων ἐκφωνεῖται τὸ **«Εὐλογημένη ἡ Βασιλεία τοῦ Πατρός»**. Ἐν τοῖς Ἑσπερινοῖς δὲ² καὶ τοῖς Ὄρθροις τῆς Διακαινησίμου ἑβδομάδος καὶ τῆς ἡμέρας τῆς Ἀποδόσεως τοῦ Πάσχα, ὡς καὶ πρὸ τοῦ καθ᾿ ἑκάστην ἡμέραν ἀναγινωσκομένου Ἑξαψάλμου, ἐκφωνεῖται τὸ **«Δόξα τῇ Ἁγίᾳ καὶ Ὁμοουσίῳ καὶ ζωοποιῷ καὶ ἀδιαιρέτῳ Τριάδι»**.
 
-### ΠΕΡΙ ΤΟΥ ΠΡΟΟΙΜΙΑΚΟΥ ΨΑΛΜΟΥ
+**ΠΕΡΙ ΤΟΥ ΠΡΟΟΙΜΙΑΚΟΥ ΨΑΛΜΟΥ**
 
 **3.** Ὁ Προοιμιακὸς Ψαλμός, ἡ μεγαλοπρεπεστέρα δοξολογία τοῦ...
 
@@ -61,11 +61,11 @@ The Ninth Hour, read daily before Vespers, is the seal of the services of the ec
 
 ## VESPERS
 
-### Concerning *Blessed is our God*
+**Concerning *Blessed is our God***
 
 **2.** The beginning of the service of Vespers, of Matins, and of every other sacred rite is the prayer intoned by the Priest: **"Blessed is our God"** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*),[^55] with the exception of the Divine Liturgy, the sacrament of Holy Baptism, and the mystery of Holy Matrimony, before which is intoned: **"Blessed is the Kingdom of the Father, and of the Son, and of the Holy Spirit"** (*Εὐλογημένη ἡ Βασιλεία τοῦ Πατρός*). At the Vespers[^56] and Matins of Bright Week and the day of the Apodosis of Pascha, as well as before the daily reading of the Six Psalms (*Ἑξάψαλμος*), there is intoned: **"Glory to the Holy, Consubstantial, Life-Creating, and Undivided Trinity"** (*Δόξα τῇ Ἁγίᾳ καὶ Ὁμοουσίῳ καὶ ζωοποιῷ καὶ ἀδιαιρέτῳ Τριάδι*).
 
-### Concerning the Introductory Psalm
+**Concerning the Introductory Psalm**
 
 **3.** The Introductory Psalm [Psalm 103 LXX],[^57] which is the most majestic...
 
@@ -95,13 +95,13 @@ That which the golden-tongued John said concerning the psalms in general and tho
 
 === LEAF p57 ===
 
-### ΠΕΡΙ ΤΟΥ Α΄ ΚΑΘΙΣΜΑΤΟΣ ΤΟΥ ΨΑΛΤΗΡΙΟΥ
+**ΠΕΡΙ ΤΟΥ Α΄ ΚΑΘΙΣΜΑΤΟΣ ΤΟΥ ΨΑΛΤΗΡΙΟΥ**
 
 **4.** Κατὰ πᾶν Σάββατον ἐν τῷ Ἑσπερινῷ στιχολογεῖται τὸ Α΄ Κάθισμα τοῦ Ψαλτηρίου, καὶ Θεομητορικῆς ἑορτῆς τυχούσης, ἢ μνήμης ἑορταζομένου Ἁγίου. Οὐ στιχολογεῖται δὲ ἐν ταῖς ἐφεξῆς Δεσποτικαῖς ἑορταῖς καὶ ἂν ἔτι συμπέσωσιν ἐν ἡμέρᾳ Κυριακῇ, ἤτοι τῇ ἑορτῇ τῆς Χριστοῦ Γεννήσεως, τῇ τῶν Θεοφανίων καὶ τῆς Μεταμορφώσεως, ἐν αἷς οὐδὲ Ἀναστάσιμα ψάλλονται· ἐπίσης οὐ στιχολογεῖται καὶ ἐν τῇ Κυριακῇ τῆς Πεντηκοστῆς, ὡς οὐδὲ ἐν ταῖς μεθεόρτοις Ἑσπερινοῖς τῶν Χριστουγέννων καὶ τῶν Θεοφανίων, ὅταν αἱ ἑορταὶ αὗται συμπέσωσιν ἐν ἡμέρᾳ Σαββάτου, προηγοῦνται ὅμως ἐν τούτοις τὰ Ἀναστάσιμα στιχηρά. Ἐν δὲ ταῖς ἐφεξῆς Δεσποτικαῖς ἑορταῖς, ἤτοι τῇ Κυριακῇ τῶν Βαΐων, τῇ Κυριακῇ τοῦ Θωμᾶ καὶ τῇ ἑορτῇ τῆς Ὑψώσεως τοῦ Σταυροῦ (ὅταν τύχῃ αὕτη ἐν Κυριακῇ), τὸ μὲν Ψαλτήριον στιχολογεῖται, ἀλλὰ τὰ Ἀναστάσιμα καταλιμπάνονται.
 
 ---
 
-### ΠΕΡΙ ΤΗΣ Α΄ ΣΤΑΣΕΩΣ ΤΟΥ ΨΑΛΤΗΡΙΟΥ
+**ΠΕΡΙ ΤΗΣ Α΄ ΣΤΑΣΕΩΣ ΤΟΥ ΨΑΛΤΗΡΙΟΥ**
 
 **5.** Ἐν ταῖς Θεομητορικαῖς ἑορταῖς (ἐξαιρουμένων τῶν ἑορτῶν...
 
@@ -116,13 +116,13 @@ That which the golden-tongued John said concerning the psalms in general and tho
 
 === LEAF p58 ===
 
-### Concerning the First Kathisma of the Psalter
+**Concerning the First Kathisma of the Psalter**
 
 **4.** At every Saturday Vespers, the First Kathisma of the Psalter [Psalms 1–8 LXX] is chanted,[^59] even if a Feast of the Mother of God or the commemoration of a celebrated Saint occurs. It is not chanted, however, on the following Feasts of the Lord (even if they should occur on a Sunday): the Feast of the Nativity of Christ, Theophany, and the Transfiguration, at which none of the Resurrection hymns are sung; likewise, it is not chanted on Pentecost Sunday, nor at the post-festal Vespers of Christmas and Theophany when these Feasts fall on a Saturday (although at these Vespers the Resurrection Stichera take precedence). On the following Feasts of the Lord—namely, Palm Sunday, the Sunday of St. Thomas, and the Feast of the Exaltation of the Holy Cross (when it falls on a Sunday)—the Psalter is chanted, but the Resurrection hymns are omitted.
 
 ---
 
-### Concerning the First Stasis of the Psalter
+**Concerning the First Stasis of the Psalter**
 
 **5.** On Feasts of the Mother of God (with the exception of the Feasts of the...
 
@@ -142,14 +142,14 @@ Behold the reasons why our holy Church holds the Psalms of David as the foundati
 
 ---
 
-### ΠΕΡΙ ΤΟΥ ΡΜ΄ ΨΑΛΜΟΥ
-### «ΚΥΡΙΕ ΕΚΕΚΡΑΞΑ»
+**ΠΕΡΙ ΤΟΥ ΡΜ΄ ΨΑΛΜΟΥ**
+**«ΚΥΡΙΕ ΕΚΕΚΡΑΞΑ»**
 
 **6.** Ἐν τοῖς καθ᾿ ἑκάστην ἡμέραν ψαλλομένοις Ἑσπερινοῖς τῶν Ψαλμῶν **«Κύριε ἐκέκραξα»**⁵, **«Φωνῇ μου πρὸς Κύριον»**, **«Ἐκ βαθέων ἐκέκραξά σοι»**, καὶ τὸ **«Αἰνεῖτε τὸν Κύριον»**, ψάλλονται πλήρεις οἱ στίχοι εἰς τοὺς διατεταγμένους ἤχους. Ἐν δὲ τοῖς Ἑσπερινοῖς τῶν Μ. ἑορτῶν εἴθισται πρὸς συντομίαν νὰ παραλείπωνται οἱ στίχοι ἀπὸ τοῦ **«Θοῦ Κύριε»** καὶ ἐφεξῆς, καὶ νὰ μεταβαίνῃ ὁ πρῶτος χορὸς εἰς τὸν στίχον τὸν ἁρμόδιον ἀναλόγως τῆς ποσότητος τῶν ἑπομένων στιχηρῶν.
 
 ---
 
-### ΠΕΡΙ ΤΩΝ ΠΡΩΤΩΝ ΕΣΠΕΡΙΩΝ ΣΤΙΧΗΡΩΝ
+**ΠΕΡΙ ΤΩΝ ΠΡΩΤΩΝ ΕΣΠΕΡΙΩΝ ΣΤΙΧΗΡΩΝ**
 
 **7.** Εἰς πάντα Ἑσπερινὸν τοῦ Σαββάτου πρὸς τὴν Κυριακὴν καὶ πάντα Ὄρθρον ἑκάστης Κυριακῆς τοῦ ὅλου ἐνιαυτοῦ, ψάλλονται ἀπαραιτήτως τὰ τῆς Ὀκτωήχου Ἀναστάσιμα, ἤτοι Στιχηρά, Δοξαστικά, Ἀπολυτίκια, Τριαδικά, Καθίσματα, Ὑπακοαί, Ἀντίφωνα, Κανόνες, Κοντάκια, Οἶκοι, Ἐξαποστειλάρια, Ἑωθινά, Μακαρισμοὶ κτλ., ἅτινα καὶ προηγοῦνται τῶν Ἀκολουθιῶν τῶν Θεομητορικῶν ἑορτῶν καὶ τῶν Ἀποδόσεων αὐτῶν ὡς καὶ τῶν Ἀποδόσεων τῶν Δεσποτικῶν ἑορτῶν,
 
@@ -166,14 +166,14 @@ Behold the reasons why our holy Church holds the Psalms of David as the foundati
 
 ---
 
-### Concerning Psalm 140
-### **"Lord, I have cried"** (*Κύριε ἐκέκραξα*)
+**Concerning Psalm 140**
+****"Lord, I have cried"** (*Κύριε ἐκέκραξα*)**
 
 **6.** In daily Vespers, the verses of Psalms 140, 141, 129, and 116 LXX—namely, **"Lord, I have cried unto Thee, hear me"** (*Κύριε ἐκέκραξα*),[^62] **"I cried unto the Lord with my voice"** (*Φωνῇ μου πρὸς Κύριον*), **"Out of the depths have I cried unto Thee, O Lord"** (*Ἐκ βαθέων ἐκέκραξά σοι*), and **"Praise the Lord, all ye nations"** (*Αἰνεῖτε τὸν Κύριον*)—are chanted in full in the appointed Tones [Tone 1–8]. In the Vespers of Great Feasts, it is customary for the sake of brevity to omit the verses beginning from **"Set, O Lord, a watch before my mouth"** (*Θοῦ, Κύριε, φυλακήν*) and onward, and for the First Choir to pass directly to the verse appropriate to the appointed number of the subsequent Stichera [10, 8, or 6].
 
 ---
 
-### Concerning the First Stichera of Vespers
+**Concerning the First Stichera of Vespers**
 
 **7.** At every Saturday Vespers before Sunday, and at every Sunday Matins throughout the entire year, the Resurrection hymns of the Octoechos are chanted without fail—namely: Stichera, Doxastika, Dismissal Troparia, Triadika, Kathismata, Ypakoe, Antiphons, Canons, Kontakia, Ikoses, Exapostilaria, Eothina Gospels, Beatitudes, etc.[^63] These take precedence over the services of the Feasts of the Mother of God and their Apodoses (Leave-takings), as well as over the Apodoses of Feasts of the Lord, post-festal Sundays, and commemorations of Saints when they fall on a Sunday. They are chanted in the following manner:
 

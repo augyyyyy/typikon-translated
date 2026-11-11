@@ -45,7 +45,7 @@ In songs of praise let us sing of the hierarchs of the Ruthenian land:[^31] amon
 *Theotokion:*
 O true Mother of the spotless Lamb and the Chief Shepherd on high: I am a sheep of thy holy sheepfold, but by passionate actions I have turned aside into foul lawlessness; guide me, I pray thee, and save my soul from the noetic wolves.
 
-*At the Praises, Stichera, Tone 2, Podoben: "When from the Tree" (Yegda ot dreva):*
+*At the Praises, Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 With one-minded soul and unanimous heart did ye agree together, O most blessed fathers, having cast away all worldly attachments and taken up your cross according unto the word of the Lord, to follow with voluntary poverty Christ God Who became poor for our sake: from Whom ye are now enriched with incorruptible
 
 === LEAF p12 ===
@@ -77,7 +77,7 @@ O Lady, receive the supplications of thy servants...
 *Month of September, on the 30th Day:*
 *Service to our Father among the Saints, Michael, First Metropolitan of Kyiv and All Russia:*
 *At Vespers, "Blessed is the man," 1st antiphon.*
-*On "Lord, I Call," Stichera, Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Raduysia postnikov):*
+*On "Lord, I Call," Stichera, Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Ра́дꙋйсѧ по́стникѡвъ):*
 Thee as first among the hierarchs doth the Ruthenian land crown with hymns, O venerable Michael, most blessed of the fathers of Christ, for thou didst first perfectly enlighten her with divine baptism; thou didst first bring the light of the Gospel into the darkness; thou didst first destroy the idol-sacrifices with the sign of the Cross, and thereby didst astonish the unbelieving people; and now as a preacher, standing with the first hierarchs before thy Master, pray diligently that all may obtain the unwaning Light, and receive great mercy from Christ God.
 
 === LEAF p13 ===
@@ -91,7 +91,7 @@ Let us, O ye people, praise Michael the hierarch, a true witness and preacher of
 
 *Both now... Theotokion: Dogmatikon of the Tone.*
 *Entrance. Prokeimenon of the day. And 3 Readings for the Hierarch (see fol. 151).[^37]*
-*At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Yegda ot dreva):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 At thy coming, O holy one, the Ruthenian land was made glad, and the glorious city of Kyiv piously celebrates, having been enlightened by divine baptism; those who formerly offered sacrifices unto demons, behold, they now bring their souls as an offering in purity of heart, having thee as a preceding intercessor and pleader for all who honor thy memorial.
 
 *Verse: Thy priests shall be clothed with righteousness, and Thy venerable ones shall rejoice (Ps. 131:9 [LXX 131:9]).*
@@ -113,13 +113,13 @@ Today the prophecy of the First-Called among the Apostles hath been fulfilled:[^
 *Glory... Both now... Theotokion:*
 The Mystery hidden from all ages...
 
-*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Grob tvoy Spase):*
+*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Гро́бъ тво́й Сп҃се):*
 Thou wast a chosen vessel, O Hierarch Michael, to bear the name of Christ before unbelieving men, unto whom thou wast sent in the Ruthenian land; whom having enlightened with holy baptism, thou didst guide unto the knowledge of God by thy teachings: by these guide us also into the path of the commandments of the Lord, as we pray thee, O most blessed favorite of God!
 
 *Glory... Both now... Theotokion:*
 Rejoice, O golden-wrought cup, most pure Virgin, in which the wine of our salvation was mingled by the Holy Spirit: cheer our hearts with this, for thou art the cup that ladles out eternal joy unto us!
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 5, Podoben: "The Word Co-Unoriginate" (Sobeznachalnoye Slovo):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 5, Podoben: "The Word Co-Unoriginate" (Собезнача́льное Сло́во):*
 The Word co-unoriginate with the Father and the Spirit was brought by thee, O hierarch, into the Ruthenian land, Whom thou didst preach without doubting with thy mouth, rebuking the madness of idols, and didst lead a new people into the heritage of the Lord; with whom as thou standest, O sacred initiate of mysteries and minister of God, ever pray for the souls of those who sing of thine honorable falling asleep, O father!
 
 *Glory... Both now... Theotokion:*
@@ -130,7 +130,7 @@ As being the true Mother of the Word co-unoriginate, for us who are to give an a
 *(Left page — Folio 9 verso, running header: SERVICE TO THE HIERARCH:)*
 word in the hour of judgment, stand before Him and entreat thy Son with thy fervent supplications: for we know that thy maternal prayers can do much, and for their sake we hope to find mercy on the day of dread trial.
 
-*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Leaning upon the Breast" (Vozleg na persi):*
+*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Leaning upon the Breast" (Возле́гъ на пе́рси):*
 As unto the leader of hierarchs, and planter of the faith of Christ in Rus', destroyer of the evil belief in idols, and shepherd of a newly chosen people, we offer the first-fruits of hymns unto thee, O most blessed Hierarch Michael, performing thy memorial on this present day, and crying unto thee with love: as standing before the throne of the Most High, pray that remission of transgressions be granted unto those who piously bow before thine honorable tomb.
 
 *Glory... Both now... Theotokion:*
@@ -278,7 +278,7 @@ Before all others dost thou stand, O Hierarch Michael, and thy head is crowned w
 *Glory... Both now... Theotokion:*
 O Mother of the King of the ages, Queen and Lady, show forth the kings who sing of thee to be rulers over passions; for behold, we bring forward unto thee in prayer the marvelous Hierarch Michael, in whose memory celebrating, we magnify thee.
 
-*At the Praises, Stichera, Tone 4, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*At the Praises, Stichera, Tone 4, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 Today thy memorial is celebrated, O holy hierarch, by Kyiv, the most renowned mother of cities, and the Ruthenian people
 
 *(Right page — Folio 12 recto, running header: TO MICHAEL, METROPOLITAN OF KYIV:)*
@@ -306,7 +306,7 @@ Save from perils thy servants, O Theotokos...
 
 *On the 5th Day:*
 *Commemoration of our Venerable Fathers: Damian the Presbyter, Matthew, and Jeremiah the Clairvoyant:*
-*At Vespers, on "Lord, I Call," Stichera, to 6, Tone 4, Podoben: "As One Valiant" (Yako dobla):*
+*At Vespers, on "Lord, I Call," Stichera, to 6, Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 Being held fast by spiritual and bodily sicknesses, through the oil of thy mercy, as possessing sacred anointing from on high, O venerable Damian, speedily heal me who cry unto thee from the heart; and through fervent prayers unto God grant humility unto my heart, and cleanse the festering wounds of my soul, that with pure
 
 *(Right page — Folio 13 recto, running header: TO DAMIAN, JEREMIAH, AND MATTHEW:)*
@@ -495,7 +495,7 @@ O fathers who lived upon earth, ye are holy in heaven also, and stand with the a
 *Theotokion:*
 Behold, thy temple is here, and truly marvelous;[^54] for being thyself the temple of the glory of God, by thy providence thou didst build it and didst adorn it with the angel-like life of the holy fathers for the sake of our way of life: transform our deformity into goodliness, that the King may desire the beauty of our souls, and pour out His great mercy upon us!
 
-*At the Praises, Stichera, Tone 4, Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*At the Praises, Stichera, Tone 4, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 Ye became a radiant receptacle of the Most Holy Spirit, O all-blessed fathers, and enlightened by Him, in a manner worthy of the vision of God ye were enriched with the gift of prophecy; ye acquired foreknowledge of things not yet come to pass, and true understanding: therefore we pray you: pray for us unto Jesus the Lover of mankind, and the Savior of our souls!
 
 Like true prophets, by unerring indications ye foretold all things that were to come, and proclaimed them, O venerable fathers: Matthew, and Jeremiah with marvelous Damian, by deed

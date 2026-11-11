@@ -1,6 +1,6 @@
 === LEAF p781 ===
 
-# Holy Week: Great and Holy Friday (Vespers of the Taking Down from the Cross Opening) (§ 84 Opening)
+## Holy Week: Great and Holy Friday (Vespers of the Taking Down from the Cross Opening) (§ 84 Opening)
 
 ## Μεγάλη Παρασκευή: Ὁ Ἑσπερινὸς (Ἡ Ἀποκαθήλωσις Ἀρχή) (§ 84 Ἀρχή) [Violakis, p. 766]
 
@@ -13,7 +13,7 @@
 
 === LEAF p782 ===
 
-# Holy Week: Great and Holy Friday (Vespers of the Taking Down from the Cross Opening) (§ 84 Opening)
+## Holy Week: Great and Holy Friday (Vespers of the Taking Down from the Cross Opening) (§ 84 Opening)
 
 ## Great and Holy Friday: Vespers of the Taking Down from the Cross Opening (§ 84 Opening) [Violakis, p. 767]
 
@@ -30,7 +30,7 @@ This is repeated antiphonally by both choirs verse by verse. Then the Prophecy (
 
 === LEAF p783 ===
 
-# Holy Week: Great and Holy Friday (Vespers Concluded) and Great and Holy Saturday (Matins Opening) (§ 84 Concluded, Matins Opening)
+## Holy Week: Great and Holy Friday (Vespers Concluded) and Great and Holy Saturday (Matins Opening) (§ 84 Concluded, Matins Opening)
 
 ## Μεγάλη Παρασκευή (Ἑσπερινὸς Τέλος) καὶ Μέγα Σάββατον (Ὄρθρος Ἀρχή) (§ 84 Τέλος, Ὄρθρος Ἀρχή) [Violakis, p. 768]
 
@@ -49,7 +49,7 @@ This is repeated antiphonally by both choirs verse by verse. Then the Prophecy (
 
 === LEAF p784 ===
 
-# Holy Week: Great and Holy Friday (Vespers Concluded) and Great and Holy Saturday (Matins Opening) (§ 84 Concluded, Matins Opening)
+## Holy Week: Great and Holy Friday (Vespers Concluded) and Great and Holy Saturday (Matins Opening) (§ 84 Concluded, Matins Opening)
 
 ## Great and Holy Friday: Vespers Concluded and Great and Holy Saturday: Matins Opening (§ 84 Concluded, Matins Opening) [Violakis, p. 769]
 
@@ -70,7 +70,7 @@ The Dismissal: **"Wisdom!"**; **"Blessed is He Who is, Christ our God, always, n
 
 === LEAF p785 ===
 
-# Holy Week: Great and Holy Saturday (Matins of the Lamentations: The Epitaphios and Stasis I) (§ 85 Opening)
+## Holy Week: Great and Holy Saturday (Matins of the Lamentations: The Epitaphios and Stasis I) (§ 85 Opening)
 
 ## Μέγα Σάββατον: Ὁ Ὄρθρος τοῦ Ἐπιταφίου (Στάσις Α΄) (§ 85 Ἀρχή) [Violakis, p. 770]
 
@@ -89,7 +89,7 @@ The Dismissal: **"Wisdom!"**; **"Blessed is He Who is, Christ our God, always, n
 
 === LEAF p786 ===
 
-# Holy Week: Great and Holy Saturday (Matins of the Lamentations: The Epitaphios and Stasis I) (§ 85 Opening)
+## Holy Week: Great and Holy Saturday (Matins of the Lamentations: The Epitaphios and Stasis I) (§ 85 Opening)
 
 ## Great and Holy Saturday: Matins of the Lamentations (The Epitaphios and Stasis I) (§ 85 Opening) [Violakis, p. 771]
 
@@ -110,7 +110,7 @@ and he begins the Second Stasis: **"It is right to magnify Thee, O Life-Giver...
 
 === LEAF p787 ===
 
-# Holy Week: Great and Holy Saturday (Matins of the Lamentations: Stases II and III, Evlogitaria, and Exaposteilarion) (§ 85 Continued)
+## Holy Week: Great and Holy Saturday (Matins of the Lamentations: Stases II and III, Evlogitaria, and Exaposteilarion) (§ 85 Continued)
 
 ## Μέγα Σάββατον: Ὁ Ὄρθρος τοῦ Ἐπιταφίου (Στάσεις Β΄ καὶ Γ΄, Εὐλογητάρια, Ἐξαποστειλάριον) (§ 85 Συνέχεια) [Violakis, p. 772]
 
@@ -131,7 +131,7 @@ and he begins the Second Stasis: **"It is right to magnify Thee, O Life-Giver...
 
 === LEAF p788 ===
 
-# Holy Week: Great and Holy Saturday (Matins of the Lamentations: Stases II and III, Evlogitaria, and Exaposteilarion) (§ 85 Continued)
+## Holy Week: Great and Holy Saturday (Matins of the Lamentations: Stases II and III, Evlogitaria, and Exaposteilarion) (§ 85 Continued)
 
 ## Great and Holy Saturday: Matins of the Lamentations (Stases II and III, Evlogitaria, and Exaposteilarion) (§ 85 Continued) [Violakis, p. 773]
 
@@ -153,7 +153,7 @@ Directly the Exaposteilarion in Tone 2 is chanted: **"Holy is the Lord our God"*
 
 === LEAF p789 ===
 
-# Holy Week: Great and Holy Saturday (Matins Concluded: Praises, Epitaphios Procession, and Dismissal) (§ 85 Concluded)
+## Holy Week: Great and Holy Saturday (Matins Concluded: Praises, Epitaphios Procession, and Dismissal) (§ 85 Concluded)
 
 ## Μέγα Σάββατον: Ὁ Ὄρθρος τοῦ Ἐπιταφίου (Αἶνοι, Ἔξοδος, Ἀπόλυσις Τέλος) (§ 85 Τέλος) [Violakis, p. 774]
 
@@ -168,7 +168,7 @@ Directly the Exaposteilarion in Tone 2 is chanted: **"Holy is the Lord our God"*
 
 === LEAF p790 ===
 
-# Holy Week: Great and Holy Saturday (Matins Concluded: Praises, Epitaphios Procession, and Dismissal) (§ 85 Concluded)
+## Holy Week: Great and Holy Saturday (Matins Concluded: Praises, Epitaphios Procession, and Dismissal) (§ 85 Concluded)
 
 ## Great and Holy Saturday: Matins Concluded (Praises, Epitaphios Procession, Prophecy, and Dismissal) (§ 85 Concluded) [Violakis, p. 775]
 

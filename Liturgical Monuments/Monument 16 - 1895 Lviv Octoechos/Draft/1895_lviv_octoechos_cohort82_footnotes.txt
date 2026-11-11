@@ -18,7 +18,7 @@
 [^8821]: Second Canon, Ode 6, Troparion 1 ('Є҆ди́на на́мъ спасе́нїа и҆сточи́ла є҆сѝ во́дꙋ...').
 [^8822]: Second Canon, Ode 6, Troparion 2 ('Ѡ҆дꙋшевлѐнный Бг҃а на́шегѡ гра́де...').
 [^8823]: Second Canon, Ode 6, Troparion 3 ('Ꙗ҆́звы дꙋ́шъ на́шихъ Бцⷣе ѿженѝ...').
-[^8824]: Second Canon, Ode 6, Troparion 4 ('Ꙗ҆́же разрѣши́вшаѧ ѿ болѣ́зней Дѣ́во Є҆́vꙋ...').
+[^8824]: Second Canon, Ode 6, Troparion 4 ('Ꙗ҆́же разрѣши́вшаѧ ѿ болѣ́зней Дѣ́во Є҆́ѵꙋ...').
 [^8825]: Matins Canon of the Cross, Ode 7. Heirmos ('Пе́щь ѻ҆́троцы ѻ҆гнепа́льнꙋ дре́вле росоточа́щꙋ показа́ша...').
 [^8826]: Matins Canon of the Cross, Ode 7, Troparion 1 ('Неболѣ́зненнꙋю ѡ҆брѣ́те жи́знь пра́отецъ...').
 [^8827]: Matins Canon of the Cross, Ode 7, Troparion 2 ('Зако́нныѧ кля́твы и҆зба́вихомся всѝ...').

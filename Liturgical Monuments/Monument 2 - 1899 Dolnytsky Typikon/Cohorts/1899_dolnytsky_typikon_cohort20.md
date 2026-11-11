@@ -1,23 +1,21 @@
----
-
 === LEAF p381 ===
 
 6. Great Dismissal, with the commemoration of the Fathers.
 
-#### At the Hours
+**At the Hours**
 At all [the Hours], the Troparion and Kontakion of the Fathers.
 
-#### At the Divine Liturgy
+**At the Divine Liturgy**
 All of the Fathers only; the Epistle and Gospel, however, first of the day, then of the Fathers.
 
-### Cheesefare Sunday
-#### The Expulsion of Adam
+**Cheesefare Sunday**
+**The Expulsion of Adam**
 
 All according to the Typikon of the Sunday of the Prodigal Son, here on p. 362.
 
-### On Cheesefare Sunday, and on All Sundays of the Holy Forty Days at Vespers
+**On Cheesefare Sunday, and on All Sundays of the Holy Forty Days at Vespers**
 
-#### At Vespers
+**At Vespers**
 
 *Note.*
 1. Because the first five weekdays of each Week of the Holy Forty Days, namely Monday, Tuesday, Wednesday, Thursday, and Friday, have the penitential character of divine services, therefore, beginning from Sunday evening, we use in them sacred vestments of penitential colors, according to the ancient Typikon dark red, and according to the Synod of Lviv violet.
@@ -27,14 +25,14 @@ All according to the Typikon of the Sunday of the Prodigal Son, here on p. 362.
 
 === LEAF p382 ===
 
-#### At Cheesefare Sunday at Vespers
+**At Cheesefare Sunday at Vespers**
 
 1. There is no Kathisma.
 2. At **"Lord, I have cried"** (*Господи воззвахъ*), 10 Stichera: 4 Penitential Stichera of the Octoechos of the current Tone, two written at the Aposticha of Vespers, and two at the Aposticha of Matins (which, taken from the Octoechos, thou hast placed at the end of the Triodion), and 3 of the Triodion, and 3 of the Menaion of the Saint; **"Glory..."**, of the Saint, if he has one; **"Both now..."**, the usual Theotokion according to the Tone of the Doxastikon; but if not, then **"Glory... Both now..."**, the Theotokion which is in the Menaion.
 — If two Saints occur, we sing for one in the evening 3 Stichera, and for the other at the Praises 4 Stichera.[^511]
 — If a Saint for 6 occurs, we sing for him 3 Stichera, just as for a Saint for 4.[^512]
 3. Entrance on account of the Great Prokimenon.
-4. In place of the daily Prokimenon, we sing the Great Prokimenon of the Triodion (on this Sunday, and on the 2nd and 4th: **"Turn not away"** [*Не отврати*]; on the 1st, 3rd, and 5th: **"Thou hast given"** [*Далъ еси*]).
+4. In place of the daily Prokimenon, we sing the Great Prokimenon of the Triodion (on this Sunday, and on the 2nd and 4th: **"Turn not away"** (*Не отврати*); on the 1st, 3rd, and 5th: **"Thou hast given"** (*Далъ еси*)).
 5. After the Prokimenon we do not say the Litany,[^513] but when the Priest has divested himself of the phelonion and closed the holy Doors, we say **"Vouchsafe, O Lord"** (*Сподоби Господи*), and after it we make 3 small bows.
 
 ---
@@ -45,7 +43,7 @@ All according to the Typikon of the Sunday of the Prodigal Son, here on p. 362.
 7. After **"Now lettest Thou"** (*Нынѣ отпущаеши*) and the Trisagion with 3 small bows, we sing 3 Troparia with prostrations, namely: **"O Virgin Mother of God"** (*Богородице Дѣво*), and a prostration; **"Glory..."**, **"O Baptist of Christ"** (*Крестителю Христовъ*), and a prostration; **"Both now..."**, **"Intercede for us"** (*Молите о насъ*), and a prostration; then **"Beneath thy compassion"** (*Подъ твою милость*), without a bow.
 8. **"Lord, have mercy"** 40 times, and the rest as in the Horologion, yet only up to the end of the 3rd great prostration of the Prayer of Ephrem; the other lesser bows we do not make,[^514] but immediately the Priest says: **"Glory to Thee, O Christ God"** (*Слава Тебѣ Христе Боже*), and the daily Dismissal with the commemoration of the Saint.
 
-#### At Compline
+**At Compline**
 We sing Small Compline with penitential bows, that is, 3 small bows at **"Glory to God in the highest"** (*Слава во вышнихъ Богу*), and at the Trisagion which is after **"It is truly right"** (*Достойно есть*), and at that which is after the Pra-
 
 ---
@@ -54,24 +52,24 @@ We sing Small Compline with penitential bows, that is, 3 small bows at **"Glory 
 
 -yer of Ephrem,[^515] and the usual 16 at the Prayer of Ephrem; the Canon of the Mother of God, however, we do not omit, since there was no Vigil.
 
-### The Beginning of the Great Fast
+**The Beginning of the Great Fast**
 
 *Note.* The Synod of Lviv grants dispensation throughout the entire holy Forty Days, except on Mondays, Wednesdays, and Fridays, for meat, under the condition of 5 **Our Father**s and 5 **Hail Mary**s (*Богородице Дѣво*) for the Laity, and Psalm 50 for the Clergy; on the other 3 days, however, for dairy products.
 
-### General Typika
-#### For the First Five Penitential Days of All Weeks of the Great Forty Days
+**General Typika**
+**For the First Five Penitential Days of All Weeks of the Great Forty Days**
 
-#### At the Midnight Office
+**At the Midnight Office**
 On the first day of the Great Fast we do not make bows at the Midnight Office, except for three great prostrations at the Prayer of Ephrem; on the other penitential days, however, we make 3 small bows: 1. at each of the three Trisagions; 2. at both **"Come, let us worship"** (*Прїидите поклонимся*); 3. at each **"Glory..."** of the Undefiled [Kathisma 17]; likewise the usual 16 at the Prayer of Ephrem, that is, 4 great and 12 small.[^516]
 
 ---
 
 === LEAF p385 ===
 
-#### At Matins
+**At Matins**
 *Note.* We begin the bows from the Kathismata, and make: 1. at **"Alleluia"** of each **"Glory..."** of the Kathismata, 3 bows;[^517] 2. at **"More honorable than the Cherubim"** (*Честнѣйшую*) of each of the 6 verses of the Canticle of the Mother of God, 1 bow; 3. at **"It is truly right"** (*Достойно есть*), 1 bow; 4. at **"Glory to God in the highest"** (*Слава во вышнихъ Богу*), 3 bows; 5. at the final Trisagion, 3 bows; 6. at the Prayer of Ephrem, 16 bows, that is, 4 great and 12 small.
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. From the beginning even unto the end of the Litany, **"In peace let us pray to the Lord"**, all as on all days.
 2. In place of **"God is the Lord"** (*Богъ Господь*), we sing **"Alleluia"** in the current Tone of the Octoechos.
 3. We sing the Triadica of the current Tone, three, appointed in the Horologion, three for each Tone. All three are sung once each, with the refrain **"Glory..."** before the second, and with the refrain **"Both now..."** before the third. At each 1st [Troparion] we make commemoration of the weekday Service; at the 2nd, commemoration of All Saints; at the 3rd, commemoration of the Mother of God. But because the weekday Service changes daily, while the Troparia sung are the very same on every day of the week (except Saturdays and Sundays, on which, as not being penitential days, Triadica are not sung), therefore at the end of each 1st Triadicon a colon is placed, which indicates that the Troparion is to be supplemented with the commemoration of the weekday Service, the form of which is depicted at the end of the 3rd Troparion of Tone 1.
@@ -119,7 +117,7 @@ Katavasia will always be the Heirmos of the last Canon, whether of the Triodion 
 === LEAF p389 ===
 
 -naion, the Katavasia of the Menaion will be only after the 3rd and 6th Ode, for at the 8th and 9th a Triodion always occurs, and therefore there will always be the Katavasia of the Triodion.
-A most precise example of the interweaving of the Canticles of the Psalter with the Canticles of the Canon, given at the 1st Canticle in the Moscow Typikon, reads as follows: "After this we begin: **"Let us sing unto the Lord"**, in the Tone of the Canon of the Menaion of the Saint of the day; and they say the Verses of the Canticles quickly, each Choir its own Verse, until they reach **"The deep waters congealed"**, and from that point they begin to maintain the verses for 14; and we sing the Menaion with the Heirmos for 6. And we sing thus: The first Choir says the Verse: **"The deep waters congealed"**, and sings the Heirmos. The second Choir says the second Verse: **"The enemy said"**, and after it the Troparion of the Canon, and in order the verses by Choirs until **"Then did the leaders of Edom make haste"**. From the verse **"Then did the leaders of Edom make haste"** we begin the Triodion of the Lord Joseph for 4. At **"The Lord who reigneth"** we sing the second Triodion of the Lord Theodore the Studite, and one Choir sings a Troparion, while the other Choir sings the second verse, and a Troparion. After this, when the two Choirs have united, they sing: **"Glory..."**, Triadicon in a higher voice; **"Both now..."**, Theotokion. Then we say in the highest voice: **"Glory to Thee, our God, glory to Thee"**, and we sing another Troparion of the Lord Theodore, for the Ode has five Troparia; and at the end we say as Katavasia the Heirmos of the second Canon."[^520]
+A most precise example of the interweaving of the Canticles of the Psalter with the Canticles of the Canon, given at the 1st Canticle in the Moscow Typikon, reads as follows: "After this we begin: **"Let us sing unto the Lord"**, in the Tone of the Canon of the Menaion of the Saint of the day; and they say the Verses of the Canticles quickly, each Choir its own Verse, until they reach **"The deep waters congealed"**, and from that point they begin to maintain the verses for 14; and we sing the Menaion with the Heirmos for 6. And we sing thus: The first Choir says the Verse: **"The deep waters congealed"**, and sings the Heirmos. The second Choir says the second Verse: **"The enemy said"**, and after it the Troparion of the Canon, and in order the verses by Choirs until **"Then did the leaders of Edom make haste"**. From the verse **"Then did the leaders of Edom make haste"** we begin the Triodion of the Lord Joseph for 4. At **"The Lord who reigns"** we sing the second Triodion of the Lord Theodore the Studite, and one Choir sings a Troparion, while the other Choir sings the second verse, and a Troparion. After this, when the two Choirs have united, they sing: **"Glory..."**, Triadicon in a higher voice; **"Both now..."**, Theotokion. Then we say in the highest voice: **"Glory to Thee, our God, glory to Thee"**, and we sing another Troparion of the Lord Theodore, for the Ode has five Troparia; and at the end we say as Katavasia the Heirmos of the second Canon."[^520]
 
 ---
 
@@ -136,10 +134,10 @@ After the 3rd Ode, Sessional Hymn of the Saint; after the 6th, Kontakion and Iko
 8. Aposticha of the Triodion; if there is a **"Glory..."** of the Saint, then the Theotokion will be the usual one according to the Tone of the **"Glory..."**.
 9. **"It is good to give praise"** (*Благо есть*) twice; at the Trisagion 3 bows, and after **"Our Father"** the Troparion **"Standing in the temple"** (*Въ Храмѣ стояще*); then **"Lord, have mercy"** 40 times, and the rest with 16 bows at the Prayer of Ephrem, as in the Horologion, and after the last bow immediately **"Come, let us worship"** 3 times, and the First Hour.
 
-#### At the Hours
+**At the Hours**
 1. We make 3 small bows: at **"Come, let us worship"**, at each Trisagion, at the **"Alleluia"** which is after the Three Psalms, and at the **"Alleluia"** after each Antiphon; and at each of the three chantings of the Troparion with the two verses we make a genuflection,[^522] and after the Theotokion 3 bows, and the usual 16 at the Prayer of Ephrem.
 2. After the Three Psalms with **"Alleluia"**, the appointed Kathisma according to the penitential table of the Psalter, except at the First Hour on Monday, and at the First and Ninth Hours on Friday, for then there is no Kathisma.
-3. Troparion (**"In the morning"** [*Заутра*] at the First Hour; at the others, the one proper to the Hour) with two Verses, and with a genuflection after each of the three chantings of the Troparion; then **"Glory... Both now..."**, Theotokion (**"What shall we call thee"** [*Что тя наречемъ*] at the First Hour; at the others, the one proper to the Hour), and 3 bows.
+3. Troparion (**"In the morning"** (*Заутра*) at the First Hour; at the others, the one proper to the Hour) with two Verses, and with a genuflection after each of the three chantings of the Troparion; then **"Glory... Both now..."**, Theotokion (**"What shall we call thee"** (*Что тя наречемъ*) at the First Hour; at the others, the one proper to the Hour), and 3 bows.
 
 ---
 
@@ -161,10 +159,10 @@ After the 3rd Ode, Sessional Hymn of the Saint; after the 6th, Kontakion and Iko
 
 of our Pochaiv Triodion is transferred to the end of Vespers.[^524] On Wednesday and Friday, however, because Vespers is with the Presanctified, **"All-holy Trinity"** cannot be transferred to the end of Vespers, since it concludes there with the Liturgy, and therefore remains in its place at the Typika; likewise the prayer **"O Master, Lord Jesus Christ"** remains in its place at the Ninth Hour.
 
-#### At the Typika (Obidnytsia)
+**At the Typika (Obidnytsia)**
 *Note.* The first part of the Typika, which is from the beginning even unto the Beatitudes, falls away during the Forty Days; the last part, which is from **"All-holy Trinity"**, is transferred to the end of Vespers; and in the middle part the Stichera at the Beatitudes, and the Epistle and Gospel fall away.
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. The Beatitudes, that is: **"In Thy kingdom..."**, **"Blessed are the poor in spirit..."**, and the other verses; then **"Glory... Both now..."**. After this, the two Choirs having come together, we sing in a higher voice, with uncovered heads:
 **"Remember us, O Lord, when Thou comest into Thy kingdom."**
 And a great prostration.
@@ -177,7 +175,7 @@ And a great prostration.[^525]
 
 === LEAF p394 ===
 
-2. **"The heavenly host"** (*Ликъ небесный*), and Verse, and again **"The heavenly host"**; **"Glory..."**, **"The choir of the holy Angels"** (*Соборъ Святыхъ Ангелъ*); **"Both now..."**, the Creed (**"I believe..."** [*Вѣрую*]).
+2. **"The heavenly host"** (*Ликъ небесный*), and Verse, and again **"The heavenly host"**; **"Glory..."**, **"The choir of the holy Angels"** (*Соборъ Святыхъ Ангелъ*); **"Both now..."**, the Creed (**"I believe..."** (*Вѣрую*)).
 3. **"Remit, pardon"** (*Ослаби, остави*), and **"Our Father"**.
 4. Kontakia which are in the Horologion.
 5. **"Lord, have mercy"** 40 times, **"Glory... Both now..."**, and the rest with the Prayer of Ephrem and the usual 16 bows, as in the Horologion.
@@ -185,13 +183,13 @@ And a great prostration.[^525]
 7. The Priest [says] the prayer of the Ninth Hour, **"O Master, Lord Jesus Christ"** (*Владыко Господи Іисусе Христе*).
 8. Dismissal of the day with the commemoration of the Saint.[^526]
 
-#### At Vespers
+**At Vespers**
 On Monday, Tuesday, and Thursday evening without the Presanctified.
 
 *Note concerning Bows.*
 We make 3 small bows: at **"Come, let us worship"**; at the **"Alleluia"** after the Prooemiac Psalm, and after each of the three Antiphons of the Kathisma (even though today we read only the beginning of the Kathisma); after **"Vouchsafe, O Lord"**; at the Trisagions; and the usual 16 at the Prayer of Ephrem; and one bow after **"It is truly right"** (*Достойно есть*).[^527]
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. Priest: **"Blessed is our God"**, and the Choir: **"Come, let us worship"** 3 times, with bows.
 
 ---
@@ -219,7 +217,7 @@ We make 3 small bows: at **"Come, let us worship"**; at the **"Alleluia"** after
 13. **"It is truly right"** and a bow; **"Glory... Both now..."**, **"Lord, have mercy"** twice, **"Lord, bless."**
 14. Dismissal: **"Christ our true God..."**, with the commemoration of the weekday Service and of the Saint.
 
-#### At Great Compline
+**At Great Compline**
 1. At the usual time of Vespers we sing Great Compline with bows, which we enumerated on Tuesday and Thursday evening of Cheesefare Week, here on p. 370.
 2. On Monday, Tuesday, Wednesday, and Thursday of the first Week of the Great Forty Days, after **"Come, let us worship"** we say Psalm 69, **"O God, be attentive unto helping me"**, placed in the Order of Great Compline after the third **"Come, let us worship"**, after the prayer **"O Master God, Father"**; then one quarter part of each Ode of the Great Canon. (Matins of the Thursday before the Fifth Sunday of the Fast).[^529] The Refrain to the Troparia of the Canon: **"Have mercy on me, O God, have mercy on me"**;[^530] to the Troparion of the Venerable Mary of Egypt: **"Venerable Mother Mary, pray to God for us"**; and to the Troparion of the Venerable Andrew: **"Venerable Father Andrew, pray to God for us."** According to the Typikon, 3 small bows ought to be made at each Troparion of the Canon; however, among us these are omitted, because the people are not in Church at that time.
 The Typikon of Great Compline thou hast partly here on p. 371, and partly in the Horologion.
@@ -228,12 +226,12 @@ The Typikon of Great Compline thou hast partly here on p. 371, and partly in the
 
 === LEAF p397 ===
 
-### Vespers on Wednesday and Friday with the Presanctified
+**Vespers on Wednesday and Friday with the Presanctified**
 
 *Note concerning Bows.*
 On Wednesday we make 3 small bows: at the Trisagion which is at the beginning; at **"Come, let us worship"**; at the **"Alleluia"** which is after the Prooemiac Psalm, and which is after each Antiphon of the Kathisma, and at **"Blessed be the name of the Lord"**. And 3 great prostrations, according to the local custom, we make at **"The Light of Christ"**, when the Priest signs the people cruciformly with the tricerion; at the completion of the singing of **"Let my prayer be set forth"**; and after **"Now the Powers of heaven"**, when the consecrated Lamb has been taken from the Tabernacle unto the Diskos.[^531] On Fridays at Vespers and Compline we do not make prostrations, except those depicted in the Presanctified, which are: after **"Let my prayer be set forth"** 3 bows; after the Entrance of the Holy Gifts 3 bows; and at **"Blessed be the name of the Lord"** 3 bows;[^532] and among us also at **"The Light of Christ"**, 3 bows.
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. After **"Blessed is the kingdom"**, we say: **"Heavenly King"**, Trisagion (with bows), and after **"Our Father"**, **"Lord, have mercy"** 12 times, **"Glory... Both now..."**, **"Come, let us worship"** 3 times (with bows).
 2. Of the eight prayers said at the Prooemiac Psalm, the Priest says here only the last five, for the first three he is to say afterwards, one at each of the three Antiphons of the Kathisma.
 3. Kathisma 18, with a prayer at each of the three Antiphons of it, and with the Little Litany after each Antiphon.
@@ -244,7 +242,7 @@ On Wednesday we make 3 small bows: at the Trisagion which is at the beginning; a
 
 4. At **"Lord, I have cried"**, Stichera for 10: of the Triodion for 6, and of the Menaion for 4; **"Glory... Both now..."**, Theotokion of the Menaion. If there is a Doxastikon of the Saint, we match the Theotokion according to his Tone. (On Friday evening, Stichera: Idiomelon of the Triodion twice, and 4 Martyrs' Stichera of the Octoechos of the current Tone,[^533] and 4 of the Saint. **"Glory..."**, of the Saint, if there is one; **"Both now..."**, the 1st Theotokion [Dogmatikon] of the departing Tone; but if not, then **"Glory... Both now..."**, the same Theotokion).
 5. Entrance with the Censer. (On the Finding of the Precious Head of the Forerunner, on the 40 Martyrs, and on Great Monday, Tuesday, and Wednesday, the Entrance is with the Gospel).
-6. After **"O Gladsome Light"**, the Prokimenon of the Triodion, and the 1st Reading of the Triodion; and the second Prokimenon of the Triodion;[^534] then the Priest, having taken the Tricerion with the Censer and proclaimed: **"Wisdom. Let us attend"**, intones: **"The Light of Christ"**, blessing cruciformly with the Tricerion towards the east; then, turning towards the west and blessing, says: **"Enlighteneth all"**;[^535] and when all have made 3 prostrations to the ground, the reader intones: **"The Reading from Proverbs"**; and when the Priest or Deacon has said: **"Let us attend"**, he reads the second Reading of the Triodion.
+6. After **"O Gladsome Light"**, the Prokimenon of the Triodion, and the 1st Reading of the Triodion; and the second Prokimenon of the Triodion;[^534] then the Priest, having taken the Tricerion with the Censer and proclaimed: **"Wisdom. Let us attend"**, intones: **"The Light of Christ"**, blessing cruciformly with the Tricerion towards the east; then, turning towards the west and blessing, says: **"Enlightens all"**;[^535] and when all have made 3 prostrations to the ground, the reader intones: **"The Reading from Proverbs"**; and when the Priest or Deacon has said: **"Let us attend"**, he reads the second Reading of the Triodion.
 
 ---
 
@@ -264,4 +262,4 @@ The Priest sings **"Let my prayer be set forth"** first from the front side of t
 2. If on this day a Polyeleos Saint occurs, namely the Finding of the Precious Head, and the 40 Martyrs, and likewise on Great Monday, Tuesday, and Wednesday of Passion Week, then immediately after **"Let my prayer be set forth"** censing takes place, and on the two aforesaid Feasts their Epistle and Gospel are read, beginning the Gospel from **"Wisdom. Let us attend"**; on the three days of Passion Week, however, only the Gospel is read, beginning from **"And that we may be accounted worthy"**, because there is no Epistle.
 3. The Pastor, by order of the Synod of Lviv, is obliged to celebrate the Liturgy of the Presanctified on all Wednesdays and Fridays of the Holy Forty Days, and on Monday, Tuesday, and Wednesday of Passion Week.[^541]
 
-*Note concerning the number of bows per day:* The number of bows made in Church sometimes reached up to 300 per day, besides the Midnight Office: *Τοῦ νυχθημέρου τριακόσιαι, ἄνευ τοῦ Мεσονυκτικοῦ.* (Greek Triodion, and our manuscript Typikon, and *Tserkovne Oko* on Monday of the 1st Week of the Fast).
+*Note concerning the number of bows per day:* The number of bows made in Church sometimes reached up to 300 per day, besides the Midnight Office: *Τοῦ νυχθημέρου τριακόσιαι, ἄνευ τοῦ Μεσονυκτικοῦ.* (Greek Triodion, and our manuscript Typikon, and *Tserkovne Oko* on Monday of the 1st Week of the Fast).

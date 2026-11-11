@@ -16,7 +16,7 @@ Let us faithful piously hymn and honor the pure Virgin who after childbirth rema
 *Another Canon, Ode 1, to the Most Holy Birthgiver of God. Heirmos: The same, Podoben: "Every nature bends the knee" (Всяко естество):*
 Every nature bends the knee, O immaculate Lady, unto Him Who was incarnate of thee, together with earthly beings, both noetically and super-cosmically: for He is glorified!
 
-*Troparion:* By Thy good pleasure toward thee, O Good One, for without envy the Giver, the Divine Spirit, came upon thee, and the Word took flesh from thee, O Maiden: for He is glorified!
+*Troparion:* By thy good pleasure toward thee, O Good One, for without envy the Giver, the Divine Spirit, came upon thee, and the Word took flesh from thee, O Maiden: for He is glorified!
 
 *Troparion:* Thou hast borne the Word, Co-worker with Him that begot Him, Who deified human nature; entreat Him on our behalf, that we who have grown weak through long-standing sins may conquer the strong wiles of the enemy through divine consolation.
 

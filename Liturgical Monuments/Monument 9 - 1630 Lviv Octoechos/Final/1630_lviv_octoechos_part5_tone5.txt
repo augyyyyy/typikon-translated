@@ -28,7 +28,7 @@ Thee, Who wast incarnate, Christ the Savior, and yet wast not separated from hea
 
 *Verse: Virgins shall be brought unto the King after her, her companions shall be brought unto Thee.*
 
-Accept, O tender-hearted Mother of God, this singing from unworthy souls and from our defiled lips, as the widow's two mites, brought thankfully with love. Bestowing great things in return for small by Thy grace, deliver Thy suppliants from every assault and malice, O Lady, dissolving the walls of present approaching affliction; as Thou art wise, calm them by Thy glorious prayers, and [f. 137vA] granting great mercy!
+Accept, O tender-hearted Mother of God, this singing from unworthy souls and from our defiled lips, as the widow's two mites, brought thankfully with love. Bestowing great things in return for small by thy grace, deliver thy suppliants from every assault and malice, O Lady, dissolving the walls of present approaching affliction; as thou art wise, calm them by thy glorious prayers, and [f. 137vA] granting great mercy!
 
 *Verse: The rich among the people shall entreat thy countenance.*
 
@@ -38,7 +38,7 @@ Truly a Cherubic Throne wast Thou revealed, being higher than creation; for havi
 
 My soul having been continually burdened with darkness, O Lady, from the multitude of sins and cruel bonds: I dare not look up unto the height of God. Therefore, prostrate upon the earth...
 
-<!-- Physical Woodcut: The Crucifixion of Christ with the Theotokos and St. John the Theologian; inscribed IC XC, MP OY, ICWA, NI KA --> [f. 137vB] I cry aloud unto Thee: Have mercy on me! O Thou Who didst cause the all-merciful God to shine forth from Thy most-pure womb, show forth Thy wonders now ineffably; and lifting up Thy hands unto Thy Son, O All-pure One, send down great mercy upon me who pray!
+<!-- Physical Woodcut: The Crucifixion of Christ with the Theotokos and St. John the Theologian; inscribed IC XC, MP OY, ICWA, NI KA --> [f. 137vB] I cry aloud unto thee: Have mercy on me! O thou Who didst cause the all-merciful God to shine forth from thy most-pure womb, show forth thy wonders now ineffably; and lifting up thy hands unto thy Son, O All-pure One, send down great mercy upon me who pray!
 
 Glory... Now and ever... Theotokion:
 
@@ -80,7 +80,7 @@ Other Stichera according to the Alphabet:
 
 [f. 138vB] When Thy side was pierced, O Life-giver, Thou didst pour forth streams of forgiveness unto all, life and salvation; and having accepted death in the flesh, Thou didst bestow immortality upon us. And taking up dwelling in the tomb, Thou didst set us free, co-resurrecting us with Thyself gloriously, as God. Therefore we cry aloud: O Lover of mankind, Lord, glory to Thee!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 Strange is Thy Crucifixion, and Thy descent into hades, O Lover of mankind! For having despoiled it, and co-resurrected with Thyself gloriously the ancient prisoners, as God, Thou didst open paradise, and vouchsafed them to enjoy it. Therefore, unto us who glorify Thy three-day rising, grant cleansing of sins, making us dwellers of paradise, as Thou alone art tender-hearted!
 
@@ -118,7 +118,7 @@ The choir of immaterial angelic beauties unceasingly sings of Thee with thrice-h
 
 O pre-eternal and all-powerful One, grant unto my soul the paternal drink of Thy sweet, light-giving love, O Trinity, light-originating Unity; and divine, purifying compunction, as Thou art many-merciful unto all creation!
 
-[f. 139rB] As rain upon the fleece, O Virgin, the divine dew descended invisibly into Thy womb from heaven, and saved parched human nature, O All-pure One!
+[f. 139rB] As rain upon the fleece, O Virgin, the divine dew descended invisibly into thy womb from heaven, and saved parched human nature, O All-pure One!
 
 Ode 3. Heirmos:
 
@@ -146,7 +146,7 @@ Daniel was secretly instructed concerning the one Tri-hypostatic Lord, seeing Ch
 
 With clay lips we hymn Thee, the pre-essential God in three Hypostases; vouchsafe us, being of a unified nature, angelic glory: one power and one Lordship in three Persons we indivisibly glorify: O Father, Son, and Spirit, enlighten us Thy servants! Theotokion:
 
-The holy and overshadowed mountain which Habbakuk foresaw of old, from whence the Holy One came forth, foretold the inviolable childbearing of Thy conception, O Virgin!
+The holy and overshadowed mountain which Habbakuk foresaw of old, from whence the Holy One came forth, foretold the inviolable childbearing of thy conception, O Virgin!
 
 Ode 5. Heirmos:[^217]
 
@@ -158,7 +158,7 @@ Do Thou Thyself guide me, O thrice-radiant Unity, unto the divine paths of salva
 
 To behold the indivisible Light [f. 139vB] of Thy nature, distinguished by hypostatic characteristics, thrice-shining, unwaning: enlighten my heart with Thy rays! Theotokion:
 
-As the Prophet foresaw Thee of old, O Pure and All-holy Virgin, as an open door unto the unwaning light, O Maiden, he recognized the dwelling-place of God!
+As the Prophet foresaw thee of old, O Pure and All-holy Virgin, as an open door unto the unwaning light, O Maiden, he recognized the dwelling-place of God!
 
 Ode 6. Heirmos:
 
@@ -226,7 +226,7 @@ O Lord, after Thy three-day Resurrection and the worship of the Apostles, Peter 
 
 Now and ever... Theotokion:
 
-Dread is the wonder of Thy conception, and ineffable the manner of Thy childbearing, made known in Thee, O Pure Ever-Virgin: my mind is astonished, and my thought is seized with awe, at Thy glory, O Theotokos, spread abroad unto all for the salvation of our souls!
+Dread is the wonder of thy conception, and ineffable the manner of thy childbearing, made known in thee, O Pure Ever-Virgin: my mind is astonished, and my thought is seized with awe, at thy glory, O Theotokos, spread abroad unto all for the salvation of our souls!
 
 After the 2nd Kathisma, Sessional Hymns: Resurrectional, Tone 5:
 
@@ -298,7 +298,7 @@ Unto Him Who was willingly nailed upon the Cross in the flesh, and freed man who
 
 Unto Christ Who raised the dead from the tomb, and raised our nature with Himself, and adorned it with the Father's union: unto Him alone let us sing, for He hath been glorified! Theotokion:
 
-O All-pure Mother of God, unceasingly pray unto God Who became incarnate of Thee and was not parted from the bosom of the Father, to deliver from every circumstance those whom He fashioned!
+O All-pure Mother of God, unceasingly pray unto God Who became incarnate of thee and was not parted from the bosom of the Father, to deliver from every circumstance those whom He fashioned!
 
 Another Canon to the Most-holy Theotokos.
 
@@ -308,7 +308,7 @@ O All-pure One, pray unto Christ, the Light that dwelt within Thee and enlighten
 
 [f. 141vA] Adorned with the beauty of virtues, O favored one, with the good-working, comely beams of the Spirit, all creation sings unto Him Who hath beautified all things.
 
-The Bush on Sinai prefiguring Thee of old was not consumed, O Virgin, when united with the fire; for as a Virgin Thou didst give birth, and a Virgin Thou didst remain, beyond understanding, O Bride of God!
+The Bush on Sinai prefiguring thee of old was not consumed, O Virgin, when united with the fire; for as a Virgin thou didst give birth, and a Virgin thou didst remain, beyond understanding, O Bride of God!
 
 Ode 3. Heirmos:
 
@@ -328,7 +328,7 @@ Thou didst rise from the tomb, O Christ, delivering from corruption the dead who
 
 The Myrrh-bearing women hastened to anoint Thy body, O Christ; and not finding it, they returned, singing of Thy rising!
 
-Pray unceasingly, O pure one, unto Him Who came forth from Thy womb, to deliver from the deceit of the devil those who hymn Thee as the Mother of God!
+Pray unceasingly, O pure one, unto Him Who came forth from thy womb, to deliver from the deceit of the devil those who hymn thee as the Mother of God!
 
 Another [Canon to the Theotokos].
 
@@ -336,7 +336,7 @@ Another [Canon to the Theotokos].
 
 The ladder whereby the Most High came down unto us to restore corrupted nature: having truly appeared unto all as the gateway unto the portals of Heaven, the All-good One was well-pleased to share with the world.
 
-The mystery prepared of old, O Virgin, foreseen before the ages by God Who knows all things, in these latter days hath received its fulfillment in Thy womb, O all-immaculate one.
+The mystery prepared of old, O Virgin, foreseen before the ages by God Who knows all things, in these latter days hath received its fulfillment in thy womb, O all-immaculate one.
 
 The curse, the ancient condemnation, is loosed through Thy mediation, O all-pure Virgin; for the Lord, having appeared from Thee, hath poured forth blessing unto all as the All-good One, the only adornment of mankind!
 
@@ -358,17 +358,17 @@ At the place of the waters upon earth, the Cross was fixed on Golgotha; all the 
 
 When the Savior descended unto those below as one dead, those who were dead from all ages arose with Him; and they cried: Glory to Thy power, O Lord!
 
-Thou didst bear the Good One, unknown unto mothers; yet Thou art indeed a Mother, and remainedst a Virgin; whom singing, we cry aloud: Rejoice, O Mother of God!
+Thou didst bear the Good One, unknown unto mothers; yet thou art indeed a Mother, and remainedst a Virgin; whom singing, we cry aloud: Rejoice, O Mother of God!
 
 Another [Canon to the Theotokos].
 
 *Heirmos: Perceiving Thy divine condescension with prophetic insight, O...*
 
-With pure heart and mind, and action and contemplation, grant me invincible and unconquerable grace, O pure one, that embracing the fruit of salvation from God, I may be saved through Thy prayers, O Virgin!
+With pure heart and mind, and action and contemplation, grant me invincible and unconquerable grace, O pure one, that embracing the fruit of salvation from God, I may be saved through thy prayers, O Virgin!
 
-He Who created all things from the unseen was well-pleased as Benefactor to be created in the flesh from Thee, unto the salvation of those who sing of Thee in faith and love, O all-immaculate one!
+He Who created all things from the unseen was well-pleased as Benefactor to be created in the flesh from thee, unto the salvation of those who sing of thee in faith and love, O all-immaculate one!
 
-The supramundane choirs sing of Thy childbirth, O all-immaculate one, rejoicing in the salvation of those who truly confess Thee in godly wisdom, O undefiled Virgin!
+The supramundane choirs sing of thy childbirth, O all-immaculate one, rejoicing in the salvation of those who truly confess thee in godly wisdom, O undefiled Virgin!
 
 The rod of Jesse named Thee, from which blossomed forth unto us the fair flower, Christ God, unto the salvation of those who sing of Thee in faith and love, O all-immaculate one!
 
@@ -390,7 +390,7 @@ Thou didst stretch forth Thy hands upon the Tree, O our Savior, calling all unto
 
 Having risen from the tomb on the third day, O Life-giver, Thou didst pour forth most beloved immortality unto all!
 
-Unceasingly pray unto Him Whom Thou didst bear, O Mother of God, to save our souls, who sing of Thee in godly wisdom!
+Unceasingly pray unto Him Whom thou didst bear, O Mother of God, to save our souls, who sing of thee in godly wisdom!
 
 Another [Canon to the Theotokos].
 
@@ -410,7 +410,7 @@ Placed in corruption, the forefather, having tasted of the forbidden tree, O Mas
 
 Thou didst become Life, and wast crucified through corruption, O Master Christ; and through corruption Thou didst pour forth resurrection!
 
-A Virgin gave birth, and having given birth remained pure: holding in her arms Him Who upholds all things, truly Thou didst bear Him, O Virgin Mother!
+A Virgin gave birth, and having given birth remained pure: holding in her arms Him Who upholds all things, truly thou didst bear Him, O Virgin Mother!
 
 Another [Canon, of the Cross and Resurrection].
 
@@ -426,9 +426,9 @@ Another [Canon to the Theotokos].
 
 Heirmos: Tossed by the tempest:
 
-He Who is the Cause of all things, Who grants life unto all, received Thee as cause, becoming incarnate for our sake from Thee, O Mother of God, all-immaculate one!
+He Who is the Cause of all things, Who grants life unto all, received thee as cause, becoming incarnate for our sake from thee, O Mother of God, all-immaculate one!
 
-Pouring forth a soul-nourishing fountain of healings, we know Thee, O all-immaculate one, who hasten with faith unto Thy glorious protection!
+Pouring forth a soul-nourishing fountain of healings, we know thee, O all-immaculate one, who hasten with faith unto thy glorious protection!
 
 [f. 142vB] Thou didst give birth unto the Life-giver, the Cause of salvation, Who grants eternal redemption unto us who truly confess Thee to be the Mother of God!
 
@@ -450,7 +450,7 @@ Clothed in the flesh as bait upon a hook, by Thy divine power Thou didst draw do
 
 The inaccessible nature of earth, being compounded in sin, the flesh covers, not bound by measure; unto Whom we all sing: Blessed art Thou!
 
-In one hypostasis, yet in two natures, O all-immaculate one, Thou didst bear the incarnate God; unto Whom we all sing: Blessed art Thou!
+In one hypostasis, yet in two natures, O all-immaculate one, thou didst bear the incarnate God; unto Whom we all sing: Blessed art thou!
 
 Another [Canon, of the Cross and Resurrection].
 
@@ -490,7 +490,7 @@ Him Who stretched forth His hands upon the Cross and shattered the dominion of d
 
 Him Who shone forth from the tomb as a bridegroom, Christ God, and appeared unto the Myrrh-bearing women, proclaiming joy unto them: ye priests, sing praise, ye people, exalt Him above all forever!
 
-Thou wast revealed higher than the Cherubim, O pure Mother of God, having carried in Thy womb Him Who is borne upon them; Whom with the bodiless hosts we earthborn bless and exalt unto all the ages!
+Thou wast revealed higher than the Cherubim, O pure Mother of God, having carried in thy womb Him Who is borne upon them; Whom with the bodiless hosts we earthborn bless and exalt unto all the ages!
 
 Another [Canon to the Theotokos].
 
@@ -502,19 +502,19 @@ The assembly of the bodiless hosts sings with us, O Virgin who didst bear God, t
 
 As a fire blossoming forth immortality, O incorrupt maiden, the Lord of all was revealed from Thee, washing away the defiled who sing in faith and exalt Him unto the ages!
 
-The truly divine and light-bearing Throne, and tables of grace we confess Thee to be, O Virgin, who didst receive the Word; Whom we exalt unto the ages!
+The truly divine and light-bearing Throne, and tables of grace we confess thee to be, O Virgin, who didst receive the Word; Whom we exalt unto the ages!
 
 Ode 9. Heirmos:
 
-Rejoice, O Isaiah! For a Virgin hath conceived in her womb and borne a Son, Emmanuel, God and Man; the Dayspring is His name; Whom magnifying, we call Thee blessed, O Virgin![^223]
+Rejoice, O Isaiah! For a Virgin hath conceived in her womb and borne a Son, Emmanuel, God and Man; the Dayspring is His name; Whom magnifying, we call thee blessed, O Virgin![^223]
 
 Fallen man Thou didst take upon Thyself, O Master Christ, from virginal loins, uniting Thyself wholly; yet in no sin didst Thou share; from all passions Thou didst free him by Thy most-pure passions!
 
 By the pouring forth of streaming blood from Thy most-pure and life-creating side, O Master, the idolatrous sacrifice ceased, and all the earth offers unto Thee the sacrifice of praise!
 
-Neither as bodiless God nor merely as simple man did the pure and undefiled Maiden bring Thee forth, but as perfect man and truly perfect God; Whom magnifying, we call Thee blessed, O Virgin!
+Neither as bodiless God nor merely as simple man did the pure and undefiled Maiden bring thee forth, but as perfect man and truly perfect God; Whom magnifying, we call thee blessed, O Virgin!
 
-Thy childbirth is beyond understanding, O Mother of God; for conception was without a man in Thee, and virginal was Thy childbirth; for God is the One born; Whom magnifying, we call Thee blessed, O Virgin!
+Thy childbirth is beyond understanding, O Mother of God; for conception was without a man in thee, and virginal was thy childbirth; for God is the One born; Whom magnifying, we call thee blessed, O Virgin!
 
 Another [Canon, of the Cross and Resurrection].
 
@@ -528,7 +528,7 @@ Rejoice, O all-immaculate Mother of God, who didst bear Christ God; pray unto Hi
 
 Another [Canon to the Theotokos].
 
-*Heirmos: Rejoice, O Isaiah! For a Virgin hath conceived...*
+*Heirmos: Rejoice, O Isaiah! For a Virgin has conceived...*
 
 In streams of Thy blood let us extinguish the flesh beyond nature; giving birth unto the only-begotten Son, Creator of all, not of man, but without seed, an intelligent and animate Bush, O Virgin!
 
@@ -652,7 +652,7 @@ To the Martyrs: The memory of the passion-bearers shines today, for it hath radi
 
 Glory... Now and ever... Theotokion:
 
-With the heavenly Angels and with earthly men, in the voice of rejoicing, O Mother of God, we cry aloud unto Thee: Rejoice, O Gate, wider than heaven! Rejoice, only salvation of earthborn men! Rejoice, pure favored one, who didst bear the incarnate God!
+With the heavenly Angels and with earthly men, in the voice of rejoicing, O Mother of God, we cry aloud unto thee: Rejoice, O Gate, wider than heaven! Rejoice, only salvation of earthborn men! Rejoice, pure favored one, who didst bear the incarnate God!
 
 After the 3rd Kathisma, Penitential Sessional Hymns. Tone 5.
 
@@ -664,7 +664,7 @@ Cast down by irrational passions, having squandered my life in prodigality: call
 
 Glory... Now and ever... Theotokion:
 
-O fervent protectress, invincible hope, firm and unashamed, wall and protection and haven of those who flee unto Thee, O ever-virgin pure one: with the Angels pray unto Thy Son and God to grant peace unto the world, and salvation, and great mercy!
+O fervent protectress, invincible hope, firm and unashamed, wall and protection and haven of those who flee unto thee, O ever-virgin pure one: with the Angels pray unto thy Son and God to grant peace unto the world, and salvation, and great mercy!
 
 [f. 146rB] PENITENTIAL CANON.
 
@@ -740,7 +740,7 @@ Thou didst establish the light-bearing ranks of the Angels, enlightening them wi
 
 [f. 147rA] Let us lay aside earthly bodily thoughts, O faithful, imitating the life of the bodiless Angels, and lifting our mind unto the primal things in the Spirit!
 
-Be Thou my protectress, O all-immaculate one, refuge and advocate, calming the tempest of passions: Thou who didst surpass the angelic choirs in incomparable beauty!
+Be thou my protectress, O all-immaculate one, refuge and advocate, calming the tempest of passions: Thou who didst surpass the angelic choirs in incomparable beauty!
 
 Ode 5. Heirmos:
 
@@ -754,7 +754,7 @@ To the Martyrs: Kindled with coals of love, ye appeared as unburned swords, O pa
 
 Ye were undefiled by the enemy, subduing him, O passion-bearers, and were shown forth as close friends unto Christ!
 
-Theotokion: O Virgin, blessed among women, grant Thy mercies unto Thy people; for through Thy prayers Thou wast revealed to be His Mother!
+Theotokion: O Virgin, blessed among women, grant thy mercies unto thy people; for through thy prayers thou wast revealed to be His Mother!
 
 Another [Canon to the Bodiless Hosts].
 
@@ -762,7 +762,7 @@ Another [Canon to the Bodiless Hosts].
 
 Encompassing all the ends of the earth, ye bring good benefactions unto the faithful, and preserve them, obeying the Word of God and the Father in all things, O glorious ornaments of the immaterial [f. 147rB] hierarchy, illumined by the Light of His brightness!
 
-Direct all my desire unto Thee, who beyond speech didst bear the Sweetness of desire, unto those who know Thee as the Mother of God, O pure one!
+Direct all my desire unto thee, who beyond speech didst bear the Sweetness of desire, unto those who know thee as the Mother of God, O pure one!
 
 Ode 6. Heirmos:
 
@@ -850,11 +850,11 @@ To the Martyrs: Enduring every manner of wound, ye preserved your soul unsoftene
 
 To the Martyrs: As unwaning stars upon earth, illuminating the souls of all, ye appeared as passion-bearers unto the Master of all!
 
-Theotokion: Thou bearest as a fiery throne Him Who upholds all things by His nod, and with Thy breast dost nourish Him Who nourishes all, O Virgin!
+Theotokion: Thou bearest as a fiery throne Him Who upholds all things by His nod, and with thy breast dost nourish Him Who nourishes all, O Virgin!
 
 Another [Canon to the Bodiless Hosts].
 
-*Heirmos: Rejoice, O Isaiah! For a Virgin hath conceived...*
+*Heirmos: Rejoice, O Isaiah! For a Virgin has conceived...*
 
 Having become leaders of the angelic rank, O most-bright Michael, and divine Gabriel, who wast truly the preacher of the divine incarnation: preserve all who sing of you, O glorious ones!
 
@@ -888,7 +888,7 @@ Theotokion: Forming an armed host in angelic manner today, the bodiless hosts si
 
 Triadikon: In godly manner, ye earthborn, let us sing the Thrice-Holy hymn unto God Who is hymned in the highest: Holy art Thou, O unoriginate Father, Son, and Spirit!
 
-Theotokion: Having received into Thy womb the joy of the Angels, O pure one: with light-bearing deeds fill my soul with joy, guiding me unto the Light!
+Theotokion: Having received into thy womb the joy of the Angels, O pure one: with light-bearing deeds fill my soul with joy, guiding me unto the Light!
 
 ## MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 5)
 
@@ -916,7 +916,7 @@ A divine temple of God, the Life-giver of all, didst thou become, O blessed Prop
 
 Glory... Now and ever... Theotokion:
 
-Having changed since childhood, unceasingly committing sins, I have been grievously wounded in mind, and defiled by dwelling in it with much love! And now, lamenting, I weep over the bitterness of my deceit, and my evil habit, and foolishness, and the perdition of my soul! O Sovereign Lady, despise me not who am perishing miserably; but having compassion, deliver me by Thy protection from the great assault and passions, that at least now in old age I may repent, O Bride of God!
+Having changed since childhood, unceasingly committing sins, I have been grievously wounded in mind, and defiled by dwelling in it with much love! And now, lamenting, I weep over the bitterness of my deceit, and my evil habit, and foolishness, and the perdition of my soul! O Sovereign Lady, despise me not who am perishing miserably; but having compassion, deliver me by thy protection from the great assault and passions, that at least now in old age I may repent, O Bride of God!
 
 At the Aposticha, Penitential Stichera. Tone 5:
 
@@ -956,7 +956,7 @@ To the Martyrs: An unbreakable wall of the wonders of Thy holy Martyrs hast Thou
 
 Glory... Now and ever... Theotokion:
 
-Show Thy swift protection and help and mercy upon Thy servant, and calm the waves of unclean thoughts, O pure one, and raise up my fallen soul, O Mother of God; for I know, yea, I know, O Virgin, that Thou canst do whatever Thou desirest!
+Show thy swift protection and help and mercy upon thy servant, and calm the waves of unclean thoughts, O pure one, and raise up my fallen soul, O Mother of God; for I know, yea, I know, O Virgin, that thou canst do whatever thou desirest!
 
 After the 3rd Kathisma, Sessional Hymn. Tone 5.
 
@@ -1066,7 +1066,7 @@ To the Martyrs: The cloud of Martyrs dispersed the clouds of many torments: it i
 
 To the Martyrs: Cleanse my mind through the supplications of Thy holy [f. 151rA] Martyrs, O Christ, I pray Thee, and show it full of enlightenment, and a partaker of their glory, that in songs I may glorify Thee, O Savior!
 
-Theotokion: By the ineffable Word, O Virgin Mother, Thou didst bear upon earth God, Who grants repentance unto all who have sinned greatly: through Thy good mediation, Thou art a refuge and haven for the fallen!
+Theotokion: By the ineffable Word, O Virgin Mother, thou didst bear upon earth God, Who grants repentance unto all who have sinned greatly: through thy good mediation, thou art a refuge and haven for the fallen!
 
 Another [Canon to the Forerunner].
 
@@ -1118,7 +1118,7 @@ To the Martyrs: Ye made abominable the adversary enemy, having your members put 
 
 To the Martyrs: Ye put to death the demon ranks and the whole multitude of the tyrants by the arrows of your suffering, and through endurance and courage ye have now passed over unto true life.
 
-Theotokion: A haven of salvation hast Thou appeared unto all, O pure one, calming the tempest of passions and leading all the humble upon earth unto tranquility, O pure Mother of God!
+Theotokion: A haven of salvation hast thou appeared unto all, O pure one, calming the tempest of passions and leading all the humble upon earth unto tranquility, O pure Mother of God!
 
 [f. 151vB] Another [Canon to the Forerunner]. Heirmos:
 
@@ -1158,7 +1158,7 @@ Unclean lips and a defiled tongue do I move unto supplication, O holy Forerunner
 
 Triadikon: Let us hymn the Father, the Son, and the Spirit, the consubstantial Trinity, that having obtained the forgiveness of sins and perfect salvation, we may exalt Thee above all unto all the ages!
 
-Theotokion: By Thy lofty Childbirth Thou didst raise us up from the pit of the fall, O full of God's grace! Therefore, with thankful voices, in faith we hymn Thee, O Maiden, unto all the ages!
+Theotokion: By thy lofty Childbirth thou didst raise us up from the pit of the fall, O full of God's grace! Therefore, with thankful voices, in faith we hymn thee, O Maiden, unto all the ages!
 
 Ode 9. Heirmos:
 
@@ -1172,7 +1172,7 @@ To the Martyrs: Bodily sicknesses ye take away by your divine sufferings, O suff
 
 To the Martyrs: Brighter than the sun's rays shines from the shrine of your relics the radiance of divine grace, enlightening hearts and illuminating souls, O passion-bearers who praise you in faith!
 
-Theotokion: A light-bearing Cloud leading the new people unto the promised land hast Thou truly appeared, O full of God's grace, and a Gate leading unto life: therefore, O Mother of God, we magnify Thee!
+Theotokion: A light-bearing Cloud leading the new people unto the promised land hast thou truly appeared, O full of God's grace, and a Gate leading unto life: therefore, O Mother of God, we magnify thee!
 
 Another [Canon to the Forerunner]. Heirmos: Rejoice, O Isaiah:
 
@@ -1214,7 +1214,7 @@ O Incomprehensible God, all-powerful Trinity, Unity: by the prayers of Thy Forer
 
 Now and ever... Theotokion:
 
-Ever defiled by evil deeds, O Virgin: I entreat Thee, the undefiled Mother of the Good One, to cleanse me from every defilement, O Sovereign Lady!
+Ever defiled by evil deeds, O Virgin: I entreat thee, the undefiled Mother of the Good One, to cleanse me from every defilement, O Sovereign Lady!
 
 ## TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 5)
 
@@ -1236,7 +1236,7 @@ Willing to wipe out the handwriting against Adam the First-formed unto the end, 
 
 Beholding Her Lamb of old hastening unto slaughter, the Ewe-lamb followed earnestly, crying aloud unto Him: Whither goest Thou, my sweetest Child, O Christ? For what cause dost Thou run this course, O long-suffering, sinless One? O Jesus most-beloved, sinless and most-merciful Lord, [f. 153vA] grant a word unto Thine handmaid, O most-beloved Son! Despise me not, O Compassionate One, keeping silence, who strangely gave Thee birth, O all-compassionate God, granting great mercy unto the world![^232]
 
-Truly a Cherubic Throne hast Thou become, as being higher than creation; for within Thee, O pure one, the divine Word, willing to renew our form, took up His abode; and coming forth as a flesh-bearer, in divine compassion He accepted the Cross and Passion for our sake, and as God granted the Resurrection. Therefore, giving thanks unto God Who hath delivered our condemned nature, we pray unto Thee, O Virgin: that we, Thy servants, may obtain salvation through Thy divine prayers!
+Truly a Cherubic Throne hast thou become, as being higher than creation; for within thee, O pure one, the divine Word, willing to renew our form, took up His abode; and coming forth as a flesh-bearer, in divine compassion He accepted the Cross and Passion for our sake, and as God granted the Resurrection. Therefore, giving thanks unto God Who hath delivered our condemned nature, we pray unto thee, O Virgin: that we, thy servants, may obtain salvation through thy divine prayers!
 
 Glory... Now and ever... Stavrotheotokion:
 
@@ -1316,11 +1316,11 @@ Another Canon to the Most-pure Mother of God.
 
 O Gates of divine glory, who didst open the gates of Paradise: open unto me the gates of repentance, I pray Thee, and enlighten my mind, that I may sing of Thee, O full of God's grace!
 
-Thou didst stay the course of death, having given birth unto Him Who hath dominion over life and death, O all-immaculate one! Pray Thou therefore unto Him to grant assurance and to save my soul which transgressive sins put to death!
+Thou didst stay the course of death, having given birth unto Him Who hath dominion over life and death, O all-immaculate one! Pray thou therefore unto Him to grant assurance and to save my soul which transgressive sins put to death!
 
-The Word, co-beginningless with the Father, chose Thee alone, the offshoot, the beauty of Jacob; and being incarnate from Thy [f. 154vB] blood, O Mother of God, save me by Thine intercessions!
+The Word, co-beginningless with the Father, chose Thee alone, the offshoot, the beauty of Jacob; and being incarnate from Thy [f. 154vB] blood, O Mother of God, save me by thine intercessions!
 
-Like dew upon the fleece, the heavenly Rain came down upon Thee, O all-pure one; therefore dry up the showers of my passions, I pray Thee, O Virgin Mother!
+Like dew upon the fleece, the heavenly Rain came down upon thee, O all-pure one; therefore dry up the showers of my passions, I pray thee, O Virgin Mother!
 
 Ode 3. Heirmos:
 
@@ -1338,11 +1338,11 @@ Stavrotheotokion: The angelic choirs hymn Thee, O all-hymned one, who transcende
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-[f. 155rA] Wounded by sinful arrows, heal me wholly by the remedy found in Thee, and deliver me from the disease that holds me fast, O pure one, who by Thy Childbirth didst change the suffering of mankind!
+[f. 155rA] Wounded by sinful arrows, heal me wholly by the remedy found in thee, and deliver me from the disease that holds me fast, O pure one, who by thy Childbirth didst change the suffering of mankind!
 
-Let the invisible enemies who everywhere afflict my humble heart and seek to put me to death now, O Mother of God, be cast down by Thy protection, remaining powerless and filled with shame!
+Let the invisible enemies who everywhere afflict my humble heart and seek to put me to death now, O Mother of God, be cast down by thy protection, remaining powerless and filled with shame!
 
-Fill me with life-giving waters, O Mother of God, who didst pour forth the divine Water unto the world; dry up the fierce torrents of my iniquities, and calm the waves of my heart by Thy divine tranquility!
+Fill me with life-giving waters, O Mother of God, who didst pour forth the divine Water unto the world; dry up the fierce torrents of my iniquities, and calm the waves of my heart by thy divine tranquility!
 
 The shadowy ordinances fulfilled under the Law have passed away, for Thou didst bear Christ the Lawgiver, Who ordains grace, cleansing, and enlightenment for us, and takes away the curse, O all-immaculate Virgin Mother!
 
@@ -1362,11 +1362,11 @@ Stavrotheotokion: The sword of the divine Passion pierced Thy blessed soul, when
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-There is no salvation for me from judgments; but having fled unto Thy protection, my hope: save me, a wretch, by Thy prayers, O all-immaculate Virgin!
+There is no salvation for me from judgments; but having fled unto thy protection, my hope: save me, a wretch, by thy prayers, O all-immaculate Virgin!
 
 O pure Dwelling of Light, honorable Carriage of the Sun: illuminate my heart darkened by the gloom of cruel things, and save me, I pray!
 
-With the garment of incorruption from Thy virginal blood, do Thou clothe me who am stripped naked by deceit, O Maiden, who clothest Him that covers heaven with clouds!
+With the garment of incorruption from thy virginal blood, do thou clothe me who am stripped naked by deceit, O Maiden, who clothest Him that covers heaven with clouds!
 
 The Creator received Thee as a lily in the valleys of life, and breathed forth spiritual fragrance unto the world, O all-pure Virgin, Bride of God!
 
@@ -1386,9 +1386,9 @@ We bless Thee, the all-immaculate Mother of God, for whose sake the curse became
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-May I find Thee as my help, delivering me in that hour of judgment, when I shall stand before the tribunal of Him Who was born of Thee, O Virgin![^234]
+May I find thee as my help, delivering me in that hour of judgment, when I shall stand before the tribunal of Him Who was born of thee, O Virgin![^234]
 
-Vanquished by the law of sin, O pure one, and often seduced by the deceits of the stranger, and driven unto the brink of transgressions: do Thou convert me!
+Vanquished by the law of sin, O pure one, and often seduced by the deceits of the stranger, and driven unto the brink of transgressions: do thou convert me!
 
 Having given birth unto the Coal which Isaiah beheld: consume the matter of my transgressions, O all-immaculate one, and enlighten me, I pray!
 
@@ -1406,11 +1406,11 @@ When Thou didst deliver up Thy spirit upon the Tree of old, how did the souls of
 
 To the Martyrs: Ye appeared as a many-flowered paradise, O all-glorious and wise ones, breathing forth the fragrance of the Spirit and driving away foul-smelling passions from men!
 
-Stavrotheotokion: Wonderful is Thy Childbirth, O Mother of God, Who workest great wonders and art glorified among the saints, O only all-marvelous Sovereign Lady!
+Stavrotheotokion: Wonderful is thy Childbirth, O Mother of God, Who workest great wonders and art glorified among the saints, O only all-marvelous Sovereign Lady!
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-Let not the abyss of slothfulness swallow me up, O Sovereign Lady, and let not the wave of sin cover me; but by Thy solitary prayer may I be saved, O pure one!
+Let not the abyss of slothfulness swallow me up, O Sovereign Lady, and let not the wave of sin cover me; but by thy solitary prayer may I be saved, O pure one!
 
 Having given birth unto the good Benefactor and Creator, O all-hymned Sovereign Lady, loving goodness: make my afflicted soul blessed!
 
@@ -1430,13 +1430,13 @@ To the Martyrs: Conformed unto the sufferings of the Holy One Who rules over all
 
 To the Martyrs: Ye gave no honor unto trees, being most irrational, but honoring Christ Who stretched out His hands upon the Tree, O Martyrs, the King and Good God of all!
 
-Stavrotheotokion: Strange was Thy Childbirth, O all-immaculate one; for Thou didst bear God, Who withered the flame of deceit by the Tree, and enlightened the world!
+Stavrotheotokion: Strange was thy Childbirth, O all-immaculate one; for thou didst bear God, Who withered the flame of deceit by the Tree, and enlightened the world!
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
 All creation sings Thy praise; for without seed Thou didst bear the all-hymned God, O most-pure Virgin, deifying those who sing: Blessed art Thou, O God!
 
-Deadened by my passions, raise me up who lie fallen, O Bride of God, who didst bear Life from Thy womb without knowing man, that in love I may glorify Thee!
+Deadened by my passions, raise me up who lie fallen, O Bride of God, who didst bear Life from thy womb without knowing man, that in love I may glorify thee!
 
 Look down upon the supplications of Thy servants, O Sovereign Lady, delivering from harms and saving from tribulations those who sing in faith: Blessed art Thou, O God!
 
@@ -1478,7 +1478,7 @@ To the Martyrs: Ye shone forth as the sun, having become a steadfast defense, an
 
 To the Martyrs: A God-chosen company, an honorable army, a chosen assembly, a holy host were ye shown to be, O all-praised Martyrs, destroying the malignant ranks of the enemy by the divine grace of the Savior!
 
-Stavrotheotokion: Thou didst bear the Planter of the Garden, the Author of piety, Who plants true understanding upon earth, and looses the curse that came forth from Eden; Whom magnifying, O Virgin, we call Thee blessed!
+Stavrotheotokion: Thou didst bear the Planter of the Garden, the Author of piety, Who plants true understanding upon earth, and looses the curse that came forth from Eden; Whom magnifying, O Virgin, we call thee blessed!
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
@@ -1486,9 +1486,9 @@ Thou didst bear the immovable Foundation, the Savior, O pure one, Who by divine 
 
 Gather me, O pure one, to walk without stumbling in the path of humility according to the divine commandments, [f. 156vB] driving away demonic confusion and the assault of passions, and granting me tranquility!
 
-Held fast by the slumber of slothfulness, the enemy shamelessly beholds me, hoping to strengthen himself against me with the sleep of pleasure; but do Thou Thyself preserve me, O pure one, by Thy sleepless prayer, O Virgin Mother!
+Held fast by the slumber of slothfulness, the enemy shamelessly beholds me, hoping to strengthen himself against me with the sleep of pleasure; but do thou Thyself preserve me, O pure one, by thy sleepless prayer, O Virgin Mother!
 
-As one self-condemned, I contemplate the multitude of my sins, and the dread tribunal before which alone I must be judged; but O Thou Who alone didst bear God, preserve me uncondemned at that time, O Mother of God!
+As one self-condemned, I contemplate the multitude of my sins, and the dread tribunal before which alone I must be judged; but O thou Who alone didst bear God, preserve me uncondemned at that time, O Mother of God!
 
 At the Aposticha, Stichera of the Cross, Tone 5:
 
@@ -1548,7 +1548,7 @@ Rejoice, O rule among the saints, inexhaustible deep of divine wonders, marvelou
 
 Glory... Now and ever... Theotokion:
 
-Rejoice, O most-pure Seal, God-proclaiming herald of the Apostles; for Thou didst bear God truly incarnate, O pure one, beyond mind and word; whereby having received our first nobility and enjoying the food of Paradise, we honor Thee in songs as the mediatress of such good things and most acceptable intercessor; enriched by Thee, O most-pure one, we are counted worthy of the everlasting life of Thy Son, Who richly grants great mercy!
+Rejoice, O most-pure Seal, God-proclaiming herald of the Apostles; for thou didst bear God truly incarnate, O pure one, beyond mind and word; whereby having received our first nobility and enjoying the food of Paradise, we honor thee in songs as the mediatress of such good things and most acceptable intercessor; enriched by thee, O most-pure one, we are counted worthy of the everlasting life of thy Son, Who richly grants great mercy!
 
 At the Aposticha, Stichera of the Apostles, Tone 5:
 
@@ -1560,7 +1560,7 @@ To the Martyrs: With insatiable love of soul, ye abandoned all things for Christ
 
 Glory... Now and ever... Theotokion:
 
-We bless Thee, O Virgin Mother of God, and we the faithful glorify Thee as is meet: the unshakable city, the impregnable wall, the steadfast protectress, and refuge of our souls!
+We bless thee, O Virgin Mother of God, and we the faithful glorify thee as is meet: the unshakable city, the impregnable wall, the steadfast protectress, and refuge of our souls!
 
 ON THURSDAY, AT MATINS:
 
@@ -1582,7 +1582,7 @@ To the Martyrs: At the achievements of the holy Martyrs the heavenly powers were
 
 Glory... Now and ever... Theotokion:
 
-Having found Thee as a haven, and wall, and refuge, and hope, and protection, and fervent defense, we the faithful flee unto Thee, and cry earnestly, and call out in faith: Have mercy, O Mother of God, upon those who hope in Thee, and deliver from transgressions!
+Having found thee as a haven, and wall, and refuge, and hope, and protection, and fervent defense, we the faithful flee unto thee, and cry earnestly, and call out in faith: Have mercy, O Mother of God, upon those who hope in thee, and deliver from transgressions!
 
 *After the 3rd Kathisma, Sessional Hymns of the Apostles, Tone 5.*
 
@@ -1594,7 +1594,7 @@ O Lord, preaching the ineffable mystery of Thine Incarnation, unlearned men put 
 
 Glory... Now and ever... Theotokion:
 
-Having an unshakable hope in Thee, O all-pure Virgin, and possessing Thee as our protection: deliver us from diverse perils, tribulations, and cruel afflictions, praying unto Thy Son, together with His Apostles, to save all who hymn Thee!
+Having an unshakable hope in thee, O all-pure Virgin, and possessing thee as our protection: deliver us from diverse perils, tribulations, and cruel afflictions, praying unto thy Son, together with His Apostles, to save all who hymn thee!
 
 Canon to the Holy Apostles.
 
@@ -1622,7 +1622,7 @@ Possessing thee as an advocate with the Compassionate One, O blessed one, surrou
 
 Christ showed thee as a Hierarch unto the people of Myra, sweetening us with the fragrance of wonders; therefore we pray thee: Deliver us from the foul stench of sin, O Nicholas!
 
-Of old the prophetic choir named Thee the divine Mountain, O Maiden, and the impassable Gate; therefore we pray Thee: Open unto us the divine gates of repentance, O Virgin!
+Of old the prophetic choir named thee the divine Mountain, O Maiden, and the impassable Gate; therefore we pray thee: Open unto us the divine gates of repentance, O Virgin!
 
 Ode 3. Heirmos:
 
@@ -1724,7 +1724,7 @@ Wash away the filth of my heart with streams of repentance, O Apostles, by your 
 
 With the fire of the Holy Spirit ye burned up the substance of great demonic delusion; therefore deliver me from burning Gehenna, O Disciples of God the Word!
 
-O Thou Who didst correct the fall of Adam: raise me up who have fallen into the pit of malice, by Thy prayers, O Virgin, [f. 160rA] and those of the divine Apostles!
+O thou Who didst correct the fall of Adam: raise me up who have fallen into the pit of malice, by thy prayers, O Virgin, [f. 160rA] and those of the divine Apostles!
 
 Another [Canon to Saint Nicholas]. Heirmos: The same.
 
@@ -1746,7 +1746,7 @@ O most-excellent pillars of the Church, who hold fast the teaching of the faith:
 
 Offer sighing of soul and streams of tears earnestly unto the Lord, crying: O only Compassionate One, cleanse me and save me, through the prayers of the all-praised Apostles!
 
-Theotokion: O chosen Company, imperial City: make me a citizen of the city on high, praying with the divine Disciples, O all-pure Virgin, unto Thy timeless Son!
+Theotokion: O chosen Company, imperial City: make me a citizen of the city on high, praying with the divine Disciples, O all-pure Virgin, unto thy timeless Son!
 
 Another [Canon to Saint Nicholas]. Heirmos: The same.
 
@@ -1756,7 +1756,7 @@ Having become the great Chief-hierarch in Myra, O Nicholas: sweeten the senses o
 
 Deliver us from sins by thy prayers, from Egyptian affliction, and heathen captivity, and the evil harm of all men, that we may praise thee as our deliverer!
 
-Theotokion: Having clothed Himself in incorrupt flesh for our sake, O pure one, God revealed Thee, the all-immaculate Virgin, as a divine protectress for all our race; therefore we honor Thee unto all the ages!
+Theotokion: Having clothed Himself in incorrupt flesh for our sake, O pure one, God revealed thee, the all-immaculate Virgin, as a divine protectress for all our race; therefore we honor thee unto all the ages!
 
 Ode 9. Heirmos:
 
@@ -1832,7 +1832,7 @@ When the unplowed Vine bloomed forth the Cluster unto the Father: beholding Him 
 
 Let us all weep, and stretch forth our hands, looking up unto Him with fervent tears; and bowing the knee, beating our faces earnestly unto the earth, let us send up sighs unto the height, who by our improper deeds have angered God through the rejection of His commandments, crying aloud: Deliver us from the coming woes and every torment! As for those who have grieved Thee and turned away in shame, for whose sake Thou didst endure the Cross, having become incarnate: through the supplications of Thy Mother, make them partakers of Thy Kingdom!
 
-Unto whom hast thou become likened, O my soul, ever advancing in what is worse, and senselessly adding multiple sores unto thy wounds, so that the wound is over all the body, not considering that the Judge draws near, before Whom thou shalt stand to receive punishment and torment according to thy deeds? But turn back and fall down before the Virgin, crying: O Sovereign Lady, O Sovereign Lady! Despise me not, who have angered the most-beneficent God, Who was born of Thee for the salvation of men, and was crucified in the flesh!
+Unto whom hast thou become likened, O my soul, ever advancing in what is worse, and senselessly adding multiple sores unto thy wounds, so that the wound is over all the body, not considering that the Judge draws near, before Whom thou shalt stand to receive punishment and torment according to thy deeds? But turn back and fall down before the Virgin, crying: O Sovereign Lady, O Sovereign Lady! Despise me not, who have angered the most-beneficent God, Who was born of thee for the salvation of men, and was crucified in the flesh!
 
 [f. 161vB] *Glory... Now and ever... Of the Cross.*
 
@@ -1910,13 +1910,13 @@ Theotokion: Thou didst bring forth for us a new Child, ancient of days, O pure V
 
 Another Canon to the Most-holy Theotokos. Heirmos: The same.
 
-Knowing Thee to be a fountain of tender compassion and a firm protectress for all, O all-immaculate Virgin Mother Mary, we send up cries unto Thee: Have mercy and take pity upon my humble soul!
+Knowing thee to be a fountain of tender compassion and a firm protectress for all, O all-immaculate Virgin Mother Mary, we send up cries unto thee: Have mercy and take pity upon my humble soul!
 
 Thou didst hold in Thy womb the Son of God, O pure one, and He assumed human nature as He is all-good, and delivered all men from the corruption of death!
 
-Be Thou my enlightenment and the hope of my salvation, O all-immaculate Mother of God, loosing the bonds of my transgressions, and delivering me from future torment and condemnation!
+Be thou my enlightenment and the hope of my salvation, O all-immaculate Mother of God, loosing the bonds of my transgressions, and delivering me from future torment and condemnation!
 
-Deliver my humble soul from evil thoughts, O Mother of God, and make it a dwelling place of God, that I may ever glorify Thee as is due!
+Deliver my humble soul from evil thoughts, O Mother of God, and make it a dwelling place of God, that I may ever glorify thee as is due!
 
 Ode 3. Heirmos:
 
@@ -1934,13 +1934,13 @@ Theotokion: Thou Mediatress of life unto us, O pure one: Thy Son and Lord was sh
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-Rescue me who have fallen into the pit of destruction of cruel sins, O Mother of God, by Thy compassionate goodness!
+Rescue me who have fallen into the pit of destruction of cruel sins, O Mother of God, by thy compassionate goodness!
 
-Having arrived at the evening of life, and being held fast by evil deeds, I cry unto Thee, O all-immaculate one: Show Thyself to be my helper!
+Having arrived at the evening of life, and being held fast by evil deeds, I cry unto thee, O all-immaculate one: Show Thyself to be my helper!
 
 Holy Mother of God, pure one: grant remission of my transgressions by Thy prayers, and entreat for me salvation and eternal joy!
 
-Grant me a drop of tears, O pure one, that I may wash away the perplexity from my heart, and purely hymn Thee!
+Grant me a drop of tears, O pure one, that I may wash away the perplexity from my heart, and purely hymn thee!
 
 Ode 4. Heirmos:
 
@@ -1958,7 +1958,7 @@ Theotokion: When She beheld Christ upon the Cross Whom She had brought forth, th
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-For my evil deeds and manifold transgressions, who shall be able to entreat the Judge, unless it be Thou, O pure one, the only protectress of sinners?
+For my evil deeds and manifold transgressions, who shall be able to entreat the Judge, unless it be thou, O pure one, the only protectress of sinners?
 
 Raise me up who have fallen into manifold transgressions and enslaved my soul to sins, by Thy powerful prayer, and loose me from slavery, O Most-pure One!
 
@@ -1982,9 +1982,9 @@ Theotokion: Beholding Thee uplifted upon the Cross, O Master, the all-immaculate
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-Unto me who have received the natural wound of sin, heal me with the oil of Thy tender compassion, O Sovereign Lady!
+Unto me who have received the natural wound of sin, heal me with the oil of thy tender compassion, O Sovereign Lady!
 
-Thou didst stem the flux of corruption of old by Thy Divine birth-giving; and now stem the flood of my transgressions, O all-immaculate one!
+Thou didst stem the flux of corruption of old by thy Divine birth-giving; and now stem the flood of my transgressions, O all-immaculate one!
 
 Have mercy and take pity upon my soul, O Sovereign Lady, and deliver me from condemnation and eternal torment! Look down and hear my voice, O Sovereign Lady, and pray that I may be delivered from eternal torment!
 
@@ -2004,7 +2004,7 @@ Theotokion: A sword pierced Thy heart, O all-immaculate one, when Thou didst beh
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-The abyss of sins hath surrounded me, casting me down into the depth of despair, O pure one; therefore lead me up from nethermost hades who glorify Thee!
+The abyss of sins hath surrounded me, casting me down into the depth of despair, O pure one; therefore lead me up from nethermost hades who glorify thee!
 
 Raise me up who lie upon the bed of sins, O Most-pure Sovereign Lady, and grant me salvation worked through repentance!
 
@@ -2024,7 +2024,7 @@ To the Martyrs: Ye honored God through the dishonor of wheel-tortures, and recei
 
 To the Martyrs: Daring with resolute fervor to enter into suffering, the Passion-bearers were revealed as conquerors!
 
-Theotokion: After giving birth, O pure one, Thou remainest even as Thou wast before giving birth; for Thou gavest birth unto God Who is before the ages, that He might make mankind alive!
+Theotokion: After giving birth, O pure one, thou remainest even as thou wast before giving birth; for thou gavest birth unto God Who is before the ages, that He might make mankind alive!
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
@@ -2032,9 +2032,9 @@ Pure Mother of God, despise me not who ever flee unto the shadow of Thy protecti
 
 Drying up the pasture of my passions, grant me to pour forth drops of tears, O Mother of God!
 
-Loose me who am bound with chains of sins, by Thy prayers, O all-immaculate one, who gavest birth unto the all-hymned God!
+Loose me who am bound with chains of sins, by thy prayers, O all-immaculate one, who gavest birth unto the all-hymned God!
 
-Unto Thee I flee in faith, and Thee, O pure one, do I invoke: deliver me, O Virgin, from eternal fire!
+Unto thee I flee in faith, and thee, O pure one, do I invoke: deliver me, O Virgin, from eternal fire!
 
 Ode 8. Heirmos:
 
@@ -2052,11 +2052,11 @@ Theotokion: Gabriel the bridal escort was sent unto Thee, O Virgin, crying aloud
 
 Another [Canon to the Theotokos]. Heirmos: The same.
 
-Being in perplexity of both heart and mind, not fearing the menace of Gehenna, and sinning continually: do Thou, O Virgin, resolve my perplexity, and deliver me from the fire!
+Being in perplexity of both heart and mind, not fearing the menace of Gehenna, and sinning continually: do thou, O Virgin, resolve my perplexity, and deliver me from the fire!
 
-I am often dragged down by the pleasures of my flesh and sold as a captive, ever provoking God to anger; O Mother of God, the only hope of the hopeless, do Thou Thyself have mercy on me!
+I am often dragged down by the pleasures of my flesh and sold as a captive, ever provoking God to anger; O Mother of God, the only hope of the hopeless, do thou Thyself have mercy on me!
 
-For Thy prayer is unashamed, O all-immaculate one; for whatsoever Thou desirest Thou bestowest, entreating Thy Son and God. Therefore I pray Thee: Have mercy and save my humble soul!
+For thy prayer is unashamed, O all-immaculate one; for whatsoever thou desirest thou bestowest, entreating thy Son and God. Therefore I pray thee: Have mercy and save my humble soul!
 
 Cruelly tormented by bodily diseases, the uprising of passions, and wounds of soul: make me whole by Thy supplications, O Thou who gavest birth unto the only Benefactor!
 
@@ -2198,7 +2198,7 @@ Direct us, O Lord, unto the life-giving havens, through the prayers of the all-g
 
 For the Departed: Thee we entreat, O compassionate God: give rest in the bosom of Abraham unto Thy servants, O Christ, whom Thou hast translated unto Thyself from the turmoil of life, and vouchsafe them eternal light, overlooking their transgressions as Thou art good!
 
-Theotokion: Rejoice! we cry aloud unto Thee, who gavest birth unto Joy, O all-hymned one; enlighten our mind and soul, and guide us all unto the paths of understanding, O pure one; and ask Thy Son and God to grant unto all the cleansing of transgressions, O only Bride of God!
+Theotokion: Rejoice! we cry aloud unto thee, who gavest birth unto Joy, O all-hymned one; enlighten our mind and soul, and guide us all unto the paths of understanding, O pure one; and ask thy Son and God to grant unto all the cleansing of transgressions, O only Bride of God!
 
 Another Canon for the Departed. Composition of Theophanes.
 
@@ -2210,7 +2210,7 @@ In the holy tabernacles, in Thy courts, O Christ, settle the reposed, O Master, 
 
 O Wisdom of God, bearing the eternal imprint of the Father: give rest unto those whom Thou hast received, O Compassionate One, bestowing upon them everlasting blessedness!
 
-Light-bearing Tabernacle, golden Ark, containing the Divine Word Who became incarnate for our sake and destroyed the power of death: do Thou entreat Him, O all-immaculate one!
+Light-bearing Tabernacle, golden Ark, containing the Divine Word Who became incarnate for our sake and destroyed the power of death: do thou entreat Him, O all-immaculate one!
 
 Ode 3. Heirmos:
 
@@ -2224,7 +2224,7 @@ Mortifying the flesh through abstinence, O Venerable ones, ye became partakers o
 
 For the Departed: Grant unto the departed the repose of that other world, O Lover of mankind, forgiving as God the debts they contracted upon the earth!
 
-[f. 166vB] Theotokion: Beholding Thee as purple-clad among women, the assembly of holy women suffered, and was brought unto Thy Son, O Virgin Mother!
+[f. 166vB] Theotokion: Beholding thee as purple-clad among women, the assembly of holy women suffered, and was brought unto thy Son, O Virgin Mother!
 
 Another [Canon for the Departed]. Heirmos: By the power of the Cross:
 
@@ -2236,7 +2236,7 @@ Receive and give rest in Thy bright habitations, O All-good One, unto the repose
 
 O only merciful God, vouchsafe those whom Thou hast chosen unto the radiance of the saints, overlooking their transgressions!
 
-Theotokion: We hymn Thy birth-giving, O pure one, whereby we have been delivered from the former condemnation and curse, and have been set free from death!
+Theotokion: We hymn thy birth-giving, O pure one, whereby we have been delivered from the former condemnation and curse, and have been set free from death!
 
 Ode 4. Heirmos:
 
@@ -2250,7 +2250,7 @@ Give rest in the haven of Thy Kingdom, O Master, unto those whom Thou hast trans
 
 Sing, all ye people, of the God-speaking Prophets of God, and honor the company of women who well finished the course!
 
-[f. 167rA] The Timeless One was made subject to time from Thee, O Virgin; entreat Him to loose all the temporal sins of my soul!
+[f. 167rA] The Timeless One was made subject to time from thee, O Virgin; entreat Him to loose all the temporal sins of my soul!
 
 Another [Canon for the Departed]. Heirmos: I heard report:
 
@@ -2274,7 +2274,7 @@ Let the Prophets be honored, and with them all the righteous through faith; and 
 
 Those whom Thou hast taken from the earth, settle in heavenly habitations, O Christ, overlooking the transgressions of Thy faithful servants through Thine exceeding goodness, for Whose sake Thou wast incarnate unto the dead!
 
-Theotokion: We hymn Thee, O Virgin, for whose sake God appeared upon the earth, becoming man, crying: Rejoice, fruitful earth, bringing forth the mystical Ear of Corn that nourishes every breath!
+Theotokion: We hymn thee, O Virgin, for whose sake God appeared upon the earth, becoming man, crying: Rejoice, fruitful earth, bringing forth the mystical Ear of Corn that nourishes every breath!
 
 Another [Canon for the Departed]. Heirmos: Rising early:
 
@@ -2308,7 +2308,7 @@ In places of refreshment, in holy places of radiance, in pleasant places, O Chri
 
 Cleanse Thy servants, and grant forgiveness of transgressions unto them, O Lover of mankind, and make them worthy of incorruptible life and blessed delight!
 
-Theotokion: What word can declare the wonder of Thy seedless conception, O all-immaculate one? For Thou gavest birth unto God, Who came unto us through tender mercy!
+Theotokion: What word can declare the wonder of thy seedless conception, O all-immaculate one? For thou gavest birth unto God, Who came unto us through tender mercy!
 
 Ode 7. Heirmos:
 
@@ -2324,7 +2324,7 @@ Having mortified the flesh through manifold hardships, ye were vouchsafed future
 
 Let the blessed choir of God's Prophets and the company of women who conquered through fasting and suffering and cast down the enemy be praised in faith!
 
-Theotokion: Praying unto Him Who was from of old together with the Father: may we be delivered from eternal fire and darkness and from the invisible enemies that war against us, through Thy mediation, O Mother of God!
+Theotokion: Praying unto Him Who was from of old together with the Father: may we be delivered from eternal fire and darkness and from the invisible enemies that war against us, through thy mediation, O Mother of God!
 
 Another [Canon for the Departed]. Heirmos: In the fiery furnace:
 
@@ -2334,7 +2334,7 @@ Number all those who have died in faith in the Church of the firstborn, O Compas
 
 Adorned with garments of incorruption, give rest unto Thy reposed servants in Thee, O Savior!
 
-Theotokion: Having seedlessly and most-sacredly conceived Life, O all-immaculate one, Thou didst cut short the assault of death!
+Theotokion: Having seedlessly and most-sacredly conceived Life, O all-immaculate one, thou didst cut short the assault of death!
 
 [f. 168rA] Ode 8. Heirmos:
 
@@ -2362,7 +2362,7 @@ Vouchsafe those who have passed away from us to be illumined with the rays of Th
 
 Settle in the habitations of the saints those whom Thou hast translated, and number them in Abraham's bosom with Lazarus, who hymn Thee, O Savior, and supremely exalt Thee unto all the ages!
 
-Theotokion: Adorned with the beauty of purity, O Virgin Mother, Thou becamest the dwelling place of beneficent splendor; therefore we hymn and bless Thee unto all the ages!
+Theotokion: Adorned with the beauty of purity, O Virgin Mother, thou becamest the dwelling place of beneficent splendor; therefore we hymn and bless thee unto all the ages!
 
 Ode 9. Heirmos:
 
@@ -2388,7 +2388,7 @@ Thou didst endure death, O only Immortal One; bestow repose and the radiance of 
 
 Thou didst raise us who had fallen into death, and didst teach us to hope for eternal life; grant unto Thy servants to obtain it, O Savior!
 
-Theotokion: The shadows of the Law passed away through Thy birth-giving, and Divine truth and grace were granted, O Mother of God; therefore we magnify Thee!
+Theotokion: The shadows of the Law passed away through thy birth-giving, and Divine truth and grace were granted, O Mother of God; therefore we magnify thee!
 
 AT THE PRAISES: Stichera of the Martyrs, Tone 5:
 
@@ -2444,7 +2444,7 @@ O Holy Trinity, be Thou entreated by the contests of the Hierarchs and Martyrs, 
 
 Now and ever... Theotokion:
 
-Having given birth beyond understanding and word unto Him Whom naught can contain, O Thou full of God's grace: entreat Him to be merciful unto us all, O Sovereign Lady!
+Having given birth beyond understanding and word unto Him Whom naught can contain, O thou full of God's grace: entreat Him to be merciful unto us all, O Sovereign Lady!
 
 END OF TONE 5.
 

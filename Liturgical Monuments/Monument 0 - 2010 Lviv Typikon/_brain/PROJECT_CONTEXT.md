@@ -36,8 +36,8 @@ A **scientific English translation** of the *Typikon* (liturgical rubrical manua
 
 ## Project Location
 
-* **Translation Spoke (Local Repository)**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\`
-* **Official Markdown Source of Truth (Typikon Coded)**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\`
+* **Translation Spoke (Local Repository)**: `C:\Users\augus\Documents\Google Antigravity\Projects\Translation\`
+* **Official Markdown Source of Truth (Typikon Coded)**: `C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\`
 
 ## Current State (as of June 2026)
 
@@ -88,6 +88,6 @@ The Menologion in Part 5 uses these standardized tags:
 
 ## Related Projects (Same Ecosystem)
 
-- **Typikon Coded** (`C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\`) — A computational engine that consumes the Dolnytsky translation as a JSON database to generate liturgical service digests. Uses a 4-tier authority hierarchy: Ordo Celebrationis 1944 → Dolnytsky Typikon → Pochaiv Anthologion → Engine Default.
+- **Typikon Coded** (`C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\`) — A computational engine that consumes the Dolnytsky translation as a JSON database to generate liturgical service digests. Uses a 4-tier authority hierarchy: Ordo Celebrationis 1944 → Dolnytsky Typikon → Pochaiv Anthologion → Engine Default.
 - **Yasinovsky Irmologia Catalogue** — Parallel scholarly project cataloguing Prof. Yasinovsky's collection of Irmologia manuscripts, using the same Dolnytsky terminology standards.
 

@@ -3,7 +3,7 @@ import requests
 import json
 
 def get_deepseek_key():
-    global_env = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\.env"
+    global_env = r"C:\Users\augus\Documents\Google Antigravity\Projects\.env"
     if os.path.exists(global_env):
         try:
             with open(global_env, "r", encoding="utf-8") as f:
@@ -33,7 +33,7 @@ def main():
 Write a python script `scratch/search_anti_patterns.py` that walks a target directory (default: current directory '.') and scans all `.py` and `.md` files for code anti-patterns.
 The script should identify:
 1. Bare except blocks: `except:` or `except Exception:` followed immediately by `pass` or empty block.
-2. Hardcoded absolute paths: Strings containing `C:\\Users`, `E:\\`, `OneDrive\\Documents`, or similar absolute paths.
+2. Hardcoded absolute paths: Strings containing `C:\\Users`, `E:\\`, `Documents`, or similar absolute paths.
 3. Missing `encoding` parameter in `open(...)` calls: Files opened without explicitly specifying `encoding='utf-8'` (or similar).
 4. Subprocess or git calls in python that do not disable pagers (e.g. running 'git diff' or 'git log' without PAGER env variable set to 'cat' or '--no-pager').
 5. Fragile regex for structural headers: Any regex pattern looking for 'Ode \d+' or similar heading splits instead of startswith/procedural checks.

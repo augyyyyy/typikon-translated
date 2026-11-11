@@ -158,7 +158,7 @@ O unwedded Virgin, who didst ineffably conceive God in the flesh, Mother of God 
 
 *Then, "Now lettest Thou Thy servant depart..." Trisagion. At the Blessing of the Loaves, Troparion: "O Virgin Mother of God, rejoice..." thrice. And reading in the Acts of the Holy Apostles. And for the saint of the day, the service is sung at Small Compline.*
 
-*If the Paschalion Key 30 ([Л]) occurs, then see the commemoration of the Holy Apostle John the Theologian on this present Sunday. And it is sung together as directed on the Sunday of the Holy Myrrh-bearers. Look on folios 234 and 235.[^705]*
+*If the Paschalion Key 30 ((*Л*)) occurs, then see the commemoration of the Holy Apostle John the Theologian on this present Sunday. And it is sung together as directed on the Sunday of the Holy Myrrh-bearers. Look on folios 234 and 235.[^705]*
 
 === LEAF p326 ===
 *If there be no Vigil, then the Canon at the Midnight Office of the Life-creating Trinity, whose Acrostic, that is, the margin-heading, is: "The Fifth Canon unto the Thrice-radiant Light." Ode 1, Tone 5. Heirmos: "The horse and the rider:" (see in the Octoechos)[^706].*

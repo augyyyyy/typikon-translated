@@ -32,7 +32,7 @@ Ta to Xięga Voslědowan...
 ## TABLE OF CONTENTS
 
 * **[1741 Pochaiv Lavra Festal Offices / Vozslidovaniia Prazdnykom (Возслідованія праздником, Почаїв: Друкарня Лаври, 1741)](#1741-pochaiv-lavra-festal-offices-vozslidovaniia-prazdnykom)**
-* **[PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ](1741_pochaiv_festal_offices_part1_part-i-festal-offices-decreed-by-the-syn.md#part-i-festal-offices-decreed-by-the-synod-of-zamo)**
+* **[PART I: FESTAL OFFICES DECREED BY THE SYNOD OF ZAMOŚĆ](1741_pochaiv_festal_offices_part1_part-i-festal-offices-decreed-by-the-syn.md#part-i-festal-offices-decreed-by-the-synod-of-zamość)**
 * **[APPENDIX: MONTH OF DECEMBER](1741_pochaiv_festal_offices_part2_appendix-month-of-december.md#appendix-month-of-december)**
 
 ---

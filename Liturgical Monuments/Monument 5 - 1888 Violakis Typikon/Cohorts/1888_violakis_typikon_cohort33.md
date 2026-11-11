@@ -1,6 +1,6 @@
 === LEAF p321 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Ὁ Μέγας Ἑσπερινὸς καὶ ἡ Λειτουργία τοῦ Μεγάλου Βασιλείου [Violakis, p. 306]
 
@@ -11,7 +11,7 @@
 
 === LEAF p322 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Great Vespers and the Divine Liturgy of Saint Basil the Great [Violakis, p. 307]
 
@@ -22,13 +22,13 @@
 
 === LEAF p323 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Ὄρθρος: Τάξις τοῦ Εὐαγγελίου, Κανόνες καὶ Μεγαλυνάρια [Violakis, p. 308]
 
 *εἶδε καὶ ἔφυγεν*, τὸ *Πᾶσα πνοὴ* καὶ τὸ Εὐαγγέλιον τοῦ Ὄρθρου, ὁ Ν΄ ψαλμὸς χῦμα, *Δόξα*, *Τὰ σύμπαντα σήμερον ἀγαλλιάσθω*, *Καὶ νῦν* τὸ αὐτό· ὁ Στίχος *Ἐλέησόν με ὁ Θεὸς* καὶ τὸ Ἰδιόμελον· *Θεὸς λόγος ἐπεφάνη ἐν σαρκί*, οἱ Κανόνες ἀμφότεροι ἀνὰ δ΄ ἄνευ Στίχου, εἰμὴ μόνον *Δόξα, Καὶ νῦν* ἐν ἑκάστῃ Ὠδῇ, ἀπὸ γ΄ Ὠδῆς ἡ Ὑπακοὴ *Ὅτε τῇ ἐπιφανείᾳ σου*, ἀφ’ ς΄ τὸ Κοντάκιον, ὁ Οἶκος καὶ τὸ Μηνολόγιον, αἱ Καταβασίαι διπλαῖ, καὶ ψάλλεται ἡ Θ΄ Ὠδὴ μετὰ τῶν Μεγαλυναρίων.
 
-### Διὰ τὸν Α΄ Κανόνα.
+**Διὰ τὸν Α΄ Κανόνα.**
 
     *Μεγάλυνον ψυχή μου, τὴν τιμιωτέραν, τῶν ἄνω στρατευμάτων.*
     *Μεγάλυνον ψυχή μου, τὸν ἐν Ἰορδάνῃ, ἐλθόντα βαπτισθῆναι.*
@@ -38,7 +38,7 @@
     *[Προφῆτα, δεῦρο πρός με, ἔκτεινον τὴν χεῖρα, καὶ βάπτισόν με τάχος.]\**
     *[Προφῆτα, ἄφες ἄρτι, καὶ βάπτισόν με θέλων· πληρῶσαι καὶ γὰρ ἦλθον, πᾶσαν δικαιοσύνην.]\**
 
-### Διὰ τὸν Β΄ Ἰαμβικόν.
+**Διὰ τὸν Β΄ Ἰαμβικόν.**
 
     *Σήμερον ὁ Δεσπότης, κλίνει τὸν αὐχένα, χειρὶ τῇ τοῦ Προδρόμου.*
     *Σήμερον Ἰωάννης, βαπτίζει τὸν Δεσπότην, ἐν ῥείθροις Ἰορδάνου.*
@@ -50,23 +50,23 @@
 
 === LEAF p324 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Matins: Gospel Order, Canons, and Festal Megalynaria [Violakis, p. 309]
 
 Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimenon: **"The sea saw and fled, Jordan was driven back"** (*Ἡ θάλασσα εἶδε καὶ ἔφυγεν*, Ps. 113:3 LXX); then **"Let everything that hath breath praise the Lord"** (*Πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον*) and the Gospel of Matins [Mark 1:9–11], and Psalm 50 [LXX] read. **"Glory"**: **"Today let all things greatly rejoice"** (*Τὰ σύμπαντα σήμερον ἀγαλλιάσθω*); **"Both now and ever"**: repeat the same hymn; the Verse: **"Have mercy upon me, O God, according to Thy great mercy"** [Ps. 50:3 LXX], and the Idiomelon: **"God the Word appeared in the flesh"** (*Θεὸς λόγος ἐπεφάνη ἐν σαρκί*). Both Canons are sung with 4 troparia from each Canon without verses except for **"Glory... Both now and ever..."** in each Ode. After the Third Ode, the Hypakoe: **"When at Thy manifestation"** (*Ὅτε τῇ ἐπιφανείᾳ σου*); after the Sixth Ode, the Kontakion: **"Thou hast appeared today to the universe"** (*Ἐπεφάνης σήμερον*), the Ikos, and the Menologion of the day. Both double Katavasiai: **"He uncovered the bottom of the deep"** (*Βυθοῦ ἀνεκάλυψε πυθμένα*) and **"The Lord, working wonders"** (*Στείβει θαλάσσης*), and the Ninth Ode is sung with the Megalynaria:
 
-### For the First Canon
+**For the First Canon**
 
     **"Magnify, O my soul, Her that is more honorable than the heavenly hosts."** (*Μεγάλυνον ψυχή μου, τὴν τιμιωτέραν τῶν ἄνω στρατευμάτων.*)  
     **"Magnify, O my soul, Him Who hath come to be baptized in the Jordan."** (*Μεγάλυνον ψυχή μου, τὸν ἐν Ἰορδάνῃ ἐλθόντα βαπτισθῆναι.*)  
-    **"Magnify, O my soul, Him Who asketh [receiveth] baptism from the Forerunner."** (*Μεγάλυνον ψυχή μου, τὸν ὑπὸ Προδρόμου τὸ βάπτισμα αἰτοῦντα [λαβόντα].*)  
+    **"Magnify, O my soul, Him Who asks [receives] baptism from the Forerunner."** (*Μεγάλυνον ψυχή μου, τὸν ὑπὸ Προδρόμου τὸ βάπτισμα αἰτοῦντα [λαβόντα].*)  
     **"Magnify, O my soul, Him to Whom the voice of the Father bore witness."** (*Μεγάλυνον ψυχή μου, τὸν ἐκ τῆς Πατρῴας φωνῆς μαρτυρηθέντα.*)  
     *[**"Magnify, O my soul, One of the Trinity Who bowed His head and received baptism."** (*Μεγάλυνον ψυχή μου, τὸν ἕνα τῆς Τριάδος, κλίναντα τὸν αὐχένα, καὶ βάπτισμα λαβόντα.*)]\*  
     *[**"O Prophet, come unto Me: stretch out thy hand and baptize Me swiftly."** (*Προφῆτα, δεῦρο πρός με, ἔκτεινον τὴν χεῖρα, καὶ βάπτισόν με τάχος.*)]\*  
     *[**"O Prophet, suffer it to be so now, and baptize Me willing: for I have come to fulfill all righteousness."** (*Προφῆτα, ἄφες ἄρτι, καὶ βάπτισόν με θέλων· πληρῶσαι καὶ γὰρ ἦλθον, πᾶσαν δικαιοσύνην.*)]\*  
 
-### For the Second Iambic Canon
+**For the Second Iambic Canon**
 
     **"Today the Master bows His head beneath the hand of the Forerunner."** (*Σήμερον ὁ Δεσπότης, κλίνει τὸν αὐχένα, χειρὶ τῇ τοῦ Προδρόμου.*)  
     **"Today John baptizes the Master in the streams of the Jordan."** (*Σήμερον Ἰωάννης, βαπτίζει τὸν Δεσπότην, ἐν ῥείθροις Ἰορδάνου.*)  
@@ -78,7 +78,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 === LEAF p325 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Ὄρθρος: Κατακλεὶς τῆς Θ΄ Ὠδῆς καὶ Τελετὴ τοῦ Μεγάλου Ἁγιασμοῦ [Violakis, p. 310]
 
@@ -98,7 +98,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 === LEAF p326 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Matins Concluded and the Service of the Great Blessing of the Waters [Violakis, p. 311]
 
@@ -118,7 +118,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 === LEAF p327 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Κατακλεὶς τοῦ Ἁγιασμοῦ καὶ Θεία Λειτουργία: Ἀντίφωνα α΄ καὶ β΄ [Violakis, p. 312]
 
@@ -126,7 +126,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 4.    Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα.
 
-### Ἀντίφωνον α΄. Ἦχος β΄.
+**Ἀντίφωνον α΄. Ἦχος β΄.**
 
     *Ἐν ἐξόδῳ Ἰσραὴλ ἐξ Αἰγύπτου, οἴκου Ἰακώβ.*
     *Ἐγενήθη Ἰουδαία ἁγίασμα αὐτοῦ.*
@@ -135,7 +135,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
     *Δόξα, Καὶ νῦν, Ταῖς πρεσβείαις τῆς Θεοτόκου κτλ.*
 
-### Ἀντίφωνον β΄. Ἦχος β΄.
+**Ἀντίφωνον β΄. Ἦχος β΄.**
 
     *Ἠγάπησα, ὅτι εἰσακούσεται Κύριος τῆς φωνῆς τῆς δεήσεώς μου.*
     *Ὅτι ἔκλινε τὸ οὖς αὐτοῦ ἐμοί, καὶ ἐν ταῖς ἡμέραις μου ἐπικαλέσομαι.*
@@ -146,14 +146,14 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 === LEAF p328 ===
 
-# Month of January: Holy Theophany (January 6)
+## Month of January: Holy Theophany (January 6)
 
 ## Blessing of the Waters Concluded and Divine Liturgy: Antiphons 1 and 2 [Violakis, p. 313]
 
 **"Glory to Thee, O Lord, glory to Thee!"** At the conclusion of the prayer, he immerses the Precious Cross with the sprinkler into the water vessel with three immersions and elevations, singing: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ βαπτιζομένου σου, Κύριε*), which the Choirs repeat once each. Then, blessing the people cruciformly with holy water and singing: **"Thou hast appeared today to the universe"** (*Ἐπεφάνης σήμερον τῇ οἰκουμένῃ*), he ascends the Throne, while the Choirs sing: **"Many years"** (*Εἰς πολλὰ ἔτη*); while the Hierarchs and the rest of the clergy are blessed with holy water by the Patriarch, the Choirs sing alternately with a slow, solemn melody the Troparion of the Eighth Ode: **"The manifestation of the Trinity"** (*Τριάδος ἡ φανέρωσις*), until all have been blessed; then the Second Choir chants the Dismissal Troparion: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and the Divine Liturgy of Saint John Chrysostom begins.
 4.    In the Divine Liturgy, the Antiphons:
 
-### First Antiphon. Tone 2
+**First Antiphon. Tone 2**
 
     *Verse 1:* **"When Israel went out of Egypt, the house of Jacob from a barbarian people."** (*Ἐν ἐξόδῳ Ἰσραὴλ ἐξ Αἰγύπτου, οἴκου Ἰακώβ*, Ps. 113:1 LXX)  
     *Verse 2:* **"Judea became His sanctuary, and Israel His dominion."** (*Ἐγενήθη Ἰουδαία ἁγίασμα αὐτοῦ, Ἰσραὴλ ἐξουσία αὐτοῦ*, Ps. 113:2 LXX)  
@@ -162,7 +162,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
     *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."** (*Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*)  
     *(Glory to the Father and to the Son and to the Holy Spirit, now and forever, and unto the ages of ages. Amen.)*
 
-### Second Antiphon. Tone 2
+**Second Antiphon. Tone 2**
 
     *Verse 1:* **"I am well pleased that the Lord will hear the voice of my prayer."** (*Ἠγάπησα, ὅτι εἰσακούσεται Κύριος τῆς φωνῆς τῆς δεήσεώς μου*, Ps. 114:1 LXX)  
     *Verse 2:* **"For He hath inclined His ear unto me, and in my days will I call upon Him."** (*Ὅτι ἔκλινε τὸ οὖς αὐτοῦ ἐμοί, καὶ ἐν ταῖς ἡμέραις μου ἐπικαλέσομαι*, Ps. 114:2 LXX)  
@@ -173,7 +173,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 === LEAF p329 ===
 
-# Month of January: Holy Theophany (January 6) & Synaxis of the Forerunner (January 7)
+## Month of January: Holy Theophany (January 6) & Synaxis of the Forerunner (January 7)
 
 ## Θεία Λειτουργία: Ἀντίφωνον γ΄, Εἴσοδος, Ἀπόλυσις καὶ Ἑσπερινὸς τοῦ Προδρόμου [Violakis, p. 314]
 
@@ -181,7 +181,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
     *Δόξα, Καὶ νῦν, Ὁ Μονογενὴς κτλ.*
 
-### Ἀντίφωνον γ΄. Ἦχος α΄.
+**Ἀντίφωνον γ΄. Ἦχος α΄.**
 
     *Ἐξομολογεῖσθε τῷ Κυρίῳ, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ.*
     *Εἰπάτω δὴ οἶκος Ἰσραήλ, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ.*
@@ -190,7 +190,7 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
     Εἰσοδικόν *Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι Κυρίου, Θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν. Σῶσον ἡμᾶς . . . κτλ*, τὸ Ἀπολυτίκιον *Ἐν Ἰορδάνῃ*, καὶ τὸ Κοντάκιον *Ἐπεφάνης σήμερον*· ἀντὶ τοῦ Τρισαγίου, ψάλλεται τὸ *Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε*, ὁ Ἀπόστολος καὶ τὸ Εὐαγγέλιον τῆς ἑορτῆς. Εἰς τὸ Ἐξαιρέτως, *Μεγάλυνον ψυχή μου τὴν τιμιωτέραν καὶ ἐνδοξοτέραν τῶν ἄνω στρατευμάτων Ἀπορεῖ πᾶσα γλῶσσα*, Κοινωνικὸν *Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ*· ἀντὶ τοῦ *Εἴδομεν τὸ φῶς*, λέγεται τὸ *Ἐν Ἰορδάνῃ*, καὶ Ἀπόλυσις.
 
-### Ἡ Σύναξις τοῦ τιμίου Προδρόμου.
+**Ἡ Σύναξις τοῦ τιμίου Προδρόμου.**
 
 5.    Τῇ αὐτῇ Παρασκευῇ ἑσπέρας, μετὰ τὸν Προοιμιακόν, εἰς τὸ *Κύριε ἐκέκραξα*, ψάλλομεν Ἰδιόμελα τῆς ἑορτῆς *Τὸν φωτισμὸν ἡμῶν* γ΄ καὶ τοῦ Προδρόμου Προσόμοια *Πανεύφημε Πρόδρομε Χριστοῦ* γ΄, *Δόξα*, *Ἔνσαρκε λύχνε*, *Καὶ νῦν*, *Θεὸς λόγος ἐπεφάνη ἐν σαρκί*, Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Μ. Προκείμενον *Ὁ Θεὸς ἡμῶν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ*, μετὰ τῶν Στίχων αὐτοῦ. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Στιχηρὰ Προσόμοια *Ὡς εἶδε σε Δέσποτα* καὶ τὰ ἕτερα β΄, *Δόξα*, *Ὡς τοῦ Πνεύματος ἐραστής*, *Καὶ νῦν*, *Δεῦτε μιμησώμεθα*, τὸ Ἀπολυτίκιον *Ἐν Ἰορδάνῃ*, τὸ τοῦ Προδρόμου *Μνήμη δικαίου*
 
@@ -198,24 +198,24 @@ Then the 3 Kathismata, the Anavathmoi (first Antiphon of Tone 4), the Prokeimeno
 
 === LEAF p330 ===
 
-# Month of January: Holy Theophany (January 6) & Synaxis of the Forerunner (January 7)
+## Month of January: Holy Theophany (January 6) & Synaxis of the Forerunner (January 7)
 
 ## Divine Liturgy Concluded and Vespers of the Synaxis of the Forerunner [Violakis, p. 315]
 
     *Refrain:* **"Save us, O Son of God, Who wast baptized by John in the Jordan, who sing to Thee: Alleluia."** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἰορδάνῃ ὑπὸ Ἰωάννου βαπτισθείς, ψάλλοντάς σοι, Ἀλληλούϊα.*)  
     *(Glory to the Father and to the Son and to the Holy Spirit, now and forever, and unto the ages of ages. Amen. Only-begotten Son and Immortal Word of God...)*
 
-### Third Antiphon. Tone 1
+**Third Antiphon. Tone 1**
 
-    *Verse 1:* **"O give thanks unto the Lord, for He is good, for His mercy endureth forever."** (*Ἐξομολογεῖσθε τῷ Κυρίῳ, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:1 LXX)  
-    *Verse 2:* **"Let the house of Israel now say that He is good, that His mercy endureth forever."** (*Εἰπάτω δὴ οἶκος Ἰσραήλ, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:2 LXX)  
-    *Verse 3:* **"Let the house of Aaron now say that He is good, that His mercy endureth forever."** (*Εἰπάτω δὴ οἶκος Ἀαρών, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:3 LXX)  
-    *Verse 4:* **"Let all that fear the Lord now say that He is good, that His mercy endureth forever."** (*Εἰπάτωσαν δὴ πάντες οἱ φοβούμενοι τὸν Κύριον, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:4 LXX)  
+    *Verse 1:* **"O give thanks unto the Lord, for He is good, for His mercy endures forever."** (*Ἐξομολογεῖσθε τῷ Κυρίῳ, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:1 LXX)  
+    *Verse 2:* **"Let the house of Israel now say that He is good, that His mercy endures forever."** (*Εἰπάτω δὴ οἶκος Ἰσραήλ, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:2 LXX)  
+    *Verse 3:* **"Let the house of Aaron now say that He is good, that His mercy endures forever."** (*Εἰπάτω δὴ οἶκος Ἀαρών, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:3 LXX)  
+    *Verse 4:* **"Let all that fear the Lord now say that He is good, that His mercy endures forever."** (*Εἰπάτωσαν δὴ πάντες οἱ φοβούμενοι τὸν Κύριον, ὅτι ἀγαθός, ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ*, Ps. 117:4 LXX)  
     *Refrain:* Dismissal Troparion of Theophany: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ βαπτιζομένου σου, Κύριε*).  
 
-    Little Entrance Verse: **"Blessed is He that cometh in the name of the Lord; the Lord is God, and hath appeared unto us. Save us, O Son of God, Who wast baptized by John in the Jordan, who sing to Thee: Alleluia."** (*Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι Κυρίου, Θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν. Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἰορδάνῃ ὑπὸ Ἰωάννου βαπτισθείς, ψάλλοντάς σοι, Ἀλληλούϊα*, Ps. 117:26, 27 LXX). The Dismissal Troparion: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and the Kontakion: **"Thou hast appeared today to the universe"** (*Ἐπεφάνης σήμερον*); instead of the Trisagion Hymn, we sing: **"All of you who have been baptized into Christ have put on Christ. Alleluia"** (*Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε, Χριστὸν ἐνεδύσασθε. Ἀλληλούϊα*, Galatians 3:27). The Epistle [Titus 2:11–14; 3:4–7] and the Gospel of the Feast [Matthew 3:13–17]. At **"Especially"**: **"Magnify, O my soul, Her that is more honorable and more glorious than the heavenly hosts. Every tongue is at a loss to praise Thee worthily"** (*Μεγάλυνον ψυχή μου τὴν τιμιωτέραν καὶ ἐνδοξοτέραν τῶν ἄνω στρατευμάτων. Ἀπορεῖ πᾶσα γλῶσσα...*). Communion Verse: **"The grace of God that bringeth salvation hath appeared unto all men"** (*Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ ἡ σωτήριος πᾶσιν ἀνθρώποις*, Titus 2:11); instead of **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), we sing: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and the Dismissal.
+    Little Entrance Verse: **"Blessed is He that comes in the name of the Lord; the Lord is God, and hath appeared unto us. Save us, O Son of God, Who wast baptized by John in the Jordan, who sing to Thee: Alleluia."** (*Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι Κυρίου, Θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν. Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἰορδάνῃ ὑπὸ Ἰωάννου βαπτισθείς, ψάλλοντάς σοι, Ἀλληλούϊα*, Ps. 117:26, 27 LXX). The Dismissal Troparion: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and the Kontakion: **"Thou hast appeared today to the universe"** (*Ἐπεφάνης σήμερον*); instead of the Trisagion Hymn, we sing: **"All of you who have been baptized into Christ have put on Christ. Alleluia"** (*Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε, Χριστὸν ἐνεδύσασθε. Ἀλληλούϊα*, Galatians 3:27). The Epistle [Titus 2:11–14; 3:4–7] and the Gospel of the Feast [Matthew 3:13–17]. At **"Especially"**: **"Magnify, O my soul, Her that is more honorable and more glorious than the heavenly hosts. Every tongue is at a loss to praise Thee worthily"** (*Μεγάλυνον ψυχή μου τὴν τιμιωτέραν καὶ ἐνδοξοτέραν τῶν ἄνω στρατευμάτων. Ἀπορεῖ πᾶσα γλῶσσα...*). Communion Verse: **"The grace of God that brings salvation hath appeared unto all men"** (*Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ ἡ σωτήριος πᾶσιν ἀνθρώποις*, Titus 2:11); instead of **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), we sing: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and the Dismissal.
 
-### The Synaxis of the Honorable Forerunner.
+**The Synaxis of the Honorable Forerunner.**
 
 5.    On that same Friday evening, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 3 Idiomela of the Feast: **"Our illumination"** (*Τὸν φωτισμὸν ἡμῶν*), and 3 Prosomoia of the Forerunner: **"O most praised Forerunner of Christ"** (*Πανεύφημε Πρόδρομε Χριστοῦ*); **"Glory"**: **"O torch incarnate"** (*Ἔνσαρκε λύχνε*); **"Both now and ever"**: **"God the Word appeared in the flesh"** (*Θεὸς λόγος ἐπεφάνη ἐν σαρκί*). Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Great Prokeimenon: **"Our God is in heaven and on earth; all things whatsoever He hath willed, He hath done"** (*Ὁ Θεὸς ἡμῶν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ, πάντα ὅσα ἠθέλησεν ἐποίησεν*, Ps. 113:11 LXX) with its verses. At the Aposticha: the 3 Prosomoia Stichira: **"When he saw Thee, O Master"** (*Ὡς εἶδέ σε Δέσποτα*) and the other two; **"Glory"**: **"As a lover of the Spirit"** (*Ὡς τοῦ Πνεύματος ἐραστής*); **"Both now and ever"**: **"Come, let us imitate the wise virgins"** (*Δεῦτε μιμησώμεθα*); the Dismissal Troparion of Theophany: **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), then that of the Forerunner: **"The memory of the righteous is celebrated with hymns of praise"** (*Μνήμη δικαίου μετ’ ἐγκωμίων*)...[^224]
 

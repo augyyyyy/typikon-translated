@@ -38,7 +38,7 @@ Even as He Who pre-called thee pre-ordained, thou wast a pre-possession of immor
 === LEAF p292 ===
 ...we celebrate thy divine memory.[^1980]
 
-*Glory... Of Saint Cyril, Tone and Podoben the same:*
+*Glory... Of Saint Cyril, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Thou didst refute the deceit of heresies, and didst make clear the Orthodox faith, as one God-proclaiming and pious; thou didst preach in the world that one Godhead in Trinity is to be glorified, consubstantial in essence, and unconfused in Persons; therefore, having come together, O all-glorious Cyril, we honor thy memory.[^1981]
 
 *Both now... Theotokion:*

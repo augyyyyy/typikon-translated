@@ -93,7 +93,7 @@ Desiring to show forth Thy glory unto the disciples, with Moses and Elijah upon 
 *Verse: Tabor and Hermon shall rejoice in Thy Name [LXX Ps. 88:13].*  
 Today Christ upon Mount Tabor hath renewed the darkened nature of Adam, and having enlightened it, made it divine.
 
-*Glory... Both now... the same tone and podoben [Tone 2]:*  
+*Glory... Both now... the same tone and podoben [Tone 2] (Гла́съ и҆ подо́бенъ то́йже):*
 Tabor, the mountain of God, rejoices in Thy name, O Savior, having proclaimed Thee the beloved Son unto the Father.
 
 *At the Liturgy, the Beatitudes of the Feast: Ode 7 and Ode 8,[^382] from both canons, with the heirmos on 6.*

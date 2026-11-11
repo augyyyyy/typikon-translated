@@ -986,7 +986,7 @@ Let us all sing a song of victory unto God, Who wrought marvelous wonders with a
 *To Athanasius the Recluse of the Caves*
 
 *Troparia:*
-Unto them that now desire to sing thy fitting falling asleep with blessed mouths, O father, not a song, but compunction do thou grant, as they pray and cry out now in the day of thy solemnity, wherein thy memory is glorified.
+Despise me not, O father, who now desire with lips of clay to sing thy twofold falling asleep, but have compassion; I pray thee, crying out now on the day of thy solemnity, wherein thy memory was glorified.
 
 Understanding that human life in this world is cut down by the axe of death, O venerable one, that thou mightest crush the passions by thyself, thou didst run unto the firm rock; and by most marvelous virtues escaping the assault of death, thou singest unto God, for He hath been glorified.
 
@@ -4131,7 +4131,7 @@ Appear unto us at this hour, O All-Pure Virgin, and receiving the praises offere
 
 ...having thee as our speedy advocate and intercessor for our souls.
 
-*After the Polyeleos, Sessional Hymn, Tone 4. The same Podoben:*
+*After the Polyeleos, Sessional Hymn, Tone 4. The same Podoben (Подо́бенъ то́йже):*
 The enclosed garden of the Mother of God brought forth for us two unfading flowers, Theodore and Basil, the noble martyrs, wherewith monastics are filled with joy, and the marvelous monastery is made fragrant; whom the people honor with praises, receiving healing from their relics, and having them as fervent intercessors unto God.[^436]
 
 *Glory, both now: Of the Feast, or this Theotokion:*
@@ -5978,7 +5978,7 @@ Eighteenth-century brown calfskin binding over heavy wooden boards. The outer bo
 
 [^380]: Fol. 95r (p99): Theotokion following Kathisma 1 Sessional Hymn, invoking the painless birthgiving of the Virgin Mary to soothe painful illnesses.
 
-[^381]: Fol. 95r (p99): Sessional Hymn after Kathisma 2, Tone 3. Podoben model: "Speedily anticipate" (*Ταхὺ προκατάλαβε*).
+[^381]: Fol. 95r (p99): Sessional Hymn after Kathisma 2, Tone 3. Podoben model: "Speedily anticipate" (*Ταχὺ προκατάλαβε*).
 
 [^382]: Fol. 95v (p100): Sessional Hymn after the Polyeleos, Tone 8. Podoben model: "Having reclined on Wisdom" (*Премꙋ́дрости возле́гъ* / *Τῇ σοφίᾳ προσκλιθείς*).
 
@@ -6654,7 +6654,7 @@ Eighteenth-century brown calfskin binding over heavy wooden boards. The outer bo
 
 [^718]: Tone 8 Resurrectional Dogmatic Theotokion at Lord, I have cried (Богородичен догматик, глас 8: «Царь небесный за человеколюбие на земли явися...»). Greek: Ὁ Βασιλεὺς τῶν οὐρανῶν, διὰ φιλανθρωπίαν... The text breaks across the spread boundary from the foot of Fol. 127r to the head of Fol. 127v.
 
-[^719]: Tone 8 Resurrectional Aposticha Theotokion (Богородичен на стиховне, глас 8: «Безневестная Дево, яже Бога неизреченно заченши плотию...»). Greek: Ἀνύμφευτε Παρθένε, ἡ τὸν Θεὸн ἀφράστως...
+[^719]: Tone 8 Resurrectional Aposticha Theotokion (Богородичен на стиховне, глас 8: «Безневестная Дево, яже Бога неизреченно заченши плотию...»). Greek: Ἀνύμφευτε Παρθένε, ἡ τὸν Θεὸν ἀφράστως...
 
 [^720]: Liturgical section heading: The eight Resurrectional Dismissal Theotokia (Богородичны воскресны отпустительныя по тропарех святых, осми гласов; Greek: Θεοτοκία Ἀπολυτίκια τῶν ὀκτὼ ἤχων), chanted at Vespers, Matins, and the Divine Liturgy after the Troparion of the Day or of a Saint.
 
@@ -6662,7 +6662,7 @@ Eighteenth-century brown calfskin binding over heavy wooden boards. The outer bo
 
 [^722]: Allusion to Psalm 131:8 (LXX: ἀνάστηθι, Κύριε, εἰς τὴν ἀνάπαυσίν σου, σὺ καὶ ἡ κιβωτὸς τοῦ ἁγιάσματός σου; Slavonic: «Воскресни, Господи, в покой твой, ты и кивот святыни твоея»).
 
-[^723]: Tone 2 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 2: «Вся паче смысла, вся преславная твоя Богородице таинства...»). Greek: Πάντα ὑπὲρ ἔνноιαν, πάντα ὑπερένδοξα...
+[^723]: Tone 2 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 2: «Вся паче смысла, вся преславная твоя Богородице таинства...»). Greek: Πάντα ὑπὲρ ἔννοιαν, πάντα ὑπερένδοξα...
 
 [^724]: Tone 3 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 3: «Тя ходатайствовавшую спасение рода нашего...»). Greek: Σὲ τὴν μεσιτεύσασαν τὴν σωτηρίαν...
 
@@ -6674,8 +6674,8 @@ Eighteenth-century brown calfskin binding over heavy wooden boards. The outer bo
 
 [^728]: Direct citation of the Parable of the Lost Drachma in Luke 15:8–9 (LXX / Slavonic: «срадуйтеся мне, яко обретеся погибшая драхма»).
 
-[^729]: Tone 7 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 7: «Яко нашего воскресения сокровище...»). Greek: Ὡς τῆς ἡμῶν ἀнаστάσεως θησαύρισμα...
+[^729]: Tone 7 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 7: «Яко нашего воскресения сокровище...»). Greek: Ὡς τῆς ἡμῶν ἀναστάσεως θησαύρισμα...
 
-[^730]: Tone 8 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 8: «Иже нас ради рождейся от Девы...»). Greek: Ὁ δι' ἡμᾶς γεννηθεὶς ἐк Παρθένου...
+[^730]: Tone 8 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 8: «Иже нас ради рождейся от Девы...»). Greek: Ὁ δι' ἡμᾶς γεννηθεὶς ἐκ Παρθένου...
 
 [^731]: Codicological concluding colophon of the 1763 Kyiv-Pechersk Lavra edition of the Services to the Caves Fathers («Конец и Богу слава»; Latin: Finis et Deo gloria), adorned below with an elaborate rococo woodcut floral tailpiece cartouche marking the completion of the liturgical imprint on Fol. 128v.

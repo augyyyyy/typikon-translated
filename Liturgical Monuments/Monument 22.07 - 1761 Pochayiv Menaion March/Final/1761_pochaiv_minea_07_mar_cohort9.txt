@@ -64,7 +64,7 @@ The law of praises is overcome by thy divine glory, O Virgin; but as thou art go
 *The Translation of the Relics of our Father among the Saints Nicephorus, Patriarch of Constantinople.*[^188]
 
 *At "Lord, I have cried," Stichera, Tone 1:*
-*Tone 1, Podoben: "Joy of the heavenly hosts" (Nebesnykh chinov):*
+*Tone 1, Podoben: "Joy of the heavenly hosts" (Небє́сныхъ чинѡ́въ):*
 The streams of thy wisdom, drawn by noetic clouds, pour forth unto the world a fountain of Orthodoxy; drawing sweetness from which, we faithful turn away from the outflow of heresies as from abominable waters.
 
 Thy most honorable body, lying in the tomb, did not see corruption at all, but was found whole, O all-blessed Nicephorus; bringing which with diligence, the foster-children of Orthodoxy rejoiced, gloriously blessing thee, O God-wise one.
@@ -112,7 +112,7 @@ As of old Israel carried the body of divine, chaste Joseph, so now the Church of
 Being the temple and sacred dwelling of the Word, O Mother of God, cleansing of transgressions, be thou my protection, O Ever-Virgin!
 
 *Sessional Hymn, Tone 3:*
-*Tone 3, Podoben: "Of the divine faith" (Bozhestvennyia very):*
+*Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры):*
 With victories thou didst crown the Church, having driven away the delusion of evil doctrine, becoming a sacred trophy-bearer; and having sanctified the ends of the world by the translation of thy holy relics, O venerable father: entreat Christ God to grant us great mercy.[^198]
 
 *Glory... Both now... Theotokion:*
@@ -167,7 +167,7 @@ As brighter than shining pearls and stones, O wise one, having thy shrine and du
 The ineffable manner of thy childbirth do the tongues of earthborn and of angels honor, glorifying thee who hast become the Sovereign Lady of all creation.
 
 *Kontakion, Tone 4:*
-*Tone 4, Podoben: "The angelic choir" (Lik angel'skii):*
+*Tone 4, Podoben: "The angelic choir" (Ли́къ а҆́гг҃льскїй):*
 The patriarchal choir honors thy holy memory with praises and songs, O Nicephorus, in the trans...
 
 === LEAF p86 === (Fol. 42v)
@@ -228,7 +228,7 @@ Having acquired thee, O all-hymned and pure one, as a strong protection, as hope
 *Our Venerable Father Benedict [of Nursia].*[^215]
 
 *At "Lord, I have cried," Stichera, Tone 2:*
-*Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 With faith and true love, having renounced the world from infancy, O venerable father, thou didst joyfully follow Christ Who was crucified; and having mortified the flesh with many ascetic struggles, thou didst richly receive the grace of healings to soothe diverse infirmities and drive away evil spirits, being greatly admired.[^216]
 
 === LEAF p88 === (Fol. 43v)
@@ -241,10 +241,10 @@ Having become the beauty of monastics, thou didst assemble an innumerable multit
 
 As of old Elijah, O father, thou didst bring down rain from heaven by divine prayer, and didst make the vessel pour forth oil; and thou didst raise up a dead man, and didst work very many other wonders, unto the glory of the Savior and God of all, O venerable one; therefore we celebrate thy glorious memory with love, O Benedict.[^217]
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 O Joy of all that sorrow, and Protection of the wronged, and Nourisher of the poor, Comfort of strangers, and Staff of the blind, Visitation of the sick, Shelter and Protectress of the laboring, and Helper of orphans: thou art the Mother of God on high, O all-pure one! Hasten, we pray, that thy servants may be saved!
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 Beholding the Creator of all, Who endured many offenses and was lifted up upon the Cross, the all-pure one groaned, weeping: O all-hymned Lord, my Son and my God, how, desiring to honor Thy creation, O Master, sufferest Thou dishonor in the flesh? Glory to Thy great compassion, and to Thy condescension, O Lover of mankind!
 
 *Canon. Whose acrostic is: "A song I bring unto wise Benedict." The work of Joseph.*[^218]
@@ -281,7 +281,7 @@ Watered with the streams of thy tears like a fruitful tree, O Benedict, thou did
 The only Good One, being incarnate, passed through thy womb, O all-immaculate one, and was seen as perfect man: Whom do thou entreat that they who sing of thee may be saved.
 
 *Sessional Hymn, Tone 1:*
-*Tone 1, Podoben: "The stone being sealed" (Kameni zapechatannu):*
+*Tone 1, Podoben: "The stone being sealed" (Ка́мени запеча́танꙋ):*
 Having lived in a manner pleasing unto God as a monk, thou didst pass thy life virtuously, and didst receive the grace of healings, O Benedict, having wrought terrible wonders; and having gathered a sacred monastery, thou didst lead unto the Lord multitudes of the saved, O most rich one. Glory to God Who enlightened thee! Glory to Him Who crowned thee! Glory to Him Who glorified thy holy memory![^221]
 
 *Glory... Both now... Theotokion:*

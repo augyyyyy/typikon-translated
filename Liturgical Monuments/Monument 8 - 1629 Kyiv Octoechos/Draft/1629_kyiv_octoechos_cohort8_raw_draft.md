@@ -180,7 +180,7 @@ With tears the women, having reached the tomb, sought Thee; and finding Thee not
 
 *Theotokion:*
 
-Grant consolation unto Thy servants, O all-blameless one, calming the fierce assaults against us, and delivering us from every sorrow; for thee alone do we hold as a firm and unshakable foundation, and we have acquired thy protection; let us not be put to shame, O Sovereign Lady, who call upon thee; hasten unto the prayer of those that cry unto thee: Rejoice, O Sovereign Lady, helper of all, the joy and protection of our souls!
+Grant consolation unto thy servants, O all-blameless one, calming the fierce assaults against us, and delivering us from every sorrow; for thee alone do we hold as a firm and unshakable foundation, and we have acquired thy protection; let us not be put to shame, O Sovereign Lady, who call upon thee; hasten unto the prayer of those that cry unto thee: Rejoice, O Sovereign Lady, helper of all, the joy and protection of our souls!
 
 **[Right Page — Fol. 76r]**
 
@@ -254,7 +254,7 @@ As the one true Creator of all, Upholder, all-wise Pilot, and Giver of life: we 
 
 *Theotokion:*
 
-Wishing to deify man who of old had decayed, whom for His goodness He had created, Thy Son, O Virgin, showing forth the image of the divine likeness, became Man from thee, and proclaimed the one tri-hypostatic divine Principle.
+Wishing to deify man who of old had decayed, whom for His goodness He had created, thy Son, O Virgin, showing forth the image of the divine likeness, became Man from thee, and proclaimed the one tri-hypostatic divine Principle.
 
 *Ode 6. Heirmos: The abyss:*
 

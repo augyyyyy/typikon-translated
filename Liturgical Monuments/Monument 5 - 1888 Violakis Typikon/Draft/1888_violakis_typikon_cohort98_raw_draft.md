@@ -4,7 +4,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 9 Μαρτίου (Συνέχεια), 25 Μαρτίου (Μέρος Α΄) [Violakis, p. 956]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 
 ## The Chart of the Feasts: 9 March (Conclusion), 25 March (Part 1) [Violakis, p. 957]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -81,7 +81,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαρτίου (Μέρος Β΄) [Violakis, p. 958]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@
 
 ## The Chart of the Feasts: 25 March (Part 2) [Violakis, p. 959]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -162,7 +162,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Μαρτίου (Τέλος), 23 Ἀπριλίου (Μέρος Α΄) [Violakis, p. 960]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -197,7 +197,7 @@
 
 ## The Chart of the Feasts: 25 March (Conclusion), 23 April (Part 1) [Violakis, p. 961]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -235,7 +235,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 23 Ἀπριλίου (Τέλος) [Violakis, p. 962]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -272,7 +272,7 @@
 
 ## The Chart of the Feasts: 23 April (Conclusion) [Violakis, p. 963]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -312,7 +312,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 25 Ἀπριλίου (Μέρος Α΄) [Violakis, p. 964]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -343,7 +343,7 @@
 
 ## The Chart of the Feasts: 25 April (Part 1) [Violakis, p. 965]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |

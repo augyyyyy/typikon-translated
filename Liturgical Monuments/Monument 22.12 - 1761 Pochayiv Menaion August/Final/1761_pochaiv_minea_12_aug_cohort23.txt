@@ -35,14 +35,14 @@ Jesus Christ came forth from thee incarnate, and deified us by the assumption of
 *Kontakion of the Prophet, Tone 8:*[^679]
 As a most precious gift, thou wast dedicated unto God before conception, and from infancy thou didst serve Him as an angel, O all-blessed one, and wast counted worthy to foretell future things. Therefore we cry unto thee: Rejoice, O Samuel, prophet of God, great high priest!
 
-*Sessional Hymn, Tone 3, Podoben: "Of divine faith" (Bozhestvennyya very):*
+*Sessional Hymn, Tone 3, Podoben: "Of divine faith" (Бж҃е́ственныѧ вѣ́ры):*
 The Law's...
 
 === LEAF p222 ===
 *(Fol. 109v)*
 ...The Law's judgments having nurtured thee, thou didst show thyself to be a venerable chrism; having served as priest like Aaron, and having enlightened thy heart by the Spirit, thou didst foresee distant things as present, O venerable prophet. Entreat Christ God to grant our souls peace and great mercy.
 
-*Glory... Both now... the same Tone [Tone 3], Podoben: "Awed by the beauty" (Krasote devstva):*[^680]
+*Glory... Both now... the same Tone [Tone 3], Podoben: "Awed by the beauty" (Красотѣ̀ дв҃ства):*[^680]
 In thy birthgiving was a seedless conception, and in thy dormition an incorrupt mortality: a twofold wonder met together in a wonder, O Mother of God. For how canst thou be unwedded, yet be a pure nourisher of a babe? And how can the Mother of God be a corpse exuding myrrh? Therefore with the angel we cry unto thee: Rejoice, O full of grace!
 
 *Ode 4. Heirmos:*[^681]
@@ -230,13 +230,13 @@ Thou wast taken up unto light-bestowing mansions, and didst stand brighter than 
 *Theotokion:*
 Knowing no man's corruption, thou didst receive in thy womb the incorrupt Word, Who delivers us from many sins which corrupted us, through the suffering of His incorrupt flesh, O only incorrupt and all-immaculate one.
 
-*Exapostilarion, Tone 3, Podoben: "O Heaven with stars" (Nebo zvezdami):*[^701]
+*Exapostilarion, Tone 3, Podoben: "O Heaven with stars" (Не́бо звѣзда́ми):*[^701]
 Let Samuel be sung, the gift given unto God the Most High before conception by his all-glorious mother, who anointed kings as priest and prophet.
 
 *Glory... Both now... of the Feast:*[^702]
 Ye Apostles, assembled here from the ends of the earth in the village of Gethsemane, bury my body; and Thou, my Son and God, receive my spirit.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfrathov):*[^703]
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*[^703]
 O pure one, above natural are thy mysteries; for as the Mother of God, O Birthgiver of God, thou hast now radiantly passed over unto Him.
 
 *Verse: Arise, O Lord, into Thy rest, Thou, and the ark of Thy holiness.*[^704]
@@ -245,7 +245,7 @@ The tomb of the all-pure Mother of God is a ladder unto heaven, leading up those
 *Verse: The Lord has sworn in truth unto David, and He will not turn away from it.*[^705]
 When thou wast translated unto Him Who was born of thee, the Apostles came together upon the clouds to bury thy body.
 
-*Glory... Both now... the same Tone and Podoben:*
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 All ye earthborn, let us run eagerly together with the bodiless hosts, to bury together the Mother of the Master.
 
 *At the Liturgy: The Beatitudes of the Feast, Ode 6 of both Canons, with the heirmos on 6.*
@@ -253,14 +253,14 @@ All ye earthborn, let us run eagerly together with the bodiless hosts, to bury t
 === LEAF p228 ===
 *(Fol. 112v)*
 *The same month, on the 21st day. The Holy Apostle Thaddaeus, and the Holy Martyr Bassa:*[^706]
-*At "Lord, I have cried," Stichera of the Apostle, Tone 8, Podoben: "O marvelous wonder" (O preslavnago chudese):*[^707]
+*At "Lord, I have cried," Stichera of the Apostle, Tone 8, Podoben: "O marvelous wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*[^707]
 O blessed Apostle Thaddaeus, drawing near unto the supreme Light, thou wast truly a second light by divine communion; and having destroyed the night of polytheism, thou didst bring souls unto the Almighty. Therefore rejoicing, we honor thy radiant, notable, and light-bearing memory, glorifying Christ.
 
 O blessed Thaddaeus, who received God, after Christ's divine and light-bearing Resurrection and most holy Ascension into heaven, thou didst entrust the divine preaching unto the city of Edessa; having arrived therein, by words and miracles thou didst establish Prince Abgar of that place, and with him all the people, unto the truth.[^708]
 
 O blessed Thaddaeus, divinely wise, granting sight unto the blind by thy divine touch, walking unto the lame, health unto the paralyzed, restoration unto the bedridden, and saving understanding unto the unlearned; for thou wast filled with the gifts of the all-working Spirit, O most rich one; therefore we hymn thee.
 
-*Other Stichera of the Saint, Tone 4, Podoben: "Thou hast given a sign" (Dal yesi znameniye):*[^709]
+*Other Stichera of the Saint, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*[^709]
 Thou didst endure the suffering of many tortures, O all-praised one, approaching valiantly; whence thou hast passed over unto painless rest, unwaning radiance, bright joy, and eternal divine delight. Therefore we call thee blessed, and celebrate today thy holy feast, O passion-bearer acceptable unto God.[^710]
 
 After many painful and diverse tortures, having been cast into the sea, God, the Savior of all, saved thee, who didst trample the power of the stranger by divine power, O much-suffering Bassa. And thence thou didst enlighten the minds of the pious, having accomplished signs beyond mind and thought.
@@ -274,7 +274,7 @@ As a sweet-singing bird, having sounded forth in the vine of beautiful suffering
 *Glory... Both now... Tone 6:*
 Come, let us celebrate the universal dormition of the all-immaculate Mother of God: for today the angels make festival over the honorable translation of the Mother of God, and summon us earthborn mortals unto rejoicing, to cry with unceasing voice: Rejoice, thou who hast been translated from earth and removed unto heavenly mansions! Rejoice, thou who by a light cloud didst gather into one the choir of disciples! Rejoice, our hope and salvation; for the Christian race unceasingly calls thee blessed.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Yegda ot dreva):*[^711]
+*At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*[^711]
 Come, all ye light-bearers, with sacred hymns and cymbals let us honor the much-hymned dormition of the Mother of God: for she is translated from earth, and by the immaterial hosts she is settled and takes up her dwelling in glory, beholding the divine beauty, and pouring forth grace unto all who faithfully honor her memory.
 
 *Verse: Arise, O Lord, into Thy rest, Thou, and the ark of Thy holiness.*[^712]
@@ -296,11 +296,11 @@ O holy Apostle Thaddaeus, entreat the merciful God to grant our souls remission 
 *Glory... Both now... of the Feast, Tone 1:*[^716]
 In giving birth thou didst preserve virginity, in thy dormition thou didst not forsake the world, O Mother of God: thou hast passed over unto life, being the Mother of Life, and by thy prayers thou deliverest our souls from death.
 
-*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Skoro predvari):*[^717]
+*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*[^717]
 By the command of her Creator, Who was born of thee, a cloud gathered the Apostles to behold thy translation. Therefore having buried with glory and great joy, hymning the most pure body of thy blessedness, O Mother of Christ God.
 *Glory... Both now... the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, the same Tone [Tone 4], Podoben: "Joseph was amazed" (Udivisya Iosif):*[^718]
+*After the 2nd Kathisma, Sessional Hymn, the same Tone [Tone 4], Podoben: "Joseph was amazed" (Оу҆диви́сѧ І҆ѡ́сифъ):*[^718]
 The apostolic choir, dispersed throughout the earth, gathered in Zion to escort from earth the Mother of God unto the Most High, Whom she bore. The super-mundane heavenly hosts ran before, and together made chorus, crying spiritually: Rejoice, ye heavens, having received the Mother of God, Who exercises dominion over things visible and invisible!
 *Glory... Both now... the same.*
 

@@ -12,7 +12,7 @@
 
 [^5]: In accordance with Ruthenian printing tradition, the Table of Contents (*Оглавленїе*) provides the folio references for each category of the Common Services, followed by the appendices of Theotokia.
 
-[^6]: The melodic model (*Podoben*) heading designates the common Tone 4 prosomoion *Зва́нный свы́ше* (*Called from on high*, Greek *Ὁ ἐξ ὑψίστου κληθείс*).
+[^6]: The melodic model (*Podoben*) heading designates the common Tone 4 prosomoion *Зва́нный свы́ше* (*Called from on high*, Greek *Ὁ ἐξ ὑψίστου κληθείς*).
 
 [^7]: The abbreviation *(И҆́мⷶ)* represents *И҆́мярекъ* (*Name*), the liturgical variable placeholder where the celebrant or reader inserts the specific name of the prophet being commemorated.
 
@@ -82,7 +82,7 @@
 
 [^40]: The rubrical distribution for the Matins Canons: four troparia are sung from the canon of the Theotokos (drawn from the Oktoechos or the Theotokion appendix), and eight troparia are sung from the canon of the Apostle.
 
-[^41]: Ode 1 Heirmos of Tone 8, *Пѣ́снь возсле́мъ лю́дїе* (*Let us send up a song, O ye peoples*, Greek *ᾎσμα ἀναπέмψωμεν λαοί*).
+[^41]: Ode 1 Heirmos of Tone 8, *Пѣ́снь возсле́мъ лю́дїе* (*Let us send up a song, O ye peoples*, Greek *ᾎσμα ἀναπέμψωμεν λαοί*).
 
 [^42]: Ode 3 Heirmos of Tone 8, *Нѣ́сть ст҃ъ ꙗ҆́кѡ Гдⷭ҇ь* (*There is none holy like the Lord*, Greek *Οὐκ ἔστιν ἅγιος ὡς ὁ Κύριος*).
 
@@ -746,7 +746,7 @@
 
 [^372]: Melodic model witness: Slavonic *Всехва́льніи мч҃нцы* (*Vsekhvalnïi muchenitsy*), Tone 1; Greek: Πανεύφημοι μάρτυρες (*Paneuphēmoi martyres*).
 
-[^373]: Melodic model witness: Slavonic *Ꙗ҆́кѡ до́бла* (*Iako dobla*), Tone 4; Greek: Ὡς γενнаῖον ἐν μάρτυσιν (*Hōs gennaion en martysin*).
+[^373]: Melodic model witness: Slavonic *Ꙗ҆́кѡ до́бла* (*Iako dobla*), Tone 4; Greek: Ὡς γενναῖον ἐν μάρτυσιν (*Hōs gennaion en martysin*).
 
 [^374]: Common Troparion for a Single Venerable Father / Venerable-Martyr, Tone 8: Slavonic *Въ тебѣ̀ ѻ҆́ч҃е и҆звѣ́стнѡ спасе́ся* (*V tebѣ otche izvѣstno spasesia*); Greek: Ἐν σοὶ Πάτερ ἀκριβῶς διεσώθη (*En soi Pater akribōs diesōthē*).
 

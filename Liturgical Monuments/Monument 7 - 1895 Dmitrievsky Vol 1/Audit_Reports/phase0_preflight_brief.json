@@ -1,0 +1,49 @@
+{
+  "monument_id": "1895_dmitrievsky_vol1",
+  "title": "1895 Opisanie Liturgicheskikh Rukopisei Vol. 1: Typika (Aleksei Dmitrievsky)",
+  "generated_at_utc": "2026-11-10T21:37:09.914326+00:00",
+  "routing_phase": "PHASE_0_ARGON_PLANNING_LOCKED",
+  "max_vision_leaves": 8,
+  "max_vision_batches": 2,
+  "vision_batches_executed": [
+    {
+      "batch": 1,
+      "leaves": [
+        "Page_0001.jpg",
+        "Page_0002.jpg",
+        "Page_0003.jpg",
+        "Page_0004.jpg",
+        "Page_0005.jpg"
+      ]
+    },
+    {
+      "batch": 2,
+      "leaves": [
+        "Page_1088.jpg",
+        "Page_1089.jpg",
+        "Page_1090.jpg"
+      ]
+    }
+  ],
+  "total_physical_pages": 1090,
+  "raster_vault_verified": true,
+  "raster_count_verified": 1090,
+  "epigraphic_profile": {
+    "imprint": "Kyiv: Typography of G. T. Korchak-Novitsky, Mikhailovskaya St. No. 4, 1895",
+    "author_editor": "Docent of the Kyiv Theological Academy Aleksei Dmitrievsky",
+    "languages": [
+      "Pre-1918 Russian scholarly apparatus",
+      "Byzantine Greek diplomatic Typikon editions",
+      "Church Slavonic (15th-c. St. Andrew Skete MS)"
+    ],
+    "front_matter": "Title Page (p1), Table of Contents pp. I-II (p2-p3), Scholarly Preface pp. I-CXLVII (beginning p4-p5)",
+    "body_witnesses": "16 Patriarchal and Ktetoric Monastic Typika (Patmos 266 Great Church, Sinai 150 Kanonarion, St. Sabbas Testament Sinai 1096, Studite Hypotyposis, Athonite Diatyposis, Evergetis Athens 788, Pantokrator, St. Mamas, Elegmoi, Mt. Auxentios, Turin 216, Barberini, Vallicelliana, Vatican, Vienna, Grottaferrata A.II.7), Book pp. 1-912",
+    "rear_apparatus": "Errata, Corrigenda & Additions (Опечатки, поправки и дополненія) pp. I-XXV, concluding on leaves p1088-p1090 (pp. XXIII-XXV)"
+  },
+  "gate0_assessment": {
+    "status": "DEFERRED_TO_DEDICATED_HYBRID_SESSION",
+    "stratification_tier": "Tier 3 (Complete Clean-Slate Re-Run Required)",
+    "rationale": "Authentic monumental edition of 16 primary Byzantine/Slavonic Typika with 147-page Russian scholarly prolegomena (1,090 leaves total). Requires dedicated 3-Phase Bookend execution (Argon Phase 0 /grill-me on front-matter prolegomena vs. diplomatic Greek witnesses -> UI switch to Gemini 3.8 Flash for 109 ten-leaf cohorts -> Argon Phase 2 audit)."
+  },
+  "pre_rerun_archive": "archive/pre_rerun_20261110_213709"
+}

@@ -1,7 +1,7 @@
 === LEAF p71 ===
 
-#### [Left Page — Folio 70v]
-##### Column A
+**[Left Page — Folio 70v]**
+**Column A**
 ...Persons. Join my voices thereto: a Seraph was sent to proclaim the thrice-radiant Essence and the thrice-sunny Unity.[^88]
 *Glory:*
 "O Thrice-sunny Unity, Who of old didst bring into being out of non-existence the nature of things visible and invisible: deliver from every assault them that cry unto Thee in faith as the one God, to Whose glory Thou art like."
@@ -16,11 +16,11 @@
 *Both now:*
 "Open unto me the gates of the light born of thy womb, O all-pure one: that I may behold the thrice-radiant light of the Godhead, and glorify thee as Lady of all."
 
-##### Column B
+**Column B**
 *Sessional Hymn, Tone 3. Podoben: At the beauty of virginity:*
 "Having cleansed him as Thou art merciful, deliver Thy righteous servant from those ages, and cast him not into the fire of Gehenna: for Thou alone, O Christ, art abundantly merciful."
 *Glory: Both now: Theotokion:*
-"Grant me teaching of groaning, as unto the Publican, O Virgin, and tears of the harlot: that bringing forth Thy judgment, I may cry: 'Have mercy on me, O all-merciful one, and lead me forth from my perplexity by this thy grace, granting me a stream of compunction; for unto thee have I fled, O all-pure one!' "
+"Grant me teaching of groaning, as unto the Publican, O Virgin, and tears of the harlot: that bringing forth thy judgment, I may cry: 'Have mercy on me, O all-merciful one, and lead me forth from my perplexity by this thy grace, granting me a stream of compunction; for unto thee have I fled, O all-pure one!' "
 
 *Ode 7. Heirmos:*
 *"As of old the pious..."*
@@ -35,8 +35,8 @@
 *"In the unenduring fire..."*
 "The unoriginate Father, as root, the Word, and the Spirit, being co-unoriginate
 
-#### [Right Page — Folio 71r]
-##### Column A
+**[Right Page — Folio 71r]**
+**Column A**
 by nature, as the clarity of the super-essential Godhead, showed forth the one glory and power of the Trinity, Whom we all sing of, strengthen unto the ages."
 *Glory:*
 "Thou dost direct by Thy bright ranks the heavenly orders to sing unceasingly with thrice-holy divine hymns: O Father, Word of like form, and Spirit, the thrice-radiant and equal-in-power dominion; therefore we sing of Thee unto all ages."
@@ -51,7 +51,7 @@ by nature, as the clarity of the super-essential Godhead, showed forth the one g
 *Both now:*
 "Show me forth as a temple of Thy monarchical and all-bright Godhead, O Knower of all things: teach me to serve Thee, the Creator
 
-##### Column B
+**Column B**
 of the ages, and spiritually to behold Thine unutterable glory, through the intercessions of the only Theotokos, whom worthily, as most glorious, we magnify."
 
 # AT MATINS
@@ -67,8 +67,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *After the Second Kathisma, Resurrection Sessional Hymns:*
 === LEAF p72 ===
 
-#### [Left Page — Folio 71v]
-##### Column A
+**[Left Page — Folio 71v]**
+**Column A**
 *Resurrectional, Tone 3:*[^90]
 "Having tasted death in the flesh, O Lord, Thou didst cut off the bitterness of death by Thy rising, and didst strengthen man against it, calling back the overthrow of the ancient curse, O Defender of our life: O Christ God, glory to Thee!"
 *Glory:*
@@ -83,7 +83,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Antiphon 1:*
 "The captivity of Sion hast Thou delivered from Babylon: and draw Thou me also out of passions unto life, O Word."
 
-##### Column B
+**Column B**
 "They that sow in the south with divine tears shall reap sheaves of life with joy and singing."
 "To the Holy Spirit is every thanksgiving, as He shines forth together with the Father and the Son, in Whom all things live and move."
 *Antiphon 2:*
@@ -101,8 +101,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *The Gospel. And the rest in order.*
 *Canon*
 
-#### [Right Page — Folio 72r]
-##### Column A
+**[Right Page — Folio 72r]**
+**Column A**
 # CANON OF THE RESURRECTION
 *Tone 3.*[^93]
 *Ode 1. Tone 3. Heirmos:*
@@ -118,7 +118,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "The human race falling under the sin-catching tormentor, Christ redeemed with His divine blood, and He hath renewed them that were His own creation, for He hath been glorified."
 "Christ was seen mortal indeed, willing death, He Who is the treasury of life; and as immortal in Godhead, He hath quickened the dead, for He hath been glorified."
 
-##### Column B
+**Column B**
 # ANOTHER CANON TO THE ALL-HOLY THEOTOKOS
 *Tone 3. The same Heirmos:*
 "Every nature of heavenly beings bows the knee, O Virgin, unto Him Who was incarnate incorruptibly, together with earthly beings and suitably the nethermost, for He hath been glorified."
@@ -136,8 +136,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Thou art the all-pure purity of the Cross against idolatrous impurities; for Christ the pre-eternal stretched out His hands upon thee, and all we faithful bow down before thee, the God-receiving tomb of Him that buried thee,"
 === LEAF p73 ===
 
-#### [Left Page — Folio 72v]
-##### Column A
+**[Left Page — Folio 72v]**
+**Column A**
 "unto Thy glory, and Christ is risen, for He is the true God."
 *Another Canon. The same Heirmos:*
 "A rod from the root of Jesse, having prophetically budded forth, O Virgin: Christ as a flower hath shone forth upon us, Thou art the Savior, O Lord."
@@ -154,7 +154,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *"Strange and unutterable:"*
 "Having fashioned [man] according to Thine image..."
 
-##### Column B
+**Column B**
 "...crucified on the Place of the Skull, Thou hast saved."
 "The dead whom death swallowed up in Hades, and the corruptive kingdom of Hades was destroyed, when Thou didst arise from the tomb, O Lord."
 *Theotokion:*
@@ -171,8 +171,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Grant Thy peace unto Thy Churches, O Christ, by the invincible power of Thy Cross, Thou Who didst arise from the dead, and save our souls."
 "A holy Tabernacle, and more spacious than the heavens, far more God-chosen than the cedars in Lebanon, didst thou appear"
 
-#### [Right Page — Folio 73r]
-##### Column A
+**[Right Page — Folio 73r]**
+**Column A**
 "ever, having been shown forth alone, O Ever-Virgin."
 
 *Another Heirmos:*
@@ -189,7 +189,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "The abyss of mercy and compassions hath compassed me by Thy merciful condescension; for having been incarnate, O Master, and being in the form of a servant, Thou didst deify and glorify me together with Thyself."
 "The slayer of death endured slaying, beholding the slain One revived; O Christ Savior, the images of Thy Resurrection and the wounds"
 
-##### Column B
+**Column B**
 "of Thy most pure sufferings."
 *Theotokion:*
 "O all-pure one, who alone didst mediate beyond mind between the Creator and men: pray thy Son to be merciful unto thy servants that have sinned, and to be their defender."
@@ -208,8 +208,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Thou didst arise today from the tomb, O Compassionate One, and hast led us up from the gates of death; today Adam dances and Eve rejoices, and together the prophets and patriarchs [sing unceasingly of the divine power of Thine authority]."
 === LEAF p74 ===
 
-#### [Left Page — Folio 73v]
-##### Column A
+**[Left Page — Folio 73v]**
+**Column A**
 # IKOS
 *Tone 3:*[^96]
 "Let heaven and earth today keep festival, and with one mind sing of Christ God; for having raised up the prisoners from the tomb, all creation rejoices together, offering worthy hymns unto the Creator of all and our Redeemer: for as the Giver of life He hath freed them, and raised them up with Himself unto the heavens, and cast down the loftiness of the enemy, and shattered the gates of Hades by the divine power of His authority."
@@ -221,7 +221,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Triadikon:*
 "Let us glorify the good Spirit with the Father, and with the Only-begotten Son, we faithful honoring one Principle in three, and one Godhead, crying: 'Blessed art Thou, O God of our fathers!' "
 
-##### Column B
+**Column B**
 "having trampled the sevenfold flame, they sang: 'Blessed art Thou, O Lord God of our fathers!' "
 "Not simply seeing a man suspended upon the Cross: but beholding God incarnate, the sun was darkened, unto Whom we also sing: 'Blessed art Thou who criest, O God of our fathers!' "
 "Hades turning away having received Him Who was mighty in Godhead, the Giver of incorruption, He led forth the souls of the righteous that cried: 'Blessed art Thou, O Lord God of our fathers!' "
@@ -236,8 +236,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Ode 8. Heirmos:*
 *"Gathered together in the unenduring fire, yet unharmed by the flame, the youths pre-eminent in piety sang a divine hymn: 'Bless the Lord, all ye works of the Lord; sing and exalt Him above all unto the ages!' "*
 
-#### [Right Page — Folio 74r]
-##### Column A
+**[Right Page — Folio 74r]**
+**Column A**
 "The brightness of the temple was rent when Thy Cross was planted on Calvary, and creation bowed down in fear, singing: 'Bless the Lord, all ye works of the Lord; sing and exalt Him above all unto the ages!' "
 "Christ is risen from the tomb, and him that fell through the deception of the tree hath He set upright by this His divine power, crying and saying: 'Bless the Lord, all ye works of the Lord; sing and exalt Him above all unto the ages!' "
 "Thou didst appear as the temple of God, an ensouled dwelling-place, and an Ark; for unto the Creator didst thou reconcile mankind, O all-pure Theotokos; and worthily do all works sing of thee, who even after childbearing wast preserved a Virgin."
@@ -250,7 +250,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "We piously worship the three-hypostatic Godhead, unutterably united in one, and we sing: 'Bless the Lord, all ye works of the Lord; sing and exalt Him above all unto the ages!' "
 *Another Heirmos:*
 
-##### Column B
+**Column B**
 "O Mother, thou hast surpassed the intelligent ranks, and having come near unto God, O blessed Virgin, the faithful [extol] thy childbearing, and we exalt it above all unto all ages."
 "Thou hast shown forth the natural beauty most pre-eminent, the flesh of the Godhead shining brightly, O blessed Virgin, the faithful [extol] thy childbearing, and we exalt it above all unto all ages."
 
@@ -262,8 +262,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "The all-pure one was shown forth as the receptacle of light; for God, Who was incarnate ineffably and immutably, having lifted up the nature of Adam upon the Cross, appeared as the firstborn from the dead, and God remains in the highest,"
 === LEAF p75 ===
 
-#### [Left Page — Folio 74v]
-##### Column A
+**[Left Page — Folio 74v]**
+**Column A**
 "and together with the Father and the Divine Spirit do we glorify Him."
 
 *Another Heirmos:*
@@ -279,7 +279,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Stichera of the Resurrection, Tone 3:*
 "Come, all ye nations, understand the power of the awesome mystery: for Christ our Savior, Who was in the beginning the Word, was crucified for our sake and was willingly buried, and He arose from the dead to save all"
 
-##### Column B
+**Column B**
 "things: let us worship Him!"
 "All Thy wonders did Thy guards recount, O Lord, but the vain council filled their right hands with bribes, thinking to conceal Thy Resurrection, which the world glorifies: have mercy on us!"
 "All things were filled with joy, having received the proof of the Resurrection; for Mary Magdalene came unto the tomb and found an Angel sitting upon the stone, gleaming in his raiment, and saying: 'Why seek ye the Living among the dead? He is not here, but is risen, as He said, going before you into Galilee!' "
@@ -289,8 +289,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "A morning hymn did the myrrh-bearing women bring unto Thee with tears, O Lord; for having sweet fragrances, they reached Thy tomb, striving to anoint Thy most pure body; but the Angel sitting upon the stone announced good tidings unto them: 'Why seek ye the Living among the dead? For He hath trampled death, and is risen as God, granting great mercy unto all!' "
 "Shining brightly upon Thy life-bearing tomb, the Angel said unto the Myrrh-bearers: 'The tombs are emptied by the Redeemer; He hath cast down Hades and is risen on the third day, as the only God and Almighty!' "
 
-#### [Right Page — Folio 75r]
-##### Column A
+**[Right Page — Folio 75r]**
+**Column A**
 "Mary Magdalene came on the first day of the week, seeking Thee in the tomb; and not finding Thee, she wept and cried aloud with lamentation: 'Woe is me, my Savior! The King of all hath been stolen away!' But two life-bearing Angels within the tomb cried out: 'Why weepest thou, O woman?' 'I weep,' said she, 'because they have taken away my Lord from the tomb, and I know not where they have laid Him.' But turning round, when she beheld Thee, she immediately cried: 'My Lord and my God, glory to Thee!' "
 *Glory:*
 "The race of the Jews were wounded with envy, and they shut up Life in the tomb; but the Thief opened Paradise with his tongue, crying and saying: 'He Who with me and for my sake was crucified, let us be crucified together on the Tree; and He that sits with me upon the Throne, sitting with the Father: for He is Christ our Savior, Who hath great mercy!' "
@@ -301,7 +301,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Under the sentence of death wast Thou condemned, O Life-Giver Christ, and all creation was visibly transformed, seeing Thee its Master in human nature; therefore with the Thief we cry unto Thee: 'Remember me when Thou comest into Thy Kingdom!' "
 "Thou didst condemn us who sinned under the curse of death; but our Life-Giver, having borne our body sinlessly, O Lord, Thou didst quicken the dead"
 
-##### Column B
+**Column B**
 "who cried: 'Remember us in Thy Kingdom!' "
 "Moses stretched forth his hands upon the mountain, prefiguring the Cross, overcoming Amalek; and we faithful, having received this mighty weapon against demons, faithfully cry: 'Remember us also in Thy Kingdom!' "
 "Risen from the dead, Thou didst raise us up together from passions by Thy Resurrection, O Lord, and all the power of death hast Thou destroyed, O Savior; therefore in faith we cry unto Thee: 'Remember us also in Thy Kingdom!' "
@@ -312,8 +312,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Rejoice, O Door of God, through which the Creator passed incarnate, preserving thee sealed! Rejoice, light Cloud, bearing Christ the divine Rain! Rejoice, Ladder and heavenly Throne! Rejoice, mountain of God, holy, fertile, and unhewn!"
 === LEAF p76 ===
 
-#### [Left Page — Folio 75v]
-##### Column A
+**[Left Page — Folio 75v]**
+**Column A**
 # ON SUNDAY EVENING, AT VESPERS
 *On "Lord, I have cried", Penitential Stichera, Tone 3. Podoben: Great is the martyr:*[^98]
 "Greatly sinning and provoking Thee, the good Master Who art merciful by nature: receive me returning as the Prodigal, and make me as one of Thy hired servants, O heavenly Father."
@@ -324,7 +324,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Thou didst establish the choirs of the Bodiless Powers, O Lord, displaying unto all the wealth of Thy goodness, and bringing them from non-existence into being, who now praise Thy glory which surpasses mind with unceasing voices."
 "Great is the power of Thine Angels, O Christ; for being incorporeal, they guard the world, preserving the Churches by the strength which is from Thee, O Master; and they pray unto Thee for the universe, beholding the thrice-sunny meekness of Thy unique powers,"
 
-##### Column B
+**Column B**
 "as secondary lights, unique in the world, and shining abundantly, they bestow upon us divine splendors."
 *Glory: Both now: Theotokion:*
 "O Lady over all creatures, all-pure one, free my mind which is grievously held captive by passions, through thy warm intercession and maternal prayer unto thy Son and God."
@@ -337,8 +337,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Glory: Both now: Theotokion:*
 "O Theotokos, protectress of all that pray unto thee, in thee do we dare, and in thee"
 
-#### [Right Page — Folio 76r]
-##### Column A
+**[Right Page — Folio 76r]**
+**Column A**
 "do we boast, and in thee is all our hope: pray Him that was born of thee for thine unprofitable servants."
 
 # ON MONDAY AT MATINS
@@ -351,7 +351,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *After the Second Kathisma, Penitential Sessional Hymns, Tone 3:*
 "At the dread judgment seat I am convicted without accusers, and condemned without witnesses; for the books of conscience are opened, and secret deeds are revealed; therefore, before on that universal spectacle Thou shalt examine the things"
 
-##### Column B
+**Column B**
 "wrought by me: O God, cleanse me and save me!"
 "Thou knowest the depth of my transgressions, O Lord; give me a helping hand, as Thou didst unto Peter, and save me!"
 *Martyrion:*
@@ -366,8 +366,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "As the uncultivated vine, O Virgin, thou didst bud forth the most beautiful"
 === LEAF p77 ===
 
-#### [Left Page — Folio 76v]
-##### Column A
+**[Left Page — Folio 76v]**
+**Column A**
 "Cluster, pouring forth for us the wine of salvation which gladdens all, both souls and bodies; therefore, ever blessing thee as the cause of good things, with the Angel we cry unto thee: 'Rejoice, full of grace!' "
 
 # CANON OF COMPUNCTION
@@ -388,7 +388,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Ode 1. Tone 3. Heirmos:*
 *"Let us sing a new song, O ye peoples:"*
 
-##### Column B
+**Column B**
 "Unoriginate of ages, and Giver of all God-befitting beauty, O Christ God, enlighten my thought by the nod of Thy Powers."
 "Rejoicing in an angel-befitting manner, by the most rich communion the angelic choirs are secretly enlightened by Thy fair splendors, O Savior, of the hidden mystery."
 "As God and Life-Creator, the beneficent Spirit, proceeding from the Father, established the heavenly Hosts with untouchable divine graces."
@@ -406,8 +406,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Theotokion:*
 "O Mary, named after the Lord, held fast am I by many soul-corrupting passions: free me by thy prayers."
 
-#### [Right Page — Folio 77r]
-##### Column A
+**[Right Page — Folio 77r]**
+**Column A**
 *Another Heirmos:*
 *"Thou hast shattered the bow of the enemy, and crushed the shield by Thy might, O Master Christ, our confirmation: holy art Thou, O Lord!"*
 "Streaming brooks of grace and rivers of goodness hast Thou revealed the angelic choirs, secretly shining with Thy dawn."
@@ -426,7 +426,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "Ye were assimilated unto the death of Christ, O Martyrs, having partaken of various pains; therefore ye inherit divine life."
 *Theotokion:*
 
-##### Column B
+**Column B**
 "Grant me, O pure one, true repentance; still the tumult of my passions, O protectress of them that sin."
 
 *Another Heirmos: "Strange and unutterable:"*
@@ -443,8 +443,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Martyrion:*
 === LEAF p78 ===
 
-#### [Left Page — Folio 77v]
-##### Column A
+**[Left Page — Folio 77v]**
+**Column A**
 "I am wounded by the weapon of passions, and into the pit of despair have I fallen; overlook me not, O Master, but heal me by the radiance of conversion."
 "Cruelly scraped with claws, and cut down with the sword, O sufferers, and exhausted with wounds, ye bowed not the knee unto the idol."
 "The world is ever adorned by your sufferings, O holy Martyrs; for ye found a transcendent abode with the Angels."
@@ -460,7 +460,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *"Thou Who hast reached unto the end of the ages, O Lover of mankind, and hast them that are engulfed in the storm-tossed thoughts of wrath: despise not them that cry: Save, O Savior, as Thou didst save the Prophet from the beast."*
 "Lifted up in mind like the ancient Pharisee, by transgressions"
 
-##### Column B
+**Column B**
 "have I fallen grievously; and seeing me, the deceiver rejoices, O Christ, Who didst humble him by the Cross: have compassion on me who have humbled myself."
 "Having been a lover of sin like no other in life, O Master, wretched that I am, I await Thy long-suffering, yet am not worthy thereof; but turn me back by Thy tender compassion."
 *Martyrion:*
@@ -474,8 +474,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Theotokion:*
 "Heal..."
 
-#### [Right Page — Folio 78r]
-##### Column A
+**[Right Page — Folio 78r]**
+**Column A**
 "...as an ever-flowing fountain of healing did the Word Who dwelt in thee show thee forth; pray therefore, O Virgin Theotokos, heal the wounds of my soul."
 
 *Ode 7. Heirmos:*
@@ -491,7 +491,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "With steadfast mind and valiant eye beholding the primal splendors: by participation ye become secondary lights, crying: 'Blessed art Thou, O God of our fathers!' "
 "Guided by unswerving desire and ineffable love,"
 
-##### Column B
+**Column B**
 "by the beauties of the Creator, by ordination ye became secondary luminaries, O angelic choirs, crying: 'Blessed art Thou, O God of our fathers!' "
 *Theotokion:*
 "Thou didst give birth unto the incarnate Word, unoriginate, Who was begotten of the Father without mother before all ages, a divine birth, O Lady, blessed is the fruit of thy womb."
@@ -507,8 +507,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 "By the defilement of a prodigal life have I now drawn near unto Hades; having the promptest nod, O Maiden, as thou gavest birth unto God the merciful"
 === LEAF p79 ===
 
-#### [Left Page — Folio 78v]
-##### Column A
+**[Left Page — Folio 78v]**
+**Column A**
 "unutterably, have compassion on me and save me."
 
 *Another Heirmos:*
@@ -523,7 +523,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *"On Mount Sinai Moses saw Thee in the bush, O Lord, conceiving in thy womb the fire of the Godhead unburnt; and Daniel saw thee, an unhewn mountain, a rod that budded forth from the root of David."*
 "Jacob received the birthright on account of temperance of old, but Esau surrendered his seniority, not"
 
-##### Column B
+**Column B**
 "restraining his belly; how evil is intemperance, and how great is temperance in the similitude of fasting: love, O my soul, the attraction of good things."
 "Having endured much like the blameless, everlasting Job; for the torrents of temptations rushing together shook not the pillar of his heart; emulate him always, remaining immutable, O my soul, against the wiles of the evil one."
 *Martyrion:*
@@ -537,8 +537,8 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *"Wounded with the arrow by the glory of thy most pure childbearing, O pure one, and marveling at thy most fitting beauty, with angelic hymns worthily do we magnify thee as Mother of God."*
 "O choirs now standing before the great and primal Light, ye have become most mighty intercessors for all of us who magnify you as Angels of God with divine might."
 
-#### [Right Page — Folio 79r]
-##### Column A
+**[Right Page — Folio 79r]**
+**Column A**
 "Counted worthy to glorify the Trinity with divine hymns, being brightly illuminated with Her first radiance, vouchsafe us to be illuminated with the second radiance, who piously magnify you."
 *Theotokion:*
 "We all know thee as the foundation of our salvation; for thy holy childbearing hath saved our nature, O Mother of God, who sing of thee, O Theotokos, and faithfully glorify thee."
@@ -553,7 +553,7 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 # ON MONDAY, THE BEATITUDES
 *Tone 3:*[^102]
 
-##### Column B
+**Column B**
 "Adam our forefather, who rejected Thy commandment, O Christ, didst Thou cast out of Paradise; but the Thief, O Bountiful One, who confessed Thee upon the Cross, didst Thou settle therein, who cried: 'Remember me, O Savior, in Thy Kingdom!' "
 "Looking down upon the multitude of my sins according to the multitude of Thy mercy, O Christ, save me, and in the day of judgment deliver me from eternal torment, as God, that I may hymn Thy goodness."
 "Cherubim and Seraphim, Thrones, Archangels, Powers and Principalities, Dominions, Angels and all Authorities: pray the Creator to overlook my transgressions then, when He shall come to judge the earth, as He is the Lover of mankind."
@@ -566,21 +566,21 @@ of the ages, and spiritually to behold Thine unutterable glory, through the inte
 *Toward Monday [Evening]:*
 === LEAF p80 ===
 
-#### [Left Page — Folio 79v]
-##### Column A
+**[Left Page — Folio 79v]**
+**Column A**
 # ON MONDAY EVENING, AT VESPERS
 *On "Lord, I have cried", Penitential Stichera, Tone 3. Podoben: In the likeness of the Cross:*
 "The multiform serpent, seeing the slothfulness within me toward profitable deeds, and transforming itself by a nod toward evil and worse things, showed forth the sweetness of sin; but its own bitter working is contrary to the divine commandments; therefore it strikes me in disposition, to accept evil as good, O deceitful one, O Christ."
 "Having walked zealously upon the great path of sinful iniquity, and forsaken the right path unto the end, now have I drawn near unto the gates of death, crying in compunction: 'O Path of our life, my good Jesus: turning me back unto the breadth of true repentance, save me; grant me correction, and before death vouchsafe me divine forgiveness!' "
 "I have slain myself with diverse sins and many transgressions, and through great impropriety I lie dead and helpless in truth; yet my only hope lives, which is toward Thy tender compassion, O Christ, Who givest breath, sight, and life unto the dead, and slayest the passions that have made us wretched; therefore anticipate and snatch me from eternal death!"
 
-##### Column B
+**Column B**
 *Other Stichera, to the Holy Forerunner John, Tone 3:*[^103]
 "O Forerunner, who in thy birth didst loose thy mother's childlessness and thy father's muteness: loose the childlessness of my heart and the irrationality of my soul by thy acceptable prayers unto the young Child, the Son, the God-Child and God of all, Whom as the Word of the Mind thou didst bear without passion; and strengthen me both to speak and to do the things pleasing unto Him."
 "O thou who didst prepare the paths of Christ and make straight His paths, before Whose face thou wast sent: show forth my heart well-trodden unto Him by thy prayers and manifest help; for thou wast shown worthy to walk with His honorable feet upon the heavenly land, where the feet of the meek do walk, that with love
 
-#### [Right Page — Folio 80r]
-##### Column A
+**[Right Page — Folio 80r]**
+**Column A**
 I may honor thee as an intercessor."
 "Thou didst emulate the life of Angels upon earth, the perfection of the Prophets, and the first martyr of the New Covenant, and first preacher unto the holy ones beneath the earth, of the Divine Word's coming in the flesh, attested friend of Christ, of the Lamb and Redeemer: from all snares of the enemy and his manifold temptations, deliver thy servant, O Baptist John, by thy prayers."
 *Glory: Both now: Theotokion:*
@@ -597,7 +597,7 @@ I may honor thee as an intercessor."
 # ON TUESDAY AT MATINS
 *After the First Kathisma, Penitential Sessional Hymns, Tone 3:*
 
-##### Column B
+**Column B**
 "Dwelling upon the earth, O my soul, repent; for the dust in the grave sings not, nor delivers from transgressions; cry aloud unto Christ God: 'O Knower of hearts, I have sinned; before Thou judgest me, have mercy on me!' *Glory:*"
 "How long, O my soul, abidest thou in transgressions? How long dost thou receive postponement of repentance? Take to mind the judgment that is to come; cry aloud unto Christ God: 'O Knower of hearts, I have sinned; O Sinless Lord, have mercy on me!' "
 *Both now: Theotokion:*

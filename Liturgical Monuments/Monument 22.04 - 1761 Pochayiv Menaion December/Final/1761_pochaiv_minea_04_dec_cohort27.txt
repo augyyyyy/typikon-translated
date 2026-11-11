@@ -69,10 +69,10 @@ The Light that proceeded from Light and shone forth from the Virgin unto those u
 
 The infant crop does Herod frantically reap, having been mocked by the wise Magi; and he thought to raise a vile and murderous hand against Thee: but Thou hast come unto the Egyptians, driving away the deepest darkness. With them we sing: Blessed is our God Who is come, glory to Thee!
 
-*Glory, the same Tone and Podoben:*
+*Glory, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Sing, O new Israel, a new song; sing that heavenly hymn: rejoice and be glad with joy, and dance! Bring brightly the things of the feast: God has appeared in the flesh from the south![^272] The Same desires to be washed in the streams of the Jordan as man.
 
-*Both now, the same Podoben:*
+*Both now, the same Podoben (Подо́бенъ то́йже):*
 Thou hast appeared upon earth, and hast dwelt with men; by the decrees of Caesar Thou wast enrolled with servants: not being changed from Thy created nature, Thou didst remain unaltered, being wholly God, even though Thou wast incarnate. Glory to Thy dispensation, honor, praise, and majesty, both now and unto the ages. Amen.
 
 *At the Aposticha, Stichera, Tone 2, Podoben: "O house of Ephratha" (До́ме є҆ѵфра́ѳовъ):*
@@ -112,7 +112,7 @@ Beholding the eternal God as an infant incarnate of her, holding Him with her ha
 
 While the pure one spoke these things as a servant in awe, she heard the Magi standing together before the cave, and said unto them: Whom seek ye? For I see that ye have come from a foreign land, having Persian appearance and wisdom. A strange departure and journey have ye made; and having come with haste to worship Him Who journeyed from on high and strangely dwelt in me as He knows: Who grants great mercy unto the world!
 
-*Other stichera of the saint, Tone 8, Podoben: "O most marvelous wonder" (Ѡ҆ пресла́внагw чꙋдесѐ):*
+*Other stichera of the saint, Tone 8, Podoben: "O most marvelous wonder" (Ѡ҆ пресла́внагѡ чꙋдесѐ):*
 Having forsaken the beauty of the world, * by grace from on high * with virtues thou didst make clear * the nobility of thy soul, * O all-praised Eugenia. * Having preserved the grace of the image untroubled by thy manner of life, * O invincible martyr, * God-like rampart of virginity, * and most noble flower of nature!
 
 By appearance, and life, and grace, * and by the endurance of thy soul...

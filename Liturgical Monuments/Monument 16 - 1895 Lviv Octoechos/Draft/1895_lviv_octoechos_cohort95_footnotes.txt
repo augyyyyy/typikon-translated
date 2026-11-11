@@ -82,7 +82,7 @@
 [^10449]: Third troparion of Ode 1 of the Canon to the Apostles.
 [^10450]: Theotokion of Ode 1 of the Canon to the Apostles.
 [^10451]: Title of the Second Canon at Matins, dedicated to Saint Nicholas the Wonderworker.
-[^10452]: Acrostic: Greek Σοὶ Νικόλαε προσφόρει τὸ ὄγдоον ᾆσμα. Composed by Saint Joseph the Hymnographer.
+[^10452]: Acrostic: Greek Σοὶ Νικόλαε προσφόρει τὸ ὄγδοον ᾆσμα. Composed by Saint Joseph the Hymnographer.
 [^10453]: Heirmos of Ode 1, Tone 8; based on Exodus 14.
 [^10454]: Liturgical refrain appointed for the canon to Saint Nicholas.
 [^10455]: First troparion of Ode 1 of the Canon to Saint Nicholas.

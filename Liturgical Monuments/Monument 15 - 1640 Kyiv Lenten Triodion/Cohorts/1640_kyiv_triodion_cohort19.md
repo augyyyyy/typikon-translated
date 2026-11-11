@@ -25,7 +25,7 @@
 
 *Sticheron 2:* I lament myself, considering my deeds, O Lord, worthy of all torment! For lo, having despised Thine honorable commandments, O Savior, I spend my life prodigally. Therefore I pray: having cleansed me with the rains of repentance through fasting and supplication, as the only merciful One enlighten me, and turn not in disgust away from me, O Benefactor of all and most good!
 
-*Another, of Lord Theodore the Studite. Tone the same, Podoben: "Surpassing understanding" (Па́че [ᲂу҆ма̀]):*[^488]
+*Another, of Lord Theodore the Studite. Tone the same, Podoben: "Surpassing understanding" (Па́че (*ᲂу҆ма̀*)):*[^488]
 
 *Sticheron 3:* Let us begin the season of the Fast with brightness, submitting ourselves unto spiritual contests! Let us wash the soul, let us cleanse the body; let us fast from every passion as from foods, delighting in the virtues of the Spirit, in which persevering with love, may we all be accounted worthy to behold the all-honorable Passion of Christ God and the Holy Pascha, rejoicing spiritually!
 

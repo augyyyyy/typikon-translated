@@ -2,7 +2,7 @@
 
 ## May 29. The Holy Venerable Martyr Theodosia the Virgin[^411]
 
-*Stichera, Tone 8, Podoben: "O Most Marvelous Wonder" (O preslavnago chudese):*
+*Stichera, Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 *Sticheron 1:* Shining with the radiance of virginity, O venerable Theodosia, and brightly vested in the purple dye of the blood of martyrdom, O all-wise maiden; and having entered into the transcendent bridal chamber of Christ, O all-immaculate maiden, thou rejoicest with the angelic ranks, in truth holding an indestructible festival, O glorious one.
 
@@ -10,7 +10,7 @@
 
 *Sticheron 3:* Brightly adorned with the beauty of both soul and body, thou didst offer thyself unto Christ, desiring to be crowned by Him with a crown of glory, O all-glorious martyr Theodosia, and worthily to receive upon thy head the truly precious diadem of the Kingdom, having been shown forth as an incorrupt bride, O divinely wise one.
 
-*Stichera of the Theotokos, Tone 8, Same Podoben:*
+*Stichera of the Theotokos, Tone 8, Same Podoben (Подо́бенъ то́йже):*
 
 *Theotokion 1:* Rejoice, enlightenment of souls, forgiveness of those who sin, amendment of the negligent; rejoice, consolation and joy, helper of the afflicted; rejoice, good one, healing of infirm souls; rejoice, reconciliation with God and mediatress, as thou art holier than all the Seraphim, O pure one.
 
@@ -54,7 +54,7 @@ Acceptably hast thou attained unto virtue, O martyr, and becamest a pure recepta
 
 *Theotokion:* Thou didst raise up my fallen form, O pure one, having given birth to the Prince of the resurrection of us all, O Sovereign Lady.
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 
 By the streams of thy blood having truly submerged all the strength of the crafty devil, O glorious one, thou didst pass through the immense gulf of torments unharmed. And thou hast manifestly settled in the holy land, worthily receiving the recompense of thy labors, and wast vouchsafed the entrance of the heavenly bridal chamber, O all-lauded Theodosia. Entreat Christ God to grant remission of sins unto those who with love celebrate thy holy memory.
 
@@ -97,7 +97,7 @@ Beholding the Lamb, the Shepherd and Redeemer upon the Cross, the ewe-lamb wept 
 
 *Theotokion:* Finding thee from afar as a perfect and exceeding fair dove, a lily and flower of the valleys, O Mother of God, the noetic Bridegroom took up His abode in thee.
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 
 By labors hast thou attained unto the painless life, and with thy blood, O martyr, thou didst choke Copronymus, the vile enemy of the Church of Christ, O all-blessed Theodosia; and thou rejoicest with the heavenly hosts, sheltering those who honor thy memory.
 
@@ -137,7 +137,7 @@ By labors hast thou attained unto the painless life, and with thy blood, O marty
 
 ## May 30. Our Venerable Father Isaac, of the Dalmatian Monastery[^416]
 
-*Stichera, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*Stichera, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 
 *Sticheron 1:* Beholding the beauty of paradise, and richly enjoying its incorrupt flowers, thou didst blossom forth the divine understanding unto the world; and partaking thereof with spiritual love, O venerable father, we nurture salvation for our souls.
 
@@ -145,7 +145,7 @@ By labors hast thou attained unto the painless life, and with thy blood, O marty
 
 *Sticheron 3:* Thou didst illumine the monastic life, O father, shining forth like the sun from the wilderness upon the imperial city; therefore by thy teachings thou didst enlighten the faithful to bless the consubstantial Father, Son, and Holy Spirit.
 
-*Stichera of the Theotokos, Tone 1, Same Podoben:*
+*Stichera of the Theotokos, Tone 1, Same Podoben (Подо́бенъ то́йже):*
 
 *Theotokion 1:* Beset by desperate falls, O pure one, having thee as our only protectress, O Virgin, we cry out gratefully: "Purify us, O all-holy Bride of God; for thou art the refuge of the world and the help of our race!"
 
@@ -188,7 +188,7 @@ Standing by the Cross of thy Son and God, and beholding His long-suffering, the 
 
 *Theotokion:* Truly wast thou shown forth as Mother, O Virgin, having given birth to Emmanuel, God the Word; cease not to pray unto Him as an infant, O unwedded bride, blessed, pure Theotokos!
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 
 Thou wast shown forth as a rain-bearing spiritual cloud unto those upon earth, O all-blessed one, watering the hearts of the faithful like a furrow. Traversing the ends of the earth with thy divine...
 
@@ -238,7 +238,7 @@ Beholding the Lamb, the Shepherd and Redeemer upon the Cross, the ewe-lamb wept 
 
 *Theotokion:* O thou who alone by a word didst bear the Word in the flesh, deliver our souls from the snares of the enemy, we pray.
 
-*Kontakion, Tone 8, Podoben: "As First-Fruits of Nature" (Yako nachatki):*
+*Kontakion, Tone 8, Podoben: "As First-Fruits of Nature" (Ꙗ҆́кѡ нача́тки):*
 
 As a faithful servant of God, kindled with zeal for the Church of Christ, seizing the reins of Valens, thou didst prophetically foretell unto him a ruinous death for locking up the churches, O venerable one; therefore pray ever for us who honor thee, O venerable Isaac!
 
@@ -274,7 +274,7 @@ As a faithful servant of God, kindled with zeal for the Church of Christ, seizin
 
 ## May 31. The Holy Apostle Hermes, and the Holy Martyr Hermias[^421]
 
-*Stichera, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*Stichera, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 
 *Sticheron 1:* Having quenched the fire of godlessness with drops of blood, O great martyr, thou didst richly water the Church of Christ, and didst make bright the hearts of the faithful who piously honor thy sacred and venerable memory.
 
@@ -282,6 +282,6 @@ As a faithful servant of God, kindled with zeal for the Church of Christ, seizin
 
 *Sticheron 3:* Leading up those who had fallen into the abyss of unbelief by the word of God, O Hermias, thou didst endure the surging tempest of many torments, O all-lauded passion-bearer, until with them thou didst enter with joy into the eternal haven.
 
-*Stichera of the Theotokos, Tone 1, Same Podoben:*
+*Stichera of the Theotokos, Tone 1, Same Podoben (Подо́бенъ то́йже):*
 
 *Theotokion 1:* Beset by desperate falls, O pure one, having thee as our only protectress, O Virgin, we cry out gratefully: "Purify us, O all-holy Bride of God..."

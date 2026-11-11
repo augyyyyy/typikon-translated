@@ -1,11 +1,11 @@
 import sys
 import os
 from datetime import date
-sys.path.insert(0, "c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded")
+sys.path.insert(0, "c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded")
 from ruthenian_engine import RuthenianEngine
 from typikon_digest_generator import TypikonDigestGenerator
 
-engine = RuthenianEngine(base_dir="c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded")
+engine = RuthenianEngine(base_dir="c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded")
 gen = TypikonDigestGenerator(engine)
 
 target_date = date(2026, 2, 16)

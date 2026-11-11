@@ -2,7 +2,7 @@ import os
 import sys
 
 def main():
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     debug_txt = os.path.join(typikon_dir, "all_headings_debug.txt")
     
     with open(debug_txt, 'r', encoding='utf-8') as f:

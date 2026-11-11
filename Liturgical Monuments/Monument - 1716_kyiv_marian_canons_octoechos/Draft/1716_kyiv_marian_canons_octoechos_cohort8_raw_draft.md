@@ -250,7 +250,7 @@ Enduring the molten body [of the idol] made through Persian deceit, the three ch
 The wounds of transgressions have poured out upon me even unto my soul, O Pure One, and a wretched ruin has surrounded me: but snatch me from this distress.
 
 *Troparion:*
-Sprinkle me, O Pure One, with the Blood from the ribs of Thy Child, according to the multitude of thy [mercies], O Mother, and wash me with streams of tears, and cleanse me from every defilement.
+Sprinkle me, O Pure One, with the Blood from the ribs of thy Child, according to the multitude of thy [mercies], O Mother, and wash me with streams of tears, and cleanse me from every defilement.
 
 *Glory...*
 

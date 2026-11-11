@@ -337,7 +337,7 @@ Tongues of fire from on high appeared upon the apostles, enlightening, yet not c
 *Verse: Cast me not away from Thy presence, and take not Thy Holy Spirit from me [LXX Ps. 50:13].*
 That the fearful wonder might strike terror into the race of unbelievers, with other, strange tongues they proclaimed divine things!
 
-*Glory... Both now... Same Tone [Tone 2] and Podoben:*
+*Glory... Both now... Same Tone [Tone 2] and Podoben (Подо́бенъ):*
 Having come from on high unto us, O Comforter, even as formerly unto the apostles, who preach Thee as God unto the Father and the Savior!
 
 *Then: "Lord, now lettest Thou Thy servant depart in peace..." The Trisagion. And after "Our Father..." Troparion: "Blessed art Thou, O Christ our God..." The Little Litany. And the Dismissal.*
@@ -375,10 +375,10 @@ Come, O ye peoples, let us worship the tri-hypostatic Godhead: the Son in the Fa
 The Lord said unto Moses: Gather unto Me seventy men of the elders of Israel, whom thou thyself knowest to be the elders of the people, and their scribes; and thou shalt bring them unto the tabernacle of witness, and they shall stand there with thee. And I will come down and speak there with thee, and I will take of the Spirit that is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, and thou shalt not bear them thyself alone. And Moses gathered seventy men of the elders of the people, and set them round about the tabernacle. And the Lord came down in a cloud, and spake unto Moses, and took of the Spirit that was upon him, and gave it unto the seventy men, the elders; and as the Spirit rested upon them, they prophesied in the camp, and ceased not. And there remained two men in the camp, the name of the one was Eldad, and the name of the other Medad, and the Spirit rested upon them; and these were of them that were written, but they came not unto the tabernacle; and they prophesied in the camp. And a young man ran and told Moses, and said: Eldad and Medad do prophesy in the camp! And Joshua the son of Nun, who stood before Moses, his chosen one, answered and said: My lord Moses, forbid them! And Moses said unto him: Art thou envious for my sake? And who would grant that all the Lord's people were prophets, when the Lord shall put His Spirit upon them?
 
 *The Reading of the Prophecy of Joel [Joel 2:23–32]:*[^947]
-Thus saith the Lord: Ye children of Zion, rejoice, and be glad in the Lord your God: for He hath given you food unto righteousness, and He will rain down upon you the early and the latter rain, as before. And the threshing floors shall be full of wheat, and the presses shall overflow with wine and oil. And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpillar, and the palmerworm, My great army which I sent among you. And ye shall eat in plenty, and be satisfied, and praise the Name of the Lord your God, Who hath dealt marvelously with you: and My people shall never be put to shame. And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and there is none else: and My people shall never be put to shame. And it shall come to pass afterward, that I will pour out of My Spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions. And on My bondmen and on My bondwomen in those days will I pour out of My Spirit, and they shall prophesy. And I will show wonders in the heaven above, and signs in the earth beneath: blood, and fire, and vapor of smoke. The sun shall be turned into darkness, and the moon into blood, before the great and notable day of the Lord come. And it shall come to pass, that whosoever shall call on My Name shall be saved.
+Thus says the Lord: Ye children of Zion, rejoice, and be glad in the Lord your God: for He hath given you food unto righteousness, and He will rain down upon you the early and the latter rain, as before. And the threshing floors shall be full of wheat, and the presses shall overflow with wine and oil. And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpillar, and the palmerworm, My great army which I sent among you. And ye shall eat in plenty, and be satisfied, and praise the Name of the Lord your God, Who hath dealt marvelously with you: and My people shall never be put to shame. And ye shall know that I am in the midst of Israel, and that I am the Lord your God, and there is none else: and My people shall never be put to shame. And it shall come to pass afterward, that I will pour out of My Spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions. And on My bondmen and on My bondwomen in those days will I pour out of My Spirit, and they shall prophesy. And I will show wonders in the heaven above, and signs in the earth beneath: blood, and fire, and vapor of smoke. The sun shall be turned into darkness, and the moon into blood, before the great and notable day of the Lord come. And it shall come to pass, that whosoever shall call on My Name shall be saved.
 
 *The Reading of the Prophecy of Ezekiel [Ezekiel 36:24–28]:*[^948]
-Thus saith the Lord: I will take you from among the nations, and gather you out of all foreign countries, and will bring you into your own land. And I will sprinkle clean water upon you, and ye shall be clean from all your uncleannesses, and from all your idols will I cleanse you. And a new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. And I will put My Spirit within you, and cause you to walk in My statutes, and ye shall keep My judgments and do them. And ye shall dwell in the land that I gave to your fathers; and ye shall be My people, and I will be your God.
+Thus says the Lord: I will take you from among the nations, and gather you out of all foreign countries, and will bring you into your own land. And I will sprinkle clean water upon you, and ye shall be clean from all your uncleannesses, and from all your idols will I cleanse you. And a new heart also will I give you, and a new spirit will I put within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. And I will put My Spirit within you, and cause you to walk in My statutes, and ye shall keep My judgments and do them. And ye shall dwell in the land that I gave to your fathers; and ye shall be My people, and I will be your God.
 
 *At the Litiya, Stichera. Written at the Praises:*[^949]
 Marvelous things have all the nations seen this day...
@@ -568,9 +568,7 @@ Savingly sovereign alone, being Light self-bestowing and the Giver of light, Tho
 *Troparion:*
 The Spirit-filled lips of the prophet sang of Thy bodily coming with the King, and the Spirit proceeding from the Father's bosom, uncreated, creative, co-enthroned with Thee, honored by the faithful of one doctrine!
 
-*"More honorable than the Cherubim..." is not sung. Ode 9. Heirmos: Not having known corruption...*
-
-*Ode 9. Heirmos:*[^975]
+*"More honorable than the Cherubim..." is not sung. Ode 9. Heirmos: Not having known corruption Ode 9. Heirmos:*[^975]
 Not having known corruption through experience of birth, yet lending flesh unto the all-wise Word: O unwedded Mother, Virgin Theotokos, receptacle of the Uncontainable, dwelling-place of Thine illimitable Maker, Thee do we magnify!
 
 *Troparion:*
@@ -658,74 +656,74 @@ Through the intercessions of the Theotokos, O Savior, save us!
 
 *The Priest having given the blessing, we say: "O Heavenly King..." The Trisagion; and after "Our Father...", "Lord, have mercy" (12 times). Glory... Both now... "O come, let us worship..." (thrice). Then the Psalm: "Bless the Lord, O my soul..." [Ps. 103]. We sing: Glory... Both now... Alleluia (thrice). Then the Great Litany:*
 
-**Deacon:** In peace let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the peace from above and the salvation of our souls, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For this holy house, and for them that with faith, reverence, and the fear of God enter therein, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For our most holy Archbishop, the Ecumenical Patriarch *(Name)*; for our honorable presbyterate, the diaconate in Christ, for all the clergy and the people, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For our Great King *(Name)*, and our pious sovereigns, princes, and lords, for all their palace and armed forces, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That He may aid them and subdue under their feet every enemy and adversary, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the deliverance of our fathers and brethren held captive, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For this city, and for every city, village, and countryside, and monastery, and for the faithful that dwell therein, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For seasonable weather, abundance of the fruits of the earth, and peaceful times, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For them that travel by sea, by land, the sick, the suffering, the imprisoned, and for their salvation, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the people here present, who await the grace of the Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For them that bow their hearts and their knees before the Lord, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That He may be bountiful unto all of us, souls and bodies, who righteously with faith and reverence are gathered together in this all-pure temple: let us pray unto the Lord.[^987]
-**Choir:** Lord, have mercy.  
-**Deacon:** That we may be accounted worthy of healing and the incorrupt grace of the Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That we may be a temple and dwelling place of the Holy and Life-creating Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That God may preserve us unceasingly to abound in the Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That we may find grace and mercy of the All-Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the manifestation, that we may be partakers of the Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the reception unto remission of sins, and knowledge of spiritual grace, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That we may not be alien unto the Holy Spirit in the fearful and righteous tribunal of Christ, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the granting of rich mercy, bounties, and the grace of the Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That in the Holy Spirit all bonds of the enemy may be loosed for us, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For the salvation from on high of us who bow our hearts with faith and bend our knees on this fiftieth day, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That the Lord our God may hear us sinners, and send down upon us the Holy Spirit, and cleanse us, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That we may ever worship with soul and body, and sing unto the Holy and Consubstantial Trinity in unity, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That the Lord God may be well-pleased toward us who have bent our knees, and send down upon us His Holy Spirit, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That our genuflections and prayers may be acceptable before Him as the odor of spiritual incense, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That we may be priests of the divine illumination of the true and life-creating Trinity, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** For our deliverance from all tribulation, wrath, and necessity, let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** Help us, save us, have mercy upon us, and protect us, O God, by Thy grace.  
-**Choir:** Lord, have mercy.  
-**Deacon:** Commemorating our all-holy, pure, most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God.  
-**Choir:** To Thee, O Lord.  
+> **Deacon:** "In peace let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the peace from above and the salvation of our souls, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For this holy house, and for them that with faith, reverence, and the fear of God enter therein, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For our most holy Archbishop, the Ecumenical Patriarch *(Name)*; for our honorable presbyterate, the diaconate in Christ, for all the clergy and the people, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For our Great King *(Name)*, and our pious sovereigns, princes, and lords, for all their palace and armed forces, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That He may aid them and subdue under their feet every enemy and adversary, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the deliverance of our fathers and brethren held captive, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For this city, and for every city, village, and countryside, and monastery, and for the faithful that dwell therein, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For seasonable weather, abundance of the fruits of the earth, and peaceful times, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For them that travel by sea, by land, the sick, the suffering, the imprisoned, and for their salvation, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the people here present, who await the grace of the Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For them that bow their hearts and their knees before the Lord, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That He may be bountiful unto all of us, souls and bodies, who righteously with faith and reverence are gathered together in this all-pure temple: let us pray unto the Lord."[^987]
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may be accounted worthy of healing and the incorrupt grace of the Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may be a temple and dwelling place of the Holy and Life-creating Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That God may preserve us unceasingly to abound in the Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may find grace and mercy of the All-Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the manifestation, that we may be partakers of the Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the reception unto remission of sins, and knowledge of spiritual grace, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may not be alien unto the Holy Spirit in the fearful and righteous tribunal of Christ, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the granting of rich mercy, bounties, and the grace of the Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That in the Holy Spirit all bonds of the enemy may be loosed for us, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For the salvation from on high of us who bow our hearts with faith and bend our knees on this fiftieth day, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That the Lord our God may hear us sinners, and send down upon us the Holy Spirit, and cleanse us, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may ever worship with soul and body, and sing unto the Holy and Consubstantial Trinity in unity, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That the Lord God may be well-pleased toward us who have bent our knees, and send down upon us His Holy Spirit, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That our genuflections and prayers may be acceptable before Him as the odor of spiritual incense, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That we may be priests of the divine illumination of the true and life-creating Trinity, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For our deliverance from all tribulation, wrath, and necessity, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Help us, save us, have mercy upon us, and protect us, O God, by Thy grace."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Commemorating our all-holy, pure, most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the saints, let us commend ourselves and one another, and all our life unto Christ our God."
+> **Choir:** "To Thee, O Lord."
 
 *Then the Priest exclaims:*  
-**Priest:** For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.  
-**Choir:** Amen.  
+> **Priest:** "For unto Thee is due all glory, honor, and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
 *See below concerning the Finding of the Precious Head of the Prophet Isaiah (see fol. 315).*[^988]  
 
@@ -739,13 +737,13 @@ Through the intercessions of the Theotokos, O Savior, save us!
 *And again: Who is so great a God as our God?...*  
 
 *Then the Priest or the Deacon exclaims:*  
-**Deacon:** Again and again, bending the knees, let us pray unto the Lord.  
-**Choir:** Lord, have mercy *(thrice).*  
+> **Deacon:** "Again and again, bending the knees, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy *(thrice).*"
 
 *And with all of us bending our knees upon the ground, and having our heads uncovered and bowed down, the Superior or the Priest reads these Prayers from the sanctuary with a loud voice in the hearing of all, in a compunctionate voice, and not hurriedly:*  
 
 *THE FIRST PRAYER:*[^990]  
-**Priest:** O Lord, pure, undefiled, without beginning, invisible, incomprehensible, unsearchable, unchanging, unsurpassed, immeasurable, long-suffering Lord, Who alone hast immortality, dwelling in light unapproachable: Who madest heaven and earth and the sea and all that in them is; Who grantest unto all their petitions before they ask: we ask Thee and pray Thee, O Master, Lover of mankind, the Father of our Lord Jesus Christ, Who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and of Mary the Ever-Virgin and all-glorious Theotokos: Who first indeed taught by words, and afterward showed by deeds, when He endured the saving Passion, giving unto us, Thy humble, sinful, and unworthy servants, an example to offer supplications unto Thee, in the bending of the neck and knees, for our sins and for the ignorances of the people: do Thou Thyself, O greatly merciful Lover of mankind, give ear unto us in whatsoever day we call upon Thee, and especially on this fiftieth day, whereon after the Ascension of our Lord Jesus Christ into heaven, and His sitting at the right hand of Thee, God and Father, He sent down the All-Holy Spirit upon His holy disciples and apostles, Who also sat upon each one of them:
+> **Priest:** "O Lord, pure, undefiled, without beginning, invisible, incomprehensible, unsearchable, unchanging, unsurpassed, immeasurable, long-suffering Lord, Who alone hast immortality, dwelling in light unapproachable: Who madest heaven and earth and the sea and all that in them is; Who grantest unto all their petitions before they ask: we ask Thee and pray Thee, O Master, Lover of mankind, the Father of our Lord Jesus Christ, Who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and of Mary the Ever-Virgin and all-glorious Theotokos: Who first indeed taught by words, and afterward showed by deeds, when He endured the saving Passion, giving unto us, Thy humble, sinful, and unworthy servants, an example to offer supplications unto Thee, in the bending of the neck and knees, for our sins and for the ignorances of the people: do Thou Thyself, O greatly merciful Lover of mankind, give ear unto us in whatsoever day we call upon Thee, and especially on this fiftieth day, whereon after the Ascension of our Lord Jesus Christ into heaven, and His sitting at the right hand of Thee, God and Father, He sent down the All-Holy Spirit upon His holy disciples and apostles, Who also sat upon each one of them:"
 
 and they were all filled with His inexhaustible grace, and began to speak in other tongues Thy marvelous works, and prophesied:[^991] now therefore give ear unto us who pray unto Thee, and remember us, humble and condemned, and turn back the captivity of our souls, having Thy mercy interceding for us: receive us who fall down before Thee, and cry: We have sinned! Unto Thee were we cast from the womb, from the belly of our mother Thou art our God. But because our days have vanished in vanity, we are stripped of Thy help, and deprived of all defense: but trusting in Thy compassions, we cry: Remember not the sins of our youth and our ignorances, and cleanse us from our secret faults; look upon our lowliness, and cast us not off in the time of old age; when our strength fails, forsake us not: before we return unto the earth, make us worthy to return unto Thee, and attend unto us with favor and grace; measure our iniquities with Thy compassions, set the abyss of Thy bounties against the multitude of our sins. Look down from the height of Thy sanctuary, O Lord, upon Thy people who stand before Thee, awaiting the rich mercy that is from Thee: visit us with Thy goodness; remember us in Thy compassions; deliver us from the oppression of the devil; establish our life with Thy holy and sacred laws; commit Thy people unto a faithful guardian angel; gather us all into Thy Kingdom; grant mercy unto those who hope in Thee; forgive them and us our offenses; purify us for the operation of Thy Holy Spirit; destroy the snares of the enemy that are set against us!
 
@@ -753,23 +751,23 @@ and they were all filled with His inexhaustible grace, and began to speak in oth
 Blessed art Thou, O Lord Almighty, Master and God, Who hast enlightened the day with the light of the sun, and illumined the night with rays of fire; Who hast granted us to pass through the length of the day, and to draw near unto the beginnings of the night: give ear unto our supplications and those of all Thy people; and having forgiven us all our voluntary and involuntary sins, receive our evening supplications, and send down the multitude of Thy mercy and Thy compassions upon Thine inheritance; defend us with Thy holy angels; arm us with the armor of Thy righteousness; nail us unto Thy truth; guard us with Thy power; deliver us from every adversity, and from every assault of the adversary: and grant unto us the present evening with the coming night, perfect, holy, peaceful, sinless, free from scandal, and without fantasy, and all the days of our life: through the prayers of the holy Theotokos, and of all the saints who from the ages have been well-pleasing unto Thee!
 
 *Then the Deacon says:*  
-**Deacon:** Help us, save us, have mercy upon us, raise us up, and protect us, O God, by Thy grace.  
+> **Deacon:** "Help us, save us, have mercy upon us, raise us up, and protect us, O God, by Thy grace."
 Commemorating our all-holy, pure, most blessed Lady...  
 *Then the Priest gives the Exclamation:*  
-**Priest:** For Thine it is to have mercy and to save us, Christ our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.  
-**Choir:** Amen.  
+> **Priest:** "For Thine it is to have mercy and to save us, Christ our God, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *After this the Deacon says:*  
-**Deacon:** Let us all say with our whole soul, and with our whole mind let us say:  
+> **Deacon:** "Let us all say with our whole soul, and with our whole mind let us say:"
 *And the rest of the customary Litany.*  
 *The Priest gives the Exclamation:*  
-**Priest:** For a merciful and man-befriending God art Thou, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.  
-**Choir:** Amen.  
+> **Priest:** "For a merciful and man-befriending God art Thou, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Then the Deacon:*  
-**Deacon:** Again and again, bending our knees, let us pray unto the Lord.  
-**Choir:** Lord, have mercy *(thrice).*  
+> **Deacon:** "Again and again, bending our knees, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy *(thrice).*"
 *Then the Priest reads:*  
 *THE SECOND PRAYER, with a loud voice:*[^993]  
-**Priest:** O Lord Jesus Christ our God, Who hast given Thy peace unto men, and the gift of the All-Holy Spirit, while still present with us in this life, ever granting unto the faithful an indefeasible inheritance:
+> **Priest:** "O Lord Jesus Christ our God, Who hast given Thy peace unto men, and the gift of the All-Holy Spirit, while still present with us in this life, ever granting unto the faithful an indefeasible inheritance:"
 
 and Who didst most manifestly send down this grace unto Thy disciples and apostles this day, and didst establish their lips with fiery tongues:[^994] through whom the whole human race having received the knowledge of God in our own tongues into the hearing of the ear, we have been enlightened with the light of the Spirit, and delivered from delusion as from darkness; and by the distribution of visible fiery tongues and by a supernatural operation, we were taught faith in Thee, and were enlightened to bless Thee, with the Father and with the Holy Spirit, in one Godhead, and power, and dominion: Thou therefore, O Effulgence of the Father, the unchanging and immutable Image of His essence and nature, O Fountain of wisdom and grace: open also the lips of me, a sinner, and teach me how it is meet, and for what things it is necessary to pray: for Thou art He Who knowest the great multitude of my sins, but Thy compassion shall overcome their countless number: for behold, I stand before Thee in fear, having cast the despair of my soul into the depth of Thy mercy: govern my life, Thou Who guidest all creation with a word by the ineffable power of wisdom, O quiet Haven of those caught in storm: and show me the way wherein I should walk. Grant the Spirit of Thy wisdom unto my thoughts; bestow the Spirit of understanding upon my foolishness; overshadow my deeds with the Spirit of Thy fear; and renew an upright Spirit in mine inward parts; and with a governing Spirit establish the slip of my thoughts: that being guided every day toward what is profitable by Thy good Spirit, I may be made worthy to do Thy commandments, and ever to remember Thy glorious coming, and the searching scrutiny of the deeds wrought by us: and suffer me not to be deceived by the corruptible allurements of this world, but strengthen me to desire the attainment of the treasures to come. For Thou hast said, O Master: Whatsoever anyone asks in Thy Name, he receives without hindrance from Thy co-eternal God and Father. Therefore also unto me, a sinner, at the coming of Thy Holy Spirit, do Thou grant Thy grace: whatsoever I have asked, render unto me for salvation! Yea, O Lord, Giver of every good endowment, and rich Giver of good things, for Thou art He Who grantest superabundantly beyond what we ask. Thou art He Who forgivest and hast compassion, having without sin become a Partaker of our flesh; and bowing down in loving compassion unto those who bend their knees unto Thee, having become the cleansing of our sins: grant therefore unto Thy people Thy compassions; give ear unto us from Thy holy heaven; sanctify them by the power of Thy saving right hand; cover them with the shadow of Thy wings; despise not the works of Thy hands: against Thee alone have we sinned, but Thee alone do we serve; we know not how to worship a strange god, nor to stretch out our hands, O Master, unto an alien god: forgive us our offenses, and receiving our kneeling supplications, extend unto all of us the hand of help; receive the prayer of all as acceptable incense,[^995] taken up before Thy most good Kingdom!
 
@@ -778,19 +776,19 @@ and Who didst most manifestly send down this grace unto Thy disciples and apostl
 O Lord, Lord, Who hast delivered us from every arrow that flies by day, deliver us also from every thing that walks in darkness;[^996] receive the evening sacrifice, the lifting up of our hands; vouchsafe us also to pass through the course of the night blamelessly, untempted of evils; and deliver us from every disturbance and fear that comes unto us from the devil: grant compunction unto our souls, and care unto our thoughts concerning the trial of Thy fearful and righteous judgment: nail our flesh with Thy fear, and mortify our members that are upon the earth, that even in the quiet of sleep we may be enlightened by the vision of Thy judgments. Remove from us every unseemly fantasy and harmful lust. And raise us up at the time of prayer, established in faith, and advancing in Thy commandments!
 
 *Then the Deacon says:*  
-**Deacon:** Help us, save us, have mercy upon us, raise us up, and protect us, O God, by Thy grace.  
+> **Deacon:** "Help us, save us, have mercy upon us, raise us up, and protect us, O God, by Thy grace."
 Commemorating our all-holy, pure, most blessed Lady...  
 *The Priest gives the Exclamation:*  
-**Priest:** Through the good will and grace of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages.  
-**Choir:** Amen.  
+> **Priest:** "Through the good will and grace of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine All-Holy, Good, and Life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Then:*  
 *Vouchsafe, O Lord, to keep us this evening without sin...*  
 *And after this the Deacon says:*  
-**Deacon:** Again and again, bending our knees, let us pray unto the Lord.  
-**Choir:** Lord, have mercy *(thrice).*  
+> **Deacon:** "Again and again, bending our knees, let us pray unto the Lord."
+> **Choir:** "Lord, have mercy *(thrice).*"
 *Then the Priest reads:*  
 *THE THIRD PRAYER:*[^997]  
-**Priest:** O ever-flowing, living, and illuminating Fountain, O creative Power co-eternal with the Father, Who hast most excellently fulfilled the whole dispensation for the salvation of mankind, O Christ our God: Who didst shatter the unbreakable bonds of death and the bolts of Hades, and didst trample down the host of evil spirits; Who offeredst Thyself as a blameless sacrifice for us, and gavest Thy most pure Body as an offering untouched and impassable unto any sin; and through this fearful and ineffable sacred rite didst grant us eternal life: Who descendedst into Hades, and didst shatter the eternal bars, and showedst an ascent unto those who sat below; and didst ensnare the primevally evil and abyssal serpent with God-wise allure, and boundest him with chains of darkness in Tartarus, and in unquenchable fire and outer darkness, shutting him in by Thine immeasurable might: O greatly renowned Wisdom of the Father, Who didst appear as a great Helper unto the afflicted, and didst enlighten those that sit in darkness and the shadow of death: Thou, Lord of eternal glory, and beloved Son of the most high Father, eternal Light from eternal Light, Sun of righteousness: give ear unto us who pray unto Thee, and give rest unto the souls of Thy servants, our fathers and brethren who have fallen asleep before us, and our other kinsmen according to the flesh, and all who are of the household of faith, for whom also we now make remembrance: for in Thee is the dominion over all, and in Thy hand Thou holdest all the ends of the earth! O Master Almighty, God of our fathers and Lord of mercy, Creator of the mortal and immortal race, and of all nature, both compounded and again dissolved; of life and of ending, of our sojourning here and of our translation thither: Who measurest the years for the living, and assignest the times of death; Who bringest down into Hades and leadest up; Who bindest in weakness, and settest free in power; Who orderest the present things profitably, and directest the things to come unto salvation:
+> **Priest:** "O ever-flowing, living, and illuminating Fountain, O creative Power co-eternal with the Father, Who hast most excellently fulfilled the whole dispensation for the salvation of mankind, O Christ our God: Who didst shatter the unbreakable bonds of death and the bolts of Hades, and didst trample down the host of evil spirits; Who offeredst Thyself as a blameless sacrifice for us, and gavest Thy most pure Body as an offering untouched and impassable unto any sin; and through this fearful and ineffable sacred rite didst grant us eternal life: Who descendedst into Hades, and didst shatter the eternal bars, and showedst an ascent unto those who sat below; and didst ensnare the primevally evil and abyssal serpent with God-wise allure, and boundest him with chains of darkness in Tartarus, and in unquenchable fire and outer darkness, shutting him in by Thine immeasurable might: O greatly renowned Wisdom of the Father, Who didst appear as a great Helper unto the afflicted, and didst enlighten those that sit in darkness and the shadow of death: Thou, Lord of eternal glory, and beloved Son of the most high Father, eternal Light from eternal Light, Sun of righteousness: give ear unto us who pray unto Thee, and give rest unto the souls of Thy servants, our fathers and brethren who have fallen asleep before us, and our other kinsmen according to the flesh, and all who are of the household of faith, for whom also we now make remembrance: for in Thee is the dominion over all, and in Thy hand Thou holdest all the ends of the earth! O Master Almighty, God of our fathers and Lord of mercy, Creator of the mortal and immortal race, and of all nature, both compounded and again dissolved; of life and of ending, of our sojourning here and of our translation thither: Who measurest the years for the living, and assignest the times of death; Who bringest down into Hades and leadest up; Who bindest in weakness, and settest free in power; Who orderest the present things profitably, and directest the things to come unto salvation:"
 
 Who cheerest with the hope of resurrection those who are wounded with the sting of death! Thou Thyself, Master of all, God our Savior, the Hope of all the ends of the earth, and of those far off upon the sea: Who also on this final, great, and saving day of the Feast didst show forth unto us the mystery of the Holy, Consubstantial, Co-eternal, Undivided, and Unconfused Trinity; and didst pour out the descent and coming of Thy Holy and Life-creating Spirit in the appearance of fiery tongues upon Thy holy apostles, appointing them as proclaimers of the pious faith, and showing them to be confessors and heralds of true theology: and Who on this all-perfect and saving Feast hast deigned to receive propitiatory supplications for those held in Hades, granting great hopes of relief and comfort to be sent down from Thee for those held in afflictions: give ear unto us, Thy humble servants who pray unto Thee! And give rest unto the souls of Thy servants who have fallen asleep before us, in a place of light, in a place of verdure, in a place of refreshment, whence all sickness, sorrow, and sighing have fled away; and establish their spirits in the habitations of the righteous, and vouchsafe them peace and relief:[^998] for the dead shall not praise Thee, O Lord, nor shall those who are in Hades dare to offer confession unto Thee; but we the living bless Thee and pray Thee, and offer unto Thee propitiatory prayers and sacrifices for their souls!
 
@@ -811,22 +809,22 @@ O Heavenly King, Comforter, Master, co-unoriginate and co-eternal, sharing the s
 hast taught us to worship the one God in three Persons alone. Thou Thyself, O Master, the Illumination of the Father, the living and unchanging Image of the Father, together with the Son the immutable Image and the seal of their essence and nature, and the Fountain of sanctification, immortality, and life, in the future unchanging and unending age, the crown and ultimate reception of the saints, wherein is the Cause and Fountain of the Godhead, the one unbegotten and unoriginate Father and God, with the Only-begotten Son and God, the bestowal of all things, unforgotten and ineffable, operating beyond nature in the present and future life: receive the supplication of me, a sinner and unworthy, and Who alone knowest the multitude of all my sins: have mercy upon me according to Thy great mercy, and according to the multitude of Thy compassions cleanse mine iniquities; and wash away thoroughly the mire of my sins, and cleanse the besetting foulness of the passions of my soul: O only pure and undefiled One, and Cleanser of every foulness of stench and passion: cleanse me from my secret faults, O Lord, and deliver Thy servant from those that are foreign; remember not the sins of my youth, and of mine ignorance, and of the wretchedness of mine old age: enlighten my darkened noetic eyes, and rekindle the extinguished lamp of grace; teach my mind by what manner and operation it may know that the Holy Spirit is truly in rational nature! Grant me a word of good cheer, and power, and height, and strength, and strength, that pure and outstretched prayers may ever be offered for Thy people, and for Thy universal Church and flock: which by Thy power and operation, redeemed by the blood of the Only-begotten Son and God, Thou hast divinely established and composed: confirm it upon the rock of the confession of the Godhead, unyielding and unshakable, mightier than the gates of Hades, more powerful and higher than countless heresies, untouched and uninjured in eternal operations and strength, filled in every way with Thy strength and grace! Receive, O King, their genuflections and groanings, their common, united, and outstretched prayers, and their diligent supplications, in faith and hope, that they may look steadfastly unto Thee alone night and day, and gaze upon none other save Thee, our God and Master, and expect salvation from Thee alone; and forgiving them and us every offense, voluntary and involuntary: as Thou art a God most good and almighty, turn away present evils, and make us worthy of eternal blessings: by the mercy and love of mankind of God the Father, and of the Holy Son, and of Thee, the All-Holy and Co-honored Spirit, the one tri-hypostatic Godhead, now and ever, and unto ages of ages. Amen.
 
 *Then the Deacon says:*  
-**Deacon:** Help us, save us, have mercy upon us, raise us up, and protect us, O God, by Thy grace.  
+> **Deacon:** "Help us, save us, have mercy upon us, raise us up, and protect us, O God, by Thy grace."
 Commemorating our all-holy, pure...  
 *The Priest gives the Exclamation:*  
-**Priest:** For Thou art the rest of our souls and bodies, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.  
-**Choir:** Amen.  
+> **Priest:** "For Thou art the rest of our souls and bodies, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *After this:*  
-**Deacon:** Let us complete our evening prayer unto the Lord... *And the rest.*  
+> **Deacon:** "Let us complete our evening prayer unto the Lord... *And the rest.*"
 Commemorating our all-holy, pure...  
 *The Priest gives the Exclamation:*  
-**Priest:** For Thou art a good God and the Lover of mankind...  
-**Priest:** Peace be unto all.  
-**Deacon:** Bow your heads unto the Lord.  
+> **Priest:** "For Thou art a good God and the Lover of mankind..."
+> **Priest:** "Peace be unto all."
+> **Deacon:** "Bow your heads unto the Lord."
 *The Priest reads the customary secret Prayer, which is: "O Lord our God, Who didst bow the heavens..."*  
 *Then the Exclamation:*  
-**Priest:** Blessed and glorified be the majesty of Thy Kingdom: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.  
-**Choir:** Amen.  
+> **Priest:** "Blessed and glorified be the majesty of Thy Kingdom: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *And immediately they divest, and in the midst of the church we sing:*
 
 *At the Aposticha, Idiomel Stichera, Tone 3:*[^1003]  
@@ -990,7 +988,7 @@ O all-immaculate Bride of God, deliver from temptations by thy prayers those who
 *AT MATINS:*  
 *At "God is the Lord," the Troparion of the Feast, thrice.*  
 *After the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се):*[^1018]  
-We sing and hymn, glorify and honor, together with the Father and the Son, the All-Holy Spirit, in one Godhead, divided by personal property: for thus did the apostles of Christ ...the apostles, to teach others and together to preach unto all the world. *Glory... Both now... the same.*
+We sing and hymn, glorify and honor, together with the Father and the Son, the All-Holy Spirit, in one Godhead, divided by personal property: for thus did the apostles of Christ the apostles, to teach others and together to preach unto all the world. *Glory... Both now... the same.*
 
 *After the 2nd Kathisma, Sessional Hymn, Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йно):*  
 After Thy Resurrection from the tomb, O Christ, and Thy divine Ascension unto heavenly heights, Thou didst show Thy glory from on high unto the beholders of God, renewing an upright Spirit in the apostles: whence, as a musical instrument, with a divine lute, they clearly proclaimed unto all the mystery of Thy dispensation and providence, O Savior. *Glory... Both now... the same.*
@@ -1007,9 +1005,7 @@ On this day, Monday of Pentecost, we celebrate the All-Holy, Life-Creating, and 
 
 He sends Him, when the days of Pentecost were being fulfilled, as they were abiding together. At the third hour of the day in the Upper Room, suddenly there was a sound from heaven as of thunder, so that the multitude of the inhabited earth ran together; and the Holy Spirit appeared in the likeness of fiery tongues upon each one of them, not only unto the Twelve, but also unto the Seventy; and they spoke in strange tongues, that is to say, each apostle spoke the tongues of all tribes—not that the apostle spoke his own tongue and the foreigner understood, but the apostle heard and spoke the tongue of each nation. And some among the gathered peoples thought they were drunk; for each did not comprehend how an apostle spoke especially unto all, and they thought this was drunkenness. But others wondered, saying: *What does this mean?* For these were gathered from all the earth because of the feast: Parthians, Medes, and Elamites, who had a short time before been taken captive by Antiochus.
 
-Ten days after the Ascension having passed, the All-Holy Spirit comes, and not immediately then after the Ascension, in order that He might make the disciples who awaited Him even more fervent.[^1021] Some also say this: that on each day, each one of the nine angelic ranks bowed down before the coming of that deified Flesh: nine days therefore having been fulfilled, on the tenth day the Comforter came. We are transformed by sleep; and fifty days after Pascha He comes in commemoration of the Old Law: for when Israel crossed the Red Sea, fifty days having passed, they received the Ten Commandments. Behold also the signs: there a Mountain, here an Upper Room; there fire, and here fiery tongues; and instead of thunder and darkness, an exceedingly violent wind. And in the appearance of tongues the Holy Spirit descended, showing that He hath a kindred nature with the living Word; or also because the apostles were about to teach and bring the nations into the tongues; and in fiery tongues, because God is a consuming fire, and for the sake of purification; and divided, because of the gifts that were to be distributed. And as He once divided and confused into many the single tongue of those of old, so now also in those who knew one tongue He divided it into many, that He might gather together from all nations those who had been dispersed unto the ends of the inhabited earth. And it takes place at the Feast, that, a greater multitude of people being gathered, the report of the wonder might go forth through all the inhabited earth, so that even those who happened to be at Pascha and had seen the miracles wrought by Christ might now again be filled with wonder. On the fiftieth day it was fitting...
-
-...it was fitting that in the very time when of old the Law was given, in that same time also the grace of the Holy Spirit should be poured out: as Christ also did, when at the legal Passover He accomplished His own Passover, the true Passover.
+Ten days after the Ascension having passed, the All-Holy Spirit comes, and not immediately then after the Ascension, in order that He might make the disciples who awaited Him even more fervent.[^1021] Some also say this: that on each day, each one of the nine angelic ranks bowed down before the coming of that deified Flesh: nine days therefore having been fulfilled, on the tenth day the Comforter came. We are transformed by sleep; and fifty days after Pascha He comes in commemoration of the Old Law: for when Israel crossed the Red Sea, fifty days having passed, they received the Ten Commandments. Behold also the signs: there a Mountain, here an Upper Room; there fire, and here fiery tongues; and instead of thunder and darkness, an exceedingly violent wind. And in the appearance of tongues the Holy Spirit descended, showing that He hath a kindred nature with the living Word; or also because the apostles were about to teach and bring the nations into the tongues; and in fiery tongues, because God is a consuming fire, and for the sake of purification; and divided, because of the gifts that were to be distributed. And as He once divided and confused into many the single tongue of those of old, so now also in those who knew one tongue He divided it into many, that He might gather together from all nations those who had been dispersed unto the ends of the inhabited earth. And it takes place at the Feast, that, a greater multitude of people being gathered, the report of the wonder might go forth through all the inhabited earth, so that even those who happened to be at Pascha and had seen the miracles wrought by Christ might now again be filled with wonder. On the fiftieth day it was fitting it was fitting that in the very time when of old the Law was given, in that same time also the grace of the Holy Spirit should be poured out: as Christ also did, when at the legal Passover He accomplished His own Passover, the true Passover.
 
 And the Holy Spirit sat not upon the mouths, but upon the heads of the apostles, embracing that which is divine, and the highest part of the body, the mind itself, from which also the tongue hath its power of speech; or as a certain image, the Spirit uttering a sound by tongues, as if to ordain the apostles to be teachers of the whole world under heaven: for ordination (that is, cheirotonia) takes place upon the heads. The sound and the fire occurred because these took place also at Sinai: that the same Spirit might be shown to be both then and now, enacting the Law and ordering all things. And the multitude of the people was troubled by the rushing sound of the wind, because they thought it was the end of the world, as Christ foreshowed unto the Judeans concerning their destruction. And He said "as of fire," lest anyone should think anything bodily concerning the Holy Spirit: for they accused the apostles of drunkenness; but Peter, standing up and speaking forth in the midst of the people, refuted them, showing that what was said by them was not adhering to the truth: and he brought forward the prophecy of Joel as witness, and brought from among them unto divine knowledge about three thousand souls.
 
@@ -1078,9 +1074,7 @@ The Holy Spirit provides all things... (search before, fol. 387)[^1025]
 Ordering, hymning together, glorifying together, and honoring together the Holy Spirit with the Father and the Son, in one Godhead, distinguishing by hypostatic properties: for thus did He clothe Christ's apostles today, to preach throughout all the world in surpassing wisdom. *Glory... Both now... the same.*
 
 *After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́ро предвари́):*  
-As Thou didst promise sovereignly, distributing unto Christ's apostles, Thou didst unite into one harmony of faith in the uncreated Trinity, by different tongues...
-
-...the division of tongues: but [show] Thy magnificent deeds in us, O good Lover of mankind, we pray Thee. *Glory... Both now... the same.*
+As Thou didst promise sovereignly, distributing unto Christ's apostles, Thou didst unite into one harmony of faith in the uncreated Trinity, by different tongues the division of tongues: but [show] Thy magnificent deeds in us, O good Lover of mankind, we pray Thee. *Glory... Both now... the same.*
 
 *Canon of the Feast: Tone 7, to 6, and Heirmos twice, so that there may be 8 in all; and of the Menaion for the Saint, to 4. After Ode 3, Sessional Hymn of the Feast, twice.*
 
@@ -1139,9 +1133,7 @@ The Holy Spirit openly distributes the wealth of the Godhead, abiding and unexha
 O Spirit of truth and understanding, O Spirit of wisdom, and might, and light, proceeding from the Father, and for the Son's sake richly given unto creation: save us who worship Thy dominion in faith!
 
 *Both now... Theotokion:*  
-O all-blessed Virgin, all my hope fervently...
-
-...I place upon thee: save me, O Mother of Life, and vouchsafe me, O pure one, to be filled with the eternal food, that in faith and love in songs I may magnify thee.
+O all-blessed Virgin, all my hope fervently I place upon thee: save me, O Mother of Life, and vouchsafe me, O pure one, to be filled with the eternal food, that in faith and love in songs I may magnify thee.
 
 *On Tuesday evening, at "Lord, I have cried", we set 6 verses: 3 of the Feast, and 3 from the Menaion.*
 
@@ -1179,9 +1171,7 @@ O Lord, the descent of the Holy Spirit upon Thine apostles... (see fol. 384)[^10
 The spiritual grace having come from poor fishermen, hath enlightened Thine apostles, O Christ, as all-wise princes: through whose teachings we also ever celebrate the bright feast of Pentecost, hymning Thee together with the Father and the divine Spirit. *Glory... Both now... the same.*
 
 *After the 2nd Kathisma, Sessional Hymn, Tone 8, Podoben: "Guiding unto wisdom" (Премꙋ́дрости наста́вниче):*  
-The All-Holy Spirit having now descended upon the apostles in the appearance of fire, filled the gatherings of nations with wonder: for as they spoke in fiery tongues, O Lover of mankind, each heard his own language; and the wonder seemed unto the unbelievers as drunkenness, but unto the faithful truly salvation was recognized...
-
-...was recognized: therefore we glorify Thy dominion, O Christ God, asking remission of sins to be sent richly upon Thy servants. *Glory... Both now... the same.*
+The All-Holy Spirit having now descended upon the apostles in the appearance of fire, filled the gatherings of nations with wonder: for as they spoke in fiery tongues, O Lover of mankind, each heard his own language; and the wonder seemed unto the unbelievers as drunkenness, but unto the faithful truly salvation was recognized was recognized: therefore we glorify Thy dominion, O Christ God, asking remission of sins to be sent richly upon Thy servants. *Glory... Both now... the same.*
 
 *Canon of the Feast, and of the Menaion. After Ode 3, Sessional Hymn of the Feast.*
 
@@ -1274,9 +1264,7 @@ When Thou didst send down Thy Spirit, O Lord... (see fol. 388)[^1030]
 *At "God is the Lord," the Troparion of the Feast, thrice. After the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "While the soldiers were guarding Thy tomb" (Гро́бъ тво́й сп҃се):*  
 Behold, the prophetic sayings are fulfilled: for covered with gloomy radiances in them, the revelation in future things, as God the Comforter, hath now been poured out richly upon the apostles, unto those who faithfully worship the uncreated Trinity. *Glory... Both now... the same.*
 
-*After the 2nd Kathisma...*
-
-*After the 2nd Kathisma, Sessional Hymn, Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йно):*  
+*After the 2nd Kathisma After the 2nd Kathisma, Sessional Hymn, Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йно):*
 The lovers of the Savior were filled with joy, and they who formerly feared took courage, as the Holy Spirit today descended from on high into the house of the disciples; and different ones spoke different things unto the people, and the tongues were seen being divided as if of fire, and burned them not, but rather bedewed them. *Glory... Both now... the same.*
 
 *Canon of the Feast: Tone 7, with Heirmos, to 8; and for the Saint, in the Menaion, to 4. After Ode 3, Sessional Hymn of the Feast, twice.*
@@ -1371,9 +1359,7 @@ Having Christ as Comforter with the Father... (see fol. 386)[^1034]
 ## ON FRIDAY AFTER PENTECOST, AT MATINS
 
 *At "God is the Lord," the Troparion of the Feast, thrice. After the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "While the soldiers were guarding Thy tomb" (Гро́бъ тво́й сп҃се):*  
-Behold, the prophetic sayings are fulfilled, for covered with gloomy radiances in them...
-
-...revelation in future things, as God the Comforter, hath now been poured out richly upon the apostles, unto those who faithfully worship the uncreated Trinity. *Glory... Both now... the same.*
+Behold, the prophetic sayings are fulfilled, for covered with gloomy radiances in them revelation in future things, as God the Comforter, hath now been poured out richly upon the apostles, unto those who faithfully worship the uncreated Trinity. *Glory... Both now... the same.*
 
 *After the 2nd Kathisma, Sessional Hymn, Tone 8, Podoben: "Guiding unto wisdom" (Премꙋ́дрости наста́вниче):*  
 The All-Holy Spirit having now descended upon the apostles in the appearance of fire, filled the gatherings of nations with wonder: for as they spoke in fiery tongues, O Lover of mankind, each heard his own language; and the wonder seemed unto the unbelievers as drunkenness, but unto the faithful truly salvation was recognized: therefore we glorify Thy dominion, O Christ God, asking remission of sins to be sent richly upon Thy servants. *Glory... Both now... the same.*
@@ -1426,9 +1412,7 @@ The Creator, the Wisdom of God, fashioned for Himself a temple of body, O Virgin
 Thou hast offered our first-fruits unto Thy Father, O Savior, having rendered the wealth of divine nature; unto us Thou hast sent the good and life-creating Holy Spirit, co-unoriginate with Thee, O Master!
 
 *Troparion:*  
-The First-fruits of the Godhead He now grants unto the earthly nature...
-
-unto the earthly nature, the Spirit of the Father and of the Only-begotten, given not as a stranger, but abiding as of one nature and of one essence, and of equal honor, and enthroned together with Them!
+The First-fruits of the Godhead He now grants unto the earthly nature unto the earthly nature, the Spirit of the Father and of the Only-begotten, given not as a stranger, but abiding as of one nature and of one essence, and of equal honor, and enthroned together with Them!
 
 *Troparion:*  
 Thou hast shown Thy divine disciples to be heavens, O Savior, proclaiming in fiery tongues Thy dread descent unto us, now sending down upon them the light-bestowing operation of the Comforter from heaven!
@@ -1482,9 +1466,7 @@ Thou Who didst call those dwelling in the graves and dost renew the face of all 
 *Theotokion:*  
 Thou wast revealed as an earthly heaven, O pure one, having contained the Heavenly Word in thy womb, whereby He approached holy ones in the flesh upon the earth, Whom we exalt above all unto the ages!
 
-*Ode 9. Heirmos: God cannot be seen by men...*
-
-*Troparion:*  
+*Ode 9. Heirmos: God cannot be seen by men Troparion:*
 Speaking as it were with fiery tongues, the disciples burned up the deception of idols and enlightened the souls of the faithful through the most radiant divine operation of the Comforter Who manifestly came!
 
 *Troparion:*  
@@ -1545,7 +1527,7 @@ The King of heaven through His love for mankind... (see in the Octoechos, Saturd
 *Then, the Entrance. O Gladsome Light. The Prokeimenon of the day.*
 
 *Reading from the Prophecy of Isaiah (Chapter 43:9–14):*[^1043]  
-Thus saith the Lord: All the nations were gathered together, and princes shall be gathered out of them. Who will announce these things, or who will declare to us the things from the beginning? Let them bring forth their witnesses, and let them be justified, and let them hear, and let them speak truth. Be ye My witnesses, and I too am a witness, saith the Lord God, and the servant whom I have chosen, that ye may know and understand that I am He: before Me there was no other God, neither shall there be any after Me. I am God, and beside Me there is no savior. I have declared, and have saved, and have reproached, and there was no strange god among us. Ye are My witnesses, and I am the Lord God. Even from the beginning, and there is none that can deliver out of My hands: I will work, and who shall turn it back? Thus saith the Lord God, the Holy One of Israel Who delivers you.
+Thus says the Lord: All the nations were gathered together, and princes shall be gathered out of them. Who will announce these things, or who will declare to us the things from the beginning? Let them bring forth their witnesses, and let them be justified, and let them hear, and let them speak truth. Be ye My witnesses, and I too am a witness, says the Lord God, and the servant whom I have chosen, that ye may know and understand that I am He: before Me there was no other God, neither shall there be any after Me. I am God, and beside Me there is no savior. I have declared, and have saved, and have reproached, and there was no strange god among us. Ye are My witnesses, and I am the Lord God. Even from the beginning, and there is none that can deliver out of My hands: I will work, and who shall turn it back? Thus says the Lord God, the Holy One of Israel Who delivers you.
 
 *Reading from the Wisdom of Solomon (Chapter 3:1–9):*[^1044]  
 The souls of the righteous are in the hand of God, and no torment shall touch them. In the eyes of the foolish they seemed to die, and their departure was taken for misery, and their going from us to be utter destruction; but they are in peace. For though they be punished in the sight of men, yet is their hope full of immortality. And having been a little chastised, they shall be greatly rewarded; for God proved them, and found them worthy of Himself. As gold in the furnace hath He tried them, and received them as a burnt offering of sacrifice. And in the time of their visitation they shall shine, and run to and fro like sparks among the stubble. They shall judge nations, and have dominion over peoples, and the Lord shall reign over them unto the ages. They that put their trust in Him shall understand the truth, and such as be faithful in love shall abide with Him; for grace and mercy are in His saints, and visitation among His elect.
@@ -1750,9 +1732,7 @@ Celebrating the holy memory of the Forefathers, Fathers, Patriarchs, Apostles, M
 *Both now... Theotokion:*  
 Heavenly Gate and Ark, All-Holy Mountain, and radiant Cloud, unburnt Bush of sufferings, rational Paradise and restoration of Eve, great vessel of the whole universe; for salvation was wrought in thee for the world, and remission of ancient transgressions: therefore we cry unto thee: Entreat Christ God to grant remission of sins unto those who piously worship thy most holy childbearing!
 
-*Ode 4. Heirmos: Thou art my Lord, O Christ, Thou art my strength...*
-
-*leaving not the Father's bosom, visiting our poverty according to Thy mercy: therefore with the Prophet Habakkuk I cry: Glory to Thy power, O Lover of mankind!*
+*Ode 4. Heirmos: Thou art my Lord, O Christ, Thou art my strength leaving not the Father's bosom, visiting our poverty according to Thy mercy: therefore with the Prophet Habakkuk I cry: Glory to Thy power, O Lover of mankind!*
 
 *Troparion:*  
 Being loathsome, Thou didst greatly love me; by a strange emptying Thou didst descend upon the earth, O compassionate Savior, not rejecting the extremes of my reproach; and remaining in the height of Thine all-pure glory, Thou hast glorified him who was previously dishonored!
@@ -1886,9 +1866,7 @@ Those who were martyred across all the earth and have been translated unto heave
 All the friends of my Lord do I extol;
 In heaven with them do I desire to be.
 
-*On the same day, the First Sunday after Pentecost, we celebrate the Feast of All Saints who are everywhere throughout the whole inhabited world, in Asia, Libya, and Europe, in the North and in the South. For after the coming of the All-Holy Spirit, the divine Fathers established that we should celebrate this feast, as if displaying an image: that the coming of the All-Holy Spirit accomplished such great things through the Apostles, sanctifying and making wise from among our clay, to fill up that fallen Angelic Rank, establishing them and bringing them unto God through Christ—some indeed by martyrdom and blood, and others by a virtuous life and conversation—and performing deeds surpassing nature. For the Holy Spirit descends in the appearance of fire, having an upward-tending nature; while our clay, which by nature tends downward, ascends unto the heights—our human clay which was previously assumed and deified by God the Word, the flesh which was taken up and seated at the right hand of the Father of Glory. And now He draws all who are willing, as the promise of God the Word shows the accomplishment of the transformation and a certain intended goal: that His bodily coming and dispensation toward us draws into unity and divine love those who of old were alienated, removing godless peoples, and offering unto God the first-fruits of nature as it were, through those who in various ways were well-pleasing unto Him. In this first manner, therefore, we celebrate the feast of all the saints. And in the second manner: because many were well-pleasing unto God through extreme virtue, and yet remained nameless and unknown among men, hidden from human knowledge, but nevertheless possess great glory before God; or because many lived according to Christ in the Indies, among the Egyptians, and the Arabs, in Mesopotamia, and Phrygia, and those beyond the Great Sea, and furthermore in the whole West, even unto the Black Sea and the British Isles themselves—and simply to say, in the East and in the West—and it was not possible to honor them properly one by one because of their vast number, as ecclesiastical custom hath received. That we may therefore receive help from all of them, wherever anyone was well-pleasing unto God on earth, the divine Fathers established that the Feast of All Saints be celebrated—both of all those who were before and of those who were after, both revealed and unrevealed—since the one Holy Spirit dwelt in them, honoring them all collectively. Or in the third manner: it was fitting to gather the saints celebrated on each day...*
-
-*...and to gather the saints celebrated on each day into one day, that it might be made manifest that they all strove for the sake of the one Christ, and all ran the race of the same virtue; and thus all, as servants of the one God, were worthily crowned, establishing this Church, filling the heavenly world, and urging us also to engage in an equal contest with them, diverse and manifold though it be, striving with all zeal according to the power each possesses. In honor of all these saints from the ages, the ever-memorable Emperor Leo the Wise built a great and most magnificent church, near the Church of the Holy Apostles within the city of Constantine.[^1054] At first, as they say, he was building it for Empress Theophano his wife, who had been completely well-pleasing unto God; and it was a most glorious church in the midst of tiles and within the churches. But the Church did not allow the fulfillment of this intention, submitting rather to common counsel: for they deemed it inappropriate that a church should immediately receive such an honor, and be dedicated as a church of such surpassing beauty and distinction, for one who only yesterday and before three days had reposed, even though she had been well-pleasing unto God. The wise Emperor therefore acquiesced in this, and dedicated the church erected for the whole Church unto all the saints throughout all the earth, saying: 'If Theophano also be holy, let her be numbered together with all these!' And I deem that from that time above all, the celebration of the present feast had its origin, having not existed previously. For this reason it is placed at the end of the Triodion, as if enclosing all the feasts with a fence: for ecclesiastical good order and ritual, though begun from above, was gradually established in greater perfection, as was fitting; but in the days of this Emperor it was brought unto perfection and assumed the form that its orders and ritual now possess. The Triodion, to speak in brief, carefully contains within itself a continuous account of all that God hath done for us in ineffable words: the devil's fall from on high, the first parable of Adam's expulsion and transgression, the entire dispensation of God the Word for our sake, and how by the Holy Spirit we were brought back up unto heaven and filled up that fallen rank, which is made known through all the saints. And let it be known that today we celebrate all those whom the Holy Spirit hath sanctified by grace: I mean the surpassing divine minds, the nine manifest angelic orders—namely, Cherubim, Seraphim, Thrones, Dominions, Powers, Authorities, Principalities, Archangels, Angels—Forefathers and Patriarchs, Prophets, Holy Apostles, Hieromartyrs and Venerable Martyrs, the Venerable and the Righteous, and the choirs of all holy Women, and all other nameless saints. And with them, above all and in all and with all the saints, let our Most Pure Lady and Sovereign, incomparably higher than all the Angelic Ranks, the Mother of God, Mary Ever-Virgin, be commemorated! By whose prayers, O Christ God, and those of all Thy saints who have been from the ages, have mercy on us and save us, as Thou alone art good and the Lover of mankind, now and ever and unto ages of ages. Amen.*
+*On the same day, the First Sunday after Pentecost, we celebrate the Feast of All Saints who are everywhere throughout the whole inhabited world, in Asia, Libya, and Europe, in the North and in the South. For after the coming of the All-Holy Spirit, the divine Fathers established that we should celebrate this feast, as if displaying an image: that the coming of the All-Holy Spirit accomplished such great things through the Apostles, sanctifying and making wise from among our clay, to fill up that fallen Angelic Rank, establishing them and bringing them unto God through Christ—some indeed by martyrdom and blood, and others by a virtuous life and conversation—and performing deeds surpassing nature. For the Holy Spirit descends in the appearance of fire, having an upward-tending nature; while our clay, which by nature tends downward, ascends unto the heights—our human clay which was previously assumed and deified by God the Word, the flesh which was taken up and seated at the right hand of the Father of Glory. And now He draws all who are willing, as the promise of God the Word shows the accomplishment of the transformation and a certain intended goal: that His bodily coming and dispensation toward us draws into unity and divine love those who of old were alienated, removing godless peoples, and offering unto God the first-fruits of nature as it were, through those who in various ways were well-pleasing unto Him. In this first manner, therefore, we celebrate the feast of all the saints. And in the second manner: because many were well-pleasing unto God through extreme virtue, and yet remained nameless and unknown among men, hidden from human knowledge, but nevertheless possess great glory before God; or because many lived according to Christ in the Indies, among the Egyptians, and the Arabs, in Mesopotamia, and Phrygia, and those beyond the Great Sea, and furthermore in the whole West, even unto the Black Sea and the British Isles themselves—and simply to say, in the East and in the West—and it was not possible to honor them properly one by one because of their vast number, as ecclesiastical custom hath received. That we may therefore receive help from all of them, wherever anyone was well-pleasing unto God on earth, the divine Fathers established that the Feast of All Saints be celebrated—both of all those who were before and of those who were after, both revealed and unrevealed—since the one Holy Spirit dwelt in them, honoring them all collectively. Or in the third manner: it was fitting to gather the saints celebrated on each day and to gather the saints celebrated on each day into one day, that it might be made manifest that they all strove for the sake of the one Christ, and all ran the race of the same virtue; and thus all, as servants of the one God, were worthily crowned, establishing this Church, filling the heavenly world, and urging us also to engage in an equal contest with them, diverse and manifold though it be, striving with all zeal according to the power each possesses. In honor of all these saints from the ages, the ever-memorable Emperor Leo the Wise built a great and most magnificent church, near the Church of the Holy Apostles within the city of Constantine.[^1054] At first, as they say, he was building it for Empress Theophano his wife, who had been completely well-pleasing unto God; and it was a most glorious church in the midst of tiles and within the churches. But the Church did not allow the fulfillment of this intention, submitting rather to common counsel: for they deemed it inappropriate that a church should immediately receive such an honor, and be dedicated as a church of such surpassing beauty and distinction, for one who only yesterday and before three days had reposed, even though she had been well-pleasing unto God. The wise Emperor therefore acquiesced in this, and dedicated the church erected for the whole Church unto all the saints throughout all the earth, saying: 'If Theophano also be holy, let her be numbered together with all these!' And I deem that from that time above all, the celebration of the present feast had its origin, having not existed previously. For this reason it is placed at the end of the Triodion, as if enclosing all the feasts with a fence: for ecclesiastical good order and ritual, though begun from above, was gradually established in greater perfection, as was fitting; but in the days of this Emperor it was brought unto perfection and assumed the form that its orders and ritual now possess. The Triodion, to speak in brief, carefully contains within itself a continuous account of all that God hath done for us in ineffable words: the devil's fall from on high, the first parable of Adam's expulsion and transgression, the entire dispensation of God the Word for our sake, and how by the Holy Spirit we were brought back up unto heaven and filled up that fallen rank, which is made known through all the saints. And let it be known that today we celebrate all those whom the Holy Spirit hath sanctified by grace: I mean the surpassing divine minds, the nine manifest angelic orders—namely, Cherubim, Seraphim, Thrones, Dominions, Powers, Authorities, Principalities, Archangels, Angels—Forefathers and Patriarchs, Prophets, Holy Apostles, Hieromartyrs and Venerable Martyrs, the Venerable and the Righteous, and the choirs of all holy Women, and all other nameless saints. And with them, above all and in all and with all the saints, let our Most Pure Lady and Sovereign, incomparably higher than all the Angelic Ranks, the Mother of God, Mary Ever-Virgin, be commemorated! By whose prayers, O Christ God, and those of all Thy saints who have been from the ages, have mercy on us and save us, as Thou alone art good and the Lover of mankind, now and ever and unto ages of ages. Amen.*
 
 *Ode 7. Heirmos:*
 *At God's descent, the fire was put to shame in Babylon of old; therefore the youths in the furnace, dancing with glad feet as in a meadow of flowers, sang: Blessed art Thou, O God of our fathers!*
@@ -2130,7 +2108,7 @@ If there be no saint celebrated with a feast, we chant *Alleluia* in the Tone of
 [^932]: Leaf p388 (fol. 383v): Ode 9 Heirmos of the Memorial Saturday Canon by St. Theodore the Studite, Tone 8.
 [^933]: Leaf p388 (fol. 384r): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸν τοῖς ἄστροις*.
 [^934]: Leaf p388 (fol. 384r): Melodic model (Podoben) *Tone 8, Podoben: "In Eden of old" (И҆́же въ є҆де́мѣ):* corresponds to Greek *Ὁ ἐν Ἐδὲμ Παράδεισος*.
-[^935]: Leaf p389 (fol. 385r): Melodic model (Podoben) *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ᲊпова́нїе):* corresponds to Greek *Ὅλην ἀποθέмеνοι*.
+[^935]: Leaf p389 (fol. 385r): Melodic model (Podoben) *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ᲊпова́нїе):* corresponds to Greek *Ὅλην ἀποθέμενοι*.
 [^936]: Folio 379 corresponds to physical leaf p383.
 [^937]: Leaf p390 (fol. 386r): Headpiece opening of the Great Feast of Holy Pentecost (Fifty Days after Pascha), beginning Part V of the publication spec.
 [^938]: Leaf p390 (fol. 386r): Melodic model (Podoben) *Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чино́въ):* corresponds to Greek *Τῶν οὐρανίων ταγμάτων*.
@@ -2149,7 +2127,7 @@ If there be no saint celebrated with a feast, we chant *Alleluia* in the Tone of
 [^951]: LXX Psalm 50:13.
 [^952]: Leaf p393 (fol. 389r): Troparion of Holy Pentecost in Tone 8 (*Блгⷭ҇ве́нъ є҆сѝ хрⷭ҇тѐ бж҃е на́шъ* / *Blessed art Thou, O Christ our God*).
 [^953]: Leaf p393 (fol. 389r): Melodic model (Podoben) *Tone 4, Podoben: "Thou who wast lifted up upon the Cross" (Ꙗ҆ви́лся є҆сѝ дне́сь):* corresponds to Greek *Ἐπεφάνης σήμερον*.
-[^954]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):* corresponds to Greek *Τὸν συνάнаρχον Λόγον*.
+[^954]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):* corresponds to Greek *Τὸν συνάναρχον Λόγον*.
 [^955]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 8, Podoben: "That which was mystically commanded" (Повелѣ́нное та́инственно):* corresponds to Greek *Τὸ προσταχθὲν μυστικῶς*.
 [^956]: LXX Psalm 142:10.
 [^957]: Leaf p394 (fol. 389v): Gospel reading at Pentecost Matins: John 20:19–23.
@@ -2172,7 +2150,7 @@ If there be no saint celebrated with a feast, we chant *Alleluia* in the Tone of
 [^974]: Leaf p397 (fol. 393r): Ode 8 Heirmos of the Second (Iambic) Canon.
 [^975]: Leaf p398 (fol. 393v): Ode 9 Heirmos of the First Canon.
 [^976]: Leaf p398 (fol. 393v): Ode 9 Heirmos of the Second (Iambic) Canon.
-[^977]: Leaf p398 (fol. 393v): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸн τοῖς ἄστροις*.
+[^977]: Leaf p398 (fol. 393v): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸν τοῖς ἄστροις*.
 [^978]: Leaf p398 (fol. 394r): Stichera at the Praises (Lauds) in Tone 4, based on the narrative of Acts 2:1–11.
 [^979]: Leaf p399 (fol. 394v): Liturgy Antiphons for the Feast of Pentecost based on LXX Psalms 18, 19, and 20.
 [^980]: Leaf p399 (fol. 394v): Galatians 3:27, replacing the Trisagion at the Divine Liturgy of Pentecost.

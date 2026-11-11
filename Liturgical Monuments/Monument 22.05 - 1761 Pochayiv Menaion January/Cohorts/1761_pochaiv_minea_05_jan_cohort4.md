@@ -202,7 +202,7 @@ Great and fearful is the mystery: that God was made like unto men, and knowing n
 
 The Flower of David having shone forth from the Virgin, Christ comes unto the streams of the Jordan to wash away the sins of our forefather with waters. Leap for joy, Adam! Be glad, Eve! Let heaven rejoice! Ye peoples, let us say: Blessed art Thou Who art come, O our God, glory to Thee![^138]  
 
-*Glory, in the same Tone [Tone 6] and Podoben:*  
+*Glory, in the same Tone [Tone 6] and Podoben (Подо́бенъ):*  
 With trembling hand, dreading to lay on his hand, John rejoices in soul, considering that Thou hast deigned to bow Thy head, clothed in the form of a servant, that Thou mightest deliver mankind from the servitude of the enemy. We cry unto Thee: Blessed art Thou Who art come, O our God, glory to Thee!  
 
 *Both now, in the same Tone:*  

@@ -112,6 +112,8 @@ Setting ourselves in array on high, let us be likened unto the angelic rank, and
 
 *Photogogic:* O Christ, Who art Light: enlighten me through Thee, through the prayers of Thy bodiless powers, and save me!
 
+# ASCETIC HOMILIES AND COLOPHON
+
 *Discourse of our Holy Father Ephrem: Lord, give the blessing, O Father!*
 
 Consider, brethren, and shudder in fear, O men! For we are about to give an accounting at the last, on the dreadful Day of Judgment. We shall stand compunctious and downcast, condemned by our evil deeds which we committed in this life, which it befits not Christians to commit—these evil deeds from which we renounced ourselves at baptism, saying: "We renounce Satan and all his works." Therefore let us abide in God and before the angels of God, having cast away from ourselves all evil and unfitting things, and acting in fear, in meekness, and in divine love. Yea, brethren, let us all weep for ourselves, and mourn, and sigh deeply, that we may be preserved from the burning river of fire!

@@ -52,7 +52,7 @@ Thou didst ascend the Cross, O Jesus, Who camest down from heaven; Thou camest u
 
 Let us glorify Christ, Who rose from the dead: for having assumed soul and body, by His Passion He severed them one from the other; His all-pure soul indeed descending into Hades, which He also despoiled, while in the tomb His holy body saw not corruption: the Deliverer of our souls!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 *Sticheron:*
 
@@ -858,7 +858,7 @@ Since the Judge is at hand, take thought, O my soul, and consider the hour of th
 
 *Tone 8.*
 
-*Podoben: "That which was commanded mystically" (Повелѣ́нное та́инственно):*
+*Podoben: "That which was commanded mystically" (Повеленное тайно):*
 
 *Theotokion:*
 
@@ -1490,7 +1490,7 @@ Accounted worthy of ever-existing blessings in the heavens, O passion-bearers, y
 
 [f. 136A] *Theotokion:*
 
-In motherly manner dost Thou nourish with milk the Nourisher of all, and barest Him in thine arms, O pure one, Who ever upholds all things by His hand!
+In motherly manner dost thou nourish with milk the Nourisher of all, and barest Him in thine arms, O pure one, Who ever upholds all things by His hand!
 
 *Another Heirmos: Establish me upon the rock of faith, widening my mouth against mine enemies, for my spirit rejoices when I sing: None is holy as our God, and none is righteous save Thee, O Lord!*
 
@@ -1576,7 +1576,7 @@ Having through faith separated your mind from love of the flesh, O passion-beare
 
 *Theotokion:*
 
-Beholding thee by the Spirit as a great mountain, O Mother of God, whence a stone was cut without hands, Daniel foresaw Thee shattering the idols of the demons!
+Beholding thee by the Spirit as a great mountain, O Mother of God, whence a stone was cut without hands, Daniel foresaw thee shattering the idols of the demons!
 
 *Another Heirmos: The enlightenment of those lying in darkness, the salvation of the despairing, O Christ my Savior, unto Thee do I rise early, O King of peace: enlighten me with Thine illumination, for other than Thee I know no God!*
 
@@ -1810,7 +1810,7 @@ Taking up the Cross of Christ as an unconquerable weapon, the holy Martyrs broug
 
 *Glory... Both now... Theotokion:*
 
-[f. 136A] Save Thy servants from perils, O Virgin Mother of God, for after God we all flee unto thee as an unbreakable rampart and protectress!
+[f. 136A] Save thy servants from perils, O Virgin Mother of God, for after God we all flee unto thee as an unbreakable rampart and protectress!
 
 *At the Liturgy, The Beatitudes, Tone 8:*
 
@@ -1868,7 +1868,7 @@ At that time: When John had heard in the prison the works of Christ, he sent two
 
 *On Tuesday Evening, at "Lord, I have cried," Stichera to the Cross, Tone 3.*
 
-*Podoben: "Great is the power of Thy Cross, O Lord" (Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и):*
+*Podoben: "Great is the power of Thy Cross, O Lord" (Велїа крта твоего):*
 
 *Sticheron 1:*
 
@@ -1884,7 +1884,7 @@ He Who is the Creator and Lord of all things and the God of all is willing to be
 
 *Sticheron 3:*
 
-Beholding Him Who was born of thee hanging upon the Tree, O all-immaculate one, thou didst cry aloud, exclaiming: O my most beloved Child, whither is Thy light-bearing beauty set, Who hast adorned the nature of mankind?
+Beholding Him Who was born of thee hanging upon the Tree, O all-immaculate one, thou didst cry aloud, exclaiming: O my most beloved Child, whither is thy light-bearing beauty set, Who hast adorned the nature of mankind?
 
 *Sticheron 4:*
 
@@ -1896,7 +1896,7 @@ Put off, O soul, the heavy burdens of thy former transgressions, and bow thy nec
 
 *Glory... Both now... Staurotheotokion:*
 
-A sword pierced thy heart, O all-pure one, when thou sawest Thy Son upon the Cross, and thou didst cry aloud: Leave me not childless, O my Son and my God, Who didst preserve me a Virgin after childbearing!
+A sword pierced thy heart, O all-pure one, when thou sawest thy Son upon the Cross, and thou didst cry aloud: Leave me not childless, O my Son and my God, Who didst preserve me a Virgin after childbearing!
 
 [f. 136A] *Prokeimenon, Tone 3: Thy mercy, O Lord, shall pursue me all the days of my life. (Ps. 22:6)*
 
@@ -1936,7 +1936,7 @@ Lifted up upon the cypress, the pine, and the cedar, O Lamb of God, that Thou mi
 
 *Glory... Both now... Staurotheotokion:*
 
-Having acquired the Cross of Thy Son as a rod of strength, O Mother of God, thereby do we cast down the insolence of the enemy, ever magnifying thee in love!
+Having acquired the Cross of thy Son as a rod of strength, O Mother of God, thereby do we cast down the insolence of the enemy, ever magnifying thee in love!
 
 *After the second Kathisma, Sessional Hymns of the Cross, Tone 3:*
 
@@ -2370,7 +2370,7 @@ O Tri-hypostatic Unity and undivided all-effecting Trinity, one essence and powe
 
 *Both now... Theotokion:*
 
-Beholding Him upon the Cross Whom thou didst incarnate of thy pure blood, grieving she cried aloud, O Virgin Mother of God: What is this, O Child, that the evil assembly hath rendered unto Thee, putting Thee to death, Who art the life and resurrection of all the faithful!
+Beholding Him upon the Cross Whom thou didst incarnate of thy pure blood, grieving she cried aloud, O Virgin Mother of God: What is this, O Child, that the evil assembly hath rendered unto thee, putting thee to death, Who art the life and resurrection of all the faithful!
 
 *Prokeimenon, Tone 3 (Song of the Theotokos): My soul doth magnify the Lord. (Luke 1:46) Verse: For He hath regarded the lowliness of His handmaiden. (Luke 1:48)*
 
@@ -2394,7 +2394,7 @@ At that time: Jesus entered into a certain village: and a certain woman named Ma
 
 *On Wednesday Evening, at "Lord, I have cried," Stichera to the Apostles, Tone 4.*
 
-*Podoben: "As one valiant among martyrs" (Я҆́кѡ до́бля):*
+*Podoben: "As one valiant among martyrs" (Ꙗко добля):*
 
 *Sticheron 1:*
 
@@ -2586,7 +2586,7 @@ Standing at the right hand of Christ as a Queen, in golden vesture, the Maiden f
 
 *Kontakion of Saint Nicholas, Tone 3.*
 
-*Podoben: "Today the Virgin" (Дѣ́ва дне́сь):*
+*Podoben: "Today the Virgin" (Дѣвая днесь):*
 
 In Myra, O holy Nicholas, thou wast shown forth as a sacrificer: having fulfilled the Gospel of Christ, O venerable one, thou didst lay down thy life for thy people, and didst save the innocent from death; therefore thou wast sanctified as a great initiate of the grace of God!
 
@@ -2810,7 +2810,7 @@ O divine clouds of the Master, with divine showers water now my heart that has b
 
 [f. 136A] *Theotokion:*
 
-Together with the holy Angels, with the divine Apostles, and with the glorious Martyrs, pray Thy Son and God, O all-immaculate Mother of God, to deliver our souls from afflictions!
+Together with the holy Angels, with the divine Apostles, and with the glorious Martyrs, pray thy Son and God, O all-immaculate Mother of God, to deliver our souls from afflictions!
 
 *Another Heirmos: Rejoice, O Isaiah...*
 
@@ -3284,7 +3284,7 @@ Thou hast renewed the earthly nature, O pure one, by the renewal of thy childbir
 
 *Troparion 4:*
 
-Adam who had been condemned and held by death, the second Adam, O all-immaculate one, brings up, having had mercy on him through thee, crying: Blessed art Thou, Who wast born and hast renewed me!
+Adam who had been condemned and held by death, the second Adam, O all-immaculate one, brings up, having had mercy on him through thee, crying: Blessed art thou, Who wast born and hast renewed me!
 
 *Ode 8. Heirmos:*
 
@@ -3522,7 +3522,7 @@ As noetic luminaries were ye revealed, O holy martyrs, unto the world [f. 136A] 
 
 *After the second Kathisma, Sessional Hymns to the Martyrs, Tone 8.*
 
-*Podoben: "Guiding unto wisdom" (Премꙋ́дрости наста́вниче):*
+*Podoben: "Guiding unto wisdom" (Премудрости):*
 
 *Sessional Hymn 1:*
 
@@ -3646,7 +3646,7 @@ He Who was incarnate of thy womb and became man, Who is pre-eminently the only L
 
 *Kontakion, Tone 8.*
 
-*Podoben: "As first-fruits of nature" (Я҆́кѡ нача́тки е҆стества̀):*
+*Podoben: "As first-fruits of nature" (Яко начатки естества):*
 
 As the first-fruits of nature, unto the Creator of creation the universe offers Thee, O Lord, the God-bearing martyrs: by their prayers preserve in profound peace Thy Church and Thy city, for the sake of the Mother of God, O Thou Who alone art much-merciful.
 

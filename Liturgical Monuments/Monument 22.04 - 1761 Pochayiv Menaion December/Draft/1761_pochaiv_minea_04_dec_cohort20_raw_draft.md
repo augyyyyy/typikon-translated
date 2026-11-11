@@ -186,7 +186,7 @@ The prophetic preachings have received their fulfillment; for He Whom they said 
 
 *Sunday Exapostilarion.*
 *Glory, of the Fathers:*
-*Tone 2, Podoben: "With the disciples" (Оу҆чени́кwмъ):*
+*Tone 2, Podoben: "With the disciples" (Оу҆чени́кѡмъ):*
 The chosen of the patriarchs and the fathers before the Law by faith...
 
 === LEAF p198 ===
@@ -203,7 +203,7 @@ The chosen of the patriarchs: *(Written before this).*
 *Both now:*
 Be glad, O Bethlehem, and thou Ephrathah, prepare thyself; for the Birthgiver of God comes to give birth to God ineffably in a cave and manger: O fearful mystery! Whose divine nativity Abraham, Isaac, and Jacob, all the patriarchs and prophets brightly celebrate in advance, and men with the angels.
 
-*At the Praises, Sunday stichera, 4; and of the Fathers, 4. Stichera of the Fathers: Tone 5, Podoben: "Rejoice, [thou fair dwelling-place] of the ascetics" (Ра́дꙋйся по́стникwвъ):*
+*At the Praises, Sunday stichera, 4; and of the Fathers, 4. Stichera of the Fathers: Tone 5, Podoben: "Rejoice, [thou fair dwelling-place] of the ascetics" (Ра́дꙋйся по́стникѡвъ):*
 Lift up thy voice truly, O Zion, divine city, and proclaim the divine memory of the Fathers, honoring with Abraham Isaac and ever-glorious Jacob; for behold, with Judah and Levi we magnify Moses the great and Aaron the marvelous; and with David we all honor Jesus [son of Nun] and Samuel: clapping hands in divine songs for the divine praise of the Forefeast of Christ, wherein we ask to obtain grace from Him, and that great mercy be granted to the world. *Twice.*
 
 *Verse: Blessed art Thou, O Lord God of our fathers, and praised and glorified is Thy name unto all ages.*

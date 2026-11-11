@@ -7,7 +7,7 @@ Through envy of delight I was cast out, having fallen with a grievous fall; but 
 
 *Martyricon:* Come, all ye people, let us honor the memory of the holy passion-bearers; for having become a spectacle unto angels and unto men, they received crowns of victory from Christ, and pray for our souls.[^3432]
 
-*Glory... both now... Stavrotheotokion:* Beholding Him Who was born of thee, O All-Immaculate One, suspended upon the Tree, thou didst cry out, sobbing: O my sweet child! whither hath Thy light-bearing beauty set, Who hast done good unto the human race?[^3433]
+*Glory... both now... Stavrotheotokion:* Beholding Him Who was born of thee, O All-Immaculate One, suspended upon the Tree, thou didst cry out, sobbing: O my sweet child! whither hath thy light-bearing beauty set, Who hast done good unto the human race?[^3433]
 
 *Then: It is good to give praise: Trisagion. After Our Father: troparion, litany, and the First Hour, and the dismissal.*[^3434]
 
@@ -211,7 +211,7 @@ Without departing from the divine nature, He became flesh in thy womb; but havin
 
 *Martyricon 2:* Ye shine forth by faith as most radiant luminaries, O holy ones, physicians of the sick, O most lauded passion-bearers! For ye feared not the wounds of the tormentors, and cast down idolatrous impiety, having an unconquerable victory, the true Cross.[^3509]
 
-*Glory... both now... Theotokion:* Thee who didst intercede for the salvation of our race do we hymn, O Virgin Theotokos; for having taken flesh from thee, Thy Son and our God, through the Cross having received passion, delivered us from corruption, as He is the Lover of mankind.[^3510]
+*Glory... both now... Theotokion:* Thee who didst intercede for the salvation of our race do we hymn, O Virgin Theotokos; for having taken flesh from thee, thy Son and our God, through the Cross having received passion, delivered us from corruption, as He is the Lover of mankind.[^3510]
 
 *After the second Kathisma reading, Sessional Hymns, Tone 3.*[^3511]
 *Martyricon 1:* Having armed yourselves with the whole armor of Christ, and having clothed yourselves in the weapon of faith, ye cast down the hostile ranks in martyrdom; for zealously, in hope of life, ye endured all the threats and wounds of the tormentors. Therefore also ye received crowns, O patient-minded martyrs of Christ.[^3512]

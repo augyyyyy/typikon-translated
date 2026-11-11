@@ -53,7 +53,7 @@ These soldiers of the Great King valiantly resisted the commands of the torturer
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 2:*
 
-When the doors were shut, Jesus, having stood before the disciples, gave fearlessness and peace; then He saith unto Thomas: Why dost thou not believe Me, that I arose from the dead? Bring hither thy hand and put it into My ribs, and see; for because thou didst disbelieve, all have learned to cry aloud with thee unto My Passions and My Resurrection: My Lord and my God, glory to Thee!
+When the doors were shut, Jesus, having stood before the disciples, gave fearlessness and peace; then He says unto Thomas: Why dost thou not believe Me, that I arose from the dead? Bring hither thy hand and put it into My ribs, and see; for because thou didst disbelieve, all have learned to cry aloud with thee unto My Passions and My Resurrection: My Lord and my God, glory to Thee!
 
 *At the Aposticha, stichera of the feast.*
 *Tone 2, Podoben: "O House of Ephratha" (До́ме Е҆ѵфра́ѳовъ):*
@@ -148,7 +148,7 @@ Having seen the never-setting Light that shone forth from the dead, O pure one, 
 *At "Lord, I have cried", we set 6 verses, and we chant prosomoia stichera.*
 *Tone 1, Podoben: "O all-lauded martyrs" (Прехва́льнїи мꙋ́ченицы):*[^468]
 
-Touch, saith the Lover of mankind Who arose on the third day from the dead unto Thomas, and behold the wounds of My hands and feet, and the piercing of My ribs; and know Me to be the changeless God, fashioned according to essence in earthly mixture, and having accepted passion therein!
+Touch, says the Lover of mankind Who arose on the third day from the dead unto Thomas, and behold the wounds of My hands and feet, and the piercing of My ribs; and know Me to be the changeless God, fashioned according to essence in earthly mixture, and having accepted passion therein!
 
 The Twin was in perplexity as he beheld the wounds healed and the piercings of the hands, and he was struck with awe by the fearful wonder; and touching with his hand and beholding the most pure rib, from these he showed forth unto the nations the undoubted three-day Resurrection from the tomb!
 
@@ -177,7 +177,7 @@ O your good barter, O holy ones! For ye gave blood and inherited heaven, and hav
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8:*
 
-Touch My ribs with thy hand, O Thomas, saith Christ, and come, feel the wounds of the nails; examine with faith, and be thou faithful unto Me, and be not faithless! And when Thomas touched the Master with his finger, he cried aloud with a great voice: Thou art my God and Lord, O Compassionate One, glory to Thee!
+Touch My ribs with thy hand, O Thomas, says Christ, and come, feel the wounds of the nails; examine with faith, and be thou faithful unto Me, and be not faithless! And when Thomas touched the Master with his finger, he cried aloud with a great voice: Thou art my God and Lord, O Compassionate One, glory to Thee!
 
 *Then: "Now lettest Thou Thy servant depart..." Dismissal Troparion: "When the stone had been sealed..." (see fol. 250)[^471] Litany, and the Dismissal.*
 
@@ -227,7 +227,7 @@ Neither tribulations, nor distress, nor famine, nor persecution, nor wounds, nor
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8:*
 
-When the doors were shut and the disciples were gathered, the Savior stood where they were assembled, and having stood in their midst, He saith unto Thomas: Come, feel, and see the marks of the nails; stretch forth thy hand and touch My ribs, and be not faithless, but with faith proclaim My Resurrection from the dead!
+When the doors were shut and the disciples were gathered, the Savior stood where they were assembled, and having stood in their midst, He says unto Thomas: Come, feel, and see the marks of the nails; stretch forth thy hand and touch My ribs, and be not faithless, but with faith proclaim My Resurrection from the dead!
 
 *At the Aposticha, stichera.*
 *Tone 2, Podoben: "O House of Ephratha" (До́ме Е҆ѵфра́ѳовъ):*
@@ -243,7 +243,7 @@ Let us also strive to cleanse our hands by the cessation of passions, and thus l
 
 Renew, O soul, all thy senses unto divine contemplation; for Christ thus desires: to be perfected by renewal!
 
-*Glory... Both now and for ever and unto ages of ages. Amen. Theotokion. Podoben:*
+*Glory... Both now and for ever and unto ages of ages. Amen. Theotokion. Podoben (Подо́бенъ):*
 
 Behold for me thoughtfully the transformation of the world, and adorn that which is within with virtues as with foliage, O soul, and thou shalt be adorned!
 
@@ -330,7 +330,7 @@ Without having left the Father's bosom, Thou appearedst on earth bearing flesh t
 === LEAF p270 ===
 With nails Thou wast nailed upon the Cross, with a spear Thou wast pierced in the ribs, of gall Thou didst taste, O Christ; Thou didst endure death, having been laid in the tomb as dead, but as God Thou didst shatter the bonds of hades, and didst raise up together the dead from the ages; therefore, without having broken the seals, Thou appearedst unto Thy disciples, confirming Thy Resurrection!
 
-Pascha is the present feast: mystical Pascha, divine Pascha, saving Pascha, Pascha that leads us over unto immortal life, Pascha that removs every sorrow from our midst, Pascha that gives all-embracing grace unto the disciples! Therefore Thomas cried aloud: Thou art my Lord and God, Who hast made captive the kingdoms of hades![^477]
+Pascha is the present feast: mystical Pascha, divine Pascha, saving Pascha, Pascha that leads us over unto immortal life, Pascha that removes every sorrow from our midst, Pascha that gives all-embracing grace unto the disciples! Therefore Thomas cried aloud: Thou art my Lord and God, Who hast made captive the kingdoms of hades![^477]
 
 *And 3 of the Menaion.*
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 4:*

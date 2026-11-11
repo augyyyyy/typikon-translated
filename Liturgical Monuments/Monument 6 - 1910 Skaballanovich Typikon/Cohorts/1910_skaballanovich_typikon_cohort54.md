@@ -340,5 +340,5 @@
 === LEAF p540 ===
 *(Title Page of Volume II)*
 
-# Mikhail Skaballanovich
+## Mikhail Skaballanovich
 ## Explanatory Typikon

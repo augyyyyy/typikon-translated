@@ -106,7 +106,7 @@
 === LEAF p805 ===
 *Ode 6. Heirmos:* I cried aloud unto Thee, O Lord, when I was in affliction, and Thou didst lead up my life, O Abundant in mercy [cf. Jonah 2:3, 7].[^8721]
 
-*Troparion 1:* Pray Thy Son, O Sovereign Lady, Who was lifted up upon the Cross and delivered men from corruption, that we may be saved.[^8722]
+*Troparion 1:* Pray thy Son, O Sovereign Lady, Who was lifted up upon the Cross and delivered men from corruption, that we may be saved.[^8722]
 
 *Troparion 2:* O most pure Sovereign Lady, forsake me not who hope in thee, but make haste with thy help.[^8723]
 

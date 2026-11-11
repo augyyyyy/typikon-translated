@@ -1,4 +1,4 @@
-# PART III: POST-FEAST OF THE NATIVITY (SYNAXIS OF THE MOST HOLY MOTHER OF GOD & ST. JOSEPH AND ST. STEPHEN THE FIRST-MARTYR)
+# PART III: AFTERFEAST OF THE NATIVITY (SYNAXIS OF THE MOST HOLY MOTHER OF GOD & ST. JOSEPH AND ST. STEPHEN THE FIRST-MARTYR)
 
 ## Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed
 
@@ -23,14 +23,14 @@ How shall I declare the great mystery? The Incorporeal takes flesh; the Word bec
 *Glory... Both now... The same Tone:*[^238]
 Unto Bethlehem the shepherds ran together, proclaiming the true Shepherd Who sits upon the che- -rubim, and who reclines in a manger, having assumed the form of an infant for our sake: O Lord, glory to Thee![^239]
 *After this, "Now lettest Thou Thy servant depart" (p. 89).[^240] The Trisagion; and after "Our Father," the Priest:*
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 *And the Troparion to Joseph, Tone 4:*[^241]
 Today the Church celebrates with gladness thy memory, O chaste Joseph, beloved of Christ God, Betrothed of His Mother; for the Father's pre-eternal Word, Who was ineffably incarnate in the virginal womb, worthily found thee to be for Himself on earth a nourisher and guardian: pray unto Him, together with His most pure Mother and thine all-immaculate Betrothed, that He may save our souls.[^242]
 *Glory... Both now:*
 Thy Nativity, O Christ... (see p. 121).[^243]
 *And the Dismissal.*[^244]
 *If the Synaxis falls on Sunday, that is, the Sunday after the Nativity, on which we celebrate the memory of the Holy Righteous Ancestors of God: after the Great Litany we take "Blessed is the man" (see p. 61);[^245] and at "Lord, I have cried," 10 Stichera: 3 Resurrectional of the occurring tone, and 4 of the Feast: "Come, let us rejoice in the Lord" (see p. 50);[^246] "The Lord Jesus being born" (p. 51);[^247] — "Thy Kingdom" (p. 51);[^248] "What shall we offer Thee, O Christ" (p. 52);[^249] and 3 of the Saints:*[^250]
-*Tone 4. Podoben: Of the heavenly hosts:*[^251]
+*Tone 4. Podoben: Of the heavenly hosts (Небє́сныхъ чинѡ́въ):*[^251]
 Let us all praise the Ancestor of God, David the King, for from him came forth the rod, the Virgin, and from her blossomed forth Christ, and He recalled Adam with Eve from corruption, for He is compassionate.[^252]
 
 Joseph the Betrothed in his old age clearly saw the prophetic proclamations visibly fulfilled, a truly strange betrothal, having received revelation by angels who cry: Glory to God, Who has sent down peace upon the earth![^253]
@@ -60,8 +60,8 @@ Proclaim the wonders unto David the Ancestor of God, O Joseph: thou hast seen th
 
 *Matins*[^279]
 *If it falls on a weekday, except Monday:*[^280]
-**Priest:** Blessed is our God...
-**Choir:** Amen. Heavenly King; Trisagion; Our Father; Lord, have mercy (12 times); Glory... Both now: Come, let us worship (thrice).[^281]
+> **Priest:** "Blessed is our God..."
+> **Choir:** "Amen. Heavenly King; Trisagion; Our Father; Lord, have mercy (12 times); Glory... Both now: Come, let us worship (thrice)."[^281]
 *Psalm 19:*[^282]
 The Lord give ear to Thee in the day of affliction; the name of the God of Jacob defend Thee.
 May He send thee help from the sanctuary, and uphold thee out of Sion.
@@ -89,7 +89,7 @@ For they intended evils against Thee; they devised counsels which they could by 
 For Thou shalt make them turn their back; among Thy remnants Thou shalt prepare their face.
 Be Thou exalted, O Lord, in Thy strength; we will sing and praise Thy mighty acts.
 *Glory... Both now: Trisagion; and after "Our Father," the Priest:*[^285]
-**Priest:** For Thine is the kingdom...
+> **Priest:** "For Thine is the kingdom..."
 *And the Troparion:*[^286]
 O Lord, save Thy people, and bless Thine inheritance, granting victories to our right-believing Emperor over adversaries, and preserving Thy people by Thy Cross.
 
@@ -97,20 +97,20 @@ O Lord, save Thy people, and bless Thine inheritance, granting victories to our 
 Thou Who of Thine own will wast lifted up upon the Cross, O Christ God, grant Thy compassions unto Thy new commonwealth named after Thee; make glad our right-believing Emperor by Thy power, granting him victories over adversaries, having Thine alliance, an armor of peace, an invincible trophy.
 *Both now:*[^288]
 O awesome and unashamed Mediatress, despise not our prayers, O good, all-hymned Theotokos: establish the commonwealth of the Orthodox, and save those whom thou hast commanded to rule, and grant them victory from heaven, for thou didst bear God, O only blessed one.
-**Priest:** Have mercy on us, O God, according to Thy great mercy, we pray Thee: give ear and have mercy.[^289]
-**Choir:** Lord, have mercy (thrice).
-**Priest:** Again we pray for our right-believing and God-preserved Emperor *(Name)*, for all his court and his Christ-loving armed forces.[^290]
-**Choir:** Lord, have mercy (thrice).
-**Priest:** For a merciful and man-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.[^291]
-**Choir:** Amen. In the name of the Lord, bless, father.
-**Priest:** Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and ever, and unto ages of ages.[^292]
-**Choir:** Amen.
+> **Priest:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee: give ear and have mercy."[^289]
+> **Choir:** "Lord, have mercy (thrice)."
+> **Priest:** "Again we pray for our right-believing and God-preserved Emperor *(Name)*, for all his court and his Christ-loving armed forces."[^290]
+> **Choir:** "Lord, have mercy (thrice)."
+> **Priest:** "For a merciful and man-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."[^291]
+> **Choir:** "Amen. In the name of the Lord, bless, father."
+> **Priest:** "Glory to the holy, consubstantial, life-creating, and undivided Trinity, always, now and ever, and unto ages of ages."[^292]
+> **Choir:** "Amen."
 
 *After this, "Glory to God in the highest," and the Six Psalms (see pp. 92–98);[^293] Great Litany: "In peace let us pray to the Lord" (see p. 47);[^294] and "God is the Lord" (see p. 98).[^295] Troparion: "Thy Nativity, O Christ," twice (p. 121);[^296] Glory: "Today the Church celebrates" (p. 127);[^297] Both now: "Thy Nativity, O Christ..."*
-*After the 1st Kathisma, Sessional Hymn, Tone 1. Podoben: The stone having been sealed:*[^298]
+*After the 1st Kathisma, Sessional Hymn, Tone 1. Podoben: The stone having been sealed (Ка́мени запеча́танꙋ):*[^298]
 When Jesus was born in Bethlehem of Judea, creation was enlightened, having recognized the Creator; the angelic choirs were amazed, beholding the Master on earth having assumed the form of a servant: Glory to God Who was incarnate; glory to Him Who was born on earth; glory to Him Who was well pleased to save our race![^299]
 *Glory... Both now... The same once more.*
-*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: Joseph was amazed:*[^300]
+*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ):*[^300]
 Why art thou amazed, O Mary? What strikes awe at that which is in thee? Because I gave birth to the timeless Son in time, she said; having not learned the conception of childbirth, I am unwedded, and how shall I bear a Son? Who has seen a seedless birth? For where God wills, the order of nature is overcome, as it is written: Christ is born, to raise up the image that was fallen aforetime.[^301]
 *Glory... Both now... The same once more.*
 *Psalm 50:*[^302]
@@ -153,7 +153,7 @@ As a bridegroom from his chamber, David said the Lord would come forth from the 
 *Theotokion:*
 Let us honor Mary, the unwedded Mother of God, for because of her the Sun of Righteousness has shone forth upon us.
 *After this, the Kontakion: "He Who was born before the morning star" (see p. 134);[^334] and the Ikos: "The uncultivated Cluster of Grapes" (p. 134).[^335]*
-*Sessional Hymn, Tone 2. Podoben: Today the Virgin:*[^336]
+*Sessional Hymn, Tone 2. Podoben: Today the Virgin (Дв҃а дне́сь):*[^336]
 Let us worthily hymn righteous Joseph the Betrothed of the Virgin, and with David, James:
 
 for having walked the righteous path, they worthily attained the heavenly mansions; rejoicing with the angels, they ask remission of sins for us.[^337]
@@ -180,7 +180,7 @@ Thou didst sit upon the throne, as Thou didst swear, O Master, to the Prophet Da
 David was shown forth indeed as a king and marvelous prophet, and forefather of the divine Incarnation; while James was shown forth as the first bishop and disciple of Jesus.
 *Theotokion:*
 We pray thee for thy servants, O Virgin Mother of God: pray to Him Who was incarnate of thee, for we know thee as our only Protectress.
-*Kontakion, Tone 3. Podoben: Today the Virgin:*[^342]
+*Kontakion, Tone 3. Podoben: Today the Virgin (Дв҃а дне́сь):*[^342]
 Today divine David is filled with gladness, and Joseph with James offers praise; for receiving the crown by kinship with Christ, they rejoice, and hymn Him Who was ineffably born on earth, crying aloud: O Merciful One, save those who honor Thee!
 *Ikos:*[^343]
 By ineffable counsel the Bodiless One is born in the flesh; the Uncircumscribed is now circumscribed in body; and He saves immutably both natures. He Who by nature is without beginning and alone timeless receives a beginning; He, the all-perfect, is seen as an infant; He Who upholds all things is borne in arms; therefore, as God He crowns by His Nativity those honored by kinship with Him; whom glorifying with faith, unceasingly we cry aloud: O Merciful One, save those who honor Thee!
@@ -206,7 +206,7 @@ David was indeed made a king from being a shepherd of old; and thou, O James, fr
 Rejoice now, O Bethlehem, having become the city of the new David; and Sion, proclaim the primacy of the churches, the common joy, having now received the King of all and His pleased servants!
 *Theotokion:*
 The angelic assemblies glorify thee, O Mother of God, and the human race unceasingly honors thee with hymns; for through thy divine childbearing thou hast united earthly things with heavenly; therefore do we honor thee.
-*Exapostilarion. Podoben: With the disciples:*[^348]
+*Exapostilarion. Podoben: With the disciples (Съ оу҆ченикѝ взы́демъ):*[^348]
 With glorious James, the Brother of the Lord, let us sing of David the Ancestor of God, and divine Joseph the Betrothed of the Mother of God; for they served the divine Nativity of Christ in the city of Bethlehem in a manner fitting for God, with angels, Magi, and shepherds, singing a hymn to Him as God and Master.[^349]
 *Glory... Both now... Of the Nativity.*[^350]
 *At the Praises: Stichera of the Nativity, 4: "Rejoice, ye righteous" (see p. 134).[^351] Glory: "The memory of the sacred ones" (p. 128);[^352] Both now: of the Nativity.[^353] After this, the Great Doxology: "Glory to God in the highest" (p. 118).[^354] Troparion: "Proclaim the wonders, O Joseph" (p. 129);[^355] Glory... Both now: of the Nativity;[^356] and the Dismissal.*[^357]
@@ -267,7 +267,7 @@ Rejoice in the Lord, O ye righteous; praise is meet for the upright. Alleluia.
 *And of our venerable Father and Confessor Theodore the Branded, and his brother Theophanes.*[^399]
 *At Vespers.*
 *On "Lord, I have cried," Stichera of the Apostle, 3; and of the Venerable, 3.*
-*Stichera of the Apostle, Tone 4. Podoben: "As one noble...":*
+*Stichera of the Apostle, Tone 4. Podoben: "As one noble..." (Ꙗ҆́кѡ до́блѧ):*
 Having enlightened thy mind by the grace of the Spirit, thou didst appear as an angel in form, O Stephen, thy body shining with inward brightness, showing the radiance of thy soul unto those that beheld thee, through which thou didst also obtain the vision of light, the heavens being most gloriously opened unto thee, O beginning and boast of martyrs.
 As steps and a ladder for ascent into heaven were the hurling of stones unto thee, mounting whereon, thou didst behold the Lord standing at the right hand of the Father, stretching forth unto thee a crown of thy same name with His life-bearing right hand; near Whom thou standest as a noble victor, and the prince of martyrs.[^400]
 Shining with signs and wonders, thou didst extinguish the council of the lawless with thy teachings; and being slain by them, and pelted with stones, thou didst pray for forgiveness for those who slew thee, following the voice of the Savior, into Whose hands thou didst commit thy spirit, O consecrated Stephen.[^401]
@@ -279,7 +279,7 @@ Instead of sorrow, relief; instead of sickness, delight; instead of darkness, il
 Unto the King and Master of all Who was born on earth, a most radiant crown is offered, not fashioned of precious stones, but blossoming from his own blood. But come, O ye lovers of the martyrs, taking flowers of hymns, let us crown our heads, and singing hymns let us say: O thou who didst enlighten thy soul with wisdom and grace, first-martyr of Christ God, ask peace for us, and great mercy.
 *Both now: Same tone:*
 "A great and most glorious wonder..." (see p. 88).[^407]
-*At the Aposticha, Stichera, Tone 1. Podoben: "Joy of the heavenly hosts":*[^408]
+*At the Aposticha, Stichera, Tone 1. Podoben: "Joy of the heavenly hosts" (Небє́сныхъ чинѡ́въ):*[^408]
 Him Who shone forth from the Father before all ages, and as Son ever-existing in the bosom of the Father, and now in these latter days sitting upon His Mother's arms as upon a throne, and worshiped by angels, shepherds, and Magi, let us hymn.
 *Verse:* From the womb before the morning star have I begotten Thee; the Lord has sworn, and will not repent.[^409]
 Assembling in Bethlehem, O ye faithful, let us behold the Creator of all lying in a manger; and those who have brought from the land of the Chaldeans a chosen three-part gift: as unto King and God, and unto Him Who for our sake would be a dead corpse of three days.[^410]
@@ -300,10 +300,10 @@ Guide of Orthodoxy, teacher of piety and purity, luminary of the universe, divin
 
 *At Matins.*
 *On "God is the Lord," Troparion of the Nativity: "Thy Nativity, O Christ..."[^418] And of the Apostle: "With a good fight..."[^419] Glory: of the Venerable: "Guide of Orthodoxy..."[^420] Both now: of the Nativity: "Thy Nativity, O Christ..."*
-*After the 1st Kathisma, Sessional Hymn, Tone 2. Podoben: "Today the Virgin":*[^421]
+*After the 1st Kathisma, Sessional Hymn, Tone 2. Podoben: "Today the Virgin" (Дв҃а дне́сь):*[^421]
 The seedless conception gives birth to the Redeemer; and the Magi come to worship Life; men with angels glorify; the cave and manger offer gifts, hymning the One Who was born, a young child, the pre-eternal God.
 *Glory: Both now: the same again.*
-*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "Joseph marveled":*[^422]
+*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "Joseph marveled" (Оу҆диви́сѧ І҆ѡ́сифъ):*[^422]
 He Who is uncontainable everywhere, how was He contained in the womb? He Who is in the bosom of the Father, how is He in the arms of His Mother? In every way as He knows, as He willed, and as He was well pleased; for being bodiless, He voluntarily took flesh; and He became what He was not for our sake, and not departing from His divine nature, He partook of our compound nature; twofold was Christ born, desiring to fulfill the world on high.
 *Glory: Both now: the same again.*
 *Magnification:*[^423]
@@ -358,9 +358,9 @@ David, as if seeing the Ark in Bethlehem with prophetic eyes, O Mother of God, b
 "Today the Virgin gives birth to the Transcendent in essence..." (p. 109).[^447]
 *Ikos:*
 "Bethlehem has opened Eden..." (p. 109).[^448]
-*Sessional Hymn, Tone 1. Podoben: "Thy tomb, O Savior":*[^449]
+*Sessional Hymn, Tone 1. Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й Сп҃се):*[^449]
 Apostle of Christ, first of deacons, wise first-martyr, crown of martyrs, having sanctified the ends of the world by thy sufferings, and enlightened the souls of men by wonders: deliver from all tribulations those who honor thee, O all-praised Stephen.
-*Glory: Of the Venerable, Sessional Hymn, Tone 3. Podoben: "Of the divine faith":*[^450]
+*Glory: Of the Venerable, Sessional Hymn, Tone 3. Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры):*[^450]
 Thou wast a mouth of boldness, putting the pride of the tormentor to shame with lofty wisdom through the endurance of thy sufferings; for being wounded in the face, O Theodore, for the all-venerable icon of Christ, thou didst confirm all to venerate and glorify it, asking great mercy for us.
 *Both now: Theotokion:*[^451]
 Beholding her seedless birth-giving, the all-undefiled one marveled, and unto Him Who was born of her said: "Though Thou art clothed in human form, yet deeds proclaim Thee God, O beginningless Child, co-beginningless with the beginningless Father, Who grantest great mercy unto all."
@@ -414,7 +414,7 @@ Nothing separated thee from the love of Christ: neither the wounding of the body
 Being a most radiant son of the light and of the day, full of light thou wast translated, increasing toward the divine radiance, unfailing by day and by night, O God-receiver.[^480]
 *Theotokion:*
 Having found thee alone amidst thorns, as a most pure lily and flower of the valleys, O Mother of God, the spiritual Bridegroom took up His abode in thee.[^481]
-*Kontakion, Tone 3. Podoben: "Today the Virgin":*[^482]
+*Kontakion, Tone 3. Podoben: "Today the Virgin" (Дв҃а дне́сь):*[^482]
 Yesterday the Master came unto us in the flesh, and today the servant departs from the flesh; yesterday He Who reigns was born in the flesh, today the servant is stoned with stones; for His sake also the first-martyr and divine Stephen meets his end.
 *Ikos:*[^483]
 Like a bright star, the first-martyr Stephen dawned today together with the Nativity of Christ, flashing and enlightening the ends of the earth, he only darkened all the malice of the Jews; having convicted them with the wisdom of the word, conversing from the Scriptures and persuading them that Jesus Who was born of the Virgin is the Son of God and God; and he put to shame their impious wickedness, the first-martyr and divine Stephen.
@@ -471,7 +471,7 @@ Thou hast found heavenly riches and an enduring habitation instead of bitter ban
 Offering hymnody and prayers unto the Master, O father, cease not to pray for my weakness, for our fellow dwellers, and for the brotherhood, so that having lived together we may together attain deification.[^514]
 *Theotokion:*
 Thee Who beyond mind and word didst bear God the Word today in Bethlehem, O Virgin, and didst swaddle Him in swaddling clothes, as truly the Maiden of God and Mother of God do we magnify.[^515]
-*Exapostilarion. Podoben: "In the spirit in the sanctuary":*[^516]
+*Exapostilarion. Podoben: "In the spirit in the sanctuary" (Дх҃омъ во ст҃и́лищи):*[^516]
 Thou didst behold standing at the right hand of the Father the Word Who is before all beginning, and with ineffable light moreover thou wast filled, O praise of the apostles and glory of the martyrs; and thou wast adorned with a crown by the throwing of stones, and didst receive a divine end.[^517]
 *Glory, Both now: Exapostilarion of the Nativity:*[^518]
 He was laid in a manger, having become an infant like a child; and the star summoned the triad of the Magi; and the shepherds marveled at the wonder, hastening to see God become man; and the angelic choirs, marveling, cried aloud: Glory in the highest.
@@ -490,7 +490,7 @@ Stephen, the fair beginning of the martyrs, full of grace and power, working gre
 O first-martyr, apostle, and protodeacon, door of the martyrs, glory of the righteous, and praise of the apostles: standing before the judgment-seat thou didst see the heavens opened, and the Son of God standing at the right hand of the invisible Father; therefore shining in countenance like an angel, in joy thou didst cry out concerning those who stoned thee: Impute not this sin unto them; and now ask for those who praise thee in love the cleansing of sins and great mercy.[^526]
 *Both now: The same tone:*
 An incomprehensible mystery is accomplished today in Bethlehem: the Invisible is seen, the Bodiless becomes incarnate, the Word takes on flesh,[^527] and He Who is becomes what He was not; the Virgin brings forth in the cave a young child, the Creator of nature; the manger is prefigured as the heavenly throne; the cattle typify the standing of the Cherubim; the shepherds marvel, the Magi offer gifts; the angels chanting say: Glory to God in the highest, and on earth peace, good will toward men; for Emmanuel is unchangeable.[^528]
-*At the Aposticha, Stichera, Tone 6. Podoben: "Angelic powers...":*[^529]
+*At the Aposticha, Stichera, Tone 6. Podoben: "Angelic powers..." (А҆́гг҃льскїѧ пред̾иди́те си́лы):*[^529]
 All creation keeps festival with joy, and the heavens rejoice with us; for the Creator, becoming incarnate of the Virgin, was seen most gloriously as an infant in the manger in Judean Bethlehem; let us, the peoples, say: Blessed art Thou Who wast born, O our God, glory to Thee.
 *Verse:* From the womb before the morning star have I begotten Thee: the Lord has sworn, and will not repent.
 That Thou mightest make earthly beings heavenly, Thou didst come upon earth, becoming incarnate of the Virgin, and wast seen as an infant, Thou Who art the pre-eternal Word; Thou didst move the Magi from Persia to worship Thee, O compassionate One; with whom we cry aloud: Blessed art Thou Who wast born, O our God, glory to Thee.

@@ -1,6 +1,6 @@
 === LEAF p401 ===
 
-# Month of February: Meeting of our Lord (Situation IV Concl. § 23; Apodosis § 24); February 10: Hieromartyr Charalampos (Situation I § 1)
+## Month of February: Meeting of our Lord (Situation IV Concl. § 23; Apodosis § 24); February 10: Hieromartyr Charalampos (Situation I § 1)
 
 ## Τῇ Β΄: Ἡ Ὑπαπαντὴ (Τέλος § 23, Ἡ Ἀπόδοσις § 24) / Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Α΄ § 1, Β΄) [Violakis, p. 386]
 
@@ -8,15 +8,15 @@
 
 23.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τῆς ἑορτῆς, τὸ Εἰσοδικόν, τὸ Ἀπολυτίκιον, τὸ Κοντάκιον, ὁ Ἀπόστολος, τὸ Εὐαγγέλιον, καὶ καθεξῆς ἡ Λειτουργία τοῦ Χρυσοστόμου. Εἰς τὸ Ἐξαιρέτως *Θεοτόκε ἡ ἐλπίς*, Κοινωνικὸν *Ποτήριον*. *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις· (*Δόξα Σοι, ὁ Θεὸς ἡμῶν, δόξα Σοι. Ὁ ἐν ἀγκάλαις τοῦ Δικαίου Συμεὼν βασταχθῆναι καταδεξάμενος, διὰ τὴν ἡμῶν σωτηρίαν, κτλ.*) Κατάλυσις οἴνου καὶ ἐλαίου.
 
-### Ἡ Ἀπόδοσις.
+**Ἡ Ἀπόδοσις.**
 
 24.    Τῇ αὐτῇ Δευτέρᾳ ἑσπέρας ἀποδίδοται ἡ ἑορτὴ καὶ ψάλλεται ὁ Ἑσπερινὸς ἀπαραλλάκτως ὡς προδιετυπώθη ἐν § 1, πλὴν τῶν Ἀναγνωσμάτων· μετὰ τὸ Ἀπολυτίκιον *Χαῖρε Κεχαριτωμένη* ἐκ τρίτου, Ἀπόλυσις καὶ Ἀπόδοσις. Ἀπόδειπνον Μέγα οὐ λέγομεν ταύτῃ τῇ ἑσπέρᾳ διὰ τὸ τῆς ἑορτῆς αἰδέσιμον, λέγομεν δὲ τὸ Μικρὸν Ἀπόδειπνον ἐν τοῖς κελλίοις· καὶ ταῦτα διὰ τοὺς ἐν πόλεσιν Ἱεροὺς Ναούς, ἐν δὲ ταῖς Ἱεραῖς Μοναῖς, ἐξακολουθήτωσαν κατὰ τὰ ἀρχαῖα τῶν Κτητόρων αὐτῶν Τυπικά. Αὕτη ἐστὶν ἡ γνώμη τῶν ἀοιδίμων πατριαρχῶν Κωνσταντίου τοῦ Βυζαντίου καὶ Γρηγορίου τοῦ ΣΤ΄.
 
 Ἡ ἑορτὴ τῆς Ὑπαπαντῆς δυνατὸν νὰ συμπέσῃ ἐν τῷ Τριῳδίῳ ἀπὸ τῆς Κυριακῆς τοῦ Τελώνου καὶ Φαρισαίου μέχρι τῆς Δευτέρας τῆς Α΄ ἑβδομάδος τῶν Νηστειῶν. (Ὅρα τὸν Πίνακα τῶν ΛΔ΄ Πασχαλίων).
 
-### Τῇ Ι΄. Τοῦ ἁγίου Ἱερομάρτυρος Χαραλάμπους.
+**Τῇ Ι΄. Τοῦ ἁγίου Ἱερομάρτυρος Χαραλάμπους.**
 
-#### ΠΕΡΙΠΤΩΣΕΙΣ
+**ΠΕΡΙΠΤΩΣΕΙΣ**
 
 **Α΄.**
 
@@ -28,7 +28,7 @@
 
 === LEAF p402 ===
 
-# Month of February: Meeting of our Lord (Situation IV Concl. § 23; Apodosis § 24); February 10: Hieromartyr Charalampos (Situation I § 1)
+## Month of February: Meeting of our Lord (Situation IV Concl. § 23; Apodosis § 24); February 10: Hieromartyr Charalampos (Situation I § 1)
 
 ## February 2: The Meeting of our Lord (Concl. § 23, The Apodosis § 24) / February 10: The Holy Hieromartyr Charalampos (Situations: Case I § 1, Case II) [Violakis, p. 387]
 
@@ -36,15 +36,15 @@
 
 23.    At the Divine Liturgy: the Antiphons of the Feast, the Entrance Hymn [Introit], the Dismissal Troparion, the Kontakion, the Epistle, the Gospel, and then the Liturgy of St. John Chrysostom. At "Especially": "O Theotokos, Hope of all Christians... In the shadow of the law", etc.; Communion Verse: "I will receive the cup of salvation" (Ps. 115:4 LXX); "We have seen the true light", and Dismissal: {"Glory to Thee, O Christ our God, our hope, glory to Thee. May He Who for our salvation deigned to be carried in the arms of the righteous Symeon, etc."} The partaking of wine and oil is permitted.
 
-### The Apodosis
+**The Apodosis**
 
 24.    On this same Monday evening the Apodosis of the Feast is celebrated, and Vespers is chanted without any alteration exactly as prescribed in Paragraph 1, omitting the Old Testament Readings. After the Dismissal Troparion "Rejoice, O Virgin Theotokos" thrice: Dismissal and Apodosis. We do not say Great Compline this evening because of reverence for the Feast; we do, however, say Small Compline in our cells. This directive pertains to the Churches in the city; in the Holy Monasteries, however, let them follow the order of the ancient Typika of their Founders. The above is the judgment of the renowned Patriarchs Constantios the Byzantine and Gregory the Sixth.
 
 The Feast of the Meeting of our Lord may occur in the Triodion period from the Sunday of the Publican and the Pharisee until the Monday of the First Week of the Great Fast [Clean Monday] (see the Chart of the 34 Paschalia).
 
-### February 10: The Holy Hieromartyr Charalampos
+**February 10: The Holy Hieromartyr Charalampos**
 
-#### SITUATIONS
+**SITUATIONS**
 
 **Case I**
 
@@ -56,13 +56,13 @@ The Feast of the Meeting of our Lord may occur in the Triodion period from the S
 
 === LEAF p403 ===
 
-# Month of February: February 10: Hieromartyr Charalampos (Situation II § 2; Situation III §§ 3–4, § 5 incipit)
+## Month of February: February 10: Hieromartyr Charalampos (Situation II § 2; Situation III §§ 3–4, § 5 incipit)
 
 ## Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Β΄ § 2, Γ΄ §§ 3–5) [Violakis, p. 388]
 
 2.    Εἰ τύχοι ἐν ἡμέρᾳ Κυριακῇ ἄνευ Τριῳδίου, ἡ Ἀκολουθία τοῦ Ἁγίου μετὰ τῆς Ἀναστασίμου ψάλλεται ὡς καὶ εἰς ἄλλων ἑορταζομένων Ἁγίων μνήμας, ὅταν τύχωσιν ἐν Κυριακῇ· Δοξαστικὸν τῶν Αἴνων ψάλλεται τὸ Ἑωθινόν, ὁ Ἀπόστολος τοῦ Ἁγίου καὶ τὸ Εὐαγγέλιον τῆς Κυριακῆς. Κοντάκιον *Προστασία τῶν Χριστιανῶν*, Κοινωνικὸν *Αἰνεῖτε*, κτλ.
 
-### Γ΄.
+**Γ΄.**
 
 3.    Εἰ τύχοι ἐν ταῖς πρώταις τέσσαρσι Κυριακαῖς τοῦ Τριῳδίου, τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα δ΄, τοῦ Τριῳδίου γ΄ καὶ τοῦ Ἁγίου γ΄. *Δόξα* τοῦ Τριῳδίου, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα τοῦ Ἁγίου· εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρά. *Δόξα* τοῦ Ἁγίου, *Καὶ νῦν* τοῦ Τριῳδίου, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τοῦ Ἁγίου, τὸ Θεοτοκίον καὶ Ἀπόλυσις.
 
@@ -74,13 +74,13 @@ The Feast of the Meeting of our Lord may occur in the Triodion period from the S
 
 === LEAF p404 ===
 
-# Month of February: February 10: Hieromartyr Charalampos (Situation II § 2; Situation III §§ 3–4, § 5 incipit)
+## Month of February: February 10: Hieromartyr Charalampos (Situation II § 2; Situation III §§ 3–4, § 5 incipit)
 
 ## February 10: The Holy Hieromartyr Charalampos (Situation II § 2, Situation III §§ 3–5) [Violakis, p. 389]
 
 2.    If the commemoration occurs on a Sunday outside the Triodion period, the Office of the Saint together with the Resurrectional Office is chanted as on the commemorations of other celebrated Saints when they occur on a Sunday: for the Doxastikon of the Praises is chanted the Eothinon, the Epistle of the Saint, and the Gospel of the Sunday; Kontakion: "Protection of Christians"; Communion Verse: "Praise the Lord from the heavens" (Ps. 148:1 LXX), etc.
 
-### SITUATION THREE
+**SITUATION THREE**
 
 3.    If the commemoration occurs on any of the first four Sundays of the Triodion period: on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter [Kathisma 1], at "Lord, I have cried", we chant 4 Resurrectional Stichira, 3 of the Triodion, and 3 of the Saint; "Glory...": of the Triodion; "Both now and ever...": the first Theotokion of the Tone; Little Entrance, "O Gladsome Light", the Prokeimenon, and the Old Testament Readings of the Saint. At the Aposticha: the Resurrectional Stichira; "Glory...": of the Saint; "Both now and ever...": of the Triodion; the Resurrectional Dismissal Troparion, that of the Saint, the Theotokion, and Dismissal.
 
@@ -92,13 +92,13 @@ The Feast of the Meeting of our Lord may occur in the Triodion period from the S
 
 === LEAF p405 ===
 
-# Month of February: Hieromartyr Charalampos (Situation III Concl. § 5; Situation IV: Saturday of Souls §§ 6–7, § 8 incipit)
+## Month of February: Hieromartyr Charalampos (Situation III Concl. § 5; Situation IV: Saturday of Souls §§ 6–7, § 8 incipit)
 
 ## Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Γ΄ Τέλος § 5, Δ΄ §§ 6–8) [Violakis, p. 390]
 
 εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τοῦ Τριῳδίου. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον τοῦ Τριῳδίου· Ἀπόστολος τοῦ Ἁγίου καὶ Εὐαγγέλιον τοῦ Τριῳδίου. Εἰς τὸ Ἐξαιρέτως, *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### Δ΄.
+**Δ΄.**
 
 6.    Εἰ τύχοι τῷ Σαββάτῳ τῶν Ψυχῶν, ἡ Ἀκολουθία τοῦ Ἁγίου προψάλλεται τῇ Παρασκευῇ μετὰ τῆς Ἀποδόσεως τῆς Ὑπαπαντῆς ὡς ἐφεξῆς.
 
@@ -112,13 +112,13 @@ The Feast of the Meeting of our Lord may occur in the Triodion period from the S
 
 === LEAF p406 ===
 
-# Month of February: Hieromartyr Charalampos (Situation III Concl. § 5; Situation IV: Saturday of Souls §§ 6–7, § 8 incipit)
+## Month of February: Hieromartyr Charalampos (Situation III Concl. § 5; Situation IV: Saturday of Souls §§ 6–7, § 8 incipit)
 
 ## February 10: The Holy Hieromartyr Charalampos (Situation III Concl. § 5, Situation IV §§ 6–8) [Violakis, p. 391]
 
 ...and 4 from the Sixth Ode of the Canon of the Triodion. After the Little Entrance: the Resurrectional Dismissal Troparion, that of the Saint, that of the Holy Patron of the Temple, and the Kontakion of the Triodion; Epistle of the Saint and Gospel of the Triodion. At "Especially": "It is truly meet"; Communion Verse: "Praise the Lord from the heavens" (Ps. 148:1 LXX); "We have seen the true light", and Dismissal.
 
-### SITUATION FOUR
+**SITUATION FOUR**
 
 6.    If the commemoration of Saint Charalampos occurs on the Saturday of Souls [Meatfare Saturday], the Office of the Saint is anticipated and chanted beforehand on Friday together with the Apodosis of the Meeting [of the Lord] as follows:
 
@@ -132,7 +132,7 @@ On Thursday at Vespers, following the Introductory Psalm [Ps. 103 LXX] and the f
 
 === LEAF p407 ===
 
-# Month of February: Hieromartyr Charalampos (Situation IV Concl. § 8; Situation V § 9; Situation VI §§ 10–11)
+## Month of February: Hieromartyr Charalampos (Situation IV Concl. § 8; Situation V § 9; Situation VI §§ 10–11)
 
 ## Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Δ΄ Τέλος § 8, Ε΄ § 9, ΣΤ΄ §§ 10–11) [Violakis, p. 392]
 
@@ -140,11 +140,11 @@ On Thursday at Vespers, following the Introductory Psalm [Ps. 103 LXX] and the f
 
 Τῇ αὐτῇ Παρασκευῇ ἑσπέρας καὶ τὸ πρωῒ ψάλλεται ἡ Ἀκολουθία τῶν Ψυχῶν κατὰ τὴν τοῦ Τριῳδίου διάταξιν.
 
-### Ε΄.
+**Ε΄.**
 
 9.    Εἰ τύχοι τῇ Τετάρτῃ ἢ τῇ Παρασκευῇ τῆς Τυρινῆς, ἡ Ἀκολουθία τοῦ Ἁγίου ψάλλεται κατὰ τὴν τοῦ Μηναίου διάταξιν, ἄνευ τῶν ἐν τῷ Τριῳδίῳ Ἰδιομέλων τῆς ἡμέρας, καὶ τελεῖται ἡ Λειτουργία τοῦ Χρυσοστόμου, Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου, αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου* καὶ Κοντάκιον *Προστασία τῶν Χριστιανῶν*.
 
-### ΣΤ΄.
+**ΣΤ΄.**
 
 10.    Εἰ τύχοι τῷ Σαββάτῳ τῆς Τυρινῆς, τῇ Παρασκευῇ ἑσπέρας μετὰ τὸν Προοιμιακόν, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Προσόμοια τοῦ Ἁγίου γ΄ καὶ τῶν Ὁσίων Πατέρων γ΄, *Δόξα* τοῦ Ἁγίου *Ἔθυσας τῷ Θεῷ*, *Καὶ νῦν*, *Ὁ διὰ σὲ Θεοπάτωρ*, Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα τοῦ Ἁγίου. Εἰς τὰ Ἀπόστιχα, τὰ Προσόμοια τοῦ Ἁγίου· *Δόξα* τῶν Ὁσίων, *Καὶ νῦν*, *Δέσποινα πρόσδεξαι*, τὸ Ἀπολυτίκιον τοῦ Ἁγίου, τῶν Ὁσίων, τὸ Θεοτοκίον καὶ Ἀπόλυσις.
 
@@ -154,7 +154,7 @@ On Thursday at Vespers, following the Introductory Psalm [Ps. 103 LXX] and the f
 
 === LEAF p408 ===
 
-# Month of February: Hieromartyr Charalampos (Situation IV Concl. § 8; Situation V § 9; Situation VI §§ 10–11)
+## Month of February: Hieromartyr Charalampos (Situation IV Concl. § 8; Situation V § 9; Situation VI §§ 10–11)
 
 ## February 10: The Holy Hieromartyr Charalampos (Situation IV Concl. § 8, Situation V § 9, Situation VI §§ 10–11) [Violakis, p. 393]
 
@@ -162,11 +162,11 @@ On Thursday at Vespers, following the Introductory Psalm [Ps. 103 LXX] and the f
 
 That Friday evening and on Saturday morning the Office of the Souls is chanted according to the order of the Triodion.
 
-### SITUATION FIVE
+**SITUATION FIVE**
 
 9.    If the commemoration occurs on Wednesday or Friday of Cheesefare Week, the Office of the Saint is chanted according to the rubrics in the Menaion, without the fasting Idiomela of the day from the Triodion. Then the Divine Liturgy of St. John Chrysostom is celebrated; Epistle and Gospel of the Saint; Katavasiai "I shall open my mouth", and the Kontakion "Protection of Christians".
 
-### SITUATION SIX
+**SITUATION SIX**
 
 10.    If the commemoration occurs on the Saturday of Cheesefare [Commemoration of the Holy Ascetic Monks and Nuns], on Friday evening after the Introductory Psalm [Ps. 103 LXX], at "Lord, I have cried", we chant 3 Prosomia of the Saint and 3 of the Holy Venerable Fathers; "Glory...": of the Saint: "Thou didst sacrifice unto God a sacrifice of praise" (*Ἔθυσας τῷ Θεῷ*); "Both now and ever...": "Who for Thy sake, O God-Father David" (*Ὁ διὰ σὲ Θεοπάτωρ*); Little Entrance, "O Gladsome Light", the Prokeimenon, and the Old Testament Readings of the Saint. At the Aposticha: the Prosomia of the Saint; "Glory...": of the Holy Venerable Fathers; "Both now and ever...": "O Lady, receive the prayers of Thy servants" (*Δέσποινα πρόσδεξαι*); the Dismissal Troparia: of the Saint, of the Venerable Fathers, the Theotokion, and Dismissal.
 
@@ -176,15 +176,15 @@ That Friday evening and on Saturday morning the Office of the Souls is chanted a
 
 === LEAF p409 ===
 
-# Month of February: Hieromartyr Charalampos (Situation VII: Clean Monday § 12; Situation VIII: Tuesday of First Week §§ 13–14 incipit)
+## Month of February: Hieromartyr Charalampos (Situation VII: Clean Monday § 12; Situation VIII: Tuesday of First Week §§ 13–14 incipit)
 
 ## Τῇ Ι΄: Τοῦ Ἁγίου Ἱερομάρτυρος Χαραλάμπους (Περιπτώσεις Ζ΄ § 12, Η΄ §§ 13–14) [Violakis, p. 394]
 
-### Ζ΄.
+**Ζ΄.**
 
 12.    Εἰ τύχοι τῇ Δευτέρᾳ τῆς Α΄ ἑβδομάδος τῶν Νηστειῶν, ἡ Ἀκολουθία μετατίθεται καὶ ψάλλεται τῇ Κυριακῇ τῆς Τυρινῆς, κατὰ τὴν προεκτεθεῖσαν διάταξιν ἐν § 3, 4, 5.
 
-### Η΄.
+**Η΄.**
 
 13.    Εἰ τύχοι τῇ Τρίτῃ τῆς Α΄ ἑβδομάδος τῶν Νηστειῶν, τῇ Δευτέρᾳ πρωῒ ἐν τῷ Ἑσπερινῷ, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Προσόμοια τῆς ἡμέρας τοῦ Τριῳδίου γ΄ καὶ τοῦ Ἁγίου γ΄ τὰ πρὸς τὸ *Ἔδωκας σημείωσιν*, *Δόξα*, *Καὶ νῦν*, Προσόμοιον Θεοτοκίον. *Φῶς ἱλαρὸν* καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας (ὑπονοεῖται ὅτι αὐτὰ εἶναι ἐκ τοῦ Τριῳδίου). Εἰς τὰ Ἀπόστιχα, τὸ Ἰδιόμελον τῶν Ἀποστίχων δίς, καὶ τὸ Μαρτυρικόν, *Δόξα*, *Καὶ νῦν* Θεοτοκίον Προσόμοιον, *Νῦν ἀπολύεις*, τὸ Τρισάγιον, τὸ *Θεοτόκε Παρθένε* κτλ. καὶ Ἀπόλυσις.
 
@@ -196,15 +196,15 @@ That Friday evening and on Saturday morning the Office of the Souls is chanted a
 
 === LEAF p410 ===
 
-# Month of February: Hieromartyr Charalampos (Situation VII: Clean Monday § 12; Situation VIII: Tuesday of First Week §§ 13–14 incipit)
+## Month of February: Hieromartyr Charalampos (Situation VII: Clean Monday § 12; Situation VIII: Tuesday of First Week §§ 13–14 incipit)
 
 ## February 10: The Holy Hieromartyr Charalampos (Situation VII § 12, Situation VIII §§ 13–14) [Violakis, p. 395]
 
-### SITUATION SEVEN
+**SITUATION SEVEN**
 
 12.    If the commemoration occurs on Monday of the First Week of the Great Fast [Clean Monday], the Office is transferred and chanted on the Sunday of Cheesefare according to the order set forth above in Paragraphs 3, 4, and 5.
 
-### SITUATION EIGHT
+**SITUATION EIGHT**
 
 13.    If the commemoration occurs on Tuesday of the First Week of the Great Fast: on Monday morning at Vespers, at "Lord, I have cried", we chant 3 Prosomia of the day from the Triodion and 3 of the Saint to the melody: "Thou hast given a sign" (*Ἔδωκας σημείωσιν*); "Glory... Both now and ever...": Theotokion Prosomion; "O Gladsome Light", and the Old Testament Readings of the day (it is understood that these are from the Triodion). At the Aposticha: the Idiomelon of the Aposticha twice, and the Martyrikon; "Glory... Both now and ever...": Theotokion Prosomion; "Now lettest Thou Thy servant depart" [Luke 2:29]; the Trisagion Prayers; "O Virgin Theotokos", etc.; and Dismissal.
 

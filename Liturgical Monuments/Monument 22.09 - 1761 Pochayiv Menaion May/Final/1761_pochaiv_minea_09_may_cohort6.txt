@@ -54,7 +54,7 @@ Near wast thou unto Christ, O all-valiant one, for thou didst endure passion and
 *Theotokion:*
 Fairer in beauty than all was shown to be thy Fruit, O all-immaculate one, adorning creation with the dawn of beneficent beauty; entreat Him fervently to save those who unceasingly magnify thee.
 
-*Stichera of the Holy Martyr Acacius, Tone 2, Podoben: "As One Valiant" (Yako dobla):*
+*Stichera of the Holy Martyr Acacius, Tone 2, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 Having taken up wrath against the single serpent, and having girded thyself with Christ's insurmountable and invincible power, O godly-wise Acacius, thou didst cast down to the earth the inventor of evil, laying low his haughty power, and didst put to shame the servants who act with him.
 
 *Sticheron:*
@@ -101,7 +101,7 @@ Thy Cross hath gladdened those who confess Thee as crucified God, and hath shone
 *Theotokion:*
 Rejoice, O Mother who knewest not wedlock, who didst contain God the Word in thy womb, and having given birth unto God incarnate, at once also man.
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up" (Voznesyisya):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up" (Вознесы́йсѧ):*
 Having shown forth the divine image of the Cross in heaven, to guide those upon earth unto the knowledge of Thee, O Christ God: today the never-setting brightness shone forth, and the light of Thy countenance was signed upon us. Therefore all of us, the faithful, have an invincible victory.  
 *Glory... Both now... of the Feast.*
 
@@ -149,7 +149,7 @@ Let those who know God, Who was crucified in the flesh upon the Tree, delight in
 *Theotokion:*
 O Virgin who knewest not wedlock, who didst bear God, cease not to entreat thy Son for us.
 
-*Kontakion, Tone 4, Podoben: "Thou Who Wast Lifted Up" (Voznesyisya):*
+*Kontakion, Tone 4, Podoben: "Thou Who Wast Lifted Up" (Вознесы́йсѧ):*
 Having opened the closed heavens, shedding exceedingly bright rays in the sky, the most pure Cross shone forth upon earth; therefore, having received the radiance of its operation, we are guided toward the never-setting Light, and in battles we possess it as a weapon of peace, an invincible victory.
 
 *Ikos:*[^56]
@@ -208,7 +208,7 @@ Having lifted up their hope in Thee, Thy wealthy people offer unto Thee for supp
 *Theotokion:*
 Enlighten us, O Virgin who didst bear the unapproachable Light, and fill us with gladness and joy, and divine understanding, who with a pure heart discreetly magnify thee.
 
-*Exapostilarion, Podoben: "With the Disciples" (Uchenikom):*
+*Exapostilarion, Podoben: "With the Disciples" (Оу҆ченикѡ́мъ зрѧ́щымъ):*
 The Cross is the guardian of the whole universe; the Cross is the beauty of the Church; the Cross is the majesty of kings; the Cross is the confirmation of the faithful; the Cross is the glory of angels and the wound of demons. *(Twice)*  
 *Glory... Both now... of the Feast.*
 
@@ -226,7 +226,7 @@ Remember Thy congregation. *Verse:* But God is our King.
 
 *Commemoration of the holy, glorious, and all-praised Apostle and Evangelist, the beloved bosom friend, the virgin, John the Theologian; and of our venerable father Arsenius the Great.*
 
-*At Small Vespers, on "Lord, I have cried," Stichera, Tone 2, Podoben: "When from the Tree" (Yegda ot dreva):*
+*At Small Vespers, on "Lord, I have cried," Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 Come, ye faithful, let us today crown with divine hymns the depth of wisdom and the writer of Orthodox dogmas, the glorious and beloved John; for he thundered forth: *In the beginning was the Word.* Whence he was shown to be loud-voiced, shining as a herald of glad tidings unto the world, most sighted and all-praised.
 
 *Sticheron:*
@@ -254,7 +254,7 @@ O apostle beloved of Christ God, hasten to deliver a defenseless people; He Who 
 *At Great Vespers, we sing "Blessed is the man," the first antiphon.*  
 *On "Lord, I have cried," Stichera of the Feast, 3; and of the Apostle, 4; and of the Venerable One, 3.*
 
-*Stichera of the Apostle, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*Stichera of the Apostle, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 Beholder of ineffable revelations and narrator of the mysteries of God that came to pass, the son of Zebedee, having written for us the Gospel of Christ, taught us to theologize the Father, and the Son, and the Holy Spirit. *(Twice)*
 
 *Sticheron:*
@@ -263,7 +263,7 @@ A God-moved harp of heavenly songs, being a mystical writer, a God-speaking mout
 *Sticheron:*
 With thy loud-thundering tongue, having made known the voice of wisdom, the hidden Word, O beloved of Christ, thou dost ever cry, moving thy lips purely: *In the beginning was the Word,* and thou dost teach every man the knowledge of God.
 
-*Stichera of the Venerable Father Arsenius the Great, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*[^60]
+*Stichera of the Venerable Father Arsenius the Great, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*[^60]
 O godly-wise father Arsenius, having enlightened thy mind with tearful streams, thou didst converse with God through unceasing cleansings; and a brilliant pillar of piety, shining with fire, wast thou shown to be, O blessed one, boast of monks; and now preserve us all by thy prayers.
 
 *Sticheron:*

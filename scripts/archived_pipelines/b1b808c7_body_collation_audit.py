@@ -22,7 +22,7 @@ def get_project_root() -> Path:
     for parent in [curr] + list(curr.parents):
         if (parent / "Final").exists() and (parent / "Ukrainian TXTs").exists():
             return parent
-    return Path(os.environ.get("TRANSLATION_PROJECT_DIR", r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation"))
+    return Path(os.environ.get("TRANSLATION_PROJECT_DIR", r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation"))
 
 def clean_for_diff(text: str) -> str:
     t = re.sub(r'\[\^?\d+[a-z]?\]', '', text)

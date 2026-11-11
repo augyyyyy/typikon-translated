@@ -66,7 +66,7 @@ Having unashamed boldness toward thy Son, O all-immaculate one, entreat Him to s
 
 ## May 6. Holy and Righteous Job the Long-Suffering[^45]
 
-*Stichera, Tone 4, Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*Stichera, Tone 4, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 Righteous and guileless, true, blameless, and faithful, shunning every evil deed, O Job, thou wast known, O blessed one, adorned with virtues in truth, and shining with piety. Therefore we call thee blessed, and celebrating today thy holy and honorable festival, we rejoice.
 
 *Sticheron:*
@@ -120,10 +120,10 @@ By the words of thy wife, as unto our first parent, the serpent, the author of m
 *Theotokion:*
 Rejoice, O unwedded Mother, who didst contain God the Word in thy womb, and didst give birth unto Him incarnate, as at once God and man.
 
-*Kontakion, Tone 8, Podoben: "As the First-Fruits" (Yako nachatki):*
+*Kontakion, Tone 8, Podoben: "As the First-Fruits" (Ꙗ҆́кѡ нача́тки):*
 As true and righteous, godly and blameless, sanctified wast thou shown to be, O all-glorious one, true servant of God; thou didst enlighten the world in thy patience, most patient and most noble one. Therefore all of us, O godly-wise one, hymn thy memory.
 
-*Then, the Sessional Hymn, Tone 3, Podoben: "The Beauty of Virginity" (Krasote devstva):*
+*Then, the Sessional Hymn, Tone 3, Podoben: "The Beauty of Virginity" (Красотѣ̀ дв҃ства):*
 Job the blameless and most honorable, the towering pillar, who by the Spirit was invincible against the wiles of the enemy, let us all call blessed, and faithfully praise as a great servant of Christ, who fervently entreats Him to save our souls from afflictions.
 
 *Glory... Both now... of the Feast.*
@@ -254,7 +254,7 @@ Blessed is the man that fears the Lord, in His commandments he will greatly deli
 
 *Commemoration of the sign of the Precious Cross which appeared in the heavens in the city of Jerusalem, stretched forth with stars from the holy Place of the Skull even unto the holy Mount of Olives, at the third hour of the day, during the reign of Emperor Constantius, son of Constantine the Great. And the memory of the Holy Martyr Acacius.*
 
-*Stichera of the Cross, on 6, Tone 4, Podoben: "Called from on High" (Zvannyi svyshe):*
+*Stichera of the Cross, on 6, Tone 4, Podoben: "Called from on High" (Зва́нный свы́ше):*
 Today the divine multitude of the faithful rejoices, for the heavenly Cross is manifested unto the ends of the earth: it illumines the firmament with unapproachable light, enlightens the air, and adorns the face of the earth. The Church of Christ sings with divine hymns and ministers in veneration; the divine and most marvelous Cross protects her from on high. Strengthened by its power, let us draw near unto the Master, crying: Give peace unto the world, and enlighten our souls!
 
 *Sticheron:*
@@ -369,5 +369,5 @@ By thy death imitating the Master's death, O most blessed martyr, thou reignest 
 *Theotokion:*
 Thou didst loose the condemnation of death and the curse of the Law, O pure one, having given birth unto Christ, the Destroyer of death, Who poured forth blessing upon all.
 
-*Sessional Hymn, Tone 4, Podoben: "Quickly Anticipate" (Skoro predvari):*
+*Sessional Hymn, Tone 4, Podoben: "Quickly Anticipate" (Ско́рѡ предварѝ):*
 In the streams of thy blood, O martyr Acacius, having drowned the enemy, thou didst put to shame all the tormentor's armaments; having attained the immaterial choirs of the angels, thou didst receive the unfading [crown] of incorruption...

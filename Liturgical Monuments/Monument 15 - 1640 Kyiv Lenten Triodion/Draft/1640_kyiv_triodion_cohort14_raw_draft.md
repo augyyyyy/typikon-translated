@@ -142,19 +142,19 @@
 
 === LEAF p138 ===
 
-Thus saith the Lord Almighty: Behold, I will save My people from the east country, and from the west country; and I will bring them in, and will dwell in the midst of Jerusalem; and they shall be My people, and I will be their God, in truth and in righteousness (Zech. 8:7–8).
+Thus says the Lord Almighty: Behold, I will save My people from the east country, and from the west country; and I will bring them in, and will dwell in the midst of Jerusalem; and they shall be My people, and I will be their God, in truth and in righteousness (Zech. 8:7–8).
 
-Thus saith the Lord Almighty: Let your hands be strong, ye that hear in these days these words from the mouth of the Prophets, from the day that the house of the Lord Almighty was founded, and from the time that the temple was built (Zech. 8:9).
+Thus says the Lord Almighty: Let your hands be strong, ye that hear in these days these words from the mouth of the Prophets, from the day that the house of the Lord Almighty was founded, and from the time that the temple was built (Zech. 8:9).
 
 For before those days, the wages of men profited not, and there were no wages for cattle, and to him that went out and to him that came in there was no peace from tribulation: and I sent all men, every one against his neighbor (Zech. 8:10).
 
-And now, not according to the former days will I do in these days unto the remnant of this people, saith the Lord Almighty (Zech. 8:11).
+And now, not according to the former days will I do in these days unto the remnant of this people, says the Lord Almighty (Zech. 8:11).
 
 For I will show peace: the vine shall give her fruit, and the earth shall give her increase, and the heavens shall give their dew; and I will cause the remnant of My people to inherit all these things by lot (Zech. 8:12).
 
 And it shall come to pass, that as ye were a curse among the nations, O house of Judah, and house of Jerusalem; so will I save you, and ye shall be a blessing: be of good courage, and let your hands be strong! (Zech. 8:13).
 
-For thus saith the Lord Almighty: As I thought to afflict you, when your fathers provoked Me to wrath, saith the Lord Almighty, and I repented not (Zech. 8:14):
+For thus says the Lord Almighty: As I thought to afflict you, when your fathers provoked Me to wrath, says the Lord Almighty, and I repented not (Zech. 8:14):
 
 So have I purposed and thought in these days to do good unto Jerusalem, and unto the house of Judah: be of good courage! (Zech. 8:15).
 
@@ -162,7 +162,7 @@ These are the words that ye shall do: Speak ye the truth every man...
 
 === LEAF p139 ===
 
-...every man to his neighbor; judge truth and the judgment of peace and justice in your gates: and let none of you imagine evil in your hearts against his neighbor; and love not a false oath: for all these things I hate, saith the Lord Almighty! (Zech. 8:16–17).
+...every man to his neighbor; judge truth and the judgment of peace and justice in your gates: and let none of you imagine evil in your hearts against his neighbor; and love not a false oath: for all these things I hate, says the Lord Almighty! (Zech. 8:16–17).
 
 *Prokeimenon, Tone 3:* Sing praises to our God, sing praises: sing praises unto our King! (Ps. 46:6 [LXX]). *Verse:* All ye nations, clap your hands (Ps. 46:1 [LXX]).
 

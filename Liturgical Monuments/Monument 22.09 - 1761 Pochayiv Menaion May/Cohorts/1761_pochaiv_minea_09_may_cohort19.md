@@ -45,7 +45,7 @@ Thou didst subdue the passions by temperance, thou didst enlighten thy mind by c
 *Theotokion:*
 Let us hymn Mary, the most pure Birthgiver of God, who appeared as the mediatress of salvation, crying aloud in God-wisdom: There is none undefiled as thou, O all-immaculate one, and none most pure besides thee, O Lady!
 
-*Sessional Hymn, Tone 4. Podoben: "Thy Tomb, O Savior" (Grob tvoy Spase):*
+*Sessional Hymn, Tone 4. Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й Сп҃се):*
 Having sanctified thyself by a perfect life, thou didst appear as a priest of the Most High God, strengthened by Whom thou didst close the mouths of heretics that opened against the icon of Christ; and persecuted, O father, thou didst finish thy course.
 
 *Glory... Both now... of the Feast; or Theotokion:*
@@ -110,7 +110,7 @@ Having become a disciple of Christ God, thou didst emulate His passions, O bless
 *Theotokion:*
 Being spiritually instructed in thy ineffable childbearing, O all-immaculate one, all the prophets formed spiritual images and foretold unto all what was to come.
 
-*Kontakion, Tone 8. Podoben: "As the First-fruits" (Yako nachatki):*
+*Kontakion, Tone 8. Podoben: "As the First-fruits" (Ꙗ҆́кѡ нача́тки):*
 As an all-honorable hierarch and a sacred sufferer for piety, thou didst not fear the threats of the evil-named tyrant, but didst conquer his heretical opposition, crying aloud with a free voice in a loud voice: I venerate the icon of Christ and of His all-pure Mother! Therefore we honor thee, O Michael.
 
 *Ode 7. Heirmos:*
@@ -162,7 +162,7 @@ As the fleece, O all-immaculate one, having received the heavenly rain in thy wo
 === LEAF p186 === (Fol. 93v)
 ## May 24. Our Venerable Father Simeon of the Wonderful Mountain[^345]
 
-*At "Lord, I Have Cried," Stichera of Simeon, on 6, Tone 8. Podoben: "O Marvelous Wonder" (O preslavnago chudese):*
+*At "Lord, I Have Cried," Stichera of Simeon, on 6, Tone 8. Podoben: "O Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 Having an inscribed pillar of native virtues, by contemplations and deeds, O exceedingly rich Simeon, thou didst form thy soul, having conquered fleshly wantonness, and having clothed thyself in life-bearing mortification, O venerable one; and thou wast an ever-shining luminary, illuminating all the ends of the earth by grace!
 
 Winged by divine desire, while still bearing flesh and clad with dust, thou didst manifestly become a fellow-citizen with the angels. Withdrawing indeed from earthly things, and being lifted up, O father, unto heavenly things by a high pillar, thou wast ever raised up unto God, and didst shine with ascents.
@@ -173,7 +173,7 @@ Having worn down the flesh by temperance, thou didst show thy soul to be lifted 
 O father worthy of marvel, thou didst appear as a fair sprout of the wilderness and a protector unto us; for therein thou didst find the desire for the heavenly height, and wast accounted worthy of healing grace from the unstolen treasures of the Spirit. Therefore with both did Christ enrich thee, and showed thee forth as a worker of miracles, O venerable Simeon; pray that our souls may be saved!
 
 *Both now... Theotokion; or Stavrotheotokion:*
-*Podoben: "On the Third Day" (Tridneven):*
+*Podoben: "On the Third Day" (Трїдне́венъ):*
 Beholding our Life hanging upon the Tree, the all-immaculate Birthgiver of God, weeping maternally, cried aloud: O my Son and my God, save them that hymn thee with love!
 
 *At the Aposticha, of the day. Glory... Tone 2, Idiomelon. By Germanus:*[^346]
@@ -184,7 +184,7 @@ Having ascetically ascended the high and wonderful mountain in figure, and havin
 ...beholding God, and being beheld, conversing alone with the Alone; Whom do thou pray, O honorable Simeon, for our souls!
 
 *Both now... Theotokion; or Stavrotheotokion:*
-*Podoben: "When from the Tree" (Egda ot dreva):*
+*Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 The coal which glorious Isaiah foresaw of old,[^347] incarnate of the unwedded Mother, springing forth from the Begetter by nod, and being born is slaughtered voluntarily, taking away the sins of the world as an unblemished lamb; therefore the ewe-lamb and virgin, beholding Him upon the Cross, was consumed by the sword of sorrow.
 
 *Troparion, Tone 1:*
@@ -230,7 +230,7 @@ Mystically the sent angel stood before thee, O God-bearer, enjoining thee joyful
 *Theotokion:*
 Having bodily dwelt in the Virgin, O Lord, Thou didst appear unto men even as it was meet to behold Thee; and through her Thou didst show her forth as true Birthgiver of God and helper of the faithful, O only Lover of mankind!
 
-*Sessional Hymn, Tone 8. Podoben: "The Wisdom and Word" (Premudrosti):*
+*Sessional Hymn, Tone 8. Podoben: "The Wisdom and Word" (Премꙋ́дрости):*
 Sanctified before conception, O father, thou wast given unto thy mother as a most fair sprout, about to be a vessel of the Divine Spirit, by Whose power from early age thou didst wound the multitude of wicked spirits with the rod of faith. Therefore having departed with glory, thou wast an unshakable pillar of the faithful and a bright luminary, O Simeon worthy of marvel! Pray unto Christ God to grant remission of sins unto them that honor thy holy memory with love. (Twice)
 
 *Glory... Both now... of the Feast; or Theotokion:*
@@ -290,7 +290,7 @@ As thou didst readily endure the sweat of temperance, O marvelous father, the Ma
 *Theotokion:*
 O Mary, dwelling place of the Master, with the bright rays of virginity shining luminously like a lily in the midst of thorns,[^353] I pray unto thee who art good: Grant me forgiveness of sins!
 
-*Kontakion, Tone 2. Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2. Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 Desiring the things on high and putting away things below, and having made thy pillar like heaven, therefore thou didst shine with the radiance of miracles, O venerable one; and thou unceasingly prayest unto Christ the God of all for all of us!
 
 *Ikos:*

@@ -30,7 +30,7 @@ The radiance of the luminaries set, vanquished by the noetic Light that was stri
 *On Tuesday Evening.*
 *Glory... Both now... Stavrotheotokion:*
 *Tone 2, Podoben: "When from the Tree" (Е҆гда̀ ѿ дре́ва тѧ̀):*[^1605]
-Having endured many sorrows at the crucifixion of Thy Son and God, O All-Pure One, she groaned in tears and cried aloud: Woe is me, sweet Child! How is it that Thou sufferest unjustly, willing to deliver the earthborn descended from Adam? Therefore, O all-pure Virgin, we beseech thee with faith: make Him merciful unto us.
+Having endured many sorrows at the crucifixion of thy Son and God, O All-Pure One, she groaned in tears and cried aloud: Woe is me, sweet Child! How is it that thou sufferest unjustly, willing to deliver the earthborn descended from Adam? Therefore, O all-pure Virgin, we beseech thee with faith: make Him merciful unto us.
 
 *Then, "Now lettest Thou depart"; Trisagion Prayers; after "Our Father": Troparion, Litany, and Dismissal.*[^1606]
 
@@ -116,7 +116,7 @@ Having endured many sorrows at the crucifixion of Thy Son and God, O All-Pure On
 
 *Troparion 1:* Being grievously bowed down by my many evils, I dare not lift up mine eye unto the heavens at all; but I cry aloud unto thee: Have mercy on me that am fallen, O sole Theotokos![^1624]
 
-*Troparion 2:* Deliver me, O Pure One, from the wrath of Thy Son and God into which I have fallen; and in the hour when He shall make examination, be a help unto me, O All-Pure One, and preserve me from the goats on the left hand.[^1625]
+*Troparion 2:* Deliver me, O Pure One, from the wrath of thy Son and God into which I have fallen; and in the hour when He shall make examination, be a help unto me, O All-Pure One, and preserve me from the goats on the left hand.[^1625]
 
 *Glory:* Raise me up, O Maiden Bride of God, who am noetically slain by my countless evils; and by thy supplication deliver me from every deceit of the soul-corrupting enemy and murderer!
 
@@ -180,7 +180,7 @@ The Virgin and Thy Mother, O Christ, beholding Thee stretched out dead upon the 
 
 *Sessional Hymn 2:* Thou didst endure to be crucified for our sake, and to be dead, O Jesus, Giver of life, that Thou mightest deliver the creation of Thy hands from mortal condemnation, as Thou art a compassionate God and Lover of mankind, according to the multitude of Thy tender mercies, O Thou who alone art sinless.
 
-*Glory... Both now... Stavrotheotokion:* Preserved by the precious Cross of Thy Son, O Lady, pure Theotokos, we all easily vanquish every assault of the adversary; therefore, as is our duty, we call thee blessed as the Mother of God, the sole hope of our souls.
+*Glory... Both now... Stavrotheotokion:* Preserved by the precious Cross of thy Son, O Lady, pure Theotokos, we all easily vanquish every assault of the adversary; therefore, as is our duty, we call thee blessed as the Mother of God, the sole hope of our souls.
 
 *Canon to the Precious and Life-Giving Cross, whose acrostic is: "The standing of the Cross is the downfall of demons." By Joseph. Tone 2.*[^1644]
 
@@ -259,7 +259,7 @@ The Virgin and Thy Mother, O Christ, beholding Thee stretched out dead upon the 
 *Another Heirmos, the same.*
 *Troparion 1:* Rain down upon me a drop of compunction, O Lady, taking away all the burning heat of my heart, and staying the turbid torrents of my thoughts.[^1664]
 
-*Troparion 2:* Despise me not who am wounded by the weapon of pleasures and lie afflicted, O All-Pure One, but heal me by the spear and the Blood of Thy crucified Son and our God.[^1665]
+*Troparion 2:* Despise me not who am wounded by the weapon of pleasures and lie afflicted, O All-Pure One, but heal me by the spear and the Blood of thy crucified Son and our God.[^1665]
 
 *Troparion 3:* Having enriched all creation with dominion, have compassion with divine grace on me who am grievously impoverished, that I may magnify thee as my good mediatress, O All-Spotless One.
 

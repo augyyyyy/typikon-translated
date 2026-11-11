@@ -281,7 +281,7 @@ Having ineffably conceived in thy womb the God of all, O Virgin Mother, thou did
 *Sessional Hymn of the Samaritan Woman, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ):*  
 Let heaven rejoice, let earthly things be glad, for Christ hath appeared from the Virgin as man, and hath delivered all humanity from corruption by His death; and shining forth with miracles unto the Samaritan woman who asked for water, He grants a fountain of healings, as the only Immortal One![^795]
 
-*Glory, both now and for ever and unto ages of ages. Amen. Tone 4, the same Podoben:*  
+*Glory, both now and for ever and unto ages of ages. Amen. Tone 4, the same Podoben (Подо́бенъ то́йже):*  
 O Bestower of wisdom and Master, Thou didst present Thyself at the lawful feast, and sitting in the temple, Thou didst teach, saying thus unto all: Come, ye that thirst, drink the water which I now give, whereby all men shall enjoy life from God and delight![^796]
 
 *Ode 4. Heirmos:*  
@@ -404,9 +404,7 @@ Let us hear the venerable mysteries, as John teaches us, that came to pass in Sa
 *Coming to draw corruptible water, O woman,*  
 *Thou drawest living water, whereby thou washest away the defilements of the soul.*[^827]
 
-On this same day, the Fifth Sunday after Pascha, we celebrate the feast of the Samaritan Woman; because unto her Christ plainly confessed Himself to be the Messiah, which is Christ: [or the Anointed.][^828] For with the Hebrews the measure is oil; therefore, I think, it was appointed also for the week of Mid-Pentecost. And even as in the Sunday prior to this He worked a miracle at the pool,[^829] so in this present one, Christ conversed with the woman over Jacob’s well, which well Jacob himself dug and gave to Joseph his son;[^830] for this was an excellent place, where also near the existing Mount Somor, the Samaritans inhabited many cities. And Christ comes into Sychar, where Jacob had dwelt of old with his sons and with Dinah his daughter. Shechem, son of Hamor the Horrite, lusted after her, and having violated her, was with her; and from that cause her brothers, being provoked to great jealousy, suddenly entered into the city and killed them all together, both that Shechem and Hamor his father.[^831] Jacob therefore dwelt there, and dug the present well. Yet the Samaritans did not dwell near that mountain previously, but the Israelites, having provoked that anger, in the reign of Pekah, during the first and second captivities, when the Assyrians came, were subjected to tribute by them; and afterward, in the reign of Hoshea, they attached themselves to the Ethiopians; which when the Assyrian king learned, he deported them to Babylon. And he commanded various nations to dwell in that place; but God let loose lions upon those foreigners. And the Assyrian king, having learned this in turn, sent unto them priests from among the Jews, (for they were still captives there,) that they might also receive the laws of God. And from the idols indeed they quickly broke away. But only...[^832]
-
-...the five books of Moses did they accept, rejecting the Prophets and the rest of the Scripture.[^833] These were also called Samaritans, as being from Mount Somor; and they were hated by the Hebrews returning from captivity, because they Judaized only in part and would not eat with them, abominating them unyieldingly; therefore also they often called Christ a Samaritan, as one who despised and broke certain things of the Law even as they did.[^834]
+On this same day, the Fifth Sunday after Pascha, we celebrate the feast of the Samaritan Woman; because unto her Christ plainly confessed Himself to be the Messiah, which is Christ: [or the Anointed.][^828] For with the Hebrews the measure is oil; therefore, I think, it was appointed also for the week of Mid-Pentecost. And even as in the Sunday prior to this He worked a miracle at the pool,[^829] so in this present one, Christ conversed with the woman over Jacob’s well, which well Jacob himself dug and gave to Joseph his son;[^830] for this was an excellent place, where also near the existing Mount Somor, the Samaritans inhabited many cities. And Christ comes into Sychar, where Jacob had dwelt of old with his sons and with Dinah his daughter. Shechem, son of Hamor the Horrite, lusted after her, and having violated her, was with her; and from that cause her brothers, being provoked to great jealousy, suddenly entered into the city and killed them all together, both that Shechem and Hamor his father.[^831] Jacob therefore dwelt there, and dug the present well. Yet the Samaritans did not dwell near that mountain previously, but the Israelites, having provoked that anger, in the reign of Pekah, during the first and second captivities, when the Assyrians came, were subjected to tribute by them; and afterward, in the reign of Hoshea, they attached themselves to the Ethiopians; which when the Assyrian king learned, he deported them to Babylon. And he commanded various nations to dwell in that place; but God let loose lions upon those foreigners. And the Assyrian king, having learned this in turn, sent unto them priests from among the Jews, (for they were still captives there,) that they might also receive the laws of God. And from the idols indeed they quickly broke away. But only[^832] the five books of Moses did they accept, rejecting the Prophets and the rest of the Scripture.[^833] These were also called Samaritans, as being from Mount Somor; and they were hated by the Hebrews returning from captivity, because they Judaized only in part and would not eat with them, abominating them unyieldingly; therefore also they often called Christ a Samaritan, as one who despised and broke certain things of the Law even as they did.[^834]
 
 The Lord therefore comes into Sychar, and being weary from the journey, He sat down about the sixth hour of the day. And a certain woman from the city came to draw water, the disciples having gone away to buy food; Jesus therefore asks water. But she proposes not to touch Him, having recognized Him both from His speech and from His apparel. But He leads her upward, bringing spiritual water into the midst, which He shows to be inexhaustible and cleansing; for the Spirit is ever likened unto water and fire. But the woman, persisting importunately, that He had no such water, so as not to carry a vessel for drawing, and that the well belonged to Jacob, she replies; furthermore she also raises word concerning the forefather Jacob, that he himself dug the well, and he and his sheep drank of it, setting forth the rich abundance of the springs, and that the well was otherwise well-suited.[^835]
 
@@ -540,7 +538,7 @@ Fair as a bridegroom from the chamber didst Thou come forth from the tomb, havin
 Let us all now form spiritual choirs, and let us cry: The Lord is risen! Let the earth rejoice, let heaven be glad, let the clouds drop down showers of righteousness for us who celebrate radiantly and hymn Christ![^871]
 
 *Troparion:*  
-The Lord, the Life of the living, the Fountain of good things, richly pouring forth the water of teachings, cries unto the woman: Give Me water to drink, that I may give thee water which dris up the fountains of thy sins![^872]
+The Lord, the Life of the living, the Fountain of good things, richly pouring forth the water of teachings, cries unto the woman: Give Me water to drink, that I may give thee water which dries up the fountains of thy sins![^872]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit. Trinity Hymn:*  
 One Light indivisible, Trinity in three suns, unoriginate Father, Son, and Spirit, one Godhead, Life and Creator of all: Him let us, the faithful, hymn with the bodiless powers, sacredly chanting with thrice-holy hymns!
@@ -554,7 +552,7 @@ Having fallen asleep in the flesh as a mortal, O King and Lord, on the third day
 *Glory, of the Samaritan Woman, Tone 2, Podoben: "Give ear, ye women" (Жены̀):*  
 Into Samaria didst Thou come, O my all-powerful Savior, and having conversed with the woman, didst ask water to drink, Who for the Hebrews didst gush forth waters from the flinty rock; whom Thou didst receive unto faith, and she now enjoys life in the heavens unto the ages![^874]
 
-*Both now and for ever and unto ages of ages. Amen. Of Mid-Pentecost, Tone 2, the same Podoben:*  
+*Both now and for ever and unto ages of ages. Amen. Of Mid-Pentecost, Tone 2, the same Podoben (Подо́бенъ то́йже):*  
 When the feast was at Mid-point, Thou didst come into the Sanctuary, O Lover of mankind, and didst say: Ye that are filled with thirst, come unto Me and draw living and nourishing water, whereof having food, grace, and immortal life, enjoy ye all![^875]
 
 *At the Praises, we chant: Let every breath. We set 8 verses, and chant the following Resurrection stichera.*  
@@ -580,15 +578,13 @@ Let heaven and earth rejoice radiantly today, for Christ hath appeared, being in
 
 *Tone 6:*  
 *Verse: Thou hast loved righteousness and hated iniquity.*  
-Thus saith the Lord unto the Samaritan woman: If thou knewest the gift of God, and Who it is that saith unto thee: Give Me water to drink, thou wouldest have asked of Him, and He would have given thee to drink, that thou thirst not unto the ages, saith the Lord![^880]
+Thus says the Lord unto the Samaritan woman: If thou knewest the gift of God, and Who it is that says unto thee: Give Me water to drink, thou wouldest have asked of Him, and He would have given thee to drink, that thou thirst not unto the ages, says the Lord![^880]
 
 *Glory, the same Tone:*  
 The Fountain of the origin of life, Jesus our Savior, having come to the well of the Patriarch Jacob, was asking for water to drink from the Samaritan woman; and when she answered Him concerning the irreconcilability of the Jews, the wise Creator led her with sweet words rather to ask for the ever-flowing water, which having received, she proclaimed unto all, saying: Come, see the Knower of secrets and God, Who came in the flesh to save mankind![^881]
 
 *Both now and for ever and unto ages of ages. Amen.*  
-Most blessed art thou...[^882]
-
-*Great Doxology. And the dismissal.*  
+Most blessed art thou[^882] *Great Doxology. And the dismissal.*
 *Glory... Both now and for ever and unto ages of ages. Amen.*  
 *Evangelical Sticheron [Eothinon], Tone 7:*  
 Behold, it is darkness and early dawn; and why, O Mary, art thou standing at the tomb, having much darkness in thy mind, inquiring where Jesus was laid? But behold the disciples running together, how by the winding sheets and the napkin they discovered the Resurrection, and remembered the Scriptures concerning these things: with whom and through whom we also, having believed, hymn Thee, Christ the Giver of life![^883]
@@ -640,7 +636,7 @@ Standing in the midst of the sanctuary, God uncircumscribed and Lord—for He wa
 *And of the Menaion, 3.*
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8:*  
-When the feast was at Mid-point, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary, O God, the disobedient Jews, Pharisees, and Scribes, crying aloud unto them: Let him that thirsts come unto Me and drink; he that believs in Me, rivers of living water of the divine Spirit shall flow from his belly! O the praise of Thine ineffable wisdom! O our God Who fillest all things, glory to Thee![^892]
+When the feast was at Mid-point, before Thy Passion and glorious Resurrection, O Lord, Thou wast teaching in the sanctuary, O God, the disobedient Jews, Pharisees, and Scribes, crying aloud unto them: Let him that thirsts come unto Me and drink; he that believes in Me, rivers of living water of the divine Spirit shall flow from his belly! O the praise of Thine ineffable wisdom! O our God Who fillest all things, glory to Thee![^892]
 
 *At the Aposticha, stichera of the Octoechos:*  
 *Tone 4:*  
@@ -771,10 +767,10 @@ The Root of all and Giver of life, the Word co-eternal with the Divine Father, t
 
 When the Jewish feast was half over, O Christ, Thou didst stand in the sanctuary, the Master of the Law, teaching with authority and convicting the scribes, even as it is written, and astonishing them by the wisdom of Thy words and the display of miracles.[^926]
 
-The Giver of wisdom and Dispenser of good things, pouring forth Divine streams from the ever-flowing fountain, cries aloud: Come unto Me, ye that thirst, draw water of life; and rivers of Divine gifts, saith He, shall flow out of your belly.[^927]
+The Giver of wisdom and Dispenser of good things, pouring forth Divine streams from the ever-flowing fountain, cries aloud: Come unto Me, ye that thirst, draw water of life; and rivers of Divine gifts, says He, shall flow out of your belly.[^927]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 2:*  
-When Thou didst come into the sanctuary, O Christ God, at Mid-feast, then didst Thou teach the people, crying aloud: He that believs on Me, though he die, yet shall he live! But the Jews flared with rage, together with the Pharisees, Sadducees, and scribes, saying: Who is this that speaks blasphemy? Not considering that Thou art our God, Who art before all ages, glorified with the Father and the Spirit: glory to Thee![^928]
+When Thou didst come into the sanctuary, O Christ God, at Mid-feast, then didst Thou teach the people, crying aloud: He that believes on Me, though he die, yet shall he live! But the Jews flared with rage, together with the Pharisees, Sadducees, and scribes, saying: Who is this that speaks blasphemy? Not considering that Thou art our God, Who art before all ages, glorified with the Father and the Spirit: glory to Thee![^928]
 
 *At the Aposticha, stichera of the Octoechos.*  
 *Tone 4:*  
@@ -871,7 +867,7 @@ In fiery flame the Cherubim and Seraphim stand before Thee, O Lord, and all crea
 Having torn asunder the handwriting of Adam by the Cross, O Lord, Thou hast now poured forth blessing unto us, becoming a curse of Thine own will, O Christ; therefore we bless Thee continually unto the ages.[^963]
 
 *Troparion [Acrostic letter I]:*  
-The assembly of holy disciples, O Lord, beheld Thee risen from the dead, and was filled with mystical consolation, unto whom Thou didst cry aloud: Knowing Me to be God the Giver of life, go forth, saith He, proclaim Me the King of all![^964]
+The assembly of holy disciples, O Lord, beheld Thee risen from the dead, and was filled with mystical consolation, unto whom Thou didst cry aloud: Knowing Me to be God the Giver of life, go forth, says He, proclaim Me the King of all![^964]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit.*  
 *Troparion [Acrostic letter A]:*  
@@ -915,11 +911,11 @@ At the mid-point of the feast of Thy Resurrection, O Christ, and of the Divine c
 The mid-point of the days of Pentecost hath arrived, wherein Christ, revealing in part His Divine power, strengthened the paralytic by a word, raising him from his bed; and performing miracles in God-befitting manner in the body He had fashioned, He bestowed upon men eternal life and great mercy.[^978]
 
 *Verse: Remember Thy congregation, which Thou hast purchased from the beginning.*[^979]  
-Thou didst come into the sanctuary, O Wisdom of God, when the feast was half over, teaching and convicting the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me and drink living water, and he shall never thirst unto the ages; he that believs in My goodness, out of his belly shall flow rivers of eternal life! O Thy goodness and Thy compassion, O Christ our God, glory to Thee![^980]
+Thou didst come into the sanctuary, O Wisdom of God, when the feast was half over, teaching and convicting the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me and drink living water, and he shall never thirst unto the ages; he that believes in My goodness, out of his belly shall flow rivers of eternal life! O Thy goodness and Thy compassion, O Christ our God, glory to Thee![^980]
 
 *Verse: But God is our King before the ages; He hath wrought salvation in the midst of the earth.*[^981]  
 *Tone 2:*  
-When the mid-point of the feast arrived, Jesus went up into the sanctuary and taught the disobedient Jews, saying: Let him that thirsts come unto Me and drink living and eternal water, and he shall never thirst unto the age; he that believs on Me, rivers shall flow out of his belly, and he shall have the light of life![^982]
+When the mid-point of the feast arrived, Jesus went up into the sanctuary and taught the disobedient Jews, saying: Let him that thirsts come unto Me and drink living and eternal water, and he shall never thirst unto the age; he that believes on Me, rivers shall flow out of his belly, and he shall have the light of life![^982]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 8:*  
 When the feast was half over, as Thou wast teaching, O Savior, the Jews said: How knows this Man letters, having never learned? Not understanding that Thou art the Wisdom that fashioned the world: glory to Thee![^983]
@@ -958,7 +954,7 @@ Having been enlightened, brethren, by the Resurrection of Christ the Savior, and
 *Tone 4, Podoben: "Being called from on high" (Зва́нный свы́ше):*  
 Finding the Samaritan woman at the well, Christ asked of her water to drink, thirsting for her correction and salvation, which is understood as fulfilled by deeds; for as she was drawing a drink, He Himself drew her away from that drink and filled her with the living drink, as she proclaimed unto her fellow citizens: Behold, Christ the Messiah, Who of old was spoken of in the Law, hath appeared as man, revealing the ineffable secrets of our thoughts![^995]
 
-Behold, Christ the Messiah hath appeared on earth! the Samaritan woman saith unto those in the city: The great Prophet written of old in the Law to come, God and man, Who told me the things that I have done, and all things hidden in the depth of my heart He declared unto me, even as I committed them! Therefore the city, having flocked together, sees that her words are true in every way, and is astonished at the matter, and strengthened by the sight.[^996]
+Behold, Christ the Messiah hath appeared on earth! the Samaritan woman says unto those in the city: The great Prophet written of old in the Law to come, God and man, Who told me the things that I have done, and all things hidden in the depth of my heart He declared unto me, even as I committed them! Therefore the city, having flocked together, sees that her words are true in every way, and is astonished at the matter, and strengthened by the sight.[^996]
 
 The daughter of the ancestral mother, who of old at the sixth hour beheld Thee, God the Master, walking in Paradise, again beheld Thee at the sixth hour sitting where there was a spring of water and a dug well, asking of her to drink, that Thou mightest give her to drink of the water of incorruptible life, which indeed came to pass: for having drunk abundantly of Thy life-bearing water, she also proclaimed in the city what manner of wealth was Thine![^997]
 
@@ -1117,7 +1113,7 @@ O Lord, having ascended the Cross, Thou hast abolished our ancestral curse; and 
 Living sacrifices, rational whole-burnt offerings, Martyrs of the Lord, perfect slaughterings of God, sheep knowing God and known of God, whose fold cannot be penetrated by wolves: pray that we also may be pastured with you beside the water of rest![^1054]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 6:*  
-Thus saith the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who it is that saith unto thee: Give Me water to drink: thou wouldest have asked of Him, and He would have given thee to drink, that thou shouldest not thirst for ever, saith the Lord.[^1055]
+Thus says the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who it is that says unto thee: Give Me water to drink: thou wouldest have asked of Him, and He would have given thee to drink, that thou shouldest not thirst for ever, says the Lord.[^1055]
 
 ## ON FRIDAY OF THE SAMARITAN WOMAN, AT MATINS
 
@@ -1304,7 +1300,7 @@ While the woman pursued Jewish customs and brought forward her own non-communion
 Thou hast no drawing-vessel, and the well is very deep; whence then dost Thou give me incorruptible water? The Samaritan woman cried unto Thee, O Christ, supposing Thee to be a man and not God, and marveling at Thy words; whom having given to drink with sweetest sayings, Thou didst cause to confess Thee as the God of all creation.[^1123]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 6:*  
-Thus saith the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who He is that saith unto thee: Give Me water to drink, thou wouldst have asked of Him, and He would have given thee to drink, that thou mightest never thirst unto ages, saith the Lord.[^1124]
+Thus says the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who He is that says unto thee: Give Me water to drink, thou wouldst have asked of Him, and He would have given thee to drink, that thou mightest never thirst unto ages, says the Lord.[^1124]
 
 *On Saturday of the Samaritan Woman, the Four-Ode Canon, whose acrostic is: ᾌδω μέλος τέταρτον, that is: I sing the fourth song.*[^1125]
 
@@ -1699,7 +1695,7 @@ Beholding Thy Son dead and naked hanging upon the Tree, thou didst cry aloud: bu
 [^1052]: Stichera at the Aposticha, Tone 4: Resurrectional sticheron (*Воскрⷭ҇на*). Physical Leaf p424 (printed fol. 418v). Christ ascending the Cross to annul the ancestral curse of Adam, descending into hades to liberate the primordial captives, and bestowing incorruption upon mankind.
 [^1053]: Psalm verse accompanying the Martyrikon: Psalm 122:3–4 [LXX 122:3–4 / MT 123:3–4]: "Have mercy on us, O Lord, have mercy on us; for we are utterly filled with contempt..." Physical Leaf p424 (printed fol. 418v).
 [^1054]: Stichera at the Aposticha, Tone 4: Martyrikon (*Мꙋ́чениченъ*). Physical Leaf p424 (printed fol. 418v). Addressing the holy Martyrs as living, rational sacrifices and unblemished sheep of Christ, petitioning that the faithful may be shepherded alongside them beside the still waters of eternal rest (cf. Ps 22:2 [LXX 22:2 / MT 23:2]).
-[^1055]: Thursday Vespers Aposticha: Doxastikon, Tone 6 (*Сла́ва, и҆ ны́нѣ*). Physical Leaf p425 (printed fol. 419r). Concluding Thursday Vespers with Christ's evangelical words unto the Samaritan woman: "If thou knewest the gift of God, and Who it is that saith to thee, Give Me to drink; thou wouldest have asked of Him, and He would have given thee living water" (Jn 4:10).
+[^1055]: Thursday Vespers Aposticha: Doxastikon, Tone 6 (*Сла́ва, и҆ ны́нѣ*). Physical Leaf p425 (printed fol. 419r). Concluding Thursday Vespers with Christ's evangelical words unto the Samaritan woman: "If thou knewest the gift of God, and Who it is that says to thee, Give Me to drink; thou wouldest have asked of Him, and He would have given thee living water" (Jn 4:10).
 [^1056]: Friday of the Samaritan Woman, Matins opening rubric: the Resurrection Troparion of Tone 4 (*Светлꙋю воскресенїѧ проповедь*) is chanted at "God is the Lord". Physical Leaf p425 (printed fol. 419r).
 [^1057]: Sessional Hymn following the First Stichology, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ). Physical Leaf p425 (printed fol. 419r). Meditating on the voluntary crucifixion of Christ by the Jews, His outstretched hands drawing the Gentiles unto salvation, and His pierced side pouring out grace.
 [^1058]: Psalm verse accompanying the Martyrikon: Psalm 67:36 [LXX 67:36 / MT 68:35]: "Marvelous is God in His saints, the God of Israel." Physical Leaf p425 (printed fol. 419r).
@@ -1785,9 +1781,9 @@ Beholding Thy Son dead and naked hanging upon the Tree, thou didst cry aloud: bu
 [^1138]: Saturday Tetraodion, Ode 8: second troparion, bearing Greek acrostic initial έ (Slavonic Є). Physical Leaf p433 (printed fol. 427r). Summoning all earthly and heavenly beings to rejoice in the Giver of life Who is risen from the tomb.
 [^1139]: Saturday Tetraodion, Ode 8: third troparion (preceded by *Glory*), bearing Greek acrostic initial τ (Slavonic Т). Physical Leaf p433 (printed fol. 427r). Christ binding the tormentor by His descent and resurrecting all the dead.
 [^1140]: Saturday Tetraodion, Ode 8: Theotokion (preceded by *Both now*), bearing Greek acrostic initial α (Slavonic А), completing τέτα-. Physical Leaf p433 (printed fol. 427r). The incarnation of the Word from the Virgin Mary to reverse Adam's fall in Eden.
-[^1141]: Saturday Tetraodion, Tone 4, Ode 9: Heirmos (*Є҆́vа ᲂу҆́бѡ недꙋ́гомъ преслꙋша́нїѧ*), contrasting Eve's disobedience bringing the curse with the Virgin's childbearing blossoming blessing upon the world. Physical Leaf p433 (printed fol. 427r).
+[^1141]: Saturday Tetraodion, Tone 4, Ode 9: Heirmos (*Є҆́ѵа ᲂу҆́бѡ недꙋ́гомъ преслꙋша́нїѧ*), contrasting Eve's disobedience bringing the curse with the Virgin's childbearing blossoming blessing upon the world. Physical Leaf p433 (printed fol. 427r).
 [^1142]: Saturday Tetraodion, Ode 9: first troparion, bearing Greek acrostic initial ρ (Slavonic Р). Physical Leaf p433 (printed fol. 427r). The cosmic portents at Christ's voluntary crucifixion: the rending of the veil and the darkening of the sun (Mt 27:51).
 [^1143]: Saturday Tetraodion, Ode 9: second troparion, bearing Greek acrostic initial τ (Slavonic Т). Physical Leaf p433 (printed fol. 427r). Christ pierced upon the Tree to heal Adam's ancient wound caused by transgression in Eden.
 [^1144]: Saturday Tetraodion, Ode 9: third troparion (preceded by *Glory*), bearing Greek acrostic initial ο (Slavonic О). Physical Leaf p433 (printed fol. 427r). The Master Who holds creation in His palm condescending to be numbered among the dead to save mankind from the serpent's sting.
-[^1145]: Saturday Tetraodion, Ode 9: Theotokion (preceded by *Both now*), bearing Greek acrostic initial ν (Slavonic Н), concluding the acrostic ᾌδω μέλος τέтартон. Physical Leaf p433 (printed fol. 427r). The Mother of God sorrowing at her Son's crucifixion and rejoicing at His third-day Resurrection.
+[^1145]: Saturday Tetraodion, Ode 9: Theotokion (preceded by *Both now*), bearing Greek acrostic initial ν (Slavonic Н), concluding the acrostic ᾌδω μέλος τέταρτον. Physical Leaf p433 (printed fol. 427r). The Mother of God sorrowing at her Son's crucifixion and rejoicing at His third-day Resurrection.
 [^1146]: Saturday of the Samaritan Woman, Divine Liturgy liturgical rubrics and Scriptural citations: Prokeimenon and Alleluia of the day; Epistle: Acts pericope 37 [Acts 15:35–41]; Gospel: John pericope 38 [John 10:27–38]; and Communion hymn of the day. Physical Leaf p433 (printed fol. 427r).

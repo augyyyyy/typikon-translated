@@ -9,9 +9,7 @@
 *Tone 1, Podoben: "Joy of the Celestial Ranks" (Не́бны чинѡ):*  
 Christ patiently endures being touched in His love for mankind, even as He endured the Cross before this and the unjust slaughter; and having risen on the third day from the tomb, He did not break the seals, and while the doors were shut He stood among the disciples, being almighty!  
 The unbelief of Thomas confirms the world-saving rising from the treasuries of Hades of the God-man, the Word; with searching right hand he boldly touches the wounds of His hands and feet unto the assurance of the world!  
-When the Apostles were gathered together in fear because of Thy Passion, O Word, and while the doors were locked, Thou didst suddenly come into their midst granting them peace...  
-
-...and stretching forth unto Thomas to touch the precious wounds of Thy side!  
+When the Apostles were gathered together in fear because of Thy Passion, O Word, and while the doors were locked, Thou didst suddenly come into their midst granting them peace and stretching forth unto Thomas to touch the precious wounds of Thy side!
 *Glory: Both now: Tone 2:*  
 After Thy rising, O Lord, when Thy disciples were gathered together and the doors were shut, Thou didst stand in their midst, granting them peace; and Thomas, assured by the sight of Thy hands and side, confessed Thee to be Lord and God, Who savest those that hope in Thee, O Lover of mankind!  
 *At the Aposticha, Prosomoia, Tone 2:*  
@@ -21,7 +19,7 @@ With precious hymns, ye men, sing with the Angels unto Him Who is risen on the t
 Thou didst appear unto Thine ordained Apostles, O Savior, while the doors were shut, renewing for us through them Thy Holy Spirit!  
 *Stichos:* For He hath strengthened the bars of thy gates. (Ps. 147:2)  
 Having seen Thee now, not with our eyes, but having believed in God with heartfelt love, we magnify Thee in hymns!  
-*Glory: Both now: In the same Tone and Podoben:*  
+*Glory: Both now: In the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 Granting the Savior and Redeemer unto the world, grant also unto Thy people remission of debts, through the prayers of the all-pure, only Mother of God!  
 *Then:* Now lettest Thou Thy servant depart in peace, O Master... *Troparion, Tone 7:*  
 While the tomb was sealed, Thou didst shine forth Life from the tomb, O Christ God; and while the doors were shut, Thou didst stand among the disciples, the Resurrection of all, renewing an upright spirit in us through them, according to Thy great mercy!  
@@ -30,9 +28,7 @@ While the tomb was sealed, Thou didst shine forth Life from the tomb, O Christ G
 *After the Priest gives the blessing, "Christ is risen..." (thrice). And immediately we sing Psalm 103, the Introductory Psalm, with chanting according to custom. Likewise the Stichology: the entire 1st Kathisma. On "Lord, I have cried", we set 10 stichera. Idiomelon Stichera, Tone 1:[^527]*  
 *Sticheron:* On the eighth day of Thy rising, O Lord, Thou didst appear unto Thy disciples in the place where they were gathered, and having proclaimed unto them: Peace be unto you! Thou didst show Thy hands and Thy most pure side unto the disbelieving disciple; and he, having believed, cried out unto Thee: My Lord and my God, glory to Thee!  
 *Sticheron:* While the doors were shut and the disciples were gathered together, Thou didst enter suddenly, O Almighty Jesus our God; and standing in their midst, having given peace, Thou didst fill them with the Holy Spirit, and didst command them to wait, and by no means to depart from Jerusalem, until they were clothed with power from on high. Therefore do we cry aloud unto Thee: O our Enlightenment, and Resurrection, and Peace, glory to Thee!  
-*Sticheron:* Thomas, called the Twin, was not with them when Thou didst enter, O Christ, while the doors were locked; therefore he disbelieved the things spoken unto him, seeking to be assured from unbelief into faith: Thou didst not disdain, O Good One, to show unto him Thy most pure side, and the wounds of Thy hands and feet...  
-
-...and he, having touched and seen, confessed Thee to be neither naked God nor mere man, and cried out: My Lord and my God, glory to Thee! *(twice)*  
+*Sticheron:* Thomas, called the Twin, was not with them when Thou didst enter, O Christ, while the doors were locked; therefore he disbelieved the things spoken unto him, seeking to be assured from unbelief into faith: Thou didst not disdain, O Good One, to show unto him Thy most pure side, and the wounds of Thy hands and feet and he, having touched and seen, confessed Thee to be neither naked God nor mere man, and cried out: My Lord and my God, glory to Thee! *(twice)*
 *Sticheron:* While the disciples were doubting, the Savior appeared on the eighth day where they were gathered, and having given peace, cried unto Thomas: Come, Apostle, touch the palms in which they drove the nails! O good unbelief of Thomas, which brought the hearts of the faithful unto understanding! And with fear he cried aloud: My Lord and my God, glory to Thee!  
 *Sticheron, Tone 2:* After Thy rising, O Lord, when Thy disciples were gathered together and the doors were shut, Thou didst stand in their midst granting them peace; and Thomas, having believed by the sight of Thy hands and side, confessed Thee to be Lord and God, Who savest those that hope in Thee, O Lover of mankind!  
 *Sticheron:* Standing among the disciples while the doors were shut, Jesus gave fearlessness and peace; then He says unto Thomas: Why dost thou disbelieve Me, that I am risen from the dead? Bring hither thy hand and place it into My side, and see! For while thou wast disbelieving, all were taught to proclaim My Passion and Resurrection together with thee: My Lord and my God, glory to Thee!  
@@ -45,9 +41,7 @@ While the doors were shut, Thou didst come, O Lord, with the unendurable radianc
 *Glory: Both now: Tone 8, Anatolian:*  
 While the doors were shut and the disciples were gathered together, the Savior came where they were gathered, and standing in their midst says unto Thomas: Come, touch, and behold the prints of the nails; stretch forth thy hand and touch My side, and be not faithless, but in faith proclaim My Resurrection from the dead!  
 *At the Aposticha, Idiomelon Stichera, Tone 4:*  
-*Sticheron:* O marvelous wonder! Unbelief gave birth to sure faith! For Thomas said: Unless I see, I will not believe; but having touched His side, he theologized the Incarnate One, recognized Him to be the same Son of God, and proclaimed that He suffered in the flesh...  
-
-...Him Who is risen as God, and cried aloud in radiant voice: My Lord and my God, glory to Thee!  
+*Sticheron:* O marvelous wonder! Unbelief gave birth to sure faith! For Thomas said: Unless I see, I will not believe; but having touched His side, he theologized the Incarnate One, recognized Him to be the same Son of God, and proclaimed that He suffered in the flesh Him Who is risen as God, and cried aloud in radiant voice: My Lord and my God, glory to Thee!
 *Stichos:* Praise the Lord, O Jerusalem. (Ps. 147:1)  
 *Sticheron:* O marvelous wonder! Grass touching fire was saved! For Thomas put his hand into the fiery side of Jesus Christ God, and was not consumed by the touch; for the soul turned away from evil unto true faith, and he cried out warmly from the depths of his soul: Thou art my Master and my God, Who art risen from the dead, glory to Thee!  
 *Stichos:* For He hath strengthened the bars of thy gates. (Ps. 147:2)  
@@ -57,7 +51,7 @@ O Lover of mankind, great and unsearchable is the multitude of Thy compassions! 
 *Then:* Now lettest Thou Thy servant depart in peace... *After "Our Father": Troparion, Tone 7 (thrice):* While the tomb was sealed... *(see fol. 200). And the Blessing of Loaves. And the Reading of the Acts of the Holy Apostles, or the Homilies of John of Golden Speech.*  
 
 *If anywhere for a justifiable reason a Vigil cannot be celebrated, we sing the Triadic Canon of the Octoechos for the Angelic Tone, sung at the Midnight Office, whose acrostic or (*краегране́сїе*) is:[^529]*  
-(`ΜΙΑΝ ΣΕ ΜΕЛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН`)
+(`ΜΙΑΝ ΣΕ ΜΕΛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН`)
 *That is: "Singing, I hymn Thee, the one Tri-radiant Nature." A creation of Metrophanes of Smyrna, Tone 4: "Thy victorious right hand."*  
 *It is fitting to know that from this Sunday even unto All Saints, we make the first reading from the Acts of the Apostles; and when they are finished, we begin the Homilies of Chrysostom, and begin them again. At the conclusion of such reading, we say: "Having heard...", that is, the Six Psalms, and the rest of Matins.*  
 
@@ -99,9 +93,7 @@ Let us all sing a song of victory unto Him Who delivered Israel from bitter serv
 Establish me, O Christ, upon the immovable rock of Thy commandments, and enlighten me with the light of Thy countenance; for there is none holy above Thee, O Lover of mankind!  
 *Troparion:* Having made us new instead of old, and having made us incorruptible through Thy corruptless Cross, O Christ, Thou didst command us to live worthily in newness of life!  
 *Troparion:* In the tomb enclosed within Thy circumscribed flesh, O Uncircumscribed Christ, Thou didst rise, and while the doors were shut, Thou didst stand among Thine own disciples, O Almighty One!  
-*Troparion:* Thy wounds, O Christ, which Thou didst willingly receive for the disciples...  
-
-...preserving them for Thy disciples, Thou didst show forth as a witness of Thy glorious Resurrection!  
+*Troparion:* Thy wounds, O Christ, which Thou didst willingly receive for the disciples preserving them for Thy disciples, Thou didst show forth as a witness of Thy glorious Resurrection!
 *Katavasia: "Come, let us drink a new drink..."*  
 *Hypakoë, Tone 6:*  
 Even as Thou didst come into the midst of Thy disciples, O Savior, granting them peace: come also unto us and save us!  
@@ -133,9 +125,7 @@ With his searching right hand, Thomas probed Thy life-giving side, O Christ God;
 *Verses:*  
 *If the key of the seals and the tomb lets Thee pass:*  
 *How does the bolt of the doors hinder Thee as Thou comest, O Savior?*  
-On this Second Sunday after Pascha, we celebrate the Renewal of Christ's Resurrection, and the Touching of the Holy Apostle Thomas. The ancient custom was to observe a renewal on certain notable events, as the year revolved; and on that day, since this work was done, when that event recurred, they made a yearly memorial...  
-
-...lest great deeds fall into oblivion. Thence the Hebrews first kept the Passover in Gilgal, renewing the crossing of the Red Sea; thence the Tabernacle of the Testimony was renewed among them with great festivity; thence the Kingdom of David, and others, that I speak not of each one. Since therefore the Lord's Resurrection is a work more excellent and greater than all things in this life, and surpassing all human thought: not only every year do we renew it, but continually every eighth day. And the first renewal thereof is this present Sunday, which is truly called both the Eighth and the First: the Eighth, as being reckoned from Pascha; and the First, as the beginning of the others; and again the Eighth, as an image of that unending eighth day of the age to come, which shall be one and first, not cut asunder by any night. These things concerning renewals.  
+On this Second Sunday after Pascha, we celebrate the Renewal of Christ's Resurrection, and the Touching of the Holy Apostle Thomas. The ancient custom was to observe a renewal on certain notable events, as the year revolved; and on that day, since this work was done, when that event recurred, they made a yearly memorial lest great deeds fall into oblivion. Thence the Hebrews first kept the Passover in Gilgal, renewing the crossing of the Red Sea; thence the Tabernacle of the Testimony was renewed among them with great festivity; thence the Kingdom of David, and others, that I speak not of each one. Since therefore the Lord's Resurrection is a work more excellent and greater than all things in this life, and surpassing all human thought: not only every year do we renew it, but continually every eighth day. And the first renewal thereof is this present Sunday, which is truly called both the Eighth and the First: the Eighth, as being reckoned from Pascha; and the First, as the beginning of the others; and again the Eighth, as an image of that unending eighth day of the age to come, which shall be one and first, not cut asunder by any night. These things concerning renewals.
 Now concerning Thomas, it was on this wise:  
 When He appeared late on that day of the Resurrection unto the disciples, Thomas was not there, not having yet assembled with the rest for fear of the Jews; then coming shortly after, and having heard of Christ's coming, he disbelieved not only the disciples, because they had seen Him as a man, but also that the Lord was risen on that day; and he was one of the Twelve. But God, full of good counsel, cares thus for one, and together with a greater dispensation, that He might assure those that should follow even more of the Resurrection, left eight days. That He might thoroughly sharpen his love, and that through his disbelief God might grant unto all a more certain assurance of the Resurrection, He comes again, and while the doors were shut, even as before, when Thomas also was present, He enters; and having given peace as was customary, He then stretches forth unto Thomas and says: Bring hither thy finger, and see My hands; and bring hither thy hand, and place it into My side, and be not faithless, but believing! For seeing that thou wast to be assured not by sight alone; He showed by this that when he spoke these things unto the disciples, He had heard him: "Place thy hand into My side." And it shows also that the wound in His side was broad, so as even to receive a hand within. And Thomas, having accurately searched and received faith by touching (for it was granted unto him to see and do these things, even though His flesh had inclined unto what is incorruptible and deified), for full assurance cried aloud: "My Lord and my God!" The one indeed on account of His flesh, and the other on account of His Godhead. And Christ said unto Thomas: "Because thou hast seen Me, thou hast believed; blessed are they that have not seen, and yet have believed."  
 Thomas is called the Twin (Didymus), either because he was born a twin with another, or because he doubted concerning the Resurrection, or because from nature two fingers of his right hand were joined together,[^534] that is, the middle finger and that which by distinction is called the index finger, as though one should say, he was destined to doubt and to touch with these. Others say, which is more certain, that Thomas is interpreted as "Twin".  
@@ -146,9 +136,7 @@ By the prayers of that Apostle Thomas, O Christ our God, have mercy on us, now a
 When the musical harmony summoned the people to worship the image, singing Zion-like songs from the images, the youths of the Virgin destroyed the tyrant's wicked decree, and turned the flame into dew, singing the hymn: O God of our fathers and our God, supremely exalted, blessed art Thou!  
 *Troparion:* As the first of days and the sovereign, light-bearing son, wherein it is meet for the new and divine people to rejoice with trembling; for it brings the image of the age to come, as an eighth day: O God of our fathers and our God, supremely exalted, blessed art Thou!  
 *Troparion:* A bold mind, bringing us faith through unbelief, Thomas the Twin dispels the dark ignorance of all the ends of the earth by his faithful unbelief, and weaves a crown for himself, saying unto Thee: Thou art the Lord, O God of our fathers and our God, supremely exalted, blessed art Thou!  
-*Troparion:* Not in vain did Thomas doubt Thy rising, nor was he cast down; but he strove to show Christ without doubt unto all nations, whence...
-
-...having assured all by disbelief, taught them to say: Thou art the Lord, supremely exalted above the fathers and our God, blessed art Thou!  
+*Troparion:* Not in vain did Thomas doubt Thy rising, nor was he cast down; but he strove to show Christ without doubt unto all nations, whence having assured all by disbelief, taught them to say: Thou art the Lord, supremely exalted above the fathers and our God, blessed art Thou!
 *Troparion:* With fear, Thomas placed his hand into Thy life-bearing side, O Christ, and trembling, he perceived the twofold operation, O Savior, in the two natures united in Thee without confusion; and with faith he cried aloud, saying: Thou art the Lord, supremely exalted above the fathers and our God, blessed art Thou!  
 *Katavasia: "The Children delivered from the furnace..."[^536]*  
 
@@ -180,9 +168,7 @@ Thomas, who is also called the Twin, had not arrived when Thou didst appear unto
 Touch as thou wilt, Christ cried out unto Thomas: place thy hand, and know Me that I have bones and earthen flesh, and be not faithless, but be assured equally with the rest! And he cried aloud: Thou art my God and Lord, glory to Thy rising!  
 
 *Glory: Tone 6:*  
-After eight days from Thy rising, O Jesus, King, Only-Begotten Word of the Father, Thou didst appear unto Thy disciples...  
-
-...unto Thy disciples, while the doors were shut, granting them Thy peace; and unto the disbelieving disciple Thou didst show Thy wounds, saying: Come and touch My hands and My feet, and My incorruptible side! And he, having believed, cried aloud: My Lord and my God, glory to Thee!  
+After eight days from Thy rising, O Jesus, King, Only-Begotten Word of the Father, Thou didst appear unto Thy disciples unto Thy disciples, while the doors were shut, granting them Thy peace; and unto the disbelieving disciple Thou didst show Thy wounds, saying: Come and touch My hands and My feet, and My incorruptible side! And he, having believed, cried aloud: My Lord and my God, glory to Thee!
 *Both now: "Thou art most blessed..." Great Doxology.*  
 *Troparion of the feast: While the tomb was sealed... (see fol. 200). Litany, and Dismissal.*  
 
@@ -230,9 +216,7 @@ O full of grace, beholding the wonder of wonders in thee, creation rejoices; for
 *After the 2nd Kathisma, Sessional Hymn, Tone 1:*  
 *Tone 1, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й, Спа́се):*  
 By touching the unendurable side with his hand, the Twin Thomas was not consumed by the touch, but remained examining the abundant wounds of Him Who was pierced for our sake: Thou art my Lord and my God, even though Thou didst endure suffering! *Glory: Both now: The same.*  
-*Reading. Then: "Having beheld the Resurrection of Christ" (once). And Psalm 50. Thus we do every day until the Ascension. But we do not chant the tone verses, that is, we do not stichologize the biblical canticles in this week, but begin the Canon from the Heirmoi of the feast, chanting on 12; and the Menaion on 4...*  
-
-*...and the Canon of the Menaion on 4. After Ode 3, Sessional Hymn of the Saint; Glory: Both now: Sessional Hymn of the feast. After Ode 6, Kontakion of the feast and Ikos.*  
+*Reading. Then: "Having beheld the Resurrection of Christ" (once). And Psalm 50. Thus we do every day until the Ascension. But we do not chant the tone verses, that is, we do not stichologize the biblical canticles in this week, but begin the Canon from the Heirmoi of the feast, chanting on 12; and the Menaion on 4 and the Canon of the Menaion on 4. After Ode 3, Sessional Hymn of the Saint; Glory: Both now: Sessional Hymn of the feast. After Ode 6, Kontakion of the feast and Ikos.*
 *If the commemoration of a Great Saint should occur, we sing the feast with the Heirmos on 6, and the Saint on 6. After Ode 3, Kontakion and Ikos of the feast, and Sessional Hymn in the Menaion; Glory: Both now: of the feast. After Ode 6, Kontakion of the Saint and Ikos. And we read in the Prologue. At Ode 9, the Magnificat ("More honorable...") is always chanted, except on the Sundays of Pentecostarion; only on the Sunday of the Holy Fathers is "More honorable..." chanted. After Ode 9, Exapostilarion of the feast; Glory: to the Saint; Both now: of the feast.*  
 *At the Praises, Stichera of the Octoechos on 4, Tone 1:*  
 We hymn Thy saving Passion, O Christ, and we glorify Thy Resurrection! *Penitential:*  
@@ -265,9 +249,7 @@ While the disciples were in doubt, on the eighth day the Savior stood in their m
 **I** Beholding Christ risen in the flesh from the dead, O Mother of God, thou didst rejoice; pray Him now to grant me also joy-creating tears of repentance, that I may then find divine consolation, O pure one!  
 
 *Ode 8. Heirmos: The Children in the furnace... Stichos: Blessed are they that hunger and thirst after righteousness...*  
-**D** By Thy Cross Thou didst destroy the curse, being laid in the tomb; and having cast down the dark kingdom of hades, O my Christ...  
-
-...O Jesus, having cast down its kingdom, and having risen, Thou didst raise all creation with Thyself; therefore we hymn Thee unto all ages!  
+**D** By Thy Cross Thou didst destroy the curse, being laid in the tomb; and having cast down the dark kingdom of hades, O my Christ O Jesus, having cast down its kingdom, and having risen, Thou didst raise all creation with Thyself; therefore we hymn Thee unto all ages!
 *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
 **E** When Thou didst ascend the Cross, the sun was darkened; and when Thou didst descend into hades, O Lover of mankind, light shone forth unto the souls sitting in darkness and buried in bitter death; therefore we hymn Thee unto all ages!  
 *Stichos: Blessed are the pure in heart, for they shall see God.*  
@@ -281,9 +263,7 @@ While the disciples were in doubt, on the eighth day the Savior stood in their m
 *Stichos: Blessed are ye when men shall revile you, and persecute you...*  
 **O** Thou didst appear as a great sun, setting beneath the earth, but unto those in hades Thou art an unsetting luminary from the dead, gloriously illumining the ends of the earth; therefore, O Life-Giver, we unceasingly magnify Thee!  
 *Stichos: Rejoice, and be exceeding glad, for great is your reward in heaven.*  
-**S** O Savior Jesus, Who by Thy death didst destroy death...  
-
-...and having raised all who were held therein, raise me also who am in the lowest pit of deadly passions and sins, crying unto Thee, O Lover of mankind!  
+**S** O Savior Jesus, Who by Thy death didst destroy death and having raised all who were held therein, raise me also who am in the lowest pit of deadly passions and sins, crying unto Thee, O Lover of mankind!
 *Glory:*  
 **I** The Myrrh-bearing women came early unto the tomb weeping; and not finding Thee, they beheld an Angel sitting before them in white robes, crying aloud: The Lord is risen! Hasten to proclaim the rising unto His disciples!  
 *Both now:*  
@@ -357,9 +337,7 @@ While the doors were locked, Thou didst stand among the disciples, O Christ; the
 *Ode 9. Heirmos: Light-bearing cloud... Stichos: Blessed are they that are persecuted for righteousness' sake...*  
 **O** When the prudent Thief beheld Thee willingly crucified upon the Tree, he cried aloud: Remember me, O Jesus, when Thou comest into Thy Kingdom! And he became the first inhabitant of Paradise, being justified by faith!  
 *Stichos: Rejoice, and be exceeding glad, for great is your reward in heaven.*  
-**S** Beholding Thee among the dead, O Savior, hades was slain, and gave up...  
-
-...and gave up the dead whom it had swallowed of old, who glorify Thy ineffable power, O Christ, and Thy great tender-heartedness, whereby Thou hast saved us, O King of all! *Glory:*  
+**S** Beholding Thee among the dead, O Savior, hades was slain, and gave up and gave up the dead whom it had swallowed of old, who glorify Thy ineffable power, O Christ, and Thy great tender-heartedness, whereby Thou hast saved us, O King of all! *Glory:*
 **I** The women bearing myrrh came unto the tomb; and beholding Thee, O Christ, risen from the tomb, they were filled with great joy, and announced unto Thine Apostles that Thou art risen and hast appeared, having raised the whole world with Thyself! *Both now: Theotokion:*  
 **Ph** Seeing the Unsetting Light come forth from the dead, O pure one, and being filled with great joy, thou didst rejoice with the holy disciples; with them entreat forgiveness for our boundless transgressions, O Mother of God, Protectress of the faithful!  
 
@@ -374,9 +352,7 @@ While the doors were shut, Thou didst come with the unendurable brilliance of Th
 *O Gladsome Light. At the Aposticha, Stichera, Tone 1:*  
 The Cross was planted on Calvary, and immortality blossomed forth for us from the ever-flowing fountain of the Savior's side! *Stichos: Unto Thee have I lifted up mine eyes... (Ps. 122:1 LXX)*  
 Come, ye people, let us hymn and worship Christ, glorifying His Resurrection from the dead; for He is our God, Who hath delivered the world from the enemy's delusion! *Stichos: Have mercy on us, O Lord, have mercy on us... (Ps. 122:3 LXX)*  
-O goodly merchandise of yours, O holy saints! For ye gave your blood, and inherited the heavens; and having been tried for a time, ye rejoice eternally; truly goodly was your merchandise! For having forsaken corruptible things, ye received incorruptible things...  
-
-...ye received incorruptible things, and dancing with the Angels, ye unceasingly sing unto the Consubstantial Trinity! *Glory: Both now: Tone 8:*  
+O goodly merchandise of yours, O holy saints! For ye gave your blood, and inherited the heavens; and having been tried for a time, ye rejoice eternally; truly goodly was your merchandise! For having forsaken corruptible things, ye received incorruptible things ye received incorruptible things, and dancing with the Angels, ye unceasingly sing unto the Consubstantial Trinity! *Glory: Both now: Tone 8:*
 Touch My side with thy hand, Christ says, and come touch the marks of the nails, examine with faith, and be faithful unto Me, and be not faithless! And Thomas, when he touched the Master with his finger, cried aloud with a loud voice: Thou art my God and Lord, O Compassionate One, glory to Thee!  
 *Now lettest Thou Thy servant depart in peace... And the rest according to custom, as was indicated above.*  
 
@@ -398,36 +374,32 @@ By touching the unendurable side with his hand, the Twin Thomas was not consumed
 Thee Who wast crucified upon the Tree and didst grant life unto us, as Savior and Master we unceasingly hymn! *(Twice).*  
 Thou Who didst despoil hades, and didst raise man by Thy Resurrection, O Christ, account us worthy to hymn and glorify Thee with a pure heart! *Martyric:*  
 Neither tribulation nor distress, neither famine nor persecution, neither wounds nor the rage of beasts, neither sword nor threatening fire, could separate us, O all-praised Martyrs, from God; but rather through the love which was toward Him, as if contending in alien bodies, ye forgot nature, despising death! Therefore, having worthily received the reward of your labors, ye became heirs of the heavenly kingdom; having boldness before God the Lover of mankind, entreat peace for the world, and unto our souls great mercy! *Glory: Both now: Tone 8:*  
-While the doors were shut and the disciples were gathered together, the Savior stood in their midst where they were gathered, and standing among them, He said unto Thomas: Come, touch, and behold the wounds...
-
-...the marks of the nails, stretch forth thy hand and touch My side, and be not faithless, but with faith proclaim My Resurrection from the dead!
+While the doors were shut and the disciples were gathered together, the Savior stood in their midst where they were gathered, and standing among them, He said unto Thomas: Come, touch, and behold the wounds the marks of the nails, stretch forth thy hand and touch My side, and be not faithless, but with faith proclaim My Resurrection from the dead!
 
 *At the Aposticha, Stichera, Tone 2:*  
 *Tone 2, Podoben: "O House of Ephratha" (До́ме є҆ѵфра́ѳовъ):*[^551]  
 O novel wonder! O marvelous image! How the Apostle's hand, like unconsumed grass, touched the fire of the Godhead! *Stichos: Their sound is gone out into all the earth, and their words unto the ends of the world. (Ps. 18:5 LXX)*  
 Let us also hasten to cleanse our hands, to feast upon the Passion, and so touch the eternal side! *Stichos: The heavens declare the glory of God, and the firmament proclaims the work of His hands. (Ps. 18:2 LXX)*  
-Renew, O soul, all thy senses unto divine vision; for Christ the Sun desires to be accomplished through renewal! *Glory: Both now: Podoben:*  
+Renew, O soul, all thy senses unto divine vision; for Christ the Sun desires to be accomplished through renewal! *Glory: Both now: Podoben (Подо́бенъ):*
 Behold, I pray thee, spiritually the change of the world, and adorn thyself with inner virtues as with foliage, O soul adorned!  
 *Then: "It is good to give praise unto the Lord..." (Ps. 91:2 LXX). First Hour, and Dismissal.*
 
 *On Wednesday, at the Beatitudes, Triodion, bearing the Acrostic: (ДІНОѲЕѠНІѠСИФ), that is: "Praise God, Joseph". Tone 1, Ode 1. Heirmos: Unto the Pre-eternal...*[^552]  
 *Stichos: In Thy Kingdom remember us, O Lord, when Thou comest into Thy Kingdom.*  
-*Troparion ([Д]):* O Light of the saints, desiring to illumine the world, Thou wast willingly lifted up upon the wood of the Cross and slaughtered as a lamb; and by Thy life-giving blood Thou dost renew us who hymn Thee. *Stichos: Blessed are the poor in spirit, for theirs is the kingdom of heaven.*  
-*Troparion ([І]):* The enemy's might was taken away, death was led captive, and corrupted nature was brought to life when Thou, O Christ Jesus, wast put to death; and the world was renewed, crying: Holy art Thou, O Lord! *Stichos: Blessed are they that mourn, for they shall be comforted.*  
-*Troparion ([Н]):* Now mourn no more, cried the Angel unto the women; go rather with zeal, proclaiming words of joy unto the grieving disciples, that Christ, the life and resurrection of all, is risen! *Stichos: Blessed are the meek, for they shall inherit the earth.*  
-*Theotokion ([Ѡ]):* Thou hast appeared, O pure Virgin, higher than the Angels, having incarnate God Who was crucified, buried, and poured forth incorruption unto the dead; Him do thou entreat to save us who hymn thee.  
+*Troparion ((*Д*)):* O Light of the saints, desiring to illumine the world, Thou wast willingly lifted up upon the wood of the Cross and slaughtered as a lamb; and by Thy life-giving blood Thou dost renew us who hymn Thee. *Stichos: Blessed are the poor in spirit, for theirs is the kingdom of heaven.*  
+*Troparion ((*І*)):* The enemy's might was taken away, death was led captive, and corrupted nature was brought to life when Thou, O Christ Jesus, wast put to death; and the world was renewed, crying: Holy art Thou, O Lord! *Stichos: Blessed are they that mourn, for they shall be comforted.*  
+*Troparion ((*Н*)):* Now mourn no more, cried the Angel unto the women; go rather with zeal, proclaiming words of joy unto the grieving disciples, that Christ, the life and resurrection of all, is risen! *Stichos: Blessed are the meek, for they shall inherit the earth.*  
+*Theotokion ((*Ѡ*)):* Thou hast appeared, O pure Virgin, higher than the Angels, having incarnate God Who was crucified, buried, and poured forth incorruption unto the dead; Him do thou entreat to save us who hymn thee.  
 *Ode 8. Heirmos: A marvelous wonder...*[^553] *Stichos: Blessed are they that hunger and thirst after righteousness, for they shall be filled.*  
-*Troparion ([Ѳ]):* Thou didst willingly accept death, being exalted in the flesh upon the Tree; and beholding Thee, the sun was extinguished, and the veil of the temple was rent in twain, O All-powerful One! Therefore, singing hymns unto Thee, we cry: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
-*Troparion ([Е]):* They who of old sat in the shadow of death beheld Thee, the unwaning Radiance, when Thou, O Lord, didst descend into the nethermost parts and break asunder the eternal bonds; greatly hymning Thee and saying: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Stichos: Blessed are the pure in heart, for they shall see God.*  
-*Troparion ([Ѡ]):* The women, coming early in the morning unto the tomb and beholding the radiant Angel, who said: The Redeemer is risen; why do ye still reckon the Living with the dead? Filled with joy, cry aloud: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Stichos: Blessed are the peacemakers, for they shall be called the children of God.*  
-*Theotokion ([Н]):* Thy Son, O pure Lady, wrought the slaying of hades, rising from the dead as He foretold; Him do thou entreat, for deliverance from corrupting sin and eternal torments unto those who cry aloud: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Ode 9. Heirmos: A strange mystery...*
-
-*Stichos: Blessed are they that are persecuted for righteousness' sake, for theirs is the kingdom of heaven.*  
-*Troparion ([І]):* Healing the sickness of the first-fashioned, Thou wast willingly shaken by scourging upon the Tree, O Savior; and being laid in the nethermost pit, Thou didst raise the dead whom death had previously been able to swallow up. *Stichos: Blessed are ye when men shall revile you, and persecute you, and shall say all manner of evil against you falsely for My sake.*  
-*Troparion ([Ѡ]):* When the choir of the Apostles of old beheld Thee risen, O Lord, they worshipped in fear and joy; unto whom Thou didst cry: Behold the fulfillment of My words; grieve ye not, but rejoice! *Rejoice and be glad, for great is your reward in the heavens.*  
-*Troparion ([С]):* Righteous Joseph, wrapping Thee in a shroud with love, O Savior, laid Thee in a new tomb; but having crushed the gates and bars of hades, Thou didst raise the dead whom death had previously been able to swallow up. *Glory:*  
-*Troparion ([И]):* The Myrrh-bearing Women rejoiced, hearing of Christ's rising; therefore they cried unto the Apostles, running swiftly: Behold, grieve no more, but rejoice ye, for the Lord of all is risen from the dead! *Both now:*  
-*Theotokion ([Ф]):* Beholding Christ as Bridegroom coming in the flesh from the bridal chamber of the tomb, thou didst call Him all-radiant in His condescension, O Virgin, and wast filled with joy; Him do thou entreat to deliver us from corruption and torment.
+*Troparion ((*Ѳ*)):* Thou didst willingly accept death, being exalted in the flesh upon the Tree; and beholding Thee, the sun was extinguished, and the veil of the temple was rent in twain, O All-powerful One! Therefore, singing hymns unto Thee, we cry: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
+*Troparion ((*Е*)):* They who of old sat in the shadow of death beheld Thee, the unwaning Radiance, when Thou, O Lord, didst descend into the nethermost parts and break asunder the eternal bonds; greatly hymning Thee and saying: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Stichos: Blessed are the pure in heart, for they shall see God.*  
+*Troparion ((*Ѡ*)):* The women, coming early in the morning unto the tomb and beholding the radiant Angel, who said: The Redeemer is risen; why do ye still reckon the Living with the dead? Filled with joy, cry aloud: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Stichos: Blessed are the peacemakers, for they shall be called the children of God.*  
+*Theotokion ((*Н*)):* Thy Son, O pure Lady, wrought the slaying of hades, rising from the dead as He foretold; Him do thou entreat, for deliverance from corrupting sin and eternal torments unto those who cry aloud: Let all creation bless the Lord, and supreme exalt Him unto the ages! *Ode 9. Heirmos: A strange mystery Stichos: Blessed are they that are persecuted for righteousness' sake, for theirs is the kingdom of heaven.*
+*Troparion ((*І*)):* Healing the sickness of the first-fashioned, Thou wast willingly shaken by scourging upon the Tree, O Savior; and being laid in the nethermost pit, Thou didst raise the dead whom death had previously been able to swallow up. *Stichos: Blessed are ye when men shall revile you, and persecute you, and shall say all manner of evil against you falsely for My sake.*  
+*Troparion ((*Ѡ*)):* When the choir of the Apostles of old beheld Thee risen, O Lord, they worshipped in fear and joy; unto whom Thou didst cry: Behold the fulfillment of My words; grieve ye not, but rejoice! *Rejoice and be glad, for great is your reward in the heavens.*  
+*Troparion ((*С*)):* Righteous Joseph, wrapping Thee in a shroud with love, O Savior, laid Thee in a new tomb; but having crushed the gates and bars of hades, Thou didst raise the dead whom death had previously been able to swallow up. *Glory:*  
+*Troparion ((*И*)):* The Myrrh-bearing Women rejoiced, hearing of Christ's rising; therefore they cried unto the Apostles, running swiftly: Behold, grieve no more, but rejoice ye, for the Lord of all is risen from the dead! *Both now:*  
+*Theotokion ((*Ф*)):* Beholding Christ as Bridegroom coming in the flesh from the bridal chamber of the tomb, thou didst call Him all-radiant in His condescension, O Virgin, and wast filled with joy; Him do thou entreat to deliver us from corruption and torment.
 
 ## On Wednesday of the Second Week after Pascha, in the Evening
 
@@ -470,21 +442,21 @@ After eight days from Thy rising, O Jesus King, Only-begotten Word of the Father
 
 *On Thursday, at the Beatitudes, Triodion, bearing the Acrostic: (ѴМНѠ ДІА ІѠСИФ), that is: "Joseph's Hymn". Tone 1, Ode 1. Heirmos: Flee not from suffering...*[^558]  
 *Stichos: In Thy Kingdom remember us, O Lord, when Thou comest into Thy Kingdom.*  
-*Troparion ([Ѵ]):* For the sake of us humble ones Thou wast led unto death, O Christ the Life of all; and having despoiled the kingdoms of hades, Thou didst snatch Adam as a sheep, raising him with Thyself as a mighty and all-powerful King. *Stichos: Blessed are the poor in spirit, for theirs is the kingdom of heaven.*  
-*Troparion ([М]):* Why seek ye the Living with the dead? the radiant Angel appearing at the tomb said unto the women: He is risen; come, see the grave-clothes lying alone, and hasten to proclaim His resurrection unto all the disciples! *Stichos: Blessed are they that mourn, for they shall be comforted.*  
-*Troparion ([Н]):* Hades, becoming dead by Christ's descent, gave up all the dead, being utterly despoiled; and its all-devouring belly was emptied to the end by the all-powerful will of God, the King of all. *Stichos: Blessed are the meek, for they shall inherit the earth.*  
-*Theotokion ([Ѡ]):* As into a most beauteous temple, God the King took up His abode in thy womb, O pure Lady; by His descent He abolished the dark prince of hades, raising mankind with Himself as all-powerful.  
+*Troparion ((*Ѵ*)):* For the sake of us humble ones Thou wast led unto death, O Christ the Life of all; and having despoiled the kingdoms of hades, Thou didst snatch Adam as a sheep, raising him with Thyself as a mighty and all-powerful King. *Stichos: Blessed are the poor in spirit, for theirs is the kingdom of heaven.*  
+*Troparion ((*М*)):* Why seek ye the Living with the dead? the radiant Angel appearing at the tomb said unto the women: He is risen; come, see the grave-clothes lying alone, and hasten to proclaim His resurrection unto all the disciples! *Stichos: Blessed are they that mourn, for they shall be comforted.*  
+*Troparion ((*Н*)):* Hades, becoming dead by Christ's descent, gave up all the dead, being utterly despoiled; and its all-devouring belly was emptied to the end by the all-powerful will of God, the King of all. *Stichos: Blessed are the meek, for they shall inherit the earth.*  
+*Theotokion ((*Ѡ*)):* As into a most beauteous temple, God the King took up His abode in thy womb, O pure Lady; by His descent He abolished the dark prince of hades, raising mankind with Himself as all-powerful.  
 *Ode 8. Heirmos: This chosen and holy day... Stichos: Blessed are they that hunger and thirst after righteousness, for they shall be filled.*  
-*Troparion ([Д]):* Glory to Christ Who cast down the enemy, and despoiled hades by His descent unto it, and brought to life the dead whom it had been able to swallow up, who glorify Him unto the ages! *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
-*Troparion ([І]):* Behold, the radiant Angel appearing cried unto the Myrrh-bearing Women: Behold the place where He was laid! Seeing that He hath conquered death by His power, seek no longer the Life among the dead! *Stichos: Blessed are the pure in heart, for they shall see God.*  
-*Troparion ([А]):* Hades was embittered below, O Word, being unable to draw near unto Thee, the Light; and those dead whom it had swallowed up, it quickly gave back at Thy command, who with one accord glorify Thy dominion. *Stichos: Blessed are the peacemakers, for they shall be called the children of God. Theotokion:*  
-*Theotokion ([І]):* Thou didst behold Him Who is risen from the dead, O Virgin, the Word Whom thou didst ineffably bear in the flesh; and thou didst fill thy soul with joy, hymning His descent, O pure Lady, unto all ages.
+*Troparion ((*Д*)):* Glory to Christ Who cast down the enemy, and despoiled hades by His descent unto it, and brought to life the dead whom it had been able to swallow up, who glorify Him unto the ages! *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
+*Troparion ((*І*)):* Behold, the radiant Angel appearing cried unto the Myrrh-bearing Women: Behold the place where He was laid! Seeing that He hath conquered death by His power, seek no longer the Life among the dead! *Stichos: Blessed are the pure in heart, for they shall see God.*  
+*Troparion ((*А*)):* Hades was embittered below, O Word, being unable to draw near unto Thee, the Light; and those dead whom it had swallowed up, it quickly gave back at Thy command, who with one accord glorify Thy dominion. *Stichos: Blessed are the peacemakers, for they shall be called the children of God. Theotokion:*  
+*Theotokion ((*І*)):* Thou didst behold Him Who is risen from the dead, O Virgin, the Word Whom thou didst ineffably bear in the flesh; and thou didst fill thy soul with joy, hymning His descent, O pure Lady, unto all ages.
 
 *Ode 9. Heirmos: Shine, shine, O new Jerusalem... Stichos: Blessed are they that are persecuted for righteousness' sake, for theirs is the kingdom of heaven.*  
-*Troparion ([Ѡ]):* Judge and Redeemer of hours and days, in the sixth day and hour Thou didst willingly endure crucifixion, O Compassionate One, that Thou mightest quell our reproaches and reconcile us unto the Father. *Stichos: Blessed are ye when men shall revile you, and persecute you, and shall say all manner of evil against you falsely for My sake.*  
-*Troparion ([С]):* Hades groaned upon beholding Thee, O Redeemer, and quickly released the prisoners whom it held, who with divine voices sang unto Thee, O Word, Thy power beyond understanding and Thy awesome descent. *Glory:*  
-*Troparion ([И]):* The women came with myrrh at deep dawn with haste, to anoint the most pure Body; and the Bodiless One said unto them: The Prince of Life is risen; be ye filled with divine joy! *Both now:*  
-*Theotokion ([Ф]):* Having borne the Light Who shone forth upon those sitting in darkness and the shadow of death, when thou didst behold Him risen from the dead, O all-immaculate Lady, with the faithful Myrrh-bearing Women thou didst glorify Him, dancing with joy.
+*Troparion ((*Ѡ*)):* Judge and Redeemer of hours and days, in the sixth day and hour Thou didst willingly endure crucifixion, O Compassionate One, that Thou mightest quell our reproaches and reconcile us unto the Father. *Stichos: Blessed are ye when men shall revile you, and persecute you, and shall say all manner of evil against you falsely for My sake.*  
+*Troparion ((*С*)):* Hades groaned upon beholding Thee, O Redeemer, and quickly released the prisoners whom it held, who with divine voices sang unto Thee, O Word, Thy power beyond understanding and Thy awesome descent. *Glory:*  
+*Troparion ((*И*)):* The women came with myrrh at deep dawn with haste, to anoint the most pure Body; and the Bodiless One said unto them: The Prince of Life is risen; be ye filled with divine joy! *Both now:*  
+*Theotokion ((*Ф*)):* Having borne the Light Who shone forth upon those sitting in darkness and the shadow of death, when thou didst behold Him risen from the dead, O all-immaculate Lady, with the faithful Myrrh-bearing Women thou didst glorify Him, dancing with joy.
 
 ## On Thursday of the Second Week after Pascha, in the Evening
 
@@ -529,21 +501,21 @@ Touch My side with thy hand, Christ says, and come touch the marks of the nails,
 
 *On Friday, at the Beatitudes, Triodion, bearing the Acrostic: (ДО́ХА ТѠ ѲЕѠ АМИН), that is: "Glory to God, Amen". Tone 1, Ode 5. Heirmos: Thou Who didst enlighten us...*[^560]  
 *Stichos: In Thy Kingdom remember us, O Lord, when Thou comest into Thy Kingdom.*  
-*Troparion ([Д]):* The Jewish assembly crucified Thee, O long-suffering Word; but an innumerable gathering of the nations believs, glorifying Thy crucifixion, O Lover of mankind, Christ our God. *Stichos: Blessed are the poor in spirit, for theirs is the kingdom of heaven.*  
-*Troparion ([О]):* Thou didst not shake the seals of the stone by Thy Resurrection, even as Thou didst not open the enclosed door of virginity in her that bore Thee, O Christ our God. *Stichos: Blessed are they that mourn, for they shall be comforted.*  
-*Troparion ([Х]):* Beholding the Bodiless One strangely and divinely shining, the Women were filled with awe, and heard: Weep not, the Lord is risen! *Stichos: Blessed are the meek, for they shall inherit the earth.*  
-*Theotokion ([А]):* Thou, O most pure Lady, didst bear the Holy Power of the Lord, Who despoiled the kingdoms of hades, and arose, and raised with Himself human nature.  
+*Troparion ((*Д*)):* The Jewish assembly crucified Thee, O long-suffering Word; but an innumerable gathering of the nations believes, glorifying Thy crucifixion, O Lover of mankind, Christ our God. *Stichos: Blessed are the poor in spirit, for theirs is the kingdom of heaven.*  
+*Troparion ((*О*)):* Thou didst not shake the seals of the stone by Thy Resurrection, even as Thou didst not open the enclosed door of virginity in her that bore Thee, O Christ our God. *Stichos: Blessed are they that mourn, for they shall be comforted.*  
+*Troparion ((*Х*)):* Beholding the Bodiless One strangely and divinely shining, the Women were filled with awe, and heard: Weep not, the Lord is risen! *Stichos: Blessed are the meek, for they shall inherit the earth.*  
+*Theotokion ((*А*)):* Thou, O most pure Lady, didst bear the Holy Power of the Lord, Who despoiled the kingdoms of hades, and arose, and raised with Himself human nature.  
 *Ode 8. Heirmos: Hymn-makers... Stichos: Blessed are they that hunger and thirst after righteousness, for they shall be filled.*  
-*Troparion ([Т]):* Praise and supreme exalt unto all ages Christ, Who willingly was crucified, laid in the tomb, and abolished the dominion of death! *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
-*Troparion ([Ѡ]):* Thou didst appear first unto the Women, rising from the tomb, sending them as heralds unto the Apostles, O Christ; therefore we glorify Thee unto all ages. *Stichos: Blessed are the pure in heart, for they shall see God.*  
-*Troparion ([Ѳ]):* Having destroyed by Thy strength the power of death, O Compassionate One, and the kingdoms of hades, as King Thou didst empty them; therefore we glorify Thee unto all ages. *Stichos: Blessed are the peacemakers, for they shall be called the children of God.*  
-*Troparion ([Е]):* Rising, Thou didst say unto the disciples: Hasten to preach My power throughout all the world, taking away the darkness of polytheism by the light of the truth. *Stichos: Blessed are they that are persecuted for righteousness' sake, for theirs is the kingdom of heaven.*  
-*Theotokion ([Ѡ]):* As higher than the heavens and better than the Cherubim, more honorable than all creation, O all-holy Virgin, pray for those who hymn thee with faith.  
+*Troparion ((*Т*)):* Praise and supreme exalt unto all ages Christ, Who willingly was crucified, laid in the tomb, and abolished the dominion of death! *Stichos: Blessed are the merciful, for they shall obtain mercy.*  
+*Troparion ((*Ѡ*)):* Thou didst appear first unto the Women, rising from the tomb, sending them as heralds unto the Apostles, O Christ; therefore we glorify Thee unto all ages. *Stichos: Blessed are the pure in heart, for they shall see God.*  
+*Troparion ((*Ѳ*)):* Having destroyed by Thy strength the power of death, O Compassionate One, and the kingdoms of hades, as King Thou didst empty them; therefore we glorify Thee unto all ages. *Stichos: Blessed are the peacemakers, for they shall be called the children of God.*  
+*Troparion ((*Е*)):* Rising, Thou didst say unto the disciples: Hasten to preach My power throughout all the world, taking away the darkness of polytheism by the light of the truth. *Stichos: Blessed are they that are persecuted for righteousness' sake, for theirs is the kingdom of heaven.*  
+*Theotokion ((*Ѡ*)):* As higher than the heavens and better than the Cherubim, more honorable than all creation, O all-holy Virgin, pray for those who hymn thee with faith.  
 *Ode 9. Heirmos: Life-bearing Fountain... Stichos: Blessed are ye when men shall revile you, and persecute you, and shall say all manner of evil against you falsely for My sake.*  
-*Troparion ([А]):* Let all the earth rejoice today, and let the clouds drop down gladness; for the Lord of Glory, Who was crucified upon the Tree, is risen, having freed us from mortal corruption, and enlightened us with incorruption, as He is compassionate. *Rejoice and be glad, for great is your reward in the heavens.*  
-*Troparion ([М]):* Unto the holy Women who once brought myrrh with tears, the Angel shining brightly at the tomb answered: Why seek ye the Living among the dead? He is risen, having enlightened all things! *Glory:*  
-*Troparion ([И]):* The radiant Resurrection of our God, shining brighter than the rays of the sun by the Spirit upon the faithful, enlightens all unto ages, and guides unto salvation: which we celebrate with a pure mind. *Both now:*  
-*Theotokion ([Н]):* Having borne the Eternal Life, O Theotokos, quicken us who were slain by sins, and hasten to guide us unto true life, that with faith we may ever bless thee.
+*Troparion ((*А*)):* Let all the earth rejoice today, and let the clouds drop down gladness; for the Lord of Glory, Who was crucified upon the Tree, is risen, having freed us from mortal corruption, and enlightened us with incorruption, as He is compassionate. *Rejoice and be glad, for great is your reward in the heavens.*  
+*Troparion ((*М*)):* Unto the holy Women who once brought myrrh with tears, the Angel shining brightly at the tomb answered: Why seek ye the Living among the dead? He is risen, having enlightened all things! *Glory:*  
+*Troparion ((*И*)):* The radiant Resurrection of our God, shining brighter than the rays of the sun by the Spirit upon the faithful, enlightens all unto ages, and guides unto salvation: which we celebrate with a pure mind. *Both now:*  
+*Theotokion ((*Н*)):* Having borne the Eternal Life, O Theotokos, quicken us who were slain by sins, and hasten to guide us unto true life, that with faith we may ever bless thee.
 
 ## On Friday of the Second Week after Pascha, in the Evening
 
@@ -588,28 +560,28 @@ While the disciples were doubting, on the eighth day the Savior came where they 
 
 *On Saturday, at the Beatitudes, Tetraodion, bearing the Acrostic: (ПРѠТОН МЕЛПО МЕЛѠС), that is: "I sing the first song". Tone 1, Ode 6. Heirmos: The deep encompassed us...*[^563]  
 *Stichos: In Thy Kingdom remember us, O Lord, when Thou comest into Thy Kingdom.*  
-*Troparion ([П]):* The lawless Jews nailed Thee, the Long-suffering One, to the Cross; seeing whose audacity, the sun and the moon straightway hid their light, and the dead, arising, sang hymns unto Thee, O Christ.  
-*Troparion ([Р]):* Let the mountains drop down sweetness today, and let the hills rejoice; for Christ is risen on the third day, having destroyed the pangs of death: therefore unto Him, with the voice, let all of us faithful offer praise! *Theotokion:*  
-*Theotokion ([Ѡ]):* When the divinely-wise Women came early in the morning unto Thy tomb, O Christ, beholding an Angel announcing unto them Thy light-bearing Resurrection, he cried: Why bring ye myrrh now unto the Living One?  
-*Troparion ([Т]):* Without harming thy womb, O pure Lady, He was born as He willed; without breaking the seals of the tomb, He arose as He desired: for He works all good things, as Life-giver and Almighty.  
+*Troparion ((*П*)):* The lawless Jews nailed Thee, the Long-suffering One, to the Cross; seeing whose audacity, the sun and the moon straightway hid their light, and the dead, arising, sang hymns unto Thee, O Christ.  
+*Troparion ((*Р*)):* Let the mountains drop down sweetness today, and let the hills rejoice; for Christ is risen on the third day, having destroyed the pangs of death: therefore unto Him, with the voice, let all of us faithful offer praise! *Theotokion:*  
+*Theotokion ((*Ѡ*)):* When the divinely-wise Women came early in the morning unto Thy tomb, O Christ, beholding an Angel announcing unto them Thy light-bearing Resurrection, he cried: Why bring ye myrrh now unto the Living One?  
+*Troparion ((*Т*)):* Without harming thy womb, O pure Lady, He was born as He willed; without breaking the seals of the tomb, He arose as He desired: for He works all good things, as Life-giver and Almighty.  
 *Ode 7. Heirmos: Thee, the spiritual furnace, O Theotokos...*  
-*Troparion ([О]):* Crucified with two thieves, O Master, and given vinegar to drink, suffering suffocation upon the Tree, O Long-suffering One, Thou didst willingly endure all and didst arise on the third day: Blessed art Thou, O God of our fathers, exceedingly praised!  
-*Troparion ([Н]):* Taking Thee down from the Tree in a manner fitting a corpse, and committing Thee unto burial with love, Joseph lovingly embraced Thy most pure Body, and rejoicing cried unto Thee: Blessed art Thou, O God of our fathers, exceedingly praised!  
-*Troparion ([М]):* Why seek ye the Living with the dead? the appearing Angel said unto the weeping Women; and why bring ye myrrh? But go, say unto His disciples: Christ Who was put to death is risen; hide yourselves no longer! *Theotokion:*  
-*Theotokion ([Е]):* Thou alone art blessed, O full of grace, for thou didst bear the Giver of joy at the archangelic joyful voice: therefore we honor thee, and unto thy Son we cry: Blessed art Thou, O God of our fathers, exceedingly praised!  
+*Troparion ((*О*)):* Crucified with two thieves, O Master, and given vinegar to drink, suffering suffocation upon the Tree, O Long-suffering One, Thou didst willingly endure all and didst arise on the third day: Blessed art Thou, O God of our fathers, exceedingly praised!  
+*Troparion ((*Н*)):* Taking Thee down from the Tree in a manner fitting a corpse, and committing Thee unto burial with love, Joseph lovingly embraced Thy most pure Body, and rejoicing cried unto Thee: Blessed art Thou, O God of our fathers, exceedingly praised!  
+*Troparion ((*М*)):* Why seek ye the Living with the dead? the appearing Angel said unto the weeping Women; and why bring ye myrrh? But go, say unto His disciples: Christ Who was put to death is risen; hide yourselves no longer! *Theotokion:*  
+*Theotokion ((*Е*)):* Thou alone art blessed, O full of grace, for thou didst bear the Giver of joy at the archangelic joyful voice: therefore we honor thee, and unto thy Son we cry: Blessed art Thou, O God of our fathers, exceedingly praised!  
 *Ode 8. Heirmos: In the furnace, the children...*  
-*Troparion ([Л]):* The formerly faithless Jewish people mock Thee, and in envy lift Thee hostilely upon the Cross, refusing to cry unto Thee: Bless the Lord, all ye works of the Lord, sing and supreme exalt Him unto all ages!  
-*Troparion ([П]):* Joseph, having begged the Body, lovingly embraced it, and laid it in a tomb as dead; but He Himself broke all the keys, bars, and gates of death, and arose on the third day! *Glory:*  
-*Troparion ([Ѡ]):* As Thou art spiritual Myrrh, very early in the morning the women's choir came to anoint Thy Body; and they were terrified at the Angel who cried unto them: All ye works of the Lord, bless the Lord, and supreme exalt Him unto all ages! *Both now:*  
-*Theotokion ([М]):* Thou didst immutably bear a Son of the Divine Essence, O blessed Mary, although He appeared in bodily actions in the flesh as He was pleased; unto Whom let us cry: Bless the Lord, all ye works of the Lord, sing and supreme exalt Him unto all ages!
+*Troparion ((*Л*)):* The formerly faithless Jewish people mock Thee, and in envy lift Thee hostilely upon the Cross, refusing to cry unto Thee: Bless the Lord, all ye works of the Lord, sing and supreme exalt Him unto all ages!  
+*Troparion ((*П*)):* Joseph, having begged the Body, lovingly embraced it, and laid it in a tomb as dead; but He Himself broke all the keys, bars, and gates of death, and arose on the third day! *Glory:*  
+*Troparion ((*Ѡ*)):* As Thou art spiritual Myrrh, very early in the morning the women's choir came to anoint Thy Body; and they were terrified at the Angel who cried unto them: All ye works of the Lord, bless the Lord, and supreme exalt Him unto all ages! *Both now:*  
+*Theotokion ((*М*)):* Thou didst immutably bear a Son of the Divine Essence, O blessed Mary, although He appeared in bodily actions in the flesh as He was pleased; unto Whom let us cry: Bless the Lord, all ye works of the Lord, sing and supreme exalt Him unto all ages!
 
 *On the second Saturday, on the second week after Pascha:*  
 *O sing unto the Lord, all ye works of the Lord, and supreme exalt Him unto all ages!*  
 *Ode 9. Heirmos: An image of the pure...*  
-*Troparion ([Б]):* Thou didst stand, O Master, upon the Tree of the Cross, and didst draw all nations unto Thy knowledge, O Lord; and Thou didst open Paradise, which the Forefathers had closed of old by tasting of the tree: therefore we all magnify Thee!  
-*Troparion ([Л]):* They laid Thee in the tomb as dead, O Giver and Builder of life; and fulfilling the rites of burial, O Christ, the noble Joseph and Nicodemus, and the choir of women with them, wrapping Thee about, weeping lamentably, magnified Thee in a manner befitting God! *Glory:*  
-*Troparion ([О]):* All enlightenment and desire, all consolation and strengthening, O my Savior, wast Thou unto all who devoutly celebrate Thy holy and third-day rising, O only Compassionate One: for Whose sake we all magnify Thee! *Both now:*  
-*Theotokion ([С]):* From thy all-immaculate womb, the All-perfect One willingly assumed flesh, endowed with understanding and animated with a rational soul according to truth; and He is placed beside the Father's dominion in the heavens, O most pure Lady, from whence He shall come again!  
+*Troparion ((*Б*)):* Thou didst stand, O Master, upon the Tree of the Cross, and didst draw all nations unto Thy knowledge, O Lord; and Thou didst open Paradise, which the Forefathers had closed of old by tasting of the tree: therefore we all magnify Thee!  
+*Troparion ((*Л*)):* They laid Thee in the tomb as dead, O Giver and Builder of life; and fulfilling the rites of burial, O Christ, the noble Joseph and Nicodemus, and the choir of women with them, wrapping Thee about, weeping lamentably, magnified Thee in a manner befitting God! *Glory:*  
+*Troparion ((*О*)):* All enlightenment and desire, all consolation and strengthening, O my Savior, wast Thou unto all who devoutly celebrate Thy holy and third-day rising, O only Compassionate One: for Whose sake we all magnify Thee! *Both now:*  
+*Theotokion ((*С*)):* From thy all-immaculate womb, the All-perfect One willingly assumed flesh, endowed with understanding and animated with a rational soul according to truth; and He is placed beside the Father's dominion in the heavens, O most pure Lady, from whence He shall come again!  
 *At the Liturgy. Prokeimenon: Great is our Lord, and great is His power, and of His understanding there is no number. (Ps. 146:5 LXX) Another for the reposed: Their souls shall dwell among good things. (Ps. 24:13 LXX) Epistle: Acts, section 15 (Acts 5:21-33). Another to the Thessalonians, section 270 (1 Thess. 4:13-17). Alleluia of the feast with its stichoi: Come, let us rejoice in the Lord: Stichos: Praise the Lord, O Jerusalem! (Ps. 147:1 LXX) And for the reposed: Blessed are they whom Thou hast chosen. Gospel: John, section 14 (John 5:17-24). And another for the reposed. Communion Hymn of the feast: Praise the Lord, O Jerusalem! And for the reposed: Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord. Alleluia.*  
 *And the feast of the passing week is dismissed. Thereafter, we chant every service on Saturday according to its full order until the Ascension of Christ.*[^564]
 
@@ -621,7 +593,7 @@ With the Archangels let us hymn: And the Anatolian Sticheron, in the same Tone:
 Thee Who wast crucified and buried: *Glory, Tone 4:*  
 Why pour ye out myrrh with tears: *Seek all these Stichera below at Great Vespers. Both now, Theotokion, or the Dogmatikon which by custom is sung at Great Vespers; for the Oktoechos according to the Syncletics considers this hymn to be sung instead of our customary Theotokion at Great Vespers.*[^565]  
 *Theotokion Dogmatikon, Tone 2:*  
-O exceedingly great mystery! Beholding the wonders, I proclaim the Godhead; for Emmanuel opened the doors of nature as the Lover of mankind, yet as God He did not break the seals: but He came forth from the womb even as He entered in; thus in the flesh, even as the Bodiless One entered, ineffably He came forth, according to the Prophet who saith: This gate shall be shut, and no man shall pass through it, but only the Lord God of Israel, Who hath great mercy!  
+O exceedingly great mystery! Beholding the wonders, I proclaim the Godhead; for Emmanuel opened the doors of nature as the Lover of mankind, yet as God He did not break the seals: but He came forth from the womb even as He entered in; thus in the flesh, even as the Bodiless One entered, ineffably He came forth, according to the Prophet who says: This gate shall be shut, and no man shall pass through it, but only the Lord God of Israel, Who hath great mercy!  
 *At the Aposticha:*  
 *Prokeimenon: The Lord is King, He is robed in majesty; with its verses. And "Vouchsafe, O Lord". At the Aposticha:*
 
@@ -751,35 +723,35 @@ Arise, O Lord my God, in the precept which Thou hast commanded, and the congrega
 *Refrain: Christ is risen from the dead!*  
 *Troparion: Let us purify our senses... And all the rest unto the end.*  
 *Another Canon of the Theotokos, Prosomoion, bearing the Acrostic on the first Troparia: (ѲЕѠФАНИС), that is, Theophanes, because he was the author thereof. The same Tone:*[^573]  
-*Troparion ([Ѳ]):* O all-immaculate Virgin, who didst ineffably give birth unto Christ Who broke the cords of death, Who is eternal Life, Who hath shone forth today from the tomb, and enlightened the world!  
+*Troparion ((*Ѳ*)):* O all-immaculate Virgin, who didst ineffably give birth unto Christ Who broke the cords of death, Who is eternal Life, Who hath shone forth today from the tomb, and enlightened the world!  
 *Troparion:* Beholding Thy Son and God arisen, rejoice with the Apostles, O pure one graced of God; and thou who wast first to receive the greeting "Rejoice!" as the cause of joy for all, O all-immaculate Mother of God!  
 *Ode 3. Heirmos: Come, let us drink a new drink...*  
 *Troparion: Now are all things filled with light...*  
 *Troparion: Yesterday I was buried with Thee, O Christ...*  
-*Troparion ([Е]):* Unto incorruptible life do I come today, by the goodness of Him Who was born of thee, O pure one, and Who hath flashed forth light unto all the ends of the earth!  
+*Troparion ((*Е*)):* Unto incorruptible life do I come today, by the goodness of Him Who was born of thee, O pure one, and Who hath flashed forth light unto all the ends of the earth!  
 *Troparion:* Beholding Christ, Whom thou didst bear in the flesh, arisen from the dead as He said, dance, O pure one, and magnify Him as God, O most pure Lady!  
 *Ode 4. Heirmos: Upon the divine watch...*  
 *Troparion: Unto the male gender...*  
 *Troparion: As a yearling lamb...*  
 *Troparion: David the ancestor of God...*  
-*Troparion ([Ѡ]):* He Who created Adam, thy forefather, O pure one, is formed from thee, and hath destroyed the dwelling of death by His own death today, and hath illuminated all things with the divine radiance of the Resurrection!  
+*Troparion ((*Ѡ*)):* He Who created Adam, thy forefather, O pure one, is formed from thee, and hath destroyed the dwelling of death by His own death today, and hath illuminated all things with the divine radiance of the Resurrection!  
 *Troparion:* Beholding Christ, Whom thou didst bear, shining forth wonderfully from the dead, O pure one, good and spotless among women and fair, today for the salvation of all, rejoicing with His Apostles, glorify Him!  
 *Ode 5. Heirmos: Let us rise early in deep dawn...*  
 *Troparion: Beholding Thy boundless compassion...*  
 *Troparion: Bearing lamps, let us draw near...*  
-*Troparion ([Ф]):* The singular festival of the devout is enlightened by the divine and life-bearing rays of the rising of thy Son, O most pure Mother of God, and is filled with joy!  
+*Troparion ((*Ф*)):* The singular festival of the devout is enlightened by the divine and life-bearing rays of the rising of thy Son, O most pure Mother of God, and is filled with joy!  
 *Troparion:* Without opening the doors of virginity in Thine Incarnation, Thou didst not break the seals of the tomb, O King of creation; therefore, seeing Thee arisen, Thy Mother rejoiced!  
 *Ode 6. Heirmos: Thou didst descend into the nethermost parts of the earth...*  
 *Troparion: Preserving the seals unbroken...*  
 *Troparion: O my Savior, the living and unslain sacrifice...*  
-*Troparion ([А]):* That which was held of old by death and corruption is raised up by Him Who was incarnate from thy most pure womb unto incorruptible and everlasting life, O Virgin Theotokos!  
+*Troparion ((*А*)):* That which was held of old by death and corruption is raised up by Him Who was incarnate from thy most pure womb unto incorruptible and everlasting life, O Virgin Theotokos!  
 *Troparion:* He Who descended into the nethermost parts of the earth, descending into thy pure womb, and dwelling and becoming incarnate beyond understanding, raised Adam up with Himself, arising from the tomb!  
 *Kontakion: Though Thou didst descend into the tomb... Ikos: Before the morning the sun...*  
 *Ode 7. Heirmos: He Who delivered the Children from the furnace...*  
 *Troparion: The women with myrrh...*  
 *Troparion: We celebrate the death of death...*  
 *Troparion: As truly sacred and all-festive...*  
-*Troparion ([Н]):* Put to death, Thy Son slew death, O all-immaculate Virgin, and granted abiding life unto all the faithful unto ages of ages: the only blessed and exceedingly praised God of our fathers!  
+*Troparion ((*Н*)):* Put to death, Thy Son slew death, O all-immaculate Virgin, and granted abiding life unto all the faithful unto ages of ages: the only blessed and exceedingly praised God of our fathers!  
 *Troparion:* Reigning over all creation, becoming man He dwelt in thy womb graced of God, and enduring crucifixion and death, He arose in a manner befitting God, raising us together with Himself, as He is almighty!
 
 *On the second Sunday, the third after Pascha:*  
@@ -787,12 +759,12 @@ Arise, O Lord my God, in the precept which Thou hast commanded, and the congrega
 *Troparion: Come, on this auspicious day...*  
 *Troparion: Lift up thine eyes round about, O Zion, and see...*  
 *Troparion: O Father Almighty, the Word, and the Spirit...*  
-*Troparion ([И]):* Through thee, O Virgin Theotokos, the Lord came into the world, and tearing open the belly of hades, granted resurrection unto us who were dead: therefore we bless Him unto all ages!  
+*Troparion ((*И*)):* Through thee, O Virgin Theotokos, the Lord came into the world, and tearing open the belly of hades, granted resurrection unto us who were dead: therefore we bless Him unto all ages!  
 *Troparion:* Overthrowing all the dominion of death in His Resurrection, Thy Son, O Virgin, as mighty God, exalted us together with Himself and deified us: therefore we sing praises unto Him unto all ages!  
 *Ode 9. Heirmos: Shine, shine, O new Jerusalem...*  
 *Troparion: O divine! O beloved! O sweetest voice!...*  
 *Troparion: O great and most sacred Pascha, Christ!...*  
-*Troparion ([С]):* With one accord, O Virgin, we the faithful bless thee: Rejoice, O gate of the Lord; rejoice, O living city; rejoice, through whom the light of the Resurrection from the dead of Him Who was born of thee hath shone upon us today!  
+*Troparion ((*С*)):* With one accord, O Virgin, we the faithful bless thee: Rejoice, O gate of the Lord; rejoice, O living city; rejoice, through whom the light of the Resurrection from the dead of Him Who was born of thee hath shone upon us today!  
 *Troparion:* Be glad and rejoice, O divine gate of light; for Jesus, setting into the tomb, hath shone forth, radiating brighter than the sun, and enlightening all the faithful, O Lady graced of God!
 
 *Another Canon of the Myrrh-bearing Women, composed by the Lord Andrew of Crete, Tone 2:*[^574]  
@@ -871,9 +843,7 @@ Going unto Thy tomb, O Savior, the Myrrh-bearing women were perplexed in mind wi
 *Verses:*  
 *The women disciples bring myrrh unto the Savior.*  
 *And I, as myrrh, bring measures of song.*  
-*On the Third Sunday after Pascha, we celebrate the Feast of the Holy Myrrh-bearing Women. We also keep memory of Joseph from Arimathea, who was a secret disciple, and also one of the Seventy; and with them of the Night-Disciple Nicodemus, who also came devoutly unto Christ. For these women are true and first witnesses of the Resurrection, and Joseph and Nicodemus of the Burial; which are the truest and most manifest testimonies delivered unto us. For when Nicodemus was expelled from the synagogue by the Jews because he refused to consent unto their council, and Joseph, after burying the Lord's Body, was cast into a pit by the Jews, he was snatched away thence by divine power, and came into Arimathea, his homeland; and the risen Christ appeared unto Joseph while the righteous one was held in bonds, and confirmed unto the disciple all the more the mystery of the Resurrection. He suffered many things from the Jews, not enduring to keep silent concerning the mysteries, but boldly proclaiming unto all the disciples what had come to pass. It is said also that Nicodemus, being descended from those who preserved the written record concerning the Consecration of the Bread and concerning the Resurrection, was the first of all to set these things forth in writing, being a son of the synagogue, and knowing more accurately the counsels, words, and all the customs of the Jews. For this reason, as we said, as truthful witnesses of the Burial, they were ranked after the women who came after the Resurrection, and after the first confirmation of Thomas; for it was so ordered that after eight days, as it is said, came the Good News. These women were the first to see the Resurrection, and announced it unto the disciples; for it was fitting that the sex that had first fallen...*
-
-*On the Third Sunday after Pascha:*  
+*On the Third Sunday after Pascha, we celebrate the Feast of the Holy Myrrh-bearing Women. We also keep memory of Joseph from Arimathea, who was a secret disciple, and also one of the Seventy; and with them of the Night-Disciple Nicodemus, who also came devoutly unto Christ. For these women are true and first witnesses of the Resurrection, and Joseph and Nicodemus of the Burial; which are the truest and most manifest testimonies delivered unto us. For when Nicodemus was expelled from the synagogue by the Jews because he refused to consent unto their council, and Joseph, after burying the Lord's Body, was cast into a pit by the Jews, he was snatched away thence by divine power, and came into Arimathea, his homeland; and the risen Christ appeared unto Joseph while the righteous one was held in bonds, and confirmed unto the disciple all the more the mystery of the Resurrection. He suffered many things from the Jews, not enduring to keep silent concerning the mysteries, but boldly proclaiming unto all the disciples what had come to pass. It is said also that Nicodemus, being descended from those who preserved the written record concerning the Consecration of the Bread and concerning the Resurrection, was the first of all to set these things forth in writing, being a son of the synagogue, and knowing more accurately the counsels, words, and all the customs of the Jews. For this reason, as we said, as truthful witnesses of the Burial, they were ranked after the women who came after the Resurrection, and after the first confirmation of Thomas; for it was so ordered that after eight days, as it is said, came the Good News. These women were the first to see the Resurrection, and announced it unto the disciples; for it was fitting that the sex that had first fallen On the Third Sunday after Pascha:*
 *...into sin and inherited the curse, should be the first to see the Resurrection and hear "Rejoice!", having first heard: "In sorrows shalt thou bring forth children."*  
 *They were called Myrrh-bearers because, as Friday was preceding Pascha, and that Friday was great before the Sabbath, Joseph and Nicodemus hastened to bury the Lord's Body: although they anointed Him with ointments according to the Jewish custom, yet not as was fitting; for they applied only aloes and myrrh, and wrapping Him in a shroud, committed Him to the tomb. Therefore, having fervent love toward Christ as disciples, these women bought costly ointments and came by night, partly out of fear of the Jews, and partly because it was the custom to weep and anoint Him early, and then to supply what had been cut short by time. When they came, they saw various appearances: two Angels shining inside the tomb, and another sitting upon the stone; after these things they saw Christ and worshipped Him. But Mary Magdalene, supposing Him to be the gardener, questioned Him concerning His very Body. Many indeed were the Myrrh-bearing women, but the Evangelists, having made mention of the notable ones, omitted the others. These were: First of all, Mary Magdalene, from whom Christ cast out seven demons; who after the Ascension of Christ came to Rome, and as by a novel word brought Pilate and the high priest unto death, having reported concerning Christ the Savior unto Tiberius. Afterward she died in Ephesus, and was buried by John the Theologian; and by Leo the Most Wise was translated to the City of Constantine. The second was Salome, who is the daughter of Joseph [the Betrothed][^576] (for so he named his own, who was his daughter); she had Zebedee for her husband, of whom were born John the Evangelist and James. For Joseph begat four sons of the male sex: James called the Less, and Joses, Simeon, and Jude; and three daughters: Esther, Tamar, and Salome the wife of Zebedee. So that when thou hearest in the Gospel of Mary the mother of James the Less and of Joses, do not suppose her to be the Mother of God, for the Mother of God was accounted as mother of the children of Joseph; so that it came about that John the Evangelist was a nephew unto Christ, as the son of His sister. The third of the Myrrh-bearers is Joanna, wife of Chuza, who was overseer and steward of the house of King Herod. The fourth and fifth were Martha and Mary, sisters of Lazarus. The sixth was Mary of Cleopas. The seventh was Susanna; and there were many others, as the divine Scripture relates, who ministered unto Christ and His disciples from their possessions.*  
 *Because these women proclaimed the Resurrection, and recounted many appearances for the confirmation and assurance of the true Resurrection of Christ, after Thomas the Church of Christ received them also to celebrate, as having first seen Christ risen from the dead, and having announced unto all the saving proclamation, and having lived well the life according to Christ, and as was fitting for women taught by Christ: by their prayers, O Christ God, have mercy on us, now and ever, and unto ages of ages. Amen.*  
@@ -952,9 +922,7 @@ Unto the women who came with Mary bearing myrrh, and were perplexed how they sho
 ## On the Same Sunday Evening
 *At "Lord, I have cried", we set 6 stichera: 3 for the Feast, and 3 from the Menaion.*  
 *Stichera of the Feast, Tone 5, Podoben: "Rejoice, O container of ascetics" (Ра́дꙋйся):*  
-Nailed with nails, Thou didst abolish the curse upon the tree by the Tree; and laid in the tomb, by divine power Thou didst raise the dead of all ages, who glorify Thy power with a loud voice: O divine Pascha, Jesus Almighty, our Life and Consolation! Therefore things heavenly rejoice with things earthly, singing songs of victory unto Thee, chanting unto the good Word, O Christ...
-
-*On the Third Sunday after Pascha:*  
+Nailed with nails, Thou didst abolish the curse upon the tree by the Tree; and laid in the tomb, by divine power Thou didst raise the dead of all ages, who glorify Thy power with a loud voice: O divine Pascha, Jesus Almighty, our Life and Consolation! Therefore things heavenly rejoice with things earthly, singing songs of victory unto Thee, chanting unto the good Word, O Christ *On the Third Sunday after Pascha:*
 ...Almighty, Who grantest great mercy unto the world!  
 As living with the dead, yet upon earth the never-setting Sun, another company of the Myrrh-bearing women, weeping, cried aloud: Come, let us run with haste, and see at His tomb! And seeing an Angel shining within it, they marvelled in perplexity; but he, turning their weeping into joy, cried out: The Giver of life is risen! Fear not, ye women full of love; He is the good King, Who grants great mercy unto the world!  
 Early the company of women sought before the sun the Sun that had set into the tomb; and the Angel, radiant with light, proclaimed unto them, radiating light upon those sleeping in darkness: Proclaim ye, radiant with light, unto the disciples; turn weeping into joy, and clapping your hands with unhesitating hearts, dance for the joyful and world-redeeming Pascha: Christ is risen, Who grants great mercy unto the world!  
@@ -978,9 +946,7 @@ With fear the women came unto the tomb, hastening to anoint Thy Body with spices
 *After the First Stichology, Sessional Hymn, Tone 2:*  
 Thou Who didst not forbid the stone of the tomb to be sealed, having arisen didst grant the rock of faith unto all: Lord, glory to Thee!  
 As the waves of the sea my transgressions war against me, and as a ship in the deep, I alone am sinking through many sins; but lead me, O Lord, into the quiet harbor of repentance, and save me!  
-*For the Martyrs:* Having Thee, Who clothest the heaven with clouds, for their vesture, the Saints...
-
-*On Monday of the Third Week after Pascha:*  
+*For the Martyrs:* Having Thee, Who clothest the heaven with clouds, for their vesture, the Saints *On Monday of the Third Week after Pascha:*
 ...endured the torments of the lawless in the world, and abolished the delusion of idols. By their prayers deliver us also from the invisible enemy, O Savior, and save us! *Glory... Both now... Theotokion:*  
 Being the fountain of compassion, vouchsafe mercy unto us, O Theotokos; look upon a people that hath sinned; show forth as always thy power: for hoping in thee, we cry unto thee "Rejoice!", as of old did Gabriel, supreme commander of the bodiless powers.  
 *After the Second Stichology, Sessional Hymn, Tone 2, Podoben: "Seeking the highest" (Вы́шнихъ и҆щя̀):*  
@@ -1003,9 +969,7 @@ The women poured out myrrh with tears upon Thy tomb, and their mouths were fille
 *Then, Troparion of the Feast: The noble Joseph: Glory: When Thou didst descend: Both now: Unto the Myrrh-bearing women: Litany, and Dismissal. First Hour, and the customary procession into the narthex.*  
 *On Monday, at the Beatitudes, the Triodion [Triodes], bearing the acrostic: "Adei tade Ioseph" ("Joseph sings these things"). Sung by Joseph [the Hymnographer]:*[^581]  
 *Tone 2. Ode 1. Heirmos: Come, ye people... Blessed are the poor in spirit, for theirs is the kingdom of heaven:*  
-*Troparion [A]:* Hanging upon the Cross willingly, O Christ, Thou didst destroy the strong kingdom of hades...
-
-*On Monday of the Third Week after Pascha:*  
+*Troparion [A]:* Hanging upon the Cross willingly, O Christ, Thou didst destroy the strong kingdom of hades *On Monday of the Third Week after Pascha:*
 ...and didst lead forth the eternal prisoners by Thy might: glory to Thy dominion!  
 *Blessed are they that mourn, for they shall be comforted:*  
 *Troparion [D]:* Come, said the Angel unto the Myrrh-bearing women, seeing the place where the Lord of all lay, and proclaim His Resurrection unto His friends!  
@@ -1032,9 +996,7 @@ The women poured out myrrh with tears upon Thy tomb, and their mouths were fille
 *At "Lord, I have cried", we set 6 verses: 3 for the Feast, and 3 from the Menaion.*  
 *Stichera of the Feast, Tone 2, Podoben: "When from the Tree" (Е҆гда̀ ѡ҆ древа):*  
 When the Myrrh-bearing women sought Thee early in the morning, O Christ, the Rock of life, they went carrying myrrh and spices, and heard the weeping Angel, the young man at the tomb, saying: Cease your weeping, but rejoicing in your salvation, cry aloud unto all: The Lord is risen!  
-We know thee, O noble Joseph, as a Cherubic chariot, bearing upon thy shoulders Christ the King, Who was taken down from the Tree...
-
-*On Monday of the Third Week after Pascha:*  
+We know thee, O noble Joseph, as a Cherubic chariot, bearing upon thy shoulders Christ the King, Who was taken down from the Tree *On Monday of the Third Week after Pascha:*
 ...we bless thy hands and divine eyes, we honor thy palms wherewith thou didst lay the Sun, the Word and God, in a new tomb: therefore with love do we honor thy memory!  
 A feast hath appeared unto us of the divinely-honored Myrrh-bearing women and of noble Joseph, as another spring giving forth life, pouring out waters of grace unto the world, shedding forth the warm streams of Christ's rising; the assemblies of the faithful celebrate and cry aloud: Glory to Him Who hath granted His Resurrection unto the ends of the earth!  
 *Glory... Both now... Tone 2: The Myrrh-bearing women early (see fol. 142).[^582]*  
@@ -1126,9 +1088,7 @@ Rejoice, ye people, and be glad: the Angel sitting upon the stone of the tomb, h
 *For the Martyrs:* The multitudes of Thy Saints entreat Thee, O Christ: have mercy on us as the Lover of mankind! *Glory... Both now... Tone 4:*  
 With fear the women came unto the tomb, striving to anoint Thy Body with spices; and not finding it, they were perplexed within themselves, not understanding the Resurrection; but the Angel stood before them and said: Christ is risen, granting us great mercy!  
 *At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Е҆гда̀ ѡ҆ древа):*  
-Is the Deliverer among the dead? weeping, the Myrrh-bearing women cried, the disciples of Christ. The exceedingly great Sun...  
-
-*On Wednesday of the Third Week after Pascha:*  
+Is the Deliverer among the dead? weeping, the Myrrh-bearing women cried, the disciples of Christ. The exceedingly great Sun *On Wednesday of the Third Week after Pascha:*
 ...is even until this day beneath the earth, or is He risen as He said? And unto them thus weeping from the tomb the Angel proclaimed truly divine joy: Christ is risen! Run ye, proclaim unto all His divine Resurrection from the tomb!  
 *Verse: Lord, Thou hast been favorable unto Thy land [LXX Ps. 84:2]:*  
 The honored women prepared myrrh, while it was yet dark on the first day of the week, and came unto Thy tomb, O Christ, to anoint Thy most pure and divine Body: therefore having learned of Thy Resurrection, they hastened to announce it also unto the initiates, whom Thou didst meet from the tomb, crying: Rejoice! O most loving Master!  
@@ -1149,9 +1109,7 @@ The disciples of the Most High God, buried on earth as a dead man, strive to ano
 *Theotokion [S]:* Glorifying thee in song as the radiant cloud of the spiritual Sun, O full of divine grace, we cry: Enlighten our hearts, driving away all the darkness of despondency and passions, O Bride of God!  
 *Ode 9. Heirmos: The Father without beginning...*  
 *Troparion [O]:* When the sun saw Thee, the Sun of Righteousness, stretched out upon the Cross, it hid its light, the stones split, and hades speedily sent forth the dead, who praise Thy power, O all-powerful Giver of life!  
-*Troparion [T]:* He Who was in the insatiable belly, pre-eminently and gloriously emptied it as almighty, and immediately arising in glory...  
-
-*On Wednesday of the Third Week after Pascha:*  
+*Troparion [T]:* He Who was in the insatiable belly, pre-eminently and gloriously emptied it as almighty, and immediately arising in glory *On Wednesday of the Third Week after Pascha:*
 *Troparion [T cont.]:* ...was seen of the divine disciples: Him let us worship with the Father and the Spirit! *Glory:*  
 *Troparion [N]:* The Lord is risen! the holy Angel who appeared in the tomb cried unto the Myrrh-bearing women: Go ye and tell this unto His disciples weeping and mourning in Galilee, that they may see Him there! *Both now: Theotokion:*  
 *Theotokion [E]:* To be delivered from perils and afflictions, and passionate tribulations and darkness, and the manifoldly woven snares of the evil one, O all-immaculate one: pray unceasingly unto Christ our God, for those who ever bless thee!  
@@ -1175,9 +1133,7 @@ The women poured out myrrh with tears upon Thy tomb, and their mouths were fille
 *Then: Now lettest Thou Thy servant depart: Trisagion: Troparion (see fol. 134).[^589] And the Dismissal.*  
 ## On Thursday of the Third Week after Pascha
 *At Matins, at "God is the Lord", look for the Troparion of the Feast. After the First Kathisma, Sessional Hymn, Tone 2, Podoben: "Exceedingly blessed" (Пребл҃гослове́нна):*  
-Bearing myrrh in secret unto Thy burial, the women came unto the tomb early...  
-
-*On Thursday of the Third Week after Pascha:*  
+Bearing myrrh in secret unto Thy burial, the women came unto the tomb early *On Thursday of the Third Week after Pascha:*
 ...they came early, fearing the readiness of the Jews, and disregarding the guard of the soldiers; but frail nature overcame courage, for understanding ordered what was well-pleasing unto the Giver and God: therefore in harmony they cried aloud: Arise, O Lord, help us, and deliver us for Thy name's glory!  
 *Troparion:* Thou Who didst give the fishermen words above the orators, and didst send them as preachers throughout all the earth, unenfeebled by Thy love for mankind, O Christ God: by them establish Thy Church, and send down Thy blessing upon the faithful, O Thou Who alone art merciful and the Lover of mankind!  
 *For the Martyrs:* Martyrs of the Apostles, and holy Prophets, Venerable and Righteous ones, who have fought the good fight and kept the faith, having boldness before the Savior: entreat Him on our behalf, we pray, that our souls may be saved! *Glory... Both now... Theotokion:*  
@@ -1193,9 +1149,7 @@ Ever reproached by unrighteous deeds, and fleeing unto Thee, the truly existing 
 When Thou didst arise as God, then didst Thou grant the Myrrh-bearing women to rejoice, O Word, saying: I have not yet ascended unto My Father, and for the rest touch Me not; go ye only, tell My friends: Behold, He goes before you! Therefore having been seen of them after these things, by breathing upon them Thou didst give them the Holy Spirit, O Savior!  
 *Verse: Lord, Thou hast been favorable unto Thy land [LXX Ps. 84:2]:*  
 At the swift running of the Myrrh-bearing women announcing Christ's Resurrection from the dead, the initiates did not believe, but hastened to see the tomb; and seeing the linen winding-sheet and the napkin in the tomb, but Himself not seen at all: therefore having recognized the Resurrection, they are seen as preachers in the world, proclaiming this also unto the nations!  
-*Verse: Mercy and truth are met together; righteousness...*  
-
-*On Thursday of the Third Week after Pascha:*  
+*Verse: Mercy and truth are met together; righteousness On Thursday of the Third Week after Pascha:*
 ...and peace have kissed each other [LXX Ps. 84:11]:  
 The unapproachable Light hath appeared unto us, Christ the Lord, beautiful from the tomb: hades is despoiled, Satan is abolished, the ends of the world rejoice, creation dances, the Church of Christ sings celebrating, keeping the memory of noble Joseph, and with him of the Myrrh-bearing women accomplishes the solemn feast!  
 *Glory... Both now... Tone 2:*  
@@ -1240,9 +1194,7 @@ Joseph begged the Body of Jesus, and laid it in his own new tomb; for it was fit
 *At Matins, at "God is the Lord", look for the Troparion of the Feast. After the First Stichologia, Sessional Hymn, Tone 2:*  
 We worship Thy most pure image, O Good One, asking forgiveness for our transgressions, O Christ God; for of Thine own will Thou wast pleased to ascend the Cross in the flesh, that Thou mightest deliver those whom Thou didst fashion from the bondage of the enemy: therefore thankfully do we cry aloud unto Thee: Thou didst fill all with joy, O our Savior, Who camest to save the world!  
 Not having forbidden the tomb-stone to be sealed, Thou didst arise and grant unto all the rock of faith: Lord, glory to Thee!  
-*For the Martyrs:* When the Martyrs of the Lord contended in labors, then the boldness of the ungodly was darkened through their faith; and when they divinely abolished the delusion of idols...  
-
-*On Friday of the Third Week after Pascha:*  
+*For the Martyrs:* When the Martyrs of the Lord contended in labors, then the boldness of the ungodly was darkened through their faith; and when they divinely abolished the delusion of idols *On Friday of the Third Week after Pascha:*
 ...then they received crowns of victory from on high, and they pray for our souls! *Glory... Both now... Theotokion:*  
 *Theotokion:* Beholding Thee dead and stretched upon the Tree, O Christ, the Virgin and Thy Mother, weeping bitterly, said, O my Son: What is this fearful mystery! O Thou Who bestowest eternal life upon all, how willingly upon the Cross dost Thou suffer a reproachful death?  
 *After the Second Stichologia, Sessional Hymn, Tone 2, Podoben: "Seeking the highest" (Вы́шнихъ и҆щя̀):*  
@@ -1262,9 +1214,7 @@ Bestowing unceasing and divine joy upon the divine and holy disciples, the women
 *Glory... Both now... Tone 4: With fear the women came: (see fol. 144).*[^593]  
 *Then: Troparion: And the Dismissal. And the First Hour.*  
 *On that same Friday, at the Beatitudes, the Triodion [Triodes], bearing the acrostic: "Doxa Theo amin", that is: "Glory to God, amen". A work of Joseph:*[^594]  
-*Tone 2. Ode 5. Heirmos: The enlightenment of those in darkness...*  
-
-*On Friday of the Third Week after Pascha:*  
+*Tone 2. Ode 5. Heirmos: The enlightenment of those in darkness On Friday of the Third Week after Pascha:*
 *Troparion [D]:* The assembly of lawless Jews of old, lifting Thee upon the Tree, put Thee to death, O Lover of mankind; but laid in the tomb, Thou didst shatter all the bonds of hades, and didst raise the dead from the ages!  
 *Troparion [O]:* When Thou didst renew the immortality of all from corruption, then in courage didst Thou lead forth all the bound, and didst arise from the tomb, O Giver of life, having destroyed death, and having enlightened us by Thy rising!  
 *Troparion [X]:* Seeing the Angel of old shining in strange apparel upon the tomb, the women were amazed, and he cried unto them: Fear ye not; Christ is risen, go ye, announce unto His friends!  
@@ -1282,9 +1232,7 @@ Bestowing unceasing and divine joy upon the divine and holy disciples, the women
 ## On Friday Evening of the Third Week
 *At "Lord, I have cried", we set Stichera: on 6 for the Feast, and 3 from the Menaion.*  
 *Festive Idiomelon Stichera, Tone 2:*  
-The Myrrh-bearing women, taking spices deep in the morning, reached the Lord's tomb, and finding what they did not expect, they pondered, reverencing the rolling away of the stone...  
-
-*On Friday of the Third Week after Pascha:*  
+The Myrrh-bearing women, taking spices deep in the morning, reached the Lord's tomb, and finding what they did not expect, they pondered, reverencing the rolling away of the stone *On Friday of the Third Week after Pascha:*
 ...and one said unto another: Where are the seals of the tomb? Where is Pilate's guard, and the secure protection? But the shining Angel became an instructor unto the uncomprehending women, and said unto them: Why seek ye with weeping the Living, Who hath made the human race alive? Christ our God is risen from the dead as almighty, granting unto us all incorruption and life, enlightenment and great mercy!  
 Why do ye pour out myrrh with tears, O women disciples? The stone is rolled away, the tomb is emptied: behold corruption trampled down by Life, the seals bearing witness clearly, the fiercely sleeping guards of the disobedient, the mortal race saved by the Flesh of God, hades lamenting! Run ye with joy, say unto the Apostles: Christ Who put death to death, the Firstborn from the dead, goes before you into Galilee!  
 Having arisen early and with haste reached Thy tomb, the Myrrh-bearing women sought Thee, O Christ, to anoint Thy most pure Body; and having heard the words of the Angel, in joy-creating images they proclaimed unto the Apostles that Thou art risen, O Author of our salvation, having despoiled death, and granting unto the world eternal life and great mercy! *Glory... Tone 6:*  
@@ -1304,9 +1252,7 @@ Thy Resurrection, O Christ Savior, hath enlightened the whole universe, and summ
 ## On Saturday of the Third Week after Pascha
 *At Matins, at "God is the Lord", Troparion of the Feast. After the First Stichologia, Sessional Hymn, Tone 2:*  
 Not having forbidden the tomb-stone to be sealed, Thou didst arise and grant unto all the rock of faith, incorruption and life: Lord, glory to Thee!  
-Not having left the most pure bosom in the highest...
-
-...burial and Resurrection didst Thou accept for all: Lord, glory to Thee! *Glory... Both now... Theotokion:*  
+Not having left the most pure bosom in the highest burial and Resurrection didst Thou accept for all: Lord, glory to Thee! *Glory... Both now... Theotokion:*
 All beyond understanding, all most glorious are thy mysteries, O Theotokos: with purity sealed and virginity preserved, thou art known to be a true Mother, having borne the true God; Him pray thou to save our souls!  
 *After the Second Stichologia, Sessional Hymn, Tone 4, Podoben: "When the Myrrh-bearing women" (Мѵроно́сица жена́):*  
 The choir of Thy disciples with the Myrrh-bearing women concordantly rejoices; for a common feast we celebrate with them, unto the glory and honor of Thy Resurrection; and for their sake we cry unto Thee, O Lord Lover of mankind: Grant unto Thy people great mercy! *Glory... Both now... The same.*  
@@ -1322,9 +1268,7 @@ When from the Tree the Arimathean took Thee down dead, the Life of all, with myr
 When in a new tomb Thou wast laid for all, O Redeemer of all, all-derided hades trembled, seeing Thee; the bars were broken, the gates were shattered, the tombs were opened, and the dead arose: then Adam gratefully, rejoicing cried unto Thee: Glory to Thy condescension, O Lover of mankind!  
 *Verse: Mercy and truth are met together [LXX Ps. 84:10]:*  
 When the Powers beheld Thee, O Christ, slandered as a deceiver by the lawless, they were amazed at Thine ineffable longsuffering, and the stone of the tomb sealed by the very hands that pierced Thy ribs; yet rejoicing at our salvation they cried unto Thee: Glory to Thy condescension, O Lover of mankind! *Glory... Both now... Tone 6:*  
-Joseph asked...  
-
-...Joseph asked for the Body of Jesus, and laid It in his new tomb; for it was fitting for Him to go forth from the tomb as from a bridal chamber: O Thou Who hast shattered the dominion of death, and opened the gates of Paradise unto men, glory to Thee!  
+Joseph asked Joseph asked for the Body of Jesus, and laid It in his new tomb; for it was fitting for Him to go forth from the tomb as from a bridal chamber: O Thou Who hast shattered the dominion of death, and opened the gates of Paradise unto men, glory to Thee!
 *Then: It is good to give praise [LXX Ps. 91:2]: Trisagion: Dismissal Troparion: First Hour. And the Dismissal.*  
 *On the Same Saturday: At the Beatitudes, a Four-Ode Canon (Tetraodion)*  
 *Tone 2. Ode 6. Heirmos: From the depths of sins...*  
@@ -1343,9 +1287,7 @@ Joseph asked...
 *Troparion:* Hidden, O Master Christ, is our life in Thee, Who didst suffer in the flesh and arise from among the dead, O Word, and Who livest ever; in Whom we Christians hope to have part at Thy fearful Second Coming, faithfully and worthily hymning Thy divine passions and Thy Resurrection from among the dead. *Theotokion:*  
 *Theotokion:* Our Fore-mother received through thee release from the ancient condemnation; for no longer in sorrow doth she bear children, because thou, O Birthgiver of God, hast borne Christ: therefore worthily do we bless thee, hymning Him that is truly born without seed, and pre-exalting Him unto the ages!  
 *Ode 9. Heirmos: Thou hast magnified, O Christ...*  
-*Troparion:* Hear the voice of thy Bridegroom, O Church, cries the divine David: for unto thee from His ribs was granted water...  
-
-...water with divine blood, for the cleansing of transgressions; for He hath delivered thee from the deceit of idols, as the Lover of mankind.  
+*Troparion:* Hear the voice of thy Bridegroom, O Church, cries the divine David: for unto thee from His ribs was granted water with divine blood, for the cleansing of transgressions; for He hath delivered thee from the deceit of idols, as the Lover of mankind.
 *Troparion:* Thou hast shone forth life by Thy creative rising; unto a multitude of the nations, O Christ, who inquired not neither sought Thee, hast Thou appeared in divine glory, but the Jewish people who believed not in Thee hast Thou reproved! *Glory:*  
 *Troparion:* The curse that sprouted unto me through the deceit of the tree in Eden hast Thou loosed, O Word, going even unto the Cross according to the Father's counsel by Thine own sovereign will; therefore all creation hymns and magnifies Thine ineffable self-emptying! *Both now: Theotokion:*  
 *Theotokion:* Thou hast drawn unto Thyself a holy people that were far off, O Savior, being incarnate of the Virgin, and those that were not Thy people hast Thou called Thy divine people: therefore all we now worship Thee, magnifying Thee!  
@@ -1358,9 +1300,7 @@ Joseph asked...
 A very great wonder! A Virgin giving birth, and the One born is God before the ages! A most glorious birthgiving, and accomplished beyond nature! O fearful mystery, which even when conceived remains ineffable, and when beheld cannot be comprehended! Blessed art thou, O all-pure Virgin, daughter of earthly Adam, and revealed as Mother of God the Most High: Him pray thou to save our souls!  
 *At the Aposticha, Sticheron: "By Thy Passion...". Then of the Theotokos, Tone 3, Podoben: "Great is the power of Thy Cross" (Ве́лїа си́ла крⷵта̀ Твоегѡ̀): Verse: Hear, O daughter, and see [LXX Ps. 44:11]:*  
 Having obtained through thee a great beneficence, O all-pure one, the choir of Angels glorifies thy childbearing; for He was pleased to be born in thy womb out of extreme compassion, delivering the human race. *Verse: I will remember thy name [LXX Ps. 44:18]:*  
-Thee as refuge and divine protection do all we sinners in life possess, O Virgin...  
-
-...in life possess, O Virgin: therefore we pray thy compassion, turn not away from us, O merciful one, but have mercy and save us! *Verse: The rich among the people shall entreat thy face [LXX Ps. 44:13]:*  
+Thee as refuge and divine protection do all we sinners in life possess, O Virgin in life possess, O Virgin: therefore we pray thy compassion, turn not away from us, O merciful one, but have mercy and save us! *Verse: The rich among the people shall entreat thy face [LXX Ps. 44:13]:*
 The "Rejoice!", O Theotokos Mother ever-Virgin, do we earthly servants worthily bring unto thee with Gabriel the divine Prince of orders, as mediatress of joy, who hast been gladness unto the world! *Glory... Both now... Tone 4: "In Solomon's Porch...": Seek at Great Vespers: At the Aposticha, Glory... And the rest as usual. Troparion: Tone 3. And the Dismissal.*  
 *At Great Vespers, as usual, we sing: "Blessed is the man", the whole Kathisma [LXX Pss. 1–3]. On "Lord, I have cried", we set 10 verses, and sing Resurrectional Stichera, 3; and Anatolian, 4; and for the Paralytic, 3. If there be no All-Night Vigil, we say also the Sticheron of the Litiya.*  
 *Resurrectional Stichera, Tone 3:*  
@@ -1377,11 +1317,11 @@ Having fashioned man with Thy most pure palm, Thou didst come, O Merciful One, t
 
 The Paralytic, being an unburied corpse, seeing Thee cried aloud: Have mercy on me, O Lord, for my bed became my tomb! What gain is life unto me? I have no need of the Sheep Pool, for I have no man to cast me in when the water is troubled; but unto Thee, the Fountain of healings, do I come, that I also may cry with all: Almighty Lord, glory to Thee!  
 *Glory... Tone 5:*  
-Jesus went up to Jerusalem unto the Sheep Pool, which is called in Hebrew Bethesda, having five porches; for in them lay a multitude of the sick: for an Angel of God descended each year and troubled it, and granted health unto them that approached with faith. And the Lord, seeing a man of many years, saith unto him: Wilt thou be made whole? The sick man answered: Lord, I have no man, when the water is troubled, to put me into the pool; I have spent all my substance upon physicians, and was not vouchsafed to obtain mercy. But the Physician of souls and bodies saith unto him: Take up thy bed and walk, preach My power and great mercy unto the ends of the earth! *Both now: Theotokion, Tone 3:*  
+Jesus went up to Jerusalem unto the Sheep Pool, which is called in Hebrew Bethesda, having five porches; for in them lay a multitude of the sick: for an Angel of God descended each year and troubled it, and granted health unto them that approached with faith. And the Lord, seeing a man of many years, says unto him: Wilt thou be made whole? The sick man answered: Lord, I have no man, when the water is troubled, to put me into the pool; I have spent all my substance upon physicians, and was not vouchsafed to obtain mercy. But the Physician of souls and bodies says unto him: Take up thy bed and walk, preach My power and great mercy unto the ends of the earth! *Both now: Theotokion, Tone 3:*  
 How should we not marvel at thy God-manbearing childbearing: (see fol. 194).[^599]  
 *Entrance. O Gladsome Light. Prokeimenon: The Lord is King [LXX Ps. 92:1], with its verses.*  
 *At the Litiya, Stichera of the holy temple. Glory... Tone 5:*  
-At the Sheep Pool a man lay in infirmity, and seeing Thee, O Lord, he cried: I have no man, when the water is troubled, to put me into it; and when I come, another steps down before me and receives healing, whilst I depart infirm! And straightway the Savior, having compassion, saith unto him: For thy sake became I man, for thy sake was I clothed in flesh, and sayest thou: "I have no man"? Take up thy bed and walk! All things are possible unto Thee, all things obey, all things submit: remember all of us and have mercy, O Holy One, as the Lover of mankind! *Both now: Theotokion, Tone 5:*  
+At the Sheep Pool a man lay in infirmity, and seeing Thee, O Lord, he cried: I have no man, when the water is troubled, to put me into it; and when I come, another steps down before me and receives healing, whilst I depart infirm! And straightway the Savior, having compassion, says unto him: For thy sake became I man, for thy sake was I clothed in flesh, and sayest thou: "I have no man"? Take up thy bed and walk! All things are possible unto Thee, all things obey, all things submit: remember all of us and have mercy, O Holy One, as the Lover of mankind! *Both now: Theotokion, Tone 5:*  
 Thou art temple and gate, palace and throne of the King, O all-pure Virgin, through whom my Redeemer Christ the Lord appeared unto those sitting in darkness, being the Sun of Righteousness, wishing to enlighten that which He fashioned after His own image with His hand; therefore, O all-hymned one, as having motherly boldness toward Him, unceasingly pray that our souls may be saved!  
 *At the Aposticha, Resurrectional Sticheron, Tone 3:*  
 O Christ, Who by Thy Passion didst darken the sun, and by the light of Thy Resurrection didst enlighten all things, accept our evening hymn, O Lover of mankind!  
@@ -1393,7 +1333,7 @@ Being unchangeable God, in flesh suffering wast Thou changed; and creation, endu
 *Verse: Holiness becomes Thine house, O Lord, unto length of days [LXX Ps. 92:5]:*  
 That Thou mightest deliver our race from death, O Christ, Thou didst endure death; and having arisen from among the dead as Firstborn, Thou didst raise up together with Thyself those that recognized Thee as God, and hast enlightened the world: Lord, glory to Thee! *Glory... Tone 8:*  
 
-In Solomon's Porch, there lay a multitude of the sick; and at Mid-feast, Christ found a paralytic lying thirty-eight years, and with gentle voice saith unto him: Wilt thou be made whole? The sick man answered: Lord, I have no man, when the water is troubled, to put me into the pool. But He said unto him: Take up thy bed and walk: behold, thou art made whole, sin no more! By the prayers of the Theotokos send down upon us great mercy! *Both now: Theotokion, Tone 8:*  
+In Solomon's Porch, there lay a multitude of the sick; and at Mid-feast, Christ found a paralytic lying thirty-eight years, and with gentle voice says unto him: Wilt thou be made whole? The sick man answered: Lord, I have no man, when the water is troubled, to put me into the pool. But He said unto him: Take up thy bed and walk: behold, thou art made whole, sin no more! By the prayers of the Theotokos send down upon us great mercy! *Both now: Theotokion, Tone 8:*  
 O Virgin unwedded, who didst conceive God in the flesh without seed, Mother of God the Most High: accept the supplications of thy servants, O all-immaculate one, granting unto all cleansing of transgressions; having now accepted our entreaties, pray that we all may be saved!  
 *Then: Now lettest Thou Thy servant depart [LXX Luke 2:29–32]: Trisagion: and after Our Father:*  
 *Dismissal Troparion, Tone 3:*  
@@ -1411,9 +1351,7 @@ At the beauty of thy virginity and the exceeding brilliance of thy purity was Ga
 *After the Second Stichologia, Sessional Hymn, Tone 3, Podoben: "At the beauty of thy virginity" (Красотѣ̀ дѣ́вства твое́гѡ):*  
 Having assumed all that is human, all our lot didst Thou deign to have nailed unto the Cross, O my Creator, accepting to endure death as man, that Thou mightest free humanity from death as God; therefore as Giver of life we cry unto Thee: Glory, O Christ, to Thy compassion!  
 The incomprehensible mystery of the Crucifixion and the ineffable wonder of the Resurrection do we faithful mystically theologize; for today death and hades are despoiled, and the human race is clothed in incorruption: therefore giving thanks we cry unto Thee: Glory, O Christ, to Thy Resurrection! *Glory... Both now... Theotokion:*  
-The heavenly things rejoiced with love, and the earthly things trembled with dread...  
-
-...when the most pure voice came upon thee, O Theotokos; for one was the celebration unto both, when He delivered the First-formed from death: therefore with the Angel do we cry unto thee: Rejoice, O pure Virgin Mother!  
+The heavenly things rejoiced with love, and the earthly things trembled with dread when the most pure voice came upon thee, O Theotokos; for one was the celebration unto both, when He delivered the First-formed from death: therefore with the Angel do we cry unto thee: Rejoice, O pure Virgin Mother!
 *After the Amomos, Hypakoe, Tone 3:*  
 Astonishing by his appearance, shedding dew with his words, the radiant Angel said unto the Myrrh-bearing women: Why seek ye the Living in the tomb? He is arisen, emptying the graves: understand the Changeless One to have abolished corruption: say ye unto God: How fearful are Thy works [LXX Ps. 65:3], for Thou hast saved the human race!  
 *Hymns of Ascent, Tone 3. Antiphon 1:*  
@@ -1499,9 +1437,7 @@ O Jesus God, Who holdest the ends of the earth in the hollow of Thy hand, Who ar
 *Verses:*  
 *The voice of Christ which today strengthened the Paralytic,*  
 *Itself ever becomes healing unto all.*  
-*On this same day, on the Fourth Sunday after Pascha, we celebrate the memory of the Paralytic, and as is meet we celebrate this miracle of our Lord and God and Savior Jesus Christ: for this also was appointed here because it was performed at the time of the Hebrew Pentecost; for He was in Jerusalem for the Feast, and at the five-porched pool...*  
-
-...which Solomon built, which also was called the Sheep Pool; for in the washing-place they washed the entrails of the sheep slaughtered for sacrifice, or because the first one entering therein when the water was troubled once a year by an Angel appeared whole. There He finds a man thirty-eight years in infirmity, and being at a loss who might cast him into the water as he lay; from whom also we are instructed how good a thing is waiting and patience, and that because Baptism was to be given for the cleansing of every sin, God provided in the Old Covenant that good should be wrought through miracles, so that when the former should come, it might be easily received. Unto this Paralytic therefore Jesus comes, in some such manner also for my sake, and questions him; and he sets forth his lack of anyone to assist him; and Christ, knowing how to cleanse and heal him of his disease, saith: "Take up thy bed and walk." And straightway he appears whole, and taking his bed upon his shoulders, that the deed might not seem an apparition, he carried it to his house. But it being the Sabbath, he was forbidden by the Jews to walk; yet he set forth Him that healed him, as having said to walk on the Sabbath, not knowing Who He was; for Jesus, it is said, had turned aside and hidden Himself, a multitude being gathered there. Afterward Jesus found him in the temple, and saith unto him: "Behold, thou art made whole; sin no more, lest a worse thing come unto thee." Now some have said that Christ said this—speaking unjustly—because that man was later to give Jesus a blow when He stood before the high priest Caiaphas, and thereby to inherit a worse trial than paralysis in eternal fire, not to be tormented for thirty-eight years only, but everlastingly. But rather did Christ show that the disease of paralysis had befallen him because of sins. Not every disease however is from sins, but also from natural infirmity, and from overeating, and senseless carelessness, and many other causes it comes. Having understood therefore that it was Jesus Who had made that man whole, the holy Paralytic made it known unto the Jews. And they, being moved to wrath, sought to slay Christ because He broke the Sabbath; but He said many things unto them, proving that it is lawful to do good even on the Sabbath, and that He Himself is the One Who commanded to keep the Sabbath, that He is equal to the Father, and even as the Father still works, so also doth He. Be it known also that this Paralytic is different from the one in Matthew; for the latter took place in a house, with men serving him, and hearing "Thy sins are forgiven thee"; but this one took place in the Porch, having no man, even as the holy Gospel saith, and taking up his bed, even as the other. Now it is celebrated at this time because this also occurred during Pentecost, even as the events of the Samaritan Woman and the Blind Man; for Thomas and the Myrrh-bearers we celebrate in confirmation of Christ's Resurrection from among the dead; and the rest until the Ascension because these things took place at the time of the Hebrew Pentecost, which occurred among the Jews at various times, and as John thus briefly recorded them. Through Thine ineffable compassion, O Christ our God, have mercy on us: Now and ever and unto ages of ages. Amen.  
+*On this same day, on the Fourth Sunday after Pascha, we celebrate the memory of the Paralytic, and as is meet we celebrate this miracle of our Lord and God and Savior Jesus Christ: for this also was appointed here because it was performed at the time of the Hebrew Pentecost; for He was in Jerusalem for the Feast, and at the five-porched pool* which Solomon built, which also was called the Sheep Pool; for in the washing-place they washed the entrails of the sheep slaughtered for sacrifice, or because the first one entering therein when the water was troubled once a year by an Angel appeared whole. There He finds a man thirty-eight years in infirmity, and being at a loss who might cast him into the water as he lay; from whom also we are instructed how good a thing is waiting and patience, and that because Baptism was to be given for the cleansing of every sin, God provided in the Old Covenant that good should be wrought through miracles, so that when the former should come, it might be easily received. Unto this Paralytic therefore Jesus comes, in some such manner also for my sake, and questions him; and he sets forth his lack of anyone to assist him; and Christ, knowing how to cleanse and heal him of his disease, says: "Take up thy bed and walk." And straightway he appears whole, and taking his bed upon his shoulders, that the deed might not seem an apparition, he carried it to his house. But it being the Sabbath, he was forbidden by the Jews to walk; yet he set forth Him that healed him, as having said to walk on the Sabbath, not knowing Who He was; for Jesus, it is said, had turned aside and hidden Himself, a multitude being gathered there. Afterward Jesus found him in the temple, and says unto him: "Behold, thou art made whole; sin no more, lest a worse thing come unto thee." Now some have said that Christ said this—speaking unjustly—because that man was later to give Jesus a blow when He stood before the high priest Caiaphas, and thereby to inherit a worse trial than paralysis in eternal fire, not to be tormented for thirty-eight years only, but everlastingly. But rather did Christ show that the disease of paralysis had befallen him because of sins. Not every disease however is from sins, but also from natural infirmity, and from overeating, and senseless carelessness, and many other causes it comes. Having understood therefore that it was Jesus Who had made that man whole, the holy Paralytic made it known unto the Jews. And they, being moved to wrath, sought to slay Christ because He broke the Sabbath; but He said many things unto them, proving that it is lawful to do good even on the Sabbath, and that He Himself is the One Who commanded to keep the Sabbath, that He is equal to the Father, and even as the Father still works, so also doth He. Be it known also that this Paralytic is different from the one in Matthew; for the latter took place in a house, with men serving him, and hearing "Thy sins are forgiven thee"; but this one took place in the Porch, having no man, even as the holy Gospel says, and taking up his bed, even as the other. Now it is celebrated at this time because this also occurred during Pentecost, even as the events of the Samaritan Woman and the Blind Man; for Thomas and the Myrrh-bearers we celebrate in confirmation of Christ's Resurrection from among the dead; and the rest until the Ascension because these things took place at the time of the Hebrew Pentecost, which occurred among the Jews at various times, and as John thus briefly recorded them. Through Thine ineffable compassion, O Christ our God, have mercy on us: Now and ever and unto ages of ages. Amen.
 *Ode 7. Heirmos: He Who bedewed the flame in the furnace and saved the children unburnt: Blessed art Thou unto the ages, O Lord God of our fathers!*  
 *Troparion:* Beholding Thee stretched upon the Tree, the sun hid its light, unable to shine upon the world when Thou, O King of all, didst willingly set for the enlightenment of all the nations!  
 *Troparion:* Thou didst empty the tombs and take hades captive by Thine all-powerful might; therefore do we hymn Thy precious and divine Resurrection, O Christ!  
@@ -1512,9 +1448,7 @@ O Jesus God, Who holdest the ends of the earth in the hollow of Thy hand, Who ar
 *Triadikon:*  
 *Troparion:* O Father, save from all tribulations by Thy protection those who hymn Thee as God and Master of all, and make them partakers of Thy good things! *Both now:*  
 *Theotokion:*  
-*Troparion:* Having willed to bear beyond the Word Him Who was begotten before all ages...
-
-...Him Who was begotten ineffably of the unoriginate Father: therefore, O pure one, do we call thee blessed. *Katavasia: He Who bedewed the flame.*  
+*Troparion:* Having willed to bear beyond the Word Him Who was begotten before all ages Him Who was begotten ineffably of the unoriginate Father: therefore, O pure one, do we call thee blessed. *Katavasia: He Who bedewed the flame.*
 *Ode 8. Heirmos: Unto God Who is unceasingly glorified in the highest by Angels, let the heavens of heavens, the earth, the mountains, the hills, and the abyss, and all the human race: bless Him with songs as Creator and Deliverer, and supremely exalt Him unto the ages!*  
 *Troparion:* When Thou, our Savior, wast crucified, the veil was rent, and death gave up the dead whom it had swallowed, and hades was laid bare, seeing Thee in the nether regions of the earth!  
 *Troparion:* Where is thy sting, O death? Where is thy victory, O hades? When the King arose, thou wast put to death and destroyed, and no longer rulest; for the Mighty One hath released those whom thou hadst bound!  
@@ -1577,7 +1511,7 @@ O most marvelous wonder! The Creator of the ages became a bearer of flesh, and o
 O Savior, my God and Lord, willing to resurrect fallen mankind, Thou didst walk upon earth as man, healing every disease because of Thy great tenderheartedness. Therefore, having come unto the Sheep Pool, Thou didst raise up the Paralytic whole of old by Thy word, who had lain there for thirty and eight years!  
 The envious Hebrews, consumed with envy at Thy beneficence, O all-good Lord, sought a pretext, and raging with irritation, being themselves lawless in the Law continually, sought to slay Thee, the true Life, on account of the Sabbath: because Thou hadst shown forth a whole man in health, who was formerly paralyzed!  
 *Glory, Both now, Tone 5:*  
-At the Sheep Pool a man lay in disease; and seeing Thee, O Lord, he cried: I have no man, that when the water is troubled, he might cast me into it; and when I come, another steps down before me and receives healing, while I lie in disease! And straightway the Savior, having compassion, saith unto him: For thy sake became I man, for thy sake did I clothe Myself in flesh, and sayest thou: "I have no man"? Take up thy bed and walk! All things are possible unto Thee, all things give ear, all things submit: remember all of us, and have mercy, O holy One, as Lover of mankind!  
+At the Sheep Pool a man lay in disease; and seeing Thee, O Lord, he cried: I have no man, that when the water is troubled, he might cast me into it; and when I come, another steps down before me and receives healing, while I lie in disease! And straightway the Savior, having compassion, says unto him: For thy sake became I man, for thy sake did I clothe Myself in flesh, and sayest thou: "I have no man"? Take up thy bed and walk! All things are possible unto Thee, all things give ear, all things submit: remember all of us, and have mercy, O holy One, as Lover of mankind!  
 *At the Aposticha, Stichera, Tone 3:*  
 By Thy Cross, O Christ Savior, the dominion of death was destroyed, and the devil's deceit was abolished; and the human race, being saved through faith, ever brings hymnody unto Thee!  
 *Verse: Unto Thee have I lifted up mine eyes [Ps. 122:1].*  
@@ -1607,9 +1541,7 @@ Seeing the power of signs and miracles, those held fast by envy and strong in ma
 *Verse: Thy mercies, O Lord, will I sing forever [Ps. 88:1].*  
 The keepers of the Sabbath, seeing the Paralytic strengthened on the Sabbath, were darkened in soul, and cried out swiftly as lawbreakers: It is not lawful to heal on the Sabbath, and to defile the Sabbath!  
 *Verse: For Thou hast said: Mercy shall be built up forever [Ps. 88:2].*  
-Not knowing Thee, the Creator and Lord of the Sabbath...  
-
-...those who keep the Sabbath considered the strengthening of the Paralytic, which took place on the Sabbath, saying that it was not good to take up a bed on the Sabbath day!  
+Not knowing Thee, the Creator and Lord of the Sabbath those who keep the Sabbath considered the strengthening of the Paralytic, which took place on the Sabbath, saying that it was not good to take up a bed on the Sabbath day!
 *Glory, Both now, Tone 6: Jesus went up to Jerusalem (see fol. 167)[^609].*  
 *Then: "It is good to give thanks unto the Lord." First Hour. And the Dismissal.*  
 *At the Beatitudes, the Triodion, whose acrostic is: ΑΝΕΣΤΗ Ο ΣΩΤΗΡ [ANESTI O SOTIR], that is: "The Savior is risen"[^610].*  
@@ -1634,9 +1566,7 @@ Not knowing Thee, the Creator and Lord of the Sabbath...
 *Theotokion:*  
 *Troparion:* Deliver this city and the people who flee unto thee, O pure Mother of God who didst bear Christ, from all opposing wrath, and captivity, and the invasion of nations, that we may worthily magnify thee in hymns!  
 *On the same Monday Evening, at "Lord, I have cried":*  
-*Stichera of the Feast, 3; and from the Menaion, 3. Stichera of the Feast: Glory: On the Paralytic (see fol. 167)[^611], Tone 1: Fashioning man with Thy most pure hand...*  
-
-...Being an unburied dead man, the Paralytic (see fol. 170)[^612].  
+*Stichera of the Feast, 3; and from the Menaion, 3. Stichera of the Feast: Glory: On the Paralytic (see fol. 167)[^611], Tone 1: Fashioning man with Thy most pure hand* Being an unburied dead man, the Paralytic (see fol. 170)[^612].
 *Glory, Both now, Tone 5: Jesus went up to Jerusalem (see fol. 167)[^613]. Then: "O gladsome Light." Prokeimenon of the day.*  
 *At the Aposticha, Stichera, Tone 3:*  
 All things were enlightened by Thy Resurrection, O Lord, and Paradise was opened again; and all creation, praising Thee, ever brings hymnody unto Thee! *Verse: Unto Thee have I lifted up mine eyes.*  
@@ -1669,7 +1599,7 @@ Fulfilling the command, the Paralytic rejoiced in the all-powerful might of the 
 Lying in the burden of many years, the Paralytic cried out: Have mercy on me, O Christ, Deliverer of limbs bound by helplessness! And the Savior, having strengthened the man's limbs, commanded him to take up his bed!  
 *Glory, Both now, Tone 5: At the Sheep Pool a man lay (see fol. 167)[^617].*  
 *Then: "It is good to give thanks." Resurrection Troparion, and its Theotokion. And Dismissal.*  
-*At the Beatitudes, the Triodion, whose acrostic is: (ΨАЛМΩΔΙΑ ΙΩΣΗΦ )[PSALMODIA IOSIF], that is: "Chanting of Joseph"[^618].*  
+*At the Beatitudes, the Triodion, whose acrostic is: (ΨΑΛΜΩΔΙΑ ΙΩΣΗΦ )[PSALMODIA IOSIF], that is: "Chanting of Joseph"[^618].*  
 *Tone 3. Ode 2. Heirmos: As the shower upon the herb:*  
 *Troparion:* Let us shout psalms, let us clap our hands joyfully: the Giver of life is risen from the dead!  
 *Troparion:* Thou didst ascend the Cross, O Christ, girded with power, and Thou art risen from the dead, as Thou didst foretell!  
@@ -1705,22 +1635,20 @@ The swift pouring forth of the divine Spirit upon all hath drawn near, as it was
 As the Feast of Thy Resurrection and the divine coming of Thy Holy Spirit reaches its midpoint, O Christ, we who are gathered together hymn the mysteries of Thy wonders: therefore send down upon us Thy great mercy!  
 *Entrance. Prokeimenon of the day. Three Readings.*  
 *The Reading from the Prophecy of Micah [Micah 4:2–3, 6:1–5, 8; 5:4][^620]:*  
-Thus saith the Lord: Out of Zion shall go forth the Law, and the Word of the Lord from Jerusalem; and He shall judge between many peoples, and shall rebuke strong nations afar off. For all peoples shall walk each in his own way, but we will walk in the Name of the Lord our God forever. Thus saith the Lord Almighty: Hear, O ye mountains, the judgment of the Lord, and ye foundations of the earth; for the Lord hath a controversy with His people, and will plead with Israel: O My people, what have I done unto thee? Or wherein have I grieved thee? Or wherein have I burdened thee? Answer Me! For I brought thee up out of the land of Egypt, and redeemed thee out of the house of bondage, and sent before thy face Moses, Aaron, and Miriam. O My people, remember now what Balak king of Moab devised against thee! If it hath been told thee, O man, what is good, or what the Lord requirs of thee, but to do justice, to love mercy, and to be ready to walk with the Lord thy God? For the Lord shall be magnified in strength, and shall shepherd His flock in humility, even unto the ends of the earth!  
+Thus says the Lord: Out of Zion shall go forth the Law, and the Word of the Lord from Jerusalem; and He shall judge between many peoples, and shall rebuke strong nations afar off. For all peoples shall walk each in his own way, but we will walk in the Name of the Lord our God forever. Thus says the Lord Almighty: Hear, O ye mountains, the judgment of the Lord, and ye foundations of the earth; for the Lord hath a controversy with His people, and will plead with Israel: O My people, what have I done unto thee? Or wherein have I grieved thee? Or wherein have I burdened thee? Answer Me! For I brought thee up out of the land of Egypt, and redeemed thee out of the house of bondage, and sent before thy face Moses, Aaron, and Miriam. O My people, remember now what Balak king of Moab devised against thee! If it hath been told thee, O man, what is good, or what the Lord requirs of thee, but to do justice, to love mercy, and to be ready to walk with the Lord thy God? For the Lord shall be magnified in strength, and shall shepherd His flock in humility, even unto the ends of the earth!  
 *The Reading from the Prophecy of Isaiah [Isaiah 55:1–3, 6–13][^621]:*  
-Thus saith the Lord: Ye that thirst, go to the water; and as many as have no money, go, buy, and eat and drink without money and without price, wine and fatness. Thus, thus saith the Lord Almighty unto you: O My people, draw water with joy out of the fountains of salvation!  
+Thus says the Lord: Ye that thirst, go to the water; and as many as have no money, go, buy, and eat and drink without money and without price, wine and fatness. Thus, thus says the Lord Almighty unto you: O My people, draw water with joy out of the fountains of salvation!  
 
-And in that day thou shalt say: Sing unto the Lord, call upon His Name, declare His glorious deeds among the nations; remember that His Name is exalted, O My people! Give ear unto Me, and ye shall eat good things, and your soul shall delight itself in good things. Incline your ears, and follow My ways: give ear unto Me, and your soul shall live in good things; and I will make an everlasting covenant with you; and call upon Him while He is near you. Let the ungodly forsake his ways, and the unrighteous man his counsels, and let him return unto the Lord, and he shall find mercy: for He will abundantly pardon your sins. For My counsels are not as your counsels, neither are your ways My ways, saith the Lord. But as the heaven is distant from the earth, so is My way distant from your ways, and your thoughts from My thoughts. For as rain or snow comes down from heaven, and returns not thither, until it waters the earth, and causes it to bring forth and bud, and gives seed to the sower, and bread for food: so shall My word be, whatsoever goes forth out of My mouth; it shall not return unto Me void, until it accomplishes all whatsoever I willed, and I will prosper thy ways and My commandments. For ye shall go forth with gladness, and be taught with joy. For the mountains and hills shall break forth before you with joy, and all the trees of the field shall clap their branches. And instead of the brier shall come up the cypress, and instead of dust shall come up the myrtle; and the Lord shall be for a Name, and for an everlasting sign, and shall not fail, saith the Lord, the Holy One of Israel.  
+And in that day thou shalt say: Sing unto the Lord, call upon His Name, declare His glorious deeds among the nations; remember that His Name is exalted, O My people! Give ear unto Me, and ye shall eat good things, and your soul shall delight itself in good things. Incline your ears, and follow My ways: give ear unto Me, and your soul shall live in good things; and I will make an everlasting covenant with you; and call upon Him while He is near you. Let the ungodly forsake his ways, and the unrighteous man his counsels, and let him return unto the Lord, and he shall find mercy: for He will abundantly pardon your sins. For My counsels are not as your counsels, neither are your ways My ways, says the Lord. But as the heaven is distant from the earth, so is My way distant from your ways, and your thoughts from My thoughts. For as rain or snow comes down from heaven, and returns not thither, until it waters the earth, and causes it to bring forth and bud, and gives seed to the sower, and bread for food: so shall My word be, whatsoever goes forth out of My mouth; it shall not return unto Me void, until it accomplishes all whatsoever I willed, and I will prosper thy ways and My commandments. For ye shall go forth with gladness, and be taught with joy. For the mountains and hills shall break forth before you with joy, and all the trees of the field shall clap their branches. And instead of the brier shall come up the cypress, and instead of dust shall come up the myrtle; and the Lord shall be for a Name, and for an everlasting sign, and shall not fail, says the Lord, the Holy One of Israel.  
 *The Reading from Proverbs [Proverbs 9:1–11][^622]:*  
-Wisdom hath built a house for herself, and supported it with seven pillars. She hath slaughtered her beasts, she hath mingled her wine in her bowl, and prepared her table. She hath sent forth her servants, calling with a high proclamation to the bowl, saying: Whosoever is simple, let him turn aside unto me! And to those who want understanding she saith: Come, eat of my bread, and drink of the wine which I have mingled for you! Forsake foolishness, that ye may reign forever; and seek wisdom, and correct understanding in knowledge. He that reprovs evil men shall get to himself dishonor, and he that rebuks an ungodly man incurs a reproach. Rebuke not evil men, lest they hate thee; rebuke a wise man, and he will love thee. Give an opportunity to a wise man, and he will be wiser; instruct a righteous man, and he will receive more instruction. The fear of the Lord is the beginning of wisdom, and the counsel of the holy is understanding; for to understand the Law is the mark of a good mind. For in this manner thou shalt live a long time, and years of life shall be added unto thee.  
+Wisdom hath built a house for herself, and supported it with seven pillars. She hath slaughtered her beasts, she hath mingled her wine in her bowl, and prepared her table. She hath sent forth her servants, calling with a high proclamation to the bowl, saying: Whosoever is simple, let him turn aside unto me! And to those who want understanding she says: Come, eat of my bread, and drink of the wine which I have mingled for you! Forsake foolishness, that ye may reign forever; and seek wisdom, and correct understanding in knowledge. He that reprovs evil men shall get to himself dishonor, and he that rebukes an ungodly man incurs a reproach. Rebuke not evil men, lest they hate thee; rebuke a wise man, and he will love thee. Give an opportunity to a wise man, and he will be wiser; instruct a righteous man, and he will receive more instruction. The fear of the Lord is the beginning of wisdom, and the counsel of the holy is understanding; for to understand the Law is the mark of a good mind. For in this manner thou shalt live a long time, and years of life shall be added unto thee.  
 *Then let us all say: The Ektenia. "Vouchsafe, O Lord." And we complete the Evening Prayers.*  
 *At the Aposticha, Idiomelon Stichera, Tone 1:*  
 The Mid-feast of days of Pentecost hath arrived, wherein Christ, revealing in a small measure His divine power, strengthened the Paralytic by a word, raising him from his bed, and working wonders in a God-befitting manner in the created Body, granted unto such men eternal life and great mercy!  
 *Verse: Remember Thy congregation which Thou hast purchased [Ps. 73:2].*  
-Thou didst come into the Temple, O Wisdom of God, as the Feast reached its midpoint...  
-
-...as the Feast reached its midpoint, teaching and rebuking the unbelieving Jews, the Pharisees and Scribes, and crying out with boldness unto them: Let him that thirsts come unto Me and drink living water, and he shall never thirst forever: he that believs in My goodness, rivers of living water shall flow from his belly unto eternal life! O Thy goodness and Thy tenderheartedness, O Christ our God, glory to Thee!  
+Thou didst come into the Temple, O Wisdom of God, as the Feast reached its midpoint as the Feast reached its midpoint, teaching and rebuking the unbelieving Jews, the Pharisees and Scribes, and crying out with boldness unto them: Let him that thirsts come unto Me and drink living water, and he shall never thirst forever: he that believes in My goodness, rivers of living water shall flow from his belly unto eternal life! O Thy goodness and Thy tenderheartedness, O Christ our God, glory to Thee!
 *Verse: God is our King before the ages [Ps. 73:12].*  
-When the Mid-feast of the Feast was come, Jesus went up into the Temple and taught the disobedient Jews, saying: Let him that thirsts come unto Me and drink living water, and he shall never thirst forever: he that believs in Me, rivers shall flow from his belly, and he shall have the light of life!  
+When the Mid-feast of the Feast was come, Jesus went up into the Temple and taught the disobedient Jews, saying: Let him that thirsts come unto Me and drink living water, and he shall never thirst forever: he that believes in Me, rivers shall flow from his belly, and he shall have the light of life!  
 *Glory, Both now, Tone 8:*  
 When the Feast reached its midpoint, while Thou, O Savior, wast teaching, the Jews said: How knows this Man letters, having never learned? not understanding that Thou art the Wisdom that established the world: Glory to Thee!  
 *Then: "Now lettest Thou Thy servant depart." Troparion, Tone 4:*  
@@ -1835,7 +1763,7 @@ Being One of the Trinity, having become flesh, Thou wast seen without altering T
 *Sessional Hymn. Tone 8. Podoben: "Of the Wisdom and Word upon Thy breast" (Премꙋ́дрости сло́ва на пе́рси):*[^628]
 Standing in the midst of the sanctuary as the Feast was divinely halved, Thou didst cry aloud: "Let him that thirsts come unto Me and drink; for he that drinks of these My divine waters shall pour forth rivers of My commandments from his belly! And he that believes in Me, Who was sent from the Divine Father, shall be glorified with Me!" Therefore we cry unto Thee: Glory to Thee, O Christ God, for Thou hast richly poured forth the waters of Thy love for mankind upon Thy servants!
 
-Glory... both now and ever... *Theotokion. Podoben: The same:*
+Glory... both now and ever... *Theotokion. Podoben: The same (Подо́бенъ то́йже):*
 Pouring forth the water of Wisdom and Life unto the world, O Savior, Thou callest all to draw the waters of salvation; for man, having received Thy divine law, quenches within himself the coals of delusion. And so unto ages he shall never lack Thy satisfaction, O King Most High! Therefore we glorify Thy dominion, O Christ God, asking that remission of transgressions be sent down upon Thy servants.
 
 *Ode 4. Heirmos:*
@@ -2206,9 +2134,7 @@ When the Feast reached its midpoint, before Thy death and glorious Resurrection,
 *Tone 3. Ode 1. Heirmos: "To Him Who of old..." (Присни́внїи го́рѣ):*
 
 *Troparion:*
-By Thine ineffable union...
-
-likening Thyself unto men, O only supremely Blessed One; having endured the Cross in the flesh, and being counted among the dead, Thou didst rise on the third day, the Life of all![^640]
+By Thine ineffable union likening Thyself unto men, O only supremely Blessed One; having endured the Cross in the flesh, and being counted among the dead, Thou didst rise on the third day, the Life of all![^640]
 
 *Troparion:*
 O Jesus our God, being the Water of Life, journeying Thou didst labor in the flesh unto the Well; and giving Thyself unto the Samaritan woman, Thou didst mystically pour forth the water of Thy wisdom!
@@ -2444,9 +2370,7 @@ Hades receives Thee, the Prince and Savior of the world, seeing Thee as a man; b
 Not leaving the Father's bosom, Thou didst take flesh from the Virgin for our sake, and willingly didst submit unto death; and being placed in the Tomb, Thou didst rise on the third day, O Word of God: therefore we sing praise unto Thee, the only Giver of life!
 
 *Theotokion:*
-Thou didst bear...
-
-Thou didst bear the Son without travail, O pure one, Who before the ages is with the Father and the Holy Spirit; seeing Him hanging upon the Cross, thou didst suffer grief, but seeing Him risen from the tomb, thou rejoicest with Him unto the ages!
+Thou didst bear Thou didst bear the Son without travail, O pure one, Who before the ages is with the Father and the Holy Spirit; seeing Him hanging upon the Cross, thou didst suffer grief, but seeing Him risen from the tomb, thou rejoicest with Him unto the ages!
 
 *Ode 9. Heirmos: "In the shadow of the law..." (Въ зако́ннѣй сѣ́ни):*
 The luminaries, seeing Thee, O Christ, hanging in the flesh upon the Cross, hid their light, and the thief beholding it confesses God; the whole earth is shaken, and the rent veil cries aloud: Glory to Thy longsuffering, O Master!
@@ -2509,7 +2433,7 @@ Unto the Well Thou didst come, O Fountain of wonders, in the sixth hour, to catc
 *Tone 2:*
 When the Lord came unto the well, the Samaritan woman besought the tender-hearted One: "Give me the water of faith, and I shall receive the waters of the font, joy, and deliverance: O Giver of life, Lord, glory to Thee!"
 
-*[Woodcut: Christ and the Samaritan Woman at Jacob's Well near Sychar, with the Apostles approaching on the right. Inscriptions: "Sunday of the Samaritan Woman" (Нл҃ѧ . Ѡ самарѧныни), "Jesus Christ" (І҆с҃ Хс҃), "The Samaritan Woman" (Самарѧныни), "Jacob's Well" (Студенецъ Іѧковль), "Apostles" (Апⷵли).]*[^658]
+*(*Woodcut: Christ and the Samaritan Woman at Jacob's Well near Sychar, with the Apostles approaching on the right. Inscriptions: "Sunday of the Samaritan Woman" (Нл҃ѧ . Ѡ самарѧныни), "Jesus Christ" (І҆с҃ Хс҃), "The Samaritan Woman" (Самарѧныни), "Jacob's Well" (Студенецъ Іѧковль), "Apostles" (Апⷵли).*)*[^658]
 
 *Sticheron. Tone 3:*
 The co-unoriginate and co-everlasting Son and Word of the Father came unto the Well, the Fountain of healings; and a woman of Samaria came to draw water, seeing whom the Savior said: "Give Me water to drink, and go, call thy husband!" But she, speaking as unto a man and not unto God, striving to conceal it, said: "I have no husband." And the Teacher said unto her: "Thou hast spoken truly: 'I have no husband': for thou hast had five husbands, and he whom thou now hast is not thy husband." And she, astonished at His voice, running into the city, cried unto the crowds, saying: "Come and see Christ, Who grants great mercy unto the world!"
@@ -2535,9 +2459,7 @@ Hung upon the Tree, O only Mighty One, Thou didst shake all creation; and placed
 
 O Christ, the lawless people, having delivered Thee unto Pilate, condemned Thee in the flesh, showing themselves senseless toward their Benefactor; but willingly having endured burial, Thou didst rise on the third day of Thine own power as God, granting unending life and great mercy unto us!
 
-*Both now and ever...*
-
-With tears the women, having reached the Tomb, sought Thee; and not finding Thee, weeping with lamentation they cried aloud, saying: "Woe unto us, O Savior, King of all! How hast Thou been stolen away? What place holds Thy life-bearing body?" But the Angel answered them, saying: "Weep not, but go, proclaim that the Lord is risen, granting joy, for He is tender-hearted!"
+*Both now and ever* With tears the women, having reached the Tomb, sought Thee; and not finding Thee, weeping with lamentation they cried aloud, saying: "Woe unto us, O Savior, King of all! How hast Thou been stolen away? What place holds Thy life-bearing body?" But the Angel answered them, saying: "Weep not, but go, proclaim that the Lord is risen, granting joy, for He is tender-hearted!"
 
 *Glory... Tone 8:*
 When Thou didst appear in the flesh, O Christ God, in Thine ineffable dispensation, the Samaritan woman, hearing the word of Thee the Lover of mankind, left her water-pot at the Well and ran, saying unto them that were in the city: "Come, see the Knower of hearts! Is not this indeed the expected Christ, Who has great mercy?"
@@ -2574,9 +2496,7 @@ The mystery hidden from the ages and unknown unto the angels was made manifest u
 Gabriel, having descended from the heights of heaven and approached the stone where the Rock of life was, clothed in white, cried aloud unto the weeping women: "Cease from the cry of lamentation, ye that now have that which is full of gracious joy! For He Whom ye seek weeping, take courage: having received joy, bow down before the Risen One: take courage, therefore, and let Eve also take courage!"
 
 *Troparion:*
-By Thine own free will Thou didst endure crucifixion, O Savior...
-
-O Savior. In a new Tomb mortal men placed Thee Who didst establish the ends of the earth by Thy word: therefore the stranger was bound, death was fiercely plundered, and all they that were in hades cried aloud unto Thy life-bearing rising: "Christ is risen, He that remains the Giver of life unto the ages!"
+By Thine own free will Thou didst endure crucifixion, O Savior O Savior. In a new Tomb mortal men placed Thee Who didst establish the ends of the earth by Thy word: therefore the stranger was bound, death was fiercely plundered, and all they that were in hades cried aloud unto Thy life-bearing rising: "Christ is risen, He that remains the Giver of life unto the ages!"
 
 *Glory... both now and ever... Theotokion:*
 Joseph marveled, beholding that which was beyond nature; and he reflected in his mind upon the rain upon the fleece at Thine unseeded conception, O Mother of God: the bush unconsumed by fire, Aaron's rod that budded; and Thy betrothed and protector testified, crying aloud unto the priests: "A Virgin bears a child, and after childbearing remains again a Virgin!"
@@ -2740,14 +2660,10 @@ Let us give ear unto the awesome mysteries, as John teaches us that which took p
 *Verses:* Coming, O woman, to draw corruptible water,
 Thou drawest the Living Water that is able to wash the soul.
 
-On this same day, the Fifth Sunday after Pascha, we celebrate the Feast of the Samaritan Woman: because on this day Christ openly confesses Himself to be the Messiah, which is Christ (or the Anointed): for Messiah is in Hebrew, and in Greek it is called Christ. For this reason, it seems to me, this was ordered within the Pentecostarion period. And as on the preceding Sunday He worked wonders at the Pool, so on this Sunday at Jacob's Well Christ converses with the woman: which well Jacob himself dug and gave unto his son Joseph; for this was a choice place, where also near the adjacent Mount Samaria the Samaritans settled many cities. And Christ comes unto Sychar, where of old Jacob dwelt with Dinah his daughter and with his sons: Shechem the son of Hamor having seized her and violated her, therefore her brothers, being provoked unto fierce anger, entered suddenly into the city, killed all the men, and that same Shechem and his father Hamor: for Jacob had pitched his tent there and dug that well. But the Samaritans did not dwell on that mountain at first, but the Israelites; yet when they offended God, their kingdom was invaded first under Pekah, and secondly when the Assyrians came...
-
-...and having come, they subjected them unto tribute; and a little later, when Hoshea was king, he allied himself with the Ethiopians: which the Assyrian King having learned, he deported them unto Babylon, and ordered various heathen nations to settle in Samaria. But God sent lions upon those foreigners; and the King of Assyria, having learned this, sent a priest from Judea unto them (for some were still captive there), that they might receive God's laws and be quickly turned away from idols. Yet they received only the Five Books of Moses, dwelling as it were near Mount Samaria; and they were hated by the Hebrews, who did not allow those from captivity to return unto them, because they practiced a semblance of Judaism and yet would not fall in with them, considering them abominations. Therefore they often called Christ a Samaritan, as One Who seemed to disregard certain provisions of the Law and to have celebrated as they did. The Lord therefore comes unto Sychar, having wearied Himself from the journey, and sat down at the sixth hour of the day. And a certain woman from the city came to draw water, the Disciples having gone away to buy food. Jesus therefore asks water, and she proposes not to associate with Him: for she recognized Him both from His voice and from His clothing, which was of two colors, but He brings a spiritual aspect unto her heart, showing that which is unsparing and purifying; for the Spirit is continually likened unto water and fire. But the woman, persisting, objected that He had no such water, since He carried no vessel and the well was deep; then she also recalled the word concerning forefather Jacob, that he himself dug the well, and he and his cattle drank from it, setting forth the richness of the well from this, and that it was exceedingly useful and cool. Christ does not say that He is greater than Jacob, lest He frighten the woman, but He speaks concerning the water, setting forth its supreme excellence: "Whoever drinks of that water shall never thirst at all." The woman asks for the water, and He tells her to call her husband, as she needed the understanding of deeper words. But she denies having a husband; and He Who knows all things says: "Thou hast spoken well: for thou hast had five husbands, as the Law commands, and he whom thou now hast is the sixth, as it happened unto thee unlawfully; he is not thy husband." Some indeed have supposed the five husbands to be the Five Books of Moses, which the Samaritans accepted, and the sixth to be the words of Christ, which were not yet hers, for grace had not yet been poured out. Others say they are the five laws given by God: in Paradise, after the Expulsion, under Noah, under Abraham, and under Moses; and the sixth is the Gospel, which she did not yet possess. There are also those who say they are the five senses.[^674]
+On this same day, the Fifth Sunday after Pascha, we celebrate the Feast of the Samaritan Woman: because on this day Christ openly confesses Himself to be the Messiah, which is Christ (or the Anointed): for Messiah is in Hebrew, and in Greek it is called Christ. For this reason, it seems to me, this was ordered within the Pentecostarion period. And as on the preceding Sunday He worked wonders at the Pool, so on this Sunday at Jacob's Well Christ converses with the woman: which well Jacob himself dug and gave unto his son Joseph; for this was a choice place, where also near the adjacent Mount Samaria the Samaritans settled many cities. And Christ comes unto Sychar, where of old Jacob dwelt with Dinah his daughter and with his sons: Shechem the son of Hamor having seized her and violated her, therefore her brothers, being provoked unto fierce anger, entered suddenly into the city, killed all the men, and that same Shechem and his father Hamor: for Jacob had pitched his tent there and dug that well. But the Samaritans did not dwell on that mountain at first, but the Israelites; yet when they offended God, their kingdom was invaded first under Pekah, and secondly when the Assyrians came and having come, they subjected them unto tribute; and a little later, when Hoshea was king, he allied himself with the Ethiopians: which the Assyrian King having learned, he deported them unto Babylon, and ordered various heathen nations to settle in Samaria. But God sent lions upon those foreigners; and the King of Assyria, having learned this, sent a priest from Judea unto them (for some were still captive there), that they might receive God's laws and be quickly turned away from idols. Yet they received only the Five Books of Moses, dwelling as it were near Mount Samaria; and they were hated by the Hebrews, who did not allow those from captivity to return unto them, because they practiced a semblance of Judaism and yet would not fall in with them, considering them abominations. Therefore they often called Christ a Samaritan, as One Who seemed to disregard certain provisions of the Law and to have celebrated as they did. The Lord therefore comes unto Sychar, having wearied Himself from the journey, and sat down at the sixth hour of the day. And a certain woman from the city came to draw water, the Disciples having gone away to buy food. Jesus therefore asks water, and she proposes not to associate with Him: for she recognized Him both from His voice and from His clothing, which was of two colors, but He brings a spiritual aspect unto her heart, showing that which is unsparing and purifying; for the Spirit is continually likened unto water and fire. But the woman, persisting, objected that He had no such water, since He carried no vessel and the well was deep; then she also recalled the word concerning forefather Jacob, that he himself dug the well, and he and his cattle drank from it, setting forth the richness of the well from this, and that it was exceedingly useful and cool. Christ does not say that He is greater than Jacob, lest He frighten the woman, but He speaks concerning the water, setting forth its supreme excellence: "Whoever drinks of that water shall never thirst at all." The woman asks for the water, and He tells her to call her husband, as she needed the understanding of deeper words. But she denies having a husband; and He Who knows all things says: "Thou hast spoken well: for thou hast had five husbands, as the Law commands, and he whom thou now hast is the sixth, as it happened unto thee unlawfully; he is not thy husband." Some indeed have supposed the five husbands to be the Five Books of Moses, which the Samaritans accepted, and the sixth to be the words of Christ, which were not yet hers, for grace had not yet been poured out. Others say they are the five laws given by God: in Paradise, after the Expulsion, under Noah, under Abraham, and under Moses; and the sixth is the Gospel, which she did not yet possess. There are also those who say they are the five senses.[^674]
 
 *Fol. 200r / 200*
-The woman answers, naming Him a Prophet; then she also questions Him concerning the Mountain, where it is proper to worship: in Samaria, or in Jerusalem? For the Samaritans did not think that God was completely everywhere, but that God dwelt only where they worshipped, on Mount Gerizim, because a blessing from God was given there, or because Abraham first erected an altar unto God there; whereas the Judeans said that it was proper to worship the One God in Jerusalem, therefore they gathered there from everywhere on the feasts. But Jesus answers that salvation is not of the world; yet He said that God is immaterial, and they that are accounted worthy to worship Him shall no longer worship in sacrifices, but in Spirit and Truth, or that they shall know God not as alone, but in the Holy Spirit and the Son, for He is the Truth. The woman says again: "I hear from the Scriptures that the Messiah comes, Who is Christ." And Jesus said: "I am He," having perceived the woman's good character. For the Samaritans also knew concerning the Messiah from the Books of Moses, especially from this: "The Lord God shall raise up a Prophet unto you," and from many other passages. And when the conversation was finished, the Disciples arrive, and are exceedingly amazed at His condescension, how He was speaking with a woman; yet they besought Him to eat, both because He was wearied and because of the burning heat of the time: but He speaks unto them concerning eternal food: the salvation of mankind, and that it is proper for them to reap the prophetic labors. But when the woman reached the city and related the things concerning herself, all were stirred up without deceit, and came unto Christ, having believed that the woman would not have accused herself unless she had understood something great. And they besought Him to abide with them a little while; and they prevailed upon Him to remain two days, and while staying He worked many miracles, which through their multitude were not written in the Gospel. And this Samaritan woman was afterwards named Photina by Christ; she also was adorned with the crown of martyrdom under Nero Caesar, together with her seven sons, after many afflictions, flayings, cutting off of her breasts, breaking of her hands, thrusting of thin reeds under her nails, pouring of molten lead into her mouth, and countless other tormenting trials, being finally tied between two palm trees and torn asunder.[^675] And let it be known: that her Holy Head, that is, her skull, the Holy Emperor Justinian honorably translated unto Constantinople, and placed it as a blessing in the Great Temple of the Church called Sophia; and the Stone upon which Christ sat when He conversed with the Samaritan woman also remains unto this day before the Parvis from the East, as one enters the Temple, on the left side in the pillar...
-
-...healing weekly, especially them that are afflicted with fevers who touch it, and them that are sick with the ague; and it cleanses away fires and sorceries that occur. By the prayers of Thy martyr Photina, O Christ God, have mercy on us, now and ever, and unto ages of ages. Amen.
+The woman answers, naming Him a Prophet; then she also questions Him concerning the Mountain, where it is proper to worship: in Samaria, or in Jerusalem? For the Samaritans did not think that God was completely everywhere, but that God dwelt only where they worshipped, on Mount Gerizim, because a blessing from God was given there, or because Abraham first erected an altar unto God there; whereas the Judeans said that it was proper to worship the One God in Jerusalem, therefore they gathered there from everywhere on the feasts. But Jesus answers that salvation is not of the world; yet He said that God is immaterial, and they that are accounted worthy to worship Him shall no longer worship in sacrifices, but in Spirit and Truth, or that they shall know God not as alone, but in the Holy Spirit and the Son, for He is the Truth. The woman says again: "I hear from the Scriptures that the Messiah comes, Who is Christ." And Jesus said: "I am He," having perceived the woman's good character. For the Samaritans also knew concerning the Messiah from the Books of Moses, especially from this: "The Lord God shall raise up a Prophet unto you," and from many other passages. And when the conversation was finished, the Disciples arrive, and are exceedingly amazed at His condescension, how He was speaking with a woman; yet they besought Him to eat, both because He was wearied and because of the burning heat of the time: but He speaks unto them concerning eternal food: the salvation of mankind, and that it is proper for them to reap the prophetic labors. But when the woman reached the city and related the things concerning herself, all were stirred up without deceit, and came unto Christ, having believed that the woman would not have accused herself unless she had understood something great. And they besought Him to abide with them a little while; and they prevailed upon Him to remain two days, and while staying He worked many miracles, which through their multitude were not written in the Gospel. And this Samaritan woman was afterwards named Photina by Christ; she also was adorned with the crown of martyrdom under Nero Caesar, together with her seven sons, after many afflictions, flayings, cutting off of her breasts, breaking of her hands, thrusting of thin reeds under her nails, pouring of molten lead into her mouth, and countless other tormenting trials, being finally tied between two palm trees and torn asunder.[^675] And let it be known: that her Holy Head, that is, her skull, the Holy Emperor Justinian honorably translated unto Constantinople, and placed it as a blessing in the Great Temple of the Church called Sophia; and the Stone upon which Christ sat when He conversed with the Samaritan woman also remains unto this day before the Parvis from the East, as one enters the Temple, on the left side in the pillar healing weekly, especially them that are afflicted with fevers who touch it, and them that are sick with the ague; and it cleanses away fires and sorceries that occur. By the prayers of Thy martyr Photina, O Christ God, have mercy on us, now and ever, and unto ages of ages. Amen.
 
 *Ode 7. Heirmos:* Deliver us not up utterly for Thy name's sake, neither break Thou Thy covenant, and take not Thy mercy away from us, O Lord God of our fathers, Who art praised above all unto the ages!
 
@@ -2987,9 +2903,7 @@ When Thou didst come into the Sanctuary, O Christ God, as the Feast reached its 
 *At the Aposticha, Stichera, Tone 4:*
 Thou didst loose the condemnation of Eve's disobedience, O Savior, being willingly nailed unto the Tree of the Cross; and descending into hades, O Mighty One, Thou didst tear asunder the bonds of death as God: therefore we bow down before Thy resurrection from the dead, crying aloud in joy: O Almighty Lord, glory to Thee! *Verse: Unto Thee have I lifted up mine eyes... [LXX 122:1].*
 
-Who that is tempest-tossed and flees unto this haven is not saved? Or who that is sick and falls down before this dispensary does not receive healing...
-
-...healing? O Creator of all things and Physician of the ailing, O Lord, before I perish utterly unto the end, save me!
+Who that is tempest-tossed and flees unto this haven is not saved? Or who that is sick and falls down before this dispensary does not receive healing O Creator of all things and Physician of the ailing, O Lord, before I perish utterly unto the end, save me!
 
 *Verse: Have mercy on us, O Lord, have mercy on us... [LXX 122:3].*
 
@@ -3071,9 +2985,7 @@ Having shattered the bars and bonds of death, O Christ, Thou didst rise with glo
 *Both now and ever... Theotokion:*
 By the beams of thy light, O Mother of God, dispel the mist of my ignorance, that with voices of faith I may unceasingly sing of thy marvelous wonders!
 
-*On this Tuesday evening, the entire service of the Feast of Mid-Pentecost: see as...*
-
-*...as written for the Feast (see fol. 273)[^690], without the Paroemias and the Entrance. Likewise on Wednesday at Matins: the entire order of the Feast without change. And at the Beatitudes, Ode 4 of both Canons.*
+*On this Tuesday evening, the entire service of the Feast of Mid-Pentecost: see as* written for the Feast (see fol. 273)[^690], without the Paroemias and the Entrance. Likewise on Wednesday at Matins: the entire order of the Feast without change. And at the Beatitudes, Ode 4 of both Canons.*
 
 *And the Feast of Mid-Pentecost is concluded (Apodosis). The service of the saint of the day is sung at Compline.*
 
@@ -3135,9 +3047,7 @@ The co-unoriginate and co-everlasting Son... (see fol. 294)[^692].
 *At the Aposticha, Stichera, Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́бля):*
 Being the Wellspring of grace and the Abyss of life, O only Merciful One, how didst Thou cry aloud, conversing with the Samaritan woman: "Give Me water to drink, that thou mayest receive forgiveness!" extolling Thy great tender-heartedness, whereby having saved all such a race, through Thy great goodness! *Verse: Draw Thy bow, and proceed prosperously, and reign for the sake of truth... [LXX 44:5].*
 
-"Come and see a Man Who told me today...
-
-...sitting at the well, all things that I have done! He is truly a Prophet, and great, God Who knows both hidden and revealed things!" Unto Him let us cry aloud: Grant unto those who thirst the water of life, which Thou hast, that they may not thirst again unto the ages, O Lover of mankind!
+"Come and see a Man Who told me today sitting at the well, all things that I have done! He is truly a Prophet, and great, God Who knows both hidden and revealed things!" Unto Him let us cry aloud: Grant unto those who thirst the water of life, which Thou hast, that they may not thirst again unto the ages, O Lover of mankind!
 
 *Verse: Thou hast loved righteousness, and hated iniquity... [LXX 44:8].*
 
@@ -3182,9 +3092,7 @@ Thou didst behold Christ risen, O Mother of God, with the Myrrh-bearing women, a
 ## ON THE SAME THURSDAY EVENING
 
 *At "Lord, I have cried," Stichera of the Samaritan Woman, 3, Tone 4, Podoben: "Being called from on high" (Зва́нный свы́ше):*
-"Behold Him of Whom Moses wrote beforehand in the Law that He should come, Jesus the Messiah, Who has appeared upon the earth for the sake of tender-heartedness and conversed with me as man at the well! Truly this is Christ Who comes unto me...
-
-...Who comes unto me, who was in Sychar," the Samaritan woman persuades them, saying:
+"Behold Him of Whom Moses wrote beforehand in the Law that He should come, Jesus the Messiah, Who has appeared upon the earth for the sake of tender-heartedness and conversed with me as man at the well! Truly this is Christ Who comes unto me Who comes unto me, who was in Sychar," the Samaritan woman persuades them, saying:
 
 From the sweet mouth of the woman pouring forth rivers of sweet water, those in the city drinking, hastened to run quickly unto the well pouring forth an abundance of water, and to see the ever-flowing Wellspring that revives languishing souls!
 
@@ -3221,9 +3129,7 @@ Coming according to custom to draw water from the earthly and corruptible founta
 *We sing the Canon of the Samaritan Woman, to 8; and in the Menaion, to 4.*
 
 *At the Praises, Stichera, 4, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ е҆сѝ зна́меніе):*
-Thou hast given a sign unto those who fear Thee, O Lord: Thy precious Cross, whereby Thou hast conquered the principalities of darkness and powers...
-
-...and powers, and hast lifted us up unto the primal beatitude: therefore we glorify Thy dispensation loving toward mankind, O Almighty Jesus, Savior of our souls!
+Thou hast given a sign unto those who fear Thee, O Lord: Thy precious Cross, whereby Thou hast conquered the principalities of darkness and powers and powers, and hast lifted us up unto the primal beatitude: therefore we glorify Thy dispensation loving toward mankind, O Almighty Jesus, Savior of our souls!
 
 By Thy Cross, O Christ Savior, guide us unto Thy truth, and deliver us from the snares of the enemy; O Thou Who didst rise from the dead, raise us up who have fallen into sin, stretching forth Thy hand, O Lord Lover of mankind, through the prayers of Thy Saints!
 
@@ -3254,9 +3160,7 @@ Clearly the Angel appears as a woman, sitting inside the tomb, and cried aloud: 
 
 *Theotokion:* O all-immaculate one, who didst bear the pre-eternal Holy One resting in the saints: seeing Him risen from the tomb as a bridegroom from his bridal chamber, thou didst magnify His descent with songs!
 
-*Ode 8. Heirmos: "The pious youths in the furnace..."*
-
-*Troparion:* For our sake, O Lover of mankind, Thou didst stretch forth Thy palms upon the Tree, being nailed, and pierced in Thy most pure side, healing the nature darkened in Adam: therefore praise His great tender-heartedness unto all ages!
+*Ode 8. Heirmos: "The pious youths in the furnace" Troparion:* For our sake, O Lover of mankind, Thou didst stretch forth Thy palms upon the Tree, being nailed, and pierced in Thy most pure side, healing the nature darkened in Adam: therefore praise His great tender-heartedness unto all ages!
 
 When hades below saw Thee plundering its kingdoms, which of old it swallowed up: being deadened with fear, it surrendered all the dead, who cried aloud unto the Word: "Praise the Lord, ye works, and exalt Him supreme unto the ages!"
 
@@ -3286,9 +3190,7 @@ Thou didst come unto the well, O Wellspring of wonders, at the sixth hour, to ca
 When the Lord came unto the well, the Samaritan woman besought the Merciful One: "Grant me the water of faith, and I shall receive the joy and deliverance of the font of water!" O Giver of life, O Lord, glory to Thee!
 
 *Tone 3:*
-The co-unoriginate and co-everlasting Son and Word of the Father came unto the well, the Wellspring of healings; and a woman from Samaria came to draw water, seeing whom the Savior said: "Give Me water to drink, and go, call thy husband!...
-
-..."call thy husband!" But she, speaking as unto a man and not unto God, striving to conceal herself, said: "I have no husband." And the Teacher said unto her: "Truly hast thou spoken, 'I have no husband': for thou hadst five, and now he whom thou hast is not thy husband." But she, marveling at the word and running into the city, cried aloud unto the multitude, saying: "Come, see Christ, Who grants great mercy unto the world!"
+The co-unoriginate and co-everlasting Son and Word of the Father came unto the well, the Wellspring of healings; and a woman from Samaria came to draw water, seeing whom the Savior said: "Give Me water to drink, and go, call thy husband! "call thy husband!" But she, speaking as unto a man and not unto God, striving to conceal herself, said: "I have no husband." And the Teacher said unto her: "Truly hast thou spoken, 'I have no husband': for thou hadst five, and now he whom thou hast is not thy husband." But she, marveling at the word and running into the city, cried aloud unto the multitude, saying: "Come, see Christ, Who grants great mercy unto the world!"
 
 *Glory... Tone 6:*
 At Jacob's well Jesus found the Samaritan woman, and asks water of her, Who covers the heaven with clouds. O wonder! He Who is unseen by the Cherubim converses with a strange woman, asking water, Who suspended the earth upon the waters; seeking water, Who pours forth springs and lakes of water; desiring to draw her who was of old snared by the adversary enemy, and to give her to drink of the living water, who was sorely burned in disorders: as the Tender-hearted One and Lover of mankind!
@@ -3442,9 +3344,7 @@ Thou didst grant resurrection unto the human race, led as a sheep unto the slaug
 A great wonder! The Maker of things unseen, having suffered in the flesh through love of mankind, is risen immortal: come, families of the nations, let us bow down before Him! For by His tender mercy being delivered from deception, we have learned to hymn one God in three Hypostases!
 
 *Other Stichera by Anatolios. Verse 7: Let Thine ears be attentive to the voice of my supplication [LXX 129:2].*
-An evening adoration do we bring unto Thee, the never-setting Light, Who at the end of the ages, as in a mirror, didst shine forth in the flesh upon the world, and didst descend even unto hades, and shatter the darkness there...
-
-...and having shown Thy resurrection unto the nations, O Giver of light, O Lord, glory to Thee!
+An evening adoration do we bring unto Thee, the never-setting Light, Who at the end of the ages, as in a mirror, didst shine forth in the flesh upon the world, and didst descend even unto hades, and shatter the darkness there and having shown Thy resurrection unto the nations, O Giver of light, O Lord, glory to Thee!
 
 *Verse 6: If Thou, Lord, shouldest mark iniquities, O Lord, who shall stand? For with Thee there is forgiveness [LXX 129:3-4].*
 We glorify Christ, the Author of our salvation; for when He was risen from the dead, the world was saved from deception: the choir of Angels rejoices, demonic deception flees, fallen Adam arises, and the devil is abolished!
@@ -3466,9 +3366,7 @@ The man born blind reflected in his mind: "Was I born without eyes because of th
 Passing by from the temple, Jesus found a man blind from his birth, and taking pity, He put clay upon his eyes, and said unto him: "Go, wash in Siloam!" And having washed, he received his sight, sending up glory unto God. And his neighbors said unto him: "Who opened thy pupils, which none of those who see was able to heal?" And crying out, he said: "A man called Jesus, He said unto me: Wash in Siloam! and I received my sight. Truly He is the One of Whom Moses spoke in the Law, Christ the Messiah: He is the Savior of our souls!"
 
 *Glory... Tone 5:*
-O Lord, passing by of old upon the way, Thou didst find a man blind from his birth; and the disciples, being astonished, questioned Thee, saying: "Rabbi, who sinned, this man or his parents, that he was born blind?" But Thou, my Savior, didst cry out unto them: "Neither has this man sinned, nor his parents, but that the works of God should be made manifest in him. I must work the works of Him Who sent Me...
-
-...which no man can work." And having said this, spitting on the ground and making clay, Thou didst anoint his eyes, saying unto him: "Go, wash in the pool of Siloam!" And having washed, he was made whole and cried aloud unto Thee: "I believe, O Lord!" and bowed down before Thee. Therefore we also cry aloud: Have mercy on us!
+O Lord, passing by of old upon the way, Thou didst find a man blind from his birth; and the disciples, being astonished, questioned Thee, saying: "Rabbi, who sinned, this man or his parents, that he was born blind?" But Thou, my Savior, didst cry out unto them: "Neither has this man sinned, nor his parents, but that the works of God should be made manifest in him. I must work the works of Him Who sent Me which no man can work." And having said this, spitting on the ground and making clay, Thou didst anoint his eyes, saying unto him: "Go, wash in the pool of Siloam!" And having washed, he was made whole and cried aloud unto Thee: "I believe, O Lord!" and bowed down before Thee. Therefore we also cry aloud: Have mercy on us!
 
 *Both now and ever... Theotokion: "In the Red Sea..." (see fol. 193)[^703].*
 
@@ -3499,7 +3397,7 @@ O unwedded Virgin, who didst ineffably conceive God in the flesh, Mother of God 
 
 *Then, "Now lettest Thou Thy servant depart..." Trisagion. At the Blessing of the Loaves, Troparion: "O Virgin Mother of God, rejoice..." thrice. And reading in the Acts of the Holy Apostles. And for the saint of the day, the service is sung at Small Compline.*
 
-*If the Paschalion Key 30 ([Л]) occurs, then see the commemoration of the Holy Apostle John the Theologian on this present Sunday. And it is sung together as directed on the Sunday of the Holy Myrrh-bearers. Look on folios 234 and 235.[^705]*
+*If the Paschalion Key 30 ((*Л*)) occurs, then see the commemoration of the Holy Apostle John the Theologian on this present Sunday. And it is sung together as directed on the Sunday of the Holy Myrrh-bearers. Look on folios 234 and 235.[^705]*
 
 *If there be no Vigil, then the Canon at the Midnight Office of the Life-creating Trinity, whose Acrostic, that is, the margin-heading, is: "The Fifth Canon unto the Thrice-radiant Light." Ode 1, Tone 5. Heirmos: "The horse and the rider:" (see in the Octoechos)[^706].*
 
@@ -3592,9 +3490,7 @@ In a new tomb noble Joseph laid Thee, O Merciful One; and having risen from the 
 "Why seek ye the Lord as dead? He is risen as He said!" the Angel, shining with the aspect of divine lightning, said unto the women.
 
 *Troparion:*
-Having healed the blind man who once came unto Thee, blind from his birth...
-
-...Thou didst heal him, O Merciful One, who glorifies Thy dispensation and wonders!
+Having healed the blind man who once came unto Thee, blind from his birth Thou didst heal him, O Merciful One, who glorifies Thy dispensation and wonders!
 
 *Glory...*
 We bow down before God the Father, pre-unoriginate, and the Son, and the Divine Spirit, the Creative Nature, the Tri-hypostatic One God of all!
@@ -3716,9 +3612,7 @@ With clay Thou didst anoint the eyes of the blind man, and didst command him to 
 The Father unoriginate, and the Son co-unoriginate, and the Holy Spirit do we hymn: Holy, Holy, Holy art Thou, O God, King of all!
 
 *Both now and ever... Theotokion:*
-After childbirth thou wast revealed a virgin, O pure one; for thou didst bear God...
-
-...Who newly intersected nature, O all-pure one, by His own power; entreat Him to save us all!
+After childbirth thou wast revealed a virgin, O pure one; for thou didst bear God Who newly intersected nature, O all-pure one, by His own power; entreat Him to save us all!
 
 *Katavasia:*
 "He Who saved the children that chanted praise in the fiery furnace, blessed is the God of our fathers!"
@@ -3809,9 +3703,7 @@ The Myrrh-bearing women, having reached the tomb very early, sought to anoint Th
 For the tender mercy of Thy loving-kindness, O Christ God, having become incarnate, Thou didst make him who was deprived of light from the womb worthy of divine illumination through the tender mercy of Thine ineffable compassion: with Thy creative fingers Thou didst anoint with clay from spittle. O Son, Giver of light, illuminate also our spiritual senses, as the only begrudgingless Giver!
 
 *Glory... Tone 8:*
-Who can utter Thy mighty acts, O Christ? Or who can number the multitude of Thy wonders? For even as Thou wast seen as two-fold upon earth through goodness, two-fold also didst Thou grant healings...
-
-...unto the suffering: for not only didst Thou open the bodily eyes of the man blind from the womb, but the spiritual ones also; therefore he glorifies Thee Who confessest Thee as God and grantest great mercy unto all!
+Who can utter Thy mighty acts, O Christ? Or who can number the multitude of Thy wonders? For even as Thou wast seen as two-fold upon earth through goodness, two-fold also didst Thou grant healings unto the suffering: for not only didst Thou open the bodily eyes of the man blind from the womb, but the spiritual ones also; therefore he glorifies Thee Who confessest Thee as God and grantest great mercy unto all!
 
 *And "Most blessed art thou..." Then the Great Doxology. Resurrection Troparion only. And the rest as usual. And dismissal. And the Departure.*
 
@@ -3845,9 +3737,7 @@ The man born blind said within his thoughts: "Was I born without eyes because of
 *Sticheron 1:*
 By Thy precious Cross, O Christ, Thou hast put the devil to shame; and by Thy Resurrection Thou hast blunted the sting of sin and saved us from the gates of death: we glorify Thee, the Only-begotten!
 
-*Verse: Unto Thee have I lifted up mine eyes [LXX 122:1]...*
-
-*Sticheron 2:*
+*Verse: Unto Thee have I lifted up mine eyes [LXX 122:1] Sticheron 2:*
 O Lord, sinning unceasingly and being accounted worthy of Thy love for mankind without understanding, do Thou overcome mine obscurity, O only Good One, and have mercy on me!
 
 *Verse: Have mercy on us, O Lord, have mercy on us [LXX 122:3]...*
@@ -4017,7 +3907,7 @@ Having received his sight, the blind man is seen through spittle, the human fors
 
 *We sing the Canon of the Feast with the Heirmos on 8, and of the Menaion on 4. Kontakion and Exapostilarion of the Feast.*
 
-*(Rubric note: If Key of Paschalion 8 [И] occurs, then here also the Forefeast of the Ascension is read. Behold.)*[^722]
+*(Rubric note: If Key of Paschalion 8 (*И*) occurs, then here also the Forefeast of the Ascension is read. Behold.)*[^722]
 
 *At the Praises, Stichera on 4. Tone 5:*
 
@@ -4112,9 +4002,7 @@ Thinking his whole life to be night, the blind man cried aloud unto Thee: "O Lor
 *Tone 5:*
 
 *Sticheron 4:*
-O Lord, passing by of old along the way, Thou didst find a man blind from birth; and the disciples being astonished asked Thee, saying: "Master, who did sin, this man or his parents, that he was born blind?" But Thou, my Savior, didst cry out unto them: "Neither hath this man sinned, nor his parents, but that the works...
-
-...of God should be made manifest in him. I must work the works of Him that sent Me, which no man can work." And having said this, spitting upon the ground and making clay, He anointed his eyes, saying unto him: "Go, wash in the pool of Siloam!" And having washed, he was made whole, and cried aloud unto Thee: "I believe, Lord!" and he worshipped Thee. Therefore we also cry aloud: Have mercy on us!
+O Lord, passing by of old along the way, Thou didst find a man blind from birth; and the disciples being astonished asked Thee, saying: "Master, who did sin, this man or his parents, that he was born blind?" But Thou, my Savior, didst cry out unto them: "Neither hath this man sinned, nor his parents, but that the works of God should be made manifest in him. I must work the works of Him that sent Me, which no man can work." And having said this, spitting upon the ground and making clay, He anointed his eyes, saying unto him: "Go, wash in the pool of Siloam!" And having washed, he was made whole, and cried aloud unto Thee: "I believe, Lord!" and he worshipped Thee. Therefore we also cry aloud: Have mercy on us!
 
 *Tone 8:*
 
@@ -4135,9 +4023,9 @@ Thee, the incarnate Savior Christ, Who yet wast not separated from the heavens, 
 
 *"Now lettest Thou Thy servant depart..." Trisagion. Resurrection Troparion, Tone 5: "Unto the Word co-unoriginate with the Father and the Spirit..." And its Theotokion: "Rejoice, door of the Lord..." Litany and Dismissal. For the services of the saints whose service occurs on Wednesday, it is sung here at Compline.*
 
-*Rubric for the Concurrence of Key 8 ([И]) of the Paschalion:*
+*Rubric for the Concurrence of Key 8 ((*И*)) of the Paschalion:*
 
-*Be it known: that if Key 8 ([И]) of the Paschalion should occur, then on May 8 the Feast of the Holy Apostle John the Theologian falls on the Wednesday before the Ascension.[^727]*
+*Be it known: that if Key 8 ((*И*)) of the Paschalion should occur, then on May 8 the Feast of the Holy Apostle John the Theologian falls on the Wednesday before the Ascension.[^727]*
 
 *On Tuesday Evening, at Small Vespers: Stichera of the Apostle on 4. Glory... of the Apostle. Both now and ever... the same. At the Aposticha: Stichera of the Apostle with their own verses. Glory... of the Apostle. Both now and ever... the same. Troparion of the Apostle. Glory... both now and ever... Theotokion according to the Tone of the Troparion. Small Litany and Dismissal.*
 
@@ -4145,9 +4033,7 @@ Thee, the incarnate Savior Christ, Who yet wast not separated from the heavens, 
 
 *At the Aposticha, Stichera of the Apostle with their verses. After these, the verses: "Let God arise..." and the rest; the Stichera of Pascha with their verses. Glory... of the Apostle. Both now and ever... of Pascha: "This is the day of Resurrection..." Then: "Christ is risen..." thrice. "Now lettest Thou Thy servant depart..." Trisagion; and after the Our Father: At the Troparia: Troparion of the Apostle, twice; and "O Virgin Mother of God," once. Reading of the Apostle, written by Prochorus his disciple.*
 
-*At Matins, at "God is the Lord," Troparion: "Christ is risen..." twice; Tone 5: "Unto the Word co-unoriginate..." Glory... of the Apostle. Both now and ever... Theotokion 4 of that tone. After the 1st Kathisma: Sessional Hymn of the Resurrection, and reading of the Feast. After the 2nd Kathisma: Sessional Hymn of the Blind Man, and reading. Then the Polyeleos, and the Sessional Hymns of the Apostle, all once. Glory... both now and ever... Theotokion 4 of that tone, and reading of the Apostle. Graduals: 1st Antiphon of Tone 4. Prokeimenon: "Let every breath praise the Lord..." and Gospel of the Apostle. "Having beheld the Resurrection of Christ..." thrice. Psalm 50. Sticheron of the Apostle. The Canon of Pascha with the Theotokia and Heirmoi on 6, and of the Apostle on 4, and of the Blind Man on 4. We sing at each Ode: Troparia of the Blind Man, 2; Glory... Trinity hymn; Both now and ever... Theotokion. Katavasia, Heirmos: "Unto God the Savior..." both choirs together. The Forefeast [of the Ascension] in the Canon is here omitted, and to sing it at Matins the rubric directs ahead to fol. 333[^728]. After Ode 3: Kontakion and Ikos of the Apostle. Then the Hypakoe of Pascha: "Anticipating the morning..." Glory... Sticheron of the Apostle. Both now and ever... of the Blind Man; and reading of the Apostle. After Ode 6: Kontakion and Ikos of Pascha. At Ode 9: The Magnifications are not sung. Exapostilarion: "Having fallen asleep in the flesh..." Glory... of the Apostle. Both now and ever... of the Blind Man. At the Praises, Stichera of the Apostle on 4. Then the verse: "Let God arise..." and the Stichera of Pascha with their verses. Glory...*
-
-*Glory... of the Apostle. Both now and ever... Tone 5: "This is the day of Resurrection..." "Christ is risen..." thrice; Great Doxology; Resurrection Troparion. Glory... of the Apostle. Both now and ever... Theotokion: the first of the Second Tone. Litany, Catechesis, and Dismissal. Procession into the Narthex, and the First Hour there. At the Hours: Resurrection Troparion. Glory... of the Apostle. Both now and ever... Theotokion of the Hours. After the Our Father: Resurrection Kontakion of Pascha, and of the Apostle, alternating.*
+*At Matins, at "God is the Lord," Troparion: "Christ is risen..." twice; Tone 5: "Unto the Word co-unoriginate..." Glory... of the Apostle. Both now and ever... Theotokion 4 of that tone. After the 1st Kathisma: Sessional Hymn of the Resurrection, and reading of the Feast. After the 2nd Kathisma: Sessional Hymn of the Blind Man, and reading. Then the Polyeleos, and the Sessional Hymns of the Apostle, all once. Glory... both now and ever... Theotokion 4 of that tone, and reading of the Apostle. Graduals: 1st Antiphon of Tone 4. Prokeimenon: "Let every breath praise the Lord..." and Gospel of the Apostle. "Having beheld the Resurrection of Christ..." thrice. Psalm 50. Sticheron of the Apostle. The Canon of Pascha with the Theotokia and Heirmoi on 6, and of the Apostle on 4, and of the Blind Man on 4. We sing at each Ode: Troparia of the Blind Man, 2; Glory... Trinity hymn; Both now and ever... Theotokion. Katavasia, Heirmos: "Unto God the Savior..." both choirs together. The Forefeast [of the Ascension] in the Canon is here omitted, and to sing it at Matins the rubric directs ahead to fol. 333[^728]. After Ode 3: Kontakion and Ikos of the Apostle. Then the Hypakoe of Pascha: "Anticipating the morning..." Glory... Sticheron of the Apostle. Both now and ever... of the Blind Man; and reading of the Apostle. After Ode 6: Kontakion and Ikos of Pascha. At Ode 9: The Magnifications are not sung. Exapostilarion: "Having fallen asleep in the flesh..." Glory... of the Apostle. Both now and ever... of the Blind Man. At the Praises, Stichera of the Apostle on 4. Then the verse: "Let God arise..." and the Stichera of Pascha with their verses. Glory* of the Apostle. Both now and ever... Tone 5: "This is the day of Resurrection..." "Christ is risen..." thrice; Great Doxology; Resurrection Troparion. Glory... of the Apostle. Both now and ever... Theotokion: the first of the Second Tone. Litany, Catechesis, and Dismissal. Procession into the Narthex, and the First Hour there. At the Hours: Resurrection Troparion. Glory... of the Apostle. Both now and ever... Theotokion of the Hours. After the Our Father: Resurrection Kontakion of Pascha, and of the Apostle, alternating.*
 
 *At the Liturgy: Beatitudes: Ode 3 of Pascha on 4, and of the Apostle, Ode 6 on 4. After the Entrance, Troparion of the Resurrection, and of the Apostle. Glory... Kontakion of Pascha. Both now and ever... Kontakion of Pascha. Prokeimenon and Alleluia of Pascha, and of the Apostle. Epistle and Gospel of the day and of the Apostle. Communion Hymn: "Receive the Body of Christ..." or "Praise the Lord..."; another: "All the earth..."*
 
@@ -4201,9 +4087,7 @@ Seeing Thy garments dyed in blood at Thine ascension, O Christ, King of all, the
 *Both now and ever...*
 Let us clap our hands: the Lord, having risen from the dead, ascended unto the heavens, the Angels being subject unto Him, as unto our Creator and God!
 
-*Katavasia: "I have heard the report of the power of the Cross..."*
-
-*On Wednesday of the 6th Week after Pascha:*
+*Katavasia: "I have heard the report of the power of the Cross" On Wednesday of the 6th Week after Pascha:*
 
 *Ode 5. Heirmos:*
 "O Thou Who clothest Thyself with light as with a garment, rising early unto Thee I cry: Enlighten my soul darkened by passions, O Christ, as the only Compassionate One!"
@@ -4300,7 +4184,7 @@ Thou wast truly the light-bearing chariot of the noetic Sun, O undefiled and Pur
 
 [^527]: The woodcut icon of Thomas Sunday (Antipascha): Folio 200 (p204–p205) features a prominent woodcut depicting Christ appearing behind shut doors and inviting Thomas to thrust his hand into His side, inaugurating Part III of the Flowery Triodion.
 [^528]: Authorship inscription to John the Monk (*І҆ѡа́нна Мона́ха* / St. John of Damascus) for the Doxastikon of Thomas Sunday Vespers: "While the doors were shut, Thou camest unto the disciples, O Christ...", preserved as a distinct recensional heading in the 1642 Slozka imprint.
-[^529]: The Midnight Office Triadic Canon by Metrophanes of Smyrna (9th c.): Chanted when an All-Night Vigil cannot be celebrated; the heading preserves the Greek alphabetic acrostic in Cyrillic transliteration: `ΜΙΑΝ ΣΕ ΜΕЛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН` ("Singing, I hymn Thee, the one Tri-radiant Nature").
+[^529]: The Midnight Office Triadic Canon by Metrophanes of Smyrna (9th c.): Chanted when an All-Night Vigil cannot be celebrated; the heading preserves the Greek alphabetic acrostic in Cyrillic transliteration: `ΜΙΑΝ ΣΕ ΜΕΛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН` ("Singing, I hymn Thee, the one Tri-radiant Nature").
 [^530]: Typikon Chapter 105 (*Глава̀, р҃е*) in the 1642 Lviv Triodion: Comprehensive rubrical statute governing the concurrence of the Feast of the Holy Great-Martyr George (*Yurii*, April 23) when it coincides with the Sunday of Saint Thomas (Antipascha).
 [^531]: The Canon of Thomas Sunday, composed by St. John of Damascus (*І҆ѡа́нна Мона́ха*), Tone 1: With the poetic heirmos "Let us all sing a song of victory..." and the Paschal katavasia "The Day of Resurrection" (*Voskreseniia den*).
 [^532]: Appointed Patristic homily after Ode 3 of Matins: St. Gregory the Theologian, Oratio 44 (*In novam Dominicam* / *Ѡ҆ бновле́нїа почита́ити* / "On the New Sunday: to honor renewal is an ancient law"), celebrating the renewal of the week and creation through the Resurrection.
@@ -4389,7 +4273,7 @@ Thou wast truly the light-bearing chariot of the noetic Sun, O undefiled and Pur
 [^615]: Codicological folio cross-reference: The rubric directs the reader to the Dismissal Troparion of the Paralytic printed on folio 164 (`с҃д`), corresponding to physical leaf `p268` in this edition.
 [^616]: Codicological folio cross-reference: The rubric directs the reader to the Doxastikon of the Paralytic ('O Lord, Thou didst not heal the Paralytic in the pool') printed on folio 168 (`с҃ми`), corresponding to physical leaf `p272` in this edition.
 [^617]: Codicological folio cross-reference: The rubric directs the reader to the Doxastikon of the Paralytic ('At the Sheep Pool a man lay in disease') printed on folio 167 (`с҃з`), corresponding to physical leaf `p271` in this edition.
-[^618]: Greek Alphabetic Acrostic of the Triodion Beatitudes for Tuesday: The acrostic 'ΨАЛМΩΔΙΑ ΙΩΣΗΦ' transliterates the Greek 'Ψαλμῳδία Ἰωσήφ' (*Psalmodia Ioseph* / 'Chanting of Joseph'), identifying the hymnographic composition of St. Joseph the Hymnographer, rendered in the 1642 rubric as 'Пѣ́нїе І҆ѡ́сифово'.
+[^618]: Greek Alphabetic Acrostic of the Triodion Beatitudes for Tuesday: The acrostic 'ΨΑΛΜΩΔΙΑ ΙΩΣΗΦ' transliterates the Greek 'Ψαλμῳδία Ἰωσήφ' (*Psalmodia Ioseph* / 'Chanting of Joseph'), identifying the hymnographic composition of St. Joseph the Hymnographer, rendered in the 1642 rubric as 'Пѣ́нїе І҆ѡ́сифово'.
 [^619]: Codicological folio cross-reference: The rubric marks the opening of the feast of Mid-Pentecost on folio 175 (`с҃ое`), corresponding to physical leaf `p279` in this edition.
 [^620]: Prophetic lection for Mid-Pentecost Vespers: A composite liturgical reading from Micah 4:2–3, 6:1–5, 8, concluding with Micah 5:4, following the Septuagint text.
 [^621]: Prophetic lection for Mid-Pentecost Vespers: Isaiah 55:1–3, 6–13, following the Septuagint versification, calling all who thirst to drink from the waters of salvation.
@@ -4456,7 +4340,7 @@ Thou wast truly the light-bearing chariot of the noetic Sun, O undefiled and Pur
 [^682]: Physical leaf p292. Mid-Pentecost Praises and Aposticha.
 [^683]: The 1642 Slozka print explicitly designates Tone 6 (Гла́съ, ѕ҃) for these stichera, although the melodic model "O House of Ephratha" (Οἶκος τοῦ Ἐφραθᾶ) is traditionally Tone 2 in the standard Octoechos.
 [^684]: Greek acrostic Δόξα τῷ Θεῷ ἡμῶν ("Glory to our God") transliterated into Cyrillic as ДО́ХА ТѠ ѲЕѠ И҆МѠН in the Mid-Pentecost Beatitudes Triodion canon.
-[^685]: The 1642 Slozka print designates Tone 4 (Гла́съ, д҃) for the prosomoion model "Joy of the heavenly ranks" (Небе́сныхъ чино́въ / Τῶν οὐρανίων таγμάτων), which in standard received Octoechoi is rooted in Tone 1.
+[^685]: The 1642 Slozka print designates Tone 4 (Гла́съ, д҃) for the prosomoion model "Joy of the heavenly ranks" (Небе́сныхъ чино́въ / Τῶν οὐρανίων ταγμάτων), which in standard received Octoechoi is rooted in Tone 1.
 [^686]: Physical leaf p288. Sessional hymn of Mid-Pentecost, Tone 8: "Having drawn the water of wisdom and life, let us all draw the forgiveness of sins..."
 [^687]: Physical leaf p206 (cohort 31, leaf p310). Mid-Pentecost Praises Doxasticon, Tone 4: "When Thou didst come into the Sanctuary, O Christ God, as the Feast reached its midpoint..."
 [^688]: Physical leaf p188 (cohort 28, leaf p288). Aposticha Doxasticon of Mid-Pentecost, Tone 8: "When the feast of Pascha reached its midpoint..."
@@ -4477,7 +4361,7 @@ Thou wast truly the light-bearing chariot of the noetic Sun, O undefiled and Pur
 [^703]: Cross-reference to the Dogmatic Theotokion of Tone 5 ("In the Red Sea...") on fol. 193 (physical leaf p197).
 [^704]: Rubric indicating that when a Vigil is not celebrated, the Doxasticon appointed for the Litiya is sung instead at "Lord, I have cried" at Vespers.
 [^705]: Rubric governing the rare Paschal confluence when Key 30 [Л] occurs, requiring the service of the Holy Apostle and Evangelist John the Theologian (May 8) to be combined with the Sunday of the Blind Man, following the order specified on fols. 234-235 (physical leaves p238-p239).
-[^706]: The Greek acrostic printed in the 1642 Slozka edition transliterates the Greek: Κανὼν πέμπτος φωтὶ τῷ трιφαεῖ ("Fifth Canon unto the Thrice-radiant Light"). The Heirmos directs the reader to the Sunday Midnight Office of Tone 5 in the Octoechos.
+[^706]: The Greek acrostic printed in the 1642 Slozka edition transliterates the Greek: Κανὼν πέμπτος φωτὶ τῷ τριφαεῖ ("Fifth Canon unto the Thrice-radiant Light"). The Heirmos directs the reader to the Sunday Midnight Office of Tone 5 in the Octoechos.
 [^707]: Refers to the homiletic commentary on John 9:1-38 by St. John Chrysostom (Homilies 56, 57, and 58 on the Gospel of John).
 [^708]: John 20:11-18 (Pericope 64), the Eighth Matins Resurrection Gospel.
 [^709]: Cross-reference to the full text of the Paschal Canon on fol. 232 (physical leaf p236).
@@ -4492,10 +4376,10 @@ Thou wast truly the light-bearing chariot of the noetic Sun, O undefiled and Pur
 [^718]: John 9:1-38 (Pericope 34), appointed Gospel reading for the Sunday of the Blind Man.
 [^719]: The 1642 Slozka prints "По: Радуйся: поз" (Podoben: Raduysya postnycheskykh / "Rejoice, O container of ascetics", Tone 5).
 [^720]: Physical leaf p324 (fol. 320r).
-[^721]: The Greek acrostic printed in the 1642 edition transliterates ΔΟΞΑ ΘΕΩ (printed in Cyrillic as "ДОΞА ΘЄѠ"), glossed in Slavonic as "си ест, Слава Бгꙋ подобает" ("that is, Glory to God is due").
+[^721]: The Greek acrostic printed in the 1642 edition transliterates ΔΟΞΑ ΘΕΩ (printed in Cyrillic as "ΔΟΞΑ ΘЄѠ"), glossed in Slavonic as "си ест, Слава Бгꙋ подобает" ("that is, Glory to God is due").
 [^722]: Typikon rubric governing the concurrence of Paschal Key 8 [И], in which the Feast of St. John the Theologian (May 8) falls on Wednesday before the Ascension.
 [^723]: Physical leaf p336 (fol. 332r).
-[^724]: The Greek acrostic printed in the 1642 text is ὙΜΝΩΔΙΑ ΙΩΣΗΦ (printed as "ѴМНѠДІА ІѠСИФА"), with the Slavonic gloss "си естъ: Пѣснопѣніе Іwсифово" ("that is, The Song of Joseph"), identifying the hymnographer as St. Joseph the Hymnographer.
+[^724]: The Greek acrostic printed in the 1642 text is ὙΜΝΩΔΙΑ ΙΩΣΗΦ (printed as "ѴМНѠДІА ІѠСИФА"), with the Slavonic gloss "си естъ: Пѣснопѣніе Іѡсифово" ("that is, The Song of Joseph"), identifying the hymnographer as St. Joseph the Hymnographer.
 [^725]: Physical leaf p337 (fol. 333r).
 [^726]: Physical leaf p174 (fol. 170r).
 [^727]: Comprehensive Typikon rubric detailing the liturgical order when the Feast of the Holy Apostle and Evangelist John the Theologian (May 8) coincides with the Apodosis (Apodosis) of Pascha on Wednesday of the Sixth Week after Pascha.

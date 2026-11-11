@@ -23,13 +23,13 @@ Having shone forth as the dawn, as the day, thou didst dispel the darkness of ig
 *Theotokion:*
 Having given birth unto God the Healer, O Virgin, thou didst most gloriously heal all creation which was ailing with godlessness. Therefore, giving thanks, we cry aloud unto thee: There is none all-pure more than thee, O Sovereign Lady.
 
-*Kontakion of the Saint, Tone 4, Podoben: "Thou Who wast lifted up" (Voznesyisya):*
+*Kontakion of the Saint, Tone 4, Podoben: "Thou Who wast lifted up" (Вознесы́йсѧ):*
 Having loved Christ from Thy youth, O most glorious one, and keeping His divine commandments, thou didst hasten wholly intact unto Him, O all-venerable Myron; and fervently praying with the angels, ask remission of sins for all who honor Thy memory.
 
-*Sessional Hymn, Tone 4, Podoben: "Thy tomb, O Savior" (Grob tvoi Spase):*
+*Sessional Hymn, Tone 4, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й Сп҃се):*
 Thou hast shown thyself as a fire-breathing fragrance; by thy suffering thou dost namesake-like sweeten our hearts, O adornment of martyrs and embellishment of the faithful. Therefore, as we celebrate thy most holy memory today, we are all cleansed who honor thee with love.
 
-*Glory... Both now... Tone and Podoben the same:*
+*Glory... Both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 The divine choir of the all-wise apostles was marvelously gathered together to bury gloriously thy most pure body, O all-hymned Mother of God. With them also the multitude of angels...
 
 === LEAF p192 ===
@@ -221,10 +221,10 @@ The chosen among the highest of all the saints, the mother of cities, noetic Zio
 *Theotokion:*
 We all cry aloud unto thee with the voice of the angels, O Virgin, palace and throne of God: Rejoice, through whom we have been vouchsafed the heavenly kingdom, we who of old were cast away through corruption, and foolishly lost our primal beauty.
 
-*Exapostilarion of the Feast, Podoben: "As the disciples were looking on" (Uchenikom zryashchym):*
+*Exapostilarion of the Feast, Podoben: "As the disciples were looking on" (Оу҆ченикѡ́мъ зрѧ́щымъ):*
 Having passed over from earth unto the heavens, O pure one, forsake not thine inheritance; strengthen the scepters of the kingdom,[^585] subdue barbarian nations, and pour forth peace unto the ends of the world. *Glory... Both now... the same.*
 
-*At the Aposticha, Stichera, Tone 6, Podoben: "On the third day" (Tridneven):*
+*At the Aposticha, Stichera, Tone 6, Podoben: "On the third day" (Трїдне́венъ):*
 Following the words of divine Gabriel, we cry unto thee: Rejoice, O pure one! For having passed over unto this, O all-holy Mother of the Lord, remember those who hymn thee.
 
 *Verse: Arise, O Lord, into Thy rest, Thou, and the ark of Thy holiness.*[^586]
@@ -242,7 +242,7 @@ Come, all ye ends of the earth, let us praise the venerable translation of the M
 
 *In the same month, on the 18th day: The Holy Martyrs Florus and Laurus.*
 
-*At "Lord, I have cried," Stichera, Tone 2, Podoben: "With what crowns of praise" (Kiimi pokhvalnymi):*
+*At "Lord, I have cried," Stichera, Tone 2, Podoben: "With what crowns of praise" (Кі́ими похва́льными):*
 With what unworthy lips shall we bless the Mother of God? Who is more honorable than creation, and more holy than the cherubim and all the angels; the immovable royal throne; the house wherein the Most High dwelt; the salvation of the world; the sanctification of God; who bestows upon the faithful...
 
 === LEAF p198 ===
@@ -253,7 +253,7 @@ What fearful hymns were those which they then offered unto thee, O Virgin, who s
 
 What spiritual hymns shall we now offer unto thee, O all-holy one? For by thine immortal dormition thou hast sanctified the whole world, and hast passed over unto transcendent realms, to understand the beauty of the Almighty, and to rejoice with Him as His Mother; while the angelic ranks and the souls of the righteous escort thee, O pure one. With them ask peace and great mercy for us.
 
-*Other Stichera of the Saints, Tone 4, Podoben: "Thou hast given a sign" (Dal esi znamenie):*
+*Other Stichera of the Saints, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*
 As all-perfect stones cut by martyrdom, and uncut by punishments, O holy ones, ye were built into the church of the Lord, and cast down to the earth the idol temples and altars. Them therefore we call blessed, as dwellers of paradise, as offerings of the heavenly temple.
 
 Draw forth grace and receive illumination, joy and mercy, ye who have touched the relics of the holy martyrs Florus and Laurus: from whom abundantly flows the divine operation of healings. And calling them blessed as servants of the Lord, let us fervently cry aloud: O our God, glory to Thee.
@@ -270,7 +270,7 @@ Come, ye people, let us sing to the all-holy pure Virgin, from whom ineffably ca
 *(Fol. 98r)*
 ...pray, O all-pure one, that our souls may be saved.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O house of Ephratha" (Dome Evfrathov):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O house of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 Sing, all ye earthly choirs: for the Virgin Mother has most gloriously passed over from earth unto the heavenly realms.
 
 *Verse: Arise, O Lord, into Thy rest, Thou, and the ark of Thy holiness.*[^588]
@@ -290,10 +290,10 @@ Let us, the faithful, praise worthily the most adorned, divinely-wise, and most 
 *Glory... Both now... of the Feast, Tone 1:*
 In giving birth thou didst preserve thy virginity, in thy dormition thou didst not forsake the world, O Mother of God. Thou hast passed over unto life, being the Mother of Life; and by thy prayers thou deliverest our souls from death.
 
-*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "Thou hast appeared today" (Yavilsya esi dnes):*
+*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 In thy glorious memory, the universe, adorned by the immaterial Spirit, noetically with rejoicing cries unto thee: Rejoice, O Virgin, boast of Christians. *Glory... Both now... the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 6, Podoben: "The doors of compassion" (Miloserdiya dveri):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 6, Podoben: "The doors of compassion" (Млⷭ҇рдїѧ двє́ри):*
 Praising thy translation, O pure one, all we faithful hymn thee; for thou didst pass over from earth, from life unto life, and being in the heavens thou prayest God that the human race may be delivered from misfortunes. *Glory... Both now... the same.*
 
 *Canon of the Feast, with the heirmos on 8.*

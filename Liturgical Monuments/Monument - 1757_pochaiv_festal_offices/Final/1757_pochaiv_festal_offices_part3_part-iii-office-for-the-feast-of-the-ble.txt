@@ -140,7 +140,7 @@ Grant us help by thy prayers, O all-pure one, driving away the assaults of fierc
 
 *Sessional Hymn to the Saint, Tone 4. Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):* Thou didst burn up the deception of schismatics, O Hieromartyr Josaphat; thou didst clarify the faith well by unity, and enlightenedst the world, therefore a wonderworking sufferer didst thou appear, a pillar of the Church, and a true shepherd: pray unceasingly unto Christ, that we all may be saved.
 
-*Glory... Now and ever... of the Feast, Tone and Podoben: The same.* In thee, O thrice-blessed and life-giving Cross, the people rejoicing celebrate with immaterial choirs: ranks of hierarchs reverently sing praise, the multitude of monastics and ascetics bow down, and Christ Who was crucified we all glorify.
+*Glory... Now and ever... of the Feast, Tone and Podoben: The same (Гла́съ и҆ подо́бенъ то́йже).* In thee, O thrice-blessed and life-giving Cross, the people rejoicing celebrate with immaterial choirs: ranks of hierarchs reverently sing praise, the multitude of monastics and ascetics bow down, and Christ Who was crucified we all glorify.
 
 *Ode 4. Heirmos: I have heard, O Lord, the report of Thy coming:*
 

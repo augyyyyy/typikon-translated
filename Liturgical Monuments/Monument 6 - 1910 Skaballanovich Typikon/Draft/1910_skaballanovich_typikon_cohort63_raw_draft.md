@@ -18,7 +18,7 @@ N. and our Pontiff (*pontifice*) N. and all their clergy, and all priests and mi
 
 Yet in direct genetic dependence our litanies stand unto the diaconal prayers in the liturgies of the Syrian-Antiochene and Jerusalem recensions. The former are provided by the canonical-liturgical monuments of the 3rd century, the *Testamentum of Our Lord Jesus Christ*, and of the 4th–5th centuries, the *Apostolic Constitutions* (see concerning them the Introductory Chapter, pp. 70 et seq.). In both the one and the other such a diaconal prayer is appointed after the dismissal of the catechumens; in the second monument it is repeated also after the hallowing of the Gifts (the absence of a numeral in the second column signifies that the petition is found in the litany after the hallowing of the Gifts).
 
-### Testamentum Domini
+**Testamentum Domini**
 
 1. Let us pray unto the Lord God and our Savior Jesus Christ.
 2. For the peace which is from heaven let us pray, that the Lord by His mercy may grant us peace.
@@ -55,7 +55,7 @@ oneness of mind may preserve our spirits.
 25. Let us arise in the Holy Spirit, that having become wise thereunto, we may grow in His grace, that in His name we may be glorified and upon the foundation of the Apostles be built up; and praying, let us beseech the Lord, that He may graciously accept our supplications [^2102].
 
 *(Orig. p. 520)*
-### Apostolic Constitutions
+**Apostolic Constitutions**
 
 1. Let us pray unto God through His Christ; let us all with one accord pray unto God through His Christ.
 2. For the peace and good estate of the world and the Holy Churches let us pray, that the God of all things may grant us His unceasing and inalienable peace, and keep us abiding in the fullness of virtue which is according unto godliness.

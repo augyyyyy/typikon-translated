@@ -47,9 +47,7 @@ Daring to offer the prayerful hymn of Thy noetic servants, we say: Holy, Holy, H
 As the Angelic ranks now in heaven, and with fear the assemblies of men upon earth, we offer the victory song unto Thee, O Good One: Holy, Holy, Holy art Thou, O God: by the prayers of all Thy Saints![^3045]
 
 *Both now...*
-The Father without beginning, and Thee, O Christ God, and Thy Most Holy Spirit...[^3046]
-
-...and Thy Most Holy Spirit, daring to glorify with Cherubim we say: Holy, Holy, Holy art Thou, our God: for the sake of the Mother of God, have mercy on us![^3047]
+The Father without beginning, and Thee, O Christ God, and Thy Most Holy Spirit[^3046] and Thy Most Holy Spirit, daring to glorify with Cherubim we say: Holy, Holy, Holy art Thou, our God: for the sake of the Mother of God, have mercy on us![^3047]
 
 *Tone 5:*
 It is the time of singing, and the hour of prayer; fervently let us cry aloud unto the One God: Holy, Holy, Holy art Thou, our God![^3048]
@@ -96,9 +94,7 @@ Bowed down by the multitude of our transgressions, and not daring to look up to 
 *Penitential Sessional Hymn, Tone 1:*
 In iniquities was I conceived, prodigal that I am, and I dare not look up to the height of heaven; but daring upon Thy love of mankind, I cry: O God, cleanse me and save me![^3062]
 
-*Stichos: O Lord, rebuke me not in Thine anger, neither chasten me in Thy wrath. The same verse. Both now... We say...*[^3063]
-
-*(We say [it] simply without chanting, in whichever Tone on Monday; to it the verse:)*
+*Stichos: O Lord, rebuke me not in Thine anger, neither chasten me in Thy wrath. The same verse. Both now... We say*[^3063] *(We say [it] simply without chanting, in whichever Tone on Monday; to it the verse:)*
 
 *Troparion:*
 If the righteous scarcely be saved, where shall I appear, a sinner, who have not borne the burden and heat of the day?[^3064] But with the hirelings of the eleventh hour, number me, O God, and save me![^3065]
@@ -162,9 +158,7 @@ We all pray the Martyrs of Christ, for they pray for our salvation; and let us a
 *On Friday, after the 1st Stichology, Sessional Hymns to the Cross, Tone 1:*
 
 *Troparion:*
-The weapon of the Cross was shown forth of old in battles unto the pious Emperor Constantine, an aid unto victory...[^3085]
-
-...against the enemies, for the sake of faith. At this the powers of Hades tremble; this has become both salvation for the faithful, and the boast of Paul![^3086]
+The weapon of the Cross was shown forth of old in battles unto the pious Emperor Constantine, an aid unto victory[^3085] against the enemies, for the sake of faith. At this the powers of Hades tremble; this has become both salvation for the faithful, and the boast of Paul![^3086]
 
 *Troparion:*
 Thou Who of old didst fashion Adam from the earth, wast struck with a blow by a clay hand, O Compassionate One, and didst endure crucifixion, mockings, and wounds. O wonder, O Thy great longsuffering! Glory, O Lord, to Thy life-bearing Passion, whereby Thou hast saved us![^3087]
@@ -186,9 +180,7 @@ Like the waves of the sea, my transgressions have risen up against me; like a sh
 I am an unfruitful tree, O Lord, not bringing forth at all the fruit of repentance; and I fear cutting down, and I dread that unquenchable fire; therefore I pray Thee, before that calamity, turn me back and save me![^3092]
 
 *Theotokion:*
-Being a fountain of tender mercy, vouchsafe us mercy, O Mother of God; look upon the people that have sinned; show forth as...[^3093]
-
-...ever thy power, for hoping in thee, we cry aloud unto thee: Rejoice! as once Gabriel, Archistrategos of the Bodiless Powers![^3094]
+Being a fountain of tender mercy, vouchsafe us mercy, O Mother of God; look upon the people that have sinned; show forth as[^3093] ever thy power, for hoping in thee, we cry aloud unto thee: Rejoice! as once Gabriel, Archistrategos of the Bodiless Powers![^3094]
 
 *After Ode 6, Martyrikon: The same on Monday of this Tone:*
 Having Thee, Who clothest the heaven with clouds, as their clothing in the world, the Saints endured torments from the lawless, and abolished the deception of idols: by their prayers deliver us also from the invisible enemy, O Savior, and save us![^3095]
@@ -233,9 +225,7 @@ The fishermen, having caught the nations and taught the ends of the earth to wor
 We magnify thee, O Mother of God, crying aloud: Rejoice, Cloud of the unwaning Light! For thou didst bear Him in thy bosom, the glory of the Lord![^3106]
 
 *After Ode 6, Martyrikon:*
-Apostles, Prophets, and Martyrs, Hierarchs, Venerable, and Righteous Ones, who have fought the good fight well, and kept the faith...[^3107]
-
-...having boldness toward the Savior on our behalf: pray Him as Good, we pray, that our souls may be saved![^3108]
+Apostles, Prophets, and Martyrs, Hierarchs, Venerable, and Righteous Ones, who have fought the good fight well, and kept the faith[^3107] having boldness toward the Savior on our behalf: pray Him as Good, we pray, that our souls may be saved![^3108]
 
 *On Friday, after the 1st Stichology, Sessional Hymns to the Cross, Tone 2:*
 
@@ -259,9 +249,7 @@ Living upon the earth, O my soul, repent! For the dust in the tomb sings not, no
 *Troparion:*
 How long, O my soul, dost thou abide in transgressions? How long dost thou receive the neglect of repentance? Receive in thy mind the coming Judgment; cry aloud unto the Lord: I have sinned, O sinless Lord, save me![^3114]
 
-*Glory... Both now... Theotokion:*...[^3115]
-
-*Theotokion:*
+*Glory... Both now... Theotokion:*[^3115] *Theotokion:*
 Marveling at the beauty of thy virginity and the surpassing radiant purity of thine, Gabriel cried aloud unto thee, O Mother of God: What worthy praise shall I bring unto thee? And what shall I call thee? I am in doubt and astonished! Therefore, as I was commanded, I cry unto thee: Rejoice, O thou full of grace![^3116]
 
 *After Ode 6, Martyrikon:*
@@ -348,9 +336,7 @@ Quickly let us enter into the bridal chamber of Christ, that we all may hear the
 By the multitude of my transgressions I am condemned, by the fear of torment I am consumed, O Christ our God. Tears of repentance from the heart I offer unto Thee Who hast power over life and death, and I cry unto Thee with compunction: I have sinned, O Lord, save me![^3140]
 
 *Theotokion:*
-The Word of the Father, Christ our God, Who became incarnate of thee, we have come to know, O Virgin Mother of God, who alone art pure...[^3141]
-
-...who alone art blessed; therefore unceasingly, chanting hymns to thee, we magnify thee![^3142]
+The Word of the Father, Christ our God, Who became incarnate of thee, we have come to know, O Virgin Mother of God, who alone art pure[^3141] who alone art blessed; therefore unceasingly, chanting hymns to thee, we magnify thee![^3142]
 
 *After Ode 6, Martyrikon:*
 Armed with the Cross, Thy Passion-bearers overcame the wiles of the evil-originating enemy, O Christ our God; they shone forth as luminaries instructing men; they grant healings unto them that ask with faith: by their prayers save our souls![^3143]
@@ -391,9 +377,7 @@ Hasten to anticipate before we are enslaved, for enemies blaspheme Thee and thre
 *Troparion:*
 When Thy divine side was wounded with the spear, O Master, the weapons of the invisible enemy failed completely, and all violence of his malice ceased; therefore we worship Thy saving Passion, glorifying Thy divine dispensation![^3154]
 
-*Stavrotheotokion:*...
-
-*Stavrotheotokion:*
+*Stavrotheotokion:* 
 When Thy most pure Mother, O Word of God, beheld Thee lifted up upon the Cross, weeping maternally, she said: What new and strange wonder is this, O my Son? How dost Thou, the Life of all, taste of death, desiring to give life unto the dead, as Thou art merciful![^3155]
 
 *After Ode 6, Martyrikon:*
@@ -416,9 +400,7 @@ Today the memory of the Passion-bearers shines, for it has radiance from the hea
 *On Tuesday, after the 1st Stichology, Penitential Sessional Hymns, Tone 5:*
 
 *Troparion:*
-O soul, things here are temporal, but things there are...[^3161]
-
-...eternal; behold the judgment seat, and the Judge upon the throne, and tremble at the answer! Therefore, O soul, turn back, for the judgment is unsparing![^3162]
+O soul, things here are temporal, but things there are[^3161] eternal; behold the judgment seat, and the Judge upon the throne, and tremble at the answer! Therefore, O soul, turn back, for the judgment is unsparing![^3162]
 
 *Troparion:*
 Lying upon a bed of many sins, I am robbed of the hope of my salvation; for the sleep of sloth procures torment for my soul; therefore spare me, O Christ God, as Thou alone art the Lover of mankind![^3163]
@@ -441,9 +423,7 @@ The crucified Savior and our Deliverer, Who of His own will, as He knew and as H
 When she that bare Thee without pain, O Savior, beheld Thee lifted up upon the Wood, she wailed with weeping and cried aloud: Woe is me, my sweetest Son! I am consumed in soul, seeing Thee upon the Cross, nailed between two malefactors by an unjust judgment![^3168]
 
 *After Ode 6, Martyrikon:*
-O Lord, Thy Passion-bearers...
-
-...having desired the cup of Thy suffering, abandoned the beauty of life, and became fellow-partakers with the Angels: by their prayers grant unto our souls propitiation and great mercy![^3169]
+O Lord, Thy Passion-bearers having desired the cup of Thy suffering, abandoned the beauty of life, and became fellow-partakers with the Angels: by their prayers grant unto our souls propitiation and great mercy![^3169]
 
 *On Thursday, after the 1st Stichology, Sessional Hymns to the Apostles, Tone 5:*
 
@@ -465,9 +445,7 @@ The righteous deeds of the holy Martyrs astonished the Heavenly Hosts; for in mo
 Thou didst endure the Cross of Thine own will, and didst deliver men from corruption, O Savior; we, the faithful, hymn and worship Thee, for Thou hast enlightened us by the power of the Cross; and we all glorify Thee, O Lover of mankind and Compassionate One, as the Giver of life and the Lord![^3174]
 
 *Troparion:*
-Of Thine own will, O Compassionate One, Thou didst endure crucifixion, and having been buried as almighty God, [Thou didst destroy] the ancient curse for the sake of the eating...[^3175]
-
-...therefore Thy divine and precious Sufferings, O Master Christ, we hymn and worship, unceasingly glorifying Thy dispensation that surpasses speech![^3176]
+Of Thine own will, O Compassionate One, Thou didst endure crucifixion, and having been buried as almighty God, [Thou didst destroy] the ancient curse for the sake of the eating[^3175] therefore Thy divine and precious Sufferings, O Master Christ, we hymn and worship, unceasingly glorifying Thy dispensation that surpasses speech![^3176]
 
 *Stavrotheotokion:*
 By the Cross of thy Son, O thou who hast been made glad in God, all the deception of idols has been abolished, and the demonic might trampled down; therefore we, the faithful, as is due, ever bless thee and hymn thee, and confessing thee to be the true Mother of God, we magnify thee![^3177]
@@ -571,9 +549,7 @@ Thou Who didst accept the tears of the harlot and Peter, and didst justify the p
 Rejoice, O Mother of God, who didst contain in thy womb Him Whom the heavens cannot contain; rejoice, O Virgin, preaching of the Prophets, through whom Emmanuel has shone forth unto us; rejoice, O Mother of Christ God![^3207]
 
 *After Ode 6, Martyrikon:*
-Thy Saints, O Lord, having contended upon earth, abolished the deception of idols; therefore they also received crowns from Thee, O Lover of mankind...[^3208]
-
-...and cypress; granting victories unto our Tsars, for the sake of the Mother of God, as we worship Thee: have mercy on us![^3209]
+Thy Saints, O Lord, having contended upon earth, abolished the deception of idols; therefore they also received crowns from Thee, O Lover of mankind[^3208] and cypress; granting victories unto our Tsars, for the sake of the Mother of God, as we worship Thee: have mercy on us![^3209]
 
 *Troparion:*
 Thou Who didst accept crucifixion for my sake, accept also my vigilant praise, O Christ God, as Thou art the Lover of mankind![^3210]
@@ -663,9 +639,7 @@ Luminaries unto the world and guides, first-fruits of our salvation, let us hymn
 Into all the earth, as the Prophet said, went forth the proclamation of the all-wise Apostles; for having preached the Word, they enlightened all nations; therefore, duly praising them, let us honor them with songs, as they ever pray Christ that our souls may be saved![^3236]
 
 *Theotokion:*
-O Protection of the faithful, Mother of God, joy to the sorrowful and great consolation to the weeping: unceasingly pray Him Who was born of thy womb beyond nature, O all-pure Virgin...[^3237]
-
-...pray with the Apostles for us, that we may be delivered in the hour of trial![^3238]
+O Protection of the faithful, Mother of God, joy to the sorrowful and great consolation to the weeping: unceasingly pray Him Who was born of thy womb beyond nature, O all-pure Virgin[^3237] pray with the Apostles for us, that we may be delivered in the hour of trial![^3238]
 
 *After Ode 6, Martyrikon:*
 Having mortified the fiery appearances and motions of the body, the Martyrs of Christ received grace to drive away ailments from the sick, and being alive and after their repose to work wonders: truly a most glorious wonder, that bare bones pour forth healings! Glory to the only God and Creator![^3239]

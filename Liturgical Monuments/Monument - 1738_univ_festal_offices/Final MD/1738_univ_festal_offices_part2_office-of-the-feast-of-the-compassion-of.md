@@ -161,7 +161,7 @@ Standing by the Cross of Thy Son and God, O Virgin All-Pure, glory of the Angels
 *Glory... Both now... The same.*  
 
 *AT THE PRAISES*  
-*Stichera, Tone 2, Podoben: "Thine Angels shall go forth, O Savior" (Angeli Tvoi priidut):*  
+*Stichera, Tone 2, Podoben: "Thine Angels shall go forth, O Savior" (А҆́гг҃ли твоѝ прїи́дꙋтъ):*  
 
 *Sticheron 1:*  
 By many passions, make alive my slain soul, O Theotokos: who without passion didst bear God the Word, Who without passion endured passions and put death to death; and do thou by His deadness slay them that live in the darkness of sins, and direct my deadened thoughts toward divine things.  

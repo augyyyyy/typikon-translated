@@ -432,7 +432,7 @@
 
 [^215]: The Prayer of Saint Mardarios (*Владыко Боже, Отче Вседержителю...* / *Δέσποτα Θεέ, Πάτερ παντοκράτορ...*), recited after the priest's blessing, was printed in full on fol. 22 (physical leaf p49).
 
-[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγалύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
+[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγαλύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
 
 [^217]: The concluding sequence of the Midnight Office (the trisagion prayers, the troparia of the dead, the litany of supplication, and the mutual forgiveness) is cross-referenced to its complete printing on fol. 23 (physical leaf p51).
 
@@ -474,7 +474,7 @@
 
 [^236]: Psalm 87 in the Septuagint (LXX 87; MT 88), the fourth psalm of the Hexapsalmos, known as the most sorrowful lament in the Psalter, chanted as a contemplation of Christ's descent into Hades and tomb.
 
-[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Еѵхаὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
+[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Εὐχαὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
 
 [^238]: Psalm 102 in the Septuagint (LXX 102; MT 103), the fifth psalm of the Hexapsalmos, a hymn of radiant thanksgiving for God's boundless mercy, forgiveness, and paternal compassion.
 
@@ -512,7 +512,7 @@
 
 [^255]: The rubric distinguishes the festal singing of the Great Doxology from the Lenten/daily recitation of the Doxology preceded by the doxological acclamation 'To Thee glory is due...' and accompanied by 3 prostrations (metanias).
 
-[^256]: Church Slavonic 'брaзꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
+[^256]: Church Slavonic 'бразꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
 
 [^257]: The rubric provides the branching sequence for Lenten Matins versus non-fasting Matins: on ordinary days, the dismissal is followed directly by the First Hour, whereas on Lenten days, the special Lenten troparion ('In the temple standing...') and the Prayer of St. Ephrem with prostrations are performed before the First Hour.
 
@@ -718,7 +718,7 @@
 
 [^358]: The general prayer of the Hours *Thou Who at every time and at every hour* (*И́же на вся́ко вре́мя*) is here attributed to St. Basil the Great (frequently attributed elsewhere to St. Basil or St. John Chrysostom; cross-reference to its full text earlier in the Horologion).
 
-[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσпоτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
+[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσποτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
 
 [^360]: The Prayer of St. Ephrem the Syrian (*Господи и Владыко живота моего*) accompanied by the prescribed monastic prostrations (four great prostrations and twelve waist-bows with *Боже, очисти мя грѣшнаго*), totaling 15 bows.
 
@@ -970,7 +970,7 @@
 
 [^484]: Cross-reference to the evening prayer for enemies and benefactors (*Ненавидящихъ и обидящихъ насъ прости, Господи*) on fol. 27 (physical leaf p50).
 
-[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέлеε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
+[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέλεε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
 
 [^486]: Folio 167v: Internal cross-reference to fol. 26 (p49), where the closing litany of petition for the faithful and suffering (*Помолимся о православных христианех...*) is printed in full at the end of the Midnight Office.
 

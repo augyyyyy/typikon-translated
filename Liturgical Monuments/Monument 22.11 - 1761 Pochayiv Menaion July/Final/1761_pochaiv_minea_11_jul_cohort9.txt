@@ -144,7 +144,7 @@ O glory of martyrs, beauty of martyrs, God-chosen choir of sufferers: diligently
 *Theotokion:*
 What word can declare the wonder of thy seedless conception, O all-spotless one? For thou didst conceive God, Who came unto us through tender mercy.
 
-*Kontakion, Tone 2, Podoben: "The First-Fruits" (Ꙗ҆́кw нача́тки):*
+*Kontakion, Tone 2, Podoben: "The First-Fruits" (Ꙗ҆́кѡ нача́тки):*
 For the sake of Christ, O martyrs, ye endured many torments, and cast down all the polytheism of idols, and destroyed the godlessness of every deceit, having trampled these down by the power of Christ; ye teach us all faithfully to cry aloud: Alleluia![^242]
 
 *Ode 7. Heirmos:*

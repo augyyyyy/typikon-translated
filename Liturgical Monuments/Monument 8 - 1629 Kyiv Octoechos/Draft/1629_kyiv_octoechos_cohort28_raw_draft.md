@@ -102,7 +102,7 @@ Thou didst appear as a man like unto us, O Savior of the whole world; Thou didst
 
 *Now and ever. Theotokion:*
 
-Thou art the praise of the faithful, O unwedded Bride; thou art the protectress, the refuge of Christians, a rampart and a haven: thou bearest supplications unto Thy Son, O all-immaculate one, and
+Thou art the praise of the faithful, O unwedded Bride; thou art the protectress, the refuge of Christians, a rampart and a haven: thou bearest supplications unto thy Son, O all-immaculate one, and
 
 **[Right Page — Fol. 271r]**
 
@@ -236,7 +236,7 @@ Fill with joy and gladness Thy servants whom Thou hast translated, O Compassiona
 
 *Glory, and now and ever. Theotokion:*
 
-Having dissolved the curse of Eve, Thou didst dwell within the all-immaculate Virgin, welling forth a spring of blessing unto those who cry: "Blessed, O all-pure one, is the fruit of thy womb!"
+Having dissolved the curse of Eve, thou didst dwell within the all-immaculate Virgin, welling forth a spring of blessing unto those who cry: "Blessed, O all-pure one, is the fruit of thy womb!"
 
 *Ode 8. Heirmos:*
 

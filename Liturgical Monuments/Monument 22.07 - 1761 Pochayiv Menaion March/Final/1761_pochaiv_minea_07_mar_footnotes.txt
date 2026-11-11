@@ -256,7 +256,7 @@
 
 [^127]: St. Sophronius, Patriarch of Jerusalem (c. 560–638), celebrated champion of Orthodoxy against the Monothelite heresy and author of numerous liturgical hymns, triodia, and the Life of St. Mary of Egypt.
 
-[^128]: Sophronius (Σωφρόνιος) derives from the Greek σώфρων (*sophron*, "of sound mind, prudent, chaste, temperate").
+[^128]: Sophronius (Σωφρόνιος) derives from the Greek σώφρων (*sophron*, "of sound mind, prudent, chaste, temperate").
 
 [^129]: Classical Dyothelite and Chalcedonian christological formula defending the two unconfused natures and two operations (energies) and wills of Christ against the Monothelites and Monoenergists.
 
@@ -860,7 +860,7 @@
 
 [^429]: In the Church Slavonic text on leaf 100r, `Цр҃те́ѧ` is an abbreviated scribal form for `Ца́рствїѧ` (*of the Kingdom*).
 
-[^430]: The Greek alphabetic acrostic preserved in the Slavonic title reads: *Матѡ́нꙋ бж҃е́ственною пою̀ сла́вꙋ. Творе́нїе fеофа́на* ("I sing the divine glory of Matrona. A composition of Theophanes").
+[^430]: The Greek alphabetic acrostic preserved in the Slavonic title reads: *Матѡ́нꙋ бж҃е́ственною пою̀ сла́вꙋ. Творе́нїе ѳеофа́на* ("I sing the divine glory of Matrona. A composition of Theophanes").
 
 [^431]: In the Church Slavonic text on leaf 101r, the opening word of the troparion is printed as `Та̀`, providing the initial letter *T* for the acrostic while functioning metrically as an accusative or demonstrative pointer.
 

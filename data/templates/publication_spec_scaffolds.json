@@ -7,7 +7,40 @@
     "front_matter_paratext_and_titulature": "Baroque heraldic virshi rendered in formal rhythmic unrhymed verse with heraldic notes; Early Modern Ruthenian (prosta mova) prefaces rendered in elevated 17th-century theological prose with marginal citations mapped to [^N]; Imperial, Papal, and Archiepiscopal titulature rendered in full diplomatic translation.",
     "modular_part_slicing_and_appendices": "Follow physical leaf order 100% (Part 0 front matter, Part 1..K primary liturgical divisions/Tones) and isolate distinct rear appendices (Parastas, Hagiography, Typikon/Gospel Pillars) into their own dedicated final Part.",
     "patristic_synaxarion_diction": "Statutory Mandate 13: Render narrative Synaxaria, Patristic Homilies, and Martyrological Passions in elevated classical patristic English prose. Strictly forbid pseudo-archaic AI vocabulary (peradventure, verily, betwixt, twas, methinks, hearken, wherefore, forsooth, haply, albeit) and 3rd-person -eth verbs across both body text and footnotes. Flush translated leaves incrementally every 2-3 leaves.",
-    "diachronic_drift_invariance": "Statutory Mandate 11: Translate identical original-language terms, rubrical formulas, and hymnographic phrases identically across multi-century monument series using the canonical shared lexicon so zero artificial English translator drift is introduced, while translating genuine recensional variants strictly as inked."
+    "diachronic_drift_invariance": "Statutory Mandate 11: Translate identical original-language terms, rubrical formulas, and hymnographic phrases identically across multi-century monument series using the canonical shared lexicon so zero artificial English translator drift is introduced, while translating genuine recensional variants strictly as inked.",
+    "canonical_recension_identity": {
+      "witness_id": "kyivan_ruthenian_critical",
+      "title": "Kyivan-Galician Ruthenian Critical Recension",
+      "formal_citation": "Kyivan-Galician Ruthenian Critical Recension (Diachronic Monument Corpus, 1491–1910, MTS-1)",
+      "canonical_witness_priority": [
+        "royal_doors",
+        "stamford_2014",
+        "sheptytsky_2021",
+        "kyivan_ruthenian_critical",
+        "st_sergius",
+        "mci",
+        "monthly_menaion",
+        "royaldoors_old"
+      ],
+      "stratum_primacy_order": [
+        "PRE_NIKONIAN_KYIVAN_STAUROPEGION",
+        "POST_ZAMOSC_POCHAIV_GALICIAN"
+      ],
+      "strata": {
+        "PRE_NIKONIAN_KYIVAN_STAUROPEGION": {
+          "stratum_witness_id": "kyivan_prenikonian_critical",
+          "title": "Pre-Nikonian Kyivan & Stauropegion Critical Recension (1491–1719)",
+          "primacy_rank": 1,
+          "max_year_inclusive": 1719
+        },
+        "POST_ZAMOSC_POCHAIV_GALICIAN": {
+          "stratum_witness_id": "galician_synodal_critical",
+          "title": "Post-Zamość Pochaiv & Lviv Synodal Critical Recension (1720–2026)",
+          "primacy_rank": 2,
+          "min_year_inclusive": 1720
+        }
+      }
+    }
   },
   "scaffolds_by_genre_register": {
     "hymnographic": "octoechos",
@@ -785,17 +818,17 @@
     ]
   },
   "empirical_telemetry_calibration": {
-    "last_calibrated_at": "2026-10-30T21:20:30.498505+00:00",
-    "total_monuments_sampled": 21,
-    "total_leaves_sampled": 12169,
+    "last_calibrated_at": "2026-11-04T11:51:26.888782+00:00",
+    "total_monuments_sampled": 41,
+    "total_leaves_sampled": 17054,
     "by_monument_type": {
       "anthologion": {
-        "sample_leaves": 30,
-        "min": 1.06,
-        "p10": 1.092,
-        "median": 1.146,
-        "p90": 1.205,
-        "max": 1.298
+        "sample_leaves": 480,
+        "min": 0.954,
+        "p10": 1.112,
+        "median": 1.158,
+        "p90": 1.209,
+        "max": 1.394
       },
       "euchologion_liturgikon": {
         "sample_leaves": 30,
@@ -806,11 +839,11 @@
         "max": 1.536
       },
       "horologion": {
-        "sample_leaves": 59,
-        "min": 1.167,
-        "p10": 1.31,
-        "median": 1.556,
-        "p90": 1.836,
+        "sample_leaves": 81,
+        "min": 1.098,
+        "p10": 1.142,
+        "median": 1.423,
+        "p90": 1.78,
         "max": 2.001
       },
       "juridical_synodal": {
@@ -838,11 +871,11 @@
         "max": 1.5
       },
       "octoechos": {
-        "sample_leaves": 218,
+        "sample_leaves": 243,
         "min": 1.032,
-        "p10": 1.126,
-        "median": 1.208,
-        "p90": 1.345,
+        "p10": 1.128,
+        "median": 1.205,
+        "p90": 1.336,
         "max": 1.587
       },
       "pentecostarion": {

@@ -272,7 +272,7 @@ Let us, the faithful, brightly celebrate the feast after the feast, and the fina
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. The same.*  
 *And there is a reading from the Commentary of John: Homily 50: "On the last day..." In two sections.*[^2303]
 
-*After the 2nd Kathisma, the Sessional Hymn, in the same Tone and Podoben:*  
+*After the 2nd Kathisma, the Sessional Hymn, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 The Fountain of the Spirit, having come upon the earth, dividing Himself noetically into fiery rivers, bedewed the Apostles, enlightening them; and the cloud became unto them bedewing fire, enlightening them and raining down flame, through which we have received grace, by fire and by water: the light of the Comforter hath come, and enlightened the world.[^2304]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. The same.*  

@@ -1,29 +1,47 @@
 {
-  "generated_at": "2026-10-30T21:20:30.498505+00:00",
-  "total_monuments_audited": 21,
-  "total_cohorts_audited": 1058,
-  "total_leaves_audited": 12169,
-  "total_footnotes_verified": 35416,
+  "generated_at": "2026-11-10T23:44:46.339184+00:00",
+  "total_monuments_audited": 40,
+  "total_cohorts_audited": 1541,
+  "total_leaves_audited": 15964,
+  "total_footnotes_verified": 52136,
   "by_monument_type": {
     "anthologion": {
       "monument_type": "anthologion",
-      "monuments_count": 1,
+      "monuments_count": 19,
       "monument_ids": [
-        "1905_lviv_nativity_theophany"
+        "1905_lviv_nativity_theophany",
+        "1773_pochaiv_general_menaion",
+        "1738_univ_festal_offices",
+        "1741_pochaiv_festal_offices",
+        "1757_pochaiv_festal_offices",
+        "1763_kyiv_caves_fathers_services",
+        "1785_kyiv_caves_fathers_services",
+        "1761_pochaiv_minea_01_sep",
+        "1761_pochaiv_minea_02_oct",
+        "1761_pochaiv_minea_03_nov",
+        "1761_pochaiv_minea_04_dec",
+        "1761_pochaiv_minea_05_jan",
+        "1761_pochaiv_minea_06_feb",
+        "1761_pochaiv_minea_07_mar",
+        "1761_pochaiv_minea_08_apr",
+        "1761_pochaiv_minea_09_may",
+        "1761_pochaiv_minea_10_jun",
+        "1761_pochaiv_minea_11_jul",
+        "1761_pochaiv_minea_12_aug"
       ],
-      "cohorts_audited": 30,
-      "leaves_audited": 296,
-      "total_footnotes": 1095,
+      "cohorts_audited": 481,
+      "leaves_audited": 4719,
+      "total_footnotes": 17044,
       "sgc02_ratio_distribution": {
-        "sample_leaves": 30,
-        "min": 1.06,
-        "p10": 1.092,
-        "median": 1.146,
-        "p90": 1.205,
-        "max": 1.298
+        "sample_leaves": 480,
+        "min": 0.954,
+        "p10": 1.113,
+        "median": 1.158,
+        "p90": 1.21,
+        "max": 1.394
       },
-      "argon_queued_leaves": 94,
-      "info_telemetry_leaves": 0,
+      "argon_queued_leaves": 128,
+      "info_telemetry_leaves": 543,
       "codicological_cruxes": 0
     },
     "euchologion_liturgikon": {
@@ -49,22 +67,23 @@
     },
     "horologion": {
       "monument_type": "horologion",
-      "monuments_count": 1,
+      "monuments_count": 2,
       "monument_ids": [
-        "1491_krakow_fiol_horologion"
+        "1491_krakow_fiol_horologion",
+        "1617_kyiv_kopystensky_horologion"
       ],
-      "cohorts_audited": 59,
-      "leaves_audited": 582,
-      "total_footnotes": 1365,
+      "cohorts_audited": 81,
+      "leaves_audited": 798,
+      "total_footnotes": 1910,
       "sgc02_ratio_distribution": {
-        "sample_leaves": 59,
-        "min": 1.167,
-        "p10": 1.31,
-        "median": 1.556,
-        "p90": 1.836,
+        "sample_leaves": 81,
+        "min": 1.098,
+        "p10": 1.142,
+        "median": 1.423,
+        "p90": 1.78,
         "max": 2.001
       },
-      "argon_queued_leaves": 73,
+      "argon_queued_leaves": 74,
       "info_telemetry_leaves": 0,
       "codicological_cruxes": 0
     },
@@ -79,11 +98,11 @@
       "total_footnotes": 278,
       "sgc02_ratio_distribution": {
         "sample_leaves": 14,
-        "min": 1.341,
-        "p10": 1.358,
-        "median": 1.444,
-        "p90": 1.676,
-        "max": 1.8
+        "min": 1.11,
+        "p10": 1.119,
+        "median": 1.17,
+        "p90": 1.251,
+        "max": 1.279
       },
       "argon_queued_leaves": 2,
       "info_telemetry_leaves": 0,
@@ -113,45 +132,45 @@
     },
     "lexicon_scholarly": {
       "monument_type": "lexicon_scholarly",
-      "monuments_count": 2,
+      "monuments_count": 1,
       "monument_ids": [
-        "1910_skaballanovich_typikon",
-        "1895_dmitrievsky_vol1"
+        "1910_skaballanovich_typikon"
       ],
-      "cohorts_audited": 118,
-      "leaves_audited": 2112,
-      "total_footnotes": 3052,
+      "cohorts_audited": 103,
+      "leaves_audited": 1022,
+      "total_footnotes": 2834,
       "sgc02_ratio_distribution": {
-        "sample_leaves": 118,
-        "min": 0.694,
-        "p10": 1.11,
-        "median": 1.277,
-        "p90": 1.36,
+        "sample_leaves": 103,
+        "min": 1.13,
+        "p10": 1.209,
+        "median": 1.297,
+        "p90": 1.366,
         "max": 1.5
       },
-      "argon_queued_leaves": 11,
+      "argon_queued_leaves": 0,
       "info_telemetry_leaves": 0,
       "codicological_cruxes": 0
     },
     "octoechos": {
       "monument_type": "octoechos",
-      "monuments_count": 5,
+      "monuments_count": 6,
       "monument_ids": [
         "1630_lviv_octoechos",
         "1629_kyiv_octoechos",
         "1895_lviv_octoechos",
         "1491_krakow_fiol_octoechos",
-        "1600s_prykarpattia_ms_octoechos"
+        "1600s_prykarpattia_ms_octoechos",
+        "1716_kyiv_marian_canons_octoechos"
       ],
-      "cohorts_audited": 218,
-      "leaves_audited": 2158,
-      "total_footnotes": 12487,
+      "cohorts_audited": 243,
+      "leaves_audited": 2404,
+      "total_footnotes": 12931,
       "sgc02_ratio_distribution": {
-        "sample_leaves": 218,
+        "sample_leaves": 243,
         "min": 1.032,
-        "p10": 1.126,
-        "median": 1.208,
-        "p90": 1.345,
+        "p10": 1.127,
+        "median": 1.205,
+        "p90": 1.336,
         "max": 1.587
       },
       "argon_queued_leaves": 987,
@@ -171,12 +190,12 @@
       "sgc02_ratio_distribution": {
         "sample_leaves": 113,
         "min": 0.974,
-        "p10": 1.14,
-        "median": 1.202,
-        "p90": 1.278,
-        "max": 1.536
+        "p10": 1.139,
+        "median": 1.201,
+        "p90": 1.274,
+        "max": 1.445
       },
-      "argon_queued_leaves": 288,
+      "argon_queued_leaves": 293,
       "info_telemetry_leaves": 0,
       "codicological_cruxes": 0
     },
@@ -216,11 +235,11 @@
       "total_footnotes": 2898,
       "sgc02_ratio_distribution": {
         "sample_leaves": 199,
-        "min": 0.606,
-        "p10": 0.981,
-        "median": 1.202,
-        "p90": 1.436,
-        "max": 1.812
+        "min": 0.609,
+        "p10": 0.986,
+        "median": 1.203,
+        "p90": 1.492,
+        "max": 1.981
       },
       "argon_queued_leaves": 0,
       "info_telemetry_leaves": 0,
@@ -236,7 +255,7 @@
       "cohorts_audited": 0,
       "leaves_audited": 287,
       "total_footnotes": 785,
-      "median_sgc02_ratio": 1.261,
+      "median_sgc02_ratio": 1.662,
       "argon_queued_leaves": 0,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -249,7 +268,7 @@
       "cohorts_audited": 11,
       "leaves_audited": 278,
       "total_footnotes": 278,
-      "median_sgc02_ratio": 1.444,
+      "median_sgc02_ratio": 1.17,
       "argon_queued_leaves": 2,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -262,7 +281,7 @@
       "cohorts_audited": 30,
       "leaves_audited": 591,
       "total_footnotes": 745,
-      "median_sgc02_ratio": 1.001,
+      "median_sgc02_ratio": 1.005,
       "argon_queued_leaves": 0,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -275,7 +294,7 @@
       "cohorts_audited": 32,
       "leaves_audited": 320,
       "total_footnotes": 346,
-      "median_sgc02_ratio": 1.136,
+      "median_sgc02_ratio": 1.131,
       "argon_queued_leaves": 0,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -288,7 +307,7 @@
       "cohorts_audited": 15,
       "leaves_audited": 141,
       "total_footnotes": 302,
-      "median_sgc02_ratio": 1.44,
+      "median_sgc02_ratio": 1.437,
       "argon_queued_leaves": 0,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -314,21 +333,8 @@
       "cohorts_audited": 103,
       "leaves_audited": 1022,
       "total_footnotes": 2834,
-      "median_sgc02_ratio": 1.298,
+      "median_sgc02_ratio": 1.297,
       "argon_queued_leaves": 0,
-      "info_telemetry_leaves": 0,
-      "has_retrospective_dossier": true
-    },
-    {
-      "monument_id": "1895_dmitrievsky_vol1",
-      "title": "1895 Dmitrievsky Opisanie Vol 1",
-      "monument_type": "lexicon_scholarly",
-      "status": "paused",
-      "cohorts_audited": 15,
-      "leaves_audited": 1090,
-      "total_footnotes": 218,
-      "median_sgc02_ratio": 0.996,
-      "argon_queued_leaves": 11,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
     },
@@ -336,11 +342,11 @@
       "monument_id": "1630_lviv_octoechos",
       "title": "1630 Lviv Octoechos",
       "monument_type": "octoechos",
-      "status": "in_progress",
+      "status": "completed",
       "cohorts_audited": 27,
       "leaves_audited": 267,
       "total_footnotes": 351,
-      "median_sgc02_ratio": 1.169,
+      "median_sgc02_ratio": 1.167,
       "argon_queued_leaves": 5,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -379,7 +385,7 @@
       "cohorts_audited": 54,
       "leaves_audited": 532,
       "total_footnotes": 1485,
-      "median_sgc02_ratio": 1.134,
+      "median_sgc02_ratio": 1.135,
       "argon_queued_leaves": 93,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -392,7 +398,7 @@
       "cohorts_audited": 68,
       "leaves_audited": 671,
       "total_footnotes": 3006,
-      "median_sgc02_ratio": 1.202,
+      "median_sgc02_ratio": 1.201,
       "argon_queued_leaves": 234,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -405,8 +411,8 @@
       "cohorts_audited": 45,
       "leaves_audited": 441,
       "total_footnotes": 1066,
-      "median_sgc02_ratio": 1.21,
-      "argon_queued_leaves": 54,
+      "median_sgc02_ratio": 1.209,
+      "argon_queued_leaves": 59,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
     },
@@ -418,7 +424,7 @@
       "cohorts_audited": 90,
       "leaves_audited": 896,
       "total_footnotes": 3369,
-      "median_sgc02_ratio": 1.245,
+      "median_sgc02_ratio": 1.244,
       "argon_queued_leaves": 257,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
@@ -500,10 +506,270 @@
       "argon_queued_leaves": 269,
       "info_telemetry_leaves": 0,
       "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1773_pochaiv_general_menaion",
+      "title": "1773 Pochaiv Lavra General Menaion / Mineia Zahalna",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 16,
+      "leaves_audited": 152,
+      "total_footnotes": 908,
+      "median_sgc02_ratio": 1.147,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 29,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1738_univ_festal_offices",
+      "title": "1738 Univ Monastery Festal Offices / Vozslidovaniia Prazdnykom",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 3,
+      "leaves_audited": 23,
+      "total_footnotes": 31,
+      "median_sgc02_ratio": 1.176,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1741_pochaiv_festal_offices",
+      "title": "1741 Pochaiv Lavra Festal Offices / Vozslidovaniia Prazdnykom",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 3,
+      "leaves_audited": 30,
+      "total_footnotes": 53,
+      "median_sgc02_ratio": 1.151,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1757_pochaiv_festal_offices",
+      "title": "1757 Pochaiv Lavra Festal Offices / Vozsliduvaniia Prazdnykam",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 3,
+      "leaves_audited": 22,
+      "total_footnotes": 74,
+      "median_sgc02_ratio": 1.126,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1763_kyiv_caves_fathers_services",
+      "title": "1763 Kyiv-Pechersk Lavra Services to the Venerable Fathers of the K...",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 14,
+      "leaves_audited": 135,
+      "total_footnotes": 731,
+      "median_sgc02_ratio": 1.133,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 30,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1785_kyiv_caves_fathers_services",
+      "title": "1785 Kyiv-Pechersk Lavra Expanded Services to the Venerable Fathers...",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 16,
+      "leaves_audited": 157,
+      "total_footnotes": 817,
+      "median_sgc02_ratio": 1.127,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 39,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1716_kyiv_marian_canons_octoechos",
+      "title": "1716 Kyiv-Pechersk Lavra Theotokarion / Eight-Tone Marian Canons",
+      "monument_type": "octoechos",
+      "status": "completed",
+      "cohorts_audited": 25,
+      "leaves_audited": 246,
+      "total_footnotes": 444,
+      "median_sgc02_ratio": 1.191,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1617_kyiv_kopystensky_horologion",
+      "title": "1616–1617 Kyiv-Pechersk Lavra Horologion of Zacharias Kopystensky",
+      "monument_type": "horologion",
+      "status": "completed",
+      "cohorts_audited": 22,
+      "leaves_audited": 216,
+      "total_footnotes": 545,
+      "median_sgc02_ratio": 1.148,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_01_sep",
+      "title": "1761 Pochaiv Menaion (September)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 37,
+      "leaves_audited": 365,
+      "total_footnotes": 2295,
+      "median_sgc02_ratio": 1.174,
+      "argon_queued_leaves": 3,
+      "info_telemetry_leaves": 143,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_02_oct",
+      "title": "1761 Pochaiv Menaion (October)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 35,
+      "leaves_audited": 343,
+      "total_footnotes": 1285,
+      "median_sgc02_ratio": 1.136,
+      "argon_queued_leaves": 8,
+      "info_telemetry_leaves": 25,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_03_nov",
+      "title": "1761 Pochaiv Menaion (November)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 38,
+      "leaves_audited": 371,
+      "total_footnotes": 1238,
+      "median_sgc02_ratio": 1.176,
+      "argon_queued_leaves": 3,
+      "info_telemetry_leaves": 14,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_04_dec",
+      "title": "1761 Pochaiv Menaion (December)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 46,
+      "leaves_audited": 451,
+      "total_footnotes": 932,
+      "median_sgc02_ratio": 1.155,
+      "argon_queued_leaves": 9,
+      "info_telemetry_leaves": 15,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_05_jan",
+      "title": "1761 Pochaiv Menaion (January)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 45,
+      "leaves_audited": 450,
+      "total_footnotes": 3037,
+      "median_sgc02_ratio": 1.192,
+      "argon_queued_leaves": 5,
+      "info_telemetry_leaves": 196,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_06_feb",
+      "title": "1761 Pochaiv Menaion (February)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 28,
+      "leaves_audited": 279,
+      "total_footnotes": 539,
+      "median_sgc02_ratio": 1.183,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 3,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_07_mar",
+      "title": "1761 Pochaiv Menaion (March)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 23,
+      "leaves_audited": 230,
+      "total_footnotes": 478,
+      "median_sgc02_ratio": 1.164,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 2,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_08_apr",
+      "title": "1761 Pochaiv Menaion (April)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 23,
+      "leaves_audited": 222,
+      "total_footnotes": 242,
+      "median_sgc02_ratio": 1.135,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_09_may",
+      "title": "1761 Pochaiv Menaion (May)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 24,
+      "leaves_audited": 236,
+      "total_footnotes": 431,
+      "median_sgc02_ratio": 1.16,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 0,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_10_jun",
+      "title": "1761 Pochaiv Menaion (June)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 27,
+      "leaves_audited": 269,
+      "total_footnotes": 1116,
+      "median_sgc02_ratio": 1.155,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 36,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_11_jul",
+      "title": "1761 Pochaiv Menaion (July)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 35,
+      "leaves_audited": 341,
+      "total_footnotes": 698,
+      "median_sgc02_ratio": 1.158,
+      "argon_queued_leaves": 1,
+      "info_telemetry_leaves": 4,
+      "has_retrospective_dossier": true
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_12_aug",
+      "title": "1761 Pochaiv Menaion (August)",
+      "monument_type": "anthologion",
+      "status": "completed",
+      "cohorts_audited": 35,
+      "leaves_audited": 347,
+      "total_footnotes": 1044,
+      "median_sgc02_ratio": 1.169,
+      "argon_queued_leaves": 0,
+      "info_telemetry_leaves": 7,
+      "has_retrospective_dossier": true
     }
   ],
-  "synthesized_retrospective_edge_cases_count": 22,
-  "synthesized_retrospective_proposals_count": 25,
+  "synthesized_retrospective_edge_cases_count": 25,
+  "synthesized_retrospective_proposals_count": 26,
   "retrospective_edge_cases": [
     {
       "monument_id": "1491_krakow_fiol_horologion",
@@ -658,6 +924,27 @@
       "id": "EC-05",
       "category": "scripts/compile_final_edition.py (format_liturgical_typography)",
       "severity": "HIGH"
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_04_dec",
+      "monument_type": "anthologion",
+      "id": "",
+      "category": "Inverted Archival Scan Orientation (180° Rotation)",
+      "severity": ""
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_04_dec",
+      "monument_type": "anthologion",
+      "id": "",
+      "category": "Physical Tear & Collation Lacuna in Exemplar",
+      "severity": ""
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_04_dec",
+      "monument_type": "anthologion",
+      "id": "",
+      "category": "Galician Parish Provenance Marginalia (Trostianets & Nemyriv)",
+      "severity": ""
     }
   ],
   "retrospective_proposals": [
@@ -835,6 +1122,13 @@
       "proposal_id": "RANK-5",
       "target_script": "scripts/compile_final_edition.py & data/templates/work_order_template.md",
       "priority": "MEDIUM"
+    },
+    {
+      "monument_id": "1761_pochaiv_minea_04_dec",
+      "monument_type": "anthologion",
+      "proposal_id": "",
+      "target_script": "",
+      "priority": ""
     }
   ]
 }

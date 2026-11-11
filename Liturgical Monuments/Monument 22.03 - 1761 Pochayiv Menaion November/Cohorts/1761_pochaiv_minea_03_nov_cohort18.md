@@ -117,13 +117,13 @@ Without leaving the bosom of the beginningless Father, the beginningless Word, a
 *Exapostilarion, Tone 3, Podoben: "He hath visited us" (Посѣти́лъ ны̀ є҆́сть):*[^714]
 The glorious writer of the Gospel of Christ, divinely-acceptable Matthew, hath made known unto us divine benefactions; whom honoring with love, let us sing with harmonious praise!
 
-*Glory... Podoben the same:*[^715]
+*Glory... Podoben the same (Подо́бенъ то́йже):*[^715]
 Having wisely cast away the yoke of the tax office, thou didst follow Christ, O divinely-wise Matthew; and marvelously following in His footsteps, thou wast a partaker of His Kingdom, and a companion of His glory, and an initiate of ineffable mysteries!
 
 *Now and ever... Theotokion:*[^716]
 Thy all-holy hands, O Virgin Theotokos, with which thou didst bear the Creator, lift up in prayer for us unto Him, that He deliver us from all temptations of the devil, and vouchsafe us to obtain those good things to come, O all-hymned one!
 
-*At the Praises, Stichera on 4, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе):*[^717]
+*At the Praises, Stichera on 4, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе):*[^717]
 Thou didst shine forth, O Apostle, light-like as the sun, with the beams of the Spirit; and thou didst illumine the whole inhabited earth, O blessed one, with the knowledge of God, and didst drive away the gloom of polytheism...
 
 === LEAF p175 ===

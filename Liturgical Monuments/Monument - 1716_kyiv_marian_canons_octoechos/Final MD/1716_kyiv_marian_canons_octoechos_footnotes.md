@@ -102,7 +102,7 @@
 
 [^50]: The troparion explicitly evokes the historical Ruthenian and Ukrainian context of Crimean Tatar and Ottoman Turkish ("Hagarene") slave raids and invasions, petitioning the Mother of God to intervene with the "sword of her prayers" to protect the Orthodox flock.
 
-[^51]: "Arabian" (*Аравлянинъ*, Greek *Ἄраψ*) functions in Byzantine and Ruthenian hymnography as an ethnonymic designation for Islamic Ottoman forces, reflecting the historical raids threatening the southern frontiers of Ruthenia and the wider Christian East.
+[^51]: "Arabian" (*Аравлянинъ*, Greek *Ἄραψ*) functions in Byzantine and Ruthenian hymnography as an ethnonymic designation for Islamic Ottoman forces, reflecting the historical raids threatening the southern frontiers of Ruthenia and the wider Christian East.
 
 [^52]: Sunday Small Compline (*Павечеріє мале*) on Sunday evening liturgically inaugurates Monday, dedicated across the weekly cycle to the Bodiless Hosts (the Holy Angels and Archangels).
 
@@ -206,7 +206,7 @@
 
 [^102]: Sunday Small Compline (*Павечеріє мале*) on Sunday evening liturgically introduces Monday, dedicated across the Octoechos to the Bodiless Powers and Holy Angels.
 
-[^103]: An allusion to Hebrews 1:3: "Who being the brightness of His glory, and the express image of His person" (ἀпаύγασμα τῆς δόξης).
+[^103]: An allusion to Hebrews 1:3: "Who being the brightness of His glory, and the express image of His person" (ἀπαύγασμα τῆς δόξης).
 
 [^104]: An allusion to Luke 1:28, the angelic salutation of the Archangel Gabriel to the Virgin Mary at the Annunciation.
 
@@ -228,7 +228,7 @@
 
 [^113]: An allusion to 1 Corinthians 15:22, 45, 47, Christ as the New Adam restoring fallen humanity.
 
-[^114]: The term *ѡ҆чисти́лище* (Greek ἱλαστήριон) denotes a place or means of expiation/cleansing, echoing Exodus 25:17 and Romans 3:25.
+[^114]: The term *ѡ҆чисти́лище* (Greek ἱλαστήριον) denotes a place or means of expiation/cleansing, echoing Exodus 25:17 and Romans 3:25.
 
 [^115]: An allusion to the devil as a ravening beast barking and seeking whom he may devour (cf. 1 Peter 5:8; Psalm 21:17 LXX / Psalm 22:16).
 
@@ -800,7 +800,7 @@
 
 [^399]: Concluding petition and Trinitarian doxology of the Prayer of Paul of Evergetis at Compline.
 
-[^400]: Antiochus of Palestine (monk of Mar Saba, 7th c.), author of the *Pandects of the Holy Scriptures*. His evening prayer *Каὶ δὸς ἡμῖν, Δέσποτα...* ("And grant unto us, O Master...") is a universal Horologion component of Compline.
+[^400]: Antiochus of Palestine (monk of Mar Saba, 7th c.), author of the *Pandects of the Holy Scriptures*. His evening prayer *Καὶ δὸς ἡμῖν, Δέσποτα...* ("And grant unto us, O Master...") is a universal Horologion component of Compline.
 
 [^401]: Ancient Marian prayer of intercession recited before sleep.
 

@@ -189,7 +189,7 @@ What shall we call thee, O hierarch? A river flowing forth from noetic Eden, wat
 *Sticheron:*
 What shall I call thee, O Eusebius? A dispenser of piety and a destroyer of impiety, the beauty of passion-bearers and the rejoicing of priests, a sickle cutting down tares and gathering heavenly wheat, a fountain of miracles flowing forth, taking away the burning heat of diseases: pray that our souls may be saved![^604]
 
-*Other Stichera of the Most Holy Birthgiver of God, in the Same Tone and Podoben:*
+*Other Stichera of the Most Holy Birthgiver of God, in the Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 A strange mystery, O pure one, is that of thy seedless childbearing, marvelous and dread, surpassing by its greatness every human mind; for Him Whom the many-eyed [Cherubim] endure not to behold...
 
 === LEAF p156 ===
@@ -201,10 +201,10 @@ Unto whom hast thou become likened, O wretched soul, not rising up at all unto r
 *Sticheron:*
 O protection of all, Lady, as I am held fast by an abyss of darkness and ever submerged by the grievous needs of life: send down a drop of thy mercy, and give me the hand of thy help, and account me worthy of the portion of the elect and venerable ones, as thou didst bear God, the Lover of mankind![^607]
 
-*Glory... Both now... in the Same Tone and Podoben:*
+*Glory... Both now... in the Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having given birth unto the unendurable Fire that burns up sins and bedews the faithful: burn up the material [wood] of my transgressions by thy prayers, O all-unblemished one, and refresh my soul, [inflamed] with passions, with dew, that I may [praise] thy mercy and power![^608]
 
-*Stavrotheotokion, in the Same Podoben:*
+*Stavrotheotokion, in the Same Podoben (Подо́бенъ то́йже):*
 When the Ewe-lamb beheld her Lamb stretched out voluntarily upon the Tree of the Cross, maternally crying aloud, she wept in anguish: O my Son, what is this strange sight? Thou Who as Lord givest life unto all, how dost Thou die, O Long-suffering One, granting resurrection unto the earthborn? I glorify Thy great condescension, O my God![^609]
 
 *Canon, whose Acrostic is: "I honor the namesake of piety." The work of Joseph. Tone 8.*
@@ -368,4 +368,4 @@ As a precious treasure, Christ our God gives thee unto Sicily, who didst suffer 
 *Sticheron:*
 Bassa and Paula bore thee upon their shoulders by the command of Him Who upholds all things, traversing diverse places and the breadth of the deep, O martyr Agrippina, working dread miracles by divine grace: and thou didst come to rest in the place where God ordained, having become rest for the weary, O all-lauded one![^631]
 
-*Other Stichera of the Birthgiver of God, in the Same Tone and Podoben:*
+*Other Stichera of the Birthgiver of God, in the Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*

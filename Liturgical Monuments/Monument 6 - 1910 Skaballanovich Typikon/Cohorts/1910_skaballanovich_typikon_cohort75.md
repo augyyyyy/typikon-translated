@@ -1,5 +1,5 @@
 === LEAF p741 ===
-# THE BEGINNING OF MATINS (*Nachalo utreni*)
+## THE BEGINNING OF MATINS (*Nachalo utreni*)
 
 ## Bell-Chime for Matins (*Zvon k utrene*)
 
@@ -9,7 +9,7 @@ Now begins the second and most important part of the Vigil—Matins [*utrenya*].
 
 It is not specified that he should strike first upon the one great bell and then upon all, as before the beginning of the Vigil, because this is not the blagovest (the initial tolling), which requires a special duration, but merely a "signal" [*znamenie*] of the beginning of Matins. Its duration is therefore completely unspecified.
 
-### According to Ancient Typika (*Po drevnim ustavam*)
+**According to Ancient Typika (*Po drevnim ustavam*)**
 
 According unto the ancient recensions of the Jerusalem Typikon, at the beginning of Matins at the Vigil there was prescribed not only a bell-peal, but also a censing, and according unto certain Slavic copies of the Typikon, an exclamation as well; but the ringing was only on one large bell or semantron [*bilo*].
 
@@ -28,7 +28,7 @@ Slavic manuscripts of the 15th and 16th centuries (for example, No. 678/386 and 
 
 Matins of the Vigil begins with the angelic hymn at the Nativity of the Savior: **"Glory to God in the highest"** (Lk. 2:14), just as in a more expanded form it also concludes with it; this is, of course, in view of the fact that with the event *(Orig. p. 616)* that laid the foundation of our salvation—and which, moreover, occurred by night—and with its glorification it is natural to begin the cycle of daily services. In view of the exceptional importance of this brief hymn, which represents not a human composition, it is repeated three times in honor of the Holy Trinity. Having prefixed such a lofty hymn, the worshippers venture to begin their own praise also, and in the feeling of their own inadequacy for it, they ask for Divine assistance—again not in their own words, but in God-inspired words, though having already proceeded from human lips—with the verse of Psalm 50:17 [LXX; Masoretic 51:15]: **"O Lord, Thou shalt open my lips"** (Heb. *śəp̄ātay*, Gr. *χείλη*, lips) **"and my mouth"** (Heb. *pî*, Gr. *στόμα*, mouth) **"shall declare Thy praise."** The prayer here is expressed in the future tense of confidence. The verse was especially suited unto that era when the divine service was improvised. It is repeated twice, as it were for each choir. Constituting the beginning of the service, both versicles, however, must stand in the closest connection with its first section, which in liturgical services is always the psalms. Psalms in this case also begin the service, whereas the indicated versicles are regarded only as their initial refrain. This is expressed in that the versicles in execution are not separated from the Six Psalms that follow them, being recited in the same manner as the Six Psalms, and by the same person (see below).
 
-### Their History (*Istoriya ikh*)
+**Their History (*Istoriya ikh*)**
 
 **"Glory to God in the highest"** was included from antiquity in the composition of the Liturgy. The Liturgy of the *Apostolic Constitutions* has this verse immediately before the Communion itself; our Liturgy and the Nestorian Liturgy attributed unto the Apostle Thaddaeus have it at the very beginning; the Roman Liturgy likewise has it in the opening part and in the form of the first section of our Great Doxology. Unto Matins the verse passed, perhaps, under the influence of the transfer of the Liturgy unto the morning and its union with Matins. At Matins it is mentioned in the oldest manuscript copies of the Jerusalem Typikon, but at weekday Matins, and not at Sunday Matins, where the Six Psalms is directly indicated [^2387]. — With the verse **"O Lord, Thou shalt open my lips,"** recited thrice,...
 
@@ -44,12 +44,12 @@ Our Matins, like the Roman Catholic service, visibly divides into four parts cor
 3) The Canon;
 4) The Praises (*Ainoi*) with the Doxology and the litanies.
 
-### Part 1 of Matins (*1-ya chast' utreni*)
+**Part 1 of Matins (*1-ya chast' utreni*)**
 
 The first part of Matins, like the second, gradually elevates the worshippers from a sorrowful and penitential disposition—fundamental for a Christian—unto joy in God. Such an ascent in the first part of Matins has three stages: the Six Psalms, the Ektenia, and **"God is the Lord."** From a certain grief wherewith the first is suffused, the second—the Ektenia—transfers us into prayer of a supplicatory character, the hope aroused by which is already close unto the triumph breathing in **"God is the Lord."**
 
 === LEAF p744 ===
-# THE SIX PSALMS (*Shestopsalmie* — *Hexapsalmos*)
+## THE SIX PSALMS (*Shestopsalmie* — *Hexapsalmos*)
 
 This part opens—and with it, consequently, the whole of Matins—with the system of psalms known under the name of the Six Psalms (Gr. *ἑξάψαλμος*). Thus the introductory psalms at this service, in accordance with its length and its primary place among the daily services, are twice the normally accepted number of them for each service—3. The composition of the Six Psalms comprises:
 — Ps. 3 **"Lord, why are they increased that trouble me?"** [*Gospodi, chto sya umnozhisha*],
@@ -97,7 +97,7 @@ Early-printed Slavic Horologia, for example the Moscow edition of 1658 and the O
 The Old Believer Typikon at the end: **"Glory... both now... Alleluia** *(twice)*, **and the clerics the 3rd Alleluia with singing."**
 
 === LEAF p749 ===
-# THE MORNING PRAYERS (*Utrennie molitvy* — *Euchai Orthrinai*)
+## THE MORNING PRAYERS (*Utrennie molitvy* — *Euchai Orthrinai*)
 
 Not being content with their own prayer in the words of the Six Psalms, the faithful send unto prayer a grace-endowed intercessor for themselves—reminding one of the heavenly Intercessor for us before God—in the person of the priest, who *(Orig. p. 621)* during the Six Psalms, standing before the Royal Doors, offers our prayers in mysterious, silent colloquy with God. These secret prayers of the priest at Matins, in accordance with the greater length and importance of this service in comparison with Vespers, are more numerous than at the latter; yet their number is determined, as at Vespers, by the symbolic number 12, which rivals 7 in sacred significance. Most immediately, this number instills the thought that we would desire to spend in prayer all the hours of the night—a time especially conducive unto prayer and convenient for it—recalling that Matins arose out of the original all-night vigil (*vigilia*) on the eves of feasts.
 

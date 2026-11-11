@@ -93,7 +93,7 @@ The enemy was shown forth stripped naked by thy divine glory and that of the suf
 *Theotokion:*
 Fervently make supplication unto thy Son, O Virgin, that He may save us from the afflictions that encompass us, and from eternal torment.
 
-*Kontakion, Tone 4. Podoben:*
+*Kontakion, Tone 4. Podoben (Подо́бенъ):*
 
 === LEAF p335 ===
 *Podoben: "Thou Hast Appeared Today" (Ꙗ҆ви́лся є҆сѝ):*

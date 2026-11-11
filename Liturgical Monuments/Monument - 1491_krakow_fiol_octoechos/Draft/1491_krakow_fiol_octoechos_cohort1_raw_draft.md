@@ -62,7 +62,7 @@ of good courage, O people of God, for He will conquer the enemies, for He is the
 
 *Glory... Both now...*
 
-*Theotokion:* Behold, the prophecy of Isaiah is fulfilled; for a Virgin hast thou given birth, and after childbirth thou remainest as before childbirth; for God was born unto us, therefore nature was not corrupted. Therefore, O Mother of God, despise not the prayers of thy servants offered in thy church; but as thou bearest Thine own compassionate Son in thine arms, have compassion upon us, thy servants, and show mercy unto our souls!
+*Theotokion:* Behold, the prophecy of Isaiah is fulfilled; for a Virgin hast thou given birth, and after childbirth thou remainest as before childbirth; for God was born unto us, therefore nature was not corrupted. Therefore, O Mother of God, despise not the prayers of thy servants offered in thy church; but as thou bearest thine own compassionate Son in thine arms, have compassion upon us, thy servants, and show mercy unto our souls!
 
 *Resurrectional Troparion, Tone 1:*
 

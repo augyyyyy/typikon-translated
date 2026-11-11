@@ -49,7 +49,7 @@ A radiant and most bright day of the divine cloudy ascent into the Heavens hath 
 *Sticheron 3:*
 Even as Thou didst send Thy Holy Spirit from on high unto the disciples, so also send Thy grace upon Thy people, O Christ Savior!
 
-*Glory... both now and ever... Tone and Podoben the same:*
+*Glory... both now and ever... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 In praise worthy of God, with the Apostles, O Mother of God, we hymn the Lord, beholding Him borne upon the clouds!
 
 *"Now lettest Thou Thy servant depart..." Trisagion, and after the Our Father: Troparion: "Thou didst ascend in glory..." We sing it. Litany and Dismissal.*
@@ -79,15 +79,15 @@ Not being parted from the Father's bosom, sweetest Jesus, and having lived with 
 *Entrance with the Censer. "Gladsome Light." Prokeimenon of the day.*
 
 *Reading from the Prophecy of Isaiah [LXX Isaiah 2:2-3]:*[^747]
-Thus saith the Lord: It shall come to pass in the last days, that the mountain of the Lord shall be manifest, and the house of God on the tops of the mountains, and it shall be exalted above the hills; and all nations shall come unto it. And many peoples shall go and say: "Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and He will declare unto us His way, and we will walk in it!"
+Thus says the Lord: It shall come to pass in the last days, that the mountain of the Lord shall be manifest, and the house of God on the tops of the mountains, and it shall be exalted above the hills; and all nations shall come unto it. And many peoples shall go and say: "Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and He will declare unto us His way, and we will walk in it!"
 
 *Reading from the Prophecy of Isaiah [LXX Isaiah 62:10-12; 63:1-3, 7-9]:*[^748]
-Thus saith the Lord: Go through My gates, prepare My way, and make a way for My people, and cast away the stones from the way; lift up a standard for the nations. For behold, the Lord hath made it heard unto the ends of the earth: Say ye to the daughter of Sion: Behold, thy Savior comes, having His reward with Him, and His work before His face. And He shall call them a holy people, redeemed by the Lord; and thou shalt be called a City sought out, and not forsaken.
+Thus says the Lord: Go through My gates, prepare My way, and make a way for My people, and cast away the stones from the way; lift up a standard for the nations. For behold, the Lord hath made it heard unto the ends of the earth: Say ye to the daughter of Sion: Behold, thy Savior comes, having His reward with Him, and His work before His face. And He shall call them a holy people, redeemed by the Lord; and thou shalt be called a City sought out, and not forsaken.
 Who is this that comes from Edom, the redness of His garments from Bosor? This One that is glorious in His apparel, crying out with great strength: "I speak righteousness, and the judgment of salvation!" Why are Thy garments red, and Thy apparel as from the treading of a full winepress? "I have trodden the winepress alone, and of the nations there was no man with Me."
 I remembered the mercy of the Lord, the virtues of the Lord in all things wherein He rewards us. The Lord is a good Judge to the house of Israel; He deals with us according to His mercy, and according to the multitude of His righteousness. And He said: "Are they not My people? Children will not reject Me"; and He became salvation unto them out of all their affliction. Neither an intercessor nor an Angel, but the Lord Himself saved them, because He loved them and spared them; He Himself redeemed them, and took them up, and lifted them up all the days of the age.
 
 *Reading from the Prophecy of Zechariah [LXX Zechariah 14:4, 8-11]:*[^749]
-Thus saith the Lord: Behold, the day of the Lord comes, and His feet shall stand in that day upon the Mount of Olives, which is before Jerusalem toward the east; and in that day living water shall go forth out of Jerusalem, half of it toward the former sea, and half of it toward the hinder sea; in summer and in spring it shall be so. And the Lord shall be King over all the earth: in that day shall the Lord be one, and His Name one, encompassing all the earth and the wilderness from Gaba even unto Remmon, over against the ridge of Jerusalem; and it shall be exalted, and shall remain in its place, from the gate of Benjamin even unto the place of the first gate, unto the corner gate, and unto the tower of Hananeel, unto the King's winepresses. Men shall dwell in it, and there shall be no curse any more; and Jerusalem shall dwell securely.
+Thus says the Lord: Behold, the day of the Lord comes, and His feet shall stand in that day upon the Mount of Olives, which is before Jerusalem toward the east; and in that day living water shall go forth out of Jerusalem, half of it toward the former sea, and half of it toward the hinder sea; in summer and in spring it shall be so. And the Lord shall be King over all the earth: in that day shall the Lord be one, and His Name one, encompassing all the earth and the wilderness from Gaba even unto Remmon, over against the ridge of Jerusalem; and it shall be exalted, and shall remain in its place, from the gate of Benjamin even unto the place of the first gate, unto the corner gate, and unto the tower of Hananeel, unto the King's winepresses. Men shall dwell in it, and there shall be no curse any more; and Jerusalem shall dwell securely.
 
 *On Thursday of the Ascension:*
 Men shall dwell in it, and there shall be no curse any more; and Jerusalem shall dwell securely.
@@ -140,17 +140,15 @@ God is gone up with a shout, the Lord with the sound of a trumpet, to lift up th
 
 *Then: "Now lettest Thou Thy servant depart..." Trisagion; and after the Our Father: At the Blessing of the Loaves, Troparion: "Thou didst ascend in glory, O Christ our God..." at the Litiya, thrice. And the Great Reading: in the Acts, three Homilies of Chrysostom on the Apostles.[^752]*
 
-*Rubric for the Concurrence of Key 7 ([З]) of the Paschalion:*
+*Rubric for the Concurrence of Key 7 ((*З*)) of the Paschalion:*
 
-*Be it known: that if Key 7 ([З]) of the Paschalion should occur, then on this Thursday of the Ascension, May 8, falls the Memory of the Holy Apostle John the Theologian.[^753]*
+*Be it known: that if Key 7 ((*З*)) of the Paschalion should occur, then on this Thursday of the Ascension, May 8, falls the Memory of the Holy Apostle John the Theologian.[^753]*
 
 *At Small Vespers: At "Lord, I have cried," Stichera of the Feast: 3 Prosomoia on 4. Glory... of the Apostle. Both now and ever... of the Feast. At the Aposticha: Stichera of the Apostle with their verses, which are sung at the Aposticha of Great Vespers. Glory... of the Apostle. Both now and ever... of the Feast. Troparion of the Apostle. Glory... both now and ever... of the Feast.*
 
 *At Great Vespers: "Blessed is the man..." the 1st Stasis. At "Lord, I have cried," we set 10 verses, and sing Stichera of the Feast: 5 Idiomela, Tone 6, the 1st twice; and of the Apostle on 4. Glory... of the Apostle. Both now and ever... of the Feast: Theotokion of the Entrance. Prokeimenon of the day. Readings of the Feast and of the Apostle. At the Litiya: Stichera of the Feast and of the Apostle. Glory... of the Apostle. Both now and ever... of the Feast. At the Aposticha: to their verses. Glory... of the Apostle. Both now and ever... of the Feast. At the Blessing of the Loaves: Troparion of the Feast, twice; and of the Apostle, once. And reading of the Feast, and other readings of the Feast and of the Apostle.*
 
-*At Matins: At "God is the Lord," Troparion of the Feast, twice. Glory... of the Apostle. Both now and ever... of the Feast. After the Kathismata: Sessional Hymns of the Feast, and reading of the Feast. Polyeleos, and Sessional Hymn of the Feast, and reading of the Feast. Then both choirs together begin: the Megalynarion of the Apostle, and all the Sessional Hymns once. Glory... both now and ever... of the Feast; and after this is appointed the Reading of the Apostle. This is from the Great Typikon: let whoever desires observe this.[^754] Graduals: 1st Antiphon of Tone 4. Prokeimenon: and "Let every breath..." and Gospel of the Feast. "Having beheld the Resurrection of Christ..." Psalm 50. Sticheron of the Feast. Canons: of the Feast, the first with the Heirmos on 6; and of the Apostle on 4; and the Second Canon of the Feast, Tone 4 on 4. Katavasia: "Covered by divine darkness..." both choirs together. After Ode 3: Kontakion and Ikos, and Sessional Hymns twice of the Apostle. Glory... both now and ever... of the Feast; and the reading...*
-
-*...and the reading of the Apostle. After Ode 6: Kontakion and Ikos of the Feast. At Ode 9: We do not sing the Magnificat ("More honorable..."). Exapostilarion of the Feast. Glory... of the Apostle. Both now and ever... of the Feast. At the Praises: Stichera on 6: of the Feast, 3; and of the Apostle, 3. Glory... of the Apostle. Both now and ever... of the Feast. Great Doxology. Troparion of the Apostle. Glory... both now and ever... of the Feast. Litany, and the great Catechesis. We seek the Sticheron of the Feast; and the customary Procession. And the First Hour in the Narthex. At the Hours: Troparion of the Feast. Glory... of the Apostle. Both now and ever... Theotokion of the Hours; and after the Our Father: Kontakia of the Feast and of the Apostle, alternating. At the Liturgy: Beatitudes of the Feast, from the Canon of that tone, Ode 3 on 4; and of the Apostle, Ode 6 on 4. Introit of the Feast: "God is gone up with a shout, the Lord with the sound of a trumpet!" Troparion of the Feast, and of the Apostle. Glory... Kontakion of the Apostle. Both now and ever... Kontakion of the Feast. Prokeimenon and of the Apostle; Alleluia, and Gospel, and Communion Hymn of the Feast and of the Apostle.*
+*At Matins: At "God is the Lord," Troparion of the Feast, twice. Glory... of the Apostle. Both now and ever... of the Feast. After the Kathismata: Sessional Hymns of the Feast, and reading of the Feast. Polyeleos, and Sessional Hymn of the Feast, and reading of the Feast. Then both choirs together begin: the Megalynarion of the Apostle, and all the Sessional Hymns once. Glory... both now and ever... of the Feast; and after this is appointed the Reading of the Apostle. This is from the Great Typikon: let whoever desires observe this.[^754] Graduals: 1st Antiphon of Tone 4. Prokeimenon: and "Let every breath..." and Gospel of the Feast. "Having beheld the Resurrection of Christ..." Psalm 50. Sticheron of the Feast. Canons: of the Feast, the first with the Heirmos on 6; and of the Apostle on 4; and the Second Canon of the Feast, Tone 4 on 4. Katavasia: "Covered by divine darkness..." both choirs together. After Ode 3: Kontakion and Ikos, and Sessional Hymns twice of the Apostle. Glory... both now and ever... of the Feast; and the reading and the reading of the Apostle. After Ode 6: Kontakion and Ikos of the Feast. At Ode 9: We do not sing the Magnificat ("More honorable..."). Exapostilarion of the Feast. Glory... of the Apostle. Both now and ever... of the Feast. At the Praises: Stichera on 6: of the Feast, 3; and of the Apostle, 3. Glory... of the Apostle. Both now and ever... of the Feast. Great Doxology. Troparion of the Apostle. Glory... both now and ever... of the Feast. Litany, and the great Catechesis. We seek the Sticheron of the Feast; and the customary Procession. And the First Hour in the Narthex. At the Hours: Troparion of the Feast. Glory... of the Apostle. Both now and ever... Theotokion of the Hours; and after the Our Father: Kontakia of the Feast and of the Apostle, alternating. At the Liturgy: Beatitudes of the Feast, from the Canon of that tone, Ode 3 on 4; and of the Apostle, Ode 6 on 4. Introit of the Feast: "God is gone up with a shout, the Lord with the sound of a trumpet!" Troparion of the Feast, and of the Apostle. Glory... Kontakion of the Apostle. Both now and ever... Kontakion of the Feast. Prokeimenon and of the Apostle; Alleluia, and Gospel, and Communion Hymn of the Feast and of the Apostle.*
 
 *The service of Saint Arsenius is omitted today, and is sung whenever the Ekklesiarches wishes.[^755]*
 
@@ -186,7 +184,7 @@ Unto God Who appeared upon Mount Sinai, and gave the Law to the God-seer Moses, 
 *Theotokion:*
 O all-pure Mother of God, unceasingly pray Him Who was incarnate of thee, and never separated from the bosom of the Father, to save from every distress those whom He fashioned!
 
-*The Second Canon, likewise on 6. Whose acrostic is according to the alphabet; and in the Eighth and Ninth Odes, the acrostic is: (ὨΙΔΗ ІΩСИФ )[Acrostic: Song of Joseph].[^762]*
+*The Second Canon, likewise on 6. Whose acrostic is according to the alphabet; and in the Eighth and Ninth Odes, the acrostic is: (ὨΙΔΗ ІѠСИФ )[Acrostic: Song of Joseph].[^762]*
 
 *Tone 4. Ode 1. Heirmos:*
 "I shall open my mouth, and it shall be filled with the Spirit, and I shall pour forth a word to the Queen Mother, and I shall be seen radiantly keeping festival, and rejoicing I shall sing her wonders!"
@@ -234,9 +232,7 @@ The earth keeps festival and dances, and Heaven rejoices today at the Ascension 
 *Theotokion:*
 Having borne the Destroyer of death, the only immortal God, O Virgin all-immaculate Mother, pray Him ever to put to death my deadening passions and save me!
 
-*Katavasia: "The womb of barrenness..."*
-
-*On Thursday of the Ascension:*
+*Katavasia: "The womb of barrenness" On Thursday of the Ascension:*
 "The womb of barrenness broke its bonds, and the shameful reproach of childlessness, by the sole prayer of the Prophetess Anna of old, who bore a contrite spirit unto the Mighty One and God of knowledge!"[^764]
 
 *Sessional Hymn, Tone 8, Podoben: "Of the Wisdom" (Премꙋ́дрости):*[^765]
@@ -290,9 +286,7 @@ We hymn thee as Virgin after childbirth, O Mother of God, for thou didst bear Go
 *Troparia:*
 Having put death to death by Thy death, O Lord, taking those whom Thou didst love, Thou didst ascend unto the holy Mount of Olives, and from thence, O Christ, Thou didst mount up unto Thy Father, borne upon a cloud!
 
-Strange is Thy Nativity, O Christ, and Thy Resurrection; strange and fearful is Thy divine Ascension from the Mountain, O Giver of life, which was foreshadowed by the four-horse ascent of Elijah...[^767]
-
-...ascended, singing praise unto Thee, O Lover of mankind!
+Strange is Thy Nativity, O Christ, and Thy Resurrection; strange and fearful is Thy divine Ascension from the Mountain, O Giver of life, which was foreshadowed by the four-horse ascent of Elijah[^767] ascended, singing praise unto Thee, O Lover of mankind!
 
 *Glory...*
 As the Apostles beheld, the Angels cried aloud: "Men of Galilee, why marvel ye at the Ascension of Christ the Giver of life? He shall come again in like manner upon earth to judge all the world, as the most righteous Judge!"
@@ -347,9 +341,7 @@ Leaving the things of earth upon earth, and yielding dust unto ashes, come, let 
 *Bestowing firm faith upon the disciples whom Thou didst redeem.*
 
 *On the same day, on Thursday of the Sixth Week after Pascha, we celebrate the Ascension of our Lord, God, and Savior Jesus Christ:*  
-For while He was yet with the disciples before His Passion, He promised the coming of the All-Holy Spirit, saying: "It is expedient for you that I go away; for if I go not away, the Comforter will not come." And again: "When He comes, He will guide you into all truth." And after the Resurrection...
-
-...from the dead, during forty days He appeared unto them not continuously, but from time to time, eating and drinking with them, and presenting His Resurrection more certainly; and finally He spoke many things concerning the Kingdom of God, commanding them not to depart from Jerusalem, but to remain there, awaiting the reception and coming of the Holy Spirit, and thereby to be baptized; for previously baptism was by water and only once from John, although later Saint Epiphanius of Cyprus related that John the Theologian baptized the Mother of God, and he in turn baptized the other Apostles.[^771] He commanded them to remain in Jerusalem, so that there the preaching of the Gospel might first be confirmed, lest going into foreign regions they might easily be slandered, and because it was necessary that they, like soldiers, should be equipped with the armor of the Spirit, and so go forth to battle against the enemies of Christ. But when the time of the Ascension arrived, He led them out unto the Mount of Olives, which is so called because it was planted with very many olive trees. And He spoke unto them concerning what had taken place in His preaching, and furthermore concerning His incomprehensible Kingdom in the future; and since He saw that they did not wish Him to depart, and His all-pure Mother was also present there, He appointed Angels for them, showing His ascent into the Heavens. And as they beheld, He was taken up from their midst, a cloud receiving Him, and so He was escorted by Angels, who commanded one another that the Heavenly Gates should be lifted up, and who marveled at the crimson of the blood of His flesh. He ascended and sat at the right hand of the Father, having deified the flesh, and—I dare to say—having shown it to be twofold together with the divine nature, on account of which we have been reconciled, the ancient enmity having been abolished. And the Angels in the appearance of men stood by the Apostles, saying: "Men of Galilee, why stand ye wondering, looking up into Heaven? This Jesus, Whom ye see with the flesh as God, shall come again with the flesh in like manner, yet not as formerly, in poverty and silence, but with great glory, as ye now behold Him escorted by Angels." Then the Apostles departed and returned from the Mount of Olives, which is near Jerusalem, being a distance of two thousand and forty paces, for this is a Sabbath day's journey; for so it was ordained by Moses, to walk that many paces on the Sabbath, because the Tabernacle of Witness was that many paces distant from the camp of the Israelites.[^772] For it was permitted for some to walk there on the Sabbath to worship, and in some measure to extend their walking, and therefore it was called a Sabbath day's journey. And some from this supposed that Christ's Ascension took place on a Sabbath, but they erred:
+For while He was yet with the disciples before His Passion, He promised the coming of the All-Holy Spirit, saying: "It is expedient for you that I go away; for if I go not away, the Comforter will not come." And again: "When He comes, He will guide you into all truth." And after the Resurrection from the dead, during forty days He appeared unto them not continuously, but from time to time, eating and drinking with them, and presenting His Resurrection more certainly; and finally He spoke many things concerning the Kingdom of God, commanding them not to depart from Jerusalem, but to remain there, awaiting the reception and coming of the Holy Spirit, and thereby to be baptized; for previously baptism was by water and only once from John, although later Saint Epiphanius of Cyprus related that John the Theologian baptized the Mother of God, and he in turn baptized the other Apostles.[^771] He commanded them to remain in Jerusalem, so that there the preaching of the Gospel might first be confirmed, lest going into foreign regions they might easily be slandered, and because it was necessary that they, like soldiers, should be equipped with the armor of the Spirit, and so go forth to battle against the enemies of Christ. But when the time of the Ascension arrived, He led them out unto the Mount of Olives, which is so called because it was planted with very many olive trees. And He spoke unto them concerning what had taken place in His preaching, and furthermore concerning His incomprehensible Kingdom in the future; and since He saw that they did not wish Him to depart, and His all-pure Mother was also present there, He appointed Angels for them, showing His ascent into the Heavens. And as they beheld, He was taken up from their midst, a cloud receiving Him, and so He was escorted by Angels, who commanded one another that the Heavenly Gates should be lifted up, and who marveled at the crimson of the blood of His flesh. He ascended and sat at the right hand of the Father, having deified the flesh, and—I dare to say—having shown it to be twofold together with the divine nature, on account of which we have been reconciled, the ancient enmity having been abolished. And the Angels in the appearance of men stood by the Apostles, saying: "Men of Galilee, why stand ye wondering, looking up into Heaven? This Jesus, Whom ye see with the flesh as God, shall come again with the flesh in like manner, yet not as formerly, in poverty and silence, but with great glory, as ye now behold Him escorted by Angels." Then the Apostles departed and returned from the Mount of Olives, which is near Jerusalem, being a distance of two thousand and forty paces, for this is a Sabbath day's journey; for so it was ordained by Moses, to walk that many paces on the Sabbath, because the Tabernacle of Witness was that many paces distant from the camp of the Israelites.[^772] For it was permitted for some to walk there on the Sabbath to worship, and in some measure to extend their walking, and therefore it was called a Sabbath day's journey. And some from this supposed that Christ's Ascension took place on a Sabbath, but they erred:
 
 And having returned, the Apostles entered into the Upper Room, in which they had been staying, together with the Myrrh-bearing Women and the Mother of the Word, occupying themselves in fasting, prayers, and supplication, and awaiting the descent of the All-Holy Spirit, according to the promise. O Christ God, Who didst ascend in glory, have mercy upon us, now and ever and unto ages of ages. Amen.
 
@@ -381,9 +373,7 @@ Great Moses of old cried aloud: "Let the heavenly Angels worship Christ as He as
 O most marvelous wonders! How didst thou contain the uncontainable God, O full of grace, Who impoverished Himself in the flesh, and today hath ascended into heaven with great glory, and hath brought mankind to life!
 
 *Katavasia:*
-"The harmonious..."
-
-..."song of the pipes ordered reverence for the lifeless image made of gold; but the radiant grace of the Comforter inspires us to cry aloud: O sole Trinity, equal in power, without beginning, blessed art Thou!"[^774]
+"The harmonious" "song of the pipes ordered reverence for the lifeless image made of gold; but the radiant grace of the Comforter inspires us to cry aloud: O sole Trinity, equal in power, without beginning, blessed art Thou!"[^774]
 
 *Ode 8. Heirmos:*
 "The Son and God, Who was begotten of the Father before the ages, and in latter times became incarnate of the Virgin Mother: O ye priests, praise Him, ye people, supremely exalt Him unto all ages!"
@@ -439,9 +429,7 @@ Rejoice, O Mother of God, Mother of Christ God: for beholding Him Whom thou dids
 *The Angels, beholding the ascent of the Master, were amazed at how He was taken up with glory from earth unto the highest!*[^776]
 
 *Troparia:*
-O gifts surpassing comprehension! O fearful mystery! For He Who rules over all, ascending from earth unto the heavenly realms, sent the Holy Spirit unto the disciples, Who enlightened...
-
-...their mind and made them fiery by grace!
+O gifts surpassing comprehension! O fearful mystery! For He Who rules over all, ascending from earth unto the heavenly realms, sent the Holy Spirit unto the disciples, Who enlightened their mind and made them fiery by grace!
 
 *Refrain [Megalynarion]:*
 *The Angels, beholding the ascent of the Master, were amazed at how He was taken up with glory from earth unto the highest!*
@@ -518,9 +506,7 @@ God is gone up with a shout, the Lord with the sound of a trumpet.
 *Glory... both now and ever... Kontakion:* Having fulfilled the dispensation for our sake...  
 *Trisagion. Prokeimenon, Tone 7:* Be Thou exalted, O God, above the Heavens, and Thy glory over all the earth. *Verse:* My heart is ready, O God, my heart is ready.  
 *The Epistle from the Acts, Pericope 1:* The former treatise have I made, O Theophilus...[^780]  
-*Alleluia, Tone 2:* God is gone up...
-
-...God is gone up with a shout, the Lord with the sound of a trumpet. *Verse:* Clap your hands, all ye nations.
+*Alleluia, Tone 2:* God is gone up God is gone up with a shout, the Lord with the sound of a trumpet. *Verse:* Clap your hands, all ye nations.
 
 *The Gospel from Luke, Resurrection Gospel 6, Pericope 114 [Luke 24:36-53].*[^781]
 
@@ -766,9 +752,7 @@ Holding victory over hades, Thou didst ascend upon the Cross, O Christ, that Tho
 
 Today Christ, having trampled death, hath risen as He said, and granted rejoicing unto the world, that we all, shouting aloud, may speak thus in hymns: "O Fount of life, unapproachable Light, Almighty Savior, have mercy upon us!"
 
-Whither shall we sinners flee from Thee, O Lord, Who art in all creation? In Heaven Thou dwellest; in hades Thou hast trampled death; in the depths of the sea, there is Thy hand, O Master...
-
-...O Master! Unto Thee we flee, and falling down before Thee we pray: O Thou Who didst rise from the dead, have mercy upon us!
+Whither shall we sinners flee from Thee, O Lord, Who art in all creation? In Heaven Thou dwellest; in hades Thou hast trampled death; in the depths of the sea, there is Thy hand, O Master O Master! Unto Thee we flee, and falling down before Thee we pray: O Thou Who didst rise from the dead, have mercy upon us!
 
 *Stichera of the Ascension, Tone 6:*
 The Lord ascended into the Heavens, that He might send the Comforter unto the world. The Heavens prepared His Throne; the clouds His ascent; the Angels marvel, beholding a man higher than themselves. The Father awaits Him Whom He holds co-eternal in His bosom; and the All-Holy Spirit commands all His Angels: "Lift up your gates, ye princes; clap your hands, all ye nations, for Christ hath ascended whither He was before!"
@@ -787,9 +771,7 @@ Thou wast begotten from the womb before the morning star, without mother from th
 
 Arius, who hated to see the light, falls into the pit of sin, and his bowels are torn asunder by a divine hook, violently surrendering his substance and soul, becoming another Judas in disposition and manner! But the Council in Nicaea proclaimed Thee, O Lord, the Son of God, co-enthroned with the Father and the Spirit!
 
-Senseless Arius severed the all-pure Monarchy of the Trinity into three unlawful and disparate entities. Therefore the God-bearing Fathers, having assembled eagerly, inflamed with zeal like Elijah the Tishbite, cut down with the spiritual sword the shameful teaching...
-
-...that taught the blasphemer, even as the Spirit declared:[^794]
+Senseless Arius severed the all-pure Monarchy of the Trinity into three unlawful and disparate entities. Therefore the God-bearing Fathers, having assembled eagerly, inflamed with zeal like Elijah the Tishbite, cut down with the spiritual sword the shameful teaching that taught the blasphemer, even as the Spirit declared:[^794]
 
 *Glory... Tone 6:*
 Today let us praise the God-bearing Fathers, the mystic trumpets of the Spirit, who sang in the midst of the Church the harmonized tune of theology, proclaiming the changeless Trinity, one in essence and Godhead, who cast down Arius and are champions of the Orthodox, ever praying to the Lord that our souls may find mercy!
@@ -803,12 +785,10 @@ Who would not call thee blessed, O all-holy Virgin? *Look to leaf 116.*[^795]
 Abram, having heard that Lot his brother's son was taken captive, numbered his own home-born servants, three hundred and eighteen, and pursued after them unto Dan. And he fell upon them by night, he and his servants, and smote them, and pursued them unto Hobah, which is on the left of Damascus. And he brought back all the cavalry of Sodom, and he brought back Lot his brother's son, and all his goods, and the women, and the people. And the king of Sodom went out to meet him, after he returned from the slaughter of Chedorlaomer, and of the kings that were with him, to the valley of Shaveh, which was the king's dale. And Melchizedek king of Salem brought forth bread and wine; and he was the priest of the Most High God. And he blessed Abram, and said: "Blessed be Abram of the Most High God, who created heaven and earth; and blessed be the Most High God, who hath delivered thine enemies into thy hands!"
 
 *Reading from Deuteronomy (1:8–17):*[^797]
-In those days, Moses said unto the sons of Israel: "The Lord God saith: Behold, I have delivered the land before your face; go ye in and inherit the land which I sware unto your fathers, to Abraham, Isaac, and Jacob, to give it to them and to their seed after them. And I spake unto you at that time, saying: I cannot bear you alone. The Lord our God hath multiplied you, and behold, ye are this day as the stars of heaven for multitude. The Lord God of our fathers make you a thousand times so many more as ye are, and bless you, even as He hath spoken unto you! And I took of you wise men, known and prudent, and made them rulers over you, rulers of thousands, and rulers of hundreds, and rulers of fifties, and rulers of tens, and officers to your judges. And I commanded your judges at that time, saying: Hear the causes between your brethren, and judge righteously between a man and his brother, and the stranger that is with him. Ye shall not respect persons in judgment; ye shall judge small and great alike; ye shall not be afraid of the face of man, for the judgment is God's!"
+In those days, Moses said unto the sons of Israel: "The Lord God says: Behold, I have delivered the land before your face; go ye in and inherit the land which I sware unto your fathers, to Abraham, Isaac, and Jacob, to give it to them and to their seed after them. And I spake unto you at that time, saying: I cannot bear you alone. The Lord our God hath multiplied you, and behold, ye are this day as the stars of heaven for multitude. The Lord God of our fathers make you a thousand times so many more as ye are, and bless you, even as He hath spoken unto you! And I took of you wise men, known and prudent, and made them rulers over you, rulers of thousands, and rulers of hundreds, and rulers of fifties, and rulers of tens, and officers to your judges. And I commanded your judges at that time, saying: Hear the causes between your brethren, and judge righteously between a man and his brother, and the stranger that is with him. Ye shall not respect persons in judgment; ye shall judge small and great alike; ye shall not be afraid of the face of man, for the judgment is God's!"
 
 *Reading from Deuteronomy (10:14–21):*[^798]
-In those days, Moses said unto the sons of Israel: "Behold, the heaven and the heaven of heavens belong to the Lord thy God, the earth also, with all that therein is. Only the Lord chose your fathers to love them in truth, and chose their seed after them, even you above all nations, this day. Circumcise therefore the hardness of your heart, and be no more stiff-necked. For the Lord our God, He is God of gods, and Lord of lords, a great God, a mighty, and a terrible, who regards not persons, nor accepts a bribe. He executs the judgment of the stranger, the fatherless, and the widow, and loves the stranger, in giving him...
-
-...food and raiment. Love ye therefore the stranger, for ye were strangers in the land of Egypt. Thou [O Israel] shalt fear the Lord thy God; Him only shalt thou serve, and to Him shalt thou cleave, and swear by His Name. He is thy praise, and He is thy God, that hath done for thee these great and glorious things, which thine eyes have seen."
+In those days, Moses said unto the sons of Israel: "Behold, the heaven and the heaven of heavens belong to the Lord thy God, the earth also, with all that therein is. Only the Lord chose your fathers to love them in truth, and chose their seed after them, even you above all nations, this day. Circumcise therefore the hardness of your heart, and be no more stiff-necked. For the Lord our God, He is God of gods, and Lord of lords, a great God, a mighty, and a terrible, who regards not persons, nor accepts a bribe. He executes the judgment of the stranger, the fatherless, and the widow, and loves the stranger, in giving him food and raiment. Love ye therefore the stranger, for ye were strangers in the land of Egypt. Thou [O Israel] shalt fear the Lord thy God; Him only shalt thou serve, and to Him shalt thou cleave, and swear by His Name. He is thy praise, and He is thy God, that hath done for thee these great and glorious things, which thine eyes have seen."
 
 *At the Litiya, Stichera of the Saint of the temple. And of the Ascension, idiomelon:*
 *Tone 1:*
@@ -926,9 +906,7 @@ Having received Thine own Maker, as He Himself willed, incarnate beyond understa
 
 *Canon of the Ascension, Tone 5, Ode 1. Heirmos: Unto God the Savior...*[^810]
 *Troparion:*
-Let all of us people sing unto Christ who ascended with glory upon the shoulders of the Cherubim...
-
-...unto Christ who hath ascended with glory and seated Himself at the right hand of the Father: let us sing a song of victory, for He hath been glorified!
+Let all of us people sing unto Christ who ascended with glory upon the shoulders of the Cherubim unto Christ who hath ascended with glory and seated Himself at the right hand of the Father: let us sing a song of victory, for He hath been glorified!
 
 Beholding Christ, the Mediator between God and men, in the flesh on high, the angelic ranks were amazed, and with one accord sang a song of victory, for He hath been glorified!
 
@@ -978,9 +956,7 @@ Unceasingly pray, O pure Virgin, unto Him that came forth from thy womb, that th
 
 *Canon of the Holy Fathers, Tone 6, Ode 3. Heirmos: There is none holy as Thou...*
 *Troparion:*
-Arius the senseless wasted the stream of healing, blaspheming against the divine generation...
-
-...falsely applying creation to the divine nature: and is cut down by the sharp sword of their teachings!
+Arius the senseless wasted the stream of healing, blaspheming against the divine generation falsely applying creation to the divine nature: and is cut down by the sharp sword of their teachings!
 
 Even as divine Abraham in days of old, all the most honored and clear-voiced ones, having mustered their spiritual host, mightily destroyed Thy furious enemies by Thy power, O Good One!
 
@@ -1125,9 +1101,7 @@ Let us hear the Church of God crying aloud with an exalted preaching: "He that t
 
 On this same day, the Seventh Sunday after Pascha, we celebrate the First Council in Nicaea of the three hundred and eighteen God-bearing Fathers, for the following cause: Since our Lord Jesus Christ, clothed in the flesh, was truly the Son of God and became man, and as perfect man and God ascended and sat down at the right hand of the Majesty on high: this council of holy Fathers so proclaimed Him, and confessed Him consubstantial and co-honored with the Father; and by these words, after the glorious Ascension, they instituted the present feast, setting forth the assembly of so many Fathers who proclaimed Him who ascended in the flesh to be true God, and in the flesh perfect man.
 
-This Council took place in the days of Constantine the Great, in the twentieth year of his reign, after the persecutions had ceased. Having first reigned in Rome, he afterward rebuilt Byzantium into Constantinople, named after himself, in the year 5818 from the creation of the world. Then they began to speak against Arius: for this Arius was from Libya, and having come to Alexandria, was ordained deacon by the Hieromartyr Peter of Alexandria; but because he began to utter blasphemies against the Son of God, preaching Him to be created from non-existence and far removed from the Father's divine dignity, and using the titles "Wisdom" and "Word" of God in an improper sense, resembling the wicked Sabellius, who taught a single person and single hypostasis in the Godhead, saying that at one time He was Father, at another Son, and at another Holy Spirit. When Arius uttered these blasphemies, the Great Peter excommunicated him from the priesthood, having seen Christ as an infant upon the holy altar clothed in a torn tunic, who said: "Arius hath torn it!" Achilles, who received the patriarchate of Alexandria after Peter, upon his promise again absolved Arius, and moreover ordained him presbyter and appointed him teacher in Alexandria. But when Achilles died, Alexander became patriarch, who, finding Arius uttering yet worse blasphemies, deposed him by a council in Alexandria; for as Theodoret saith, he taught that the nature of Christ was mutable, and was the first to spew forth the heresy that the Lord assumed mindless and soulless flesh. Arius, having taught many his impiety, wrote to and won over Eusebius of Nicomedia, Paulinus of Tyre, Eusebius of Caesarea, and others, and set himself against Alexander. But Alexander sent...
-
-...sending everywhere an account of his blasphemies and his deposition, and stirred up many. The Church indeed was thrown into confusion, and many desiring to embrace Christian teachings were hindered by the contentious doctrine.
+This Council took place in the days of Constantine the Great, in the twentieth year of his reign, after the persecutions had ceased. Having first reigned in Rome, he afterward rebuilt Byzantium into Constantinople, named after himself, in the year 5818 from the creation of the world. Then they began to speak against Arius: for this Arius was from Libya, and having come to Alexandria, was ordained deacon by the Hieromartyr Peter of Alexandria; but because he began to utter blasphemies against the Son of God, preaching Him to be created from non-existence and far removed from the Father's divine dignity, and using the titles "Wisdom" and "Word" of God in an improper sense, resembling the wicked Sabellius, who taught a single person and single hypostasis in the Godhead, saying that at one time He was Father, at another Son, and at another Holy Spirit. When Arius uttered these blasphemies, the Great Peter excommunicated him from the priesthood, having seen Christ as an infant upon the holy altar clothed in a torn tunic, who said: "Arius hath torn it!" Achilles, who received the patriarchate of Alexandria after Peter, upon his promise again absolved Arius, and moreover ordained him presbyter and appointed him teacher in Alexandria. But when Achilles died, Alexander became patriarch, who, finding Arius uttering yet worse blasphemies, deposed him by a council in Alexandria; for as Theodoret says, he taught that the nature of Christ was mutable, and was the first to spew forth the heresy that the Lord assumed mindless and soulless flesh. Arius, having taught many his impiety, wrote to and won over Eusebius of Nicomedia, Paulinus of Tyre, Eusebius of Caesarea, and others, and set himself against Alexander. But Alexander sent sending everywhere an account of his blasphemies and his deposition, and stirred up many. The Church indeed was thrown into confusion, and many desiring to embrace Christian teachings were hindered by the contentious doctrine.
 
 Constantine the Great therefore gathered the holy Fathers in Nicaea from all over the world, providing public carriages and conveyances; and he himself came thither. And when all the Fathers were seated, he sat not upon an imperial throne, but upon a humble chair. And when the charges against Arius were declared, he and all who thought with him were put under anathema; and the Word of God was proclaimed by the holy Fathers to be consubstantial, co-honored, and co-unoriginate with the Father. And they set forth the holy Symbol of Faith, bringing it up to: "And in the Holy Spirit, the Lord...", which the Second Council afterward completed. Furthermore, the First Council confirmed the feast of Pascha, when and how we ought to celebrate it, and not with the Jews, as was formerly the custom. They also set forth twenty canons for ecclesiastical order. And the holy Symbol of Faith Constantine the Great, the equal-to-the-apostles, confirmed last of all in red letters. There were present of these holy Fathers: two hundred and thirty-two hierarchs, and eighty-six priests, deacons, and monks: in all, three hundred and eighteen. The most renowned among them were: Sylvester, Bishop of Rome, and Metrophanes of Constantinople, who being infirm, were present through their locum tenentes; Alexander of Alexandria, with Athanasius the Great, then archdeacon; Eustathius of Antioch, and Macarius of Jerusalem; Hosius, Bishop of Cordoba; Paphnutius the Confessor; Nicholas the Myrrh-streamer, and Spyridon of Trimythous, who having overcome a philosopher there, baptized him, showing him the three-in-one Godhead. In the midst of the Council, two bishop-fathers having passed away unto God, Constantine the Great placed the definitions of the holy Council in their caskets and locked them firmly, and found them also sealed and signed by their hands with ineffable words of God!
 
@@ -1201,9 +1175,7 @@ The choir of shepherds, ever remembered, having gathered together, divinely theo
 The sacred hierarchs, shepherds worthy of glory, enlighten the Church of Christ, proclaiming pious words everywhere, and supremely exalting Christ unto all ages!
 
 *Theotokion:*
-Mystically in figures the prophets foresaw thee...
-
-...prophets [foresaw thee], who gavest birth unto the Word; for taking flesh from thee, He came forth twofold: Whom we exalt supremely unto all ages!
+Mystically in figures the prophets foresaw thee prophets [foresaw thee], who gavest birth unto the Word; for taking flesh from thee, He came forth twofold: Whom we exalt supremely unto all ages!
 
 *Then: We praise, we bless, we worship the Lord...*
 
@@ -1258,9 +1230,7 @@ The Sea of Tiberias with the children of Zebedee, Nathanael with Peter, and two 
 Celebrating today the memory of the divine Fathers, by their supplications we pray, O all-bountiful Lord: Deliver Thy people from every harm of heresies, and vouchsafe all to glorify the Father, the Word, and the All-Holy Spirit!
 
 *Both now... Podoben: "Give ear, ye women" (Подо́бенъ):*
-While the disciples were gazing upon Thee, Thou didst ascend, O Christ, unto the Father with the apostles...
-
-...unto supremacy: the angels running before cried aloud: Lift up the gates, lift up! The King hath ascended unto primal radiant glory![^841]
+While the disciples were gazing upon Thee, Thou didst ascend, O Christ, unto the Father with the apostles unto supremacy: the angels running before cried aloud: Lift up the gates, lift up! The King hath ascended unto primal radiant glory![^841]
 
 *At the Praises: Resurrectional Stichera, 4; and of the Holy Fathers, 4. Tone 6.*
 
@@ -1298,9 +1268,7 @@ After the descent into hades and the resurrection from the dead, the disciples, 
 
 *Then: Catechesis of Saint Theodore the Studite, and the First Hour, and the Final Dismissal.*[^848]
 
-*At the Liturgy:* *Resurrectional Beatitudes, Tone 6, on 6; and from the Canon of the Holy Fathers, Ode 6, on 4. Instead of the Prokeimenon, the Hymn of the Fathers, Tone 7: Blessed art Thou, O Lord God of our fathers...*
-
-Blessed art Thou, O Lord God of our fathers, and praised and glorified is Thy name unto the ages! *Verse: For Thou art righteous in all that Thou hast done for us [Daniel 3:26–27].* *Epistle: Acts of the Apostles, Pericope 44 (Acts 20:16–18, 28–36).*[^849] *Alleluia, Tone 4: The God of gods, the Lord, hath spoken, and called the earth...* *Verse: Gather unto Him His venerable ones [LXX Ps. 49:1, 5].*[^850] *Gospel: from John, Pericope 56 (John 17:1–13).*[^851] *Communion Verse: Praise the Lord from the heavens [LXX Ps. 148:1].*[^852] *Another: The righteous shall be in everlasting remembrance [LXX Ps. 111:6].*[^853]
+*At the Liturgy:* *Resurrectional Beatitudes, Tone 6, on 6; and from the Canon of the Holy Fathers, Ode 6, on 4. Instead of the Prokeimenon, the Hymn of the Fathers, Tone 7: Blessed art Thou, O Lord God of our fathers* Blessed art Thou, O Lord God of our fathers, and praised and glorified is Thy name unto the ages! *Verse: For Thou art righteous in all that Thou hast done for us [Daniel 3:26–27].* *Epistle: Acts of the Apostles, Pericope 44 (Acts 20:16–18, 28–36).*[^849] *Alleluia, Tone 4: The God of gods, the Lord, hath spoken, and called the earth...* *Verse: Gather unto Him His venerable ones [LXX Ps. 49:1, 5].*[^850] *Gospel: from John, Pericope 56 (John 17:1–13).*[^851] *Communion Verse: Praise the Lord from the heavens [LXX Ps. 148:1].*[^852] *Another: The righteous shall be in everlasting remembrance [LXX Ps. 111:6].*[^853]
 
 ## Seventh Sunday after Pascha: Vespers
 
@@ -1341,9 +1309,7 @@ Faithful guardians of the apostolic traditions were ye, O holy Fathers: for havi
 *At "God is the Lord": Troparion of the Feast (thrice).*
 
 *After the First Kathisma, Sessional Hymn, Tone 6:*
-From on high unto earth didst Thou descend, O my Christ, and immediately from earth didst Thou ascend on high unto Thy Father...
-
-...while the disciples were gazing upon Thy departure: with them therefore celebrating, we sing Thy saving Ascension! *Glory... Both now... the same.*
+From on high unto earth didst Thou descend, O my Christ, and immediately from earth didst Thou ascend on high unto Thy Father while the disciples were gazing upon Thy departure: with them therefore celebrating, we sing Thy saving Ascension! *Glory... Both now... the same.*
 
 *After the Second Kathisma, Sessional Hymn, Tone 8, Podoben: "Of wisdom" (Премꙋ́дрости):*[^860]
 Seated upon the heavenly clouds, having left peace unto those on earth, Thou didst ascend and sit at the right hand of the Father, as being consubstantial with Him and the Spirit; for even though Thou didst appear in the flesh, yet Thou didst remain unchangeable: therefore Thou awaitest the end of the dispensation, when Thou shalt come to judge all things! O righteous Lord, spare our souls, granting remission of transgressions, as a merciful God, unto Thy servants! *Glory... Both now... the same.*
@@ -1418,9 +1384,7 @@ While Thy divine disciples visibly beheld Thee, O Christ, Thou didst ascend from
 The multitude of angels marveled at Thy strange and fearful ascension, O Jesus, King of all, and they cried unto the heavenly gates to be lifted up, unto the highest powers now!
 
 *Glory... Both now... Tone 8:*
-Thou hast ascended in glory into the heavens, O Thou who fillest all things with Thy Godhead, and didst sit at the right hand of the Father, being from the beginning God the Word: therefore the heavenly hosts, beholding, cried fearfully unto the apostles: "Why stand ye looking into heaven? Behold, He whom ye have seen, the same shall come again...
-
-...with glory to judge all the earth, and to reward each according to his works!" Unto Whom let us cry aloud: O incomprehensible Lord, glory to Thee! *Then: "Now lettest Thou Thy servant depart..." and the Dismissal.*
+Thou hast ascended in glory into the heavens, O Thou who fillest all things with Thy Godhead, and didst sit at the right hand of the Father, being from the beginning God the Word: therefore the heavenly hosts, beholding, cried fearfully unto the apostles: "Why stand ye looking into heaven? Behold, He whom ye have seen, the same shall come again with glory to judge all the earth, and to reward each according to his works!" Unto Whom let us cry aloud: O incomprehensible Lord, glory to Thee! *Then: "Now lettest Thou Thy servant depart..." and the Dismissal.*
 
 ## Tuesday of the Seventh Week after Pascha: Matins
 
@@ -1543,9 +1507,7 @@ Having ascended into the heavens, O all-good Master, Thou didst send the true Co
 *Theotokion:*
 Incarnate from thee, O pure one, came forth the Word, righting the fall of the first-fashioned through the compassion of His mercies!
 
-*Ode 8. Heirmos: In the unquenchable fire...*[^891]
-
-Having accomplished by almighty power the dispensation for us, O God, Thou didst ascend while Thy disciples gazed, and cried unto Thee with fear: Bless the Lord, all ye works of the Lord![^892]
+*Ode 8. Heirmos: In the unquenchable fire*[^891] Having accomplished by almighty power the dispensation for us, O God, Thou didst ascend while Thy disciples gazed, and cried unto Thee with fear: Bless the Lord, all ye works of the Lord![^892]
 
 "Ye men of Galilee, truly why look ye thus, as He ascends close unto heaven?" the angels said: "even as ye see Him, so again shall He come to judge all creation: Whom we exalt supremely unto the ages!"
 
@@ -1627,9 +1589,7 @@ Elijah the charioteer passed into hearing, prefiguring of old Thy divine Ascensi
 While the disciples were terrified at the fearful taking up and marveled, the divine angels proclaimed: "Ye men of Galilee, as ye see, so again shall Jesus come to judge all!"
 
 *Theotokion:*
-Having renewed crushed human nature, O most pure one, which had bowed down to corruption, having incarnated God and given birth beyond nature, O unwedded Maiden, unto Him we cry: Glory to Thy power, O Lord! *Ode 8. Heirmos: The children walking...*
-
-*Troparia:*
+Having renewed crushed human nature, O most pure one, which had bowed down to corruption, having incarnated God and given birth beyond nature, O unwedded Maiden, unto Him we cry: Glory to Thy power, O Lord! *Ode 8. Heirmos: The children walking Troparia:*
 Walking upon the wings of the winds, borne upon a cloud, He is now received up into the heavens where He was before; He sends the Comforter unto the disciples, as they praise and supremely exalt Him unto the ages!
 
 Having willingly endured the Crucifixion and Burial, Thou didst rise on the third day, O almighty One, and appearing unto those that love Thee during forty days, Thou didst make them glad; then having blessed them, Thou didst ascend unto Thy Father with glory!
@@ -1720,7 +1680,7 @@ A receptacle of the Light that enlightened all creation hast thou been shown to 
 [^759]: Festal Matins Patristic reading: Encomium on the Ascension by Lord Andrew of Crete ("Кѵ́ръ А҆ндре́а").
 [^760]: The 1642 text misidentifies the Gospel reading as "Еѵа́ггелїе ѿ Матѳе́а: зача́ло од҃", whereas the incipit "Воскре́съ І҆исоу́съ заꙋ́тра въ пе́рвꙋю сꙋббѡ́тꙋ" corresponds to Mark 16:9-20 (Pericope 71), which is the Third Resurrection Matins Gospel appointed for the Ascension.
 [^761]: First Canon of the Ascension (Tone 5), composed by St. John of Damascus ("Кѵ́ръ І҆ѡа́нна Мона́ха"), sung with the Heirmos twice and Troparia on 6.
-[^762]: Second Canon of the Ascension (Tone 4), composed by St. Joseph the Hymnographer, bearing an alphabetical acrostic in Odes 1-7, and the Greek acrostic ὨΙΔΗ ІΩСИФ ("Song of Joseph") across Odes 8-9.
+[^762]: Second Canon of the Ascension (Tone 4), composed by St. Joseph the Hymnographer, bearing an alphabetical acrostic in Odes 1-7, and the Greek acrostic ὨΙΔΗ ІѠСИФ ("Song of Joseph") across Odes 8-9.
 [^763]: The Katavasiai for the Canon of the Ascension in the 1642 Slozka print are taken from the Iambic Canon of Pentecost ("Боже́ственнымъ покрове́нъ бы́въ...").
 [^764]: Katavasia of Ode 3: based on the Prayer of Hannah (1 Kingdoms / 1 Samuel 2:1-10; LXX).
 [^765]: Sessional Hymn after Ode 3, Tone 8, Podoben: "Of the Wisdom" (Премꙋ́дрости / "Of the Wisdom and the Word").
@@ -1800,7 +1760,7 @@ A receptacle of the Light that enlightened all creation hast thou been shown to 
 [^839]: Katavasia of Ascension Ode 9 ("Thee who art beyond mind and word..."), with alternative option from the Iambic Pentecost Canon ("Strange and marvelous is the Virgin's womb...").
 [^840]: Tenth Resurrection Matins Exapostilarion (John 21:1–14).
 [^841]: Concluding line of the Ascension Theotokion / Exapostilarion at Matins, continued from leaf p371.
-[^842]: Prosomoion model: Tone 6, "Having laid aside all earthly hope" (Slavonic: Всѐ ᲂу҆пова́нїе; Greek: Ὅλην ἀποθέмеνοι).
+[^842]: Prosomoion model: Tone 6, "Having laid aside all earthly hope" (Slavonic: Всѐ ᲂу҆пова́нїе; Greek: Ὅλην ἀποθέμενοι).
 [^843]: Psalm 150:4.
 [^844]: Psalm 150:6.
 [^845]: Song of the Three Holy Children (Daniel 3:26).
@@ -1859,7 +1819,7 @@ A receptacle of the Light that enlightened all creation hast thou been shown to 
 [^898]: Psalm 46:6.
 [^899]: Leaf 344 (`тм҃д`, physical leaf p349) contains the Idiomelon Sticheron of the Ascension in Tone 4 ("Ascending into the heavens whence also Thou didst descend...").
 [^900]: Prosomoion model: Tone 1, "When the stone had been sealed" (Slavonic: Ка́мени зна́менанꙋ; Greek: Τοῦ λίθου σφραγισθέντος).
-[^901]: Prosomoion model: Tone 2, "O House of Ephratha" (Slavonic: До́ме є҆ѵфра́ѳовъ; Greek: Οἶκος τοῦ Ἐφраθᾶ).
+[^901]: Prosomoion model: Tone 2, "O House of Ephratha" (Slavonic: До́ме є҆ѵфра́ѳовъ; Greek: Οἶκος τοῦ Ἐφραθᾶ).
 [^902]: Psalm 46:2.
 [^903]: Psalm 46:6.
 [^904]: Cross-reference to the Sessional Hymn of the Ascension appointed after the Polyeleos / Kathismata on the day of the feast.

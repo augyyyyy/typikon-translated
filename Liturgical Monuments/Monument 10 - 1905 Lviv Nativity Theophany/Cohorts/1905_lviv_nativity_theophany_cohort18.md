@@ -11,7 +11,7 @@ An incomprehensible mystery is accomplished today in Bethlehem: the Invisible is
 
 === LEAF p172 ===
 nature; the manger is prefigured as the heavenly throne; the cattle typify the standing of the Cherubim; the shepherds marvel, the Magi offer gifts; the angels chanting say: Glory to God in the highest, and on earth peace, good will toward men; for Emmanuel is unchangeable.[^528]
-*At the Aposticha, Stichera, Tone 6. Podoben: "Angelic powers...":*[^529]
+*At the Aposticha, Stichera, Tone 6. Podoben: "Angelic powers..." (А҆́гг҃льскїѧ пред̾иди́те си́лы):*[^529]
 All creation keeps festival with joy, and the heavens rejoice with us; for the Creator, becoming incarnate of the Virgin, was seen most gloriously as an infant in the manger in Judean Bethlehem; let us, the peoples, say: Blessed art Thou Who wast born, O our God, glory to Thee.
 *Verse:* From the womb before the morning star have I begotten Thee: the Lord has sworn, and will not repent.
 That Thou mightest make earthly beings heavenly, Thou didst come upon earth, becoming incarnate of the Virgin, and wast seen as an infant, Thou Who art the pre-eternal Word; Thou didst move the Magi from Persia to worship Thee, O compassionate One; with whom we cry aloud: Blessed art Thou Who wast born, O our God, glory to Thee.

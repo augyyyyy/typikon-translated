@@ -221,6 +221,7 @@ def test_universal_cohort_and_apparatus_healer():
         "\ufeff[17th-century marginalia: \"сто рословъ нинець\" (one hundred words)]\n"
         "*Nekrosimon:*\n"
         "He showeth mercy and trampleth down death, as Thou art God Who hast risen<sup>1</sup>.\n"
+        "Rear endpaper pastedown with penciled institutional cataloguing shelfmarks: МКДУ 2353 / Сд 115.\n"
     )
     healed_body, mod_b = heal_cohort_and_apparatus_text(raw_body, is_footnotes=False)
     assert mod_b is True
@@ -229,6 +230,7 @@ def test_universal_cohort_and_apparatus_healer():
     assert "*Hymn for the Departed (Поко́инъ):*" in healed_body
     assert "shows mercy and tramples down death" in healed_body
     assert "Thou art God Who hast risen¹." in healed_body
+    assert "(*МКДУ 2353 / Сд 115*)." in healed_body
 
     raw_fn = "[^9]: The Irmos and Sedalen and Apolytikion form a poignant beacon of hope for the Nekrosimon."
     healed_fn, mod_f = heal_cohort_and_apparatus_text(raw_fn, is_footnotes=True)

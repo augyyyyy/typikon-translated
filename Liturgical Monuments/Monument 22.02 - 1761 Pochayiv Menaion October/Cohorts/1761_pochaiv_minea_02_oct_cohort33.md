@@ -38,7 +38,7 @@ With boldness thou didst proclaim the truth, O glorious one, as a most lawful so
 
 How beautiful did thy feet become, adorned with martyrdom, to run an irrevocable course! And having indeed finished thy course, thou didst keep the faith, and didst receive the crown from the hand of the Master: entreat Him to deliver from corruption and perils those who celebrate thy most honorable memory with faith.
 
-*Glory, both now, Theotokion, the same Podoben:*
+*Glory, both now, Theotokion, the same Podoben (Подо́бенъ то́йже):*
 I have been cast down to the earth, I have been slain by sins, by passions of soul and body;
 === END LEAF p322 ===
 

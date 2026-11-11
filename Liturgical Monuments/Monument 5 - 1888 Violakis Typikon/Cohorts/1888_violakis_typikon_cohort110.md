@@ -34,7 +34,7 @@ For an exhaustive and authoritative presentation of the rubrical order of Matins
 
 **MEGALI OKTOICHOS** (*Μεγάλη ᾿Οκτώηχος*): The Great Oktoechos; synonymous with the **PARAKLITIKI**.
 
-**MEGALI SYNAPTI** (*Μεγάλη Συναπτή, ἡ*): The Great Synapte; the Great Litany or Litany of Peace, consisting of an expansive series of petitions chanted by the deacon and concluded with the priestly doxology.
+**MEGALI SYNAPTI** (*Μεγάλη Συναπτή, ἡ*): The Great Synapte; the Great Litany of Peace, consisting of an expansive series of petitions chanted by the deacon and concluded with the priestly doxology.
 
 **MEGALYNARION** (*Μεγαλυνάριον, τό*; Slav. *Velichanie* / *Величаніе*): A hymn of praise and magnification in honor of the Most Holy Theotokos or a sacred feast, chanted following the epiklesis and the hymn **"We praise Thee, we bless Thee"** (*Σὲ ὑμνοῦμεν*) during the Anaphora of the Divine Liturgy. The Megalynarion is frequently the model strophe or **Heirmos** (*Εἱρμός*) of the Ninth Ode of the Canon appointed at Matins for the feast, such as **"Shine, shine, O New Jerusalem"** (*Φωτίζου, φωτίζου*) from the Ninth Ode of the Paschal Canon. On other occasions, the Megalynarion is an independent festive composition, such as **"All of creation rejoices in thee"** (*«᾿Επὶ σοὶ χαίρει»*) chanted at the Divine Liturgy of Saint Basil the Great. The Megalynarion standardly chanted at the Divine Liturgy of Saint John Chrysostom is **"It is truly meet"** (*«῎Αξιόν ἐστιν»*).[^642]
 
@@ -80,7 +80,7 @@ Furthermore, the Megalynarion customarily incorporates either at its beginning o
 
 **METASTASIS** (*μετάστασις, ἡ*): See **TRANSLATION** (*μετάστασις, ἡ*; repose or translation unto Heaven).
 
-**METHEORTA** (*μεθέορτα, τά*), **METHEORTIA** (*μεθεόρτια, τά*; Slav. *Poprazdnstvo* / *Попраздνство*): The Greek neuter plural denoting the festal period of the **Afterfeast** (lit. 'post-feast'): This is a liturgical season appended to a Great Feast celebrated in the Byzantine Rite, extending from one to eight days following the principal feast day, during which the mystery of the feast continues to be commemorated in the daily hymnography and prayers. This festal cycle corresponds functionally to the Western liturgical octave. The final concluding day of this festal period is[^644]
+**METHEORTA** (*μεθέορτα, τά*), **METHEORTIA** (*μεθεόρτια, τά*; Slav. *Poprazdnstvo* / *Попразднство*): The Greek neuter plural denoting the festal period of the **Afterfeast** (lit. 'post-feast'): This is a liturgical season appended to a Great Feast celebrated in the Byzantine Rite, extending from one to eight days following the principal feast day, during which the mystery of the feast continues to be commemorated in the daily hymnography and prayers. This festal cycle corresponds functionally to the Western liturgical octave. The final concluding day of this festal period is[^644]
 
 *(Printed Page TD-100)*
 
@@ -132,7 +132,7 @@ This eightfold modal classification system in Byzantine chant and hymnology gave
 
 ## Extended Dictionary of Typikon Related Terms (The Cycle of Modes Part 2: Weekly Oktoechos Cycle, Paschal Sequence) [Demos, p. 1082 / TD-103]
 
-### The Cycle of the Eight Tones (Modes)
+**The Cycle of the Eight Tones (Modes)**
 
 In Byzantine liturgical music, eight canonical Tones are recognized: Tone 1 (Mode I), Tone 2 (Mode II), Tone 3 (Mode III), Tone 4 (Mode IV), Tone 5 (Mode I Plagal), Tone 6 (Mode II Plagal), Tone 7 (Varys / Grave Tone), and Tone 8 (Mode IV Plagal). All hymnography of the Byzantine liturgical tradition is set within one of these eight Tones. The Eight Tones constitute the foundational architectural framework around which the Church organizes the daily offices and their hymnographic cycles throughout the ecclesiastical year. This structural logic is codified within the principal liturgical book of the daily cycle, the **Paraklitiki** (**Megali Oktoichos** / *Μεγάλη ᾿Οκτώηχος*).
 
@@ -195,7 +195,7 @@ A third profound mystery is the divine action of the Holy Mysteries in uniting m
 
 # Appendix: Dictionary of Terms Related to the Typikon
 
-## Extended Dictionary of Typikon Related Terms (Narthex Concluded Part 2 – Nave – Nekrosimon – Nicene-Constantinopolitan Creed – Now and Ever) [Demos, p. 1085 / TD-106]
+## Extended Dictionary of Typikon Related Terms (Narthex Concluded Part 2 – Nave – Hymn for the Departed (Поко́инъ) – Nicene-Constantinopolitan Creed – Now and Ever) [Demos, p. 1085 / TD-106]
 
 the departed, light tapers, and reverence holy icons. In early Christian centuries, the Narthex fulfilled essential liturgical functions: on Sundays and feast days it was occupied by catechumens preparing for Holy Baptism and by penitents performing public penance, who followed the sacred services from this outer station. The poor and infirm gathered in the narthex to receive alms from the faithful. Ecclesiastical history records instances where holy hierarchs and pastors stood in the narthex to bar the entrance of heretics and unrepentant sinners from entering the church proper.
 
@@ -203,7 +203,7 @@ During centuries of Ottoman subjection in Greece and under atheist Communist reg
 
 **NAVE** (*ναός, ὁ*): The central hall of the church building situated between the Narthex (vestibule) and the Sanctuary. In Eastern Christian theology, the tripartite structure of the church building (Sanctuary, Nave, and Narthex) mirrors the tripartite structure of the ancient Tabernacle and Solomon's Temple (Holy of Holies, Holy Place, and Outer Court). While the Holy of Holies was entered exclusively by the High Priest once a year on the Day of Atonement, the Christian Sanctuary enshrines the Holy Table where the Eucharistic Sacrifice is continually offered, while the faithful assemble within the Nave to participate in the sacred mysteries.
 
-**NEKROSIMON** (*Νεκρώσιμον, τό*, pl. *Νεκρώσιμα, τά*): A funeral or memorial hymn, or an entire liturgical office chanted in commemoration of the reposed faithful.
+**Hymn for the Departed (Поко́инъ)** (*Νεκρώσιμον, τό*, pl. *Νεκρώσιμα, τά*): A funeral or memorial hymn, or an entire liturgical office chanted in commemoration of the reposed faithful.
 
 **NICENE-CONSTANTINOPOLITAN CREED** (*Σύμβολον τῆς Πίστεως*): The Symbol of Faith. See **CREED**.
 

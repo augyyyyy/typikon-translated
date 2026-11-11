@@ -36,28 +36,34 @@ HUMAN_INDICATORS = re.compile(
     r'Archbishop|Archpriest|Protodeacon|Hierarch|Superior|Abbot|celebrant|'
     r'saint|saints|Saint|Saints|Prophet|prophet|Forerunner|forerunner|Baptist|baptist|Apostle|apostle|Martyr|martyr|Hieromartyr|passion-bearer|passion-bearers|'
     r'Monk|monk|Father|fathers|Synod|Dolnytsky|Mark|Sabbas|Basil|Chrysostom|'
-    r'Nicholas|George|Theodore|Athanasius|Gregory|Neilos|Nilus|Bartholomew|'
-    r'Peter|Paul|John|Luke|Matthew|Thomas|Andrew|James|Philip|Simon|Jude|Matthias|Timothy|Titus|Lazarus|Martha|Mary|'
-    r'Cyprian|Alphonsus|Augustine|Jerome|Ambrose|Damascene|'
+    r'Nicholas|George|Theodore|Joannicius|Athanasius|Gregory|Neilos|Nilus|Bartholomew|'
+    r'Peter|Paul|John|Luke|Matthew|Thomas|Andrew|James|Philip|Simon|Jude|Matthias|Timothy|Titus|Lazarus|Martha|Mary|Cornelius|'
+    r'Euthymius|Anthony|Maximus|Theodosius|Macarius|Agathangelus|Xenia|Ephraim|Ignatius|Simeon|Anna|Tryphon|Agatha|Parthenius|Charalampus|Blase|Meletius|Auxentius|Onesimus|Flavian|Porphyrius|Procopius|Cassian|Eudocia|Gerasimus|Conon|Sophronius|Theophanes|Benedict|Alexius|Cyril|Daria|Chrysanthus|Gabriel|Archangel|Michael|Zosimas|Eutychius|Antipas|Martin|Irene|Acacius|Stephen|Pachomius|Modestus|Constantine|Helena|Helen|Nicetas|Onuphrius|Amos|Tychon|Leontius|Sampson|Cyrus|Cosmas|Damian|Hyacinth|Pancratius|Euphemia|Vladimir|Olga|Marina|Macrina|Elijah|Elias|Ezekiel|Christina|Panteleimon|Callinicus|Eudocimus|Maccabees|Eleazar|Solomonia|Eusignius|Ananias|Azariah|Mishael|Daniel|Habakkuk|Jonah|Isaiah|Jeremiah|Zacharias|Zechariah|Elizabeth|Joachim|'
+    r'Cyprian|Alphonsus|Augustine|Jerome|Ambrose|Damascene|Barbara|Sozon|Symeon|Triphyllius|Lysimachus|Febronia|'
     r'Leo|Allatius|Benjamin|Clement|confessor|author|editor|publisher|writer|'
-    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|Arius|Nestorius|Adam|Eve|Cain|Abel|Seth|Enos|Cainan|Mahalalel|Jared|Enoch|Methuselah|Lamech|Noah|David|Joseph|Moses|Balaam|Israel|Abraham|Abram|Isaac|Jacob|Solomon|Christians|brother|'
+    r'composer|choir|choirs|Khagan|enemy|enemies|Emperor|king|kings|Arius|Nestorius|Adam|Eve|Cain|Abel|Seth|Enos|Cainan|Mahalalel|Jared|Enoch|Methuselah|Lamech|Noah|David|Joseph|Moses|Balaam|Israel|Egyptians|Egyptian|Abraham|Abram|Isaac|Jacob|Solomon|Christians|brother|'
     r'brethren|first deacon|second deacon|first choir|the saint|to the saint|'
     r'of the saint|if he has|if he does|nor is he|candle-bearer|sacristan|'
     r'pastor|parishioner|administrator|trustee|trustees|vicar|decan|cantor|chanter|chanters|singer|singers|'
-    r'deacons|concelebrant|concelebrants|celebrants|'
+    r'deacons|concelebrant|concelebrants|celebrants|priestly|communicant|candidate|novice|paralytic|hierarchs|venerable one|burning bush|in a flame of fire|'
     r'curate|curates|assistant|assistant|Disciples|disciple|disciples|rector|rectors|prefect|prefects|'
     r'student|students|cleric|clerics|seminarian|seminarians|celebrating|celebrated|'
     r'preacher|preachers|preaching|'
     r'man|men|mankind|creature|creatures|human|humanity|person|persons|soul|souls|'
     r'heretic|heretics|schismatic|schismatics|deceiver|deceivers|sinner|sinners|ungodly|'
     r'Judas|Iscariot|betrayer|betrayers|thief|thieves|robber|robbers|'
-    r'Satan|devil|demon|demons|Lucifer|adversary|evil one|serpent|dragon|foe|corrupter|O Death|O Hades|death|hades|grave|tomb|hell|pit|'
+    r'Satan|devil|demon|demons|Lucifer|adversary|evil one|serpent|dragon|foe|corrupter|one who held them fast|O Death|O Hades|death|hades|grave|tomb|hell|pit|O (?:three-part |precious |most precious |life-giving )?Cross|'
+    r'O Jordan|O sea|O Cave|O Manger|O Desert|O Earth|O Heaven|O Paradise|O Eden|O Ark|O Temple|O City|Mount Horeb|'
+    r'Matrona|Xenophon|Porphyrios|Eusebius|Naaman|angel|angels|teacher|teachers|primate|president|herald|our prince|initiate|imitator|sufferer|bodiless|gold-flowing Euphrates|pattern of piety|heresies thou|bestowed upon thee|'
+    r'O (?:all-|most )?glorious one|O wise one|O all-valiant one|O God-wise|O God-receiver|O divinely revealed one|O exceedingly rich one|all-comely citizen|impassable gate|bridal chamber|full of grace|Queen of all|pure boast|all-honorable|'
+    r'martyrdom|banishments|chrism of priesthood|thy course|by adoption|lusts of the flesh|strict fasting|faint from fasting|thine abstinence|thine alms|his tears|his complete|see me again|'
+    r'all-blessed|thrice-blessed|most blessed|divinely wise|all-wise|all-praised|all-honored|hieromartyr|hieromartyrs|Andrew|ever-memorable|wonderworker|god-bearer|god-bearing|myrrh-bearer|myrrh-bearers|virgin-martyr|archpastor|ascetic|faster|anchorite|stylite|unmercenary|unmercenaries|'
     r'household|family|parent|parents|husband|wife|woman|women|maiden|maidens|Samaritan|intercessor|intercessors|children|child|son|daughter|'
     r'servant|servants|handmaid|handmaids|serving|served|'
     r'righteous|blessed|blessed one|departed|deceased|reposed|'
     r'flock|sheep|lay down|striketh|striking|repeateth|repeating|breast|'
     r'thyself|oneself|himself|herself|themselves|'
-    r'hear thee|with thee|encompass thee|compassion on thee|grant thee|deliver thee|teach thee|give thee|forgive thee|thy God|righteousness|fast|fasting|fasts|'
+    r'hear thee|give ear unto thee|declare unto thee|preserve thy|thy heart|unto Christ thou|glory of God thou|Take up thy bed|with thee|encompass thee|compassion on thee|grant thee|deliver thee|teach thee|give thee|forgive thee|lead thee|open unto thee|glorified thee|vouchsafed thee|robed thee|strengthened thy|thy God|Pasa he ktisis|'
     r'bow|bows|bowing|boweth|shall bow|foldeth|setteth|lowereth|raiseth|'
     r'hands|his hands|his head|head|lips|my lips|mouth|eyes|ears|feet|knees|'
     r'kneeleth|kneeling|kneels|standeth|stands|prostrateth|prostrates|censing|reciteth|recites|taketh|takes|speaks|saying|signs|'
@@ -118,6 +124,18 @@ def audit_file(filepath: Path) -> Dict[str, Any]:
                 ws = max(0, start - window)
                 we = min(len(line), match.end() + window)
                 context = line[ws:we]
+
+                # Direct doxological address check ('glory to thee' / 'glory be to thee') even if clergy nouns appear nearby
+                if p_name == "thee" and re.search(r"\bglory\s+(?:be\s+)?(?:to|unto)\s+$", line[max(0, start - 20):start], re.IGNORECASE):
+                    near_ctx = line[max(0, start - 140):min(len(line), match.end() + 140)]
+                    if not re.search(r"\b(?:Theotokos|Mother of God|Bride of God|Birthgiver|Virgin|Lady|Pure One|all-pure|all-immaculate|all-honorable|full of grace|Queen of all|pure boast|Cross|passion-bearer|martyr|by thy prayers|Philip)\b", near_ctx, re.IGNORECASE):
+                        violations.append({
+                            "line": line_num,
+                            "pronoun": matched_str,
+                            "context": context.strip(),
+                            "position": start
+                        })
+                        continue
 
                 # Check if human/Marian/adversary indicator overrides
                 if HUMAN_INDICATORS.search(context):

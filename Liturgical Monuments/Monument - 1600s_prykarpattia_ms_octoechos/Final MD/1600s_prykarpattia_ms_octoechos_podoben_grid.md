@@ -15,23 +15,23 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 1 | `p9 (p9)` | p9 (p9) | *Τὸν τάφον σου Σωτήρ* |
-| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 1 | `p11 (p11)` | p11 (p11) | *Τῶν οὐρανίων ταγμάτων* |
-| Tone 3 | `POD.T3.VELIA_KRESTA_TVOEGO` | **Great is the power of Thy Cross, O Lord** | 1 | `p169 (p169)` | p169 (p169) | *Μεγάλη τοῦ Σταυροῦ σου, Κύριε* |
-| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 1 | `p183 (p183)` | p183 (p183) | *Ἡ Παρθένος σήμερον* |
-| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 1 | `p70 (p70)` | p70 (p70) | *Ἐπεφάνης σήμερον* |
-| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 1 | `p179 (p179)` | p179 (p179) | *Ὡς γενναῖον ἐν Μάρτυσιν* |
-| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `p96 (p96)` | p96 (p96), p97 (p97) | *Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν* |
-| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 3 | `p130 (p130)` | p130 (p130), p131 (p131), p147 (p147) | *Τὸ προσταχθὲν μυστικῶς* |
-| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 2 | `p133 (p133)` | p133 (p133), p201 (p201) | *Τῆς σοφίας ὁδηγέ* |
-| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 2 | `p199 (p199)` | p199 (p199), p207 (p207) | *Τί ὑμᾶς καλέσωμεν ἅγιοι* |
-| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 1 | `p146 (p146)` | p146 (p146) | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* |
-| Tone 8 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `p157 (p157)` | p157 (p157) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 8 | `POD.T8.SAME` | **The same (то́йже)** | 1 | `p157 (p157)` | p157 (p157) | *Τὸ αὐτό* |
-| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 1 | `p202 (p202)` | p202 (p202) | *Ὡς ἀπαρχὰς τῆς φύσεως* |
-| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 1 | `p208 (p208)` | p208 (p208) | *Ὢ τοῦ παραδόξου θαύματος* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 1 | `p9 (p9)` | p9 (p9) |
+| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 1 | `p11 (p11)` | p11 (p11) |
+| Tone 3 | `POD.T3.VELIA_KRESTA_TVOEGO` | **Great is the power of Thy Cross, O Lord** | 1 | `p169 (p169)` | p169 (p169) |
+| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 1 | `p183 (p183)` | p183 (p183) |
+| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 1 | `p70 (p70)` | p70 (p70) |
+| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 1 | `p179 (p179)` | p179 (p179) |
+| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `p96 (p96)` | p96 (p96), p97 (p97) |
+| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 3 | `p130 (p130)` | p130 (p130), p131 (p131), p147 (p147) |
+| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 2 | `p133 (p133)` | p133 (p133), p201 (p201) |
+| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 2 | `p199 (p199)` | p199 (p199), p207 (p207) |
+| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 1 | `p146 (p146)` | p146 (p146) |
+| Tone 8 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `p157 (p157)` | p157 (p157) |
+| Tone 8 | `POD.T8.SAME` | **The same (то́йже)** | 1 | `p157 (p157)` | p157 (p157) |
+| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 1 | `p202 (p202)` | p202 (p202) |
+| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 1 | `p208 (p208)` | p208 (p208) |
 
 ---
 
@@ -48,15 +48,15 @@
 | 7 | `p131` (p131) | T8 | SUNDAY MIDNIGHT OFFICE (TONE 8) — *Hymnographic Propers* | *Повеленное таинственно (Повеленное* | **That which was commanded mystically** | "Ye faithful, let us truly hymn with our mouths the..." |
 | 8 | `p133` (p133) | T8 | SUNDAY MATINS (TONE 8) — *Hymnographic Propers* | *Премудрости* | **Guiding unto wisdom** | "Having truly risen from the tomb, Thou didst command the..." |
 | 9 | `p146` (p146) | T8 | SUNDAY EVENING VESPERS (TONE 8) — *Hymnographic Propers* | *Господи, аще и на судищи* | **O Lord, though Thou didst stand before the tribunal** | "*Sticheron 1:*" |
-| 10 | `p147` (p147) | T8 | MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 8) — *Hymnographic Propers* | *Повелѣ́нное та́инственно* | **That which was commanded mystically** | "*Theotokion:*" |
+| 10 | `p147` (p147) | T8 | MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 8) — *Hymnographic Propers* | *Повеленное тайно* | **That which was commanded mystically** | "*Theotokion:*" |
 | 11 | `p157` (p157) | T8 | MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8) — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва* | **When from the Tree** | "*Sticheron 1:*" |
 | 12 | `p157` (p157) | T8 | MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 8) — *Hymnographic Propers* | *Гла́съ и҆ подо́бенъ то́йже* | **The same (то́йже)** | "*Sticheron 4:*" |
-| 13 | `p169` (p169) | T3 | TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 8) — *Hymnographic Propers* | *Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и* | **Great is the power of Thy Cross, O Lord** | "*Sticheron 1:*" |
-| 14 | `p179` (p179) | T4 | WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 8) — *Hymnographic Propers* | *Я҆́кѡ до́бля* | **As one valiant among martyrs** | "*Sticheron 1:*" |
-| 15 | `p183` (p183) | T3 | THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 8) — *Hymnographic Propers* | *Дѣ́ва дне́сь* | **Today the Virgin** | "In Myra, O holy Nicholas, thou wast shown forth as..." |
+| 13 | `p169` (p169) | T3 | TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 8) — *Hymnographic Propers* | *Велїа крта твоего* | **Great is the power of Thy Cross, O Lord** | "*Sticheron 1:*" |
+| 14 | `p179` (p179) | T4 | WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 8) — *Hymnographic Propers* | *Ꙗко добля* | **As one valiant among martyrs** | "*Sticheron 1:*" |
+| 15 | `p183` (p183) | T3 | THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 8) — *Hymnographic Propers* | *Дѣвая днесь* | **Today the Virgin** | "In Myra, O holy Nicholas, thou wast shown forth as..." |
 | 16 | `p199` (p199) | T8 | FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 8) — *Hymnographic Propers* | *Что вы наречемъ* | **What shall we call you, O holy ones** | "*Sticheron 1:*" |
-| 17 | `p201` (p201) | T8 | SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8) — *Hymnographic Propers* | *Премꙋ́дрости наста́вниче* | **Guiding unto wisdom** | "*Sessional Hymn 1:*" |
-| 18 | `p202` (p202) | T8 | SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8) — *Hymnographic Propers* | *Я҆́кѡ нача́тки е҆стества̀* | **As first-fruits of nature** | "As the first-fruits of nature, unto the Creator of creation..." |
+| 17 | `p201` (p201) | T8 | SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8) — *Hymnographic Propers* | *Премудрости* | **Guiding unto wisdom** | "*Sessional Hymn 1:*" |
+| 18 | `p202` (p202) | T8 | SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8) — *Hymnographic Propers* | *Яко начатки естества* | **As first-fruits of nature** | "As the first-fruits of nature, unto the Creator of creation..." |
 | 19 | `p207` (p207) | T8 | SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8) — *Hymnographic Propers* | *Что вы наречемъ* | **What shall we call you, O holy ones** | "*Sticheron 1:*" |
 | 20 | `p208` (p208) | T8 | SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 8) — *Hymnographic Propers* | *О преслав* | **O most marvelous wonder** | "*Sticheron 1:*" |
 

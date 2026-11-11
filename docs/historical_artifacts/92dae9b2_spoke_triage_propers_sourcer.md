@@ -10,7 +10,7 @@ All verification commands in this plan use non-interactive modes (`$env:PAGER="c
 
 ## 1. Spoke Identity & Architectural Role
 - **Project Name**: `Festal Propers Comparisons` (UI Display Title: `Propers Sourcer`)
-- **Physical Location**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Festal Propers Comparisons`
+- **Physical Location**: `C:\Users\augus\Documents\Google Antigravity\Projects\Festal Propers Comparisons`
 - **Architectural Role in Ecosystem**: Multi-Recension Hymnographic Comparison, Translation Alignment, and Propers Extraction Factory (Wing 3 Ingestion Engine).
 - **Source Code Path Resolution Rule (Master Rule 10)**: All scripts MUST resolve paths dynamically relative to the Spoke project root (`Festal Propers Comparisons/`). The absolute path above is informational only and MUST NOT be hardcoded in any script.
 

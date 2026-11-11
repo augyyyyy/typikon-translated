@@ -10,10 +10,10 @@
 
 *(Icon: Mother of God of Perpetual Help / Мати Божа Неустанної Помочі)*
 
-**М̃Р Ѳ̃Ү** — Mother of God  
-**О̂ Р М̃** — The Archangel Michael  
-**О̂ Р Г̃** — The Archangel Gabriel  
-**ІС̃ ХС̃** — Jesus Christ  
+(**М̃Р Ѳ̃Ү**) — Mother of God  
+(**О̂ Р М̃**) — The Archangel Michael  
+(**О̂ Р Г̃**) — The Archangel Gabriel  
+(**ІС̃ ХС̃**) — Jesus Christ  
 
 ---
 
@@ -68,7 +68,7 @@ the Mother of God and Ever-Virgin
 
 *[Library Stamp: LVIV THEOLOGICAL ACADEMY / LIBRARY / 1009679]*
 
-### Notice
+**Notice** <a id="notice"></a>
 
 The entire income from this work, according to the intention of the Author, is to be turned over to the Temple of the Entrance of the Most Holy Mother of God, which is to be built in Slovita at the Monastery of the Nuns of the Order of St. Basil the Great.
 
@@ -88,11 +88,11 @@ This Typikon consists of five parts, whereof:
 ---
 
 ## Part I. The General Order of Divine Worship
-### According to the Typikon of the Provincial Synod of Lviv
+**According to the Typikon of the Provincial Synod of Lviv**
 
 *Here is the text of the Synod,[^1] with our annotations at the bottom.[^2]*
 
-#### On the Various Parts of Divine Worship
+**On the Various Parts of Divine Worship** <a id="on-the-various-parts-of-divine-worship"></a>
 
 "The parts of Divine Worship are nine: Vespers, Compline, Midnight Office, Matins, four Hours, that is to say: the First, Third, Sixth, and Ninth Hour, and the Divine Liturgy, or instead of it the Typika (Izobrazitelna).[^3]"
 
@@ -102,10 +102,10 @@ This Typikon consists of five parts, whereof:
 
 "Except for the four Hours, whereof all have one and the same form, all the other parts of Divine Worship have multiple forms. Thus: Vespers is Great, Daily, and Small; and furthermore Great Vespers is either with an All-Night Vigil or without an All-Night Vigil. Compline is Great and Small; and furthermore Great Compline is either without an All-Night Vigil or with an All-Night Vigil. Midnight Office is Daily, Saturday, and Sunday. Matins is Great and Small, that is to say, Daily; and furthermore Great Matins is either without or with an All-Night Vigil. — The Divine Liturgy is either complete, that is, of Chrysostom and of Basil, or incomplete, that is, of the Presanctified."
 
-### On Vespers
-### Order of Great Vespers at an All-Night Vigil
+**On Vespers** <a id="on-vespers"></a>
+**Order of Great Vespers at an All-Night Vigil** <a id="order-of-great-vespers-at-an-all-night-vigil"></a>
 
-#### 1. Vesting in the Sacred Vestments, and Censing
+**1. Vesting in the Sacred Vestments, and Censing**
 
 "The candles upon the High Altar being lighted, and two censers being prepared if there are two Deacons, but if not, then only one: the Priest, having blessed with his hand arranged in the manner of the Liturgical blessing the Epitrakhelion, and having kissed it where it has a cross, vests himself in it;[^4] and the Deacons vest in Dalmatics [Stikharia] with the Orarion, having kissed them first. And all three go forth, one after another—first the second Deacon, then the first, and last the Priest—from the Diakonikon before the steps of the Altar; and the second Deacon standing on the left side, the first on
 
@@ -134,7 +134,7 @@ they process with the smoking censers around the temple, each on his own side, c
 
 and at the conclusion of the censing, he proclaims before the Royal Doors: **\"Lord, bless!\"** and returns into the Sanctuary through the Royal Doors of the Iconostas, that is to say, the middle doors.[^7]"
 
-#### 2. From "Glory to the Holy" to the Entrance
+**2. From "Glory to the Holy" to the Entrance**
 
 "When they (the Deacons) have given up the censers, and have taken their stand, each on his own side, near the Priest before the steps, the Priest chants in a loud voice: **\"Glory be to the holy, consubstantial, and life-creating Trinity, always, now and forever, and unto the ages of ages.\"**[^8] And after the **\"Amen,\"** the Choir immediately chants: **\"Come, let us worship\"** thrice; and all three sacred ministers close the Holy Doors, and the candles upon the Altar are extinguished. While the Introductory Psalm (Psalm 103) is being chanted, lighted candles are handed to the Deacons, and they go forth, each through his own door, before the Royal Doors; and after them the Priest also, having gone out through the northern door, stands between them before the Royal Doors, and having bowed together with them toward the Holy Mysteries, recites secretly the prayers of Vespers, the Deacons holding candles for him. While
 
@@ -144,7 +144,7 @@ and at the conclusion of the censing, he proclaims before the Royal Doors: **\"L
 
 the Introductory Psalm with *Alleluia* is concluding, the first Deacon chants the Great Litany: **\"In peace let us pray to the Lord,\"** while the Priest continues to read the evening prayers in the same place, and proclaims at the end of the Litany: **\"For unto Thee is due all glory, honor, and worship...\"**; and having thus bowed all three together, they depart into the Sanctuary—the right Deacon and after him the Priest through the southern door, and the left Deacon through the northern door—and they sit behind the Altar, the Priest in the midst, the first Deacon on his right, and the second Deacon on his left. After the first Kathisma, that is to say, after **\"Blessed is the man,\"** the second Deacon, having gone forth before the Holy Doors, chants the Small Litany; and the Priest, having risen, proclaims from his place: **\"For Thine is the majesty, and Thine is the kingdom...\"** But if there is no Deacon, then this Litany according to local custom is said by the Priest secretly, while the Choir chants its responses aloud. After the Litany, **\"Lord, I have cried\"** is chanted in the Tone of the first Stichera; and while it is being chanted, the Deacons saying to the Priest: **\"Bless, Master, the incense,\"** and the Priest having blessed the incense with the verse: **\"Blessed is our God,\"**[^9] they cense the Altar on its four sides, the Iconostas, the clergy, the Choirs, and the people; and having bowed before the Holy Doors, they return behind the Altar to the Priest."
 
-#### 3. The Entrance and Censing at "O Joyful Light"
+**3. The Entrance and Censing at "O Joyful Light"**
 
 "When the Choir begins to chant the last verse, that is: **\"For He hath established the world, which shall not be moved,\"** the Priest vests in the Phelonion, having first blessed and kissed it where it has
 
@@ -165,7 +165,7 @@ the cross; and at **\"Glory...\"** all three make the Entrance with the censer t
 
 first Deacon with his back to the Priest, and the second Deacon with his back to the first Deacon. And after the Stichera have been chanted, the first Deacon, having traced a cross with the censer, proclaims: **\"Wisdom! Stand upright!\"** And thus, while **\"O Joyful Light\"** (*Свѣте тихій*) is being chanted, the Deacons enter into the Sanctuary, and cense the Holy Table on its four sides, and all the rest, as at **\"Lord, I have cried.\"**[^11] After the Deacons, the Priest also enters into the Sanctuary, and waits before the steps until the Deacons, having censed all things, return into the Sanctuary and take their stand together with him before the steps of the Altar, having made a bow toward the Holy Mysteries."
 
-#### 4. The Prokimenon and Readings
+**4. The Prokimenon and Readings**
 
 "After the chanting of **\"O Joyful Light,\"** when the Deacons have approached the Holy Doors, the first of them, looking toward the people, proclaims: **\"Let us be attentive!\"** The Priest also, turning by his right side toward the people, signs them crosswise with his right hand, arranged in the manner of the Liturgical blessing, chanting: **\"Peace be unto all!\"**; and at the end the second Deacon, likewise toward the people: **\"Wisdom! Let us be attentive!\"** And thus, while the Prokimenon is being chanted with the recitation of its verses, all three turn toward the Altar; and the Priest, having bowed profoundly toward the Holy Mysteries, goes by the right side behind the Altar, and sits there during the Readings; but the Deacons remain by the Holy Doors, and before the title of each Reading the first of them proclaims toward the people: **\"Wisdom!\"**, and after the title the second proclaims: **\"Let us be attentive!\"**, likewise toward the people. But if there are no Deacons, the Priest proclaims all these from his place."
 
@@ -173,11 +173,11 @@ first Deacon with his back to the Priest, and the second Deacon with his back to
 
 === LEAF p15 ===
 
-#### 5. From "Let us all say" unto the Litiya
+**5. From "Let us all say" unto the Litiya**
 
 "At the conclusion of the Readings, the Priest having come before the steps, and all three having bowed toward the Holy Mysteries, the Priest goes up to the Altar; while the Deacons go before the Iconostas, and the first of them chants the Litany: **\"Let us all say,\"** and the second, after **\"Vouchsafe, O Lord,\"** chants the Litany: **\"Let us complete...\"**; their exclamations are chanted by the Priest. And after the first exclamation of the Litany **\"Let us complete,\"** the Priest chanting: **\"Peace be unto all,\"** signs the people with his right hand, as before the Prokimenon; and at the prayer of the bowing of heads, the sacred ministers and all the people bow their heads.[^12]"
 
-#### 6. The Litiya
+**6. The Litiya**
 
 "After the exclamation: **\"Blessed and glorified be the majesty of Thy kingdom,\"** candles being lighted throughout the entire church, and candles being distributed to the Church Brotherhood, or even also to other people, the Choirs having assembled in the middle of the temple, and having begun to chant the Litiya Stichera: the Deacons, having bowed before the Royal Doors, enter, each by his own door, into the Sanctuary, and standing before the steps of the Altar and bowing toward it, take the censers; and one of them (the left) takes also the dish with the loaves that are to be blessed; and the Priest takes in his right hand the blessing cross. And the Priest having come down before the steps of the Altar and having bowed together with the Deacons toward the Altar, they go forth from the Sanctuary—the Priest through the middle doors, and the Deacons through the side doors; and the Deacon having placed the dish with the loaves upon the Tetrapod, and the Choirs and candle-bearers preceding them, they follow
 
@@ -187,7 +187,7 @@ first Deacon with his back to the Priest, and the second Deacon with his back to
 
 into the Narthex, or if there is none, to a place near the doors of the temple, and they stand there facing the Altar, the Choirs on two wings, and the sacred ministers in a single transverse rank, that is to say: the Priest between the Deacons. And the Deacons, having received the blessing of the censer from the Priest as at **\"Lord, I have cried,\"** cense the Priest both together; after this, each censes his own Choir; and finally both together cense the people standing opposite him in the temple.[^13] When the Litiya Stichera are completed, the Deacons, beginning with the first, chant in turn the Litany: **\"Save, O God, Thy people,\"** after which the Priest proclaims: **\"Hear us, O God,\"** and **\"Peace be unto all,\"** with a crosswise signing with his right hand toward the people, and the final prayer: **\"O Master, abundant in mercy,\"** with the bowing of heads by all, even unto its end."
 
-#### 7. From the Aposticha unto the Blessing of the Loaves
+**7. From the Aposticha unto the Blessing of the Loaves**
 
 "At the completion of the prayer, the Choirs chanting: **\"Amen,\"** return into the nave behind the sacred ministers, and standing behind them begin to chant the Aposticha; and the sacred ministers—first the Deacons, and following them the Priest—having entered into the nave, stand in a single rank before the Tetrapod. After the chanting of the Aposticha and **\"Now Thou dost dismiss Thy servant,\"** the Choirs recite the Trisagion with the **\"Our Father,\"** and the Priest proclaims: **\"For Thine is the kingdom;\"** and when they begin to chant the Troparia, taking the censer, and the first Deacon having said
 
@@ -199,7 +199,7 @@ to him: **\"Bless, Master, the incense,\"** having placed incense into the cense
 
 "The Troparia are taken thus: If it is a Feast of the Lord or of the Mother of God, then the Troparion of the Feast is chanted thrice, simply without *Glory... Now and forever...* If it is the Feast of a Saint with a vigil on a Sunday, then the Troparion **\"Rejoice, Mother of God, Virgin\"** twice, and the Troparion of the Saint once, simply without *Glory... Now and forever...* But if it is the Feast of a Saint on a weekday, then the Troparion of the Saint twice, and **\"Rejoice, Mother of God, Virgin\"** once, simply without *Glory... Now and forever...* (Formerly, when the All-Night Vigil took place on all Sundays, the Troparion **\"Rejoice, Mother of God, Virgin\"** was taken thrice.)"
 
-#### 8. The Blessing of the Loaves
+**8. The Blessing of the Loaves**
 
 "After the final chanting of the Troparion, the blessing of the loaves takes place, thus: Five prosphoras being arranged on the upper part of the dish, that is, four crosswise together, and the fifth atop the four; on the lower part the wheat; on the left side, that is, toward the icon of the Mother of God, the vessel with wine; and on the right side the vessel with oil: the Priest, the first Deacon having proclaimed: **\"Let us pray to the Lord,\"** elevating the top prosphora with his right hand, begins to chant the prayer of blessing: **\"O Lord Jesus Christ, our God;\"** and when he utters: **\"Do Thou Thyself now, O Master,\"** having placed the top prosphora upon the other four, he continues chanting: **\"Bless
 
@@ -209,11 +209,11 @@ to him: **\"Bless, Master, the incense,\"** having placed incense into the cense
 
 these loaves ☩, wheat ☩, wine ☩, and oil ☩,\"** signing with the cross each of the four items at the mention of its name."
 
-#### 9. The Conclusion of Vespers
+**9. The Conclusion of Vespers**
 
 "At the conclusion of the prayer, the Choirs having chanted: **\"Amen,\"** and reciting Psalm 33 (**\"I will bless the Lord at all times\"**), one Deacon takes the dish with the blessed loaves; and thus, while the Choirs return to their places, all three sacred ministers enter into the Sanctuary—the Priest through the middle doors, and the Deacons through the side doors; and the Deacons having relinquished the candles and dish, all three stand before the steps of the Altar. And immediately following the words of the Psalm: **\"They shall not want any good thing,\"** the Priest, turning by his right side toward the people, blesses them crosswise, chanting together: **\"The blessing of the Lord be upon you,\"** and the Priest, turning by his left side toward the Altar, makes the beginning of Matins from **\"Glory to the holy...\"**"
 
-#### Rubrical Note on Standing and Sitting during Vespers
+**Rubrical Note on Standing and Sitting during Vespers**
 
 "Our simple people have the praiseworthy custom of standing always during Divine Services; let the others at this Vespers stand:
 1. Whenever they are censed;
@@ -228,18 +228,18 @@ these loaves ☩, wheat ☩, wine ☩, and oil ☩,\"** signing with the cross e
 
 === LEAF p19 ===
 
-### Order of Great Vespers without an All-Night Vigil
+**Order of Great Vespers without an All-Night Vigil** <a id="order-of-great-vespers-without-an-all-night-vigil"></a>
 
-#### The Beginning
+**The Beginning**
 
 "The Priest, having taken the Epitrakhelion, blessed it, kissed its top where it has the cross, and placed it upon himself, goes forth through the northern door before the Holy Doors, which are closed; and having bowed profoundly, begins in the usual manner: **\"Blessed is our God,\"** and the rest. The Choirs chant: **\"Amen;\"** then they recite alternately the introductory prayers, that is to say: **\"Glory to Thee, our God, glory to Thee; Heavenly King; All-Holy Trinity; Lord, have mercy\"** thrice; **\"Glory... Now and forever...; Our Father;\"** the Priest: **\"For Thine is the kingdom;\"** the Choirs: **\"Amen;\"** then **\"Lord, have mercy\"** twelve times (six times per Choir); **\"Glory... Now and forever...; Come, let us worship\"** thrice."
 
-#### Rubrical Notes
+**Rubrical Notes**
 
 1. "If there is only one Choir, then all the aforesaid prayers are recited alternately by the Priest and by the Choir, the Priest beginning after the **\"Amen\"**: **\"Glory to Thee, our God, glory to Thee.\"**
 2. If Deacons happen to be present, then they also, having gone forth with the Priest from the Sanctuary before the Holy Doors, stand there, one on his right and the other on his left; and the one standing on the right proclaims: **\"Bless, Master;\"** and thus the Priest begins: **\"Blessed is our God.\"**"[^14]
 
-#### The Middle
+**The Middle**
 
 "After this, from the Introductory Psalm (Psalm 103) even unto **\"Blessed and glorified be the majesty of Thy kingdom\"** of the Litany **\"Let us complete,\"** all things are taken and performed invariantly as at Great Vespers with
 
@@ -251,7 +251,7 @@ an All-Night Vigil, except that here at **\"Lord, I have cried\"** there may be 
 
 After the exclamation: **\"Blessed and glorified be the majesty of Thy kingdom,\"** the Priest (and the Deacons, if there be any) remaining at the Altar, the Aposticha is chanted, then **\"Now Thou dost dismiss Thy servant,\"** the Trisagion and the rest with **\"Our Father;\"** the Priest: **\"For Thine is the kingdom.\"** Then the Choirs chant the Troparia, thus: If indeed it is a Sunday Service, they chant the Sunday Troparion of the current Tone, then **\"Glory...\"** the Troparion of the Saint of the day (from the Menaion), and finally **\"Now and forever...\"** the Theotokion from the Sunday resurrectional set in the Tone of the Troparion of the Saint of the day. If it is not a Sunday service, but that of a Polyeleos Saint, then the Troparion of the Saint is taken, **\"Glory... Now and forever...\"** the Theotokion from the Sunday resurrectional set in the Tone of the Troparion of the Saint. During an Afterfeast (of the Lord or of the Mother of God), resurrectional Theotokia are not added, but the Troparion of the Saint is covered by the Troparion of the Feast."
 
-#### The Conclusion
+**The Conclusion**
 
 "Priest: **\"Wisdom!\"**  
 Choir: **\"Bless.\"**  

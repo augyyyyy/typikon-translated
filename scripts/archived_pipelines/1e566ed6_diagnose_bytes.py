@@ -1,4 +1,4 @@
-with open(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\backup\Final_Dolnytsky_part1_structure.md", 'r', encoding='utf-8') as f:
+with open(r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\backup\Final_Dolnytsky_part1_structure.md", 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
 print("Matins text representation:")

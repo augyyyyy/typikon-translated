@@ -4,9 +4,9 @@ regions as Asia Minor and Armenia, and not approved by the Church. St. John Chry
 86. Eusebius, *Ecclesiastical History* IV, 13.
 
 === LEAF p442 ===
-### Notes to the Chapter: Divine Worship in the Third Century
+**Notes to the Chapter: Divine Worship in the Third Century**
 
-1. *Διαταγαὶ τῶν ἁγίων ἀποστόλων διὰ Κλήменτος τοῦ Ῥωμαίων Ἐπισκόπου τε καὶ πολίτου, ἢ καθολικὴ διδασκαλία* [*Constitutions of the Holy Apostles through Clement, Bishop and Citizen of the Romans, or Catholic Teaching*]. Migne, *Patrologiae cursus completus*, ser. gr., t. I, cols. 556–1156. Russian translation: *Postanovleniya Apostolskiye (v russkom perevode)* [Apostolic Constitutions (in Russian translation)], I. N. Kazan, 1864.
+1. *Διαταγαὶ τῶν ἁγίων ἀποστόλων διὰ Κλήμεντος τοῦ Ῥωμαίων Ἐπισκόπου τε καὶ πολίτου, ἢ καθολικὴ διδασκαλία* [*Constitutions of the Holy Apostles through Clement, Bishop and Citizen of the Romans, or Catholic Teaching*]. Migne, *Patrologiae cursus completus*, ser. gr., t. I, cols. 556–1156. Russian translation: *Postanovleniya Apostolskiye (v russkom perevode)* [Apostolic Constitutions (in Russian translation)], I. N. Kazan, 1864.
 
 2. *Apostolic Constitutions* II, 26. The last point of comparison is explained by the fact that in the Syriac tongue, in which, as will be seen, the original source of the *Constitutions* was written, the word "spirit" is of the feminine gender.
 
@@ -122,7 +122,7 @@ regions as Asia Minor and Armenia, and not approved by the Church. St. John Chry
 
 57. *Egyptian Canons*: "before the evening star."
 
-58. *Egyptian Canons*: "If it be impossible for any [of the widows] [to come unto the agape] by reason of the lot that hath fallen unto them [by duty of ministry?], then he giveth them wine and somewhat to eat, and they may eat at home as they desire."
+58. *Egyptian Canons*: "If it be impossible for any [of the widows] [to come unto the agape] by reason of the lot that hath fallen unto them [by duty of ministry?], then he gives them wine and somewhat to eat, and they may eat at home as they desire."
 
 59. *Canons of Hippolytus*, canon 184; *Egyptian Canons*, canon 50.
 
@@ -323,7 +323,7 @@ regions as Asia Minor and Armenia, and not approved by the Church. St. John Chry
 
 154. See above, p. 58.
 
-155. "Tell me, ye who go to church only on feast days—are not the other days also feasts? Are they not Lord's Days (*κυριακαί*)? It is characteristic of Jews to observe particular feast days that recur rarely. It is precisely unto them that the Lord saith: 'Your new moons and sabbaths, your feast gatherings I cannot abide... My soul hateth [them]' [Isa 1:13–14]. Therefore God hates those who think that only one day is a feast, that only one day is 'the Lord's Day'" (Origen, *Homily 10 on Genesis*). "Only those who will not or cannot spend all days as feasts ought to celebrate at least one Lord's Day in the week" (Origen, *Against Celsus* VIII, 23).
+155. "Tell me, ye who go to church only on feast days—are not the other days also feasts? Are they not Lord's Days (*κυριακαί*)? It is characteristic of Jews to observe particular feast days that recur rarely. It is precisely unto them that the Lord says: 'Your new moons and sabbaths, your feast gatherings I cannot abide... My soul hates [them]' [Isa 1:13–14]. Therefore God hates those who think that only one day is a feast, that only one day is 'the Lord's Day'" (Origen, *Homily 10 on Genesis*). "Only those who will not or cannot spend all days as feasts ought to celebrate at least one Lord's Day in the week" (Origen, *Against Celsus* VIII, 23).
 
 156. Tertullian, *On Prayer* 23.
 

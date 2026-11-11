@@ -246,7 +246,7 @@
 
 [^122]: John 20:26–28.
 
-[^123]: The patristic paradox of the "faithful unbelief" (*вѣ́рное невѣ́рствїе* / *πισтὴ ἀπιστία*) of Saint Thomas, by which divine providence confirmed the truth of the bodily Resurrection of Christ for all generations.
+[^123]: The patristic paradox of the "faithful unbelief" (*вѣ́рное невѣ́рствїе* / *πιστὴ ἀπιστία*) of Saint Thomas, by which divine providence confirmed the truth of the bodily Resurrection of Christ for all generations.
 
 [^124]: Alluding to the Chalcedonian and Sixth Ecumenical Council dogma: touching the wounds of Christ's physical flesh and blood revealed both His human and divine natures and energies (*сугу́бо дѣ́йство*, *существа̑ сугу̑ба*).
 
@@ -280,7 +280,7 @@
 
 [^139]: Saint Theophanes the Branded (*Graptos*, c. 778–845), Metropolitan of Nicaea, renowned Byzantine hymnographer and confessor of icon veneration. The acrostic in Greek reads: *Θαυμασίων πληρωτὴν Θωμᾶν ἀγάζομαι. Θεοφάνους* ("I marvel at Thomas who is full of wonders. By Theophanes").
 
-[^140]: The classical Patristic tripartition of the soul (*τὸ τримерὲς τῆς ψυχῆς* / *трїча́стное ду́ши*), formulated in Evagrius Ponticus, Saint John of Damascus, and Byzantine ascetical theology: the rational/intellective (*τὸ λογιστικόν*), the incensive/irascible (*τὸ θυμικόν*), and the appetitive/desiring (*τὸ ἐпиθυμητικόν*).
+[^140]: The classical Patristic tripartition of the soul (*τὸ τριμερὲς τῆς ψυχῆς* / *трїча́стное ду́ши*), formulated in Evagrius Ponticus, Saint John of Damascus, and Byzantine ascetical theology: the rational/intellective (*τὸ λογιστικόν*), the incensive/irascible (*τὸ θυμικόν*), and the appetitive/desiring (*τὸ ἐπιθυμητικόν*).
 
 [^141]: Exodus 15:4, 20.
 
@@ -964,7 +964,7 @@
 
 [^481]: Isaiah 11:1: "There shall come forth a rod out of the root of Jesse, and a blossom shall come up from his root."
 
-[^482]: Daniel 2:34, 45: typological prophecy of the unhewn stone (*ли́ѳος ἄνευ χειρῶν*) cut from the mountain, prefiguring the virginal birth of Christ without human seed.
+[^482]: Daniel 2:34, 45: typological prophecy of the unhewn stone (*λίθος ἄνευ χειρῶν*) cut from the mountain, prefiguring the virginal birth of Christ without human seed.
 
 [^483]: Liturgical pericopes for the commemoration of the Holy Martyrs Tarachos, Probus, and Andronikos: Prokeimenon (Psalm 15:3, 8 [LXX]); Epistle Ephesians 6:10–17; Alleluia (Psalm 33:18 [LXX]); Gospel Luke 12:8–12; Communion Verse (Psalm 32:1 [LXX]).
 
@@ -1020,7 +1020,7 @@
 
 [^509]: Psalm 76:20 [LXX]: "Thy way is in the sea, and Thy paths in many waters, and Thy footsteps shall not be known."
 
-[^510]: Daniel 3:28 and Romans 1:25: *Оὐκ ἐλάτρευσαν τῇ κτίσει* (*Не послꙋжи́ша тва́ри*).
+[^510]: Daniel 3:28 and Romans 1:25: *Οὐκ ἐλάτρευσαν τῇ κτίσει* (*Не послꙋжи́ша тва́ри*).
 
 [^511]: Heirmos of Ode 8: based on Daniel 3:49–57 (*Παῖδας εὐαγεῖς ἐν τῇ καμίνῳ* / *О҆́троки бл҃гочести̑выѧ въ пещѝ*).
 
@@ -1518,7 +1518,7 @@
 
 [^758]: The Third Ode of the Canon to Saint Artemius continues with further troparia on physical leaf p211.
 
-[^759]: The sessional hymn is directed to be chanted twice (*Два́жды*). Model heading: Tone 8, Podoben: "The Wisdom and Word" (*Премꙋ́дрости* / *Ті̀ν Σοφίαν καὶ Λόγον*).
+[^759]: The sessional hymn is directed to be chanted twice (*Два́жды*). Model heading: Tone 8, Podoben: "The Wisdom and Word" (*Премꙋ́дрости* / *Τὶν Σοφίαν καὶ Λόγον*).
 
 [^760]: Theotokion following the sessional hymn to St. Artemius. 'Spiritual Sun' translates *со́лнца ᲂу҆́мнагѡ* (*νοητοῦ ἡλίου*).
 
@@ -1602,7 +1602,7 @@
 
 [^800]: Ikos of St. Hilarion the Great, concluding with the refrain: "Rejoice, O father, foundation of all ascetics!"
 
-[^801]: Heirmos of Ode 7, Tone 2 (*Бг҃опроти́вное велѣ́нїе* / *Ἀντίθεον πρόстаγμα παρανομούντος τυράννου*), Daniel 3:19–28.
+[^801]: Heirmos of Ode 7, Tone 2 (*Бг҃опроти́вное велѣ́нїе* / *Ἀντίθεον πρόσταγμα παρανομούντος τυράννου*), Daniel 3:19–28.
 
 [^802]: Heirmos of Ode 8, Tone 2 (*Пе́щь и҆ногда̀ ѻ҆́гненнаѧ въ вавѷлѡ́нѣ* / *Κάμινός ποτε πυρὸς ἐν Βαβυλῶνι*), Daniel 3:57.
 
@@ -1778,7 +1778,7 @@
 
 [^888]: Heirmos of Ode 9 of the canon to the Apostle James (Tone 4): "A stone cut out without hands from an uncut mountain, O Virgin..." (Ка́мень нерꙋкосѣ́чный...).
 
-[^889]: Allusion to the traditional title of St. James as "the Just" (Oblias / ὁ δίκайος), attested by Hegesippus in Eusebius, *Historia Ecclesiastica* II.23.
+[^889]: Allusion to the traditional title of St. James as "the Just" (Oblias / ὁ δίκαιος), attested by Hegesippus in Eusebius, *Historia Ecclesiastica* II.23.
 
 [^890]: Exapostilarion of the Holy Apostle James: Tone 3, Podoben: "In the spirit in the sanctuary" (Дх҃омъ во святи́лищи).
 
@@ -1826,7 +1826,7 @@
 
 [^912]: Common Troparion of Many Martyrs, Tone 4: "Entreated, O Lord, by the sufferings..." (Болѣ́зньми ст҃ы́хъ...).
 
-[^913]: The alphabetic acrostic in Greek reads: Μυκτηρικὸν σύνтаγμα θεοπρεπῶς μελπωδῶ (Church Slavonic: Мꙋ́ченическїй собо́ръ, бг҃окра́снѣ воспое́мъ пѣ́сньми — "The martyric choir let us hymn godly-fairly with songs").
+[^913]: The alphabetic acrostic in Greek reads: Μυκτηρικὸν σύνταγμα θεοπρεπῶς μελπωδῶ (Church Slavonic: Мꙋ́ченическїй собо́ръ, бг҃окра́снѣ воспое́мъ пѣ́сньми — "The martyric choir let us hymn godly-fairly with songs").
 
 [^914]: Canon of the Holy Martyr Arethas and his companions, composed by St. Theophanes the Branded (Graptos), Tone 8.
 
@@ -2174,7 +2174,7 @@
 
 [^1086]: Psalm 63:11 (LXX: *Εὐφρανθήσεται δίκαιος ἐν τῷ Κυρίῳ...*).
 
-[^1087]: Hebrews 12:6–10, 26–28 (Epistle reading for the earthquake: "For whom the Lord loves he chastens...").
+[^1087]: Hebrews 12:6–10, 26–28 (Epistle reading for the earthquake: "For whom the Lord loves He chastens...").
 
 [^1088]: 2 Timothy 2:1–10 (Epistle reading for the Great-Martyr: "Thou therefore, my son, be strong in the grace that is in Christ Jesus...").
 
@@ -2232,7 +2232,7 @@
 
 [^1115]: Ephesians 6:10–17 (Epistle reading for a martyr: "Finally, my brethren, be strong in the Lord, and in the power of His might. Put on the whole armor of God...").
 
-[^1116]: Psalm 33:18, 20 (LXX: *Ἐκέκραξαν οἱ δίκαιοι, καὶ ὁ Κύριος εἰσήκουσен αὐτῶν... Πολλαὶ αἱ θλίψεις τῶν δικαίων...*).
+[^1116]: Psalm 33:18, 20 (LXX: *Ἐκέκραξαν οἱ δίκαιοι, καὶ ὁ Κύριος εἰσήκουσεν αὐτῶν... Πολλαὶ αἱ θλίψεις τῶν δικαίων...*).
 
 [^1117]: Luke 21:12–19 (Gospel reading for a martyr: "Settle it therefore in your hearts, not to meditate before what ye shall answer... In your patience possess ye your souls").
 
@@ -2248,7 +2248,7 @@
 
 [^1123]: General Troparion of a Hierarch and Teacher, Tone 8 (*Православия наставниче*), appointed here for St. Stephen the Sabaite.
 
-[^1124]: Katavasia of the Theotokos: *Ἀνοίξω τὸ στόма μου* ("I shall open my mouth"), Ode 1 heirmos.
+[^1124]: Katavasia of the Theotokos: *Ἀνοίξω τὸ στόμα μου* ("I shall open my mouth"), Ode 1 heirmos.
 
 [^1125]: Ode 1 Heirmos: Exodus 15:1–19 (Song of Moses at the Red Sea).
 
@@ -2286,7 +2286,7 @@
 
 [^1142]: Ode 8 Heirmos: Daniel 3:1–18 (The golden image on the plain of Dura and the three youths refusing to worship it).
 
-[^1143]: Philippians 3:8: "Yea doubtless, and I count all things but loss... and do count them but dung (σκύβαла / Slavonic ᲂу҆ме́ты), that I may win Christ."
+[^1143]: Philippians 3:8: "Yea doubtless, and I count all things but loss... and do count them but dung (σκύβαλα / Slavonic ᲂу҆ме́ты), that I may win Christ."
 
 [^1144]: Ode 9 Heirmos: prophetic reference to Daniel 2:34, 45, the stone cut out of the mountain without hands, prefiguring the Virgin Birth of Christ.
 

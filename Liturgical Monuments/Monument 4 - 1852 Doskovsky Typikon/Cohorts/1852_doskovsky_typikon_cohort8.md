@@ -1,5 +1,3 @@
-# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 8 (Leaves p71–p80)
-
 === LEAF p71 ===
 
 [Book Page 140]
@@ -27,7 +25,7 @@
 *At the Divine Liturgy: the Antiphons of the feast. Instead of the Trisagion:* **"To Thy Cross we bow down in worship, O Master, and Thy holy Resurrection we glorify."** *In the refectory, we eat with oil. But cheese and eggs we dare by no means to touch, but we fast completely.*[^156]  
 *If this feast occur on a Sunday, nothing of the Sunday Resurrection is sung (only* **"Having beheld the Resurrection of Christ"** *we say); but the entire service is of the feast.*
 
-### On the 15th Day: The Holy Great-Martyr Nicetas
+**On the 15th Day: The Holy Great-Martyr Nicetas**
 
 *In the evening we do not say a Kathisma, on account of the labor of the Vigil. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Cross 3, and of the saint 3; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Entrance. Great Prokeimenon, Tone 7:* **"Our God is in heaven and on earth; He hath done whatsoever He pleased"** (*Бо́гъ на́шъ на небесѝ и҆ на землѝ, вся̑ є҆ли̑ка восхотѣ̀ сотворѝ*), *and its verses. Thereafter the ectene:* **"Let us all say..."** (*Рце́мъ всѝ...*); *and* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and* **"Let us complete our evening prayer..."** (*И҆спо́лнимъ вече́рнюю моли́тву на́шу...*). [*Thus it is fitting to sing on all Dominical feasts in the evening, on which there is an Entrance and the Great Prokeimenon]. Then at the Aposticha: stichera of the feast, with its refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the saint; "Now and forever, and unto the ages of ages. Amen:" of the Cross; Tone of the Prophet. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *troparion of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" of the feast. Great Dismissal.*  
 *Matins takes place according to the general Typikon: see if the saint occurs within the feast [in the Afterfeast]. At the Divine Liturgy: Beatitudes of the feast, Ode 3 to 4, and of the saint, Ode 6 to 4. After the Entrance:* **"Save us, O Son of God, Who wast crucified in the flesh, who sing to Thee: Alleluia."** [*Thus we sing until the Apodosis*].[^157]
@@ -38,16 +36,16 @@
 
 *Troparion of the feast, troparion of the saint; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the saint; "Now and forever, and unto the ages of ages. Amen:" of the feast. Prokeimenon of the feast and of the saint. Epistle and Gospel of the day, and of the saint.*
 
-### Saturday after the Exaltation
+**Saturday after the Exaltation**
 
 *Epistle to the Corinthians, pericope 125 from the midpoint, and Gospel from John, pericope 30, and of the cycle.*[^158]
 
-### Sunday after the Exaltation
+**Sunday after the Exaltation**
 
 *Prokeimenon of the feast. Epistle to the Galatians, pericope 203; Gospel from Mark, pericope 37, and of the cycle. Communion Hymn of the day and of the feast.*  
 ☞ *It is necessary to know: If the Exaltation of the Holy Cross occur on a Saturday, the Sunday after the Exaltation has its Epistle and Gospel read on the morrow of the feast on Sunday. In the incoming [approaching] Saturday, at the Apodosis of the feast, at the Divine Liturgy: Prokeimenon, Alleluia, and Communion Hymn of the feast; Epistle and Gospel first of the Saturday after the Exaltation, and thereafter of the cycle.*
 
-### On the 21st Day: The Holy Apostle Quadratus. On This Day the Feast of the Precious Cross Is Given Its Apodosis
+**On the 21st Day: The Holy Apostle Quadratus. On This Day the Feast of the Precious Cross Is Given Its Apodosis**
 
 *At Vespers: the customary Kathisma. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the feast to 6, sung as on the feast itself, and the rest according to the general Typikon. At the Divine Liturgy: Beatitudes from the canon, Ode 4 to 8. After the Entrance: troparion of the feast; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" kontakion of the feast. The Trisagion. (* **"To Thy Cross"** *we do not sing). Prokeimenon of the feast; Epistle and Gospel of the day.*
 
@@ -59,7 +57,7 @@
 
 ## The Month of October
 
-### On the 1st Day: Celebration of the Protection of the Most Holy Theotokos, with the Apostle Ananias, and the Venerable Romanus the Melodist
+**On the 1st Day: Celebration of the Protection of the Most Holy Theotokos, with the Apostle Ananias, and the Venerable Romanus the Melodist**
 
 *We sing everything in order, as in the Anthologion.*  
 ☞ *If the Temple be of the Protection of the Theotokos, on whatever day it occur, except Sunday: we sing the entire office of the Protection, as on another feast of the Theotokos; but the office of the saints we sing on another day.*  
@@ -75,12 +73,12 @@
 
 [Book Page 147]
 
-### On the 11th Day: Sunday of the Holy Fathers
+**On the 11th Day: Sunday of the Holy Fathers**
 
 *It is necessary to know: That after the 11th day of this month of October, on the incoming [approaching] Sunday, we celebrate the memory of the Holy Fathers who came together at the Seventh Ecumenical Council in Nicaea for the second time, for the deposition and destruction of the godless teachings of the Christ-hating iconoclasts: whom they anathematized; and to honor the Holy Icons and render them fitting veneration.*[^162]  
 *And if the present 11th day occur on a Sunday, the office of the Holy Fathers is sung on that day; but the office of the saint of the cycle is omitted and sung on another day. Thus write all ancient Typika and Octoechoi.*
 
-### On the 26th Day: The Holy Great-Martyr Demetrius the Myrrh-Streamer. And Commemoration of the Great and Terrible Earthquake
+**On the 26th Day: The Holy Great-Martyr Demetrius the Myrrh-Streamer. And Commemoration of the Great and Terrible Earthquake**
 
 *If there be an All-Night Vigil: at the Blessing of Loaves, troparion of the martyr twice, and* **"O Virgin Theotokos, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйсѧ...*) *once. The rest as in the Anthologion.*  
 ☞ *If the holy Great-Martyr occur on a Sunday: on Saturday at Little Vespers: Sunday Resurrection stichera and of the Theotokos according to custom. At Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the Earthquake 3 (written at Great Vespers at the Aposticha), of Demetrius 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of Demetrius; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone.*  
@@ -101,7 +99,7 @@
 
 ## The Month of November
 
-### On the 14th Day: The Holy Apostle Philip
+**On the 14th Day: The Holy Apostle Philip**
 
 *Be it known: That we always observe Meatfare on the 14th day, on the commemoration of the holy Apostle Philip, without change, except for the two days of Wednesday and Friday; and on the 15th we begin the Fast before the Nativity of Christ.*[^164]  
 *If Wednesday or Friday occur on the 14th day, on the commemoration of the holy Apostle Philip, then we observe Meatfare on the 13th day, on the commemoration of Saint John Chrysostom; but on Wednesday or on Friday we dare by no means to make Meatfare, for it is forbidden by the holy Canons.*
@@ -112,7 +110,7 @@
 
 ## The Month of December
 
-### On the 11th Day: On the Sunday of the Forefathers
+**On the 11th Day: On the Sunday of the Forefathers**
 
 *It is necessary to know: That from this 11th day, from the commemoration of Daniel the Stylite, the Sunday of the Forefathers begins, and ascends until the 17th day of this same December; and it takes place in this manner:*[^165]  
 *If the Nativity of Christ occur on a Sunday, then the Sunday of the Forefathers takes place on the 11th day of December, two weeks before the Nativity; and the Sunday of the Holy Fathers, which is before the Nativity of Christ, is on the 18th day of December.*  
@@ -128,7 +126,7 @@
 *the 12th day, and the Sunday of the Holy Fathers on December the 19th day.*  
 *Look: On the Sunday of the Forefathers, whether it occur before the 28th Sunday or afterwards, read at the Divine Liturgy the Gospel which is written for the 28th Sunday, from Luke, pericope 76:* **"A certain man made a great supper..."** (*Человѣ́къ нѣ́кїй сотворѝ ве́черю ве́лїю...*), *invariably alone. And on the 28th Sunday read the ordinary pericope of the other Sunday in which it occurs, or of the Forefathers.*[^166]
 
-### Notice 1
+**Notice 1**
 
 *Concerning the festal Sundays occurring here, that is: concerning the Sunday of the Forefathers, the Sunday of the Fathers before the Nativity of Christ, concerning the Sunday after the Nativity, before and after Theophany, it is necessary to know: that if in any year the Sunday of the Publican occur earlier, and the ordinary Sundays before the Sunday of the Forefathers remain unfulfilled, then it is not fitting to omit them; but after the Epistles and Gospels of the aforesaid festal Sundays, read also the ordinary ones, lest they remain unread.*[^167]  
 *If ever the Sunday of the Publican and the Pharisee be far removed from the Sunday after Theophany, then these ordinary Sundays are omitted here, and after the Sunday which is after Theophany they are resumed. These Sundays are omitted where there is a deferral [otstupka] for the Sundays, that is: a Paschal letter indicating which Sunday is to be taken after the 4th Sunday after Theophany. Such deferrals are found around the 24th Sunday after the Descent [of the Holy Spirit]: see in the Sluzhebniks.*
@@ -137,7 +135,7 @@
 
 [Book Page 152]
 
-### Notice 2
+**Notice 2**
 
 *Concerning the Sundays, that is, the liturgical Epistles and Gospels, which must sometimes be repeated after the Sunday after Theophany.*[^168]  
 *If in any year the Sunday of the Publican and the Pharisee is not soon after the 1st Sunday after Theophany, and there are not enough ordinary Epistles and Gospels for reading for several weeks: then it is fitting to look in the Paschalion, or in the Sluzhebnik according to the Paschal Keys, arranged for this reason in the Menologion from the 14th of January until the 14th of February, on what date of the month the Triodion begins (that is, the Sunday of the Publican); and beginning from the 31st Sunday [for the 32nd Sunday is not repeated, but is always read before the Sunday of the Publican] count backward, and borrow as many Sundays with their weeks as is necessary to fill this deficiency.*  
@@ -146,14 +144,14 @@
 
 [Book Page 153]
 
-### Directive for Easier Knowledge of Which Ordinary Sunday after the Descent of the Holy Spirit Must Be Resumed after the 1st Sunday after Theophany
+**Directive for Easier Knowledge of Which Ordinary Sunday after the Descent of the Holy Spirit Must Be Resumed after the 1st Sunday after Theophany**
 
 | If the Boundary Key Be | The Day of Pascha | After the 1st Sunday after Theophany, the Sunday after the Descent Is Resumed |
 |---|---|---|
-| A, B, C [А҃. Б҃. В҃.] | March 22, 23, and 24 | Immediately the Sunday of the Publican. But the Gospel of Zacchaeus we read on the Sunday before Theophany.[^170] |
-| D, E, F, G, H, I, J [Г҃. Д҃. Е҃. Ж҃. Ѕ҃. З҃. И҃.] | March 25, 26, 27, 28, 29, 30, 31 | On the Sunday after Theophany the Gospel of Zacchaeus is read together with it; the incoming Sunday will be the Publican's. |
-| K, L, M, N, O, P, Q [Ѳ҃. К҃. Л҃. М҃. Н҃. О҃. П҃.] | April 1, 2, 3, 4, 5, 6, and 7 | Immediately the Sunday of Zacchaeus, then the Publican's. |
-| R, S, T, U, V, W, X [Р҃. С҃. Т҃. Ѹ҃. Ф҃. Х҃. Ѿ҃.] | April 8, 9, 10, 11, 12, 13, 14 | The 31st Sunday after the Descent. |
+| A, B, C (*А҃. Б҃. В҃.*) | March 22, 23, and 24 | Immediately the Sunday of the Publican. But the Gospel of Zacchaeus we read on the Sunday before Theophany.[^170] |
+| D, E, F, G, H, I, J (*Г҃. Д҃. Е҃. Ж҃. Ѕ҃. З҃. И҃.*) | March 25, 26, 27, 28, 29, 30, 31 | On the Sunday after Theophany the Gospel of Zacchaeus is read together with it; the incoming Sunday will be the Publican's. |
+| K, L, M, N, O, P, Q (*Ѳ҃. К҃. Л҃. М҃. Н҃. О҃. П҃.*) | April 1, 2, 3, 4, 5, 6, and 7 | Immediately the Sunday of Zacchaeus, then the Publican's. |
+| R, S, T, U, V, W, X (*Р҃. С҃. Т҃. Ѹ҃. Ф҃. Х҃. Ѿ҃.*) | April 8, 9, 10, 11, 12, 13, 14 | The 31st Sunday after the Descent. |
 
 === LEAF p78 ===
 
@@ -163,10 +161,10 @@
 
 | If the Boundary Key Be | The Day of Pascha | After the 1st Sunday after Theophany, the Sunday after the Descent Is Resumed |
 |---|---|---|
-| Y, Z, AA, BB, CC, DD, EE [Ц҃. Ч҃. Ш҃. Щ҃. Ъ҃. Ы҃. Ь҃.] | April 15, 16, 17, 18, 19, 20, 21 | The 30th Sunday after the Descent. |
-| FF, GG, HH, II [Ѣ҃. Ю҃. Ꙗ҃. Ѫ҃.] | April 22, 23, 24, 25 | The 29th Sunday after the Descent is resumed. |
+| Y, Z, AA, BB, CC, DD, EE (*Ц҃. Ч҃. Ш҃. Щ҃. Ъ҃. Ы҃. Ь҃.*) | April 15, 16, 17, 18, 19, 20, 21 | The 30th Sunday after the Descent. |
+| FF, GG, HH, II (*Ѣ҃. Ю҃. Ꙗ҃. Ѫ҃.*) | April 22, 23, 24, 25 | The 29th Sunday after the Descent is resumed. |
 
-### On the 17th Day: The Holy Prophet Daniel, and the Holy Three Children
+**On the 17th Day: The Holy Prophet Daniel, and the Holy Three Children**
 
 *It is necessary to know: That if the holy Three Children and the Prophet Daniel occur on the Sunday of the Forefathers, we sing at Great Vespers, at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the Forefathers 3, and of the Prophet Daniel 2, and of the Children 2; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon of the 1st Tone, and the rest. At the Aposticha: Sunday Resurrection stichera; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:" of the Prophet:* **"Daniel, a man of desires..."** (*Данїи́лъ, мꙋ́жъ жела́нїй...*). *After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Children; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers. At Compline: kontakion of the Forefathers. At Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion twice; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Children; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers; and the rest of the Resurrection. Canon: Sunday Resurrection to 4; of the Prophet and of the Children, both canons to 6, and of the Forefathers to 4. After Ode 3: kontakion and ikos*
 
@@ -174,11 +172,11 @@
 
 *of the Forefathers. At the Praises (*Хвали́тны*): Sunday Resurrection stichera 4, and of the Forefathers to 4 with their refrains; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Forefathers; "Now and forever, and unto the ages of ages. Amen:"* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *At the Divine Liturgy: after the Entrance: Sunday Resurrection troparion, then of the saints; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the saints; "Now and forever, and unto the ages of ages. Amen:" of the Forefathers. But if the Temple be of the Theotokos: "Now and forever, and unto the ages of ages. Amen:" of the Temple. Prokeimenon of the Tone, and the second, the Hymn of the Fathers. Epistle and Gospel of the cycle of the Sunday and of the saints under one pericope, and of the Forefathers. If there be a deferral, the Epistle and Gospel of the Forefathers and of the saints: the cycle is omitted. Communion Hymn:* **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*); *the second:* **"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся, пра́веднїи*).
 
-### Saturday before the Nativity of Christ
+**Saturday before the Nativity of Christ**
 
 *At the Divine Liturgy: Prokeimenon, Alleluia, and Communion Hymn of the day. If the commemorated saint occur, we sing also the second Prokeimenon. Likewise read two Epistles: first of Saturday before the Nativity of Christ, and of the cycle under one pericope; and thereafter of the saint, if he has one. Likewise also two Gospels.*
 
-### Sunday before the Nativity of Christ, of the Holy Fathers [That Is: From Adam to Joseph the Betrothed]
+**Sunday before the Nativity of Christ, of the Holy Fathers [That Is: From Adam to Joseph the Betrothed]**
 
 *It is necessary to know: If it occur outside the 20th of December of this month: that is, on the 18th or the 19th day: the Sunday Resurrection service is sung, and of the Holy Fathers, thus: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and Anatolian 2, and of the Holy Fathers 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" Dogmatikon. For the rest see the Anthologion. At the Divine Liturgy: after the Entrance: Sunday Resurrection troparion and of the Fathers; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Theotokos of the Temple. But if the Temple be not of the Theotokos: "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:" kontakion of the Fathers. Prokeimenon of the Tone, and the Hymn of the Fathers:* **"Blessed art Thou, O Lord God of our Fathers..."** (*Благослове́нъ є҆сѝ, Го́споди Бо́же ѻ҆тє́цъ на́шихъ...*);
 
@@ -188,7 +186,7 @@
 
 *Epistle and Gospel first of the Fathers; thereafter of the cycle, if there be no deferral. Communion Hymn:* **"Praise the Lord from the heavens"** (*Хвали́те Го́спода съ небе́съ*); *and the second:* **"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся, пра́веднїи*).
 
-### On the 20th Day: Forefeast of the Nativity of our Lord, God, and Savior Jesus Christ
+**On the 20th Day: Forefeast of the Nativity of our Lord, God, and Savior Jesus Christ**
 
 *Look: If the Forefeast of the Nativity of Christ occur on a Saturday: on Friday evening at* **"Lord, I have cried"** (*Го́споди воззва́хъ*), *at "Now and forever, and unto the ages of ages. Amen:", the Dogmatikon of the outgoing Tone is not sung, but of the Forefeast. Likewise also in the Forefeast of the Holy Theophanies.*[^171]  
 ☞ *Be this also known: That from the twentieth day of December, on which the Forefeast begins, until the 14th of January, until the feast of the Holy Theophanies is given its Apodosis, the Octoechos is not sung: except on Sundays alone, on which the Sunday Resurrection office is sung. But the Polyeleos we do not sing, except for a Great Saint.*  
@@ -199,7 +197,7 @@
 
 *of the Sunday Resurrection do we sing, except the Graduals, the Matins Prokeimenon and Gospel, and* **"Having beheld the Resurrection of Christ"** *we say. But the entire office is of the Holy Fathers and of the Forefeast. The stichera of the Holy Fathers precede, and we sing at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Fathers to 6, and of the Forefeast to 4; "Glory to the Father, and to the Son, and to the Holy Spirit:" of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast; and the rest of the office in order. At the Divine Liturgy, after the Entrance: Sunday Resurrection troparion, and of the Fathers, and of the Forefeast; "Glory to the Father, and to the Son, and to the Holy Spirit:" kontakion of the Fathers; "Now and forever, and unto the ages of ages. Amen:" of the Forefeast. Epistle and Gospel of the Fathers, thereafter of the cycle. But if there be a deferral for the Sundays, the ordinary Sunday Epistle and Gospel we do not read.*
 
-### On the 24th Day: The Eve of the Nativity of Christ
+**On the 24th Day: The Eve of the Nativity of Christ**
 
 *It is necessary to know concerning the Hours on the Eve of the Nativity of Christ: If the Nativity of Christ occur on a Sunday or on a Monday, we sing the Hours beforehand on Friday. But if the Nativity of Christ occur on a Tuesday, on a Wednesday, on a Thursday, on a Friday, and on a Saturday, we sing the Hours on the Eve.*[^172]  
 *The Order of the Royal or Great Hours, sung on the Eve of the Nativity of Christ:*  
@@ -214,6 +212,6 @@
 [Book Page 159]
 
 *On the Eve of the Nativity of Christ, at the 7th hour of the day, the sacristan strikes the great bell, and all the heavy bells. And having assembled in church, we begin Vespers and sing everything as indicated on leaf 65, with the Liturgy of Basil the Great. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 8 verses.*  
-*The Entrance is made with the Gospel. After the conclusion of the 8 readings with their verses, the Little Ectene takes place. And after the exclamation, the Trisagion. Then the Prokeimenon, Tone 4:* **"The Lord said unto Me: Thou art My Son..."** (*Госпо́дь рече́ ко Мнѣ̀: Сы́нъ Мо́й є҆сѝ Ты̀...*); *Epistle to the Hebrews, pericope 303; Gospel from Luke, pericope 5:* **"A decree went forth from Caesar Augustus..."** (*И҆зы́де повелѣ́нїе ѿ ке́саря А҆́вгуста...*). *And in order the Divine Liturgy of Basil the Great. Instead of "It is truly meet", we sing:* **"In thee rejoiceth..."** (*Ѡ҆ тебѣ̀ ра́дуется...*). *After the Dismissal, the paramonarios lights a candle-stand and places it in the midst of the church; and the clerics of both choirs, standing together, sing the troparion of the feast, Tone 4:* **"Thy Nativity, O Christ our God..."** (*Рождество̀ Твоѐ, Христѐ Бо́же на́шъ...*); **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** *kontakion:* **"The Virgin today..."** (*Дѣ́ва дне́сь...*). *We go forth to the refectory and eat cooked food with oil.*[^174]  
-### Be It Known:
+*The Entrance is made with the Gospel. After the conclusion of the 8 readings with their verses, the Little Ectene takes place. And after the exclamation, the Trisagion. Then the Prokeimenon, Tone 4:* **"The Lord said unto Me: Thou art My Son..."** (*Госпо́дь рече́ ко Мнѣ̀: Сы́нъ Мо́й є҆сѝ Ты̀...*); *Epistle to the Hebrews, pericope 303; Gospel from Luke, pericope 5:* **"A decree went forth from Caesar Augustus..."** (*И҆зы́де повелѣ́нїе ѿ ке́саря А҆́вгуста...*). *And in order the Divine Liturgy of Basil the Great. Instead of "It is truly meet", we sing:* **"In thee rejoices..."** (*Ѡ҆ тебѣ̀ ра́дуется...*). *After the Dismissal, the paramonarios lights a candle-stand and places it in the midst of the church; and the clerics of both choirs, standing together, sing the troparion of the feast, Tone 4:* **"Thy Nativity, O Christ our God..."** (*Рождество̀ Твоѐ, Христѐ Бо́же на́шъ...*); **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** *kontakion:* **"The Virgin today..."** (*Дѣ́ва дне́сь...*). *We go forth to the refectory and eat cooked food with oil.*[^174]  
+**Be It Known:**
 *If the Eve of the Nativity of Christ occur on a Saturday or Sunday, we sing the Royal Hours beforehand on Friday, according to custom as indicated on leaf 157; and on them we also say Psalm 33:* **"I will bless the Lord at all times"** (*Благословлю̀ Го́спода на вся́кое вре́мя*); *and the Dismissal: because a Liturgy is not celebrated on that day [that is, on Friday], but Vespers at its proper time. On Saturday or Sunday [on the Eve], the Liturgy takes place...*

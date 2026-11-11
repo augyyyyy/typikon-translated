@@ -10,7 +10,7 @@ def get_is_hymn(v_str):
 
 def main():
     sys.stdout.reconfigure(encoding='utf-8')
-    p = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
+    p = r'c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
     with open(p, 'r', encoding='utf-8') as f:
         text = f.read()
     start = text.find('[')

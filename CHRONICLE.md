@@ -29,7 +29,7 @@ The *Two-Chat Copy-Paste Anti-Pattern* was permanently eradicated by codifying *
 
 Fr. Isidore Dolnytsky's *Typik* served as the scaling crucible. Conducting a 591-page run under a 20-page cohort sizing policy pushed context windows to their limits. In Cohort 29 (covering dense Paschal tables and Menologion indices exceeding 45,000 characters), output truncation fears triggered the subagent to spawn 14 ad-hoc Python builder scripts, ballooning the step count to 327 steps and duration to 151 minutes.
 
-A mathematical analysis of step latency and failure recovery demonstrated that standardizing cohorts to **10 physical leaves** reduces cognitive load by 55%, cuts mean recovery time from 45m to 18m, and catches linter and footnote drift twice as early. We etched into canon **Rule 15: The Closed Mathematical Leaf Conservation Law** ($\bigcup_k \mathbf{Leaves}(C_k) \equiv \{1, \dots, N\}$) and the universal **10-Leaf Cohort Invariant** (`default_cohort_size: 10`) across all 20 monuments in `codex_registry.json`.
+A mathematical analysis of step latency and failure recovery demonstrated that standardizing cohorts to **10 physical leaves** reduces cognitive load by 55%, cuts mean recovery time from 45m to 18m, and catches linter and footnote drift twice as early. We etched into canon **Rule 15: The Closed Mathematical Leaf Conservation Law** (`∪_k Leaves(C_k) ≡ {1..N}`) and the universal **10-Leaf Cohort Invariant** (`default_cohort_size: 10`) across all monuments in `codex_registry.json`.
 
 ---
 
@@ -38,21 +38,37 @@ A mathematical analysis of step latency and failure recovery demonstrated that s
 
 As translations expanded from a single modern monument across four centuries of conciliar and rubrical texts (from the 1720 Zamość Synod to the 1901 Mikita Typikon and Dmitrievsky's Kyiv/Petrograd critical editions), flat file organization collapsed into naming collisions, path errors in scratch scripts, and coordinate confusion between physical PDF leaves and internal printed book page numbers.
 
-The repository was restructured into the **Monotonic Monument Hierarchy** (`Liturgical Monuments/Monument {N} - {Name}/`) and codified **Universal Facsimile Indexing**. All cohorts, extraction batches, and filenames operate exclusively in physical PDF facsimile coordinates, with internal printed page offsets handled via formal coordinate transformations ($\mathbf{Book\ Page} = \mathbf{PDF\ Leaf} - \mathbf{Front\ Matter\ Offset}$). A centralized telemetry controller (`scripts/orchestrator_state.py`) and master gatekeeper (`scripts/run_small_pause_gate.py`) enforce cross-monument continuity.
+The repository was restructured into the **Monotonic Monument Hierarchy** (`Liturgical Monuments/Monument {N} - {Name}/`) and codified **Universal Facsimile Indexing**. All cohorts, extraction batches, and filenames operate exclusively in physical PDF facsimile coordinates, with internal printed page offsets handled via formal coordinate transformations (`Book Page = PDF Leaf - Front Matter Offset`). A centralized telemetry controller (`scripts/orchestrator_state.py`) and master gatekeeper (`scripts/run_small_pause_gate.py`) enforce cross-monument continuity.
+
+---
+
+## Chapter 5: The 3-Phase Bookend Hybrid Routing Architecture, `SGC-06` *Tabula Rasa* Law & Brain Control-Plane Compression
+**Date:** October – November 2026 · **Scope:** 41+ Sealed Monuments · **Historical Artifact Ledger:** [`Audit_Reports/ARTIFACT_REGISTRY.md`](Audit_Reports/ARTIFACT_REGISTRY.md)
+
+Scaling autonomous execution across early-modern Kyivan, Lviv Stauropegion, and Pochaiv hymnographic and euchological codices exposed three architectural frontiers: model-tier token economics, pre-training data incursion into primary codex registries, and Antigravity's `24,000-byte` (`24 KB`) per-file rule truncation cliff.
+
+1. **3-Phase Bookend Hybrid Model Routing & Sequestered Concurrency (Rule 14)**:
+   - **Phase 0 (`Argon High` Bookend Planning)**: Inspects at most `<= 8` physical leaves across `<= 2` bookend batches (`p1`–`p5` and `p(N-2)`–`pN`), enforces Gate 0 fast-fail deferral (`--defer-monument`), normalizes rotated scans (`--rotate-jpgs`), and locks the **8 Engine-Codified Liturgical Defaults** and **Statutory Mandates 1–13** (`data/templates/publication_spec_scaffolds.json`, `data/templates/work_order_template.md`).
+   - **Phase 1 (`Flash` Unattended Sprint)**: Dispatches context-sequestered `ephemeral_translator` subagents guarded by `.agents/scripts/governance_gate.py` (Line-0 transcript header check), pairs 4-part deterministic Python self-healing with a single retry, and collects complex or uncertain leaves into `Audit_Reports/argon_review_queue.json` across 4 automated signals.
+   - **Phase 2 (`Argon High` Deep Audit & LCPE Sealing)**: Resolves `argon_review_queue.json`, compiles the canonical edition via `UniversalPublicationEngine`, verifies all 6 LCPE gates (`PE-HSG-01`..`05` / `SGC-02` 3-Tier Primary-Source Bijection), and seals the monument via scoped cross-process locks (`scripts/concurrency_lock.py`).
+2. **Universal Epigraphic Grounding & Anti-Pretraining Incursion Law (`SGC-06` / Rule 22)**:
+   - Codified the *Tabula Rasa* bottom-up construction law: every internal primitives registry, Podoben grid, and rubric catalog is built strictly from physical leaf ink with `>= 1` verified 5-tuple attestation locus (`⟨Folio/Col, Leaf, Office, Verbatim Rubric, Governed Incipit⟩`), while broad Byzantine Greek roots and cross-monument links are quarantined in the external comparative layer (`data/byzantine_automela_concordance.json`).
+3. **Brain Control-Plane Compression & Progressive-Disclosure Skills**:
+   - Compressed `.agents/AGENTS.md` from `32,727 B` (where `8,901 B` covering Rules 18–22 had been truncated past byte `24,000`) to `< 16,000 B` (`0%` truncation), extracted detailed operational playbooks into 5 progressive-disclosure skills (`.agents/skills/*/SKILL.md`, each `< 4,000 B`) with on-demand `references/*.md` files, and relocated/sanitized the 342-asset historical artifact ledger to [`Audit_Reports/ARTIFACT_REGISTRY.md`](Audit_Reports/ARTIFACT_REGISTRY.md).
 
 ---
 
 ## Today’s Lab Bench (The Present Horizon)
-**Current Date:** October 30, 2026 · **Active Commit:** `6fced50`  
-**Working State:** Zero Switch Mon #1 Ingested (10/10 leaves)
+**Current Date:** November 08, 2026 · **Active Commit:** `1b85269`  
+**Working State:** 41+ Liturgical Monuments Sealed · Marker 3.0 Brain Control-Plane Overhaul Sealed · 68 / 68 Hermetic Unit Tests Green
 
-* **What Was Just Built:** Translated Cohort #1 of Zero Switch Test Monument (10/10 physical leaves complete).
-* **What Just Happened on the Bench:** Cohort #1 promoted (Leaves p1..p10).
+* **What Was Just Built:** Compressed `.agents/AGENTS.md` to `< 16 KB` (`0%` truncation across Rules 1–22), deployed 5 progressive-disclosure skills (`< 4 KB` per `SKILL.md`) with 10 modular `references/*.md` playbooks, relocated and sanitized `Audit_Reports/ARTIFACT_REGISTRY.md`, and hardened `.agents/scripts/governance_gate.py`.
+* **What Just Happened on the Bench:** All 68 hermetic pytest unit tests, `verify_ecosystem_integrity.py --spoke "Translation"`, and `search_anti_patterns.py` passed with `0` violations.
 * **Tri-Node Ecosystem Telemetry:**
   - *Typikon Coded (Hub Inbox)*: All 7 sealed monument folders (`2010_Lviv_Typikon` through `1910_Skaballanovich_Typikon`) verified and synchronized in `Data/Inbox/`.
   - *Shared_Lexicon*: 0 forbidden vocabulary variants across completed corpora.
-  - *Hermetic Tests*: 20 / 20 unit tests passing (`pytest tests/ -v`).
-* **Active Hypothesis:** Maintaining strict NTFS junction tiering against `E:\Google Drive\Liturgical Library\2. Historical Liturgical Texts\Typikons_and_Ordines\` and 10-leaf cohort isolation enables zero-human autonomous execution across the 1,090 leaves of Monument 7 (`1895_dmitrievsky_vol1`).
+  - *Hermetic Tests*: 68 / 68 unit tests passing (`py -m pytest tests/ -v`).
+* **Active Hypothesis:** Maintaining strict NTFS junction tiering against Drive E (`/Google Drive/Liturgical Library/2. Historical Liturgical Texts/Typikons_and_Ordines/`), 10-leaf cohort isolation, and a zero-truncation `< 16 KB` control plane enables unattended autonomous execution across historical monument series.
 
 ---
 
@@ -71,7 +87,8 @@ The repository was restructured into the **Monotonic Monument Hierarchy** (`Litu
 | **Monument 5: 1888 Violakis Typikon** | ✅ Sealed | Monument 4 | Complete codex & Parts 0–5 delivered to Hub (1,170 leaves, 720 footnotes) |
 | **Monument 6: 1910 Skaballanovich Tolkovy Typikon** | ✅ Sealed | Monument 5 | Complete codex & Parts 0–4 delivered to Hub (1,022 leaves, 2,834 footnotes) |
 | **Marker 2.0: SGC-02 / PE-HSG Anti-Potemkin Remediation** | ✅ Sealed | Monuments 0–6 | 6-Gate + SGC-02 3-Tier Bijection verified across all 3,809 leaves (Monuments 0–6) |
-| **Monument 7: 1895 Dmitrievsky Vol. 1 (Typika Part 1)** | ⏳ Queued Next | Marker 2.0 | 1,090 physical leaves (109 cohorts of 10 leaves) |
+| **Marker 3.0: Brain Control-Plane & Progressive-Disclosure Overhaul** | ✅ Sealed | Marker 2.0 | `.agents/AGENTS.md` `< 16 KB` (`0%` truncation), 5 skills `< 4 KB`, `Audit_Reports/ARTIFACT_REGISTRY.md` |
+| **Monument 7: 1895 Dmitrievsky Vol. 1 (Typika Part 1)** | ⏳ Queued Next | Marker 3.0 | 1,090 physical leaves (109 cohorts of 10 leaves) |
 | **Monument 8: 1917 Dmitrievsky Vol. 3 (Typika Part 2)** | 🏔️ Horizon | Monument 7 | 789 physical leaves (Academic monument series) |
 | **Monument 9: 1720 Zamoysky Synod (Fedoriv)** | 🏔️ Horizon | Monument 8 | 75 physical leaves (Juridical conciliar decrees) |
 | **Monument 10: 2004 Galadza Sheptytsky Theology** | 🏔️ Horizon | Monument 9 | 537 physical leaves (Scholarly critical apparatus) |

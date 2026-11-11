@@ -4,7 +4,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 30 Ἰανουαρίου (Συνέχεια), 2 Φεβρουαρίου (Μέρος Α΄) [Violakis, p. 946]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -44,7 +44,7 @@
 
 ## The Chart of the Feasts: 30 January (Conclusion), 2 February (Part 1) [Violakis, p. 947]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -76,8 +76,6 @@
 | January 23 (5 February) | April 3 (16) | Wednesday | §§ 1–3 (pp. 170–173) |
 | January 24 (6 February) | April 4 (17) | Tuesday | §§ 1–3 (pp. 170–173) [Greek: §§ 5–7 (pp. 182–183)] |[^540]
 
----
-[*] *Epigraphic Corrigenda on Facing English Page (p. 947):* In the printed English text, several numerical lapses occur: under the Three Hierarchs, lines 29 and 30 misprint the Gregorian dates as "29 (9)" and "30 (10)" instead of 29 (11 February) and 30 (12 February). In the Presentation section (Column 4), the printed English shifts the rubrical section references up by one row starting from January 18 (assigning Monday §§ 11–13, Sunday of Meatfare § 19, and Saturday of Souls §§ 1–3), which contradicts the Greek original on p. 946. These discrepancies are reconciled to the Greek archetype.
 
 *(Printed Page 947)*
 
@@ -87,7 +85,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 2 Φεβρουαρίου (Συνέχεια), 10 Φεβρουαρίου (Μέρος Α΄) [Violakis, p. 948]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τῆς Ἑορτῆς / τοῦ Ἁγίου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -121,7 +119,7 @@
 
 ## The Chart of the Feasts: 2 February (Conclusion), 10 February (Part 1) [Violakis, p. 949]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -158,7 +156,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 10 Φεβρουαρίου (Συνέχεια), 24 Φεβρουαρίου (Μέρος Α΄) [Violakis, p. 950]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ἁγίου / τῆς Ἑορτῆς συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -195,7 +193,7 @@
 
 ## The Chart of the Feasts: 10 February (Conclusion), 24 February (Part 1) [Violakis, p. 951]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -224,8 +222,6 @@
 | **24 February: The First and Second Finding of the Venerable Head of the Forerunner** | | | |
 | January 11 (24) | March 22 (4 April) | Tuesday of the 4th Week of the Great Fast | §§ 6–8 (pp. 191–192) [and § 17 (p. 195)] |[^542]
 
----
-[*] *Epigraphic Corrigenda on Printed Numerals:* On physical leaves p965 and p966 (printed pages 950–951), Column 1 contains a systematic printing erratum: the Julian dates 21 through 31 January are printed with Gregorian counterparts "21 (6)" through "31 (16)", miscalculating the Gregorian shift as +16 days instead of the solar +13 days (which yield 3 February through 13 February). Furthermore, the page numbers cited in Column 4 of the Greek text err in citing pages "172–175" for the pre-Lenten Sundays instead of pages 182–183; these have been corrected in alignment with the actual pagination of the Saliveros edition and the facing English text.
 
 *(Printed Page 951)*
 
@@ -235,7 +231,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 24 Φεβρουαρίου (Μέρος Β΄) [Violakis, p. 952]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Προδρόμου συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -281,7 +277,7 @@
 
 ## The Chart of the Feasts: 24 February (Part 2) [Violakis, p. 953]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -319,8 +315,6 @@
 | February 9 (22) | April 20 (3 May) | Monday | § 3 (p. 191) [English printed: § 1 (p. 190)] |
 | February 10 (23) | April 21 (4 May) | † Sunday of Meatfare | § 2 (p. 191) [English printed: § 3 (p. 191)] |[^543]
 
----
-[*] *Epigraphic Corrigenda on Facing English Page (p. 953):* In the printed English edition, physical leaf p968 displays multiple critical typesetting anomalies: In the top table, Column 4 references are shifted by one row, and line 17 contains the garbled compositing error "9 (1926-8 (191)". In the middle table under April Paschal dates, the English typesetter omitted Wednesday on line 24 (Julian Jan 24), shifting Tuesday to line 24, Monday to line 25, Sunday of Orthodoxy to line 26, Saturday to line 27, Friday to line 28, Thursday to line 29, Wednesday to line 30, and completely dropping line 31 (Julian Jan 31). In this critical edition, the correct sequence of days and the missing line 31 have been restored from the Greek archetype on leaf p967.
 
 *(Printed Page 953)*
 
@@ -330,7 +324,7 @@
 
 ## Ὁ Ἑορτοδρόμιος Πίναξ: 24 Φεβρουαρίου (Τέλος), 9 Μαρτίου (Μέρος Α΄) [Violakis, p. 954]
 
-### Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)
+**Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ (Συνέχεια)**
 
 | Στήλη α΄: Τριῳδίου ἡμερομηνίαι (Εἰ τὸ Τριῴδιον ἄρχεται) | Στήλη β΄: Πάσχα ἡμερομηνίαι (Τὸ Πάσχα ἔσται) | Στήλη γ΄: Ἡ μνήμη τοῦ Ἁγίου / τῶν Ἁγίων συμπίπτει | Στήλη δ΄: Ἴδε Τυπικοῦ § / (Σελίς) |
 | :--- | :--- | :--- | :--- |
@@ -366,7 +360,7 @@
 
 ## The Chart of the Feasts: 24 February (Conclusion), 9 March (Part 1) [Violakis, p. 955]
 
-### THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)
+**THE CHART OF THE FEASTS (*Ο ΕΟΡΤΟΔΡΟΜΙΟΣ ΠΙΝΑΞ* — Continued)**
 
 | Column 1: Triodion Dates (If Triodion begins on) | Column 2: Paschal Dates (Then Pascha falls on) | Column 3: Concurrence of Commemoration | Column 4: See Typikon § / (Page) |
 | :--- | :--- | :--- | :--- |
@@ -394,7 +388,5 @@
 | January 26 (8 February) | April 6 (19) | † Sunday of the Adoration of the Cross (3rd Sunday of Lent) | § 13 (p. 201) [English printed: §§ 8–10 (pp. 198–200)] |
 | January 27 (9 February) | April 7 (20) | Saturday of the 3rd Week of Lent | § 6 (pp. 197–198) [English printed: § 13 (p. 201)] |[^544]
 
----
-[*] *Epigraphic Corrigenda on Facing English Page (p. 955):* On physical leaf p970, the printed English text contains multiple egregious typographical errors: In the top table, the Paschal dates are misprinted as '4 May', '5 May', and '6 May' instead of April (Julian April 22, 23, and 24 correspond to Gregorian May 5, 6, and 7, whereas the printer conflated Julian April dates with Gregorian May dates in reverse). Furthermore, the typographer set '1 (1190)' instead of '1 (190)'. In the Forty Martyrs table under April, the Column 4 paragraph citations are staggered and displaced from the Greek original on p. 954; all references have been reconciled with the canonical Greek archetype.
 
 *(Printed Page 955)*

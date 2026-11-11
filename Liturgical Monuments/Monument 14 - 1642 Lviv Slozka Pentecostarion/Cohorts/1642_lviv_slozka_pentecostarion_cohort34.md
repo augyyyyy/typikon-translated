@@ -304,7 +304,7 @@ Having received his sight, the blind man is seen through spittle, the human fors
 
 *We sing the Canon of the Feast with the Heirmos on 8, and of the Menaion on 4. Kontakion and Exapostilarion of the Feast.*
 
-*(Rubric note: If Key of Paschalion 8 [И] occurs, then here also the Forefeast of the Ascension is read. Behold.)*[^722]
+*(Rubric note: If Key of Paschalion 8 (*И*) occurs, then here also the Forefeast of the Ascension is read. Behold.)*[^722]
 
 *At the Praises, Stichera on 4. Tone 5:*
 
@@ -425,9 +425,9 @@ Thee, the incarnate Savior Christ, Who yet wast not separated from the heavens, 
 
 *"Now lettest Thou Thy servant depart..." Trisagion. Resurrection Troparion, Tone 5: "Unto the Word co-unoriginate with the Father and the Spirit..." And its Theotokion: "Rejoice, door of the Lord..." Litany and Dismissal. For the services of the saints whose service occurs on Wednesday, it is sung here at Compline.*
 
-*Rubric for the Concurrence of Key 8 ([И]) of the Paschalion:*
+*Rubric for the Concurrence of Key 8 ((*И*)) of the Paschalion:*
 
-*Be it known: that if Key 8 ([И]) of the Paschalion should occur, then on May 8 the Feast of the Holy Apostle John the Theologian falls on the Wednesday before the Ascension.[^727]*
+*Be it known: that if Key 8 ((*И*)) of the Paschalion should occur, then on May 8 the Feast of the Holy Apostle John the Theologian falls on the Wednesday before the Ascension.[^727]*
 
 *On Tuesday Evening, at Small Vespers: Stichera of the Apostle on 4. Glory... of the Apostle. Both now and ever... the same. At the Aposticha: Stichera of the Apostle with their own verses. Glory... of the Apostle. Both now and ever... the same. Troparion of the Apostle. Glory... both now and ever... Theotokion according to the Tone of the Troparion. Small Litany and Dismissal.*
 

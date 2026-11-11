@@ -1,7 +1,7 @@
 === LEAF p261 ===
 thou didst appear as an angel living with the flesh: therefore we honor thee.[^1678]
 
-*Glory... Another Sessional Hymn of John, Tone 3, Podoben: "Beholding the Beauty of Thy Virginity" (Krasote devstva):*
+*Glory... Another Sessional Hymn of John, Tone 3, Podoben: "Beholding the Beauty of Thy Virginity" (Красотѣ̀ дв҃ства):*
 Having forsaken corruptible wealth and fleeting glory, thou didst receive heavenly riches and truly everlasting glory, O blessed father. Therefore we bless thy holy falling asleep, and celebrating therein, we cry unto thee: Remember us before the Lord, O John, as having boldness.[^1679]
 
 *Both now... Theotokion:*
@@ -106,7 +106,7 @@ Shining with the heights of dispassion, O father John, constrained in a hut and 
 *Theotokion:*
 Thou didst incarnate from thy womb, O pure one, the Word Who is co-equal in power and co-enthroned with the One Who begat Him, Who through ineffable compassion bore all our nature.[^1713]
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 Having loved unstealable poverty, O all-wise one, thou didst hate the wealth of thy parents; and holding the Gospel in thy hands, thou didst follow Christ God, O John, unceasingly praying for us all.[^1714]
 
 *Ikos:*
@@ -210,7 +210,7 @@ The Lord directed thy paths from the womb, O blessed one, and guided thy goings 
 *Theotokion:*
 Thy womb became a dwelling of Light, whereby those sitting in darkness saw the light; therefore with unceasing voices we ever hymn thee, O Mother of God, and honor thee with love as the hope of our souls.[^1747]
 
-*Exapostilarion, Podoben: "Give Ear, Ye Women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give Ear, Ye Women" (Жє́ны оу҆слы́шите):*
 Forsaking affection for thy parents and fleeting wealth, thou didst take up thy cross, O father, and didst follow Christ pre-eminently, O John; ascetically thou didst put the passions to death, and didst ascend unto dispassion, and dost pray for us, O God-bearer.[^1748]
 
 *Theotokion:*
@@ -219,7 +219,7 @@ Thou didst give birth to Christ the King of glory, the Angel of Great Counsel of
 *At the Aposticha of the Octoechos: Glory, Tone 4:*
 We honor thee as the instructor of a multitude of monks, O our father Paul: for by thy path we have learned truly to walk uprightly. Blessed art thou, having labored for Christ, and thou didst expose the power of the enemy, O converser with angels, fellow-partaker with the venerable and righteous: with whom pray unto the Lord that our souls may find mercy.[^1750]
 
-*Both now, Theotokion or Stavrotheotokion, Podoben: "O Most Marvelous Wonder" (Preslavnago chudese):*
+*Both now, Theotokion or Stavrotheotokion, Podoben: "O Most Marvelous Wonder" (Пресла́внагѡ чꙋдесѐ):*
 What is this visible sight which is seen by mine eyes, O Master? * Holding all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all! * the Birthgiver of God weeping said, when she saw Him lifted up upon the Cross, * Who ineffably shone forth from her, God and Man.[^1751]
 
 *At the Liturgy, the Beatitudes of Paul, from the Canon Ode 3; and of John, Ode 6. Prokeimenon, Tone 7: The venerable shall boast in glory. Verse: Sing unto the Lord a new song. Epistle to the Galatians, Pericope 212 [Gal. 5:22–6:2]. Alleluia, Tone 6: Blessed is the man that fears the Lord. Verse: His seed shall be mighty upon earth. Gospel from Matthew, Pericope 43 [Matt. 11:27–30]. Communion Hymn: The righteous shall be in everlasting remembrance.*[^1752]
@@ -230,7 +230,7 @@ What is this visible sight which is seen by mine eyes, O Master? * Holding all c
 
 *In the same month, on the 16th day:*
 *The Veneration of the Precious Chains of the Holy and All-Praised Apostle Peter.*[^1754]
-*At "Lord, I have cried," Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Yako dobla):*
+*At "Lord, I have cried," Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 Thou didst bind delusion, * being bound for the Lord's sake, * and being shut up in prison, O apostle. * Therefore we honor thee with love, * and in faith we kiss thy chains, * drawing therefrom health of body * and salvation of soul; * as is meet we praise thee, O beholder of God, * converser with the bodiless. (Twice)[^1755]
 
 Through thee they who were held in ignorance * receive understanding, * the many-seeded nations of the Gentiles formerly, * whose image from the height was shown * being carried in the vessel containing within * every living creature, O apostle. * Therefore every age glorifies thee, bowing down * unto the chains which thou didst bear * most earnestly for Christ. (Twice)[^1756]
@@ -244,13 +244,13 @@ Today the foundation of the Church, Peter the rock of faith, sets forth for us h
 chains with desire: as standing before the throne of Christ the King of all, making prayer for us who celebrate thy memory.[^1759]
 
 *Both now, Theotokion:*
-*If it be Wednesday or Friday, Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Tridneven):*
+*If it be Wednesday or Friday, Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Трїдне́венъ):*
 Seeing our Life * hanging upon the Tree, * the all-immaculate Birthgiver of God, * maternally lamenting, cried: * O my Son and my God, * save those who hymn Thee with love.[^1760]
 
 *At the Aposticha, Stichera of the Octoechos: Glory, Tone 6:*
 Again our fervent intercessor gathers us unto the spiritual banquet, Peter the rock of faith, setting forth for us his precious chains as costly food, the healing of diseases, consolation for the sorrowful, a haven for the storm-tossed. Come, all ye, kissing them, let us entreat Him Who glorified him: By his prayers, O Christ, save our souls.[^1761]
 
-*Both now, Theotokion or Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Tridneven):*
+*Both now, Theotokion or Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Трїдне́венъ):*
 Seeing Thee crucified, O Christ, * she who bare Thee cried out: * What is this strange mystery which I see, O my Son? * How upon the Tree dost Thou die in the flesh, * suspended, O Bestower of life?[^1762]
 
 *Troparion, Tone 4:*
@@ -293,10 +293,10 @@ With a sacred tongue thou didst proclaim God Who suffered and was crucified upon
 *Theotokion:*
 Death was checked from its unrestrainable rushing even unto thee: for thou didst bear the Fountain of immortality, O Birthgiver of God, Virgin Mother.[^1774]
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 Christ the Rock brightly glorifies the rock of faith, the primate of the disciples; for He summons all to celebrate, O Peter, the precious chains of thy wonders, and grants forgiveness of transgressions.[^1775]
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up upon the Cross" (Voznesyisya):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up upon the Cross" (Вознесы́йсѧ):*
 As the primate of the wise apostles, and as the keybearer of the heavenly Kingdom, in faith we praise thee, O apostle, and with pure conscience we kiss, O Peter, the chains which thou didst bear like a malefactor, destroying the malefactions of the enemy: from which pray that we may be delivered. (Twice)[^1776]
 
 *Glory... Both now... Theotokion:*

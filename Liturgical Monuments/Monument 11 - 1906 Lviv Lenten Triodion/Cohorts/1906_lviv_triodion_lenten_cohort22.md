@@ -204,7 +204,7 @@ Thou, O Lord, shalt keep us, and shalt preserve us from this generation and fore
 Having sinned against Thee without number, I await unnumbered torments: gnashing of teeth, and inconsolable weeping, the Gehenna of fire, and darkness, and Tartarus, O most righteous Judge; grant me therefore tears, whereby I may find remission, and release of my evils, fasting and calling unto Thee: O Master Christ, have compassion upon me according to Thy great and rich mercy!
 
 === LEAF p218 ===
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 Me who have gone astray upon the mountains of cruel transgressions, seek out, O Word, and call back unto Thyself, driving far away the wicked habits of my mind; quicken me again who am dead, and purify me by fasting, as I cry aloud and say in unceasing weeping: O Master Christ, have compassion upon me according to Thy great and rich mercy!
 
 *Another sticheron by Lord Theodore, the same Tone. Podoben: "Most marvelous" (Пресла́вное):*[^556]  
@@ -242,7 +242,7 @@ The heavenly hosts sing of thee, O joyful Mother unwedded, and we glorify thine 
 *After the second stichology, Sessional Hymn of Lord Joseph, Tone 8. Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):*[^559]  
 With the fire of self-control let us all burn up the brushwood uprisings of the passions, and that unquenchable flame let us now quench with streams of tears, crying unto Him Who is to judge all the earth: O Savior, tender-hearted Lord, preserve us uncondemned, granting us forgiveness of transgressions! *Twice.*
 
-*Theotokion, Podoben:*  
+*Theotokion, Podoben (Подо́бенъ):*  
 O full of God's grace, pure and blessed one, for the tender mercy of the compassions of Him Who was born of thee, with the hosts on high, and with the archangels, and with all the bodiless powers, entreat unceasingly for us, that before the end He may grant us forgiveness, and cleansing of sins, and correction of life, that we may find mercy.
 
 *After the third stichology, Sessional Hymn, of Lord Theodore, Tone 8. Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):*[^560]  

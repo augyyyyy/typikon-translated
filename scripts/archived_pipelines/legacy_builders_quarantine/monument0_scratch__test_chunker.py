@@ -1,7 +1,7 @@
 import os
 import re
 
-BASE_DIR = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation"
+BASE_DIR = r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation"
 UKR_DIR = os.path.join(BASE_DIR, "Ukrainian TXTs")
 ENG_DIR = os.path.join(BASE_DIR, "Final")
 

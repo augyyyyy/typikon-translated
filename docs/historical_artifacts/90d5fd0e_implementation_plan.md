@@ -22,7 +22,7 @@ This will preserve all section codes (e.g., `2.1.3.4` or `4.1.10.2.3`), which ar
 
 ### 2. Refactor deepseek_compliance_audit.py
 
-We will update [deepseek_compliance_audit.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/deepseek_compliance_audit.py) to dynamically extract the Glossary, Triodion, and Menaion sections directly from [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md):
+We will update [deepseek_compliance_audit.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/deepseek_compliance_audit.py) to dynamically extract the Glossary, Triodion, and Menaion sections directly from [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md):
 
 *   **Glossary**: Slices text from the line starting with `# 6.3 Glossary` (or containing "Glossary") to `## 6.4 Footnotes`.
 *   **Part 3 (Menaion)**: Slices text from `# PART III` to `# PART IV`.

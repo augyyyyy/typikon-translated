@@ -58,7 +58,7 @@ Mark the honorable apostle is the hierarch and friend unto the Egyptians, unto w
 Having been instructed in heavenly wisdom, O apostle, thou didst destroy the entanglements of rhetors and the reckonings of astrologers by thy tongue, O all-glorious Mark; and having become a disciple of Peter, thou didst preach to the world the words of the Gospel. *(Twice)*
 
 *Glory, and now, of the feast.*
-*At the Praises, stichera of the feast, 3; and of the apostle, 3. Tone 1. Podoben:*
+*At the Praises, stichera of the feast, 3; and of the apostle, 3. Tone 1. Podoben (Подо́бенъ):*
 
 === LEAF p153 ===
 *Podoben: "O all-praised martyrs" (Всехвальнии муницы):*

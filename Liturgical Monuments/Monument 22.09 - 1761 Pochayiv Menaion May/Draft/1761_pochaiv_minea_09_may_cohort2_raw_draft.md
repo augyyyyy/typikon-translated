@@ -28,7 +28,7 @@ Let us sacredly praise the great adornment of hierarchs, Athanasius, the invinci
 *And the Falling Asleep of our Venerable Father Theodosius, Hegumen of the Monastery of the Caves, the Founder of the Cenobitic Monastic Life in the Rus' Land.[^14] His service is written after this service.*
 
 *Stichera of the Holy Martyrs, Tone 4:*
-*Tone 4, Podoben: "As One Valiant Among Martyrs" (Yako dobla):*
+*Tone 4, Podoben: "As One Valiant Among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 *Sticheron 1:*
 The pair among the martyrs who suffered valiantly, and put to death the combatant, and loved Christ, and hated the world, the worthy citizens of the noetic Zion: Maura today and Timothy, having come together in faith, let us praise with one accord, all ye lovers of the martyrs.
 
@@ -97,17 +97,17 @@ As we hymn thee, we earnestly pray thee: pray for the Church, to grant victories
 O mediatress of all Christians, Mother of God, all-immaculate Virgin, as thou art merciful, deliver thy afflicted servants from tribulations and misfortunes, and heal those suffering from the wounds of cruel arrows and the sicknesses of wounds.
 
 *Exapostilarion:*
-*Podoben: "O Unchanging Light" (Svete neizmennyi):*
+*Podoben: "O Unchanging Light" (Свѣ́те неизмѣ́нный):*
 A golden-flowing river hast thou appeared, watering with the streams of thy teachings, O minister of the Trinity, adornment of hierarchs: for by thy teachings, O Athanasius, thou didst destroy the teaching of Arius.
 
 *Glory, another Exapostilarion:*
-*Tone 3, Podoben: "Having Adorned the Sky with Stars" (Nebo zvezdami):*
+*Tone 3, Podoben: "Having Adorned the Sky with Stars" (Не́бо звѣзда́ми):*
 Let us hymn in praise the glory of hierarchs, the nursling of Egypt, the adornment of immortality, Athanasius the Great, as the overthrower of Arius and defender of the faithful.
 
 *Both now, of the Feast.*
 
 *At the Praises, Stichera on 4, Tone 4:*
-*Tone 4, Podoben: "As One Valiant Among Martyrs" (Yako dobla):*
+*Tone 4, Podoben: "As One Valiant Among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 *Sticheron 1:*
 By thy fiery teachings, all brushwood-matter of heresies is consumed, O most glorious one, and the impious host of the disobedient is drowned in the depth of thy understandings, O venerable Athanasius; and by thy teachings the Church of the faithful is daily adorned, O blessed one, honoring thee with loud voice.
 
@@ -181,7 +181,7 @@ Enlighten me with thy light, O Virgin rejoiced by God among women, I pray thee, 
 *Service of our Venerable Father Theodosius, Hegumen of the Monastery of the Caves, and Founder of the Cenobitic Monastic Life in the Rus' Land.*
 
 *At Small Vespers, Stichera, Tone 1:*
-*Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 *Sticheron 1:*
 True and blameless, venerable and guileless, and holding aloof from every evil thing wast thou known to be, O blessed one, adorned with virtues in truth, and shining with piety: therefore we call thee blessed, and celebrating today thy holy and honorable falling asleep, we rejoice.
 
@@ -219,11 +219,11 @@ Thy mind being enlightened by looking steadfastly unto God, O martyr, thou didst
 He Who is impassible by nature, Thy Son, O Virgin, took flesh from thy pure blood, and by His honorable Passion delivered me from passions, O pure one.
 
 *Kontakion, Tone 4:*
-*Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyisya):*
+*Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*
 Having endured manifold wounds, and received crowns from God, pray ye unto the Lord for us who celebrate your all-sacred memory, O exceedingly great Timothy and all-glorious Maura, that He may grant peace unto the city and the people: for He is the confirmation of the faithful.
 
 *Sessional Hymn, Tone 4:*
-*Tone 4, Podoben: "Thy Tomb, O Savior" (Grob tvoy):*
+*Tone 4, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й):*
 Having honored God, they darkened delusion, the wise Timothy and the glorious Maura; and having endured every torture, O all-lauded ones, they shone brighter than the rays of the sun, and became fellow-ministers with the angels: whom in faith we glorify.
 
 *Glory, both now, of the Feast.*
@@ -292,7 +292,7 @@ Come, assembly of the faithful, merrily today! Come, all ye joyfully into the ho
 *Both now, of the Feast.*
 
 *At the Aposticha, Stichera, Tone 2:*
-*Tone 2, Podoben: "O House of Ephratha" (Dome Evfratov):*
+*Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 *Sticheron 1:*
 A radiant morning and day has thy feast appeared, enlightening the hearts of us who praise in faith thy honorable struggles, O father Theodosius.
 *Verse: Precious in the sight of the Lord is the death of His venerable ones.*
@@ -319,7 +319,7 @@ in the cave, and having adorned thy life with fasting and radiance, in prayers t
 *At Great Vespers, we sing: Blessed is the man.*
 
 *At "Lord, I have cried," Stichera, Tone 5:*
-*Tone 5, Podoben: "O Venerable Father" (Prepodobne otche):*
+*Tone 5, Podoben: "O Venerable Father" (Преподо́бне ѡ҆́тче):*
 *Sticheron 1:*
 O venerable father, god-bearing Theodosius, having greatly struggled in temporal life by hymns, fasting, and vigil, thou wast an example unto thy disciples; and now thou dost exult with the bodiless hosts, unceasingly glorifying Christ, the divine Word and Deliverer from God, Who bowed His head upon the Cross and delivered the human race from deception: Him entreat, unto Him pray, O venerable one, to grant peace and great mercy unto the universe.
 

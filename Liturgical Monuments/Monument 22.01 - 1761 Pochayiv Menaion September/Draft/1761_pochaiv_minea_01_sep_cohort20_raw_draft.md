@@ -27,7 +27,7 @@ Perceiving passing things with chaste understanding, and surmounting the raging 
 *Theotokion:*
 Having found thee alone as an apple tree in the woods, and as the purest lily and the flower of the valley, O Mother of God, the noetic Bridegroom took up His abode in thee.[^1283]
 
-*Kontakion of the Saint, Tone 2, Podoben:*
+*Kontakion of the Saint, Tone 2, Podoben (Подо́бенъ):*
 
 === LEAF p192 === (Fol. 95v)
 *Podoben: "Seeking the highest" (Вы́шнихъ и҆щѧ̀):*

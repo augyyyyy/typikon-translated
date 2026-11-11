@@ -93,7 +93,7 @@
 
 *Troparion 2:* Having preached peace through Thy Cross, and having proclaimed remission unto captives, O my Savior, Thou didst put to shame him that had the power of death, O Christ, showing him naked and impoverished by Thy divine resurrection.[^166]
 
-*Theotokion:* Despise not the petitions of those who faithfully ask, O all-hymned one, but receive them, and convey them unto Thy Son, O all-pure one, the only Benefactor God; for we have acquired thee as mediatress.[^167]
+*Theotokion:* Despise not the petitions of those who faithfully ask, O all-hymned one, but receive them, and convey them unto thy Son, O all-pure one, the only Benefactor God; for we have acquired thee as mediatress.[^167]
 
 *Canon of the Cross and Resurrection.*
 *Heirmos:* Being the God of peace...[^168]
@@ -126,7 +126,7 @@
 
 *Troparion 1:* Being an impassible and immaterial Mind, Christ God was joined to the human mind, the divine nature mediating with the grossness of the flesh; and without change He was wholly united unto the whole of me, that being crucified He might grant salvation unto the whole of me who had fallen.[^180]
 
-*Troparion 2:* Adam, having been deceived, falls, and being tripped up is crushed, having been seduced of old by the hope of deification; but he ariss, being deified by union with the Word, and through suffering receives impassibility, being glorified upon the throne as a son, sitting with the Father and the Spirit.[^181]
+*Troparion 2:* Adam, having been deceived, falls, and being tripped up is crushed, having been seduced of old by the hope of deification; but he arises, being deified by union with the Word, and through suffering receives impassibility, being glorified upon the throne as a son, sitting with the Father and the Spirit.[^181]
 
 *Theotokion:* Not leaving the bosom of the unoriginate Begetter, He takes up His abode in the bosom of the pure Maiden; and He[^182]
 

@@ -46,7 +46,7 @@ To have compassion and save thy servants.
 
 *Theotokion:* With mouth and tongue do I confess thee to be the most holy temple of God, O most pure one; therefore deliver me from every affliction.
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyisya):*[^424]
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*[^424]
 
 Having cast down the exaltations of the enemies like a mighty warrior, O blessed one, thou didst receive the crown of victory. Therefore we praise thee as a valiant sufferer, keeping thy all-festive memory in faith, wherein do thou pray, O much-suffering Hermias, that we be saved from every distress.
 
@@ -92,7 +92,7 @@ Therefore with hymns we honor thee.
 
 *Theotokion:* In a manner fitting God thou feedest Him Who by His beck feeds all things; with thy hands thou holdest Him Who holds all things, O all-immaculate Sovereign Lady; therefore we, the faithful, duly glorify thee.
 
-*Kontakion, Tone 6, Podoben: "Fulfilling the Dispensation for Our Sake" (Ezhe o nas):*[^428]
+*Kontakion, Tone 6, Podoben: "Fulfilling the Dispensation for Our Sake" (Є҆́же ѡ҆ на́съ):*[^428]
 
 He that zealously struggled for Christ, and acquired courage in valiant gray hairs, O martyr
 

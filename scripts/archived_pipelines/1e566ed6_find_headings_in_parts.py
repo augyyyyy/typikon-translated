@@ -12,7 +12,7 @@ def search_text(path, query):
                 print(f"  Line {i+1:4d}: {line.strip()[:100]}")
 
 def main():
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     part3 = os.path.join(typikon_dir, "Final_Dolnytsky_part3_menaion.md")
     part4 = os.path.join(typikon_dir, "Final_Dolnytsky_part4_triodion.md")
     

@@ -769,7 +769,7 @@ All generations in songs of repentance [magnify] the venerable Chrysostom, the b
 [^1122]: Psalm 34:28 [LXX 34:28 / MT 35:28]: "And my tongue shall speak of Thy righteousness and of Thy praise all the day long."
 [^1123]: Psalm 111:1 [LXX 111:1 / MT 112:1]: "Praise ye the Lord. Blessed is the man that fears the Lord, that delights greatly in His commandments", opening the final Psalm 111 cycle for the Forerunner.
 [^1124]: Psalm 111:2a, 3a [LXX 111:2a, 3a / MT 112:2a, 3a]: "His seed shall be mighty upon earth... Wealth and riches shall be in his house."
-[^1125]: Psalm 111:3b, 4a [LXX 111:3b, 4a / MT 112:3b, 4a]: "And his righteousness endures forever. Unto the upright there ariss light in the darkness."
+[^1125]: Psalm 111:3b, 4a [LXX 111:3b, 4a / MT 112:3b, 4a]: "And his righteousness endures forever. Unto the upright there arises light in the darkness."
 [^1126]: Psalm 111:5 [LXX 111:5 / MT 112:5]: "A good man shows favor, and lends: he will guide his affairs with discretion."
 [^1127]: Psalm 111:6 [LXX 111:6 / MT 112:6]: "Surely he shall not be moved forever: the righteous shall be in everlasting remembrance."
 [^1128]: Psalm 111:7 [LXX 111:7 / MT 112:7]: "He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord", concluding the Selected Psalm verses for the Forerunner.

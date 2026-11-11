@@ -58,7 +58,7 @@
 [^2566]: Ode 9, Theotokion (*Невѣ́сто Бж҃їѧ, Всенепоро́чнаѧ...*), beseeching the Bride of God to deliver her faithful servants from trials through her prayers.
 [^2567]: Rubrical directions concluding Compline: singing the ninth heirmos in place of *It is truly meet* (*Достойно есть*), followed by the Trisagion Prayers and the Festal Kontakion.
 [^2568]: Headpiece and rubrics for the Midnight Office (*на Полꙋ́нощницѣ*) of Bright Monday of the Holy Spirit (*Въ Понедѣ́лникъ ст҃а́гѡ Дх҃а*), noting that by some traditions the day is dedicated to the Life-Creating Trinity (*Живонача́льныѧ Трⷪ҇цы*); the customary memorial prayers for the departed are omitted throughout Bright Week and the post-festal period of Pentecost.
-[^2569]: Service opening for Matins on Bright Monday of the Holy Spirit (*День Свѧта́гw Дх҃а*).
+[^2569]: Service opening for Matins on Bright Monday of the Holy Spirit (*День Свѧта́гѡ Дх҃а*).
 [^2570]: Rubric for the singing of *God is the Lord* (*Бо́гъ Госпо́дь* / Ps. 117:27, 26 LXX) and the threefold repetition of the Pentecost Dismissal Troparion (*Благослове́нъ еси́, Христе́ Бо́же на́шъ*).
 [^2571]: Sessional Hymn following the First Psalter Stichology, Tone 4, Podoben: "Joseph was amazed" (*Оу҆диви́сѧ І҆ѡ́сифъ*), celebrating Pentecost as the post-festal crown and final feast of the liturgical year's paschal cycle.
 [^2572]: Sessional Hymn following the Second Kathisma, Tone 4, same Podoben, depicting the outpouring of the Holy Spirit as fiery rivers bedewing the Apostles with grace through fire and water.
@@ -67,7 +67,7 @@
 [^2575]: Sessional Hymn following Ode 3, Tone 8, Podoben: "The Wisdom and Word of God" (*Премꙋ́дрости сло́ва*), repeated from Compline (fol. 568 / leaf p574).
 [^2576]: Rubric for the festal Kontakion (*Егда́ снизше́дъ язы́ки слия́...*) and Ikos of Pentecost appointed after Ode 6 of the Canon.
 [^2577]: Headpiece for the Synaxarion of Monday after Pentecost, dedicated explicitly to the Third Person of the Holy Trinity, the All-Holy and Life-Creating Spirit (*Сѷнаѯа́рь, въ Понедѣ́лникъ по Пѧтдесѧ́тницѣ, сїе́сть, ст҃а́гѡ Дх҃а*), composed by Nicephorus Callistus Xanthopoulos (c. 1256–1335).
-[^2578]: Opening iambic stichoi of the Synaxarion, translating the Greek original: *Πᾶσα πνοὴ δόξαζε Πνεῦμα Κυρίου, / ᾯ τῶν πονηρῶν πνευμάτων φроῦδα θράση* (*Let every breath glorify the Spirit of the Lord, by Whom the audacity of the evil spirits fell*).
+[^2578]: Opening iambic stichoi of the Synaxarion, translating the Greek original: *Πᾶσα πνοὴ δόξαζε Πνεῦμα Κυρίου, / ᾯ τῶν πονηρῶν πνευμάτων φροῦδα θράση* (*Let every breath glorify the Spirit of the Lord, by Whom the audacity of the evil spirits fell*).
 [^2579]: Theological opening of the Synaxarion treatise, setting forth the feast of the Holy Spirit as equal in honor, consubstantial, and co-glorious with the Father and the Son, commemorated on Monday to give distinct honor to the Paraclete.
 [^2580]: Scriptural references to the historical descent of the Holy Spirit recorded in Acts 2:1-4, noting the fulfillment of Christ's promises in John 14:16, 15:26, 16:7-13, and Luke 24:49, falling upon both the Twelve and the wider body of the Seventy Disciples.
 [^2581]: Commentary on the miracle of polyglot speech (glossolalia) and the diverse nationalities gathered in Jerusalem (Acts 2:5-13), refuting the mockery that the Apostles were filled with new wine.

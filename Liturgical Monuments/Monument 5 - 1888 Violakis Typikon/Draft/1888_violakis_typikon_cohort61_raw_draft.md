@@ -42,7 +42,7 @@
 
 7.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ β΄ Κανόνος τοῦ Προδρόμου. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τοῦ Προδρόμου, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Προστασία [τῶν Χριστιανῶν]. Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Προδρόμου. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς μνημόσυνον, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ ΚΘ΄. Τῶν ἁγίων ἐνδόξων καὶ Πρωτοκορυφαίων Ἀποστόλων Πέτρου καὶ Παύλου.
+**Τῇ ΚΘ΄. Τῶν ἁγίων ἐνδόξων καὶ Πρωτοκορυφαίων Ἀποστόλων Πέτρου καὶ Παύλου.**
 
 1.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ Κύριε ἐκέκραξα τὰ γ΄ Προσόμοια Ποίοις εὐφημιῶν εἰς ς΄, Δόξα, Τῷ τριττῷ τῆς ἐρωτήσεως, Καὶ νῦν, [Ὁ] διὰ σὲ θεοπάτωρ, Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Ἰδιόμελα, Δόξα, Ἑορτὴ χαρμόσυνος, Καὶ νῦν, Θεοτόκε σὺ εἶ ἄμπελος, τὸ Ἀπολυτίκιον Οἱ τῶν Ἀποστόλων πρωτόθρονοι, τὸ Θεοτοκίον Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον, καὶ Ἀπόλυσις.
 
@@ -58,7 +58,7 @@
 
 7.    In the Divine Liturgy, the Typika and the 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Second Canon of the Forerunner. After the Little Entrance, the Resurrection Dismissal Troparion, that of the Forerunner, that of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*). Epistle and Gospel of the Forerunner. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"In everlasting remembrance shall the righteous be"** (*Εἰς μνημόσυνον*, Ps. 111:6 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### June 29: The Holy, Glorious and Chief Apostles Peter and Paul
+**June 29: The Holy, Glorious and Chief Apostles Peter and Paul**
 
 1.    At Vespers, following the Introductory Psalm [Ps. 103 LXX] and the first Kathisma [Stasis] of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the 3 Prosomoia: **"With what garlands of praise"** (*Ποίοις εὐφημιῶν*) doubled to 6; "Glory...": **"By His threefold questioning"** (*Τῷ τριττῷ τῆς ἐρωτήσεως*); "Both now and ever...": **"David, the ancestor of God"** (*Ὁ διὰ σὲ θεοπάτωρ*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings. At the Aposticha: the 3 Idiomela; "Glory...": **"A joyful feast"** (*Ἑορτὴ χαρμόσυνος*); "Both now and ever...": **"O Theotokos, Thou art the vine"** (*Θεοτόκε σὺ εἶ ἡ ἄμπελος*). The Dismissal Troparion: **"First in prominence among the Apostles"** (*Οἱ τῶν Ἀποστόλων πρωτόθρονοι*), the Theotokion: **"The mystery hidden from all ages"** (*Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον*), and Dismissal.
 
@@ -100,7 +100,7 @@
 
 6.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ β΄ Κανόνος τῶν Ἀποστόλων. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῶν Ἀποστόλων, τὸ τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Προστασία τῶν Χριστιανῶν. Ἀπόστολος καὶ Εὐαγγέλιον τῶν Ἀποστόλων. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς πᾶσαν τὴν γῆν, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ Λ΄. Ἡ Σύναξις τῶν ἁγίων ἐνδόξων Ἀποστόλων τῶν ΙΒ΄.
+**Τῇ Λ΄. Ἡ Σύναξις τῶν ἁγίων ἐνδόξων Ἀποστόλων τῶν ΙΒ΄.**
 
 1.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν εἰς τὸ Κύριε ἐκέκραξα ψάλλονται τὰ γ΄ Ἰδιόμελα Ποίοις εὐφημιῶν [εἰς ς΄] καὶ γ΄ Προσόμοια τῶν ΙΒ΄ Ἔδωκας καυχήματα. Δόξα, Ἡ πάνσεπτος, τῶν Ἀποστόλων, Καὶ νῦν, Τίς μὴ μακαρίσει σε, Εἴσοδος, Φῶς ἱλαρόν, καὶ τὸ Προκείμενον τῆς ἡμέρας. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Στιχηρὰ τῶν Αἴνων Ὁ οὐρανόθεν τὴν χάριν, Δόξα, Ἑορτὴ χαρμόσυνος, Καὶ νῦν, Θεοτόκε σὺ εἶ ἡ ἄμπελος, τὸ Ἀπολυτίκιον Ὡς τῶν Ἀποστόλων πρωτόθρονοι, Δόξα, Ἀπόστολοι Ἅγιοι, Καὶ νῦν, Σὲ τὴν μεσιτεύσασαν, καὶ Ἀπόλυσις.
 
@@ -116,7 +116,7 @@
 
 6.    In the Divine Liturgy, the Typika and the 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Second Canon of the Apostles. After the Little Entrance, the Resurrection Dismissal Troparion, that of the Apostles, that of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*). Epistle and Gospel of the Apostles. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Their sound hath gone forth into all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### June 30: The Synaxis in Honor of the Holy and Glorious Twelve Apostles
+**June 30: The Synaxis in Honor of the Holy and Glorious Twelve Apostles**
 
 1.    At Vespers, following the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the 3 Idiomela: **"With what garlands of praise"** (*Ποίοις εὐφημιῶν*, doubled to 6) and 3 Prosomoia of the Twelve Apostles: **"Thou hast given as boasts to Thy Church"** (*Ἔδωκας καυχήματα*); "Glory...": **"The all-venerable celebration of the Apostles"** (*Ἡ πάνσεπτος τῶν Ἀποστόλων*); "Both now and ever...": **"Who would not call Thee blessed"** (*Τίς μὴ μακαρίσει σε*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon of the day. At the Aposticha: the 3 Stichira of the Praises: **"The grace from Heaven"** (*Ὁ οὐρανόθεν τὴν χάριν*); "Glory...": **"A joyful feast"** (*Ἑορτὴ χαρμόσυνος*); "Both now and ever...": **"O Theotokos, Thou art the vine"** (*Θεοτόκε σὺ εἶ ἡ ἄμπελος*). The Dismissal Troparion: **"As the first in prominence among the Apostles"** (*Ὡς τῶν Ἀποστόλων πρωτόθρονοι*); "Glory...": **"O Holy Apostles"** (*Ἀπόστολοι Ἅγιοι*); "Both now and ever...": **"Thou who didst intercede for us"** (*Σὲ τὴν μεσιτεύσασαν*), and Dismissal.
 
@@ -138,9 +138,9 @@
 
 6.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ β΄ Κανόνος τῶν Ἀποστόλων. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ Ἀπόστολοι Ἅγιοι, τὸ τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Προστασία τῶν χριστιανῶν. Ἀπόστολος καὶ Εὐαγγέλιον τῶν ΙΒ΄. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς πᾶσαν τὴν γῆν, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### ΜΗΝ ΙΟΥΛΙΟΣ
+**ΜΗΝ ΙΟΥΛΙΟΣ**
 
-### Τῇ Α΄. Τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ.
+**Τῇ Α΄. Τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ.**
 
 === LEAF p610 ===
 
@@ -156,6 +156,6 @@
 
 6.    In the Divine Liturgy, the Typika and the 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Second Canon of the Apostles. After the Little Entrance, the Resurrection Dismissal Troparion, the Dismissal Troparion **"O Holy Apostles"** (*Ἀπόστολοι Ἅγιοι*), that of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*). Epistle and Gospel of the Twelve Apostles. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Their sound hath gone forth into all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### MONTH OF JULY
+**MONTH OF JULY**
 
-### July 1: The Holy Unmercenaries Cosmas and Damian[^364]
+**July 1: The Holy Unmercenaries Cosmas and Damian[^364]**

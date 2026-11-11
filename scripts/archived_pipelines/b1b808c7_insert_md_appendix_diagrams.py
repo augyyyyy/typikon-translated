@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-proj_root = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation")
+proj_root = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation")
 app_path = proj_root / "Final MD" / "Final_Dolnytsky_appendix.md"
 
 with open(app_path, "r", encoding="utf-8", newline="") as f:

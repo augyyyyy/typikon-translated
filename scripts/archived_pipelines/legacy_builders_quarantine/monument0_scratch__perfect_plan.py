@@ -3,7 +3,7 @@ import requests
 import json
 
 def get_deepseek_key():
-    global_env = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\.env"
+    global_env = r"C:\Users\augus\Documents\Google Antigravity\Projects\.env"
     if os.path.exists(global_env):
         try:
             with open(global_env, "r", encoding="utf-8") as f:

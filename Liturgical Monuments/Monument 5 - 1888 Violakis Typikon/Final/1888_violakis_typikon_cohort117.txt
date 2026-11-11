@@ -4,7 +4,7 @@
 
 ## Extended Dictionary of Typikon Related Terms (Clerical Non-Liturgical Attire: Mandyas – Tables of the Law – Fountains – Cassock Part 1) [Demos, p. 1146 / TD-167]
 
-### Non-Liturgical Attire of the Clergy
+**Non-Liturgical Attire of the Clergy**
 
 The **MANDYAS** (*Μανδύας, ὁ*; mantle / Slav. *mantiya* / *мантія*): The mantle of the bishop is also a monastic garment, which, like a cloak, covers the whole body with the exception of the head. All monks, when present at divine services, must be robed in their mantles. The mantle is not technically speaking a liturgical vestment, but at Vespers and Matins (*Orthros*) it is worn when a bishop first arrives for the divine service and presides from the episcopal throne; it is later removed with assistance by the priests or deacons before he is vested for the Divine Liturgy. In Byzantine Greek practice, the bishop descends from the throne after the chanting of the Katavasiai, enters the sanctuary through the Holy Doors (*Royal Doors* / *Beautiful Gate*) where, after reverencing the Book of the Gospels lying upon the Holy Table, he proceeds to the Diakonikon where the mantle is removed, and if he is to celebrate the Divine Liturgy, he begins vesting with full episcopal vestments. In Slavic practice, after the bishop descends from the throne as described above, he proceeds to the center of the soleas where the mantle is removed and, if he is to celebrate, he is publicly vested for the Divine Liturgy with the assistance of the deacon or priest.
 
@@ -68,10 +68,10 @@ Regardless of the physical orientation of a local church building, the sanctuary
 
 The elevated platform in the ancient synagogue, likewise designated a *bema*, served as the place from which the Torah (*Pentateuch*) and the Prophets were proclaimed. In ancient Greek temples, the sacrificial altar (*bōmos* / *βωμός*) was similarly situated facing toward the East.
 
-### Letter W
+**Letter W**
 *(No entry)*
 
-### Letter X
+**Letter X**
 *(No entry)*
 
 The **YPAKOE** (*Ὑπακοή, ἡ*; Slav. *Ipakoj* / *ѵпакои* / *ypakoe*): Perhaps the most ancient designation employed in the Christian East for a composed poetic liturgical hymn.[^714]

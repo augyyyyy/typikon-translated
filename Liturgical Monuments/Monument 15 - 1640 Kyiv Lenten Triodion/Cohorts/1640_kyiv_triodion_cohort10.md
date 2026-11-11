@@ -70,7 +70,7 @@
 
 ## Monday of Cheesefare at Vespers
 
-*At "Lord, I have cried," Stichera as usual in the Octoechos, 3; and in the Menaion to the Saint, 3. Glory... to the Saint, if there be one. But if not, Glory... Both now... Theotokion in the same Tone and Podoben.*
+*At "Lord, I have cried," Stichera as usual in the Octoechos, 3; and in the Menaion to the Saint, 3. Glory... to the Saint, if there be one. But if not, Glory... Both now... Theotokion in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже).*
 
 *At the Aposticha, Idiomelon Sticheron, Tone 8:* Let us strive to cleanse ourselves by fasting from the defilement of our transgressions, and by mercy and loving-kindness toward the poor to enter into the bridal chamber of Christ the Bridegroom, Who grants us great mercy!
 

@@ -84,7 +84,7 @@ In conclusion, the members of the Committee mentioned above declare and state th
 
 === LEAF p27 ===
 
-# ΚΑΝΩΝ ΟΕ΄
+## ΚΑΝΩΝ ΟΕ΄
 
 ## ΤΗΣ ΕΝ ΤΡΟΥΛΛΩ, ΣΤ΄ ΟΙΚΟΥΜΕΝΙΚΗΣ ΣΥΝΟΔΟΥ [691 μ.Χ.]
 
@@ -98,7 +98,7 @@ In conclusion, the members of the Committee mentioned above declare and state th
 
 === LEAF p28 ===
 
-# CANON LXXV (75)
+## CANON LXXV (75)
 
 ## FROM THE SIXTH ECUMENICAL SYNOD IN TRULLO [A.D. 691]
 

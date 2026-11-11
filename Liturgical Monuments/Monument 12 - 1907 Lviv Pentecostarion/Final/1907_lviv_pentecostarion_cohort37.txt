@@ -137,7 +137,7 @@ My heart is established in the Lord, my horn is exalted in my God, my mouth is e
 *Sessional Hymn, Tone 8, Podoben: "The Wisdom and Word of God" (Премꙋ́дрости сло́ва):*
 Standing in the midst of the sanctuary, as the feast was divinely halfway through, Thou didst cry aloud: Let him that is thirsty come unto Me and drink! For he that drinks of this My Divine water shall pour forth from his belly rivers of My commandments; and he that believes in Me, sent from the Divine Begetter, shall be glorified with Me: therefore we cry unto Thee: Glory to Thee, Christ our God, for Thou hast richly poured out the waters of Thy love for mankind upon Thy servants!
 
-*Glory... both now and for ever and unto ages of ages. Amen. Podoben:*
+*Glory... both now and for ever and unto ages of ages. Amen. Podoben (Подо́бенъ):*
 Pouring forth the water of wisdom and life unto the world, Thou callest all men, O Savior, to draw the waters of salvation; for receiving Thy Divine Law, man extinguishes within himself the coals of delusion,
 
 === LEAF p365 ===

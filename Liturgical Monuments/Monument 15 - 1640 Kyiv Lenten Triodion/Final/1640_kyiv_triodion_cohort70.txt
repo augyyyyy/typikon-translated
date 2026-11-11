@@ -131,7 +131,7 @@ and deliver me from the beast, stretching forth Thy hand, and lead me up from th
 *Troparion:* Knowing thee to be pastor and presiding hierarch of Crete, and intercessor for the whole universe, I run unto thee, O Andrew, and cry aloud: Deliver me, father, from the deep of sin![^1980]
 
 *To the Trinity:*
-*Troparion:* I am a simple, undivided Trinity, divided in Persons, and I am a Unity united in essence: the Father, saith He, and the Son, and the Divine Spirit![^1981]
+*Troparion:* I am a simple, undivided Trinity, divided in Persons, and I am a Unity united in essence: the Father, says He, and the Son, and the Divine Spirit![^1981]
 
 *Theotokion:*
 *Troparion:* Thy womb bare the Lord for us, formed like unto us; Him do thou pray, as the Creator of all, O Birth-giver of God, that by thy prayers we may be justified![^1982]

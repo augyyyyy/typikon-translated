@@ -22,7 +22,9 @@ J. N 6573
 
 === LEAF p2 ===
 
-# TONE 1: TRINITY HYMNS AND PHOTAGOGICA
+# PART I: THE DAILY OFFICE (MIDNIGHT OFFICE, MATINS, AND HOURS)
+
+## TONE 1: TRINITY HYMNS AND PHOTAGOGICA
 
 *Trinity Hymns and Photagogica according to the Tones. Tone 1.*[^4]
 
@@ -124,7 +126,7 @@ O Trinity consubstantial and undivided, O Monad three-hypostatic and ever-existi
 
 *Glory to the saint, Both now... Theotokion. But if it be for a simple saint and there be no photagogicon, then say for the saint this photagogicon: "Thou Who hast adorned the heaven with stars..." Theotokion: "O sweetness of the angels..." But if not, the photagogicon following the Trinity hymns is sung.*
 
-# EXAPOSTILARIA OF THE WEEK
+## EXAPOSTILARIA OF THE WEEK
 
 *Photagogicon on Monday, to the Angels:*  
 *Podoben: "Give ear, ye women" (Жены ѹслыши):*[^17]  

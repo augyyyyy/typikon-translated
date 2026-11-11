@@ -202,7 +202,7 @@ Thy mind was ignited with fire * and flame-bearing were thy lips, * wherewith th
 === LEAF p358 ===
 ...together with their godless teachings.[^2426]
 
-*Glory, Tone and Podoben the same:*  
+*Glory, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 Unto the venerable Trinity: * the Father, the Word, * and the Spirit: * the divine theologian * taught us to believe, * as one indivisible God.[^2427]
 
 *Both now:*  

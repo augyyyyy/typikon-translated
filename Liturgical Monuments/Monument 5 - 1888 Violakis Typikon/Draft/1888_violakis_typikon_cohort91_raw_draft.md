@@ -4,7 +4,7 @@
 
 ## Τελετὴ εἰς Ἐπάνοδον Πατριάρχου ἐπὶ τὸν Οἰκουμενικὸν Θρόνον [Violakis, p. 886]
 
-### ΤΕΛΕΤΗ ΕΙΣ ΕΠΑΝΟΔΟΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΝ ΟΙΚΟΥΜΕΝΙΚΟΝ ΘΡΟΝΟΝ
+**ΤΕΛΕΤΗ ΕΙΣ ΕΠΑΝΟΔΟΝ ΠΑΤΡΙΑΡΧΟΥ ΕΠΙ ΤΟΝ ΟΙΚΟΥΜΕΝΙΚΟΝ ΘΡΟΝΟΝ**
 
 Ἀφικόμενος ὁ Πατριάρχης, ὡς ἀνωτέρω ἐρρήθη, μετὰ τῆς συνήθους παρατάξεως ἐν τοῖς Πατριαρχείοις ἵσταται ἔμπροσθεν τῆς μεγάλης πύλης τοῦ Ναοῦ καὶ ἐνδύεται τὸν Μανδύαν, καὶ οἱ μὲν ἅγιοι Ἀρχιερεῖς εἰσέρχονται κατ’ εὐθεῖαν εἰς τὸ ἱερὸν Βῆμα, οἱ δὲ Χοροί, προπορευομένου τοῦ Πριμικηρίου μετὰ τοῦ Διβαμβούλου καὶ δ΄ Διακόνων, τῶν δύο θυμιώντων τὸν Πατριάρχην εἰσερχόμενον εἰς τὸν Ναόν, ψάλλουσι τὸ *Ἄξιόν ἐστιν*, ὁ δὲ ἑστὼς ἐν τῷ μέσῳ τοῦ Ναοῦ εὐλογεῖ ἀλλ’ οὐ φέρει τὴν Πατριαρχικὴν ῥάβδον, δύο δὲ τῶν Ἀρχιερέων ἀναβιβάζουσιν αὐτὸν ἐπὶ τοῦ Θρόνου· τότε προσερχόμενος ὁ Μητροπολίτης Ἡρακλείας, μετὰ τὴν συνήθη προσλαλιάν, ἐγχειρίζει τῷ Πατριάρχῃ τὴν Πατριαρχικὴν ῥάβδον καὶ ἀσπασάμενος τὴν δεξιὰν αὐτοῦ εἰσέρχεται καὶ οὗτος εἰς τὸ ἱερὸν Βῆμα, ὁ δὲ Μ. Λογοθέτης ἵσταται ἐν τῷ παραθρονίῳ. Εἶτα ὁ Μ. Ἐκκλησιάρχης φέρων ἐνδύει τὸν Πατριάρχην Ἐπιτραχήλιον καὶ Ὠμοφόριον, ὁ δὲ Μ. Ἀρχιδιάκονος ἐκφωνεῖ *Εὐλόγησον Δέσποτα*, ὁ Πατριάρχης ποιεῖ εὐλογητόν, ὁ Ἀρχιδιάκονος λέγει τὸ Τρισάγιον, ὁ Πατριάρχης *Ὅτι σοῦ ἐστιν*, καὶ ὁ α΄ Χορὸς ψάλλει τὸ τροπάριον *Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*, ὁ δὲ β΄ *Τῆς εὐσπλαγχνίας τὴν πύλην ἄνοιξον ἡμῖν*, ὁ Μ. Ἀρχιδιάκονος *Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου, Ὑπὲρ τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν, Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν . . ., Ὑπὲρ τοῦ διαφυλαχθῆναι κτλ.* ὁ Πατριάρχης *Ἐπάκουσον ἡμῶν ὁ Θεός*, καὶ εἰς τὸ τέλος ὁ Πρωτοψάλτης τὸν πολυχρονισμόν, ὁ ἀπ’ Ἄμβωνος λόγος, μεθ’ ὃν οἱ Χοροὶ ψάλλουσι *Τὸν Δεσπότην καὶ Ἀρχιερέα*, τοῦ Πατριάρχου εὐλογοῦντος τὸν λαόν,
 
@@ -16,7 +16,7 @@
 
 ## Ceremony of the Return [Reinstallation] of the Patriarch to the Ecumenical Throne (Part 1) [Violakis, p. 887]
 
-### CEREMONY OF THE RETURN [REINSTALLMENT] OF THE PATRIARCH TO THE ECUMENICAL THRONE
+**CEREMONY OF THE RETURN [REINSTALLMENT] OF THE PATRIARCH TO THE ECUMENICAL THRONE**
 
 Arriving at the Patriarchate with his customary entourage as aforesaid, the Patriarch comes and stands before the Great Portal of the Church* and vests with the Mandya. The holy Hierarchs who have accompanied him enter immediately into the Holy Sanctuary [Bema]. The Choirs, preceded by the Primikirios bearing the Divamboulon and four deacons, two of them censing the Patriarch as he enters the church, sing: **"It is truly meet to bless thee, O Theotokos, ever-blessed and most pure, and the Mother of our God: more honorable than the Cherubim, and beyond compare more glorious than the Seraphim: thee who without defilement gavest birth to God the Word, true Theotokos, thee do we magnify!"** (*Ἄξιόν ἐστιν*). The Patriarch, standing in the middle of the church, blesses, but he does not carry the Patriarchal Staff. Two of the Hierarchs help him ascend the Throne; and then the Metropolitan of Herakleia comes forward, and after the customary welcoming address bestows the Patriarch with the Patriarchal Staff, kissing his right hand, and then enters the Holy Sanctuary. The Great Logothete stands at the Parathrone [a smaller throne near the Patriarchal throne]. Then the Great Ecclesiarch [Grand Master of Ceremonies] vests the Patriarch with the Epitrachilion and the Omophorion. The Great Archdeacon exclaims: **"Bless, Master!"** (*Εὐλόγησον, Δέσποτα*). The Patriarch: **"Blessed is our God, always, now and forever, and unto the ages of ages. Amen."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν*). The Archdeacon recites the Trisagion Prayers. The Patriarch pronounces the Exclamation: **"For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen."** (*Ὅτι σοῦ ἐστιν*). The First Choir sings the Dismissal Troparion of Saint George in Tone 4: **"As the liberator of captives and defender of the poor, physician of the sick, and champion of monarchs: victorious Great Martyr George, intercede with Christ God that our souls may be saved!"** (*Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*); and the Second Choir sings the Theotokion: **"Open unto us the gate of compassion, O blessed Theotokos, that hoping in thee we may not perish, but be delivered by thee from dangers: for thou art the salvation of the Christian race!"** (*Τῆς εὐσπλαγχνίας τὴν πύλην ἄνοιξον ἡμῖν*). The Great Archdeacon intones the Ektenia: **"Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear us and have mercy!"** (*Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεός σου...*). The Choirs respond: **"Lord, have mercy"** (*Κύριε, ἐλέησον*) three times. The Great Archdeacon continues: **"Again let us pray for all devout and Orthodox Christians."** (*Ὑπὲρ τῶν εὐσεβῶν καὶ ὀρθοδόξων χριστιανῶν*); **"For our Archbishop..."** (*Ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν...*); **"That this holy church and this city, and every city and countryside, may be preserved from wrath, plague, famine, earthquake, flood, fire, sword, the invasion of aliens, and civil war..."** (*Ὑπὲρ τοῦ διαφυλαχθῆναι...*), etc. The Patriarch intones the Exclamation: **"Hear us, O God our Savior, the hope of all the ends of the earth and of them that be far off at sea: and be merciful, be merciful, O Master, unto our sins, and have mercy on us!"** (*Ἐπάκουσον ἡμῶν ὁ Θεός...*). At the conclusion, the First-Chanter [Protopsaltes] sings the Patriarchal Polychronion, then the homily is delivered from the Pulpit [Ambo, customarily by the Great Logothete]. At the conclusion, the Choirs sing...[^510]
 
@@ -43,8 +43,6 @@ Arriving at the Patriarchate with his customary entourage as aforesaid, the Patr
 
 ...**"Our Master and Chief Priest, O Lord, preserve for many years!"** (*Τὸν Δεσπότην καὶ Ἀρχιερέα ἡμῶν, Κύριε, φύλαττε εἰς πολλὰ ἔτη*), while the Patriarch blesses the people. Then from within the Holy Sanctuary [Bema], the clergy intone: **"Through the prayers of our holy Master, Lord Jesus Christ our God, have mercy on us and save us. Amen."** (*Δι' εὐχῶν τοῦ ἁγίου Δεσπότου ἡμῶν, Κύριε Ἰησοῦ Χριστὲ ὁ Θεός, ἐλέησον καὶ σῶσον ἡμᾶς. Ἀμήν*), and thus ends the ceremony.*...[^511]
 
----
-* *Rubrical and Historical Note on the Ceremony of Return:* This solemn ceremony of return (*Epanodos*) was appointed for when an Ecumenical Patriarch returned to Constantinople and reoccupied the patriarchal cathedra after a journey, absence, exile, or synodal reinstallation. The Great Church observed this rite with the same liturgical dignity as the accession, culminating in the acclamation of the Primate and the patriarchal blessing upon the city and the faithful.
 
 *(Printed Page 889)*
 
@@ -54,7 +52,7 @@ Arriving at the Patriarchate with his customary entourage as aforesaid, the Patr
 
 ## Ἡ ἐν τῇ Μ. Ἐκκλησίᾳ Τελετὴ τῆς Ἰνδίκτου τῇ Α΄ Σεπτεμβρίου [Violakis, p. 890]
 
-### Η ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΤΕΛΕΤΗ ΤΗΣ ΙΝΔΙΚΤΟΥ Τῌ Α΄ ΣΕΠΤΕΜΒΡΙΟΥ
+**Η ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΤΕΛΕΤΗ ΤΗΣ ΙΝΔΙΚΤΟΥ Τῌ Α΄ ΣΕΠΤΕΜΒΡΙΟΥ**
 
 Τὴν πρώτην Σεπτεμβρίου ὁ Οἰκουμενικὸς Πατριάρχης κατέρχεται εἰς τὸν πατριαρχικὸν Ναὸν κατὰ τὸν Ἑσπερινὸν καὶ τὸ πρωῒ εἰς τὸν Ὄρθρον καὶ τὴν Λειτουργίαν, ἵσταται δὲ ἐν τῷ παραθρονίῳ φέρων Ἐπανωκαλύμμαυχον καὶ Χαζράνιον. Μετὰ τὴν Λειτουργίαν, οἱ ἅγιοι Ἀρχιερεῖς ἐκ τοῦ ἱεροῦ Βήματος, ἔνθα ἀκροῶνται αὐτῆς, ἀνέρχονται εἰς τὸ μέγα Συνοδικόν, ὅπου, μετὰ τὴν διανομὴν τοῦ Ἀντιδώρου, ἀνέρχεται καὶ ὁ Πατριάρχης, προπορευομένων τῶν Ἑξαπτερύγων καὶ Λαμπάδων, τοῦ Πριμικηρίου μετὰ τοῦ Διβαμβούλου, καὶ τῶν ψαλτῶν, καὶ ἐνδύεται Ἐπιτραχήλιον καὶ Ὠμοφόριον. Εἶτα ὁ Μ. Ἀρχιδιάκονος ἐκφωνεῖ *Εὐλόγησον Δέσποτα*, ὁ Πατριάρχης [corr. text: ὁ Πατριράρχης] *Εὐλογητὸς ὁ Θεὸς ἡμῶν*, ὁ Μ. Ἀρχιδιάκονος τὸ Τρισάγιον, ὁ Πατριάρχης *Ὅτι σοῦ ἐστιν*, καὶ ὁ α΄ Χορὸς ψάλλει τὸ Ἀπολυτίκιον *Ὁ πάσης Δημιουργὸς τῆς κτίσεως*, ὁ β΄ τὸ *Ὑπομονῆς στῦλος γέγονας*, ὁ α΄ Χορὸς αὖθις τὸ *Χαῖρε κεχαριτωμένη*· εἶτα ὁ Μ. Ἀρχιδιάκονος *Ἐλέησον ἡμᾶς ὁ Θεὸς κατὰ τὸ μέγα ἔλεος σου*, οἱ Χοροὶ τὸ *Κύριε ἐλέησον* τρίς, ὁ Δευτερεύων *Ἔτι δεόμεθα ὑπὲρ τῶν εὐσεβῶν*, ὁ Μ. Ἀρχιδιάκονος *Ἔτι δεόμεθα ὑπὲρ τοῦ Ἀρχιεπισκόπου ἡμῶν*, ὁ Δευτερεύων *Ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι*, οἱ Χοροὶ τὸ *Κύριε ἐλέησον* ὡς εἴθισται, ὁ Μ. Ἀρχιδιάκονος *Ἔτι δεόμεθα καὶ ὑπὲρ τοῦ εἰσακοῦσαι Κύριον τὸν Θεόν*, ὁ Πατριάρχης *Ἐπάκουσον ἡμῶν ὁ Θεός*, κτλ. καὶ τὴν Ἀπόλυσιν, τῶν Χορῶν ψαλλόντων *Τὸν*
 
@@ -66,7 +64,7 @@ Arriving at the Patriarchate with his customary entourage as aforesaid, the Patr
 
 ## The Ceremony of the Indiction in the Great Church on September 1 (Part 1) [Violakis, p. 891]
 
-### THE CEREMONY OF THE INDICTION, IN THE GREAT CHURCH, ON SEPTEMBER 1
+**THE CEREMONY OF THE INDICTION, IN THE GREAT CHURCH, ON SEPTEMBER 1**
 
 On September 1, the Ecumenical Patriarch comes down to the Patriarchal Church at Vespers and, in the morning, for Matins and the Divine Liturgy. He stands at the Parathrone [a smaller throne near the Patriarchal cathedra] wearing the Epanokalymmavchion [a kamilavkion draped with the monastic veil] and carrying the Chazranion [a plain wooden patriarchal staff]. After the Divine Liturgy, the holy Hierarchs who were listening to the Liturgy from within the Holy Sanctuary [Bema], proceed to the Great Synodikon [the hall of the Holy Synod], where, after the distribution of the Antidoron, the Patriarch also arrives, preceded by the Exapteryga [six-winged seraphic fans] and Candles, the Primikirios with the Divamboulon [two-branched candle], and the Chanters, and vests with the Epitrachilion and the Omophorion.
 
@@ -123,7 +121,7 @@ Then the Patriarch reads aloud the Synodal Act [the patriarchal encyclical decre
 
 ## Ὡρολόγιον τῆς ἐν τῇ Μ. Ἐκκλησίᾳ Ἐνάρξεως καὶ Ἀπολύσεως τῶν Ἀκολουθιῶν τῶν Μ. Ἑορτῶν [Violakis, p. 894]
 
-### ΩΡΟΛΟΓΙΟΝ ΤΗΣ ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΕΝΑΡΞΕΩΣ ΚΑΙ ΑΠΟΛΥΣΕΩΣ ΤΩΝ ΑΚΟΛΟΥΘΙΩΝ ΤΩΝ Μ. ΕΟΡΤΩΝ
+**ΩΡΟΛΟΓΙΟΝ ΤΗΣ ΕΝ ΤΗ Μ. ΕΚΚΛΗΣΙᾼ ΕΝΑΡΞΕΩΣ ΚΑΙ ΑΠΟΛΥΣΕΩΣ ΤΩΝ ΑΚΟΛΟΥΘΙΩΝ ΤΩΝ Μ. ΕΟΡΤΩΝ**
 
 Τῇ ΚΔ΄ Δεκεμβρίου εἰς τὰς Ὥρας σημαίνει τῇ ιβ΄ τῆς νυκτός, ὁ Πατριάρχης κατέρχεται εἰς τὴν α΄, Ἀπόλυσις εἰς τὰς δ΄ τῆς ἡμέρας.
 
@@ -145,7 +143,7 @@ Then the Patriarch reads aloud the Synodal Act [the patriarchal encyclical decre
 
 ## Hourly Sequence for the Beginning and Ending of the Services of the Great Feasts in the Great Church (Part 1) [Violakis, p. 895]
 
-### HOURLY SEQUENCE FOR THE BEGINNING AND ENDING OF THE SERVICES OF THE GREAT FEASTS IN THE GREAT CHURCH
+**HOURLY SEQUENCE FOR THE BEGINNING AND ENDING OF THE SERVICES OF THE GREAT FEASTS IN THE GREAT CHURCH**
 
 *Table of Byzantine Horary Reckoning:*  
 [Note: This table is established upon the ancient Byzantine and monastic horary reckoning wherein sunset marks the commencement of the civil and ecclesiastical cycle, dividing each period into twelve variable or canonical hours of night and twelve hours of day. In the modern equinoctial concordance:  

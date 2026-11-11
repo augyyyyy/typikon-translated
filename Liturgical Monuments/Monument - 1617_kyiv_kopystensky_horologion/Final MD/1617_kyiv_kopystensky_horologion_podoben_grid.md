@@ -15,11 +15,11 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `f. 159r (p182)` | f. 159r (p182) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 1 | `f. 156v (p180)` | f. 156v (p180) | *Ὅλην ἀποθέμενοι* |
-| Tone 8 | `POD.T8.EXT_IT_IS_TRULY` | **It Is Truly Meet** | 1 | `f. 40r (p63)` | f. 40r (p63) | *—* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `f. 159r (p182)` | f. 159r (p182) |
+| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 1 | `f. 156v (p180)` | f. 156v (p180) |
+| Tone 8 | `POD.T8.EXT_IT_IS_TRULY` | **It Is Truly Meet** | 1 | `f. 40r (p63)` | f. 40r (p63) |
 
 ---
 

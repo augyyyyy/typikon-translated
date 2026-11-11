@@ -62,7 +62,7 @@
 
 *Sessional Hymn to the Trinity, Tone 8:*[^214] The power of the Thrice-radiant and thrice-shining unoriginate Principle let all us faithful hymn, and with one desire let all the angelic heavenly choirs and earthly ecclesiastical ranks assemble to cry: "Holy, Holy, Holy art Thou, O most good God: glory and praise unto Thy dominion!"
 
-*Glory... Both now... Theotokion:* Having given birth unto the ineffable and changeless God, Who ever delivers from sins and falls [p193LA] grievous, receive from Him change of sorrow, O good one, and by thy morning prayers [deliver me], that now with thanksgiving I may cry unto thee, O Mary, Mother of God, according to the mercy which thou hast obtained, O most immaculate one!
+*Glory... Both now... Theotokion:* Having given birth unto the ineffable and changeless God, Who ever delivers from sins and falls [p193LA] indolence, transform the sorrows of my heart, O good one, by thy maternal supplications, that I also with thanksgiving may cry unto thee, O Mary, Birthgiver of God: have mercy on thine own flock which thou hast acquired, O most immaculate one!
 
 *Ode 4. Heirmos: Thou art Christ God, Thou art...*[^215]
 
@@ -442,14 +442,14 @@
 [^217]: Printed incipit *Ѡчѣсти м[ѧ] сп[а]се* corresponds to the Greek heirmos *Ἱλάσθητί μοι Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου* (Slavonic: *Очисти мя, Спасе, многа бо беззаконїя моя*).
 [^218]: Fiol labels this hymn `т҃ъ гла и҃ · по[добенъ]` (*Троиченъ / Кондакъ, гласъ 8, подобенъ*). In the Triadikos canon of the Sunday Midnight Office, this hymn serves as the Kontakion/Kathisma following Ode 6.
 [^219]: Printed incipit *Б[о]жїа съхожденїа* corresponds to the Greek heirmos *Θεοῦ συγκατάβασιν πῦρ ᾐδέσθη ἐν Βαβυλῶνι ποτέ* (Slavonic: *Божїя снисхожденїя огнь устыдеся въ Вавилонѣ иногда*).
-[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χалдаίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
+[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
 [^221]: Printed incipit *Т[ѧ] бракоу невѣсен* corresponds to the Greek heirmos *Ἀσπόρου συλλήψεως ὁ τόκος ἀνερμήνευτος* (Slavonic: *Безсѣменнаго зачатия рождество несказанное*).
 [^222]: The rubric `т҃а · д҃ ѡ инобїаковъ истино · и прочаа` directs the singing of the Trinity Hymns (*Троичны*) of the Sunday Midnight Office: *Достойно есть яко воистинну славити Тя, Бога Слова...* (It is truly meet to glorify Thee, God the Word...). This is followed immediately by the opening rubrics for Sunday Matins (*На утрени на Богъ Господь тропарь воскресный...*).
 [^223]: Fiol's rubric reads `па вечерѣ постра · на · а҃ · стїхѡ · т҃ѣ`, a compositor's conflation for *по стихословіи сѣдальны* (after the kathisma stichologia, sessional hymns) of Sunday Matins.
 [^224]: The hymn to the Theotokos *Ѡ тебѣ радуется, Благодатная, всякая тварь* (attributed to St. John of Damascus), here appointed as the Theotokion concluding the second set of Matins Sessional Hymns, as well as the Anaphora Megalynarion in the Divine Liturgy of St. Basil the Great.
 [^225]: The Hymns of Degrees (*Степенна* / Anabathmoi) of Tone 8 comprise four antiphons based on Psalms 119–132 [LXX]. Fiol's 1491 edition preserves the archaic South Slavic textual witness.
 [^226]: Versification per the Septuagint (LXX Ps. 131:8, 1; Masoretic Ps. 132:8, 1). This is followed by the rubrics for the Sunday Matins Gospel cycle: *Let every breath... Verse: Praise God in His saints (LXX Ps. 150:1)*, *Resurrection Gospel, Reading 1*, *Having beheld the Resurrection of Christ*, and *Psalm 50*.
-[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρмаτηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
+[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρματηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
 [^228]: Greek: *Ὑγρὰν διοδεύσας ὡσεὶ ξηράν* (Slavonic: *Воду прошедъ яко сушу*), the heirmos model for the second canon of Sunday Matins (the Canon of the Cross and Resurrection).
 [^229]: Physical leaf p201 is missing in this surviving printed exemplar, as indicated by the modern archival binder's notice inserted into the facsimile (*ЭТОГО ЛИСТА В КНИГЕ НЕТ*). The missing leaf encompasses the conclusion of the second canon of Sunday Matins (Tone 8, Ode 1) and Ode 3 with its sessional hymns and Theotokia leading into Ode 4.
 [^230]: Heirmos of Ode 4, Tone 8: *Ты ми, Христе, Господь, Ты же ми и сила, Ты ми Богъ, Ты ми и радованіе...* (Greek: *Σύ μου ἰσχύς, Κύριε, σύ μου καὶ δύναμις, σὺ Θεός μου, σύ μου ἀγαλλίαμα...* / Habakkuk 3:2).
@@ -461,7 +461,7 @@
 [^236]: Printed incipits of Ode 6 heirmoi: Canon of the Cross (*Молитву пролїю ко Господу...* / Greek: *Τὴν δέησιν ἐκχεῶ πρὸς Κύριον...*) and Theotokion (*Ризою мя одѣй свѣтлою...* / Greek: *Χιτῶνά μοι παράσχου φωτεινόν...*).
 [^237]: Heirmos of Ode 7, Tone 8: *Божїя снисхожденїя огнь устыдеся въ Вавилонѣ иногда...* (Greek: *Θεοῦ συγκατάβασιν πῦρ ᾐδέσθη ἐν Βαβυλῶνι ποτέ...*).
 [^238]: Printed incipit of Ode 7 heirmos of the Canon of the Cross: *Иже отъ Отца...*
-[^239]: Heirmos of Ode 8, Tone 8: *Седмерицею пещь халдейскїй мучитель...* (Greek: *Ἑπταπλασίως κάμινον τῶν Χαλдаίων ὁ τύραννος...*).
+[^239]: Heirmos of Ode 8, Tone 8: *Седмерицею пещь халдейскїй мучитель...* (Greek: *Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος...*).
 [^240]: Printed incipit of Ode 8 heirmos of the Canon of the Cross: *Побѣдителю...* (*Христосъ пропятый на древѣ...* / Greek: *Νικητὴν τυράννου...*).
 [^241]: Heirmos of Ode 9, Tone 8: *Тя, безневѣстную Матерь Бога Вышняго...* (Greek: *Τὴν ἀπειρόγαμον Θεοῦ Μητέρα τοῦ Ὑψίστου...*).
 [^242]: Printed incipit of Ode 9 heirmos of the Canon of the Cross: *Воистинну Богородицу Тя исповѣдуемъ...* (Greek: *Κυρίως Θεοτόκον, σὲ ὁμολογοῦμεν...*).

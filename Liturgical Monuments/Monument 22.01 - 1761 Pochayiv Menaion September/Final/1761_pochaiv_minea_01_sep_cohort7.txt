@@ -152,7 +152,7 @@ Having despised wealth and temporary life in a martyric manner, O Eudoxius, thou
 
 Held fast by the abyss of transgressions, fleeing unto the quiet haven of thy most pure supplication, O Mother of God, I cry unto thee: Save me, stretching forth thy sovereign right hand unto thy servant, O all-immaculate one.
 
-*Stavrotheotokion, Podoben:*
+*Stavrotheotokion, Podoben (Подо́бенъ):*
 
 Standing by the Cross of thy Son and God, and beholding His longsuffering, the pure Mother wept and said:
 

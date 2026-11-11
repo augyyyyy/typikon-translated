@@ -210,7 +210,7 @@ The Light that shone timelessly from the Father before the ages, in time hath no
 
 *On the same month, on the 2nd day: our venerable father and wonderworker Titus.*[^8]
 
-*At "Lord, I have cried," stichera, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагω чꋋдесѐ):*
+*At "Lord, I have cried," stichera, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чꋋдесѐ):*
 
 O God-wise Titus our father, bearing thy cross, thou didst follow Christ, and didst subdue all passions of the soul. Whence thou didst receive grace from on high, to heal the passions...
 
@@ -267,7 +267,7 @@ Meditating in the laws of fasting, thou didst drown the passions like another ho
 
 I ever beseech thee, O Sovereign Lady, that by thy prayers He Who was born of thee may be merciful unto me in the Day of Judgment.
 
-*Sessional Hymn, Tone 1, Podoben: "The Angelic Choir" (Ли́къ а́гг҃льскiй):*
+*Sessional Hymn, Tone 1, Podoben: "The Angelic Choir" (Ли́къ а́гг҃льскій):*
 
 Having fasted upon earth as one without a body, O Titus, thou didst slay the enemy, and together didst cast down the assembly of heresies by thy Orthodox teachings. Therefore today, celebrating thy most holy memory, we joyfully hymn Him Who hath magnified thee.
 

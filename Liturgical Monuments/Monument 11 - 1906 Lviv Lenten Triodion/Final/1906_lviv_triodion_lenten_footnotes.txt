@@ -92,7 +92,7 @@
 
 [^45]: Typographical error in the 1906 Stauropegion edition, which prints *Г҃дороди́тельнице* instead of *Бг҃ороди́тельнице*. Physical Leaf p20 = Printed Page 16.
 
-[^46]: Physical Leaf p21 = Printed Page 17. The Greek acrostic in the margins: Ode 5 has Ѳ (Theta) at Glory and V (Upsilon) at Now and ever; Ode 6 has О (Omicron) at Glory and Д (Delta) at Now and ever, continuing the Greek acrostic ΤΟΥ ТАПЕΙΝΟΥ ΘΕΟΔΩΡΟΥ ("Of the humble Theodore") composed by St. Theodore the Studite (759–826).
+[^46]: Physical Leaf p21 = Printed Page 17. The Greek acrostic in the margins: Ode 5 has Ѳ (Theta) at Glory and V (Upsilon) at Now and ever; Ode 6 has О (Omicron) at Glory and Д (Delta) at Now and ever, continuing the Greek acrostic ΤΟΥ ΤΑΠΕΙΝΟΥ ΘΕΟΔΩΡΟΥ ("Of the humble Theodore") composed by St. Theodore the Studite (759–826).
 
 [^47]: Synaxarion for Meatfare Saturday, authored by Nikephoros Kallistos Xanthopoulos (c. 1256–c. 1335), monk and ecclesiastical historian of Constantinople. It expounds the theological rationale for commemorating all departed Orthodox Christians on the eve of the Sunday of the Dread Judgment. Physical Leaf p21 = Printed Page 17.
 
@@ -144,7 +144,7 @@
 
 [^71]: Psalm 83:7 (LXX; MT Psalm 84:6), the "valley of weeping" (*юдоль плача* / Hebrew *Emek HaBakha*). Physical Leaf p27 = Printed Page 23.
 
-[^72]: The printed Slavonic has the curious compound/corrupt form *бꙋдовов̾несогла́тєльныѧ* (representing Greek ἀκαтаλλάκτους, "implacable" / "irreconcilable", or representing people in dire distress and unrelenting trial). Physical Leaf p27 = Printed Page 23.
+[^72]: The printed Slavonic has the curious compound/corrupt form *бꙋдовов̾несогла́тєльныѧ* (representing Greek ἀκαταλλάκτους, "implacable" / "irreconcilable", or representing people in dire distress and unrelenting trial). Physical Leaf p27 = Printed Page 23.
 
 [^73]: Matthew 22:11–13, the parable of the wedding garment: "Bind him hand and foot, and take him away, and cast him into outer darkness." Physical Leaf p27 = Printed Page 23.
 
@@ -330,7 +330,7 @@
 
 [^164]: St. Theoctistus of Palestine (d. 467), co-laborer with St. Euthymius in the Judean desert; and St. Theodore the Sykeote (d. 613), Bishop of Anastasiopolis in Galatia, famed for his austere fasting from childhood and miraculous healings. Physical Leaf p62 = Printed Page 58.
 
-[^165]: St. John Climacus (c. 579–649), Abbot of Saint Catherine's Monastery on Mount Sinai and author of *The Ladder of Divine Ascent* (*Лѣ́ствица / Κλῖмаξ*); and St. Chariton the Confessor (d. c. 350), founder of the Judean lavras of Pharan, Douka, and Souka (the Old Lavra). Physical Leaf p62 = Printed Page 58.
+[^165]: St. John Climacus (c. 579–649), Abbot of Saint Catherine's Monastery on Mount Sinai and author of *The Ladder of Divine Ascent* (*Лѣ́ствица / Κλῖμαξ*); and St. Chariton the Confessor (d. c. 350), founder of the Judean lavras of Pharan, Douka, and Souka (the Old Lavra). Physical Leaf p62 = Printed Page 58.
 
 [^166]: St. Euphrasia the Virgin (c. 380–410), daughter of a senator of Constantinople who gave away her immense wealth and embraced strict asceticism in a convent in the Egyptian Thebaid, commemorated alongside the greatest male monastic founders. Physical Leaf p63 = Printed Page 59.
 
@@ -746,7 +746,7 @@
 
 [^372]: Doxasticon at "Lord, I have cried" (*Сла́ва, гласъ в: Блгдть возсіѧ̀ и҆́стины...*): Physical leaf p162 (Printed fol. 158). This famous hymn synthesizes the dogmatic definition of the Seventh Ecumenical Council (Nicaea II, 787 A.D.), contrasting the Old Testament types and shadows of the Tabernacle with the reality of the Incarnate Word. The text explicitly asserts the theology of veneration: the bodily form of the Savior is "devoutly venerated, not deified" (*блгче́стнѡ покланя́емый, не бг҃отвори́мый* / προσκυνούμενος, οὐ θεοποιούμενος), refuting the iconoclast charge that icon veneration constitutes idolatry.
 
-[^373]: Aposticha Doxasticon at Great Vespers (*Сла́ва, гласъ в: И҆з̾ нече́стіѧ ко блгче́стіе преше́дше...*): Physical leaf p162 (Printed fol. 158). The hymn enjoins the faithful to venerate holy images depicted upon walls, wooden panels, and sacred vessels, citing the classic patristic formula of St. Basil the Great from *De Spiritu Sancto* 18.45: "For the honor of the image passes unto the Prototype" (*че́сть бо ѻ҆́браза, ꙗ҆́коже глаго́летъ Васи́лій, на первоwбра́зное прехо́дитъ* / ἡ γὰρ τῆς εἰκόνος τιμὴ ἐπὶ τὸ πρωτότυπον διαβαίνει). The dismissal troparion appointed for the feast is *Пречи́стомꙋ ѻ҆́бразꙋ твоемꙋ̀ покланя́емся Блгíй* ("Thy pure image do we venerate, O Good One"), which also serves as the chief Festal Troparion at Matins.
+[^373]: Aposticha Doxasticon at Great Vespers (*Сла́ва, гласъ в: И҆з̾ нече́стіѧ ко блгче́стіе преше́дше...*): Physical leaf p162 (Printed fol. 158). The hymn enjoins the faithful to venerate holy images depicted upon walls, wooden panels, and sacred vessels, citing the classic patristic formula of St. Basil the Great from *De Spiritu Sancto* 18.45: "For the honor of the image passes unto the Prototype" (*че́сть бо ѻ҆́браза, ꙗ҆́коже глаго́летъ Васи́лій, на первоѡбра́зное прехо́дитъ* / ἡ γὰρ τῆς εἰκόνος τιμὴ ἐπὶ τὸ πρωτότυπον διαβαίνει). The dismissal troparion appointed for the feast is *Пречи́стомꙋ ѻ҆́бразꙋ твоемꙋ̀ покланя́емся Блгíй* ("Thy pure image do we venerate, O Good One"), which also serves as the chief Festal Troparion at Matins.
 
 [^374]: Matins Canon of the Holy Prophets and Holy Icons: Physical leaf p163 (Printed fol. 159). Authored by St. Theophanes Graptos ("the Branded", c. 778–845 A.D.), Metropolitan of Nicaea, who with his brother St. Theodore suffered imprisonment and facial branding under Emperor Theophilus. The canon bears the alphabetic/metrical acrostic: *Дне́сь блгче́стія прїисквѣ́тлаѧ прїи́де зарѧ̀* (in Greek: *Σήμερον εὐσεβίης θεοφεγγέος ἤλυθεν αἴγλη* — "Today the all-radiant dawn of piety has arrived"). The Katavasiai for the feast are taken from the Canon of the Cross (*Мо́рѧ чермнꙋ́ю пꙋчи́нꙋ*).
 
@@ -758,7 +758,7 @@
 
 [^378]: Synaxarion of the Sunday of Orthodoxy (Part 1): Physical leaf p165 (Printed fol. 161). Composed by the Byzantine ecclesiastical historian Nicephorus Callistus Xanthopoulos (c. 1256–1335 A.D.). The narrative opens with elegiac couplets praising the becoming veneration of holy images, then details the outbreak of the First Iconoclasm under Leo III the Isaurian (717–741 A.D.), his deposition of Patriarch St. Germanus I in 730 A.D., and the legendary tale that Leo was seduced into iconoclasm in his youth through a magical pact with Jewish prognosticators in Syria. It outlines the succession through Constantine V Copronymus (741–775 A.D.) and Leo IV the Khazar (775–780 A.D.), leading to the restoration of icons at the Seventh Ecumenical Council (787 A.D.) under Empress Irene and Patriarch St. Tarasius, followed by the brief reigns of Nicephorus I, Stauracius, and Michael I Rangabe.
 
-[^379]: Synaxarion of the Sunday of Orthodoxy (Part 2 — The Miracles of 843 A.D.): Physical leaf p166 (Printed fol. 162). Xanthopoulos chronicles the Second Iconoclasm under Leo V the Armenian (813–820 A.D.), Michael II the Amorian (820–829 A.D.), and Theophilus (829–842 A.D.). Upon Theophilus's agonized deathbed illness and repentance after kissing an enkolpion, Empress Theodora convened the Orthodox hierarchy. Patriarch John the Grammarian (Jannes) was deposed, and St. Methodius I of Constantinople installed as Patriarch. The marginal gloss *панкарпенникъ* (Greek: παγκάρπιον or παγκαρпоθήκη) designates the wicker grain-basket or tomb-like confinement on the island of Antigone in which St. Methodius was imprisoned for seven years prior to his patriarchate.
+[^379]: Synaxarion of the Sunday of Orthodoxy (Part 2 — The Miracles of 843 A.D.): Physical leaf p166 (Printed fol. 162). Xanthopoulos chronicles the Second Iconoclasm under Leo V the Armenian (813–820 A.D.), Michael II the Amorian (820–829 A.D.), and Theophilus (829–842 A.D.). Upon Theophilus's agonized deathbed illness and repentance after kissing an enkolpion, Empress Theodora convened the Orthodox hierarchy. Patriarch John the Grammarian (Jannes) was deposed, and St. Methodius I of Constantinople installed as Patriarch. The marginal gloss *панкарпенникъ* (Greek: παγκάρπιον or παγκαρποθήκη) designates the wicker grain-basket or tomb-like confinement on the island of Antigone in which St. Methodius was imprisoned for seven years prior to his patriarchate.
 
 [^380]: Synaxarion of the Sunday of Orthodoxy (Part 3 — The Divine Absolution and the Triumph): Physical leaf p166 (Printed fol. 162). Xanthopoulos narrates the prophetic mission of the ascetics of Mount Olympus (St. Joannicius the Great, Arsacius, and Isaiah of Nicomedia), who directed Theodora and Methodius to restore the icons. The empress required an all-night intercession throughout the first week of Lent for the soul of her deceased husband Theophilus. In parallel visions, Theodora saw Theophilus pardoned before Christ at the Brazen Gate, while Methodius saw an angel announce the emperor's pardon; when Methodius opened the scroll placed beneath the Holy Table upon which the names of heretical emperors were inscribed, Theophilus's name was miraculously blotted out. The narrative concludes with the historical first Triumph of Orthodoxy procession on March 11, 843 A.D. (the First Sunday of Lent) to the Hippodrome, establishing the annual feast.
 
@@ -818,7 +818,7 @@
 
 [^408]: Sixth Hour Troparion of the Prophecy: Physical leaf p177 (Printed fol. 173). Tone 5 (*Созда́вый наеди́нѣ сердца̀ на́ша...*), based on Psalm 32:15 (LXX: *ὁ πλάσας κατὰ μόνας τὰς καρδίας αὐτῶν* — "He that fashioned their hearts individually"). The troparion introduces the Sixth Hour Scripture reading, imploring the sinless Creator to remember our mortal dust and spare us from the underworld.
 
-[^409]: Sixth Hour First Prokeimenon: Physical leaf p178 (Printed fol. 174). Tone 6, Psalm 21:23 (LXX: *Боя́щїисѧ Гдⷭ҇а восхвали́те є҆го̀* / *Оἱ φοβούμενοι τὸν Κύριον αἰνέσατε αὐτόν*). The verse is taken from the opening of the great Passion psalm: *O God, my God, attend unto me; why hast Thou forsaken me?* (Ps. 21:1, LXX).
+[^409]: Sixth Hour First Prokeimenon: Physical leaf p178 (Printed fol. 174). Tone 6, Psalm 21:23 (LXX: *Боя́щїисѧ Гдⷭ҇а восхвали́те є҆го̀* / *Οἱ φοβούμενοι τὸν Κύριον αἰνέσατε αὐτόν*). The verse is taken from the opening of the great Passion psalm: *O God, my God, attend unto me; why hast Thou forsaken me?* (Ps. 21:1, LXX).
 
 [^410]: Sixth Hour Old Testament Reading from Isaiah: Physical leaf p178 (Printed fol. 174). Isaiah 4:2–5:7 (section 4:2–6 and 5:1–7). This classic Lenten reading combines the Messianic prophecy of the Branch of the Lord who will cleanse the daughters of Zion with the Spirit of judgment and burning, followed by the famous "Song of the Vineyard" (Isa. 5:1–7). God planted a fertile vineyard with choice vines and a watchtower, but it brought forth wild grapes and thorns; therefore the hedge will be removed and the clouds commanded not to rain upon it, prefiguring the judgment upon unrepentant Israel.
 
@@ -842,13 +842,13 @@
 
 [^420]: Typikon Rubric on the Displacement of Menaion Canons at Compline: Physical leaf p180 (Printed fol. 176). The rubric (*Зрѝ: Вѣ́домо же да є҆́сть...*) codifies the ancient Studite-Sabbaitic rule for resolving calendar collisions during Great Lent. Beginning on the second Monday of the Great Fast, the canons of saints commemorated in the Menaion during the liturgical window between Lazarus Saturday and Thomas Sunday (when the festal services of Holy Week and Bright Week completely displace the Menaion) are transferred and chanted in advance at weekday Compline throughout Lent. The order prescribes first the Theotokion canon, followed by the saint's canon from the Menaion, with the saint's Kontakion and Sessional Hymn after Ode 3, the Theotokion Sessional Hymn after Ode 6, and the Menaion stichera at the conclusion of the canon.
 
-[^421]: Tuesday of the Second Week of the Great Fast at Matins (*Во вто́рникъ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ на оу́трени*): Physical leaf p181 (Printed fol. 177). Display headpiece featuring an ornamental woodcut band depicting an standing figure (prophet or saint) framed in an architectural arch flanked by grapevines and floral tendrils. The rubrics appoint the reading of the Psalter kathismata followed by the compunctionate sessional hymns of the Octoechos in the Tone of the week (Tone 8) with their Theotokia.
+[^421]: Tuesday of the Second Week of the Great Fast at Matins (*Во вто́рникъ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ на оу́трени*): Physical leaf p181 (Printed fol. 177). Display headpiece featuring an ornamental woodcut band depicting an standing figure (prophet or saint) framed in an architectural arch flanked by grapevines and floral tendrils. The rubrics appoint the reading of the Psalter kathismata followed by the compunctionate sessional hymns of the Octoechos in the Tone of the week (Tone 8) with their Theotokia.
 
 [^422]: Sessional Hymns after the Second Psalter Reading: Physical leaf p181 (Printed fol. 177). Tone 8, Podoben: "Thou hast risen" (*Воскре́слъ є҆сѝ* / *Ἀνέστης ἐκ νεκρῶν*). The troparion calls the faithful to restrain bodily passions through the blameless bridle of fasting in order to elevate the noetic faculties toward divine contemplation with unshakeable faith. The accompanying Theotokion laments the depth of despondency caused by sinful deeds, invoking the Mother of God as the sole propitiation and saving purification of sinners.
 
 [^423]: Sessional Hymn after the Third Psalter Reading: Physical leaf p181 (Printed fol. 177). Tone 8, Podoben: "The shepherd's pipe" (*Па́стырскаѧ свирѣ́ль* / *Ὁ ποιμενικὸς αὐλός*). The hymn describes Great Lent as a mystical banquet table spread by God, inviting the faithful to partake richly of the vivifying gifts of the Holy Spirit as food and divine tears as spiritual drink.
 
-[^424]: Ode 2 of the Triodion Canon by St. Joseph the Hymnographer: Physical leaf p181 (Printed fol. 177). Tone 8, Heirmos: *Ви́дите ви́дите, ꙗ҆́кw а҆́зъ є҆́смь бг҃ъ ва́шъ* (Greek: *Ἴδετε ἴδετε, ὅτι ἐγώ εἰμι ὁ Θεὸς ὑμῶν* — "See, see that I am your God, born of the Father before the ages, and in these latter times conceived of the Virgin without seed of man, Who destroyed the sin of our forefather Adam, as the Lover of mankind", based on Deut. 32:39). St. Joseph urges the soul to hasten in repentance because the Judge stands at the door and the day of reckoning is at hand.
+[^424]: Ode 2 of the Triodion Canon by St. Joseph the Hymnographer: Physical leaf p181 (Printed fol. 177). Tone 8, Heirmos: *Ви́дите ви́дите, ꙗ҆́кѡ а҆́зъ є҆́смь бг҃ъ ва́шъ* (Greek: *Ἴδετε ἴδετε, ὅτι ἐγώ εἰμι ὁ Θεὸς ὑμῶν* — "See, see that I am your God, born of the Father before the ages, and in these latter times conceived of the Virgin without seed of man, Who destroyed the sin of our forefather Adam, as the Lover of mankind", based on Deut. 32:39). St. Joseph urges the soul to hasten in repentance because the Judge stands at the door and the day of reckoning is at hand.
 
 [^425]: Ode 2 of the Second Triodion Canon by St. Theodore the Studite: Physical leaf p182 (Printed fol. 178). Tone 8, Heirmos: *Ви́дите ви́дите* (*Ἴδετε ἴδετε*). St. Theodore reminds the ascetic of the imminent tribunal of Christ and contrasts the salvation of the repentant Ninevites through fasting with the fiery destruction of the self-indulgent Sodomites. The canto concludes with St. Theodore's own full text of the biblical heirmos (Deut. 32:39), which explicitly characterizes Lent as a spiritual tithing (*ѡ҆десѧтствова́нїе*) of the whole year given unto God's people for the eradication of the passions.
 
@@ -860,7 +860,7 @@
 
 [^429]: Aposticha at Tuesday Matins: Physical leaf p184 (Printed fol. 180). Idiomelon of the day in Tone 5 (*Вскꙋ́ю оу҆ныва́еши дꙋшѐ моѧ̀...*), sung twice. The hymn urges the sluggard soul not to despair in sickness but to run swiftly unto Christ the divine Physician, washing the countenance with tears of repentance and trimming the spiritual lamp with the oil of good deeds (alluding to the Parable of the Ten Virgins, Matt. 25:1–13).
 
-[^430]: Sixth Hour Troparion of the Prophecy: Physical leaf p184 (Printed fol. 180). Tone 6 (*Досто́йнw воспѣ́ти тѧ̀ не мо́жемъ...*). The troparion introduces the Sixth Hour Scripture reading, beseeching the Lord Who is easily propitiated (*бл҃гопремѣни́тель*) not to destroy us along with our manifold transgressions.
+[^430]: Sixth Hour Troparion of the Prophecy: Physical leaf p184 (Printed fol. 180). Tone 6 (*Досто́йнѡ воспѣ́ти тѧ̀ не мо́жемъ...*). The troparion introduces the Sixth Hour Scripture reading, beseeching the Lord Who is easily propitiated (*бл҃гопремѣни́тель*) not to destroy us along with our manifold transgressions.
 
 [^431]: Sixth Hour First Prokeimenon: Physical leaf p184 (Printed fol. 180). Tone 4, Psalm 25:8 (LXX: *Гдⷭ҇и, возлюби́хъ бл҃голѣ́пїе до́мꙋ твоегѡ̀, и҆ мѣ́сто селе́нїѧ сла́вы твоеѧ̀* / *Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου καὶ τόπον σκηνώματος δόξης σου*). The verse is Psalm 25:1 (LXX: *Judge me, O Lord, for I have walked in my blamelessness*), which continues onto leaf p185.
 
@@ -868,7 +868,7 @@
 
 [^433]: Sixth Hour Second Prokeimenon: Physical leaf p185 (Printed fol. 181). Tone 3, Psalm 26:1a (LXX: *Гдⷭ҇ь просвѣще́нїе моѐ и҆ Сп҃си́тель мо́й, когѡ̀ ꙋ҆бою́сѧ;* / *Κύριος φωτισμός μου καὶ σωτήρ μου, τίνα φοβηθήσομαι;*). The verse is Psalm 26:1b (LXX: *The Lord is the defender of my life; of whom shall I be afraid?*).
 
-[^434]: Tuesday of the Second Week of the Great Fast at Vespers (*Во вто́рникъ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ ве́чера*): Physical leaf p185 (Printed fol. 181). Preceded by a decorative ornamental frieze. Vespers appoints the evening Kathisma 18 from the Psalter (*Songs of Ascents*), followed at "Lord, I have cried" by 6 stichera: 3 from the Triodion (by St. Joseph and St. Theodore) and 3 from the Menaion.
+[^434]: Tuesday of the Second Week of the Great Fast at Vespers (*Во вто́рникъ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ ве́чера*): Physical leaf p185 (Printed fol. 181). Preceded by a decorative ornamental frieze. Vespers appoints the evening Kathisma 18 from the Psalter (*Songs of Ascents*), followed at "Lord, I have cried" by 6 stichera: 3 from the Triodion (by St. Joseph and St. Theodore) and 3 from the Menaion.
 
 [^435]: Stichera at "Lord, I have cried" by St. Joseph the Hymnographer: Physical leaf p185 (Printed fol. 181). Tone 1, Podoben: "O all-lauded martyrs" (*Прехва́льнїи мꙋ́ченицы* / *Πανεύφημοι μάρτυρες*). St. Joseph contemplates Christ stretching forth His hands upon the Cross to gather the dispersed nations, praying that the Savior will gather the sinner's scattered mind and make him a partaker of the divine Passion through fasting, citing the Three Holy Children who proved stronger than Nebuchadnezzar's furnace (Dan. 3).
 
@@ -886,9 +886,9 @@
 
 [^442]: Stavrotheotokion at the Aposticha: Physical leaf p187 (Printed fol. 183). Tone 3, Podoben: "Great is the power of Thy martyrs" (*Ве́лїѧ мꙋ́ченикъ* / *Μεγάλη τῶν Μαρτύρων σου*). The Mother of God stands at the foot of the Cross, weeping aloud as she beholds her beloved Son stripped of His radiant beauty which once adorned human nature.
 
-[^443]: Wednesday of the Second Week of the Great Fast at Matins (*Въ сре́дꙋ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ на оу́трени*): Physical leaf p187 (Printed fol. 183). Display headpiece featuring an ornamental woodcut cartouche enclosing a radiant Latin Cross bordered by acanthus leaves and palmettes. Wednesday Matins centers upon the veneration of the Holy Cross; after the first kathisma, the Cross sessional hymns of the Octoechos are sung, followed after the second kathisma by the Triodion sessional hymns in Tone 1.
+[^443]: Wednesday of the Second Week of the Great Fast at Matins (*Въ сре́дꙋ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ на оу́трени*): Physical leaf p187 (Printed fol. 183). Display headpiece featuring an ornamental woodcut cartouche enclosing a radiant Latin Cross bordered by acanthus leaves and palmettes. Wednesday Matins centers upon the veneration of the Holy Cross; after the first kathisma, the Cross sessional hymns of the Octoechos are sung, followed after the second kathisma by the Triodion sessional hymns in Tone 1.
 
-[^444]: Sessional Hymn Stavrotheotokion: Physical leaf p187 (Printed fol. 183). Tone 1 Podoben (*Ꙗ҆́кw ви́дѣ на крⷭтѣ̀ А҆́гница...* / Greek: *Ὡς ἑώρακεν ἡ Ἀμνὰς*). The Theotokos laments as she witnesses her Lamb hanging on the Cross between two criminals, recalling the prophetic words of Simeon (Luke 2:35).
+[^444]: Sessional Hymn Stavrotheotokion: Physical leaf p187 (Printed fol. 183). Tone 1 Podoben (*Ꙗ҆́кѡ ви́дѣ на крⷭтѣ̀ А҆́гница...* / Greek: *Ὡς ἑώρακεν ἡ Ἀμνὰς*). The Theotokos laments as she witnesses her Lamb hanging on the Cross between two criminals, recalling the prophetic words of Simeon (Luke 2:35).
 
 [^445]: Sessional Hymn after the Third Psalter Reading: Physical leaf p188 (Printed fol. 184). Tone 3, Podoben: "Beholding the beauty of thy virginity" (*Красотѣ̀ дѣ́вства* / *Τὴν ὡραιότητα τῆς παρθενίας σου*). The troparion calls the Church to sound the trumpet of hymnody in honor of the season of abstinence, beseeching Christ the Word to preserve His servants in peace by the invincible power of His Cross.
 
@@ -916,7 +916,7 @@
 
 [^457]: Sixth Hour Second Prokeimenon: Physical leaf p191 (Printed fol. 187). Tone 6, Psalm 30:2a LXX (*На тѧ́ Гдⷭ҇и оу҆пова́хъ, да не постыжꙋ́сѧ во вѣ́къ* / *Ἐπὶ σοί, Κύριε, ἤλπισα, μὴ καταισχυνθείην εἰς τὸν αἰῶνα*). The verse is Psalm 30:2b LXX (*In Thy righteousness deliver me, and rescue me*).
 
-[^458]: Wednesday of the Second Week of the Great Fast at Vespers (*Въ сре́дꙋ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ ве́чера*): Physical leaf p191 (Printed fol. 187). Display headpiece featuring an ornamental woodcut band. Vespers appoints at "Lord, I have cried" 10 stichera: the idiomelon of the day sung twice, the martyrion, 3 prosomoia from the Triodion, and 4 from the Menaion.
+[^458]: Wednesday of the Second Week of the Great Fast at Vespers (*Въ сре́дꙋ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ ве́чера*): Physical leaf p191 (Printed fol. 187). Display headpiece featuring an ornamental woodcut band. Vespers appoints at "Lord, I have cried" 10 stichera: the idiomelon of the day sung twice, the martyrion, 3 prosomoia from the Triodion, and 4 from the Menaion.
 
 [^459]: Idiomelon at "Lord, I have cried": Physical leaf p191 (Printed fol. 187). Tone 1 (*Дꙋхо́вный, бра́тїе, взе́мше по́стъ...*). The hymn admonishes the brethren that true fasting is spiritual rather than merely bodily, requiring the restraint of deceitful speech and the removal of stumbling blocks before one's neighbor, accompanied by tears of repentance.
 
@@ -936,7 +936,7 @@
 
 [^467]: Rubric for the Liturgy of the Presanctified Gifts: Physical leaf p193 (Printed fol. 189). Following the Old Testament readings, the rubric prescribes the immediate celebration of the Liturgy of the Presanctified Gifts (*И҆ а҆́бїе Преждеѡсвѧще́ннаѧ Лїтꙋргі́а*).
 
-[^468]: Thursday of the Second Week of the Great Fast at Matins (*Въ четверто́къ в҃-ѧ седми́цы, ст҃а́гw вели́кагw поста̀ на оу́трени*): Physical leaf p193 (Printed fol. 189). Display headpiece featuring an ornamental woodcut band. The service begins with the Trinity hymns and appoints the apostolic sessional hymns from the Octoechos after the first kathisma.
+[^468]: Thursday of the Second Week of the Great Fast at Matins (*Въ четверто́къ в҃-ѧ седми́цы, ст҃а́гѡ вели́кагѡ поста̀ на оу́трени*): Physical leaf p193 (Printed fol. 189). Display headpiece featuring an ornamental woodcut band. The service begins with the Trinity hymns and appoints the apostolic sessional hymns from the Octoechos after the first kathisma.
 
 [^469]: Sessional Hymns after the Second Psalter Reading: Physical leaf p193 (Printed fol. 189). Tone 3, Podoben: "Beholding the beauty of thy virginity" (*Красотѣ̀ дѣ́вства* / *Τὴν ὡραιότητα τῆς παρθενίας σου*). The troparion extols the Apostles as sweet grape clusters produced by Christ the True Vine, granting spiritual compunction to the fasting Church. The accompanying Theotokion seeks refuge under the protection of the Mother of God amidst deep grief and perplexity.
 
@@ -954,7 +954,7 @@
 
 [^476]: Continuation of Ode 9 of St. Joseph's Canon: Physical leaf p196 (Printed fol. 192). The troparion joins the intercessions of the Apostles and angelic choirs for divine mercy and entrance into the Kingdom, while the Theotokion magnifies the Mother of God as the ark of sanctification in whom virginity and maternity met beyond nature.
 
-[^477]: Ode 9 of the Second Triodion Canon by St. Theodore the Studite: Physical leaf p196 (Printed fol. 192). Tone 6, Heirmos: *Безсѣ́меннагw Зача́тїа ржⷭ҇тво̀ неска́занное* (Greek: *Ἀσπόρου συλλήψεως ὁ τόκος ἀνερμήνευτος* — "The childbirth of the Seedless Conception is ineffable"). St. Theodore extols the Apostles who lived in the flesh as angels and overcame kings and philosophers by the power of the Spirit, hailing Peter as the rock of faith and Paul as teacher of the Gentiles.
+[^477]: Ode 9 of the Second Triodion Canon by St. Theodore the Studite: Physical leaf p196 (Printed fol. 192). Tone 6, Heirmos: *Безсѣ́меннагѡ Зача́тїа ржⷭ҇тво̀ неска́занное* (Greek: *Ἀσπόρου συλλήψεως ὁ τόκος ἀνερμήνευτος* — "The childbirth of the Seedless Conception is ineffable"). St. Theodore extols the Apostles who lived in the flesh as angels and overcame kings and philosophers by the power of the Spirit, hailing Peter as the rock of faith and Paul as teacher of the Gentiles.
 
 [^478]: Matins Aposticha Idiomelon: Physical leaf p196 (Printed fol. 192). Tone 8 (*Покаѧ́нїа вре́мѧ, и҆ жи́зни вѣ́чныѧ хода́тай...*), sung twice. The hymn defines the ascetic discipline of Lent as the mediator of eternal life, emphasizing that fasting is spiritually efficacious only when accompanied by active works of charity and almsgiving, which deliver the soul from death (Tobit 12:9).
 
@@ -970,7 +970,7 @@
 
 [^484]: Sixth Hour Second Prokeimenon: Physical leaf p197 (Printed fol. 193). Tone 6, Psalm 34:23 LXX (*Воста́ни Гдⷭ҇и, и҆ вонмѝ сꙋдꙋ̀ моемꙋ̀* / *Ἐξεγέρθητι, Κύριε, καὶ πρόσχες τῇ κρίσει μου*). The verse is Psalm 34:1 LXX (*Judge Thou, O Lord, them that wrong me*).
 
-[^485]: Thursday of the Second Week of the Great Fast at Vespers (*Въ четверто́къ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ ве́чера*): Physical leaf p198 (Printed fol. 194). Display headpiece featuring an ornamental woodcut band. Vespers appoints at "Lord, I have cried" 6 stichera: 3 prosomoia from the Triodion (by St. Joseph and St. Theodore) and 3 from the Menaion.
+[^485]: Thursday of the Second Week of the Great Fast at Vespers (*Въ четверто́къ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ ве́чера*): Physical leaf p198 (Printed fol. 194). Display headpiece featuring an ornamental woodcut band. Vespers appoints at "Lord, I have cried" 6 stichera: 3 prosomoia from the Triodion (by St. Joseph and St. Theodore) and 3 from the Menaion.
 
 [^486]: Stichera at "Lord, I have cried" by St. Joseph the Hymnographer: Physical leaf p198 (Printed fol. 194). Tone 8, Podoben: "Thou hast given a sign" (*Да́лъ є҆сѝ зна́менїе* / *Ἔδωκας σημείωσιν*). St. Joseph meditates on Christ pierced in His side upon the Cross to pour forth life unto humanity slain by eating of the forbidden tree in Eden, beseeching the Savior to grant participation in His Passion and Resurrection through the tears of the fast.
 
@@ -982,19 +982,19 @@
 
 [^490]: Conclusion of the Genesis Reading: Physical leaf p199 (Printed fol. 195). Genesis 5:15–24. The reading culminates in the translation of Enoch: "And Enoch was well-pleasing unto God, and he was not found, for God translated him" (*И҆ оу҆годѝ Е҆нѡ́хъ Бг҃ꙋ, и҆ не ѡ҆брѣта́шесѧ, занѐ преложѝ є҆го̀ Бг҃ъ*, Gen. 5:24 / Heb. 11:5).
 
-[^491]: Vespers Second Prokeimenon: Physical leaf p199 (Printed fol. 195). Tone 6, Psalm 36:34a LXX (*Потерпѝ Гдⷭ҇а, и҆ сохранѝ пꙋ́ть є҆гẁ* / *Ὑπόμεινον τὸν Κύριον καὶ φύλαξον τὴν ὁδὸν αὐτοῦ*). The verse is Psalm 36:1 LXX (*Fret not thyself because of evildoers, neither be envious against the workers of iniquity*).
+[^491]: Vespers Second Prokeimenon: Physical leaf p199 (Printed fol. 195). Tone 6, Psalm 36:34a LXX (*Потерпѝ Гдⷭ҇а, и҆ сохранѝ пꙋ́ть є҆гѡ̀* / *Ὑπόμεινον τὸν Κύριον καὶ φύλαξον τὴν ὁδὸν αὐτοῦ*). The verse is Psalm 36:1 LXX (*Fret not thyself because of evildoers, neither be envious against the workers of iniquity*).
 
 [^492]: Vespers Second Old Testament Reading from Proverbs: Physical leaf p199 (Printed fol. 195). Proverbs 6:3–20. The reading opens with counsel on escaping surety, directs the sluggard to learn wisdom and industrious foresight from the ant and the bee (the Greek Septuagint addition on the bee is fully preserved in the Slavonic witness), warns against drowsiness, depicts the deceitful behavior of the wicked man, enumerates the seven things an abomination unto the Lord (arrogant eyes, a lying tongue, hands shedding innocent blood, a heart devising wicked plans, feet hurrying to evil, a false witness, and one who sows discord among brethren), and admonishes the disciple to keep the commandments of father and mother.
 
-[^493]: Vespers Aposticha Idiomelon: Physical leaf p199 (Printed fol. 195). Tone 5 (*Не пости́вшесѧ по за́повѣди Созда́вшагw...*). The sticheron contrasts the fall of Adam and Eve through their failure to keep the fast regarding the tree of knowledge with the Christian fast which restores the believer unto the original Fatherland. The hymn crosses the folio break and concludes on leaf p200.
+[^493]: Vespers Aposticha Idiomelon: Physical leaf p199 (Printed fol. 195). Tone 5 (*Не пости́вшесѧ по за́повѣди Созда́вшагѡ...*). The sticheron contrasts the fall of Adam and Eve through their failure to keep the fast regarding the tree of knowledge with the Christian fast which restores the believer unto the original Fatherland. The hymn crosses the folio break and concludes on leaf p200.
 
 [^494]: Conclusion of Vespers Aposticha Idiomelon: Physical leaf p200 (Printed fol. 196). Tone 5. The hymn concludes by calling the faithful to fast from corruptible meats and destructive passions so that, through the Cross, they may enter Paradise with the Wise Thief.
 
 [^495]: Martyrion at the Vespers Aposticha: Physical leaf p200 (Printed fol. 196). Tone 5 (*Ѡ҆ земны́хъ всѣ́хъ неради́вше...*). The hymn praises the holy martyrs who disdained all earthly goods and courageously underwent torments, winning their desired hope as heirs of the heavenly Kingdom.
 
-[^496]: Stavrotheotokion at the Vespers Aposticha: Physical leaf p200 (Printed fol. 196). Tone 5, Podoben: "Rejoice, ascetic of old" (*Ра́дуйсѧ по́стникwмъ* / *Χαίροις ἀσκητικῶν*). The Virgin Mother laments as she sees her beloved Son and Lamb led forth to slaughter, begging Him not to pass by her in silence as He runs the swift path of the Passion for the salvation of the world.
+[^496]: Stavrotheotokion at the Vespers Aposticha: Physical leaf p200 (Printed fol. 196). Tone 5, Podoben: "Rejoice, ascetic of old" (*Ра́дуйсѧ по́стникѡмъ* / *Χαίροις ἀσκητικῶν*). The Virgin Mother laments as she sees her beloved Son and Lamb led forth to slaughter, begging Him not to pass by her in silence as He runs the swift path of the Passion for the salvation of the world.
 
-[^497]: Friday of the Second Week of the Great Fast at Matins (*Въ пѧто́къ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ на оу́трени*): Physical leaf p200 (Printed fol. 196). Display headpiece featuring an ornamental woodcut band with a central Latin cross. Matins centers upon the veneration of the Cross; after the first kathisma, the Cross sessional hymns from the Octoechos are sung.
+[^497]: Friday of the Second Week of the Great Fast at Matins (*Въ пѧто́къ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ на оу́трени*): Physical leaf p200 (Printed fol. 196). Display headpiece featuring an ornamental woodcut band with a central Latin cross. Matins centers upon the veneration of the Cross; after the first kathisma, the Cross sessional hymns from the Octoechos are sung.
 
 [^498]: Sessional Hymns after the Second Psalter Reading: Physical leaf p200 (Printed fol. 196). Tone 8, Podoben: "Quickly anticipate" (*Ско́рѡ предварѝ* / *Ταχὺ προκατάλαβε*). The troparion summons the faithful to ascend through fasting above earthly passions to magnify the Lord exalted upon the Cross, drinking the water of compunction as they prepare for the hour of judgment. The Stavrotheotokion records the sorrow of the Mother of God as she beholds her Son nailed to the Tree.
 
@@ -1030,7 +1030,7 @@
 
 [^514]: Sixth Hour Second Prokeimenon: Physical leaf p204 (Printed fol. 200). Psalm 38 (LXX 38:13, 2), Tone 6 (*Оу҆слы́ши мл҃твꙋ мою̀ Гдⷭ҇и...*).
 
-[^515]: Friday of the Second Week at Vespers: Physical leaf p205 (Printed fol. 201). Ornamental woodcut band displaying symmetrical floral arabesques above the title (*Въ пѧто́къ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ ве́чера*). The rubrics regulate "Lord, I have cried" for the Presanctified Liturgy, appointing the idiomelon twice, six martyr-stichera of the tone from the Octoechos, and four from the Menaion.
+[^515]: Friday of the Second Week at Vespers: Physical leaf p205 (Printed fol. 201). Ornamental woodcut band displaying symmetrical floral arabesques above the title (*Въ пѧто́къ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ ве́чера*). The rubrics regulate "Lord, I have cried" for the Presanctified Liturgy, appointing the idiomelon twice, six martyr-stichera of the tone from the Octoechos, and four from the Menaion.
 
 [^516]: Vespers Idiomelon of the Day: Physical leaf p205 (Printed fol. 201). Tone 8 (*Ны́нѣ вре́мѧ бл҃гопрїѧ́тное...*). Citing 2 Corinthians 6:2, the idiomelon proclaims the present acceptable time of salvation and begs Christ to lighten the burden of sins.
 
@@ -1044,13 +1044,13 @@
 
 [^521]: Presanctified Liturgy Conclusion Rubric: Physical leaf p206 (Printed fol. 202). Cinnabar rubric (*И҆ про́чее послѣ́дованїе Преждесвѧще́нныхъ*) directing the continuation of the Presanctified Liturgy according to the Sluzhebnik.
 
-[^522]: Second Saturday of the Great Fast at Matins: Physical leaf p206 (Printed fol. 202). Decorative woodcut headpiece band composed of ten radiating rosettes, introducing the Matins for the departed (*Въ сꙋббѡ́тꙋ в҃-ѧ седми́цы ст҃а́гw вели́кагw поста̀ на оу҆́трени*).
+[^522]: Second Saturday of the Great Fast at Matins: Physical leaf p206 (Printed fol. 202). Decorative woodcut headpiece band composed of ten radiating rosettes, introducing the Matins for the departed (*Въ сꙋббѡ́тꙋ в҃-ѧ седми́цы ст҃а́гѡ вели́кагѡ поста̀ на оу҆́трени*).
 
 [^523]: Saturday Matins Troparion: Physical leaf p206 (Printed fol. 202). Tone 2 (*А҆пл҃и, мꙋ́ченицы и҆ проро́цы...*). Sung twice after "Alleluia," commemorating the communion of saints who intercede for the salvation of our souls.
 
-[^524]: Saturday Matins Troparion for the Departed: Physical leaf p206 (Printed fol. 202). Tone 2 (*Помѧнѝ Гдⷭ҇и ꙗ҆́кw бл҃гъ рабы̑ твоѧ̑...*). Appointed at "Glory," petitioning the sinless Lord for the forgiveness and eternal rest of His departed servants.
+[^524]: Saturday Matins Troparion for the Departed: Physical leaf p206 (Printed fol. 202). Tone 2 (*Помѧнѝ Гдⷭ҇и ꙗ҆́кѡ бл҃гъ рабы̑ твоѧ̑...*). Appointed at "Glory," petitioning the sinless Lord for the forgiveness and eternal rest of His departed servants.
 
-[^525]: Saturday Matins Theotokion: Physical leaf p206 (Printed fol. 202). Tone 2 (*Мт҃и ст҃а́ѧ неизрече́ннагw Свѣ́та...*). Appointed at "Both now and ever," glorifying the Mother of the Light.
+[^525]: Saturday Matins Theotokion: Physical leaf p206 (Printed fol. 202). Tone 2 (*Мт҃и ст҃а́ѧ неизрече́ннагѡ Свѣ́та...*). Appointed at "Both now and ever," glorifying the Mother of the Light.
 
 [^526]: Saturday Matins Psalter Readings: Physical leaf p207 (Printed fol. 203). Rubrics governing Kathisma 16 (Psalm 109) followed by martyr-sessional hymns from the Octoechos, and Kathisma 17 (Psalm 118, the Amomos / "Blessed are the undefiled") divided into two stases, during which the priest commemorates the departed, concluding with the Evlogetaria for the departed (*Ст҃ы́хъ ли́къ...*), the funeral litany, and the prayer for the dead.
 
@@ -1326,7 +1326,7 @@
 
 [^662]: Little Vespers Aposticha stichera in Tone 2 to the automelon "До́ме Е҆ѵфра́ѳовъ" (O house of Ephratha).
 
-[^663]: Diplomatic translation of Habsburg Imperial titulature printed in the 1906 Lviv Stauropegion edition: "побѣ́ды Бл҃говѣ́рномꙋ I҆мпера́торꙋ на́шемꙋ" (granting victories to our right-believing Emperor [Franz Joseph I]).
+[^663]: Diplomatic translation of Habsburg Imperial titulature printed in the 1906 Lviv Stauropegion edition: "побѣ́ды Бл҃говѣ́рномꙋ І҆мпера́торꙋ на́шемꙋ" (granting victories to our right-believing Emperor [Franz Joseph I]).
 
 [^664]: Great Vespers stichera at "Lord, I have cried" in Tone 5 to the automelon "Ра́дꙋйсѧ по́стникѡвъ" (Rejoice, O container of ascetics).
 
@@ -1336,7 +1336,7 @@
 
 [^667]: Great Vespers Aposticha Doxasticon in Tone 4, a supplicatory hymn invoking divine victory through the weapon of the Cross.
 
-[^668]: Diplomatic translation of Habsburg Imperial titulature in the Aposticha Doxasticon: "вѣ́рномꙋ I҆мпера́торꙋ на́шемꙋ" (our faithful Emperor).
+[^668]: Diplomatic translation of Habsburg Imperial titulature in the Aposticha Doxasticon: "вѣ́рномꙋ І҆мпера́торꙋ на́шемꙋ" (our faithful Emperor).
 
 [^669]: Matins Sessional Hymn after the Polyeleos in Tone 8 to the automelon "Повелѣ́нное та́йнѡ" (Having received the command mystically), contrasting the tree of the Fall with the Tree of the Cross which fills the temple with God's glory (cf. Isa. 6:1).
 
@@ -1704,7 +1704,7 @@
 
 [^851]: Friday Matins Stavrotheotokion after the second stichology, the Virgin weeping at the Cross: "How art Thou, Who art glorified as God by angels, now voluntarily crucified by lawless men, O Savior?"
 
-[^852]: Friday Matins Sessional Hymn after the third stichology, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε), beholding the Cross as the light of souls and glorifying Christ's voluntary elevation upon it.
+[^852]: Friday Matins Sessional Hymn after the third stichology, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάλαβε), beholding the Cross as the light of souls and glorifying Christ's voluntary elevation upon it.
 
 [^853]: The Canon of the Precious Cross chanted at Friday Matins with the acrostic: "Покланѧ́емое всѝ пое́мъ дре́во" (We all sing of the Tree that is worshipped), while the canon of the Menaion is relegated to Compline.
 
@@ -1718,7 +1718,7 @@
 
 [^858]: Friday Matins Stavrotheotokion after Ode 3, quoting Psalm 98:5 and 131:7 (LXX): "Behold, we worship at the place where Thy feet stood, O Lord."
 
-[^859]: Ode 4 Heirmos of the Canon of the Cross, Tone 6: "Ты́ моѧ̀ крѣ́пость" (Thou art my strength / Σύ μου ἰσχύς, Κύриε), based on the Canticle of Habakkuk 3 (LXX).
+[^859]: Ode 4 Heirmos of the Canon of the Cross, Tone 6: "Ты́ моѧ̀ крѣ́пость" (Thou art my strength / Σύ μου ἰσχύς, Κύριε), based on the Canticle of Habakkuk 3 (LXX).
 
 [^860]: Ode 5 Heirmos of the Canon of the Cross, Tone 6: "Вскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ" (Why hast Thou cast me off / Ἵνα τί με ἀπώσω), based on Isaiah 26:9–20.
 
@@ -1728,7 +1728,7 @@
 
 [^863]: Classical patristic and hymnographic typological tradition based on Isaiah 60:13 (LXX), interpreting the cedar, pine, and cypress as the threefold wood composition of Christ's Holy Cross.
 
-[^864]: Ode 6 Heirmos of the Canon of the Cross, Tone 6: "Ѡ҆чи́сти мѧ̀ Сп҃се" (Cleanse me, O Savior / Ἱλάσθητί μοι Σωτήр), based on the Canticle of Jonah 2 (LXX).
+[^864]: Ode 6 Heirmos of the Canon of the Cross, Tone 6: "Ѡ҆чи́сти мѧ̀ Сп҃се" (Cleanse me, O Savior / Ἱλάσθητί μοι Σωτήρ), based on the Canticle of Jonah 2 (LXX).
 
 [^865]: Friday Kontakion of the Precious Cross in Tone 7: "Не ктомꙋ̀ пла́менное ѻ҆рꙋ́жїе" (No longer does the flaming sword guard the gate of Eden), celebrating the abolition of the sting of death (1 Cor. 15:55) and the opening of Paradise to the thief (Luke 23:43).
 
@@ -1806,9 +1806,9 @@
 
 [^902]: Ode 8 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Землѧ̀, и҆ всѧ̑ ꙗ҆́же на не́й" (The earth, and all that is therein / Γῆ καὶ πάντα τὰ ἐν αὐτῇ), based on the Benedicite canticle in Daniel 3 (LXX).
 
-[^903]: Ode 9 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Ꙗ҆́кѡ сотвори́ мнѣ̀ вели́чїе Си́льный" (For He that is mighty has done to me great things / Ὅти ἐποίησέ μοι μεγαлеῖα ὁ δυνατός), based on the Magnificat in Luke 1:49.
+[^903]: Ode 9 Heirmos of Lord Joseph's Tetraodion, Tone 4: "Ꙗ҆́кѡ сотвори́ мнѣ̀ вели́чїе Си́льный" (For He that is mighty has done to me great things / Ὅτι ἐποίησέ μοι μεγαλεῖα ὁ δυνατός), based on the Magnificat in Luke 1:49.
 
-[^904]: Ode 9 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Велича́емъ всѝ" (We all magnify Thy love for mankind / Μεγαλύномен πάντες), based on the Magnificat in Luke 1:46–55.
+[^904]: Ode 9 Heirmos of St. Theodore the Studite's Tetraodion, Tone 4: "Велича́емъ всѝ" (We all magnify Thy love for mankind / Μεγαλύνομεν πάντες), based on the Magnificat in Luke 1:46–55.
 
 [^905]: Rubric for the Saturday Matins Exapostilaria: cross-referencing printed folio 107 = physical leaf p111 (Second Saturday of the Great Fast), where the universal Saturday Exapostilaria are written: "Thou Who hast adorned the heaven with stars" (О небеси звѣзды) and the martyria/Hymns for the Departed (Поко́инъ) exapostilaria.
 
@@ -1844,7 +1844,7 @@
 
 [^921]: Ode 1 Heirmos of the Triodion Canon, Tone 5: "Спаси́телю Бг҃ꙋ" (Unto God the Savior Who led the people through the sea / Τῷ Σωτῆρι Θεῷ), based on Exodus 15. The canon systematically interprets the Parable of the Good Samaritan (Luke 10:30–37) as an allegory of the human soul stripped, beaten, and wounded by passions and sinful demons, awaiting Christ the true Physician.
 
-[^922]: Ode 1 Heirmos of the Canon of St. John Climacus, Tone 8: "Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ" (Having traversed the water as dry land / Ὑγρὰν διοδεύσας ὡсеὶ ξηράν), based on Exodus 14.
+[^922]: Ode 1 Heirmos of the Canon of St. John Climacus, Tone 8: "Во́дꙋ проше́дъ ꙗ҆́кѡ сꙋ́шꙋ" (Having traversed the water as dry land / Ὑγρὰν διοδεύσας ὡσεὶ ξηράν), based on Exodus 14.
 
 [^923]: The standard Sunday Katavasia of the Theotokos throughout Great Lent (except when Cross Katavasiai are prescribed): "I shall open my mouth, and it shall be filled with the Spirit" (Отверзу уста моя / Ἀνοίξω τὸ στόμα μου), Ode 1 of the Canon of the Akathist.
 
@@ -1852,7 +1852,7 @@
 
 [^925]: Ode 3 Heirmos of the Canon of St. John Climacus, Tone 8: "Ты̀ є҆сѝ ᲂу҆твержде́нїе" (Thou art the confirmation of them that flee unto Thee / Σὺ εἶ τὸ στερέωμα), based on Psalm 17:3 (LXX).
 
-[^926]: Matins Sessional Hymn of the Precious Cross in Tone 5, Podoben: "Strange wonder" (Стра́нное чꙋ́до / Τὸ ξένον θαῦма), retaining the mid-Lenten Cross veneration theme on the Fourth Sunday of Lent.
+[^926]: Matins Sessional Hymn of the Precious Cross in Tone 5, Podoben: "Strange wonder" (Стра́нное чꙋ́до / Τὸ ξένον θαῦμα), retaining the mid-Lenten Cross veneration theme on the Fourth Sunday of Lent.
 
 [^927]: Matins Sessional Hymn for St. John Climacus, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на крⷭ҇тъ / Ὁ ὑψωθεὶς ἐν τῷ σταυρῷ), celebrating his ascent via the ladder of virtues unto the divine vision of God (*theoria*).
 
@@ -1954,11 +1954,11 @@
 
 [^976]: Tuesday Matins appointed Kathismata: Kathisma 11 (Psalms 77–84 [LXX 77–84]), Kathisma 12 (Psalms 85–90 [LXX 85–90]), and Kathisma 13 (Psalms 91–100 [LXX 91–100]).
 
-[^977]: Tuesday Matins Sessional Hymn by St. Joseph the Hymnographer, Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры / Θείας πίстеως).
+[^977]: Tuesday Matins Sessional Hymn by St. Joseph the Hymnographer, Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры / Θείας πίστεως).
 
 [^978]: Tuesday Matins Sessional Hymn by St. Theodore the Studite, Tone 2, Podoben: "Most blessed art thou" (Пребл҃гослове́нна є҆сѝ / Ὑπερευλογημένη ὑπάρχεις).
 
-[^979]: Sessional Theotokion, Tone 2, Podoben: "Unto Thy most pure icon" (Пречи́стомꙋ / Τὴν ἄхранτον εἰκόνα σου).
+[^979]: Sessional Theotokion, Tone 2, Podoben: "Unto Thy most pure icon" (Пречи́стомꙋ / Τὴν ἄχραντον εἰκόνα σου).
 
 [^980]: Ode 2 Heirmos of the Tuesday Matins Triode by St. Joseph the Hymnographer, Tone 3: 'Give ear, O earth and heaven' (Вонмѝ землѐ и҆ не́бо / Πρόσεχε γῆ καὶ οὐρανέ), based on the biblical canticle of Moses in Deuteronomy 32.
 
@@ -2058,7 +2058,7 @@
 
 [^1028]: Vespers Stichera of the Triodion by St. Joseph the Hymnographer, Tone 8, Podoben: "O Lord, though before the judgment seat" (Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи / Κύριε, εἰ καὶ κριτηρίῳ).
 
-[^1029]: Vespers Sticheron by St. Theodore the Studite, Tone 8, Podoben: "The glorious and most pure" (Сла́внꙋю и҆ Пречⷭ҇тꙋю / Τὴν ἔνδοξον καὶ ἄχранτον).
+[^1029]: Vespers Sticheron by St. Theodore the Studite, Tone 8, Podoben: "The glorious and most pure" (Сла́внꙋю и҆ Пречⷭ҇тꙋю / Τὴν ἔνδοξον καὶ ἄχραντον).
 
 [^1030]: The twenty-four alphabetical penitential stichera by Saint Andrew of Crete (Tone 4, Podoben: "I desired with tears" [Хотѣ́хъ слеза́ми / Ἤθελον δάκρυσιν]), appointed for Wednesday Vespers of the Fifth Week of the Great Fast as the prelude to the Great Canon chanted at Thursday Matins. In the Greek original, each sticheron forms an acrostic following the twenty-four letters of the Greek alphabet from Alpha (Ἅπαντα τὸν βίον μου) to Omega (Ὦ τῆς ἀφάτου σου εὐσπλαγχνίας). In the Slavonic printed Triodion, the printer preserves this sequence by numbering the stichera in the margin with Cyrillic numerical letters (А҃ through Ѡ҃), with sticheron 15 corresponding to Greek Omicron.
 
@@ -2110,7 +2110,7 @@
 
 [^1054]: Refrain for the troparia added in honor of St. Andrew of Crete: "Venerable Father Andrew, pray to God for us" (Преподобне отче Андрее, моли Бога о насъ).
 
-[^1055]: Ode 2 Heirmos of the Great Canon, Tone 6: "Give ear, O heaven, and I will speak" (Вонми небо, и возглаголю / Πρόсехе οὐρανέ, καὶ λαλήσω), drawing upon the Great Canticle of Moses in Deuteronomy 32:1.
+[^1055]: Ode 2 Heirmos of the Great Canon, Tone 6: "Give ear, O heaven, and I will speak" (Вонми небо, и возглаголю / Πρόσεχε οὐρανέ, καὶ λαλήσω), drawing upon the Great Canticle of Moses in Deuteronomy 32:1.
 
 [^1056]: St. Andrew meditates on the coats of skins and fig leaves from Genesis 3:7, 21, Psalm 128:3 [LXX 128:3: "The sinners wrought upon my back"], and the Parable of the Lost Coin (Luke 15:8–10).
 
@@ -2138,7 +2138,7 @@
 
 [^1068]: Ode 4 Heirmos of the Triodion to the Apostles, Tone 8: "I have heard, O Lord, the mystery of Thy dispensation" (Услышахъ Господи смотренія твоего таинство / Εἰσακήκοα Κύριε, τὴν ἀκοὴν τῆς σῆς οἰκονομίας), drawing upon the Canticle of Habakkuk (Habakkuk 3:2).
 
-[^1069]: The Twelve Apostles are likened to a mystical twelve-stringed musical instrument (двоенадесятострунный органъ / δωδεκάχорδον ὄργανον), playing the saving melody of the Gospel and confounding evil deceit.
+[^1069]: The Twelve Apostles are likened to a mystical twelve-stringed musical instrument (двоенадесятострунный органъ / δωδεκάχορδον ὄργανον), playing the saving melody of the Gospel and confounding evil deceit.
 
 [^1070]: Second canon of the Triodion to the Apostles by St. Theodore the Studite (759–826), Tone 8, sharing the same heirmos.
 
@@ -2182,7 +2182,7 @@
 
 [^1090]: Samuel raised in the tabernacle at Shiloh and dedicated to the Lord (1 Kingdoms 1–3); King David anointed with the horn of divine oil by Samuel (1 Kingdoms 16:13), urging the soul to receive the mystical anointing of penitential tears; followed by the Beatitudes Doxasticon and Theotokion confessing Christ as one divine Person (Hypostasis) in two distinct unconfused natures, echoing the Definition of Chalcedon (451).
 
-[^1091]: Ode 7 Heirmos of the Great Canon, Tone 6: "We have sinned, we have transgressed, we have done unrighteously before Thee" (Согрѣши́хомъ, беззако́нновахомъ / Ἡμάρтомен, ἠνομήσαμεν, ἠδικήσαμεν ἐνώπιόν σου), based upon the Canticle of the Three Holy Children in the Babylonian furnace (Daniel 3:26–45 / Prayer of Azariah).
+[^1091]: Ode 7 Heirmos of the Great Canon, Tone 6: "We have sinned, we have transgressed, we have done unrighteously before Thee" (Согрѣши́хомъ, беззако́нновахомъ / Ἡμάρτομεν, ἠνομήσαμεν, ἠδικήσαμεν ἐνώπιόν σου), based upon the Canticle of the Three Holy Children in the Babylonian furnace (Daniel 3:26–45 / Prayer of Azariah).
 
 [^1092]: Saul seeking the lost asses of his father Kish and unexpectedly receiving the royal anointing from Samuel (1 Kingdoms 9–10 [1 Samuel 9–10]), warning the soul not to prefer irrational passions over the Kingdom of Christ.
 
@@ -2278,7 +2278,7 @@
 
 [^1138]: First Stasis of the Akathist Hymn (Stanzas 1–6, Greek alphabet Alpha through Zeta, A–Z): Ikos 1 (A: Ἄγγελος πρωτοστάτης / А҆́ггелъ предста́тель) with its twelve angelic salutations ("Rejoice..."); Kontakion 2 (B: Βλέπουσα ἡ Ἁγία / Ви́дѧщи Ст҃а́ѧ); Ikos 2 (G: Γνῶσιν ἄγνωστον / Ра́зꙋмъ недоразꙋмѣва́емый); Kontakion 3 (D: Δύναμις τοῦ Ὑψίστου / Си́ла Вы́шнѧгѡ); Ikos 3 (E: Ἔχουσα θεοδόχον / И҆мꙋ́щи бг҃опрїя́тнꙋю); and Kontakion 4 (Z: Ζάλην ἔνδοθεν ἔχων / Бꙋ́рю внꙋ́трь и҆мѣ́ѧ), portraying the Annunciation, the Visitation of the Virgin to Elizabeth (Luke 1:39–56), and the perplexity and reassurance of the righteous Joseph (Matthew 1:18–25).
 
-[^1139]: Second Stasis of the Akathist Hymn (Stanzas 7–12, Greek alphabet Eta through Lambda, H–L): Ikos 4 (H: Ἤκουσαν οἱ ποιμένες / Слы́шаша па́стырїе); Kontakion 5 (Th: Θεοδρόμον ἀστέρα / Бг҃оте́чнꙋю ѕвѣздꙋ̀); Ikos 5 (I: Ἴδον παῖδες Χалдаίων / Ви́дѣша ѻ҆́троцы халде́йстїи); Kontakion 6 (K: Κήρυκες θεοφόροι / Проповѣ́дницы бг҃оно́снїи); and Ikos 6 (L: Λάмψας ἐν τῇ Αἰγύπτῳ / Возсїя́вый во Е҆гѵ́птѣ), recounting the adoration of the shepherds at Bethlehem (Luke 2:8–20), the journey and adoration of the Magi from Babylon (Matthew 2:1–12), and the Flight into Egypt with the casting down of idols (Isaiah 19:1). Interspersed with the reading of the 17th Kathisma (The Blameless / LXX Ps. 118) and the patristic reading from the Akathist Synaxarion.
+[^1139]: Second Stasis of the Akathist Hymn (Stanzas 7–12, Greek alphabet Eta through Lambda, H–L): Ikos 4 (H: Ἤκουσαν οἱ ποιμένες / Слы́шаша па́стырїе); Kontakion 5 (Th: Θεοδρόμον ἀστέρα / Бг҃оте́чнꙋю ѕвѣздꙋ̀); Ikos 5 (I: Ἴδον παῖδες Χαλδαίων / Ви́дѣша ѻ҆́троцы халде́йстїи); Kontakion 6 (K: Κήρυκες θεοφόροι / Проповѣ́дницы бг҃оно́снїи); and Ikos 6 (L: Λάμψας ἐν τῇ Αἰγύπτῳ / Возсїя́вый во Е҆гѵ́птѣ), recounting the adoration of the shepherds at Bethlehem (Luke 2:8–20), the journey and adoration of the Magi from Babylon (Matthew 2:1–12), and the Flight into Egypt with the casting down of idols (Isaiah 19:1). Interspersed with the reading of the 17th Kathisma (The Blameless / LXX Ps. 118) and the patristic reading from the Akathist Synaxarion.
 
 [^1140]: Conclusion of the Second Stasis with Kontakion 7 (M: Μέλλοντος Συμεῶνος / Хотѧ́щꙋ Сѷмеѡ́нꙋ), celebrating the Presentation of the Lord in the Temple (Luke 2:25–35). The Canon of the Akathist in Tone 4, composed by St. Joseph the Hymnographer (ca. 816–886), bearing the Greek acrostic: "Receptacle of joy, to thee alone it is fitting to rejoice. Joseph" (Χαρᾶς δοχεῖον, σοὶ πρέπει χαίρειν μόνῃ. Ἰωσήφ / Ра́дости прїя́телище, тебѣ̀ подоба́етъ ра́доватися є҆ди́нѣй), with Heirmoi of the 4th Tone ("I shall open my mouth" and "Establish thy singers, O Theotokos"). The stanzas extol the Mother of God as the living Book of Christ, the untilled field bearing the Bread of life, and the spotless heifer. Opening of the Third Stasis with Ikos 7 (N: Νέαν ἔδειξε κτίσιν / Но́вꙋю показа̀ тва́рь).
 
@@ -2338,7 +2338,7 @@
 
 [^1168]: Monday of the Sixth Week of Lent initiates the solemn cycle of Palm Week (Седми́ца ва́їй / Ἑβδομὰς τῶν βαΐων), directing the Church's contemplation toward the raising of the four-days-dead Lazarus in Bethany and the triumphal entry of the Lord into Jerusalem.
 
-[^1169]: Sessional hymn following the third stichology of the Psalter on Monday of Palm Week. The hymn marks the formal liturgical entry into the Sixth Week of the Great Fast (Седми́ца ва́їй / Ἑβдоμὰς τῶν βαΐων), interweaving the ascetic completion of the Forty Days with the approaching resurrection of Lazarus and the triumphal entry of the Lord into Jerusalem.
+[^1169]: Sessional hymn following the third stichology of the Psalter on Monday of Palm Week. The hymn marks the formal liturgical entry into the Sixth Week of the Great Fast (Седми́ца ва́їй / Ἑβδομὰς τῶν βαΐων), interweaving the ascetic completion of the Forty Days with the approaching resurrection of Lazarus and the triumphal entry of the Lord into Jerusalem.
 
 [^1170]: The two Matins canons (triodia) of Monday of Palm Week: the first triodion (Odes 1, 8, and 9) in Tone 1 is by St. Joseph the Hymnographer, emphasizing personal compunction, repentance from spiritual sloth, and liberation from the fate of the unmerciful rich man. The second triodion in Tone 1 is by St. Theodore the Studite, dramatizing the impending journey of Christ from beyond Jordan toward Bethany and Bethphage to raise Lazarus.
 
@@ -2678,7 +2678,7 @@
 
 [^1338]: Psalm 24:13 (LXX) [Psalm 25:13 Masoretic].
 
-[^1339]: Romans 10:4: "For Christ is the end of the law for righteousness to every one that believs"; Galatians 2:16, Romans 3:20–24.
+[^1339]: Romans 10:4: "For Christ is the end of the law for righteousness to every one that believes"; Galatians 2:16, Romans 3:20–24.
 
 [^1340]: Luke 18:13: The Publican's prayer: "God be merciful to me a sinner."
 

@@ -264,7 +264,7 @@ From the holy promise, a glorious fruit, the Theotokos truly appeared unto the w
 
 Nourished by heavenly bread, O Virgin, faithfully in the temple of the Lord, thou didst bear unto the world the Bread of Life, the Word: unto Whom, as a chosen and all-undefiled temple, thou wast mystically betrothed in the Spirit, betrothed unto God and the Father.
 
-*And 3 of Saint Peter, Tone 4, Podoben: The same:*
+*And 3 of Saint Peter, Tone 4, Podoben: The same (Подо́бенъ то́йже):*
 The consubstantiality of the transcendent Trinity, as of an uncreated Unity, O all-wise, all-blessed one: thou didst cast down Arius, showing us the indivisibility of the Son, as being of the same Godhead with the Father and the Spirit.
 
 The murderous assault of the persecutors has ceased, the outpouring of blood has now come to an invisible end; both were sealed, O wise Peter, by thy sacred witness, as the flow of blood once ceased for Moses' child through the flint of Zipporah.[^1084]
@@ -294,13 +294,13 @@ O God-wise Alypius, Thou didst appear as a most great luminary, enlightening all
 
 Thou wast an unshakable pillar of monks, O wise one, standing firm upon a pillar, afflicted by heat and frost, and by many fasts. Therefore thou didst also receive the divine gifts of the Spirit, to heal sicknesses and to drive away the most cruel passions. And now pray thou that He grant unto our souls peace and great mercy.
 
-*Glory, both now, Theotokion, Podoben: The same:*
+*Glory, both now, Theotokion, Podoben: The same (Подо́бенъ то́йже):*
 Rejoice, bush unconsumed,[^1086] who truly didst bear the Angel of Great Counsel, our Joy! Rejoice, O Maiden,
 
 === LEAF p310 ===
 the good pleasure of the honorable Trinity! Rejoice, confirmation of earthly ones! Rejoice, who didst bud forth the untilled Ear of wheat of paradise, the King and Lord, having escaped the malice of that sprout!
 
-*Staurotheotokion, Podoben: The same:*
+*Staurotheotokion, Podoben: The same (Подо́бенъ то́йже):*
 When the ewe-lamb and undefiled Lady saw her Lamb upon the Cross having neither form nor beauty, "Woe is me!" she cried, lamenting: "Whither has Thy beauty set, O sweetest One? Where is Thy comeliness? Where is the beaming grace of Thy countenance, O my most beloved Son?"
 
 *Troparion of the Venerable One, Tone 1:*

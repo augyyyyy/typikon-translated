@@ -46,7 +46,7 @@ Thy Resurrection, O Christ Savior, the Angels hymn in the heavens: vouchsafe als
 
 Having shattered the brazen gates and smashed the bars of Hades, as God almighty Thou didst raise up the fallen human race; therefore we also cry out with one accord: O Thou Who art risen from the dead, Lord, glory to Thee!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 Desiring to set us upright from the ancient corruption, O Christ, Thou wast nailed to the Cross and placed in the tomb; Whom the Myrrh-bearing women sought with tears, and weeping said: Woe unto us, O Savior of all! How didst Thou accept to dwell in a tomb? And having dwelt therein willingly, how wast Thou stolen away? How wast Thou moved? What place hid Thy life-bearing Body? But, O Master, appear unto us as Thou didst promise, and assuage our tearful lamentation! And as they wept, an Angel cried unto them: Cease from weeping, and say unto the Apostles that the Lord is risen, granting cleansing and great mercy unto the world!
 
@@ -368,7 +368,7 @@ With prophetic eyes Jacob secretly foresaw the expectation of the nations, God i
 
 *Troparion:*
 
-The rulers from the tribe of Judah having failed, O all-pure one, Thy Son and God came forth, a Leader unto the ends of the earth, and now reigns in truth!
+The rulers from the tribe of Judah having failed, O all-pure one, thy Son and God came forth, a Leader unto the ends of the earth, and now reigns in truth!
 
 *Ode 3. Heirmos:*
 
@@ -548,7 +548,7 @@ Great Moses among the Prophets prefigured thee as the Ark, the Table, the Candle
 
 *Troparion:*
 
-Death is slain, and the corruption of Adam's condemnation is abolished [f. 100A] O Lady, having clashed against Thy fruit; for thou didst bear Life, delivering from corruption those who hymn thee!
+Death is slain, and the corruption of Adam's condemnation is abolished [f. 100A] O Lady, having clashed against thy fruit; for thou didst bear Life, delivering from corruption those who hymn thee!
 
 *Troparion:*
 
@@ -644,7 +644,7 @@ Rejoice, Gate of God! Rejoice, rampart of the faithful [f. 102A] Rejoice, Unwedd
 
 *Troparion:*
 
-Having adorned thee with a vesture of gold like a Queen, illumining thee with the ray of the Spirit, Thy Son set thee at His right hand, O all-pure one; Whom supremely exalt unto all ages!
+Having adorned thee with a vesture of gold like a Queen, illumining thee with the ray of the Spirit, thy Son set thee at His right hand, O all-pure one; Whom supremely exalt unto all ages!
 
 *Troparion:*
 

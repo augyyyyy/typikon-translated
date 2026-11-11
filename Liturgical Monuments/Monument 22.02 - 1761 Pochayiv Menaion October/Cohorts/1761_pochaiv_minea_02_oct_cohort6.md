@@ -186,7 +186,7 @@ Cast into the sea after thy blessed end, O glorious one, thy foster-father recei
 *Glory, now and ever, Theotokion:*
 With the rays of the All-Holy Spirit, O all-pure one, dew my mind, O thou who didst give birth unto the unreckonable Drop, Christ, Who by mercies washed away the measureless iniquities of men: dry up the spring of my passions, and count me worthy ever of the torrent of living food, by thy prayers!
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the Ewe who bore Thee beheld Thee upon the Tree, the Lamb and Shepherd, she wailed and maternally said unto Thee: O beloved Son, how art Thou suspended upon the Tree of the Cross, O longsuffering One? How were Thy hands and feet nailed by the lawless, O Word, and Thou didst pour out Thy blood, O Master?
 
 *Troparion, Tone 4:*

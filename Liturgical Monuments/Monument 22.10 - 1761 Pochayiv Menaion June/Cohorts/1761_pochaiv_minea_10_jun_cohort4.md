@@ -298,7 +298,7 @@ By the trials of thy flesh, O blessed one, thou didst wound the adversaries, and
 
 Enduringly burned with torches and having thy back broken with wounds, O martyr, thou didst endure, crying aloud: Nothing shall separate me from the love of Christ,[^81] neither death, nor life, nor any other torment!
 
-*Other Stichera of the Most Holy Theotokos, Tone and Podoben the same:*
+*Other Stichera of the Most Holy Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Overcome by unexpected falls, O pure one, having thee as our only protector, O Virgin, we cry aloud thankfully: Cleanse us, O most holy Bride of God; for thou art the refuge of the world and the intercession for our race!
 

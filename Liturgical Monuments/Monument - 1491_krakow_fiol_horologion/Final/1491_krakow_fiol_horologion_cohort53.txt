@@ -66,7 +66,7 @@ As the first-fruits of nature unto the Creator of creation, the universe offers 
 === LEAF p529 ===
 *...me, and [forgive] one another; and each departs unto his own cell in silence.*[^862] *This rule takes place on all fasting days, whenever "Alleluia" is [chanted]. But when it is "God is the Lord", prostrations are not made in the church; and of eating there is no distinction: on Tuesday and on Thursday if the superior wills, not only oil do we eat, but also fish; only let the superior observe strictly: even if it is not "God is the Lord", on Tuesday and on Thursday fish is not permitted to eat.*[^863]
 
-*SELECTED PSALMS FOR SOLEMN COMMEMORATIONS AND FEASTS OF THE LORD:*
+# SELECTED PSALMS FOR SOLEMN COMMEMORATIONS AND FEASTS OF THE LORD
 
 *These Psalms:*[^864]
 

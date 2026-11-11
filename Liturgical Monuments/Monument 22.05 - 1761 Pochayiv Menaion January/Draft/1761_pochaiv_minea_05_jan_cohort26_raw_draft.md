@@ -53,13 +53,13 @@ Your divinely radiant memory, illuminated by divine streams, for the sake of you
 *Theotokion:*
 The Cherubim tremble beholding the Word, Who sits upon them by an ineffable word, held as an infant by thy maternal hands, O all-holy Lady, higher than all creation.[^1608]
 
-*Exapostilarion, Podoben: "In the spirit in the sanctuary" (Dukhom vo sviatilishchi):*
+*Exapostilarion, Podoben: "In the spirit in the sanctuary" (Дх҃омъ во ст҃и́лищи):*
 By the sufferings of fasting ye put to sleep utterly the evil-originating serpent, and at your end ye received the crown of martyrdom: O boast of fathers and glory of martyrs, the all-sacred multitude of marvelous fathers in Raithu and Sinai.[^1609]
 
 *Glory, and now, of the Feast:*
 The present day has become of the unwaning Light; for Christ the Truth has now come and appeared: let us worthily sing unto Him with psalms and hymns, as Creator and God. O new mystery! The Creator of Adam has willingly appeared as man.[^1610]
 
-*At the Aposticha, Stichera, Tone 6, Podoben: "On the third day" (Tridneven):*
+*At the Aposticha, Stichera, Tone 6, Podoben: "On the third day" (Трїдне́венъ):*
 Come, ye faithful, let us also run in feeling of heart unto the streams of the Jordan, and beholding Christ baptized in the flesh by John the Forerunner, now glorifying with him let us cry unto Him: Blessed art Thou Who hast appeared,[^1611]
 
 === LEAF p253 ===
@@ -118,14 +118,14 @@ the First Hour, and the complete Dismissal. At the First Hour, the Sunday Tropar
 
 *In the same month, on the 15th day:*
 *Of our venerable fathers Paul of Thebes and John the Calybite.*[^1642]
-*At "Lord, I have cried," Stichera on 6, Tone 1, Podoben: "Joy of the heavenly hosts" (Nebesnykh chinov):*
+*At "Lord, I have cried," Stichera on 6, Tone 1, Podoben: "Joy of the heavenly hosts" (Небє́сныхъ чинѡ́въ):*
 Thou didst appear as the beginning of the virtuous, having established, O thrice-blessed Paul, the impassable paths of ascetic life: for thou didst well set spiritual ascents in thy soul, whereby thou didst attain the summit of virtues through abstinence and many afflictions.[^1643]
 
 Having winged thy mind unto divine desire, O blessed one, thou didst ascend unto the heights of the desert, and didst draw nigh as unto the darkness; wherein thou wast illuminated brightly with the divine understanding, and on the tablets of thy soul thou wast anointed with the brightness of virtues.[^1644]
 
 The desert blossomed fair with the flowers of thy virtues, for Thou didst destroy the thorns of passions therein: Thou didst plant the glorious labors of thy divine deeds. Therefore, like a lily from God, Thou dost now breathe forth unto us the fragrance of thy life.[^1645]
 
-*Other Stichera, Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Other Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 When by the divine nod thou didst rejoicing flee worldly beauties, O father, then didst thou prefer the narrow, painful, and exceedingly hard path rather than the broad way. Therefore thou didst take care for the soul,[^1646]
 
 === LEAF p258 ===
@@ -138,14 +138,14 @@ Bearing in thy hands the holy Gospel, O father, thou wast the fulfiller thereof.
 *Glory, Tone 2:*
 Having renounced the world and the things in the world, O venerable one, taking the Gospel, in evangelical manner thou didst follow Christ; and living in a hut secretly as in Paradise, by the ultimate harsh living of the flesh thou didst choke the manslaying serpent. Therefore thou hast taken up thy dwelling in the heavens, O blessed John; pray that peace be granted unto the world, and great mercy unto our souls.[^1650]
 
-*Stavrotheotokion, Podoben: "When from the Tree" (Egda ot dreva):*
+*Stavrotheotokion, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 When the undefiled Ewe beheld her Lamb willingly dragged to slaughter as a man, weeping she said: Dost Thou now hasten to make me childless, O Christ, who bare Thee? What is this that Thou hast done, O Redeemer of all? Yet I hymn and glorify Thine extreme goodness, surpassing mind and word, O Lover of mankind.[^1651]
 
 *At the Aposticha, from the Octoechos:*
 *Glory, Tone 6:*
 O venerable father, into all the earth has gone forth the sound of thy correct deeds; therefore in the heavens thou hast found the reward of thy labors. Thou didst destroy the hosts of demons and didst attain unto the ranks of angels, whose life thou didst blamelessly emulate. Having boldness before Christ God, entreat peace for our souls.[^1652]
 
-*Both now, Theotokion or Stavrotheotokion, Podoben: "On the third day" (Tridneven):*
+*Both now, Theotokion or Stavrotheotokion, Podoben: "On the third day" (Трїдне́венъ):*
 Beholding Thee crucified, O Christ, she that bare Thee cried out: What strange mystery is this which I behold, O my Son? How dost Thou die in the flesh, suspended upon the Tree, O Bestower of life?[^1653]
 
 *Troparion, Tone 4:*
@@ -223,8 +223,8 @@ Having lawfully endured in prayers and fastings, O venerable one, thou didst clo
 *Theotokion:*
 As a fragrant rose from the valleys, O all-pure one, He found thee pure, and dwelt in the midst of thee, filling humanity with fragrance.[^1675]
 
-*Kontakion of Paul, Tone 8, Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion of Paul, Tone 8, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 As an unwaning luminary of the spiritual Sun, let us come together this day and praise thee in hymns: for thou didst shine forth upon those in the darkness of ignorance, leading all up unto the divine height, O adornment of Thebes, venerable Paul, steadfast foundation of fathers and ascetics.[^1676]
 
-*Sessional Hymn, Tone 1, Podoben: "Thy Tomb, O Savior" (Grob Tvoy Spase):*
+*Sessional Hymn, Tone 1, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й Сп҃се):*
 Having hated the fair things of the world from the heart, and having loved the one God from the soul, thou didst attain the desert as an inhabited city, O Paul, exercising thyself in divine visions alone,[^1677]

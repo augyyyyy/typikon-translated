@@ -28,7 +28,7 @@ At the Little Entrance: **"Come, let us worship and fall down before Christ: sav
 
 13.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ τοῦ Κανόνος τῆς ἑορτῆς δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τῆς ἑορτῆς, τοῦ ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον *Ὁ καθαρώτατος ναὸς*, Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### Τῇ ΚΕ΄. Ἡ Ἀπόδοσις τῆς ἑορτῆς, καὶ τῆς ἁγίας Μεγαλομάρτυρος [τοῦ Χριστοῦ] καὶ Πανσόφου Αἰκατερίνης. [καὶ τοῦ Ἁγίου Μεγαλομάρτυρος Μερκουρίου.]
+**Τῇ ΚΕ΄. Ἡ Ἀπόδοσις τῆς ἑορτῆς, καὶ τῆς ἁγίας Μεγαλομάρτυρος [τοῦ Χριστοῦ] καὶ Πανσόφου Αἰκατερίνης. [καὶ τοῦ Ἁγίου Μεγαλομάρτυρος Μερκουρίου.]**
 
 *(Printed Page 228)*
 
@@ -42,7 +42,7 @@ At the Little Entrance: **"Come, let us worship and fall down before Christ: sav
 
 13.    At the Divine Liturgy: the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the feast. After the Little Entrance: the Resurrection Dismissal Troparion, that of the feast, that of the Patron Saint of the temple, and the Kontakion: **"The most pure Temple of the Saviour"** (*Ὁ καθαρώτατος ναός*). Epistle and Gospel of the Sunday. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.[^181]
 
-### The 25th Day. The Apodosis of the Feast of the Entrance of the Most Holy Theotokos, and the Holy Great-Martyr [of Christ] and All-Wise Catherine [and the Holy Great-Martyr Mercurius].
+**The 25th Day. The Apodosis of the Feast of the Entrance of the Most Holy Theotokos, and the Holy Great-Martyr [of Christ] and All-Wise Catherine [and the Holy Great-Martyr Mercurius].**
 
 *(Printed Page 229)*
 
@@ -82,7 +82,7 @@ At the Little Entrance: **"Come, let us worship and fall down before Christ: sav
 
     Σημειωτέον ὅτι, μετὰ τὴν Ἀπόδοσιν τῆς ἑορτῆς τῇ πρώτῃ Κυριακῇ ἢ ἑορτῇ, ψάλλεται τὸ Προεόρτιον Κοντάκιον τῶν Χριστουγέννων *Ἡ παρθένος σήμερον τὸν προαιώνιον Λόγον*.
 
-### Τῇ Λ΄. Τοῦ ἁγίου Ἀποστόλου Ἀνδρέου τοῦ Πρωτοκλήτου.
+**Τῇ Λ΄. Τοῦ ἁγίου Ἀποστόλου Ἀνδρέου τοῦ Πρωτοκλήτου.**
 
 1.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν τὰ γ΄ ἑσπέρια Προσόμοια *Ὁ τῷ Προδρόμου φωτὶ μεμορφωμένος* εἰς ς΄. *Δόξα* *Τὴν τῶν ἰχθύων ἄγραν*, *Καὶ νῦν* Προεόρτιον *Ἡσαΐα χόρευε*. Εἴσοδος, *Φῶς ἱλαρὸν*, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ Ἀναγνώσματα· εἶτα τὰ Ἀπόστιχα· *Δόξα* *Τὸν συναίμονα Πέτρου*, *Καὶ νῦν* Προεόρτιον *Ἰωσὴφ εἰπὲ ἡμῖν*, τὸ Ἀπολυτίκιον *Ὡς τῶν Ἀποστόλων πρωτόκλητος*, *Καὶ νῦν* *Τὸ ἀπ’ αἰῶνος ἀπόκρυφον* καὶ Ἀπόλυσις.
 
@@ -96,9 +96,9 @@ At the Little Entrance: **"Come, let us worship and fall down before Christ: sav
 
 19.    At the Divine Liturgy: the Festal Antiphons of the feast, with the refrain: **"Who art risen from the dead"** (*Ὁ ἀναστὰς ἐκ νεκρῶν*) at the Second Antiphon. After the Little Entrance: the Resurrection Dismissal Troparion, that of the feast, that of the Saint, that of the Patron Saint of the temple, and the Kontakion: **"The most pure Temple of the Saviour"** (*Ὁ καθαρώτατος ναός*). Epistle of the Saint [Gal. 3:23–4:5] and Gospel of the Sunday. At the Megalynarion: **"The Angels, beholding the Entrance of the All-pure..."** (*Ἄγγελοι τὴν εἴσοδον τῆς πανάγνου*) with **"As the living Ark of God, let no profane hand touch the Theotokos"** (*Ὡς ἐμψύχῳ θεοῦ Κιβωτῷ*); Communion Verse: **"I will take the cup of salvation, and call upon the name of the Lord"** (*Ποτήριον σωτηρίου λήψομαι*, Ps. 115:4 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-    It should be noted that, following the Apodosis of the feast, on the first Sunday or feast that follows, we chant the Forefeast Kontakion of the Nativity of Christ: **"Today the Virgin cometh to the cave"** (*Ἡ παρθένος σήμερον τὸν προαιώνιον Λόγον*).[^182]
+    It should be noted that, following the Apodosis of the feast, on the first Sunday or feast that follows, we chant the Forefeast Kontakion of the Nativity of Christ: **"Today the Virgin comes to the cave"** (*Ἡ παρθένος σήμερον τὸν προαιώνιον Λόγον*).[^182]
 
-### The 30th Day. The Holy Apostle Andrew the First-Called.
+**The 30th Day. The Holy Apostle Andrew the First-Called.**
 
 1.    At Vespers: following the Introductory Psalm [Psalm 103 LXX] and the First Stasis of the Psalter [Psalms 1–3 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing the 3 Prosomoia Stichira: **"Illumined with the light of the Forerunner"** (*Ὁ τῷ Προδρόμου φωτὶ μεμορφωμένος*) doubled to 6; **"Glory"**: **"Leaving the catching of fish"** (*Τὴν τῶν ἰχθύων ἄγραν*); **"Both now and ever"**: the Forefeast Theotokion: **"Rejoice, O Isaiah"** (*Ἡσαΐα χόρευε*). Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Old Testament Readings [1 Pet. 1:1–2:6 composite; 1 Pet. 2:11–24 composite; 1 Pet. 3:8–4:11 composite]. Then the Aposticha; **"Glory"**: **"The kinsman of Peter"** (*Τὸν συναίμονα Πέτρου*); **"Both now and ever"**: the Forefeast Theotokion: **"Joseph, tell us"** (*Ἰωσὴφ εἰπὲ ἡμῖν*); the Dismissal Troparion: **"As the first-called of the Apostles"** (*Ὡς τῶν Ἀποστόλων πρωτόκλητος*); **"Both now and ever"**: **"The mystery hidden from the ages"** (*Τὸ ἀπ’ αἰῶνος ἀπόκρυφον*), and Dismissal.
 
@@ -122,7 +122,7 @@ At the Little Entrance: **"Come, let us worship and fall down before Christ: sav
 
 ...the Idiomelon: **"The first-called Disciple and imitator of the Passion"** (*Ὁ πρωτόκλητος μαθητής*) (look for it in the Litiya). The Canon of the Theotokos, that of the Menaion, and that of the Apostle: **"My darkened soul"** (*Τὴν τεθολωμένην μου ψυχήν*). After the Third Ode: the Kathisma and the Theotokion; after the Sixth Ode: the Kontakion, the Ikos, and the Synaxarion from the Menaion. The Katavasiai: **"Christ is born, give ye glory"** (*Χριστὸς γεννᾶται*); then we sing the biblical canticle with **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). The two Exapostilaria and the Theotokion. At the Praises: the Prosomoia Stichira: **"Bethsaida, now leap for joy"** (*Βηθσαϊδὰ νῦν ἀγάλλου*) on 4; **"Glory"**: **"The herald of the faith"** (*Τὸν κήρυκα τῆς πίστεως*); **"Both now and ever"**: the Forefeast Theotokion: **"Receive, O Bethlehem"** (*Ὑπόδεξαι Βηθλεέμ*); the Great Doxology, and the Dismissal Troparion of the Apostle.
 
-3.    At the Divine Liturgy: the Typika and the Beatitudes, with Troparia from the Third Ode of the first Canon and from the Sixth Ode of the second Canon. After the Little Entrance: the Dismissal Troparion of the Apostle, that of the Patron Saint of the temple, and the Kontakion: **"Today the Virgin cometh to the cave"** (*Ἡ Παρθένος σήμερον*). Epistle [1 Cor. 4:9–16] and Gospel [John 1:35–51] of the Apostle. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Their sound hath gone forth into all the earth, and their words unto the ends of the world"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.[^183]
+3.    At the Divine Liturgy: the Typika and the Beatitudes, with Troparia from the Third Ode of the first Canon and from the Sixth Ode of the second Canon. After the Little Entrance: the Dismissal Troparion of the Apostle, that of the Patron Saint of the temple, and the Kontakion: **"Today the Virgin comes to the cave"** (*Ἡ Παρθένος σήμερον*). Epistle [1 Cor. 4:9–16] and Gospel [John 1:35–51] of the Apostle. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Their sound hath gone forth into all the earth, and their words unto the ends of the world"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.[^183]
 
 4.    If the feast of the Apostle occurs on a Sunday: at Vespers on Saturday evening, following the Introductory Psalm [Psalm 103 LXX] and the First Kathisma of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrection Stichira and 4 of the Apostle; **"Glory"**: of the Apostle; **"Both now and ever"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings. At the Aposticha: the Resurrection Stichira; **"Glory"**: **"The kinsman of Peter"** (*Τὸν συναίμονα Πέτρου*); **"Both now and ever"**: **"Joseph, tell us"** (*Ἰωσὴφ εἰπὲ ἡμῖν*); Dismissal Troparia: the Resurrection Dismissal Troparion, that of the Apostle, the Theotokion, and Dismissal.
 

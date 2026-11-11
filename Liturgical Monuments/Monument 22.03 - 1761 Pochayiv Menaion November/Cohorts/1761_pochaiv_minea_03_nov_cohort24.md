@@ -14,7 +14,7 @@ Ye ranks of virgins, * receive the pure Virgin, * brightly bearing torches, * in
 *Verse: They shall be brought in gladness and rejoicing, they shall be led into the temple of the King.*[^901]
 The bridal chamber of God the Word, * dwelling in the Holy of Holies, * receives noetic bread * from the hand * of the divine angel.
 
-*Glory, and now: Tone 2, Podoben: The same.*
+*Glory, and now: Tone 2, Podoben: The same (Подо́бенъ то́йже).*
 The Three-sunned Light, * having embraced thee with fire, O Theotokos, * in the temple of glory, * sends thee heavenly food, * magnifying thee.
 
 *Troparion, Tone 4:*
@@ -235,7 +235,7 @@ Unto the Son Who was begotten incorruptibly of the Father before the ages, and i
 *Tone 4, Podoben: "Joseph was astonished" (Оу҆диви́сѧ І҆ѡ́сифъ):*
 Cry aloud, O David: What is this present feast of her whom thou didst once sing in the book of the Psalms: Virgins shall be brought after her mystically unto the King, as His daughter, the Maiden of God and Virgin, and her companions shall be brought;[^920] and make it a marvelous and universal feast for those who cry: The Theotokos, the mediatress of salvation, has appeared unto us!
 
-*Glory, and now: Tone and Podoben the same.*
+*Glory, and now: Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 The immaculate ewe-lamb and undefiled bridal chamber, the Theotokos Mariam, is most gloriously led with joy into the house of God, whom the angels of God faithfully attend, and all the faithful ever call blessed, and thankfully sing unto her unceasingly with a loud voice: Thou art our glory and salvation, O all-immaculate one!
 
 *Ode 4, [First Canon]. Heirmos:*

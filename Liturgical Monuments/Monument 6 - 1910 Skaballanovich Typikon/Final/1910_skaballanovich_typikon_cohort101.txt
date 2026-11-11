@@ -1,20 +1,20 @@
 === LEAF p1001 ===
-present Abyssinian Liturgy, the Priest [says]: “The Holy Gospel, the word of the Son of God, preached and proclaimed by N”; the people: “Glory to Thee always, O Christ our Lord and God,” and Ps. 80:2, 3; after the Gospel: “Cherubim and Seraphim send up glory to Him. Holy, Holy...” (Bishop Porphyrius Uspensky, *The Christian East: The Divine Service of the Abyssinians* [*Восток христианский. Богослужение абиссин*], p. 60). In the Coptic Liturgy, after a twofold prayer of the Gospel, the second with the exclamation: “Let us pray for the Holy Gospel,” D[eacon]: “Arise.” P[riest]: “In the name of God.” D.: “Bless, Master.” P.: “The beginning of the Holy Gospel according to N.” The interpreter (reader?) of the Gospel: “Stand with the fear of God... of our Lord and God.” After the Gospel, a secret prayer (Bishop Porphyrius Uspensky, *The Teaching of Faith, Divine Service... of the Copts* [*Вероучение, богослужение… коптов*], p. 128). In the Nestorian Liturgy of the Apostles Addai and Mari, likewise after 2 prayers: “Deacon: Prepare yourselves to hear the Holy Gospel. Priest: Peace be with you. People: With you and with your spirit. After the proclamation of where the Gospel is from, Deacon: Glory to Christ our God. After the Gospel, the same deacon: Glory to Christ our God; let us commit ourselves and one another to the Father and to the Son and to the Holy Spirit.” In a later redaction of the same liturgy: “Priest: Peace to all. Deacon: To you and to your spirit. Clergy—a hymn to the 4 evangelists on hearing the Gospel worthily. Priest: The Holy Gospel of our Lord Jesus Christ. The reading is from St. N. After the Gospel the clergy sing: Glory to Christ our Master” (Petrovsky, *Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточной церкви*], pp. 65, 66).
+present Abyssinian Liturgy, the Priest [says]: “The Holy Gospel, the word of the Son of God, preached and proclaimed by N”; the people: “Glory to Thee always, O Christ our Lord and God,” and Ps. 80:2, 3; after the Gospel: “Cherubim and Seraphim send up glory to Him. Holy, Holy...” (Bishop Porphyrius Uspensky, *The Christian East: The Divine Service of the Abyssinians* (*Восток христианский. Богослужение абиссин*), p. 60). In the Coptic Liturgy, after a twofold prayer of the Gospel, the second with the exclamation: “Let us pray for the Holy Gospel,” D[eacon]: “Arise.” P[riest]: “In the name of God.” D.: “Bless, Master.” P.: “The beginning of the Holy Gospel according to N.” The interpreter (reader?) of the Gospel: “Stand with the fear of God... of our Lord and God.” After the Gospel, a secret prayer (Bishop Porphyrius Uspensky, *The Teaching of Faith, Divine Service... of the Copts* (*Вероучение, богослужение… коптов*), p. 128). In the Nestorian Liturgy of the Apostles Addai and Mari, likewise after 2 prayers: “Deacon: Prepare yourselves to hear the Holy Gospel. Priest: Peace be with you. People: With you and with your spirit. After the proclamation of where the Gospel is from, Deacon: Glory to Christ our God. After the Gospel, the same deacon: Glory to Christ our God; let us commit ourselves and one another to the Father and to the Son and to the Holy Spirit.” In a later redaction of the same liturgy: “Priest: Peace to all. Deacon: To you and to your spirit. Clergy—a hymn to the 4 evangelists on hearing the Gospel worthily. Priest: The Holy Gospel of our Lord Jesus Christ. The reading is from St. N. After the Gospel the clergy sing: Glory to Christ our Master” (Petrovsky, *Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточной церкви*), pp. 65, 66).
 
 640. C. A. Swainson, *The Greek Liturgies*, p. 232.
 
-641. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* [*Новая скрижаль*], in 4 parts (St. Petersburg, 1858), Part II, p. 48.
+641. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* (*Новая скрижаль*), in 4 parts (St. Petersburg, 1858), Part II, p. 48.
 
 642. A. Dmitrievsky, Review... // *Khristianskoye Chteniye* 1888, II, p. 640.
 
-643. Archimandrite Vladimir, *Systematic Description of the Manuscripts of the Moscow Synodal (Patriarchal) Library* [*Систематическое описание рукописей Московской Синодальной (Патриаршей) библиотеки*] (Moscow, 1894), p. 12.
+643. Archimandrite Vladimir, *Systematic Description of the Manuscripts of the Moscow Synodal (Patriarchal) Library* (*Систематическое описание рукописей Московской Синодальной (Патриаршей) библиотеки*) (Moscow, 1894), p. 12.
 
 644. MS Moscow Typographical Library No. 285/342/1206, fols. 14–16; Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 19; A. Dmitrievsky, *Typika*, pp. 578, 607;
 
 === LEAF p1002 ===
-Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургические грузинские памятники*], p. 325.
+Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* (*Литургические грузинские памятники*), p. 325.
 
-645. Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* [*Первоначальный славяно-русский Типикон*] (St. Petersburg, 1911), Appendices, p. 17.
+645. Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* (*Первоначальный славяно-русский Типикон*) (St. Petersburg, 1911), Appendices, p. 17.
 
 646. *Typikon* [Τυπικόν] (Venice, 1884), p. 2.
 
@@ -24,7 +24,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 649. MS Moscow Typographical Library No. 285/1206/342, fol. 14; Synodal Library No. 330/380, fol. 46; *Horologion*, St. Sophia Library of the St. Petersburg Academy No. 1052, fol. 27.
 
-650. Arseny Sukhanov, *Proskynitarion* [*Проскинитарий*], p. 240.
+650. Arseny Sukhanov, *Proskynitarion* (*Проскинитарий*), p. 240.
 
 651. *Euchologion* [Εὐχολόγιον] (Athens, 1902), p. 13; *Hieratikon* [Ἱερατικόν] (Constantinople, 1895), p. 31.
 
@@ -46,13 +46,13 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 660. MS Moscow Synodal Library No. 328/383, fol. 7v; No. 329/384, fol. 19.
 
-661. Old Believer *Typikon* [*Старообрядческий устав*], fol. 16.
+661. Old Believer *Typikon* (*Старообрядческий устав*), fol. 16.
 
 662. A. Dmitrievsky, *Typika*, p. 173.
 
 663. MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 33/477, fol. 89.
 
-664. *Omphalion* [ὀμφάλιον] or *omphalos* [ὀμφαλός]—a colored circle or oval inlaid into the floor in the middle of the church (E. Golubinsky, *History of the Russian Church* [*История Русской Церкви*], I, 2, p. 204). Such an *omphalos* is indicated in Hagia Sophia by *De cerimoniis aulae Byzantinae*, pp. 15, 63, 87, 130, 524; it was also constructed in the reception chambers of Byzantine palaces (*ibid.*, pp. 130, 524; Du Cange, *Glossarium*, s.v.).
+664. *Omphalion* [ὀμφάλιον] or *omphalos* [ὀμφαλός]—a colored circle or oval inlaid into the floor in the middle of the church (E. Golubinsky, *History of the Russian Church* (*История Русской Церкви*), I, 2, p. 204). Such an *omphalos* is indicated in Hagia Sophia by *De cerimoniis aulae Byzantinae*, pp. 15, 63, 87, 130, 524; it was also constructed in the reception chambers of Byzantine palaces (*ibid.*, pp. 130, 524; Du Cange, *Glossarium*, s.v.).
 
 665. MS Moscow Synodal Library, Greek No. 381, fol. 5v.
 
@@ -62,7 +62,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 668. MS Solovetsky Library No. 1116, fol. 113v, and others.
 
-669. *Psalter with Appendices* [*Следованная Псалтирь*], MS Solovetsky Library No. 778, fol. 1; *Typikon*, Synodal Library No. 814, fol. 317; A. Dmitrievsky, *The Divine Service of the Russian Church in the 16th Century* [*Богослужение русской церкви в XVI веке*], p. 23.
+669. *Psalter with Appendices* (*Следованная Псалтирь*), MS Solovetsky Library No. 778, fol. 1; *Typikon*, Synodal Library No. 814, fol. 317; A. Dmitrievsky, *The Divine Service of the Russian Church in the 16th Century* (*Богослужение русской церкви в XVI веке*), p. 23.
 
 670. *Sluzhebnik* of Peter Mohyla, p. 86; Moscow *Sluzhebnik* of 1602, fol. 41; of 1647, fol. 41v.
 
@@ -77,7 +77,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 675. A. Dmitrievsky, *Typika*, p. cxxx.
 
-676. Pape, *Griechisch-Deutsches Handwörterbuch*, II, p. 1321; Sophocles, *Greek Lexicon*, p. 627; I. Karabinov, *The Lenten Triodion* [*Постная Триодь*] (St. Petersburg, 1910), p. 72.
+676. Pape, *Griechisch-Deutsches Handwörterbuch*, II, p. 1321; Sophocles, *Greek Lexicon*, p. 627; I. Karabinov, *The Lenten Triodion* (*Постная Триодь*) (St. Petersburg, 1910), p. 72.
 
 677. Talmud: *Rosh Hashanah*, 31a.
 
@@ -85,9 +85,9 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 679. Pitra, *Spicilegium Solesmense*, IV, p. 1; Cabrol, *Dictionnaire d'archéologie chrétienne et de liturgie*, III, col. 639.
 
-680. Migne, *Patrologia Graeca*, vol. 28, col. 275; I. Mansvetov, *The Church Typikon* [*Церковный устав*] (Moscow, 1885), p. 3.
+680. Migne, *Patrologia Graeca*, vol. 28, col. 275; I. Mansvetov, *The Church Typikon* (*Церковный устав*) (Moscow, 1885), p. 3.
 
-681. B. Turayev, *The Horologion of the Ethiopian Church* [*Часослов эфиопской церкви*], pp. 129 ff.; *The Night Service of the Ethiopian Church* [*Ночное богослужение эфиопской церкви*] (Kyiv, 1901), pp. 21, 28, 30.
+681. B. Turayev, *The Horologion of the Ethiopian Church* (*Часослов эфиопской церкви*), pp. 129 ff.; *The Night Service of the Ethiopian Church* (*Ночное богослужение эфиопской церкви*) (Kyiv, 1901), pp. 21, 28, 30.
 
 682. Luft, *Liturgik*, II, p. 132.
 
@@ -113,7 +113,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 693. MS Moscow Synodal Library No. 335/391, fols. 304, 307.
 
-694. Bishop Arseny, *Short Practical Typikon* [*Краткий практический устав*], pp. 62–65.
+694. Bishop Arseny, *Short Practical Typikon* (*Краткий практический устав*), pp. 62–65.
 
 695. *Proskynitarion*, ch. 46, pp. 226, 272.
 
@@ -123,14 +123,14 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 698. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, pp. 354, 378.
 
-699. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* [*Исторический обзор песнопевцев и песнопения греческой церкви*] (Chernigov, 1864).
+699. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (*Исторический обзор песнопевцев и песнопения греческой церкви*) (Chernigov, 1864).
 
 === LEAF p1004 ===
 700. MS Moscow Typographical Library No. 285/1206/142, fols. 1, 46.
 
 701. MS Moscow Synodal Library No. 330/380, fol. 1; St. Sophia Library at the St. Petersburg Academy No. 905, fol. 153; A. Dmitrievsky, *Typika*, pp. 608, 800; see p. 665, note 3.
 
-702. (K. Nevostruyev), *Description of the Slavonic Manuscripts of the Moscow Synodal Library* [*Описание славянских рукописей Московской Синодальной библиотеки*] (Moscow, 1869), III, 1, pp. 449 ff.
+702. (K. Nevostruyev), *Description of the Slavonic Manuscripts of the Moscow Synodal Library* (*Описание славянских рукописей Московской Синодальной библиотеки*) (Moscow, 1869), III, 1, pp. 449 ff.
 
 703. Regarding the doubling of stichera and troparia, the general rule is that the doubled hymn must be sung twice in succession, and not repeated subsequently; this is demanded by the antiphonal character of all liturgical singing in general.
 
@@ -150,7 +150,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 711. Old Believer *Typikon*, fol. 16.
 
-712. Arseny, Old Believer Bishop of Uralsk, *Short Practical Typikon* [*Краткий практический устав*] (Uralsk, 1908 [7416]), fol. 54v.
+712. Arseny, Old Believer Bishop of Uralsk, *Short Practical Typikon* (*Краткий практический устав*) (Uralsk, 1908 [7416]), fol. 54v.
 
 713. MS Moscow Synodal Library No. 330/380, fols. 76v, 112, 115, 127v; Toscani, *Ad typica Graecorum*, p. 48.
 
@@ -171,15 +171,15 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 === LEAF p1005 ===
 721. Bishop Arseny, *Short Practical Typikon*, fols. 66 ff.
 
-722. See *Heirmologion* [*Ирмологий*], chapter: “Triadica Hymns for the 8 Tones and Canticle Verses Sung Every Day with the Kanon; Canticle Verses Sung on Sundays and Feasts” (Moscow, 1895), fols. 188 ff.
+722. See *Heirmologion* (*Ирмологий*), chapter: “Triadica Hymns for the 8 Tones and Canticle Verses Sung Every Day with the Kanon; Canticle Verses Sung on Sundays and Feasts” (Moscow, 1895), fols. 188 ff.
 
-723. *Stoglav* [*Стоглав*], ch. 16 / ed. Kozhanchikov (St. Petersburg, 1863), p. 79.
+723. *Stoglav* (*Стоглав*), ch. 16 / ed. Kozhanchikov (St. Petersburg, 1863), p. 79.
 
 724. N. Kapterev, “The Struggle with Patriarch Joseph on the Question of Monophony [Yedinoglasiye]” // *Bogoslovsky Vestnik* 1908, 3, p. 375.
 
 725. *Proskynitarion*, ch. 46, pp. 218, 237, 242.
 
-726. Archpriest Kl. Fomenko, *Peculiarities of the Divine Service of the Greek Church* [*Особенности богослужения греческой церкви*], p. 17.
+726. Archpriest Kl. Fomenko, *Peculiarities of the Divine Service of the Greek Church* (*Особенности богослужения греческой церкви*), p. 17.
 
 727. (K. Nevostruyev and A. Gorsky), *Description of the Slavonic Manuscripts of the Moscow Synodal Library*, pp. 449, 466 ff.
 
@@ -217,7 +217,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 744. MS Moscow Synodal Library No. 330/380, fol. 87.
 
-745. Archbishop Sergius (Spassky), *The Complete Menologion of the East* [*Полный месяцеслов Востока*], in 2 vols. (Vladimir, 1901–1902), Vol. I, pp. 277–281 [printed *251*].
+745. Archbishop Sergius (Spassky), *The Complete Menologion of the East* (*Полный месяцеслов Востока*), in 2 vols. (Vladimir, 1901–1902), Vol. I, pp. 277–281 [printed *251*].
 
 746. MS Moscow Synodal Library No. 330/380, fols. 135, 91v.
 
@@ -225,14 +225,14 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 748. See note 4 on p. 690.
 
-749. Among the Old Believers, it is customary to make a bow at every occurrence of the word “we worship” [*покланяемся*] in church hymns, and their well-read rubricians know how many times and in which hymns this word occurs.
+749. Among the Old Believers, it is customary to make a bow at every occurrence of the word “we worship” (*покланяемся*) in church hymns, and their well-read rubricians know how many times and in which hymns this word occurs.
 
 750. Citations: see note 4 on p. 690.
 
 === LEAF p1006 ===
 751. Goar, *Euchologion*, p. 7.
 
-752. Patriarch Nikon, *The Tablet* [*Скрижаль*], “Explanation of the Canticle ‘More Honorable Than the Cherubim’” [*Толкование песни Честнейшую Херувим*]; in Greek in MS Venice Library cod. No. 249; Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (Chernigov, 1864), p. 296.
+752. Patriarch Nikon, *The Tablet* (*Скрижаль*), “Explanation of the Canticle ‘More Honorable Than the Cherubim’” (*Толкование песни Честнейшую Херувим*); in Greek in MS Venice Library cod. No. 249; Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (Chernigov, 1864), p. 296.
 
 753. MS Moscow Synodal Library, Greek No. 381, fol. 45.
 
@@ -254,7 +254,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 762. Hauck, *Realencyklopädie*, XII, p. 74.
 
-763. On the basis of the Greek Typikon and Psalter according to the Kyiv Caves edition: “in canticles” [*в песнех*].
+763. On the basis of the Greek Typikon and Psalter according to the Kyiv Caves edition: “in canticles” (*в песнех*).
 
 764. For citations, see p. 665, note 3.
 
@@ -295,7 +295,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 === LEAF p1007 ===
 782. A. Papadopoulos-Kerameus, *Analekta hierosolymitikēs stachyologias*, pp. 14, 38, 141, 196.
 
-783. Archpriest K. Nikolsky, *Manual for the Study of the Typikon* [*Пособие к изучению устава*], p. 314.
+783. Archpriest K. Nikolsky, *Manual for the Study of the Typikon* (*Пособие к изучению устава*), p. 314.
 
 784. A. Papadopoulos-Kerameus, *Analekta hierosolymitikēs stachyologias*, pp. 14, 38, 141.
 
@@ -305,7 +305,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 787. *Proskynitarion*, ch. 46, p. 243.
 
-788. *Euchologion*, p. 37; *Typikon*, p. 3; *Hieratikon*, p. 33; Old Believer *Typikon*, fol. 9 (17). By analogy with the inter-ode intervals after Odes 3 and 6, a reading would be required after the Exapostilarion. But it is absent, probably in order not to interrupt the unbroken stream of hymnody in this portion of Matins, where the solemnity of the service reaches its apogee. Moreover, the readings of Matins increase in their importance and compunction as it progresses: first the commentary on the Epistle, then on the Gospel, next the *Margarit* (the finest works of the greatest father), and finally the *Prolog* (often replacing the entire service of a saint); here an even higher reading would be required; such could only be Holy Scripture itself (cf. the end of Vespers); in antiquity there was indeed an evangelical reading here (as also in Roman Catholic Matins). The substitute for the reading here is the “Catechesis” [*Оглашение*] after Matins.
+788. *Euchologion*, p. 37; *Typikon*, p. 3; *Hieratikon*, p. 33; Old Believer *Typikon*, fol. 9 (17). By analogy with the inter-ode intervals after Odes 3 and 6, a reading would be required after the Exapostilarion. But it is absent, probably in order not to interrupt the unbroken stream of hymnody in this portion of Matins, where the solemnity of the service reaches its apogee. Moreover, the readings of Matins increase in their importance and compunction as it progresses: first the commentary on the Epistle, then on the Gospel, next the *Margarit* (the finest works of the greatest father), and finally the *Prolog* (often replacing the entire service of a saint); here an even higher reading would be required; such could only be Holy Scripture itself (cf. the end of Vespers); in antiquity there was indeed an evangelical reading here (as also in Roman Catholic Matins). The substitute for the reading here is the “Catechesis” (*Оглашение*) after Matins.
 
 789. A. Baumstark, *Festbrevier und Kirchenjahr der syrischen Jakobiten* (Paderborn, 1910), p. 129.
 
@@ -384,7 +384,7 @@ the weekday doxology in comparison with the Little Doxology “Glory to the Fath
 
 825. See p. 712, note 3.
 
-826. MS Dresden Royal Library No. 140, fol. 131v; A. Dmitrievsky, *The Most Ancient Patriarchal Typika* [*Древнейшие патриаршие Типиконы*] (Kyiv, 1907), p. 139.
+826. MS Dresden Royal Library No. 140, fol. 131v; A. Dmitrievsky, *The Most Ancient Patriarchal Typika* (*Древнейшие патриаршие Типиконы*) (Kyiv, 1907), p. 139.
 
 827. MS Moscow Synodal Library No. 330/380, fol. 14v.
 
@@ -448,7 +448,7 @@ the weekday doxology in comparison with the Little Doxology “Glory to the Fath
 
 856. Moscow *Sluzhebnik* of 1602 (= Old Believer), fol. 45v; of Peter Mohyla, p. 94; Moscow *Sluzhebnik* of 1647, fol. 47; cf. Moscow *Sluzhebnik* of 1658, pp. 142–143.
 
-857. *Sluzhebnik*, MS St. Sophia Library of St. Petersburg No. 523, fol. 76; N. Odintsov, *The Order of Public and Private Divine Service in Ancient Russia Prior to the 16th Century* [*Порядок общественного и частного богослужения в древней России до XVI века*], p. 108.
+857. *Sluzhebnik*, MS St. Sophia Library of St. Petersburg No. 523, fol. 76; N. Odintsov, *The Order of Public and Private Divine Service in Ancient Russia Prior to the 16th Century* (*Порядок общественного и частного богослужения в древней России до XVI века*), p. 108.
 
 858. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 319.
 
@@ -486,10 +486,10 @@ the weekday doxology in comparison with the Little Doxology “Glory to the Fath
 
 875. Ed. Cozza-Luzi // *Nova Patrum Bibliotheca*, IX, 2; X (Rome, 1888–1905).
 
-876. *Collected Works of St. Theodore the Studite in Russian Translation* [*Собрание сочинений прп. Феодора Студита в русском переводе*], I (St. Petersburg, 1907), pp. 467–970 (*Great Catechesis*, parts 1 and 2); St. Petersburg, 1908 (part 3); (*Small Catechesis*, I, pp. 235–456). There is also the Russian translation by Bishop Theophan in vol. 4 of the *Philokalia* [*Добротолюбие*]; here are the catecheses of the *Great Catechism*, but in paraphrase and with abridgments.
+876. *Collected Works of St. Theodore the Studite in Russian Translation* (*Собрание сочинений прп. Феодора Студита в русском переводе*), I (St. Petersburg, 1907), pp. 467–970 (*Great Catechesis*, parts 1 and 2); St. Petersburg, 1908 (part 3); (*Small Catechesis*, I, pp. 235–456). There is also the Russian translation by Bishop Theophan in vol. 4 of the *Philokalia* (*Добротолюбие*); here are the catecheses of the *Great Catechism*, but in paraphrase and with abridgments.
 
-877. *Great Menologion* [*Великие Четьи-Минеи*], November, 1 (St. Petersburg, 1897), pp. 482–789.
+877. *Great Menologion* (*Великие Четьи-Минеи*), November, 1 (St. Petersburg, 1897), pp. 482–789.
 
 878. The 1st [edition], 1602, reprinted in Migne, *Patrologia Graeca*, vol. 99; the 3rd, E. Auvray, *The Small Catechesis of St. Theodore the Studite* [Τοῦ ὁσίου Θεοδώρου Στουδίτου Μικρὰ Κατήχησις] (Paris, 1891).
 
-879. St. Theodore, *Catechetical Instructions and Testament* [*Огласительные поучения и завещание*] (Moscow, 1872), p. 9.
+879. St. Theodore, *Catechetical Instructions and Testament* (*Огласительные поучения и завещание*) (Moscow, 1872), p. 9.

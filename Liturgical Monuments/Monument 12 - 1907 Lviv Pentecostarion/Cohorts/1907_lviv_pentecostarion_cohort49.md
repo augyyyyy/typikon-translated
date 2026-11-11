@@ -178,7 +178,7 @@
 === LEAF p486 ===
 *At the Aposticha, stichera: Tone 2, Podoben: "When from the Tree" (Е҆гда̀ ѿ дре́ва):*[^1746]
 
-*Sticheron 1:* He Who fills all things, having ascended Mount Olivet, saith unto the Disciples: O My friends, the time of My departure is come; go ye and teach the nations the word which ye have heard from My voice. Then Thou didst ascend in glory as upon a chariot; therefore the Apostles were struck with awe in trembling.[^1747]
+*Sticheron 1:* He Who fills all things, having ascended Mount Olivet, says unto the Disciples: O My friends, the time of My departure is come; go ye and teach the nations the word which ye have heard from My voice. Then Thou didst ascend in glory as upon a chariot; therefore the Apostles were struck with awe in trembling.[^1747]
 
 *Verse:* Clap your hands, all ye nations; shout unto God with the voice of rejoicing.[^1748]
 

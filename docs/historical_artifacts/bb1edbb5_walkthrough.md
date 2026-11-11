@@ -1,6 +1,6 @@
 # Walkthrough: Expanded Dolnytsky Typikon Implementation Documentation
 
-We expanded [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/docs/DOLNYTSKY_IMPLEMENTATION.md) to document all advanced features and moveable cycles that the logic engine implements but which were previously undocumented.
+We expanded [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/docs/DOLNYTSKY_IMPLEMENTATION.md) to document all advanced features and moveable cycles that the logic engine implements but which were previously undocumented.
 
 ## Changes Made
 

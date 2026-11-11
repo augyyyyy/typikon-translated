@@ -80,7 +80,7 @@ Lucian the martyr hath gathered us together today to praise his sufferings, his 
 *Theotokion:*
 A vessel of transcendent wisdom surpassing understanding wast thou shown forth, O pure Maiden: both an ensouled throne and a gate; therefore do the assemblies of men and the angelic ranks on high glorify thee, the only one surpassing all!
 
-*Exapostilarion, Podoben:*
+*Exapostilarion, Podoben (Подо́бенъ):*
 
 === LEAF p174 === (Fol. 86)
 *Podoben: "Give ear, ye women" (Же́ны ᲂу҆слы́шите):*

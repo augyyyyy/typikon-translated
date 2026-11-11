@@ -6,8 +6,8 @@
 
 — 278 —
 
-### TABLE OF CONTENTS (Conclusion)
-### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
+**TABLE OF CONTENTS (Conclusion)**
+**Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics**
 
 - Typikon for Cheesefare Sunday . . . p. 198  
 - Typikon for Monday of the First Week of Holy Lent . . . p. 202  

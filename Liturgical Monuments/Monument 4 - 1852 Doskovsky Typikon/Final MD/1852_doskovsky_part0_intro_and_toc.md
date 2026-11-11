@@ -1,18 +1,20 @@
-# TYPIKON, <a id="typikon-of-fr-jacob-doskovsky-peremyshl-1852"></a>
-### that is:
+# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) <a id="typikon-of-fr-jacob-doskovsky-peremyshl-1852"></a>
+
+## TYPIKON,
+**that is:**
 ## THE ORDER
 ## OF ECCLESIASTICAL CHANTING
-### and Particular Rule-Reading,
-### according to the rubrical directions[^1]
-### found in the church books,
-### with the addition of
+**and Particular Rule-Reading,**
+**according to the rubrical directions[^1]**
+**found in the church books,**
+**with the addition of**
 ## The Gospel Pillars[^2]
-### according to key words,
-### composed and printed
+**according to key words,**
+**composed and printed**
 
-### IN PEREMYSHL,
-### In the Press of the Ruthenian Cathedral Chapter[^3]
-### 1852.
+**IN PEREMYSHL,**
+**In the Press of the Ruthenian Cathedral Chapter[^3]**
+**1852.**
 
 > “Be filled with the Spirit, speaking to yourselves in psalms and hymns and spiritual canticles, singing and chanting in your hearts to the Lord.”  
 > — *Ephesians 5:19*[^4]
@@ -25,12 +27,13 @@
 ## TABLE OF CONTENTS
 
 * **[Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852)](#typikon-of-fr-jacob-doskovsky-peremyshl-1852)**
+  * [TYPIKON,](#typikon)
   * [THE ORDER](#the-order)
   * [OF ECCLESIASTICAL CHANTING](#of-ecclesiastical-chanting)
-  * [The Gospel Pillars[^2]](#the-gospel-pillars)
+  * [The Gospel Pillars](#the-gospel-pillars)
 * **[PART I: GENERAL ORDO & DIVINE SERVICES (Principles of Worship and Sacerdotal Rubrics)](1852_doskovsky_part1_general_services.md#part-i-general-ordo-divine-services-principles-of-worship-and-sacerdotal-rubrics)**
   * [On the Church Rule in General](1852_doskovsky_part1_general_services.md#on-the-church-rule-in-general)
-  * [On Vespers[^8]](#on-vespers)
+  * [On Vespers](1852_doskovsky_part1_general_services.md#on-vespers)
   * [On Compline](1852_doskovsky_part1_general_services.md#on-compline)
   * [On the Midnight Office](1852_doskovsky_part1_general_services.md#on-the-midnight-office)
   * [On Matins](1852_doskovsky_part1_general_services.md#on-matins)
@@ -45,6 +48,7 @@
   * [The Order](#the-order)
   * [The Order](#the-order)
   * [The Order](#the-order)
+  * [The Beginning of Weekday or Daily Matins (*Нача́ло оу҆́трени седми́чныѧ, и҆ли́ повседне́вныя*)](1852_doskovsky_part1_general_services.md#the-beginning-of-weekday-or-daily-matins)
 * **[PART II: CONCURRENCE & PRECEDENCE RULES (Mark's Chapters on Sundays, Feasts, and Weekdays)](1852_doskovsky_part2_concurrence_rules.md#part-ii-concurrence-precedence-rules-marks-chapters-on-sundays-feasts-and-weekdays)**
 * **[PART III: PROPER RUBRICS FOR FIXED FEASTS (Menaion Cycle)](1852_doskovsky_part3_menaion.md#part-iii-proper-rubrics-for-fixed-feasts-menaion-cycle)**
   * [The Month of October](1852_doskovsky_part3_menaion.md#the-month-of-october)
@@ -68,4 +72,3 @@
 [^2]: The Gospel Pillars (*Столпы Евангелїйны*) refer to the 11-week cycle of Matins Resurrection Gospels and their corresponding Exapostilaria and Morning Theotokia.
 [^3]: The printing establishment of the Greek Catholic Cathedral Chapter of Peremyshl (*Книгопечатня соборнои русскои Капитулы*), which served as a major center for publishing liturgical and pastoral monuments for the Eparchy of Peremyshl.
 [^4]: Biblical quotations adhere to the Septuagint and historical Slavonic textual tradition.
-[^8]: The ecclesiastical day, according to Eastern custom and the utterance of the God-seer Moses (Genesis 1:5: "And the evening and the morning were one day"), begins from the evening; wherefore daily Divine Worship has its beginning from Vespers.

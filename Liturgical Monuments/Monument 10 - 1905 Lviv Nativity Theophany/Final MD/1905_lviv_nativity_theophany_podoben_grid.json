@@ -4,7 +4,7 @@
   "summary": {
     "monument_id": "1905_lviv_nativity_theophany",
     "total_podoben_invocations": 37,
-    "distinct_model_families": 20,
+    "distinct_model_families": 21,
     "tones_represented": [
       1,
       2,
@@ -19,7 +19,6 @@
         "model_id": "POD.T1.GROB_TVOI_SPASE",
         "tone": 1,
         "prescribed_model": "While the soldiers were guarding Thy tomb",
-        "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
         "total_invocations": 3,
         "first_locus": "f. 99r (p104)",
         "attested_loci": [
@@ -32,7 +31,6 @@
         "model_id": "POD.T3.KRASOTE_DEVSTVA",
         "tone": 3,
         "prescribed_model": "Beholding the beauty of thy virginity",
-        "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
         "total_invocations": 2,
         "first_locus": "f. 99r (p104)",
         "attested_loci": [
@@ -44,20 +42,20 @@
         "model_id": "POD.T4.UDIVISIA_IOSIF",
         "tone": 4,
         "prescribed_model": "Joseph was amazed",
-        "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
-        "total_invocations": 3,
+        "total_invocations": 5,
         "first_locus": "f. 101r (p106)",
         "attested_loci": [
           "f. 101r (p106)",
           "f. 133r (p138)",
-          "f. 151r (p156)"
+          "f. 151r (p156)",
+          "f. 268r (p273)",
+          "f. 270r (p275)"
         ]
       },
       {
         "model_id": "POD.T1.NEBESNYKH_CHINOV",
         "tone": 4,
         "prescribed_model": "Joy of the heavenly ranks",
-        "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
         "total_invocations": 2,
         "first_locus": "f. 127r (p132)",
         "attested_loci": [
@@ -69,7 +67,6 @@
         "model_id": "POD.T1.KAMENI_ZAPECHATLENU",
         "tone": 1,
         "prescribed_model": "When the stone had been sealed",
-        "byzantine_greek_automelon": "Τοῦ λίθου σφραγισθέντος",
         "total_invocations": 1,
         "first_locus": "f. 133r (p138)",
         "attested_loci": [
@@ -77,28 +74,23 @@
         ]
       },
       {
-        "model_id": "POD.T3.DEVA_DNESS",
+        "model_id": "POD.T2.EXT_SLAV",
         "tone": 2,
-        "prescribed_model": "Today the Virgin",
-        "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
-        "total_invocations": 5,
+        "prescribed_model": "Дв҃а дне́сь",
+        "total_invocations": 1,
         "first_locus": "f. 137r (p142)",
         "attested_loci": [
-          "f. 137r (p142)",
-          "f. 139r (p144)",
-          "f. 151r (p156)",
-          "f. 159r (p164)",
-          "f. 187r (p192)"
+          "f. 137r (p142)"
         ]
       },
       {
         "model_id": "POD.T3.EXT_SLAV",
         "tone": 3,
-        "prescribed_model": "Со оу҆чн҃ки",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 1,
-        "first_locus": "f. 142r (p147)",
+        "prescribed_model": "Дв҃а дне́сь",
+        "total_invocations": 2,
+        "first_locus": "f. 139r (p144)",
         "attested_loci": [
+          "f. 139r (p144)",
           "f. 142r (p147)"
         ]
       },
@@ -106,7 +98,6 @@
         "model_id": "POD.T4.YAKO_DOBLYA",
         "tone": 4,
         "prescribed_model": "As one valiant among martyrs",
-        "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
         "total_invocations": 1,
         "first_locus": "f. 147r (p152)",
         "attested_loci": [
@@ -114,11 +105,22 @@
         ]
       },
       {
+        "model_id": "POD.T3.DEVA_DNESS",
+        "tone": 2,
+        "prescribed_model": "Today the Virgin",
+        "total_invocations": 3,
+        "first_locus": "f. 151r (p156)",
+        "attested_loci": [
+          "f. 151r (p156)",
+          "f. 159r (p164)",
+          "f. 187r (p192)"
+        ]
+      },
+      {
         "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
         "tone": 3,
         "prescribed_model": "Of the divine faith",
-        "byzantine_greek_automelon": "Θείας πίστεως",
-        "total_invocations": 3,
+        "total_invocations": 2,
         "first_locus": "f. 155r (p160)",
         "attested_loci": [
           "f. 155r (p160)",
@@ -129,7 +131,6 @@
         "model_id": "POD.T3.EXT_IN_THE_SPIRIT",
         "tone": 3,
         "prescribed_model": "In the spirit in the sanctuary",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "f. 164r (p169)",
         "attested_loci": [
@@ -140,7 +141,6 @@
         "model_id": "POD.T6.ANGELSKIYA_SILY",
         "tone": 6,
         "prescribed_model": "The Angelic Powers",
-        "byzantine_greek_automelon": "Αἱ Ἀγγελικαὶ δυνάμεις",
         "total_invocations": 1,
         "first_locus": "f. 167r (p172)",
         "attested_loci": [
@@ -151,7 +151,6 @@
         "model_id": "POD.T5.EXT_COBEGINNINGLESS_WORD",
         "tone": 5,
         "prescribed_model": "Co-beginningless Word...",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "f. 179r (p184)",
         "attested_loci": [
@@ -159,24 +158,14 @@
         ]
       },
       {
-        "model_id": "POD.T8.EXT_THE_WISDOM",
-        "tone": 8,
-        "prescribed_model": "The Wisdom...",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 1,
-        "first_locus": "f. 182r (p187)",
-        "attested_loci": [
-          "f. 182r (p187)"
-        ]
-      },
-      {
         "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
         "tone": 8,
         "prescribed_model": "Guiding unto wisdom",
-        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
-        "total_invocations": 1,
-        "first_locus": "f. 187r (p192)",
+        "total_invocations": 3,
+        "first_locus": "f. 180r (p185)",
         "attested_loci": [
+          "f. 180r (p185)",
+          "f. 182r (p187)",
           "f. 187r (p192)"
         ]
       },
@@ -184,7 +173,6 @@
         "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
         "tone": 4,
         "prescribed_model": "Thou hast appeared today",
-        "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
         "total_invocations": 2,
         "first_locus": "f. 188r (p193)",
         "attested_loci": [
@@ -195,22 +183,18 @@
       {
         "model_id": "POD.T4.EXT_SLAV",
         "tone": 4,
-        "prescribed_model": "Дх҃омъ во ст҃и́лище",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 5,
+        "prescribed_model": "Дх҃омъ во ст҃и́лищи",
+        "total_invocations": 2,
         "first_locus": "f. 198r (p203)",
         "attested_loci": [
           "f. 198r (p203)",
-          "f. 268r (p273)",
-          "f. 270r (p275)",
           "f. 282r (p287)"
         ]
       },
       {
-        "model_id": "POD.T5.RADUISYA_POSTNIKOV",
+        "model_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
         "tone": 5,
-        "prescribed_model": "Rejoice, O container of ascetics",
-        "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
+        "prescribed_model": "Rejoice, O life-bearing Cross",
         "total_invocations": 1,
         "first_locus": "f. 199r (p204)",
         "attested_loci": [
@@ -218,10 +202,19 @@
         ]
       },
       {
+        "model_id": "POD.T4.SKORO_PREDVARI",
+        "tone": 4,
+        "prescribed_model": "Speedily anticipate",
+        "total_invocations": 1,
+        "first_locus": "f. 268r (p273)",
+        "attested_loci": [
+          "f. 268r (p273)"
+        ]
+      },
+      {
         "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
         "tone": 5,
         "prescribed_model": "The Word co-unoriginate",
-        "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
         "total_invocations": 1,
         "first_locus": "f. 268r (p273)",
         "attested_loci": [
@@ -232,7 +225,6 @@
         "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
         "tone": 1,
         "prescribed_model": "O all-lauded martyrs",
-        "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
         "total_invocations": 1,
         "first_locus": "f. 287r (p292)",
         "attested_loci": [
@@ -243,7 +235,6 @@
         "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
         "tone": 4,
         "prescribed_model": "Thou hast given a sign",
-        "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
         "total_invocations": 1,
         "first_locus": "f. 289r (p294)",
         "attested_loci": [
@@ -265,7 +256,6 @@
       "normalized_rubric": "*After the first Kathisma reading, the Little Litany with the exclamation:* For Thine is the dominion: *then the Sessional Hymn, Tone 1. Podoben:* While Thy tomb, O Savior...[^157]",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "In a manger for the sake of us irrational ones..."
     },
     {
@@ -280,7 +270,6 @@
       "normalized_rubric": "*After the second Kathisma reading, the Little Litany with the exclamation:* For Thou art good: *and the Sessional Hymn, Tone 3. Podoben:* Seeing the beauty of thy virginity...[^158]",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "The pre-eternal and incomprehensible One, co-everlasting with the invisible Father,..."
     },
     {
@@ -295,7 +284,6 @@
       "normalized_rubric": "*After this, the Little Litany with the exclamation:* For holy art Thou: *and the Sessional Hymn, Tone 4. Podoben:* Joseph was amazed...[^161]",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Come, O you faithful, let us behold where Christ was..."
     },
     {
@@ -305,12 +293,11 @@
       "leaf": "p132",
       "office": "Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Небе́сныхъ чи́нѡвъ",
-      "verbatim_slavonic_witness": "Небе́сныхъ чи́нѡвъ",
-      "normalized_rubric": "*Tone 4. Podoben: Of the heavenly hosts:*[^251]",
+      "verbatim_1630_slavonic": "Небє́сныхъ чинѡ́въ",
+      "verbatim_slavonic_witness": "Небє́сныхъ чинѡ́въ",
+      "normalized_rubric": "*Tone 4. Podoben: Of the heavenly hosts (Небє́сныхъ чинѡ́въ):*[^251]",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Let us all praise the Ancestor of God, David the..."
     },
     {
@@ -320,12 +307,11 @@
       "leaf": "p138",
       "office": "Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ка́мени запеча́тану",
-      "verbatim_slavonic_witness": "Ка́мени запеча́тану",
-      "normalized_rubric": "*After the 1st Kathisma, Sessional Hymn, Tone 1. Podoben: The stone having been sealed:*[^298]",
+      "verbatim_1630_slavonic": "Ка́мени запеча́танꙋ",
+      "verbatim_slavonic_witness": "Ка́мени запеча́танꙋ",
+      "normalized_rubric": "*After the 1st Kathisma, Sessional Hymn, Tone 1. Podoben: The stone having been sealed (Ка́мени запеча́танꙋ):*[^298]",
       "prescribed_model": "When the stone had been sealed",
       "model_id": "POD.T1.KAMENI_ZAPECHATLENU",
-      "byzantine_greek_automelon": "Τοῦ λίθου σφραγισθέντος",
       "governed_hymn_opening": "When Jesus was born in Bethlehem of Judea, creation was..."
     },
     {
@@ -337,10 +323,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Оу҆диви́сѧ І҆ѡ́сифъ",
       "verbatim_slavonic_witness": "Оу҆диви́сѧ І҆ѡ́сифъ",
-      "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: Joseph was amazed:*[^300]",
+      "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ):*[^300]",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Why art thou amazed, O Mary? What strikes awe at..."
     },
     {
@@ -350,12 +335,11 @@
       "leaf": "p142",
       "office": "Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Дѣ́ва дне́сь",
-      "verbatim_slavonic_witness": "Дѣ́ва дне́сь",
-      "normalized_rubric": "*Sessional Hymn, Tone 2. Podoben: Today the Virgin:*[^336]",
-      "prescribed_model": "Today the Virgin",
-      "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
+      "verbatim_1630_slavonic": "Дв҃а дне́сь",
+      "verbatim_slavonic_witness": "Дв҃а дне́сь",
+      "normalized_rubric": "*Sessional Hymn, Tone 2. Podoben: Today the Virgin (Дв҃а дне́сь):*[^336]",
+      "prescribed_model": "Дв҃а дне́сь",
+      "model_id": "POD.T2.EXT_SLAV",
       "governed_hymn_opening": "Let us worthily hymn righteous Joseph the Betrothed of the..."
     },
     {
@@ -365,12 +349,11 @@
       "leaf": "p144",
       "office": "Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Дѣ́ва дне́сь",
-      "verbatim_slavonic_witness": "Дѣ́ва дне́сь",
-      "normalized_rubric": "*Kontakion, Tone 3. Podoben: Today the Virgin:*[^342]",
-      "prescribed_model": "Today the Virgin",
-      "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
+      "verbatim_1630_slavonic": "Дв҃а дне́сь",
+      "verbatim_slavonic_witness": "Дв҃а дне́сь",
+      "normalized_rubric": "*Kontakion, Tone 3. Podoben: Today the Virgin (Дв҃а дне́сь):*[^342]",
+      "prescribed_model": "Дв҃а дне́сь",
+      "model_id": "POD.T3.EXT_SLAV",
       "governed_hymn_opening": "Today divine David is filled with gladness, and Joseph with..."
     },
     {
@@ -380,12 +363,11 @@
       "leaf": "p147",
       "office": "Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Со оу҆чн҃ки",
-      "verbatim_slavonic_witness": "Со оу҆чн҃ки",
-      "normalized_rubric": "*Exapostilarion. Podoben: With the disciples:*[^348]",
-      "prescribed_model": "Со оу҆чн҃ки",
+      "verbatim_1630_slavonic": "Съ оу҆ченикѝ взы́демъ",
+      "verbatim_slavonic_witness": "Съ оу҆ченикѝ взы́демъ",
+      "normalized_rubric": "*Exapostilarion. Podoben: With the disciples (Съ оу҆ченикѝ взы́демъ):*[^348]",
+      "prescribed_model": "Съ оу҆ченикѝ взы́демъ",
       "model_id": "POD.T3.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "With glorious James, the Brother of the Lord, let us..."
     },
     {
@@ -397,10 +379,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
       "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
-      "normalized_rubric": "*Stichera of the Apostle, Tone 4. Podoben: \"As one noble...\":*",
+      "normalized_rubric": "*Stichera of the Apostle, Tone 4. Podoben: \"As one noble...\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "Having enlightened thy mind by the grace of the Spirit,..."
     },
     {
@@ -410,12 +391,11 @@
       "leaf": "p154",
       "office": "Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Небе́сныхъ чинѡ́въ",
-      "verbatim_slavonic_witness": "Небе́сныхъ чинѡ́въ",
-      "normalized_rubric": "*At the Aposticha, Stichera, Tone 1. Podoben: \"Joy of the heavenly hosts\":*[^408]",
+      "verbatim_1630_slavonic": "Небє́сныхъ чинѡ́въ",
+      "verbatim_slavonic_witness": "Небє́сныхъ чинѡ́въ",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 1. Podoben: \"Joy of the heavenly hosts\" (Небє́сныхъ чинѡ́въ):*[^408]",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Him Who shone forth from the Father before all ages,..."
     },
     {
@@ -425,12 +405,11 @@
       "leaf": "p156",
       "office": "Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Правосла́вїа наста́вниче... И҆ ны́нѣ: Рождества̀: Рождество̀ твоѐ... — По а҃-й Стіхоло́гїи Сѣда́ленъ, Гла́съ в҃. Подо́бенъ: Дѣ́ва дне́сь",
-      "verbatim_slavonic_witness": "Правосла́вїа наста́вниче... И҆ ны́нѣ: Рождества̀: Рождество̀ твоѐ... — По а҃-й Стіхоло́гїи Сѣда́ленъ, Гла́съ в҃. Подо́бенъ: Дѣ́ва дне́сь",
-      "normalized_rubric": "*After the 1st Kathisma, Sessional Hymn, Tone 2. Podoben: \"Today the Virgin\":*[^421]",
+      "verbatim_1630_slavonic": "Дв҃а дне́сь",
+      "verbatim_slavonic_witness": "Дв҃а дне́сь",
+      "normalized_rubric": "*After the 1st Kathisma, Sessional Hymn, Tone 2. Podoben: \"Today the Virgin\" (Дв҃а дне́сь):*[^421]",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "The seedless conception gives birth to the Redeemer; and the..."
     },
     {
@@ -442,10 +421,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Оу҆диви́сѧ І҆ѡ́сифъ",
       "verbatim_slavonic_witness": "Оу҆диви́сѧ І҆ѡ́сифъ",
-      "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: \"Joseph marveled\":*[^422]",
+      "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: \"Joseph marveled\" (Оу҆диви́сѧ І҆ѡ́сифъ):*[^422]",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "He Who is uncontainable everywhere, how was He contained in..."
     },
     {
@@ -457,10 +435,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Гро́бъ тво́й Сп҃се",
       "verbatim_slavonic_witness": "Гро́бъ тво́й Сп҃се",
-      "normalized_rubric": "*Sessional Hymn, Tone 1. Podoben: \"Thy tomb, O Savior\":*[^449]",
+      "normalized_rubric": "*Sessional Hymn, Tone 1. Podoben: \"Thy tomb, O Savior\" (Гро́бъ тво́й Сп҃се):*[^449]",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Apostle of Christ, first of deacons, wise first-martyr, crown of..."
     },
     {
@@ -470,12 +447,11 @@
       "leaf": "p160",
       "office": "Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Сѣда́ленъ, Гла́съ г҃. Подо́бенъ: Боже́ственныѧ вѣ́ры",
-      "verbatim_slavonic_witness": "Сѣда́ленъ, Гла́съ г҃. Подо́бенъ: Боже́ственныѧ вѣ́ры",
-      "normalized_rubric": "*Glory: Of the Venerable, Sessional Hymn, Tone 3. Podoben: \"Of the divine faith\":*[^450]",
+      "verbatim_1630_slavonic": "Бж҃е́ственныѧ вѣ́ры",
+      "verbatim_slavonic_witness": "Бж҃е́ственныѧ вѣ́ры",
+      "normalized_rubric": "*Glory: Of the Venerable, Sessional Hymn, Tone 3. Podoben: \"Of the divine faith\" (Бж҃е́ственныѧ вѣ́ры):*[^450]",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Thou wast a mouth of boldness, putting the pride of..."
     },
     {
@@ -485,12 +461,11 @@
       "leaf": "p164",
       "office": "Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Дѣ́ва дне́сь",
-      "verbatim_slavonic_witness": "Дѣ́ва дне́сь",
-      "normalized_rubric": "*Kontakion, Tone 3. Podoben: \"Today the Virgin\":*[^482]",
+      "verbatim_1630_slavonic": "Дв҃а дне́сь",
+      "verbatim_slavonic_witness": "Дв҃а дне́сь",
+      "normalized_rubric": "*Kontakion, Tone 3. Podoben: \"Today the Virgin\" (Дв҃а дне́сь):*[^482]",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "Yesterday the Master came unto us in the flesh, and..."
     },
     {
@@ -500,12 +475,11 @@
       "leaf": "p169",
       "office": "Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
-      "normalized_rubric": "*Exapostilarion. Podoben: \"In the spirit in the sanctuary\":*[^516]",
+      "verbatim_1630_slavonic": "Дх҃омъ во ст҃и́лищи",
+      "verbatim_slavonic_witness": "Дх҃омъ во ст҃и́лищи",
+      "normalized_rubric": "*Exapostilarion. Podoben: \"In the spirit in the sanctuary\" (Дх҃омъ во ст҃и́лищи):*[^516]",
       "prescribed_model": "In the spirit in the sanctuary",
       "model_id": "POD.T3.EXT_IN_THE_SPIRIT",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Thou didst behold standing at the right hand of the..."
     },
     {
@@ -515,12 +489,11 @@
       "leaf": "p172",
       "office": "Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
-      "normalized_rubric": "*At the Aposticha, Stichera, Tone 6. Podoben: \"Angelic powers...\":*[^529]",
+      "verbatim_1630_slavonic": "А҆́гг҃льскїѧ пред̾иди́те си́лы",
+      "verbatim_slavonic_witness": "А҆́гг҃льскїѧ пред̾иди́те си́лы",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 6. Podoben: \"Angelic powers...\" (А҆́гг҃льскїѧ пред̾иди́те си́лы):*[^529]",
       "prescribed_model": "The Angelic Powers",
       "model_id": "POD.T6.ANGELSKIYA_SILY",
-      "byzantine_greek_automelon": "Αἱ Ἀγγελικαὶ δυνάμεις",
       "governed_hymn_opening": "All creation keeps festival with joy, and the heavens rejoice..."
     },
     {
@@ -535,7 +508,6 @@
       "normalized_rubric": "*At \"God is the Lord\", Troparion of the Circumcision: \"Enthroned on high upon a fiery-formed throne...\", twice. Glory: To Basil: \"Thy proclamation went forth into all the earth...\". Both now: \"Enthroned on high upon a fiery-formed throne...\". — After the 1st Kathisma, Sessional Hymn, Tone 5. Podoben: \"Co-beginningless Word...\":*[^571]",
       "prescribed_model": "Co-beginningless Word...",
       "model_id": "POD.T5.EXT_COBEGINNINGLESS_WORD",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "As royal adornment of the Church let us all praise..."
     },
     {
@@ -545,12 +517,11 @@
       "leaf": "p185",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Гро́бъ тво́й",
-      "verbatim_slavonic_witness": "Гро́бъ тво́й",
-      "normalized_rubric": "*Glory: Tone 1. Podoben: \"Thy tomb, O Savior...\":*[^573]",
+      "verbatim_1630_slavonic": "Гро́бъ тво́й Сп҃се",
+      "verbatim_slavonic_witness": "Гро́бъ тво́й Сп҃се",
+      "normalized_rubric": "*Glory: Tone 1. Podoben: \"Thy tomb, O Savior...\" (Гро́бъ тво́й Сп҃се):*[^573]",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "O all-wise Basil, standing before the Trinity, pray that on..."
     },
     {
@@ -560,12 +531,11 @@
       "leaf": "p185",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Боже́ственныѧ вѣ́ры",
-      "verbatim_slavonic_witness": "Боже́ственныѧ вѣ́ры",
-      "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: \"The Wisdom...\":*[^576]",
-      "prescribed_model": "Of the divine faith",
-      "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
+      "verbatim_1630_slavonic": "Премꙋ́дрости",
+      "verbatim_slavonic_witness": "Премꙋ́дрости",
+      "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: \"The Wisdom...\" (Премꙋ́дрости):*[^576]",
+      "prescribed_model": "Guiding unto wisdom",
+      "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
       "governed_hymn_opening": "Having drawn forth the secret wealth of ineffable wisdom in..."
     },
     {
@@ -575,12 +545,11 @@
       "leaf": "p185",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Боже́ственныѧ вѣ́ры",
-      "verbatim_slavonic_witness": "Боже́ственныѧ вѣ́ры",
-      "normalized_rubric": "*Glory: Tone 3. Podoben: \"Of the divine faith...\":*[^578]",
+      "verbatim_1630_slavonic": "Бж҃е́ственныѧ вѣ́ры",
+      "verbatim_slavonic_witness": "Бж҃е́ственныѧ вѣ́ры",
+      "normalized_rubric": "*Glory: Tone 3. Podoben: \"Of the divine faith...\" (Бж҃е́ственныѧ вѣ́ры):*[^578]",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Thou didst water the whole universe as with waters by..."
     },
     {
@@ -590,12 +559,11 @@
       "leaf": "p187",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
-      "normalized_rubric": "*Thereafter, Sessional Hymn, Tone 8. Podoben: \"The Wisdom...\":*[^592]",
-      "prescribed_model": "The Wisdom...",
-      "model_id": "POD.T8.EXT_THE_WISDOM",
-      "byzantine_greek_automelon": "—",
+      "verbatim_1630_slavonic": "Премꙋ́дрости",
+      "verbatim_slavonic_witness": "Премꙋ́дрости",
+      "normalized_rubric": "*Thereafter, Sessional Hymn, Tone 8. Podoben: \"The Wisdom...\" (Премꙋ́дрости):*[^592]",
+      "prescribed_model": "Guiding unto wisdom",
+      "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
       "governed_hymn_opening": "By the power of divine words thou didst overthrow dark..."
     },
     {
@@ -605,12 +573,11 @@
       "leaf": "p192",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Дѣ́ва дне́сь",
-      "verbatim_slavonic_witness": "Дѣ́ва дне́сь",
-      "normalized_rubric": "*Kontakion of the Circumcision: Tone 3. Podoben: \"The Virgin today...\":*",
+      "verbatim_1630_slavonic": "Дв҃а дне́сь",
+      "verbatim_slavonic_witness": "Дв҃а дне́сь",
+      "normalized_rubric": "*Kontakion of the Circumcision: Tone 3. Podoben: \"The Virgin today...\" (Дв҃а дне́сь):*",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "The Lord of all endures circumcision, and as good circumcises..."
     },
     {
@@ -622,10 +589,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Премꙋ́дрости",
       "verbatim_slavonic_witness": "Премꙋ́дрости",
-      "normalized_rubric": "*Then Sessional Hymn: Tone 8. Podoben: \"The Wisdom...\":*",
+      "normalized_rubric": "*Then Sessional Hymn: Tone 8. Podoben: \"The Wisdom...\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having learned the words of wisdom, and laid aside the..."
     },
     {
@@ -637,10 +603,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Ꙗ҆ви́лсѧ є҆сѝ дне́сь",
       "verbatim_slavonic_witness": "Ꙗ҆ви́лсѧ є҆сѝ дне́сь",
-      "normalized_rubric": "*Glory; Both now: Of the Circumcision: Tone 4. Podoben: \"Thou hast appeared today...\":*",
+      "normalized_rubric": "*Glory; Both now: Of the Circumcision: Tone 4. Podoben: \"Thou hast appeared today...\" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "As being an abyss of love for mankind, Thou didst..."
     },
     {
@@ -652,10 +617,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Ꙗ҆ви́лсѧ є҆сѝ дне́сь",
       "verbatim_slavonic_witness": "Ꙗ҆ви́лсѧ є҆сѝ дне́сь",
-      "normalized_rubric": "*Kontakion, Tone 4. Podoben: \"Thou hast appeared today...\":*",
+      "normalized_rubric": "*Kontakion, Tone 4. Podoben: \"Thou hast appeared today...\" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Thou wast shown forth as an unshakable foundation of the..."
     },
     {
@@ -665,12 +629,11 @@
       "leaf": "p203",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Дх҃омъ во ст҃и́лище",
-      "verbatim_slavonic_witness": "Дх҃омъ во ст҃и́лище",
-      "normalized_rubric": "*Exapostilarion. — Podoben: By the Spirit in the sanctuary:*",
-      "prescribed_model": "Дх҃омъ во ст҃и́лище",
+      "verbatim_1630_slavonic": "Дх҃омъ во ст҃и́лищи",
+      "verbatim_slavonic_witness": "Дх҃омъ во ст҃и́лищи",
+      "normalized_rubric": "*Exapostilarion. — Podoben: By the Spirit in the sanctuary (Дх҃омъ во ст҃и́лищи):*",
+      "prescribed_model": "Дх҃омъ во ст҃и́лищи",
       "model_id": "POD.T4.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Through the desire of love of wisdom, O father, thou..."
     },
     {
@@ -680,12 +643,11 @@
       "leaf": "p204",
       "office": "Matins on the Circumcision of Our Lord Jesus Christ and St. Basil the Great[^570]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ра́дꙋйсѧ",
-      "verbatim_slavonic_witness": "Ра́дꙋйсѧ",
-      "normalized_rubric": "*Tone 5. Podoben: Rejoice...*",
-      "prescribed_model": "Rejoice, O container of ascetics",
-      "model_id": "POD.T5.RADUISYA_POSTNIKOV",
-      "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
+      "verbatim_1630_slavonic": "Ра́дꙋйсѧ живоно́сный Крⷭ҇те",
+      "verbatim_slavonic_witness": "Ра́дꙋйсѧ живоно́сный Крⷭ҇те",
+      "normalized_rubric": "*Tone 5. Podoben: Rejoice (Ра́дꙋйсѧ живоно́сный Крⷭ҇те)...*",
+      "prescribed_model": "Rejoice, O life-bearing Cross",
+      "model_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
       "governed_hymn_opening": "He Who was ineffably begotten as the Word of the..."
     },
     {
@@ -700,7 +662,6 @@
       "normalized_rubric": "*After the Six Psalms, at \"God is the Lord\", the Troparion of Theophany, three times; and the usual Kathisma readings from the Psalter. After the first Kathisma reading, Sessional Hymn, Tone 3. Podoben: Beholding the beauty of thy virginity...*",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "When Thou wast manifested in the Jordan, O Savior, and..."
     },
     {
@@ -710,12 +671,11 @@
       "leaf": "p273",
       "office": "Matins on Holy Theophany[^921]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Собезнача́лное сло́во",
-      "verbatim_slavonic_witness": "Собезнача́лное сло́во",
-      "normalized_rubric": "*Glory... Now and ever... Tone 4. Podoben: Speedily anticipate...*",
-      "prescribed_model": "Собезнача́лное сло́во",
-      "model_id": "POD.T4.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
+      "verbatim_1630_slavonic": "Ско́рѡ предварѝ",
+      "verbatim_slavonic_witness": "Ско́рѡ предварѝ",
+      "normalized_rubric": "*Glory... Now and ever... Tone 4. Podoben: Speedily anticipate (Ско́рѡ предварѝ)...*",
+      "prescribed_model": "Speedily anticipate",
+      "model_id": "POD.T4.SKORO_PREDVARI",
       "governed_hymn_opening": "Thou hast sanctified the streams of the Jordan, and crushed..."
     },
     {
@@ -725,12 +685,11 @@
       "leaf": "p273",
       "office": "Matins on Holy Theophany[^921]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Собезнача́лное сло́во",
-      "verbatim_slavonic_witness": "Собезнача́лное сло́во",
-      "normalized_rubric": "*After the second Kathisma reading, Sessional Hymn, Tone 5. Podoben: Let us, the faithful, praise the Word co-unoriginate...*",
+      "verbatim_1630_slavonic": "Собезнача́льное Сло́во",
+      "verbatim_slavonic_witness": "Собезнача́льное Сло́во",
+      "normalized_rubric": "*After the second Kathisma reading, Sessional Hymn, Tone 5. Podoben: Let us, the faithful, praise the Word co-unoriginate (Собезнача́льное Сло́во)...*",
       "prescribed_model": "The Word co-unoriginate",
       "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
-      "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
       "governed_hymn_opening": "Wrapped in the streams of the Jordan, Thou Who art..."
     },
     {
@@ -740,12 +699,11 @@
       "leaf": "p273",
       "office": "Matins on Holy Theophany[^921]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Собезнача́лное сло́во",
-      "verbatim_slavonic_witness": "Собезнача́лное сло́во",
-      "normalized_rubric": "*Glory... Now and ever... Tone 4. Podoben: Joseph was amazed...*",
-      "prescribed_model": "Собезнача́лное сло́во",
-      "model_id": "POD.T4.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
+      "verbatim_1630_slavonic": "Оу҆диви́сѧ І҆ѡ́сифъ",
+      "verbatim_slavonic_witness": "Оу҆диви́сѧ І҆ѡ́сифъ",
+      "normalized_rubric": "*Glory... Now and ever... Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ)...*",
+      "prescribed_model": "Joseph was amazed",
+      "model_id": "POD.T4.UDIVISIA_IOSIF",
       "governed_hymn_opening": "O river Jordan, why wast thou amazed, beholding the Invisible..."
     },
     {
@@ -755,12 +713,11 @@
       "leaf": "p275",
       "office": "Matins on Holy Theophany[^921]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "[Подо́бенъ:] Гла́съ ѕ҃",
-      "verbatim_slavonic_witness": "[Подо́бенъ:] Гла́съ ѕ҃",
-      "normalized_rubric": "*Sessional Hymn, Tone 4. Podoben: Joseph was amazed...*",
-      "prescribed_model": "[Подо́бенъ:] Гла́съ ѕ҃",
-      "model_id": "POD.T4.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
+      "verbatim_1630_slavonic": "Оу҆диви́сѧ І҆ѡ́сифъ",
+      "verbatim_slavonic_witness": "Оу҆диви́сѧ І҆ѡ́сифъ",
+      "normalized_rubric": "*Sessional Hymn, Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ)...*",
+      "prescribed_model": "Joseph was amazed",
+      "model_id": "POD.T4.UDIVISIA_IOSIF",
       "governed_hymn_opening": "Come, O faithful, let us behold where Christ was baptized;..."
     },
     {
@@ -772,10 +729,9 @@
       "section": "Hymnographic Propers",
       "verbatim_1630_slavonic": "Посѣти́лъ ны̀",
       "verbatim_slavonic_witness": "Посѣти́лъ ны̀",
-      "normalized_rubric": "*Exapostilarion. Podoben: Thou hast visited us:*",
+      "normalized_rubric": "*Exapostilarion. Podoben: Thou hast visited us (Посѣти́лъ ны̀):*",
       "prescribed_model": "Посѣти́лъ ны̀",
       "model_id": "POD.T4.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "The Savior, grace and truth, has appeared in the streams..."
     },
     {
@@ -785,12 +741,11 @@
       "leaf": "p292",
       "office": "Vespers on the Synaxis of the Holy and Glorious Prophet, Forerunner, and Baptist John[^1056]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
-      "normalized_rubric": "*And of the Forerunner, Tone 1. Podoben: \"O all-praised martyrs\":*",
+      "verbatim_1630_slavonic": "Всехва́льнїи мч҃ницы",
+      "verbatim_slavonic_witness": "Всехва́льнїи мч҃ницы",
+      "normalized_rubric": "*And of the Forerunner, Tone 1. Podoben: \"O all-praised martyrs\" (Всехва́льнїи мч҃ницы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "Beholding Thee coming unto him, O Christ, and asking for..."
     },
     {
@@ -800,12 +755,11 @@
       "leaf": "p294",
       "office": "Vespers on the Synaxis of the Holy and Glorious Prophet, Forerunner, and Baptist John[^1056]",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "[Подо́бенъ:] Подоб.: Далъ єси знаменїе",
-      "verbatim_slavonic_witness": "[Подо́бенъ:] Подоб.: Далъ єси знаменїе",
-      "normalized_rubric": "*At the Aposticha, Stichera, Tone 4. Podoben: \"Thou hast given a sign\":*",
+      "verbatim_1630_slavonic": "Да́лъ є҆сѝ зна́менїе",
+      "verbatim_slavonic_witness": "Да́лъ є҆сѝ зна́менїе",
+      "normalized_rubric": "*At the Aposticha, Stichera, Tone 4. Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "When John the Forerunner beheld Thee coming unto him, O..."
     }
   ]

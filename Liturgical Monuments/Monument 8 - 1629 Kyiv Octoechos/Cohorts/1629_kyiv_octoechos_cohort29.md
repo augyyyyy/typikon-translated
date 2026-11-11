@@ -70,7 +70,7 @@ Let no one disbelieve that Christ is risen! For He appeared unto Mary, and then 
 
 *Theotokion:*
 
-By essential properties, O Virgin, Thy Son awoke from sleep as one dead, and rose as God; for He saw no corruption. Entreat Him unceasingly, O pure Lady, to send down light upon us, Thy people and Thy flock: save from daytime and nighttime stumbling us who worship Him together with the Father and the Spirit, one God.
+By essential properties, O Virgin, thy Son awoke from sleep as one dead, and rose as God; for He saw no corruption. Entreat Him unceasingly, O pure Lady, to send down light upon us, thy people and thy flock: save from daytime and nighttime stumbling us who worship Him together with the Father and the Spirit, one God.
 
 *Evangelical Sticheron 3, Tone 3:*
 

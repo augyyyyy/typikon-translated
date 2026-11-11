@@ -2,7 +2,7 @@
 [^2]: Sylvester Lubieniecki-Rudnytsky (Sylwester Łubieniecki-Rudnicki, ca. 1700–1777), Ruthenian Uniate Bishop of Lutsk and Ostroh (1756–1777), who administered the Metropolitanate of Kyiv and Halych as Eparch during the vacancy preceding Felician Wolodkowicz.
 [^3]: Ipatii (Hypatius) Bilynsky (1704–1771), prominent Basilian scholar, Protoarchimandrite of the Order of Saint Basil the Great (OSBM) from 1751 to 1771.
 [^4]: The Byzantine Era year 7269 (counting from 5508 BC) corresponds directly to AD 1761.
-[^5]: "Depiction of the Wonderworking Image of Our Lady Mary of Pochayiv, Crowned in the Year 1773 under Clement XIII." Although Pope Clement XIV (1769–1774) reigned when the icon was solemnly crowned on September 8, 1773, the Pochaiv engraver's inscription attributes the papal decree or initial brief to Clement XIII (1758–1769).
+[^5]: "Depiction of the Wonderworking Image of Our Lady Mary of Pochaiv, Crowned in the Year 1773 under Clement XIII." Although Pope Clement XIV (1769–1774) reigned when the icon was solemnly crowned on September 8, 1773, the Pochaiv engraver's inscription attributes the papal decree or initial brief to Clement XIII (1758–1769).
 [^6]: The Holy Wonderworkers and Unmercenaries Cosmas and Damian of Rome (July 1), distinct from Cosmas and Damian of Cilicia (October 17) and Cosmas and Damian of Mesopotamia (November 1).
 
 [^7]: The Church Slavonic text here abbreviates or truncates the vocative phrase to simply `мо́й?` ("mine?"), which in context represents `[Бо́же] мо́й?` ("O my God?"), corresponding to the canonical Greek automelon incipit `Τριήμερος ἀνέστης` / `ὁ Θεός μου`.
@@ -84,7 +84,7 @@
 [^78]: Exod. 14:21–31; the first Heirmos of the Paraklesis Canon to the Most Holy Theotokos.
 [^79]: Exod. 14:16–28; 15:1–21.
 [^80]: The name Athanasios signifies "immortal" (ἀ- privative + θάνατος, death).
-[^81]: The Church Slavonic idiom ѿ мѧ́гкихъ ногте́й literally renders Greek ἐξ ἁпаλῶν ὀνύχων ("from tender fingernails", i.e. from infancy/early childhood).
+[^81]: The Church Slavonic idiom ѿ мѧ́гкихъ ногте́й literally renders Greek ἐξ ἁπαλῶν ὀνύχων ("from tender fingernails", i.e. from infancy/early childhood).
 [^82]: Dan. 7:9, 13, 22.
 [^83]: The festive Katavasia of the Mother of God (Tone 4): "I shall open my mouth, and it shall be filled with the Spirit..."
 [^84]: Heirmos of the Small Paraklesis Canon to the Theotokos (Tone 8).
@@ -188,7 +188,7 @@
 [^180]: Acts 9:3–5; 26:14–18.
 [^181]: 2 Tim. 4:7. Procopius was tortured in Caesarea by the Roman governor with three-pronged iron scrapers and fire, yet remained steadfast.
 [^182]: Procopius' martyrdom inspired the conversion of his mother Theodosia, twelve noble women, and two military tribunes (Nicostratus and Antiochus) with their soldiers, all of whom were martyred together with him.
-[^183]: A classic Patristic expression of the doctrine of *theosis* (deification by grace): "by position/adoption a god, through the deification of participation" (Greek: θέσει θεὸς χρηματίσας τῇ μεθέξει τῆς θεώсеως; cf. Ps. 81:6; Jn. 10:34–35; 2 Pet. 1:4).
+[^183]: A classic Patristic expression of the doctrine of *theosis* (deification by grace): "by position/adoption a god, through the deification of participation" (Greek: θέσει θεὸς χρηματίσας τῇ μεθέξει τῆς θεώσεως; cf. Ps. 81:6; Jn. 10:34–35; 2 Pet. 1:4).
 [^184]: Exod. 14:21–29; 17:11–12. Heirmos of Ode 1, Tone 4.
 
 [^185]: Acts 9:3–6; 26:14–18. Like Saul, Neanias (Procopius) was called by a heavenly voice and vision of Christ.
@@ -243,7 +243,7 @@
 [^233]: Basil the Great, *On the Holy Spirit*, 18.45: "For the honor paid to the image passes to the prototype."
 [^234]: The Forty-five Martyrs of Nicopolis suffered under Emperor Licinius (c. 319). St. Anthony of the Caves (983–1073), founder of the Kyiv-Caves Lavra, is commemorated on July 10; his full separate festal service follows immediately in this Menaion edition.
 [^235]: Isaiah 53:2.
-[^236]: The Greek acrostic of the canon by Joseph the Hymnographer: Θεοστεφῆ φάлаγγα μέλπω μαρτύρων ("I sing the God-crowned company of martyrs").
+[^236]: The Greek acrostic of the canon by Joseph the Hymnographer: Θεοστεφῆ φάλαγγα μέλπω μαρτύρων ("I sing the God-crowned company of martyrs").
 [^237]: Heirmos of Ode 1, Tone 5 (Exodus 15:1–19).
 [^238]: Heirmos of Ode 3, Tone 5.
 [^239]: Heirmos of Ode 4, Tone 5 (Habakkuk 3:2).
@@ -354,7 +354,7 @@
 [^339]: *Lucifer* translates *денни́ца* (the morning star / day-star, Latin *Lucifer*, Isa. 14:12), referring to the fallen archangel Satan.
 [^340]: *Childish-minded* translates *младоꙋ́мнаго* (Greek *νηπιόφρονος*), contrasting with the three-year-old martyr Cyricus who possessed a "mature mind" (*соверше́ннымъ ᲂу҆мо́мъ*).
 [^341]: *By paradoxical deeds* (*Преквїрными*): an East Slavic/Ruthenian liturgical calque (cf. Polish *przekorny* / Greek *παραδόξοις*) indicating paradoxical, contrary-to-nature wonders, whereby mortal suffering is exchanged for immutable heavenly glory.
-[^342]: *Threefold-named* translates *Трезоимени́тѡ* (or *тезоимени́тѡ* / Greek *ὁμωνύμως* or *τρισεπώνυме*); Cyricus (Greek *Κύρικος*, from *Κύριος*, Lord) is hailed as named after the Lord.
+[^342]: *Threefold-named* translates *Трезоимени́тѡ* (or *тезоимени́тѡ* / Greek *ὁμωνύμως* or *τρισεπώνυμε*); Cyricus (Greek *Κύρικος*, from *Κύριος*, Lord) is hailed as named after the Lord.
 [^343]: *Guide of strangers* (*странноводе́цъ* / *страннокоде́цъ*): referring to the holy Apostle Aquila's hospitality and accompaniment of the Apostle Paul as recorded in the Book of Acts (Acts 18:2–3, 18, 26).
 [^344]: *Named after the Lord* (*Господоиме́ннаѧ*, Greek *Κυριώνυμος*): an epithet of the Theotokos as Lady (*Δέσποινα* / *Domina*), corresponding to the Lord (*Κύριος* / *Dominus*).
 [^345]: *A young heifer, a sacredly-fair young maiden* (*тели́ца ю́на ю҆ни́ца сщ҃еннопрекра́сна*): poetically contrasting the mother (the young heifer / *δάμαλις*) bearing her offspring to the sacrificial slaughter, offering him to Christ the Lamb.
@@ -449,7 +449,7 @@
 [^429]: The Epistle reading for a holy martyr or virgin-martyr: 2 Corinthians 6:1–10 (Pericope 181).
 [^430]: The Gospel reading for a holy woman or martyr: Luke 7:36–50 (Pericope 33, Christ in the house of Simon the Pharisee).
 [^431]: The Holy Martyr Hyacinth of Amastris (in Paphlagonia, martyred under Trajan, c. 98–117 AD) and the Holy Martyr Emilian of Silistria (Durostorum in Moesia Inferior, martyred under Julian the Apostate in 362 AD).
-[^432]: Tone 4 automelon *Ὡς γενναῖον ἐν μάρτυσιν* (*Ꙗ҆́кw до́блѧ* / "As one valiant").
+[^432]: Tone 4 automelon *Ὡς γενναῖον ἐν μάρτυσιν* (*Ꙗ҆́кѡ до́блѧ* / "As one valiant").
 [^433]: Acrostic in Church Slavonic: *Є҆міліа́на мч҃нка пою̀ сла́внѡ* ("Emilian the martyr do I sing gloriously"). Greek: *Αἰμιλιανὸν τὸν μάτυρα μέλπω*, composed by St. Joseph the Hymnographer.
 [^434]: Tone 8 automelon *Τὴν Σοφίαν καὶ Λόγον* (*Премꙋ́дрости* / "Of Wisdom").
 [^435]: Tone 3 automelon *Θείας πίστεως* (*Бж҃е́ственныѧ вѣ́ры* / "Of the divine Faith").
@@ -626,7 +626,7 @@
 [^596]: A reference to the miracle recounted in the Life of St. Panteleimon: encountering a child dead from the bite of an echidna (viper), the saint prayed to Christ that the child be resurrected and the serpent burst asunder, which miracle brought him immediately to Holy Baptism by St. Hermolaus.
 [^597]: Slavonic `ма́рдїю` (witnessing Byzantine Greek μάρμαρον or an epigraphic rendering of spiritual endurance/luster): referring to the steadfast, unyielding character of the martyr reflecting divine compassion and steadfast patience.
 [^598]: Gospel of Luke, pericope 106 (Luke 21:12–19), the festal Matins Gospel appointed for great martyrs ("The Lord said to His disciples: Beware of men; for they will lay their hands on you and persecute you...").
-[^599]: The canon is the work of St. Theophanes the Branded (Graptos, c. 778–845); its acrostic in Greek forms Παντελεήμονα παναρίδηλον μέлπω, rendered faithfully in the Church Slavonic text as `Пантелеи́мона всеизря́днаго мꙋ́ченика пою̀` ("I sing of Panteleimon the most excellent martyr").
+[^599]: The canon is the work of St. Theophanes the Branded (Graptos, c. 778–845); its acrostic in Greek forms Παντελεήμονα παναρίδηλον μέλπω, rendered faithfully in the Church Slavonic text as `Пантелеи́мона всеизря́днаго мꙋ́ченика пою̀` ("I sing of Panteleimon the most excellent martyr").
 [^600]: An allusion to the elder priest Hermolaus who instructed Panteleimon in spiritual wisdom and baptized him, framed typologically against the righteous elder Simeon who took Christ into his arms in the Temple (Luke 2:25–35).
 [^601]: An allusion to Psalm 65:12 (LXX): "We went through fire and through water, but Thou broughtest us out into a place of refreshment."
 
@@ -635,7 +635,7 @@
 [^604]: Slavonic `Ѡнти́нское` (witnessing Greek ὀνθώδη or an epigraphic rendering of corrupt philosophical chatter): contrasting empty medical speculation with the grace-filled healing wrought through the invocation of Christ's name.
 [^605]: The catchword `дѣ́ломъ` ("in deed") at the foot of fol. 144v matches the Greek text of Ode 9 (ἔργῳ), though omitted at the start of fol. 145r by the typesetter.
 [^606]: Dan. 6:16–23; the Prophet Daniel in the lions' den, a recurring typological model for Christian martyrs unharmed by ravenous beasts in the arena.
-[^607]: Etymological wordplay on the martyr's name *Panteleimon* (Greek: Παντελεήμων, "all-merciful"), compound of πᾶς ("all") and ἐлеήμων ("merciful").
+[^607]: Etymological wordplay on the martyr's name *Panteleimon* (Greek: Παντελεήμων, "all-merciful"), compound of πᾶς ("all") and ἐλεήμων ("merciful").
 [^608]: Pericope 292 of the Apostle (2 Tim. 2:1–10: "My son Timothy, be strong in the grace that is in Christ Jesus...").
 [^609]: Pericope 52 of the Gospel according to John (John 15:17–16:2: "The Lord said to His disciples: These things I command you, that ye love one another...").
 [^610]: Acts 6:1–6; the appointment and ordination of the first seven deacons in Jerusalem to oversee the daily distribution and serve tables (Prochorus, Nicanor, Timon, and Parmenas are commemorated together on July 28).
@@ -671,7 +671,7 @@
 [^638]: Hab. 3:2 (LXX); Canticle of Habakkuk ("In the midst of two living creatures Thou shalt be known; when the years draw near Thou shalt be recognized").
 [^639]: Ex. 17:6, Num. 20:11; the rock struck by Moses in the wilderness that poured forth water, understood typologically of the Life-Creating Cross of Christ.
 [^640]: St. Eudocimus was buried in Charsianon; eighteen months later his mother opened the tomb and found his body completely incorrupt, fragrant, and performing miraculous healings; his relics were later translated to the Church of the Theotokos in Constantinople.
-[^641]: A direct play on the saint's name Eudocimus (`тезоименитно`, "consistently with thy name", εὐ-δόкиμος).
+[^641]: A direct play on the saint's name Eudocimus (`тезоименитно`, "consistently with thy name", εὐ-δόκιμος).
 [^642]: Jonah 2:2–9; the prayer of the Prophet Jonah from the belly of the sea-monster.
 [^643]: Ex. 14:21–29; Moses prefiguring the power of the Cross by dividing the Red Sea with his staff.
 [^644]: Dan. 3:49–50; the angel of the Lord descending into the furnace and driving away the flame with a moist whistling wind (spiritual dew).

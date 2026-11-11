@@ -6,7 +6,7 @@ Order of Divine Services: Vespers, Matins, and the Divine Liturgy[^753]
 
 ## Introductory Remarks
 
-### The Sanctuary and the Holy Table
+**The Sanctuary and the Holy Table**
 
 The sanctuary and the holy table must be correctly arranged so that the celebration of divine services can take place properly and appropriately:
 
@@ -32,7 +32,7 @@ Side (secondary) churches and chapels must also have their own iconostases; and 
 
 10. One should not use other liturgical vestments nor other liturgical cloths except those indicated in this Rubric for each divine service; the use of small bells, organs, large or small, i. e., harmoniums, is excluded
 
-### General Rules
+**General Rules**
 
 1. A small bow, – during which, signing ourselves with the sign of the cross, we incline the head and shoulders slightly, however we do not extend the hands to the knees or even to the ground, before or after the sign of the cross, – we make:
 
@@ -124,7 +124,7 @@ It is praiseworthy if the Priest, and also the Deacon, before censing, holding t
 
 ## Rubric of Vespers without Vigil
 
-### In Concelebration of One Deacon
+**In Concelebration of One Deacon**
 
 1. The Deacon, holding the sticharion with the orarion, approaches the Priest and, bowing his head, says: "Bless, Master, the sticharion with the orarion." The Priest blesses, saying: "Blessed is our God." The
 
@@ -200,7 +200,7 @@ Priest, turned to the east: "Glory to Thee, O Christ God."
 
 When the Priest exclaims the dismissal, the Deacon raises the orarion. After this, the Priest returns into the sanctuary through the holy doors, and the Deacon – through the southern ones and, having closed the holy doors, they make a small bow before the throne and take off their vestments.
 
-### In Concelebration of Two Deacons
+**In Concelebration of Two Deacons**
 
 1. After the completion of the 103rd Psalm, the 1st deacon goes out through the northern doors, makes a small bow, pays respect to the Priest and exclaims the Great Litany, and after the Priest's exclamation "For to Thee belongs," makes a small bow and returns through the southern doors into the sanctuary
 
@@ -230,7 +230,7 @@ After the exclamation, the deacons return through their doors into the sanctuary
 
 6. After the Troparia, while the holy doors are open, the deacons go out, each – through his doors, and stand before the holy doors, one – to the right, and the other – to the left. The 1st deacon, standing near the icon of the Savior, looks towards the people, raises the orarion and exclaims: "Wisdom." When the Priest says the dismissal, both deacons raise their oraria and hold them raised until the conclusion of the dismissal, then return through their doors into the sanctuary and, having closed the holy doors, make a small bow before the throne and take off their holy vestments
 
-### Without a Deacon
+**Without a Deacon**
 
 1. A Priest celebrating Vespers without a Deacon does and recites everything that belongs to the Deacon, with the exception of the calls "Let us pray to the Lord," "Bless," observing the following:
 
@@ -246,7 +246,7 @@ After the exclamation, the deacons return through their doors into the sanctuary
 
 7. After the Troparia, he exclaims himself, having turned to the people: "Wisdom" and, standing in the holy doors, says the dismissal, as was noted (see no. 36, note)
 
-### In Concelebration of Priests
+**In Concelebration of Priests**
 
 1. Concelebrating priests, whose number should be even, put on before the Entrance only epitrachelia and phelons over their ryasas and stand on the sides of the holy table, and not before it, where only the principal celebrant and deacons stand; they stand according to the order of their dignity or ordination: the first priest – on the right side of the throne, the second – on the left, the third – again on the right, and so on
 
@@ -268,7 +268,7 @@ After the call of the Deacon "Wisdom, arise," all enter immediately after the De
 
 ## Rubric of Vespers with Vigil
 
-### In Concelebration of One Deacon
+**In Concelebration of One Deacon**
 
 1. The Deacon, holding the sticharion and orarion, approaches the Priest, bows his head and says: "Bless, Master." The Priest blesses, saying: "Blessed is our God."
 
@@ -328,7 +328,7 @@ as noted about this at the end of the rite of Vespers without Vigil (see no. 36,
 
 The Priest goes out through the northern doors before the holy doors and recites quietly the Matins Prayers.
 
-### In Concelebration of Two Deacons
+**In Concelebration of Two Deacons**
 
 1. The Priest puts on the epitrachelion and puts on the phelonion, and the deacons – sticharia and oraria. The Priest opens the holy doors, and the 1st deacon with a lighted candle goes out through the southern doors, stands before the holy [doors] and, having made a small bow, calls: "Command," and through the southern doors returns again into the sanctuary (see no. 54)
 
@@ -376,7 +376,7 @@ After this the holy doors are opened, if they were not yet opened, and the Pries
 
 The dismissal follows, which the 1st deacon begins: "Wisdom" (see no. 36, note).
 
-### Without a Deacon
+**Without a Deacon**
 
 1. The Priest in epitrachelion and phelonion opens the holy doors, censes the holy table from four sides and everything else, as noted (see no. 54). Turning to the holy doors he says in a half-voice: "Lord, bless."
 
@@ -388,7 +388,7 @@ Everything else takes place as presented in the rubric of Vespers in concelebrat
 
 Everything else takes place as presented in the rubric of Vespers with Vigil in concelebration with one deacon (see no. 36, note, no. 59).
 
-### In Concelebration of Priests
+**In Concelebration of Priests**
 
 1. The concelebrants make the Entrance and after it return to the throne, as noted before in the rubric of Vespers without Vigil (see no. 51). Having made a small bow, they do not depart, but wait for the Litiya. The exclamation "For a merciful" is exclaimed by the principal celebrant, another "For Thou Art a good God" may be exclaimed by the 1st concelebrant, but the exclamation "Blessed and glorified be the dominion of Thy kingdom" – the principal celebrant
 
@@ -428,7 +428,7 @@ After the blessing of loaves, all go in a double row, in front – the younger o
 
 ## Rubric of Matins in Sundays and Feasts
 
-### In Concelebration of One Deacon
+**In Concelebration of One Deacon**
 
 1. If before this there was no Vigil, then Matins begins thus:[^764]
 
@@ -544,7 +544,7 @@ Priest recites the prayer "O Christ, the True Light", "Glory to Thee, O Christ G
 
 , "Lord, have mercy" (3), "Bless." The Priest imparts the Small Dismissal, returns into the sanctuary and takes off the epitrachelion.
 
-### In Concelebration of Two Deacons
+**In Concelebration of Two Deacons**
 
 1. At the end of the Six Psalms, the 1st deacon goes out through the northern doors and exclaims the Great Litany, as well as the verses at *“God is the Lord”* and, having made a small bow, returns into the sanctuary through the southern doors
 
@@ -578,7 +578,7 @@ After the Katavasia of the 8th Ode, the 1st Deacon takes the censer, goes out th
 
 The dismissal follows, which the 1st deacon begins: "Wisdom" (see no. 36, note).
 
-### Without a Deacon
+**Without a Deacon**
 
 1. A Priest who serves Matins without a Deacon does and says everything that belongs to the Deacon, considering this:
 
@@ -598,7 +598,7 @@ After the anointing, he returns through the holy doors into the sanctuary and ta
 
 5. After the dismissal, the Priest closes the holy doors, takes off the phelonion and the 1st Hour begins
 
-### In Concelebration of Priests
+**In Concelebration of Priests**
 
 1. Concelebrants, in an even number, put on epitrachelia over their ryasas and put on phelons during the reading of the Kathisma and stand on the sides of the holy table, as at Vespers (see no. 50). During the singing of the Polyeleos, all go out, having made a small bow, through the holy doors, having lowered the phelonion and hands down, in front – the younger ones. Two first ones carry the icon of the feast or saint, if it has not yet been placed on the left side of the tetrapod between both choirs, and place it on the tetrapod; all stand on the sides of the tetrapod in two rows, facing one another, the principal celebrant stands in the middle before the tetrapod, and to his right – the Deacon
 
@@ -620,7 +620,7 @@ and again the Magnification. Then the celebrant and concelebrants sing the Magni
 
 3. After the Magnifications all, the younger ones – in front, return through the holy doors into the sanctuary before the holy table. After the Gospel all, having made a small bow, depart and take off their vestments
 
-### Shortening of Matins[^767]
+**Shortening of Matins[^767]**
 
 1. Beginning
 
@@ -664,7 +664,7 @@ and again the Magnification. Then the celebrant and concelebrants sing the Magni
 
 - During the singing of the Troparion, the Priest carries the Gospel back, and after the completion – immediately says the dismissal.
 
-### Beginning of Paschal Matins
+**Beginning of Paschal Matins**
 
 At Paschal Matins the censing takes place with special solemnity. The servers, having put on the best vestments, as at the Divine Liturgy, go out before the throne in the usual order and make a bow all together. The principal celebrant gives the Gospel to the 1st server, and to the 2nd – the icon of the Resurrection of Christ, He Himself takes the cross with His left hand, and with the right (from the Deacon) – the censer. He censes first the throne, and afterwards – the servers. Then the principal celebrant, having given the censer to the Deacon, stands at his place. All bow before the throne and turn to the east to go out to the narthex. The exit takes place according to the usual order of seniority under the peeling of bells and with the singing of the hymn "Thy Resurrection, O Christ Savior." And the order is such: candle-bearers, priests, deacons with lighted candles, and behind them – the principal celebrant. All are also given lighted candles. In the narthex all stand before the closed church doors, as in the diagram below:
 
@@ -684,7 +684,7 @@ Here the principal celebrant takes the censer from the Deacon and censes the ico
 
 of St. John Chrysostom and St. Basil the Great
 
-### In Concelebration of One Deacon
+**In Concelebration of One Deacon**
 
 1. According to the ancient custom of the Eastern Church, only one Holy Liturgy may be celebrated at the same holy table. However, one may depart from this rule if the Divine Liturgy must be repeated for the benefit of the faithful. If there is one or several secondary churches in the parish, then the more solemn Liturgy is celebrated in the main sanctuary, and other liturgies should be celebrated rather in the side sanctuaries
 
@@ -1019,7 +1019,7 @@ and the Priest bows three times, saying quietly: "I will love Thee, O Lord" and 
 
 The Priest lifts the large veil, that is the aer, and, holding it over the Holy Gifts, recites together with the people the Symbol of Faith "I believe in one God" and does not bow at the words "and became man"[^777]; having kissed the aer, He places it on the usual (one) place on the throne.
 
-##### 6.1.5.1.37
+**6.1.5.1.37**
 
 > **Deacon**: "Let us stand well."
 
@@ -1231,7 +1231,7 @@ At the end, the Priest and deacon in the sanctuary or in the sacristy, take off 
 
 49. In seminaries, houses of study and other places where there are many priests, the Priest who serves as deacon performs his diaconal service fully, namely: he receives Holy Communion at that Liturgy at which he serves as deacon, from the hands of the Priest, and consumes what remains after communion
 
-### In Concelebration of Two Deacons
+**In Concelebration of Two Deacons**
 
 1. On solemn feasts two deacons serve the Priest or concelebrants
 
@@ -1524,7 +1524,7 @@ At the end, the Priest and deacon in the sanctuary or in the sacristy, take off 
 
 23. In seminaries, houses of study and other places where there are many priests, the Priest who serves as deacon performs his diaconal service fully, namely: he receives Holy Communion at that Liturgy at which he serves as deacon, from the hands of the Priest, and consumes what remains after communion
 
-### Without a Deacon
+**Without a Deacon**
 
 1. A Priest who serves without a Deacon performs and recites all that which belongs to the Deacon, considering the following:
 
@@ -1576,7 +1576,7 @@ After the prayer "Remembering this," He crosses His hands: taking with the right
 
 11. The Priest, exclaiming the thanksgiving litany "Arise! Having partaken," the prayer and the exclamation "For Thou Art our sanctification," folds the antimension [iliton] according to the prescription. After the dismissal He returns to the sanctuary and closes the holy doors. At the end He goes to the table of oblation and consumes there the Holy Gifts with fear and all caution, washes His hands and, having thanked God, departs
 
-### Rubric of the Non-Solemn Divine Liturgy, that is, served ordinarily
+**Rubric of the Non-Solemn Divine Liturgy, that is, served ordinarily**
 
 1. All rites and ceremonies which we perform at the solemn Liturgy must be preserved also in the ordinary Liturgy, whether, as it is said, in the private Liturgy. What, according to the prescription, is to be exclaimed, let it be exclaimed so that it can be heard not only by the Reader or singer, that is, the one who serves, but also by those present
 
@@ -1600,7 +1600,7 @@ After the prayer "Remembering this," He crosses His hands: taking with the right
 
 11. After the dismissal he does not recite any other prayer, but immediately closes the holy doors
 
-### With Concelebrants
+**With Concelebrants**
 
 1. Actual concelebrants are priests who, with the principal celebrant, exclaim the words of consecration, and non-actual, or ordinary assistants – those who do not exclaim the words of consecration. Nothing prevents, if at a solemn concelebration, however not at an ordinary Liturgy, assisting priests join the actual concelebrants
 
@@ -1749,7 +1749,7 @@ Such a method of distribution of various litanies among individual concelebrants
 
 33. Then, according to custom, the Priest recites the prayers, communicates and finishes the sacrifice according to the prescription
 
-### In Concelebration of One Deacon
+**In Concelebration of One Deacon**
 
 1. For the reading of the Hours, the Priest in the epitrachelion stands before the holy doors and begins: "Blessed is our God."
 
@@ -1893,7 +1893,7 @@ The Priest makes a small bow, takes the holy chalice, turns to the holy doors, l
 
 After the completion of the Liturgy of Presanctified Gifts the Priest and deacon take off the holy vestments, saying nothing.
 
-### In Concelebration of Two Deacons
+**In Concelebration of Two Deacons**
 
 1. After the completion of the Hours and after the dismissal at the end of the Typika the holy doors are closed, the Priest and deacons make before the holy table three small bows each, saying: "O God, be merciful to me a sinner" and kiss the Holy Gospel, the edge of the holy table and the altar cross, as usual. After this the 1st deacon, having paid respect to the Priest, goes out through the northern doors and, having stood at his place before the holy doors, makes three small bows, saying nothing, after which he exclaims: "Bless, Master."
 
@@ -2021,7 +2021,7 @@ The deacons communicate of the Holy Bread, according to custom. After the commun
 
 The rest takes place just as at the Liturgy of Chrysostom.
 
-### Without a Deacon
+**Without a Deacon**
 
 1. If this Liturgy is celebrated without a Deacon, the Priest exclaims everything that belongs to the Deacon, as has already been said in the rubric of Vespers and the Divine Liturgy of John Chrysostom
 
@@ -2031,7 +2031,7 @@ The rest takes place just as at the Liturgy of Chrysostom.
 
 4. At the Great Entrance candle-bearers, if there be such, turned to the northern doors and arranged in order, accompany the Presanctified Lamb. After they arrive before the holy doors they stand together on both sides, and then return to their places
 
-### In Concelebration of Priests
+**In Concelebration of Priests**
 
 1. The rules of concelebration of the Liturgy of Presanctified Gifts – are the same as of Vespers and the Liturgy of Chrysostom. Only one must keep in mind that:
 
@@ -2040,7 +2040,6 @@ The rest takes place just as at the Liturgy of Chrysostom.
 - The principal celebrant exclaims: "For to Thee belongs," "For a merciful," "According to the gift of Thy Christ," "For Thou Art our sanctification." Other exclamations are exclaimed by concelebrants in turn.
 
 - At "Let my prayer be set forth" concelebrants remain in their places, stepping back slightly from the holy table when the principal celebrant needs to pass, together with the principal [celebrant] they bend their knees and rise.
-
 ---
 
 ### Notes

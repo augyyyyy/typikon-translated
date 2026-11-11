@@ -32,7 +32,7 @@
 
 ## Ο ΟΡΘΡΟΣ⁸
 
-### ΠΕΡΙ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ
+**ΠΕΡΙ ΤΟΥ ΜΕΣΟΝΥΚΤΙΚΟΥ**
 
 **17.** Τῆς τοῦ Ὄρθρου Ἀκολουθίας προηγεῖται ἡ τοῦ Μεσονυκτικοῦ. Εἰσὶ δὲ δύο τὰ ἀναγινωσκόμενα Μεσονυκτικά, τὸ τῶν πέντε ἡμερῶν τῆς ἑβδομάδος, καὶ τὸ τοῦ Σαββάτου, ἅτινα εὕρηνται ἐν τῷ Ὡρολογίῳ. Τῇ Κυριακῇ τὸν τόπον τοῦ Μεσονυκτικοῦ ἐπέχει ἡ ἑξῆς Ἀκολουθία. Μετὰ τὸ *Εὐλογητὸς ὁ Θεὸς* ὁ Προϊστάμενος λέγει *Δόξα σοι ὁ Θεὸς ἡμῶν δόξα σοι, τὸ Βασιλεῦ Οὐράνιε Παράκλητε, τὸ Τρισάγιον, Κύριε...*
 
@@ -48,7 +48,7 @@
 
 ## Matins[^75]
 
-### Concerning the Midnight Office
+**Concerning the Midnight Office**
 
 **17.** The Midnight Office (*Mesonyktikon* / *Μεσονυκτικόν*) precedes the Service of Matins. There are two Midnight Offices that are read: that of the five weekdays, and that of Saturday, both of which are found in the Horologion. On Sunday, the place of the Midnight Office is taken by the following order of service: After **"Blessed is our God..."** (*Εὐλογητὸς ὁ Θεὸς ἡμῶν...*), the Superior [or Senior Priest] recites: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι ὁ Θεὸς ἡμῶν, δόξα σοι*), **"O Heavenly King, Comforter"** (*Βασιλεῦ Οὐράνιε, Παράκλητε*), the Trisagion Prayers, **"Lord,...**
 
@@ -110,7 +110,7 @@
 
 ## Concerning "God is the Lord"[^79]
 
-**19.** **"God is the Lord, and hath appeared unto us; blessed is He that cometh in the Name of the Lord"** (*Θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν*, Psalm 117:27, 26 LXX) is chanted four times; from the second time onward, the appointed verses are intoned:
+**19.** **"God is the Lord, and hath appeared unto us; blessed is He that comes in the Name of the Lord"** (*Θεὸς Κύριος καὶ ἐπέφανεν ἡμῖν*, Psalm 117:27, 26 LXX) is chanted four times; from the second time onward, the appointed verses are intoned:
 1. **"Give thanks unto the Lord, and call upon His holy Name"** (*Ἐξομολογεῖσθε τῷ Κυρίῳ, καὶ ἐπικαλεῖσθε τὸ ὄνομα τὸ ἅγιον αὐτοῦ*, Psalm 117:1 LXX).
 2. **"All nations compassed me about, but in the Name of the Lord I drove them back"** (*Πάντα τὰ ἔθνη ἐκύκλωσάν με...*, Psalm 117:10 LXX).
 3. **"This is the Lord's doing, and it is marvelous in our eyes"** (*Παρὰ Κυρίου ἐγένετο αὕτη, καὶ ἔστι θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν*, Psalm 117:23 LXX).
@@ -145,7 +145,7 @@ Then immediately the Dismissal Troparion is chanted; at the second singing, it i
 
 ...and that of the feast twice; likewise if the Apodosis of a Feast of the Lord or of the Mother of God falls on a Sunday. On Afterfeast Sundays, the Resurrection Troparion is chanted twice, and that of the feast once. If a celebrated Saint also occurs, the Resurrection Dismissal Troparion, that of the Saint, and that of the feast are each chanted once. If only the Saint occurs on Sunday, the Resurrection Troparion, that of the Saint, and the Theotokion in the same Tone as the Dismissal Troparion of the Saint are chanted once each. On the fasting days of Great Lent [Monday through Friday], **"God is the Lord"** is not chanted; instead, **"Alleluia"** (*Ἀλληλούϊα*) is chanted four times (thrice after each verse) in Tone 8 [Tone 4 Plagal] with the following verses:
 
-  1. **"From the night my spirit waketh early unto Thee, O God, for Thy commandments are a light upon the earth"** (*Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σὲ ὁ Θεός, διότι φῶς τὰ προστάγματά σου ἐπὶ τῆς γῆς*, Isaiah 26:9 LXX).  
+  1. **"From the night my spirit wakes early unto Thee, O God, for Thy commandments are a light upon the earth"** (*Ἐκ νυκτὸς ὀρθρίζει τὸ πνεῦμά μου πρὸς σὲ ὁ Θεός, διότι φῶς τὰ προστάγματά σου ἐπὶ τῆς γῆς*, Isaiah 26:9 LXX).  
      **"Alleluia"** [thrice]
 
   2. **"Learn righteousness, ye that dwell upon the earth"** (*Δικαιοσύνην μάθετε οἱ ἐνοικοῦντες ἐπὶ τῆς γῆς*, Isaiah 26:9 LXX).  

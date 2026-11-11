@@ -4,11 +4,11 @@
 
 **1.** That the fast is to be held in the highest esteem, we know not only from the prescription of God Himself frequently commanded unto His people, and the example of Moses [^251] and of the people of Israel [^252], but also from this: that by the example of our Lord Jesus Christ through forty days in the wilderness, it was sanctified, and thereafter from Apostolic times down to our own hath been preserved.
 
-**2.** Yet besides the greatest and most holy fast of the Great Forty Days [Holy Lent], which beginneth from the Monday after Cheesefare Sunday and concludeth with the Friday before Palm Sunday (in such manner, however, that according unto the present custom of the people, Saturdays and Sundays also are observed as fast days), there are also prescribed in our liturgical books other fasts, and that the following:
+**2.** Yet besides the greatest and most holy fast of the Great Forty Days [Holy Lent], which begins from the Monday after Cheesefare Sunday and concludes with the Friday before Palm Sunday (in such manner, however, that according unto the present custom of the people, Saturdays and Sundays also are observed as fast days), there are also prescribed in our liturgical books other fasts, and that the following:
 
 1. The six days between Palm Sunday and Pascha [Holy Week]; in such manner, however, that the preceding Palm Sunday and Lazarus Saturday also, according unto the custom of the people, are regarded as fast days.
 2. The Forty Days Fast, that is, forty days before the Nativity of the Lord [St. Philip's Fast / Pylypivka].
-3. The Fast before the feast of the Supreme Apostles Peter and Paul [Apostles Fast / Petrivka], which beginneth with Monday after the Sunday of All Saints, or the first after Pentecost, and concludeth with the eve of the feast itself.
+3. The Fast before the feast of the Supreme Apostles Peter and Paul [Apostles Fast / Petrivka], which begins with Monday after the Sunday of All Saints, or the first after Pentecost, and concludes with the eve of the feast itself.
 
 **4.** The Fast before the Dormition of the Most Pure Virgin, which begins with the 1st day of August and concludes with the eve of the feast itself.
 
@@ -34,7 +34,7 @@
 
 **5.** If anyone, notwithstanding this dispensation from the severity of fasting, should on account of any just cause require further dispensation, then, having set forth the reasons, he is obligated to request that from his Ordinary.
 
-**6.** Having in this manner mitigated the law on fasting, the Synod trusts that the faithful will not cease to apply themselves to the observance of the same, and especially pastors of souls will exercise care that these be not broken on account of any circumstance that might seem to counsel their omission; lest peradventure the faithful be scandalized, especially if dancing should also be joined to the transgression of fasts.
+**6.** Having in this manner mitigated the law on fasting, the Synod trusts that the faithful will not cease to apply themselves to the observance of the same, and especially pastors of souls will exercise care that these be not broken on account of any circumstance that might seem to counsel their omission; lest perhaps the faithful be scandalized, especially if dancing should also be joined to the transgression of fasts.
 
 **7.** Finally, pastors of souls must instruct the faithful committed to them concerning the manner of keeping the fast, that is, that they should not restrict themselves to abstinence from foods, but also rein in the impulses of sins; moreover they must insist upon the multiplication of saving works, especially of charity, such as almsgiving and other works of piety, according to the teaching of St. Basil the Great:
 
@@ -44,7 +44,7 @@
 
 ## TITULUS XII. On Offices for the Departed
 
-### CHAPTER I. On Divine Liturgies and Other Offices for the Departed
+**CHAPTER I. On Divine Liturgies and Other Offices for the Departed**
 
 **1.** If already in the Old Testament it was a saving and holy thought to pray to God for the departed that they might be loosed from the burden of their sins, far more does it behoove us to hold this in the New Testament, especially since Christ, having conquered death, opened for us in His blood the way into the Holy of Holies not made with hands, that is, into heaven, under Whose guidance the multitude of the Saints ceases not to enter into that eternal rest from this valley of our mortal pilgrimage. Seeing, therefore, that this eternal rest, through the finding of eternal redemption by Christ [^254], is already opened, while in the meantime many souls detained in purgatory yearn for it with the greatest longing, it appears most fitting that on the part of the Church Militant saving assistance be granted them for their deliverance therefrom, which can be accomplished especially and above all through the sacrifice of the Divine Liturgy, almsgiving, and prayers, both public by the Church and private by the faithful, as we know and believe from the faith. Concerning this, St. John Chrysostom [^255] expresses himself thus:
 
@@ -64,15 +64,15 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 
 ---
 
-### § I. On the Divine Liturgy for the Departed
+**§ I. On the Divine Liturgy for the Departed**
 
 **1.** Solemn Divine Liturgies for the departed are forbidden, even in the presence of the body, on all Sundays and solemn feast days (*нарочиті праздники*), then throughout the three days of the death of Christ [Holy Week Triduum], as also in those cases in which the parish priest is obligated to celebrate the Divine Liturgy of the day, either full or of the Presanctified; nevertheless in more important cases, if there is a second priest, he shall be able, alongside the parochial Divine Liturgy of the current day, to chant a Liturgy for the departed both on Sundays and also on three commanded feast days (*три праздники приказані*), namely: St. Demetrius, St. Stephen, and the Three Holy Hierarchs, yet not in vestments of black color.
 
-**2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; wherefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
+**2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; therefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
 
-**3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; wherefore they may precede the Epistle and Gospel for the departed.
+**3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; therefore they may precede the Epistle and Gospel for the departed.
 
-### § II. On the Office for the Departed
+**§ II. On the Office for the Departed**
 
 **1.** Besides that full office (*послѣдованіє*) for the departed which is set forth in our Typikons and which is celebrated in church on determined days, there is also used among us a special part drawn from the full rite, taken from Matins for the departed, which comes under the name of *Panakhyda* (*Паннихида*) or commonly *Parastas* (*Парастасъ*), and which is customarily celebrated both in church and outside church, in which, according to the rubrics of the Typikon, there is placed on the tetrapod *kolyvo* (*коливо*), that is, boiled wheat with honey, as a symbol of the future resurrection and the sweetness of heavenly glory implored for the deceased. According to contemporary custom it is also customary among us to place with the kolyvo loaves of bread (*хлѣбы*), or bread alone. These above-cited customs this Synod likewise praises and approves.
 
@@ -80,7 +80,7 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 
 **3.** Not infrequently among us, and among the Greeks always, the concluding part of the office of Matins for the departed is used under the name of *Panakhyda*, consisting especially of the Troparia and Litanies (*Єктенії*) for the departed; concerning which part of the office, if a question arises regarding the time, the Synod declares that one must adhere here to what is decreed concerning Parastas.
 
-**4.** As to the manner of celebrating the Office of Parastas, Priests, in celebrating the same, must adhere strictly to the prescriptions of the Typikon indicated in the booklet *Parastasnyk* (*Парастасникъ*), omitting nothing and not rushing, but with devotion and with outward composure must celebrate everything and each single element; wherefore, alternating with the choir, besides the heirmoi, they shall also read aloud all the troparia. Since, however, this Office, celebrated in that manner as prescribed and as is fitting, requires a rather long time, therefore the Priest, for the celebration of the same, may receive a stipend (*таксу*) of about one gulden (*около одного гульдена*).
+**4.** As to the manner of celebrating the Office of Parastas, Priests, in celebrating the same, must adhere strictly to the prescriptions of the Typikon indicated in the booklet *Parastasnyk* (*Парастасникъ*), omitting nothing and not rushing, but with devotion and with outward composure must celebrate everything and each single element; therefore, alternating with the choir, besides the heirmoi, they shall also read aloud all the troparia. Since, however, this Office, celebrated in that manner as prescribed and as is fitting, requires a rather long time, therefore the Priest, for the celebration of the same, may receive a stipend (*таксу*) of about one gulden (*около одного гульдена*).
 
 **5.** Finally, although on the one hand the Synod with praise commends the faithful frequently to renew the memory of their departed, on the other hand it does not neglect to censure the abuses in drinking at banquets (*надъужитій въ піятицѣ при гостинахъ*) which in certain localities, on the occasion of funerals or commemorations (*поминокъ*), are customarily held in the homes of the deceased; and therefore, wherever the parish priest observes such abuses at banquets, let him not dare to be present at them; what is more, let him admonish his parishioners that they should entirely abstain from holding such, because by such drinking bouts the holy Office of burial of the departed and the aiding of them is defiled and dishonored, and that all the more because such banquets, on account of the considerable expenses which at times are customarily incurred for them, deter the less well-to-do faithful from bringing aid to the souls of their departed through church services, by which the departed are especially helped; concerning this the faithful must be instructed.
 
@@ -94,11 +94,11 @@ And on the Acts of the Apostles, St. John Chrysostom speaks thus [^258]:
 
 **10.** But since in these more recent times, especially in the towns, it happens at times, as is known, that certain laypersons make bold to extol the memory of the deceased with their own speeches, therefore the Synod strictly commands Pastors that they give no place to such speeches, as far as possible; and if it should be difficult for them to prevent it, then let them expressly declare to such speakers that in the midst of the sacred action they cannot permit their speeches, and that at most this may be permitted them either before or after the sacred action, namely when the Priest has either not yet begun or has already concluded the prescribed sacred action for the departed and has laid aside the sacred vestments; but even this can never be permitted to laypersons in church, but at most may be permitted outside church, that is, tolerated.
 
-### CHAPTER II. On Ecclesiastical Burial and Cemeteries
+**CHAPTER II. On Ecclesiastical Burial and Cemeteries**
 
 **1.** How great care the faithful ought to have that their bodies, which on account of communion in heavenly life have already become a temple of the Holy Spirit and at the final renewal of the world are to shine forth like the sun, should after death rest not in any unhallowed place, but in a consecrated place, the holy Patriarchs preceded us by their own example already in the Old Testament, and before all the father of all the faithful, holy Abraham, who, journeying in an alien and unconsecrated land, for his deceased wife Sarah and for the others of his family who should die after her, purchased [^263] a separate place for weighed silver, in which he himself was laid and his only-begotten holy Isaac. Likewise Jacob, his grandson, a stranger in Egypt, dying there, bound by an oath his son Joseph to command his bones to be carried to the holy land, promised by the Lord to his fathers and to their seed and destined to be sanctified by the presence of the Messiah [^264]. That this same command Joseph also gave concerning his bones to his brethren, when one day they should return from Egypt to the Holy Land, Holy Scripture testifies [^265]. And they indeed, returning from Egypt, together with the bones of Jacob, carried also his bones and laid them in that cave purchased by Abraham [^266].
 
-Imitating this example, Christians already from the earliest times took care to bury their dead in places set apart and consecrated, and all the Churches of God spread abroad throughout the whole universe have always firmly kept and now keep this ordinance. Seeing therefore that Christians have always regarded their places of burial as destined for confessors of the true faith, therefore no one who during his lifetime lived outside the great family of the Church of God and passed away outside the same has the right after death to have a common resting place together with the faithful. Whence it follows that, besides infidels, heretics and schismatics have no right to ecclesiastical burial; likewise those excommunicated, public sinners dying in excommunication, those killed in a duel; wherefore let priests not dare to bury any such in Catholic cemeteries, but for them a place outside the cemetery must be designated, or at most, on account of urgent necessity, in some separate place of the Catholic cemetery, where it is also proper to bury the bodies of infants who pass away without baptism.
+Imitating this example, Christians already from the earliest times took care to bury their dead in places set apart and consecrated, and all the Churches of God spread abroad throughout the whole universe have always firmly kept and now keep this ordinance. Seeing therefore that Christians have always regarded their places of burial as destined for confessors of the true faith, therefore no one who during his lifetime lived outside the great family of the Church of God and passed away outside the same has the right after death to have a common resting place together with the faithful. Whence it follows that, besides infidels, heretics and schismatics have no right to ecclesiastical burial; likewise those excommunicated, public sinners dying in excommunication, those killed in a duel; therefore let priests not dare to bury any such in Catholic cemeteries, but for them a place outside the cemetery must be designated, or at most, on account of urgent necessity, in some separate place of the Catholic cemetery, where it is also proper to bury the bodies of infants who pass away without baptism.
 
 **2.** In particular, with respect to those who have voluntarily taken their own life, parish priests must be cautious that, unless they showed any signs of repentance before death, they do not dare to bury them in consecrated cemeteries and according to the rite of the Church. If it should be known beyond doubt to the parish priest that the suicide suffered from the affliction of mental derangement, he is to grant him ecclesiastical burial in the customary manner. If, however, the parish priest, moved by weightier reasons, should hesitate to agree with the judgment of physicians and civil officials, the matter must be reported to the Ordinary; and in the meantime, on account of urgent necessity, the body of the deceased is to be buried without church rites, outside the cemetery. If, however, doubt remains whether the suicide was sane (*почитальний*) or insane (*непочитальний*), he is to be buried according to the rite of the Church, but for the avoidance of scandal that might arise, without the customary solemnities at burial. If, finally, doubt arises whether someone killed himself or perished by accident, judgment must be given in favor of the deceased, since in doubt so grave a crime ought not to be presumed of anyone [^267].
 
@@ -114,7 +114,7 @@ Imitating this example, Christians already from the earliest times took care to 
 
 ## TITULUS XIII. On Ecclesiastical Courts
 
-**1.** Since Bishops by divine right are appointed to be pastors of the Dioceses entrusted to them, they must therefore be regarded as the ordinary judges of all souls who belong to their Diocese in all cases which pertain to the ecclesiastical state. Wherefore upon all and single persons subject to the care of their Bishop there rests a heavy burden of conscience to submit to the judgment of their own Ordinary and to receive his judgment as the judgment of the Lord, Who said to the Apostles and their successors: 
+**1.** Since Bishops by divine right are appointed to be pastors of the Dioceses entrusted to them, they must therefore be regarded as the ordinary judges of all souls who belong to their Diocese in all cases which pertain to the ecclesiastical state. Therefore upon all and single persons subject to the care of their Bishop there rests a heavy burden of conscience to submit to the judgment of their own Ordinary and to receive his judgment as the judgment of the Lord, Who said to the Apostles and their successors: 
 
 > *"He who hears you hears Me, and he who rejects you rejects Me"* [^269]
 
@@ -125,7 +125,7 @@ and again:
 **2.** As to the procedure for conducting trials, this Synod, besides that which is decreed in general canon law, commands that in all Dioceses of this ecclesiastical Province there be observed (as the basis): that *Instruction* which was submitted for the approval of the entire Austrian Episcopate. That *Instruction*, therefore, adapted to our needs, the Synod has determined to use in conducting trials in the Ruthenian Church Province of Galicia [^271].
 
 **3.** This Synod has resolved to add something regarding the procedure to be observed in judicial appeals, and decrees the following:
-* **a)** The ordinary ecclesiastical judge in his diocese is the Bishop or his Vicar General, whose person is one and the same as the person of the Bishop; wherefore from the judgment of the Vicar there is no appeal to the Bishop.
+* **a)** The ordinary ecclesiastical judge in his diocese is the Bishop or his Vicar General, whose person is one and the same as the person of the Bishop; therefore from the judgment of the Vicar there is no appeal to the Bishop.
 * **b)** The higher ordinary Judge is the Metropolitan of the ecclesiastical province.
 * **c)** The supreme judge is the Roman Pontiff.
 
@@ -145,7 +145,7 @@ Therefore this Synod decrees that appeals are to proceed in this order:
 
 ---
 
-### I. Regarding Those Who Are to Be Summoned to the Synod
+**I. Regarding Those Who Are to Be Summoned to the Synod**
 
 **1.** To an Ecumenical Council Bishops of the whole earthly circle are summoned; to a provincial council all ordinary Bishops of the Province must be summoned and appear, and during a vacancy of the see, Capitular Vicars, and moreover Auxiliary Bishops, then the heads of Chapters (*настоятелѣ Капитулъ*), then cathedral or capitular canons, who may be present either in person or through their representatives; moreover the highest superiors of monasteries, deans, theological faculties, and rectors of major seminaries and those of the clergy whom the Bishops, upon common consultation, judge fitting to summon.
 
@@ -155,7 +155,7 @@ Therefore this Synod decrees that appeals are to proceed in this order:
 
 ---
 
-### II. Regarding the Time of Holding Provincial and Diocesan Synods
+**II. Regarding the Time of Holding Provincial and Diocesan Synods**
 
 According to the Council of Trent [^272], provincial Synods must indeed be held at least every three years, and diocesan synods every year. But when it is not always possible to keep this rule, let them obtain for themselves—the Metropolitan for a provincial Synod, and Bishops for diocesan synods—authority from the Holy See to hold, instead of such Synods, an extraordinary assembly (*зôбранє мѣстосинодальне* / pro-synodal assembly), for which, for a provincial assembly, individual Ordinaries with representatives of the entire clergy are to assemble at the Archcathedral, so that one or another be a delegate of the chapter; from all deaneries of individual dioceses, four delegates, and others whom the Ordinaries upon common consultation deem proper to admit. To diocesan assemblies, besides the Ordinary and the Chapter, twelve delegates from the diocesan clergy and chosen men whom the Bishop shall consider. Nevertheless, the Metropolitan will endeavor that at least every fifth year a provincial Council be held, and Bishops will endeavor that every third year a diocesan Synod be held.
 
@@ -176,9 +176,7 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 **5.** As to immovable property, it is proper generally to observe all that our Synod of Zamość prescribes, Titulus XIII.
 
-**6.** If any change should have to be made with respect to church property, let administrators, in order to undertake that...
-
-**6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
+**6.** If any change should have to be made with respect to church property, let administrators, in order to undertake that **6.** ...that they have recourse to their Ordinaries, but never presume to undertake that on their own. Further, let them endeavor that these goods be preserved intact in their state, and that especially in the case of a transfer of administrators they suffer no injury to the detriment of their successors; in particular, let them not clear-cut forests where the benefice (*ерекція*) possesses such, but for obtaining profit from them, let them proceed according to the forest laws; which must likewise be observed with respect to fruit orchards.
 
 **7.** The leasing [of church property] for a year, or with the permission of the Ordinariate for three years, is to be granted to none other than the most honorable Christians.
 
@@ -190,7 +188,7 @@ According to the Council of Trent [^272], provincial Synods must indeed be held 
 
 The Names of the Signatories Follow:
 
-### The Synodal Hierarchy & Presidency
+**The Synodal Hierarchy & Presidency**
 
 * **Fr. Agostino, Archbishop of Larissa**, Apostolic Delegate, President of the Synod. [^274]
 * **Sylvester Sembratovych**, Metropolitan of Halych, Archbishop of Lviv of the Ruthenian Catholics, Bishop of Kamianets.
@@ -199,7 +197,7 @@ The Names of the Signatories Follow:
 
 ---
 
-### From the Archeparchy of Lviv
+**From the Archeparchy of Lviv**
 
 * **Mykhailo Singalevych**, Archpriest of the Greek-Catholic Metropolitan Chapter of Lviv, Domestic Prelate of His Holiness Pope Leo XIII.
 * **Lev Hoterovsky**, Archdeacon of the Greek-Catholic Metropolitan Chapter of Lviv.
@@ -281,7 +279,7 @@ The Names of the Signatories Follow:
 
 ---
 
-### From the Eparchy of Przemyśl
+**From the Eparchy of Przemyśl**
 
 * **Venedykt Lytynsky**, Archdeacon of the Chapter of Przemyśl.
 * **Myron Podolynsky**, Canon of the Chapter of Przemyśl.
@@ -340,7 +338,7 @@ The Names of the Signatories Follow:
 
 ---
 
-### From the Eparchy of Stanyslaviv
+**From the Eparchy of Stanyslaviv**
 
 * **Vasyl Fatsevych**, Archpriest of the Episcopal Chapter of Stanyslaviv.
 * **Ioan Lytvynovych**, Custos of the Episcopal Chapter of Stanyslaviv.
@@ -397,7 +395,7 @@ The Names of the Signatories Follow:
 [^266]: Exod. 13:19; Josh. 24:32 — Moses taking the bones of Joseph, and their final interment at Shechem.
 [^267]: *Provincial Synod of Prague* (1860), Titulus III, Chapter XIII (published 1863), establishing the canonical principle *in dubio pro reo* / *in dubio mitior pars sequenda est* regarding suicides lacking proof of deliberate intent.
 [^268]: Pastoral Letter of Metropolitan Spyrydon Lytvynovych of blessed memory, November 26, 1868, No. 5656, on the dignity, leasing restrictions, and proper maintenance of Catholic cemeteries.
-[^269]: Luke 10:16 — "He that heareth you heareth Me; and he that despiseth you despiseth Me; and he that despiseth Me despiseth Him that sent Me."
+[^269]: Luke 10:16 — "He that hears you hears Me; and he that despises you despises Me; and he that despises Me despises Him that sent Me."
 [^270]: Matt. 18:17 — "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as a heathen man and a publican."
 [^271]: Refers to the Austrian Judicial Instruction (*Gerichts-Instruction für die geistlichen Gerichte des österreichischen Reiches*), adapted to Galician Greek-Catholic practice and appended to the Synod acts as Appendix XXXVIII (*Додатокъ ч. 38*).
 [^272]: Council of Trent, Session XXIV, Chapter II *On Reform* (*De Reformatione*), prescribing provincial councils every three years and diocesan synods annually.

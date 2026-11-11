@@ -170,14 +170,14 @@ Thee that containedst in the womb the uncontainable God, and broughtest forth jo
 *Tone 1, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се):*  
 *Sessional Hymn:*  
 Clothed in my poverty, O my Jesus, Thou comest forward, mingling Thyself with servants, and asking for baptism from a servant, O Lover of mankind! Therefore, seeing Thee, John cried aloud: "How shall I baptize Thee, Who hast no defilement at all, O all-good God?"  
-*Glory, and both now, in the same Podoben:*  
+*Glory, and both now, in the same Podoben (Подо́бенъ то́йже):*  
 *Sessional Hymn:*  
 Christ comes forward in His goodness unto the river streams of Jordan, and in them He desires to work our renewal by grace. Receive Him joyfully, O divine Forerunner, and wash Him in the waters Who willed it so, the only Lover of mankind!  
 *After the second stichology, Sessional Hymn, Tone 4.*  
 *Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*  
 *Sessional Hymn:*  
 He that is rich having become poor through His great mercy, desiring to enrich us who became poor through lack of temperance of old, comes to enter into the streams of Jordan, and to be baptized in human manner by John.[^88] O ye faithful, let us praise His extreme humility!  
-*Glory, and both now, in the same Podoben:*  
+*Glory, and both now, in the same Podoben (Подо́бенъ то́йже):*  
 *Sessional Hymn:*  
 Today the voice of Isaiah crying aloud is fulfilled: "Prepare ye the way of the Lord, make His paths straight!"[^89] For as he said, the desert-loving trumpet, great John, hath sounded, calling all together. Therefore let us run together and behold marvelous things!  
 *Canon of the Forefeast with its heirmos to 8: the heirmos twice, the troparia to 6; and of the Saint to 4.*  
@@ -248,7 +248,7 @@ Thou wast shown forth as a priest among priests, a companion of the King and God
 *Sessional Hymn, Tone 8.*  
 *Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*  
 Thou wast shown to be a river of piety, watering the whole earth with the streams of thy teachings, O Sylvester, as a divine hierarch; and by showers of wonders thou didst wash away the defilement of passions, and didst worthily inherit the torrent of delight.[^100] Therefore, having come together, we devoutly honor thee with hymns today, and faithfully cry unto thee: Pray Christ God to grant remission of offenses unto those who with love celebrate thy holy memory!  
-*Glory, and both now, in the same Tone [Tone 8]. Podoben:*  
+*Glory, and both now, in the same Tone [Tone 8]. Podoben (Подо́бенъ):*  
 *Tone 8, Podoben: "Of the shepherd's pipes" (Ѡ҆крѡвле́й па́стырскихъ):*...
 
 === LEAF p30 ===

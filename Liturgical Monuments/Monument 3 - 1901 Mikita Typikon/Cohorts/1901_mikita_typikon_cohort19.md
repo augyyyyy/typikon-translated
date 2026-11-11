@@ -24,7 +24,7 @@ at 4, and of the great Saint at 6. After Ode 3 of the canon: Kontakion of the da
 
 At the Liturgy: After the entrance, troparion first of the feast, or of the Resurrection, and of the temple of the Saint (male or female), and of the daily Saint, either two or one. After this, kontakion of the temple of the Saint (male or female); “Glory”: of the daily Saint; “Now and”: of the feast of Pentecost. Prokimenon, Alleluia, and Communion Hymn of the feast. For the Epistle and the Gospel, we read the daily one first, then of the Saint, even if it be on Saturday.
 
-### ARTICLE III.
+**ARTICLE III.**
 
 §. 117.
 
@@ -132,7 +132,7 @@ LX.) How Matins Is Celebrated If It Be a Saturday, Any Temple Whatever, and With
 
 At “God is the Lord” the troparion of the feast and of the 1st Saint; “Glory”: Troparion of the 2nd Saint; “Now and”: of the feast. Sessional Hymns of the feast from the Menaion. Canon of the feast with the heirmos at 6, and to the Saints at 8. The heirmos of the canon of the 2nd Saint. (Concerning the Katavasia, however, it is necessary to note that on weekdays, if there is one Saint, the ordinary Katavasia of the day is taken; if two Saints, then from the canon of the 2nd Saint; and finally: if it is within a feast, then the festal Katavasia is taken. All the rest in order.)[^169]
 
-### APPENDIX.
+**APPENDIX.**
 
 §. 129.
 

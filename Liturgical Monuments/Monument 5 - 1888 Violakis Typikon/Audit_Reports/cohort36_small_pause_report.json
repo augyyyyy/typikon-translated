@@ -138,6 +138,26 @@
         "max_leaf": 360
       },
       "anomalies": []
+    },
+    "orthographic_authenticity_v5c": {
+      "passed": true,
+      "violation_count": 0,
+      "violations": [],
+      "status": "PASSED"
+    },
+    "subagent_trajectory": {
+      "status": "SKIPPED_NO_TRANSCRIPT",
+      "passed": true,
+      "transcript_found": false,
+      "conversation_id": null,
+      "expected_leaves_count": 10,
+      "viewed_leaves": [],
+      "unviewed_leaves": [],
+      "view_timestamps": {},
+      "total_tool_calls": 0,
+      "tool_call_waste_pct": 0.0,
+      "violations": [],
+      "contaminated_leaves": []
     }
   }
 }

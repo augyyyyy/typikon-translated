@@ -56,7 +56,7 @@ Assembling together, O faithful, let us praise with one accord the mediator of t
 *Glory... Tone 4, Podoben: "Thou hast appeared today" (Явился еси днесь):*
 Celebrating thy radiant memory today, we beseech thee, O Forerunner, fervently to entreat the Savior and Lord to grant forgiveness of sins unto all.
 
-*Both now... Theotokion, the same Podoben:*
+*Both now... Theotokion, the same Podoben (Подо́бенъ то́йже):*
 A fervent protection to those in afflictions, and our helper, and reconciliation with God, through whom we have been delivered from corruption: O faithful, we call the Theotokos blessed.
 
 *After the second Kathisma, Sessional Hymn, Tone 5:*
@@ -66,7 +66,7 @@ Him that was revealed to us from the womb as a prophet, and that shone forth cle
 *Glory... Tone 4, Podoben: "Joseph was amazed" (Оудивися їѡсифъ):*
 Now has appeared to us the Savior's Baptist, and spiritually gladens the minds of the faithful: the beauty of the wilderness, and the seal of the prophets. Therefore he was shown forth as the Forerunner of Christ, and an unfailing witness of His coming. With spiritual hymns therefore let us cry aloud to John with one accord: O prophet and preacher of truth, pray that we may be saved!
 
-*Both now... Theotokion, the same Podoben:*
+*Both now... Theotokion, the same Podoben (Подо́бенъ то́йже):*
 All the choirs of angels were amazed, O pure one, at the dread mystery of thy childbearing: how He Who holds all things by a single nod is held in thine arms as a man...
 
 === LEAF p295 ===

@@ -146,7 +146,7 @@
 
 [^72]: Saint Andrew of Crete (c. 660–740), archbishop and author of numerous liturgical canons.
 
-[^73]: Slavonic: *кромѣ̀ бра́ще́нїѧ и҆ смѣше́нїѧ*, translating the Greek *ἄνευ τροπῆς τε καὶ συγχύсеως* ("without mutation/turning and without confusion"), the Chalcedonian christological formula. The printed Slavonic has *бращенїѧ* (for *обращенїѧ* / *вращенїѧ*, "turning").
+[^73]: Slavonic: *кромѣ̀ бра́ще́нїѧ и҆ смѣше́нїѧ*, translating the Greek *ἄνευ τροπῆς τε καὶ συγχύσεως* ("without mutation/turning and without confusion"), the Chalcedonian christological formula. The printed Slavonic has *бращенїѧ* (for *обращенїѧ* / *вращенїѧ*, "turning").
 
 [^74]: An alphabetic acrostic canon (*краегране́сїе по а҆лфави́тꙋ*), where each troparion begins with successive letters of the Greek/Slavonic alphabet.
 
@@ -308,11 +308,11 @@
 
 [^153]: The printed Slavonic text has 'повергле́ши' for 'пове́рглъ є҆сѝ' (thou didst cast down).
 
-[^154]: *The Wisdom and Word* (*Премꙋ́дрости* / *Тὴν Σοφίαν καὶ Λόγον*): The printed text abbreviates the Greek and Slavonic incipit to its opening noun in the genitive; the full incipit references the divine Wisdom and Word of the Father.
+[^154]: *The Wisdom and Word* (*Премꙋ́дрости* / *Τὴν Σοφίαν καὶ Λόγον*): The printed text abbreviates the Greek and Slavonic incipit to its opening noun in the genitive; the full incipit references the divine Wisdom and Word of the Father.
 
 [^155]: *Conversing privately* (*Бг҃ꙋ ѻ҆со́бь бесѣ́дꙋя*): The printed Slavonic text uses the adverb *ѻ҆со́бь* ('apart', 'in solitude', 'privately'), reflecting monastic solitary prayer.
 
-[^156]: *The firm and God-proclaiming* (*Тве́рдыѧ* / *Τοὺς ἀσфаλεῖς*): The printed text gives the incipit of the Tone 2 Kontakion model, originally composed for the Holy Apostles Peter and Paul (*Тве́рдыѧ и҆ бг҃овѣща́нныѧ проповѣ́датели*).
+[^156]: *The firm and God-proclaiming* (*Тве́рдыѧ* / *Τοὺς ἀσφαλεῖς*): The printed text gives the incipit of the Tone 2 Kontakion model, originally composed for the Holy Apostles Peter and Paul (*Тве́рдыѧ и҆ бг҃овѣща́нныѧ проповѣ́датели*).
 
 [^157]: *Psalm-like* (*ѱалѡ́мски водвори́ся*): A direct poetic reference to LXX Psalm 54:8 (MT Psalm 55:7): "Lo, I fled afar off and lodged in the wilderness" (*Сѐ оу҆дали́хсѧ бѣ́гаѧ, и҆ водвори́хсѧ въ пꙋсты́ни*).
 
@@ -326,11 +326,11 @@
 
 [^162]: *Of the divine faith* (*Бж҃твенныѧ вѣ́ры* / *Θείας πίστεως*): Tone 3 Sessional Hymn model.
 
-[^163]: *As one valiant* (*Ꙗ҆́кw до́блѧ* / *Ὡς γενναῖον*): Tone 4 Prosomoion model.
+[^163]: *As one valiant* (*Ꙗ҆́кѡ до́блѧ* / *Ὡς γενναῖον*): Tone 4 Prosomoion model.
 
 [^164]: *Thou hast given a sign* (*Да́лъ є҆сѝ зна́менїе* / *Ἔδωκας σημείωσιν*): Tone 4 Prosomoion model.
 
-[^165]: *By Andrew of Pyrgos* (*А҆ндре́а пѷ́рскагw* / *Ἀνδρέου Πυροῦ*): Andrew of Pyrgos (or Jerusalem), a Byzantine hymnographer.
+[^165]: *By Andrew of Pyrgos* (*А҆ндре́а пѷ́рскагѡ* / *Ἀνδρέου Πυροῦ*): Andrew of Pyrgos (or Jerusalem), a Byzantine hymnographer.
 
 [^166]: *Acrostic* (*Краегране́сїе*): The Slavonic translates the Greek alphabetical acrostic: *Σοφὸν Δανιὴλ ᾄσμασιν στέφω* ("With songs I crown the wise Daniel"), by St. Theophanes the Branded.
 
@@ -342,11 +342,11 @@
 
 [^170]: *City of ninety walls* (*девѧдесѧтостѣ́нный гра́де*): The printed Slavonic text reads *девѧдесѧтостѣ́нный* ('ninety-walled') rather than *дванадесятостѣ́нный* ('twelve-walled', referring to the twelve foundations and gates of the New Jerusalem in Revelation 21:12-14), a distinctive recensional witness of the 1761 Pochaiv edition.
 
-[^171]: *Not honoring an image made by hands* (*Рꙋкопи́саннагw ѻ҆́браза не поче́тше* / *Χειρόγραφον εἰκόνα μὴ σεβασθέντες*): Tone 6 Kontakion of the Three Holy Children.
+[^171]: *Not honoring an image made by hands* (*Рꙋкопи́саннагѡ ѻ҆́браза не поче́тше* / *Χειρόγραφον εἰκόνα μὴ σεβασθέντες*): Tone 6 Kontakion of the Three Holy Children.
 
 [^172]: On the prophetic vision of the uncut stone cut from the mountain without hands, see Dan. 2:34–45.
 
-[^173]: Church Slavonic *Мала́хово* represents the Greek ascription *Μαлаξοῦ* ("by Malaxos"), referring to Manuel Malaxos (16th c.), author of several stichera in the Menaion.
+[^173]: Church Slavonic *Мала́хово* represents the Greek ascription *Μαλαξοῦ* ("by Malaxos"), referring to Manuel Malaxos (16th c.), author of several stichera in the Menaion.
 
 [^174]: St. Zoe of Rome (d. ca. 286), wife of the court official Nicostratus, was healed of muteness by St. Sebastian, converted, and thereafter martyred by suffocation over smoke.
 
@@ -370,7 +370,7 @@
 
 [^184]: Attributed to Cyprian the Hymnographer (9th c.).
 
-[^185]: On the "Angel of Great Counsel" (Greek: Μεγάλης βουλῆς ἄγγελος; Church Slavonic: *Вели́кагw совѣ́та а҆́ггелъ*), see Isa. 9:6 (LXX), a prominent Christological title in the hymnography of the Nativity.
+[^185]: On the "Angel of Great Counsel" (Greek: Μεγάλης βουλῆς ἄγγελος; Church Slavonic: *Вели́кагѡ совѣ́та а҆́ггелъ*), see Isa. 9:6 (LXX), a prominent Christological title in the hymnography of the Nativity.
 
 [^186]: That is, if the Sunday of the Holy Fathers falls before December 20 (namely on December 18 or 19), this Kontakion and Ikos of the Fathers are chanted; but if it falls on or after December 20, the service enters the Forefeast of the Nativity, and the Kontakion of the Forefeast alternates or is sung according to the Typikon.
 
@@ -492,7 +492,7 @@
 
 [^245]: The prophecy of Micah 5:2: "And thou, Bethlehem, house of Ephratha, art few in number to be among the thousands of Judah; yet out of thee shall one come forth to me to be a ruler in Israel; and his goings forth were from the beginning, even from the days of eternity."
 
-[^246]: Cf. Isaiah 11:2: "And the Spirit of God shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and strength, the spirit of knowledge and godliness; the spirit of the fear of God shall fill him."
+[^246]: Cf. Isaiah 11:2: "And the Spirit of God shall rest upon Him, the spirit of wisdom and understanding, the spirit of counsel and strength, the spirit of knowledge and godliness; the spirit of the fear of God shall fill Him."
 
 [^247]: Saint Chrysogonus of Rome/Aquileia was the spiritual father, teacher, and correspondent of Saint Anastasia during their imprisonment under Diocletian.
 
@@ -518,7 +518,7 @@
 
 [^258]: Gen. 49:10 ("A prince shall not fail from Judah... until there come the things stored up for him; and he is the expectation of the nations").
 
-[^259]: The acrostic of this canon of the Holy Ten Martyrs of Crete is formed by the initial letters of the Theotokia, spelling out "Геẃргїа" (By George).
+[^259]: The acrostic of this canon of the Holy Ten Martyrs of Crete is formed by the initial letters of the Theotokia, spelling out "Геѡ́ргїа" (By George).
 
 [^260]: Num. 24:17 ("There shall come a star out of Jacob...").
 
@@ -628,7 +628,7 @@
 
 [^313]: Hab. 3:2–3 [LXX]; Isa. 63:9 [LXX].
 
-[^314]: Slavonic: "Дрѧ́стꙋхꙋ" (variant/corruption for "Теча́хꙋ" or reflecting Greek ἔτреχον / ἔσπευδον, hastened).
+[^314]: Slavonic: "Дрѧ́стꙋхꙋ" (variant/corruption for "Теча́хꙋ" or reflecting Greek ἔτρεχον / ἔσπευδον, hastened).
 
 [^315]: Luke 15:23; John 1:29.
 
@@ -940,7 +940,7 @@
 
 [^469]: Leaf 318 exhibits a vertical physical lacuna through the center and lower right of the folio where the paper is torn. The missing text of the post-Gospel Sticheron at Matins is supplied in brackets from the standard Ruthenian Menaion text.
 
-[^470]: Acrostic of the first Canon by St. Cosmas of Maiuma: "Christ having become man remains what He was: God" (Greek: Χριστὸς βροτωθεὶς ἦν ὅπεр Θεὸς μένει).
+[^470]: Acrostic of the first Canon by St. Cosmas of Maiuma: "Christ having become man remains what He was: God" (Greek: Χριστὸς βροτωθεὶς ἦν ὅπερ Θεὸς μένει).
 
 [^471]: Hypakoe of the Nativity of Christ, Tone 8. The opening characters damaged on the torn margin are restored in brackets.
 
@@ -1548,7 +1548,7 @@
 
 [^773]: Tone 4 Dogmatikon Theotokion: "David the ancestor of God..." (Greek: Ὁ διὰ σὲ θεοπάτωρ προφήτης Δαυΐδ). The sticheron explicitly cites Psalm 44:10 [LXX 44:9]: "At Thy right hand stood the Queen."
 
-[^774]: Tone 4 Aposticha Theotokion: "Look down upon the entreaties of thy servants, O all-immaculate one..." (Greek: Ἐπίβλεψον ἐπὶ δεήσεις σῶν οἰκετῶν, Πανάμωме).
+[^774]: Tone 4 Aposticha Theotokion: "Look down upon the entreaties of thy servants, O all-immaculate one..." (Greek: Ἐπίβλεψον ἐπὶ δεήσεις σῶν οἰκετῶν, Πανάμωμε).
 
 [^775]: Tone 5 Dogmatikon Theotokion: "In the Red Sea..." (Greek: Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ). Typological parallel between Moses parting the Red Sea and Gabriel announcing the virginal conception of Christ.
 

@@ -1,7 +1,7 @@
 import os
 import re
 
-appendix_path = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_appendix.md"
+appendix_path = r"C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_appendix.md"
 
 with open(appendix_path, 'r', encoding='utf-8') as f:
     content = f.read()

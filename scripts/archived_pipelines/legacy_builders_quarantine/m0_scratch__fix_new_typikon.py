@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Searches and fixes terminology in the new MD-based Typikon directory:
-C:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded/Data/Service Books/Typikon
+C:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded/Data/Service Books/Typikon
 """
 import os
 import re
@@ -10,7 +10,7 @@ import sys
 # Configure standard output to use UTF-8
 sys.stdout.reconfigure(encoding='utf-8')
 
-target_dir = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+target_dir = r"C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 
 print(f"Target Directory: {target_dir}")
 

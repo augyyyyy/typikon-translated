@@ -4,7 +4,7 @@
 *Theotokion:*[^388]
 Unto those in Hades thou didst proclaim the Light, Him Who comes from virginal blood, Who was clothed in flesh as man, for the beneficence of men, O blessed Forerunner.
 
-*Kontakion, Tone 6, Podoben: "Fulfilling the Dispensation for Our Sake" (Ezhe o nas):*
+*Kontakion, Tone 6, Podoben: "Fulfilling the Dispensation for Our Sake" (Є҆́же ѡ҆ на́съ):*
 A light-manifest and divine pillar in the world, the lamp of the Sun, the Forerunner, having shown forth his light-bearing and divine head in the ends of the earth, sanctifies those who faithfully bow down and cry out: O most wise baptizer of Christ, save us all.
 
 *Ikos:*
@@ -64,16 +64,16 @@ Thou didst flash forth divine illumination by the entrance of thy head...
 *Theotokion:*
 Spare me, O Savior Who wast born, and Who didst keep her who bore Thee incorrupt after childbirth: when Thou shalt sit to judge my deeds, overlook my iniquities and my sins, as Thou art sinless, and merciful God and Lover of mankind.
 
-*Exapostilarion, Podoben: "Thou Hast Visited Us" (Posetil ny):*
+*Exapostilarion, Podoben: "Thou Hast Visited Us" (Посѣти́лъ ны̀):*
 The earth endured not to hide thy head for long, as the voice of one crying out; in some manner thou didst announce its finding, O Forerunner John, for which we honor thee.
 
-*Glory... Podoben: "With the Disciples" (Uchenikom):*
+*Glory... Podoben: "With the Disciples" (Оу҆ченикѡ́мъ зрѧ́щымъ):*
 At the finding of thy most honorable head, the Christ-loving emperor rejoiced far more than over his imperial purple; strengthened by the reward of victories from on high through it, do thou also preserve us and cover us with thy prayers, O all-praised baptizer John, who brightly celebrate and love thee.
 
 *Both now... of the feast, or Theotokion:*
 In thee with God we place our hope, O all-pure one; being co-crucified with Christ Who came forth from thee, by thy entreaties unto Him preserve us unharmed unto the end.
 
-*At the Praises, Stichera, on 4. Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Raduisya postnikov):*
+*At the Praises, Stichera, on 4. Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Ра́дꙋйсѧ по́стникѡвъ):*
 
 *Sticheron:*
 Rejoice, O sacred head, light-bearing and revered by angels, which was cut off by the sword of old, and by sharp rebukes cut down the shame of uncleanness! Wellspring of wonders, watering the faithful, and which proclaimed the Savior's saving advent, and which of old beheld the descent of the Spirit abiding upon Him! Mediatrix between the Old and the New Grace, implore Christ to grant our souls great mercy!
@@ -125,7 +125,7 @@ Having received with a voice of praise in faith the most honorable head of Thy b
 
 ## May 26. The Holy Apostle Carpus, One of the Seventy[^397]
 
-*At Vespers, Stichera of the Apostle, Tone 4, Podoben: "O All-Praised Martyrs" (Vsekhvalnii muchenitsy):*
+*At Vespers, Stichera of the Apostle, Tone 4, Podoben: "O All-Praised Martyrs" (Всехва́льнїи мч҃ницы):*
 
 *Sticheron:*
 By acceptable radiance making thy mind divine, thou hast been enlightened, O all-rich one; and thou didst go forth unto the preaching of Christ, and didst teach the peoples to honor Him as the Lover of mankind. And now pray thou, to grant peace and great mercy unto our souls!
@@ -179,7 +179,7 @@ Having proclaimed the saving preaching unto creation, O Carpus, as a God-pleasin
 *Theotokion:*
 As a new Child, thou didst bear Him Who before the ages shone forth from the Father, ineffably, O Birthgiver of God; therefore we glorify thee!
 
-*Sessional Hymn, Tone 3, Podoben: "Of the Divine Faith" (Bozhestvennyia very):*
+*Sessional Hymn, Tone 3, Podoben: "Of the Divine Faith" (Бж҃е́ственныѧ вѣ́ры):*
 Having received the divine radiance of the Comforter, O most wise Carpus, thou didst enlighten those darkened by ignorance; and having passed over unto the kingdom on high, thou dost stand before the King of all, ever entreating Christ God to grant us great mercy.
 
 *Glory... Both now... of the feast, or Theotokion:*
@@ -241,7 +241,7 @@ Driven by divine power, having slain the serpent that spoke blasphemy against th
 *Theotokion:*
 Without pain thou didst bear the Creator, O all-spotless one, Who takes away our sicknesses and toils, and accounts mankind worthy of painless food.
 
-*Kontakion, Tone 4, Podoben: "Thou Hast Appeared Today" (Yavilsia esi):*
+*Kontakion, Tone 4, Podoben: "Thou Hast Appeared Today" (Ꙗ҆ви́лсѧ є҆сѝ):*
 As a most radiant star the Church has ever acquired thee, O apostle Carpus, enlightened by the abundant granting of thy miracles: save those who with faith honor thy memory.
 
 *Ode 7. Heirmos:*
@@ -297,7 +297,7 @@ We offer unto thee Gabriel's voice, O Virgin, crying aloud: Rejoice, O maiden, l
 
 ## May 27. The Holy Hieromartyr Therapon[^401]
 
-*At Vespers, Stichera, Tone 8, Podoben: "Thy Martyrs, O Lord" (Muchenitsy tvoi Gospodi):*
+*At Vespers, Stichera, Tone 8, Podoben: "Thy Martyrs, O Lord" (Мч҃ницы твоѝ Гд҃и):*
 
 *Sticheron:*
 The all-praised Therapon, enlightened by divine deeds, was accounted worthy with the eyes of the heart to see the beauty of Christ, having pleased Him by suffering; therefore, by grace he ever heals the passions of souls and bodies of those who hasten unto him in faith.

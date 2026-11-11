@@ -166,7 +166,7 @@ person in ascetic life served as the foundation for the later extensive prerogat
 
 443. Bishop Palladius, *St. Pachomius the Great*, pp. 77–86, 92, 163, 169, 179, 187.
 
-444. In St. Anthony: "Submissiveness with temperance subdueth wild beasts" (*Sayings of the Holy Fathers*, Anthony 35). St. John, disciple of Paul (probably fifth century), by virtue of obedience binds Gehenna (*ibid.*, John, disciple of Paul). According to St. Rufus, in the first heavenly rank stands the sick man giving thanks to God; in the second, the benefactor; in the third, the hermit; and in the fourth and highest, the obedient (*ibid.*, Rufus 2).
+444. In St. Anthony: "Submissiveness with temperance subdues wild beasts" (*Sayings of the Holy Fathers*, Anthony 35). St. John, disciple of Paul (probably fifth century), by virtue of obedience binds Gehenna (*ibid.*, John, disciple of Paul). According to St. Rufus, in the first heavenly rank stands the sick man giving thanks to God; in the second, the benefactor; in the third, the hermit; and in the fourth and highest, the obedient (*ibid.*, Rufus 2).
 
 === LEAF p475 ===
 445. Bishop Palladius, *St. Pachomius the Great*, pp. 128, 125, 135, 75. These instances, however, are reported only in the Arabic recension of the Life of St. Pachomius according to a nineteenth-century manuscript.
@@ -337,7 +337,7 @@ a written rule—for example, the Arabic *Life*: "Pachomius gave them laws and c
 
 524. *Palestinian Paterikon* (St. Petersburg, 1885), IV, 6.
 
-525. A. Papadopoulos-Kerameus, *Analekta Hierosolymitikēs Stachyologias* (Ἀνάλεκта Ἱεροσολυμιτικῆς σταχυολογίας; St. Petersburg, 1898), V, 113.
+525. A. Papadopoulos-Kerameus, *Analekta Hierosolymitikēs Stachyologias* (Ἀνάλεκτα Ἱεροσολυμιτικῆς σταχυολογίας; St. Petersburg, 1898), V, 113.
 
 526. St. Jerome, *Life of St. Hilarion*, *passim*.
 

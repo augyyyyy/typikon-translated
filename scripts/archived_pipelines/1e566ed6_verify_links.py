@@ -51,6 +51,6 @@ def verify_links(master_path):
     return res
 
 if __name__ == "__main__":
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     master = os.path.join(typikon_dir, "Dolnytsky_Typikon_Master.md")
     print(verify_links(master))

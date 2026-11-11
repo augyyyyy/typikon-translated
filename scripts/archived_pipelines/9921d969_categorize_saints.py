@@ -2,7 +2,7 @@ import json
 import os
 import re
 
-almanac_path = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\json_db\almanac\annual_almanac_2026.json"
+almanac_path = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\json_db\almanac\annual_almanac_2026.json"
 
 with open(almanac_path, "r", encoding="utf-8") as f:
     data = json.load(f)

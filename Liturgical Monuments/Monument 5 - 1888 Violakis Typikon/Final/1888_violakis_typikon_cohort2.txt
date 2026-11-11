@@ -2,7 +2,7 @@
 
 # ACKNOWLEDGEMENTS
 
-### By Dr. George T. Demos
+**By Dr. George T. Demos**
 
 A project of this size and complexity relied on the assistance of many individuals. Foremost was the immense effort of the book’s principal translator, Fr. Robert Athas,[^8] a graduate of Saint Vladimir’s Orthodox Seminary in Crestwood, New York, and former Proistamenos of the Holy Trinity Greek Orthodox Church in Tulsa, Oklahoma, of the Greek Orthodox Metropolis of Denver. Father Athas is now the Proistamenos of the Dormition of the Mother of God Greek Orthodox Church in Burlington, Vermont, of the Greek Orthodox Metropolis of Boston.
 
@@ -105,7 +105,7 @@ Protopresbyter
 
 ## (ΦΩΝΗΤΙΚΟΣ ΟΔΗΓΟΣ)
 
-### Compiled by George T. Demos, M.D.
+**Compiled by George T. Demos, M.D.**
 
 | Greek Letter | Phonetic Equivalent & Pronunciation | Greek Letter | Phonetic Equivalent & Pronunciation |
 | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ Protopresbyter
 | **Μ, μ** | m as in mother | | |
 | **Ν, ν** | n as in name | | |
 
-### DIPHTHONGS AND COMPOUND CONSONANTS
+**DIPHTHONGS AND COMPOUND CONSONANTS**
 
 | Combination | Phonetic Equivalent & Rules of Pronunciation |
 | :--- | :--- |

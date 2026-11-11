@@ -60,7 +60,7 @@ The ewe-lamb, once beholding her Lamb hastening unto slaughter, eagerly followed
 
 *Sessional Hymn (twice):* O Lord, the grace of Thy Cross shines forth, irradiating the whole universe; it destroys the power of the demons, and now adorns the course of the fast, wherein strengthening us, have mercy on us!
 
-*Stavrotheotokion, Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́лное [Сло́во]):*[^1192]
+*Stavrotheotokion, Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́лное (*Сло́во*)):*[^1192]
 
 When Thy Mother, who bore Thee without pain, beheld Thee lifted up upon the Tree, she wept with lamentation and cried out: Woe is me, my sweetest Son! I am consumed in soul, beholding Thee upon the Cross between two evildoers, nailing up the vengeance of the evildoer!
 

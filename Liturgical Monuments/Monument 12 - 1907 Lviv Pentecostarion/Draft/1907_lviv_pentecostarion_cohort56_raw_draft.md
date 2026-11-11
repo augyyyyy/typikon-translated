@@ -211,7 +211,7 @@ Upon as many as the God-flowing grace hath breathed, shining, flashing, transfor
 *Exapostilarion, Podoben: "Having adorned the heavens with stars" (Не́бо ѕвѣзда́ми):*[^2382]  
 All-Holy Spirit, Who proceedest from the Father, and through the Son art come unto the unlettered Disciples: save those who have acknowledged Thee as God, and have mercy upon all. *(Twice)*[^2383]
 
-*Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Another podoben:*  
+*Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Another podoben (И҆́нъ подо́бенъ):*
 The Father is Light, the Word is Light, and the Holy Spirit is Light, Who was sent unto the Apostles in fiery tongues, and through Him the whole world is enlightened to honor the Holy Trinity.[^2384]
 
 *At the Praises, Let every breath... We set 6 stichera, and sing the following idiomela, repeating the first 2.*  

@@ -34,7 +34,7 @@ and the Kontakion and Ikos; at the 9th Ode we do not sing **"More honorable"** (
 13. **"It is good to give praise"** (*Бла́го є҆́сть*), Trisagion, **"Our Father"** (*Ѡ҆́тче на́шъ*), Troparion of Friday: **"Thou hast redeemed us"** (*И҆скꙋпи́лъ ны̀ є҆сѝ*).
 14. The Ektenia **"Have mercy on us, O God"** (*Поми́луй на́съ, Бо́же*), and the Dismissal proper to Great Friday, the middle one, that is: Priest: **"Wisdom!"** (*Премꙋ́дрость*); Choir: **"More honorable"** (*Честнѣ́йшꙋю*); Priest: **"Glory to Thee, O Christ..."** (*Сла́ва Тебѣ̀, Христѐ*), and the rest according to custom;[^601] but the 1st Hour we do not join.
 
-### Erection of the Lord's Tomb
+**Erection of the Lord's Tomb**
 On Friday morning, before the beginning of the Royal Hours, there are placed upon the Holy Table the Plashchanytsia and the most beautiful Gospel, and there is erected before the Royal Doors the Tomb of Christ, beside which, according to the custom of the Northern
 
 ---
@@ -43,7 +43,7 @@ On Friday morning, before the beginning of the Royal Hours, there are placed upo
 
 and Western Latin Churches,[^602] the Holy Mysteries are exposed even until the Resurrection of Christ. And our Sluzhebnyks indeed command the Tabernacle (*Kivot*) with the Holy Mysteries to be placed upon such a Tomb; but the custom of our Cathedral Church is to expose the Holy Mysteries in the Monstrance (*Darookazalnytsia*) upon the High Altar, and to erect the Tomb of the Lord thus: above it there stands a Cross without the Crucified, with a shroud hung upon its crossbeam, and with the Instruments of Christ's Passion; it is adorned with costly cloth, and surrounded with many candlesticks and lamps, and vessels with small trees and flowers. The front board of the Sarcophagus is covered with crimson damask, to which is attached a white cloth, to which later the Plashchanytsia is to be pinned; the board itself is not flat, but inclined, so that the Plashchanytsia pinned to it may be visible and more accessible for kissing.
 
-### Royal Hours
+**Royal Hours**
 In the Cathedral Church they are sung at the 10th hour of the morning, together with the Typika (*Obidnytsia*) and with Vespers.[^603] We sing all things according to the Typikon of the Royal Hours of the Paramony of the Nativity of Christ, here on p. 181. However, since the Tomb is placed before the Royal Doors, the Analogion of the Gospel is placed a little below it, while the Analogion of the other Readings is placed still lower than this. And all things which at the Paramony of the Nativity
 
 ---
@@ -52,7 +52,7 @@ In the Cathedral Church they are sung at the 10th hour of the morning, together 
 
 the sacred ministers say before the Royal Doors, here they say before the Tomb; but they do not cense the Tomb, because until now there is nothing within it.
 
-### Typika (Obidnytsia)
+**Typika (Obidnytsia)**
 This we join to the 9th Hour; however, we do not say it from the beginning, as on the Paramony of the Nativity, but from the Beatitudes, without Stichera, and it shall be thus:
 1. The Beatitudes... **"Glory... Both now..."**; **"Remember us, O Lord"** (*Помянѝ на́съ, Го́споди*) thrice.
 2. **"The heavenly choir"** (*Ли́къ небе́сный*), with the Verses; **"Both now"**: The Creed (*Вѣ́рую*).
@@ -63,8 +63,8 @@ This we join to the 9th Hour; however, we do not say it from the beginning, as o
 7. Priest: **"Glory to Thee, O Christ God"** (*Сла́ва Тебѣ̀, Христѐ Бо́же*), and the Dismissal of Great Friday, facing the people.
 There is no Liturgy today under any circumstances, except for the Annunciation; but immediately after the Dismissal of the Typika we begin Vespers.
 
-### On Great Friday Evening
-#### At Vespers
+**On Great Friday Evening**
+**At Vespers**
 *Note.*
 1. At this Vespers there takes place an Entrance with the Gospel, and at its end, at the last Sticheron of the Aposticha, the Procession with the Plashchanytsia, and its deposition into the Tomb;[^604]
 
@@ -74,7 +74,7 @@ There is no Liturgy today under any circumstances, except for the Annunciation; 
 
 2. All actions which the sacred ministers perform at ordinary Vespers before the Iconostasis, at this Vespers they perform before the Tomb of Christ.
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. From the usual beginning even unto **"Lord, I have cried"** (*Го́споди, воззва́хъ*), all as at daily Vespers, without a Kathisma.
 2. At **"Lord, I have cried"**, Stichera for 6; **"Glory"**, one Sticheron; **"Both now"**, another. — Entrance with the Gospel.
 3. Instead of the Prokeimenon of the day there shall be the Prokeimenon of the Triodion, and the Paremia, and the second Paremia, and the third Paremia; then the third Prokeimenon, which is of the Apostle, and the Apostle, and Alleluia, and the Gospel. At the Alleluia censing takes place. **"Let us attend! Peace be to all! Wisdom, let us attend!"** we say only at the 1st and 3rd Prokeimena; the Gospel we begin from **"Wisdom! Stand upright!"** Instead of **"Glory to Thee, O Lord"**, before the Gospel we say: **"Glory to Thy Passion, O Lord"** (*Сла́ва страсте́мъ Твои̑мъ, Го́споди*); and after the Gospel: **"Glory to Thy longsuffering, O Lord"** (*Сла́ва долготерпѣ́нїю Твоему̀, Го́споди*); likewise also at Matins.
@@ -107,15 +107,15 @@ by the Choir.[^605] And after the chanting of the Troparion and after the prostr
 1. Where there is only one Priest, let him choose for himself four most honorable lay men for the carrying of the Plashchanytsia.
 2. The Pastor of souls, even if he has several churches, in the mother church sings Vespers with the carrying out of the Plashchanytsia, but in filial churches only carries out the Plashchanytsia, thus: after **"Blessed is our God"** (*Благослове́нъ Бо́гъ на́шъ*) and **"Come, let us worship"** (*Прїиди́те, поклони́мся*) thrice, immediately the Procession with **"Thou Who clothest Thyself"** (*Тебѐ ѡ҆дѣ́ющагося*), and after the Procession: **"Glory to Thee, O Christ God"** (*Сла́ва Тебѣ̀, Христѐ Бо́же*), and the Dismissal, and **"The noble Joseph"** (*Благообра́зный Іѡ́сифъ*) thrice, with prostrations.
 
-### Little Compline
+**Little Compline**
 This, as also the Midnight Office, we read in private.
 At Compline the Canon of the Crucifixion of the Lord, and of the Lament of the Most Holy Theotokos.
 After **"It is truly right"**, the Kontakion of Great Saturday.
 
-### Saturday Midnight Office
+**Saturday Midnight Office**
 All according to custom.
 
-### Matins of Great Saturday
+**Matins of Great Saturday**
 *Note.*
 1. This we sing usually on Friday evening after sunset, although the Typika appoint it in the 7th hour of the night.
 2. The sacred ministers remain throughout the whole Matins before the Lord's Tomb, where seats are placed for them, and a table with
@@ -126,7 +126,7 @@ All according to custom.
 
 candlesticks and Books, so that sitting they may sing from there the Order, the Priests in epitrachelia and phelonia, and the Deacons in dalmatics, of violet color.
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. From **"Blessed is our God"** (*Благослове́нъ Бо́гъ на́шъ*) even unto **"Come, let us worship"** (*Прїиди́те, поклони́мся*) exclusively, all as usually at Matins; then after the 12 **"Lord, have mercy"**, having omitted **"Come, let us worship"**, immediately the Priest: **"Glory to the holy..."** (*Сла́ва святѣ́й*), and the rest with the Six Psalms even unto **"The Lord is God"** (*Бо́гъ Госпо́дь*), as usually.[^607]
 2. At **"The Lord is God"**, Troparion: **"The noble Joseph"** (*Благообра́зный Іѡ́сифъ*) twice. **"Glory"**: **"When Thou didst descend unto death"** (*Є҆гда̀ снизше́лъ є҆сѝ къ сме́рти*); **"Both now"**: **"Unto the Myrrh-bearing Women"** (*Мѵроно́сицамъ жена́мъ*).[^608]
 3. Kathisma 17 (The Blameless / *Neporochni*) in three Stases, with the Funeral Troparia, with censing at the beginning of each Stasis, and the Little Ektenia after each Stasis.
@@ -164,15 +164,15 @@ Then again: **"Let us attend! Peace be to all! Wisdom, let us attend!"**, and th
 **-dom! Stand upright! Let us hear..."**; Priest: **"The Reading from the Holy Gospel according to Matthew"**; Choir: **"Glory to Thy Passion, O Lord"** (*Сла́ва страсте́мъ Твои̑мъ, Го́споди*); the second Deacon: **"Let us attend!"**; and the Priest sings the Gospel facing the people; and at its conclusion, the Choir: **"Glory to Thy longsuffering, O Lord"** (*Сла́ва долготерпѣ́нїю Твоему̀, Го́споди*). Then the Priest, having kissed and closed the Gospel, leaves it upon the Analogion; and the first Deacon says the Ektenia **"Let us all say"** (*Рце́мъ всѝ*), and the second **"Let us complete"** (*И҆спо́лнимъ*), all according to custom.
 8. [9 in original] After the Dismissal, having chanted the Troparion **"The noble Joseph"** (*Благообра́зный Іѡ́сифъ*) thrice with prostrations, as at Vespers, and the Deacon having taken the Gospel from the Analogion, the sacred ministers depart into the Sanctuary and divest themselves of their vestments; and the Deacon having placed the Gospel upon the Holy Table and bowed, departs and divests himself.
 
-#### At the Hours
+**At the Hours**
 1. At all [Hours], the Troparion and Kontakion of Great Saturday.
 2. The Dismissal of Matins of Great Saturday.
 
-#### At the Typika (Obidnytsia)
+**At the Typika (Obidnytsia)**
 As on Great Thursday, here on p. 435; however, the Greek Triodion does not appoint the Typika.
 
-### On Great Saturday Evening
-#### At Vespers with the Liturgy of Basil
+**On Great Saturday Evening**
+**At Vespers with the Liturgy of Basil**
 1. According to the custom of the Cathedral Church, this Vespers begins at the 9th hour of the day.[^612]
 2. The Vespers of this day is only one, and that great, with the Liturgy of Basil, and an All-Night Vigil shall not
 
@@ -190,18 +190,18 @@ take place; but after the Ambo Prayer, or (as the Typika have it) after the Dism
 
 5. Throughout all of Bright Week, beginning from the Vespers of this day, the Resurrection Service is sung, and besides the Stichera of the Triodion there are sung also the Resurrection Stichera of the Octoechos, of a different Tone daily, that is: on Sunday, Tone 1; on Monday, Tone 2; on Tuesday, Tone 3; on Wednesday, Tone 4; on Thursday, Tone 5; on Friday, Tone 6; on Saturday, Tone 8, having skipped Tone 7.
 
-#### At Compline
+**At Compline**
 In Greek and Slavonic Triodia, except our own, Compline is not appointed; but from the Blessing of Loaves even unto the Funeral Order sung immediately before Paschal Matins, there is appointed the reading of the entire Book of the Acts of the Apostles, although among us today scarcely in Cathedral and Seminary Churches are these Acts sung; they are sung to verses by clerics alternating two by two.
 This Compline would have to be small. For the rest, even our Triodion itself leaves to discretion whether to read it or not; for it says concerning it: "if it be." In that case, there is appointed in our Triodion the Canon of the Burial of Christ, and of the Lament of the Most Holy Theotokos. After the 9th Ode, instead of **"It is truly right"**, the Heirmos of this Ode; and after the Trisagion, the Kontakion of Great Saturday.
 
-### Office in Place of the Midnight Office (Paschal Nocturns)[^615]
+**Office in Place of the Midnight Office (Paschal Nocturns)[^615]**
 *Note.* This we sing before the Plashchanytsia immediately before Paschal Matins, either only in epitrachelion and phelonion, as usually in the provinces, or in all the sacred vestments, of violet color, as in Cathedral Churches.
 
 ---
 
 === LEAF p459 ===
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. From the usual beginning even unto **"Come, let us worship"** (*Прїиди́те, поклони́мся*), we say all things as usually at the Midnight Office; and immediately Psalm 50 and the Canon.
 2. The Funeral Canon of Great Saturday Matins: **"The wave of the sea"** (*Волно́ю морско́ю*); according to the Typikon, the Heirmoi twice, and the Troparia for 12 (today with the Heirmos for 4), with the refrain: **"Glory to Thee, O Lord, glory to Thy holy burial"** (*Сла́ва Го́споди, святѡ́му погребе́нїю Твоему̀*); and at the end the Katavasia, the Heirmos, both Choirs together.
 After the 3rd Ode, the Sessional Hymn; and after the 6th, the Kontakion and Ikos of Great Saturday; after the 9th [Ode] there is no **"It is truly right"**, but the Heirmos of this Ode.
@@ -218,5 +218,5 @@ Concerning the time and place of the deposition of the Plashchanytsia we find no
 
 ## Beginning of the Holy Pentecostarion
 
-### Procession with the Holy Mysteries Around the Church
+**Procession with the Holy Mysteries Around the Church**
 After the taking of the Plashchanytsia from the Tomb and carrying it into the Sanctuary, the sacred ministers, having vested in all the brightest sacred vestments of their Order, go out before the steps of the Altar, and having all bowed equally and deeply toward the Holy Mysteries, bend their knees, and take lighted candles; likewise also the Brotherhood in the church. The Deacon on the right (or the Priest himself, if there be no Deacons), having approached the middle of the Holy Table and bowed deeply, sets aside the Gospel on the right side thereof, and having taken

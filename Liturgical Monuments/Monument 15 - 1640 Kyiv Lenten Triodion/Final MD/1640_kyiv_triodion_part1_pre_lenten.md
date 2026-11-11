@@ -52,9 +52,7 @@ Thou art a temple and a gate, a palace and the throne of the King, O all-honored
 
 *Chapter of Mark the Hieromonk concerning the Feast of the Meeting of the Lord,[^42] if the Forefeast of the Meeting should fall on this Sunday, or on the Sunday of the Prodigal Son, or of Meatfare, or Cheesefare; likewise concerning its Afterfeast (Chapter 42):*[^43]  
 *Except on Cheesefare Sunday (on which there is no Afterfeast, but only the Apodosis of the Feast): On Saturday evening, at Little Vespers, as indicated above. At the Litiya, 1. Pay heed to the signs with the customary rubric, and we sing the appointed service, observing Chapter 42 on Festal days. On "Lord, I have cried," Stichera of the Octoechos 4, of the Triodion 3, and of the Forefeast or Feast 3 (if it be the Afterfeast; likewise everywhere understand: where the Forefeast is, there also is the Afterfeast of the Feast, unless a particular rubric indicates otherwise in its place). Glory... from the Triodion. Both now... Theotokion of Tone 1. At the Aposticha, Stichera of the Temple; if it be the Afterfeast, then of the Feast occurring on that day. On "Lord, I have cried" of the Triodion, Glory... likewise at the Praises of the Triodion. Both now... Theotokion, or of the Forefeast, or on the Afterfeast, of the Feast. At the Litiya: 1 of the Forefeast. At the Blessing of Loaves: "Rejoice, O Virgin Theotokos" thrice; and a reading from the Epistles of the Apostles, etc. Reading of the Feast, or of the Life of Saint Luke.*  
-*At Matins, on "God is the Lord," Troparion of the Resurrection twice. Glory... Both now... of the Forefeast, etc., up to the Kathisma. After the first Kathisma: Kathismata of the Resurrection with Heirmoi on 4, and of the Theotokos on 2, and of the Forefeast on 4...*
-
-*Sunday 1.*
+*At Matins, on "God is the Lord," Troparion of the Resurrection twice. Glory... Both now... of the Forefeast, etc., up to the Kathisma. After the first Kathisma: Kathismata of the Resurrection with Heirmoi on 4, and of the Theotokos on 2, and of the Forefeast on 4 Sunday 1.*
 
 *...and in the Triodion on 4. Sessional hymn: After Ode 3, Kontakion and Ikos of the Forefeast, and Sessional hymn in the Triodion on 2. Glory... Both now... of the Forefeast. Sessional hymn of the Resurrection. Glory... in the Triodion. Both now... of the Forefeast. At the Praises, Resurrectional Stichera 4, and of the Forefeast on 2, and in the Triodion 2. Glory... in the Triodion, Podoben: (see below on fol. 17). At the Hours, Troparion of the Resurrection; Glory... of the Forefeast; Both now... Theotokion; at the 1st Hour, of the Forefeast, alternating with the Triodion. At the Liturgy, the Beatitudes of the Tone on 4, and in the Triodion Ode 3 on 4, and of the Forefeast Ode 6 on 4; and on the Afterfeast say thus: After the Entrance, Troparion of the Resurrection and of the Forefeast; Glory... Kontakion in the Triodion; Both now... of the Forefeast; Prokeimenon, Apostle, Gospel, and Communion Verse of the day and of the Theotokos.*
 
@@ -63,9 +61,7 @@ Thou art a temple and a gate, a palace and the throne of the King, O all-honored
 *At Matins, on "God is the Lord," Troparion of the Resurrection twice; Glory... Both now... of the Feast. After the Kathismata, Sessional hymns of the Resurrection, two of them; and the evening reading of Sunday concerning the Publican and the Pharisee. The Polyeleos and the Troparia "The Angelic Council";[^44] Hypakoe of the Tone, and a great reading. After "Praise the Name of the Lord," Sessional hymns of the Feast, all once; and a reading of the Feast. Gradual hymns of the Tone. Prokeimenon of the Feast; "Let every breath," and Gospel of the Feast. "Having beheld the Resurrection of Christ," and Psalm 50. Sticheron of the Feast, Tone 6: "Let the gate of heaven open..." Canons: of the Resurrection with Heirmos on 4, and in the Triodion on 4, and of the Feast on 6. For the Canon of the Feast, both choirs together sing the Heirmos. After Ode 3, Kontakion, Ikos, and Sessional hymn in the Triodion; Glory... Both now... of the Feast. After Ode 6, Kontakion and Ikos of the Feast, and reading from the Prologue. At the Liturgy, we sing the appointed hymn. Exaposteilarion of the Resurrection; Glory... in the Triodion; Both now... of the Feast. At the Praises, Resurrectional Stichera 4, and of the Feast on 4, with the verses of the Feast; Glory... of the Feast; Both now... "Most blessed art thou..." Some Typika command to sing at the Praises: Resurrectional Stichera 3, and in the Triodion 2, and of the Feast 3; Glory... of the Feast; Both now... "Most blessed art thou..." Troparion of the Resurrection only, and the customary dismissal. And the exit into the narthex; Glory... Both now... Gospel Sticheron; and the 1st Hour. At the Liturgy, the Beatitudes as appointed, of the Tone on 4, and in the Triodion Ode 3 on 4, and of the Feast Ode 6 on 4. Introit verse: "The Lord has made known His salvation; His righteousness has He openly shown in the sight of the heathen."[^45] After this, Troparion of the Resurrection and of the Feast; Glory... Kontakion in the Triodion; Both now... Kontakion of the Feast; Prokeimenon, Apostle, Alleluia, Gospel, and Communion Verse of the day and of the Feast.*
 
 *If the Apodosis of the Meeting should fall on the aforesaid Sundays:*  
-*Except at Little Vespers: on Saturday evening, at Little Vespers, and at Great Vespers, and at Matins, and at the Liturgy, the office of the Feast is taken according to custom with the apodosis. Except at Great Vespers: Stichera of the Feast on "Lord, I have cried" on 4; Both now... Theotokion of Tone 1. If it be the Temple...*
-
-*Sunday of the Publican and the Pharisee.*
+*Except at Little Vespers: on Saturday evening, at Little Vespers, and at Great Vespers, and at Matins, and at the Liturgy, the office of the Feast is taken according to custom with the apodosis. Except at Great Vespers: Stichera of the Feast on "Lord, I have cried" on 4; Both now... Theotokion of Tone 1. If it be the Temple Sunday of the Publican and the Pharisee.*
 
 *...of the Meeting, Both now... of the Feast. At the Litiya, Stichera of the Feast, and in the Triodion 5 at the Praises, without the verse. At the Blessing of Loaves, Troparion: "Rejoice, O Virgin Theotokos" twice, and of the Feast once. At Matins, at the Praises: Stichera of the Resurrection 4, and of the Feast with the verses 4; Glory... in the Triodion. At the Liturgy, the Beatitudes of the Tone on 6, and of the Feast Ode 4 on 4. After the Entrance, Troparion of the Resurrection and of the Feast, and the rest of the day and of the Feast.*
 
@@ -75,7 +71,7 @@ Thou art a temple and a gate, a palace and the throne of the King, O all-honored
 Reflecting, wretched one, upon the multitude of evil deeds which I have committed, I tremble at the fearful Day of Judgment; but trusting in the mercy of Thy lovingkindness, like David I cry aloud unto Thee: Have mercy on me, O God, according to Thy great mercy!
 
 *Then the Deacon or Priest says:*  
-**Deacon:** O God, save Thy people...  
+> **Deacon:** "O God, save Thy people..."
 *Lord, have mercy (12 times).*
 
 *Canon of the Resurrection with Heirmos on 4, and the Cross-Resurrectional on 2, and of the Theotokos on 2 [if a Saint occurs with Polyeleos: Canon of the Resurrection with Heirmos on 4, and of the Saint on 4]; and in the Triodion on 6. A Composition of George.*[^48]
@@ -194,7 +190,7 @@ Having hope in thee, the only refuge, let me not fall away from good expectation
 *Kontakion:* Having once justified the Publican when he cried out, O bountiful and good Savior, Thou didst cleanse that sinner. And overlooking my all-defiled transgressions, save me also, O wretched man, O Long-suffering One, Who alone art good to reconcile!
 
 *Ikos:* I have become like unto the haughty-minded Pharisee, O Savior, exalting myself in virtues; and I have fallen down unto the earth in ruin. As Thou didst humble the Publican, O compassionate Word, humble me also, and save me who am haughty and boast vainly with lofty thought; and grant unto my contrite soul and heart, calling out unto Thee: "Cleanse me, O God, the only Lover of mankind, and grant me forgiveness!"  
-**Choir:** *Who alone art good to reconcile.*
+> **Choir:** *Who alone art good to reconcile.*
 
 *PROLOGUE, THAT IS A BRIEF FOREWORD UNTO THE SYNAXARIA,*[^61]  
 *That is, Collections, for the Triodion Synaxaria.*  
@@ -213,17 +209,11 @@ Receive now also from men the Triodion.
 Whoso lives in the manner of a Pharisee, be far from the Church:  
 For Christ is within; the humble man is to be received.  
 
-On this present day, with God, we begin the Triodion. Which Book, in truth, many from among our holy and God-bearing Fathers, the Hymnographers, excellently and as was fitting, being awakened by the Holy Spirit, composed for vigilant singing. And the first of them who devised this—namely, three Odes, in representation, as I deem, of the Holy and Life-Originating Trinity—was the great Versifier Cosmas,[^62] during the Great and Holy Week of the Passions of our Lord God and Savior Jesus Christ, having composed three Odes with acrostics corresponding in title to almost every day. Following his example, others of the Fathers, and most beautifully of all, Theodore and Joseph the Studites,[^63] having composed chants for the other weeks of the holy Great Fast, delivered them first unto their own Studios Monastery. Afterward, having arranged the most notable odes and written them in verse, they also gathered and collected in this Book other hymns from the Fathers in some measure. Since, therefore, Sunday contains within itself the first day, being honored by Christ's Resurrection, being first, and eighth, and last: they rightly did so, that unto the second day, that is Monday, they assigned the First Ode; unto the third day, that is Tuesday, the Second Ode; unto the fourth, that is Wednesday, the Third; unto the fifth, that is Thursday, the Fourth; unto the sixth day, that is Friday, the Fifth Ode; and unto the seventh, that is Saturday, the Sixth and Seventh Odes, and the last two: that is, the Eighth and Ninth; which two days, that is Saturday and Sunday, all men commonly hold as the most eminent of all days. As indeed the blessed Cosmas also appointed for Great Saturday, having composed a Four-Ode Canon there, although afterward the most wise Emperor Leo...[^64]
+On this present day, with God, we begin the Triodion. Which Book, in truth, many from among our holy and God-bearing Fathers, the Hymnographers, excellently and as was fitting, being awakened by the Holy Spirit, composed for vigilant singing. And the first of them who devised this—namely, three Odes, in representation, as I deem, of the Holy and Life-Originating Trinity—was the great Versifier Cosmas,[^62] during the Great and Holy Week of the Passions of our Lord God and Savior Jesus Christ, having composed three Odes with acrostics corresponding in title to almost every day. Following his example, others of the Fathers, and most beautifully of all, Theodore and Joseph the Studites,[^63] having composed chants for the other weeks of the holy Great Fast, delivered them first unto their own Studios Monastery. Afterward, having arranged the most notable odes and written them in verse, they also gathered and collected in this Book other hymns from the Fathers in some measure. Since, therefore, Sunday contains within itself the first day, being honored by Christ's Resurrection, being first, and eighth, and last: they rightly did so, that unto the second day, that is Monday, they assigned the First Ode; unto the third day, that is Tuesday, the Second Ode; unto the fourth, that is Wednesday, the Third; unto the fifth, that is Thursday, the Fourth; unto the sixth day, that is Friday, the Fifth Ode; and unto the seventh, that is Saturday, the Sixth and Seventh Odes, and the last two: that is, the Eighth and Ninth; which two days, that is Saturday and Sunday, all men commonly hold as the most eminent of all days. As indeed the blessed Cosmas also appointed for Great Saturday, having composed a Four-Ode Canon there, although afterward the most wise Emperor Leo[^64] *Sunday of the Publican and the Pharisee.*
 
-*Sunday of the Publican and the Pharisee.*
+...having given command, Mark the Monk, Bishop of Hydrus,[^65] brought and arranged that into a complete Canon. Furthermore, it is called Triodion *catachrestice* [in an extended sense]:[^66] for it does not always contain Three-Ode Canons, since complete and full Canons are also translated. But I consider that it has such a name from the most plentiful and greater part within it, or on account of those Odes of Great Week which were composed first, as was said. The purpose, therefore, and design of our holy Fathers in the writing of these Triodion Odes and Synaxaria was this: that throughout the entire Book of the Triodion they might briefly recall from the beginning, and impress upon the memory of all, as many divine benefits as have been wrought concerning us: namely, how, having been created by Him, and having cast away His commandment which was given unto us for our discipline, we became exiles from the delight of Paradise, and were cast out through the envy of the godly malice of the serpent and enemy, who was brought unto nothing on account of his arrogance; and how we lived alienated from good things, being guided by the devil; and how the Son and Word of God, having had compassion in His mercy, bowed the heavens and came down, and chose the Virgin for His dwelling, and for our sake became Man; and through the life which was ordered according to Him, showed the way into heaven: that is, first of all through humility, through fasting, through the putting away of malice, and through other works; and how He suffered, and rose from the dead, and ascended again into heaven, and sent the Holy Spirit unto His holy Disciples and Apostles; and how He, the Son of God and perfect God, was proclaimed by them according unto all things; and what the divine Apostles, by the grace of the All-Holy Spirit, accomplished, gathering together all from the ends of the earth through their preaching, that they might fill the world on high: which was the purpose from the beginning of God Himself, Who deigned to create us. But among these things of the Triodion, that is, of the Three-Ode Canon, this is the purpose: these present three Feasts—the first of the Publican and the Pharisee; the second of the Prodigal Son; and the third of the Second Coming of Christ—have been devised by the holy Fathers as a certain anticipatory discipline and stirring up, to the end that we might prepare ourselves and be fit for the spiritual ascetic labors of the Fast, having put away the base habit acquired by custom. And therefore, before all things, they set forth for us the Parable of the Publican and the Pharisee, and called it a Proclamatory Song. For just as those who wish to go forth unto bodily warfare receive from their Hetmans instruction concerning the time of war[^67] *Sunday.*
 
-...having given command, Mark the Monk, Bishop of Hydrus,[^65] brought and arranged that into a complete Canon. Furthermore, it is called Triodion *catachrestice* [in an extended sense]:[^66] for it does not always contain Three-Ode Canons, since complete and full Canons are also translated. But I consider that it has such a name from the most plentiful and greater part within it, or on account of those Odes of Great Week which were composed first, as was said. The purpose, therefore, and design of our holy Fathers in the writing of these Triodion Odes and Synaxaria was this: that throughout the entire Book of the Triodion they might briefly recall from the beginning, and impress upon the memory of all, as many divine benefits as have been wrought concerning us: namely, how, having been created by Him, and having cast away His commandment which was given unto us for our discipline, we became exiles from the delight of Paradise, and were cast out through the envy of the godly malice of the serpent and enemy, who was brought unto nothing on account of his arrogance; and how we lived alienated from good things, being guided by the devil; and how the Son and Word of God, having had compassion in His mercy, bowed the heavens and came down, and chose the Virgin for His dwelling, and for our sake became Man; and through the life which was ordered according to Him, showed the way into heaven: that is, first of all through humility, through fasting, through the putting away of malice, and through other works; and how He suffered, and rose from the dead, and ascended again into heaven, and sent the Holy Spirit unto His holy Disciples and Apostles; and how He, the Son of God and perfect God, was proclaimed by them according unto all things; and what the divine Apostles, by the grace of the All-Holy Spirit, accomplished, gathering together all from the ends of the earth through their preaching, that they might fill the world on high: which was the purpose from the beginning of God Himself, Who deigned to create us. But among these things of the Triodion, that is, of the Three-Ode Canon, this is the purpose: these present three Feasts—the first of the Publican and the Pharisee; the second of the Prodigal Son; and the third of the Second Coming of Christ—have been devised by the holy Fathers as a certain anticipatory discipline and stirring up, to the end that we might prepare ourselves and be fit for the spiritual ascetic labors of the Fast, having put away the base habit acquired by custom. And therefore, before all things, they set forth for us the Parable of the Publican and the Pharisee, and called it a Proclamatory Song. For just as those who wish to go forth unto bodily warfare receive from their Hetmans instruction concerning the time of war...[^67]
-
-*Sunday.*
-
-...receive instruction and knowledge, that they may clean and polish their swords, and thoroughly equip themselves in everything else pertaining unto war, and casting far away every hindrance, may come in readiness unto the struggles, and prepare all things in sufficiency as much as is needed; and often also, before the battle, they do not endure to delay against the enemies, and discourses, histories, and examples are brought before them, stirring up their souls unto emulation, and putting far away rottenness, fear, sloth, and whatever else might be dangerous: so also the divine Fathers, as if by a trumpet, prefigure the forthcoming deployment of the Lenten army: that if there be any preeminent passion in our souls, that is, an affection, and that for a long time has wrought poison, we might cleanse it; and moreover, that striving to acquire whatever of good works was lacking unto us, and being armed according to decency, we might thus betake ourselves, prepared, unto the Lenten ascetic struggles and labors. Since, therefore, the very first armor unto virtue is Repentance and Humility, and on the other hand, the greatest impediment and hindrance thereunto is boastfulness and puffing up: for these reasons the aforementioned holy Fathers set forth and reveal the present Parable from the divine Gospel, worthy of faith, as the first of all. Admonishing us, that through the Pharisee indeed we should beware of pride and high conceit of ourselves; and through the Publican we should esteem highly that which is contrary unto that passion, that is, humility and repentance, and should receive the same. For pride and puffing up is the first and worst passion among passions, so that on account thereof not only did the fall from heaven befall the devil, who was formerly the Daystar,[^68] and afterward became and was named darkness; but also unto the beginning of the human race, that is unto Adam, banishment from the delight of Paradise occurred on account of that same passion. Therefore, after such a manner do the Holy Fathers admonish us, that no one on account of virtues, even if they be perfectly fulfilled, should exalt himself, nor despise or surpass his neighbor, but should always be humble. For the Lord resists the proud, but gives grace unto the humble.[^69] And it is indeed a better thing when a sinner turns, than when a virtuous man exalts himself and becomes proud. "For I say unto you," He said, "that the Publican went out justified rather than the Pharisee."[^70] The Parable shows, therefore, that no one ought to exalt himself, even if he should perform good works...
-
-*Sunday of the Publican and the Pharisee.*
+...receive instruction and knowledge, that they may clean and polish their swords, and thoroughly equip themselves in everything else pertaining unto war, and casting far away every hindrance, may come in readiness unto the struggles, and prepare all things in sufficiency as much as is needed; and often also, before the battle, they do not endure to delay against the enemies, and discourses, histories, and examples are brought before them, stirring up their souls unto emulation, and putting far away rottenness, fear, sloth, and whatever else might be dangerous: so also the divine Fathers, as if by a trumpet, prefigure the forthcoming deployment of the Lenten army: that if there be any preeminent passion in our souls, that is, an affection, and that for a long time has wrought poison, we might cleanse it; and moreover, that striving to acquire whatever of good works was lacking unto us, and being armed according to decency, we might thus betake ourselves, prepared, unto the Lenten ascetic struggles and labors. Since, therefore, the very first armor unto virtue is Repentance and Humility, and on the other hand, the greatest impediment and hindrance thereunto is boastfulness and puffing up: for these reasons the aforementioned holy Fathers set forth and reveal the present Parable from the divine Gospel, worthy of faith, as the first of all. Admonishing us, that through the Pharisee indeed we should beware of pride and high conceit of ourselves; and through the Publican we should esteem highly that which is contrary unto that passion, that is, humility and repentance, and should receive the same. For pride and puffing up is the first and worst passion among passions, so that on account thereof not only did the fall from heaven befall the devil, who was formerly the Daystar,[^68] and afterward became and was named darkness; but also unto the beginning of the human race, that is unto Adam, banishment from the delight of Paradise occurred on account of that same passion. Therefore, after such a manner do the Holy Fathers admonish us, that no one on account of virtues, even if they be perfectly fulfilled, should exalt himself, nor despise or surpass his neighbor, but should always be humble. For the Lord resists the proud, but gives grace unto the humble.[^69] And it is indeed a better thing when a sinner turns, than when a virtuous man exalts himself and becomes proud. "For I say unto you," He said, "that the Publican went out justified rather than the Pharisee."[^70] The Parable shows, therefore, that no one ought to exalt himself, even if he should perform good works *Sunday of the Publican and the Pharisee.*
 
 ...fulfilling them; but always to abase and humble oneself, and to pray with the whole soul unto the Lord God, even if one be encompassed by the extreme of evils, being assured of this, that salvation is not far off. A Publican, in truth, is one who receives tolls from princes, and buys them through extreme injustice, and from thence acquires gains.[^71] A Pharisee, on the other hand, is as one set apart, and surpassing others in knowledge. A Sadducee is from a certain Zadok, which is interpreted "righteous": for *Tsedek* is righteousness. There were also three sects among the Hebrews: Essenes, Pharisees, and Sadducees; which latter acknowledged and believed that there is neither resurrection, nor Angel, nor Spirit.[^72] Through the prayers of all Thy holy Hymnographers, O Christ our God, have mercy on us. Amen.
 
@@ -260,9 +250,7 @@ On this present day, with God, we begin the Triodion. Which Book, in truth, many
 *Theotokion:* I know no other protection than thee: I offer thee as an intercessor, O pure and all-immaculate Lady; I stir thee up as a mediatress unto Him Who was born of thee: show me free from all that afflict me!
 
 *Ode 9. Heirmos: It is not possible for men to see God, upon Whom the ranks of Angels dare not gaze; but through thee, O All-Pure One, the Incarnate Word appeared unto mortals: Whom magnifying, with the heavenly hosts we call thee blessed.*[^77]  
-*Troparion:* Having received from Christ humility as the way of exaltation and the pattern of salvation, let us emulate the disposition of the Publican...
-
-*Sunday of the Publican and the Pharisee.*
+*Troparion:* Having received from Christ humility as the way of exaltation and the pattern of salvation, let us emulate the disposition of the Publican *Sunday of the Publican and the Pharisee.*
 
 ...casting far away the haughtiness of exaltation, and entreating God with a humble-minded disposition.
 
@@ -282,13 +270,11 @@ On this present day, with God, we begin the Triodion. Which Book, in truth, many
 
 *Exapostilarion of the Octoechos; and another from the Triodion.*  
 *Tone 2, Podoben: "Give ear, ye women" (Же́ны ѹ҆слы́шите):*[^79]  
-*Glory...*
-
-*Sunday.*
+*Glory Sunday.*
 
 Let us flee the most evil boastfulness of the Pharisee, and let us learn the excellent humility of the Publican, that we may be exalted, crying out unto God with him: "Cleanse Thy servants, O Christ the Savior, Who of Thine own will wast born of the Virgin, and didst endure the Cross, and hast saved the world by Thy divine power!"
 
-*Both now... Theotokion, Podoben:*  
+*Both now... Theotokion, Podoben (Подо́бенъ):*  
 The Fashioner of creation and God of all took corruptible flesh from thy spotless womb, O all-hymned Mother of God, and renewed all my corrupt nature, having left thee after childbearing even as thou wast before childbearing; therefore, with faith, praising thee, we all cry out: Rejoice, O glory of the world!
 
 *At the Praises, Resurrectional Stichera: Tone 4; and 1 Anatolian; and 2 from the Triodion. On 6. Tone 3:*  
@@ -305,9 +291,7 @@ Having hated the boastful voice of the Pharisee, O ye faithful, and having emula
 
 *After the others, at the Praises: 4 Stichera of the Octoechos; and 4 of the Triodion. Tone 1: "Let us not pray like the Pharisee..." and "A Pharisee, overcome by vainglory..." (see fol. 2)[^82], not repeating these two.*  
 *Glory... Tone 8:*  
-Thou hast condemned the Pharisee who justified himself by works, O Lord; and Thou hast justified the Publican who humbled himself and with groanings asked for cleansing. For Thou dost not give heed unto proud thoughts, and dost not despise a contrite heart. Therefore we also unto Thee...
-
-*Sunday of the Publican and the Pharisee.*
+Thou hast condemned the Pharisee who justified himself by works, O Lord; and Thou hast justified the Publican who humbled himself and with groanings asked for cleansing. For Thou dost not give heed unto proud thoughts, and dost not despise a contrite heart. Therefore we also unto Thee *Sunday of the Publican and the Pharisee.*
 
 ...fall down before Thee in humility, Who didst suffer for our sake: grant us forgiveness and great mercy.
 
@@ -339,9 +323,7 @@ Thou hast condemned the Pharisee who justified himself by works, O Lord; and Tho
 
 *Sticheron 1, Tone 1:* Into a sinless and life-giving land was I entrusted; but having sown sin, with the sickle I reaped the ears of sloth, and by handfuls bound the sheaves of my deeds, which I spread not upon the threshing-floor of repentance. But praying unto Thee, our pre-eternal Husbandman and God: with the wind of Thy tender-heartedness winnow the chaff of my deeds, and grant unto my soul wheat—even forgiveness, shutting me into Thy heavenly granary, and save me!
 
-*Sticheron 2, Tone 1:* Let us understand, O brethren, the power of the mystery: for from sin...
-
-*Sunday of the Prodigal Son.*
+*Sticheron 2, Tone 1:* Let us understand, O brethren, the power of the mystery: for from sin *Sunday of the Prodigal Son.*
 
 ...having run back unto the fatherly house, the most good Father, coming forth to meet the prodigal son, kisses him, and again bestows the tokens of His own glory, and accomplishes mystical rejoicing for those on high, slaying the fatted calf, that we may live worthily together: unto the Father Who loved mankind and slew the calf, and unto the glorious Sacrifice, the Savior of our souls.
 
@@ -384,9 +366,7 @@ My Maker and Redeemer, Christ the Lord, O Most Pure One, having come forth from 
 *Theotokion:* Having shown forth upon me all Thy goodness, O God, overlook the multitude of my transgressions, as the Benefactor, through the divine entreaties of Thy Mother.
 
 *And the other Heirmoi of the Canons that are recited:*  
-*Ode 1. Heirmos:* Moses' Song...
-
-*Sunday of the Prodigal Son.*
+*Ode 1. Heirmos:* Moses' Song *Sunday of the Prodigal Son.*
 
 *Ode 1. Alternate Heirmos:* Having taken up Moses' Song, cry aloud, O soul: He was my helper and protector unto salvation; this is my God, and I will glorify Him (Exod. 15:1–2).[^101]  
 *Or:* I shall open my mouth... (Tone 4).[^102]
@@ -413,9 +393,7 @@ O undefiled, pure Virgin Mother of God, only protectress and shelter of the fait
 *Ode 4. Heirmos: Foreseeing Thy birth from the Virgin...*[^106]  
 *Troparion:* The wealth of good things which Thou gavest me, O heavenly Father, have I evilly squandered, being enslaved unto alien citizens; therefore I cry unto Thee: "I have sinned against Thee! Receive me as the prodigal of old, stretching forth Thine embraces unto me!"
 
-*Troparion:* I have been enslaved unto every malice, having wretchedly bowed down unto the workers of passions, and have become outside myself through lack of humility: have compassion...
-
-*Sunday of the Prodigal Son.*
+*Troparion:* I have been enslaved unto every malice, having wretchedly bowed down unto the workers of passions, and have become outside myself through lack of humility: have compassion *Sunday of the Prodigal Son.*
 
 ...on me, O Savior, heavenly Father, who flee unto Thy many compassions.
 
@@ -467,15 +445,11 @@ From Thy fatherly glory have I senselessly departed, having squandered in evil w
 *If any man be a prodigal, let him even so be of good courage;*  
 *For unto all is the door of God's abundant compassion opened.*
 
-On this day we celebrate the recall of the prodigal son, which our most divine Fathers arranged as second in the Triodion for such a reason as this: Forasmuch as there be certain men who, being conscious in themselves of many abominable deeds, and having lived right dissolutely from...
-
-*Sunday of the Prodigal Son.*
+On this day we celebrate the recall of the prodigal son, which our most divine Fathers arranged as second in the Triodion for such a reason as this: Forasmuch as there be certain men who, being conscious in themselves of many abominable deeds, and having lived right dissolutely from *Sunday of the Prodigal Son.*
 
 ...the years of their youth, occupying themselves in drunkenness and debauchery, and having thus fallen into the depth of evils, come unto despair—that is to say, unto the loss of hope concerning their own salvation. Which despair is the fruit and yield of pride; and from thence they are in no wise willing to attain unto striving after virtue, but laying evil upon evil, fall into yet worse vices. The holy Fathers, therefore, bearing themselves kindly and fatherly toward such men, and desiring to turn them away from despair, arranged this present parable here after the first, plucking up by the roots the passion of despair, and stirring them up unto the regaining of virtue, and setting forth through the prodigal the divine mercies, which love mankind and are exceedingly good, toward those who have sinned right grievously; and demonstrating from this parable before Christ's very eyes that there is no sin which can overcome His judgment that loves mankind.
 
-Two, therefore, are the sons of the Man—that is, of the God-Man, the Word: the righteous, and the sinners. The elder, then, is he who abides with Him in the commandments of God and in good order, and in no wise departs from Him. The younger, on the other hand, is he who lusted after sin, and by reason of abominable deeds would not have cohabitation with God, and vainly forfeited the divine love for mankind which he beheld in himself, having lived dissolutely, as one who preserved not whole the image of God wherein he had been created; and having surrendered himself unto insidious wrath, through voluptuous pleasures he ministered unto its desires, yet was not able to satisfy his lust. For sin is a certain insatiable thing, which deceives through habitual custom for the sake of temporal sweetness; and for this cause it is likened unto the carob pods, which are the food of swine. For carob pods at first offer something sweet, but afterward produce something bitter and full of roughness; all of which sin has within itself. Scarcely, therefore, having come to himself and returned unto his senses, the prodigal son, as one who was already perishing from hunger of virtue, comes unto the Father, saying: "Father, I have sinned against heaven and before Thee, and am not worthy to be called Thy son." And He receives him repenting, not upbraiding him, but embracing and enfolding him, He shows forth divine and fatherly mercies, and gives him a garment—Holy Baptism; and a seal and earnest—the Grace of the All-Holy Spirit; and unto this also shoes, that his feet might not be wounded by serpents and scorpions...
-
-*Sunday of the Prodigal Son.*
+Two, therefore, are the sons of the Man—that is, of the God-Man, the Word: the righteous, and the sinners. The elder, then, is he who abides with Him in the commandments of God and in good order, and in no wise departs from Him. The younger, on the other hand, is he who lusted after sin, and by reason of abominable deeds would not have cohabitation with God, and vainly forfeited the divine love for mankind which he beheld in himself, having lived dissolutely, as one who preserved not whole the image of God wherein he had been created; and having surrendered himself unto insidious wrath, through voluptuous pleasures he ministered unto its desires, yet was not able to satisfy his lust. For sin is a certain insatiable thing, which deceives through habitual custom for the sake of temporal sweetness; and for this cause it is likened unto the carob pods, which are the food of swine. For carob pods at first offer something sweet, but afterward produce something bitter and full of roughness; all of which sin has within itself. Scarcely, therefore, having come to himself and returned unto his senses, the prodigal son, as one who was already perishing from hunger of virtue, comes unto the Father, saying: "Father, I have sinned against heaven and before Thee, and am not worthy to be called Thy son." And He receives him repenting, not upbraiding him, but embracing and enfolding him, He shows forth divine and fatherly mercies, and gives him a garment—Holy Baptism; and a seal and earnest—the Grace of the All-Holy Spirit; and unto this also shoes, that his feet might not be wounded by serpents and scorpions *Sunday of the Prodigal Son.*
 
 ...treading according to the Gospel, but rather might be able to crush their heads (Luke 10:19).[^115] And afterward, in exceeding great joy, the Father slays for him the fatted calf—His only-begotten Son—and grants him to be a partaker of His Body and Blood; even though the elder son marveled at His unreckonable mercy, and said and uttered many things. Yet the Lover of mankind appeases him also and bids him be silent, entreating him softly with gentle and kind words, saying: "Thou art ever with me, and it is a fitting thing to rejoice and partake of the feast with the Father, for this my son was dead beforehand in sin, and is alive again, having done penance for that which he senselessly committed; and having been lost, having departed from me through the habit of luxuries, he is found by me, who suffered out of mine own mercies, and called him by way of compassion." This parable may also be understood and interpreted concerning the Jewish people and ourselves. For this reason, then, was this parable appointed here by the holy Fathers, plucking up, as was said, despair and the dread of undertaking good deeds, and admonishing him who has sinned like that prodigal unto repentance and sorrow for sins. Which in truth is an exceeding great bulwark against the striking of the adversary's arrows, and a mighty defense.
 
@@ -487,9 +461,7 @@ Through Thine ineffable love for mankind, O Christ our God, have mercy on us. Am
 *Troparion:* I cry aloud: "I have sinned!" in no wise daring to look up unto the height of heaven, O King of all, for in folly have I alone provoked Thee to anger, having rejected Thy commandments; therefore, as Thou alone art good, cast me not away from Thy presence!
 
 *Glory...*  
-*Troparion:* Through the supplications of the Apostles of the Lord, and Prophets, and Venerables, and venerable Martyrs...
-
-*Sunday of the Prodigal Son.*
+*Troparion:* Through the supplications of the Apostles of the Lord, and Prophets, and Venerables, and venerable Martyrs *Sunday of the Prodigal Son.*
 
 ...and Righteous Ones, forgive me all wherein I have sinned, having provoked Thy goodness, O Christ, that I may hymn Thee unto all ages.
 
@@ -601,9 +573,7 @@ I weep and lament when I contemplate death, and behold lying in the graves our b
 
 *Instead of the Prokeimenon, we chant Alleluia in Tone 8. Verse: Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord, and their memorial is from generation to generation (Ps. 64:5; 101:13 [LXX Ps. 64:5; 101:13 / MT Ps. 65:4; 102:12]). Verse: Their souls shall dwell amid good things (Ps. 24:13 [LXX Ps. 24:13 / MT Ps. 25:13]).*[^132]
 
-*AT THE APOSTICHA. Martyrion, 1; and two Idiomela for the Departed by Kyr John of Damascus...*
-
-*Meatfare Saturday.*
+*AT THE APOSTICHA. Martyrion, 1; and two Idiomela for the Departed by Kyr John of Damascus Meatfare Saturday.*
 
 *...Damascene, of the Tone in order. And we chant the refrains aforesaid: Blessed are they whom Thou hast chosen... and: Their souls shall dwell amid good things.*
 
@@ -635,14 +605,14 @@ Thee do we have as a rampart and a haven, and an acceptable intercessor before G
 
 *After the reading we chant the Amomos (Ps. 118 [LXX Ps. 118 / MT Ps. 119]),*[^143] *with the refrains: Blessed art Thou, O Lord; in Tone 2, in two stases. At "Glory..." we do not chant Alleluia, but verses for the departed. After the First Stasis, the Ectenia:*
 
-**Deacon:** Again and again in peace let us pray unto the Lord.  
-**Choir:** Lord, have mercy.  
-**Deacon:** Again we pray for the remission of the sins of the servants of God reposed in blessed memory and commemorated by us: the most holy Ecumenical Patriarchs; the pious Kings and Queens; the most reverend Metropolitans; the right-believing Great Princes and Princesses; the God-loving Archbishops and Bishops; and the entire priestly and monastic order, our fathers and brethren lying here [and here inscribed in the memorial books],*[^144] and all Orthodox Christians everywhere, for whom we make commemoration.  
-**Choir:** Lord, have mercy.  
-**Deacon:** That they may be forgiven... That the Lord God... The mercy of God and the Kingdom of Heaven...  
-**Choir:** Lord, have mercy (forty times).  
+> **Deacon:** "Again and again in peace let us pray unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Again we pray for the remission of the sins of the servants of God reposed in blessed memory and commemorated by us: the most holy Ecumenical Patriarchs; the pious Kings and Queens; the most reverend Metropolitans; the right-believing Great Princes and Princesses; the God-loving Archbishops and Bishops; and the entire priestly and monastic order, our fathers and brethren lying here [and here inscribed in the memorial books],*[^144] and all Orthodox Christians everywhere, for whom we make commemoration."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "That they may be forgiven... That the Lord God... The mercy of God and the Kingdom of Heaven..."
+> **Choir:** "Lord, have mercy (forty times)."
 *Whenever the Priest says the diaconal petitions after a Kathisma, or at the Canon, when he commemorates the departed. After this, Exclamation:*  
-**Priest:** For Thou art the resurrection, the life, and the repose...
+> **Priest:** "For Thou art the resurrection, the life, and the repose..."
 
 *And we chant the Second Stasis, at which the refrain is: O Savior, save me!*  
 *At the end: Let my soul live... three times (Ps. 118:175 [LXX Ps. 118:175 / MT Ps. 119:175]).*  
@@ -652,9 +622,7 @@ Thee do we have as a rampart and a haven, and an acceptable intercessor before G
 
 *Blessed art Thou, O Lord, teach me Thy statutes!*
 
-*Troparion:* O Thou Who of old didst fashion me out of nothingness by Thine hand, and didst honor me with Thine own divine image, but by reason of transgression of Thy commandment didst return me again...
-
-*Meatfare Saturday.*
+*Troparion:* O Thou Who of old didst fashion me out of nothingness by Thine hand, and didst honor me with Thine own divine image, but by reason of transgression of Thy commandment didst return me again *Meatfare Saturday.*
 
 ...unto the earth from whence I was taken, lead me back unto that which is according to Thy likeness, that I may be adorned again with mine ancient beauty!
 
@@ -808,9 +776,7 @@ More honorable than the flame-formed Seraphim hast thou been revealed, O pure on
 
 *Troparion:* When Thine Archangel shall sound with the last trumpet for the resurrection of life of all men: then, O Christ, give rest unto Thy servants!
 
-*Troparion:* From the ages, all the faithful whom Thou hast received, O God, every race of mortal...
-
-*Meatfare Saturday.*
+*Troparion:* From the ages, all the faithful whom Thou hast received, O God, every race of mortal *Meatfare Saturday.*
 
 ...men, vouchsafe unto the ages to glorify Thee together with those who serve Thee!
 
@@ -829,23 +795,17 @@ Leap for joy, O Forefather Jesse, for from thy root has blossomed the Flower of 
 Remember not, O Word, the sins of the departed,  
 Leaving not Thy good compassions unrevealed unto the dead.
 
-On this day, the most divine Fathers enacted that commemoration should be celebrated for all persons who from the ages have ended their lives in piety, for the following reason: because some often underwent an untimely and premature death while abroad in strange lands—that is to say, in the sea, in impassable and uninhabited mountains, in clefts of rocks, and in chasms of the earth; or suffered death by famines, pestilential plagues, wars, conflagrations, frosts, and every other manner of mortality. Likewise, because some, being poor and destitute, did not attain unto the prescribed psalms, hymns, and memorial diptychs, the divine Fathers, being moved with compassion, handed down and instituted as a rule that the Catholic Church should celebrate a common commemoration for all these together, having themselves received this tradition first from the Holy Apostles; so that those who, by reason of any circumstance, could not individually obtain these prescribed rites and suffrages, might be admitted and received...
-
-*Meatfare Saturday.*
+On this day, the most divine Fathers enacted that commemoration should be celebrated for all persons who from the ages have ended their lives in piety, for the following reason: because some often underwent an untimely and premature death while abroad in strange lands—that is to say, in the sea, in impassable and uninhabited mountains, in clefts of rocks, and in chasms of the earth; or suffered death by famines, pestilential plagues, wars, conflagrations, frosts, and every other manner of mortality. Likewise, because some, being poor and destitute, did not attain unto the prescribed psalms, hymns, and memorial diptychs, the divine Fathers, being moved with compassion, handed down and instituted as a rule that the Catholic Church should celebrate a common commemoration for all these together, having themselves received this tradition first from the Holy Apostles; so that those who, by reason of any circumstance, could not individually obtain these prescribed rites and suffrages, might be admitted and received *Meatfare Saturday.*
 
 ...unto this present general commemoration. Demonstrating also thereby that what is performed on their behalf gains for them great benefit. According to the first manner, therefore, God's Church performs commemorations for the souls. According to the second manner, moreover, since they desired to set Christ's Second Coming before our eyes on the morrow, it is fitting also to celebrate commemoration for the souls, as it were imploring the fearful and righteous Judge, and avoiding negligence, that He might exercise His customary unhindered compassion toward them, and settle and establish them in the promised delight. In another understanding, moreover, as the Saints wished to set forth the expulsion of Adam on the coming Sunday, they intend as it were a kind of rest and completion of all things that have been done concerning us through this present rest; so that from henceforward they might begin anew as from the beginning: for finally, an examination will be made by the incorruptible Judge concerning all other deeds from all hours of our life; and furthermore, that by inspiring awe in men thereby, they might make them ready and capable for the struggles of the Fast.
 
-On Saturday, moreover, we always celebrate the commemoration of souls, because *Sabbaton*—that is, Saturday—signifies "rest" in Hebrew. And concerning the deceased, seeing that they have rested and ceased from worldly matters pertaining to temporal life and from all other affairs, we make supplications and prayers for them on the day of rest; which is canonical and upheld, that it should take place every Saturday. Nevertheless, today we make commemoration collectively, praying for every pious soul. For the divine Fathers knew that these commemorations performed for the departed—that is to say, alms and Liturgies—bring them great relief and benefit; and they commanded that this be done both privately and in common, that is, in the assembly in church, having received this from the Holy Apostles, as has been said. As also Dionysius the Areopagite says.[^166] And that that which is performed on their behalf brings benefit to souls is evident both from many other true proofs, and no less from the history concerning Saint Macarius,[^167] who, walking along the road, found the dry skull of a godless pagan man, and asked whether they ever had any comfort or relief in hell; and that skull answered, saying: "They have great alleviation and relief when thou prayest for the departed, O Father!" For that great Saint was wont to do this...
-
-*Meatfare Saturday.*
+On Saturday, moreover, we always celebrate the commemoration of souls, because *Sabbaton*—that is, Saturday—signifies "rest" in Hebrew. And concerning the deceased, seeing that they have rested and ceased from worldly matters pertaining to temporal life and from all other affairs, we make supplications and prayers for them on the day of rest; which is canonical and upheld, that it should take place every Saturday. Nevertheless, today we make commemoration collectively, praying for every pious soul. For the divine Fathers knew that these commemorations performed for the departed—that is to say, alms and Liturgies—bring them great relief and benefit; and they commanded that this be done both privately and in common, that is, in the assembly in church, having received this from the Holy Apostles, as has been said. As also Dionysius the Areopagite says.[^166] And that that which is performed on their behalf brings benefit to souls is evident both from many other true proofs, and no less from the history concerning Saint Macarius,[^167] who, walking along the road, found the dry skull of a godless pagan man, and asked whether they ever had any comfort or relief in hell; and that skull answered, saying: "They have great alleviation and relief when thou prayest for the departed, O Father!" For that great Saint was wont to do this *Meatfare Saturday.*
 
 ...and he prayed to God, desiring to receive knowledge whether such benefit came from thence unto souls that had previously departed. Moreover, Gregory the Dialogist saved Emperor Trajan through prayer,[^168] having heard from God that he should never thenceforth pray for the ungodly. Furthermore, Empress Theodora snatched the abhorrent Theophilus from torments and saved him through holy men and confessors, as is recorded in history.[^169] Gregory the Theologian also commends gifts for the dead as good, in his Funeral Oration which he delivered for his brother Caesarius.[^170]
 
 The great Chrysostom, moreover, in his Epistle to the Philippians speaks thus: "Let us consider the benefit of those who have departed; let us give them present assistance—alms, I say, and oblations. For this thing brings them great traffic and exceedingly great profit and benefit. For not in vain nor by chance was this enacted and handed down unto the Church of God by His all-wise Disciples: that at the dread Mysteries the priest should make remembrance of those who have fallen asleep in faith." And again: "In thy disposition and testament with thy children and kin, let thy deed contain fellowship with the Judge's name; let it contain also remembrance of the poor, and I will be guarantor for them!"[^171]
 
-The renowned Athanasius also says: "Even if he who ended his life in piety were scattered into the air, do not neglect to light oil and candles at his grave, calling upon Christ God: for these things are acceptable unto God and bring a great reward. And if the departed be a sinner, that thou mayest loose his sins; but if he be righteous, that an increase of reward may be given him. If, moreover, there be one who, being a stranger and destitute, has none who in such circumstances would have care and solicitude for him: then God, being righteous and good, grants unto him also, because of his destitution, His mercy according to that which He Himself knows beyond our comprehension. In another manner, also, he who offers oblations for such ones becomes a partaker of the reward, because he showed love for the relief of his neighbor: even as he who anoints another with fragrant oil smells sweetly thereof himself first. But as for those who do not fulfill that which was entrusted and committed unto them and the testaments in such matters, they shall assuredly have judgment! Until, therefore, the Second Coming of Christ shall arrive, whatsoever is performed for the dead brings benefit, as the divine Fathers say, and most of all unto those..."
-
-*Meatfare Saturday.*
+The renowned Athanasius also says: "Even if he who ended his life in piety were scattered into the air, do not neglect to light oil and candles at his grave, calling upon Christ God: for these things are acceptable unto God and bring a great reward. And if the departed be a sinner, that thou mayest loose his sins; but if he be righteous, that an increase of reward may be given him. If, moreover, there be one who, being a stranger and destitute, has none who in such circumstances would have care and solicitude for him: then God, being righteous and good, grants unto him also, because of his destitution, His mercy according to that which He Himself knows beyond our comprehension. In another manner, also, he who offers oblations for such ones becomes a partaker of the reward, because he showed love for the relief of his neighbor: even as he who anoints another with fragrant oil smells sweetly thereof himself first. But as for those who do not fulfill that which was entrusted and committed unto them and the testaments in such matters, they shall assuredly have judgment! Until, therefore, the Second Coming of Christ shall arrive, whatsoever is performed for the dead brings benefit, as the divine Fathers say, and most of all unto those" *Meatfare Saturday.*
 
 ...unto those who performed even a little of good works: seeing that living, they were found in negligence. And although divine Scripture relates that some dishes are sour (as is proper and profitable) for the instruction and reformation of many men, nevertheless God's love for mankind preponderates most of all. For if an equal balance of good and evil deeds be found, God's goodness toward man outweighs the scale; and if the scale be weighed down somewhat with evil deeds and tilt downward, the selfsame mercy and generosity of God holds it back again.[^172]
 
@@ -857,9 +817,7 @@ Unto the holy Martyrs also it is granted to look upon the things that take place
 
 It is necessary to know also that now the souls of the righteous dwell in certain appointed places, and those of sinners contrariwise: the former truly rejoicing in hope, but the latter grieving in expectation of terrible torments. For the Saints have not yet received the promises of good things, as the divine Apostle says: "God having provided some better thing for us, that they without us should not be made perfect" (Heb. 11:40).[^176]
 
-It is necessary also to know that not all those who fall into precipices, into fire, and into the sea, and depart this life through the aforesaid mortal accidents—such as cold, hunger, and the like—suffer this according to God's commandment. For these are the judgments of God, whereof...
-
-*Meatfare Saturday.*
+It is necessary also to know that not all those who fall into precipices, into fire, and into the sea, and depart this life through the aforesaid mortal accidents—such as cold, hunger, and the like—suffer this according to God's commandment. For these are the judgments of God, whereof *Meatfare Saturday.*
 
 ...some occur according to His good pleasure, and others according to His permission. Therein also they happen for knowledge, for warning, and for the amendment of others; and by His foreknowing Word He knows and understands all things, and they happen by His will, even as the Holy Gospel speaks concerning the sparrows (Matt. 10:29). He does not predestine, therefore, that it must be so, except that it happens to some to depart suddenly from this world, and for one to be strangled, another to die, one old, another young; but He once circumscribed the common and human span of years, and diverse manners of deaths. Within so long a span of years, therefore, diverse manners of death are brought about. Not that God circumscribed this from the beginning, yet He foreknew it; and regarding the appointment of each one's life individually, the divine counsel designates from before the time and manner of his death. And if Basil the Great speaks concerning the determination of life,[^179] he designates and recalls that word: "Earth thou art, and unto earth shalt thou return" (Gen. 3:19). For the Apostle says, writing to the Corinthians: "Because ye receive unworthily, for this cause many are weak and sickly among you, and many sleep or die" (1 Cor. 11:30).[^180]
 
@@ -869,9 +827,7 @@ And Solomon: "My son, honor thy father, that thou mayest live long; and again, t
 
 Hence it is shown that there is no fixed boundary of life. But if anyone says this, understand by "boundary" the divine will and His pleasure. For to whomsoever He wills, He adds years, and unto another He diminishes them, ordering all things for profit. And when God wills and permits, He orders both the manner and the hour. The boundary of each man's life, therefore, as the great Athanasius says, is the will and counsel of God.[^183] By this word, and by the depth of Thy judgments, O Christ, one will also soften that saying of Basil the Great who says that deaths are brought on when the boundaries of life are fulfilled; and by boundaries of life we understand the will of God. For if there were a fixed boundary of life, why do we pray to God, and bring requests to physicians, and pray for our children?
 
-It is necessary to know this also: that baptized infants enjoy delight; but the unillumined and pagans go neither into...
-
-*Meatfare Saturday.*
+It is necessary to know this also: that baptized infants enjoy delight; but the unillumined and pagans go neither into *Meatfare Saturday.*
 
 ...delight, nor will they go into Gehenna.[^184] The soul, therefore, departing from the body, has no care concerning the earthly things here, but is continually concerned about the things there.
 
@@ -890,9 +846,7 @@ We celebrate the Third-day memorial, therefore—understand this both bodily and
 *Troparion:* Having fashioned dust from the earth, and quickened flesh with the spirit, O compassionate Savior: those whom Thou hast received, give rest, O God, in the life that grows not old!
 
 *Glory... Triadicon:*  
-As the Godhead in three radiants, by the mingled unity of one light let the Father, the Son, and the Divine Spirit be hymned...
-
-*Meatfare Saturday.*
+As the Godhead in three radiants, by the mingled unity of one light let the Father, the Son, and the Divine Spirit be hymned *Meatfare Saturday.*
 
 ...Spirit: one in Essence, yet three in Hypostases!
 
@@ -953,9 +907,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *Sticheron 2:* Why is man deceived, boasting of himself? Why is he troubled in vain, who is mud and shines but for a little while? Why does dust not consider that it is a mixture of ashes, a deposit of corruption and putrefaction? If, then, we men are mire, why have we cleaved unto the earth? And if we are kinsmen of Christ, why do we not hasten unto Him, casting aside all temporary and fleeting life, and following after the incorruptible life, which is Christ, the illumination of our souls?
 
-*Sticheron 3:* O Thou Who with Thine own hand didst fashion Adam, and didst establish the boundary of incorruption and mortality, O Savior, and of life in grace, altering corruption and translating him unto the first life: do Thou Thyself, O Master, give rest with the Righteous unto Thy servants whom Thou hast taken from us, and in the choir of Thine elect...
-
-*Meatfare Saturday.*
+*Sticheron 3:* O Thou Who with Thine own hand didst fashion Adam, and didst establish the boundary of incorruption and mortality, O Savior, and of life in grace, altering corruption and translating him unto the first life: do Thou Thyself, O Master, give rest with the Righteous unto Thy servants whom Thou hast taken from us, and in the choir of Thine elect *Meatfare Saturday.*
 
 *Sticheron 3 (continued):* ...Thine elect; and inscribing their names in the Book of Life, and raising them at the voice of the Archangel and the trumpet-call, vouchsafe them Thy heavenly Kingdom! (1 Thess. 4:16; Rev. 20:12).
 
@@ -979,9 +931,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *Glory... Tone 6. By John of Damascus:* A grief unto Adam was the tasting of the tree of old in Eden, when the serpent vomited out his venom: for on that account all-human death entered, devouring man! But the Master having come cast down the serpent, and granted us rest. Unto Him, therefore, let us cry aloud: Spare, O Savior, those whom Thou hast received, and give them rest with Thine elect![^197]
 
-*Both now... Theotokion:* Thou art our God, Who in wisdom dost work and accomplish all things! Thou didst send Prophets, O Christ, to foretell Thy coming, and Apostles to preach Thy marvelous works; and the former indeed foretold Thy coming...
-
-*Meatfare Saturday.*
+*Both now... Theotokion:* Thou art our God, Who in wisdom dost work and accomplish all things! Thou didst send Prophets, O Christ, to foretell Thy coming, and Apostles to preach Thy marvelous works; and the former indeed foretold Thy coming *Meatfare Saturday.*
 
 *Theotokion (continued):* ...while the latter enlightened the nations through Baptism; and the Martyrs, suffering, received the things they longed for; and the choir of both prays unto Thee, together with her that bore Thee: Give rest, as God, unto the souls whom Thou hast taken to Thyself, and vouchsafe us Thy Kingdom, O Thou Who didst endure the Cross for my sake, the condemned one, my Deliverer and my God!
 
@@ -1002,7 +952,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *Be it known that this order takes place without change also on the Saturday of Holy Pentecost.*[^200]
 
-*[Full-Page-Width Woodcut Illustration: The Dread Judgment (Last Judgment). Inscription at top: ("СТРАШНЫЙ") and ("СУДЪ"). Depiction of Christ the righteous Judge enthroned in glory within an oval mandorla, attended by the Mother of God, Saint John the Baptist, and the angelic host rolling up the heavens. Below the throne stands the Etimasia (Throne of Preparation) with the open Book of Life and the Holy Cross, before which Adam and Eve kneel in supplication. To the left, the Apostles seated as judges, the righteous souls, and an angel weighing deeds in the scales; to the right, Moses pointing out Christ to the condemned, and sinners driven away into the fiery river. Below, the fiery stream flows into the gaping jaws of Hades; personifications of the earth and the sea surrender their dead to the sound of angelic trumpets; and on the lower left, the gates of Paradise are opened by the Apostle Peter with angels welcoming the righteous.]*[^201]
+*(*Full-Page-Width Woodcut Illustration: The Dread Judgment (Last Judgment). Inscription at top: ("СТРАШНЫЙ") and ("СУДЪ"). Depiction of Christ the righteous Judge enthroned in glory within an oval mandorla, attended by the Mother of God, Saint John the Baptist, and the angelic host rolling up the heavens. Below the throne stands the Etimasia (Throne of Preparation) with the open Book of Life and the Holy Cross, before which Adam and Eve kneel in supplication. To the left, the Apostles seated as judges, the righteous souls, and an angel weighing deeds in the scales; to the right, Moses pointing out Christ to the condemned, and sinners driven away into the fiery river. Below, the fiery stream flows into the gaping jaws of Hades; personifications of the earth and the sea surrender their dead to the sound of angelic trumpets; and on the lower left, the gates of Paradise are opened by the Apostle Peter with angels welcoming the righteous.*)*[^201]
 
 ## Sunday of Meatfare
 
@@ -1022,9 +972,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *If it be the Forefeast or Afterfeast of the Meeting of the Lord: Then Stichera of the Resurrection, 3; and from the Triodion, 4; and of the Forefeast or Feast, 3 (see fol. 3).*[^203]
 
-*Glory... Tone 8:* When the thrones are set in order, and the books are unrolled, and God sits in judgment (Dan. 7:9–10): oh, what fear will there be then, while the Angels stand by in trembling, and the fiery river flows![^204] What...
-
-*Sunday of Meatfare.*
+*Glory... Tone 8:* When the thrones are set in order, and the books are unrolled, and God sits in judgment (Dan. 7:9–10): oh, what fear will there be then, while the Angels stand by in trembling, and the fiery river flows![^204] What *Sunday of Meatfare.*
 
 *Glory (continued):* ...shall we do then, men guilty of many sins? And when we hear Him calling the blessed of His Father into the Kingdom, but sending away the sinners into torment (Matt. 25:34, 41): who will endure that fearful sentence? But O only Lover of mankind, Savior, King of the ages: before the end draws near, turn me in repentance and have mercy upon me!
 
@@ -1038,9 +986,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *At the Aposticha: in the Octoechos, and according to the Alphabet, 3.*
 
-*Glory... Tone 8:* Woe is me, O darkened soul! How long wilt thou not recoil from evils? How long wilt thou lie in despondency? Why dost thou not ponder the fearful hour of death? Why dost thou not tremble wholly before the dread judgment-seat of the Savior? What, then, wilt thou answer, or what wilt thou say? Thy deeds will stand forth to convict thee; thine actions will accuse and testify against thee! Henceforth, O soul, the time...[^206]
-
-*Sunday of Meatfare.*
+*Glory... Tone 8:* Woe is me, O darkened soul! How long wilt thou not recoil from evils? How long wilt thou lie in despondency? Why dost thou not ponder the fearful hour of death? Why dost thou not tremble wholly before the dread judgment-seat of the Savior? What, then, wilt thou answer, or what wilt thou say? Thy deeds will stand forth to convict thee; thine actions will accuse and testify against thee! Henceforth, O soul, the time[^206] *Sunday of Meatfare.*
 
 *Glory (continued):* ...is at hand! Run, anticipate, cry aloud in faith: "I have sinned, O Lord, I have sinned against Thee! But I know Thy tender compassions, O Lover of mankind, O Good Shepherd: separate me not from standing at Thy right hand, for the sake of Thy great mercy!" (Ps. 50:3 [LXX 50:3 / MT 51:1]; John 10:11; Matt. 25:33).
 
@@ -1058,9 +1004,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *At the Aposticha: Stichera of the Resurrection. Glory... of the Forerunner, Tone 6: A divine treasure... Both now... in the Triodion. At the Blessing of Loaves, Troparion: O Virgin Mother of God... Thrice. And a reading from the Epistles of the Apostles. And the rest in Chrysostom. And the anointing of the Saint.*
 
-*At Matins: At "God is the Lord": Troparion of the Resurrection, twice. Glory... of the Forerunner. Both now... Theotokion of the current Tone of the Octoechos. After the Kathismata, Sessional hymns of the Resurrection with their Theotokia. And a reading in the Commentary Gospel. And the Blameless [Kathisma 17]. Hypakoe of the Tone. And a reading in the Gospel. Polyeleos of the Forerunner, and all his Sessional hymns, once each. And a reading of the Forerunner. Songs of Ascents [Anabathmoi], and the Prokeimenon of the Tone. "Let every breath praise the Lord." The Resurrectional Gospel, and the rest as of the Resurrection. The Canon of the Resurrection with its Heirmos on 4; and from the Triodion on 4; and of the Forerunner on 4. Katavasia from the Triodion. After Ode 3: Kontakion and Ikos of the Forerunner, and his Sessional hymns, 2. Glory... Both now... Sessional hymn from the Triodion. And a reading of the Forerunner. After Ode 6: Kontakion and Ikos from the Triodion. And a reading in the Prologue. At Ode 9...*
-
-*Sunday of Meatfare.*
+*At Matins: At "God is the Lord": Troparion of the Resurrection, twice. Glory... of the Forerunner. Both now... Theotokion of the current Tone of the Octoechos. After the Kathismata, Sessional hymns of the Resurrection with their Theotokia. And a reading in the Commentary Gospel. And the Blameless [Kathisma 17]. Hypakoe of the Tone. And a reading in the Gospel. Polyeleos of the Forerunner, and all his Sessional hymns, once each. And a reading of the Forerunner. Songs of Ascents [Anabathmoi], and the Prokeimenon of the Tone. "Let every breath praise the Lord." The Resurrectional Gospel, and the rest as of the Resurrection. The Canon of the Resurrection with its Heirmos on 4; and from the Triodion on 4; and of the Forerunner on 4. Katavasia from the Triodion. After Ode 3: Kontakion and Ikos of the Forerunner, and his Sessional hymns, 2. Glory... Both now... Sessional hymn from the Triodion. And a reading of the Forerunner. After Ode 6: Kontakion and Ikos from the Triodion. And a reading in the Prologue. At Ode 9 Sunday of Meatfare.*
 
 *Rubric (continued):* ...we sing "More honorable than the Cherubim." Exapostilarion of the Resurrection. Glory... of the Forerunner. Both now... from the Triodion. At the Praises: Stichera of the Resurrection, 4; and of the Forerunner, 3; and Idiomelon, Tone 6: *The all-honorable head...* We say the verses of the Forerunner: *The righteous shall rejoice in the Lord* (Ps. 63:11 [LXX 63:11 / MT 64:10]); second verse: *The righteous man shall flourish like a palm tree* (Ps. 91:13 [LXX 91:13 / MT 92:12]); then verse: *Arise, O Lord my God, let Thy hand be lifted up* (Ps. 9:33 [LXX 9:33 / MT 10:12]); and immediately the Idiomelon Sticheron in the Triodion. Glory... the same. Both now... *Most blessed art thou, O Virgin Mother of God...* Great Doxology. Troparion of the Resurrection only. Litany and Dismissal. And the usual procession into the narthex; Glory... Both now... Gospel Sticheron. And the First Hour. At the Hours, Troparion of the Resurrection. Glory... of the Forerunner. Both now... Theotokion of the Hours. After the Our Father, Kontakion in the Triodion and of the Forerunner, alternating. At the Liturgy: The Beatitudes of the Tone on 6; and of the Forerunner, Ode 3, on 4. After the Little Entrance, Troparion of the Resurrection and of the Forerunner. Glory... his Kontakion. Both now... Kontakion in the Triodion. Prokeimenon, Epistle, Alleluia, Gospel, and Kinonikon, first of the day, then of the Forerunner.
 
@@ -1074,9 +1018,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *Refrain:* Glory to Thee, our God, glory to Thee!
 
-*Troparion:* Pondering the dread day of Thine all-ineffable coming...
-
-*Sunday of Meatfare.*
+*Troparion:* Pondering the dread day of Thine all-ineffable coming *Sunday of Meatfare.*
 
 *Troparion (continued):* ...I tremble, and reflecting thereon, with terror do I foresee the day whereon Thou shalt come to judge the living and the dead, O my God almighty!
 
@@ -1098,9 +1040,7 @@ A fountain sealed with the stream of life hast thou been revealed, O Virgin Birt
 
 *Ode 3. Heirmos:* Establish, O Lord, upon the immovable rock of Thy commandments my shaken heart; for Thou alone art holy and righteous! (1 Kings 2:2 [LXX 1 Reg. 2:2 / 1 Sam. 2:2]).[^211]
 
-*Troparion:* The Lord comes, and who shall endure His fear? Who shall appear...
-
-*Sunday of Meatfare.*
+*Troparion:* The Lord comes, and who shall endure His fear? Who shall appear *Sunday of Meatfare.*
 
 *Troparion (continued):* ...to appear before His face? But be thou ready, O my soul, for the meeting! (Mal. 3:2; Amos 4:12).
 
@@ -1225,9 +1165,7 @@ Moreover, this present day is named the Second Coming of Christ, because the fir
 
 Now, however, He shall come with supernatural wonders and with pre-eminent radiance from Heaven, and with His Body, so that He shall be recognized by all: that this is He Who came formerly and redeemed the human race, and Who is to come again to judge it and to examine whether it kept well the things given and entrusted unto it!
 
-When, however, that Coming shall be, no one knows. For this indeed...
-
-*Sunday of Meatfare.*
+When, however, that Coming shall be, no one knows. For this indeed *Sunday of Meatfare.*
 
 *Synaxarion (continued):*
 
@@ -1243,9 +1181,7 @@ And seven years before, as Daniel says,[^227] Enoch and Elijah shall come, preac
 
 Yet those seven years shall be shortened for the sake of the elect (Matt. 24:22).[^228] And there shall be a great famine, when all the elements shall be overturned, so that all shall almost vanish and perish.
 
-Thereafter, suddenly, as it were lightning from heaven, shall be the Coming of the Lord (Matt. 24:27, 29–30; Mark 13:24–26; Luke 21:25–27; 1 Cor. 15:52; 1 Thess. 4:16; Rev. 20:10),[^229] when His Precious Cross shall go before Him, and a river of fire terribly foaming shall flow before Him, cleansing all the earth from filth and defilement! At that hour Antichrist shall immediately be seized, and his ministers, and he shall be given over unto eternal fire. And when the Angels sound the trumpet, there shall come gathered together into one heap from the ends of the earth and from all...
-
-*Sunday of Meatfare.*
+Thereafter, suddenly, as it were lightning from heaven, shall be the Coming of the Lord (Matt. 24:27, 29–30; Mark 13:24–26; Luke 21:25–27; 1 Cor. 15:52; 1 Thess. 4:16; Rev. 20:10),[^229] when His Precious Cross shall go before Him, and a river of fire terribly foaming shall flow before Him, cleansing all the earth from filth and defilement! At that hour Antichrist shall immediately be seized, and his ministers, and he shall be given over unto eternal fire. And when the Angels sound the trumpet, there shall come gathered together into one heap from the ends of the earth and from all *Sunday of Meatfare.*
 
 *Synaxarion (continued):*
 
@@ -1299,9 +1235,7 @@ At that hour, then, every tongue shall confess that Jesus Christ is Lord, to the
 
 *Bless we the Father, and the Son, and the Holy Spirit, the Lord!* (Dan. 3:56 [LXX]).
 
-*Triadikon:* I revere God as One according to essence, and I praise three Hypostases with distinction—diverse, yet not alien, seeing that...[^236]
-
-*Sunday of Meatfare.*
+*Triadikon:* I revere God as One according to essence, and I praise three Hypostases with distinction—diverse, yet not alien, seeing that[^236] *Sunday of Meatfare.*
 
 *Triadikon (continued):* ...the Godhead is one in three Persons: for there is the Father, the Son, and the Divine Spirit.
 
@@ -1321,9 +1255,7 @@ At that hour, then, every tongue shall confess that Jesus Christ is Lord, to the
 
 *Troparion:* The fire is prepared, and the worm is made ready; yet gladness, glory, relief, unwaning light, and joy are for the righteous! And who is so blessed that he will not desire to escape the torment of the former, and inherit the latter? (Matt. 25:34, 41; Mark 9:44).
 
-*Troparion:* Let not the fury of Thy wrath turn me away from Thy face, O Lord, neither let me hear the accursed voice...
-
-*Sunday of Meatfare.*
+*Troparion:* Let not the fury of Thy wrath turn me away from Thy face, O Lord, neither let me hear the accursed voice *Sunday of Meatfare.*
 
 *Troparion (continued):* ...dispatching me into the fire! But may I also enter then into the joy of Thine incorruptible bridal chamber with Thy Saints! (Matt. 25:21, 41).
 
@@ -1361,9 +1293,7 @@ Reflecting upon the hour of examination and the dread coming of the Master Who l
 
 *Tone 8. Verse: I will be glad and rejoice in Thee, I will chant unto Thy name, O Thou Most High! (Ps. 9:3 [LXX 9:3 / MT 9:2]).*
 
-*Sticheron:* The Prophet Daniel, having been a man of desires, when he beheld the dominion of God, cried out in this manner: "The Judge sat, and the books were opened!" Take heed, O my soul: dost thou fast? Despise not thy neighbor! Dost thou abstain from foods?...[^243]
-
-*Sunday of Meatfare.*
+*Sticheron:* The Prophet Daniel, having been a man of desires, when he beheld the dominion of God, cried out in this manner: "The Judge sat, and the books were opened!" Take heed, O my soul: dost thou fast? Despise not thy neighbor! Dost thou abstain from foods?[^243] *Sunday of Meatfare.*
 
 *Sticheron (continued):* ...condemn not thy brother, lest being sent away into the fire, thou melt away like wax: but that without stumbling Christ may bring thee into His Kingdom! (Dan. 7:10; 9:23; 10:11; Rom. 14:10).
 
@@ -1375,9 +1305,7 @@ Reflecting upon the hour of examination and the dread coming of the Master Who l
 
 *If there be the Forefeast of the Meeting of the Lord, as occurred in year 1000 [A.D. 1640]:[^245] then we omit the Forefeast at the Praises, and we sing the Resurrectional Stichera and those in the Triodion. Glory... in the Triodion. Both now... Thou art most blessed... Thus do we also on Cheesefare Sunday. Likewise if the Feast of the Meeting falls on either of these two Sundays: After the conclusion of the Stichera of the Feast, and the Idiomelon appointed for Glory of the Feast, we recite it with the verse of the Feast. Then we say the verse: Arise, O Lord my God; and we sing the Doxasticon Sticheron which is in the Triodion for the day. Glory... is omitted. Both now... Thou art most blessed... The Great Doxology, and the Dismissal. The customary Litiya in the Narthex. Glory... Both now... The Gospel Sticheron. The First Hour. And the rest, even as was set forth on the preceding Sunday, together with the Catechesis of the Studite.*
 
-*At the Liturgy: The Beatitudes of the Resurrection on 6; and from the Triodion, Ode 6 on 4. Prokeimenon, Tone 3: Great is our Lord, and great is His power, and of His understanding there is no number! (Ps. 146:5 [LXX 146:5 / MT 147:5]). Verse: Praise ye the Lord, for a psalm is a good thing! (Ps. 146:1 [LXX 146:1 / MT 147:1]). The Epistle to the Corinthians, Pericope 140 (1 Cor. 8:8–9:2). Alleluia, Tone 8: Come, let us rejoice in the Lord, let us make a joyful noise unto God our Savior! (Ps. 94:1 [LXX 94:1 / MT 95:1]). Verse: Let us come before His presence with thanksgiving, and make a joyful noise unto Him with psalms! (Ps. 94:2 [LXX 94:2 / MT 95:2]). The Gospel according to Matthew, Pericope 106 (Matt. 25:31–46). Communion Hymn: Praise ye the Lord from the heavens! (Ps. 148:1). Another: Rejoice in the Lord, O ye righteous! (Ps. 32:1 [LXX 32:1 / MT 33:1]). At the Trapeza, we read from the Festal Homilies, and the Sermon of Palladius the Monk, whose beginning is: "Now make thy confession, O soul..."*[^246]
-
-*Sunday of Meatfare, at Vespers.*
+*At the Liturgy: The Beatitudes of the Resurrection on 6; and from the Triodion, Ode 6 on 4. Prokeimenon, Tone 3: Great is our Lord, and great is His power, and of His understanding there is no number! (Ps. 146:5 [LXX 146:5 / MT 147:5]). Verse: Praise ye the Lord, for a psalm is a good thing! (Ps. 146:1 [LXX 146:1 / MT 147:1]). The Epistle to the Corinthians, Pericope 140 (1 Cor. 8:8–9:2). Alleluia, Tone 8: Come, let us rejoice in the Lord, let us make a joyful noise unto God our Savior! (Ps. 94:1 [LXX 94:1 / MT 95:1]). Verse: Let us come before His presence with thanksgiving, and make a joyful noise unto Him with psalms! (Ps. 94:2 [LXX 94:2 / MT 95:2]). The Gospel according to Matthew, Pericope 106 (Matt. 25:31–46). Communion Hymn: Praise ye the Lord from the heavens! (Ps. 148:1). Another: Rejoice in the Lord, O ye righteous! (Ps. 32:1 [LXX 32:1 / MT 33:1]). At the Trapeza, we read from the Festal Homilies, and the Sermon of Palladius the Monk, whose beginning is: "Now make thy confession, O soul"*[^246] *Sunday of Meatfare, at Vespers.*
 
 *We do not chant a Kathisma; nor indeed on the other Sundays at any time. At "Lord, I have cried," the Stichera as usual on 6: from the Octoechos, Tone 3 [3 stichera]; and from the Menaion for the Saint of the day, 3. But the Stichera in the Triodion we leave aside, as also in the Octoechos, and we sing the Idiomelon of the day, both choirs together, Tone 8:*
 
@@ -1463,9 +1391,7 @@ Thy divine hands, wherewith thou didst bear the Creator incarnate in His Godhead
 
 *After Ode 3: Sessional hymn; Glory... Both now... Theotokion. After Ode 6: Kontakion to the Saint, and Ikos.*
 
-*Ode 8. Heirmos: Him at Whom the Angels are amazed...*
-
-*Troparion:* I have prodigally spent all my life, laboring in bitter and wicked servitude to the citizens of this world; yet when I desire to turn now unto Thy compassions, O Christ, do not despise me! (Luke 15:13–15).
+*Ode 8. Heirmos: Him at Whom the Angels are amazed Troparion:* I have prodigally spent all my life, laboring in bitter and wicked servitude to the citizens of this world; yet when I desire to turn now unto Thy compassions, O Christ, do not despise me! (Luke 15:13–15).
 
 *Troparion:* The shameful and grievous manner of my life cries out for great mercy and bountiful compassion, O Savior, Lover of mankind: grant me, who ask Thee and praise Thee with love, the season of repentance!
 
@@ -1491,9 +1417,7 @@ Thy divine hands, wherewith thou didst bear the Creator incarnate in His Godhead
 
 *Ode 9. Heirmos: Radiant...*
 
-*Troparion:* In peaceful disposition and in pure love, let us faithful receive the most sacred season of the Holy Fast, asking...
-
-*Troparion (continued):* ...forgiveness of those things wherein each hath sinned, that we may attain the joys there!
+*Troparion:* In peaceful disposition and in pure love, let us faithful receive the most sacred season of the Holy Fast, asking forgiveness of those things wherein each hath sinned, that we may attain the joys there!
 
 *Troparion:* Behold, the season of repentance, this pre-festal fast-entrance! Arise, O my soul, cleave warmly unto God the Benefactor, that thou mayest truly escape that dread and terrible judgment!
 
@@ -1513,9 +1437,7 @@ Thy divine hands, wherewith thou didst bear the Creator incarnate in His Godhead
 
 *Heirmos:* Thee, the gate beheld by the Prophet Ezekiel, through which none hath passed save God alone, O Virgin Mother of God, do we magnify in hymns! (Ezek. 44:2).
 
-*Exapostilarion in the Octoechos; to the Saint, Sessional hymn; Exapostilarion to the Saint, if there be one. But if not, Sessional hymn and Kontakion. After the Doxology, four prostrations. At the Aposticha...*
-
-*At the Aposticha, Idiomelon Sticheron, Tone 3:* At all times Fasting is profitable unto those who choose it and practice it: for neither does demonic temptation dare attack him that fasts, but the Angels, the guardians of our life, abide with us more diligently when we are cleansed by fasting!
+*Exapostilarion in the Octoechos; to the Saint, Sessional hymn; Exapostilarion to the Saint, if there be one. But if not, Sessional hymn and Kontakion. After the Doxology, four prostrations. At the Aposticha At the Aposticha, Idiomelon Sticheron, Tone 3:* At all times Fasting is profitable unto those who choose it and practice it: for neither does demonic temptation dare attack him that fasts, but the Angels, the guardians of our life, abide with us more diligently when we are cleansed by fasting!
 
 *Verse: We have been filled in the morning with Thy mercy, O Lord, and we have rejoiced and been glad! In all our days let us be glad: for the days wherein Thou didst humble us, for the years wherein we have seen evils! And look upon Thy servants, and upon Thy works, and guide their children! (Ps. 89:14–16 [LXX 89:14–16 / MT 90:14–16]).*
 
@@ -1531,7 +1453,7 @@ Thy divine hands, wherewith thou didst bear the Creator incarnate in His Godhead
 
 ## Monday of Cheesefare at Vespers
 
-*At "Lord, I have cried," Stichera as usual in the Octoechos, 3; and in the Menaion to the Saint, 3. Glory... to the Saint, if there be one. But if not, Glory... Both now... Theotokion in the same Tone and Podoben.*
+*At "Lord, I have cried," Stichera as usual in the Octoechos, 3; and in the Menaion to the Saint, 3. Glory... to the Saint, if there be one. But if not, Glory... Both now... Theotokion in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже).*
 
 *At the Aposticha, Idiomelon Sticheron, Tone 8:* Let us strive to cleanse ourselves by fasting from the defilement of our transgressions, and by mercy and loving-kindness toward the poor to enter into the bridal chamber of Christ the Bridegroom, Who grants us great mercy!
 
@@ -1541,9 +1463,7 @@ Thy divine hands, wherewith thou didst bear the Creator incarnate in His Godhead
 
 *Verse: Have mercy on us, O Lord, have mercy on us: for we are exceedingly filled with contempt! (Ps. 122:3 [LXX 122:3 / MT 123:3]).*
 
-*For the Martyrs:* O Martyrs of the Lord, pray unto our God, and ask for our souls...
-
-*For the Martyrs (continued):* ...a multitude of compassions, and cleansing from our many offenses, as ye make supplication!
+*For the Martyrs:* O Martyrs of the Lord, pray unto our God, and ask for our souls a multitude of compassions, and cleansing from our many offenses, as ye make supplication!
 
 *Glory... Both now... Theotokion:* The most glorious and all-pure Mother of God, true Mother of God, let us piously hymn, saying unto her "Rejoice!" as did the Angel: Rejoice, holy Mother of the incarnate Son of God! Rejoice, dwelling of the Holy Spirit, unceasingly praying for us that our souls may be saved! (Luke 1:28).
 
@@ -1563,9 +1483,7 @@ Thy divine hands, wherewith thou didst bear the Creator incarnate in His Godhead
 
 *At the 1st Stichology, Sessional hymn in the Octoechos. At the 2nd Stichology, Sessional Hymn, Tone 8, Podoben: "Of Wisdom and the Word" (Премꙋ́дрость и҆ Сло́во):*[^257]
 
-O all-good Word, Who with the Father and the Spirit didst create things visible together with things invisible by Thine ineffable wisdom: be pleased in Thy compassion that we pass through the season of the radiant Fast in profound peace, dissolving the delusion of bitter sin, granting compunction, tears of healing, and forgiveness of offenses...
-
-...forgiveness of offenses: that with an undoubting soul, singing in a spirit of love, we may praise Thy sovereign power with the Angels!
+O all-good Word, Who with the Father and the Spirit didst create things visible together with things invisible by Thine ineffable wisdom: be pleased in Thy compassion that we pass through the season of the radiant Fast in profound peace, dissolving the delusion of bitter sin, granting compunction, tears of healing, and forgiveness of offenses forgiveness of offenses: that with an undoubting soul, singing in a spirit of love, we may praise Thy sovereign power with the Angels!
 
 *Glory... Both now... Theotokion:*
 
@@ -1589,9 +1507,7 @@ Having ineffably conceived Wisdom and the Word in thy womb, O Mother of God, tho
 
 *Both now... Theotokion:* O all-praised Virgin, be thou unto us the way of repentance, leading unto the portals of salvation!
 
-*Another Tri-ode [Canon, by St. Theodore the Studite]. Heirmos, Tone 2: Give heed, O my people...*
-
-*Troparion:* The season of repentance is arrived, O Lord! Let us strive, lovers of Christ, to cleanse ourselves from all transgressions, and to appear blessed before the Master!
+*Another Tri-ode [Canon, by St. Theodore the Studite]. Heirmos, Tone 2: Give heed, O my people Troparion:* The season of repentance is arrived, O Lord! Let us strive, lovers of Christ, to cleanse ourselves from all transgressions, and to appear blessed before the Master!
 
 *Troparion:* Let us strive to accomplish now unceasingly a pure, sinless fast, that we may find remission of transgressions!
 
@@ -1657,9 +1573,7 @@ Having ineffably conceived Wisdom and the Word in thy womb, O Mother of God, tho
 
 *Heirmos:* Thy virginity, O undefiled Mother of God, which the fire of the Godhead did not consume, do we ever magnify! Then: Glory to God in the highest...
 
-*At the Aposticha, we sing the Idiomelon Sticheron, Tone 3:* Fondly, O ye peoples, let us embrace the Fast: for the beginning of spiritual struggles is arrived! Let us leave aside bodily luxury; let us cause the gifts of the soul to grow; let us suffer together as servants of Christ, that we may also be glorified together...
-
-*Idiomelon Sticheron (continued):* ...as children of God, and that the Holy Spirit may dwell within us and enlighten our souls! (Rom. 8:17).
+*At the Aposticha, we sing the Idiomelon Sticheron, Tone 3:* Fondly, O ye peoples, let us embrace the Fast: for the beginning of spiritual struggles is arrived! Let us leave aside bodily luxury; let us cause the gifts of the soul to grow; let us suffer together as servants of Christ, that we may also be glorified together as children of God, and that the Holy Spirit may dwell within us and enlighten our souls! (Rom. 8:17).
 
 *Verse: We have been filled in the morning with Thy mercy... (Ps. 89:14 [LXX]).*
 
@@ -1693,7 +1607,7 @@ Beholding Him upon the Tree of old Whom she had borne from a seedless womb, the 
 
 *Now dismissest Thou Thy servant in peace... After the Trisagion: Troparion: "O Virgin Mother of God, rejoice..." One prostration. Glory... "O Baptist of Christ..." One prostration. Both now... "Supplicate for us..." One prostration. "Beneath thy compassion..." Without prostration. "Lord, have mercy," 40, and the Prayer. Another Priest: "Lord, have mercy," thrice. Glory... Both now... "More honorable than the Cherubim..." In the Name of the Lord [bless, father].*
 
-**Priest:** God be compassionate unto us, and bless us...
+> **Priest:** "God be compassionate unto us, and bless us..."
 
 *And three great prostrations with the Prayer of Saint Ephrem: "O Lord and Master of my life..." and the other 12 [metanias]. At the end, all together: "O Lord and Master..." Trisagion; after "Our Father": "Lord, have mercy," 12. Glory... Both now... "Lord, have mercy," twice; "Lord, bless." And the Dismissal.*
 
@@ -1709,9 +1623,7 @@ Beholding Him upon the Tree of old Whom she had borne from a seedless womb, the 
 
 *If the Forefeast of the Meeting of the Lord falls on Wednesday or on Friday of Cheesefare Week:*
 
-*On Tuesday or on Thursday in the evening: At "Lord, I have cried," Stichera of the Forefeast, 3; and to the Saint, 3. Glory... Both now... of the Forefeast. At the Aposticha, Sticheron in the Triodion, twice; and For the Martyrs. Glory... Both now... of the Forefeast. Litany, and three great prostrations, and the Dismissal; and at the end, 3 prostrations. At Matins...*
-
-*Wednesday of Cheesefare.*
+*On Tuesday or on Thursday in the evening: At "Lord, I have cried," Stichera of the Forefeast, 3; and to the Saint, 3. Glory... Both now... of the Forefeast. At the Aposticha, Sticheron in the Triodion, twice; and For the Martyrs. Glory... Both now... of the Forefeast. Litany, and three great prostrations, and the Dismissal; and at the end, 3 prostrations. At Matins Wednesday of Cheesefare.*
 
 *At Matins: At "God is the Lord": Troparion of the Forefeast, twice; Glory... to the Saint; Both now... of the Forefeast.*
 
@@ -1751,9 +1663,7 @@ Beholding Him upon the Tree of old Whom she had borne from a seedless womb, the 
 
 *At Matins: After the 9th Kathisma [or After the Kathismata], [Canon of the Feast] with the Heirmos, on 6; and in the Menaion, on 4; and in the Triodion, on 4.*
 
-*When the Tri-ode arrives: We sing the Canon of the Feast, on 4; and in the Menaion, on 4; and in the Triodion...*
-
-*...on 8. And the rest as on Friday. And at the end of every singing and Hour: At the end of Vespers, at Compline, at Matins, at the end of the First Hour, and at the other Hours, and at every singing, only at the end as was said: three great prostrations (see fol. 84)[^268].*
+*When the Tri-ode arrives: We sing the Canon of the Feast, on 4; and in the Menaion, on 4; and in the Triodion on 8. And the rest as on Friday. And at the end of every singing and Hour: At the end of Vespers, at Compline, at Matins, at the end of the First Hour, and at the other Hours, and at every singing, only at the end as was said: three great prostrations (see fol. 84)[^268].*
 
 *And on Wednesday at Vespers: Stichera to the Feast, and in the Menaion as usual. Glory... Both now... of the Feast. Then the Prokimenon and Prophecy of the day. At the Aposticha: In the Triodion, Idiomelon of the day, twice; and For the Martyrs. Glory... Both now... to the Feast.*
 
@@ -1775,9 +1685,7 @@ Beholding Him upon the Tree of old Whom she had borne from a seedless womb, the 
 
 *At Matins: We sing "Alleluia" in the current Tone of the Octoechos, and the Trinity Hymns [Triadika] of the Tone, and the customary two Kathismata.*
 
-*Know: That on Wednesday and Friday of Cheesefare Week, when we sing "Alleluia," we also make prostrations in the evening and in the morning, even as was aforesaid, and we observe the Fast according to the rule. But we do not sing the Inter-Hours [Mesoria], even if any Saint should occur who has a Troparion, except only for the Feast of the Meeting of the Lord, or the Finding of the Precious Head of John the Forerunner...*
-
-*...or the Temple of any Saint: Then we sing the Troparion, and we do not make prostrations, except only 3 great prostrations, even as hath many times been said, (see fol. 78)[^272].*
+*Know: That on Wednesday and Friday of Cheesefare Week, when we sing "Alleluia," we also make prostrations in the evening and in the morning, even as was aforesaid, and we observe the Fast according to the rule. But we do not sing the Inter-Hours [Mesoria], even if any Saint should occur who has a Troparion, except only for the Feast of the Meeting of the Lord, or the Finding of the Precious Head of John the Forerunner or the Temple of any Saint: Then we sing the Troparion, and we do not make prostrations, except only 3 great prostrations, even as hath many times been said, (see fol. 78)[^272].*
 
 *If there be none of these three feasts:*
 
@@ -1835,9 +1743,7 @@ Standing by Thy Cross, she that bare Thee without seed, unable to endure beholdi
 
 *Troparion:* Slain by the eating of the tree, we have been made alive by the Tree of Thy Cross; therefore we offer it unto Thee in prayer: Send down grace and mercy upon us, O Benefactor and Master, plenteous in mercy!
 
-*Troparion:* The portals of fasting have been opened; the stadium of abstinence draws near: with fervent zeal let us arise...
-
-*Troparion (continued):* ...receiving the God-given gift that quenches the thirst of transgressions!
+*Troparion:* The portals of fasting have been opened; the stadium of abstinence draws near: with fervent zeal let us arise receiving the God-given gift that quenches the thirst of transgressions!
 
 *Troparion:* The blessed season of the Fast, shedding forth the ray of repentance, let us vigilantly approach with eager love, driving away the deepest darkness of slothfulness, all of us rejoicing!
 
@@ -1885,9 +1791,7 @@ Standing by Thy Cross, she that bare Thee without seed, unable to endure beholdi
 
 *Both now... Theotokion:* O pure Birthgiver of God, who didst bear God incorruptibly in thy womb: preserve thy flock and keep it uncondemned!
 
-*Ode 6. Heirmos:* As...
-
-*Heirmos (continued):* ...Thou didst deliver the Prophet Jonah, O Christ God, so also lead me up from the depth of transgressions, and save me, O Thou Who alone lovest mankind! (Jonah 2:1–10).
+*Ode 6. Heirmos:* As Thou didst deliver the Prophet Jonah, O Christ God, so also lead me up from the depth of transgressions, and save me, O Thou Who alone lovest mankind! (Jonah 2:1–10).
 
 *Troparia:*
 
@@ -1931,9 +1835,7 @@ Standing by Thy Cross, she that bare Thee without seed, unable to endure beholdi
 
 *Troparion:* All-destructive passions of the soul and deadly pleasures the fast slays, and truly makes stable the inclinations and motions of the heart: let us therefore lovingly receive it in faith!
 
-*Troparion:* Not the beginning of the fast do the faithful know this present holy day to be...
-
-*Troparion (continued):* ...honoring it with pure intent, but we call it the entrance and arrival unto the threshold of the fast!
+*Troparion:* Not the beginning of the fast do the faithful know this present holy day to be honoring it with pure intent, but we call it the entrance and arrival unto the threshold of the fast!
 
 *Theotokion:* Open unto us that knock and call upon thy mercy, O speedy refuge of men, and steadfast helper in afflictions, O Virgin, and certain protectress of those in sorrows!
 
@@ -1979,9 +1881,7 @@ Standing by Thy Cross, she that bare Thee without seed, unable to endure beholdi
 
 *Troparion:* With the nails of Thy divine hands, Thou, O Compassionate One, didst nail our sins to the Cross; and with the spear in Thy side Thou didst tear asunder the wicked handwriting of our transgressions and grievous falls: therefore we sing Thy most-pure Crucifixion! (Col. 2:14; John 19:34).
 
-*Troparion:* Radiant fasting, having drawn for us a chalice of divine gifts...
-
-*Troparion (continued):* ...having drawn for us a cup of divine gifts, today sets it forth before all: let us who desire to partake thereof for the profit of the soul pray to the Master of all to work together with us!
+*Troparion:* Radiant fasting, having drawn for us a chalice of divine gifts having drawn for us a cup of divine gifts, today sets it forth before all: let us who desire to partake thereof for the profit of the soul pray to the Master of all to work together with us!
 
 *Troparion:* The most excellent path of virtues is opened, the stadium of divine fasts, behold, is made ready for all! Ye who desire to contend lawfully, ask Christ to grant unto us a peaceful season of swift course! (2 Tim. 2:5).
 
@@ -2005,9 +1905,7 @@ Standing by Thy Cross, she that bare Thee without seed, unable to endure beholdi
 
 *Exapostilarion in the Octoechos: Trinity Hymns, Tone 3. After the Doxology ("Glory to God in the highest"):*
 
-*At the Aposticha: Sticheron, Idiomelon, Tone 4:* While fasting from foods, O my soul, and of passions...
-
-*Sticheron (continued):* ...not being cleansed, dost thou rejoice vainly in non-eating? For if this acceptable season be not unto thee for amendment, as deceitful shalt thou be abhorred of God, and shalt become like unto the evil demons who never eat! Nor yet, sinning, cast the fast away; but remain unshaken against the impulses of passions,[^276] deeming thyself to stand before the crucified Savior: nay rather, be crucified with Him Who was crucified for thy sake, crying unto Him: Remember me, O Lord, when Thou comest into Thy Kingdom! (Luke 23:42).
+*At the Aposticha: Sticheron, Idiomelon, Tone 4:* While fasting from foods, O my soul, and of passions not being cleansed, dost thou rejoice vainly in non-eating? For if this acceptable season be not unto thee for amendment, as deceitful shalt thou be abhorred of God, and shalt become like unto the evil demons who never eat! Nor yet, sinning, cast the fast away; but remain unshaken against the impulses of passions,[^276] deeming thyself to stand before the crucified Savior: nay rather, be crucified with Him Who was crucified for thy sake, crying unto Him: Remember me, O Lord, when Thou comest into Thy Kingdom! (Luke 23:42).
 
 *Verse: We were filled in the morning with Thy mercy, O Lord, and we rejoiced and were glad: (Ps. 89:14 [LXX]). Again the same Sticheron.*
 
@@ -2015,23 +1913,21 @@ Standing by Thy Cross, she that bare Thee without seed, unable to endure beholdi
 
 *Martyrikon:* Neither tribulation, nor distress, nor famine, nor persecution, nor peril, nor the fury of wild beasts, nor sword, nor threatening fire were able to separate you from God, O all-praised martyrs! (Rom. 8:35). But rather by love toward Him, having contended as though in alien bodies, ye forgot nature and despised death: therefore according to the desert of your sufferings ye have received the reward, and have become heirs of the Heavenly Kingdom. Pray ye for our souls!
 
-*Glory... Both now... Stavrotheotokion, the same Tone. Podoben: "O all-praised martyrs" (Prekhvalnii muchenitsy):*
+*Glory... Both now... Stavrotheotokion, the same Tone. Podoben: "O all-praised martyrs" (Прехва́льнїи мч҃ницы):*
 
 A sword has pierced, O Son, said the Virgin, when on the Tree she beheld Christ hanging, and it tears my heart, O Master, even as Simeon foretold unto me of old (Luke 2:35). But arise and co-glorify, O Immortal One, Thy Mother and handmaid, who prays unto Thee!
 
 *Then: "It is good to give praise" (Ps. 91:2 [LXX]). Trisagion. After the "Our Father": Troparion: "Standing in the temple of Thy glory..." "Lord, have mercy," 40, in a gentle voice. Then: "Bless, Father."*
 
-**Priest:** Blessed and glorified is Christ our God, always, now and ever, and unto ages of ages.
+> **Priest:** "Blessed and glorified is Christ our God, always, now and ever, and unto ages of ages."
 
-**Choir:** Amen. "O Heavenly King..."
+> **Choir:** "Amen. "O Heavenly King...""
 
-*And we make 3 great prostrations with the Prayer of Saint Ephraim:* **"O Lord and Master of my life..."** *And the remaining 12 prostrations lightly, for the sake of weariness...*
-
-*Rubric (continued):* ...saying each to himself: "O God, cleanse me a sinner"; and again the same prayer:* **"O Lord and Master of my life..."** *entire, as one; and the sixteenth prostration.*
+*And we make 3 great prostrations with the Prayer of Saint Ephraim:* **"O Lord and Master of my life..."** *And the remaining 12 prostrations lightly, for the sake of weariness* saying each to himself: "O God, cleanse me a sinner"; and again the same prayer:* **"O Lord and Master of my life..."** *entire, as one; and the sixteenth prostration.*
 
 *And we join also the First Hour. The Abbot, or the Ecclesiarch, or the presiding Monk begins:*
 
-**Reader:** "Come, let us worship," thrice, with 3 prostrations. At the First Hour, during which we also read the Catecheses of Theodore the Studite.[^277] At the First Hour, Troparion: "In the morning hear my voice..." (Ps. 5:4 [LXX]); "Make haste to anticipate..." "Order my steps..." (Ps. 118:133 [LXX]); and "Let my mouth be filled..." (Ps. 70:8 [LXX]). After the Trisagion, Lenten Troparia, according to their order: Tone 4: "Make haste to anticipate..." Glory... Tone 6: "O Teacher of wisdom..." Both now... "Pre-glorious Mother of God..." "Lord, have mercy," 40; and the Prayer: "Thou Who at every season..." "Lord, have mercy," thrice; Glory... Both now... "More honorable than the Cherubim..." In the Name of the Lord... and the common prostrations. Trisagion. "Lord, have mercy," 12. "O Christ, the True Light..." And the Dismissal, and the procession into the Narthex, and the Litiya for the Departed.*
+> **Reader:** "Come, let us worship," thrice, with 3 prostrations. At the First Hour, during which we also read the Catecheses of Theodore the Studite.[^277] At the First Hour, Troparion: "In the morning hear my voice..." (Ps. 5:4 [LXX]); "Make haste to anticipate..." "Order my steps..." (Ps. 118:133 [LXX]); and "Let my mouth be filled..." (Ps. 70:8 [LXX]). After the Trisagion, Lenten Troparia, according to their order: Tone 4: "Make haste to anticipate..." Glory... Tone 6: "O Teacher of wisdom..." Both now... "Pre-glorious Mother of God..." "Lord, have mercy," 40; and the Prayer: "Thou Who at every season..." "Lord, have mercy," thrice; Glory... Both now... "More honorable than the Cherubim..." In the Name of the Lord... and the common prostrations. Trisagion. "Lord, have mercy," 12. "O Christ, the True Light..." And the Dismissal, and the procession into the Narthex, and the Litiya for the Departed.*
 
 *On the same Wednesday of Cheesefare:*
 
@@ -2049,11 +1945,7 @@ O Holy King, All-powerful, Whom all creation fears and trembles before: save us,
 
 *The Reading from the Prophecy of Joel (Joel 2:12–26):*
 
-Thus saith the Lord: Turn ye unto Me with all your heart, and in fasting, and in sackcloth, and in weeping, and in mourning; and rend your hearts, and not your garments, and turn unto the Lord your God: for He is merciful and compassionate, long-suffering and plenteous in mercy, and repents of evil (Joel 2:12–13 [LXX]). Who knows if He will turn...
-
-*Prophecy (continued):* ...and repent, and leave behind Him a blessing, even a sacrifice and a drink-offering unto the Lord our God? Sound the trumpet in Zion, sanctify a fast, proclaim a solemn assembly, gather the people, sanctify the congregation, select the elders, assemble the babes that suck the breasts; let the bridegroom go forth from his chamber, and the bride from her bridal closet! (Joel 2:14–16 [LXX]). Between the porch and the Altar shall the priests, the ministers of the Lord, weep, and say: Spare Thy people, O Lord, and give not Thine inheritance to reproach, that the heathen should rule over them, lest they should say among the nations: Where is their God? (Joel 2:17 [LXX]). And the Lord was jealous for His land, and spared His people. And the Lord answered and said unto His people: Behold, I send you corn, and wine, and oil, and ye shall be satisfied therewith, and I will no more make you a reproach among the nations (Joel 2:18–19 [LXX]). And him that is from the north will I drive far away from you, and will cast him out into a dry land; and I will destroy his face in the former sea, and his rear parts in the latter sea; and his rot shall come up, and his stench shall come up, because his deeds have been magnified! (Joel 2:20 [LXX]). Be of good courage, O earth, rejoice and be glad, for the Lord has magnified His doing! Be of good courage, ye beasts of the field, for the pastures of the wilderness have sprung up, for the tree has brought forth its fruit, the vine and the fig tree have yielded their strength! (Joel 2:21–22 [LXX]). And ye children of Zion, rejoice and be glad in the Lord your God, for He has given you food in righteousness, and He will rain down upon you the early and the latter rain, even as before. And the threshing floors shall be full of wheat, and the presses shall overflow... (Joel 2:23–24a [LXX]).
-
-*Prophecy (continued):* ...with wine and oil. And I will restore unto you the years that the locust, and the caterpillar, and the rust, and the cankerworm have eaten, My great army which I sent among you. And eating ye shall eat and be satisfied, and shall praise the Name of the Lord your God, Who has dealt marvelously with you; and My people shall never be put to shame unto ages! (Joel 2:24b–26 [LXX]).
+Thus says the Lord: Turn ye unto Me with all your heart, and in fasting, and in sackcloth, and in weeping, and in mourning; and rend your hearts, and not your garments, and turn unto the Lord your God: for He is merciful and compassionate, long-suffering and plenteous in mercy, and repents of evil (Joel 2:12–13 [LXX]). Who knows if He will turn and repent, and leave behind Him a blessing, even a sacrifice and a drink-offering unto the Lord our God? Sound the trumpet in Zion, sanctify a fast, proclaim a solemn assembly, gather the people, sanctify the congregation, select the elders, assemble the babes that suck the breasts; let the bridegroom go forth from his chamber, and the bride from her bridal closet! (Joel 2:14–16 [LXX]). Between the porch and the Altar shall the priests, the ministers of the Lord, weep, and say: Spare Thy people, O Lord, and give not Thine inheritance to reproach, that the heathen should rule over them, lest they should say among the nations: Where is their God? (Joel 2:17 [LXX]). And the Lord was jealous for His land, and spared His people. And the Lord answered and said unto His people: Behold, I send you corn, and wine, and oil, and ye shall be satisfied therewith, and I will no more make you a reproach among the nations (Joel 2:18–19 [LXX]). And him that is from the north will I drive far away from you, and will cast him out into a dry land; and I will destroy his face in the former sea, and his rear parts in the latter sea; and his rot shall come up, and his stench shall come up, because his deeds have been magnified! (Joel 2:20 [LXX]). Be of good courage, O earth, rejoice and be glad, for the Lord has magnified His doing! Be of good courage, ye beasts of the field, for the pastures of the wilderness have sprung up, for the tree has brought forth its fruit, the vine and the fig tree have yielded their strength! (Joel 2:21–22 [LXX]). And ye children of Zion, rejoice and be glad in the Lord your God, for He has given you food in righteousness, and He will rain down upon you the early and the latter rain, even as before. And the threshing floors shall be full of wheat, and the presses shall overflow... (Joel 2:23–24a [LXX]). with wine and oil. And I will restore unto you the years that the locust, and the caterpillar, and the rust, and the cankerworm have eaten, My great army which I sent among you. And eating ye shall eat and be satisfied, and shall praise the Name of the Lord your God, Who has dealt marvelously with you; and My people shall never be put to shame unto ages! (Joel 2:24b–26 [LXX]).
 
 *Second Prokimenon, Tone 7: The Lord will give strength unto His people, and will bless His people with peace! (Ps. 28:11 [LXX]).*
 
@@ -2083,7 +1975,7 @@ Thus saith the Lord: Turn ye unto Me with all your heart, and in fasting, and in
 
 *The Reading from the Prophecy of Joel (Joel 3:12–21 [LXX]):*
 
-Thus saith the Lord: Let all the nations awake and go up to the Valley of Jehoshaphat: for there will I sit to judge all the heathen round about! Put ye in the sickles, for the harvest is ripe; come, tread, for the press is full, the vats overflow, for their wickedness is multiplied! (Joel 3:12–13 [LXX]). Voices resounded in the valley of judgment, for the day of the Lord is near in the valley of judgment! The sun and the moon shall be darkened, and the stars shall withdraw their shining (Joel 3:14–15 [LXX]). And the Lord shall cry out of Zion, and utter His voice from Jerusalem, and heaven and earth shall be shaken; but the Lord will spare His people, and strengthen the sons of Israel (Joel 3:16 [LXX]). And ye shall know that I am the Lord your God, Who dwell in Zion, My holy mountain: then shall Jerusalem be holy, and strangers shall no more pass through her (Joel 3:17 [LXX]). And it shall come to pass in that day, that the mountains shall drop down sweetness, and the hills shall flow with milk, and all the streams of Judah shall pour forth waters; and a fountain shall go forth from the house of the Lord, and water the valley of earthly measures (Joel 3:18 [LXX]). Egypt shall be a desolation, and Edom shall be a wilderness of destruction, for the injustices against the sons of Judah, because they shed righteous blood in their land (Joel 3:19 [LXX]). But Judah shall be inhabited unto ages, and Jerusalem from generation to generation (Joel 3:20 [LXX]). And I will avenge their blood, and will not leave it unpunished; and the Lord shall dwell in Zion! (Joel 3:21 [LXX]).
+Thus says the Lord: Let all the nations awake and go up to the Valley of Jehoshaphat: for there will I sit to judge all the heathen round about! Put ye in the sickles, for the harvest is ripe; come, tread, for the press is full, the vats overflow, for their wickedness is multiplied! (Joel 3:12–13 [LXX]). Voices resounded in the valley of judgment, for the day of the Lord is near in the valley of judgment! The sun and the moon shall be darkened, and the stars shall withdraw their shining (Joel 3:14–15 [LXX]). And the Lord shall cry out of Zion, and utter His voice from Jerusalem, and heaven and earth shall be shaken; but the Lord will spare His people, and strengthen the sons of Israel (Joel 3:16 [LXX]). And ye shall know that I am the Lord your God, Who dwell in Zion, My holy mountain: then shall Jerusalem be holy, and strangers shall no more pass through her (Joel 3:17 [LXX]). And it shall come to pass in that day, that the mountains shall drop down sweetness, and the hills shall flow with milk, and all the streams of Judah shall pour forth waters; and a fountain shall go forth from the house of the Lord, and water the valley of earthly measures (Joel 3:18 [LXX]). Egypt shall be a desolation, and Edom shall be a wilderness of destruction, for the injustices against the sons of Judah, because they shed righteous blood in their land (Joel 3:19 [LXX]). But Judah shall be inhabited unto ages, and Jerusalem from generation to generation (Joel 3:20 [LXX]). And I will avenge their blood, and will not leave it unpunished; and the Lord shall dwell in Zion! (Joel 3:21 [LXX]).
 
 *Then we sing with melody, instead of "Let my prayer be set forth," the Prokimenon, Tone 6: Let Israel hope in the Lord, from henceforth and unto the age! (Ps. 130:3 [LXX / MT 131:3]).*
 
@@ -2105,9 +1997,7 @@ Thus saith the Lord: Let all the nations awake and go up to the Valley of Jehosh
 
 *And be it understood: That in Palestine, which is in the land of Jerusalem, we did not receive from the Holy Fathers to celebrate the complete Liturgy on Wednesday and Friday of Cheesefare Week, nor yet the Liturgy of the Presanctified Gifts.[^279] On these two days we sing "Alleluia" with prostrations, at Vespers and at Matins, even as was said above, (see fol. 86 and 88)[^280].*
 
-*If, however, the Feast of the Meeting of the Lord, or the Forerunner's [Finding], or the Temple [feast] of any Saint should fall upon these two days: on these three Feasts the Liturgy of Saint John Chrysostom is celebrated. And also at the end of Matins, and at the end of the Hours, there are three great prostrations only. At the Sixth Hour, the Troparion of the Paroimia is said, and the Paroimia is read.*
-
-*Rubric (continued):* ...And we join also the Ninth Hour. Vespers also takes place in its own time without Liturgy, for the sake of the Feast. At Vespers: Prokimenon of the day, and the Reading of the Feast; then the Readings of the day; and again the Prokimenon with singing:* "Let Israel hope in the Lord..." *Eating takes place once in the day on these two days, even if a Feast should occur upon them, (see fol. 86)[^281].*
+*If, however, the Feast of the Meeting of the Lord, or the Forerunner's [Finding], or the Temple [feast] of any Saint should fall upon these two days: on these three Feasts the Liturgy of Saint John Chrysostom is celebrated. And also at the end of Matins, and at the end of the Hours, there are three great prostrations only. At the Sixth Hour, the Troparion of the Paroimia is said, and the Paroimia is read.* And we join also the Ninth Hour. Vespers also takes place in its own time without Liturgy, for the sake of the Feast. At Vespers: Prokimenon of the day, and the Reading of the Feast; then the Readings of the day; and again the Prokimenon with singing:* "Let Israel hope in the Lord..." *Eating takes place once in the day on these two days, even if a Feast should occur upon them, (see fol. 86)[^281].*
 
 *If there be none of the three feasts aforesaid: We make the customary prostrations, which on Tuesday at the [Ninth] Hour [were begun]; at Vespers from the beginning. We sing the great Ambon-Psalm [Ps. 103]. At Matins on both these days, and at the Hours, we perform the prostrations and the Fast.*
 
@@ -2123,9 +2013,7 @@ Thus saith the Lord: Let all the nations awake and go up to the Valley of Jehosh
 
 *If the Meeting of the Lord was on Cheesefare Tuesday, then we sing the Tuesday Tri-ode on this Cheesefare Wednesday at Compline with the Canon of Cheesefare Saturday.*
 
-*Know: If the Feast of the Three Holy Hierarchs, January 30, falls on one of the days of Cheesefare Week up until Cheesefare Friday, their service is sung with the Triodion, even as that of the Forerunner...*
-
-*Rubric (continued):* ...Likewise also in the preceding weeks: of the Publican and Pharisee, and of the Prodigal Son, and on Meatfare Week.
+*Know: If the Feast of the Three Holy Hierarchs, January 30, falls on one of the days of Cheesefare Week up until Cheesefare Friday, their service is sung with the Triodion, even as that of the Forerunner* Likewise also in the preceding weeks: of the Publican and Pharisee, and of the Prodigal Son, and on Meatfare Week.
 
 *Only at Matins: The 17th Kathisma [Neporochny] with its own Troparia, and the Hypakoe of the Tone, and the customary reading. Then: "Praise ye the Name of the Lord..." The 17th Kathisma with the Hierarchs' refrains [Pripivy]. And at each "Glory" at the end we sing: Glory... Both now... "Alleluia," thrice, with the Refrain. Sessional hymns to the Saints and Theotokion, and reading of the Hierarchs. And the rest in order together according to custom.*
 
@@ -2147,13 +2035,11 @@ Thus saith the Lord: Let all the nations awake and go up to the Valley of Jehosh
 
 *At the 1st Stichology: Sessional hymn in the Octoechos.*
 
-*At the 2nd Stichology: Sessional Hymn, Tone 4. Podoben: "Thou Who wast lifted up" (Voznesyisya):*
+*At the 2nd Stichology: Sessional Hymn, Tone 4. Podoben: "Thou Who wast lifted up" (Вознесы́йсѧ):*
 
 Even as Moses led Israel out of bondage through the Red Sea (Exod. 14), having drowned Pharaoh in the deep with Thy supreme right hand: so in wonders, O disciples of Mary, Thy disciples opened the sea of grievous godlessness, and guided all unto Thee, O Word without beginning, O only Lover of mankind!
 
-*Glory...*
-
-*Glory... Both now... Theotokion:* O refuge of those in distress, reconciliation unto God for sinners, all-hymned Lady: save us from every assault and malice of man, and fearful torment, and the deceit of dishonor, who with undoubting faith ever call upon thee, O all-hymned Virgin!
+*Glory* Both now... Theotokion:* O refuge of those in distress, reconciliation unto God for sinners, all-hymned Lady: save us from every assault and malice of man, and fearful torment, and the deceit of dishonor, who with undoubting faith ever call upon thee, O all-hymned Virgin!
 
 *And we read in the Lenten Collectanea [Sobornik], the Homily of Saint Anastasius, Abbot of Mount Sinai, on the Sixth Psalm.[^289]*
 
@@ -2197,9 +2083,7 @@ Even as Moses led Israel out of bondage through the Red Sea (Exod. 14), having d
 
 *Troparion:* All the earth is full of Thy praise, O Lord (Hab. 3:3 [LXX]): for the divine utterance of Thy divine Apostles traversed it entirely, converting from the depth of ignorance unto understanding those who sing: Bless the Lord, all ye works of the Lord, and exalt Him above all unto the ages! (Ps. 18:5 [LXX]).
 
-*Troparion:* The divine grace of repentance hath appeared, bringing salvation unto those who enjoy its sufferings and labors...
-
-...of fasts and afflictions: therefore run, O my soul, unto thy Master, seeking to receive forgiveness for thy many transgressions!
+*Troparion:* The divine grace of repentance hath appeared, bringing salvation unto those who enjoy its sufferings and labors of fasts and afflictions: therefore run, O my soul, unto thy Master, seeking to receive forgiveness for thy many transgressions!
 
 *Troparion:* The stadium of God-given abstinence hath been opened; let us joyfully go forth to meet it, we who are in need of mercy! For the Compassionate One awaits our salvation, to grant forgiveness; He stretches forth His hand unto those who seek Him diligently and serve Him with love!
 
@@ -2213,9 +2097,7 @@ Even as Moses led Israel out of bondage through the Red Sea (Exod. 14), having d
 
 *Troparion:* Thou hast shown forth, O Christ, the coming abstinence for the purification of men and the separation from passions: for by this Thy disciples were well-pleasing unto Thee, and appeared as bright luminaries upon the earth, preaching the Lord in three Persons, yet in one essence, unto those who hymn Him!
 
-*Troparion:* Ye were sent as preachers unto the Gentiles...
-
-...from the Master Christ, O disciples, to enlighten their thoughts with divine teachings: to restrain themselves from passions and meats, to desire abstinence, and to know Him as Lord, Creator, Maker of all, and Benefactor!
+*Troparion:* Ye were sent as preachers unto the Gentiles from the Master Christ, O disciples, to enlighten their thoughts with divine teachings: to restrain themselves from passions and meats, to desire abstinence, and to know Him as Lord, Creator, Maker of all, and Benefactor!
 
 *Glory...*
 
@@ -2267,9 +2149,7 @@ Even as Moses led Israel out of bondage through the Red Sea (Exod. 14), having d
 
 *At the Aposticha: Stichera, Tone 3. Idiomela:*
 
-The comeliness of abstinence hath shone forth, driving away the deep gloom; the honor of the fast hath arrived, bringing healing unto the passions of the soul. This of old fortified Daniel...
-
-...and protected the Children in Babylon: the one indeed muzzled the mouths of the lions, and the others quenched the flame of the furnace (Dan. 6:22; Dan. 3:50). Through these do Thou also save us from the same, O Christ God, as Thou art the Lover of mankind!
+The comeliness of abstinence hath shone forth, driving away the deep gloom; the honor of the fast hath arrived, bringing healing unto the passions of the soul. This of old fortified Daniel and protected the Children in Babylon: the one indeed muzzled the mouths of the lions, and the others quenched the flame of the furnace (Dan. 6:22; Dan. 3:50). Through these do Thou also save us from the same, O Christ God, as Thou art the Lover of mankind!
 
 *Verse:* We were filled in the morning with Thy mercy... (Ps. 89:14 [LXX]).
 
@@ -2297,11 +2177,9 @@ The Lord's Cross, unto those who undeviatingly bow down before it, is the bridle
 
 *Verse 2:* Have mercy upon us, O Lord, have mercy upon us... (Ps. 122:3 [LXX]).
 
-*Martyrikon:* Having had no desire for earthly delights, the passion-bearers...
+*Martyrikon:* Having had no desire for earthly delights, the passion-bearers were accounted worthy of heavenly good things, and became fellow-citizens with the angels: O Lord, by their prayers have mercy on us and save us!
 
-...were accounted worthy of heavenly good things, and became fellow-citizens with the angels: O Lord, by their prayers have mercy on us and save us!
-
-*Glory... Both now... Stavrotheotokion, Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Glory... Both now... Stavrotheotokion, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 
 When thou didst behold hanging upon the Tree the ripe Cluster, Whom untilled thou didst bear in thy womb, O pure one, lamenting and weeping thou didst cry aloud: "O Child, Benefactor, pour forth wine whereby all drunkenness of passions may be quenched, for my sake who bare Thee, with divine consolations, as Thou art tenderhearted!"
 
@@ -2321,15 +2199,13 @@ When thou didst behold hanging upon the Tree the ripe Cluster, Whom untilled tho
 
 *At the 1st Stichology: Sessional hymn in the Octoechos.*
 
-*At the 2nd Stichology: Sessional Hymn from the Triodion, Tone 6, Podoben: "Having placed all their hope" (Vse upovanie):*
+*At the 2nd Stichology: Sessional Hymn from the Triodion, Tone 6, Podoben: "Having placed all their hope" (Всѐ оу҆пова́нїе):*
 
 Exalt the horn of the Church, O precious Cross! Cast down heretical arrogance by thy power, and make glad the Orthodox assemblies! Grant that we all may anticipate thy Forefeast, and bow down before thee, the footstool of Christ: for in thee do we boast, O blessed Tree! (Ps. 74:11, 98:5 [LXX]; Gal. 6:14).
 
 *Glory... Both now... Stavrotheotokion:*
 
-The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was incarnate of her pure blood voluntarily hanging upon the Cross, cried aloud...
-
-...O Maiden, with bitter tears: "O my gentle Son, I hymn Thy fearful and whole dispensation!"
+The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was incarnate of her pure blood voluntarily hanging upon the Cross, cried aloud O Maiden, with bitter tears: "O my gentle Son, I hymn Thy fearful and whole dispensation!"
 
 *Then we read the Homily of Basil the Great on Fasting, whose beginning is: "Blow the trumpet at the new moon" (Ps. 80:4 [LXX]), in 3 parts; and on the monastic life by the same author: "It behooves the monk first of all to have an unacquisitive life."[^301] Then Psalm 50.*
 
@@ -2387,9 +2263,7 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *Ode 5. Heirmos:* Why hast Thou cast me off from Thy presence, O Light unwaning, and an alien darkness hath covered me, wretched one? But convert me, and direct my ways unto the light of Thy commandments, I pray Thee![^303] (Ps. 87:15; Isa. 26:9 [LXX]).
 
-*Troparion:* Making this present day the beginning of an honorable life, fortify yourselves diligently for the contests of the fast...
-
-...let us prepare ourselves, O faithful, offering the afflictions of the flesh and the good fruitfulness of the soul unto the Master of all!
+*Troparion:* Making this present day the beginning of an honorable life, fortify yourselves diligently for the contests of the fast let us prepare ourselves, O faithful, offering the afflictions of the flesh and the good fruitfulness of the soul unto the Master of all!
 
 *Troparion:* Fasting showed Moses forth as a partaker of divine vision of God (Exod. 24:18, 34:28): zealously imitating him, therefore, O my soul, receive the fast, having arranged in thyself divine ascents, that thou mayest behold the splendor of God![^304] (Ps. 83:6 [LXX]).
 
@@ -2409,9 +2283,7 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *Troparion:* A good season hath appeared, clothing every person in the divine chastity of the soul: come, let us joyfully receive it, purifying ourselves exceedingly by fasting and prayer!
 
-*Troparion:* Let us offer fasting, tears, prayer, and a humble disposition unto Him Who humbled Himself for our sake (Phil. 2:8): that today through abstinence...
-
-...He may grant forgiveness for the sins committed by us!
+*Troparion:* Let us offer fasting, tears, prayer, and a humble disposition unto Him Who humbled Himself for our sake (Phil. 2:8): that today through abstinence He may grant forgiveness for the sins committed by us!
 
 *Both now... Theotokion:* By the light-beaming rays of thy brightness, O gracious Lady unto the world, drive away the gloom of my soul and the night of my sin, that with fervor I may hymn and glorify thee!
 
@@ -2433,9 +2305,7 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *Ode 6. Heirmos:* Cleanse me, O Savior, for many are mine iniquities; and lead me up from the depth of evils, I pray Thee: for unto Thee have I cried, and do Thou give ear unto me, O God of my salvation! (Jonah 2:3; Ps. 87:2 [LXX]).
 
-*Troparion:* The Deliverer hath appointed for us this present season of fasting...
-
-...appointed for us the cleansing of spiritual defilements: with a fervent heart, let us draw near, O faithful, that we may receive forgiveness!
+*Troparion:* The Deliverer hath appointed for us this present season of fasting appointed for us the cleansing of spiritual defilements: with a fervent heart, let us draw near, O faithful, that we may receive forgiveness!
 
 *Troparion:* Having accepted the sighing of the publican, O Christ, and the weeping offered from the soul of the harlot (Luke 18:13, 7:38): do Thou accept our supplications, as the Lover of mankind, granting us cleansing!
 
@@ -2471,9 +2341,7 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *Then the Tri-ode of Lord Joseph, Tone 6. Heirmos: "According to the paternal law" (По зако́нꙋ ѻ҆́тчꙋ):*[^309]
 
-*Troparion:* Not having preserved the Father's inheritance, we were enslaved unto sinful laws (Luke 15:11–14): but having stretched out Thy hands upon the divine Cross, Thou hast granted freedom unto all...
-
-...for the sake thereof! Therefore have mercy in prayer upon those who with faith bring [abstinence] unto Thee in these holy days, supremely exalting Thee unto all ages!
+*Troparion:* Not having preserved the Father's inheritance, we were enslaved unto sinful laws (Luke 15:11–14): but having stretched out Thy hands upon the divine Cross, Thou hast granted freedom unto all for the sake thereof! Therefore have mercy in prayer upon those who with faith bring [abstinence] unto Thee in these holy days, supremely exalting Thee unto all ages!
 
 *Troparion:* Bitterly having eaten the enticing food of old, the first-formed man was rejected, and condemned, was driven out from delight (Gen. 3): but nailed to the Tree with nails, Thou didst nail up the evil handwriting of his sin (Col. 2:14). Therefore we hymn Thine abundant tenderheartedness unto all ages!
 
@@ -2523,9 +2391,7 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *Troparion:* Every nature of both men and Angels is at a loss to thank Thy tenderheartedness, O Benefactor: that for our sake, willing in the flesh, Thou didst become poor (2 Cor. 8:9), and didst suffer on the Tree for us, having become a curse, that Thou mightest take away the primal curse of mankind! (Gal. 3:13).
 
-*Troparion:* The radiant day of temperance hath arrived; with radiant countenance come, O my soul, let us meet the Master, asking that grace be sent down upon us from above, and that we may find correction of many stumbling-blocks: that...
-
-...we may not experience the most terrible Gehenna there!
+*Troparion:* The radiant day of temperance hath arrived; with radiant countenance come, O my soul, let us meet the Master, asking that grace be sent down upon us from above, and that we may find correction of many stumbling-blocks: that we may not experience the most terrible Gehenna there!
 
 *Troparion:* Willingly stretching out Thy hands upon the Tree, Thou didst gather together all things that had been sundered, O Giver of life; and opening Thy ribs with a spear, O Longsuffering One, Thou didst correct for us the defeat that had budded forth from the rib [of Adam]:[^313] therefore thanksgivingly we hymn Thy tenderheartedness!
 
@@ -2541,9 +2407,7 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *To Thee glory is due, O Lord our God, and to Thee glory... Glory to God in the highest.*
 
-*At the Praises [Ainoi]: Idiomelon Sticheron, Tone 6:* Before the saving Cross, when sin reigned and impiety had dominion (Rom. 5:21), bodily food was deemed blessed by men, and few were negligent of carnal desires: but since the mystery of the Cross was wrought, demonic...
-
-...tyranny hath been extinguished through the knowledge of God, and heavenly virtue abides upon earth! Therefore fasting is honored, temperance shines forth, and prayer is set aright; and a witness is this present time, given unto us by Christ God Who was crucified, unto the salvation of our souls!
+*At the Praises [Ainoi]: Idiomelon Sticheron, Tone 6:* Before the saving Cross, when sin reigned and impiety had dominion (Rom. 5:21), bodily food was deemed blessed by men, and few were negligent of carnal desires: but since the mystery of the Cross was wrought, demonic tyranny hath been extinguished through the knowledge of God, and heavenly virtue abides upon earth! Therefore fasting is honored, temperance shines forth, and prayer is set aright; and a witness is this present time, given unto us by Christ God Who was crucified, unto the salvation of our souls!
 
 *Verse:* We were filled in the morning with Thy mercy, O Lord, and we rejoiced and were glad (Ps. 89:14 [LXX]). *And we repeat the same Idiomelon.*
 
@@ -2563,25 +2427,23 @@ The only undefiled Ewe-lamb, the Theotokos and Virgin, beholding Him Who was inc
 
 *Reading from the Prophecy of Zechariah (Chapter 8:7–17):*[^315]
 
-Thus saith the Lord Almighty: Behold, I will save My people from the east country, and from the west country; and I will bring them in, and will dwell in the midst of Jerusalem; and they shall be My people, and I will be their God, in truth and in righteousness (Zech. 8:7–8).
+Thus says the Lord Almighty: Behold, I will save My people from the east country, and from the west country; and I will bring them in, and will dwell in the midst of Jerusalem; and they shall be My people, and I will be their God, in truth and in righteousness (Zech. 8:7–8).
 
-Thus saith the Lord Almighty: Let your hands be strong, ye that hear in these days these words from the mouth of the Prophets, from the day that the house of the Lord Almighty was founded, and from the time that the temple was built (Zech. 8:9).
+Thus says the Lord Almighty: Let your hands be strong, ye that hear in these days these words from the mouth of the Prophets, from the day that the house of the Lord Almighty was founded, and from the time that the temple was built (Zech. 8:9).
 
 For before those days, the wages of men profited not, and there were no wages for cattle, and to him that went out and to him that came in there was no peace from tribulation: and I sent all men, every one against his neighbor (Zech. 8:10).
 
-And now, not according to the former days will I do in these days unto the remnant of this people, saith the Lord Almighty (Zech. 8:11).
+And now, not according to the former days will I do in these days unto the remnant of this people, says the Lord Almighty (Zech. 8:11).
 
 For I will show peace: the vine shall give her fruit, and the earth shall give her increase, and the heavens shall give their dew; and I will cause the remnant of My people to inherit all these things by lot (Zech. 8:12).
 
 And it shall come to pass, that as ye were a curse among the nations, O house of Judah, and house of Jerusalem; so will I save you, and ye shall be a blessing: be of good courage, and let your hands be strong! (Zech. 8:13).
 
-For thus saith the Lord Almighty: As I thought to afflict you, when your fathers provoked Me to wrath, saith the Lord Almighty, and I repented not (Zech. 8:14):
+For thus says the Lord Almighty: As I thought to afflict you, when your fathers provoked Me to wrath, says the Lord Almighty, and I repented not (Zech. 8:14):
 
 So have I purposed and thought in these days to do good unto Jerusalem, and unto the house of Judah: be of good courage! (Zech. 8:15).
 
-These are the words that ye shall do: Speak ye the truth every man...
-
-...every man to his neighbor; judge truth and the judgment of peace and justice in your gates: and let none of you imagine evil in your hearts against his neighbor; and love not a false oath: for all these things I hate, saith the Lord Almighty! (Zech. 8:16–17).
+These are the words that ye shall do: Speak ye the truth every man every man to his neighbor; judge truth and the judgment of peace and justice in your gates: and let none of you imagine evil in your hearts against his neighbor; and love not a false oath: for all these things I hate, says the Lord Almighty! (Zech. 8:16–17).
 
 *Prokeimenon, Tone 3:* Sing praises to our God, sing praises: sing praises unto our King! (Ps. 46:6 [LXX]). *Verse:* All ye nations, clap your hands (Ps. 46:1 [LXX]).
 
@@ -2599,9 +2461,7 @@ These are the words that ye shall do: Speak ye the truth every man...
 
 *At "Lord, I have cried": Stichera on 6. Tone 8:*
 
-*Sticheron 1, Tone 8, Idiomelon:* Come, all ye faithful, let us hymn the choirs of the Venerable Fathers: Anthony the foremost, the radiant Euthymius, and each one, and all together; and their...
-
-...citizenship spiritually traversing like another paradise of delight, beautifully let us cry out: These are the trees which our God planted! These, blossoming with the fruits of incorruptible life, offered them unto Christ, nourishing our souls; unto whom let us cry aloud: O God-bearing blessed ones, pray that our souls may be saved! (Twice).
+*Sticheron 1, Tone 8, Idiomelon:* Come, all ye faithful, let us hymn the choirs of the Venerable Fathers: Anthony the foremost, the radiant Euthymius, and each one, and all together; and their citizenship spiritually traversing like another paradise of delight, beautifully let us cry out: These are the trees which our God planted! These, blossoming with the fruits of incorruptible life, offered them unto Christ, nourishing our souls; unto whom let us cry aloud: O God-bearing blessed ones, pray that our souls may be saved! (Twice).
 
 *Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чꙋдесѐ):*
 
@@ -2609,9 +2469,7 @@ These are the words that ye shall do: Speak ye the truth every man...
 
 *Sticheron 3, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чꙋдесѐ):* Who among the earthborn shall declare your marvelous lives, O universal Fathers? What tongue shall speak of your sacred daily struggles and your sweats, the streams of your virtues, the mortifications of the flesh, the battles against passions, in vigils, in prayers, and in tears? Living in the world, ye were truly revealed as Angels: ye utterly cast down demonic powers, having wrought marvelous and miraculous signs! Therefore pray for us, O most blessed ones, that we may obtain unending joy! (Twice).
 
-*Glory... Tone 6, Idiomelon:* Having preserved that which is according to the image unharmed, appointing the mind as master over the ruinous passions through asceticism, ye advanced mightily unto that which is according to the likeness:[^323] courageously...
-
-...for having courageously compelled nature, ye strove to subjugate the worse unto the better, and to enslave the flesh unto the spirit! Therefore ye were revealed as the summit of monastics, citizens of the desert, anointers of those who run well, the most precise rule of virtues! And now in the heavens, the mirrors being dissolved,[^324] O all-patient ones, ye gaze purely upon the Holy Trinity, praying directly for those who honor you with faith and love!
+*Glory... Tone 6, Idiomelon:* Having preserved that which is according to the image unharmed, appointing the mind as master over the ruinous passions through asceticism, ye advanced mightily unto that which is according to the likeness:[^323] courageously for having courageously compelled nature, ye strove to subjugate the worse unto the better, and to enslave the flesh unto the spirit! Therefore ye were revealed as the summit of monastics, citizens of the desert, anointers of those who run well, the most precise rule of virtues! And now in the heavens, the mirrors being dissolved,[^324] O all-patient ones, ye gaze purely upon the Holy Trinity, praying directly for those who honor you with faith and love!
 
 *Both now... Theotokion of the day in the Tone of the Octoechos: for Saturday, quiet.*[^325]
 
@@ -2619,9 +2477,7 @@ These are the words that ye shall do: Speak ye the truth every man...
 
 *Reading from the Prophecy of Zechariah (Zech. 8:19–23):*
 
-Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be unto the house of Judah for joy, and for gladness, and for good feasts; and ye shall rejoice, and love truth and peace![^326] Thus saith the Lord Almighty: Yet shall there come many peoples, and the inhabitants of many cities! And the inhabitants of five cities shall come together into one city, saying: Let us go diligently to pray before the face of the Lord, and to seek the face of the Lord Almighty; I will go also! And many peoples and many nations shall come and seek the face of the Lord Almighty in Jerusalem, to entreat the face of the Lord Almighty! Thus saith the Lord Almighty: In those days, when ten men from all languages of the nations shall take hold, and shall take hold of the hem of the garment of a man that is a Jew...
-
-...that is a Jew, saying: We will go with thee, for we have heard that God is with you! (Zech. 8:23).
+Thus says the Lord Almighty: The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be unto the house of Judah for joy, and for gladness, and for good feasts; and ye shall rejoice, and love truth and peace![^326] Thus says the Lord Almighty: Yet shall there come many peoples, and the inhabitants of many cities! And the inhabitants of five cities shall come together into one city, saying: Let us go diligently to pray before the face of the Lord, and to seek the face of the Lord Almighty; I will go also! And many peoples and many nations shall come and seek the face of the Lord Almighty in Jerusalem, to entreat the face of the Lord Almighty! Thus says the Lord Almighty: In those days, when ten men from all languages of the nations shall take hold, and shall take hold of the hem of the garment of a man that is a Jew that is a Jew, saying: We will go with thee, for we have heard that God is with you! (Zech. 8:23).
 
 *Prokeimenon, Tone 6:* Let Israel hope in the Lord, from henceforth and unto the age! (Ps. 130:3 [LXX 130:3 / MT 131:3]). *Verse:* Lord, my heart is not exalted, nor are mine eyes become haughty! (Ps. 130:1 [LXX 130:1 / MT 131:1]).
 
@@ -2635,9 +2491,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Glory... Tone 8, Idiomelon:* Multitudes of monastics, we honor you today as our instructors, O venerable fathers: for through you have we learned truly to tread the upright path! Blessed are ye who labored for Christ and laid low the power of the enemy! Companions of the Angels, fellow-dwellers with the righteous and the saints: with them pray ye unto the Lord, that our souls may find mercy!
 
-*Both now... Theotokion, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́вное чꙋ́до):* Rejoice, treasury of purity! Rejoice, pure dwelling of the immaterial Light! Rejoice, headpiece of our salvation! Rejoice, proclamation of the Apostles! Rejoice, boast of the Martyrs! Rejoice...
-
-...fulfillment of the Prophets, O all-immaculate one! Rejoice, adornment of ascetics and monastics, and salvation of the faithful!
+*Both now... Theotokion, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́вное чꙋ́до):* Rejoice, treasury of purity! Rejoice, pure dwelling of the immaterial Light! Rejoice, headpiece of our salvation! Rejoice, proclamation of the Apostles! Rejoice, boast of the Martyrs! Rejoice fulfillment of the Prophets, O all-immaculate one! Rejoice, adornment of ascetics and monastics, and salvation of the faithful!
 
 *Then, "Now lettest Thou Thy servant depart..." (Luke 2:29–32). Troparion, Tone 4:* O God of our Fathers, Who dealest ever with us according to Thy gentleness, remove not Thy mercy from us; but by their prayers direct our life in peace!
 
@@ -2661,9 +2515,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *If, however, an All-Night Vigil is not celebrated: then at Great Vespers all is performed according to that which was written above. And the Reading of the day and of the Feast. At the Aposticha: of the Feast; then Verse of the Fathers: "Precious in the sight of the Lord is the death of His saints" (Ps. 115:6 [LXX 115:6 / MT 116:15]), and we sing the Idiomelon, Tone 8: "Multitudes of monastics..."; then Glory... Idiomelon in the Triodion; Both now... of the Feast.*
 
-*At Matins: At "God is the Lord," Troparion of the Feast (Twice); Glory... of the Fathers; Both now... of the Feast. After the Kathismata: Sessional hymns of the Feast, and Reading of the Feast. Polyeleos, and Megalynarion of the Feast. Sessional hymns of the Feast, all together. Glory... Both now... Theotokion. And Reading of the Feast. Hymns of Ascent (Anavathmoi), the 1st Antiphon of Tone 4. Prokeimenon of the Feast: "Let every breath..." Gospel of the Feast. After Psalm 50: Sticheron of the Feast. Canon of the Feast with its Heirmoi on 8, and of the Fathers on 6...*
-
-...and of the Fathers on 6. Katavasia of the Feast. After Ode 3: Kontakion and Ikos of the Fathers, and Sessional hymns of the Fathers (twice); Glory... Both now... Sessional hymn of the Feast. After Ode 6: Kontakion and Ikos of the Feast. At Ode 9: we sing "More honorable than the Cherubim..." Exapostilarion of the Feast; Glory... of the Fathers; Both now... of the Feast. At the Praises: Stichera of the Feast, 3; and of the Fathers, 3. Glory... of the Fathers; Both now... of the Feast. Great Doxology. Troparion of the Fathers; Glory... Both now... of the Feast. Litany; and the Catechesis of Saint Theodore the Studite; and Dismissal; and the customary exit into the narthex; and the First Hour. At the First Hour: Troparion of the Feast; Glory... of the Fathers; Both now... Theotokion of the Hour. After the "Our Father": Kontakion of the Feast.
+*At Matins: At "God is the Lord," Troparion of the Feast (Twice); Glory... of the Fathers; Both now... of the Feast. After the Kathismata: Sessional hymns of the Feast, and Reading of the Feast. Polyeleos, and Megalynarion of the Feast. Sessional hymns of the Feast, all together. Glory... Both now... Theotokion. And Reading of the Feast. Hymns of Ascent (Anavathmoi), the 1st Antiphon of Tone 4. Prokeimenon of the Feast: "Let every breath..." Gospel of the Feast. After Psalm 50: Sticheron of the Feast. Canon of the Feast with its Heirmoi on 8, and of the Fathers on 6* and of the Fathers on 6. Katavasia of the Feast. After Ode 3: Kontakion and Ikos of the Fathers, and Sessional hymns of the Fathers (twice); Glory... Both now... Sessional hymn of the Feast. After Ode 6: Kontakion and Ikos of the Feast. At Ode 9: we sing "More honorable than the Cherubim..." Exapostilarion of the Feast; Glory... of the Fathers; Both now... of the Feast. At the Praises: Stichera of the Feast, 3; and of the Fathers, 3. Glory... of the Fathers; Both now... of the Feast. Great Doxology. Troparion of the Fathers; Glory... Both now... of the Feast. Litany; and the Catechesis of Saint Theodore the Studite; and Dismissal; and the customary exit into the narthex; and the First Hour. At the First Hour: Troparion of the Feast; Glory... of the Fathers; Both now... Theotokion of the Hour. After the "Our Father": Kontakion of the Feast.
 
 *AT THE LITURGY. The Beatitudes of the Feast: Ode 3, on 4; and of the Fathers: Ode 6, on 4. Entrance Hymn of the Feast: "The Lord hath made known His salvation before the nations" (Ps. 97:2 [LXX]). Troparion of the Feast and of the Fathers. Glory... Kontakion of the Fathers. Both now... Kontakion of the Feast. Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: first of the Feast, and then of the Fathers.*
 
@@ -2687,9 +2539,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *AT MATINS. At "God is the Lord," Troparion of the Forerunner (twice); Glory... of the Fathers; Both now... Dismissal Theotokion: "The mystery hidden from all ages..." After the Kathismata: Sessional hymns of the Fathers, and their Theotokia; and Reading of the Forerunner, and of the Fathers. Polyeleos, and Sessional hymns of the Forerunner, all together; Glory... Both now... Theotokion; and Reading of the Forerunner. Hymns of Ascent (Anavathmoi), the 1st Antiphon of Tone 4. Prokeimenon: "Let every breath..." and Gospel of the Forerunner. Psalm 50. Sticheron of the Forerunner. But the Biblical Odes in the Psalter we do not say, but we sing "Unto the Lord..." Canon of the Forerunner with the Heirmos on 6, and of the Fathers on 8. Katavasia: Heirmos of the Triodion. Stichology of the Biblical Odes is taken according to the Triodion, but that which is the Canticle in the Psalter is not recited. After Ode 3: Kontakion and Ikos of the Forerunner; then his Sessional hymn; Glory... of the Fathers; Both now... Theotokion; and Reading of the Forerunner. After Ode 6: Kontakion and Ikos of the Fathers; and we read the Prologue. After Ode 9: Exapostilarion of the Forerunner; Glory... of the Fathers; Both now... Theotokion. At the Praises: Stichera of the Forerunner, 3; and of the Fathers, 3. Glory... of the Fathers; Both now... Theotokion. Great Doxology. Troparion of the Forerunner; Glory... of the Fathers; Both now... Theotokion; and exit into the narthex; and the First Hour. At the Hours: Troparion of the Forerunner; Glory... of the Fathers; Both now... Theotokion of the Hours. After the "Our Father": Kontakion of the Forerunner; and at the other Hour, Kontakion of the Fathers: thus are the Troparia said at all the Hours, and the Kontakia alternate.*
 
-*AT THE LITURGY. The Beatitudes of the Forerunner: Ode 3, on 4; and of the Fathers: Ode 6, on 4. After the Entrance: Troparion of the Temple, and of the Forerunner, and of the Fathers. Kontakion of the Temple, and of the Forerunner; Glory... Kontakion of the Fathers; Both now... Kontakion of the Mother of God: "Steadfast Protectress..."*
-
-..."Steadfast Protectress of Christians..." But if the temple be dedicated to the Mother of God: Both now... Kontakion of the Temple. Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: first of the Forerunner, and then of the Fathers. The regular Epistle and Gospel of the day are read beforehand at the Hours, or at the Liturgy under the heading.[^336]
+*AT THE LITURGY. The Beatitudes of the Forerunner: Ode 3, on 4; and of the Fathers: Ode 6, on 4. After the Entrance: Troparion of the Temple, and of the Forerunner, and of the Fathers. Kontakion of the Temple, and of the Forerunner; Glory... Kontakion of the Fathers; Both now... Kontakion of the Mother of God: "Steadfast Protectress"* "Steadfast Protectress of Christians..." But if the temple be dedicated to the Mother of God: Both now... Kontakion of the Temple. Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: first of the Forerunner, and then of the Fathers. The regular Epistle and Gospel of the day are read beforehand at the Hours, or at the Liturgy under the heading.[^336]
 
 ## Cheesefare Saturday at Matins
 
@@ -2701,9 +2551,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Both now... Theotokion, Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):* We give thanks unto thee ever, O Virgin, and we magnify thee, O pure one, and we worship thee, hymning thy childbirth, O thou full of grace, crying unceasingly: Save us, O Virgin all-merciful, as thou art good; and snatch us from dread demonic disputation in the hour of trial, that we thy servants may not be put to shame!
 
-*After the 2nd Stichology, Sessional Hymn, Tone 4, Podoben: "The pastoral reed-pipe" (Свирѣ́лей па́стырскихъ):*[^338] Anthony together with Euthymius let us all [hymn]...
-
-...with the other God-bearing fathers, let us praise in hymns, celebrating their memory! For these pray unto the Lord for the whole world, that we may be delivered from the ancient curse, being freed from torment!
+*After the 2nd Stichology, Sessional Hymn, Tone 4, Podoben: "The pastoral reed-pipe" (Свирѣ́лей па́стырскихъ):*[^338] Anthony together with Euthymius let us all [hymn] with the other God-bearing fathers, let us praise in hymns, celebrating their memory! For these pray unto the Lord for the whole world, that we may be delivered from the ancient curse, being freed from torment!
 
 *Glory... the same. Both now... Theotokion, Tone 4:* By the prayers of Thine Angels, Prophets, Apostles, Martyrs, and holy Hierarchs, and of all the Venerable, O Savior: send down Thy mercy upon all, and grant peace unto the world, and tranquility unto the Churches, Thou Who willingly didst take flesh from the Virgin for our sake!
 
@@ -2773,9 +2621,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Both now... Theotokion:* Thou alone didst bring a marvelous birth unto humanity; thou alone didst not succumb unto the corruption of nature, having received a seedless and incorrupt birth; therefore as Mother of God, as is meet, do we faithful gloriously praise thee, O pure one!
 
-*Katavasia: "See, see that I am your God..."*
-
-*Ode 3. Heirmos:* "There is none holy as the Lord, and none righteous as our God, Whom all creation hymns: there is none holy besides Thee, O Lord!" (1 Kings 2:2 [LXX 1 Reg. 2:2 / 1 Sam. 2:2]).
+*Katavasia: "See, see that I am your God" Ode 3. Heirmos:* "There is none holy as the Lord, and none righteous as our God, Whom all creation hymns: there is none holy besides Thee, O Lord!" (1 Kings 2:2 [LXX 1 Reg. 2:2 / 1 Sam. 2:2]).
 
 *Troparion:* Entering into another paradise of the virtues of the marvelous Fathers, let us taste of their ever-living gift, of animate delight, faithfully praising them!
 
@@ -2793,9 +2639,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Glory... Triadikon:* O consubstantial Trinity and super-essential Unity, possessing union in division and one essence across the Persons:[^394] unite us into the one desire of Thy commandments!
 
-*Both now... Theotokion:* Moses prefigured thee as the God-receiving Tabernacle...
-
-*Both now... Theotokion (continued):* ...overshadowed by the Seraphim; and the Holy of Holies, O Virgin, prefigured thy pure birthgiving, for Christ to be depicted in the flesh!
+*Both now... Theotokion:* Moses prefigured thee as the God-receiving Tabernacle *Both now... Theotokion (continued):* ...overshadowed by the Seraphim; and the Holy of Holies, O Virgin, prefigured thy pure birthgiving, for Christ to be depicted in the flesh!
 
 *Katavasia: "There is none holy as the Lord, and none righteous as our God, Whom all creation hymns: there is none holy besides Thee, O Lord!"*
 
@@ -2805,17 +2649,15 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Another Sessional Hymn, Tone 8, Podoben: "Of Wisdom and the Word" (Премꙋ́дрости):* Anthony's meekness and tranquility; the greatness and wonder of Eudoxius; the quietude and hesychia of Paul and Arsenius; the glory of Theoctistus; and all the choirs of the other venerable ones: let us faithful glorify and jointly praise them in hymns, and with them let us sing of the virgin Euphrasia with all the God-wise women, crying aloud in harmony: Pray unto Christ God to grant remission of sins unto those who celebrate your holy memory with love![^395]
 
-*Glory... in the same Tone and Podoben:* Having conquered the passions, ye cleaved unto the love of good things, and were clothed in Christ with transcendent glory! Finding rest from your labors, having obtained the life on high through the labors of abstinence, therefore do ye worthily rejoice together with the celestial powers, O our God-bearing Fathers: ask remission of sins for those who celebrate your holy memory with love!
+*Glory... in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* Having conquered the passions, ye cleaved unto the love of good things, and were clothed in Christ with transcendent glory! Finding rest from your labors, having obtained the life on high through the labors of abstinence, therefore do ye worthily rejoice together with the celestial powers, O our God-bearing Fathers: ask remission of sins for those who celebrate your holy memory with love!
 
-*Both now... Theotokion, in the same Tone and Podoben:* The heavenly gate and the ark, the most holy mountain, the radiant cloud let us hymn, the unburnt bush, the spiritual paradise, the restoration of Eve, the great vessel of the whole universe; for in her was wrought salvation for the world, and remission of ancient transgressions! Therefore we cry aloud unto her: Pray unto Christ God to grant remission of sins unto those who piously venerate thy most pure birthgiving!
+*Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* The heavenly gate and the ark, the most holy mountain, the radiant cloud let us hymn, the unburnt bush, the spiritual paradise, the restoration of Eve, the great vessel of the whole universe; for in her was wrought salvation for the world, and remission of ancient transgressions! Therefore we cry aloud unto her: Pray unto Christ God to grant remission of sins unto those who piously venerate thy most pure birthgiving!
 
 *If it be a Temple of Christ, or of the Mother of God: Glory... Both now... Sessional Hymn of the Temple.*
 
 *Ode 4. Heirmos: "From the overshadowed mountain, O Word, the Prophet foresaw in divine contemplation the one Theotokos who was to give Thee flesh, and in trembling he glorified Thy power!" (Hab. 3:3).*
 
-*Troparion:* A luminary in the world was revealed the divine Hilarion; a spiritual mountain, great Justin;[^396]
-
-*Troparion (continued):* ...with them let Erasmus be honored; and excellent in glory Hesychius with Joseph!
+*Troparion:* A luminary in the world was revealed the divine Hilarion; a spiritual mountain, great Justin;[^396] with them let Erasmus be honored; and excellent in glory Hesychius with Joseph!
 
 *Troparion:* In hymns let Peter be praised, who fasted upon Mount Athos; and the Emperor who excellently made all things luminous by the radiant beams of his wonders![^397]
 
@@ -2833,9 +2675,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Glory... Triadikon:* In a marvelous manner, as one and three, is all the Godhead undivided in three Persons; for the Father, the Son, and the Holy Spirit are one nature to be adored!
 
-*Both now... Theotokion:* Rejoice, spacious container of God! Rejoice...
-
-*Both now... Theotokion (continued):* ...ark of the New Covenant; rejoice, jar whence the heavenly Manna was given unto all men! (Heb. 9:4).
+*Both now... Theotokion:* Rejoice, spacious container of God! Rejoice *Both now... Theotokion (continued):* ...ark of the New Covenant; rejoice, jar whence the heavenly Manna was given unto all men! (Heb. 9:4).
 
 *Katavasia: "From the overshadowed mountain, O Word, the Prophet foresaw in divine contemplation the one Theotokos who was to give Thee flesh, and in trembling he glorified Thy power!" (Hab. 3:3).*
 
@@ -2855,9 +2695,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Glory... Triadikon:* The Godhead is three in Hypostases, though one in essence, into Whom we were baptized, in Whom we believe: the Father, the Word, and the Co-enthroned Spirit!
 
-*Both now... Theotokion:* Having by a word brought forth the Word beyond speech, O most holy one...
-
-*Both now... Theotokion (continued):* ...do thou unceasingly pray unto Him, that thy flock may ever be delivered from perils!
+*Both now... Theotokion:* Having by a word brought forth the Word beyond speech, O most holy one *Both now... Theotokion (continued):* ...do thou unceasingly pray unto Him, that thy flock may ever be delivered from perils!
 
 *Katavasia: "From the darkness of passions, as from the deepest night, having delivered me, vouchsafe my spirit to awake early unto Thee, I pray, in the light of the day of Thy commandments, O Christ!"*
 
@@ -2877,9 +2715,7 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 
 *Glory... Triadikon:* O Trinity beyond beginning, and divine Unity: Light and Lights do I hymn, Life and Lives, Mind and Word, and the Holy Spirit, the holiness of the one God!
 
-*Both now... Theotokion:* A flower of life sprouted from thy root, O forefather Jesse...
-
-*Both now... Theotokion (continued):* ...leap for joy! For Christ God, Who saves the world, is born of the pure Maiden! (Isa. 11:1).
+*Both now... Theotokion:* A flower of life sprouted from thy root, O forefather Jesse *Both now... Theotokion (continued):* ...leap for joy! For Christ God, Who saves the world, is born of the pure Maiden! (Isa. 11:1).
 
 *Katavasia: "Receive me who am held fast by many sins, O Lover of mankind, falling down before Thy compassions, even as the Prophet Jonah, O Lord, and save me!" (Jonah 2:2).*
 
@@ -2895,15 +2731,11 @@ Thus saith the Lord Almighty: The fast of the fourth month, and the fast of the 
 *Unto the souls of the righteous, whose memory abides forever,*
 *I offer words as repentant oblations.*
 
-On this day we perform the commemoration of all those who have shone forth in contemplation of God and flourishing in divine things, of holy men as well as women.[^414] For gently, through those feasts which have preceded, the God-bearing Fathers have trained us toward spiritual flourishing, and having made us ready and fit for the course of the Fast, and having drawn us away from indulgence and surfeiting, and having well and sufficiently instructed us in the fear of the future Judgment; and since now also throughout this Cheesefare Week they have properly and fittingly purified us as was meet, and have placed two fasts in the midst of it, that is to say of Wednesday and Friday, so that they might little by little awaken and prepare us for that Fast: so also unto this end do they set before us in our midst all those men and women together who have lived venerably and piously through many labors and toils. That through their memory they might make us more fit and ready for the stadium of ascetic struggles against the assaults of enemies, so that having their lives as a certain pattern and guide, and from them...
-
-...drawing help and rescue in battle, we might sail toward spiritual struggles; having this with consideration before ourselves, that they also remained partakers of the same human nature with us. For even as Hetmans, having drawn up their regiments in battle array, before stepping to the head of the ranks, encourage and rouse their army by words and examples, and by the remembrance of ancient heroes who famously led as hetmans and fought valiantly,[^415] and thence having taken heart and strength, with hope of victory, go against the enemy and engage with their whole soul: so now also the God-bearing Fathers act wisely and prudently. For having fortified both male and female sex unto spiritual struggles through those persons who lived holily, they thus lead them into the course of the Fast. That looking upon the pattern and portrait (*counterfeit*)[^416] of their unslothful and unyielding life, we might practice many and diverse virtues, as each hath strength; and first of all and chiefest, love, and a prudent departure from unprofitable deeds and actions. Unto this also, that this fast be not of foods alone, but also of the tongue, of wrath, and of the eyes, and simply speaking, an emptying and departure from every evil!
+On this day we perform the commemoration of all those who have shone forth in contemplation of God and flourishing in divine things, of holy men as well as women.[^414] For gently, through those feasts which have preceded, the God-bearing Fathers have trained us toward spiritual flourishing, and having made us ready and fit for the course of the Fast, and having drawn us away from indulgence and surfeiting, and having well and sufficiently instructed us in the fear of the future Judgment; and since now also throughout this Cheesefare Week they have properly and fittingly purified us as was meet, and have placed two fasts in the midst of it, that is to say of Wednesday and Friday, so that they might little by little awaken and prepare us for that Fast: so also unto this end do they set before us in our midst all those men and women together who have lived venerably and piously through many labors and toils. That through their memory they might make us more fit and ready for the stadium of ascetic struggles against the assaults of enemies, so that having their lives as a certain pattern and guide, and from them drawing help and rescue in battle, we might sail toward spiritual struggles; having this with consideration before ourselves, that they also remained partakers of the same human nature with us. For even as Hetmans, having drawn up their regiments in battle array, before stepping to the head of the ranks, encourage and rouse their army by words and examples, and by the remembrance of ancient heroes who famously led as hetmans and fought valiantly,[^415] and thence having taken heart and strength, with hope of victory, go against the enemy and engage with their whole soul: so now also the God-bearing Fathers act wisely and prudently. For having fortified both male and female sex unto spiritual struggles through those persons who lived holily, they thus lead them into the course of the Fast. That looking upon the pattern and portrait (*counterfeit*)[^416] of their unslothful and unyielding life, we might practice many and diverse virtues, as each hath strength; and first of all and chiefest, love, and a prudent departure from unprofitable deeds and actions. Unto this also, that this fast be not of foods alone, but also of the tongue, of wrath, and of the eyes, and simply speaking, an emptying and departure from every evil!
 
 For this reason the Holy Fathers established the present commemoration of all the saints here, bringing into our midst those who through fasting and other good deeds pleased Christ God and were united unto Him, and stirring us up by their example unto the race of virtues, and arming ourselves bravely and valiantly from heaven against the passions; and giving us a certain impetus and means, that if we also apply care and diligence equal unto theirs, nothing shall be a hindrance to accomplish even as much as they accomplished, and to become worthy of the same honors, since they also were together of the same nature with us.
 
-Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it, which previously was Meatfare.[^417] For having waged war against Khosrow and the Persians for six years, he promised God that if he should prevail against that foe, he would change this week and establish it in the midst of fasting and food, which he also did. And again I consider that even if that might indeed have happened by circumstance, nevertheless this week was devised by the Holy Fathers for a certain purification, that from meat and copious eating, we might not cast ourselves suddenly into the perfect and strict fast...
-
-...and suffering harm from the sudden transition, find it burdensome and hard; likewise that we might not harm the constitution of our bodies, but gently and little by little depart from fat and luxurious foods; and refraining like unbridled horses, through meager and simple food or fodder, might receive and place upon ourselves the bridle of the fast. For even as on the side of the soul they achieved this through these parables, so likewise on the side of the body have they regulated it, cutting off little by little whatsoever hinders fasting. By the prayers of all Thy venerable ones, O Christ our God, have mercy on us, now and ever, and unto ages of ages. Amen.
+Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it, which previously was Meatfare.[^417] For having waged war against Khosrow and the Persians for six years, he promised God that if he should prevail against that foe, he would change this week and establish it in the midst of fasting and food, which he also did. And again I consider that even if that might indeed have happened by circumstance, nevertheless this week was devised by the Holy Fathers for a certain purification, that from meat and copious eating, we might not cast ourselves suddenly into the perfect and strict fast and suffering harm from the sudden transition, find it burdensome and hard; likewise that we might not harm the constitution of our bodies, but gently and little by little depart from fat and luxurious foods; and refraining like unbridled horses, through meager and simple food or fodder, might receive and place upon ourselves the bridle of the fast. For even as on the side of the soul they achieved this through these parables, so likewise on the side of the body have they regulated it, cutting off little by little whatsoever hinders fasting. By the prayers of all Thy venerable ones, O Christ our God, have mercy on us, now and ever, and unto ages of ages. Amen.
 
 *Ode 7. Heirmos: "Thou Who didst bedew the children in the furnace, and didst preserve the Virgin who bore Thee after childbirth: blessed art Thou, O Lord God of our Fathers!" (Dan. 3:26, 52).*
 
@@ -2919,9 +2751,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *Troparion:* Let heavenly-wise Marina now be honored with great Matrona; and let Syncletica and Sarah, with Justina, be praised in hymns as wise![^423]
 
-*Troparion:* Pelagia, an Angel of the Lord; Thais, a lamp...
-
-*Troparion (continued):* ...of repentance; with them let her be sung, and whatsoever other woman excelled in fasting![^424]
+*Troparion:* Pelagia, an Angel of the Lord; Thais, a lamp of repentance; with them let her be sung, and whatsoever other woman excelled in fasting![^424]
 
 *Glory... Triadikon:* Unto the Father with the Son let us bow down, and unto the Holy Spirit in equal measure, glorifying and crying aloud faithfully: Glory to Thee, O Trinity, Unity, our God!
 
@@ -2941,9 +2771,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *Troparion:* Metrophanes, the glory of hierarchs, with Nectarius, Atticus, and Gennadius; and with them let us sing of Anatolius, living luminaries, together with Eusebius and all-wise Proclus![^429]
 
-*Troparion:* Unto Nicholas the sacred preacher, unto Sophronius...
-
-*Troparion (continued):* ...truly honey-tongued, with Eulalius I sing; and unto Diadochus, together with Eustathius and Juvenal, supreme fathers![^430]
+*Troparion:* Unto Nicholas the sacred preacher, unto Sophronius truly honey-tongued, with Eulalius I sing; and unto Diadochus, together with Eustathius and Juvenal, supreme fathers![^430]
 
 *Refrain: Bless we the Father, and the Son, and the Holy Spirit, the Lord! (Dan. 3:56).*
 
@@ -2983,17 +2811,13 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *At the Praises: Every breath... Stichera of the Fathers on 4. Tone 8, Podoben: "In Eden of old" (Въ є҆де́мѣ ра́и):*[^438]
 
-*Sticheron 1:* All ye faithful, let us magnify in hymns the whole multitude of the fathers who fasted in venerable manner, and let us praise with songs the hierarchs of Christ...
-
-*Sticheron 1 (continued):* ...in God-pleasing harmony, O brethren! For they lived in abstinence and in pure fasting, and made known unto us the Gospel of Christ. With them let us also hymn the God-bearing and radiant women, zealously emulating their manner of life in our souls in God-like manner, that we may find there the forgiveness of our transgressions!
+*Sticheron 1:* All ye faithful, let us magnify in hymns the whole multitude of the fathers who fasted in venerable manner, and let us praise with songs the hierarchs of Christ in God-pleasing harmony, O brethren! For they lived in abstinence and in pure fasting, and made known unto us the Gospel of Christ. With them let us also hymn the God-bearing and radiant women, zealously emulating their manner of life in our souls in God-like manner, that we may find there the forgiveness of our transgressions!
 
 *Sticheron 2:* Those who shone forth joyfully in fasting and lived in venerable manner, let us gloriously praise, O brethren, as those who lived well and were piously translated in joy unto eternal life, having swiftly run by virtue and honor unto the imperishable and blessed inheritance which is there! These let us worthily honor, that through their intercession we may obtain mercy from God, and eternal glory and joy, and be delivered from the inexorable torments that are there!
 
 *Sticheron 3:* O choir of all hierarchs, celebration of the venerable, assembly of the fasters and of venerable women who lived in piety: being besought by grace, pray ye unto the only Good and all-compassionate Lord to have compassion also upon us, that through your prayers we may be preserved in peace, and delivered from the everlasting condemnation of that place, and unceasingly enjoy the future inheritance unto ages of ages, rejoicing with you, and unceasingly sending up a song of praise unto the Giver of life!
 
-*Sticheron 4:* A God-like festivity, O faithful, let us applaud abundantly today: of the hierarchs and fasters, the hieromartyrs, and the venerable and pious women! For they truly despised corruptible and transitory things as a spider's web, and counted them as refuse... (Phil. 3:8).
-
-*Sticheron 4 (continued):* ...that they might gain Christ their King, and those divine things which eye hath not seen, nor ear ever heard! Through their prayers, O God, deliver our souls from corruption! (1 Cor. 2:9).
+*Sticheron 4:* A God-like festivity, O faithful, let us applaud abundantly today: of the hierarchs and fasters, the hieromartyrs, and the venerable and pious women! For they truly despised corruptible and transitory things as a spider's web, and counted them as refuse... (Phil. 3:8). that they might gain Christ their King, and those divine things which eye hath not seen, nor ear ever heard! Through their prayers, O God, deliver our souls from corruption! (1 Cor. 2:9).
 
 *Glory... Tone 6:* O venerable fathers, into all the earth went out the sound of your righteous deeds! Therefore in the heavens have ye found the reward of your labors, having routed the hosts of demons and attained unto the ranks of the Angels, whose blameless life ye zealously emulated! Having boldness unto the Lord, entreat peace for our souls! (LXX Ps. 18:5; Rom. 10:18).[^439]
 
@@ -3007,7 +2831,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *At the Liturgy: The Beatitudes from the Canon of the Holy Fathers, Odes 3 and 6. Prokeimenon of the Fathers alone: "Precious in the sight of the Lord is the death of His venerable ones" (LXX Ps. 115:6). Verse: "What shall I render unto the Lord for all that He hath rendered unto me?" (LXX Ps. 115:3). Another Prokeimenon: "The venerable shall boast in glory, and shall rejoice upon their beds" (LXX Ps. 149:5). Verse: "Sing unto the Lord a new song" (LXX Ps. 149:1). Epistle of the day, to the Romans, pericope 115: "Brethren, let us pursue the things which make for peace..." (Rom. 14:19–23, 16:25–27). Another Epistle for the Venerable Fathers, to the Hebrews, pericope 335: "Brethren, obey your leaders..." (Heb. 13:17–21). Alleluia, Tone 2. Verse: "Planted in the house of the Lord, in the courts of our God they shall flourish" (LXX Ps. 91:14). Verse: "Be glad in the Lord, and rejoice, ye righteous" (LXX Ps. 31:11). Gospel of the day, from Matthew, pericope 16: "The Lord said: Take heed that ye do not your alms before men..." (Matt. 6:1–13). Another Gospel from Luke, for the Venerable ones, pericope 24: "At that time, Jesus stood on a level place..." (Luke 6:17–23). Communion Verse: "In everlasting memory shall the righteous be. Alleluia" (LXX Ps. 111:6).*[^441]
 
-*[Iconography: Half-page woodcut engraving of the Fall and Expulsion of Adam and Eve from Paradise. At upper left: the Creation of Eve from Adam's side ("Созда́ні́е Еѵ҆́вы"). In the center: the Tree of the Knowledge of Good and Evil with the serpent coiled around its trunk offering the fruit to Eve, who gives it to Adam ("Престꙋпле́ні́е", The Transgression). At right: a Cherub with a fiery sword driving Adam and Eve forth from the gates of Eden ("И҆згна́ні́е и҆з̾ Ра́я", The Expulsion from Paradise). Below: Adam tilling the ground with a spade and Eve spinning wool, inscribed with the divine decree: "In the sweat of thy face shalt thou eat thy bread" (Gen. 3:19).]*
+*(*Iconography: Half-page woodcut engraving of the Fall and Expulsion of Adam and Eve from Paradise. At upper left: the Creation of Eve from Adam's side ("Созда́ні́е Еѵ҆́вы"). In the center: the Tree of the Knowledge of Good and Evil with the serpent coiled around its trunk offering the fruit to Eve, who gives it to Adam ("Престꙋпле́ні́е", The Transgression). At right: a Cherub with a fiery sword driving Adam and Eve forth from the gates of Eden ("И҆згна́ні́е и҆з̾ Ра́я", The Expulsion from Paradise). Below: Adam tilling the ground with a spade and Eve spinning wool, inscribed with the divine decree: "In the sweat of thy face shalt thou eat thy bread" (Gen. 3:19).*)*
 
 ## CHEESEFARE SUNDAY: THE EXPULSION OF ADAM
 
@@ -3019,9 +2843,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *At "Lord, I have cried": Stichera from the Octoechos: 3 of the Resurrection, and 3 Anatolian; and from the Triodion on 4. Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ᲂу҆пова́ні́е возло́жше):*[^442]
 
-*Sticheron 1:* My Creator and Lord, having taken dust from the earth, breathed into me the breath of life and honored me, creating me as ruler upon earth of all visible things, and companion of the Angels! But crafty Satan, using the serpent as his instrument, deceived me by food and separated me from the glory of God... (Gen. 2:7; 3:1–6).
-
-*Sticheron 1 (continued):* ...and handed me over unto the nethermost death in the earth! But as Thou art the merciful Master, call me back again!
+*Sticheron 1:* My Creator and Lord, having taken dust from the earth, breathed into me the breath of life and honored me, creating me as ruler upon earth of all visible things, and companion of the Angels! But crafty Satan, using the serpent as his instrument, deceived me by food and separated me from the glory of God... (Gen. 2:7; 3:1–6). and handed me over unto the nethermost death in the earth! But as Thou art the merciful Master, call me back again!
 
 *Sticheron 2:* Wretched that I am, I was stripped of the garment woven by God, having transgressed Thy divine commandment, O Lord, by the counsel of the enemy; and I am now clothed with fig leaves and coats of skins, for I was condemned in the sweat of my brow to eat weary bread, and the earth was cursed to bring forth thorns and thistles unto me! But do Thou Who in these latter times wast incarnate of the Virgin, call me back and lead me again into Paradise! (Gen. 3:7, 17–21).[^443]
 
@@ -3029,9 +2851,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *Sticheron 4, Idiomelon:* Adam was driven out of Paradise through disobedience, and cast out from delight, deceived by the words of a woman; and he sits naked opposite that place, weeping: "Woe is me!" Therefore let us all make haste to receive the time of the Fast, giving ear unto the traditions of the Gospel, that having become well-pleasing unto Christ through them, we may receive again the habitation of Paradise! (Gen. 3:6, 23–24).
 
-*Glory... Tone 6:* Adam sat opposite Paradise, and weeping over his nakedness, he lamented: "Woe is me, who was persuaded and robbed by deceitful trickery, and estranged from glory! Woe is me, who was naked in simplicity, but am now perplexed in distress! But...
-
-*Glory (continued):* ...O Paradise, no longer shall I delight in thy sweetness; no longer shall I behold the Lord my God and Creator! For I shall go into the earth from whence I was taken! (Gen. 3:19). O merciful and compassionate One, I cry unto Thee: Have mercy on me who am fallen!"[^444]
+*Glory... Tone 6:* Adam sat opposite Paradise, and weeping over his nakedness, he lamented: "Woe is me, who was persuaded and robbed by deceitful trickery, and estranged from glory! Woe is me, who was naked in simplicity, but am now perplexed in distress! But O Paradise, no longer shall I delight in thy sweetness; no longer shall I behold the Lord my God and Creator! For I shall go into the earth from whence I was taken! (Gen. 3:19). O merciful and compassionate One, I cry unto Thee: Have mercy on me who am fallen!"[^444]
 
 *Both now... Theotokion: the 1st of the Tone in the Octoechos in course.*
 
@@ -3043,9 +2863,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *At the Aposticha: Stichera in the Octoechos, and according to the alphabet: 3.*
 
-*Glory... Tone 6:* Adam was driven out of Paradise because of food; therefore sitting opposite it, he lamented and groaned with a sorrowful voice, saying: "Woe is me! What have I suffered, wretch that I am? I transgressed a single commandment of the Master, and was deprived of all good things! O most holy Paradise, planted for my sake, and shut because of Eve...
-
-*Glory (continued):* ...pray unto Him Who made thee, and Who fashioned me, that I may be filled with thy blossoms!" Therefore also the Savior answered unto him: "I desire not the destruction of My creature, but desire that he be saved, and come unto the knowledge of the truth; for him that comes unto Me, I will in no wise cast out!" (1 Tim. 2:4; John 6:37).[^447]
+*Glory... Tone 6:* Adam was driven out of Paradise because of food; therefore sitting opposite it, he lamented and groaned with a sorrowful voice, saying: "Woe is me! What have I suffered, wretch that I am? I transgressed a single commandment of the Master, and was deprived of all good things! O most holy Paradise, planted for my sake, and shut because of Eve pray unto Him Who made thee, and Who fashioned me, that I may be filled with thy blossoms!" Therefore also the Savior answered unto him: "I desire not the destruction of My creature, but desire that he be saved, and come unto the knowledge of the truth; for him that comes unto Me, I will in no wise cast out!" (1 Tim. 2:4; John 6:37).[^447]
 
 *Both now... in the same Tone: "The Creator and Deliverer..." (see fol. 20)[^448].*
 
@@ -3121,9 +2939,7 @@ Concerning Cheesefare Week, some relate that the Emperor Heraclius instituted it
 
 *Troparion 2:* Weep for me, ye ranks of Angels, ye beauties of Paradise and trees, and celestial splendor therein, who was wretchedly deceived and estranged from God!
 
-*Troparion 3:* O blessed woods, trees planted by God, beauty of Paradise...
-
-*Troparion 3 (continued):* ...O beauty, now shed tears over me, from your leaves as from eyes, over me who am naked and estranged from the glory of God!
+*Troparion 3:* O blessed woods, trees planted by God, beauty of Paradise O beauty, now shed tears over me, from your leaves as from eyes, over me who am naked and estranged from the glory of God!
 
 *Glory... Troparion:* No longer do I behold thee, nor do I delight in thy most sweet and divine splendor, O all-honored Paradise! For naked was I cast down upon the earth, having provoked my Creator to anger!
 
@@ -3181,9 +2997,7 @@ Philo the Jew, indeed, says that Adam dwelt in Paradise a hundred years; others 
 
 He was created, moreover, midway between corruption and incorruption, so that unto whichever side he should incline by free will and through adoption, he should acquire that for himself. It was a possible thing, therefore, for God to make man sinless—that is, unable to sin; but He did not do so, in order that virtue might also proceed from his own free will. For this reason the Law gives him permission, indeed, to touch all the plants, but one—not so! That is to say, it was permissible to have and to ponder knowledge and understanding of the divine power which is revealed from all created things, but knowledge concerning the divine nature in nowise! Which also Gregory the Theologian says philosophizing: that the divine thoughts and concepts are trees, and the plants are contemplation of God.[^467] That is, God permitted and commanded Adam, he says, to consider diligently all other elements and qualities, and to distinguish them with his intellect, and from thence to glorify God—for this, indeed, is true delight and joy; and likewise concerning his own bodily nature. But concerning God, who He is according unto His nature, and in what place, and how He made all things from nothing and brought them into being, he was by no means to inquire. But he, that is, our Forefather Adam, leaving other things, inquired rather concerning God, and wishing clearly to know concerning His nature, investigated inquisitively. Whence, as one who was yet imperfect, most simple, and a child in such great matters, he fell, especially when Satan put into him a deceitful imagination and a false opinion that he should be God! (Gen. 3:5).
 
-The great and divine Chrysostom, moreover, says that that tree in Paradise possesses a certain twofold power; he also says that Paradise is upon earth, and philosophizes that it is both...
-
-...spiritual and sensible, even as was Adam also; and that both of these are midway between corruption and incorruption, at once preserving Scripture in its entirety and not adhering strictly to the literal text.[^468]
+The great and divine Chrysostom, moreover, says that that tree in Paradise possesses a certain twofold power; he also says that Paradise is upon earth, and philosophizes that it is both spiritual and sensible, even as was Adam also; and that both of these are midway between corruption and incorruption, at once preserving Scripture in its entirety and not adhering strictly to the literal text.[^468]
 
 Some also say that that tree of disobedience was a fig tree; for having perceived their nakedness immediately, they made use of the leaves of that tree and covered themselves (Gen. 3:7). For this reason also Christ cursed the fig tree, as that which was the cause of so great a transgression (Matt. 21:19). For that tree has a certain resemblance unto sin: first it is sweetening, then sharp and stinging as to its leaves, and finally sticky because of its milk.
 
@@ -3191,9 +3005,7 @@ There are also some who understood that tree to be the intercourse and carnal kn
 
 The aforesaid Adam, therefore, having transgressed, and having clothed himself in a mortal body and received the curse, was cast out of Paradise, and the flaming sword was commanded to guard the gates of Paradise (Gen. 3:19, 24). And sitting before Paradise, he wept over how many good things he had lost and that he was naked, because he had not fasted for a little time; and all the race proceeding from him became partakers of woes equal unto his. Until He Who created us took pity upon our nature, when Satan had alienated it for a long time and was bringing it unto perdition: Jesus, I say, born of the Holy Virgin, having lived most excellently upon earth and shown us the way through virtues contrary to that one—that is, through Fasting and Humility—and having vanquished him who had deceived and cheated us, brought us back again unto our first dignity!
 
-Wishing, therefore, to set all these things before our eyes, the God-bearing Fathers set forth for us the divine works throughout the whole Triodion. First, then, from the Old Testament, among which are the creation of all things and of man, and likewise Adam's fall from the delight of Paradise, whereof we now make remembrance. Thereafter also certain things from the words of Moses, the Prophets, and most of all David, and between them adding something from Grace, that is, Mercy. Then, proceeding in order, also from the New Testament, whereof the first is the Annunciation,[^469] which by ineffable divine arrangement is constantly found and celebrated well-nigh within the Holy Forty Days; as also concerning Lazarus,[^470] and concerning the branches spread by the children when Christ rode into Jerusalem,[^471] and concerning the Holy and Great Week, the holy Gospels are read through...
-
-...and the very holy and saving Sufferings of Christ are tenderly and subtly chanted. Finally, when concerning the Resurrection and other mysteries even unto the Descent of the All-Holy Spirit, the sacred Acts of the Apostles are read—that is to say, how the Preaching took place and assembled all the holy ones. For the Acts confirm and corroborate the Resurrection through miracles.[^472]
+Wishing, therefore, to set all these things before our eyes, the God-bearing Fathers set forth for us the divine works throughout the whole Triodion. First, then, from the Old Testament, among which are the creation of all things and of man, and likewise Adam's fall from the delight of Paradise, whereof we now make remembrance. Thereafter also certain things from the words of Moses, the Prophets, and most of all David, and between them adding something from Grace, that is, Mercy. Then, proceeding in order, also from the New Testament, whereof the first is the Annunciation,[^469] which by ineffable divine arrangement is constantly found and celebrated well-nigh within the Holy Forty Days; as also concerning Lazarus,[^470] and concerning the branches spread by the children when Christ rode into Jerusalem,[^471] and concerning the Holy and Great Week, the holy Gospels are read through and the very holy and saving Sufferings of Christ are tenderly and subtly chanted. Finally, when concerning the Resurrection and other mysteries even unto the Descent of the All-Holy Spirit, the sacred Acts of the Apostles are read—that is to say, how the Preaching took place and assembled all the holy ones. For the Acts confirm and corroborate the Resurrection through miracles.[^472]
 
 Since therefore, because Adam did not fast even once, we suffered so many woes and evils, commemoration of this is now set forth at the entrance unto the Holy Forty Days. So that we, remembering what great evil that which is not fasting brought in, might strive and hasten to receive the Fast pleasantly and willingly, and to observe it, so that we might attain unto that which Adam lost—that is, Deification (*Theosis*)—through this Fast, weeping fervently, fasting, and humbling ourselves until God visit us. For without these means it is not easy to obtain that which we lost.
 
@@ -3269,9 +3081,7 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 
 *Arise, O Lord my God, let Thy hand be lifted up (Ps. 9:32 [LXX]).*
 
-*Doxasticon / Idiomelon:* The time has arrived, the beginning of spiritual contests...
-
-...victory over the demons, the full armor of abstinence, the angelic splendor, boldness toward God! For through this Moses became a conversationalist with the Creator, and invisibly received a voice in his hearing (Exod. 33:11; 34:28). Therefore, O Lord, account us also worthy to worship Thy Sufferings and holy Resurrection, as Thou art the Lover of mankind!
+*Doxasticon / Idiomelon:* The time has arrived, the beginning of spiritual contests victory over the demons, the full armor of abstinence, the angelic splendor, boldness toward God! For through this Moses became a conversationalist with the Creator, and invisibly received a voice in his hearing (Exod. 33:11; 34:28). Therefore, O Lord, account us also worthy to worship Thy Sufferings and holy Resurrection, as Thou art the Lover of mankind!
 
 *Glory: the same sticheron. Both now:*
 *Thou art most blessed, O Virgin Mother of God... Great Doxology. After the Trisagion, the Resurrectional Troparion only. And the Dismissal. Exit into the narthex. Glory... Both now... The Gospel Sticheron. And the Instruction of the Studite. And the reading. And the final dismissal.*[^483]
@@ -3294,7 +3104,7 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 
 *Sticheron 2:* I lament myself, considering my deeds, O Lord, worthy of all torment! For lo, having despised Thine honorable commandments, O Savior, I spend my life prodigally. Therefore I pray: having cleansed me with the rains of repentance through fasting and supplication, as the only merciful One enlighten me, and turn not in disgust away from me, O Benefactor of all and most good!
 
-*Another, of Lord Theodore the Studite. Tone the same, Podoben: "Surpassing understanding" (Па́че [ᲂу҆ма̀]):*[^488]
+*Another, of Lord Theodore the Studite. Tone the same, Podoben: "Surpassing understanding" (Па́че (*ᲂу҆ма̀*)):*[^488]
 
 *Sticheron 3:* Let us begin the season of the Fast with brightness, submitting ourselves unto spiritual contests! Let us wash the soul, let us cleanse the body; let us fast from every passion as from foods, delighting in the virtues of the Spirit, in which persevering with love, may we all be accounted worthy to behold the all-honorable Passion of Christ God and the Holy Pascha, rejoicing spiritually!
 
@@ -3302,13 +3112,11 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 
 *Entrance: the Priest vests in a purple phelonion, with censer, and the taper-bearer.*[^489]
 
-**Priest:** *Wisdom! Stand upright!*
+> **Priest:** *Wisdom! Stand upright!*
 
 *Then: O Joyous Light (Phos Hilaron).*
 
-*Great Prokeimenon, Tone 8:* Turn not away Thy face...
-
-...from Thy servant, for I am in trouble; speedily hear me; give heed unto my soul, and deliver it *(Ps. 68:18–19).*
+*Great Prokeimenon, Tone 8:* Turn not away Thy face from Thy servant, for I am in trouble; speedily hear me; give heed unto my soul, and deliver it *(Ps. 68:18–19).*
 *Verse:* Let Thy salvation, O God, uphold me *(Ps. 68:30).*
 *Verse:* Let the poor see and be glad *(Ps. 68:33).*
 *And again with the highest voice:* Turn not away Thy face...
@@ -3331,18 +3139,16 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 *Theotokion:* The angelic ranks glorify thee, O Mother of God; for thou, all-pure one, didst bear God, Who is co-eternal with the Father and the Spirit, and Who by His will established the angelic armies from nothingness. Implore Him, O all-pure one, to save from corruption and to enlighten the souls of the Orthodox who hymn thee!
 
 *Now lettest Thou Thy servant depart. Trisagion. 3 Metanias. Then Troparia, Tone 4:*
-*Rejoice, O Mother of God and Virgin...*
-
-*O Mother of God and Virgin, rejoice, Mary full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, for thou hast borne the Savior of our souls! And 1 prostration.*
+*Rejoice, O Mother of God and Virgin O Mother of God and Virgin, rejoice, Mary full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, for thou hast borne the Savior of our souls! And 1 prostration.*
 *Glory: O Baptist of Christ, remember us all, that we may be delivered from our iniquities; for unto thee grace was given to pray for us. And one prostration.*
 *Both now: Intercede for us, holy Apostles and all saints, that we may be delivered from dangers and sorrows; for we have acquired you as fervent intercessors before the Savior. And 1 prostration.*
 *Then: Beneath thy tender compassion we flee, O Mother of God; despise not our supplications in adversity, but deliver us from dangers, O only blessed one!*[^492]
 
 *Without prostration and without singing: Lord, have mercy (40 times), in a soft and quiet voice, and all with uniformity. Then: Lord, bless! The Priest exclaims:*
 
-**Priest:** *He that IS blessed is Christ our God, always, now and ever, and unto ages of ages.*
+> **Priest:** *He that IS blessed is Christ our God, always, now and ever, and unto ages of ages.*
 
-**Reader:** *Amen. And the Prayer:*
+> **Reader:** *Amen. And the Prayer:*
 *O Heavenly King, strengthen our faithful sovereigns, establish the faith, subdue the nations, pacify the world, well preserve this holy Monastery, settle our departed fathers and brethren in the Tabernacles of the Righteous, and receive us in repentance and confession, as Thou art good and the Lover of mankind! And we make 3 great metanias.*[^493]
 
 *Then lifting up our hands, we stand, praying in our own mind and saying within ourselves the Prayer of Venerable Ephrem the Syrian:*[^494]
@@ -3363,9 +3169,7 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 *On Cheesefare Sunday Evening: At Small Vespers, all the Stichera are of the Feast, and the Troparion; only at the Aposticha, the Idiomelon of the day twice, and of the Martyrs.*
 *AT GREAT VESPERS: After the customary Psalm, we sing:* Blessed is the man *(Ps. 1), the first "Glory..." Stichera on 10: 2 Idiomela from the Triodion for the day, 2; and Prosomoia, 3; and of the Feast, 5. Glory... Both now... of the Feast. Entrance. Great Prokeimenon:* Turn not away Thy face... *with its verses. And the Readings of the Feast. At the Litiya and at the Aposticha, of the Feast. At the Blessing of Loaves, Troparion of the Feast, 3 times; and the customary order, and the Reading of the Feast.*
 *AT MATINS: At "God is the Lord," Troparion of the Feast, 3 times. And we recite 3 Kathismata. After the 1st Kathisma: both Sessional Hymns in the Triodion, and the Reading of the Feast. After the 2nd Kathisma and after the 3rd: Sessional Hymns of the Feast, and the Reading of the Feast. Polyeleos. Megalynarion. And the Reading of the Feast.*
-*CANON of the Feast with Heirmoi on 6; and the Triodion on 8; and after the Heirmos in the Triodion. But the remaining Odes of the Feast on 14, with the Heirmos; Katavasia of the Feast. After Ode 3, Sessional Hymn of the Feast, 2 times; and the Reading of the Feast. After Ode 6, Kontakion and Ikos of the Feast; and the Prologue. And the 4th Ode and the other we sing as also the 1st with the Triodion. We do not sing "More honorable than the Cherubim." Exapostilarion 3 times. At the Praises, all of the Feast. At the Aposticha, Idiomelon of the day twice, and of the Martyrs. Glory... Both now... of the Feast. After "Our Father," Troparion of the Feast. Litany. 3 great prostrations, and the Dismissal. And the First Hour: Troparion and Kontakion of the Feast; and at the end 3 great prostrations, and the Dismissal, and the customary exit. Likewise on the 3rd day, an exit outside the Monastery, and procession...*
-
-*...of the Monastery. We chant the Third Hour with the Kathisma; Troparion and Kontakion of the Feast; and the Paroimia at the Sixth Hour of the day; and the Reading of the Feast. At the Ninth Hour, we chant the Ninth Hour with Kathisma; and the Reading from the Catechesis of the Studite. The Beatitudes without singing, and "Remember us, O Lord," we say simply. After "Our Father," Kontakion of the Feast; "Lord, have mercy" (40 times); and 3 prostrations, and the Dismissal. We chant Vespers without Kathisma and without prostrations.*
+*CANON of the Feast with Heirmoi on 6; and the Triodion on 8; and after the Heirmos in the Triodion. But the remaining Odes of the Feast on 14, with the Heirmos; Katavasia of the Feast. After Ode 3, Sessional Hymn of the Feast, 2 times; and the Reading of the Feast. After Ode 6, Kontakion and Ikos of the Feast; and the Prologue. And the 4th Ode and the other we sing as also the 1st with the Triodion. We do not sing "More honorable than the Cherubim." Exapostilarion 3 times. At the Praises, all of the Feast. At the Aposticha, Idiomelon of the day twice, and of the Martyrs. Glory... Both now... of the Feast. After "Our Father," Troparion of the Feast. Litany. 3 great prostrations, and the Dismissal. And the First Hour: Troparion and Kontakion of the Feast; and at the end 3 great prostrations, and the Dismissal, and the customary exit. Likewise on the 3rd day, an exit outside the Monastery, and procession of the Monastery. We chant the Third Hour with the Kathisma; Troparion and Kontakion of the Feast; and the Paroimia at the Sixth Hour of the day; and the Reading of the Feast. At the Ninth Hour, we chant the Ninth Hour with Kathisma; and the Reading from the Catechesis of the Studite. The Beatitudes without singing, and "Remember us, O Lord," we say simply. After "Our Father," Kontakion of the Feast; "Lord, have mercy" (40 times); and 3 prostrations, and the Dismissal. We chant Vespers without Kathisma and without prostrations.*
 *Stichera on 10: 2 Idiomela of the Triodion for the day, 2; and Prosomoia, 3; and of the Feast, 3; and of Saint Symeon, 3. And we say the 3rd Sticheron of the Saint with the addition, Verse:* Thou art a priest forever after the order of Melchizedek *(Ps. 109:4). Glory... Both now... of the Feast. Entrance with the Gospel. Prokeimenon and Reading of the day. And "Let my prayer be set forth." And the Little Diaconal Litany. Troparion. Glory... Both now... Kontakion of the Feast in the Tone; and the Trisagion. Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn of the Feast; and the Liturgy of Saint John Chrysostom.*
 *At the Trapeza: we eat dry food and drink wine; but we do not eat fish.*
 *On that same day, at Compline we chant according to custom from the Canon of Andrew the appointed portion, but we do not make prostrations; only at "Glory to God in the highest," and at the Trisagion, 3 great prostrations each; and at "More honorable than the Cherubim," 3 with the Prayer, and 12 other [metanias]; and at the final Trisagion, 3 prostrations, and the Dismissal.*[^500]
@@ -3389,7 +3193,7 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 [^48]: St. George of Nicomedia (*Творе́нїе Геѡ́ргїа*): Metropolitan George of Nicomedia (9th century), celebrated hymnographer who composed the triodia and tetraodia of the Pre-Lenten and Lenten seasons in the Byzantine rite.
 [^49]: Katavasia of Ode 1: *I shall open my mouth* (*Ѡ҆тве́рзꙋ ꙋ҆ста̀ моѧ̑*), theirmos of the Canon to the Most Holy Theotokos (Tone 4), standardly appointed during the Pre-Lenten period.
 [^50]: Ode 3 Heirmos: *There is none holy as Thou, O Lord my God* (*Нѣ́сть ст҃ъ, ꙗ҆́коже Ты̀, Гдⷵи Бж҃е мо́й*), based upon the Third Biblical Canticle (1 Kings 2:2 [1 Sam 2:2 MT], the Song of Hannah).
-[^51]: Podoben incipit: *Speedily anticipate* (*Ско́рѡ предварѝ* / Greek: *Тахὺ προκατάлаβε*). A standard Tone 4 prosomoion model hymn frequently appointed for sessional hymns, sedalia, and apolytikia.
+[^51]: Podoben incipit: *Speedily anticipate* (*Ско́рѡ предварѝ* / Greek: *Ταχὺ προκατάλαβε*). A standard Tone 4 prosomoion model hymn frequently appointed for sessional hymns, sedalia, and apolytikia.
 [^52]: Ode 4 Heirmos: *Christ is my power* (*Хрⷭто́съ мнѣ̀ си́ла* / *Christos mou dynamis*). Based upon the Fourth Biblical Canticle, the Prayer of the Prophet Habakkuk (Hab. 3:2–19).
 [^53]: Philippians 2:7: "But made Himself of no reputation, and took upon Him the form of a servant, and was made in the likeness of men."
 [^54]: James 4:6; 1 Peter 5:5; Proverbs 3:34: "God resists the proud, but gives grace unto the humble."
@@ -3797,7 +3601,7 @@ By Thine ineffable compassion, O Christ our God, make us worthy of the delight o
 [^456]: Internal cross-reference: fol. 5 (`Ли́стъ, е҃`) corresponds to physical leaf p19 in this codex.
 [^457]: The Canon of Cheesefare Sunday was composed by Christopher the Protoasekretis (first secretary or imperial chancellor of Constantinople, 9th/10th century).
 [^458]: Tone 4 Sessional Hymn (Kathisma) melodic model: *Joseph was amazed* (Slavonic: *Ꙋди́вися І҆ѡ́сифъ*; Greek: *Κατεπλάγη Ἰωσήφ*).
-[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σтаυρῷ*).
+[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ*).
 [^460]: Patristic reading at Matins: Saint Gregory the Theologian (of Nazianzus), *Oration 19: On the Calamity of the City and the Reconciliation of the Emperor's Tax-Collector* (also known as *On the Hail* or *On the Plague*).
 [^461]: Kontakion of Cheesefare Sunday (Tone 6, Idiomelon / Samoglasen). Attributed to Saint Romanos the Melodist (6th century). In Byzantine and Slavonic hymnography, this serves as the prooimion to his celebrated kontakion on the Fall of Adam.
 [^462]: Ikos of Cheesefare Sunday. The 1640 Kyivan edition preserves four full strophes of Romanos the Melodist's original kontakion on the Fall of Adam, whereas later Russian Synodal editions abridge the Ikos to the opening strophe alone. This unabridged four-strophe witness reflects the conservative archaism of the 17th-century Kyiv-Pechersk liturgical recension.

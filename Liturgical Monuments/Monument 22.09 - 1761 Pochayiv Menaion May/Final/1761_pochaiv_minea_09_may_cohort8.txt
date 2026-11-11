@@ -88,7 +88,7 @@ O herald John, equal to the angels, virgin, theologian, taught of God! In Orthod
 ## May 9. The Holy Prophet Isaiah; and the Holy Martyr Christopher; and the Translation of the Honorable Relics of Our Father among the Saints, Nicholas the Wonderworker, from Myra to the City of Bari
 *His service is written after this service.[^87]*
 
-*At "Lord, I have cried," Stichera of the Prophet, Tone 4, Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*At "Lord, I have cried," Stichera of the Prophet, Tone 4, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 Cleansed by the coal of the divine, incarnate Word,[^88] the great and glorious Isaiah was entrusted with prophecy, and was accounted worthy to behold the divine glory; having become a herald through his rich wealth of virtue and purity, he foreannounced the coming salvation unto the nations and the divine manifestation.
 
 *Sticheron:*
@@ -97,7 +97,7 @@ Having cleansed thy mind and thought, O marvelous Isaiah, thou wast shown to be 
 *Sticheron:*
 Having seen the divine Seraphim ceaselessly glorifying with thrice-holy understanding the one Lordship of the tri-hypostatic Godhead, O blessed one, and having been instructed, thou wast entrusted with prophetic grace, O marvelous one; therefore, as we celebrate thy all-sacred memory, we bring thee unto Christ as a most fervent intercessor.
 
-*Other Stichera of the Martyr, the same Tone, Podoben: "As Noble" (Yako doblya):*
+*Other Stichera of the Martyr, the same Tone, Podoben: "As Noble" (Ꙗ҆́кѡ до́блѧ):*
 O most glorious Christopher, pillar named after Christ,[^90] honorable adornment of grace! Thou didst cast down the dominion of the mighty, and put the tormentors to shame, and didst proclaim Christ as the true King and thy Creator; by Whose divine power thou didst receive from heaven a divine crown and abiding glory.
 
 *Sticheron:*
@@ -165,10 +165,10 @@ Thy flesh was indeed cut by wounds, but thy God-loving soul was nourished with l
 *Theotokion:*
 The saying of Isaiah is truly fulfilled: for the Virgin brought forth the incarnate Giver of life and Savior of our souls.[^95]
 
-*Sessional Hymn of the Prophet, Tone 4, Podoben: "Speedily Anticipate" (Skoro predvari):*
+*Sessional Hymn of the Prophet, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Having cleansed thy soul exceedingly from carnal passions, thou didst behold the glory of God Who is over all, O most wealthy prophet, shining forth prophecy with radiant beams: As a young child, thou didst say, the Creator is born,[^96] saving us from corruption through thy prayers.
 
-*Glory... Sessional Hymn of the Martyr, the same Tone, Podoben: "Thou Hast Appeared" (Yavilsya yesi):*
+*Glory... Sessional Hymn of the Martyr, the same Tone, Podoben: "Thou Hast Appeared" (Ꙗ҆ви́лсѧ є҆сѝ):*
 Having accomplished the contest of martyrdom, O glorious one, thou didst receive the crown of victory from God, O blessed Christopher: entreat Him to deliver us from misfortunes!
 
 *Both now... of the Feast.*

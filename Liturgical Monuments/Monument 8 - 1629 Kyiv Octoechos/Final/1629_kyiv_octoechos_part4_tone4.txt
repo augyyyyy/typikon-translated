@@ -46,7 +46,7 @@ With tears the women, having reached the tomb, sought Thee; and finding Thee not
 
 *Theotokion:*
 
-Grant consolation unto Thy servants, O all-blameless one, calming the fierce assaults against us, and delivering us from every sorrow; for thee alone do we hold as a firm and unshakable foundation, and we have acquired thy protection; let us not be put to shame, O Sovereign Lady, who call upon thee; hasten unto the prayer of those that cry unto thee: Rejoice, O Sovereign Lady, helper of all, the joy and protection of our souls!
+Grant consolation unto thy servants, O all-blameless one, calming the fierce assaults against us, and delivering us from every sorrow; for thee alone do we hold as a firm and unshakable foundation, and we have acquired thy protection; let us not be put to shame, O Sovereign Lady, who call upon thee; hasten unto the prayer of those that cry unto thee: Rejoice, O Sovereign Lady, helper of all, the joy and protection of our souls!
 
 ## SUNDAY MIDNIGHT OFFICE (TONE 4)
 
@@ -110,7 +110,7 @@ O thrice-radiant Light of Thine essential light, shine upon me, O unique Godhead
 
 *Theotokion:*
 
-Wishing to deify man who of old had decayed, whom for His goodness He had created, Thy Son, O Virgin, showing forth the image of the divine likeness, became Man from thee, and proclaimed the one tri-hypostatic divine Principle.
+Wishing to deify man who of old had decayed, whom for His goodness He had created, thy Son, O Virgin, showing forth the image of the divine likeness, became Man from thee, and proclaimed the one tri-hypostatic divine Principle.
 
 *Ode 6. Heirmos: The abyss:*
 
@@ -132,7 +132,7 @@ Incomprehensible and unapproachable God, Who art alone by nature good and mercif
 
 [f. 79rA] *Theotokion:*
 
-We Thy servants shall never cease, O Virgin, thankfully to hymn Thine acts of mercy from the heart, O Sovereign Lady, crying out and saying: O most holy Virgin, anticipate and deliver us from invisible enemies, and from perils and every threat; for thou art our protection.
+We thy servants shall never cease, O Virgin, thankfully to hymn thine acts of mercy from the heart, O Sovereign Lady, crying out and saying: O most holy Virgin, anticipate and deliver us from invisible enemies, and from perils and every threat; for thou art our protection.
 
 *Ode 7. Heirmos: In the fiery furnace the Persian children of...*
 
@@ -476,7 +476,7 @@ We behold thee, O pure one, clothed like a lily, O all-immaculate one, shining i
 
 Taking corruptible earthly nature from thine all-immaculate womb, the Incorruptible One showed it forth in Himself as entirely incorruptible through the bowels of His compassion; therefore do we magnify thee as the Theotokos.
 
-O Sovereign Lady Who rulest over all creatures, grant unto Thy people victorious overcome; subdue the disobedient under the feet of the king, that we may [f. 92vA] magnify thee.[^98]
+O Sovereign Lady Who rulest over all creatures, grant unto thy people victorious overcome; subdue the disobedient under the feet of the king, that we may [f. 92vA] magnify thee.[^98]
 
 *At the Praises: Resurrection Stichera, Tone 4:*
 
@@ -581,7 +581,7 @@ Rejoice, cloud of light! Rejoice, radiant lamp! Rejoice, urn wherein was the man
 [^84]: Fol. 78v–79r (Leaf p81). Sunday Midnight Office, Canon to the Holy Trinity, Tone 4 (Odes 6–7). The troparion on Fol. 78v invokes Isaiah 6:1–3 ("I saw the Lord sitting upon a throne, high and lifted up... Holy, holy, holy"), interpreting the Seraphic trisagion as a prophetic revelation of the tri-hypostatic monarchy of God. The Sessional Hymn on Fol. 78v follows the model *Вознесы́йсѧ на крⷭ҇тъ* (*Thou Who wast lifted up upon the Cross*), standard for Tone 4 sessional hymns.
 [^85]: Fol. 79v–80r (Leaf p82). Sunday Midnight Office, Canon to the Holy Trinity, Tone 4 (Odes 8–9). Fol. 79v line 1 completes the cross-page clause from Fol. 79r (*прича́стїю х҃е твое́го бж҃тва* — "unto communion with Thy Godhead, O Christ"). The heirmos of Ode 8 references Daniel 6:10 / 6:22 (*Рꙋ́цѣ распросте́ръ Данїи́лъ*), and Ode 9 references the Magnificat and Incarnation (*Всѧ́къ земноро́дный*).
 [^86]: Fol. 80v–81r (Leaf p83). Transition from the Sunday Midnight Office to Sunday Matins (*На ѻ҆́ꙋтрни, на Бг҃ъ Гдⷭ҇ь*). The canonical Tone 4 Resurrection Troparion (*Свѣ́тлꙋю воскрⷭ҇нїѧ проповѣ́дь* / *Having learned the radiant proclamation of the Resurrection*) is paired with the universal Sunday Tone 4 Theotokion (*Є҆́же ѿвѣ́ка оу҆тае́нное* / *The mystery hidden from the ages*). Fol. 81r records the Sessional Hymns after the First and Second Kathismata (*Воззрѣ́вше на гро́бный вхо́дъ* and *Свое́ю во́лею распѧ́тїе претерпѣ́лъ є҆сѝ*).
-[^87]: Fol. 81v–82r (Leaf p84). Fol. 81v concludes the Second Kathisma with its Theotokion (*Оу҆диви́сѧ Ἰ҆ѡ́сифъ* / *Joseph was amazed*), which draws on Aaron's budding rod (Numbers 17:8) and Gideon's dew on the fleece (Judges 6:36–40) as prefigurations of the virginal conception. This is followed by the Tone 4 Hypakoe (*Па́же твое́го пресла́внаго воста́нїѧ*) and the Anabathmoi (Gradual Antiphons 1 and 2), grounded in Psalm 128 [LXX 127] and Psalm 129 [LXX 128].
+[^87]: Fol. 81v–82r (Leaf p84). Fol. 81v concludes the Second Kathisma with its Theotokion (*Оу҆диви́сѧ І҆҆ѡ́сифъ* / *Joseph was amazed*), which draws on Aaron's budding rod (Numbers 17:8) and Gideon's dew on the fleece (Judges 6:36–40) as prefigurations of the virginal conception. This is followed by the Tone 4 Hypakoe (*Па́же твое́го пресла́внаго воста́нїѧ*) and the Anabathmoi (Gradual Antiphons 1 and 2), grounded in Psalm 128 [LXX 127] and Psalm 129 [LXX 128].
 [^88]: Fol. 82v–83r (Leaf p85). Fol. 82v concludes the Anabathmoi with Antiphon 3 and gives the Sunday Matins Prokeimenon (*Воскрⷭ҇нѝ Гдⷭ҇и помозѝ на́мъ*, Psalm 43:26, 1 [LXX]). The Matins Canons begin with the Resurrection Canon of Tone 4 (*Мо́рѧ чермна́го пꙋчи́нꙋ* / *Traversing the depth of the Red Sea*, referencing Exodus 14–15 and Moses' cross-figured outstretched hands defeating Amalek in Exodus 17:11–12), followed on Fol. 83r by the second Canon of the Cross and Resurrection (*Ѿве́рзꙋ оу҆ста̀ моѧ̑*).
 [^89]: Fol. 83v–84r (Leaf p86). Fol. 83v introduces the third canon of Sunday Matins: the Canon to the Most Holy Theotokos in Tone 4 (*Триста́тыщѧ* / *The captains*). Ode 3 opens with the Resurrection heirmos (*Весели́тсѧ ѡ҆тебѣ̀, цр҃кви твоѧ̀ хрⷭ҇те* / 1 Kings [1 Samuel] 2:1–10). Fol. 84r provides Ode 3 of the Cross-Resurrection Canon (*Твоѧ̑ пѣ́вцы*) and the Theotokos Canon, developing the anti-demonic typology of Christ shattering the fangs of the serpent with the nails of the Cross.
 [^90]: Fol. 84v–85r (Leaf p87). Fol. 84v gives Ode 3 of the Theotokos Canon (*Свы́шнихъ*), followed by Ode 4 of the Resurrection Canon (*Воздви́женна тѧ̀ ви́дѣвши цр҃кви*, based on Habakkuk 3:11). Fol. 85r contains Ode 4 of the Cross-Resurrection Canon (*Неизслѣ́дному бж҃їю совѣ́тꙋ*), presenting the theological paradox of the Law-giving God nailed to the Cross by those who had received the Law.

@@ -2,24 +2,24 @@
 
 one is of a hopeful character—Tone 5 (parallel both in a musical respect and in content to Tone 1: "even as we have hoped"): **"Thou, O Lord, shalt keep us..."** (Ps. 11:8 [LXX]), while the remainder are of a laudatory character, which is more fitting for the tone of the Sunday service; the most laudatory is Tone 4: **"How *(Orig. p. 753)* magnified are Thy works, O Lord..."** (Ps. 103:24 [LXX]); then, parallel in content, Tone 3: **"Sing praises to our God..."** (Ps. 46:7 [LXX]) and Tone 8: **"Make your vows (in Heb.: 'make vows') and pay them..."** (Ps. 75:12 [LXX]); finally, likewise parallel—Tone 2: **"The Lord is my strength and my song..."** (Ps. 117:14 [LXX]) and Tone 7: **"The Lord will give strength unto His people..."** (Ps. 28:11 [LXX]). The verses to the prokeimena, according to custom, are served by the opening verses of the Psalms from which the prokeimena are taken, except for Tone 2, where the verse is Psalm 117:18 [LXX].
 
-### History
+**History**
 Of the Sunday Liturgical prokeimena, the "Jerusalem Order" of Holy Week and Bright Week of the 9th century provides the Prokeimenon of Tone 7 at Vespers of Bright Thursday; the Typikon of the Great Church of Constantinople of the 9th century gives the Prokeimenon of Tone 6 on the Tuesday of Pentecost. All prokeimena in present usage are provided by the Evergetis Typikon (11th–12th c.), with the sole peculiarity that the Prokeimenon of Tone 6 serves also for Tone 4[^2759].
 
-### The Alleluiarion
+**The Alleluiarion**
 Being accounted more sacred than the Epistle (*Apostol*), the Gospel must possess before it a most excellent preparation as well. If at Matins such a preparation for it is served by the Prokeimenon, then at the Liturgy, where the latter precedes the Epistle, the Gospel must possess before it something still more exceptional. Such indeed is the chant *Alleluia*, appointed before the Liturgical Gospel. According to the Apocalypse, this will be the heavenly song of eternity[^2760]. Except for "Amen," this is the sole Hebrew expression that the hand of the translator did not dare to touch, leaving it in the very sounds in which it was inspired by God; there breathes from it, therefore, a spirit of glossolalic mystery (Introductory Chapter, p. 41; cf. p. 34 ff.), prompting its employment, for example, at the Mystery of Baptism (similar to the *Kyrie eleison* at Ordination). Serving as the refrain of the most joyful (among the Hebrews, Paschal) Psalms in the Bible, the *Alleluia* steps forth as an almost invariable refrain of the Psalms in our divine worship, but this is almost the sole place (the other being at Lenten and memorial Matins) where it steps forth in
 
 === LEAF p912 ===
 
 the capacity of an independent chant possessing, on the contrary, refrains attached to itself, termed alleluiaria (*alleluiarion*, άλληλουιάριον); these are psalm verses having reference to the commemoration of the day, of which two are normally appointed for the threefold chanting of the Alleluia (each time thrice) (three verses only on Great Saturday). The verses, as in the Prokeimenon, are taken from a single Psalm, often contiguous ones.
 
-### The Order of Chanting the Alleluia
+**The Order of Chanting the Alleluia**
 The chanting of the Alleluia is prefaced by the exclamation: **"Wisdom!"**, which in its brevity is more eloquent than the complex exclamation before the Prokeimenon (cf. at the beginning of the Liturgy of the Faithful, before "Holy things to the holy," and at Baptism: "Let us attend!").
 
 *(Orig. p. 754)*
 
 The Alleluia is chanted with its verses according to the tones, to the melody of the Prokeimenon (in practice, usually to the melody of Tone 1), according to the very same order as the Prokeimenon, **"God is the Lord"**, and the Alleluia at Matins, which is why this order is nowhere explicitly prescribed—that is, the reader (having replied to the priest's "Peace be to thee" with "And to thy spirit") proclaims the tone of the Alleluia (**"Alleluia, in Tone N"**), after which the choir chants the Alleluia thrice; the reader chants (usually proclaims) the first alleluiarion verse, and the choir again chants the Alleluia thrice; the reader proclaims the second alleluiarion verse, and the choir chants the Alleluia thrice (this is done in the Kyiv-Pechersk Lavra, although the verses are read). The solemnity of the moment is heightened by the censing taking place at that time, preparatory to the Gospel[^2761].
 
-### History of the Gospel Alleluia and Alleluiarion
+**History of the Gospel Alleluia and Alleluiarion**
 Concerning the antiquity of the pre-Gospel Alleluia, its existence in the Western Church in a form very close to our own can bear witness. The Alleluia before the Liturgical Gospel there consists of a twofold chanting of the Alleluia, then a single verse, and once again a single Alleluia; all this is chanted to a single melody according to the following order provided in the *Graduale Romanum* (which also contains the musical notes for the Alleluia of the various feasts): "If the Alleluia, Alleluia is said with a verse, first the Alleluia is chanted by two (cantors) up to the neume (so called from the rich melisma upon the final syllable—otherwise *jubilus*), while the choir repeats the Alleluia and appends the neume, prolonging the syllable *a*; two cantors begin the verse and the choir responds (= continues the verse); upon the conclusion of the verse the same two repeat the Alleluia, and the choir appends a single
 
 === LEAF p913 ===
@@ -51,13 +51,13 @@ Likewise the Greek printed editions. The *Hieratikon*: "The 2nd choir chants the
 
 === LEAF p915 ===
 
-### The Sunday Alleluiaria
+**The Sunday Alleluiaria**
 In contrast to the Sunday prokeimena, the Sunday alleluiaria are taken from the Psalms in their numerical order, and not in scattered succession: Tone 1, Ps. 17:48, 51 [LXX]; Tone 2, Ps. 19:2, 10 [LXX]; Tone 3, Ps. 30:2, 3 [LXX]; Tone 4, Ps. 44:5, 8 [LXX]; Tone 5, Ps. 88:2, 3 [LXX]; Tone 6, Ps. 90:1, 2 [LXX]; Tone 7, Ps. 91:2, 3 [LXX]; Tone 8, Ps. 94:1, 2 [LXX]. Not having, like the prokeimena and the Gospel for which they serve as preparation, a direct relation to the event of the Resurrection, the alleluiaria contain a general glorification of God. Not one of them, in contrast to certain of the Sunday prokeimena, possesses a supplicatory or mournful character. They at times depict the royal dignity of Christ (Tones 1, 4), at times express hope in God (Tones 3, 6), thanksgiving for mercies (Tones 5, 7), or generally the glorification of God (Tone 8).
 
-### Their History
+**Their History**
 The present Sunday alleluiaria are found already in the Evergetis Typikon of the 12th century, with the distinction that here no alleluiaria are appointed for Tones 3 and 7 (perhaps there were no special melodies for them), but instead for Tone 2 there are two pairs, and the second is the present Tone 3, while for Tone 8 there are three pairs, of which the third is the present Tone 7, and the second is: **"Look upon me and have mercy on me"**, **"Order my steps"** (Ps. 118:132, 133 [LXX])[^2770].
 
-### Prokeimena and Alleluiaria in the Concurrence of Two Commemorations
+**Prokeimena and Alleluiaria in the Concurrence of Two Commemorations**
 Neither the *Typikon* nor the other liturgical books give a direct indication of how to proceed when on a single day prokeimena and alleluiaria for two commemorations coincide. Yet this very silence presupposes that each of such prokeimena and alleluiaria must be chanted in full; and the circumstance that in some of such cases (for example, on the Sunday of the Fathers around October 11) at the second prokeimenon its verse is also given, resolves the question in a direction completely contrary to accepted practice—that is, when there are two prokeimena, one cannot chant the second without a verse, but must chant both the 1st and the 2nd with their verse, consequently the 1st twice, and the second 2 1/2 times; and the Alleluia, with 4 verses, 5 times, and each time thrice.
 
 *(Orig. p. 757)*
@@ -78,7 +78,7 @@ imparts peace to him, marking thereby the exalted nature of the duty performed b
 
 *(Orig. p. 758)*
 
-### History
+**History**
 Concerning the development of the concepts of "Epistle" (*Apostol*) and "Gospel" (*Evangelion*), and concerning the readers of both in antiquity, see Introductory Chapter, pp. 61–62, 105–106, 168–169.
 
 In the Mozarabic Liturgy always, and in the Nestorian on feasts, there is an Old Testament reading preceding the Epistle (as in antiquity; see Introductory Chapter, pp. 161–162); in the Coptic and Abyssinian Liturgies there are three Epistles: from the Pauline Epistles, the Catholic Epistles, and the Acts of the Apostles (see below; cf. *ibid.*); in the present Roman Mass, an Old Testament reading frequently replaces the Epistle (*epistola*).
@@ -93,7 +93,7 @@ In the Roman Catholic Liturgy according to the Roman rite, before the Epistle it
 
 *(Orig. p. 759)*
 
-### Exclamations before the Gospel
+**Exclamations before the Gospel**
 Concerning the exclamations before the Gospel, see above, pp. 656–657.
 
 The opening words of the readings are literally similar to our own in the Roman Church: for the Acts: *"In diebus illis"*; for the Pauline
@@ -102,7 +102,7 @@ The opening words of the readings are literally similar to our own in the Roman 
 
 Epistles: *"Fratres"* (the Catholic Epistles begin from Chapter 1); for the Gospel: *"In illo tempore"*[^2775].
 
-### Sunday Liturgical Readings
+**Sunday Liturgical Readings**
 The table of the Sunday Liturgical Epistles and Gospels (provided in the introduction to the liturgical *Apostol* and *Evangelion*) and their themes:
 
 - **Sunday of Pascha** — Acts 1:1–8: The Appearance of the Risen Christ; John 1:1–17: The Teaching on the Word of God.

@@ -42,7 +42,7 @@ All creation today is filled with joy; Christ was baptized in the Jordan.[^1055]
 *On "Lord, I Have Cried", Stichera of Theophany, 3, Tone 2:*
 Our Enlightener... (see p. 235)[^1057]
 
-*And of the Forerunner, Tone 1. Podoben: "O all-praised martyrs":*
+*And of the Forerunner, Tone 1. Podoben: "O all-praised martyrs" (Всехва́льнїи мч҃ницы):*
 Beholding Thee coming unto him, O Christ, and asking for baptism, the Forerunner cried aloud with trembling: What dost Thou command me, to perform things beyond my power, O all-powerful Lord? How with my hand—[^1058]
 
 === LEAF p293 ===
@@ -69,7 +69,7 @@ Our God is in heaven and on earth; all things whatsoever He willed, He has done.
 Our God is in heaven and on earth...[^1068]
 *Then the Litany.*
 
-*At the Aposticha, Stichera, Tone 4. Podoben: "Thou hast given a sign":*
+*At the Aposticha, Stichera, Tone 4. Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*
 When John the Forerunner beheld Thee coming unto him, O Master, he was struck with dread, and as a well-disposed servant he cried aloud with fear: What is this condescension, O Savior? What is this poverty wherewith Thou hast clothed Thyself? By the wealth of Thy goodness Thou hast exalted man who had humbled himself, as Thou art compassionate, since Thou hast clothed Thyself in him.[^1069]
 *Verse:* The sea saw and fled; Jordan turned back.[^1070]
 Thou didst answer the Forerunner, O Savior of all: Come unto Me Who am accomplishing a saving mystery; serve with fear and be not terrified; for renewing Adam who was crushed by sin, I am baptized as man, being undefiled by nature, in the waters of the Jordan, into which thou seest Me come.[^1071]

@@ -79,7 +79,7 @@ O beyond mind and ineffable loving-kindness! How doth the Creator of creation bo
 
 A living delight hath poured forth unto us from the torrent of the Jordan, the grace of baptism; whereby enlightened through baptism, we say: Glory to Him Who hath appeared in the world and granted life unto us! Wherein we sing: Blessed art Thou Who hast appeared, our God, glory to Thee!
 
-*Glory... Both now... Tone and Podoben the same.*
+*Glory... Both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 Having turned away from harmful earthly things, come, let us spiritually cleanse our senses, and beholding Christ baptized in the flesh by John the Forerunner, let us all faithfully cry aloud, chanting with him: Blessed art Thou Who hast appeared, our God, glory to Thee!
 
 *At the Liturgy, the Beatitudes of the Feast, Ode 4, on 6.*

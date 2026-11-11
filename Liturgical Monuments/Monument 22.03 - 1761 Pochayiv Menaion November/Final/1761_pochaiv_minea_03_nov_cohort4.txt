@@ -174,7 +174,7 @@ and taken away the reproach of Eve: Rejoice, O unwedded Virgin![^130]
 *Exapostilarion, Podoben: "In the Spirit in the sanctuary" (Дꙋ́хомъ въ ст҃и́лищи):*
 As one bodiless didst thou endure unendurable torments, O all-praised Acepsimas, glory of priests, together with marvelous Joseph and admirable Aeithalas the deacon, initiate of Christ's mysteries; at the pains of whose sufferings the ranks of the bodiless angels ever marvel![^131]
 
-*Glory, of Saint George, Podoben the same:*
+*Glory, of Saint George, Podoben the same (Подо́бенъ то́йже):*
 With streams of thy blood, O blessed one, thou didst quench the flames of deception, and didst utterly destroy the cruelty of the tormentors, and didst glorify Christ, O passion-bearer George. Therefore thou didst receive the crown of incorruption and life from the right hand of the Most High!
 
 *Theotokion:*

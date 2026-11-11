@@ -1,28 +1,3 @@
-# Acts and Decrees of the Ruthenian Provincial Synod of Lviv (1891)
-## Cohort 13: Physical Pages 241–257 (Leaves p245–p261)
-
-> [!NOTE]
-> **Historical & Statutory Context**  
-> The 1891 Lviv Provincial Synod (*Чинности и рѣшеня руского провинціяльного Собора въ Галичинѣ ôтбувшого ся во Львовѣ въ роцѣ 1891*, published 1896; with Appendices published 1897) forms the legal, canonical, and liturgical bedrock for Fr. Isidore Dolnytsky’s 1899 Typikon and the contemporary 2010 UGCC Synodal Typikon. Cohort 13 encompasses the statutory decrees on Fasting disciplines, the complete statutory ordo for Memorial Services and Divine Liturgies for the Departed (*Titulus XII*), Ecclesiastical Courts (*Titulus XIII*), Synodal Governance (*Titulus XIV*), and the Administration of Church Property (*Titulus XV*).
-
----
-
-## Table of Contents
-1. [Titulus XI. On Fasts *(Statutory Mitigations & Observance)*](#titulus-xi-on-fasts)
-2. [Titulus XII. On Offices for the Departed](#titulus-xii-on-offices-for-the-departed)
-   - [Chapter I. On Divine Liturgies and Other Offices for the Departed](#chapter-i-on-divine-liturgies-and-other-offices-for-the-departed)
-   - [§ I. On the Divine Liturgy for the Departed](#-i-on-the-divine-liturgy-for-the-departed)
-   - [§ II. On the Office for the Departed (Parastas & Panakhyda Rubrics)](#-ii-on-the-office-for-the-departed)
-   - [Chapter II. On Ecclesiastical Burial and Cemeteries](#chapter-ii-on-ecclesiastical-burial-and-cemeteries)
-3. [Titulus XIII. On Ecclesiastical Courts](#titulus-xiii-on-ecclesiastical-courts)
-4. [Titulus XIV. On Synods](#titulus-xiv-on-synods)
-   - [I. Regarding Those Who Are to Be Summoned to the Synod](#i-regarding-those-who-are-to-be-summoned-to-the-synod)
-   - [II. Regarding the Time of Holding Provincial and Diocesan Synods](#ii-regarding-the-time-of-holding-provincial-and-diocesan-synods)
-5. [Titulus XV. On Church Property](#titulus-xv-on-church-property)
-6. [Scholarly Critical Apparatus & Footnotes](#scholarly-critical-apparatus--footnotes)
-
----
-
 === LEAF p245 ===
 *(Physical Page 241 / Leaf p245)*
 
@@ -53,7 +28,7 @@
 
 **5.** If anyone, notwithstanding this dispensation from the severity of fasting, should on account of any just cause require further dispensation, then, having set forth the reasons, he is obligated to request that from his Ordinary.
 
-**6.** Having in this manner mitigated the law on fasting, the Synod trusts that the faithful will not cease to apply themselves to the observance of the same, and especially pastors of souls will exercise care that these be not broken on account of any circumstance that might seem to counsel their omission; lest peradventure the faithful be scandalized, especially if dancing should also be joined to the transgression of fasts.
+**6.** Having in this manner mitigated the law on fasting, the Synod trusts that the faithful will not cease to apply themselves to the observance of the same, and especially pastors of souls will exercise care that these be not broken on account of any circumstance that might seem to counsel their omission; lest perhaps the faithful be scandalized, especially if dancing should also be joined to the transgression of fasts.
 
 **7.** Finally, pastors of souls must instruct the faithful committed to them concerning the manner of keeping the fast, that is, that they should not restrict themselves to abstinence from foods, but also rein in the impulses of sins; moreover they must insist upon the
 
@@ -68,7 +43,7 @@ multiplication of saving works, especially of charity, such as almsgiving and ot
 
 ## TITULUS XII. On Offices for the Departed
 
-### CHAPTER I. On Divine Liturgies and Other Offices for the Departed
+**CHAPTER I. On Divine Liturgies and Other Offices for the Departed**
 
 **1.** If already in the Old Testament it was a saving and holy thought to pray to God for the departed that they might be loosed from the burden of their sins, far more does it behoove us to hold this in the New Testament, especially since Christ, having conquered death, opened for us in His blood the way into the Holy of Holies not made with hands, that is, into heaven, under Whose guidance the multitude of the Saints ceases not to enter into that eternal rest from this valley of our mortal pilgrimage. Seeing, therefore, that this eternal rest, through the finding of eternal redemption by Christ [^254], is already opened, while in the meantime many souls detained in purgatory yearn for it with the greatest longing, it appears most fitting that on the part of the Church Militant saving assistance be granted them for their deliverance therefrom, which can be accomplished especially and above all through the sacrifice of the Divine Liturgy, almsgiving, and prayers, both
 
@@ -103,20 +78,20 @@ perfect uniformity in sacred actions, states and defines a rule, so that priests
 
 ---
 
-### § I. On the Divine Liturgy for the Departed
+**§ I. On the Divine Liturgy for the Departed**
 
 **1.** Solemn Divine Liturgies for the departed are forbidden, even in the presence of the body, on all Sundays and solemn feast days (*нарочиті праздники*), then throughout the three days of the death of Christ [Holy Week Triduum], as also in those cases in which the parish priest is obligated to celebrate the Divine Liturgy of the day, either full or of the Presanctified; nevertheless in more important cases, if there is a second priest, he shall be able, alongside the parochial Divine Liturgy of the current day, to chant a Liturgy for the departed both on Sundays and also on three commanded feast days (*три праздники приказані*), namely: St. Demetrius, St. Stephen, and the Three Holy Hierarchs, yet not in vestments of black color.
 
-**2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; wherefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
+**2.** To the same rule is subject the celebration of the Divine Liturgy for the departed on the 3rd, 9th, and 40th day, as well as on the anniversary of death or burial of the deceased; therefore in those cases it is proper either to celebrate the Divine Liturgy a day in advance, or to transfer it to the nearest unhindered day.
 
-**3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; wherefore they may precede the Epistle and Gospel for the departed.
+**3.** As to private Liturgies (*Литургії приватні* / low masses), these are forbidden on every Sunday, on solemn feasts and polyeleos feasts, as also throughout the three days of the death of Christ, as stated above. In all cases in which a Divine Liturgy for the departed is celebrated, it is not proper to intermingle variable parts (such as troparia, kontakia, etc.) of any current feast or of the office of a Saint, but to take only that which is proper to the departed, excepting the Epistle and Gospel of the day of the week, since these do not have a festal character; therefore they may precede the Epistle and Gospel for the departed.
 
 ---
 
 === LEAF p251 ===
 *(Physical Page 247 / Leaf p251)*
 
-### § II. On the Office for the Departed
+**§ II. On the Office for the Departed**
 
 **1.** Besides that full office (*послѣдованіє*) for the departed which is set forth in our Typikons and which is celebrated in church on determined days, there is also used among us a special part drawn from the full rite, taken from Matins for the departed, which comes under the name of *Panakhyda* (*Паннихида*) or commonly *Parastas* (*Парастасъ*), and which is customarily celebrated both in church and outside church, in which, according to the rubrics of the Typikon, there is placed on the tetrapod *kolyvo* (*коливо*), that is, boiled wheat with honey, as a symbol of the future resurrection and the sweetness of heavenly glory implored for the deceased. According to contemporary custom it is also customary among us to place with the kolyvo loaves of bread (*хлѣбы*), or bread alone. These above-cited customs this Synod likewise praises and approves.
 
@@ -129,7 +104,7 @@ perfect uniformity in sacred actions, states and defines a rule, so that priests
 === LEAF p252 ===
 *(Physical Page 248 / Leaf p252)*
 
-devotion and with outward composure must celebrate everything and each single element; wherefore, alternating with the choir, besides the heirmoi, they shall also read aloud all the troparia. Since, however, this Office, celebrated in that manner as prescribed and as is fitting, requires a rather long time, therefore the Priest, for the celebration of the same, may receive a stipend (*таксу*) of about one gulden (*около одного гульдена*).
+devotion and with outward composure must celebrate everything and each single element; therefore, alternating with the choir, besides the heirmoi, they shall also read aloud all the troparia. Since, however, this Office, celebrated in that manner as prescribed and as is fitting, requires a rather long time, therefore the Priest, for the celebration of the same, may receive a stipend (*таксу*) of about one gulden (*около одного гульдена*).
 
 **5.** Finally, although on the one hand the Synod with praise commends the faithful frequently to renew the memory of their departed, on the other hand it does not neglect to censure the abuses in drinking at banquets (*надъужитій въ піятицѣ при гостинахъ*) which in certain localities, on the occasion of funerals or commemorations (*поминокъ*), are customarily held in the homes of the deceased; and therefore, wherever the parish priest observes such abuses at banquets, let him not dare to be present at them; what is more, let him admonish his parishioners that they should entirely abstain from holding such, because by such drinking bouts the holy Office of burial of the departed and the aiding of them is defiled and dishonored, and that all the more because such banquets, on account of the considerable expenses which at times are customarily incurred for them, deter the less well-to-do faithful from bringing aid to the souls of their departed through church services, by which the departed are especially helped; concerning this the faithful must be instructed.
 
@@ -153,7 +128,7 @@ that, whether in the homes of deceased Priests or during their translation to th
 === LEAF p254 ===
 *(Physical Page 250 / Leaf p254)*
 
-### CHAPTER II. On Ecclesiastical Burial and Cemeteries
+**CHAPTER II. On Ecclesiastical Burial and Cemeteries**
 
 **1.** How great care the faithful ought to have that their bodies, which on account of communion in heavenly life have already become a temple of the Holy Spirit and at the final renewal of the world are to shine forth like the sun, should after death rest not in any unhallowed place, but in a consecrated place, the holy Patriarchs preceded us by their own example already in the Old Testament, and before all the father of all the faithful, holy Abraham, who, journeying in an alien and unconsecrated land, for his deceased wife Sarah and for the others of his family who should die after her, purchased [^263] a separate place for weighed silver, in which he himself was laid and his only-begotten holy Isaac. Likewise Jacob, his grandson, a stranger in Egypt, dying there, bound by an oath his son Joseph to command his bones to be carried to the holy land, promised by the Lord to his fathers and to their seed and destined to be sanctified by the presence of the Messiah [^264]. That this same command Joseph also gave concerning his bones to his brethren, when one day they should return from Egypt to the Holy Land, Holy Scripture testifies [^265]. And they indeed, returning from Egypt, together with the bones of Jacob, carried also his bones and laid them in that cave purchased by Abraham [^266].
 
@@ -162,7 +137,7 @@ Imitating this example, Christians already from the earliest times took care to 
 === LEAF p255 ===
 *(Physical Page 251 / Leaf p255)*
 
-heretics and schismatics have no right to ecclesiastical burial; likewise those excommunicated, public sinners dying in excommunication, those killed in a duel; wherefore let priests not dare to bury any such in Catholic cemeteries, but for them a place outside the cemetery must be designated, or at most, on account of urgent necessity, in some separate place of the Catholic cemetery, where it is also proper to bury the bodies of infants who pass away without baptism.
+heretics and schismatics have no right to ecclesiastical burial; likewise those excommunicated, public sinners dying in excommunication, those killed in a duel; therefore let priests not dare to bury any such in Catholic cemeteries, but for them a place outside the cemetery must be designated, or at most, on account of urgent necessity, in some separate place of the Catholic cemetery, where it is also proper to bury the bodies of infants who pass away without baptism.
 
 **2.** In particular, with respect to those who have voluntarily taken their own life, parish priests must be cautious that, unless they showed any signs of repentance before death, they do not dare to bury them in consecrated cemeteries and according to the rite of the Church. If it should be known beyond doubt to the parish priest that the suicide suffered from the affliction of mental derangement, he is to grant him ecclesiastical burial in the customary manner. If, however, the parish priest, moved by weightier reasons, should hesitate to agree with the judgment of physicians and civil officials, the matter must be reported to the Ordinary; and in the meantime, on account of urgent necessity, the body of the deceased is to be buried without church rites, outside the cemetery. If, however, doubt remains whether the suicide was sane (*почитальний*) or insane (*непочитальний*), he is to be buried according to the rite of the Church, but for the avoidance of scandal that might arise, without the customary solemnities at burial. If, finally, doubt arises whether someone killed himself or perished by accident, judgment must be given in favor of the deceased, since in doubt so grave a crime ought not to be presumed of anyone [^267].
 
@@ -183,7 +158,7 @@ revenues are to be placed into the church treasury (*скарбона церко
 
 ## TITULUS XIII. On Ecclesiastical Courts
 
-**1.** Since Bishops by divine right are appointed to be pastors of the Dioceses entrusted to them, they must therefore be regarded as the ordinary judges of all souls who belong to their Diocese in all cases which pertain to the ecclesiastical state. Wherefore upon all and single persons subject to the care of their Bishop there rests a heavy burden of conscience to submit to the judgment of their own Ordinary and to receive his judgment as the judgment of the Lord, Who said to the Apostles and their successors: 
+**1.** Since Bishops by divine right are appointed to be pastors of the Dioceses entrusted to them, they must therefore be regarded as the ordinary judges of all souls who belong to their Diocese in all cases which pertain to the ecclesiastical state. Therefore upon all and single persons subject to the care of their Bishop there rests a heavy burden of conscience to submit to the judgment of their own Ordinary and to receive his judgment as the judgment of the Lord, Who said to the Apostles and their successors: 
 
 > *"He who hears you hears Me, and he who rejects you rejects Me"* [^269]
 
@@ -197,7 +172,7 @@ and again:
 *(Physical Page 253 / Leaf p257)*
 
 **3.** This Synod has resolved to add something regarding the procedure to be observed in judicial appeals, and decrees the following:
-* **a)** The ordinary ecclesiastical judge in his diocese is the Bishop or his Vicar General, whose person is one and the same as the person of the Bishop; wherefore from the judgment of the Vicar there is no appeal to the Bishop.
+* **a)** The ordinary ecclesiastical judge in his diocese is the Bishop or his Vicar General, whose person is one and the same as the person of the Bishop; therefore from the judgment of the Vicar there is no appeal to the Bishop.
 * **b)** The higher ordinary Judge is the Metropolitan of the ecclesiastical province.
 * **c)** The supreme judge is the Roman Pontiff.
 
@@ -222,7 +197,7 @@ decisive vote as deciding Bishops; nevertheless in Ecumenical Councils the supre
 
 ---
 
-### I. Regarding Those Who Are to Be Summoned to the Synod
+**I. Regarding Those Who Are to Be Summoned to the Synod**
 
 **1.** To an Ecumenical Council Bishops of the whole earthly circle are summoned; to a provincial council all ordinary Bishops of the Province must be summoned and appear, and during a vacancy of the see, Capitular Vicars, and moreover Auxiliary Bishops, then the heads of Chapters (*настоятелѣ Капитулъ*), then cathedral or capitular canons, who may be present either in person or through their representatives; moreover the highest superiors of monasteries, deans, theological faculties, and rectors of major seminaries
 
@@ -237,7 +212,7 @@ and those of the clergy whom the Bishops, upon common consultation, judge fittin
 
 ---
 
-### II. Regarding the Time of Holding Provincial and Diocesan Synods
+**II. Regarding the Time of Holding Provincial and Diocesan Synods**
 
 According to the Council of Trent [^272], provincial Synods must indeed be held at least every three years, and diocesan synods every year. But when it is not always possible to keep this rule, let them obtain for themselves—the Metropolitan for a provincial Synod, and Bishops for diocesan synods—authority from the Holy See to hold, instead of such Synods, an extraordinary assembly (*зôбранє мѣстосинодальне* / pro-synodal assembly), for which, for a provincial assembly, individual Ordinaries with representatives of the entire clergy are to assemble at the Archcathedral, so that one or another be a delegate of the chapter; from all deaneries of individual dioceses, four delegates, and others whom the Ordinaries upon common consultation deem proper to admit. To diocesan assemblies, besides the Ordinary
 
@@ -267,28 +242,3 @@ and the Chapter, twelve delegates from the diocesan clergy and chosen men whom t
 **5.** As to immovable property, it is proper generally to observe all that our Synod of Zamość prescribes, Titulus XIII.
 
 **6.** If any change should have to be made with respect to church property, let administrators, in order to undertake that...
-
----
-
-## Footnotes
-[^253]: St. Basil the Great, *Homily I On Fasting* (*De Jejunio*, Hom. I; PG 31, 163–198). The Synod cites St. Basil's classic patristic admonition that bodily fasting from food is rendered void without spiritual abstinence from malice, anger, and injustice.
-[^254]: Heb. 9:12 — "Neither by the blood of goats and calves, but by His own blood He entered in once into the Holy Place, having obtained eternal redemption for us."
-[^255]: St. John Chrysostom, *Homily III on the Epistle to the Philippians*, no. 4 (PG 62, 203–206).
-[^256]: 4 Kings 20:6 (2 Kings 20:6 LXX / Vulgate; 2 Kings 20:6 MT) — "And I will defend this city for My own sake, and for My servant David's sake."
-[^257]: St. John Chrysostom, *Homily LXII on the Gospel of John* (Hom. 61 in other editions; PG 59, 348).
-[^258]: St. John Chrysostom, *Homily XXI on the Acts of the Apostles* (PG 60, 165).
-[^259]: *Lenten Triodion*, Meatfare Saturday, Synaxarion (on the 3rd, 9th, and 40th day commemorations of the departed).
-[^260]: *Apostolic Constitutions*, Bk. VIII, can. 42 (PG 1, 1144).
-[^261]: Pastoral Letter of Metropolitan Spyrydon Lytvynovych of blessed memory, February 9, 1865, No. 5722. Lytvynovych served as Greek-Catholic Metropolitan of Lviv from 1863 to 1869.
-[^262]: *Pastoral Instruction of Eichstätt* (*Instructio Pastoralis Eystettensis*), Titulus IX, Chapter II, § 5. Widely utilized in 19th-century Central European and Austro-Hungarian seminaries as a standard of pastoral theology.
-[^263]: Gen. 23:16 — Abraham weighing four hundred shekels of silver for the cave of Machpelah as a burial possession for Sarah.
-[^264]: Gen. 47:29–30; Gen. 49:29–30 — Jacob charging his son Joseph to carry his bones out of Egypt to the sepulchre of his fathers.
-[^265]: Gen. 50:24 — Joseph adjuring the children of Israel that God will visit them and they shall carry up his bones from Egypt.
-[^266]: Exod. 13:19; Josh. 24:32 — Moses taking the bones of Joseph, and their final interment at Shechem.
-[^267]: *Provincial Synod of Prague* (1860), Titulus III, Chapter XIII (published 1863), establishing the canonical principle *in dubio pro reo* / *in dubio mitior pars sequenda est* regarding suicides lacking proof of deliberate intent.
-[^268]: Pastoral Letter of Metropolitan Spyrydon Lytvynovych of blessed memory, November 26, 1868, No. 5656, on the dignity, leasing restrictions, and proper maintenance of Catholic cemeteries.
-[^269]: Luke 10:16 — "He that heareth you heareth Me; and he that despiseth you despiseth Me; and he that despiseth Me despiseth Him that sent Me."
-[^270]: Matt. 18:17 — "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as a heathen man and a publican."
-[^271]: Refers to the Austrian Judicial Instruction (*Gerichts-Instruction für die geistlichen Gerichte des österreichischen Reiches*), adapted to Galician Greek-Catholic practice and appended to the Synod acts as Appendix XXXVIII (*Додатокъ ч. 38*).
-[^272]: Council of Trent, Session XXIV, Chapter II *On Reform* (*De Reformatione*), prescribing provincial councils every three years and diocesan synods annually.
-[^273]: *Provincial Council of Zamość* (1720), Titulus III *De ecclesiis, earumque bonis et juribus conservandis*.

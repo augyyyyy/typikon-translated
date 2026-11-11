@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-8-april-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 8: April (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-8-april-pochaiv-lavra-1761"></a>
 
 *[Architectural Typographical Title Border]*
 
@@ -17,7 +17,7 @@ In the year from the creation of the world according to the Greek chronographers
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-8-april-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 8: April (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-8-april-pochaiv-lavra-1761)**
 * **[MONTH OF APRIL](#month-of-april)**
 
 ---
@@ -208,7 +208,7 @@ The Light that shone timelessly from the Father before the ages, in time hath no
 
 *On the same month, on the 2nd day: our venerable father and wonderworker Titus.*[^8]
 
-*At "Lord, I have cried," stichera, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагω чꋋдесѐ):*
+*At "Lord, I have cried," stichera, Tone 8, Podoben: "O most marvelous wonder" (Ѡ пресла́внагѡ чꋋдесѐ):*
 
 O God-wise Titus our father, bearing thy cross, thou didst follow Christ, and didst subdue all passions of the soul. Whence thou didst receive grace from on high, to heal the passions of those who run unto thee, to calm infirmities, and to drive away spirits; therefore we celebrate and call blessed thy memory.
 
@@ -259,7 +259,7 @@ Meditating in the laws of fasting, thou didst drown the passions like another ho
 
 I ever beseech thee, O Sovereign Lady, that by thy prayers He Who was born of thee may be merciful unto me in the Day of Judgment.
 
-*Sessional Hymn, Tone 1, Podoben: "The Angelic Choir" (Ли́къ а́гг҃льскiй):*
+*Sessional Hymn, Tone 1, Podoben: "The Angelic Choir" (Ли́къ а́гг҃льскій):*
 
 Having fasted upon earth as one without a body, O Titus, thou didst slay the enemy, and together didst cast down the assembly of heresies by thy Orthodox teachings. Therefore today, celebrating thy most holy memory, we joyfully hymn Him Who hath magnified thee.
 
@@ -1007,7 +1007,7 @@ Upon the grass of the right faith, and upon the living water of true wisdom, and
 
 Cutting down roots and thorns with thy sickle of teaching, with thy plow thou didst cut through abominable heretical words and hearts, and didst sow the divine commandments, thine uprightness and rectitude; and having shown these forth as fruitful, thou hast thy talent doubled, and this thou bringest unto thy Master.
 
-*Glory... Both now... Theotokion, Same Podoben:*
+*Glory... Both now... Theotokion, Same Podoben (Подо́бенъ то́йже):*
 
 Other sovereign refuge, and tower of strength, and unconquerable wall, we truly have not acquired save thee, O all-pure one; unto thee do we flee, and unto thee do we cry: O Birthgiver of God, help, lest we perish; show forth thy grace upon us, and the glory of strength, and the greatness of thy tender mercy!
 
@@ -2846,11 +2846,11 @@ Venerable Father Acacius, having given wings to thy mind unto God by faith, thou
 
 A champion of the divine Council and cloud of theologians, together with Cyril, O Acacius, thou didst deliver fierce Nestorius unto destruction, having exposed his folly, O blessed one, and put his council to shame with spiritual words;[^56] therefore every soul calls thee blessed, celebrating thy divine memory in faith.
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Save me, O all-pure Sovereign Lady, who didst bear Christ the Savior ineffably; for thee alone have I acquired as an intercessor, an impregnable wall, a protection and rejoicing, and the divine comfort of my soul. Deliver me, therefore, from the unsleeping worm and from the eternal fire, O Mother of Christ God!
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Thee nailed upon the Cross, O Jesus, and voluntarily accepting the Passion, the Virgin and Thy Mother, O Master, cried aloud: "Woe is me, sweet Child! How dost Thou endure wounds unjustly, O Physician Who didst heal human weakness and deliver all from corruption by Thy tender mercy?"
 
@@ -4115,7 +4115,7 @@ Thou didst fight the good fight, O passion-bearer of Christ, through faith; and 
 *Sticheron:*
 As one valiant among martyrs, O passion-bearer George, having gathered together today we praise thee; for having finished the course, thou didst keep the faith, and didst receive from God the crown of thy victory: Whom do thou beseech, to deliver from corruption and perils those who celebrate in faith thy right honorable memory.
 
-*Podoben:*
+*Podoben (Подо́бенъ):*
 Trusting with steadfast intention, thou didst willingly dare, as a lion, O glorious one, unto suffering; having indeed despised the body as that which is about to perish, thou didst wisely care for the incorrupt soul. And thou wast tried by manifold kinds of tortures, as gold refined sevenfold, O George.
 
 *Sticheron:*
@@ -4939,7 +4939,7 @@ Mark the honorable apostle is the hierarch and friend unto the Egyptians, unto w
 Having been instructed in heavenly wisdom, O apostle, thou didst destroy the entanglements of rhetors and the reckonings of astrologers by thy tongue, O all-glorious Mark; and having become a disciple of Peter, thou didst preach to the world the words of the Gospel. *(Twice)*
 
 *Glory, and now, of the feast.*
-*At the Praises, stichera of the feast, 3; and of the apostle, 3. Tone 1. Podoben:*
+*At the Praises, stichera of the feast, 3; and of the apostle, 3. Tone 1. Podoben (Подо́бенъ):*
 
 *Podoben: "O all-praised martyrs" (Всехвальнии муницы):*
 O most blessed Mark, thou didst drink from the torrent of delight rushing forth as from Eden; as a most bright and pure river of peace, abundant with the waters of the preaching of thy Gospel, watering the face of the earth and the firmaments of the Church with divinely inspired teachings.
@@ -6706,7 +6706,7 @@ O all-pure Virgin, save us by thy prayers, moving thy maternal compassion toward
 
 [^8]: St. Titus the Wonderworker (9th c.), Studite monk and confessor during the second Iconoclastic controversy under Leo V the Armenian.
 
-[^9]: Slavonic: Монашествꙋ́ющихъ сто́лпъ да пое́тся Тíтъ. Acrostic across the troparia of the canon of St. Titus.
+[^9]: Slavonic: Монашествꙋ́ющихъ сто́лпъ да пое́тся Ті́тъ. Acrostic across the troparia of the canon of St. Titus.
 
 [^10]: St. Nicetas the Confessor (c. 760–824), Hegumen of the Medikion Monastery in Bithynia, an ardent defender of the veneration of holy icons under the Iconoclastic emperors Leo V the Armenian and Michael II.
 
@@ -6802,7 +6802,7 @@ O all-pure Virgin, save us by thy prayers, moving thy maternal compassion toward
 
 [^56]: Slavonic: `посрами́въ свѣ́тство`, an epigraphic corruption in the Pochaiv print for `свирѣ́пство` ("ferocity/cruelty") or `совѣ́тъ` ("counsel/assembly"), referring to the deposition of Nestorius and the condemnation of his heresy at the Council of Ephesus.
 
-[^57]: The acrostic in the Greek Menaion is: Στέφω σε τὸν μάκαρα Συмеὼν ᾄσμασιν. Ἰωσήφ ("I crown thee, the blessed Symeon, with songs. Joseph"), translated into Church Slavonic as: Вѣнча́ю блаже́ннаго тѧ̀ Сѷмеѡ́на пѣснопѣ́нїи. Творе́нїе І҆ѡ́сифово.
+[^57]: The acrostic in the Greek Menaion is: Στέφω σε τὸν μάκαρα Συμεὼν ᾄσμασιν. Ἰωσήφ ("I crown thee, the blessed Symeon, with songs. Joseph"), translated into Church Slavonic as: Вѣнча́ю блаже́ннаго тѧ̀ Сѷмеѡ́на пѣснопѣ́нїи. Творе́нїе І҆ѡ́сифово.
 
 [^58]: Slavonic: `пре́лести мре́теченїа ... ста́до сла́вне`. The printed word `мре́теченїа` appears to be a typesetting corruption for `мꙋ́тнотече́нїѧ` ("turbid currents") or `моретече́нїѧ` ("surging currents of the sea").
 

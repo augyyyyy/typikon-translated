@@ -33,7 +33,7 @@
 
 ## Third Sunday of Lent Concluded, Fourth Week, and Fourth Sunday of Lent (St. John of the Ladder) Opening (§§ 40 Concluded, 41, 42 Opening) [Violakis, p. 717]
 
-### Third Antiphon
+**Third Antiphon**
 
 *Verse 1:* **"Extol the Lord our God; worship at His footstool, for He is holy!"** (*Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν...*, Ps. 98:5 [LXX] [Ps. 99:5 MT]) | *Refrain (Dismissal Troparion of the Cross):* **"Save, O Lord, Thy people, and bless Thine inheritance, granting victory to the faithful over their adversaries, and by Thy Cross preserving Thy commonwealth."** (*Σῶσον, Κύριε, τὸν λαόν σου...*)  
 *Verse 2:* **"Save Thy people, and bless Thine inheritance."** (*Σῶσον ὁ Θεὸς τὸν λαόν σου...*, Ps. 27:9a [LXX] [Ps. 28:9 MT]) | *Refrain:* **"Save, O Lord, Thy people..."**  
@@ -85,7 +85,7 @@ For the rubrical order of the Saturday service in this week, see Paragraph 34.
 
 ... truly meet to glorify Thee, the Word of God..."; the Trisagion Prayers, the Dismissal Troparion of the Holy Father, and the Six Psalms. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as at Vespers, the designated Kathismata of the Psalter and the Amomos [Psalm 118 (LXX), Kathisma 17], the Resurrection Kathismata, the Evlogitaria of the Resurrection, the Hypakoe, the Hymns of Ascent [Anavathmoi] of the Tone, and the Resurrection Prokimenon. The Resurrection Canon of the Octoechos and that of the Triodion: **"I have become like the prodigal son, O Christ..."** (*Ὡμοιώθην Χριστέ*), with the Verse: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι ὁ Θεὸς ἡμῶν, δόξα σοι*), and the Canon of the Holy Father with the Verse: **"Holy father John, pray to God for us"** (*Ἅγιε τοῦ Θεοῦ, πρέσβευε ὑπὲρ ἡμῶν*). After the Third Ode: the Kontakion of the Holy Father, then his Kathisma and the Theotokion from the Triodion. After the Sixth Ode: the Resurrection Kontakion and Oikos of the occurring Tone, the Menologion from the Menaion, and the Memorial [Hypomnema] of the Triodion for Saint John of the Ladder;[*] then the Katavasiai: **"I shall open my mouth, and it shall be filled with the Spirit..."** (*Ἀνοίξω τὸ στόμα μου*) and the entire order of the Matins Gospel for Sundays of the Triodion; then we chant with Biblical Canticle verses **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Then the Exaposteilaria: of the Resurrection, of the Holy Father: **"O venerable John of perpetual memory..."**, and the Theotokion. At the Praises (Lauds): four Resurrection Stichera and four Stichera of the Holy Father from Vespers. The following two psalm verses precede the last two Stichera of Saint John:
 
-*Verse 1:* **"Blessed is the man that feareth the Lord, that delighteth greatly in His commandments."** (*Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον...*, Ps. 111:1 [LXX] [Ps. 112:1 MT])  
+*Verse 1:* **"Blessed is the man that fears the Lord, that delights greatly in His commandments."** (*Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον...*, Ps. 111:1 [LXX] [Ps. 112:1 MT])  
 *Verse 2:* **"Precious in the sight of the Lord is the death of His saints."** (*Τίμιος ἐναντίον Κυρίου ὁ θάνατος τοῦ Ὁσίου αὐτοῦ.*, Ps. 115:6 [LXX] [Ps. 116:15 MT])  
 
 "Glory...": Doxastikon of the Saint: **"Come, let us work in the mystical vineyard..."** (*Δεῦτε ἐργασώμεθα ἐν τῷ μυστικῷ ἀμπελῶνι*); "Both now and ever...": **"Most blessed art thou, O Virgin Theotokos..."** (*Ὑπερευλογημένη*); the Great Doxology, and the Resurrection Troparion: **"Today salvation is come unto the world"** (*Σήμερον σωτηρία*).

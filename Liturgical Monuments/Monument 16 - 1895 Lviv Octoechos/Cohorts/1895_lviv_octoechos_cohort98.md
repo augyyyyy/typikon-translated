@@ -17,7 +17,7 @@ I have fallen away from a consecrated life, O Sovereign Lady, being uncontrollab
 Let the petition of my prayer be directed unto the Lord Who came forth from thy womb, O Sovereign Lady: and may He deliver me from transgression of the commandments, and from condemnation and the legal curse; and may He wash away the defilement of my grievous transgressions, as He alone is merciful.[^10728]
 
 *Troparion 4:*  
-O all-immaculate Birthgiver of God, cleanse the wounds and sinful stumbling-blocks of my soul, washing them with the fount of streams that flowed from the ribs of Thy Son; for unto thee do I cry, and unto thee do I flee, and thee do I invoke, who art full of God's grace.[^10729]
+O all-immaculate Birthgiver of God, cleanse the wounds and sinful stumbling-blocks of my soul, washing them with the fount of streams that flowed from the ribs of thy Son; for unto thee do I cry, and unto thee do I flee, and thee do I invoke, who art full of God's grace.[^10729]
 
 *Then, "My soul magnifies the Lord:"*[^10730]
 
@@ -258,7 +258,7 @@ Woe is me! How shall I escape the torments that await me, having lived evilly he
 Quench the flame of my passions, and calm the storm of my heart, O pure Mother of God: and deliver me, O All-Immaculate One, from the torment of demons and from eternal fire.[^10815]
 
 *Glory:*  
-Behold my affliction, O Virgin, which the multitude of mine evils hath brought on; and grant me rest before my departure, entreating Thy Son by thy maternal prayers.[^10816]
+Behold my affliction, O Virgin, which the multitude of mine evils hath brought on; and grant me rest before my departure, entreating thy Son by thy maternal prayers.[^10816]
 
 *Both now:*  
 Quench the flame of my heart's passions with thy dew, O Virgin, and rescue me, O Maiden, from the fearful fire, from eternal judgment, and from demonic torment.[^10817]

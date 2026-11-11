@@ -96,7 +96,7 @@ Then elevating the Cross, he says: **"Christ is risen!"** thrice, and we each ti
 
 **He is risen!"** Then we sing the final **"Christ is risen"** thrice, the entire Troparion, and after it we conclude by chanting: **"And unto us He hath granted eternal life: we worship His three-day resurrection."**[^628]
 
-### Note Concerning the Doors of the Iconostasis
+**Note Concerning the Doors of the Iconostasis**
 "Be it known also this, that the Doors of the Royal Altar, both the great ones and the small ones at the sides, throughout all the churches during all of Bright Week we do not close, even at the time of Communion" (*Typikon of our Pochaiv Triodion* and *Russian Typika*).
 
 ## Paschal Hours
@@ -119,7 +119,7 @@ Descent [of the Holy Spirit], in place of **"O Heavenly King"** we say nothing.[
 
 After **"Blessed is the Kingdom"** we sing **"Christ is risen"** thrice; that is, the Priest once, and both Choirs once each; (although our Triodion says: the Priest thrice, and the Choirs the same thrice each); and where there is only one Choir, the Priest once and the Choir once, then half by the Priest, and half (from **"and upon those in the tombs"**) by the Choir.
 
-Likewise also after **"With fear of God"**, in place of **"Blessed is He that cometh"**, and in place of **"We have seen the true Light"**, **"Christ is risen"** once; while in place of **"Let our mouths be filled"** and **"Blessed be the name of the Lord"**, **"Christ is risen"** thrice.[^630] Our people usually say **"Christ
+Likewise also after **"With fear of God"**, in place of **"Blessed is He that comes"**, and in place of **"We have seen the true Light"**, **"Christ is risen"** once; while in place of **"Let our mouths be filled"** and **"Blessed be the name of the Lord"**, **"Christ is risen"** thrice.[^630] Our people usually say **"Christ
 
 ---
 
@@ -157,12 +157,12 @@ Artos with the Feast, that is, with the Icon of the Resurrection, after the Dism
 
 === LEAF p475 ===
 
-### Blessing of Paschal Foods
+**Blessing of Paschal Foods**
 This, according to our custom and according to the Typikon of the Triodion, takes place outside the church, and that either after the conclusion of the Divine Liturgy (and then going out from the church we sing the Paschal Stichera, optionally), or after Matins, or in homes on Saturday evening. The Order of this Blessing thou hast in the Sluzhebnik, in the Trebnik, in the Triodion, and in the Prayer Book after the Paschal Hours, with the sprinkling of holy water at the end.
 
 ## On the Day of Pascha at Vespers
-### At Vespers
-#### Note
+**At Vespers**
+**Note**
 1. The sacred ministers, vested in all the sacred vestments of their order, stand throughout all of Vespers in the Sanctuary beside the Holy Table, going out only for the Entrance (and the Deacons also for the Ektenias) before the Holy Doors, and for the final kissing of the sacred emblems, if there be more Priests, as was appointed at Matins.[^635]
 2. It is censed thrice, that is, at the customary beginning only before the Holy Table, then at **"Lord, I have cried"**, and at **"Gladsome Light"** according to custom.
 3. The Entrance takes place with the Gospel which is to be read.
@@ -171,7 +171,7 @@ This, according to our custom and according to the Typikon of the Triodion, take
 
 === LEAF p476 ===
 
-#### Typikon
+**Typikon** <a id="typikon"></a>
 1. The Priest and Deacons, if there be any, vested in all the sacred vestments of their order, come before the steps of the Altar and bow deeply according to custom; and the Priest having taken the censer, with the customary prayer of blessing of incense, and censing before the Holy Table, proclaims: **"Blessed is our God"**;[^636] then having handed over the censer, and ascended the steps with the Deacons, he sings **"Christ is risen"** once, and both Choirs once each. After this the Priest says clearly **"Let God arise"** and the other Verses, with **"Glory... Both now..."**, while the Choirs sing **"Christ is risen"** once or thrice after each Verse, without change as indicated at the beginning of Matins. Finally the Priest: **"Christ is risen"** up to **"trampling down death by death"**, and the Choirs: **"and upon those in the tombs bestowing life"**, and the rest.
 2. **"In peace let us pray to the Lord"** the Priest says beside the Holy Table, or the Deacon before the Iconostasis.
 3. **"Lord, I have cried"** in Tone 2, with the customary censing; and the Resurrection Stichera of the Octoechos of Tone 2, set down in the Triodion; **"Glory"** of the Triodion, **"Both now"**, the 1st Theotokion (Dogmatikon) of Tone 2.
@@ -187,14 +187,14 @@ then the Priest himself reads the Gospel from the Holy Doors (from John, pericop
 
 6. **At the Aposticha:** One Resurrection Sticheron of the Octoechos, set down in the Triodion; then the Paschal Stichera with their refrains and the kissing of the Cross, or also of the other sacred emblems, without change as was set down at Matins; and after the final **"Christ is risen"**, immediately the Dismissal with the Cross, and the rest without change as set down at Matins.
 
-### Compline and Midnight Office
+**Compline and Midnight Office**
 All things according to the pattern of the Paschal Hours, here on page 468.
 
 ## General Typikon for All Days of Bright Week
-### At Vespers
+**At Vespers**
 All things as on the day of Pascha at evening, here on page 473, except for the Entrance, which takes place with the Censer and not with the Gospel, and there is no Gospel.
 
-#### Note
+**Note**
 According to the earlier Typikon, the Priest at Vespers of Bright Week, from Monday onward, is not to use all the sacred vestments, but from the beginning only the epitrachelion, and from the Entrance onward also the phelonion.[^637]
 
 ---
@@ -203,18 +203,18 @@ According to the earlier Typikon, the Priest at Vespers of Bright Week, from Mon
 
 Among us the custom holds to use all the sacred vestments during the first three days of this Week, that is, on Sunday, Monday, and Tuesday evening, because our people celebrate these three days by abstaining from labor and by attending divine services. On the other days of this Week it suffices to use only the epitrachelion and phelonion.
 
-### Compline and Midnight Office
+**Compline and Midnight Office**
 According to the pattern of the Paschal Hours, here on page 473.
 
-### At Matins
+**At Matins**
 All things according to the Typikon of Pascha, here on page 460; only:
 1. For its beginning we do not go out before the church doors, but begin it in the Sanctuary, censing before the Holy Table.[^638]
 2. We say the Little Ektenia only after the 3rd, 6th, and 9th Odes.
 
-### At the Hours
+**At the Hours**
 Without change as on the day of Pascha; only on Bright Saturday the 9th Hour is already said with three Psalms according to custom, and at it the Resurrection Troparion, Tone 8: **"From on high"** (*Съ высоты̀*); and the Kontakion of Pascha: **"Though Thou didst descend into the grave"** (*А҆́ще и҆ во гро́бъ*).
 
-### At the Divine Liturgy
+**At the Divine Liturgy**
 1. All things as on the day of Pascha, changing daily the Prokimenon, Epistle, Alleluia, and Gospel.
 
 ---

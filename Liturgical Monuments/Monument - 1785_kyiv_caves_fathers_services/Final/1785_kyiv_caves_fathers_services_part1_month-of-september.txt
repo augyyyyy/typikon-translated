@@ -4,7 +4,7 @@
 Which is chanted after the Apodosis of the Feast of the Elevation of the Precious Cross of the Lord, on the first Saturday.[^5]
 
 *On Friday evening, the bell-ringer strikes the klepalo.[^6] The 20th Kathisma antiphon.*
-*On "Lord, I Call," 6 Stichera, Tone 6, Podoben: "Having Despaired" (Vse otlozhivshe):*
+*On "Lord, I Call," 6 Stichera, Tone 6, Podoben: "Having Despaired" (Всю̀ ѿложи́вше):*
 
 Dancing in choir with the singing of spiritual songs, we summon all the assemblies of feast-lovers to praise the union of labor-loving, God-bearing fathers, and here we lay as foundation the great and marvelous Anthony, and Theodosius the divinely wise; for their sake, and through the prayers of all the fathers of the Caves, we entreat Thy love for mankind, O Christ, King of all: grant grace unto Thy people, and save from perils the souls of those who faithfully praise Thee at their memorial.
 
@@ -30,7 +30,7 @@ He shall take invulnerable holiness for a shield. His severe wrath shall He shar
 *Reading from the Wisdom of Solomon (Wisdom 4:7–15):*
 Though the righteous be overtaken with death, yet shall he be in rest. For honorable age is not that which stands in length of time, nor that is measured by number of years. But wisdom is the gray hair unto men, and an unspotted life is ripe old age. He pleased God, and was beloved of Him; so that living among sinners he was translated. Yea, speedily was he taken away, lest wickedness should alter his understanding, or deceit beguile his soul. For the bewitching of wickedness obscures things that are good, and the wandering of concupiscence undermines the simple mind. He, being made perfect in a short time, fulfilled a long time; for his soul pleased the Lord, therefore hasted He to take him away from among the wicked. This the people saw, and understood it not, neither laid they up this in their minds: that His grace and mercy is with His venerable ones, and that He hath respect unto His chosen.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "As One Noble" (Yako dobla):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "As One Noble" (Ꙗ҆́кѡ до́блѧ):*
 Come, O people, let us anticipate with hymns the foremost choir of God-bearing fathers who shone forth in the cave by fasting as good armor-bearers of Christ; for behold, from noetic Zion they swiftly come unto us, taking thought for their fulfillment and dispensing grace abundantly unto those who honor their honorable synaxis!
 
 *Verse: The righteous cried, and the Lord gave ear to them (Ps. 33:18 [LXX 33:18]).*
@@ -52,7 +52,7 @@ As a fiery pillar and radiant sun that shone forth upon the hill of the Caves, w
 *Glory... Both now... Theotokion:*
 The Mystery hidden from all ages and unknown unto the angels was made manifest to those on earth through thee, O Theotokos: God incarnate in an unconfused union, willingly taking upon Himself the Cross for our sake, whereby He raised up the first-fashioned and saved our souls from death.
 
-*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 3, Podoben: "Thou Art the Trinity" (Troitsa yesi):[^10]*
+*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 3, Podoben: "Thou Art the Trinity" (Трⷪ҇ца є҆сѝ):[^10]*
 Through many afflictions ye traversed the path of this life and attained the goal of noetic desire, taking up your abode in the chamber of divine glory; and now rejoicing with the King of all, God, pray that we also may become partakers of your gladness, we who honor your synaxis, O most blessed fathers!
 
 *Glory... Both now... Theotokion:*
@@ -74,7 +74,7 @@ We magnify you, O venerable fathers of ours of the Caves, and we honor your holy
 *Verse 4: Be glad in the Lord, and rejoice, ye righteous; and boast, all ye that are upright in heart (Ps. 31:11 [LXX 31:11]).*
 *Glory... Both now... Alleluia, thrice.*
 
-*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Following the calling of your Lord, taking the Cross as a staff into your hands, ye feared not the terror that stood before you in the darkness, but with hope ye passed over unto the harbor free of perils, and found the reward of your ascetic labors, rejoicing in unapproachable light; therefore do we honor you, O most blessed fathers, as those who unceasingly pray Christ God to grant remission of transgressions unto those who celebrate your holy memorial with love!
 
 *Glory... Both now... Theotokion:*
@@ -304,7 +304,7 @@ In songs of praise let us sing of the hierarchs of the Ruthenian land:[^31] amon
 *Theotokion:*
 O true Mother of the spotless Lamb and the Chief Shepherd on high: I am a sheep of thy holy sheepfold, but by passionate actions I have turned aside into foul lawlessness; guide me, I pray thee, and save my soul from the noetic wolves.
 
-*At the Praises, Stichera, Tone 2, Podoben: "When from the Tree" (Yegda ot dreva):*
+*At the Praises, Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 With one-minded soul and unanimous heart did ye agree together, O most blessed fathers, having cast away all worldly attachments and taken up your cross according unto the word of the Lord, to follow with voluntary poverty Christ God Who became poor for our sake: from Whom ye are now enriched with incorruptible *(Left page — Folio 7 verso, running header: SERVICE TO THE VENERABLE OF THE CAVES:)*
 treasures in the heavens: from which send down unto us also, that we too may be enriched, and through your intercession receive great mercy from the Giver of all good things.
 
@@ -333,7 +333,7 @@ O Lady, receive the supplications of thy servants...
 *Month of September, on the 30th Day:*
 *Service to our Father among the Saints, Michael, First Metropolitan of Kyiv and All Russia:*
 *At Vespers, "Blessed is the man," 1st antiphon.*
-*On "Lord, I Call," Stichera, Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Raduysia postnikov):*
+*On "Lord, I Call," Stichera, Tone 5, Podoben: "Rejoice, O Container of Ascetics" (Ра́дꙋйсѧ по́стникѡвъ):*
 Thee as first among the hierarchs doth the Ruthenian land crown with hymns, O venerable Michael, most blessed of the fathers of Christ, for thou didst first perfectly enlighten her with divine baptism; thou didst first bring the light of the Gospel into the darkness; thou didst first destroy the idol-sacrifices with the sign of the Cross, and thereby didst astonish the unbelieving people; and now as a preacher, standing with the first hierarchs before thy Master, pray diligently that all may obtain the unwaning Light, and receive great mercy from Christ God.
 
 *(Left page — Folio 8 verso, running header: SERVICE TO THE HIERARCH:)*
@@ -346,7 +346,7 @@ Let us, O ye people, praise Michael the hierarch, a true witness and preacher of
 
 *Both now... Theotokion: Dogmatikon of the Tone.*
 *Entrance. Prokeimenon of the day. And 3 Readings for the Hierarch (see fol. 151).[^37]*
-*At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Yegda ot dreva):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 At thy coming, O holy one, the Ruthenian land was made glad, and the glorious city of Kyiv piously celebrates, having been enlightened by divine baptism; those who formerly offered sacrifices unto demons, behold, they now bring their souls as an offering in purity of heart, having thee as a preceding intercessor and pleader for all who honor thy memorial.
 
 *Verse: Thy priests shall be clothed with righteousness, and Thy venerable ones shall rejoice (Ps. 131:9 [LXX 131:9]).*
@@ -368,20 +368,20 @@ Today the prophecy of the First-Called among the Apostles hath been fulfilled:[^
 *Glory... Both now... Theotokion:*
 The Mystery hidden from all ages...
 
-*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Grob tvoy Spase):*
+*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: "While the Soldiers Were Guarding Thy Tomb" (Гро́бъ тво́й Сп҃се):*
 Thou wast a chosen vessel, O Hierarch Michael, to bear the name of Christ before unbelieving men, unto whom thou wast sent in the Ruthenian land; whom having enlightened with holy baptism, thou didst guide unto the knowledge of God by thy teachings: by these guide us also into the path of the commandments of the Lord, as we pray thee, O most blessed favorite of God!
 
 *Glory... Both now... Theotokion:*
 Rejoice, O golden-wrought cup, most pure Virgin, in which the wine of our salvation was mingled by the Holy Spirit: cheer our hearts with this, for thou art the cup that ladles out eternal joy unto us!
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 5, Podoben: "The Word Co-Unoriginate" (Sobeznachalnoye Slovo):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 5, Podoben: "The Word Co-Unoriginate" (Собезнача́льное Сло́во):*
 The Word co-unoriginate with the Father and the Spirit was brought by thee, O hierarch, into the Ruthenian land, Whom thou didst preach without doubting with thy mouth, rebuking the madness of idols, and didst lead a new people into the heritage of the Lord; with whom as thou standest, O sacred initiate of mysteries and minister of God, ever pray for the souls of those who sing of thine honorable falling asleep, O father!
 
 *Glory... Both now... Theotokion:*
 As being the true Mother of the Word co-unoriginate, for us who are to give an account in the hour of judgment *(Left page — Folio 9 verso, running header: SERVICE TO THE HIERARCH:)*
 word in the hour of judgment, stand before Him and entreat thy Son with thy fervent supplications: for we know that thy maternal prayers can do much, and for their sake we hope to find mercy on the day of dread trial.
 
-*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Leaning upon the Breast" (Vozleg na persi):*
+*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Leaning upon the Breast" (Возле́гъ на пе́рси):*
 As unto the leader of hierarchs, and planter of the faith of Christ in Rus', destroyer of the evil belief in idols, and shepherd of a newly chosen people, we offer the first-fruits of hymns unto thee, O most blessed Hierarch Michael, performing thy memorial on this present day, and crying unto thee with love: as standing before the throne of the Most High, pray that remission of transgressions be granted unto those who piously bow before thine honorable tomb.
 
 *Glory... Both now... Theotokion:*
@@ -525,7 +525,7 @@ Before all others dost thou stand, O Hierarch Michael, and thy head is crowned w
 *Glory... Both now... Theotokion:*
 O Mother of the King of the ages, Queen and Lady, show forth the kings who sing of thee to be rulers over passions; for behold, we bring forward unto thee in prayer the marvelous Hierarch Michael, in whose memory celebrating, we magnify thee.
 
-*At the Praises, Stichera, Tone 4, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*At the Praises, Stichera, Tone 4, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 Today thy memorial is celebrated, O holy hierarch, by Kyiv, the most renowned mother of cities, and the Ruthenian people
 
 *(Right page — Folio 12 recto, running header: TO MICHAEL, METROPOLITAN OF KYIV:)*

@@ -3,7 +3,7 @@
 
 *Troparion 1:* With the waters of salvation give drink, O Virgin-Mother Maiden, delivering from darkness and the unquenchable flame of fire thy supplicants, O Most Pure One, who honor thee as the Birthgiver of God and glorify thee in faith.[^7645]
 
-*Troparion 2:* Being wholly scabbed with the wounds of transgressions, I flee unto thee, O Birth-giver of God, and pray: do thou destroy the wounds thereof and save me, granting me divine health.[^7646]
+*Troparion 2:* Being wholly scabbed with the wounds of transgressions, I flee unto thee, O Birthgiver of God, and pray: do thou destroy the wounds thereof and save me, granting me divine health.[^7646]
 
 *Troparion 3:* Ruling over all creatures, O pure Birthgiver of God, show me, who am enslaved by cruel offenses and unseemly deeds, free from them by thy divine power.[^7647]
 

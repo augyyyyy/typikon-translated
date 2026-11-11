@@ -242,7 +242,7 @@ With the Archangel let us, the faithful, hymn the heavenly Chamber and truly sea
 *After the first stichology, we sing two compunctionate Sessional Hymns of the Octoechos, with the Theotokion.*  
 *After the second stichology, Sessional Hymn of Lord Joseph, Tone 3, Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства):*[^948]  
 A most fair time has arrived, a praiseworthy day has shone forth, the day of self-control, O brethren: let us strive to be cleansed, that we may appear pure unto Him Who made us, and may obtain His beauty, through the prayers of Her that bore Him, the only pure Mother of God.  
-*Glory: the same. Both now: Theotokion, Podoben:*  
+*Glory: the same. Both now: Theotokion, Podoben (Подо́бенъ):*  
 Gabriel was amazed at the beauty of thy virginity and the surpassing brightness of thy purity, and cried aloud unto thee, O Mother of God: What worthy praise shall I offer unto thee? What shall I call thee? I am in perplexity and amazed; therefore, as I was commanded, I cry unto thee: Rejoice, O full of grace!
 
 *After the third stichology, Sessional Hymn of Lord Theodore, Tone 7, Podoben: "Lord, we are Thy people" (Гдⷭ҇и, мы̀ є҆смы̀):*[^949]  

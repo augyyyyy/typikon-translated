@@ -92,7 +92,7 @@ We cry unto thee "Rejoice!" with the angel, O Virgin Bride of God, calling thee 
 
 *In the Book of the Octoechos of the Resurrection: Tone Eight.*
 
-[Large decorative historiated woodcut initial (*В*)]
+(*Large decorative historiated woodcut initial (*В*)*)
 
 *Lord, I have cried: Resurrection Stichera, Tone 8:*
 

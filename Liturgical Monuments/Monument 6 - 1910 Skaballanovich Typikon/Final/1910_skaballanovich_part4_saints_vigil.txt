@@ -2,14 +2,12 @@
 
 ## CHAPTER 3 OF THE TYPIKON
 
-### “ON A SAINT HAVING A VIGIL, IF IT FALL ON SUNDAY”
+**“ON A SAINT HAVING A VIGIL, IF IT FALL ON SUNDAY”**
 *(WHEREIN IS THE ORDER OF THE BLESSING OF KOLIVA)*
 
-*(Orig. p. 792)*
+*(Orig. p. 792)* **On a Saint Having a Vigil on Sunday**
 
-### On a Saint Having a Vigil on Sunday
-
-#### Content of the Chapter
+**Content of the Chapter**
 
 Nothing speaks so powerfully unto the heart of a Christian as the Resurrection of Christ, and nothing more deeply causes our soul to tremble with awe than the celebration of this event, however frequently it occur.[^2831] Yet at times even this seemingly impossible thing is possible—an augmentation of the joy of the Sunday feast. This occurs when with Sunday there coincides a commemoration worthy in itself of an equally or nearly equally solemn celebration as the Resurrection. Having set forth in Chapters 1 and 2 the order of the customary Sunday service, the Typikon naturally occupies itself in Chapter 3 with such exceptional Sundays. It passes over in this place cases of the concurrence with Sunday of the Twelve Great Feasts—which augment Sunday joy still further—on account of the comparative rarity of such occurrences (not even every year) and because the most important among them entirely displace the Sunday service. Reserving the regulation of these latter cases for the Menologion section, the Typikon in this present section treats solely of concurrences with Sunday of the commemorations of great saints, and begins—in Chapter 3—with the greatest saints for whom a Vigil is appointed. Such saints are very few. Unconditionally, without the reservation *“if the superior so desire”*, a Vigil is appointed only for the following saints: John the Forerunner (June 24 and August 29), the Apostles Peter and Paul (June 29), John the Theologian (September 26 and May 8), and the Three Hierarchs (January 30). Yet in addition to these, a Vigil is permitted by the Typikon for a whole series of other saints. It is admissible under special circumstances for any saint (on royal days, or for locally venerated saints). On the other hand, even for the aforementioned greatest saints, *“for the sake of great necessity”*, a Vigil may be omitted, just as it may be omitted even on a Twelve Great Feast (excluding the Nativity of Christ and Theophany). The order provided in Chapter 3 of the Typikon holds force for any saint, on whatever occasion a Vigil be appointed for him, if his commemoration fall on a Sunday. It is not entirely applicable only unto the Vigil of the patron saint of a temple, who possesses, however, in comparison with every other great saint, merely a single prerogative when combined with a Sunday Vigil (his own Matins Gospel and the sticheron following it).
 
@@ -29,7 +27,7 @@ At this Hour, as at the others, the troparion is Resurrectional; *Glory*, of the
 
 At the Liturgy, the Beatitudes are Resurrectional on 6, that is, all excluding *Glory... Both now...*, and from the canon of the saint Ode 3 on 4 (naturally, without the heirmos). The troparia following the Little Entrance follow the customary order, with the exception that if it be a temple dedicated to the saint, his troparion and kontakion are not chanted, upon the same ground that on Sunday the troparion and kontakion of a temple of Christ are not chanted. The prokeimenon, Epistle, Alleluia, Gospel, and Communion verse (*Koinonikon* / *Prichasten*) are assigned, naturally, first unto Sunday, then unto the saint.
 
-#### History of the Chapter
+**History of the Chapter**
 
 Concerning the Studite Typikon, it is unknown how it effected such a combination of two services. The Greek and Georgian manu*(Orig. p. 795)*scripts of the Jerusalem Typikon are likewise silent concerning it. Slavic manuscripts, however, beginning with the most ancient, provide the rubrics for this case in the section of “Mark’s Chapters” (*Markovy glavy*), placed after the Menologion section. And here is the redaction of this order with variant readings according to manuscripts of the Moscow Synodal Library, No. 328/383 (14th c.), No. 329/384 (14th c.), and No. 678/386 (15th c.) (the basic text according to the first manuscript, variants according to the other two in parentheses):
 
@@ -37,7 +35,7 @@ Concerning the Studite Typikon, it is unknown how it effected such a combination
 
 In the Old Believer Typikon appear the following differences from our own: at the blessing of the loaves, *“troparion of the saint twice, and ‘O Theotokos Virgin’ 1. Reading in the Epistles and further reading from his Life”; following the kathismata as in the manuscripts; “the Undefiled [Ps. 118], Hypakoe of the Tone, and reading in the Gospel. Polyeleos of the saint and his sessional hymns”; after Odes 3 and 6, as in the manuscripts; after Ode 3, reading of the saint; following the dismissal of Matins, “Studite Catechesis, and the customary procession into the narthex, and the First Hour”*; at the Hours, kontakion of the saint; at the Liturgy, if it be a temple of Christ, *Both now*, kontakion of the temple; if a Vigil be appointed for a saint, but for any reason it is not chanted, then the troparia and kontakia at the Liturgy are said as for a saint with a Polyeleos.
 
-### THE ORDER OF THE BLESSING OF KOLIVA (*CHIN BLAGOSLOVENIYA KOLIVA*)
+**THE ORDER OF THE BLESSING OF KOLIVA (*CHIN BLAGOSLOVENIYA KOLIVA*)**
 
 Just as unto Chapters 1 and 2 of the Typikon there is subjoined the order of the refectory meal, so unto this chapter is joined the Order of the Blessing of Koliva. By this it is made understood that the partaking of koliva is an attribute and distinction of the commemoration of a saint with a Vigil, just as the refectory meal is for every day. This is the meal on the day of the commemoration of a saint. What koliva is,[^2834] is explained in the very title of the present rite: it is *kutiya*, or boiled wheat with honey, adorned with sweet fruits and brought into the church in honor and memory of *“Dominical (that is, Twelve Great) feasts or the saints of God”*—great saints, as is evident from the placement of this rite precisely here. As the content of the prayer over the koliva demonstrates, it possesses, on the one hand, the same symbolic significance as that offered in remembrance of the departed, that is, it prefigures the resurrection, likened in Holy Scripture unto the germination of seed from the earth; on the other hand, the koliva has as its purpose, like the bread and wine blessed at Vespers, the sanctification of the festive *(Orig. p. 796)* meal, which serves as an image of the enjoyment of eternal blessings. This rite is performed either at Vespers following **“Now lettest Thou Thy servant depart”**, the Trisagion, and the troparion with its Theotokion—consequently, at Vespers that is not combined with Matins into a Vigil, as is evident also from the rubric concerning the conclusion of this Vespers (**“Wisdom”**, **“Bless”**, **“He Who is blessed”**)—or at the Liturgy after the prayer behind the ambo.
 
@@ -45,21 +43,21 @@ The rite, which is provided in full in the *Sluzhebnik* (Hieratikon), is reduced
 
 In the practice of the contemporary Russian Church, koliva in honor of saints is offered only in honor of the holy Great-Martyr Theodore the Tyro on Friday of the First Week of Great Lent, in remembrance of his well-known assistance unto Christians during the fast. Yet the customary prayer over the koliva in this instance is preceded by a special moleben unto the Great-Martyr.
 
-#### History of the Order
+**History of the Order**
 
 The rite originated, naturally, from the agape, and represents an inheritance from antiquity just as significant as the prayers for the catechumens at the Liturgy and much else in Orthodox divine worship. Among the described manuscripts, it is provided by MS Moscow Synodal Library No. 335/391, fol. 408. The rite is performed unto this day in the South Slavic Churches, especially on patronal feasts.
 
-### Notes to Volume II: Explanatory Typikon
+**Notes to Volume II: Explanatory Typikon**
 
-1. Plutarch, *De virtute*. Wilhelm Pape, *Griechisch-Deutsches Handwörterbuch*, Braunschweig, 1880, pp. 1162, 262. Later, the word *typos* (*τύπος*) acquired the meaning of an imperial decree or law; the word already possesses this meaning in Philostratus († 240) and the church historian Socrates in the 5th century (E. A. Sophocles, *Greek Lexicon of the Roman and Byzantine Periods*, New York–Leipzig, 1888, p. 1099); but *typos* with this meaning does not form the adjective *typikos* (*τυπικός*) in any writer; among ancient Christian writers (Clement of Alexandria, Origen, Basil the Great), this adjective signifies "symbolic," "figurative," or "typological" (see *ibid.*). The root meaning of the word cannot entirely disappear in all instances of its usage; and if *typos* sometimes signifies a law or rule, it is of a distinctive character. Thus, in Gregory of Nazianzus it is used in relation unto the Symbol of Faith [the Creed]; in Justinian it signifies the Divine Law (for citations see Sophocles); Emperor Constans so entitled his famous doctrinal decree [*Typos of Constans*, 648]. A religious law or rule, however, differs essentially from any other, and its distinctive nature is aptly expressed by the primary meaning of the word *typos*. More precisely than "rule" [*устав*], *typikon* (*τυπικόν*) would be translated as "order of service" [*чиновник*], Latin *ordinarium* (thus Toscani translates it in *Ad typica graecorum*, Rome, 1864, p. 5).
+1. Plutarch, *De virtute*. Wilhelm Pape, *Griechisch-Deutsches Handwörterbuch*, Braunschweig, 1880, pp. 1162, 262. Later, the word *typos* (*τύπος*) acquired the meaning of an imperial decree or law; the word already possesses this meaning in Philostratus († 240) and the church historian Socrates in the 5th century (E. A. Sophocles, *Greek Lexicon of the Roman and Byzantine Periods*, New York–Leipzig, 1888, p. 1099); but *typos* with this meaning does not form the adjective *typikos* (*τυπικός*) in any writer; among ancient Christian writers (Clement of Alexandria, Origen, Basil the Great), this adjective signifies "symbolic," "figurative," or "typological" (see *ibid.*). The root meaning of the word cannot entirely disappear in all instances of its usage; and if *typos* sometimes signifies a law or rule, it is of a distinctive character. Thus, in Gregory of Nazianzus it is used in relation unto the Symbol of Faith [the Creed]; in Justinian it signifies the Divine Law (for citations see Sophocles); Emperor Constans so entitled his famous doctrinal decree [*Typos of Constans*, 648]. A religious law or rule, however, differs essentially from any other, and its distinctive nature is aptly expressed by the primary meaning of the word *typos*. More precisely than "rule" (*устав*), *typikon* (*τυπικόν*) would be translated as "order of service" (*чиновник*), Latin *ordinarium* (thus Toscani translates it in *Ad typica graecorum*, Rome, 1864, p. 5).
 
 2. The word *diatyposis* (*διατύπωσις*) is first used in ecclesiastical literature by the *Apostolic Constitutions* (4th–early 5th century), applied, apparently, unto church order in general or, more immediately, unto the rites of ordination and the Liturgy (*Apostolic Constitutions* VIII, 3).
 
-3. A. Golubtsov, *Cathedral Officials and Service Peculiarities According unto Them* [*Соборные чиновники и особенности службы по ним*], p. 10; *Readings in the Imperial Society of Russian History and Antiquities* [*Чтения в Импер. Общ. Истории и древн. Росс.*], 1907, book 3.
+3. A. Golubtsov, *Cathedral Officials and Service Peculiarities According unto Them* (*Соборные чиновники и особенности службы по ним*), p. 10; *Readings in the Imperial Society of Russian History and Antiquities* (*Чтения в Импер. Общ. Истории и древн. Росс.*), 1907, book 3.
 
 4. A. Dmitrievsky, *Description of Liturgical Manuscripts Preserved in the Libraries of the Orthodox East*, vol. I: *Typika* [*Τυπικά*], [Kyiv], 1895, p. 833.
 
-5. A. Dmitrievsky, *Review of the Book “The Church Typikon: Its Formation and Destiny in the Greek and Russian Church” by Prof. I. Mansvetov* [*Рецензия на книгу «Церковный устав (типик)...»*]; *Christian Reading* [*Христианское чтение*], 1888.
+5. A. Dmitrievsky, *Review of the Book “The Church Typikon: Its Formation and Destiny in the Greek and Russian Church” by Prof. I. Mansvetov* (*Рецензия на книгу «Церковный устав (типик)...»*); *Christian Reading* (*Христианское чтение*), 1888.
 
 6. Among Roman Catholics, from the morning.
 
@@ -69,15 +67,15 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 9. St. Ignatius the God-bearer, *To Polycarp* 4.
 
-10. P. Kazansky, *On the Call unto Divine Worship in the Eastern Church* [*О призыве к богослужению в восточной Церкви*]; *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, p. 310.
+10. P. Kazansky, *On the Call unto Divine Worship in the Eastern Church* (*О призыве к богослужению в восточной Церкви*); *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, p. 310.
 
 11. Tertullian, *To His Wife* [*Ad Uxorem*] II, 4.
 
-12. *Peregrinatio ad loca sancta* (*The Pilgrimage of Silvia [Egeria]*), 29, 30; *Orthodox Palestinian Collection* [*Православный Палестинский Сборник*], issue 20, St. Petersburg, 1889.
+12. *Peregrinatio ad loca sancta* (*The Pilgrimage of Silvia [Egeria]*), 29, 30; *Orthodox Palestinian Collection* (*Православный Палестинский Сборник*), issue 20, St. Petersburg, 1889.
 
 13. Cassian, *De institutis coenobiorum* (*On the Institutes of the Coenobia*) IV, 12.
 
-14. Angelo Mai, *Acta Sanctorum*, vol. III, appendix, pp. 35, 43. The indication in the Rules of St. Pachomius, preserved only in Latin, regarding the convocation unto divine worship by means of a trumpet ("when he hears the voice of the trumpet calling unto the assembly," *vocem tubae ad collectam vocantis*) is doubtful or possesses the same metaphorical sense as the expression in the *Ladder of Divine Ascent*: "when at the voice of the spiritual trumpet the brethren visibly assemble for divine services" (*Ladder*, Step 19); and in the verses of Theodore the Studite the wooden semantron [*било*] is termed a trumpet (Du Cange, *Glossarium ad scriptores mediae et infimae graecitatis*, Breslau, 1890–1891, under the word *ξύλον*).
+14. Angelo Mai, *Acta Sanctorum*, vol. III, appendix, pp. 35, 43. The indication in the Rules of St. Pachomius, preserved only in Latin, regarding the convocation unto divine worship by means of a trumpet ("when he hears the voice of the trumpet calling unto the assembly," *vocem tubae ad collectam vocantis*) is doubtful or possesses the same metaphorical sense as the expression in the *Ladder of Divine Ascent*: "when at the voice of the spiritual trumpet the brethren visibly assemble for divine services" (*Ladder*, Step 19); and in the verses of Theodore the Studite the wooden semantron (*било*) is termed a trumpet (Du Cange, *Glossarium ad scriptores mediae et infimae graecitatis*, Breslau, 1890–1891, under the word *ξύλον*).
 
 15. Cyril of Scythopolis, *Life of St. Sabas the Sanctified*, ch. 42.
 
@@ -89,7 +87,7 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 19. P. Kazansky, *On the Call unto Divine Worship in the Eastern Church*; *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, pp. 300, 301.
 
-20. *Tyazhkaya* [*Тяжкая*], *tas bareas* (*τὰς βαρέας*, not found in the nominative case), may signify, however, not the instruments of striking, but the strikes upon the semantron (or the bell) themselves, as seen from the following expressions in the Greek *Euchologion* and *Typikon*: "he strikes the heavy beats (*τὰς βαρέας*) upon the iron [semantron]," "he strikes the heavy beats obliquely, and at the completion of the heavy beats he descends." The Russian expression "into all heavy [instruments/bells]" [*во вся тяжкая*] is not used in Greek (P. Kazansky, *On the Call unto Divine Worship in the Eastern Church*; *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, p. 313).
+20. *Tyazhkaya* (*Тяжкая*), *tas bareas* (*τὰς βαρέας*, not found in the nominative case), may signify, however, not the instruments of striking, but the strikes upon the semantron (or the bell) themselves, as seen from the following expressions in the Greek *Euchologion* and *Typikon*: "he strikes the heavy beats (*τὰς βαρέας*) upon the iron [semantron]," "he strikes the heavy beats obliquely, and at the completion of the heavy beats he descends." The Russian expression "into all heavy [instruments/bells]" (*во вся тяжкая*) is not used in Greek (P. Kazansky, *On the Call unto Divine Worship in the Eastern Church*; *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, p. 313).
 
 21. Archimandrite Antonin (Kapustin) recounts concerning the tolling [*blagovest*] for the All-Night Vigil at the Athonite St. Panteleimon Monastery (Russikon): "They began to strike the great semantron [*bilo*] in the bell tower; they knocked upon it at first slowly, then swiftly and briskly, with rising and falling pitches, with playful transpositions of tones, with rapid transitions from lowest unto highest and vice versa, or with a slow glide across semitones, gradually dying away unto complete silence, and then unexpectedly resurrecting unto fresh vigor and power. Such tolling or rhythmic beating was resumed three times, following pauses for the 'artist' to rest—for so the Greeks called the ringer, evidently deeply moved by his skill; and each time he allowed them to hear new combinations of sounds, diverse from the first hammer blow unto the last. This music continued for half an hour" (*Notes of a Pilgrim unto the Holy Mountain*, Kyiv, 1864, p. 29).
 
@@ -99,13 +97,13 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 24. Migne, *Patrologiae cursus completus, series latina*, vol. 139, col. 910.
 
-25. By the word *kodon* (*κώδων*), the Septuagint designates the little bells upon the vestment of the High Priest (Exodus 28:34 [LXX 28:30/34]). At present among the Greeks, a small bell of about three pounds' weight is called *kodon* (*κώδων*); a larger one is called *kampanon* (*κάμπανον*). On Mount Athos, *kodon* denotes an altar bell shaped like an inverted cup with a little hammer at the top; this bell is struck at the end of the Proskomedia, and at this signal the brethren, standing each in his place with klobuks removed and heads bowed, commemorate their kinsfolk, both living and departed, while the priest in the altar takes out particles; at the Liturgy of the Presanctified Gifts, at the signal of this bell, all prostrate themselves during the transfer of the Holy Gifts, and then rise at a fresh signal. The word *kandiya* [*кандия*], however, does not exist in the Greek language, neither ancient nor modern (P. Kazansky, *On the Call unto Divine Worship in the Eastern Church*; *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, p. 316).
+25. By the word *kodon* (*κώδων*), the Septuagint designates the little bells upon the vestment of the High Priest (Exodus 28:34 [LXX 28:30/34]). At present among the Greeks, a small bell of about three pounds' weight is called *kodon* (*κώδων*); a larger one is called *kampanon* (*κάμπανον*). On Mount Athos, *kodon* denotes an altar bell shaped like an inverted cup with a little hammer at the top; this bell is struck at the end of the Proskomedia, and at this signal the brethren, standing each in his place with klobuks removed and heads bowed, commemorate their kinsfolk, both living and departed, while the priest in the altar takes out particles; at the Liturgy of the Presanctified Gifts, at the signal of this bell, all prostrate themselves during the transfer of the Holy Gifts, and then rise at a fresh signal. The word *kandiya* (*кандия*), however, does not exist in the Greek language, neither ancient nor modern (P. Kazansky, *On the Call unto Divine Worship in the Eastern Church*; *Proceedings of the First Archaeological Congress in Moscow 1869*, Moscow, 1871, p. 316).
 
 26. According unto Allatius, Michael Psellos stated in an oration unto Emperor Constantine Monomachos (1042–1054): "The sacred bell [*kodon*] will awaken thee, and thou wilt bow down upon the sacred dais" (*De libris ecclesiasticis Graecorum*, in *Graeciae orthodoxae scriptores*, Rome, 1652, VII, 3). According unto Pachymeres, upon the return unto the cathedra of Patriarch Joseph I of Constantinople (in 1282), he entered the patriarchate amid the ringing of a multitude of church bells (*κωδώνων*) (*Michael Palaeologus* VII, 3). According unto Eustathius, Metropolitan of Thessalonica, the Crusaders who captured Thessalonica were always agitated by the sounds of the semantra, but they remained calm upon hearing the sounds of the "great bells" (*μεγάλων κωδώνων*) summoning unto psalmody at the Church of St. Demetrius, evidently because these latter sounds were customary unto them (*De Thessalonica a Latinis capta*; Migne, *Patrologia Graeca*, vol. 136, col. 121).
 
 27. Migne, *Patrologiae cursus completus, series graeca*, vol. 138, col. 1074.
 
-28. *Complete Collection of Russian Chronicles* [*Полное собрание русских летописей*], III, 2; II, 27, 196; III, 81, 125; VII, 210.
+28. *Complete Collection of Russian Chronicles* (*Полное собрание русских летописей*), III, 2; II, 27, 196; III, 81, 125; VII, 210.
 
 29. See *Typikon*, ch. 7, 9, and the First Week of the Great Fast. In some of these rubrics, instead of *kampan* [bell], there stands *bilo* [semantron] or *drevo* [wooden board]: this represents earlier terminology that was left unrevised; in the ancient typika and in the present passage there stands the small semantron (as is also the case in the present Old Believer typikon).
 
@@ -121,15 +119,15 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 35. A. Dmitrievsky, *Typika*, pp. 867, 870, 872.
 
-36. Archpriest K. Kekelidze, *Liturgical Monuments* [*Литургические памятники*], Tiflis, 1908, p. 321.
+36. Archpriest K. Kekelidze, *Liturgical Monuments* (*Литургические памятники*), Tiflis, 1908, p. 321.
 
 37. See Introductory Chapter, p. 85.
 
 38. Nikon of the Black Mountain, *Pandects*, Discourse 29, fol. 112; Pochaiv edition, 1889, fol. 208.
 
-39. Archpriest M. Orlov, *The Liturgy of St. Basil the Great* [*Литургия св. Василия Великого*], St. Petersburg, 1909, p. 40. [Cf.] St. John Chrysostom, *Homily 3 on Colossians*.
+39. Archpriest M. Orlov, *The Liturgy of St. Basil the Great* (*Литургия св. Василия Великого*), St. Petersburg, 1909, p. 40. [Cf.] St. John Chrysostom, *Homily 3 on Colossians*.
 
-40. Thus, the Liturgy of the Apostle James possesses the following beginning (what is found in its most ancient 11th-century Rossano manuscript is printed in italics, and what is found in later ones in regular type). Deacon: *Let us pray to the Lord.* People: *Lord, have mercy.* Priest: *In the name of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.* Deacon: *Stand aright. In peace let us pray to the Lord.* Priest [recites] the prayer: *Glory to the Father, and to the Son, and to the Holy Spirit...* and two more prayers. Deacon: *Bless, master.* Priest [recites] the prayer... and so forth (A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточной Церкви*], St. Petersburg, 1897, Appendix, pp. 1–3). The Liturgy of the Evangelist Mark, used from antiquity in the Church of Alexandria, begins, according unto the Rossano Codex: Deacon: *Stand for prayer.* Priest: *Peace be to all.* People: *And to thy spirit.* Deacon: *Pray.* People: *Lord, have mercy.* Priest [recites] the first prayer (C. A. Swainson, *The Greek Liturgies*, Cambridge, 1884, pp. 2–3). In its more ancient recension (in Renaudot, *Liturgiarum orientalium collectio*, Paris, 1716, II, 184), it begins with three prayers of the priest, unto each of which the people respond Amen; then the deacon says: *Give the peace.* Priest: *Grace... be with you all*, and so forth. The Liturgy of the Mesopotamian Church, attributed unto the Apostle Thaddaeus—Nestorian, but in its ancient core (printed here in italics) originating prior unto the Nestorian heresy and, in any case, not later than the 7th century—begins: *In the name of the Father, and of the Son, and of the Holy Spirit. Glory to God in the highest, and on earth peace, good will among men, now and ever...* Choir: *Amen*, and *Our Father*. The priest, bowing his head, pronounces the exclamation: *Glory to the Father, and to the Son, and to the Holy Spirit, now...* Choir: *Amen.* Deacon: *Pray ye. Peace be with you.* Priest [recites] the prayer (A. Petrovsky, *Apostolic Liturgies*, p. 61).
+40. Thus, the Liturgy of the Apostle James possesses the following beginning (what is found in its most ancient 11th-century Rossano manuscript is printed in italics, and what is found in later ones in regular type). Deacon: *Let us pray to the Lord.* People: *Lord, have mercy.* Priest: *In the name of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages. Amen.* Deacon: *Stand aright. In peace let us pray to the Lord.* Priest [recites] the prayer: *Glory to the Father, and to the Son, and to the Holy Spirit...* and two more prayers. Deacon: *Bless, master.* Priest [recites] the prayer... and so forth (A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточной Церкви*), St. Petersburg, 1897, Appendix, pp. 1–3). The Liturgy of the Evangelist Mark, used from antiquity in the Church of Alexandria, begins, according unto the Rossano Codex: Deacon: *Stand for prayer.* Priest: *Peace be to all.* People: *And to thy spirit.* Deacon: *Pray.* People: *Lord, have mercy.* Priest [recites] the first prayer (C. A. Swainson, *The Greek Liturgies*, Cambridge, 1884, pp. 2–3). In its more ancient recension (in Renaudot, *Liturgiarum orientalium collectio*, Paris, 1716, II, 184), it begins with three prayers of the priest, unto each of which the people respond Amen; then the deacon says: *Give the peace.* Priest: *Grace... be with you all*, and so forth. The Liturgy of the Mesopotamian Church, attributed unto the Apostle Thaddaeus—Nestorian, but in its ancient core (printed here in italics) originating prior unto the Nestorian heresy and, in any case, not later than the 7th century—begins: *In the name of the Father, and of the Son, and of the Holy Spirit. Glory to God in the highest, and on earth peace, good will among men, now and ever...* Choir: *Amen*, and *Our Father*. The priest, bowing his head, pronounces the exclamation: *Glory to the Father, and to the Son, and to the Holy Spirit, now...* Choir: *Amen.* Deacon: *Pray ye. Peace be with you.* Priest [recites] the prayer (A. Petrovsky, *Apostolic Liturgies*, p. 61).
 
 41. Ezekiel 3:12.
 
@@ -149,7 +147,7 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 49. Nikon of the Black Mountain, *Pandects*, Discourse 29, fol. 112 (208): "the elder began to chant *Glory to the Father* with the others" (with the other monastics or with the other prayers?).
 
-50. A. Dmitrievsky, *What Is the Canon of Psalmody [κανὼν τῆς ψαλμῳδίας]...*; *Manual for Village Pastors* [*Руководство для сельских пастырей*], 1889, No. 38, p. 70.
+50. A. Dmitrievsky, *What Is the Canon of Psalmody [κανὼν τῆς ψαλμῳδίας]...*; *Manual for Village Pastors* (*Руководство для сельских пастырей*), 1889, No. 38, p. 70.
 
 51. Isaiah 33:2; Baruch 3:1. Compare Matthew 20:30; 15:22.
 
@@ -189,7 +187,7 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 69. Tertullian, *On the Shows* [*De Spectaculis*] 25.
 
-70. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* [*Исторический обзор песнопевцев и песнопения греческой Церкви*], Chernihiv, 1864, p. 25.
+70. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (*Исторический обзор песнопевцев и песнопения греческой Церкви*), Chernihiv, 1864, p. 25.
 
 71. Origen, *On Prayer* 33.
 
@@ -197,7 +195,7 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 73. *Canons of Hippolytus* 29.
 
-74. A. Dmitrievsky, *The 4th-Century Euchologion of Serapion, Bishop of Thmuis* [*Евхологион IV в. Серапиона, еп. Тмуитского*], Kyiv, 1894, p. 18, and others.
+74. A. Dmitrievsky, *The 4th-Century Euchologion of Serapion, Bishop of Thmuis* (*Евхологион IV в. Серапиона, еп. Тмуитского*), Kyiv, 1894, p. 18, and others.
 
 75. St. Basil the Great, *On the Holy Spirit* 27.
 
@@ -215,9 +213,9 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 82. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church*, Chernihiv, 1864, p. 189.
 
-83. A. P. U. [Archimandrite Porphyrius Uspensky], *Doctrine, Divine Worship, Ritual Orders, and Rules of Ecclesiastical Decorum of Egyptian Christians (Copts)* [*Вероучение, богослужение, чиноположение и правила церковного благочиния египетских христиан (коптов)*], St. Petersburg, 1856, p. 93.
+83. A. P. U. [Archimandrite Porphyrius Uspensky], *Doctrine, Divine Worship, Ritual Orders, and Rules of Ecclesiastical Decorum of Egyptian Christians (Copts)* (*Вероучение, богослужение, чиноположение и правила церковного благочиния египетских христиан (коптов)*), St. Petersburg, 1856, p. 93.
 
-84. B. Turaev, *The Horologion of the Ethiopic Church* [*Часослов ефиопской церкви*], St. Petersburg, 1897, p. 29; *Memoirs of the Imperial Academy of Sciences*, 8th series, Historico-Philological Department, vol. 1, No. 7.
+84. B. Turaev, *The Horologion of the Ethiopic Church* (*Часослов ефиопской церкви*), St. Petersburg, 1897, p. 29; *Memoirs of the Imperial Academy of Sciences*, 8th series, Historico-Philological Department, vol. 1, No. 7.
 
 85. A. Dmitrievsky, *Typika*, p. 796.
 
@@ -235,7 +233,7 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 92. For this purpose it would have been necessary to abbreviate the word "God," just as in the Hebrew *Hallelujah* the divine name *Yahweh* is abbreviated into *Yah* (compare our Russian *spasibo* [from *Spasi Bog*, "God save"]). The word is used untranslated in Roman Catholic (*Alleluja*) and Protestant (*Hallelujah*) worship; but in Anglican worship it is translated: "Praise ye the Lord."
 
-93. The Old Believer schismatics in this refrain pronounce *Alleluia* twice, replacing the third *Alleluia* with what they consider to be its semantic equivalent, "Glory to Thee, O God." Such a manner of singing *Alleluia* in this refrain was prescribed by the Stoglav Council (1551), which labeled the custom of tripling the *Alleluia* a "Latin heresy" (the Latins, according unto the words of the Council, "do not glorify the Trinity, but make a quaternity," which the Council, apparently, deduced in some manner from the *Filioque*). The Council appealed in defense of the twofold *Alleluia* [*sugubaya alleluia*] unto the Life of St. Euphrosynus of Pskov († 1481), unto whom the Most Holy Theotokos Herself "did reveal and forbid the threefold *Alleluia*, commanding Orthodox Christians to say the twofold *Alleluia*" (*Stoglav*, ch. 42; ed. D. Kozhanchikov, St. Petersburg, 1863, p. 148). In this Life, composed shortly before the Council, it is related, moreover, that St. Euphrosynus grieved exceedingly over the mystery of the most holy *Alleluia* (that is, whether it ought to be doubled or tripled); and finding no answer unto this in Russia, he undertook a journey unto Greece. There, from conversation with Patriarch Joseph and from the practice of the Cathedral of Hagia Sophia and of all the monasteries, he became convinced of the necessity of doubling the *Alleluia*, and introduced this custom into his own monastery, for which he was rebuked and persecuted by the people of Pskov headed by the priest Job. The question of the *Alleluia* occupied other church figures of that era as well. Even prior unto St. Euphrosynus, St. Photius, Metropolitan of Moscow, answering an inquiry of the Pskovians on this point by an epistle of 1419, pronounced in favor of the triple *Alleluia*; Bishop Gennadius of Novgorod did the same in 1491. Consequently, in the 15th century the question was controversial, and ground for it was provided by disparity not only in practice, but in the liturgical books themselves. While certain Greek and Slavonic manuscripts of the 13th–16th centuries directed to triple the *Alleluia* (for example, the Horologia of the Rumyantsev Museum, Sevastyanov Collection Nos. 496–497 of the 13th–16th centuries; the "Rule on the Chanting of the *Mephemon*" in MS No. 1264 of the Sofia Library of the St. Petersburg Academy); others directed to double it (for example, the Slavonic Typika of the Moscow Synodal Library Nos. 383 and 384 of the 14th–15th centuries; the *Potrebnik* [Euchologion] No. 259 of the 16th century). Not only in Russia, but in the East as well there was no uniformity in this regard, as attested by the observations of so impartial a witness in this matter as the monk Arseny Sukhanov in his *Proskynetarion* (*Orthodox Palestinian Collection*, vol. VII, issue 3, St. Petersburg, 1889, pp. 44, 205, 225). The chairman of the Stoglav Council himself, Metropolitan Macarius, in his *Great Menion Reader* [*Velikiye Chetyi-Minei*] rebukes those who double the *Alleluia* and provides a symbolic substantiation for its threefold repetition (fol. 816), on which grounds scholars even suspect that the decree of the Stoglav Council, as well as the remarks in the *Proskynetarion* concerning the twofold *Alleluia*, constitute a later interpolation. (Concerning all of this, see Metropolitan Macarius, *History of the Russian Church*, St. Petersburg, 1868, VIII, pp. 131 ff.; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia up to the 16th Century* [*Порядок общественнаго и частнаго богослужения в древней России до XVI в.*], St. Petersburg, 1881, pp. 243–249; A. Dmitrievsky, *Divine Worship in the Russian Church in the First Five Centuries*; *Orthodox Interlocutor* [*Православный Собеседник*], 1882, VII–VIII, pp. 359–362; Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church*, 7th ed., St. Petersburg, 1907, pp. 178–179). Originally and for a long period, *Alleluia*, following the example of the Old Testament Church, was chanted, of course, neither two nor three times, but once; such was the case in the 3rd century, according unto the testimony of the *Testamentum Domini* and Tertullian (see Introductory Chapter, p. 108). The dogma of the Trinity, brought to the fore in theology by the heresies of the 3rd century, compelled Christians to make it the primary subject of their confession; hence, presumably, the extensive application of the number three in subsequent liturgical worship (the three-psalm grouping, the three-antiphon structure); from this the tripling of the *Alleluia* could easily have arisen. Yet direct testimonies concerning such a manner of chanting *Alleluia* prior unto the 13th century are lacking; on the contrary, everywhere that the singing of *Alleluia* is mentioned, it appears as though it is pronounced once (Cassian, *De institutis coenobiorum* II, 11; Horologion of the Sinai Library MS No. 863 of the 8th century). Judging from the fact that in the Catholic Church *Alleluia* is chanted once, twice, and three times (*Missale Romanum*, Kempten, 1823, p. 255; *Breviarium*, pp. 22, 29, and elsewhere), one may suppose that this threefold manner of singing it existed. With three antiphons, *Alleluia* might have been sung once at the first antiphon, twice at the second, and thrice at the third; thus it appears in the Order of Monastic Burial according unto MS No. 396 of the Moscow Synodal Library of the 13th–14th centuries (A. Dmitrievsky, *ibid.*). The single *Alleluia* has been preserved among us in Psalm 136 [LXX 136 / MT 137] and at the Liturgy. In the Ethiopic Horologion after the psalms, our present refrain, apparently, preserves its simplest and most ancient form: "Alleluia. Glory to the Lord" (thrice) (B. Turaev, *Ethiopic Horologion*, p. 63).
+93. The Old Believer schismatics in this refrain pronounce *Alleluia* twice, replacing the third *Alleluia* with what they consider to be its semantic equivalent, "Glory to Thee, O God." Such a manner of singing *Alleluia* in this refrain was prescribed by the Stoglav Council (1551), which labeled the custom of tripling the *Alleluia* a "Latin heresy" (the Latins, according unto the words of the Council, "do not glorify the Trinity, but make a quaternity," which the Council, apparently, deduced in some manner from the *Filioque*). The Council appealed in defense of the twofold *Alleluia* [*sugubaya alleluia*] unto the Life of St. Euphrosynus of Pskov († 1481), unto whom the Most Holy Theotokos Herself "did reveal and forbid the threefold *Alleluia*, commanding Orthodox Christians to say the twofold *Alleluia*" (*Stoglav*, ch. 42; ed. D. Kozhanchikov, St. Petersburg, 1863, p. 148). In this Life, composed shortly before the Council, it is related, moreover, that St. Euphrosynus grieved exceedingly over the mystery of the most holy *Alleluia* (that is, whether it ought to be doubled or tripled); and finding no answer unto this in Russia, he undertook a journey unto Greece. There, from conversation with Patriarch Joseph and from the practice of the Cathedral of Hagia Sophia and of all the monasteries, he became convinced of the necessity of doubling the *Alleluia*, and introduced this custom into his own monastery, for which he was rebuked and persecuted by the people of Pskov headed by the priest Job. The question of the *Alleluia* occupied other church figures of that era as well. Even prior unto St. Euphrosynus, St. Photius, Metropolitan of Moscow, answering an inquiry of the Pskovians on this point by an epistle of 1419, pronounced in favor of the triple *Alleluia*; Bishop Gennadius of Novgorod did the same in 1491. Consequently, in the 15th century the question was controversial, and ground for it was provided by disparity not only in practice, but in the liturgical books themselves. While certain Greek and Slavonic manuscripts of the 13th–16th centuries directed to triple the *Alleluia* (for example, the Horologia of the Rumyantsev Museum, Sevastyanov Collection Nos. 496–497 of the 13th–16th centuries; the "Rule on the Chanting of the *Mephemon*" in MS No. 1264 of the Sofia Library of the St. Petersburg Academy); others directed to double it (for example, the Slavonic Typika of the Moscow Synodal Library Nos. 383 and 384 of the 14th–15th centuries; the *Potrebnik* [Euchologion] No. 259 of the 16th century). Not only in Russia, but in the East as well there was no uniformity in this regard, as attested by the observations of so impartial a witness in this matter as the monk Arseny Sukhanov in his *Proskynetarion* (*Orthodox Palestinian Collection*, vol. VII, issue 3, St. Petersburg, 1889, pp. 44, 205, 225). The chairman of the Stoglav Council himself, Metropolitan Macarius, in his *Great Menion Reader* [*Velikiye Chetyi-Minei*] rebukes those who double the *Alleluia* and provides a symbolic substantiation for its threefold repetition (fol. 816), on which grounds scholars even suspect that the decree of the Stoglav Council, as well as the remarks in the *Proskynetarion* concerning the twofold *Alleluia*, constitute a later interpolation. (Concerning all of this, see Metropolitan Macarius, *History of the Russian Church*, St. Petersburg, 1868, VIII, pp. 131 ff.; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia up to the 16th Century* (*Порядок общественнаго и частнаго богослужения в древней России до XVI в.*), St. Petersburg, 1881, pp. 243–249; A. Dmitrievsky, *Divine Worship in the Russian Church in the First Five Centuries*; *Orthodox Interlocutor* (*Православный Собеседник*), 1882, VII–VIII, pp. 359–362; Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church*, 7th ed., St. Petersburg, 1907, pp. 178–179). Originally and for a long period, *Alleluia*, following the example of the Old Testament Church, was chanted, of course, neither two nor three times, but once; such was the case in the 3rd century, according unto the testimony of the *Testamentum Domini* and Tertullian (see Introductory Chapter, p. 108). The dogma of the Trinity, brought to the fore in theology by the heresies of the 3rd century, compelled Christians to make it the primary subject of their confession; hence, presumably, the extensive application of the number three in subsequent liturgical worship (the three-psalm grouping, the three-antiphon structure); from this the tripling of the *Alleluia* could easily have arisen. Yet direct testimonies concerning such a manner of chanting *Alleluia* prior unto the 13th century are lacking; on the contrary, everywhere that the singing of *Alleluia* is mentioned, it appears as though it is pronounced once (Cassian, *De institutis coenobiorum* II, 11; Horologion of the Sinai Library MS No. 863 of the 8th century). Judging from the fact that in the Catholic Church *Alleluia* is chanted once, twice, and three times (*Missale Romanum*, Kempten, 1823, p. 255; *Breviarium*, pp. 22, 29, and elsewhere), one may suppose that this threefold manner of singing it existed. With three antiphons, *Alleluia* might have been sung once at the first antiphon, twice at the second, and thrice at the third; thus it appears in the Order of Monastic Burial according unto MS No. 396 of the Moscow Synodal Library of the 13th–14th centuries (A. Dmitrievsky, *ibid.*). The single *Alleluia* has been preserved among us in Psalm 136 [LXX 136 / MT 137] and at the Liturgy. In the Ethiopic Horologion after the psalms, our present refrain, apparently, preserves its simplest and most ancient form: "Alleluia. Glory to the Lord" (thrice) (B. Turaev, *Ethiopic Horologion*, p. 63).
 
 94. Perhaps these repetitions represent a vestige of the former antiphonal singing of such prayers.
 
@@ -259,7 +257,7 @@ The rite originated, naturally, from the agape, and represents an inheritance fr
 
 104. Cassian, *De institutis coenobiorum* II, 2.
 
-105. E. Diakovsky, *The Order of the Hours and the Typika [Izobrazitelny]* [*Последование часов и изобразительных*], Kyiv, 1910, proof sheets. Compare A. Dmitrievsky, *What Is the Canon of Psalmody [κανὼν τῆς ψαλμῳδίας], So Frequently Mentioned in the Life of St.
+105. E. Diakovsky, *The Order of the Hours and the Typika [Izobrazitelny]* (*Последование часов и изобразительных*), Kyiv, 1910, proof sheets. Compare A. Dmitrievsky, *What Is the Canon of Psalmody [κανὼν τῆς ψαλμῳδίας], So Frequently Mentioned in the Life of St.
 
 Sabas the Sanctified?*; *Manual for Village Pastors*, 1889, No. 38, p. 70.
 
@@ -285,9 +283,7 @@ Sabas the Sanctified?*; *Manual for Village Pastors*, 1889, No. 38, p. 70.
 
 116. E. Diakovsky, *ibid.*
 
-117. In the Roman Catholic Church, the Hours contain all the constituent elements of our Hours, but in a different order. As with us, the Hours there all possess a single scheme, with the exception of the First Hour (which also among us in antiquity differed in structure from the other Hours, as is evident from the Sinai Horologion of the 8th–9th centuries, of which discussion will be made in the exposition of Chapter 2 of the Typikon). Following the customary beginning, there follows in the Roman Catholic Hours a hymn, proper unto each Hour, corresponding unto our troparion, concluding with *Alleluia* (on Sunday) or another refrain, an "antiphon" (on weekdays). Then follow three sections from Psalm 118 [LXX 118 / MT 119] (which is divided among all the Hours into 11 sections; two of them are read at the First Hour alongside other psalms, and three at each of the remaining Hours without other psalms); these three sections of Psalm 118 at each of the Roman Catholic Hours impart unto it the same three-psalm type possessed by our Hours (Psalm 118 was chosen for the Hours, presumably, because it speaks of unceasing meditation upon the Law of God, of praising God seven times a day, and the like). Following the three sections of Psalm 118, concluding with *Alleluia* or another antiphon, there follow two brief readings (*capitula*) from the New and Old Testaments (from the Epistles and Prophets) with concluding responsories (*responsoria*), sometimes varying according unto feasts (corresponding unto our "verse of the Hour," as well as unto the paremias and prokimena). Following these *capitula* comes *Kyrie eleison, Christe eleison, Kyrie eleison* (corresponding unto our "Lord, have mercy" 40 times) and the *Our Father*, again with responsories (the first of which is formed by the final words of the Lord's Prayer: "and lead us not into temptation...", corresponding unto our priestly exclamation). Then follows the prayer proper unto the day (in our rite, unto the Hour), which is preceded and concluded by exclamation-responsories: "The Lord be with you" (*Dominus vobiscum*), with the response: "And with thy spirit. Let us pray" (*Oremus*). Following the prayer there is likewise a responsory: "Let us bless the Lord" (*Benedicamus Domino*). The exclamation "The Lord be with you," which is pronounced also by a deacon who conducts the Hours in the absence of a priest, and even in his presence with his permission, is replaced, if the Hours are read by a lector, by another: "O Lord, hear my prayer, and let my cry come unto Thee" (*Breviarium Romanum*, pp. 52, 62, 43 ff., 24 ff.). These responsories surrounding the concluding prayer of the Hour clearly correspond unto our priestly exclamation following "Thou Who at all times." This is the Roman order of the Hours; the Milanese [Ambrosian] and Mozarabic rites are somewhat longer (Priest T. Seredinsky, *On the Divine Worship of the Western Church* [*О богослужении западной церкви*], St. Petersburg, 1849, article 2, p. 6). The affinity of the Roman Catholic Hours unto our order of the Hours bears fine witness, of course, unto the fact that the order of the Hours in its fundamentals was formed both there and here during the period of living fraternal communion between the two Churches. Close unto both orders of the Hours, the Roman Catholic and the Orthodox, are the Hours of the Eastern Non-Chalcedonians, for example, the Copts. According unto the ancient Horologion of the Copts, the order of the Hour consists of an introductory troparion (compare the hymn of the Hour among Roman Catholics), 12 psalms (a trace of the "order of the 12 psalms"), a Gospel reading corresponding unto the commemoration of the Hour (compare *capitula* and paremias), troparia with verses and Theotokia identical with our first troparia, a verse of the Hour such as ours, other troparia largely coinciding with our second troparia (after the Trisagion), the Creed, the Trisagion with the *Our Father*, and a concluding prayer proper unto the Hour (Archimandrite Porphyrius, *Doctrine, Divine Worship... of the Copts*, pp. 57 ff.). Still closer unto our rite are the Hours according unto the Ethiopic Horologion of the Coptic Church (14th century): after the customary beginning, 12 psalms, Gospel, our troparia of the Hour and Theotokia, verse of the Hour, Trisagion, *Alleluia*, troparia largely coinciding with our troparia after the Trisagion, Creed, *Kyrie eleison* 41 times, a brief penitential prayer beginning "Holy, Holy, Holy...", dismissal troparion, the prayer "Thou Who at all times," *Kyrie eleison* 41 times, and a prayer of blessing common unto all the Hours—with the invocation of a series of saints by name, similar unto our litany prayer "Save, O Lord, Thy people" (B. Turaev, *Ethiopic Horologion*, pp. 47 and
-
-### Notes to Volume II: Explanatory Typikon
+117. In the Roman Catholic Church, the Hours contain all the constituent elements of our Hours, but in a different order. As with us, the Hours there all possess a single scheme, with the exception of the First Hour (which also among us in antiquity differed in structure from the other Hours, as is evident from the Sinai Horologion of the 8th–9th centuries, of which discussion will be made in the exposition of Chapter 2 of the Typikon). Following the customary beginning, there follows in the Roman Catholic Hours a hymn, proper unto each Hour, corresponding unto our troparion, concluding with *Alleluia* (on Sunday) or another refrain, an "antiphon" (on weekdays). Then follow three sections from Psalm 118 [LXX 118 / MT 119] (which is divided among all the Hours into 11 sections; two of them are read at the First Hour alongside other psalms, and three at each of the remaining Hours without other psalms); these three sections of Psalm 118 at each of the Roman Catholic Hours impart unto it the same three-psalm type possessed by our Hours (Psalm 118 was chosen for the Hours, presumably, because it speaks of unceasing meditation upon the Law of God, of praising God seven times a day, and the like). Following the three sections of Psalm 118, concluding with *Alleluia* or another antiphon, there follow two brief readings (*capitula*) from the New and Old Testaments (from the Epistles and Prophets) with concluding responsories (*responsoria*), sometimes varying according unto feasts (corresponding unto our "verse of the Hour," as well as unto the paremias and prokimena). Following these *capitula* comes *Kyrie eleison, Christe eleison, Kyrie eleison* (corresponding unto our "Lord, have mercy" 40 times) and the *Our Father*, again with responsories (the first of which is formed by the final words of the Lord's Prayer: "and lead us not into temptation...", corresponding unto our priestly exclamation). Then follows the prayer proper unto the day (in our rite, unto the Hour), which is preceded and concluded by exclamation-responsories: "The Lord be with you" (*Dominus vobiscum*), with the response: "And with thy spirit. Let us pray" (*Oremus*). Following the prayer there is likewise a responsory: "Let us bless the Lord" (*Benedicamus Domino*). The exclamation "The Lord be with you," which is pronounced also by a deacon who conducts the Hours in the absence of a priest, and even in his presence with his permission, is replaced, if the Hours are read by a lector, by another: "O Lord, hear my prayer, and let my cry come unto Thee" (*Breviarium Romanum*, pp. 52, 62, 43 ff., 24 ff.). These responsories surrounding the concluding prayer of the Hour clearly correspond unto our priestly exclamation following "Thou Who at all times." This is the Roman order of the Hours; the Milanese [Ambrosian] and Mozarabic rites are somewhat longer (Priest T. Seredinsky, *On the Divine Worship of the Western Church* (*О богослужении западной церкви*), St. Petersburg, 1849, article 2, p. 6). The affinity of the Roman Catholic Hours unto our order of the Hours bears fine witness, of course, unto the fact that the order of the Hours in its fundamentals was formed both there and here during the period of living fraternal communion between the two Churches. Close unto both orders of the Hours, the Roman Catholic and the Orthodox, are the Hours of the Eastern Non-Chalcedonians, for example, the Copts. According unto the ancient Horologion of the Copts, the order of the Hour consists of an introductory troparion (compare the hymn of the Hour among Roman Catholics), 12 psalms (a trace of the "order of the 12 psalms"), a Gospel reading corresponding unto the commemoration of the Hour (compare *capitula* and paremias), troparia with verses and Theotokia identical with our first troparia, a verse of the Hour such as ours, other troparia largely coinciding with our second troparia (after the Trisagion), the Creed, the Trisagion with the *Our Father*, and a concluding prayer proper unto the Hour (Archimandrite Porphyrius, *Doctrine, Divine Worship... of the Copts*, pp. 57 ff.). Still closer unto our rite are the Hours according unto the Ethiopic Horologion of the Coptic Church (14th century): after the customary beginning, 12 psalms, Gospel, our troparia of the Hour and Theotokia, verse of the Hour, Trisagion, *Alleluia*, troparia largely coinciding with our troparia after the Trisagion, Creed, *Kyrie eleison* 41 times, a brief penitential prayer beginning "Holy, Holy, Holy...", dismissal troparion, the prayer "Thou Who at all times," *Kyrie eleison* 41 times, and a prayer of blessing common unto all the Hours—with the invocation of a series of saints by name, similar unto our litany prayer "Save, O Lord, Thy people" (B. Turaev, *Ethiopic Horologion*, pp. 47 and **Notes to Volume II: Explanatory Typikon (Continued)**
 
 ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto the conclusion of our Matins and the First Hour; but this office is not named an Hour.
 
@@ -299,7 +295,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 121. B. Duhm, *Die Psalmen erklärt*, Tübingen, 1899, p. 213. Formerly, upon the basis of v. 10: “look upon the face of Thine anointed [*Christ*]” [LXX Ps. 83:10 / MT Ps. 84:9], this psalm was referred unto David's longing for the temple during his flight from Absalom; but by "anointed" [*christ*] the psalmist could also understand the presiding hierarch of the temple or any king, as the supreme guardian of the temple.
 
-122. Obscure expressions in the psalm [Psalm 83 / MT 84]: “For the sparrow...” [*ибо птица*], literally from the Hebrew: “even the sparrow,” that is, “like the sparrow.” “Blessed is the man whose help is in Thee” [*Блажен муж, емуже есть заступление его у Тебе*], unto whom God grants aid upon his journey unto the temple, which was especially arduous from the lands of the diaspora. “He hath set ascents in his heart” [*Восхождения в сердце своем положи*]—he undertakes the pilgrimage unto the temple through the mountains and “into the vale of weeping” [*в юдоль плачевную*], the valley of tears—on account of its barrenness and perils, “unto the place which He hath appointed” [*в место, еже положи*], having ever in view the coveted destination of the journey; but according unto the Hebrew: “they (the pilgrims journeying unto Jerusalem) make it (the valley of weeping / Baca) a place of springs”—God miraculously sends them water. “For the Lawgiver shall give blessings” [*Ибо благословение даст законополагаяй*]: God, Who prescribed in the Law such pilgrimages unto the temple (thrice a year), blesses these pilgrims (from the Hebrew: “the rain also covers it—the valley—with blessings”), and they “shall go from strength unto strength” [*пойдут от силы в силу*]—in their arduous pilgrimage their vigor will continually increase, whereas with ordinary travelers the contrary occurs. In relation unto the crucified Christ, the valley of weeping is earthly life with its sufferings and death, whereby He exalted His human nature unto heaven.
+122. Obscure expressions in the psalm [Psalm 83 / MT 84]: “For the sparrow...” (*ибо птица*), literally from the Hebrew: “even the sparrow,” that is, “like the sparrow.” “Blessed is the man whose help is in Thee” (*Блажен муж, емуже есть заступление его у Тебе*), unto whom God grants aid upon his journey unto the temple, which was especially arduous from the lands of the diaspora. “He hath set ascents in his heart” (*Восхождения в сердце своем положи*)—he undertakes the pilgrimage unto the temple through the mountains and “into the vale of weeping” (*в юдоль плачевную*), the valley of tears—on account of its barrenness and perils, “unto the place which He hath appointed” (*в место, еже положи*), having ever in view the coveted destination of the journey; but according unto the Hebrew: “they (the pilgrims journeying unto Jerusalem) make it (the valley of weeping / Baca) a place of springs”—God miraculously sends them water. “For the Lawgiver shall give blessings” (*Ибо благословение даст законополагаяй*): God, Who prescribed in the Law such pilgrimages unto the temple (thrice a year), blesses these pilgrims (from the Hebrew: “the rain also covers it—the valley—with blessings”), and they “shall go from strength unto strength” (*пойдут от силы в силу*)—in their arduous pilgrimage their vigor will continually increase, whereas with ordinary travelers the contrary occurs. In relation unto the crucified Christ, the valley of weeping is earthly life with its sufferings and death, whereby He exalted His human nature unto heaven.
 
 123. H. Gunkel, *Ausgewählte Psalmen*, Göttingen, 1904, p. 133. This author, as well as Duhm cited above, are rationalists, but this did not prevent them from offering an excellent explanation of these present psalms, as also of certain others.
 
@@ -319,11 +315,11 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 131. Manuscript of the Moscow Synodal Library No. 328, fol. 1.
 
-132. Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church* [*Пособие к изучению устава богослужения...*], 7th ed., St. Petersburg, 1907, p. 157.
+132. Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church* (*Пособие к изучению устава богослужения...*), 7th ed., St. Petersburg, 1907, p. 157.
 
 133. Manuscript of the Moscow Typographical Library No. 285/1206/141, fol. 20 verso; see this rubric in the explanation of Chapter 8 of the Typikon.
 
-134. *Prooimiakos* [*Προοιμιακός*], which the 14th-century Slavonic Typikon of the Moscow Synodal Library No. 328/383 glosses as: “introductory of all creation” [*преднеобразный всея твари*].
+134. *Prooimiakos* [*Προοιμιακός*], which the 14th-century Slavonic Typikon of the Moscow Synodal Library No. 328/383 glosses as: “introductory of all creation” (*преднеобразный всея твари*).
 
 135. In antiquity: unto the ecclesiarch (for example, the 13th-century Greek MS of the Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 1; the 14th-century Slavonic MS of the Moscow Synodal Library No. 328/383, fol. 1).
 
@@ -331,7 +327,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 137. 1 Cor. 10:31.
 
-138. Ezek. 46:24. Although the prophet here describes the mystical, symbolic temple of the future, all the details for this description he takes from the actual Jerusalem temple (A. Olesnitsky, *The Old Testament Temple in Jerusalem* [*Ветхозаветный храм в Иерусалиме*], St. Petersburg, 1889, p. 348).
+138. Ezek. 46:24. Although the prophet here describes the mystical, symbolic temple of the future, all the details for this description he takes from the actual Jerusalem temple (A. Olesnitsky, *The Old Testament Temple in Jerusalem* (*Ветхозаветный храм в Иерусалиме*), St. Petersburg, 1889, p. 348).
 
 139. See Introductory Chapter, pp. 23–24.
 
@@ -339,7 +335,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 141. A. Dmitrievsky, *Typika* [*Τυπικά*], pp. LXXVII ff.
 
-142. Archpriest K. Kekelidze, *Liturgical Georgian Monuments in Domestic Book Repositories and Their Scientific Significance* [*Литургические грузинские памятники...*], Tiflis, 1908, p. 308.
+142. Archpriest K. Kekelidze, *Liturgical Georgian Monuments in Domestic Book Repositories and Their Scientific Significance* (*Литургические грузинские памятники...*), Tiflis, 1908, p. 308.
 
 143. Manuscript of the Moscow Synodal Library No. 328/383, fol. 40 and verso.
 
@@ -355,7 +351,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 149. Rule 36 of St. Pachomius the Great.
 
-150. P. Savvaitov, *The Journey of Antony, Archbishop of Novgorod, unto Tsargrad [Constantinople] at the End of the Twelfth Century* [*Путешествие Новгородскаго архиепископа Антония в Царьград...*], St. Petersburg, 1872, pp. 17, 103.
+150. P. Savvaitov, *The Journey of Antony, Archbishop of Novgorod, unto Tsargrad [Constantinople] at the End of the Twelfth Century* (*Путешествие Новгородскаго архиепископа Антония в Царьград...*), St. Petersburg, 1872, pp. 17, 103.
 
 151. Archpriest K. Kekelidze, *Liturgical Monuments*, p. 315.
 
@@ -369,11 +365,11 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 156. Goar, *Euchologion*, p. 9.
 
-157. I. Mansvetov, *The Church Typikon: Its Formation and Destiny in the Greek and Russian Church* [*Церковный Устав (Типик)...*], Moscow, 1885, p. 197.
+157. I. Mansvetov, *The Church Typikon: Its Formation and Destiny in the Greek and Russian Church* (*Церковный Устав (Типик)...*), Moscow, 1885, p. 197.
 
-158. D. Belyaev, *Byzantina: Essays, Materials, and Notes upon Byzantine Antiquities* [*Byzantina. Очерки, материалы и заметки по византийским древностям*], Book II, St. Petersburg, 1893, p. 25.
+158. D. Belyaev, *Byzantina: Essays, Materials, and Notes upon Byzantine Antiquities* (*Byzantina. Очерки, материалы и заметки по византийским древностям*), Book II, St. Petersburg, 1893, p. 25.
 
-159. Hieromonk John (Rakhmanov), *The Book of Ceremonies of the Byzantine Court (De Cerimoniis Aulae Byzantinae) as an Ecclesiastical-Archaeological Source* [*Обрядник византийского двора... как церковно-археологический источник*], Moscow, 1895, p. VIII.
+159. Hieromonk John (Rakhmanov), *The Book of Ceremonies of the Byzantine Court (De Cerimoniis Aulae Byzantinae) as an Ecclesiastical-Archaeological Source* (*Обрядник византийского двора... как церковно-археологический источник*), Moscow, 1895, p. VIII.
 
 160. Belyaev, *Byzantina*, II, pp. 27–33.
 
@@ -381,7 +377,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 162. *Euchologion to Mega, emended and verified by Hieromonk Spyridon Zervos* [*Εὐχολόγιον τὸ μέγα ἐπιδιορθὲν καὶ ἐξακριβωθὲν ὑπὸ Σπυρίδωνος Ἱερομ. Ζέρβου*], 8th ed., Athens, 1902, p. 6.
 
-163. Symeon of Thessalonica, *Interpretation of the Divine Temple* (*Ἑρμηνεία περί τε τοῦ θείου ναοῦ*), ch. 19; Migne, *Patrologia Graeca*, vol. 155; *Writings of the Holy Fathers and Teachers of the Church Relating unto the Interpretation of Orthodox Divine Services* [*Писания св. отцов и учит. Церкви...*], St. Petersburg, 1856, vol. 2.
+163. Symeon of Thessalonica, *Interpretation of the Divine Temple* (*Ἑρμηνεία περί τε τοῦ θείου ναοῦ*), ch. 19; Migne, *Patrologia Graeca*, vol. 155; *Writings of the Holy Fathers and Teachers of the Church Relating unto the Interpretation of Orthodox Divine Services* (*Писания св. отцов и учит. Церкви...*), St. Petersburg, 1856, vol. 2.
 
 164. Goar, *Euchologion*, p. 2.
 
@@ -391,7 +387,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 167. Manuscript of the Museum of the Kyiv Theological Academy Aa 194, p. 19.
 
-168. *Tserkovne Oko* [*Устав сиречь Око церковное*], Edinoverie edition, Moscow, 1898, fol. 8 verso.
+168. *Tserkovne Oko* (*Устав сиречь Око церковное*), Edinoverie edition, Moscow, 1898, fol. 8 verso.
 
 169. Balsamon (13th century) perceives such a purpose in the censing of the narthex in his commentary upon Canon 2 of the Epistle of St. Dionysius of Alexandria to Basilides: *τοῦ θυμιᾶν τοὺς ἐν [recte ἔνδον] ὄντας τάφους καὶ ἁγίους*—“to cense the tombs and holy relics situated herein”; Goar, *Euchologion*, p. 23.
 
@@ -399,7 +395,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 171. Archpriest K. Kekelidze, *Liturgical Monuments*, p. 315.
 
-172. If a hierarch is present in the temple, then prior unto the All-Night Vigil the exclamation is likewise customarily made: “Master, bless” [*Владыко, благослови*].
+172. If a hierarch is present in the temple, then prior unto the All-Night Vigil the exclamation is likewise customarily made: “Master, bless” (*Владыко, благослови*).
 
 173. These analogies do not permit one to see in the exclamation a prayerful address unto God. With such a meaning for the exclamation, there would be no reason to restrict it solely unto the All-Night Vigil (as the longest and most arduous service?); it would be needed also prior unto the other services, and before the Liturgy no less than before the All-Night Vigil.
 
@@ -431,7 +427,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 187. See above, pp. 457–458. Paschal Matins according unto its most ancient rites began without an exclamation, with the singing of the troparion.
 
-188. *Order for the Consecration of a Temple Performed by a Hierarch* [*Чин освящения храма, от архиерея творимаго*], Moscow, 1891, fol. 16; *Order of Hierarchical Service* [*Чин архиерейскаго священнослужения*], Moscow, 1897, fol. 156. The same formula without "unto ages" [i.e., concluding without *во веки веков* / *in saecula saeculorum*] occurs in the order for the blessing of antiminsia cited in Goar, *Euchologion*, p. 517. But in the ancient orders for the consecration of temples published by A. Dmitrievsky (*Description of Liturgical Manuscripts Preserved in the Libraries of the Orthodox East*, vol. II: *Euchologia* [*Εὐχολόγια*], Kyiv, 1901), such an exclamation is not encountered.
+188. *Order for the Consecration of a Temple Performed by a Hierarch* (*Чин освящения храма, от архиерея творимаго*), Moscow, 1891, fol. 16; *Order of Hierarchical Service* (*Чин архиерейскаго священнослужения*), Moscow, 1897, fol. 156. The same formula without "unto ages" (*i.e., concluding without *во веки веков* / *in saecula saeculorum*) occurs in the order for the blessing of antiminsia cited in Goar, *Euchologion*, p. 517. But in the ancient orders for the consecration of temples published by A. Dmitrievsky (*Description of Liturgical Manuscripts Preserved in the Libraries of the Orthodox East*, vol. II: *Euchologia* [*Εὐχολόγια*], Kyiv, 1901), such an exclamation is not encountered.
 
 189. Manuscript of the Moscow Typographical Library No. 285/142/1206, fol. 10.
 
@@ -441,7 +437,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 192. Typikon of the Shiomghvime Monastery according unto a 13th-century manuscript; Archpriest K. Kekelidze, *Liturgical Monuments*, p. 316.
 
-193. 13th-century manuscript of the Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 2; Greek manuscript of the Moscow Synodal Library No. 381, fol. 1 (but on fol. 12 “and Life-creating” [*Животворящей*] is in the margin).
+193. 13th-century manuscript of the Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 2; Greek manuscript of the Moscow Synodal Library No. 381, fol. 1 (but on fol. 12 “and Life-creating” (*Животворящей*) is in the margin).
 
 194. 14th-century manuscript of the Moscow Synodal Library No. 328/383, fols. 3 and 198 verso.
 
@@ -459,13 +455,13 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 201. Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 177.
 
-202. Bishop Vissarion, *Vespers: Two Public Lectures* [*Вечерня. 2 публ. чтения*], 2nd ed., Moscow, 1891, p. 20.
+202. Bishop Vissarion, *Vespers: Two Public Lectures* (*Вечерня. 2 публ. чтения*), 2nd ed., Moscow, 1891, p. 20.
 
 203. Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 177.
 
 204. Symeon of Thessalonica, *On Divine Prayer*, ch. 331 (296).
 
-205. Ascribed unto David by the LXX translators (Psalm 102 [103]— also by the Hebrew Bible) and entitled in the Slavonic Bible: “Concerning the creation of the world” [*о мирстем бытии*].
+205. Ascribed unto David by the LXX translators (Psalm 102 [103]— also by the Hebrew Bible) and entitled in the Slavonic Bible: “Concerning the creation of the world” (*о мирстем бытии*).
 
 206. Bishop Vissarion, *Vespers*, p. 22.
 
@@ -475,7 +471,7 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 209. That the utility of the rivers for mankind is not indicated is pure Palestinian coloring (H. Gunkel, *Ausgewählte Psalmen*, p. 176).
 
-210. “Rocks” [*Камений*], *petra* (*πέτρα*)—a cliff [in Hebrew: "among the branches"]. “Upon them” [*На тых*]—upon those, that is, upon the springs.
+210. “Rocks” (*Камений*), *petra* (*πέτρα*)—a cliff [in Hebrew: "among the branches"]. “Upon them” (*На тых*)—upon those, that is, upon the springs.
 
 211. In Hebrew a specific tree is named, most likely a cypress or fir.
 
@@ -511,11 +507,11 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 226. Citations—see above, p. 500.
 
-227. Archpriest K. Fomenko, *Peculiarities of the Divine Worship of the Greek Church* [*Особенности богослужения греческой Церкви*]; *Proceedings of the Kyiv Theological Academy* [*Труды Киев. Дух. Акад.*], 1895, vol. 1, p. 151.
+227. Archpriest K. Fomenko, *Peculiarities of the Divine Worship of the Greek Church* (*Особенности богослужения греческой Церкви*); *Proceedings of the Kyiv Theological Academy* (*Труды Киев. Дух. Акад.*), 1895, vol. 1, p. 151.
 
 228. Most likely because it was read at ancient Vespers after *Lord, I have cried*, and at this place in ancient Vespers stood the Great Litany; prior unto *Lord, I have cried* there were three antiphons with Little Litanies (see Archpriest K. Kekelidze, *Liturgical Georgian Monuments*, p. 144).
 
-229. “Who hast pledged [κοαεγγυήσας, recte κατεγγυήσας] unto us the promised Kingdom,” that is, Who hast pledged as surety; “who hast guided us by the promised good things,” *διὰ τῶν ἤδη κεхаρισμένων ἀγαθῶν ὁδοποιήσας ἡμῖν*, that is, guiding us unto the Kingdom through the good things already bestowed; thus according unto the Greek text in Goar, *Euchologion*, p. 29; in the Slavonic, “by the promised” [*обещанными*] is an inexact translation, and the punctuation marks are improperly arranged.
+229. “Who hast pledged [κοαεγγυήσας, recte κατεγγυήσας] unto us the promised Kingdom,” that is, Who hast pledged as surety; “who hast guided us by the promised good things,” *διὰ τῶν ἤδη κεχαρισμένων ἀγαθῶν ὁδοποιήσας ἡμῖν*, that is, guiding us unto the Kingdom through the good things already bestowed; thus according unto the Greek text in Goar, *Euchologion*, p. 29; in the Slavonic, “by the promised” (*обещанными*) is an inexact translation, and the punctuation marks are improperly arranged.
 
 230. Goar, *Euchologion*, p. 35.
 
@@ -529,13 +525,13 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 235. Archpriest K. Kekelidze, *Liturgical Georgian Monuments*, p. 164.
 
-236. Fols. 1–3; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior unto the Sixteenth Century* [*Порядок общественнаго и частнаго богослужения в древней России...*], St. Petersburg, 1881, p. 91.
+236. Fols. 1–3; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior unto the Sixteenth Century* (*Порядок общественнаго и частнаго богослужения в древней России...*), St. Petersburg, 1881, p. 91.
 
-237. A. Dmitrievsky, *The Vesper Prayers* [*Вечерние молитвы*]; *Manual for Village Pastors* [*Руководство для сельских пастырей*], 1888, vol. II, pp. 494–507; vol. III, pp. 20–32.
+237. A. Dmitrievsky, *The Vesper Prayers* (*Вечерние молитвы*); *Manual for Village Pastors* (*Руководство для сельских пастырей*), 1888, vol. II, pp. 494–507; vol. III, pp. 20–32.
 
 238. *Ibid.*; manuscript fols. 54 verso–60.
 
-239. (A. Pavlov), *Russian Historical Library* [*Русская историческая библиотека*], St. Petersburg, 1880, vol. VI, part 1, col. 265.
+239. (A. Pavlov), *Russian Historical Library* (*Русская историческая библиотека*), St. Petersburg, 1880, vol. VI, part 1, col. 265.
 
 240. Manuscript of the Solovki Library in the Kazan Academy No. 1019 of the 15th century—9 prayers; manuscript of the Trinity-Sergius Lavra No. 218 of the 16th century, Solovki Library No. 1021 of the 15th century—10 prayers; *ibid.*, Nos. 1024–1026, 1029, 1032, Moscow Typographical Library No. 131, Moscow Synodal Library No. 615, all of the 16th century—11 prayers (A. Dmitrievsky, *Vesper Prayers*; *Manual for Village Pastors*, 1888, vol. II, pp. 500–502). There are also Sluzhebniki with 15 prayers (manuscript of the Solovki Library No. 1023), but here several morning prayers found their way into the number of vesper prayers (A. Dmitrievsky, *Vesper Prayers*; *Manual for Village Pastors*, 1888, vol. II, pp. 500–502).
 
@@ -551,13 +547,13 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 246. Phil. 4:7.
 
-247. Unto the petition “for the good estate [*εὐσταθείας*] of the Holy Churches of God” is joined the supplication “and for the union of all,” *καὶ τῆς τῶν πάντων ἑνώσεως*, in Old Church Slavonic “for the gathering together of all” [*о съвъкуплении всех*], the union—as shown by the masculine gender of *πάντων*—not of the Holy Churches of God (although in ancient texts of the litany it read: “for the union of all [*πασῶν*] the Holy Churches of God”—see below), but of all in a general sense—according unto St. Symeon of Thessalonica, “for the union of all in the right faith, love, and life well-pleasing unto God” (*On Divine Prayer*, ch. 332/296). Perhaps there is here an intentional indefiniteness, pointing unto all mankind and including, consequently, heterodox Churches (see in more detail concerning this: Z., *Concerning What Union of All Do We Pray in the Third Petition of the Great Litany?* [*О каком соединении всех молимся мы в 3-м прошении великой ектении*]; *Manual for Village Pastors*, 1910, No. 24; N. Paktov, *Toward an Explanation of the Third Petition of the Great Litany* [*К изъяснению третьего прошения великой ектении*]; *ibid.*, Nos. 36–38).
+247. Unto the petition “for the good estate [*εὐσταθείας*] of the Holy Churches of God” is joined the supplication “and for the union of all,” *καὶ τῆς τῶν πάντων ἑνώσεως*, in Old Church Slavonic “for the gathering together of all” (*о съвъкуплении всех*), the union—as shown by the masculine gender of *πάντων*—not of the Holy Churches of God (although in ancient texts of the litany it read: “for the union of all [*πασῶν*] the Holy Churches of God”—see below), but of all in a general sense—according unto St. Symeon of Thessalonica, “for the union of all in the right faith, love, and life well-pleasing unto God” (*On Divine Prayer*, ch. 332/296). Perhaps there is here an intentional indefiniteness, pointing unto all mankind and including, consequently, heterodox Churches (see in more detail concerning this: Z., *Concerning What Union of All Do We Pray in the Third Petition of the Great Litany?* (*О каком соединении всех молимся мы в 3-м прошении великой ектении*); *Manual for Village Pastors*, 1910, No. 24; N. Paktov, *Toward an Explanation of the Third Petition of the Great Litany* (*К изъяснению третьего прошения великой ектении*); *ibid.*, Nos. 36–38).
 
-248. “The diaconate in Christ” [*Во Христе диаконстве*]—the addition “in Christ” corresponds unto “honorable” [*честнем*] with “priesthood,” and at the same time defines “diaconate” (“ministry”) more closely as ecclesiastical; “the clergy” [*причте*]—*κλήρου*; “the people” [*людех*]—*λαοῦ*.
+248. “The diaconate in Christ” (*Во Христе диаконстве*)—the addition “in Christ” corresponds unto “honorable” (*честнем*) with “priesthood,” and at the same time defines “diaconate” (“ministry”) more closely as ecclesiastical; “the clergy” (*причте*)—*κλήρου*; “the people” (*людех*)—*λαοῦ*.
 
-249. “The palace” [*Палате*]—*παλατίου*, the palace (properly the Palatine Hill in Rome), the court, the government.
+249. “The palace” (*Палате*)—*παλατίου*, the palace (properly the Palatine Hill in Rome), the court, the government.
 
-250. “Those that suffer” [*Страждущих*]—*καμνόντων*, that is, those occupied with heavy toils; in ancient litanies: “for those in the mines, in imprisonment, in exile” (see below).
+250. “Those that suffer” (*Страждущих*)—*καμνόντων*, that is, those occupied with heavy toils; in ancient litanies: “for those in the mines, in imprisonment, in exile” (see below).
 
 251. John 17:1, 2, 4; Prov. 16:4; Heb. 2:10.
 
@@ -565,9 +561,9 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 253. Clement of Rome, *First Epistle to the Corinthians* 59:2, 4–61:3. In the well-known Codex Alexandrinus of the 5th century this section of the Epistle of Clement is missing; therefore it was not known until 1875, when Philotheos Bryennios discovered it in a Jerusalem manuscript.
 
-254. By this light is shed upon the original meaning of the first petitions of the Great Litany: these were petitions for that peace which is necessary for the offering of the Eucharist and of which the external expression was the kiss of peace before this offering. In the Persian-Nestorian Liturgy ascribed unto the Apostle Thaddaeus, before the prayer for the consecration of the Gifts the deacon proclaims: “In your minds pray for peace with us”; before communion: “Let us pray for our peace with one another”; after communion—the same (*Collection of Ancient Liturgies* [*Собрание древних литургий*], St. Petersburg, 1874–1878, vol. IV, pp. 22, 30, 36). In the Liturgy of Nestorius at the beginning of its “canon” the deacon proclaims: “Let us pray for our peace with one another” (*ibid.*, p. 47). In the Gallican and Mozarabic Liturgies instead of this the priest or deacon says: “Give peace unto one another.” The choir: “My peace I give unto you” thrice with the refrain of the Minor Doxology, and then the priest: “Give the kiss of love and peace, that ye may be prepared for the Holy Mysteries of God” (*ibid.*, vol. IV, pp. 106, 144).
+254. By this light is shed upon the original meaning of the first petitions of the Great Litany: these were petitions for that peace which is necessary for the offering of the Eucharist and of which the external expression was the kiss of peace before this offering. In the Persian-Nestorian Liturgy ascribed unto the Apostle Thaddaeus, before the prayer for the consecration of the Gifts the deacon proclaims: “In your minds pray for peace with us”; before communion: “Let us pray for our peace with one another”; after communion—the same (*Collection of Ancient Liturgies* (*Собрание древних литургий*), St. Petersburg, 1874–1878, vol. IV, pp. 22, 30, 36). In the Liturgy of Nestorius at the beginning of its “canon” the deacon proclaims: “Let us pray for our peace with one another” (*ibid.*, p. 47). In the Gallican and Mozarabic Liturgies instead of this the priest or deacon says: “Give peace unto one another.” The choir: “My peace I give unto you” thrice with the refrain of the Minor Doxology, and then the priest: “Give the kiss of love and peace, that ye may be prepared for the Holy Mysteries of God” (*ibid.*, vol. IV, pp. 106, 144).
 
-255. *Collection of Ancient Liturgies*, vol. III, pp. 95–101; compare Bishop Porphyrius Uspensky, *The Christian East: Divine Worship of the Abyssinians* [*Восток христианский. Богослужение абиссин.*], Kyiv, 1869, pp. 61 ff.
+255. *Collection of Ancient Liturgies*, vol. III, pp. 95–101; compare Bishop Porphyrius Uspensky, *The Christian East: Divine Worship of the Abyssinians* (*Восток христианский. Богослужение абиссин.*), Kyiv, 1869, pp. 61 ff.
 
 256. *Collection of Ancient Liturgies*, vol. III, pp. 55–63.
 
@@ -581,13 +577,13 @@ ff., 33 ff., 39 ff.). In both Horologia there is a special office, close unto th
 
 261. F. E. Brightman, *Liturgies Eastern and Western*, Oxford, 1896, p. 160.
 
-262. I. Karabinov, *The Eucharistic Prayer (Anaphora)* [*Евхаристическая молитва (анафора)*], St. Petersburg, 1908, p. 154. The same petitions, and in an order close unto the Greek manuscripts of the Liturgy of the Apostle Mark, only in a more extensive form, conclude the Coptic Liturgies of Basil the Great and Gregory the Theologian. Here also they alternate with priestly prayers expressed in identical words with the diaconal petitions (A. P. U. [Bishop Porphyrius Uspensky], *Doctrine, Divine Worship... of the Copts*, St. Petersburg, 1856, pp. 142, 313).
+262. I. Karabinov, *The Eucharistic Prayer (Anaphora)* (*Евхаристическая молитва (анафора)*), St. Petersburg, 1908, p. 154. The same petitions, and in an order close unto the Greek manuscripts of the Liturgy of the Apostle Mark, only in a more extensive form, conclude the Coptic Liturgies of Basil the Great and Gregory the Theologian. Here also they alternate with priestly prayers expressed in identical words with the diaconal petitions (A. P. U. [Bishop Porphyrius Uspensky], *Doctrine, Divine Worship... of the Copts*, St. Petersburg, 1856, pp. 142, 313).
 
 263. C. A. Swainson, *The Greek Liturgies*, [Cambridge, 1884], pp. 2–16; *Collection of Ancient Liturgies*, vol. III, pp. 20–30.
 
 264. According unto its most ancient manuscripts, for example in the Georgian manuscript of the Tiflis Ecclesiastical Museum No. 86 of the 10th century (Archpriest K. Kekelidze, *Liturgical Georgian Monuments*, p. 201); in later manuscripts, however, such as the Rossano Codex of the 11th century, the Liturgy of the Apostle Peter has at the beginning the Great Litany borrowed literally from the Liturgy of Basil–Chrysostom (C. A. Swainson, *The Greek Liturgies*, p. 192).
 
-265. A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточ. церкви*], Appendix, p. 63.
+265. A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточ. церкви*), Appendix, p. 63.
 
 266. *Collection of Ancient Liturgies*, vol. II, pp. 187–189.
 
@@ -641,15 +637,15 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 273. From this light is shed upon the mention of them that sail: pilgrims unto Palestine frequently traveled by sea.
 
-274. C. A. Swainson, *The Greek Liturgies*, pp. 246–252, 224, 228, 232; A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks* [*Богослужение страстной и пасхальной седмицы*], pp. 272–283.
+274. C. A. Swainson, *The Greek Liturgies*, pp. 246–252, 224, 228, 232; A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks* (*Богослужение страстной и пасхальной седмицы*), pp. 272–283.
 
-275. Archpriest Orlov, *The Liturgy of St. Basil the Great* [*Литургия св. Василия Великого*], pp. 41–50; A. Dmitrievsky, *Euchologia* [*Евхологионы*], p. 134; J. Goar, *Euchologion*, p. 52; Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургические грузинские памятники*], pp. 49, 192.
+275. Archpriest Orlov, *The Liturgy of St. Basil the Great* (*Литургия св. Василия Великого*), pp. 41–50; A. Dmitrievsky, *Euchologia* (*Евхологионы*), p. 134; J. Goar, *Euchologion*, p. 52; Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* (*Литургические грузинские памятники*), pp. 49, 192.
 
 276. Epictetus, *Enchiridion*, II, 7.
 
 277. Ps. 4:2 [MT 4:1]; 6:3 [MT 6:2]; 9:14 [MT 9:13]; 24:16 [MT 25:16]; 25:11 [MT 26:11]; 26:7 [MT 27:7]; 30:10 [MT 31:9]; 40:5, 11 [MT 41:4, 10]; 55:2 [MT 56:1]; 56:2 [MT 57:1]; 85:3 [MT 86:3], etc. Cf. Matt. 9:27; 15:22; 17:14; 20:30; Mark 10:47; Luke 16:24; 17:13; 18:38–39; J. B. Lüft, *Liturgik*, Mainz, 1844, II, p. 69.
 
-278. It is possible that the original forms of the acclamation were, as occasionally in the Armenian Liturgy: “Save, O Lord,” “Save, O Lord, and have mercy,” and as in the Malabar Liturgy: “Our Lord, have mercy upon us” (*Collection of Ancient Liturgies*, II, 193, 199; A. Petrovsky, *Apostolic Liturgies* [*Апостольские литургии*], Appendix, p. 63).
+278. It is possible that the original forms of the acclamation were, as occasionally in the Armenian Liturgy: “Save, O Lord,” “Save, O Lord, and have mercy,” and as in the Malabar Liturgy: “Our Lord, have mercy upon us” (*Collection of Ancient Liturgies*, II, 193, 199; A. Petrovsky, *Apostolic Liturgies* (*Апостольские литургии*), Appendix, p. 63).
 
 279. St. Augustine, *Epistle* 178.
 
@@ -667,7 +663,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 286. 1 Pet. 5:11 according unto certain codices.
 
-287. 1 Tim. 1:17; 1 Pet. 4:11; Rev. 1:6; 1 Tim. 6:16. “Glory and dominion” is the customary concluding doxology also in the Euchologion attributed unto Serapion, Bishop of Thmuis, of the 4th century (A. Dmitrievsky, *The 4th-Century Euchologion of Serapion, Bishop of Thmuis* [*Евхологий IV в. Серапиона, еп. Тмуитского*], Kyiv, 1894).
+287. 1 Tim. 1:17; 1 Pet. 4:11; Rev. 1:6; 1 Tim. 6:16. “Glory and dominion” is the customary concluding doxology also in the Euchologion attributed unto Serapion, Bishop of Thmuis, of the 4th century (A. Dmitrievsky, *The 4th-Century Euchologion of Serapion, Bishop of Thmuis* (*Евхологий IV в. Серапиона, еп. Тмуитского*), Kyiv, 1894).
 
 288. *First Epistle of Clement of Rome*, 20:12; 61:3; *Teaching of the Twelve Apostles* [*Didache*], 8:3; 9:3; 10:3; *Apostolic Constitutions*, VIII, 11, 20.
 
@@ -681,7 +677,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 293. C. A. Swainson, *The Greek Liturgies*, pp. 220, 222, 228, 246, 266, 302.
 
-294. F. X. Funk, *Didascalia et Constitutiones Apostolorum*, Paderborn, 1905, II, p. 189. — Akin unto our exclamations, only far more extensive, is the concluding doxology at the Jewish Paschal supper: “For unto Thee, O Lord our God and God of our fathers, appertaineth song, praise, glory, hymn, dominion, sovereignty, honor, majesty, hallowing, kingdom, blessing, and thanksgiving from henceforth and unto the ages” (I. Karabinov, *The Eucharistic Prayer* [*Евхаристическая молитва*], p. 5). Cf. 1 Chron. 29:11.
+294. F. X. Funk, *Didascalia et Constitutiones Apostolorum*, Paderborn, 1905, II, p. 189. — Akin unto our exclamations, only far more extensive, is the concluding doxology at the Jewish Paschal supper: “For unto Thee, O Lord our God and God of our fathers, appertains song, praise, glory, hymn, dominion, sovereignty, honor, majesty, hallowing, kingdom, blessing, and thanksgiving from henceforth and unto the ages” (I. Karabinov, *The Eucharistic Prayer* (*Евхаристическая молитва*), p. 5). Cf. 1 Chron. 29:11.
 
 295. 1 Tim. 2:1.
 
@@ -707,15 +703,15 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 306. Capitulary of Charlemagne of the year 801, ch. 1.
 
-307. It is thought that this removal was made originally in the Papal States, where the Pope was likewise sovereign, and was disseminated during the Reformation era when kings began to embrace it. Yet the commemoration of the king was preserved in entirely Catholic lands. The Council of Prague of 1605 requireth “always to preserve and sacredly observe the ancient and laudable custom of our Church—to pray during the celebration of the Liturgy for the Pope, the Primate, the King, and the Queen” (canon 19).
+307. It is thought that this removal was made originally in the Papal States, where the Pope was likewise sovereign, and was disseminated during the Reformation era when kings began to embrace it. Yet the commemoration of the king was preserved in entirely Catholic lands. The Council of Prague of 1605 requires “always to preserve and sacredly observe the ancient and laudable custom of our Church—to pray during the celebration of the Liturgy for the Pope, the Primate, the King, and the Queen” (canon 19).
 
 308. J. B. Lüft, *Liturgik*, II, pp. 58–61.
 
-309. C. A. Swainson, *The Greek Liturgies*, pp. 32, 284; *Collection of Ancient Liturgies*, p. 216; Bishop Porphyrius [Uspensky], *Doctrine and Divine Worship of the Copts* [*Вероучение, богослужение... коптов*], pp. 142, 196, 214; *Divine Services of the Abyssinians* [*Богослужение абиссин*], pp. 52, 61, 66; A. Petrovsky, *Apostolic Liturgies* [*Апостольские литургии*], p. 75.
+309. C. A. Swainson, *The Greek Liturgies*, pp. 32, 284; *Collection of Ancient Liturgies*, p. 216; Bishop Porphyrius [Uspensky], *Doctrine and Divine Worship of the Copts* (*Вероучение, богослужение... коптов*), pp. 142, 196, 214; *Divine Services of the Abyssinians* (*Богослужение абиссин*), pp. 52, 61, 66; A. Petrovsky, *Apostolic Liturgies* (*Апостольские литургии*), p. 75.
 
 310. Greek MS of the Moscow Rumiantsev Museum, Sevastianov Collection No. 491/35 of the 13th century, fol. 2v; Moscow Synodal Library No. 381 of the 13th–14th century, fol. 1; Slavonic MS of the Moscow Synodal Library No. 328/383 of the 14th century, fol. 3; No. 678/386 of the 15th century, fol. 5v.
 
-311. *Typikon* [Τυπικόν], Venice [Βενετία], 1643, fol. 2; Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургические грузинские памятники*], p. 316.
+311. *Typikon* [Τυπικόν], Venice [Βενετία], 1643, fol. 2; Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* (*Литургические грузинские памятники*), p. 316.
 
 312. MS of the Museum of the Kyiv Theological Academy, Aa 194, p. 21; Old Believer Typikon, fol. 5v (10).
 
@@ -725,7 +721,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 315. *Breviarium Romanum*, *pars verna*, pp. 339–340, 344.
 
-316. Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church* [*Пособие к изучению устава богослужения...*], St. Petersburg, p. 191.
+316. Archpriest K. Nikolsky, *Manual for the Study of the Typikon of Divine Worship of the Orthodox Church* (*Пособие к изучению устава богослужения...*), St. Petersburg, p. 191.
 
 317. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 316; MSS of the Moscow Synodal Library No. 328/383, fol. 3; No. 329/384, fol. 14; No. 678/386, fol. 5; Museum of the Kyiv Theological Academy, Aa 194, p. 21.
 
@@ -747,17 +743,17 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 326. St. John of Damascus, *Exact Exposition of the Orthodox Faith* [*De Fide Orthodoxa*], IV, 23.
 
-327. Archimandrite (Archbishop) Modest [Strelbitsky], *On the Church Octoechos* [*О церковном Октоихе*], Vilna, 1865, p. 28.
+327. Archimandrite (Archbishop) Modest [Strelbitsky], *On the Church Octoechos* (*О церковном Октоихе*), Vilna, 1865, p. 28.
 
 328. J. B. Pitra, *Juris ecclesiastici Graecorum historia et monumenta*, Rome, 1868, II, p. 209.
 
 329. MSS of the Moscow Synodal Typography Library No. 285/142/1206, fol. 21v; Moscow Synodal Library No. 330/380, fol. 260; No. 336/388, fol. 350; Old Believer Typikon, fol. 5v (10v). In the MS of the Moscow Theological Academy Library No. 137 of the Old Believer [Raskolnik] department, these refrains are set to musical notation.
 
-330. Matt. 5:17; Archbishop Benjamin (Krasnopevkov-Rumovsky), *The New Tablet* [*Новая скрижаль*], in 4 parts, St. Petersburg, 1858, part I, p. 14.
+330. Matt. 5:17; Archbishop Benjamin (Krasnopevkov-Rumovsky), *The New Tablet* (*Новая скрижаль*), in 4 parts, St. Petersburg, 1858, part I, p. 14.
 
 331. St. Gregory the Theologian, *Poem 33*; Polychronius, *On Job*, Preface; St. Epiphanius of Salamis, *On Weights and Measures* [*De mensuris et ponderibus*]; St. Amphilochius of Iconium, *Iambics to Seleucus* [*Iambi ad Seleucum*]; St. John of Damascus, *Exact Exposition of the Orthodox Faith*, IV, 18.
 
-332. I. Karabinov, *The Lenten Triodion* [*Постная Триодь*], St. Petersburg, 1910, p. 71.
+332. I. Karabinov, *The Lenten Triodion* (*Постная Триодь*), St. Petersburg, 1910, p. 71.
 
 333. A. Papadopoulos-Kerameus, *Analecta of Jerusalem Gleanings* [᾿Ανάλεκτα ἱεροσολυμιτικῆς σταχυολογίας], St. Petersburg, 1894, II, p. 119.
 
@@ -783,11 +779,11 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 344. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 316; MS of the Moscow Rumiantsev Museum, Sevastianov Collection No. 491/35, fol. 3.
 
-345. Typikon of San Nicola di Casole [Николо-Касулянский Типикон], ch. 12. The biographer of St. John of Damascus stateth concerning him that he set the beginning of his first book with the words “Thy victorious right hand” [*Cheti-Minei*, December 4]. A certain Slavonic MS attributeth unto St. John of Damascus not the Octoechos, but only the Heirmologion (Archbishop Philaret [Gumilevsky], *Historical Survey of the Hymnographers and Hymnody of the Greek Church* [*Исторический обзор песнопевцев и песнопения греческой Церкви*], Chernihiv, 1864, p. 261).
+345. Typikon of San Nicola di Casole (*Николо-Касулянский Типикон*), ch. 12. The biographer of St. John of Damascus states concerning him that he set the beginning of his first book with the words “Thy victorious right hand” [*Cheti-Minei*, December 4]. A certain Slavonic MS attributes unto St. John of Damascus not the Octoechos, but only the Heirmologion (Archbishop Philaret [Gumilevsky], *Historical Survey of the Hymnographers and Hymnody of the Greek Church* (*Исторический обзор песнопевцев и песнопения греческой Церкви*), Chernihiv, 1864, p. 261).
 
-346. Only the Octoechos in chapter 4 in the text calleth them “the creation of Anatolius” [*творение Анатолиево*].
+346. Only the Octoechos in chapter 4 in the text calls them “the creation of Anatolius” (*творение Анатолиево*).
 
-347. V. P-sky [Petrovsky], “On the Author of the Sunday and Other Stichera Termed in Slavonic Liturgical Books ‘Eastern’ or Anatolian” [*Об авторе воскресных и др. стихир, называемых в слав. богосл. книгах «восточными» или Анатолиевыми*], *Rukovodstvo dlia selskikh pastyrei*, 1894, I, p. 222.
+347. V. P-sky [Petrovsky], “On the Author of the Sunday and Other Stichera Termed in Slavonic Liturgical Books ‘Eastern’ or Anatolian” (*Об авторе воскресных и др. стихир, называемых в слав. богосл. книгах «восточными» или Анатолиевыми*), *Rukovodstvo dlia selskikh pastyrei*, 1894, I, p. 222.
 
 348. Archbishop Philaret [Gumilevsky], *Historical Survey of the Hymnographers and Hymnody of the Greek Church*, Chernihiv, 1864, p. 193.
 
@@ -795,7 +791,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 350. A. Dmitrievsky, *Typika*, pp. 800, 607; MS of the Moscow Synodal Library No. 330/380, fols. 3v, 9v, 12.
 
-351. Thus is it proposed in V. Rozanov, *Typikon of Divine Worship of the Orthodox Church* [*Богослужебный устав Православной Церкви*], Moscow, 1902, p. 59.
+351. Thus is it proposed in V. Rozanov, *Typikon of Divine Worship of the Orthodox Church* (*Богослужебный устав Православной Церкви*), Moscow, 1902, p. 59.
 
 352. Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 204.
 
@@ -825,9 +821,9 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 365. The connection of Vespers with the agape; cf. also Introductory Chapter, pp. 85–86.
 
-366. In the Typikon it is stated: “having traced a cross with the censer” [*начертав крест с кадильницею*]; this is too literal a translation of the Greek *μετὰ τοῦ θυμιάματος*: *μετά* signifieth only the instrument of the action (I. Mansvetov, *Church Typikon* [*Церковный устав*], p. 344).
+366. In the Typikon it is stated: “having traced a cross with the censer” (*начертав крест с кадильницею*); this is too literal a translation of the Greek *μετὰ τοῦ θυμιάματος*: *μετά* signifies only the instrument of the action (I. Mansvetov, *Church Typikon* (*Церковный устав*), p. 344).
 
-367. In greater detail, with additions unto the Typikon and Sluzhebnik established by general and local practice, the order of the entrance is set forth in the *Order of Matins, Vespers, and the Midnight Office* [*Последование утрени, вечерни и полунощницы*], published by the Kyiv-Caves Lavra in 1861 and 1884. According unto this *Order*, the deacon before the entrance censes round about the Holy Table, and the priest kisses the Holy Table; upon going forth through the North Door they proceed behind the ambo; when they halt, the deacon censes the icons and the priest, takes the censer in his left hand and the orarion in his right, and asks for the blessing of the entrance; unto the priest's blessing of the entrance the deacon responds “Amen,” censes the priest again and the choirs, and, taking his stand in the Royal Doors, awaits the completion of the Theotokion; upon entering the altar, the deacon censes the Holy Table and the High Place, while the priest kisses the Holy Table and stands at the High Place to the right of the Holy Table facing west; the deacon goes forth again through the Royal Doors, censes the people, and upon returning into the altar censes the front of the Holy Table and the priest, after which he stands at the High Place to the left of the Holy Table; here he stands with the priest unto the conclusion of the prokeimenon, making the exclamations unto it.
+367. In greater detail, with additions unto the Typikon and Sluzhebnik established by general and local practice, the order of the entrance is set forth in the *Order of Matins, Vespers, and the Midnight Office* (*Последование утрени, вечерни и полунощницы*), published by the Kyiv-Caves Lavra in 1861 and 1884. According unto this *Order*, the deacon before the entrance censes round about the Holy Table, and the priest kisses the Holy Table; upon going forth through the North Door they proceed behind the ambo; when they halt, the deacon censes the icons and the priest, takes the censer in his left hand and the orarion in his right, and asks for the blessing of the entrance; unto the priest's blessing of the entrance the deacon responds “Amen,” censes the priest again and the choirs, and, taking his stand in the Royal Doors, awaits the completion of the Theotokion; upon entering the altar, the deacon censes the Holy Table and the High Place, while the priest kisses the Holy Table and stands at the High Place to the right of the Holy Table facing west; the deacon goes forth again through the Royal Doors, censes the people, and upon returning into the altar censes the front of the Holy Table and the priest, after which he stands at the High Place to the left of the Holy Table; here he stands with the priest unto the conclusion of the prokeimenon, making the exclamations unto it.
 
 368. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 316; MSS of the Moscow Rumiantsev Museum, Sevastianov Collection No. 491/35, fol. 3; Moscow Synodal Library No. 381 (Greek), fol. 1v; No. 329/384 (Slavonic), fol. 14; Museum of the Kyiv Theological Academy, Aa 194, p. 22; Old Believer Typikon, fol. 6 (11).
 
@@ -843,11 +839,11 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 374. Pseudo-Codinus, *De officiis*, VI, 45; Balsamon, in *Syntagma* [Σύνταγμα τῶν θείων καὶ ἱερῶν κανόνων], ed. G. A. Rhalles and M. Potles, Athens, 1852–1859, IV, p. 544.
 
-375. T. Tobler, *Itinera et descriptiones Terrae Sanctae*, I, 2, p. 301; cf. A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks in the Holy City of Jerusalem in the 9th–10th Centuries* [*Богослужение страстной и пасхальной седмиц во св. Иерусалиме IX–X в.*], Kyiv, 1894, p. 98.
+375. T. Tobler, *Itinera et descriptiones Terrae Sanctae*, I, 2, p. 301; cf. A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks in the Holy City of Jerusalem in the 9th–10th Centuries* (*Богослужение страстной и пасхальной седмиц во св. Иерусалиме IX–X в.*), Kyiv, 1894, p. 98.
 
-376. Hieromonk Ambrose [Ornatsky], *History of the Russian Hierarchy* [*История российской иерархии*], Moscow, 1807, pp. 316, 830; A. Golubtsov, “Cathedral Typika (Chinowniki)” [*Соборные чиновники*], *Chteniya v Imperatorskom obshchestve istorii i drevnostei rossiiskikh*, Moscow, 1907, IV (223), pp. 251–258.
+376. Hieromonk Ambrose [Ornatsky], *History of the Russian Hierarchy* (*История российской иерархии*), Moscow, 1807, pp. 316, 830; A. Golubtsov, “Cathedral Typika (Chinowniki)” (*Соборные чиновники*), *Chteniya v Imperatorskom obshchestve istorii i drevnostei rossiiskikh*, Moscow, 1907, IV (223), pp. 251–258.
 
-377. MS of the Dresden Royal Library No. 140, fols. 132v, 21v; Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* [*Первоначальный славяно-русский Типикон*], St. Petersburg, 1911, p. 233.
+377. MS of the Dresden Royal Library No. 140, fols. 132v, 21v; Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* (*Первоначальный славяно-русский Типикон*), St. Petersburg, 1911, p. 233.
 
 378. MS of the Moscow Synodal Library No. 330/380, fols. 1, 3v.
 
@@ -855,26 +851,26 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 380. *Stoglav*, St. Petersburg, D. E. Kozhanchikov ed., 1863, p. 142; A. Golubtsov, *Cathedral Typika (Chinowniki)*, pp. 127–144.
 
-381. In the Roman Catholic Church even now there is something analogous unto our entrances, while in certain ancient rites of the Latin Liturgy there was an entrance entirely according unto our order. Thus, in the Gallican Liturgy at the very beginning after the “introit,” at the Canticle of Zechariah, “the priest, representing Christ coming into the world, appeareth before the congregation, preceded by the deacon bearing the Gospel and ministers carrying lights, in token of the Gospel light brought into the world by Jesus Christ.” In like manner in this liturgy there are carried from the side altar unto the high altar by the deacon the paten [*patena*, diskos] with the bread, and by the priest the chalice with the wine before the consecration of the Gifts (*Collection of Ancient Liturgies*, IV, 102). In the current Roman rite of the Mass, unto our Little Entrance there correspondeth at its beginning the so-called *introitus* (“entrance”), consisting of an antiphon and psalm proper unto each feast, during which the priest, after incensing the altar, approacheth from its right side unto the center with hands folded upon his breast, having previously made a bow of the head unto the cross. Unto the Great Entrance in the Roman Catholic Mass there correspondeth the carrying before the Mass of the chalice and other Eucharistic vessels from the sacristy unto the altar, preceded by an acolyte with the Missal at the ringing of a bell.
+381. In the Roman Catholic Church even now there is something analogous unto our entrances, while in certain ancient rites of the Latin Liturgy there was an entrance entirely according unto our order. Thus, in the Gallican Liturgy at the very beginning after the “introit,” at the Canticle of Zechariah, “the priest, representing Christ coming into the world, appears before the congregation, preceded by the deacon bearing the Gospel and ministers carrying lights, in token of the Gospel light brought into the world by Jesus Christ.” In like manner in this liturgy there are carried from the side altar unto the high altar by the deacon the paten [*patena*, diskos] with the bread, and by the priest the chalice with the wine before the consecration of the Gifts (*Collection of Ancient Liturgies*, IV, 102). In the current Roman rite of the Mass, unto our Little Entrance there corresponds at its beginning the so-called *introitus* (“entrance”), consisting of an antiphon and psalm proper unto each feast, during which the priest, after incensing the altar, approaches from its right side unto the center with hands folded upon his breast, having previously made a bow of the head unto the cross. Unto the Great Entrance in the Roman Catholic Mass there corresponds the carrying before the Mass of the chalice and other Eucharistic vessels from the sacristy unto the altar, preceded by an acolyte with the Missal at the ringing of a bell.
 
-382. “God” appertaineth unto the whole Holy Trinity. In the Typikon of MS Moscow Synodal Library No. 329/384, fol. 29: “O God” [*Боже*].
+382. “God” appertains unto the whole Holy Trinity. In the Typikon of MS Moscow Synodal Library No. 329/384, fol. 29: “O God” (*Боже*).
 
 383. According unto the expression in Pliny's epistle; see Introductory Chapter, p. 49.
 
-384. In the same MS: “giving life unto all the world, for Whose sake all the world glorifieth Thee.”
+384. In the same MS: “giving life unto all the world, for Whose sake all the world glorifies Thee.”
 
-385. Apparently, the germ of the hymn *“O Joyous Light”* [*Свете тихий / Phos Hilaron*] is given in a certain prayer of the *Egyptian Church Order* (see Introductory Chapter, p. 72) in its Ethiopic recension; therein is found the following section:
-“Rule concerning the bringing in of the lamp at Vespers in the assembly. When evening is come, the deacon bringeth in the lamp (cf. the entrance). The bishop greeteth the assembly: *The Lord be with you all.* The people answer: *And with thy spirit* (cf. now *“Peace be unto all”* after the entrance). The bishop: *Let us give thanks unto the Lord.* The people: *It is meet* (cf.: *“Thou art worthy”*) *and right, majesty and praise be unto Him* (cf. Introductory Chapter, p. 125). But he ought not to say: *Lift up your hearts*; for this is said only at the Oblation. The bishop: *We thank Thee, O God, through Thy Son, our Lord Jesus Christ, that Thou hast enlightened us by the revelation of the immaterial Light. Having finished the length of the day and reached the beginning of the night, having been satisfied with the light of day which Thou didst create for our contentment, we now lack not evening light by Thy mercy. We sanctify and glorify Thee through Thine only-begotten Son, our Lord Jesus Christ, through Whom and with Whom unto Thee be glory and might and honor now...*” (I. Karabinov, *The Eucharistic Prayer*, p. 15).
+385. Apparently, the germ of the hymn *“O Joyous Light”* (*Свете тихий / Phos Hilaron*) is given in a certain prayer of the *Egyptian Church Order* (see Introductory Chapter, p. 72) in its Ethiopic recension; therein is found the following section:
+“Rule concerning the bringing in of the lamp at Vespers in the assembly. When evening is come, the deacon brings in the lamp (cf. the entrance). The bishop greets the assembly: *The Lord be with you all.* The people answer: *And with thy spirit* (cf. now *“Peace be unto all”* after the entrance). The bishop: *Let us give thanks unto the Lord.* The people: *It is meet* (cf.: *“Thou art worthy”*) *and right, majesty and praise be unto Him* (cf. Introductory Chapter, p. 125). But he ought not to say: *Lift up your hearts*; for this is said only at the Oblation. The bishop: *We thank Thee, O God, through Thy Son, our Lord Jesus Christ, that Thou hast enlightened us by the revelation of the immaterial Light. Having finished the length of the day and reached the beginning of the night, having been satisfied with the light of day which Thou didst create for our contentment, we now lack not evening light by Thy mercy. We sanctify and glorify Thee through Thine only-begotten Son, our Lord Jesus Christ, through Whom and with Whom unto Thee be glory and might and honor now...*” (I. Karabinov, *The Eucharistic Prayer*, p. 15).
 
 386. St. Basil the Great, *To Amphilochius on the Holy Spirit*, 29, 73.
 
-387. Archbishop Philaret [Gumilevsky], *Historical Survey of the Hymnographers and Hymnody of the Greek Church*, Chernihiv, 1864, p. 73; Archbishop Sergius (Spassky), *Complete Menologion of the East* [*Полный месяцеслов Востока*], in 2 vols., Vladimir, 1901–1902, vol. II, p. 273.
+387. Archbishop Philaret [Gumilevsky], *Historical Survey of the Hymnographers and Hymnody of the Greek Church*, Chernihiv, 1864, p. 73; Archbishop Sergius (Spassky), *Complete Menologion of the East* (*Полный месяцеслов Востока*), in 2 vols., Vladimir, 1901–1902, vol. II, p. 273.
 
 388. MS of the Moscow Synodal Library No. 330/380, fols. 251–253.
 
 389. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 316; MS of the Moscow Rumiantsev Museum, Sevastianov Collection No. 491/35, fol. 3; Moscow Synodal Library No. 381, fol. 2; *Typikon* [Τυπικόν], Venice, 1643, fol. 2v.
 
-390. No. 518, fol. 2v; No. 524, fol. 62v; N. Odintsov, *Public and Private Divine Worship in Ancient Russia prior to the 16th Century* [*Общественное и частное богослужение в древней России до XVI в.*], p. 91.
+390. No. 518, fol. 2v; No. 524, fol. 62v; N. Odintsov, *Public and Private Divine Worship in Ancient Russia prior to the 16th Century* (*Общественное и частное богослужение в древней России до XVI в.*), p. 91.
 
 391. MS of the Moscow Synodal Library No. 328/383 of the 14th century, fol. 3.
 
@@ -908,7 +904,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 406. First Council of Braga [Concilium Bracarense I], Canon 21.
 
-407. C. A. Swainson, *The Greek Liturgies*, p. 193; P. Syrku, *On the History of the Revision of Books in Bulgaria* [*К истории исправления книг в Болгарии*], II, p. 223.
+407. C. A. Swainson, *The Greek Liturgies*, p. 193; P. Syrku, *On the History of the Revision of Books in Bulgaria* (*К истории исправления книг в Болгарии*), II, p. 223.
 
 408. C. A. Swainson, *The Greek Liturgies*, p. 226, and elsewhere.
 
@@ -938,15 +934,15 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 421. “Glory to God in the highest” was chanted at certain ancient liturgies, and is chanted at present in the Roman Mass; cf. among us before the Liturgy.
 
-422. The designation of this litany as the “augmented” [*сугубая*, *ektene*] is not in use in liturgical books and is not entirely accurate, yet for clarity and brevity it is convenient.
+422. The designation of this litany as the “augmented” (*сугубая*, *ektene*) is not in use in liturgical books and is not entirely accurate, yet for clarity and brevity it is convenient.
 
-423. In ancient monuments it was termed simply the litany [*ektenes* / ἐκтеνής], whereas the Great Litany was called *synapte* [συναпτή], and the Litany of Supplication *aiteseis* [αἰτήσεις, petitions]. So, for example, in the Evergetis Typikon (A. Dmitrievsky, *Typika*, p. 607). The name *ektenes* is correctly translated into Slavonic as “diligent supplication” [*прилежное моление*]; in the Liturgy of St. Mark the Evangelist before the words of institution concerning the Body the deacon proclaims: *ekteinate* [ἐκτείνατε, “pray fervently”], before the words concerning the Blood: *eti ekteinate* [ἔτι ἐκτείνατε, “pray yet more fervently”] (C. A. Swainson, *The Greek Liturgies*, p. 52).
+423. In ancient monuments it was termed simply the litany [*ektenes* / ἐκτενής], whereas the Great Litany was called *synapte* [συναπτή], and the Litany of Supplication *aiteseis* [αἰτήσεις, petitions]. So, for example, in the Evergetis Typikon (A. Dmitrievsky, *Typika*, p. 607). The name *ektenes* is correctly translated into Slavonic as “diligent supplication” (*прилежное моление*); in the Liturgy of St. Mark the Evangelist before the words of institution concerning the Body the deacon proclaims: *ekteinate* [ἐκτείνατε, “pray fervently”], before the words concerning the Blood: *eti ekteinate* [ἔτι ἐκτείνατε, “pray yet more fervently”] (C. A. Swainson, *The Greek Liturgies*, p. 52).
 
 424. St. Symeon of Thessalonica, *On the Divine Prayer*, ch. 338 (302).
 
 425. In the Slavonic text, the words of the Greek appear to have been transposed.
 
-426. *Kopiaō* [κοпιάω]—to labor unto exhaustion (Matt. 6:28). Thus were the gravediggers [copiatae / κοпιαταί] called, of whom Constantine the Great formed a special corporation, exempt from taxes and subject unto ecclesiastical authority, and consequently a certain order of the clergy. Hardly are they meant here and placed prior unto the chanters because they were higher than they (Archbishop Benjamin [Krasnopevkov-Rumovsky], *The New Tablet*, in 4 parts, St. Petersburg, 1858, p. 26); rather, the manual laborers of the monastery are meant here, and they are placed prior unto the chanters on account of the arduousness of their service.
+426. *Kopiaō* [κοπιάω]—to labor unto exhaustion (Matt. 6:28). Thus were the gravediggers [copiatae / κοπιαταί] called, of whom Constantine the Great formed a special corporation, exempt from taxes and subject unto ecclesiastical authority, and consequently a certain order of the clergy. Hardly are they meant here and placed prior unto the chanters because they were higher than they (Archbishop Benjamin [Krasnopevkov-Rumovsky], *The New Tablet*, in 4 parts, St. Petersburg, 1858, p. 26); rather, the manual laborers of the monastery are meant here, and they are placed prior unto the chanters on account of the arduousness of their service.
 
 427. C. A. Swainson, *The Greek Liturgies*, p. 229.
 
@@ -954,7 +950,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 429. A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks*, p. 264; *Euchologia*, p. 133.
 
-430. The petition “for them that bear fruit” [*о плодоносящих*], not encountered in the earlier monuments of the Augmented Litany, arose from a special litany—the “prayer of fruit-bearing” [εὐχὴ καρпоφορίας], appointed in the Liturgy of St. James the Apostle after the *Our Father* and *Holy things unto the holy* (the later copies of the Liturgy of St. James, e.g. Paris 14th century, no longer have this litany), containing a supplication for “them that have brought fruits” [καρпоφορησάντων], wherein those who brought bread and wine for the Eucharist are intended (in antiquity, perhaps also other provisions for the agape). This litany contained 1–3 petitions—for the archbishop, clergy, and people (Messina, Rossano, and Sinai MSS), and together with or in place of this (Paris 14th century) for help unto all the afflicted (“for every soul that is in sorrow,” or the like) and for the repose of the departed; and then, either after or between these petitions (in the Messina and Sinai MSS and the Holy Sepulchre *Order of Passion and Paschal Weeks* of the 9th–12th centuries), also a petition for them that brought fruits in such forms: “For them that have brought oblations this day, that they may receive protection, remission, and participation in eternal life having ineffably ended their course [?], let us pray” (Jerusalem *Order*); “Again for the salvation and remission of sins of our brother who hath brought an offering” (Messina); “For the health, salvation, and remission of the sins of the servants of God, N. and N., who have brought fruits this day” (Sinai) (C. A. Swainson, *The Greek Liturgies*, p. 312; A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks in Jerusalem in the 9th–10th Centuries*, pp. 30, 284).
+430. The petition “for them that bear fruit” (*о плодоносящих*), not encountered in the earlier monuments of the Augmented Litany, arose from a special litany—the “prayer of fruit-bearing” [εὐχὴ καρποφορίας], appointed in the Liturgy of St. James the Apostle after the *Our Father* and *Holy things unto the holy* (the later copies of the Liturgy of St. James, e.g. Paris 14th century, no longer have this litany), containing a supplication for “them that have brought fruits” [καρποφορησάντων], wherein those who brought bread and wine for the Eucharist are intended (in antiquity, perhaps also other provisions for the agape). This litany contained 1–3 petitions—for the archbishop, clergy, and people (Messina, Rossano, and Sinai MSS), and together with or in place of this (Paris 14th century) for help unto all the afflicted (“for every soul that is in sorrow,” or the like) and for the repose of the departed; and then, either after or between these petitions (in the Messina and Sinai MSS and the Holy Sepulchre *Order of Passion and Paschal Weeks* of the 9th–12th centuries), also a petition for them that brought fruits in such forms: “For them that have brought oblations this day, that they may receive protection, remission, and participation in eternal life having ineffably ended their course (?), let us pray” (Jerusalem *Order*); “Again for the salvation and remission of sins of our brother who hath brought an offering” (Messina); “For the health, salvation, and remission of the sins of the servants of God, N. and N., who have brought fruits this day” (Sinai) (C. A. Swainson, *The Greek Liturgies*, p. 312; A. Dmitrievsky, *Divine Services of Passion and Paschal Weeks in Jerusalem in the 9th–10th Centuries*, pp. 30, 284).
 
 431. A. Dmitrievsky, *Euchologia*, p. 84.
 
@@ -962,7 +958,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 433. In full the petition in the indicated Sluzhebnik: “[Unto] the Lord God the voice of our prayer and to have mercy also upon us unto health and salvation...”. And then yet another petition: “Again we pray for the [brethren] in Christ” (our brotherhood?).
 
-434. Archpriest Orlov, *The Liturgy of St. Basil the Great*, pp. 88–101; A. Dmitrievsky, *Euchologia*, pp. 226, 608; *Zapiski Istoriko-filologicheskago fakulteta Imperatorskago S.-Peterburgskago universiteta*, vol. XXV, iss. 2; P. Syrku, *Liturgical Works of Patriarch Euthymius of Turnovo* [*Литургические труды патриарха Евфимия Терновского*], St. Petersburg, 1890, pp. 35, 187; *Typikon* MS of the Moscow Synodal Library No. 381, fol. 32v.
+434. Archpriest Orlov, *The Liturgy of St. Basil the Great*, pp. 88–101; A. Dmitrievsky, *Euchologia*, pp. 226, 608; *Zapiski Istoriko-filologicheskago fakulteta Imperatorskago S.-Peterburgskago universiteta*, vol. XXV, iss. 2; P. Syrku, *Liturgical Works of Patriarch Euthymius of Turnovo* (*Литургические труды патриарха Евфимия Терновского*), St. Petersburg, 1890, pp. 35, 187; *Typikon* MS of the Moscow Synodal Library No. 381, fol. 32v.
 
 435. *Sluzhebnik*, Kyiv, 1629, pp. 20–22, 134–137.
 
@@ -988,7 +984,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 446. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 144.
 
-447. N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior to the 16th Century* [*Порядок общественного и частного богослужения в древней России до XVI в.*], St. Petersburg, 1881, pp. 91, 188; cf. pp. 61, 62.
+447. N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior to the 16th Century* (*Порядок общественного и частного богослужения в древней России до XVI в.*), St. Petersburg, 1881, pp. 91, 188; cf. pp. 61, 62.
 
 448. A. Dmitrievsky, *Euchologia*, p. 162.
 
@@ -1006,9 +1002,9 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 455. “An angel of peace,” but lit. “of peace” [ἄγγελον εἰρήνης]—see below.
 
-456. “Pardon and remission” [συγγνώμην καὶ ἄφεσιν]: the first is excusing, condescension; the second is complete forgiveness; “of sins and transgressions” [ἁμαρτιῶν καὶ πλημмеλημάτων]: the first is grave sins; the second is sins of negligence, omission. See below for the ancient Slavonic translation.
+456. “Pardon and remission” [συγγνώμην καὶ ἄφεσιν]: the first is excusing, condescension; the second is complete forgiveness; “of sins and transgressions” [ἁμαρτιῶν καὶ πλημμελημάτων]: the first is grave sins; the second is sins of negligence, omission. See below for the ancient Slavonic translation.
 
-457. “Ending” [*кончины*], *ta tele* [τὰ τέλη]—in the plural number, because such an ending is petitioned for all who pray; “painless” [*безболезненны*]—*aōdyna* [ἀώδυνα], from *ōdis* [ὠδίς]—severe pain, as in childbirth; “defense” [*ответ*], *apologian* [ἀπολογίαν]—justification, legal defense; “judgment seat” [*судище*], *bēma* [βῆма]—the judge’s tribunal.
+457. “Ending” (*кончины*), *ta tele* [τὰ τέλη]—in the plural number, because such an ending is petitioned for all who pray; “painless” (*безболезненны*)—*aōdyna* [ἀώδυνα], from *ōdis* [ὠδίς]—severe pain, as in childbirth; “defense” (*ответ*), *apologian* [ἀπολογίαν]—justification, legal defense; “judgment seat” (*судище*), *bēma* [βῆμα]—the judge’s tribunal.
 
 458. The prayer for the faithful was heard kneeling.
 
@@ -1018,15 +1014,15 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 461. St. John Chrysostom, *Homily 2 on 2 Corinthians*. Perhaps here a paraphrase.
 
-462. *Collection of Ancient Liturgies* [*Собрание древних литургий*], II, p. 192.
+462. *Collection of Ancient Liturgies* (*Собрание древних литургий*), II, p. 192.
 
-463. A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточной церкви*], p. 70.
+463. A. Petrovsky, *The Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточной церкви*), p. 70.
 
-464. C. A. Swainson, *The Greek Liturgies*, pp. 234, 235; A. Dmitrievsky, *Divine Services of Passion and Paschal Week* [*Богослужение страстной и пасхальной седмицы*], p. 304.
+464. C. A. Swainson, *The Greek Liturgies*, pp. 234, 235; A. Dmitrievsky, *Divine Services of Passion and Paschal Week* (*Богослужение страстной и пасхальной седмицы*), p. 304.
 
-465. P. Syrku, *Liturgical Works of Patriarch Euthymius* [*Литургические труды патриарха Евфимия*], II, p. 194.
+465. P. Syrku, *Liturgical Works of Patriarch Euthymius* (*Литургические труды патриарха Евфимия*), II, p. 194.
 
-466. Archpriest M. I. Orlov, *The Liturgy of St. Basil the Great* [*Литургия святого Василия Великого*], pp. 153–155.
+466. Archpriest M. I. Orlov, *The Liturgy of St. Basil the Great* (*Литургия святого Василия Великого*), pp. 153–155.
 
 467. Th. Toscani, *Ad typica graecorum*, p. 52; A. Dmitrievsky, *Typika*, p. 607; MS Moscow Synodal (Typographical) Library No. 285/142/1206, fol. 18v.
 
@@ -1038,7 +1034,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 471. That is, joined with a Vigil; a litiya at Vespers that is not joined with a Vigil is indicated only on the commemorations of certain Apostles: October 18, November 14, 16, and 30.
 
-472. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* [*Новая скрижаль*], in 4 parts, St. Petersburg, 1858, Part I, p. 28.
+472. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* (*Новая скрижаль*), in 4 parts, St. Petersburg, 1858, Part I, p. 28.
 
 473. St. Symeon of Thessalonica, *On the Divine Prayer*, ch. 339 (col. 303).
 
@@ -1048,7 +1044,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 476. The exit to the litiya through the north doors with the Holy Doors closed—which are not opened at all at Vespers after the Entrance—is observed in major monasteries and cathedrals (e.g., in the Kyiv-Caves Lavra, the Dormition Cathedral) and in many Great Russian villages; but in the majority of churches the exit is made through the Holy Doors.
 
-477. The *Sluzhebnik*: “they go forth together” [*исходят вкупе*], that is, they walk side by side, not in the procession order of the Entrance. In concelebration, the deacons follow behind.
+477. The *Sluzhebnik*: “they go forth together” (*исходят вкупе*), that is, they walk side by side, not in the procession order of the Entrance. In concelebration, the deacons follow behind.
 
 478. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 317; A. Dmitrievsky, *Review of Mansvetov's "Church Typikon"*, in *Khristianskoe Chtenie*, 1888, II, p. 540.
 
@@ -1068,23 +1064,23 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 486. Royal Hours of Theophany, Ninth Hour, Sticheron 3.
 
-487. Consequently, even if the service of the temple patron saint or feast also has litiya stichera, it is not obligatory to sing a sticheron from among them here; in the Kyiv-Caves Lavra at Sunday litiya they sing “O marvelous wonder” [*О дивное чудо*] (a Dormition sticheron from *Lord, I have cried*), but in the Moscow Dormition Cathedral: “It was fitting for the eyewitnesses” [*Подобаше самовидцем*] (a litiya sticheron). In the Caves Lavra during the Paschal season: “Thy Resurrection, O Christ our Savior, the Angels hymn in the heavens” [*Воскресение Твое, Христе Спасе, Ангели поют на небеси*].
+487. Consequently, even if the service of the temple patron saint or feast also has litiya stichera, it is not obligatory to sing a sticheron from among them here; in the Kyiv-Caves Lavra at Sunday litiya they sing “O marvelous wonder” (*О дивное чудо*) (a Dormition sticheron from *Lord, I have cried*), but in the Moscow Dormition Cathedral: “It was fitting for the eyewitnesses” (*Подобаше самовидцем*) (a litiya sticheron). In the Caves Lavra during the Paschal season: “Thy Resurrection, O Christ our Savior, the Angels hymn in the heavens” (*Воскресение Твое, Христе Спасе, Ангели поют на небеси*).
 
 488. See *Typikon*, Sunday of the Publican and Pharisee, of the Prodigal Son, etc.
 
 489. See *Typikon*, Sunday of the Publican and Pharisee, of the Prodigal Son, of the Myrrh-bearers, of the Paralytic, of All Saints; but compare Meatfare and Cheesefare Sundays.
 
-490. V. Rozanov, *Liturgical Typikon of the Orthodox Church* [*Богослужебный устав Православной Церкви*], Moscow, 1902.
+490. V. Rozanov, *Liturgical Typikon of the Orthodox Church* (*Богослужебный устав Православной Церкви*), Moscow, 1902.
 
 491. For citations see p. 587, note 5.
 
-492. In the Triodion section, the same manuscripts provide even more detailed instructions concerning the litiya stichera; thus MS Moscow Synodal Library No. 328/383, 14th century, evidently written for a church dedicated to the Dormition, indicates on the Sunday of the Publican and Pharisee: “for the outgoing, a sticheron of the Theotokos”; on the Sunday of the Prodigal Son: “for the outgoing, the customary sticheron of the Theotokos, Glory: of the Triodion, Tone 4, and Now: in the same tone: Thy all-honorable Dormition” [*Всечестное Твое успение*]; on Meatfare Sunday: “and Now, Tone 5: Sing, O ye peoples” [*Воспойте людие*]; on the Sunday of the Paralytic at the litiya: “stichera of the Theotokos according to the tone, or of the Saint according to the tone; Glory: In Solomon’s Porch [*В притворе Соломони*], and Now: Sing, O ye peoples (to the Dormition)” (fols. 201, 202, 204, 254).
+492. In the Triodion section, the same manuscripts provide even more detailed instructions concerning the litiya stichera; thus MS Moscow Synodal Library No. 328/383, 14th century, evidently written for a church dedicated to the Dormition, indicates on the Sunday of the Publican and Pharisee: “for the outgoing, a sticheron of the Theotokos”; on the Sunday of the Prodigal Son: “for the outgoing, the customary sticheron of the Theotokos, Glory: of the Triodion, Tone 4, and Now: in the same tone: Thy all-honorable Dormition” (*Всечестное Твое успение*); on Meatfare Sunday: “and Now, Tone 5: Sing, O ye peoples” (*Воспойте людие*); on the Sunday of the Paralytic at the litiya: “stichera of the Theotokos according to the tone, or of the Saint according to the tone; Glory: In Solomon’s Porch (*В притворе Соломони*), and Now: Sing, O ye peoples (to the Dormition)” (fols. 201, 202, 204, 254).
 
 493. For citations see p. 587, notes 6–7; p. 588, notes 1–3.
 
 494. *Katastasis* [Κατάστασις]—establishment, stability, firmness, good order; here there may also be implied a petition for the preservation of the world from ruin and swift demise; for this Christians have prayed from antiquity; see Introductory Chapter, p. 84.
 
-495. “To be merciful and propitious” [*Милостиву и благоуветливу быти*], *hileōn, eumenē kai eudiallaktоn* [ἵλεων, εὐμενῆ καὶ εὐδιάλλακτον]; the second Greek word, “benevolent / favorably disposed” [εὐμενῆ], is not rendered in Slavonic; the third [εὐδιάλλακτον] = easily reconciled / appeasable.
+495. “To be merciful and propitious” (*Милостиву и благоуветливу быти*), *hileōn, eumenē kai eudiallakton* [ἵλεων, εὐμενῆ καὶ εὐδιάλλακτον]; the second Greek word, “benevolent / favorably disposed” [εὐμενῆ], is not rendered in Slavonic; the third [εὐδιάλλακτον] = easily reconciled / appeasable.
 
 496. Which is also read at the festal litiya of Matins and as the dismissal at Great Compline during Great Lent.
 
@@ -1102,7 +1098,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 503. So also in the 17th-century Georgian *Euchologion*, Tiflis Ecclesiastical Museum No. 448 (Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 197).
 
-504. An analogous phenomenon—an intentional inequality in the number of “Lord, have mercy” [*Господи помилуй*] on the litanies—is presented by the Studite-Alexis Typikon in the testament of the founder [*ktetor*]: “How the morning and evening litanies ought to be spoken after our death”: “When the deacon has said thus: *Let us all say earnestly*, the people answer: *Lord, have mercy* (30 times). Thereafter, when the deacon has said: *Again we pray for the pious tsars*, let them say: *Lord, have mercy* (3 times). And after this, when the deacon has commemorated us, having said: *Again we pray for the servant of God Alexis, for rest, quietude, etc.*, let them say: *Lord, have mercy* (15 times). And at the Liturgy on the litanies... at *Have mercy on us, O God*, they say: *Lord, have mercy* (9 times), and for the pious tsars (3 times), and the litany for us (9 times); thereafter, when the deacon has said for the hegumen and all the brethren: *Again we pray for the servant of God [Name] and for all our brethren in Christ, for health and salvation*, let them say: *Lord, have mercy* (3 times). And for each of those constantly occurring at the Liturgies in the chapel [*pritvor*] of St. Panteleimon, at *Have mercy on us*, let them say: *Lord, have mercy* (3 times), and at the litany for us let them say 40 times” (MS Moscow Synodal Library No. 330/380, fol. 270).
+504. An analogous phenomenon—an intentional inequality in the number of “Lord, have mercy” (*Господи помилуй*) on the litanies—is presented by the Studite-Alexis Typikon in the testament of the founder [*ktetor*]: “How the morning and evening litanies ought to be spoken after our death”: “When the deacon has said thus: *Let us all say earnestly*, the people answer: *Lord, have mercy* (30 times). Thereafter, when the deacon has said: *Again we pray for the pious tsars*, let them say: *Lord, have mercy* (3 times). And after this, when the deacon has commemorated us, having said: *Again we pray for the servant of God Alexis, for rest, quietude, etc.*, let them say: *Lord, have mercy* (15 times). And at the Liturgy on the litanies... at *Have mercy on us, O God*, they say: *Lord, have mercy* (9 times), and for the pious tsars (3 times), and the litany for us (9 times); thereafter, when the deacon has said for the hegumen and all the brethren: *Again we pray for the servant of God [Name] and for all our brethren in Christ, for health and salvation*, let them say: *Lord, have mercy* (3 times). And for each of those constantly occurring at the Liturgies in the chapel [*pritvor*] of St. Panteleimon, at *Have mercy on us*, let them say: *Lord, have mercy* (3 times), and at the litany for us let them say 40 times” (MS Moscow Synodal Library No. 330/380, fol. 270).
 
 505. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 317; MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 5; Moscow Synodal Library No. 381, fol. 30v; No. 328/383, fol. 5; No. 678/386, fol. 6; *Euchologion* [Εὐχολόγιον], Venice, 1622, fol. 10v; J. Goar, *Euchologion*, pp. 33–34; *Sluzhebnik* of Peter Mohyla, pp. 43–45; Moscow, 1647, pp. 23–25; 1658, pp. 56–58; *Euchologion* [Εὐχολόγιον], Athens, 1902, pp. 25–28; Old Believer *Typikon*, fols. 6, 7 (12, 13); Old Believer *Sluzhebnik*, fols. 22–27.
 
@@ -1118,7 +1114,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 511. MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 5v, and many others.
 
-512. In more general terms than the Dogmatica, predominantly in its significance for the world rather than in the manner of its accomplishment (although in the Theotokion of Tone 1: “newly severed nature” [*естества новопресече*]).
+512. In more general terms than the Dogmatica, predominantly in its significance for the world rather than in the manner of its accomplishment (although in the Theotokion of Tone 1: “newly severed nature” (*естества новопресече*)).
 
 513. MS Moscow Synodal Library No. 330/380, fol. 49; Th. Toscani, *Ad typica graecorum*, p. 52; A. Dmitrievsky, *Typika*, pp. 800, 607; MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 5v; Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 317.
 
@@ -1128,13 +1124,13 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 516. *Apostolic Constitutions*, VII, 48.
 
-517. Archpriest T. Seredinsky, *Public Worship Among the Protestants* [*Общественное богослужение у протестантов*], Riga, 1889, p. 46.
+517. Archpriest T. Seredinsky, *Public Worship Among the Protestants* (*Общественное богослужение у протестантов*), Riga, 1889, p. 46.
 
 518. St. Germanus of Paris, *Letter 1* [Epistola I], in Migne, *Patrologia Latina*, vol. 72, col. 94.
 
 519. A. Dmitrievsky, *Euchologia*, p. 164; K. Nevostruev and A. Gorsky, *Description of the Slavonic Manuscripts of the Moscow Synodal Library*, No. 1869, III, p. 137.
 
-520. This word [Theotokos / Богородице] was placed at the head of the canticle, presumably in view of the Nestorian heresy.
+520. This word (*Theotokos / Богородице*) was placed at the head of the canticle, presumably in view of the Nestorian heresy.
 
 521. In the *Life of St. Bonaventure* († 1274, in Surius, July 14) it is related that “this most pious devotee of the glorious Virgin Mother of Jesus also instituted that the brethren (Franciscans) should urge the people to offer greetings to Her at the sound of the bell rung after Compline, since there is a pious belief that She received the greeting from the Angel at that hour” (E. Martène, *De antiquis ecclesiae ritibus*, Antwerp, 1737, III, p. 60).
 
@@ -1146,7 +1142,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 525. *Breviarium Romanum*, p. 1.
 
-526. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 317; MS Moscow Rumyantsev Museum No. 491/35, fol. 5v; Moscow Synodal Library No. 381 (Greek), fol. 5; J. Goar, *Euchologion*, p. 5; *Hieratikon* [Ἱεраτικόν], Constantinople, 1895, p. 15; *Euchologion* [Εὐχολόγιον], Athens, 1902, p. 28.
+526. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 317; MS Moscow Rumyantsev Museum No. 491/35, fol. 5v; Moscow Synodal Library No. 381 (Greek), fol. 5; J. Goar, *Euchologion*, p. 5; *Hieratikon* [Ἱερατικόν], Constantinople, 1895, p. 15; *Euchologion* [Εὐχολόγιον], Athens, 1902, p. 28.
 
 527. In contrast to an analogion, which was often made with a single leg.
 
@@ -1154,7 +1150,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 529. The loaves, wine, oil, and wheat.
 
-530. St. Symeon of Thessalonica [printed *Сапунский*], *On the Divine Prayer*, ch. 342 (col. 306).
+530. St. Symeon of Thessalonica (*printed *Сапунский*), *On the Divine Prayer*, ch. 342 (col. 306).
 
 531. *Typikon*, MS Moscow Synodal Library No. 380 (Greek), 16th century: “It should be known that certain Typika say 3 loaves and a cup of wine, but make no mention of wheat and oil.”
 
@@ -1182,7 +1178,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 543. For citations see note on p. 605; the folios and pages are the same or the following.
 
-544. *Testamentum Domini*, I, 24, 25; *Apostolic Constitutions*, VIII, 29; A. Dmitrievsky, *The 4th-Century Euchologion of Serapion, Bishop of Thmuis* [*Евхологион IV в. Серапиона, еп. Тмуитского*], Kyiv, 1894, p. 17.
+544. *Testamentum Domini*, I, 24, 25; *Apostolic Constitutions*, VIII, 29; A. Dmitrievsky, *The 4th-Century Euchologion of Serapion, Bishop of Thmuis* (*Евхологион IV в. Серапиона, еп. Тмуитского*), Kyiv, 1894, p. 17.
 
 545. John Moschos, *The Spiritual Meadow* [Pratum Spirituale], ch. 125.
 
@@ -1192,7 +1188,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 548. B. Turaev, *Horologion of the Ethiopic Church*, pp. 73–87.
 
-549. Here is this hymn: “O blest Creator of the light, / Who mak’st the day with radiance bright, / And o’er the forming world didst call / The light from chaos first of all; // Who join’st the evening to the morn, / And dost the name of Day ordain; / Let foulest chaos be dispelled, / Hear Thou our prayers poured forth with tears. // Lest the soul, weighed down with guilt, / Should forfeit life’s high heritage, / While thinking on no eternal things, / And binding fast herself with sins. // Rather let her knock at heaven’s gate, / And spurn away life’s earthly prize; / May we shun all that worketh harm, / And cleanse away all evil deeds. // Grant this, O Father most loving [*piissime*], / And Thou, the Father’s co-equal Only-begotten [*Unice*], / With the Spirit the Comforter, / Reigning unto all ages. Amen.” — The hymn is attributed to Pope St. Gregory the Great (E. Nikel, *Geschichte der katholischen Kirchenmusik*, Breslau, 1908, p. 105).
+549. Here is this hymn: “O blest Creator of the light, / Who mak’st the day with radiance bright, / And o’er the forming world didst call / The light from chaos first of all; // Who join’st the evening to the morn, / And dost the name of Day ordain; / Let foulest chaos be dispelled, / Hear Thou our prayers poured forth with tears. // Lest the soul, weighed down with guilt, / Should forfeit life’s high heritage, / While thinking on no eternal things, / And binding fast herself with sins. // Rather let her knock at heaven’s gate, / And spurn away life’s earthly prize; / May we shun all that works harm, / And cleanse away all evil deeds. // Grant this, O Father most loving [*piissime*], / And Thou, the Father’s co-equal Only-begotten [*Unice*], / With the Spirit the Comforter, / Reigning unto all ages. Amen.” — The hymn is attributed to Pope St. Gregory the Great (E. Nikel, *Geschichte der katholischen Kirchenmusik*, Breslau, 1908, p. 105).
 
 550. *Breviarium Romanum*, pp. 141–144.
 
@@ -1224,7 +1220,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 564. Bishop Porphyrius, *From the Notes of a Sinai Pilgrim*, in *Trudy Kievskoy Dukhovnoy Akademii*, 1873, I, p. 417.
 
-565. *Russian Historical Library* [*Русская историческая библиотека*], VI, p. 265.
+565. *Russian Historical Library* (*Русская историческая библиотека*), VI, p. 265.
 
 566. J. Goar, *Euchologion*, p. 44; A. Dmitrievsky, *Euchologia*, pp. 18, 21, 65, 77, 88, 163, 234, 578, 594, 787, 835, 1058; “Divine Services in the Russian Church during the First Five Centuries,” in *Pravoslavny Sobesednik*, 1882, No. 7–8, p. 363; *Divine Services in the Russian Church in the 16th Century*, p. 19; N. Odintsov, *The Order of Public and Private Divine Worship in Ancient Russia prior to the 16th Century*, p. 190; Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, pp. 145, 165.
 
@@ -1278,13 +1274,13 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 591. *Proskynitarion*, ch. 46, p. 225.
 
-592. Archpriest Kl. Fomenko, *Peculiarities of the Divine Services of the Greek Church* [*Особенности богослужения греческой церкви*], p. 16.
+592. Archpriest Kl. Fomenko, *Peculiarities of the Divine Services of the Greek Church* (*Особенности богослужения греческой церкви*), p. 16.
 
 593. A. Luft, *Liturgik*, II, p. 84.
 
 594. Pseudo-Athanasius, *On Virginity*, 62.
 
-595. B. Turaev, *The Night Worship of the Ethiopic Church* [*Ночное богослужение эфиопской церкви*], Kyiv, 1901, pp. 28, 30.
+595. B. Turaev, *The Night Worship of the Ethiopic Church* (*Ночное богослужение эфиопской церкви*), Kyiv, 1901, pp. 28, 30.
 
 596. MS Moscow Typographical Library No. 285/142/1206, fols. 98 ff.
 
@@ -1298,7 +1294,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 601. For citations see note 3 on p. 605.
 
-602. In the Kyiv-Caves Lavra, according to a tradition dating, presumably, from the predominance of the Studite Typikon and other recensions of the Octoechos, different Sunday Theotokia are sung in comparison with those placed in the present Octoechos. Here they are. Tone 1 after the 2nd kathisma: “Having conceived without burning the Divine fire, and having given birth without seed to the Source of life, the Lord: O Virgin full of grace, save those who magnify Thee” [*Заченшая неопально огнь Божественный и рождшая безсеменно источника жизни Господа, благодатная Богородице, спасай Тя величающия*]. Tone 2 after the 2nd kathisma: “Eluding the laws of nature, Thou didst unite virginity with Divine childbirth; for Thou alone didst give birth without earthly father to Him Who was begotten of the Father before Thee without mother; therefore we magnify Thee, O Theotokos” [*Законов утаившися естества, Божественному рождеству девство совокупила еси; едина бо родила еси прежде Тебе Рождшагося безлетно, темже Тя, Богородице, величаем*]. Tone 3 after the 1st kathisma, Automelon (as also the Sessional Hymn), “Today the Virgin” [*Дева днесь*]: “The heavenly hosts rejoiced in love and the earthly trembled in awe when the all-pure voice came upon Thee, O Theotokos; for a single festival shone forth for both when He delivered the first-created from death” [*Небесная любовию веселяхуся и земная трепетом ужасахуся, егда пречистый глас найде на Тя, Богородице; едино бо торжество обоим возсия, егда первозданнаго от смерти избави*]. Tone 4 after the 1st kathisma: “Thee do we magnify, O Theotokos, crying aloud: Thou art the mountain from which ineffably was cut the stone that shattered the gates of Hades” [*отсечеся камень и врата адова сокруши*]. Tone 5 after the 1st kathisma: “A marvelous wonder of conception and an ineffable manner of birth was made known in Thee, O Pure Virgin; it astonishes my mind and terrifies my thought; Thy glory, O Theotokos, is spread abroad unto all, for the salvation of our souls” [*Дивно чудо зачатия и неизреченен образ рождества в Тебе познася, Дево Чистая, удивляет мой ум и ужасает помысл; слава Твоя, Богородице, по всем простреся, ко спасению душ наших*]. In Tones 4 and 5 the Theotokia of the 1st kathisma are transferred to the 2nd. In Tones 6 and 7 the customary Theotokia are transposed. Tone 8 after the 1st kathisma: “Rejoice, Thou who through an Angel didst receive the joy of the world; rejoice, Thou who gavest birth to Thy Creator and Lord; rejoice, Thou who wast counted worthy to be the Mother of God” [*Радуйся, Ангелом радость мира приемшая, радуйся, рождшая Творца Твоего и Господа, радуйся, сподобльшаяся быти Мати Божия*]. “All of creation rejoices in Thee” [*О Тебе радуется*] is the Prosomoion of the 1st Sessional Hymn. At each kathisma only one Sessional Hymn is appointed, sung once; for Tones 1–6 these are the present 1st and 2nd after the 1st kathisma; for Tone 7 the first ones after the 1st and 2nd kathismata, but transposed; for Tone 8 the same without transposition (*Musical Obikhod of the Kyiv-Caves Dormition Lavra*, Part 1: *All-Night Vigil*, Full Score, Kyiv, 1910, pp. 104 ff.).
+602. In the Kyiv-Caves Lavra, according to a tradition dating, presumably, from the predominance of the Studite Typikon and other recensions of the Octoechos, different Sunday Theotokia are sung in comparison with those placed in the present Octoechos. Here they are. Tone 1 after the 2nd kathisma: “Having conceived without burning the Divine fire, and having given birth without seed to the Source of life, the Lord: O Virgin full of grace, save those who magnify Thee” (*Заченшая неопально огнь Божественный и рождшая безсеменно источника жизни Господа, благодатная Богородице, спасай Тя величающия*). Tone 2 after the 2nd kathisma: “Eluding the laws of nature, Thou didst unite virginity with Divine childbirth; for Thou alone didst give birth without earthly father to Him Who was begotten of the Father before Thee without mother; therefore we magnify Thee, O Theotokos” (*Законов утаившися естества, Божественному рождеству девство совокупила еси; едина бо родила еси прежде Тебе Рождшагося безлетно, темже Тя, Богородице, величаем*). Tone 3 after the 1st kathisma, Automelon (as also the Sessional Hymn), “Today the Virgin” (*Дева днесь*): “The heavenly hosts rejoiced in love and the earthly trembled in awe when the all-pure voice came upon Thee, O Theotokos; for a single festival shone forth for both when He delivered the first-created from death” (*Небесная любовию веселяхуся и земная трепетом ужасахуся, егда пречистый глас найде на Тя, Богородице; едино бо торжество обоим возсия, егда первозданнаго от смерти избави*). Tone 4 after the 1st kathisma: “Thee do we magnify, O Theotokos, crying aloud: Thou art the mountain from which ineffably was cut the stone that shattered the gates of Hades” (*отсечеся камень и врата адова сокруши*). Tone 5 after the 1st kathisma: “A marvelous wonder of conception and an ineffable manner of birth was made known in Thee, O Pure Virgin; it astonishes my mind and terrifies my thought; Thy glory, O Theotokos, is spread abroad unto all, for the salvation of our souls” (*Дивно чудо зачатия и неизреченен образ рождества в Тебе познася, Дево Чистая, удивляет мой ум и ужасает помысл; слава Твоя, Богородице, по всем простреся, ко спасению душ наших*). In Tones 4 and 5 the Theotokia of the 1st kathisma are transferred to the 2nd. In Tones 6 and 7 the customary Theotokia are transposed. Tone 8 after the 1st kathisma: “Rejoice, Thou who through an Angel didst receive the joy of the world; rejoice, Thou who gavest birth to Thy Creator and Lord; rejoice, Thou who wast counted worthy to be the Mother of God” (*Радуйся, Ангелом радость мира приемшая, радуйся, рождшая Творца Твоего и Господа, радуйся, сподобльшаяся быти Мати Божия*). “All of creation rejoices in Thee” (*О Тебе радуется*) is the Prosomoion of the 1st Sessional Hymn. At each kathisma only one Sessional Hymn is appointed, sung once; for Tones 1–6 these are the present 1st and 2nd after the 1st kathisma; for Tone 7 the first ones after the 1st and 2nd kathismata, but transposed; for Tone 8 the same without transposition (*Musical Obikhod of the Kyiv-Caves Dormition Lavra*, Part 1: *All-Night Vigil*, Full Score, Kyiv, 1910, pp. 104 ff.).
 
 603. A. Dmitrievsky, *Typika*, p. 231.
 
@@ -1316,7 +1312,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 610. St. Symeon of Thessalonica, *On the Divine Prayer*, ch. 309 (col. 274).
 
-611. Archpriest K. Kekelidze, *The Jerusalem Kanonarion of the 7th Century* [*Иерусалимский Канонарь VII в.*], Tiflis, 1912, p. 94; MS Imperial Public Library No. 32, fols. 107–114; Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* [*Первоначальный славяно-русский Типикон*], St. Petersburg, 1911, p. 78.
+611. Archpriest K. Kekelidze, *The Jerusalem Kanonarion of the 7th Century* (*Иерусалимский Канонарь VII в.*), Tiflis, 1912, p. 94; MS Imperial Public Library No. 32, fols. 107–114; Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* (*Первоначальный славяно-русский Типикон*), St. Petersburg, 1911, p. 78.
 
 612. MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fols. 9, 25; Moscow Synodal Library No. 381, fols. 8, 44v.
 
@@ -1326,9 +1322,9 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 615. A. Papadopoulos-Kerameus, *Analekta hierosolymitikēs stachyologias*, [vol. II], pp. 6, 163.
 
-616. *Horologion* [Ὡроλόγιον], p. 98.
+616. *Horologion* [Ὡρολόγιον], p. 98.
 
-617. *Euchologion* [Εὐхολόγιον], Venice, 1622, fol. 4v; *Sluzhebnik* of Peter Mohyla, pp. 84–85; Moscow, 1602, fols. 38–39; 1647, fol. 39; 1658, fol. 127; MS Moscow Synodal Library No. 328/383, fol. 7.
+617. *Euchologion* [Εὐχολόγιον], Venice, 1622, fol. 4v; *Sluzhebnik* of Peter Mohyla, pp. 84–85; Moscow, 1602, fols. 38–39; 1647, fol. 39; 1658, fol. 127; MS Moscow Synodal Library No. 328/383, fol. 7.
 
 618. St. Athanasius the Great, *Letter to Marcellinus*; St. John Chrysostom, *Homilies on Psalms 117, 111, 144*; St. Augustine, *Enarrations on Psalm 41*.
 
@@ -1338,7 +1334,7 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 621. *Ibid.* and fol. 4; A. Dmitrievsky, *Typika*, p. 608.
 
-622. Nikephoros Kallistos, *Explanation of the Degrees* [*Изъяснение степенных*]; St. Nicodemus the Hagiorite, *New Ladder* [Νέα Κλῖμαξ], 1844, p. 13, cited according to Archbishop Modest (*On the Church Octoechos*, Vilna, 1865, pp. 22 ff.), who proves that the “chief pastor” [*пастыреначальник*] mentioned in the antiphons is the brother of St. Theodore, St. Joseph, Archbishop of Thessalonica (which is why the antiphons containing such mention are sung today in the East by the hierarch).
+622. Nikephoros Kallistos, *Explanation of the Degrees* (*Изъяснение степенных*); St. Nicodemus the Hagiorite, *New Ladder* [Νέα Κλῖμαξ], 1844, p. 13, cited according to Archbishop Modest (*On the Church Octoechos*, Vilna, 1865, pp. 22 ff.), who proves that the “chief pastor” (*пастыреначальник*) mentioned in the antiphons is the brother of St. Theodore, St. Joseph, Archbishop of Thessalonica (which is why the antiphons containing such mention are sung today in the East by the hierarch).
 
 623. A. Dmitrievsky, *Typika*, p. 229.
 
@@ -1372,21 +1368,21 @@ Ch.: Lord, have mercy. Then follows the prayer (*collectio*) with the response o
 
 638. Migne, *Patrologia Latina*, vol. 85, col. 111.
 
-639. In other liturgies, the preparatory exclamations before the Gospel received an even greater development than among us. Thus, in the present Abyssinian Liturgy, the Priest [says]: “The Holy Gospel, the word of the Son of God, preached and proclaimed by N”; the people: “Glory to Thee always, O Christ our Lord and God,” and Ps. 80:2, 3; after the Gospel: “Cherubim and Seraphim send up glory to Him. Holy, Holy...” (Bishop Porphyrius Uspensky, *The Christian East: The Divine Service of the Abyssinians* [*Восток христианский. Богослужение абиссин*], p. 60). In the Coptic Liturgy, after a twofold prayer of the Gospel, the second with the exclamation: “Let us pray for the Holy Gospel,” D[eacon]: “Arise.” P[riest]: “In the name of God.” D.: “Bless, Master.” P.: “The beginning of the Holy Gospel according to N.” The interpreter (reader?) of the Gospel: “Stand with the fear of God... of our Lord and God.” After the Gospel, a secret prayer (Bishop Porphyrius Uspensky, *The Teaching of Faith, Divine Service... of the Copts* [*Вероучение, богослужение… коптов*], p. 128). In the Nestorian Liturgy of the Apostles Addai and Mari, likewise after 2 prayers: “Deacon: Prepare yourselves to hear the Holy Gospel. Priest: Peace be with you. People: With you and with your spirit. After the proclamation of where the Gospel is from, Deacon: Glory to Christ our God. After the Gospel, the same deacon: Glory to Christ our God; let us commit ourselves and one another to the Father and to the Son and to the Holy Spirit.” In a later redaction of the same liturgy: “Priest: Peace to all. Deacon: To you and to your spirit. Clergy—a hymn to the 4 evangelists on hearing the Gospel worthily. Priest: The Holy Gospel of our Lord Jesus Christ. The reading is from St. N. After the Gospel the clergy sing: Glory to Christ our Master” (Petrovsky, *Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточной церкви*], pp. 65, 66).
+639. In other liturgies, the preparatory exclamations before the Gospel received an even greater development than among us. Thus, in the present Abyssinian Liturgy, the Priest [says]: “The Holy Gospel, the word of the Son of God, preached and proclaimed by N”; the people: “Glory to Thee always, O Christ our Lord and God,” and Ps. 80:2, 3; after the Gospel: “Cherubim and Seraphim send up glory to Him. Holy, Holy...” (Bishop Porphyrius Uspensky, *The Christian East: The Divine Service of the Abyssinians* (*Восток христианский. Богослужение абиссин*), p. 60). In the Coptic Liturgy, after a twofold prayer of the Gospel, the second with the exclamation: “Let us pray for the Holy Gospel,” D[eacon]: “Arise.” P[riest]: “In the name of God.” D.: “Bless, Master.” P.: “The beginning of the Holy Gospel according to N.” The interpreter (reader?) of the Gospel: “Stand with the fear of God... of our Lord and God.” After the Gospel, a secret prayer (Bishop Porphyrius Uspensky, *The Teaching of Faith, Divine Service... of the Copts* (*Вероучение, богослужение… коптов*), p. 128). In the Nestorian Liturgy of the Apostles Addai and Mari, likewise after 2 prayers: “Deacon: Prepare yourselves to hear the Holy Gospel. Priest: Peace be with you. People: With you and with your spirit. After the proclamation of where the Gospel is from, Deacon: Glory to Christ our God. After the Gospel, the same deacon: Glory to Christ our God; let us commit ourselves and one another to the Father and to the Son and to the Holy Spirit.” In a later redaction of the same liturgy: “Priest: Peace to all. Deacon: To you and to your spirit. Clergy—a hymn to the 4 evangelists on hearing the Gospel worthily. Priest: The Holy Gospel of our Lord Jesus Christ. The reading is from St. N. After the Gospel the clergy sing: Glory to Christ our Master” (Petrovsky, *Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточной церкви*), pp. 65, 66).
 
 640. C. A. Swainson, *The Greek Liturgies*, p. 232.
 
-641. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* [*Новая скрижаль*], in 4 parts (St. Petersburg, 1858), Part II, p. 48.
+641. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* (*Новая скрижаль*), in 4 parts (St. Petersburg, 1858), Part II, p. 48.
 
 642. A. Dmitrievsky, Review... // *Khristianskoye Chteniye* 1888, II, p. 640.
 
-643. Archimandrite Vladimir, *Systematic Description of the Manuscripts of the Moscow Synodal (Patriarchal) Library* [*Систематическое описание рукописей Московской Синодальной (Патриаршей) библиотеки*] (Moscow, 1894), p. 12.
+643. Archimandrite Vladimir, *Systematic Description of the Manuscripts of the Moscow Synodal (Patriarchal) Library* (*Систематическое описание рукописей Московской Синодальной (Патриаршей) библиотеки*) (Moscow, 1894), p. 12.
 
 644. MS Moscow Typographical Library No. 285/342/1206, fols. 14–16; Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 19; A. Dmitrievsky, *Typika*, pp. 578, 607;
 
-Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургические грузинские памятники*], p. 325.
+Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* (*Литургические грузинские памятники*), p. 325.
 
-645. Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* [*Первоначальный славяно-русский Типикон*] (St. Petersburg, 1911), Appendices, p. 17.
+645. Archpriest M. Lisitsyn, *The Original Slavonic-Russian Typikon* (*Первоначальный славяно-русский Типикон*) (St. Petersburg, 1911), Appendices, p. 17.
 
 646. *Typikon* [Τυπικόν] (Venice, 1884), p. 2.
 
@@ -1396,7 +1392,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 649. MS Moscow Typographical Library No. 285/1206/342, fol. 14; Synodal Library No. 330/380, fol. 46; *Horologion*, St. Sophia Library of the St. Petersburg Academy No. 1052, fol. 27.
 
-650. Arseny Sukhanov, *Proskynitarion* [*Проскинитарий*], p. 240.
+650. Arseny Sukhanov, *Proskynitarion* (*Проскинитарий*), p. 240.
 
 651. *Euchologion* [Εὐχολόγιον] (Athens, 1902), p. 13; *Hieratikon* [Ἱερατικόν] (Constantinople, 1895), p. 31.
 
@@ -1418,13 +1414,13 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 660. MS Moscow Synodal Library No. 328/383, fol. 7v; No. 329/384, fol. 19.
 
-661. Old Believer *Typikon* [*Старообрядческий устав*], fol. 16.
+661. Old Believer *Typikon* (*Старообрядческий устав*), fol. 16.
 
 662. A. Dmitrievsky, *Typika*, p. 173.
 
 663. MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 33/477, fol. 89.
 
-664. *Omphalion* [ὀμφάλιον] or *omphalos* [ὀμφαλός]—a colored circle or oval inlaid into the floor in the middle of the church (E. Golubinsky, *History of the Russian Church* [*История Русской Церкви*], I, 2, p. 204). Such an *omphalos* is indicated in Hagia Sophia by *De cerimoniis aulae Byzantinae*, pp. 15, 63, 87, 130, 524; it was also constructed in the reception chambers of Byzantine palaces (*ibid.*, pp. 130, 524; Du Cange, *Glossarium*, s.v.).
+664. *Omphalion* [ὀμφάλιον] or *omphalos* [ὀμφαλός]—a colored circle or oval inlaid into the floor in the middle of the church (E. Golubinsky, *History of the Russian Church* (*История Русской Церкви*), I, 2, p. 204). Such an *omphalos* is indicated in Hagia Sophia by *De cerimoniis aulae Byzantinae*, pp. 15, 63, 87, 130, 524; it was also constructed in the reception chambers of Byzantine palaces (*ibid.*, pp. 130, 524; Du Cange, *Glossarium*, s.v.).
 
 665. MS Moscow Synodal Library, Greek No. 381, fol. 5v.
 
@@ -1434,7 +1430,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 668. MS Solovetsky Library No. 1116, fol. 113v, and others.
 
-669. *Psalter with Appendices* [*Следованная Псалтирь*], MS Solovetsky Library No. 778, fol. 1; *Typikon*, Synodal Library No. 814, fol. 317; A. Dmitrievsky, *The Divine Service of the Russian Church in the 16th Century* [*Богослужение русской церкви в XVI веке*], p. 23.
+669. *Psalter with Appendices* (*Следованная Псалтирь*), MS Solovetsky Library No. 778, fol. 1; *Typikon*, Synodal Library No. 814, fol. 317; A. Dmitrievsky, *The Divine Service of the Russian Church in the 16th Century* (*Богослужение русской церкви в XVI веке*), p. 23.
 
 670. *Sluzhebnik* of Peter Mohyla, p. 86; Moscow *Sluzhebnik* of 1602, fol. 41; of 1647, fol. 41v.
 
@@ -1448,7 +1444,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 675. A. Dmitrievsky, *Typika*, p. cxxx.
 
-676. Pape, *Griechisch-Deutsches Handwörterbuch*, II, p. 1321; Sophocles, *Greek Lexicon*, p. 627; I. Karabinov, *The Lenten Triodion* [*Постная Триодь*] (St. Petersburg, 1910), p. 72.
+676. Pape, *Griechisch-Deutsches Handwörterbuch*, II, p. 1321; Sophocles, *Greek Lexicon*, p. 627; I. Karabinov, *The Lenten Triodion* (*Постная Триодь*) (St. Petersburg, 1910), p. 72.
 
 677. Talmud: *Rosh Hashanah*, 31a.
 
@@ -1456,9 +1452,9 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 679. Pitra, *Spicilegium Solesmense*, IV, p. 1; Cabrol, *Dictionnaire d'archéologie chrétienne et de liturgie*, III, col. 639.
 
-680. Migne, *Patrologia Graeca*, vol. 28, col. 275; I. Mansvetov, *The Church Typikon* [*Церковный устав*] (Moscow, 1885), p. 3.
+680. Migne, *Patrologia Graeca*, vol. 28, col. 275; I. Mansvetov, *The Church Typikon* (*Церковный устав*) (Moscow, 1885), p. 3.
 
-681. B. Turayev, *The Horologion of the Ethiopian Church* [*Часослов эфиопской церкви*], pp. 129 ff.; *The Night Service of the Ethiopian Church* [*Ночное богослужение эфиопской церкви*] (Kyiv, 1901), pp. 21, 28, 30.
+681. B. Turayev, *The Horologion of the Ethiopian Church* (*Часослов эфиопской церкви*), pp. 129 ff.; *The Night Service of the Ethiopian Church* (*Ночное богослужение эфиопской церкви*) (Kyiv, 1901), pp. 21, 28, 30.
 
 682. Luft, *Liturgik*, II, p. 132.
 
@@ -1484,7 +1480,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 693. MS Moscow Synodal Library No. 335/391, fols. 304, 307.
 
-694. Bishop Arseny, *Short Practical Typikon* [*Краткий практический устав*], pp. 62–65.
+694. Bishop Arseny, *Short Practical Typikon* (*Краткий практический устав*), pp. 62–65.
 
 695. *Proskynitarion*, ch. 46, pp. 226, 272.
 
@@ -1494,13 +1490,13 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 698. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, pp. 354, 378.
 
-699. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* [*Исторический обзор песнопевцев и песнопения греческой церкви*] (Chernigov, 1864).
+699. Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (*Исторический обзор песнопевцев и песнопения греческой церкви*) (Chernigov, 1864).
 
 700. MS Moscow Typographical Library No. 285/1206/142, fols. 1, 46.
 
 701. MS Moscow Synodal Library No. 330/380, fol. 1; St. Sophia Library at the St. Petersburg Academy No. 905, fol. 153; A. Dmitrievsky, *Typika*, pp. 608, 800; see p. 665, note 3.
 
-702. (K. Nevostruyev), *Description of the Slavonic Manuscripts of the Moscow Synodal Library* [*Описание славянских рукописей Московской Синодальной библиотеки*] (Moscow, 1869), III, 1, pp. 449 ff.
+702. (K. Nevostruyev), *Description of the Slavonic Manuscripts of the Moscow Synodal Library* (*Описание славянских рукописей Московской Синодальной библиотеки*) (Moscow, 1869), III, 1, pp. 449 ff.
 
 703. Regarding the doubling of stichera and troparia, the general rule is that the doubled hymn must be sung twice in succession, and not repeated subsequently; this is demanded by the antiphonal character of all liturgical singing in general.
 
@@ -1520,7 +1516,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 711. Old Believer *Typikon*, fol. 16.
 
-712. Arseny, Old Believer Bishop of Uralsk, *Short Practical Typikon* [*Краткий практический устав*] (Uralsk, 1908 [7416]), fol. 54v.
+712. Arseny, Old Believer Bishop of Uralsk, *Short Practical Typikon* (*Краткий практический устав*) (Uralsk, 1908 [7416]), fol. 54v.
 
 713. MS Moscow Synodal Library No. 330/380, fols. 76v, 112, 115, 127v; Toscani, *Ad typica Graecorum*, p. 48.
 
@@ -1540,15 +1536,15 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 721. Bishop Arseny, *Short Practical Typikon*, fols. 66 ff.
 
-722. See *Heirmologion* [*Ирмологий*], chapter: “Triadica Hymns for the 8 Tones and Canticle Verses Sung Every Day with the Kanon; Canticle Verses Sung on Sundays and Feasts” (Moscow, 1895), fols. 188 ff.
+722. See *Heirmologion* (*Ирмологий*), chapter: “Triadica Hymns for the 8 Tones and Canticle Verses Sung Every Day with the Kanon; Canticle Verses Sung on Sundays and Feasts” (Moscow, 1895), fols. 188 ff.
 
-723. *Stoglav* [*Стоглав*], ch. 16 / ed. Kozhanchikov (St. Petersburg, 1863), p. 79.
+723. *Stoglav* (*Стоглав*), ch. 16 / ed. Kozhanchikov (St. Petersburg, 1863), p. 79.
 
 724. N. Kapterev, “The Struggle with Patriarch Joseph on the Question of Monophony [Yedinoglasiye]” // *Bogoslovsky Vestnik* 1908, 3, p. 375.
 
 725. *Proskynitarion*, ch. 46, pp. 218, 237, 242.
 
-726. Archpriest Kl. Fomenko, *Peculiarities of the Divine Service of the Greek Church* [*Особенности богослужения греческой церкви*], p. 17.
+726. Archpriest Kl. Fomenko, *Peculiarities of the Divine Service of the Greek Church* (*Особенности богослужения греческой церкви*), p. 17.
 
 727. (K. Nevostruyev and A. Gorsky), *Description of the Slavonic Manuscripts of the Moscow Synodal Library*, pp. 449, 466 ff.
 
@@ -1586,7 +1582,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 744. MS Moscow Synodal Library No. 330/380, fol. 87.
 
-745. Archbishop Sergius (Spassky), *The Complete Menologion of the East* [*Полный месяцеслов Востока*], in 2 vols. (Vladimir, 1901–1902), Vol. I, pp. 277–281 [printed *251*].
+745. Archbishop Sergius (Spassky), *The Complete Menologion of the East* (*Полный месяцеслов Востока*), in 2 vols. (Vladimir, 1901–1902), Vol. I, pp. 277–281 [printed *251*].
 
 746. MS Moscow Synodal Library No. 330/380, fols. 135, 91v.
 
@@ -1594,13 +1590,13 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 748. See note 4 on p. 690.
 
-749. Among the Old Believers, it is customary to make a bow at every occurrence of the word “we worship” [*покланяемся*] in church hymns, and their well-read rubricians know how many times and in which hymns this word occurs.
+749. Among the Old Believers, it is customary to make a bow at every occurrence of the word “we worship” (*покланяемся*) in church hymns, and their well-read rubricians know how many times and in which hymns this word occurs.
 
 750. Citations: see note 4 on p. 690.
 
 751. Goar, *Euchologion*, p. 7.
 
-752. Patriarch Nikon, *The Tablet* [*Скрижаль*], “Explanation of the Canticle ‘More Honorable Than the Cherubim’” [*Толкование песни Честнейшую Херувим*]; in Greek in MS Venice Library cod. No. 249; Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (Chernigov, 1864), p. 296.
+752. Patriarch Nikon, *The Tablet* (*Скрижаль*), “Explanation of the Canticle ‘More Honorable Than the Cherubim’” (*Толкование песни Честнейшую Херувим*); in Greek in MS Venice Library cod. No. 249; Archbishop Philaret (Gumilevsky), *Historical Survey of the Hymnographers and Hymnography of the Greek Church* (Chernigov, 1864), p. 296.
 
 753. MS Moscow Synodal Library, Greek No. 381, fol. 45.
 
@@ -1622,7 +1618,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 762. Hauck, *Realencyklopädie*, XII, p. 74.
 
-763. On the basis of the Greek Typikon and Psalter according to the Kyiv Caves edition: “in canticles” [*в песнех*].
+763. On the basis of the Greek Typikon and Psalter according to the Kyiv Caves edition: “in canticles” (*в песнех*).
 
 764. For citations, see p. 665, note 3.
 
@@ -1662,7 +1658,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 782. A. Papadopoulos-Kerameus, *Analekta hierosolymitikēs stachyologias*, pp. 14, 38, 141, 196.
 
-783. Archpriest K. Nikolsky, *Manual for the Study of the Typikon* [*Пособие к изучению устава*], p. 314.
+783. Archpriest K. Nikolsky, *Manual for the Study of the Typikon* (*Пособие к изучению устава*), p. 314.
 
 784. A. Papadopoulos-Kerameus, *Analekta hierosolymitikēs stachyologias*, pp. 14, 38, 141.
 
@@ -1672,7 +1668,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 787. *Proskynitarion*, ch. 46, p. 243.
 
-788. *Euchologion*, p. 37; *Typikon*, p. 3; *Hieratikon*, p. 33; Old Believer *Typikon*, fol. 9 (17). By analogy with the inter-ode intervals after Odes 3 and 6, a reading would be required after the Exapostilarion. But it is absent, probably in order not to interrupt the unbroken stream of hymnody in this portion of Matins, where the solemnity of the service reaches its apogee. Moreover, the readings of Matins increase in their importance and compunction as it progresses: first the commentary on the Epistle, then on the Gospel, next the *Margarit* (the finest works of the greatest father), and finally the *Prolog* (often replacing the entire service of a saint); here an even higher reading would be required; such could only be Holy Scripture itself (cf. the end of Vespers); in antiquity there was indeed an evangelical reading here (as also in Roman Catholic Matins). The substitute for the reading here is the “Catechesis” [*Оглашение*] after Matins.
+788. *Euchologion*, p. 37; *Typikon*, p. 3; *Hieratikon*, p. 33; Old Believer *Typikon*, fol. 9 (17). By analogy with the inter-ode intervals after Odes 3 and 6, a reading would be required after the Exapostilarion. But it is absent, probably in order not to interrupt the unbroken stream of hymnody in this portion of Matins, where the solemnity of the service reaches its apogee. Moreover, the readings of Matins increase in their importance and compunction as it progresses: first the commentary on the Epistle, then on the Gospel, next the *Margarit* (the finest works of the greatest father), and finally the *Prolog* (often replacing the entire service of a saint); here an even higher reading would be required; such could only be Holy Scripture itself (cf. the end of Vespers); in antiquity there was indeed an evangelical reading here (as also in Roman Catholic Matins). The substitute for the reading here is the “Catechesis” (*Оглашение*) after Matins.
 
 789. A. Baumstark, *Festbrevier und Kirchenjahr der syrischen Jakobiten* (Paderborn, 1910), p. 129.
 
@@ -1748,7 +1744,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 825. See p. 712, note 3.
 
-826. MS Dresden Royal Library No. 140, fol. 131v; A. Dmitrievsky, *The Most Ancient Patriarchal Typika* [*Древнейшие патриаршие Типиконы*] (Kyiv, 1907), p. 139.
+826. MS Dresden Royal Library No. 140, fol. 131v; A. Dmitrievsky, *The Most Ancient Patriarchal Typika* (*Древнейшие патриаршие Типиконы*) (Kyiv, 1907), p. 139.
 
 827. MS Moscow Synodal Library No. 330/380, fol. 14v.
 
@@ -1810,7 +1806,7 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 856. Moscow *Sluzhebnik* of 1602 (= Old Believer), fol. 45v; of Peter Mohyla, p. 94; Moscow *Sluzhebnik* of 1647, fol. 47; cf. Moscow *Sluzhebnik* of 1658, pp. 142–143.
 
-857. *Sluzhebnik*, MS St. Sophia Library of St. Petersburg No. 523, fol. 76; N. Odintsov, *The Order of Public and Private Divine Service in Ancient Russia Prior to the 16th Century* [*Порядок общественного и частного богослужения в древней России до XVI века*], p. 108.
+857. *Sluzhebnik*, MS St. Sophia Library of St. Petersburg No. 523, fol. 76; N. Odintsov, *The Order of Public and Private Divine Service in Ancient Russia Prior to the 16th Century* (*Порядок общественного и частного богослужения в древней России до XVI века*), p. 108.
 
 858. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 319.
 
@@ -1848,35 +1844,35 @@ Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* [*Литургиче�
 
 875. Ed. Cozza-Luzi // *Nova Patrum Bibliotheca*, IX, 2; X (Rome, 1888–1905).
 
-876. *Collected Works of St. Theodore the Studite in Russian Translation* [*Собрание сочинений прп. Феодора Студита в русском переводе*], I (St. Petersburg, 1907), pp. 467–970 (*Great Catechesis*, parts 1 and 2); St. Petersburg, 1908 (part 3); (*Small Catechesis*, I, pp. 235–456). There is also the Russian translation by Bishop Theophan in vol. 4 of the *Philokalia* [*Добротолюбие*]; here are the catecheses of the *Great Catechism*, but in paraphrase and with abridgments.
+876. *Collected Works of St. Theodore the Studite in Russian Translation* (*Собрание сочинений прп. Феодора Студита в русском переводе*), I (St. Petersburg, 1907), pp. 467–970 (*Great Catechesis*, parts 1 and 2); St. Petersburg, 1908 (part 3); (*Small Catechesis*, I, pp. 235–456). There is also the Russian translation by Bishop Theophan in vol. 4 of the *Philokalia* (*Добротолюбие*); here are the catecheses of the *Great Catechism*, but in paraphrase and with abridgments.
 
-877. *Great Menologion* [*Великие Четьи-Минеи*], November, 1 (St. Petersburg, 1897), pp. 482–789.
+877. *Great Menologion* (*Великие Четьи-Минеи*), November, 1 (St. Petersburg, 1897), pp. 482–789.
 
 878. The 1st [edition], 1602, reprinted in Migne, *Patrologia Graeca*, vol. 99; the 3rd, E. Auvray, *The Small Catechesis of St. Theodore the Studite* [Τοῦ ὁσίου Θεοδώρου Στουδίτου Μικρὰ Κατήχησις] (Paris, 1891).
 
-879. St. Theodore, *Catechetical Instructions and Testament* [*Огласительные поучения и завещание*] (Moscow, 1872), p. 9.
+879. St. Theodore, *Catechetical Instructions and Testament* (*Огласительные поучения и завещание*) (Moscow, 1872), p. 9.
 
-Priest N. Grossu, *St. Theodore the Studite* [*Прп. Феодор Студит*] (Kyiv, 1907), p. 209.
+Priest N. Grossu, *St. Theodore the Studite* (*Прп. Феодор Студит*) (Kyiv, 1907), p. 209.
 
 880. In the Typikon for August 13 and May 8, “if they occur on a Sunday,” it is noted concerning the conclusion of Matins: “the Great Doxology, litanies, catechesis, and dismissal, and the customary departure into the narthex”; consequently, the catechesis seems to be presupposed before the dismissal of Matins in the church; but this would contradict the rubric for an analogous case in Chapter 3 of the Typikon, and in general one cannot imagine any grounds for such a departure from the customary order in only these two instances; for this reason, there is undoubtedly a slip of the pen [or misstatement] here.
 
 881. MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fols. 112v, 157v; Synodal Library, Greek No. 381, fols. 127, 164v.
 
-882. Old Believer *Typikon* [*Старообрядческий устав*], fol. 17v.
+882. Old Believer *Typikon* (*Старообрядческий устав*), fol. 17v.
 
-883. B. Turayev, “The Night Service of the Ethiopian Church” [*Ночное богослужение эфиопской церкви*] // *Trudy Kiyevskoy Dukhovnoy Akademii* [*Труды Киевской Духовной Академии*] 1901, No. 3; *Horologion of the Ethiopian Church* [*Часослов эфиопской церкви*], pp. 106–175.
+883. B. Turayev, “The Night Service of the Ethiopian Church” (*Ночное богослужение эфиопской церкви*) // *Trudy Kiyevskoy Dukhovnoy Akademii* (*Труды Киевской Духовной Академии*) 1901, No. 3; *Horologion of the Ethiopian Church* (*Часослов эфиопской церкви*), pp. 106–175.
 
 884. Here is the hymn from October 1 until Advent, belonging to St. Ambrose: “Eternal Creator of things, / Who rulest night and day, / and givest seasons of seasons [times of times], / to relieve weariness (*fastidium*); / a nocturnal light for wayfarers, / dividing night from night (the dawn), the herald of the day already sounds, / evoking the gleam of the sun. Awakened by him, the daystar (*Lucifer*) / unties the heavens from darkness; / thereby the whole troop of errors / abandons its harmful way. / Thereby the mariner gathers his strength, / the waves of the sea grow calm; / thereby the very rock of the Church with singing [the cock's crowing] washes away sin. / Let us therefore arise briskly; / the cock awakens the sleeping, / chides the drowsy, / convicts deniers (*negantes*); / at the cock's crowing hope returns, / health is breathed back into the sick, / the robber leaves off his boldness, / faith returns to the fallen. / O Jesus, look upon the weak, / and correct us by Thy gaze; / if Thou lookest, weakness passes away, / guilt is washed away by tears; / do Thou, O Light, shine upon our senses, / dispel the slumber of the mind; / to Thee first let our voice resound, / and to Thee let us pay our vows. / To God the Father be glory, / and to His Only Son, / with the Spirit the Paraclete, / now and unto all ages. Amen” (*Breviarium Romanum*, IV, p. 23).
 
 885. *Breviarium Romanum*, I, p. 19; II, p. 20; III, p. 18; IV, p. 19, etc.
 
-886. Archpriest K. Fomenko, *On the Divine Service on Sundays and Feasts in the United Church of England and Scotland* [*О богослужении воскресных и праздничных дней в соединенной церкви Англии и Шотландии*] (Kyiv, 1870), pp. 10–14.
+886. Archpriest K. Fomenko, *On the Divine Service on Sundays and Feasts in the United Church of England and Scotland* (*О богослужении воскресных и праздничных дней в соединенной церкви Англии и Шотландии*) (Kyiv, 1870), pp. 10–14.
 
 887. Moll, *Der Psalter*, II, p. 91; Duhm, *Die Psalmen*, pp. 16, 224, 236; Gunkel, *Ausgewählte Psalmen*, p. 140.
 
 888. *Horologion*, MS Moscow Typographical Library No. 59 (223) [year] 148?, fol. 134.
 
-889. Differently: E. Diakovsky, *The Order of the Hours and the Typika* [*Последование часов и изобразительных*] (Kyiv, 1913), pp. 7–13.
+889. Differently: E. Diakovsky, *The Order of the Hours and the Typika* (*Последование часов и изобразительных*) (Kyiv, 1913), pp. 7–13.
 
 890. MS Vatican Library No. 1877, 12th century, fol. 190; A. Dmitrievsky, *Typika*, p. 870.
 
@@ -1884,11 +1880,11 @@ Priest N. Grossu, *St. Theodore the Studite* [*Прп. Феодор Студит
 
 892. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia*, p. 319; MS Moscow Rumyantsev Museum, Sevastyanov Collection No. 491/35, fol. 8; Synodal Library, Greek No. 381, fol. 6v; No. 328/383, fol. 10.
 
-893. MS Moscow Synodal Library No. 678/386, fol. 14v. The Coptic and Abyssinian Churches, which contain in their other services so much that is similar to ours, do not have the First Hour; but the latter, at a service analogous to our Matins, has a prayer fairly close to “O Christ, the True Light” (B. Turayev, *The Horologion of the Ethiopian Church*, p. 13). — In the Roman Catholic Church, the First Hour [Prime] differs significantly from the others in its structure and is longer than they are. Into the customary beginning the Creed is inserted; the hymn at dawn (*Iam lucis orto sidere*) invites us to pray that God may preserve us in our daily actions from everything harmful, curb the tongue, shield our sight from vanity, cleanse the heart, wipe away the haughtiness of the flesh, so that toward the end of the day, having been purified by abstinence, we might sing His glory; the antiphon on Sunday is Alleluia; on ordinary weekdays: “Blessed are those that walk in the law of the Lord” (Ps. 118:1); Ps. 53; then on Sunday Ps. 117; Monday Ps. 23; Tuesday Ps. 24; Wednesday Ps. 25; Thursday Ps. 22; Friday Ps. 21; Saturday and feasts—nothing; then always two sections of Ps. 118: vv. 1–16 and 17–32; on Sunday the Athanasian Creed with antiphon Alleluia (thrice); the *capitulum* on Sunday is 1 Tim. 1:17 (the doxology “To the King of ages”); on weekdays Zech. 8:19 (according to the Vulgate: “Love peace and truth, saith the Lord Almighty”), with the responsory “Thanks be to God.” “O Christ, Son of the Living God, have mercy on us (twice). Thou that sittest at the right hand of the Father, have mercy on us. Glory to the Father, and to the Son, and to the Holy Spirit. O Christ, Son... Arise, O Christ, help us, and deliver us for Thy name's sake.” Then prayers with confession (omitted on great feasts): *Kyrie eleison, Christe eleison, Kyrie eleison*; the Our Father and the Creed secretly, with the proclamation of the last verse in both; responsories: verses from Ps. 87:14; 70:8 (= with us); 50:11–14 (on weekdays twelve more responsories: from Pss. 139:1; 88:1; 60:9; 64:1; 69:1, containing petitions for deliverance from enemies, vows to God, for God's help; our Trisagion; and again 5 responsories from Ps. 102:1–5 on God's mercies); 123:8 (for help); the priest recites the confession (*confessio*) of sins to God and to various saints with a petition to the saints for their prayers (*Confiteor*); the choir responds: “May Almighty God have mercy (*Misereatur*) upon thee, and having forgiven thy sins, bring thee to eternal life, amen”; then the choir makes confession, and the priest gives the same response with the addition: “May the Almighty and Merciful Lord grant us pardon (*indulgentiam*), absolution, and remission of our sins”; and the responsories: “Vouchsafe, O Lord, to keep us this day without sin;
+893. MS Moscow Synodal Library No. 678/386, fol. 14v. The Coptic and Abyssinian Churches, which contain in their other services so much that is similar to ours, do not have the First Hour; but the latter, at a service analogous to our Matins, has a prayer fairly close to “O Christ, the True Light” (B. Turayev, *The Horologion of the Ethiopian Church*, p. 13). — In the Roman Catholic Church, the First Hour [Prime] differs significantly from the others in its structure and is longer than they are. Into the customary beginning the Creed is inserted; the hymn at dawn (*Iam lucis orto sidere*) invites us to pray that God may preserve us in our daily actions from everything harmful, curb the tongue, shield our sight from vanity, cleanse the heart, wipe away the haughtiness of the flesh, so that toward the end of the day, having been purified by abstinence, we might sing His glory; the antiphon on Sunday is Alleluia; on ordinary weekdays: “Blessed are those that walk in the law of the Lord” (Ps. 118:1); Ps. 53; then on Sunday Ps. 117; Monday Ps. 23; Tuesday Ps. 24; Wednesday Ps. 25; Thursday Ps. 22; Friday Ps. 21; Saturday and feasts—nothing; then always two sections of Ps. 118: vv. 1–16 and 17–32; on Sunday the Athanasian Creed with antiphon Alleluia (thrice); the *capitulum* on Sunday is 1 Tim. 1:17 (the doxology “To the King of ages”); on weekdays Zech. 8:19 (according to the Vulgate: “Love peace and truth, says the Lord Almighty”), with the responsory “Thanks be to God.” “O Christ, Son of the Living God, have mercy on us (twice). Thou that sittest at the right hand of the Father, have mercy on us. Glory to the Father, and to the Son, and to the Holy Spirit. O Christ, Son... Arise, O Christ, help us, and deliver us for Thy name's sake.” Then prayers with confession (omitted on great feasts): *Kyrie eleison, Christe eleison, Kyrie eleison*; the Our Father and the Creed secretly, with the proclamation of the last verse in both; responsories: verses from Ps. 87:14; 70:8 (= with us); 50:11–14 (on weekdays twelve more responsories: from Pss. 139:1; 88:1; 60:9; 64:1; 69:1, containing petitions for deliverance from enemies, vows to God, for God's help; our Trisagion; and again 5 responsories from Ps. 102:1–5 on God's mercies); 123:8 (for help); the priest recites the confession (*confessio*) of sins to God and to various saints with a petition to the saints for their prayers (*Confiteor*); the choir responds: “May Almighty God have mercy (*Misereatur*) upon thee, and having forgiven thy sins, bring thee to eternal life, amen”; then the choir makes confession, and the priest gives the same response with the addition: “May the Almighty and Merciful Lord grant us pardon (*indulgentiam*), absolution, and remission of our sins”; and the responsories: “Vouchsafe, O Lord, to keep us this day without sin;
 
 Have mercy on us, O Lord, have mercy on us,” and Pss. 32:22; 106:2; “The Lord be with you.” A prayer to Almighty God for a sinless and virtuous upcoming day; “The Lord be with you...”; “Let us bless the Lord; thanks be to God”; and the reading of the Martyrology and responsories after it: “Precious in the sight of the Lord” (Ps. 115:6); a brief prayer to the Most Holy Virgin Mary and to all the saints for obtaining God's help and salvation; again Ps. 123:8; Glory to the Father; *Kyrie eleison*... the Our Father secretly, with the proclamation of the conclusion; responsory Ps. 89:16, 17 (= with us at Matins at the Aposticha); a prayer to God the Savior of the world for the direction and sanctification of today's senses, speech, and deeds in the commandments of God; the blessing: “*Iube, Domine, benedicere*” (“Command, Master, to bless”). “May the Lord Almighty order our days and our deeds in His peace, amen.” A short reading from 2 Thess. 3:5; responsory again from Ps. 123:8; and the concluding blessing: “Blessed be God. May the Lord bless us, and defend us from all evil, and bring us unto eternal life; and may the souls of the faithful, through the mercy of God, rest in peace. Amen” (*Breviarium Romanum*, I, pp. 24–43; II, pp. 25–44; III, pp. 23–41; IV, pp. 24–42).
 
-894. Old Believer *Typikon*, fol. 18; Arseny, Bishop of Uralsk, *Practical Typikon* [*Устав практический*], fol. 86v.
+894. Old Believer *Typikon*, fol. 18; Arseny, Bishop of Uralsk, *Practical Typikon* (*Устав практический*), fol. 86v.
 
 895. John 19:14; 18:28.
 
@@ -1902,9 +1898,9 @@ Have mercy on us, O Lord, have mercy on us,” and Pss. 32:22; 106:2; “The Lor
 
 900. “Faint-heartedness” [Ps. 54:9], ὀλιγοψυχίας, from ψῦχος—cold, chill,—must be the stifling heat.
 
-901. “Of like soul” [equal-souled; Slavonic *равнодушне*, Ps. 54:14], ἰσόψυχος,—from the Hebrew, equal to me or that which I am, an *alter ego*; “my master” [*владыко мой*], ἡγεμών, must be in the sense of highly respected; in the Hebrew—“friend”.
+901. “Of like soul” (*equal-souled; Slavonic *равнодушне*, Ps. 54:14*), ἰσόψυχος,—from the Hebrew, equal to me or that which I am, an *alter ego*; “my master” (*владыко мой*), ἡγεμών, must be in the sense of highly respected; in the Hebrew—“friend”.
 
-902. “From the pestilence that walketh in darkness” [Ps. 90:6; Slavonic: *от вещи во тьме преходящия*]—Hebrew “plague”—perhaps referring to the destruction at night by the Angel of the Egyptian firstborn and the Assyrian army; “from the mishap” [*от сряща*], σύμπτωμα—an attack [fit, stroke]; “the noonday demon,” Hebrew “the devastating one”; “1000”—as during an epidemic or in war.
+902. “From the pestilence that walks in darkness” (*Ps. 90:6; Slavonic: *от вещи во тьме преходящия*)—Hebrew “plague”—perhaps referring to the destruction at night by the Angel of the Egyptian firstborn and the Assyrian army; “from the mishap” (*от сряща*), σύμπτωμα—an attack [fit, stroke]; “the noonday demon,” Hebrew “the devastating one”; “1000”—as during an epidemic or in war.
 
 903. Moll, *Der Psalter*, I, pp. 271–277; Duhm, *Die Psalmen*, pp. 149–153; Gunkel, *Ausgewählte Psalmen*, pp. 145–151.
 
@@ -1918,7 +1914,7 @@ Have mercy on us, O Lord, have mercy on us,” and Pss. 32:22; 106:2; “The Lor
 
 907. Gunkel, *Ausgewählte Psalmen*, pp. 164–169; Moll, *Der Psalter*, p. 220; Duhm, *Die Psalmen*, p. 297.
 
-908. A. Petrovsky, *Apostolic Liturgies of the Eastern Church* [*Апостольские литургии восточной церкви*], Appendix, p. 62.
+908. A. Petrovsky, *Apostolic Liturgies of the Eastern Church* (*Апостольские литургии восточной церкви*), Appendix, p. 62.
 
 909. Bishop Porphyrius, *The Teaching of Faith, Divine Service... of the Copts*, p. 128.
 
@@ -1932,11 +1928,11 @@ Have mercy on us, O Lord, have mercy on us,” and Pss. 32:22; 106:2; “The Lor
 
 914. C. A. Swainson, *The Greek Liturgies*, pp. 112, 113.
 
-915. *Heirmologion* [*Ирмологий*] (Moscow, 1895), fols. 106–107.
+915. *Heirmologion* (*Ирмологий*) (Moscow, 1895), fols. 106–107.
 
 916. The order of singing is set forth in the *Heirmologion* (Moscow, 1895), fol. 108.
 
-917. I. Dmitrievsky, *Historical, Dogmatic, and Mystagogical Exposition of the Liturgy* [*Историческое, догматическое и таинственное изъяснение на литургию*] (Moscow, 1803), Part II, § 43.
+917. I. Dmitrievsky, *Historical, Dogmatic, and Mystagogical Exposition of the Liturgy* (*Историческое, догматическое и таинственное изъяснение на литургию*) (Moscow, 1803), Part II, § 43.
 
 918. Therefore, one cannot speak without grief of soul about the fact that usually the troparia on the Beatitudes are omitted. And this at the Liturgy, a service so brief and so sacred, that here less than anywhere are omissions permissible. The omission of the troparia on the Beatitudes reduces a festal Liturgy to the level of a weekday service, ruining the feast. Still more is this done by reading them instead of singing them.
 
@@ -1968,7 +1964,7 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 931. Bishop Porphyrius, *The Teaching of Faith, Divine Service... of the Copts*, p. 128; *The Divine Service of the Abyssinians*, p. 59; A. Petrovsky, *Apostolic Liturgies of the Eastern Church*, p. 65.
 
-932. Archpriest K. Kekelidze, *The Jerusalem Kanonarion of the 7th Century* [*Иерусалимский канонарь VII века*] (Tiflis, 1912), pp. 43, 44, etc.
+932. Archpriest K. Kekelidze, *The Jerusalem Kanonarion of the 7th Century* (*Иерусалимский канонарь VII века*) (Tiflis, 1912), pp. 43, 44, etc.
 
 933. C. A. Swainson, *The Greek Liturgies*, pp. 16, 193, 226, 227.
 
@@ -1978,7 +1974,7 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 936. A. Dmitrievsky, *Typika*, p. 610.
 
-937. On the basis of the expressions in the Typikon: “the Epistle from the Acts” [*Апостол из Деяний*].
+937. On the basis of the expressions in the Typikon: “the Epistle from the Acts” (*Апостол из Деяний*).
 
 938. *Missale Romanum*, p. 9; Bishop Porphyrius, *The Teaching of Faith, Divine Service... of the Copts*, p. 129; *The Divine Service of the Abyssinians*, p. 60; A. Petrovsky, *Apostolic Liturgies of the Eastern Church*, Appendix, p. 65.
 
@@ -1994,15 +1990,15 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 944. [Described by] Agnes Smith Lewis, by whom it was also published: A. S. Lewis, *A Palestinian Syriac Lectionary* (1897).
 
-945. I. Karabinov, “Toward the History of the Jerusalem Typikon” [*К истории Иерусалимского устава*] // *Khristianskoye Chteniye* 1912, March, pp. 360–382; April, pp. 483–494.
+945. I. Karabinov, “Toward the History of the Jerusalem Typikon” (*К истории Иерусалимского устава*) // *Khristianskoye Chteniye* 1912, March, pp. 360–382; April, pp. 483–494.
 
-946. Their description: A. Ivanov, *The Greek Manuscript Epistle Lectionary [Apostolos] Belonging to the Forerunner Church in the City of Kerch; The Greek Manuscript Gospel Located in the Library of the Taurida Seminary* [*Греческий рукописный Апостол, принадлежащий Предтечевской церкви в г. Керчи. Греческое рукописное Евангелие, находящееся в библиотеке Таврической семинарии*], offprint from *Zapiski Imperatorskogo Russkogo Arkheologicheskogo Obshchestva* (St. Petersburg, 1886), I.
+946. Their description: A. Ivanov, *The Greek Manuscript Epistle Lectionary [Apostolos] Belonging to the Forerunner Church in the City of Kerch; The Greek Manuscript Gospel Located in the Library of the Taurida Seminary* (*Греческий рукописный Апостол, принадлежащий Предтечевской церкви в г. Керчи. Греческое рукописное Евангелие, находящееся в библиотеке Таврической семинарии*), offprint from *Zapiski Imperatorskogo Russkogo Arkheologicheskogo Obshchestva* (St. Petersburg, 1886), I.
 
-947. N. Glubokovsky, *The Greek Manuscript Evangelion from the Collection of Prof. I. E. Troitsky* [*Греческий рукописный Евангелистарий из собрания проф. И. Е. Троицкого*] (St. Petersburg, 1897) // Supplement to *Khristianskoye Chteniye* 1896–1898, pp. 15, 39–40.
+947. N. Glubokovsky, *The Greek Manuscript Evangelion from the Collection of Prof. I. E. Troitsky* (*Греческий рукописный Евангелистарий из собрания проф. И. Е. Троицкого*) (St. Petersburg, 1897) // Supplement to *Khristianskoye Chteniye* 1896–1898, pp. 15, 39–40.
 
 948. F. H. A. Scrivener, *A Plain Introduction to the Criticism of the New Testament* (London, 1894), I, p. 349.
 
-949. *Ostromir Gospel of 1056–1057* [*Остромирово Евангелие 1056–1057 гг.*], preserved in the Imperial Public Library; phototype ed. (St. Petersburg, 1883).
+949. *Ostromir Gospel of 1056–1057* (*Остромирово Евангелие 1056–1057 гг.*), preserved in the Imperial Public Library; phototype ed. (St. Petersburg, 1883).
 
 950. One of the main motivations for Luther to retain the former system was the absence of good commentaries (aids for the preacher) on other portions of the New Testament (M. Luther, *Deutsche Messe und Ordnung des Gottesdienstes*, 1526; Alt, *Das Kirchenjahr*, p. 147).
 
@@ -2026,7 +2022,7 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 960. C. A. Swainson, *The Greek Liturgies*, pp. 40, 196, 290.
 
-961. Goar, *Euchologion*, pp. 93, 151; Archpriest Orlov, *The Liturgy of St. Basil the Great* [*Литургия святого Василия Великого*], p. 214.
+961. Goar, *Euchologion*, pp. 93, 151; Archpriest Orlov, *The Liturgy of St. Basil the Great* (*Литургия святого Василия Великого*), p. 214.
 
 962. *Hieratikon* [Ἱερατικόν], p. 110.
 
@@ -2048,7 +2044,7 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 971. St. Symeon of Thessalonica, *On the Divine Prayer*, chs. 322, 324.
 
-972. Korolkov, *The Solovetsky Monastery* [*Соловецкая обитель*], p. 49; Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 633.
+972. Korolkov, *The Solovetsky Monastery* (*Соловецкая обитель*), p. 49; Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 633.
 
 973. Archpriest K. Nikolsky, *Manual for the Study of the Typikon*, p. 363.
 
@@ -2056,9 +2052,9 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 975. Thus all the Twelve Great Feasts are called in Chapter 3 of the Typikon (“the order of the blessing of kolyva”), Chapter 5 (“Note”), and Chapter 6.
 
-976. This tradition is not cited in their accounts of the Dormition of the Mother of God by Symeon Metaphrastes (10th/12th c.) and Nikephoros Kallistos (14th c.), who provide the narrative of this event already in its present finished form. It must be that into the *Menologion* [*Четьи-Минеи*] this tradition was introduced from liturgical monuments; moreover, with that specific detail of the account of the Dormition that the tomb of the Mother of God was opened at the request of the Apostle Thomas, the present tradition was reconciled such that the Apostles, not finding the body of the Mother of God in the tomb, prayed to God to reveal to them its fate, and in answer to this prayer the Mother of God appeared to them at the refectory table.
+976. This tradition is not cited in their accounts of the Dormition of the Mother of God by Symeon Metaphrastes (10th/12th c.) and Nikephoros Kallistos (14th c.), who provide the narrative of this event already in its present finished form. It must be that into the *Menologion* (*Четьи-Минеи*) this tradition was introduced from liturgical monuments; moreover, with that specific detail of the account of the Dormition that the tomb of the Mother of God was opened at the request of the Apostle Thomas, the present tradition was reconciled such that the Apostles, not finding the body of the Mother of God in the tomb, prayed to God to reveal to them its fate, and in answer to this prayer the Mother of God appeared to them at the refectory table.
 
-977. J. Buxtorf, *Synagoga Iudaica* (1680), p. 263; I. Karabinov, *The Eucharistic Prayer (Anaphora)* [*Евхаристическая молитва (анафора)*] (St. Petersburg, 1908), p. 10.
+977. J. Buxtorf, *Synagoga Iudaica* (1680), p. 263; I. Karabinov, *The Eucharistic Prayer (Anaphora)* (*Евхаристическая молитва (анафора)*) (St. Petersburg, 1908), p. 10.
 
 978. See Introductory Chapter, pp. 52–55, 77, 80–82.
 
@@ -2068,7 +2064,7 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 981. A. Dmitrievsky, *Typika*, pp. 234–235, 251.
 
-982. V. Vinogradov, *Typikon Readings* [*Уставные чтения*] (Sergiev Posad, 1914), p. 37.
+982. V. Vinogradov, *Typikon Readings* (*Уставные чтения*) (Sergiev Posad, 1914), p. 37.
 
 983. Archpriest K. Kekelidze, *Liturgical Monuments of Georgia* (Tiflis, 1908), pp. 307–308.
 
@@ -2084,19 +2080,19 @@ the *Sluzhebnik* [states]: “While the Alleluia is being sung, the deacon, taki
 
 989. MS Museum of the Kyiv Theological Academy No. Aa 194, pp. 98–99.
 
-990. Old Believer *Typikon*, fols. (48, 49) 95–98. The Old Believer Typikon appends also “the rite of the Panagia on a journey according to the rule of the Holy Mountain.” While on a journey, one must carry with oneself “the image of the All-Pure Lady of the Panagia” (the panagiarion), and having taken from the church “the little loaf of the Mother of God,” perform—even if alone—the entire rite, beginning with “Great is the Name”; if several brethren are on the journey, the senior performs it, but does not distribute the bread to the others, which only a priest and a deacon have the right to do, but each breaks off a portion for himself. If there is no panagiarion, the loaf is placed upon the right hand with the words “Blessed is God Who hath mercy upon us and nourisheth us”; “then having arranged the fingers of his hand as a priest makes the sign of the cross, and holding the bread in his hand, he signs the cross with his hand and, lifting the bread on high, says: ‘Great is the Name’; and if there be no other brethren, he himself says: ‘of the Most Holy Trinity’; and in that place (?) he makes the sign of the cross over his image (icon?) with the hand in which he holds the bread, saying: ‘O Most Holy Sovereign Lady,’ and [brings] his hand to his forehead; ‘Theotokos,’ his hand to his breast; ‘help,’ his hand to his right shoulder; ‘us,’ his hand to his left shoulder; then he says: ‘By her prayers,’” etc.; instead of “Gracious and merciful,” Ps. 121, the Trisagion, etc. (fols. (50) 99v–100).
+990. Old Believer *Typikon*, fols. (48, 49) 95–98. The Old Believer Typikon appends also “the rite of the Panagia on a journey according to the rule of the Holy Mountain.” While on a journey, one must carry with oneself “the image of the All-Pure Lady of the Panagia” (the panagiarion), and having taken from the church “the little loaf of the Mother of God,” perform—even if alone—the entire rite, beginning with “Great is the Name”; if several brethren are on the journey, the senior performs it, but does not distribute the bread to the others, which only a priest and a deacon have the right to do, but each breaks off a portion for himself. If there is no panagiarion, the loaf is placed upon the right hand with the words “Blessed is God Who hath mercy upon us and nourishes us”; “then having arranged the fingers of his hand as a priest makes the sign of the cross, and holding the bread in his hand, he signs the cross with his hand and, lifting the bread on high, says: ‘Great is the Name’; and if there be no other brethren, he himself says: ‘of the Most Holy Trinity’; and in that place (?) he makes the sign of the cross over his image (icon?) with the hand in which he holds the bread, saying: ‘O Most Holy Sovereign Lady,’ and [brings] his hand to his forehead; ‘Theotokos,’ his hand to his breast; ‘help,’ his hand to his right shoulder; ‘us,’ his hand to his left shoulder; then he says: ‘By her prayers,’” etc.; instead of “Gracious and merciful,” Ps. 121, the Trisagion, etc. (fols. (50) 99v–100).
 
-991. The custom of the elevation of the Panagia at the Liturgy was not alien to the Slavic Churches either. Thus, in a Slavonic order of the Hierarchical Liturgy according to a 17th-century manuscript, after “Especially” [*Изрядно*] and the rubric for the commemoration of the living and the dead, there is the remark: “then he elevateth the Panagia, that is, the *hypsoma* [ὕψωμα, ‘elevation’], if he wisheth, for the help of soul and body; and it is done thus: the hierarch, taking a particle of prosphora with the tips of two fingers of both hands, makes the sign of the cross with it above the All-Pure Mysteries of the holy chalice and the Holy Diskos, saying thus: Great is the Name of the Holy Trinity; Most Holy Theotokos, help Thy servant, our right-believing Tsar Alexis, and deliver him from every distress, and vouchsafe unto him the right-hand standing of Thy Son and God; thus he does also for the other names, as many as he wisheth; and they keep it for use in every necessity and infirmity” (MS Moscow Synodal Library No. 670/368, fol. 47; K. Nevostruyev and Archpriest A. Gorsky, *Description of the Slavonic Manuscripts of the Moscow Synodal Library* [Moscow, 1869], III, p. 107).
+991. The custom of the elevation of the Panagia at the Liturgy was not alien to the Slavic Churches either. Thus, in a Slavonic order of the Hierarchical Liturgy according to a 17th-century manuscript, after “Especially” (*Изрядно*) and the rubric for the commemoration of the living and the dead, there is the remark: “then he elevates the Panagia, that is, the *hypsoma* [ὕψωμα, ‘elevation’], if he wishes, for the help of soul and body; and it is done thus: the hierarch, taking a particle of prosphora with the tips of two fingers of both hands, makes the sign of the cross with it above the All-Pure Mysteries of the holy chalice and the Holy Diskos, saying thus: Great is the Name of the Holy Trinity; Most Holy Theotokos, help Thy servant, our right-believing Tsar Alexis, and deliver him from every distress, and vouchsafe unto him the right-hand standing of Thy Son and God; thus he does also for the other names, as many as he wishes; and they keep it for use in every necessity and infirmity” (MS Moscow Synodal Library No. 670/368, fol. 47; K. Nevostruyev and Archpriest A. Gorsky, *Description of the Slavonic Manuscripts of the Moscow Synodal Library* [Moscow, 1869], III, p. 107).
 
-992. St. Symeon of Thessalonica, *On the Divine Prayer*, chs. 322–324; St. Mark, Metropolitan of Ephesus, *Exposition of the Church Order of the Panagia* [*Изъяснение церковного последования о панагии*] // *Writings of the Holy Fathers and Teachers of the Church Pertaining to the Interpretation of Orthodox Divine Service* [*Писания святых отцов и учителей церкви, относящиеся к истолкованию православного богослужения*], in 3 vols. (St. Petersburg, 1856–1857), Vol. 2, pp. 510–517; Vol. 3, pp. 274–276.
+992. St. Symeon of Thessalonica, *On the Divine Prayer*, chs. 322–324; St. Mark, Metropolitan of Ephesus, *Exposition of the Church Order of the Panagia* (*Изъяснение церковного последования о панагии*) // *Writings of the Holy Fathers and Teachers of the Church Pertaining to the Interpretation of Orthodox Divine Service* (*Писания святых отцов и учителей церкви, относящиеся к истолкованию православного богослужения*), in 3 vols. (St. Petersburg, 1856–1857), Vol. 2, pp. 510–517; Vol. 3, pp. 274–276.
 
 993. And this repose is described thus: After the Liturgy the Patriarch goes to his cell, and behind him go “the dignitaries (clergy), serving and non-serving, and monastics, and secular priests, and laymen, and whoever happens to be there of private persons”; in the cell the Patriarch sits down, and all sit with him; “then the Patriarch himself drinks a small glass cup of grape wine, like unto our grain spirit [vodka], in their language *raki*; then the deacons serve it to the rest as well; and thus on feasts, or Saturday and Sunday; and all the brethren, having gone down into the cellar, drink there a cup each of that same wine distilled from grapes.”
 
-994. Arseny Sukhanov, *Proskynitarion* [*Проскинитарий*], ch. 46 // *Pravoslavny Palestinsky Sbornik* (St. Petersburg, 1889), VII, III, pp. 279–289.
+994. Arseny Sukhanov, *Proskynitarion* (*Проскинитарий*), ch. 46 // *Pravoslavny Palestinsky Sbornik* (St. Petersburg, 1889), VII, III, pp. 279–289.
 
-995. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* [*Новая скрижаль*], in 4 parts (St. Petersburg, 1858), Part IV, p. 177.
+995. Archbishop Veniamin (Krasnopevkov-Rumovsky), *The New Tablet* (*Новая скрижаль*), in 4 parts (St. Petersburg, 1858), Part IV, p. 177.
 
-996. Kodinos [Pseudo-Kodinos], *De officialibus palatii Constantinopolitani*, p. 7. In the Roman Catholic Church there is likewise an order of table blessing, reminiscent of our own. There is a distinct order for dinner (*prandium*, properly luncheon) and supper (*coena*). Each consists of two parts: prayers before taking food, and after. The order begins with the priest's exclamation “Bless ye” (*Benedicite*), repeated by those present. Before dinner (or luncheon) the priest begins: “The eyes of all look unto Thee, O Lord...” and those present conclude this passage from Ps. 144:15–16 [LXX 144:15–16; MT 145:15–16]. “Glory... Both now... *Kyrie eleison, Christe eleison, Kyrie eleison*, Our Father.” The prayer, preceded by the customary exclamation “Let us pray”: “Bless us, O Lord, and these Thy gifts, which of Thy bounty we are about to receive, through Christ our Lord. Amen.” The reader: “Vouchsafe (*jube*), master, to bless.” The blessing: “May the King of eternal glory make us partakers of the heavenly table. Amen.” After dinner (or luncheon): When the reader says: “Thou, however, O Lord, have mercy upon us” [*Tu autem, Domine, miserere nobis*], the response is: “Thanks be to God” [*Deo gratias*]; all rise, and the priest [says]: “Let all Thy works praise Thee, O Lord...” (Ps. 144:10 [LXX 144:10; MT 145:10]), “Glory... Both now...”, and the prayer (*absolute* [without “Let us pray”]): “We give Thee thanks, Almighty God, for all Thy benefits, Who livest and reignest unto ages of ages.” Psalm 50 or 116 is recited alternately, “Glory... Both now... *Kyrie eleison*,” etc., “Our Father” (secretly, with the conclusion proclaimed aloud). Responses from Ps. 111:9 (“He hath dispersed, He hath given to the poor...” [LXX 111:9; MT 112:9]), Ps. 33:2–4 [LXX 33:2–4; MT 34:1–3], and Ps. 112:2 (“Blessed be the name of the Lord...” [LXX 112:2; MT 113:2]). The prayer (without “Let us pray”): “Vouchsafe, O Lord, to reward with eternal life all who do good to us for Thy name's sake. Amen.” Response: “Let us bless the Lord. Thanks be to God. May the souls of the faithful departed, through the mercy of God, rest in peace.” “Our Father...” (secretly). The priest: “May God grant us His peace. Amen.” Before supper the priest, after an introduction identical to that before dinner, begins: “The poor shall eat...” (Ps. 21:27 [LXX 21:27; MT 22:26]) (cf. our own rite!), “Glory... Both now...”, and the rest as at dinner, except for the concluding blessing: “May the King of eternal glory bring us unto the supper of eternal life.” At the end of supper is said: “He hath made a memorial...” (Ps. 110:5 [LXX 110:4–5; MT 111:4–5]), “Glory... Both now...” The priest: “Blessed is God in His gifts, and holy in all His works, Who liveth and reigneth unto ages of ages. Amen.” Psalm 116 and all following as at dinner. If there is only one meal in the day, then the second order is performed. For the refectory on Great Thursday, Friday, and Saturday, Bright Week, and the days from Ascension to the Apodosis of Pentecost, and on the days of the Nativity of Christ and Theophany with their afterfeasts, there is a special order—with proper responses at the beginning and end and a proper psalm (*Breviarium Romanum* [Ratisbon, 1897], I, pp. (238)–(270); II, pp. (247)–(250); III and IV, pp. (233)–(234)).
+996. Kodinos [Pseudo-Kodinos], *De officialibus palatii Constantinopolitani*, p. 7. In the Roman Catholic Church there is likewise an order of table blessing, reminiscent of our own. There is a distinct order for dinner (*prandium*, properly luncheon) and supper (*coena*). Each consists of two parts: prayers before taking food, and after. The order begins with the priest's exclamation “Bless ye” (*Benedicite*), repeated by those present. Before dinner (or luncheon) the priest begins: “The eyes of all look unto Thee, O Lord...” and those present conclude this passage from Ps. 144:15–16 [LXX 144:15–16; MT 145:15–16]. “Glory... Both now... *Kyrie eleison, Christe eleison, Kyrie eleison*, Our Father.” The prayer, preceded by the customary exclamation “Let us pray”: “Bless us, O Lord, and these Thy gifts, which of Thy bounty we are about to receive, through Christ our Lord. Amen.” The reader: “Vouchsafe (*jube*), master, to bless.” The blessing: “May the King of eternal glory make us partakers of the heavenly table. Amen.” After dinner (or luncheon): When the reader says: “Thou, however, O Lord, have mercy upon us” [*Tu autem, Domine, miserere nobis*], the response is: “Thanks be to God” [*Deo gratias*]; all rise, and the priest [says]: “Let all Thy works praise Thee, O Lord...” (Ps. 144:10 [LXX 144:10; MT 145:10]), “Glory... Both now...”, and the prayer (*absolute* [without “Let us pray”]): “We give Thee thanks, Almighty God, for all Thy benefits, Who livest and reignest unto ages of ages.” Psalm 50 or 116 is recited alternately, “Glory... Both now... *Kyrie eleison*,” etc., “Our Father” (secretly, with the conclusion proclaimed aloud). Responses from Ps. 111:9 (“He hath dispersed, He hath given to the poor...” [LXX 111:9; MT 112:9]), Ps. 33:2–4 [LXX 33:2–4; MT 34:1–3], and Ps. 112:2 (“Blessed be the name of the Lord...” [LXX 112:2; MT 113:2]). The prayer (without “Let us pray”): “Vouchsafe, O Lord, to reward with eternal life all who do good to us for Thy name's sake. Amen.” Response: “Let us bless the Lord. Thanks be to God. May the souls of the faithful departed, through the mercy of God, rest in peace.” “Our Father...” (secretly). The priest: “May God grant us His peace. Amen.” Before supper the priest, after an introduction identical to that before dinner, begins: “The poor shall eat...” (Ps. 21:27 [LXX 21:27; MT 22:26]) (cf. our own rite!), “Glory... Both now...”, and the rest as at dinner, except for the concluding blessing: “May the King of eternal glory bring us unto the supper of eternal life.” At the end of supper is said: “He hath made a memorial...” (Ps. 110:5 [LXX 110:4–5; MT 111:4–5]), “Glory... Both now...” The priest: “Blessed is God in His gifts, and holy in all His works, Who lives and reigns unto ages of ages. Amen.” Psalm 116 and all following as at dinner. If there is only one meal in the day, then the second order is performed. For the refectory on Great Thursday, Friday, and Saturday, Bright Week, and the days from Ascension to the Apodosis of Pentecost, and on the days of the Nativity of Christ and Theophany with their afterfeasts, there is a special order—with proper responses at the beginning and end and a proper psalm (*Breviarium Romanum* [Ratisbon, 1897], I, pp. (238)–(270); II, pp. (247)–(250); III and IV, pp. (233)–(234)).
 
 997. In the ancient Coptic and Abyssinian Churches, other great events were also celebrated not merely annually, but monthly—for example, the Nativity of Christ (Introductory Chapter, pp. 325–326); on the other hand, in the Orthodox Church as well, the Resurrection of Christ is celebrated weekly, so to speak, not in its pure isolated form, but in conjunction with the commemoration of the death of Christ (see above, pp. 112, 677).
 

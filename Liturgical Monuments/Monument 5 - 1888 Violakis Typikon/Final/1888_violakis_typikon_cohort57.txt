@@ -12,7 +12,7 @@
 
     Εἰ τύχοι ταῖς ἑπομέναις δυσὶ Κυριακαῖς καὶ ταῖς λοιπαῖς τῶν ἑβδομάδων τούτων ἡμέραις, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν διάταξιν τῆς ἑορτῆς τοῦ ἁγίου Γεωργίου ἐν § 23-26 καὶ 33.
 
-### Β΄.
+**Β΄.**
 
 4.    Εἰ τύχοι τῇ Τετάρτῃ τῆς Μεσοπεντηκοστῆς, τῇ Τρίτῃ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τῆς ἑορτῆς Προσόμοια γ΄ καὶ τοῦ Εὐαγγελιστοῦ γ΄. Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν τῆς ἑορτῆς. Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον τῆς ἡμέρας, καὶ τὰ Ἀναγνώσματα, β΄ τῆς ἑορτῆς καὶ ἓν τοῦ Εὐαγγελιστοῦ. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ τῆς ἑορτῆς Ἰδιόμελα, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν τῆς ἑορτῆς, τὸ Ἀπολυτίκιον τῆς ἑορτῆς, τὸ τοῦ Εὐαγγελιστοῦ, αὖθις τὸ τῆς ἑορτῆς καὶ Ἀπόλυσις.
 
@@ -32,7 +32,7 @@
 
     If the Feast of Saint John the Evangelist occurs on the following two Sundays [Sunday of the Paralytic and Sunday of the Samaritan Woman] and the weekdays following those Sundays, the service is sung according to the order of service of the Feast of Saint George in Paragraphs 23–26 and 33.
 
-### SITUATION TWO
+**SITUATION TWO**
 
 4.    If the Feast of Saint John the Evangelist occurs on the Wednesday of Mid-Pentecost, on Tuesday evening, after the Introductory Psalm [Ps. 103 LXX] and the first Stasis [Kathisma] of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing 3 Prosomia of the Feast and 3 of the Evangelist; "Glory...": of the Evangelist; "Both now and ever...": of the Feast. Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Old Testament Lessons: 2 of the Feast and 1 of the Evangelist. At the Aposticha: the 3 Idiomela of the Feast; "Glory...": of the Evangelist; "Both now and ever...": of the Feast. Dismissal Troparia: of the Feast, that of the Evangelist, and again that of the Feast, and Dismissal.
 
@@ -50,7 +50,7 @@
 
     Εἰ δὲ τύχοι ἐν τοῖς μεθεόρτοις καὶ τῇ Ἀποδόσει τῆς ἑορτῆς ταύτης, τὴν τῆς Ἀκολουθίας διάταξιν ὅρα ἐν τῇ ἑορτῇ τοῦ ἁγίου Γεωργίου, [Ἀπριλίου 23], § 30-34.
 
-### Γ΄.
+**Γ΄.**
 
 7.    Εἰ τύχοι τῇ Κυριακῇ τοῦ Τυφλοῦ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν Ἀναστάσιμα δ΄, τοῦ Τυφλοῦ β΄ καὶ δ΄ τοῦ Εὐαγγελιστοῦ, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν, Κύριε παράγων ἐν τῇ ὁδῷ, Εἴσοδος, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα τοῦ Εὐαγγελιστοῦ. Εἰς τὰ Ἀπόστιχα, τὸ Στιχηρὸν Σὲ τὸν σαρκωθέντα καὶ τὰ Στιχηρὰ Πάσχα ἱερόν, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν, Δικαιοσύνης ἥλιε, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τοῦ Εὐαγγελιστοῦ, Θεοτοκίον Πάντα ὑπὲρ ἔννοιαν καὶ Ἀπόλυσις.
 
@@ -64,11 +64,11 @@
 
 ...The Prokeimenon: **"His sound hath gone forth into all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX), and the 11th Matins [Eothinon] Gospel. Then **"Having beheld the Resurrection of Christ"** (*Ἀνάστασιν Χριστοῦ θεασάμενοι*) and Psalm 50 [LXX] read plainly; "Glory...": **"Through the intercessions of the Apostle..."** (*Ταῖς τοῦ Ἀποστόλου πρεσβείαις...*); "Both now and ever...": **"Through the intercessions of the Theotokos..."** (*Ταῖς τῆς Θεοτόκου πρεσβείαις...*); the Verse: **"Have mercy upon me, O God, according to Thy great mercy..."** [Ps. 50:1 LXX], and the Idiomelon **"O faithful, let us bless the summit of the Apostles"** (*Τὴν τῶν Ἀποστόλων ἀκρότητα*, look for this in the Litiya). Both Canons of the Feast and that of the Evangelist. After Ode 3, the Kontakion and Ikos of the Evangelist, the Sessional Hymn of the Evangelist and one of the Feast; after Ode 6, the Kontakion and Ikos of the Feast, the Menologion, and the Synaxarion [Hypomnema] of the Feast. The Katavasiai: **"Thou didst divide the sea"** (*Θάλασσαν ἔπηξας*); then are sung Ode 9 of the Feast and that of the Evangelist. The Exapostilaria: of the Feast, of the Evangelist, and again of the Feast. At the Praises: 3 Prosomia of the Feast and 3 of the Evangelist; "Glory...": of the Evangelist; "Both now and ever...": of the Feast; Great Doxology, and the Dismissal Troparion of the Feast.
 
-6.    In the Divine Liturgy, the Antiphons and the Entrance Hymn [Eisodikon] of Pascha. After the Entrance, the Dismissal Troparion of the Feast, that of the Evangelist, and the Kontakion: **"Of the feast that is intermediate according to the Law"** (*Τῆς ἑορτῆς τῆς νομικῆς*); the Epistle of the Evangelist and the Gospel of the Feast. At "Especially" [Megalynarion], **"Virginity is alien to mothers"** (*Ἀλλότριον τῶν μητέρων*). Communion Hymn of the Feast: **"He that eateth My flesh"** (*Ὁ τρώγων μου τὴν σάρκα*, John 6:56); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
+6.    In the Divine Liturgy, the Antiphons and the Entrance Hymn [Eisodikon] of Pascha. After the Entrance, the Dismissal Troparion of the Feast, that of the Evangelist, and the Kontakion: **"Of the feast that is intermediate according to the Law"** (*Τῆς ἑορτῆς τῆς νομικῆς*); the Epistle of the Evangelist and the Gospel of the Feast. At "Especially" [Megalynarion], **"Virginity is alien to mothers"** (*Ἀλλότριον τῶν μητέρων*). Communion Hymn of the Feast: **"He that eats My flesh"** (*Ὁ τρώγων μου τὴν σάρκα*, John 6:56); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
 
     If the Feast of Saint John the Evangelist occurs in the Afterfeast days or on the Apodosis of this Feast, see Saint George [April 23], Paragraphs 30–34 for the order of the service.
 
-### SITUATION THREE
+**SITUATION THREE**
 
 7.    If the Feast of Saint John the Evangelist occurs on the Sunday of the Blind Man [Sixth Sunday of Pascha], on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing 4 Resurrection Stichira, 2 of the Blind Man, and 4 of the Evangelist; "Glory...": of the Evangelist; "Both now and ever...": **"Lord, passing by on the way"** (*Κύριε παράγων ἐν τῇ ὁδῷ*). Little Entrance, the Prokeimenon, and the Old Testament Lessons of the Evangelist. At the Aposticha: the Stichiron **"Thou Who wast incarnate"** (*Σὲ τὸν σαρκωθέντα*) and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": of the Evangelist; "Both now and ever...": **"O Sun of Righteousness"** (*Δικαιοσύνης ἥλιε*). The Resurrection Dismissal Troparion, that of the Evangelist, the Theotokion **"All thy mysteries are beyond comprehension"** (*Πάντα ὑπὲρ ἔννοιαν*), and Dismissal.
 
@@ -84,7 +84,7 @@
 
 9.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα καὶ τὸ Εἰσοδικὸν τοῦ Πάσχα· μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τοῦ Εὐαγγελιστοῦ, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον τοῦ Πάσχα. Ἀπόστολος τοῦ Εὐαγγελιστοῦ, καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως Ὁ Ἄγγελος ἐβόα . . . Φωτίζου φωτίζου, Κοινωνικὸν Σῶμα Χριστοῦ, Χριστὸς ἀνέστη, Εἴη τὸ ὄνομα Κυρίου καὶ Ἀπόλυσις.
 
-### Δ΄.
+**Δ΄.**
 
 10.    Εἰ τύχοι τῇ Τετάρτῃ τῆς Ἀποδόσεως τοῦ Πάσχα, τῇ Τρίτῃ ἑσπέρας μετὰ τὸ Δόξα τῇ ἁγίᾳ καὶ ὁμοουσίῳ καὶ τὸ Χριστὸς ἀνέστη ὡς εἴθισται, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τῆς Ὀκτωήχου Στιχηρὰ Τὰς ἑσπερινὰς ἡμῶν εὐχὰς ς΄ καὶ δ΄ τοῦ Εὐαγγελιστοῦ, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν, Τὴν παγκόσμιον δόξαν, Εἴσοδος, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ Ἀναγνώσματα τοῦ Εὐαγγελιστοῦ. Εἰς τὰ Ἀπόστιχα τὸ Στιχηρὸν Τῷ πάθει σου Χριστὲ καὶ τὰ Πάσχα ἱερόν, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν, Ἀναστάσεως ἡμέρα, τὸ Χριστὸς ἀνέστη, τὸ Ἀπολυτίκιον τοῦ Εὐαγγελιστοῦ, αὖθις τὸ Χριστὸς ἀνέστη καὶ Ἀπόλυσις.
 
@@ -98,7 +98,7 @@
 
 9.    In the Divine Liturgy, we sing the Antiphons and the Entrance Hymn [Eisodikon] of Pascha; after the Entrance, the Resurrection Dismissal Troparion, that of the Evangelist, that of the Patron Saint of the Church, and the Kontakion of Pascha (*Εἰ καὶ ἐν τάφῳ*). The Epistle of the Evangelist and the Gospel of the Sunday. At "Especially" [Megalynarion], **"The Angel cried out . . . Shine, shine"** (*Ὁ Ἄγγελος ἐβόα . . . Φωτίζου, φωτίζου*). Communion Hymn: **"Receive the Body of Christ"** (*Σῶμα Χριστοῦ*); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
 
-### SITUATION FOUR
+**SITUATION FOUR**
 
 10.    If the Feast of Saint John the Evangelist occurs on the Wednesday of the Apodosis of Pascha, on Tuesday evening, after "Glory to the holy, consubstantial, life-creating, and undivided Trinity" and **"Christ is risen"** as customary, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing 6 Stichira of the Octoechos **"Accept our evening prayers"** (*Τὰς ἑσπερινὰς ἡμῶν εὐχάς*) and 4 of the Evangelist; "Glory...": of the Evangelist; "Both now and ever...": **"The universal glory"** (*Τὴν παγκόσμιον δόξαν*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Old Testament Lessons of the Evangelist. At the Aposticha: the Stichiron **"By Thy Passion, O Christ"** (*Τῷ πάθει σου Χριστέ*) and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": of the Evangelist; "Both now and ever...": **"It is the day of Resurrection"** (*Ἀναστάσεως ἡμέρα*); **"Christ is risen"**, the Dismissal Troparion of the Evangelist, then again **"Christ is risen"**, and Dismissal.[^342]
 
@@ -112,7 +112,7 @@
 
 12.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα καὶ τὸ Εἰσοδικὸν τοῦ Πάσχα, τὸ Χριστὸς ἀνέστη, ἡ Ὑπακοὴ Προλαβοῦσαι τὸν ὄρθρον, τὸ Ἀπολυτίκιον τοῦ Εὐαγγελιστοῦ, τὸ Κοντάκιον Εἰ καὶ ἐν τάφῳ, τὸ Ὅσοι εἰς Χριστόν, ὁ Ἀπόστολος καὶ τὸ Εὐαγγέλιον τοῦ Εὐαγγελιστοῦ. Εἰς τὸ Ἐξαιρέτως Ὁ Ἄγγελος ἐβόα . . . Φωτίζου φωτίζου, Κοινωνικὸν Σῶμα Χριστοῦ, τὸ Χριστὸς ἀνέστη γ΄ καὶ Ἀπόλυσις.
 
-### Ε΄.
+**Ε΄.**
 
 13.    Εἰ τύχοι τῇ Πέμπτῃ τῆς Ἀναλήψεως, τῇ Τετάρτῃ ἑσπέρας μετὰ τὴν θ΄ τοῦ Πάσχα, Εὐλογητὸς ὁ Θεὸς καὶ ὁ Προοιμιακός. Εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τὰ Ἰδιόμελα τῆς ἑορτῆς εἰς ς΄ καὶ τοῦ Εὐαγγελιστοῦ εἰς δ΄, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν τῆς ἑορτῆς.
 
@@ -126,7 +126,7 @@
 
 12.    In the Divine Liturgy, the Antiphons and the Entrance Hymn [Eisodikon] of Pascha; after the Entrance, **"Christ is risen"**, the Hypakoe: **"When they who were with Mary came before the dawn"** (*Προλαβοῦσαι τὸν ὄρθρον*), the Dismissal Troparion of the Evangelist, and the Kontakion: **"Though Thou didst descend into the grave"** (*Εἰ καὶ ἐν τάφῳ*). Instead of the Trisagion Hymn, we chant **"As many as have been baptized into Christ"** (*Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε*, Gal. 3:27); the Epistle and Gospel of the Evangelist. At "Especially" [Megalynarion], **"The Angel cried out . . . Shine, shine"** (*Ὁ Ἄγγελος ἐβόα . . . Φωτίζου, φωτίζου*). Communion Hymn: **"Receive the Body of Christ"** (*Σῶμα Χριστοῦ*); **"Christ is risen"** thrice, and Dismissal.
 
-### SITUATION FIVE
+**SITUATION FIVE**
 
 13.    If the Feast of Saint John the Evangelist occurs on Thursday of the Ascension of Our Lord, on Wednesday evening after the Ninth Hour of Pascha, "Blessed is our God" and the Introductory Psalm [Ps. 103 LXX]. At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing the Idiomela of the Feast in 6 and of the Evangelist in 4; "Glory...": of the Evangelist; "Both now and ever...": of the Feast...[^343]
 
@@ -142,7 +142,7 @@
 
 15.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τῆς ἑορτῆς, καὶ τὸ Εἰσοδικὸν Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ. Μετὰ τὴν Εἴσοδον, τὸ Ἀπολυτίκιον τῆς ἑορτῆς, τὸ τοῦ Εὐαγγελιστοῦ, καὶ τὸ Κοντάκιον τῆς ἑορτῆς. Ἀπόστολος τοῦ Εὐαγγελιστοῦ, καὶ Εὐαγγέλιον τῆς ἑορτῆς. Εἰς τὸ Ἐξαιρέτως, Σὲ τὴν ὑπὲρ νοῦν καὶ λόγον, Κοινωνικὸν Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, τὸ Ἀνελήφθης ἐν δόξῃ, Εἴη τὸ ὄνομα Κυρίου καὶ Ἀπόλυσις.
 
-### ΣΤ΄.
+**ΣΤ΄.**
 
 16.    Εἰ τύχοι ἐν ταῖς μεθεόρτοις ἡμέραις τῆς ἑορτῆς ταύτης ἡ μνήμη τοῦ Εὐαγγελιστοῦ, ἡ Ἀκολουθία αὐτοῦ ψάλλεται ὡς ἐστι
 
@@ -158,6 +158,6 @@
 
 15.    In the Divine Liturgy, the Antiphons of the Feast and the Entrance Hymn [Eisodikon]: **"God is gone up with a shout"** (*Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ*, Ps. 46:6 LXX). After the Entrance, the Dismissal Troparion of the Feast, that of the Evangelist, and the Kontakion of the Feast; the Epistle of the Evangelist and the Gospel of the Feast. At "Especially" [Megalynarion], **"Thee Who art beyond comprehension of mind and word"** (*Σὲ τὴν ὑπὲρ νοῦν καὶ λόγον*). Communion Hymn: **"God is gone up with a shout"** (*Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ*, Ps. 46:6 LXX); the Dismissal Troparion: **"Thou hast ascended in glory, O Christ our God"** (*Ἀνελήφθης ἐν δόξῃ Χριστὲ ὁ Θεὸς ἡμῶν*); **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
 
-### SITUATION SIX
+**SITUATION SIX**
 
 16.    If the commemoration of the Evangelist occurs on one of the Afterfeast days of the Ascension, his service is sung as prescribed in the Menaion together...[^344]

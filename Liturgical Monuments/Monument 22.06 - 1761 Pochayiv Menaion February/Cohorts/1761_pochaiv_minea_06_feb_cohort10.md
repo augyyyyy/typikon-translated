@@ -153,7 +153,7 @@ Present in the sanctuary in spirit, the Elder took into his arms the Master of t
 
 *Glory... Both now... the same.*
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfrathov):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 Bearing the Creator and Master as an infant in her arms, the pure and all-immaculate Virgin enters into the church.
 
 *Verse: Now lettest Thou Thy servant depart in peace, O Master, according to Thy word.*
@@ -166,14 +166,14 @@ Receive, O Simeon, the Lord of glory, as it was revealed unto thee by the Holy S
 === LEAF p96 ===
 ...Now have mine eyes seen Thy promise, O good God; quickly loose me, Thy servant, O Lover of mankind.
 
-*Glory... Both now... Tone 2, the same Podoben:*
+*Glory... Both now... Tone 2, the same Podoben (Подо́бенъ то́йже):*
 Rejoice, thou who didst receive the Joy of the world, Christ the Giver of life, and didst cause the sorrow of our foremother to cease, O Virgin.
 
 *On the eighth day of the same month: the holy Great-Martyr Theodore the Stratelates; and the holy Prophet Zechariah who saw the sickle.[^288]*
 
 *At "Lord, I have cried," Stichera of the Martyr, 3; and of the Prophet, 3.*
 
-*Stichera of the Martyr, Tone 4, Podoben: "As one noble" (Yako dobla):*
+*Stichera of the Martyr, Tone 4, Podoben: "As one noble" (Ꙗ҆́кѡ до́блѧ):*
 A valiant sufferer, an invincible soldier, wast thou shown to be by the Holy Spirit, having cast down the adversary by the wisdom of thy words and by the patient manifestations of thy deeds, O wise one; therefore hast thou received the crowns of victory, and art joined with the choirs on high, O Great-Martyr Theodore.
 
 *Sticheron:*
@@ -182,7 +182,7 @@ A divine pillar of piety wast thou, O exceedingly rich one, abhorring the temple
 *Sticheron:*
 Lifted up upon a cross, and scraped upon thy flesh, and pierced with sharp arrows, and stretched upon the tree, and severed with swords, and encompassed with all manner of torturous contrivances, thou wast shown to be unyielding and unconquerable by the power of Him Who was nailed to the Cross, O Theodore, glory of martyrs.
 
-*Other Stichera, of the Prophet, Tone 2, Podoben: "What shall we call you" (Chto vas narechem):*
+*Other Stichera, of the Prophet, Tone 2, Podoben: "What shall we call you" (Что̀ ва́съ нарече́мъ):*
 Having an angel-like life, thou didst openly converse with the angels, O divinely blessed one, having thine intellect illuminated by them with things beyond mind: a purification of marvelous figures, a revelation of great mysteries, a prophetic illumination and spiritual uplifting; pray thou that our souls may be saved.
 
 *Sticheron:*
@@ -204,7 +204,7 @@ As one whose name bespeaks the gifts of God,[^289] and an heir of His beatitude,
 *Both now... of the Feast, the same Tone:*
 He Who is borne upon the Cherubim and hymned by the Seraphim, today being brought into the divine sanctuary according to the Law, sits as upon a throne in the arms of the Elder, and from Joseph receives gifts in a manner becoming God: as a pair of turtledoves, the undefiled Church and the newly chosen people from the Gentiles; and two young pigeons, as Author of both the Old and the New. Simeon, having received the fulfillment of the promise made unto him, blessed Mary the Virgin Birthgiver of God, and proclaimed the figures of the sufferings that would come from Her; and he asked release from Him, crying aloud: Now dismiss me, O Master, as Thou didst tell me beforehand; for I have seen Thee, the Pre-eternal Light, and the Savior Lord of the people named after Christ.
 
-*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (Dome Evfrathov):*
+*At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 Today the heavenly gates are opened: for Christ, as an infant, is brought into the church by the Virgin Mother unto God and the Father.
 
 *Verse: Now lettest Thou Thy servant depart in peace, O Master, according to Thy word.*
@@ -234,12 +234,12 @@ Rejoice, O Birthgiver of God, Virgin full of grace; for from thee hath shone for
 
 *At Matins, at "God is the Lord," the Troparion of the Feast, twice; Glory... of the Martyr; Both now... of the Feast.*
 
-*After the first Kathisma, Sessional Hymn, Tone 3, Podoben: "The beauty of virginity" (Krasote devstva):*
+*After the first Kathisma, Sessional Hymn, Tone 3, Podoben: "The beauty of virginity" (Красотѣ̀ дв҃ства):*
 Holding Thee incarnate, O Christ, holy Simeon rejoiced: Now lettest Thou Thy servant depart, O Master, he cried; and Anna, the blameless and glorious prophetess, now offers thanksgiving and praise unto Thee. And we, O Giver of life, cry unto Thee: Glory be to Thee Who wast thus well pleased!
 
 *Glory... Both now... the same.*
 
-*After the second Kathisma, Sessional Hymn, Tone 8, Podoben: "The shepherds' pipes" (Svireley pastyrskikh):*
+*After the second Kathisma, Sessional Hymn, Tone 8, Podoben: "The shepherds' pipes" (Свирѣ́лей па́стырскихъ):*
 Thou wast born on earth, Who art co-unoriginate with the Father; Thou wast brought into the church, Who art incomprehensible; and rejoicing, the Elder took Thee into his arms, crying aloud: Now lettest Thou him whom Thou hast visited depart according to Thy word, O Thou Who as God wast well pleased to save mankind.
 
 *Glory... Both now... the same.*

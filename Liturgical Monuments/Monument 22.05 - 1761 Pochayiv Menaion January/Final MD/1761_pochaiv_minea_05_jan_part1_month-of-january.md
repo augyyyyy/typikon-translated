@@ -639,14 +639,14 @@ Thee that containedst in the womb the uncontainable God, and broughtest forth jo
 *Tone 1, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се):*  
 *Sessional Hymn:*  
 Clothed in my poverty, O my Jesus, Thou comest forward, mingling Thyself with servants, and asking for baptism from a servant, O Lover of mankind! Therefore, seeing Thee, John cried aloud: "How shall I baptize Thee, Who hast no defilement at all, O all-good God?"  
-*Glory, and both now, in the same Podoben:*  
+*Glory, and both now, in the same Podoben (Подо́бенъ то́йже):*  
 *Sessional Hymn:*  
 Christ comes forward in His goodness unto the river streams of Jordan, and in them He desires to work our renewal by grace. Receive Him joyfully, O divine Forerunner, and wash Him in the waters Who willed it so, the only Lover of mankind!  
 *After the second stichology, Sessional Hymn, Tone 4.*  
 *Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*  
 *Sessional Hymn:*  
 He that is rich having become poor through His great mercy, desiring to enrich us who became poor through lack of temperance of old, comes to enter into the streams of Jordan, and to be baptized in human manner by John.[^88] O ye faithful, let us praise His extreme humility!  
-*Glory, and both now, in the same Podoben:*  
+*Glory, and both now, in the same Podoben (Подо́бенъ то́йже):*  
 *Sessional Hymn:*  
 Today the voice of Isaiah crying aloud is fulfilled: "Prepare ye the way of the Lord, make His paths straight!"[^89] For as he said, the desert-loving trumpet, great John, hath sounded, calling all together. Therefore let us run together and behold marvelous things!  
 *Canon of the Forefeast with its heirmos to 8: the heirmos twice, the troparia to 6; and of the Saint to 4.*  
@@ -711,7 +711,7 @@ Thou wast shown forth as a priest among priests, a companion of the King and God
 *Sessional Hymn, Tone 8.*  
 *Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*  
 Thou wast shown to be a river of piety, watering the whole earth with the streams of thy teachings, O Sylvester, as a divine hierarch; and by showers of wonders thou didst wash away the defilement of passions, and didst worthily inherit the torrent of delight.[^100] Therefore, having come together, we devoutly honor thee with hymns today, and faithfully cry unto thee: Pray Christ God to grant remission of offenses unto those who with love celebrate thy holy memory!  
-*Glory, and both now, in the same Tone [Tone 8]. Podoben:*  
+*Glory, and both now, in the same Tone [Tone 8]. Podoben (Подо́бенъ):*  
 *Tone 8, Podoben: "Of the shepherd's pipes" (Ѡ҆крѡвле́й па́стырскихъ):* [Fol. 14v]
 *Month of January*
 
@@ -937,7 +937,7 @@ Great and fearful is the mystery: that God was made like unto men, and knowing n
 
 The Flower of David having shone forth from the Virgin, Christ comes unto the streams of the Jordan to wash away the sins of our forefather with waters. Leap for joy, Adam! Be glad, Eve! Let heaven rejoice! Ye peoples, let us say: Blessed art Thou Who art come, O our God, glory to Thee![^138]  
 
-*Glory, in the same Tone [Tone 6] and Podoben:*  
+*Glory, in the same Tone [Tone 6] and Podoben (Подо́бенъ):*  
 With trembling hand, dreading to lay on his hand, John rejoices in soul, considering that Thou hast deigned to bow Thy head, clothed in the form of a servant, that Thou mightest deliver mankind from the servitude of the enemy. We cry unto Thee: Blessed art Thou Who art come, O our God, glory to Thee!  
 
 *Both now, in the same Tone:*  
@@ -1118,11 +1118,11 @@ The angelic hosts surrounded the Redeemer being baptized in the Jordan, and with
 *At Matins, at "God is the Lord," the Troparion of the Forefeast, twice; Glory, of the Martyr; both now, of the Forefeast.*  
 *After the 1st Kathisma, Sessional Hymn, Tone 3, Podoben: "Awed by the beauty" (Красотѣ̀ дѣ́вства):*[^177]  
 Being uncircumscribed in Godhead, yet circumscribed by bodily matter, He is willing to come to be baptized in Jordan's waters; let us receive Him with mental purity, for He is willing to work renewal for all. Unto Him let us cry aloud with fear: Glory, O Christ, to Thy manifestation!  
-*Glory, and both now, the same Podoben:*  
+*Glory, and both now, the same Podoben (Подо́бенъ то́йже):*  
 When Thou didst appear in the Jordan to be baptized in the flesh in the waters, O Savior: the angelic hosts were terrified, beholding the Master of creation standing before a servant. From on high the Father without beginning proclaimed Thee. Therefore with gladness we cry unto Thee: Glory to God Who was baptized!  
 *After the 2nd Kathisma, Sessional Hymn, Tone 5, Podoben: "The Co-beginningless Word" (Собезна́чальное сло́во):*  
 The Word co-equal in honor with the Father and the Spirit, incarnate out of compassion and being baptized, the angelic choirs seeing were trembling; and the river Jordan, ashamed and afraid, turned back; leading us who were corrupted by passions unto the height of salvation.[^178]  
-*Glory, and both now, the same Podoben:*  
+*Glory, and both now, the same Podoben (Подо́бенъ то́йже):*  
 The Word co-beginningless with the Father and the Spirit, having now taken the form of another out of compassion, comes already to be baptized for our sake: let us meet Him with pure mind, crying: Blessed art Thou, O Christ Savior Benefactor, Who comest to sanctify us![^179]  
 *Canons, three: of the Forefeast with the Heirmos to 6; and of the Prophet to 4; and of the Martyr to 4.*  
 *Canon of the Forefeast. Whose acrostic is by the alphabet. By Joseph. Tone 4.*  
@@ -1292,7 +1292,7 @@ The senseless in mind promises thee corruptible glory: unto thee, O Gordius, who
 Having thy hopes directed unto God, Thou didst run through the instability of life; and being cut down with the sword, Thou didst pass unto spacious breadth.[^244]  
 *Theotokion:*  
 Raise up my mind put to death by the surges of passions, O thou who didst bear the eternal Life, Christ, Who grants healings unto all.[^245]  
-*Kontakion of the Forefeast, Tone 4, Podoben:*  
+*Kontakion of the Forefeast, Tone 4, Podoben (Подо́бенъ):*  
 
 [Fol. 24r]
 *Day 3*
@@ -1411,9 +1411,9 @@ Christ is come unto the streams of the Jordan, asking for baptism, He Who cleans
 Let the mountains drop down the sweetness of gladness; mystically clap your hands now, ye nations; let the wilderness blossom; O Jordan, receive Him; come, O Baptist; serve the mystery of the Redeemer, rejoicing! Ye people, let us sing: Blessed art Thou Who hast appeared, O our God, glory to Thee![^286]  
 *Sticheron 4:*  
 The Light from Light, Who shone forth before the ages, has appeared unto those sitting in night, and has cleansed the darkness of sin, and enlightened: dance, O Adam, and be glad, O Eve: Christ the redemption is come! O forefather, cry aloud: Blessed art Thou Who hast appeared, O our God, glory to Thee![^287]  
-*Glory, Tone and Podoben the same:*  
+*Glory, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 A Star from Jacob has shone forth unto the world; and having taken upon Himself the burning sin of men, He buries it in the waters of the Jordan, shining with the radiance of Godhead, and granting the enlightenment of the knowledge of God unto the nations: Blessed art Thou Who hast appeared, O our God, glory to Thee![^288]  
-*Both now, Podoben the same:*  
+*Both now, Podoben the same (Подо́бенъ то́йже):*  
 Having become the fulfiller of the Law according to the flesh, Christ is come unto the Jordan to accomplish the beginning of salvation, as He is tenderhearted; and He bows His head unto the Baptist, who cries aloud in faith. Ye people, let us cry: Blessed art Thou Who hast appeared, O our God, glory to Thee!  
 *At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*[^289]  
 *Sticheron 1:*  
@@ -1428,7 +1428,7 @@ Prepare thou also thy streams, O Jordan, for He Who baptizes with fire draws nea
 [Fol. 26v]
 *Month of January*
 
-*Glory, both now, Tone and Podoben the same:*  
+*Glory, both now, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 The manifestation of glory, the Father's radiance, in the streams of the Jordan, by baptism cleanses the defilement of our souls.[^293]  
 *At the Liturgy:*  
 *The Beatitudes from the Canon of the Forefeast, Ode 3, on 6.*  
@@ -1636,7 +1636,7 @@ Having become immovable pillars of the Church and foundations of piety, O discip
 
 *Glory, of the Venerable Father, Tone 1, Podoben: "The stone being sealed" (Ка́мени запеча́тану):*  
 Thou didst tend the flock of the Lord in a manner pleasing unto God, O God-bearing Theoctistus, with the pipe of the Word, leading the saved flock unto God upon the pasture of dispassion and life; and having departed unto Him, thou hast received a worthy reward for thy labors. Glory to Him Who gave thee strength! Glory to Him Who crowned thee! Glory to Him Who through thee works healings for all![^387]  
-*Both now, the same Tone [Tone 1] and Podoben:*  
+*Both now, the same Tone [Tone 1] and Podoben (Подо́бенъ):*  
 When Jesus was born of the Virgin Mary, and was baptized in the Jordan by John, the Spirit descended upon Him visible in the form of a dove. For this cause the Prophet cried with the angels, saying: Glory to Thy coming, O Christ! Glory to Thy kingdom! Glory to Thy dispensation, O only Lover of mankind![^388]  
 *Ode 4. Heirmos:*  
 Christ is my power, God and Lord, the venerable Church singing in a manner befitting God cries aloud, from a pure mind, keeping festival in the Lord.[^389]  
@@ -1859,7 +1859,7 @@ Thou didst drown sin of old in the days of Noah, having opened by Thy word the c
 
 *Glory... Tone 6, Podoben: "The Angelic Powers" (А҆́ггелскїѧ):*  
 "That the Father's good pleasure may be fulfilled, I am come upon earth, having clothed Myself in poverty: heaven is My throne, and earth My footstool; yet I bow My neck unto thee, for unto this am I come: baptize Me, Who cleansest the transgressions of men in Me."[^484]  
-*Both now... the same Tone and Podoben:*  
+*Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 "Thou Who formerly didst guide as light by a pillar and a cloud, and didst sprinkle dew in the wilderness; Thou Who rulest over all things, ineffable by nature: how hast Thou clothed Thyself in the form of a servant? As hay, I shall not touch Thee Who art fire. Do Thou Thyself baptize me, for I need to receive cleansing from Thee."[^485]  
 *At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме є҆ѵфра́ѳовъ):*  
 The Father's radiance of glory hath appeared upon the streams of Jordan, cleansing the defilement of our souls by baptism.[^486]  
@@ -1869,7 +1869,7 @@ Receive in a manner befitting a servant, O Prophet John, the Redeemer of the wor
 *Verse: The waters saw Thee, O God, the waters saw Thee and were afraid [LXX Ps. 76:17].*  
 *Sticheron:*  
 The Illumination is come, Redemption hath appeared: come ye unto the Jordan, let us assemble to be cleansed, and to sing the forefeast hymns.[^488]  
-*Glory... Both now... the same Tone and Podoben:*  
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 Today Christ grants saving release unto men, cleansing the defilement of souls by the fire of baptism.[^489]  
 *At the Liturgy, the Beatitudes from the Canon of the Forefeast, Ode 3, and of the Apostles, Ode 6.*  
 *Prokeimenon, Tone 8: Their sound hath gone forth into all the earth, and their words unto the ends of the world [LXX Ps. 18:5].*  
@@ -1997,7 +1997,7 @@ Let all the earth rejoice, let heaven be glad, let the world leap for joy, let r
 *At Matins, at "God is the Lord", the Troparion of the Forefeast, thrice.*  
 *After the first Kathisma, Sessional Hymn, Tone 4, Podoben: "The Angelic Choir" (Ли́къ а҆́ггелскїй):*  
 Rejoice, O river Jordan, for within thee the Creator of all comes willingly to receive baptism from a servant, as He is tender-hearted. Be glad, dance for joy, O Adam, and Eve our foremother: the Redemption of all is come, our Supremely Good God![^528]  
-*Glory... Both now... the same Tone and Podoben:*  
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 Being the Master and Stream of sweetness, He comes forward to be baptized in the streams of the river, desiring to give me to drink of the waters of cleansing. Beholding Whom, John cried aloud: "How shall I stretch forth my hand upon Thy head, before Whom all things tremble?"[^529]  
 *After the second Kathisma, Sessional Hymn, Tone 3, Podoben: "Beholding the Beauty of Thy Virginity" (Красотѣ̀ дѣ́вства):*  
 Clothing the nakedness of Adam in the garment of glory, O Tender-hearted One, Thou desirest to be stripped naked in the flesh in the river Jordan. O most marvelous wonder! How shall the water receive Thee, O Master and Lord, Who coverest Thine upper chambers with waters, as it is written? All of us hymn Thy Theophany, O Jesus our Benefactor![^530]  
@@ -2289,9 +2289,9 @@ Taking our sins upon Thy shoulders, Thou art come, O Jesus, unto the streams of 
 Being the Word incomprehensible in My nature, yet clothed in the form of a servant [Phil. 2:7], I am come unto the Jordan; refuse Me not in any way! Come, fear not, draw near unto Me, and having laid thy right hand upon My head, cry aloud: Blessed art Thou, O our God Who hast appeared, glory to Thee![^647]  
 *Troparion:*  
 Beyond understanding is Thine immeasurable poverty, O Word of God, for the sake of me who was fallen! For I have known Thee, that out of tender mercy Thou hast clothed Thyself in Adam and renewest them that are descended from Adam; and obeying Thy command, faithfully I cry unto Thee: Blessed art Thou, O our God Who hast appeared, glory to Thee![^648]  
-*Glory... Tone 6, the same Podoben:*  
+*Glory... Tone 6, the same Podoben (Подо́бенъ то́йже):*  
 Serving the Master with trembling, John rejoices in soul, and cries aloud with gladness: "Rejoice with me, all generations of our forefather! For our Expectation is come; Christ is come unto the Jordan, to cleanse all from Adam's sin, as He is tender-hearted."[^649]  
-*Both now... Tone 6, the same Podoben:*  
+*Both now... Tone 6, the same Podoben (Подо́бенъ то́йже):*  
 Let us sing, ye people, unto Him Who was born of the Virgin and baptized in the river Jordan, and let us cry aloud unto Him: O King of all creation, grant us uncondemned, with a pure conscience faithfully to attain Thy holy third-day resurrection from the dead![^650]  
 
 [Fol. 44v]
@@ -2996,9 +2996,9 @@ When Thou didst appear in Jordan, O Savior, and wast baptized by the Forerunner,
 Thou hast sanctified the streams of Jordan, Thou didst crush the dominion of sin, O Christ our God; Thou didst bow Thyself unto the hand of the Forerunner, and didst save the human race from deception. Therefore we entreat Thee: save our souls!
 *After the second stichology, Sessional Hymn, Tone 5, Podoben: "Co-unoriginate Word" (Собезнача́лное сло́во):*
 He Who is most gloriously clothed with light[^804] is encompassed by the streams of Jordan; wherein Thou, O Word of God, hast renewed the nature of Adam, crushed by evil disobedience. Therefore we praise Thee, and we all glorify Thy holy manifestation!
-*Glory, and now, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся i҆ѡ́сифъ):*
+*Glory, and now, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся і҆ѡ́сифъ):*
 "O river Jordan, why art thou amazed, beholding the Invisible One naked?" "I saw and trembled," he said; "and how was I not to be afraid and turn back? His angels trembled as they looked upon Him; heaven was dismayed, and earth trembled, and the sea was troubled, and all things visible and invisible. Christ appeared at the Jordan to sanctify the waters!"
-*And the reading of the feast. After the Polyeleos, Sessional Hymn, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся i҆ѡ́сифъ):*
+*And the reading of the feast. After the Polyeleos, Sessional Hymn, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся і҆ѡ́сифъ):*
 Come, let us believers see where Christ was baptized! Let us follow therefore unto the river Jordan, unto the voice of him who cries in the wilderness; and we shall see there the Maker of Adam, having hands laid upon Him by a servant's hand on account of His ineffable compassion; and let us cry out unto Him with a loud voice: "Thou hast come and appeared in Jordan to sanctify the waters!"
 *Glory, and now, the same. And the reading. Gradual Hymns, the first antiphon of Tone 4.*
 *Prokimenon, Tone 4:* The sea saw and fled, Jordan turned back. *Verse:* What ailed thee, O sea, that thou fleddest? And thou, O Jordan, that thou wast driven back? *Let every breath:*
@@ -4599,7 +4599,7 @@ O beyond mind and ineffable loving-kindness! How doth the Creator of creation bo
 
 A living delight hath poured forth unto us from the torrent of the Jordan, the grace of baptism; whereby enlightened through baptism, we say: Glory to Him Who hath appeared in the world and granted life unto us! Wherein we sing: Blessed art Thou Who hast appeared, our God, glory to Thee!
 
-*Glory... Both now... Tone and Podoben the same.*
+*Glory... Both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 Having turned away from harmful earthly things, come, let us spiritually cleanse our senses, and beholding Christ baptized in the flesh by John the Forerunner, let us all faithfully cry aloud, chanting with him: Blessed art Thou Who hast appeared, our God, glory to Thee!
 
 *At the Liturgy, the Beatitudes of the Feast, Ode 4, on 6.*
@@ -4891,7 +4891,7 @@ Thou didst inherit the divine illumination, having lived an immaterial life; tho
 *Glory... Another Sessional Hymn of Saint Dometian, Tone 1, Podoben: "When the Stone Had Been Sealed" (Ка́мени запеча́танꙋ):*
 Adorned, O father, with the God-given anointing of the priesthood, thou didst make it radiant with divine virtues radiant with divine virtues of excellence and divine obedience unto Christ; and having finished thy course, thou criest aloud in the heavens with the angels: Glory to Thy compassion, O Savior; glory to Thy kingdom; glory to Thy dispensation, O Thou Who alone art the Lover of mankind!
 
-*Both now... of the Feast, the same Tone and Podoben:*
+*Both now... of the Feast, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Unto Him Who was born of the Virgin Mary, and baptized in the Jordan by John: the Spirit descended upon Him, seen in the form of a dove. Therefore the Prophet with the angels cried aloud, saying: Glory to Thy coming, O Christ; glory to Thy kingdom; glory to Thy dispensation, O Thou Who alone art the Lover of mankind!
 
 *Canon of the Feast. Ode 4. Heirmos:*
@@ -5729,7 +5729,7 @@ Brightly didst thou shine forth in thy suffering, O passion-bearer, adorned with
 *Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Having accomplished a twofold struggle on earth, O martyr, thou wast accounted worthy to receive a twofold crown from the hand of thy Bridegroom; for thou didst fast, bridling the passions of the flesh, and having suffered lawfully thou didst cast down the enemy. Therefore by thy supplications save us from perils.[^1412]
 
-*Glory... Both now... The same Tone and Podoben:*
+*Glory... Both now... The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 He Who clothes Himself with light as with a garment, Christ our God, is clothed with Jordan's streams. When the Father of one throne bare witness from on high, and the Spirit of glory came below, He it is that enlightens and sanctifies us.[^1413]
 
 *Ode 4. Heirmos:*
@@ -5914,7 +5914,7 @@ O initiate and steward of awesome mysteries, forerunner of joy and eyewitness of
 *Sticheron:*
 Let us the faithful lift up our hearts in understanding; let us hasten with diligence unto the streams of Jordan, and behold the Creator baptized in the flesh by John the Forerunner, and theologizing with him let us sing: Blessed art Thou Who hast appeared, our God, glory to Thee![^1472]
 
-*Glory... Both now... The same Tone and Podoben:*
+*Glory... Both now... The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 O the divine dispensation beyond the mind! How does the Creator stand before the creature and bow His head unto him? For by an indication He introduces the pattern of humility unto us who are enlightened through Him, unto Whom we sing: Blessed art Thou Who hast appeared, our God, glory to Thee![^1473]
 
 *At the Liturgy, the Beatitudes of the Feast, Ode 7, on 6.*[^1474]
@@ -6078,7 +6078,7 @@ Together in the waters ye received your end, O blessed and wise martyrs, having 
 *Glory, of the Venerable Fathers, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Appearing as sojourners and pilgrims upon earth, having pitched your tents in the wilderness, ye manifestly fasted, O venerable ones; adorned with the beauty of the garment of virtue, being conformed unto the passions of Christ; therefore ye also endured the barbarian slaughter.[^1524]
 
-*Both now, the same Podoben:*
+*Both now, the same Podoben (Подо́бенъ то́йже):*
 Thou didst sanctify the Jordan's streams, and didst shatter the dominion of sin, O Christ our God. Thou didst bow Thyself beneath the hands of the Forerunner, and didst save the human race from deception: therefore we pray Thee, save our souls.[^1525]
 
 *Ode 4. Heirmos:*
@@ -6327,13 +6327,13 @@ Your divinely radiant memory, illuminated by divine streams, for the sake of you
 *Theotokion:*
 The Cherubim tremble beholding the Word, Who sits upon them by an ineffable word, held as an infant by thy maternal hands, O all-holy Lady, higher than all creation.[^1608]
 
-*Exapostilarion, Podoben: "In the spirit in the sanctuary" (Dukhom vo sviatilishchi):*
+*Exapostilarion, Podoben: "In the spirit in the sanctuary" (Дх҃омъ во ст҃и́лищи):*
 By the sufferings of fasting ye put to sleep utterly the evil-originating serpent, and at your end ye received the crown of martyrdom: O boast of fathers and glory of martyrs, the all-sacred multitude of marvelous fathers in Raithu and Sinai.[^1609]
 
 *Glory, and now, of the Feast:*
 The present day has become of the unwaning Light; for Christ the Truth has now come and appeared: let us worthily sing unto Him with psalms and hymns, as Creator and God. O new mystery! The Creator of Adam has willingly appeared as man.[^1610]
 
-*At the Aposticha, Stichera, Tone 6, Podoben: "On the third day" (Tridneven):*
+*At the Aposticha, Stichera, Tone 6, Podoben: "On the third day" (Трїдне́венъ):*
 Come, ye faithful, let us also run in feeling of heart unto the streams of the Jordan, and beholding Christ baptized in the flesh by John the Forerunner, now glorifying with him let us cry unto Him: Blessed art Thou Who hast appeared,[^1611] O our God, glory to Thee.[^1612]
 
 *Verse: The sea saw it and fled; the Jordan was turned back.*[^1613]
@@ -6385,14 +6385,14 @@ the First Hour, and the complete Dismissal. At the First Hour, the Sunday Tropar
 
 *In the same month, on the 15th day:*
 *Of our venerable fathers Paul of Thebes and John the Calybite.*[^1642]
-*At "Lord, I have cried," Stichera on 6, Tone 1, Podoben: "Joy of the heavenly hosts" (Nebesnykh chinov):*
+*At "Lord, I have cried," Stichera on 6, Tone 1, Podoben: "Joy of the heavenly hosts" (Небє́сныхъ чинѡ́въ):*
 Thou didst appear as the beginning of the virtuous, having established, O thrice-blessed Paul, the impassable paths of ascetic life: for thou didst well set spiritual ascents in thy soul, whereby thou didst attain the summit of virtues through abstinence and many afflictions.[^1643]
 
 Having winged thy mind unto divine desire, O blessed one, thou didst ascend unto the heights of the desert, and didst draw nigh as unto the darkness; wherein thou wast illuminated brightly with the divine understanding, and on the tablets of thy soul thou wast anointed with the brightness of virtues.[^1644]
 
 The desert blossomed fair with the flowers of thy virtues, for Thou didst destroy the thorns of passions therein: Thou didst plant the glorious labors of thy divine deeds. Therefore, like a lily from God, Thou dost now breathe forth unto us the fragrance of thy life.[^1645]
 
-*Other Stichera, Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Other Stichera, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 When by the divine nod thou didst rejoicing flee worldly beauties, O father, then didst thou prefer the narrow, painful, and exceedingly hard path rather than the broad way. Therefore thou didst take care for the soul,[^1646] having clothed thyself in the divine habit, by fleeing and by nakedness from all pleasures, O divinely blessed one.[^1647]
 
 Thou didst understand the strange life and strange undertaking, wounded with the love of Christ, Whose ineffable poverty thou didst love: and before the gates of thy parents thou didst endure homeless, O father, straitened and afflicted. Therefore thou wast filled with gifts, and didst inherit the unshakeable wealth which is in the heavens.[^1648]
@@ -6402,14 +6402,14 @@ Bearing in thy hands the holy Gospel, O father, thou wast the fulfiller thereof.
 *Glory, Tone 2:*
 Having renounced the world and the things in the world, O venerable one, taking the Gospel, in evangelical manner thou didst follow Christ; and living in a hut secretly as in Paradise, by the ultimate harsh living of the flesh thou didst choke the manslaying serpent. Therefore thou hast taken up thy dwelling in the heavens, O blessed John; pray that peace be granted unto the world, and great mercy unto our souls.[^1650]
 
-*Stavrotheotokion, Podoben: "When from the Tree" (Egda ot dreva):*
+*Stavrotheotokion, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 When the undefiled Ewe beheld her Lamb willingly dragged to slaughter as a man, weeping she said: Dost Thou now hasten to make me childless, O Christ, who bare Thee? What is this that Thou hast done, O Redeemer of all? Yet I hymn and glorify Thine extreme goodness, surpassing mind and word, O Lover of mankind.[^1651]
 
 *At the Aposticha, from the Octoechos:*
 *Glory, Tone 6:*
 O venerable father, into all the earth has gone forth the sound of thy correct deeds; therefore in the heavens thou hast found the reward of thy labors. Thou didst destroy the hosts of demons and didst attain unto the ranks of angels, whose life thou didst blamelessly emulate. Having boldness before Christ God, entreat peace for our souls.[^1652]
 
-*Both now, Theotokion or Stavrotheotokion, Podoben: "On the third day" (Tridneven):*
+*Both now, Theotokion or Stavrotheotokion, Podoben: "On the third day" (Трїдне́венъ):*
 Beholding Thee crucified, O Christ, she that bare Thee cried out: What strange mystery is this which I behold, O my Son? How dost Thou die in the flesh, suspended upon the Tree, O Bestower of life?[^1653]
 
 *Troparion, Tone 4:*
@@ -6483,13 +6483,13 @@ Having lawfully endured in prayers and fastings, O venerable one, thou didst clo
 *Theotokion:*
 As a fragrant rose from the valleys, O all-pure one, He found thee pure, and dwelt in the midst of thee, filling humanity with fragrance.[^1675]
 
-*Kontakion of Paul, Tone 8, Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion of Paul, Tone 8, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 As an unwaning luminary of the spiritual Sun, let us come together this day and praise thee in hymns: for thou didst shine forth upon those in the darkness of ignorance, leading all up unto the divine height, O adornment of Thebes, venerable Paul, steadfast foundation of fathers and ascetics.[^1676]
 
-*Sessional Hymn, Tone 1, Podoben: "Thy Tomb, O Savior" (Grob Tvoy Spase):*
+*Sessional Hymn, Tone 1, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й Сп҃се):*
 Having hated the fair things of the world from the heart, and having loved the one God from the soul, thou didst attain the desert as an inhabited city, O Paul, exercising thyself in divine visions alone,[^1677] thou didst appear as an angel living with the flesh: therefore we honor thee.[^1678]
 
-*Glory... Another Sessional Hymn of John, Tone 3, Podoben: "Beholding the Beauty of Thy Virginity" (Krasote devstva):*
+*Glory... Another Sessional Hymn of John, Tone 3, Podoben: "Beholding the Beauty of Thy Virginity" (Красотѣ̀ дв҃ства):*
 Having forsaken corruptible wealth and fleeting glory, thou didst receive heavenly riches and truly everlasting glory, O blessed father. Therefore we bless thy holy falling asleep, and celebrating therein, we cry unto thee: Remember us before the Lord, O John, as having boldness.[^1679]
 
 *Both now... Theotokion:*
@@ -6588,7 +6588,7 @@ Shining with the heights of dispassion, O father John, constrained in a hut and 
 *Theotokion:*
 Thou didst incarnate from thy womb, O pure one, the Word Who is co-equal in power and co-enthroned with the One Who begat Him, Who through ineffable compassion bore all our nature.[^1713]
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 Having loved unstealable poverty, O all-wise one, thou didst hate the wealth of thy parents; and holding the Gospel in thy hands, thou didst follow Christ God, O John, unceasingly praying for us all.[^1714]
 
 *Ikos:*
@@ -6684,7 +6684,7 @@ The Lord directed thy paths from the womb, O blessed one, and guided thy goings 
 *Theotokion:*
 Thy womb became a dwelling of Light, whereby those sitting in darkness saw the light; therefore with unceasing voices we ever hymn thee, O Mother of God, and honor thee with love as the hope of our souls.[^1747]
 
-*Exapostilarion, Podoben: "Give Ear, Ye Women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give Ear, Ye Women" (Жє́ны оу҆слы́шите):*
 Forsaking affection for thy parents and fleeting wealth, thou didst take up thy cross, O father, and didst follow Christ pre-eminently, O John; ascetically thou didst put the passions to death, and didst ascend unto dispassion, and dost pray for us, O God-bearer.[^1748]
 
 *Theotokion:*
@@ -6693,7 +6693,7 @@ Thou didst give birth to Christ the King of glory, the Angel of Great Counsel of
 *At the Aposticha of the Octoechos: Glory, Tone 4:*
 We honor thee as the instructor of a multitude of monks, O our father Paul: for by thy path we have learned truly to walk uprightly. Blessed art thou, having labored for Christ, and thou didst expose the power of the enemy, O converser with angels, fellow-partaker with the venerable and righteous: with whom pray unto the Lord that our souls may find mercy.[^1750]
 
-*Both now, Theotokion or Stavrotheotokion, Podoben: "O Most Marvelous Wonder" (Preslavnago chudese):*
+*Both now, Theotokion or Stavrotheotokion, Podoben: "O Most Marvelous Wonder" (Пресла́внагѡ чꙋдесѐ):*
 What is this visible sight which is seen by mine eyes, O Master? * Holding all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all! * the Birthgiver of God weeping said, when she saw Him lifted up upon the Cross, * Who ineffably shone forth from her, God and Man.[^1751]
 
 *At the Liturgy, the Beatitudes of Paul, from the Canon Ode 3; and of John, Ode 6. Prokeimenon, Tone 7: The venerable shall boast in glory. Verse: Sing unto the Lord a new song. Epistle to the Galatians, Pericope 212 [Gal. 5:22–6:2]. Alleluia, Tone 6: Blessed is the man that fears the Lord. Verse: His seed shall be mighty upon earth. Gospel from Matthew, Pericope 43 [Matt. 11:27–30]. Communion Hymn: The righteous shall be in everlasting remembrance.*[^1752]
@@ -6702,7 +6702,7 @@ What is this visible sight which is seen by mine eyes, O Master? * Holding all c
 
 *In the same month, on the 16th day:*
 *The Veneration of the Precious Chains of the Holy and All-Praised Apostle Peter.*[^1754]
-*At "Lord, I have cried," Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Yako dobla):*
+*At "Lord, I have cried," Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 Thou didst bind delusion, * being bound for the Lord's sake, * and being shut up in prison, O apostle. * Therefore we honor thee with love, * and in faith we kiss thy chains, * drawing therefrom health of body * and salvation of soul; * as is meet we praise thee, O beholder of God, * converser with the bodiless. (Twice)[^1755]
 
 Through thee they who were held in ignorance * receive understanding, * the many-seeded nations of the Gentiles formerly, * whose image from the height was shown * being carried in the vessel containing within * every living creature, O apostle. * Therefore every age glorifies thee, bowing down * unto the chains which thou didst bear * most earnestly for Christ. (Twice)[^1756]
@@ -6713,13 +6713,13 @@ Him Whom thou didst deny when He was judged, * when He was risen from the dead t
 Today the foundation of the Church, Peter the rock of faith, sets forth for us his precious chains for spiritual piety. Come, all ye, kissing them, let us crown him with hymns of praise: Rejoice, fervent champion of the faith, who with fervent understanding didst confess Christ and the Son of God with great boldness! Rejoice, rejoicing of the universe and keybearer of the heavenly Kingdom: grant grace unto those who honor thee with love, and who kiss thy precious[^1758] chains with desire: as standing before the throne of Christ the King of all, making prayer for us who celebrate thy memory.[^1759]
 
 *Both now, Theotokion:*
-*If it be Wednesday or Friday, Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Tridneven):*
+*If it be Wednesday or Friday, Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Трїдне́венъ):*
 Seeing our Life * hanging upon the Tree, * the all-immaculate Birthgiver of God, * maternally lamenting, cried: * O my Son and my God, * save those who hymn Thee with love.[^1760]
 
 *At the Aposticha, Stichera of the Octoechos: Glory, Tone 6:*
 Again our fervent intercessor gathers us unto the spiritual banquet, Peter the rock of faith, setting forth for us his precious chains as costly food, the healing of diseases, consolation for the sorrowful, a haven for the storm-tossed. Come, all ye, kissing them, let us entreat Him Who glorified him: By his prayers, O Christ, save our souls.[^1761]
 
-*Both now, Theotokion or Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Tridneven):*
+*Both now, Theotokion or Stavrotheotokion, Podoben: "Having Risen on the Third Day" (Трїдне́венъ):*
 Seeing Thee crucified, O Christ, * she who bare Thee cried out: * What is this strange mystery which I see, O my Son? * How upon the Tree dost Thou die in the flesh, * suspended, O Bestower of life?[^1762]
 
 *Troparion, Tone 4:*
@@ -6759,10 +6759,10 @@ With a sacred tongue thou didst proclaim God Who suffered and was crucified upon
 *Theotokion:*
 Death was checked from its unrestrainable rushing even unto thee: for thou didst bear the Fountain of immortality, O Birthgiver of God, Virgin Mother.[^1774]
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 Christ the Rock brightly glorifies the rock of faith, the primate of the disciples; for He summons all to celebrate, O Peter, the precious chains of thy wonders, and grants forgiveness of transgressions.[^1775]
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up upon the Cross" (Voznesyisya):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Lifted Up upon the Cross" (Вознесы́йсѧ):*
 As the primate of the wise apostles, and as the keybearer of the heavenly Kingdom, in faith we praise thee, O apostle, and with pure conscience we kiss, O Peter, the chains which thou didst bear like a malefactor, destroying the malefactions of the enemy: from which pray that we may be delivered. (Twice)[^1776]
 
 *Glory... Both now... Theotokion:*
@@ -7295,7 +7295,7 @@ With the splendors of thy preaching * thou didst illuminate those in darkness, *
 *Sticheron:*
 Thou wast disciplined in every virtue, * patiently, O God-inspired one, * and by the anointing of the Spirit, by the holy anointing, * thou wast clearly shown forth as a most sacred celebrant, * and a true shepherd, * and a champion of the faith; * therefore the whole Church glorifies thy memory, * sacredly celebrating it, * and glorifying the Savior.[^1948]
 
-*Other Stichera of Saint Cyril, Tone and Podoben the same:*
+*Other Stichera of Saint Cyril, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 *Sticheron:*
 From the Church of Christ * thou didst drive away the noetic wolves, O Cyril, * with the staff of thy teachings, * and didst surround her about * with the fortifications of words; * and thou didst present her unto Christ immovable and unshakable. * Pray Him to deliver from corruption and perils * those who celebrate in faith * thy most honorable memory.[^1949]
@@ -7399,7 +7399,7 @@ Supreme arch-hierarchs of piety and valiant champions of the Church of Christ, p
 *Sessional Hymn, Tone 3, Podoben: "Awed by the beauty of thy virginity" (Красотѣ̀ дѣ́вства):*
 Even as He Who pre-called thee pre-ordained, thou wast a pre-possession of immortality, having piously slain the Arian doctrines; for thou wast an unassailable champion of the truth, O father Athanasius, boast of the Orthodox. Therefore, singing of thee as is due, we celebrate we celebrate thy divine memory.[^1980]
 
-*Glory... Of Saint Cyril, Tone and Podoben the same:*
+*Glory... Of Saint Cyril, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Thou didst refute the deceit of heresies, and didst make clear the Orthodox faith, as one God-proclaiming and pious; thou didst preach in the world that one Godhead in Trinity is to be glorified, consubstantial in essence, and unconfused in Persons; therefore, having come together, O all-glorious Cyril, we honor thy memory.[^1981]
 
 *Both now... Theotokion:*
@@ -8738,7 +8738,7 @@ O divinely-wise Timothy, thou didst drink the torrent of pleasure,[^2231] and in
 *Sticheron:*  
 Obeying Paul, conversing through the Scriptures of the Spirit, thou wast wholly light-radiant, a workman unashamed,[^2232] and a fervent servant of the Lord, O all-wise one, having lived chastely and piously, O Timothy; and thou wast accounted worthy of crowns of victory, as a lawful athlete.[^2233]
 
-*Stichera of the Venerable Martyr, Tone and Podoben the same:*  
+*Stichera of the Venerable Martyr, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 O boast of martyrs, having set up radiant victories over deception, thou bearest in thy name the well-blessed appellation of the Resurrection,[^2234] O all-blessed one, borne abroad everywhere as a steadfast conqueror, O Anastasius; and now raise up from falls of sin those who honor thy memory with faith.
 
 *Sticheron:*  
@@ -9335,7 +9335,7 @@ Like the shining of lightning * went forth thy utterance, * truly enlightening t
 *Verse:* The mouth of the righteous shall meditate on wisdom, and his tongue shall speak of judgment.[^2425]  
 Thy mind was ignited with fire * and flame-bearing were thy lips, * wherewith the rages of those who hold heresy * are consumed, O Gregory together with their godless teachings.[^2426]
 
-*Glory, Tone and Podoben the same:*  
+*Glory, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 Unto the venerable Trinity: * the Father, the Word, * and the Spirit: * the divine theologian * taught us to believe, * as one indivisible God.[^2427]
 
 *Both now:*  
@@ -12350,7 +12350,7 @@ Let us blow the trumpet of hymns: for leaning down from on high, the Queen of al
 [^435]: Fol. 33r. Troparion of the Forefeast, Ode 7.
 [^436]: Fol. 33r. Troparion of the Forefeast, Ode 7.
 [^437]: Fol. 33r. Troparion of the Forefeast, Ode 7.
-[^438]: Fol. 33r. Another Canon of the Seventy Apostles, Ode 7, Heirmos, Tone 4: "Не послужи́ша тва́ри бг҃омꙋ́дрїи па́че созда́вшагѡ...". The Slavonic text in the 1761 Pochaiv print exhibits a damaged font sort or typographical anomaly reading "Не поRangeжи́ша" for "Не послужи́ша".
+[^438]: Fol. 33r. Another Canon of the Seventy Apostles, Ode 7, Heirmos, Tone 4: "Не послужи́ша тва́ри бг҃омꙋ́дрїи па́че созда́вшагѡ..." (cf. Daniel 3).
 [^439]: Fol. 33r. Troparion of the Apostles, Ode 7.
 [^440]: Fol. 33r. Troparion of the Apostles, Ode 7.
 [^441]: Fol. 33r. Troparion commemorating the holy Apostles of the Seventy: Sosthenes, Euodias, Carpus, Tychicus, Cephas, Justus, Artemas, and Zenas.
@@ -12713,13 +12713,13 @@ Let us blow the trumpet of hymns: for leaning down from on high, the Queen of al
 [^798]: Heirmos of Ode 9: The festal megalynarion (*Zadostoinik*) replacing *It is truly meet* (*Dostoyno yest*) at the Divine Liturgy.
 [^799]: Apostolic voice: Titus 2:11 (*For the grace of God that brings salvation hath appeared to all men*).
 [^800]: Psalm 113:3 (LXX) [Ps. 114:3 MT]: *The sea saw and fled: Jordan was turned back.*
-[^801]: Psalm 76:17 (LXX) [Ps. 77:16 MT]: *The waters saw thee, O God, the waters saw thee, and were afraid.*
+[^801]: Psalm 76:17 (LXX) [Ps. 77:16 MT]: *The waters saw Thee, O God, the waters saw Thee, and were afraid.*
 [^802]: Psalm 113:5 (LXX) [Ps. 114:5 MT]: *What ailed thee, O thou sea, that thou fleddest? and thou Jordan, that thou wast turned back?*
 [^803]: Psalm 33:11 (LXX) [Ps. 34:10 MT]: *The rich have become poor and hungry: but they that seek the Lord shall not lack any good thing.*
 [^804]: Psalm 103:2 (LXX) [Ps. 104:2 MT]: *Who coverest thyself with light as with a garment.*
 [^805]: Mark 1:9–11 (pericope 2), the Baptism of Christ by John in the Jordan.
 [^806]: St. Cosmas the Melodist, Bishop of Maiuma (d. ca. 787).
-[^807]: Acrostic: In the Greek original, the acrostic reads: Βάπτισма ῥύψις γηγενῶν ἁμαρτάδος (*Baptism is the cleansing of the sin of the earthborn*), replicated faithfully in Slavonic: *Креще́нiе ѡ҆чище́нiе земноро́дныхъ грѣхѡ́въ*.
+[^807]: Acrostic: In the Greek original, the acrostic reads: Βάπτισμα ῥύψις γηγενῶν ἁμαρτάδος (*Baptism is the cleansing of the sin of the earthborn*), replicated faithfully in Slavonic: *Креще́ніе ѡ҆чище́ніе земноро́дныхъ грѣхѡ́въ*.
 [^808]: Exodus 14:21–28; 15:1–21.
 [^809]: St. John Damascene (ca. 676–749), author of the second (iambic) Theophany canon.
 [^810]: Exodus 14:28; 15:6.
@@ -12753,7 +12753,7 @@ Let us blow the trumpet of hymns: for leaning down from on high, the Queen of al
 [^838]: Matthew 3:17; Mark 1:11; Luke 3:22: *This is my beloved Son, in whom I am well pleased.*
 [^839]: Jonah 1:17; 2:10; Matthew 12:40. The Slavonic translates the Greek κῆτος / λέων as *льва̀* ("lion/sea-beast").
 [^840]: Matthew 3:16; Mark 1:10; Luke 3:21–22; John 1:32–34.
-[^841]: Psalm 4:6 (LXX) [Ps. 4:6 MT]: *Lord, lift thou up the light of thy countenance upon us.*
+[^841]: Psalm 4:6 (LXX) [Ps. 4:6 MT]: *Lord, lift Thou up the light of Thy countenance upon us.*
 [^842]: 1 Timothy 6:16: *Dwelling in the light which no man can approach unto [light inaccessible].*
 [^843]: Isaiah 9:1–2; Matthew 4:15–16.
 [^844]: Malachi 4:2: *Unto you that fear my name shall the Sun of righteousness arise.*
@@ -12915,7 +12915,7 @@ Let us blow the trumpet of hymns: for leaning down from on high, the Queen of al
 [^1000]: Daniel 3:49–50 (LXX/Theodotion).
 [^1001]: Daniel 3:50 (LXX/Theodotion).
 [^1002]: Joshua 3:14–17; Psalm 113:3 (LXX) [Ps. 114:3 MT].
-[^1003]: Job 9:10; Psalm 71:18 (LXX) [Ps. 72:18 MT]: *Blessed be the Lord God, the God of Israel, who only does wondrous things.*
+[^1003]: Job 9:10; Psalm 71:18 (LXX) [Ps. 72:18 MT]: *Blessed be the Lord God, the God of Israel, who only does marvelous things.*
 [^1004]: Exodus 3:2: *And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.*
 [^1005]: Daniel 3:49–50.
 [^1006]: Isaiah 53:7; Jeremiah 11:19: *I was like a lamb or an ox that is brought to the slaughter.*
@@ -14565,7 +14565,7 @@ Let us blow the trumpet of hymns: for leaning down from on high, the Queen of al
 [^2650]: Stichera at "Lord, I have cried," Theotokion: Matthew 7:14.
 [^2651]: Stavrotheotokion at "Lord, I have cried."
 [^2652]: Troparion of St. Xenophon and his Companions, Tone 4.
-[^2653]: The acrostic of the canon in the Greek Menaion is: *Ξενοφῶνта μέλπω σὺν ὁμευνέτιδι καὶ τέκνοις. Θεοφάνους* ("I sing Xenophon with his spouse and children. [A work of] Theophanes").
+[^2653]: The acrostic of the canon in the Greek Menaion is: *Ξενοφῶντα μέλπω σὺν ὁμευνέτιδι καὶ τέκνοις. Θεοφάνους* ("I sing Xenophon with his spouse and children. [A work of] Theophanes").
 [^2654]: Ode 1, Heirmos: Exodus 14:21–22; Exodus 15:1.
 [^2655]: Ode 1, Troparion 1: Genesis 2:9; Revelation 2:7.
 [^2656]: Ode 1, Troparion 2.
@@ -14875,7 +14875,7 @@ Let us blow the trumpet of hymns: for leaning down from on high, the Queen of al
 [^2960]: Glory at the Aposticha, Tone 4, by the Studite: *Ѡ҆ тве́рдыѧ и҆ а҆дама́нтскїѧ твоеѧ̀ дꙋшѝ...*
 [^2961]: Both now at the Aposticha, Stavrotheotokion, Podoben: "All-praised martyrs" (*Всехва́льнїи мꙋ́ченицы*): *Оу҆ крⷭ҇та̀ предстоя́щи...*
 [^2962]: The acrostic reflects the Greek original of St. Theophanes Graptos (Ἰγνάτιον ἑῴαν ἐν ᾄσμασιν ἀστέρα μέλπω. Θεοφάνους), translated literally into Slavonic where the acrostic letters no longer form a verse.
-[^2963]: The Pochaiv print reads "помáзєши свѣ́тлѡ, мꙋ́никѡвъ" for "мꙋ́ченикѡвъ" ("of martyrs"). Greek: καταχρίσας φαιδρῶς μυреψικῷ ἐλαίῳ, μαρτύρων ἐγκαλλώπισμα.
+[^2963]: The Pochaiv print reads "помáзєши свѣ́тлѡ, мꙋ́никѡвъ" for "мꙋ́ченикѡвъ" ("of martyrs"). Greek: καταχρίσας φαιδρῶς μυρεψικῷ ἐλαίῳ, μαρτύρων ἐγκαλλώπισμα.
 [^2964]: Quoting the celebrated words of St. Ignatius in his Epistle to the Romans, IV: "I am the wheat of God, and let me be ground by the teeth of the wild beasts, that I may be found the pure bread of Christ" (Σῖτός εἰμι θεοῦ, καὶ δι' ὀδόντων θηρίων ἀλήθομαι...).
 [^2965]: Ps. 63:11 [LXX 63:11 / MT 64:10].
 [^2966]: Ps. 63:2 [LXX 63:2 / MT 64:1].

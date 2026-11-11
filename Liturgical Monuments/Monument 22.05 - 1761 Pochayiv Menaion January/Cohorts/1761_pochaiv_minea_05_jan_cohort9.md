@@ -244,9 +244,9 @@ Taking our sins upon Thy shoulders, Thou art come, O Jesus, unto the streams of 
 Being the Word incomprehensible in My nature, yet clothed in the form of a servant [Phil. 2:7], I am come unto the Jordan; refuse Me not in any way! Come, fear not, draw near unto Me, and having laid thy right hand upon My head, cry aloud: Blessed art Thou, O our God Who hast appeared, glory to Thee![^647]  
 *Troparion:*  
 Beyond understanding is Thine immeasurable poverty, O Word of God, for the sake of me who was fallen! For I have known Thee, that out of tender mercy Thou hast clothed Thyself in Adam and renewest them that are descended from Adam; and obeying Thy command, faithfully I cry unto Thee: Blessed art Thou, O our God Who hast appeared, glory to Thee![^648]  
-*Glory... Tone 6, the same Podoben:*  
+*Glory... Tone 6, the same Podoben (Подо́бенъ то́йже):*  
 Serving the Master with trembling, John rejoices in soul, and cries aloud with gladness: "Rejoice with me, all generations of our forefather! For our Expectation is come; Christ is come unto the Jordan, to cleanse all from Adam's sin, as He is tender-hearted."[^649]  
-*Both now... Tone 6, the same Podoben:*  
+*Both now... Tone 6, the same Podoben (Подо́бенъ то́йже):*  
 Let us sing, ye people, unto Him Who was born of the Virgin and baptized in the river Jordan, and let us cry aloud unto Him: O King of all creation, grant us uncondemned, with a pure conscience faithfully to attain Thy holy third-day resurrection from the dead![^650]  
 
 === LEAF p90 ===

@@ -28,7 +28,7 @@ Until this command is given, active cohort translation runs (e.g. Monument 4, 18
 Currently, the Translation Engine relies on prompt-level instructions to segment black text from red rubrics. When folios suffer from ink fading, bleed-through, or dark parchment staining, text can be mistakenly tagged as rubrical cinnabar. This module mathematically proves red pigment presence.
 
 ### Complete Drop-In Source Code
-Save to: [`scripts/chromatic_rubric_verifier.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/scripts/chromatic_rubric_verifier.py)
+Save to: [`scripts/chromatic_rubric_verifier.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/scripts/chromatic_rubric_verifier.py)
 
 ```python
 # -*- coding: utf-8 -*-
@@ -189,7 +189,7 @@ if __name__ == "__main__":
 ```
 
 ### Small Pause Gate Hook (Gate 1C Integration)
-In [`scripts/run_small_pause_gate.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/scripts/run_small_pause_gate.py), register **Gate 1C** under the `SmallPauseGatekeeper` class:
+In [`scripts/run_small_pause_gate.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/scripts/run_small_pause_gate.py), register **Gate 1C** under the `SmallPauseGatekeeper` class:
 
 ```python
 # Gate 1C: Chromatic Cinnabar Rubric Verification (when leaf scans are present)
@@ -217,7 +217,7 @@ def run_gate_1c_chromatic(cohort_dir: Path, leaves: List[int]) -> bool:
 Currently, the Translation Spoke compiles Markdown files (`part0.md` through `part6.md` and `complete.md`). To produce official, publication-grade Vector PDFs matching the Chant Indexer's V4 Sovereign Master Edition, this module ports Chant Indexer's custom liturgical CSS, running headers, and semantic dot-leader TOC engine.
 
 ### Complete Drop-In Source Code
-Save to: [`scripts/compile_liturgical_pdf.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/scripts/compile_liturgical_pdf.py)
+Save to: [`scripts/compile_liturgical_pdf.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/scripts/compile_liturgical_pdf.py)
 
 ```python
 # -*- coding: utf-8 -*-
@@ -423,7 +423,7 @@ if __name__ == "__main__":
 Borrowed from Chant Indexer (Layer 5 Epistemic Linter). Ensures all scholarly cross-references, historical assertions, and bibliographic keys in footnotes cite genuine registered academic editions (e.g. Dolnytsky 1899, Mikita 1901, Dmitrievsky 1901, Kachmar 2020) rather than unanchored external assertions.
 
 ### Complete Drop-In Source Code
-Save to: [`scripts/lint_epistemic_bibliography.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/scripts/lint_epistemic_bibliography.py)
+Save to: [`scripts/lint_epistemic_bibliography.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/scripts/lint_epistemic_bibliography.py)
 
 ```python
 # -*- coding: utf-8 -*-
@@ -544,7 +544,7 @@ if __name__ == "__main__":
 
 ## 5. Hermetic Test Suite (`tests/test_borrowed_chant_capabilities.py`)
 
-Save to: [`tests/test_borrowed_chant_capabilities.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/tests/test_borrowed_chant_capabilities.py)
+Save to: [`tests/test_borrowed_chant_capabilities.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/tests/test_borrowed_chant_capabilities.py)
 
 ```python
 # -*- coding: utf-8 -*-

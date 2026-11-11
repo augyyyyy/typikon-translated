@@ -28,7 +28,7 @@
 [and bless Thine inheritance.] *Verse: Unto Thee, O Lord, will I cry [LXX Ps. 27:1].[^439] Epistle to the Galatians, Pericope 215 [Gal. 6:11-18]: "Brethren, see with how large letters..."[^440] Alleluia, Tone 1:* I have exalted one chosen out of My people [LXX Ps. 88:20].[^441] *Gospel according to John, Pericope 9 [John 3:13-17]: "The Lord said: No man hath ascended up to heaven..."[^442] Then the regular sequence. Communion Verse of the day.*[^443]
 *On the Ninth Day of the Same Month:*[^444]
 *The Holy and Righteous Ancestors of God, Joachim and Anna; and the Holy Martyr Severian:*[^445]
-*At "Lord, I have cried," stichera of the feast, 3, Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чинẃвъ):*[^446]
+*At "Lord, I have cried," stichera of the feast, 3, Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чинѡ́въ):*[^446]
 Joachim and Anna keep festival, having given birth to the first-fruits of our salvation, the only Birthgiver of God: with them we also keep feast today, blessing the pure Virgin from that root of Jesse.[^447]
 
 The Maiden who contained God, the pure Birthgiver of God, the glory of the prophets, the daughter of David: today is born of Joachim and chaste Anna; and the curse of Adam which was upon us is abolished by her nativity.[^448]

@@ -65,7 +65,7 @@ Horse and rider in the Red Sea, He who crushes wars with a high arm, Christ did 
 *Glory...* A grievous wave of passions whelms me around, a deep of evil spirits holds me fast, a tempest of sins troubles my...[^5359]
 
 === LEAF p534 ===
-...heart. O Birth-giver of God, do thou establish me, who radiantly sing of thee.[^5360]
+...heart. O Birthgiver of God, do thou establish me, who radiantly sing of thee.[^5360]
 
 *Both now...* Having the divine Gabriel as marshal of ranks, reverently in faith and unison we bring the "Rejoice!" faithfully unto the unwedded Mother and Theotokos, through whom we are delivered from dangers, afflictions, and diseases.[^5361]
 
@@ -75,7 +75,7 @@ Horse and rider in the Red Sea, He who crushes wars with a high arm, Christ did 
 
 *Troparion 2:* In thy womb, O Virgin, the ineffable palace of the King and God was built, in which having dwelt, He made us churches.[^5364]
 
-*Glory...* Have compassion, being compassionate, upon my most wretched soul, O all-immaculate Birth-giver of God, which through passions and sin hath been grievously blackened and benumbed.[^5365]
+*Glory...* Have compassion, being compassionate, upon my most wretched soul, O all-immaculate Birthgiver of God, which through passions and sin hath been grievously blackened and benumbed.[^5365]
 
 *Both now...* As the scepter of an incorruptible kingdom hast thou shone forth from the root of Jesse, and without a husband thou barest a Child, O Pure Lady, being daughter of Adam and of David: God, and Creator, and Lord together.[^5366]
 

@@ -43,7 +43,7 @@ Rejoice, O Chalkoprateia,[^899] divine repository of the only Theotokos,* wherei
 The Mother of God,* the only Theotokos, all-blessed one,* having gloriously reposed,* left unto us her sash.
 *Verse: The Lord hath sworn truth unto David, and will not turn aside from it.*[^901]
 O church doors, be opened wide!* For lo, the sash of her who was the Mother of the Creator, the all-venerable Maiden,* is brought unto the church!
-*Glory, Both now, the same Podoben:*
+*Glory, Both now, the same Podoben (Подо́бенъ то́йже):*
 Glory in heaven,* and gladness on earth!* For lo, the sash of the Mother of the Creator of all* was deposited in the church by hierarchal hands.
 
 *After the Trisagion: Troparion, Tone 8:*
@@ -110,7 +110,7 @@ O Theotokos, Ever-Virgin, protection of mankind, thou hast granted unto thy city
 By the beauty of thy virginity having given birth unto the most comely Word, and Him hast thou swaddled as an infant with thy sash, O pure one; this therefore hast thou granted unto thy servants, O Sovereign Lady, as protection, help, and a fountain of sanctification; whose honorable deposition, O all-holy Virgin, we all faithfully celebrate.
 *Glory, Both now, the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, the same Tone and Podoben:*
+*After the 2nd Kathisma, Sessional Hymn, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Childbirth incorrupt and virginity thou alone didst possess, O blessed one; and as a saving garment for mankind thou didst grant thy holy sash, which even until now remains incorrupt, O Bride of God, for whose sake we, thy servants, O pure one, receive great mercy from God.
 *Glory, Both now, the same.*
 

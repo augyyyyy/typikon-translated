@@ -1,6 +1,6 @@
 import os
 
-root_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects"
+root_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects"
 exclude_dirs = {".git", "__pycache__", "Conversation_History", "Pre Update Chats", ".venv"}
 exclude_extensions = {".png", ".jpg", ".jpeg", ".pdf", ".ini", ".zip", ".exe", ".pyc", ".png.metadata.json"}
 

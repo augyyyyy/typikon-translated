@@ -6,7 +6,7 @@
 *Ode 5. Heirmos:*
 *The ungodly shall not see Thy glory, O Christ, but we, rising early from the night, hymn Thee, the Only-begotten, the Radiance of the Father's glory of the Godhead, O Lover of mankind.*[^4882]
 
-*Troparion 1:* That my humble soul may rejoice, O Lady, to fear Thy Son, and to do His commandments from the heart, guide me, O all-undefiled and Most Pure One, by thy prayers.[^4883]
+*Troparion 1:* That my humble soul may rejoice, O Lady, to fear thy Son, and to do His commandments from the heart, guide me, O all-undefiled and Most Pure One, by thy prayers.[^4883]
 *Troparion 2:* With all my heart, O good Lady, vouchsafe my passionate soul to confess unto the Redeemer, driving away the ignorance of my heart, O All-Undefiled One.[^4884]
 *Glory...:* Preserve my soul as the apple of the eye under the shelter of thy wings, O good and Most Pure One, and deliver me from the torment and torture of evil spirits.[^4885]
 *Both now...:* Reveal thyself delivering thy servant from the assault of passions and from evil demons, O Most Pure One, who hast gained thee as a mighty protection and an unashamed advocate.[^4886]
@@ -28,7 +28,7 @@ As a fervent protection in tribulations, and our helper, and reconciliation unto
 *The Abrahamic youths of old in Babylon trampled down the flame of the furnace, crying aloud in hymns: O God of our fathers, blessed art Thou!*[^4893]
 
 *Troparion 1:* Thee, O pure Mother of God, do I faithfully invoke: preserve my humble heart, and deliver me from the flame of torment and eternal darkness.[^4894]
-*Troparion 2:* Rend asunder, O pure Virgin, with the spear of Thy Son the handwriting of my transgressions, and deliver me, I pray thee, from all possession at the hour of my departure.[^4895]
+*Troparion 2:* Rend asunder, O pure Virgin, with the spear of thy Son the handwriting of my transgressions, and deliver me, I pray thee, from all possession at the hour of my departure.[^4895]
 *Glory...:* Quench, O pure Virgin, with the streams of my tears and the rain of thy compassions, the furnace which the multitude of my wicked deeds hath prepared for me by demonic working.[^4896]
 *Both now...:* Deliver us from the assaults of temptations, O only Mother of the Word and Ever-Virgin, and from every torment, who truly and understandingly hymn thee unto all ages.[^4897]
 

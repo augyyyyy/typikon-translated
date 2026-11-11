@@ -26,7 +26,7 @@ Great Philemon, exceedingly rich Arianus, and wise Apollonius, with streams of b
 
 As most fair flowers blooming in a floral garden, the glorious martyrs, emitting the divine fragrance of the Spirit, sweetly scent the thoughts of those who faithfully honor their yearly memory, their sufferings and contests, and their blessed end; for which sake they dwell rejoicing in the unwaning light.
 
-*Other Stichera, to the Most Holy Birthgiver of God, in the same Tone and Podoben:*
+*Other Stichera, to the Most Holy Birthgiver of God, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rain down upon me, O Birthgiver of God, the abyss of thy mercy, and as compassionate, water my heart scorched by the burning heat of passions, O Maiden; and make me to pour forth drops of compunction unceasingly, I pray: whereby I may be accounted worthy of consolation, O pure one, which those who have sincerely wept are to receive.
 
@@ -34,7 +34,7 @@ Shaken by assaults of prison,[^141] and cast into the pit of destruction: take p
 
 I have fallen among foul, murderous robbers, O all-immaculate one, and through their onsets I was stripped of the incorruptible garment of ethereal brightness, O Maiden; and by them was unmercifully wounded, and cast down into a place of affliction, scarcely alive; but make haste and stretch out thy hand, and raise me up, I pray.
 
-*Glory..., Both now, in the same Tone and Podoben:*
+*Glory..., Both now, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 I lie upon the bed of despondency, O all-immaculate one, and sluggishly pass my life, and I am terrified of the end of my time, O Birthgiver of God: lest as a lion the all-evil serpent mercilessly tear my humble soul. Therefore by thy goodness, hastening before the end, raise me up unto repentance.
 
@@ -230,7 +230,7 @@ Having made thyself a temple of the Trinity, O God-blessed father, thou didst er
 
 Having boldness toward God, and having subdued the members of the flesh with many labors,[^150] pray that we be preserved from temptations of the enemy, and incursions of heathens, and fire, and the sword, and every assault of the evil one's malice; for having thee as city-defender and protection, with God we have acquired our hope in thee, O blessed one.
 
-*Glory..., Both now, Theotokion, in the same Podoben:*
+*Glory..., Both now, Theotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 Thou alone, in an unconfined manner, didst bear in thy womb the uncontainable God, Who became man for His goodness, O most holy Bride of God; therefore I pray thee, alter the passions that afflict me: that having walked the narrow and right path, I may reach that which leads unto life, O Virgin.
 

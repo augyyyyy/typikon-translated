@@ -289,7 +289,7 @@ Unto the Holy Spirit it is meet to bring honor, worship, glory, and dominion, ev
 
 *Prokimenon, Tone 1:*
 
-*Now will I arise, saith the Lord; I will set Myself in salvation, I will not hesitate concerning him [LXX Ps. 11:6].*[^122]
+*Now will I arise, says the Lord; I will set Myself in salvation, I will not hesitate concerning him [LXX Ps. 11:6].*[^122]
 
 *Verse: The words of the Lord are pure words [LXX Ps. 11:7].*[^123]
 

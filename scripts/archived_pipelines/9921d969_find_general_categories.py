@@ -1,7 +1,7 @@
 import json
 import re
 
-db_path = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\json_db\st_sergius\text_st_sergius.json"
+db_path = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\json_db\st_sergius\text_st_sergius.json"
 
 with open(db_path, "r", encoding="utf-8") as f:
     # Since it is a very large JSON, we can read it line-by-line using regex or parse key by key if memory permits.

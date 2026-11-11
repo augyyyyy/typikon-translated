@@ -17,7 +17,7 @@ After the prayer, the Choirs sing three times in recitative style, yet reverentl
 === LEAF p163 ===
 
 ## ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ
-### ΤΗΣ ΑΚΟΛΟΥΘΙΑΣ ΤΟΥ ΕΣΠΕΡΙΝΟΥ, ΤΟΥ ΟΡΘΡΟΥ ΚΑΙ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΩΝ ΚΑΤΑ ΜΗΝΑ ΔΕΣΠΟΤΙΚΩΝ ΚΑΙ ΘΕΟΜΗΤΟΡΙΚΩΝ ΕΟΡΤΩΝ ΚΑΙ ΤΩΝ ΕΟΡΤΑΖΟΜΕΝΩΝ ΑΓΙΩΝ
+**ΤΗΣ ΑΚΟΛΟΥΘΙΑΣ ΤΟΥ ΕΣΠΕΡΙΝΟΥ, ΤΟΥ ΟΡΘΡΟΥ ΚΑΙ ΤΗΣ ΛΕΙΤΟΥΡΓΙΑΣ ΤΩΝ ΚΑΤΑ ΜΗΝΑ ΔΕΣΠΟΤΙΚΩΝ ΚΑΙ ΘΕΟΜΗΤΟΡΙΚΩΝ ΕΟΡΤΩΝ ΚΑΙ ΤΩΝ ΕΟΡΤΑΖΟΜΕΝΩΝ ΑΓΙΩΝ**
 
 # ΜΗΝ ΣΕΠΤΕΜΒΡΙΟΣ
 
@@ -30,7 +30,7 @@ After the prayer, the Choirs sing three times in recitative style, yet reverentl
 === LEAF p164 ===
 
 ## TYPIKON ORDER
-### OF THE SERVICE OF VESPERS, MATINS, AND DIVINE LITURGY OF THE MONTHLY FEASTS OF THE LORD, THE THEOTOKOS, AND THE CELEBRATED SAINTS
+**OF THE SERVICE OF VESPERS, MATINS, AND DIVINE LITURGY OF THE MONTHLY FEASTS OF THE LORD, THE THEOTOKOS, AND THE CELEBRATED SAINTS**
 
 # MONTH OF SEPTEMBER
 
@@ -73,7 +73,7 @@ After the prayer, the Choirs sing three times in recitative style, yet reverentl
 
 ---
 
-### Τῇ ς΄. Τὸ ἐν Χώναις θαῦμα τοῦ Ἀρχιστρατήγου Μιχαήλ.
+**Τῇ ς΄. Τὸ ἐν Χώναις θαῦμα τοῦ Ἀρχιστρατήγου Μιχαήλ.**
 
 1. Εἰ τύχοι ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν Ἀναστάσιμα ς΄ καὶ τοῦ Ἀρχαγγέλου δ΄. *Δόξα* *Συγχάρητε ἡμῖν*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου· Εἴσοδος *Φῶς ἱλαρόν*, τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρά, *Δόξα* *Καὶ νῦν* *Ὡς ταξιάρχης καὶ πρόμαχος*, Ἀπολυτίκια τὸ Ἀναστάσιμον, τοῦ Ἀρχαγγέλου, Θεοτοκίον καὶ Ἀπόλυσις.
 
@@ -91,7 +91,7 @@ If the Indiction occurs on a Saturday: on the following Sunday—that is, on the
 
 ---
 
-### The 6th Day. The Miracle Performed at Chonae [Colossae] by the Archangel Michael.
+**The 6th Day. The Miracle Performed at Chonae [Colossae] by the Archangel Michael.**
 
 1. If this feast [September 6] occurs on a Sunday: on Saturday evening at Vespers, following the Introductory Psalm and the Psalter [Kathisma 1], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrection Stichira and 4 Prosomia Stichira of the Archangel; **"Glory"**: **"Rejoice with us, all ye angelic ranks"** (*Συγχάρητε ἡμῖν*); **"Both now"**: the First Dogmatic Theotokion of the Tone. Entrance: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrection Stichira; **"Glory"**, **"Both now"**: **"As supreme commander and champion"** (*Ὡς ταξιάρχης καὶ πρόμαχος*). Dismissal Troparia: the Resurrection Troparion, that of the Archangel: **"Supreme commander of the heavenly hosts"** (*Τῶν οὐρανίων στρατιῶν Ἀρχιστράτηγε*, Tone 4), the Theotokion, and Dismissal.
 
@@ -101,7 +101,7 @@ If the Indiction occurs on a Saturday: on the following Sunday—that is, on the
 
 === LEAF p169 ===
 
-### Τῇ Ζ΄. Τὰ Προεόρτια τῆς Γεννήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ ἁγίου Μάρτυρος Σώζοντος.
+**Τῇ Ζ΄. Τὰ Προεόρτια τῆς Γεννήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ ἁγίου Μάρτυρος Σώζοντος.**
 
 1. Ἄν τύχωσι τὰ Προεόρτια ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν ἀναστάσιμα Στιχηρὰ ς΄ καὶ Προεόρτια δ΄· *Δόξα* *Τὴν πάνσεπτόν σου Γέννησιν*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρόν*, καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρά, *Δόξα* *Καὶ νῦν* *Ἡ Παγκόσμιος χαρά*, Ἀπολυτίκια τὸ Ἀναστάσιμον καὶ τὸ Προεόρτιον *Ἐκ τῆς ῥίζης Ἰεσσαί*, καὶ Ἀπόλυσις.
     *(Σημ. Ἡ δὲ Ἀκολουθία τοῦ Ἁγίου ψάλλεται ἐν τοῖς Ἀποδείπνοις· εἴ που δὲ ἑορτάζεται ὁ Ἅγιος, εἰς τὸ Κύριε ἐκέκραξα Ἀναστάσιμα δ΄, Προεόρτια γ΄ καὶ τοῦ Ἁγίου γ΄. Εἰς τὰ Ἀπόστιχα Δόξα τοῦ Ἁγίου. Καὶ νῦν τὸ Προεόρτιον, λέγεται δὲ καὶ τὸ τοῦ Ἁγίου Ἀπολυτίκιον).*
@@ -114,7 +114,7 @@ If the Indiction occurs on a Saturday: on the following Sunday—that is, on the
 
 === LEAF p170 ===
 
-### The 7th Day. The Forefeast of the Nativity of the All-Holy Theotokos, and the Holy Martyr Sozon.[^142]
+**The 7th Day. The Forefeast of the Nativity of the All-Holy Theotokos, and the Holy Martyr Sozon.[^142]**
 
 1. If the Forefeast [September 7] occurs on a Sunday: on Saturday evening at Vespers, following the Introductory Psalm and the Psalter [Kathisma 1], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 6 Resurrection Stichira and 4 of the Forefeast; **"Glory"**: **"Thy most venerable Nativity"** (*Τὴν πάνσεπτόν σου Γέννησιν*); **"Both now"**: the First Dogmatic Theotokion of the Tone. Entrance: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrection Stichira; **"Glory"**, **"Both now"**: **"The universal joy"** (*Ἡ Παγκόσμιος χαρά*). Dismissal Troparia: the Resurrection Troparion and the Forefeast Troparion: **"From the root of Jesse"** (*Ἐκ τῆς ῥίζης Ἰεσσαί*, Tone 4), and Dismissal.
     *(Note: The service of the Holy Martyr is chanted at Small Compline; if, however, the Saint is celebrated in the temple: at **"Lord, I have cried"** we sing 4 Resurrection Stichira, 3 of the Forefeast, and 3 of the Saint. At the Aposticha: **"Glory"** of the Saint; **"Both now"** of the Forefeast; the Dismissal Troparion of the Saint is likewise chanted).*

@@ -191,7 +191,7 @@ Thou didst give birth to the Word incarnate beyond mind and word, O Pure Virgin,
 
 *Lord, have mercy (thrice). Glory... Both now...*  
 *Sessional Hymn, Tone 7:*  
-O Sovereign Lady, Thy Son is angered against thy sinful servants, for we have moved the Compassionate One unto wrath: but turn Him unto mercy, O Pure One; take compassion, O Mother of God, entreat the Tender-hearted One by thine unceasing supplications, and deliver the captives.
+O Sovereign Lady, thy Son is angered against thy sinful servants, for we have moved the Compassionate One unto wrath: but turn Him unto mercy, O Pure One; take compassion, O Mother of God, entreat the Tender-hearted One by thine unceasing supplications, and deliver the captives.
 
 *Ode 7. Heirmos:*
 Cast into the fiery furnace, the holy youths changed the fire into dew, and singing thus they sang: Blessed art Thou, O Lord God of our fathers![^193]
@@ -205,7 +205,7 @@ Demonic malice holds me fast exceedingly now, and they kindle within me the fire
 **[Right Page — Fol. 165r]**
 
 *Troparion:*
-In praying unto Thy Son for us, O Most Pure Mother of God, cease not at all by thy prayers to snatch thy servants from the trial of human sorrows. Both now:
+In praying unto thy Son for us, O Most Pure Mother of God, cease not at all by thy prayers to snatch thy servants from the trial of human sorrows. Both now:
 
 *Theotokion:*
 The Transubstantial Son immutably took flesh from thee, O Virgin, and became Man, that He might save those who sing: Blessed, O Most Pure One, is the Fruit of thy womb!

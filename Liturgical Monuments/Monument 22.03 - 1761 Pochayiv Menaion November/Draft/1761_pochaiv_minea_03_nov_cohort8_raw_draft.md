@@ -20,7 +20,7 @@ Circling about the throne of the King of all, ever dancing in choir, O ranks of 
 *Verse: Praise Him, all His angels; praise Him, all His hosts.*[^315]
 God the Father Who is over all, together with the Only-Begotten Word and the Spirit, brought forth the powers of heavenly minds, formless and immaterial, as chanters of His Three-Sun glory!
 
-*Glory, and now, Theotokion, the same Podoben:*
+*Glory, and now, Theotokion, the same Podoben (Подо́бенъ то́йже):*
 Rejoice, O Virgin Birthgiver of God, in unison with Gabriel we cry aloud unto thee: for having received from above the most-divine joy, do thou fill all of us with joy!
 
 *Troparion, Tone 4:*

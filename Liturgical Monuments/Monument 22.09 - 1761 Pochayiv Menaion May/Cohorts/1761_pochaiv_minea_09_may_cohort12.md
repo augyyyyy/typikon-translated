@@ -42,7 +42,7 @@ Having ascended the great cathedra, thou didst greatly enlighten the fullness of
 *Theotokion:*
 From thee, O pure one, blossomed forth the unfading Flower, filling all mankind with fragrance through the divine myrrh of His nature—He Who is co-unoriginate with the Father, and from thee was born in time, O all-blameless Virgin.
 
-*Sessional Hymn [of Saint Epiphanius], Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn [of Saint Epiphanius], Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Having cast off the shoes from thy feet, even as Moses did in the holy place,[^181] thou wast instructed in divine spiritual mysteries; and having put to death thy body by the labors of abstinence, thou didst fill creation with most glorious wonders. Therefore thou didst also explain unto all the ineffable things of divinely-inspired Scripture, O our God-bearing Father, Hierarch Epiphanius: entreat Christ God to grant remission of transgressions unto those who with love honor thy holy memory!
 
 *Glory... Another Sessional Hymn, of the Hierarch [Germanus], the same Tone [Tone 8]:*
@@ -144,7 +144,7 @@ Thou didst set ascents in thy life, O wise one; from glory and power unto heaven
 *Theotokion:*
 Deliver now thy servant from every adversity, O most pure one, from the surging waves and tempest of passions, and guide me unto thy haven; for thou art my protectress and restoration.
 
-*Kontakion, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Voznesyisya na Krest):*
+*Kontakion, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на Крⷭ҇тъ):*
 Let us, the faithful, duly praise the marvelous pair of hierarchs, the divine Epiphanius with Germanus; for they burned up the tongues of the godless, setting forth most wise dogmas unto all who ever orthodoxly sing of the great mystery of piety.
 
 *Ikos:*
@@ -247,7 +247,7 @@ Thou didst wholly commit thyself unto the all-seeing Word and Almighty, and wast
 *Theotokion:*
 Put an end to carnal-mindedness, and calm the turmoil of passions, O Virgin, for him who flees unto thy protection, O Birthgiver of God, and hath thee as the foundation of hope, and was enriched by thy divine intercession and protection.
 
-*Exapostilarion, Podoben: "Give ear, ye women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give ear, ye women" (Жє́ны оу҆слы́шите):*
 Come, ye faithful, let us in hymnic songs honor the divine and all-sacred pair of hierarchs, the divine Epiphanius and Germanus, who destroyed the gloom of heresies and enlightened all creation with the radiance of piety.
 
 *Glory... Both now... of the Feast.*
@@ -269,7 +269,7 @@ The mouth of the righteous shall meditate wisdom.[^198]
 === LEAF p119 === (Fol. 60r)
 ## May 13. The Holy Martyr Glyceria
 
-*At Vespers, Stichera, Tone 4, Podoben: "Thy Martyrs, O Lord" (Muchenitsy tvoi Gospodi):*
+*At Vespers, Stichera, Tone 4, Podoben: "Thy Martyrs, O Lord" (Мч҃ницы твоѝ Гд҃и):*
 Giving heed, O divinely-blessed one, unto the sweet words of the Holy Spirit, thou didst abandon all bitterness of carnal passions, and through death didst pass unto immortal glory, O Glyceria, entreating Christ to grant great mercy unto all!
 
 *Sticheron:*
@@ -317,10 +317,10 @@ Suspended by the hair and scraped with iron claws, she endured pains in the body
 *Theotokion:*
 Me, who was slain of old, thou alone didst lead back unto life, O most pure one, having given birth unto personal Life: striking against Whom, hostile death was clearly shattered.
 
-*Kontakion, Tone 3, Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion, Tone 3, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Loving the Virgin and Birthgiver of God Mary, thou didst keep thy virginity incorrupt; and being zealous in love for the Lord, thou didst suffer courageously even unto death. Therefore with a twofold crown, O virgin martyr, Christ God crowns thee.
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Voznesyisya na Krest):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ на Крⷭ҇тъ):*
 Brightly adorned with the garments of thy sacred and marvelous struggles, as a virgin bride of Christ, thou didst ascend unto His incorruptible bridal chamber, and dost enjoy His beauty. But entreat that we who with love sing of thee may be saved from every distress!
 
 *Glory... Both now... of the Feast.*

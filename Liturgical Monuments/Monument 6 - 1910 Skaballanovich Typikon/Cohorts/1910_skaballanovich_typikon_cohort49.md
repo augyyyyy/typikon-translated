@@ -418,7 +418,7 @@ spring. In the Talmud there is preserved an epistle of Rabbi Gamaliel (the teach
 
 760. Socrates, *Ecclesiastical History* VII, 5.
 
-761. Cf. in our own rite the singing of **"Behold, the Bridegroom cometh"** (*Se Zhenikh griadet*) in Holy Week.
+761. Cf. in our own rite the singing of **"Behold, the Bridegroom comes"** (*Se Zhenikh griadet*) in Holy Week.
 
 762. Lactantius, *Divine Institutes* VII, 19.
 
@@ -483,7 +483,7 @@ spring. In the Talmud there is preserved an epistle of Rabbi Gamaliel (the teach
 
 792. Cf. above, p. 142.
 
-793. For the feast on the 40th day after Pascha no mention is made of such a Gospel or in general of a celebration of the Ascension. It may be that the Ascension and the Descent of the Holy Spirit were celebrated together at Pentecost. In general these two feasts were not yet separated everywhere. Thus the Council of Elvira (305) decrees: "an erroneous custom must be corrected in accordance with the testimony of the Scriptures, and all must celebrate the day of Pentecost; otherwise whoever faileth to do so shall show himself to be the introducer of a new heresy" (Canon 43). An ancient *epitome* (abbreviated collection) of this Council renders this canon thus: "after Pascha let the 50th day be observed, and not the 40th" (Mansi, *Sacrorum Conciliorum Nova et Amplissima Collectio*, II, 13). Perhaps the Montanists, who thought that only in Montanus did the Holy Spirit first appear on earth, were opposed to the celebration of Pentecost: C. Hefele, *Conciliengeschichte* (Freiburg im Breisgau, 1855), I, 145.
+793. For the feast on the 40th day after Pascha no mention is made of such a Gospel or in general of a celebration of the Ascension. It may be that the Ascension and the Descent of the Holy Spirit were celebrated together at Pentecost. In general these two feasts were not yet separated everywhere. Thus the Council of Elvira (305) decrees: "an erroneous custom must be corrected in accordance with the testimony of the Scriptures, and all must celebrate the day of Pentecost; otherwise whoever fails to do so shall show himself to be the introducer of a new heresy" (Canon 43). An ancient *epitome* (abbreviated collection) of this Council renders this canon thus: "after Pascha let the 50th day be observed, and not the 40th" (Mansi, *Sacrorum Conciliorum Nova et Amplissima Collectio*, II, 13). Perhaps the Montanists, who thought that only in Montanus did the Holy Spirit first appear on earth, were opposed to the celebration of Pentecost: C. Hefele, *Conciliengeschichte* (Freiburg im Breisgau, 1855), I, 145.
 
 794. Cf. above, pp. 141–142.
 

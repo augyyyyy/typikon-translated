@@ -61,11 +61,11 @@ def main():
     
     # 1. Load and merge Royal Doors databases
     print("Loading text_royaldoors.json (latest)...")
-    with open(r'C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors.json', 'r', encoding='utf-8') as f:
+    with open(r'C:\Users\augus\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors.json', 'r', encoding='utf-8') as f:
         rd_latest = json.load(f)
         
     print("Loading text_royaldoors_old.json (historical)...")
-    with open(r'C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors_old.json', 'r', encoding='utf-8') as f:
+    with open(r'C:\Users\augus\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors_old.json', 'r', encoding='utf-8') as f:
         rd_old = json.load(f)
         
     # Merge (latest overrides old if there are key overlaps)

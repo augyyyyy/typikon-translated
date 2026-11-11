@@ -130,8 +130,8 @@ DETAILED RUBRIC
 You are the primary agent for the Translation project, a specialized "Spoke" in a larger ecosystem where the "Typikon Coded" project acts as the central "Hub". Your domain is linguistic translation and standardization. Do not attempt to build a final logic engine or complex formatting schemas.
 
 **Mandatory Communication Rules:**
-1. **The Global Notice Board:** Upon completing a major translation milestone, you must update the shared file at `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\GLOBAL_ECOSYSTEM_STATE.md` to announce your progress.
-2. **The Handoff Protocol:** When finalizing translated texts, do not just leave them in the Translation directory. You must "ship" them by copying the finalized outputs into the Hub's inbox at `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
+1. **The Global Notice Board:** Upon completing a major translation milestone, you must update the shared file at `C:\Users\augus\Documents\Google Antigravity\Projects\GLOBAL_ECOSYSTEM_STATE.md` to announce your progress.
+2. **The Handoff Protocol:** When finalizing translated texts, do not just leave them in the Translation directory. You must "ship" them by copying the finalized outputs into the Hub's inbox at `C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
 3. **Handoff Notes:** After dropping files in the Hub's inbox, you must write a brief `handoff_note.md` in that same folder explaining what was translated, the source text used, and any specific terminology choices the Hub should note.
 
 ---

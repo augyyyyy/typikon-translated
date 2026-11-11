@@ -77,7 +77,6 @@ STADT-BIBLIOTHEK BRESLAU[^4]
   * [FRIDAY EVENING VESPERS (FOR SATURDAY)](1491_krakow_fiol_octoechos_part9_weekday-offices-of-the-octoechos-monday.md#friday-evening-vespers-for-saturday)
 * **[EXAPOSTILARIA AND EVANGELICAL STICHERA](1491_krakow_fiol_octoechos_part10_exapostilaria-and-evangelical-stichera.md#exapostilaria-and-evangelical-stichera)**
 * **[ASCETIC HOMILIES AND COLOPHON](1491_krakow_fiol_octoechos_part11_ascetic-homilies-and-colophon.md#ascetic-homilies-and-colophon)**
-  * [CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING](1491_krakow_fiol_octoechos_part11_ascetic-homilies-and-colophon.md#codicological-provenance-archival-inscriptions-and-rear-binding)
 
 ---
 

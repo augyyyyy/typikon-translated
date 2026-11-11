@@ -289,7 +289,7 @@ Enlightened by the radiance of virtues, let us cry aloud on the holy mountain, b
 
 The sun, while enlightening the earth, straightway sets; but Christ, having shone forth with glory upon the mountain, hath enlightened the world.
 
-*Glory... Both now... the same tone and podoben.*
+*Glory... Both now... the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже).*
 
 Moses and Elijah saw upon Tabor God incarnate from the Virgin Maiden, for the redemption of men.
 

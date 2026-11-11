@@ -2,8 +2,8 @@
 
 ## Great Compline on Holy Theophany[^902]
 
-**Priest:** Blessed is our God...
-**Choir:** Amen.
+> **Priest:** "Blessed is our God..."
+> **Choir:** "Amen."
 *Glory to Thee, our God, glory to Thee. O Heavenly King... Trisagion. And the rest as on the Eve of the Nativity:*
 *We cry aloud with singing: "God is with us"; and in place of the usual Troparia: "Illumine my eyes...", we say the Troparion of Theophany:*
 *When Thou, O Lord, wast baptized in the Jordan... (see p. 260)[^903]*
@@ -54,13 +54,13 @@ The bright Lamp, who is from a barren woman, seeing the Sun, Who is from the Vir
 *After the Six Psalms, at "God is the Lord", the Troparion of Theophany, three times; and the usual Kathisma readings from the Psalter. After the first Kathisma reading, Sessional Hymn, Tone 3. Podoben: Beholding the beauty of thy virginity...*
 When Thou wast manifested in the Jordan, O Savior, and wast baptized by the Forerunner, O Christ, Thou wast witnessed to as the beloved Son; therefore Thou wast also revealed as co-unoriginate with the Father; and the Holy Spirit descended upon Thee, enlightened by Whom we cry aloud: Glory to God Who exists in Trinity.[^922]
 
-*Glory... Now and ever... Tone 4. Podoben: Speedily anticipate...*
+*Glory... Now and ever... Tone 4. Podoben: Speedily anticipate (Ско́рѡ предварѝ)...*
 Thou hast sanctified the streams of the Jordan, and crushed the dominion of sin, O Christ our God; Thou didst bow Thyself down beneath the hand of the Forerunner, and didst save the human race from deception. Therefore we beseech Thee: Save our souls.[^923]
 
-*After the second Kathisma reading, Sessional Hymn, Tone 5. Podoben: Let us, the faithful, praise the Word co-unoriginate...*
+*After the second Kathisma reading, Sessional Hymn, Tone 5. Podoben: Let us, the faithful, praise the Word co-unoriginate (Собезнача́льное Сло́во)...*
 Wrapped in the streams of the Jordan, Thou Who art most gloriously clothed with light as with a garment, in them Thou hast renewed Adam's nature, crushed by evil disobedience, O Word of God. Therefore we praise Thee, and all of us glorify Thy holy Epiphany.[^924]
 
-*Glory... Now and ever... Tone 4. Podoben: Joseph was amazed...*
+*Glory... Now and ever... Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ)...*
 O river Jordan, why wast thou amazed, beholding the Invisible One naked? I saw and trembled, it said; and how should I not have been afraid of Him and retreated? His angels were terrified as they beheld Him; heaven was dismayed, and earth trembled—[^925] —the sea was troubled, and all things visible and invisible. Christ has appeared at the Jordan to sanctify the waters.[^926]
 
 *Polyeleos.*
@@ -80,7 +80,7 @@ We magnify Thee, O Christ Giver of life, Who for our sake wast baptized in the f
 *Glory... Now and ever... Alleluia (three times).*
 My Jesus is baptized by a servant in the river Jordan, illuminating all creation.[^929]
 
-*Sessional Hymn, Tone 4. Podoben: Joseph was amazed...*
+*Sessional Hymn, Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ)...*
 Come, O faithful, let us behold where Christ was baptized; let us now follow unto the river Jordan, unto the voice of one crying in the wilderness; and let us see there the Creator of Adam, having a servant's hand laid upon Him in His ineffable tender compassion, and let us cry aloud unto Him with a loud voice: Thou hast come and hast appeared in the Jordan to sanctify the waters.[^930]
 
 *Glory... Now and ever... the same.*
@@ -88,7 +88,7 @@ Come, O faithful, let us behold where Christ was baptized; let us now follow unt
 *Gradual Hymns, the 1st Antiphon of Tone 4:*
 *From my youth... (see p. 101).[^931]*
 
-**Priest:** Let us attend!
+> **Priest:** "Let us attend!"
 *And the Prokimenon, Tone 4:*
 *The sea saw it and fled; Jordan was driven back.*
 *Verse: What ailed thee, O sea, that thou didst flee, and thou, Jordan, that thou wast driven back?*
@@ -267,7 +267,7 @@ Every tongue is at a loss...[^1012]
 *Then the refrain of the second canon, and the heirmos:*
 O the marvels beyond comprehension...[^1013]
 
-*Exapostilarion. Podoben: Thou hast visited us:*
+*Exapostilarion. Podoben: Thou hast visited us (Посѣти́лъ ны̀):*
 The Savior, grace and truth, has appeared in the streams of the Jordan, and has enlightened those sleeping in darkness and shadow; for He has come and appeared, the unapproachable Light. *(Thrice)*[^1014]
 
 *At the Praises, Stichera on 4, Tone 1:*
@@ -305,9 +305,7 @@ Today Christ comes unto the Jordan to be baptized; today John touches the head o
 *Verse 1:* I have loved, because the Lord will hear the voice of my supplication.[^1031]
 *Refrain:* Save us, O Son of God, Who wast baptized in the Jordan, who sing unto Thee: Alleluia.
 *Verse 2:* Because He has inclined His ear unto me, therefore will I call upon Him in my days.[^1032]
-*Refrain:* Save us, O Son of God...
-
-*Verse 3:* The pangs of death surrounded me, the perils of Hades found me; I found tribulation and sorrow, and I called upon the name of the Lord.[^1033]
+*Refrain:* Save us, O Son of God *Verse 3:* The pangs of death surrounded me, the perils of Hades found me; I found tribulation and sorrow, and I called upon the name of the Lord.[^1033]
 *Refrain:* Save us, O Son of God...
 *Verse 4:* Merciful is the Lord, and righteous; and our God has mercy.[^1034]
 *Refrain:* Save us, O Son of God...
@@ -323,9 +321,7 @@ When Thou wast baptized in the Jordan, O Lord, the worship of the Trinity was ma
 *Verse 3:* Let the house of Aaron now say: For He is good, for His mercy endures unto ages.[^1040]
 *Refrain:* When Thou wast baptized in the Jordan...
 *Verse 4:* Let all that fear the Lord now say: For He is good, for His mercy endures unto ages.[^1041]
-*Refrain:* When Thou wast baptized in the Jordan...
-
-*Introit:*
+*Refrain:* When Thou wast baptized in the Jordan *Introit:*
 Blessed is He Who comes in the name of the Lord; we have blessed you out of the house of the Lord; God is the Lord, and has appeared unto us.[^1042]
 
 *Troparion:*
@@ -365,7 +361,7 @@ All creation today is filled with joy; Christ was baptized in the Jordan.[^1055]
 *On "Lord, I Have Cried", Stichera of Theophany, 3, Tone 2:*
 Our Enlightener... (see p. 235)[^1057]
 
-*And of the Forerunner, Tone 1. Podoben: "O all-praised martyrs":*
+*And of the Forerunner, Tone 1. Podoben: "O all-praised martyrs" (Всехва́льнїи мч҃ницы):*
 Beholding Thee coming unto him, O Christ, and asking for baptism, the Forerunner cried aloud with trembling: What dost Thou command me, to perform things beyond my power, O all-powerful Lord? How with my hand—[^1058] —shall I touch Thee, Who holdest all things in Thy hand? Do Thou rather baptize me, Thy servant.[^1059]
 
 I have appeared as whole man now, and have become accessible unto thee, though inaccessible by nature; willingly I have become poor, being rich, that I may enrich what has grown poor with incorruption and deliverance; approach and baptize [Me], Who am not subject to corruption, and Who take away the world from corruption.[^1060]
@@ -388,7 +384,7 @@ Our God is in heaven and on earth; all things whatsoever He willed, He has done.
 Our God is in heaven and on earth...[^1068]
 *Then the Litany.*
 
-*At the Aposticha, Stichera, Tone 4. Podoben: "Thou hast given a sign":*
+*At the Aposticha, Stichera, Tone 4. Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*
 When John the Forerunner beheld Thee coming unto him, O Master, he was struck with dread, and as a well-disposed servant he cried aloud with fear: What is this condescension, O Savior? What is this poverty wherewith Thou hast clothed Thyself? By the wealth of Thy goodness Thou hast exalted man who had humbled himself, as Thou art compassionate, since Thou hast clothed Thyself in him.[^1069]
 *Verse:* The sea saw and fled; Jordan turned back.[^1070]
 Thou didst answer the Forerunner, O Savior of all: Come unto Me Who am accomplishing a saving mystery; serve with fear and be not terrified; for renewing Adam who was crushed by sin, I am baptized as man, being undefiled by nature, in the waters of the Jordan, into which thou seest Me come.[^1071]

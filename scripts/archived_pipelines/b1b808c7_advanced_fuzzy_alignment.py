@@ -52,7 +52,7 @@ def clean_and_normalize(text: str) -> str:
 def main():
     root = Path(__file__).resolve().parent.parent
     if "brain" in str(root):
-        root = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation")
+        root = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation")
 
     with open(root / "scratch" / "reports" / "unmatched_substantive_docx.json", "r", encoding="utf-8") as fh:
         unmatched = json.load(fh)

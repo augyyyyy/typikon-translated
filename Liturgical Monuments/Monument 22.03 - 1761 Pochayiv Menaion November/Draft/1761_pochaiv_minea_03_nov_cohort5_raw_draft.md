@@ -258,13 +258,13 @@ Nourished with the milk of faith, for the sake of many torments and sorrows, O G
 
 of faith, whereby thou didst obtain God, being now most perfectly deified![^211]
 
-*Sticheron 2, Podoben the same:*
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*
 Skilfully didst thou seek the Fountain of good things, the utmost of desirable things, O Episteme; with His brightnesses thou didst illumine both thy soul and thought, O divinely blessed one, and by steadfast resistances didst bring low the wily and ancient tormentor, O divine adornment of monastics, much-suffering martyr!
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 Two all-radiant luminaries of the noetic Orient shine forth by grace, and piously enlighten the whole creation with surpassing splendors of sufferings and divine ignitions of healings. Celebrating their all-radiant feast, let us glorify Christ Who sanctifies all for their sake!
 
-*Glory, Both now, Theotokion, Podoben the same:*
+*Glory, Both now, Theotokion, Podoben the same (Подо́бенъ то́йже):*
 Rejoice, enlightenment of souls, forgiveness of sinners, correction of the negligent! Rejoice, comfort and joy, helper of the afflicted! Rejoice, O good one, healing of infirm souls! Rejoice, reconciliation unto God and intercessor, as thou art holier than all the Seraphim, O pure one!
 
 *Stavrotheotokion:*

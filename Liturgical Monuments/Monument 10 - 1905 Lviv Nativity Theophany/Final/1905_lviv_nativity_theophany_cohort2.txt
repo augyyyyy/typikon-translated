@@ -30,11 +30,11 @@ Now the prophetic utterance draws near to its fulfillment, which secretly said: 
 
 *Then Glory: Tone 8:*
 
-These things saith Joseph unto the Virgin: Mary, what is this deed that I see in thee? I am at a loss and wonder, and in mind I am dismayed; therefore depart from me in secret speedily. Mary, what is this deed that I see in thee? In place of honor, shame; in place of gladness, sorrow; instead of being praised, thou hast brought me reproach. I can no longer bear the reproaches of men; for from the priests of the temple of the Lord I received thee as blameless, and what is this that is seen?
+These things says Joseph unto the Virgin: Mary, what is this deed that I see in thee? I am at a loss and wonder, and in mind I am dismayed; therefore depart from me in secret speedily. Mary, what is this deed that I see in thee? In place of honor, shame; in place of gladness, sorrow; instead of being praised, thou hast brought me reproach. I can no longer bear the reproaches of men; for from the priests of the temple of the Lord I received thee as blameless, and what is this that is seen?
 
 *Both now:*
 
-*These things saith Joseph unto the Virgin...*
+*These things says Joseph unto the Virgin...*
 
 *Then the Prokeimenon, Tone 4:*
 
@@ -47,7 +47,7 @@ The Lord said unto Me: Thou art My Son, this day have I begotten Thee.[^9]
 === LEAF p13 ===
 *Reading from the Prophecy of Micah, Chapter 5:*[^10]
 
-Thus saith the Lord: And thou Bethlehem, house of Ephratha, art thou too least among the thousands of Judah? For out of thee shall come forth unto Me a ruler, to be prince in Israel; and His goings forth have been from the beginning, from the days of eternity. Therefore shall He give them up, until the time that she that is in travail hath brought forth; and the rest of His brethren shall return unto the children of Israel. And He shall stand, and see, and shepherd His flock in the strength of the Lord; and they shall abide in the glory of the name of the Lord their God: for now shall He be magnified unto the ends of the earth.
+Thus says the Lord: And thou Bethlehem, house of Ephratha, art thou too least among the thousands of Judah? For out of thee shall come forth unto Me a ruler, to be prince in Israel; and His goings forth have been from the beginning, from the days of eternity. Therefore shall He give them up, until the time that she that is in travail hath brought forth; and the rest of His brethren shall return unto the children of Israel. And He shall stand, and see, and shepherd His flock in the strength of the Lord; and they shall abide in the glory of the name of the Lord their God: for now shall He be magnified unto the ends of the earth.
 
 *Reading from the Epistle of the Holy Apostle Paul to the Hebrews, Pericope 303:*[^11]
 
@@ -204,7 +204,7 @@ Before Thy birth, O Lord, beholding Thy mystery with trembling, the spiritual ho
 
 *Glory: Tone 2.*
 
-Tell us, Joseph, how is it that the Virgin whom thou didst receive from the Holy of Holies thou bringest with child to Bethlehem? I, saith he, have searched the prophets, and having received word from an angel, I am persuaded that Mary shall ineffably give birth to God; unto Whom the Magi from the East shall come to worship, serving Him with precious gifts: O Thou Who wast incarnate for our sake, Lord, glory to Thee.
+Tell us, Joseph, how is it that the Virgin whom thou didst receive from the Holy of Holies thou bringest with child to Bethlehem? I, says he, have searched the prophets, and having received word from an angel, I am persuaded that Mary shall ineffably give birth to God; unto Whom the Magi from the East shall come to worship, serving Him with precious gifts: O Thou Who wast incarnate for our sake, Lord, glory to Thee.
 
 *Both now: again the same Sticheron.*
 

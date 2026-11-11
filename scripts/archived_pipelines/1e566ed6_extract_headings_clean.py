@@ -1,7 +1,7 @@
 import os
 import sys
 
-typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 files = [
     "Final_Dolnytsky_part1_structure.md",
     "Final_Dolnytsky_part2_general_rubrics.md",

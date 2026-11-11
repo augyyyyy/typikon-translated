@@ -30,7 +30,7 @@ but do thou, O Mother of God and Sovereign Lady, be my helper then.
 Quench the flame of my passions, and calm the tempest of my heart, O pure Mother of God; and deliver me, O All-pure One, from the torment of demons and from eternal fire. Glory:
 
 *Troparion:*
-Behold my affliction, O Virgin, which the multitude of mine evils hath brought on, and grant me rest before my departure, imploring Thy Son by thy maternal prayers. Both now:
+Behold my affliction, O Virgin, which the multitude of mine evils hath brought on, and grant me rest before my departure, imploring thy Son by thy maternal prayers. Both now:
 
 *Theotokion:*
 The flame of the passions of my heart quench with thy dew, O Virgin, and snatch me, O Maiden, from the fearful fire, and from eternal judgment, and from demonic torment.

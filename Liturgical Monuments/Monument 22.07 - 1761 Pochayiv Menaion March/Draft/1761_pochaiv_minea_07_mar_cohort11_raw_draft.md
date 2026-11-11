@@ -179,11 +179,11 @@ The Son of the unoriginate Father, God and Lord, incarnate of the Virgin hath ap
 
 *Sticheron 3:* The ruinous mind of the most foolish Manes thou didst put to shame, having excellently and most wisely refuted the vile doctrines of his frenzy, O chief of teachers, splendor of priests, divine champion of the Church of Christ; therefore, glorifying thy holy dormition, we celebrate it.[^282]
 
-*Glory, both now, Theotokion, the same Tone and Podoben:*
+*Glory, both now, Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Choice repentance and saving medicine, O thou who didst bear God my Savior, and streams of tears, and meditation upon the dread and fearful hour and unbribable judgment, do thou grant me to escape through thy prayers, O Virgin, from trembling torment, and to obtain divine grace.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Thee nailed upon the Cross, O Lord, the ewe-lamb and Thy Mother marveled, and cried aloud: What vision is this, O longed-for Son? Hath the ungrateful and lawless assembly rendered these things unto Thee, which enjoyed Thy many wonders? But glory to Thine ineffable condescension, O Master!
 

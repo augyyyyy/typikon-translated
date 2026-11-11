@@ -1,6 +1,6 @@
 === LEAF p721 ===
 
-# Great Lent: Wednesday, Friday, and Saturday of Second Week (§§ 32–34 Opening)
+## Great Lent: Wednesday, Friday, and Saturday of Second Week (§§ 32–34 Opening)
 
 ## Τετάρτη, Παρασκευὴ καὶ Σάββατον τῆς Β΄ Ἑβδομάδος (§§ 32–34 Ἀρχή) [Violakis, p. 706]
 
@@ -23,7 +23,7 @@
 
 === LEAF p722 ===
 
-# Great Lent: Wednesday, Friday, and Saturday of Second Week (§§ 32–34 Opening)
+## Great Lent: Wednesday, Friday, and Saturday of Second Week (§§ 32–34 Opening)
 
 ## Wednesday, Friday, and Saturday of the Second Week of Great Lent (§§ 32–34 Opening) [Violakis, p. 707]
 
@@ -33,7 +33,7 @@
 
 **Friday of the Second Week**
 
-33.    At Vespers, after the Introductory Psalm and the Eighteenth Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the Idiomelon: **"Now is the acceptable time..."** (*Νῦν καιρὸς εὐπρόσδεκτος*) twice, the four Martyrika of the occurring Tone, and four Stichera from the Menaion; "Glory...": the Doxastikon of the Departed [Nekrosimon] of the occurring Tone; "Both now and ever...": the first Dogmatic Theotokion of the Tone of the week; the Old Testament Readings of the day: Genesis 5:32–6:8 [LXX] and Proverbs 6:20–7:1 [LXX]. Then: **"Let my prayer arise"** (*Κατευθυνθήτω*), and the Liturgy of the Presanctified Gifts is celebrated.  
+33.    At Vespers, after the Introductory Psalm and the Eighteenth Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the Idiomelon: **"Now is the acceptable time..."** (*Νῦν καιρὸς εὐπρόσδεκτος*) twice, the four Martyrika of the occurring Tone, and four Stichera from the Menaion; "Glory...": the Doxastikon of the Departed (*Hymn for the Departed (Поко́инъ)*) of the occurring Tone; "Both now and ever...": the first Dogmatic Theotokion of the Tone of the week; the Old Testament Readings of the day: Genesis 5:32–6:8 [LXX] and Proverbs 6:20–7:1 [LXX]. Then: **"Let my prayer arise"** (*Κατευθυνθήτω*), and the Liturgy of the Presanctified Gifts is celebrated.  
     In the evening, Small Compline (*To mikron Apodeipnon*) is served, and the Second Stasis of the Oikoi of the Most Holy Theotokos (Oikoi 7–12) is read, etc., as is customary (see Paragraph 26 above).
 
 **Saturday of the Second Week**
@@ -44,7 +44,7 @@
 
 === LEAF p723 ===
 
-# Great Lent: Second Saturday Concluded and Second Sunday of Lent (§§ 34 Concluded, 35, 36 Opening)
+## Great Lent: Second Saturday Concluded and Second Sunday of Lent (§§ 34 Concluded, 35, 36 Opening)
 
 ## Τέλος τοῦ Β΄ Σαββάτου καὶ Κυριακὴ Β΄ τῶν Νηστειῶν (§§ 34 Τέλος, 35, 36 Ἀρχή) [Violakis, p. 708]
 
@@ -62,7 +62,7 @@
 
 === LEAF p724 ===
 
-# Great Lent: Second Saturday Concluded and Second Sunday of Lent (§§ 34 Concluded, 35, 36 Opening)
+## Great Lent: Second Saturday Concluded and Second Sunday of Lent (§§ 34 Concluded, 35, 36 Opening)
 
 ## Second Saturday Concluded and Second Sunday of Great Lent (§§ 34 Concluded, 35, 36 Opening) [Violakis, p. 709]
 
@@ -81,7 +81,7 @@ This order is to be observed on every Saturday until the Fourth Week of Lent.
 
 === LEAF p725 ===
 
-# Great Lent: Second Sunday Concluded and Third Sunday of Lent (§§ 36 Concluded, 37, 38, 39 Opening)
+## Great Lent: Second Sunday Concluded and Third Sunday of Lent (§§ 36 Concluded, 37, 38, 39 Opening)
 
 ## Τέλος τῆς Β΄ Κυριακῆς καὶ Κυριακὴ Γ΄ τῶν Νηστειῶν (Σταυροπροσκυνήσεως) (§§ 36 Τέλος, 37, 38, 39 Ἀρχή) [Violakis, p. 710]
 
@@ -106,7 +106,7 @@ This order is to be observed on every Saturday until the Fourth Week of Lent.
 
 === LEAF p726 ===
 
-# Great Lent: Second Sunday Concluded and Third Sunday of Lent (§§ 36 Concluded, 37, 38, 39 Opening)
+## Great Lent: Second Sunday Concluded and Third Sunday of Lent (§§ 36 Concluded, 37, 38, 39 Opening)
 
 ## Second Sunday Concluded and Third Sunday of Great Lent (Veneration of the Cross) (§§ 36 Concluded, 37, 38, 39 Opening) [Violakis, p. 711]
 
@@ -131,7 +131,7 @@ For the rubrics of the services of Wednesday and Friday, as well as for Saturday
 
 === LEAF p727 ===
 
-# Great Lent: Third Sunday of Lent (Matins of the Holy Cross and Solemn Procession) (§ 39 Continued)
+## Great Lent: Third Sunday of Lent (Matins of the Holy Cross and Solemn Procession) (§ 39 Continued)
 
 ## Ὄρθρος τῆς Κυριακῆς τοῦ Σταυροῦ καὶ Τελετὴ τῆς Σταυροπροσκυνήσεως (§ 39 Συνέχεια) [Violakis, p. 712]
 
@@ -145,7 +145,7 @@ For the rubrics of the services of Wednesday and Friday, as well as for Saturday
 
 === LEAF p728 ===
 
-# Great Lent: Third Sunday of Lent (Matins of the Holy Cross and Solemn Procession) (§ 39 Continued)
+## Great Lent: Third Sunday of Lent (Matins of the Holy Cross and Solemn Procession) (§ 39 Continued)
 
 ## Third Sunday of Great Lent: Matins of the Holy Cross and Solemn Procession (§ 39 Continued) [Violakis, p. 713]
 
@@ -161,7 +161,7 @@ The Choirs singing the Asmatikon come down from their stalls and move to the Nor
 
 === LEAF p729 ===
 
-# Great Lent: Third Sunday of Lent (Veneration of the Holy Cross and Divine Liturgy Antiphons) (§§ 39 Concluded, 40)
+## Great Lent: Third Sunday of Lent (Veneration of the Holy Cross and Divine Liturgy Antiphons) (§§ 39 Concluded, 40)
 
 ## Τέλος τῆς Σταυροπροσκυνήσεως καὶ Ἀντίφωνα τῆς Λειτουργίας (§§ 39 Τέλος, 40) [Violakis, p. 714]
 
@@ -192,7 +192,7 @@ The Choirs singing the Asmatikon come down from their stalls and move to the Nor
 
 === LEAF p730 ===
 
-# Great Lent: Third Sunday of Lent (Veneration of the Holy Cross and Divine Liturgy Antiphons) (§§ 39 Concluded, 40)
+## Great Lent: Third Sunday of Lent (Veneration of the Holy Cross and Divine Liturgy Antiphons) (§§ 39 Concluded, 40)
 
 ## Third Sunday of Great Lent: Veneration Concluded and Divine Liturgy Festal Antiphons (§§ 39 Concluded, 40) [Violakis, p. 715]
 
@@ -200,7 +200,7 @@ The Choirs singing the Asmatikon come down from their stalls and move to the Nor
 
 40.    In the Divine Liturgy, the following Festal Antiphons are chanted:
 
-### First Antiphon
+**First Antiphon**
 
 *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."** (*Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*)
 
@@ -211,7 +211,7 @@ The Choirs singing the Asmatikon come down from their stalls and move to the Nor
 
 ["Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen." — *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."**]
 
-### Second Antiphon
+**Second Antiphon**
 
 *Refrain:* **"Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia!"** (*Σῶσον ἡμᾶς, Υἱὲ Θεοῦ, ὁ ἀναστὰς ἐκ νεκρῶν, ψάλλοντάς Σοι: Ἀλληλούϊα!*)
 

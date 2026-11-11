@@ -38,7 +38,7 @@ Taking up His dwelling from thee, He Who is in the bosom of the Father was born 
 *Podoben: "Give ear, ye women" (Жены̀ оуслы́шите):*
 The joy-bearing nativity of the forerunner today looses the sorrow of his father's speechlessness and the barrenness of her that bore him, and proclaims present joy and gladness; therefore does all creation radiantly keep festival thereof!
 
-*Theotokion, the same Podoben:*
+*Theotokion, the same Podoben (Подо́бенъ то́йже):*
 
 === LEAF p182 ===
 The prophets proclaimed, the apostles taught, and the martyrs in God-wise manner clearly confessed Thy Son, O Birthgiver of God, the God of all, O all-pure one; with them do we magnify thee, having been delivered through thee from the ancient condemnation![^716]

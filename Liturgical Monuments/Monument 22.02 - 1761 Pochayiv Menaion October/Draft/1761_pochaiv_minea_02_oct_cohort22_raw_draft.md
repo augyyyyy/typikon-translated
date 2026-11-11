@@ -241,7 +241,7 @@ Thou didst appear as an invincible overthrower of evil spirits, O all-blessed on
 *Theotokion:*
 Without knowing man, O Virgin, thou didst give birth, and remainest a Virgin forever: manifesting the images of the true Godhead of thy Son and God!
 
-*Kontakion, Tone 3, Podoben:...*[^798]
+*Kontakion, Tone 3, Podoben (Подо́бенъ):...*[^798]
 
 === LEAF p220 === (Fol. 109)
 *Tone 3, Podoben: "Today the Virgin" (Дѣ́ва дне́сь):*

@@ -16,7 +16,7 @@ I have sinned, yet I have not departed from Thee, wretched as I am; have compass
 O incomprehensible and unapproachable God, Who art one by nature, Thou art good and merciful. O Father, and Son, and Most Holy Spirit: preserve and sanctify those who sing with faith in Thy holy church, by night and by day; and deliver us not up, O Master, unto the enemies who seek our destruction.[^3751]
 
 *Glory... both now... Theotokion:*
-We Thy servants shall never cease, O Ever-Virgin Lady, to hymn Thy mercies thankfully from the heart, crying aloud and saying: O Most Holy Virgin, anticipate, and deliver us from invisible enemies, and afflictions, and every threatening; for thou art our protection.[^3752]
+We thy servants shall never cease, O Ever-Virgin Lady, to hymn thy mercies thankfully from the heart, crying aloud and saying: O Most Holy Virgin, anticipate, and deliver us from invisible enemies, and afflictions, and every threatening; for thou art our protection.[^3752]
 
 *Ode 7. Heirmos:*
 *In the Persian furnace the Abrahamic youths, consumed more by the love of piety than by the flame, cried aloud: Blessed art Thou in the temple of Thy glory, O Lord.*[^3753]

@@ -8,7 +8,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-proj_root = Path(r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation")
+proj_root = Path(r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation")
 app_path = proj_root / "Final" / "Final_Dolnytsky_appendix.txt"
 
 # Read with newline='' to keep exact \r\n

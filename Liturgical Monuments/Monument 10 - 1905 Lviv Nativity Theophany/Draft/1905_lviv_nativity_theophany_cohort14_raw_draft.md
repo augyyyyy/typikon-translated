@@ -22,7 +22,7 @@ Today the Church celebrates with gladness thy memory, O chaste Joseph, beloved o
 Thy Nativity, O Christ... (see p. 121).[^243]
 *And the Dismissal.*[^244]
 *If the Synaxis falls on Sunday, that is, the Sunday after the Nativity, on which we celebrate the memory of the Holy Righteous Ancestors of God: after the Great Litany we take "Blessed is the man" (see p. 61);[^245] and at "Lord, I have cried," 10 Stichera: 3 Resurrectional of the occurring tone, and 4 of the Feast: "Come, let us rejoice in the Lord" (see p. 50);[^246] "The Lord Jesus being born" (p. 51);[^247] — "Thy Kingdom" (p. 51);[^248] "What shall we offer Thee, O Christ" (p. 52);[^249] and 3 of the Saints:*[^250]
-*Tone 4. Podoben: Of the heavenly hosts:*[^251]
+*Tone 4. Podoben: Of the heavenly hosts (Небє́сныхъ чинѡ́въ):*[^251]
 Let us all praise the Ancestor of God, David the King, for from him came forth the rod, the Virgin, and from her blossomed forth Christ, and He recalled Adam with Eve from corruption, for He is compassionate.[^252]
 
 === LEAF p133 ===
@@ -105,10 +105,10 @@ O awesome and unashamed Mediatress, despise not our prayers, O good, all-hymned 
 
 === LEAF p138 ===
 *After this, "Glory to God in the highest," and the Six Psalms (see pp. 92–98);[^293] Great Litany: "In peace let us pray to the Lord" (see p. 47);[^294] and "God is the Lord" (see p. 98).[^295] Troparion: "Thy Nativity, O Christ," twice (p. 121);[^296] Glory: "Today the Church celebrates" (p. 127);[^297] Both now: "Thy Nativity, O Christ..."*
-*After the 1st Kathisma, Sessional Hymn, Tone 1. Podoben: The stone having been sealed:*[^298]
+*After the 1st Kathisma, Sessional Hymn, Tone 1. Podoben: The stone having been sealed (Ка́мени запеча́танꙋ):*[^298]
 When Jesus was born in Bethlehem of Judea, creation was enlightened, having recognized the Creator; the angelic choirs were amazed, beholding the Master on earth having assumed the form of a servant: Glory to God Who was incarnate; glory to Him Who was born on earth; glory to Him Who was well pleased to save our race![^299]
 *Glory... Both now... The same once more.*
-*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: Joseph was amazed:*[^300]
+*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ):*[^300]
 Why art thou amazed, O Mary? What strikes awe at that which is in thee? Because I gave birth to the timeless Son in time, she said; having not learned the conception of childbirth, I am unwedded, and how shall I bear a Son? Who has seen a seedless birth? For where God wills, the order of nature is overcome, as it is written: Christ is born, to raise up the image that was fallen aforetime.[^301]
 *Glory... Both now... The same once more.*
 *Psalm 50:*[^302]

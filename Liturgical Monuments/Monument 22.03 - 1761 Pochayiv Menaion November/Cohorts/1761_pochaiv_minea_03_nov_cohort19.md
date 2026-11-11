@@ -52,7 +52,7 @@ Thou wast revealed, O Virgin, Mother of God, having beyond nature given birth in
 *Exapostilarion, Podoben: "Give ear, ye women" (Жены̀ ѹ҆слы́шите):*[^745]
 Thou didst shine forth with wonders, O wonderworker Gregory; thou didst deliver the idolater from corruption and demonic delusion, moving a stone by thy command; and having dried up a lake, thou didst stay a river. Therefore we all praise thee with one accord, O thrice-blessed one!
 
-*Theotokion, the same Podoben:*[^746]
+*Theotokion, the same Podoben (Подо́бенъ то́йже):*[^746]
 Rejoice, praise of the faithful! Rejoice, confirmation of the venerable! Rejoice, glory of the righteous! Rejoice, light of those in darkness! Rejoice, all-holy temple! Rejoice, paradise of God! Rejoice, dissolution of the curse, O blessed Mary!
 
 *At the Aposticha, stichera of the Octoechos, and of the saint, Tone 4:*

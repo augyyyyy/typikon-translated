@@ -14,7 +14,7 @@
 
 [^219]: Printed incipit *Б[о]жїа съхожденїа* corresponds to the Greek heirmos *Θεοῦ συγκατάβασιν πῦρ ᾐδέσθη ἐν Βαβυλῶνι ποτέ* (Slavonic: *Божїя снисхожденїя огнь устыдеся въ Вавилонѣ иногда*).
 
-[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χалдаίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
+[^220]: Printed incipit *Седмиселицею* corresponds to the Greek heirmos *Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος* (Slavonic: *Седмерицею пещь халдейскїй мучитель*).
 
 [^221]: Printed incipit *Т[ѧ] бракоу невѣсен* corresponds to the Greek heirmos *Ἀσπόρου συλλήψεως ὁ τόκος ἀνερμήνευτος* (Slavonic: *Безсѣменнаго зачатия рождество несказанное*).
 
@@ -28,6 +28,6 @@
 
 [^226]: Versification per the Septuagint (LXX Ps. 131:8, 1; Masoretic Ps. 132:8, 1). This is followed by the rubrics for the Sunday Matins Gospel cycle: *Let every breath... Verse: Praise God in His saints (LXX Ps. 150:1)*, *Resurrection Gospel, Reading 1*, *Having beheld the Resurrection of Christ*, and *Psalm 50*.
 
-[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρмаτηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
+[^227]: The Sunday Matins Canon of the Resurrection, Tone 8 (*Канонъ Воскресенъ, гласъ 8*), composed by St. John of Damascus. Heirmos 1: Greek *Ἁρματηλάτην Φαραὼ ἐβύθισε, τερατουργοῦσα ποτέ, Μωσαϊκὴ ῥάβδος σταυροτύπως πλήξασα* (Slavonic: *Вооруженнаго фараона погрузи чудотворяй древле Моисейскїй жезлъ крестообразно поразивъ*).
 
 [^228]: Greek: *Ὑγρὰν διοδεύσας ὡσεὶ ξηράν* (Slavonic: *Воду прошедъ яко сушу*), the heirmos model for the second canon of Sunday Matins (the Canon of the Cross and Resurrection).

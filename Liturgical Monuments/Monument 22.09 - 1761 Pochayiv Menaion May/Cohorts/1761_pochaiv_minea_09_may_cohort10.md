@@ -92,7 +92,7 @@ Having had the sea as a way and waters as paths,[^131] beseech the Lord that we 
 *Theotokion:*
 Thou art the gate of the King of heaven, and the temple of His glory, O all-hymned Virgin; open unto us the doors of mercy, and lead us by thy prayers into the mansions of heavenly glory!
 
-*Kontakion, Tone 3, Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion, Tone 3, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Thy relics arose like a star from the East unto the West, O Hierarch Nicholas; and the sea was sanctified by thy journey, and the city of Bari receives grace through thee; for for our sake thou hast been revealed as an eminent, marvelous, and merciful wonderworker.
 
 *Ikos:*
@@ -191,7 +191,7 @@ Thy most glorious memory has shone forth upon us, brightly enlightening the fait
 *Theotokion:*
 Mortify our carnal passions and lusts, O pure Mother of God; calm the tempest of our passions, still the tossing of our thoughts, and strengthen the hearts of those who faithfully honor thee as protector, O blessed and all-pure one!
 
-*Exapostilarion, Podoben: "Give Ear, Ye Women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Give Ear, Ye Women" (Жє́ны оу҆слы́шите):*
 Great are thy wonders, O most holy Nicholas: for thou didst appear in a dream unto the God-wise Constantine, and didst save the three soldiers condemned without guilt unto death;[^137] so also save us from sudden and eternal death, O most holy Nicholas, hierarch of the Lord! *Twice.*
 
 *Glory... Both now... of the Feast.*
@@ -234,7 +234,7 @@ Let us trumpet with the trumpet of songs, let us dance festively, and let us exu
 === LEAF p98 === (Fol. 49v)
 ## May 10. The Holy Apostle Simon the Zealot
 
-*At Vespers, we sing "Blessed is the man," the 1st antiphon. Stichera for 8: of the Feast, 3; and of the Apostle, 5, Tone 4, Podoben: "Thou Hast Given a Sign" (Dal esi znamenie):*
+*At Vespers, we sing "Blessed is the man," the 1st antiphon. Stichera for 8: of the Feast, 3; and of the Apostle, 5, Tone 4, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 Marvelous Simon,* praise of the apostles,* like a shining ray traversed the ends of the earth,* driving away the darkness of polytheism* with his saving and light-bearing* divine teachings,* and enlightening all* to glorify the one Godhead in three Hypostases,* undivided and unsevered. *Twice.*
 
 *Sticheron:*
@@ -250,7 +250,7 @@ Named after zeal wast thou called, O Simon, most marvelous; zealous with zeal wa
 
 *Entrance, Prokeimenon of the day. And the three readings of the 8th day of this month [May 8, Saint John the Theologian].[^147] Litiya of the Apostle.*
 
-*At the Aposticha, Stichera, Tone 4, Podoben: "O All-Lauded Martyrs" (Prekhvalnii muchenitsy):*
+*At the Aposticha, Stichera, Tone 4, Podoben: "O All-Lauded Martyrs" (Прехва́льнїи мч҃ницы):*
 Thou art full of the torrent of delight,[^148] and having wisely given those who warmly desire it to drink of the knowledge of God,* imitating Christ:* unto Whom thou hast now joyfully departed,* clothed in the all-radiant glory of the Trinity* and in peace passing all telling.*
 
 *Verse: Into all...*
@@ -287,7 +287,7 @@ Having netted the nations, the glorious apostle taught the ends of the earth to 
 As the Sun of Righteousness Christ sent thee forth to enlighten all the earth, O glorious Apostle Simon; by thy divine prayers thou illuminest and with the unwaning divine light enlightenest all who in faith celebrate thy holy memory. *Twice.*
 *Glory... Both now... of the Feast.*
 
-*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Guiding Unto Wisdom" (Premudrosti nastavniche):*
+*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "Guiding Unto Wisdom" (Премꙋ́дрости наста́вниче):*
 With the net of divine words, having caught rational fish, thou didst offer these as first-fruits unto our God; and desiring to be clothed in the wounds of Christ, an imitator of His passion...
 
 === LEAF p100 === (Fol. 50v)

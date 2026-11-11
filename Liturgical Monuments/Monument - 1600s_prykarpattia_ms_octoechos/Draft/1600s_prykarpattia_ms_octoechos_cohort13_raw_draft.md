@@ -108,7 +108,7 @@ The only Tender-hearted, the pre-eternal Word, Who in the last times was born of
 
 *Another Canon to the Mother of God. Heirmos: Communing with the fire without burning...*
 *Troparion:*
-With the light of thy childbirth, in marvelous splendor thou didst enlighten the universe, O Birth-giver of God; thou bearest in thine arms the existing God, Who sanctifies the faithful who ever cry: All ye works of the Lord, bless the Lord, and supremely exalt Him unto the ages!
+With the light of thy childbirth, in marvelous splendor thou didst enlighten the universe, O Birthgiver of God; thou bearest in thine arms the existing God, Who sanctifies the faithful who ever cry: All ye works of the Lord, bless the Lord, and supremely exalt Him unto the ages!
 
 *Troparion:*
 Piously thy womb hymns thee, O pure one, which held God ineffably incarnate, Who grants unto all the faithful the illumination of the knowledge of God, unto those who ever cry aloud: All ye works of the Lord, bless the Lord, and supremely exalt Him unto the ages!

@@ -50,7 +50,7 @@ Magnify, O my soul, the Virgin all-pure Theotokos, more honorable than the heave
 *And the Heirmos:*
 O the wonders of thy childbearing beyond understanding! O all-pure bride, blessed Mother, through whom having obtained all-perfect salvation, we worthily praise Him as Benefactor, bringing as a gift a hymn of thanksgiving.[^694]
 
-*Exapostilarion. — Podoben: By the Spirit in the sanctuary:*
+*Exapostilarion. — Podoben: By the Spirit in the sanctuary (Дх҃омъ во ст҃и́лищи):*
 Through the desire of love of wisdom, O father, thou didst circumcise the veil of thy soul, and wast shown forth unto the world like a sun by wonders; and thou didst illumine the thoughts of the faithful, O divinely wise initiate of the Trinity, O wise Basil, and servant of the Theotokos. (Twice)[^695]
 
 *Glory; Both now: Of the Circumcision:*
@@ -58,7 +58,7 @@ He Who fulfills the law is circumcised in the flesh as an eight-day-old infant, 
 
 === LEAF p204 ===
 *At the Praises, Stichera on 6.*
-*Tone 5. Podoben: Rejoice...*
+*Tone 5. Podoben: Rejoice (Ра́дꙋйсѧ живоно́сный Крⷭ҇те)...*
 He Who was ineffably begotten as the Word of the Father without severing or corruption, and Who as God from God abides in immutable Godhead, endures circumcision in the flesh; therefore, having come under the law though being above the law, He delivers all from the curse of the law, and grants blessing from on high; therefore, praising His most-good condescension, we sing and thankfully glorify Him, entreating Him to grant our souls great mercy. (Twice)[^697]
 
 Having become a son of God by grace through the rebirth of divine baptism, thou didst confess Him Who by nature and truth is the co-eternal Son of God and Word, consubstantial with the Father and co-unoriginate, O venerable one; and the unstopped mouths of heretics thou didst close with the brightness of thy words; therefore also thou didst take up dwelling in the heavenly kingdoms, reigning together with Christ Who alone reigns by nature, Who richly dispenses great mercy unto the world.[^698]

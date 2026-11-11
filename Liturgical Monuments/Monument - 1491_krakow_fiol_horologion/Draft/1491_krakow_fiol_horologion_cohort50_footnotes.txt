@@ -15,7 +15,7 @@
 [^704]: The Sticheron of Thomas Sunday in Tone 1 (Дверемъ заключеннымъ ученикомъ собраннымъ / Τῶν θυρῶν κεκλεισμένων τῶν μαθητῶν συνηγμένων).
 [^705]: The Aposticha idiomela of Thomas Sunday in Tone 4 (О преславнаго чудесе! невѣріе вѣру известную роди / Ὢ τοῦ παραδόξου θαύματος! ἡ ἀπιστία πίστιν βεβαίαν ἐγέννησε).
 [^706]: Great Vespers of Thomas Sunday, forming the opening service of the All-Night Vigil.
-[^707]: The Troparion of Thomas Sunday in Tone 7 (Запечатану гробу, животъ отъ гроба возсіялъ еси, Христе Боже / Ἐσφραγισμένου τοῦ μνήματος, ἡ ζωὴ ἐκ τάфου ἀνέτειλας, Χριστὲ ὁ Θεός).
+[^707]: The Troparion of Thomas Sunday in Tone 7 (Запечатану гробу, животъ отъ гроба возсіялъ еси, Христе Боже / Ἐσφραγισμένου τοῦ μνήματος, ἡ ζωὴ ἐκ τάφου ἀνέτειλας, Χριστὲ ὁ Θεός).
 [^708]: In accordance with ancient Studite and Sabbaitic Typika, during the Paschal season extending from Thomas Sunday until All Saints (Sunday after Pentecost), the Great Patristic/Scriptural reading between Kathismata at the All-Night Vigil is taken from the Acts of the Apostles (Дѣянія святыхъ апостолъ). When the book is completed, it is read through again.
 [^709]: At Thomas Sunday Matins, two Kathismata from the Psalter are sung, followed by the Polyeleos (Psalms 134–135), here designated `липого мл҃тивы` / `милостива` from its characteristic refrain "For His mercy endures forever."
 [^710]: The Patristic reading appointed after the Kathismata/Polyeleos on Thomas Sunday is St. Gregory the Theologian's Oration 44: On New Sunday (Въ Богословѣ / Слово святаго Григорія Богослова на Новую недѣлю).
@@ -38,12 +38,12 @@
 [^727]: At Matins throughout the entire 40 days of Paschaltide until Ascension Thursday, the hymn "Having beheld the Resurrection of Christ" (Воскресеніе Христово видѣвше) is sung daily after the second kathisma / litany.
 [^728]: General rubrical rule: the weekly liturgical offices until Ascension follow the Octoechos cycle of Tones and Triodion/Pentecostarion propers, with the weekly Tone changing each Sunday.
 [^729]: Ancient Kyivan-Ruthenian rubrical rule: on Wednesdays and Fridays throughout Paschaltide, the Stichera of the Cross (крестныя стихиры) precede the Resurrectional stichera, commemorating Christ's Passion which preceded His glorious third-day Resurrection.
-[^730]: The Dogmatikon Theotokion of Tone 1 (Всемірную славу, отъ человѣкъ прозябшую / Τὴν παγκόσμιον δόξαν, τὴν ἐξ ἀνθρώπων σπαреῖσαν), composed by St. John of Damascus.
+[^730]: The Dogmatikon Theotokion of Tone 1 (Всемірную славу, отъ человѣкъ прозябшую / Τὴν παγκόσμιον δόξαν, τὴν ἐξ ἀνθρώπων σπαρεῖσαν), composed by St. John of Damascus.
 [^731]: On Friday evening (inaugurating Saturday), the Canon for the Departed (Канонъ о усопшихъ) from the Octoechos is appointed at Compline throughout all weeks of the Pentecostarion, maintaining regular monastic prayer for deceased brethren.
 [^732]: On Saturday of the Second Week, the Apodosis (Отданіе) of Thomas Sunday is celebrated, combining the festal service with the temple patron saint or the daily Menaion commemorations.
 [^733]: At the Divine Liturgy on Saturday of the Second Week, the festive propers of Thomas Sunday are combined with the daily Epistle and Gospel readings.
 [^734]: The Third Sunday of Pascha (counted as the Second Sunday after Pascha Sunday) is dedicated to the Holy Myrrh-Bearing Women (Святыя мироносицы: Mary Magdalene, Mary the wife of Cleopas, Joanna, Salome mother of the sons of Zebedee, Susanna, and Martha and Mary the sisters of Lazarus) and Righteous Joseph of Arimathea and Nicodemus.
-[^735]: The Doxastikon of the Myrrh-Bearers at Vespers in Tone 6 (Мироносицы жены, утре глубоко / Μυроφόροι γυναῖκες, ὄρθρου βαθέος).
+[^735]: The Doxastikon of the Myrrh-Bearers at Vespers in Tone 6 (Мироносицы жены, утре глубоко / Μυροφόροι γυναῖκες, ὄρθρου βαθέος).
 [^736]: The Dogmatikon Theotokion of Tone 2 (Прейде сѣнь законная, благодати пришедшей / Παρῆλθεν ἡ σκιὰ τοῦ νόμου, τῆς χάριτος ἐλθούσης), composed by St. John of Damascus.
 [^737]: The Aposticha Doxastikon of the Myrrh-Bearers in Tone 5 (Тебе одѣющагося свѣтомъ яко ризою / Τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάτιον), the solemn funeral hymn of Joseph and Nicodemus chanted also at Great and Holy Friday Vespers.
 [^738]: The Resurrectional Troparion of Tone 2 (Егда снизшелъ еси къ смерти, Животе Безсмертный / Ὅτε κατῆλθες πρὸς τὸν θάνατον, ἡ ζωὴ ἡ ἀθάνατος).
@@ -63,5 +63,5 @@
 [^752]: At the Divine Liturgy on Saturday of the Third Week, Ode 9 of the Canon of the Myrrh-Bearers is appointed with the festal heirmoi on 6, while the Epistle and Gospel are taken from the daily cycle.
 [^753]: The Fourth Sunday of Pascha (Sunday 3 after Pascha Sunday) commemorates the miraculous healing of the Paralytic at the Bethesda Sheep Pool by our Lord Jesus Christ (John 5:1–15).
 [^754]: The Vesperal Doxastikon of the Paralytic in Tone 5 (Взыде Іисусъ во Іерусалимъ / Ἀνέβη ὁ Ἰησοῦς εἰς Ἱεροσόλυμα).
-[^755]: The Aposticha Doxastikon of the Paralytic in Tone 8 (Въ притворѣ Соломоновѣ тамо лежаше множество болящихъ / Ἐν τῇ στοᾷ τοῦ Σολομῶντος, ἐκεῖ κατέκειто πλῆθος τῶν ἀσθενούντων).
+[^755]: The Aposticha Doxastikon of the Paralytic in Tone 8 (Въ притворѣ Соломоновѣ тамо лежаше множество болящихъ / Ἐν τῇ στοᾷ τοῦ Σολομῶντος, ἐκεῖ κατέκειτο πλῆθος τῶν ἀσθενούντων).
 [^756]: The Fourth Matins Resurrection Gospel is Luke 24:1–12 (Pericope 112), recounting the visit of the women to the sepulchre, the message of the two men in shining garments, and St. Peter running unto the sepulchre and finding the linen clothes laid by themselves.

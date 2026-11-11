@@ -160,7 +160,7 @@
 
 *Troparion:* How was Life numbered among the dead? How did He endure death? How did He descend into Hades, saving [the human race]? Desiring to bring all the dead to life, and to put death to death, and to release those in Hades: Him do we magnify in hymns!
 
-*Theotokion:* Beholding Him upon the Cross, Whom from thy blood thou didst incarnate, O pure Maiden who gavest birth to God: "Why, O my Son, has an evil people dealt thus with Thee, putting Thee to death, Who art the Life and Resurrection of the faithful?"
+*Theotokion:* Beholding Him upon the Cross, Whom from thy blood thou didst incarnate, O pure Maiden who gavest birth to God: "Why, O my Son, has an evil people dealt thus with thee, putting thee to death, Who art the Life and Resurrection of the faithful?"
 
 *Another Canon, to the Mother of God. Ode 9. Heirmos: The same.*
 

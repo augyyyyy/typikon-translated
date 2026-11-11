@@ -30,7 +30,7 @@
 
 [^14]: The Greek alphabetic acrostic of the first Canon: Σοφοὺς ἰατροὺς γηγενεῖς ᾄδειν χρεών ("It is fitting for earthly ones to hymn the wise physicians").
 
-[^15]: The acrostic of the second Canon, composed by Saint John of Damascus: ᾌσмаσι γεραίρω τοὺς σοφοὺς ἀναργύρους ("With hymns I honor the wise unmercenaries").
+[^15]: The acrostic of the second Canon, composed by Saint John of Damascus: ᾌσμασι γεραίρω τοὺς σοφοὺς ἀναργύρους ("With hymns I honor the wise unmercenaries").
 
 [^16]: First Kingdoms (1 Samuel) 2:1–2: The Prayer of Hannah (Third Canticle of the Old Testament).
 
@@ -100,7 +100,7 @@
 
 [^49]: The common Troparion of the Holy Persian Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, and Anempodistus (Tone 2).
 
-[^50]: The acrostic of the canon composed by Saint Theophanes the Branded: Τῶν σῶν με λιταῖς μαρτύρων δῆме σκέπε ("With the supplications of Thy martyrs, O choir, cover me").
+[^50]: The acrostic of the canon composed by Saint Theophanes the Branded: Τῶν σῶν με λιταῖς μαρτύρων δῆμε σκέπε ("With the supplications of Thy martyrs, O choir, cover me").
 
 [^51]: The classic Byzantine Heirmos of Ode 1 (composed by Saint John of Damascus for the Akathist and canon to the Theotokos), based on Psalm 44:2 (LXX): "My heart hath poured forth a good word."
 
@@ -318,7 +318,7 @@
 
 [^158]: Classical theological antinomy of the Incarnation: He Who is uncircumscribed (*ἀπερίγραπτος*) in His divinity is circumscribed (*περιγραπτός*) in the flesh in the Virgin's womb.
 
-[^159]: Heirmos of Ode 3 of the Canon of Saint Joannicius: Based on the Heirmos *Тоὺς σοὺς ὑμνολόγους, Θεοτόκε*.
+[^159]: Heirmos of Ode 3 of the Canon of Saint Joannicius: Based on the Heirmos *Τοὺς σοὺς ὑμνολόγους, Θεοτόκε*.
 
 [^160]: Comparison of Saint Joannicius's mountain hesychasm on Mount Olympus to the Prophet Elijah on Mount Horeb (1 Kings 19 [LXX 3 Kings 19]).
 
@@ -366,7 +366,7 @@
 
 [^182]: Conclusion of the final troparion of Ode 6 from the preceding leaf (`Fol. 20v` / p42).
 
-[^183]: Greek *Nikandros* (Νίκанδρος) derives from *nikē* ("victory") and *anēr* / *andros* ("man"): "man of victory" (*тезоимени́тне мꙋ́жей*).
+[^183]: Greek *Nikandros* (Νίκανδρος) derives from *nikē* ("victory") and *anēr* / *andros* ("man"): "man of victory" (*тезоимени́тне мꙋ́жей*).
 
 [^184]: In the physical print, the initial letter *V* (*В*) is printed in rubricated display font above the black text *збранной*, indicating the classic model sticheron *Взбранной Воеводѣ* ("To thee, the champion leader").
 
@@ -678,11 +678,11 @@
 
 [^338]: Sessional Hymn after the second poetic kathisma, Tone 2, Podoben: "When Thou didst descend" (Е҆гда̀ снизше́лъ є҆сѝ / Ὅτε κατῆλθες).
 
-[^339]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε).
+[^339]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάλαβε).
 
 [^340]: Sessional Hymn after the Polyeleos, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости / Τὴν Σοφίαν καὶ Λόγον).
 
-[^341]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε).
+[^341]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάλαβε).
 
 [^342]: Prokeimenon at Matins, Ps. 103:4 LXX.
 
@@ -1118,15 +1118,15 @@
 
 [^558]: Sessional Hymn Theotokion in Tone 8.
 
-[^559]: *Ode 4, Tone 8. Heirmos:* "I have heard, O Lord, the mystery of Thy dispensation" (Оуслышахъ гди смотренiя твоего таинство), Heirmologion Tone 8, Ode 4.
+[^559]: *Ode 4, Tone 8. Heirmos:* "I have heard, O Lord, the mystery of Thy dispensation" (Оуслышахъ гди смотренія твоего таинство), Heirmologion Tone 8, Ode 4.
 
 [^560]: *Ode 4, Tone 8. Heirmos:* "Thou art my strength, O Lord" (Ты моя крепость гди), Heirmologion Tone 8, Ode 4 (Habakkuk 3:2–19).
 
-[^561]: *Ode 5, Tone 8. Heirmos:* "Enlighten us by Thy commandments, O Lord" (Просвети насъ повеленiи твоими гди), Heirmologion Tone 8, Ode 5 (Isaiah 26:9).
+[^561]: *Ode 5, Tone 8. Heirmos:* "Enlighten us by Thy commandments, O Lord" (Просвети насъ повеленіи твоими гди), Heirmologion Tone 8, Ode 5 (Isaiah 26:9).
 
 [^562]: *Ode 5, Tone 8. Heirmos:* "Why hast Thou cast me off from Thy face, O unwaning Light" (Вскую мя отринулъ еси), Heirmologion Tone 8, Ode 5.
 
-[^563]: *Ode 6, Tone 8. Heirmos:* "I will pour out my supplication unto the Lord" (Молитву пролiю ко гду), Heirmologion Tone 8, Ode 6 (Jonah 2:2–9).
+[^563]: *Ode 6, Tone 8. Heirmos:* "I will pour out my supplication unto the Lord" (Молитву пролію ко гду), Heirmologion Tone 8, Ode 6 (Jonah 2:2–9).
 
 [^564]: *Ode 6, Tone 8. Heirmos:* "Cleanse me, O Savior, for many are mine iniquities" (Очисти мя спасе), Heirmologion Tone 8, Ode 6.
 
@@ -1134,9 +1134,9 @@
 
 [^566]: The Ikos of St. John Chrysostom alludes to 1 Samuel 2:30 ("them that glorify Me I will glorify").
 
-[^567]: *Ode 7, Tone 8. Heirmos:* "The Children that came down from Judea in Babylon of old" (От iудеи дошедше отроцы), Heirmologion Tone 8, Ode 7 (Daniel 3).
+[^567]: *Ode 7, Tone 8. Heirmos:* "The Children that came down from Judea in Babylon of old" (От іудеи дошедше отроцы), Heirmologion Tone 8, Ode 7 (Daniel 3).
 
-[^568]: *Ode 7, Tone 8. Heirmos:* "The fire was abashed at God's condescension" (Бжiя снизхожденiя), Heirmologion Tone 8, Ode 7.
+[^568]: *Ode 7, Tone 8. Heirmos:* "The fire was abashed at God's condescension" (Бжія снизхожденія), Heirmologion Tone 8, Ode 7.
 
 [^569]: *Ode 8, Tone 8. Heirmos:* "The King of heaven, Whom the angelic hosts hymn" (Царя нбнаго), Heirmologion Tone 8, Ode 8.
 
@@ -1150,7 +1150,7 @@
 
 [^574]: Tone 2, Podoben: "Give ear, ye women" (Жены услышите).
 
-[^575]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе).
+[^575]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе).
 
 [^576]: Liturgical idiomelic sticheron composed by Anatolius of Constantinople (9th c.).
 
@@ -1178,7 +1178,7 @@
 
 [^588]: Doxastikon of the Apostle Philip at the Litiya in Tone 2.
 
-[^589]: Theotokion at the Litiya in Tone 2: "All my hope do I place in thee" (Все упованiе мое).
+[^589]: Theotokion at the Litiya in Tone 2: "All my hope do I place in thee" (Все упованіе мое).
 
 [^590]: Tone 1, Podoben: "Joy of the heavenly hosts" (Небныхъ чиновъ).
 
@@ -1192,7 +1192,7 @@
 
 [^595]: Theotokion at the Aposticha, Tone 2: "O new wonder! Greater than all ancient wonders" (Ѡ чудесе новагѡ).
 
-[^596]: Troparion of the Holy Apostle Philip, Tone 3: "O holy Apostle Philip, entreat the merciful God" (Ап̃ле ст̃ый Фiлiппе).
+[^596]: Troparion of the Holy Apostle Philip, Tone 3: "O holy Apostle Philip, entreat the merciful God" (Ап̃ле ст̃ый Філіппе).
 
 [^597]: Alternative Troparion of the Holy Apostle Philip, Tone 3: "The universe is adorned, Ethiopia dances" (Благоукрашается вселенная). Alludes to Psalm 67:31 (LXX): "Ethiopia shall stretch out her hand unto God."
 
@@ -1226,7 +1226,7 @@
 
 [^612]: *Ode 4, Tone 6. Heirmos:* "Christ is my power, God and Lord" (Хр̃тосъ моя сила бг̃ъ и гд̃ь), Heirmologion Tone 6, Ode 4 (Habakkuk 3).
 
-[^613]: *Ode 5, Tone 6. Heirmos:* "With Thy divine light, O Good One" (Бж̃iимъ свѣтомъ твоимъ бл̃же), Heirmologion Tone 6, Ode 5 (Isaiah 26:9).
+[^613]: *Ode 5, Tone 6. Heirmos:* "With Thy divine light, O Good One" (Бж̃іимъ свѣтомъ твоимъ бл̃же), Heirmologion Tone 6, Ode 5 (Isaiah 26:9).
 
 [^614]: *Ode 6, Tone 6. Heirmos:* "Jonah was swallowed, yet was not held fast" (Ятъ бысть, но не удержанъ), Heirmologion Tone 6, Ode 6 (Jonah 2).
 
@@ -1236,9 +1236,9 @@
 
 [^617]: *Ode 7, Tone 6. Heirmos:* "The Children in Babylon feared not the flame of the furnace" (Отроцы въ вавѷлонѣ), Heirmologion Tone 6, Ode 7 (Daniel 3).
 
-[^618]: The printed text reads `Антiнскую` (a phonetic variant of `Аттинскую` / `Аѳинскую`, referring to Attic/Athenian philosophy and sophistry).
+[^618]: The printed text reads `Антінскую` (a phonetic variant of `Аттинскую` / `Аѳинскую`, referring to Attic/Athenian philosophy and sophistry).
 
-[^619]: *Ode 8, Tone 6. Heirmos:* "Braving danger for the ancestral laws" (За законы ѻтеческiя), Heirmologion Tone 6, Ode 8 (Daniel 3:19–20).
+[^619]: *Ode 8, Tone 6. Heirmos:* "Braving danger for the ancestral laws" (За законы ѻтеческія), Heirmologion Tone 6, Ode 8 (Daniel 3:19–20).
 
 [^620]: *Ode 9, Tone 6. Heirmos:* "It is impossible for men to see God" (Бг̃а человѣкомъ невозможно видѣти), Heirmologion Tone 6, Ode 9.
 
@@ -1274,7 +1274,7 @@
 
 [^636]: At weekday Vespers with Alleluia, the Lenten Alleluia in Tone 6 replaces the daily Prokeimenon.
 
-[^637]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе).
+[^637]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе).
 
 [^638]: Lenten Penitential Theotokia chanted at "Lord, I have cried" when Alleluia is appointed during the Fast.
 
@@ -1310,9 +1310,9 @@
 
 [^654]: *Ode 4, Tone 4. Heirmos:* "Beholding Thee, the Sun of Righteousness, lifted up upon the Cross" (Вознесе́на тѧ̀ ви́дѣвши це́рковь на крⷭ҇тѣ̀), Heirmologion Tone 4, Ode 4 (Habakkuk 3).
 
-[^655]: *Ode 5, Tone 4. Heirmos:* "Thou, my Lord, hast come into the world as a light" (Ты́ гдⷭ҇и мо́й свѣ́тъ въ мíръ прише́лъ є҆сѝ), Heirmologion Tone 4, Ode 5 (Isaiah 26:9).
+[^655]: *Ode 5, Tone 4. Heirmos:* "Thou, my Lord, hast come into the world as a light" (Ты́ гдⷭ҇и мо́й свѣ́тъ въ мі́ръ прише́лъ є҆сѝ), Heirmologion Tone 4, Ode 5 (Isaiah 26:9).
 
-[^656]: *Ode 6, Tone 4. Heirmos:* "I will sacrifice unto Thee with the voice of praise" (Пожрꙋ́ ти со гла́сомъ хвале́нiя), Heirmologion Tone 4, Ode 6 (Jonah 2:9).
+[^656]: *Ode 6, Tone 4. Heirmos:* "I will sacrifice unto Thee with the voice of praise" (Пожрꙋ́ ти со гла́сомъ хвале́нія), Heirmologion Tone 4, Ode 6 (Jonah 2:9).
 
 [^657]: Alludes again to the deliverance of the maiden Euphemia from the grave by the holy martyrs of Edessa.
 
@@ -1320,11 +1320,11 @@
 
 [^659]: Ikos of the Holy Martyrs Gurias, Samonas, and Abibus.
 
-[^660]: *Ode 7, Tone 4. Heirmos:* "In the Persian furnace the children of Abraham" (Въ пещѝ а҆враа́мстiи ѻ҆́троцы), Heirmologion Tone 4, Ode 7 (Daniel 3).
+[^660]: *Ode 7, Tone 4. Heirmos:* "In the Persian furnace the children of Abraham" (Въ пещѝ а҆враа́мстіи ѻ҆́троцы), Heirmologion Tone 4, Ode 7 (Daniel 3).
 
 [^661]: Refers to the divine retribution visited upon the perjured Gothic mercenary who broke his oath sworn before the martyrs' relics and entombed Euphemia.
 
-[^662]: *Ode 8, Tone 4. Heirmos:* "Stretching out his hands, Daniel shut the lions' mouths" (Рꙋ́цѣ распросте́ръ данiи́лъ), Heirmologion Tone 4, Ode 8 (Daniel 6 and 3).
+[^662]: *Ode 8, Tone 4. Heirmos:* "Stretching out his hands, Daniel shut the lions' mouths" (Рꙋ́цѣ распросте́ръ даніи́лъ), Heirmologion Tone 4, Ode 8 (Daniel 6 and 3).
 
 [^663]: *Ode 9, Tone 4. Heirmos:* "A cornerstone was cut out without hands from thee, the unhewn mountain, O Virgin" (Ка́мень нерꙋкосѣ́чный), Heirmologion Tone 4, Ode 9 (Daniel 2:34, 45).
 
@@ -1360,7 +1360,7 @@
 
 [^679]: Rubric for the chanting of Litiya hymns from November 14 if authorized by the superior.
 
-[^680]: Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе).
+[^680]: Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе).
 
 [^681]: Prokeimenon verse at the Aposticha (Psalm 18:4, LXX).
 
@@ -1434,7 +1434,7 @@
 
 [^716]: Exapostilarion Theotokion in Tone 3.
 
-[^717]: Stichera at the Praises, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе).
+[^717]: Stichera at the Praises, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе).
 
 [^718]: Idiomelic Doxastikon of the Holy Apostle Matthew at the Praises in Tone 2, by Byzantios.
 
@@ -1628,7 +1628,7 @@
 
 [^813]: Heirmologion, Tone 4, Ode 9.
 
-[^814]: Melodic model: *While the disciples looked on* (Оу҆ченикѡ́мъ зрѧ́щымъ / Ἀκουόντων τῶν μαθητῶν / Τοῖς μαθηтаῖς συνέλθωμεν).
+[^814]: Melodic model: *While the disciples looked on* (Оу҆ченикѡ́мъ зрѧ́щымъ / Ἀκουόντων τῶν μαθητῶν / Τοῖς μαθηταῖς συνέλθωμεν).
 
 [^815]: Melodic model: *Having set aside all* (Всѐ ѿло́жше / Ὅλην ἀποθέμενοι).
 
@@ -2086,7 +2086,7 @@
 
 [^1042]: Cf. 1 Tim. 6:20 ("oppositions of science falsely so called" / *lzheimennago znaniya* / ψευδωνύμου γνώσεως).
 
-[^1043]: Slavonic acrostic representing the Greek: Μερκουρίου με καρтеρία σκέποι. Ἰωσήφ ("May the steadfastness/strength of Mercurius shelter me. By Joseph [the Hymnographer]").
+[^1043]: Slavonic acrostic representing the Greek: Μερκουρίου με καρτερία σκέποι. Ἰωσήφ ("May the steadfastness/strength of Mercurius shelter me. By Joseph [the Hymnographer]").
 
 [^1044]: Cf. Ps. 44:10 (LXX) / Ps. 45:9: "The queen stood at thy right hand in vesture of gold".
 
@@ -2120,7 +2120,7 @@
 
 [^1059]: Ode 9 Troparion 1 of St. Catherine: St. Catherine presented iconographically and hymnographically bearing her virginal bridal lamp in her right hand and her severed head in her left hand.
 
-[^1060]: Ode 9 Theotokion: "Whom the Father poured forth from His heart before all ages..." Allusion to Psalm 44:2 [LXX] / 45:1 (Ἐξηρεύξαто ἡ καρδία μου λόγον ἀγαθόν / Отрыгну сердце мое слово благо).
+[^1060]: Ode 9 Theotokion: "Whom the Father poured forth from His heart before all ages..." Allusion to Psalm 44:2 [LXX] / 45:1 (Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν / Отрыгну сердце мое слово благо).
 
 [^1061]: Tone 3 Podoben "Дꙋхо́мъ во ст҃или́щи" (In the Spirit in the sanctuary) from the Sunday Matins Exapostilaria.
 
@@ -2380,7 +2380,7 @@
 
 [^1189]: 1 Peter 4:1–11 (Pericope 61), the third Paremia at Great Vespers for the Holy Apostle Andrew.
 
-[^1190]: Slavonic: *Твореніе маvла*, referring to the Byzantine hymnographer Maurus (or Maruthas).
+[^1190]: Slavonic: *Твореніе маѵла*, referring to the Byzantine hymnographer Maurus (or Maruthas).
 
 [^1191]: Slavonic: *Андреа їеролимитянина: или Анатоліево* (attributed either to St. Andrew of Jerusalem [Crete] or Anatolius).
 

@@ -1,13 +1,15 @@
+# Tolkovy Typikon of Mikhail Skaballanovich (Kyiv, 1910–1915) <a id="tolkovy-typikon-of-mikhail-skaballanovich-kyiv-19101915"></a>
+
 *(Facsimile Frontispiece / Title Page)*
 
-# Tolkovy Typikon <a id="tolkovy-typikon-of-mikhail-skaballanovich-kyiv-19101915"></a>
+## Tolkovy Typikon
 ## Explanatory Exposition of the Typikon with an Historical Introduction
 **Compiled by Mikhail Skaballanovich**
 
 *(Kyiv Pechersk Lavra / Moscow: First Issue, 1910)*  
 *(Frontispiece emblem: The Great Indiction / Liturgical Paschal Cycle Wheel: "Круг миротворный") (Editorial Annotation & Master Table of Contents)*
 
-### Annotation
+**Annotation**
 
 The text of the *Tolkovy Typikon* contains Greek citations with full diacritics and requires a complete Unicode font containing this Unicode range (such as Arial Unicode MS, Palatino Linotype). In curly brackets of the form `{p. NN}` is indicated the page numbering of the original, marked at the beginning of each page according to the edition: *Tolkovy Typikon: Explanatory Exposition of the Typikon with an Historical Introduction*, Sretensky Monastery Publishing House, Moscow, 2004.
 
@@ -17,9 +19,9 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
 
 ---
 
-### Tolkovy Typikon: History of the Liturgical Typikon
+**Tolkovy Typikon: History of the Liturgical Typikon**
 
-#### Introductory Chapter
+**Introductory Chapter**
 - From the Author
 - **A. The Liturgical Typikon prior to the Appearance of Its Complete Manuscripts**
   - **Old Testament Jewish Divine Worship**
@@ -245,11 +247,9 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
 
 ---
 
-### Tolkovy Typikon: History of the Liturgical Typikon
+**Tolkovy Typikon: History of the Liturgical Typikon** *(Internal Volume Half-Title)*
 
-*(Internal Volume Half-Title)*
-
-# Mikhail Skaballanovich
+## Mikhail Skaballanovich
 ## TOLKOVY TYPIKON (EXPLANATORY TYPIKON)
 
 ---
@@ -257,10 +257,12 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
 ## TABLE OF CONTENTS
 
 * **[Tolkovy Typikon of Mikhail Skaballanovich (Kyiv, 1910–1915)](#tolkovy-typikon-of-mikhail-skaballanovich-kyiv-19101915)**
+  * [Tolkovy Typikon](#tolkovy-typikon)
   * [Explanatory Exposition of the Typikon with an Historical Introduction](#explanatory-exposition-of-the-typikon-with-an-historical-introduction)
+  * [Mikhail Skaballanovich](#mikhail-skaballanovich)
   * [TOLKOVY TYPIKON (EXPLANATORY TYPIKON)](#tolkovy-typikon-explanatory-typikon)
 * **[VOLUME I: THE HISTORICAL INVESTIGATION OF THE TYPIKON (Ancient, Byzantine, Rus'-Ukrainian, and Western Typika)](1910_skaballanovich_part1_historical_investigation.md#volume-i-the-historical-investigation-of-the-typikon-ancient-byzantine-rus-ukrainian-and-western-typika)**
-  * [Introductory Chapter](#introductory-chapter)
+  * [Introductory Chapter](1910_skaballanovich_part1_historical_investigation.md#introductory-chapter)
   * [History of the Liturgical Typikon](1910_skaballanovich_part1_historical_investigation.md#history-of-the-liturgical-typikon)
   * [1st Century: Apostolic Worship](1910_skaballanovich_part1_historical_investigation.md#1st-century-apostolic-worship)
   * [The Second Century](1910_skaballanovich_part1_historical_investigation.md#the-second-century)
@@ -271,13 +273,14 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [Another Type of Divine Worship: The Holy Sepulchre Typikon](1910_skaballanovich_part1_historical_investigation.md#another-type-of-divine-worship-the-holy-sepulchre-typikon)
   * [Monastic Divine Worship of the 9th and Subsequent Centuries](1910_skaballanovich_part1_historical_investigation.md#monastic-divine-worship-of-the-9th-and-subsequent-centuries)
   * [Notes to Volume I: The Historical Investigation of the Typikon](1910_skaballanovich_part1_historical_investigation.md#notes-to-volume-i-the-historical-investigation-of-the-typikon)
+  * [Mikhail Skaballanovich](#mikhail-skaballanovich)
   * [Explanatory Typikon](1910_skaballanovich_part1_historical_investigation.md#explanatory-typikon)
 * **[VOLUME II: EXPLANATORY EXPOSITION OF THE TYPIKON — PART I: ORDER OF LITTLE VESPERS (Typikon Chapter 1)](1910_skaballanovich_part2_little_vespers.md#volume-ii-explanatory-exposition-of-the-typikon-part-i-order-of-little-vespers-typikon-chapter-1)**
-  * [EXPLANATORY EXPOSITION OF THE TYPIKON](1910_skaballanovich_part2_little_vespers.md#explanatory-exposition-of-the-typikon)
   * [The Title of the Book](1910_skaballanovich_part2_little_vespers.md#the-title-of-the-book)
   * [(LITTLE VESPERS AND ITS ACCOMPANYING SERVICES ON SUNDAY)](1910_skaballanovich_part2_little_vespers.md#little-vespers-and-its-accompanying-services-on-sunday)
   * [THE CONTENTS AND DIVISION OF CHAPTER 1 OF THE TYPIKON](1910_skaballanovich_part2_little_vespers.md#the-contents-and-division-of-chapter-1-of-the-typikon)
   * [THE BELL-PEAL [BLAGOVEST]](#the-bell-peal-blagovest)
+  * [THE USUAL BEGINNING](1910_skaballanovich_part2_little_vespers.md#the-usual-beginning)
   * [Its Significance](1910_skaballanovich_part2_little_vespers.md#its-significance)
   * [The Opening Blessing of the Priest](1910_skaballanovich_part2_little_vespers.md#the-opening-blessing-of-the-priest)
   * [History of the Opening Blessing](1910_skaballanovich_part2_little_vespers.md#history-of-the-opening-blessing)
@@ -285,12 +288,14 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [Abridgment of the Usual Beginning](1910_skaballanovich_part2_little_vespers.md#abridgment-of-the-usual-beginning)
   * [History of the Usual Beginning](1910_skaballanovich_part2_little_vespers.md#history-of-the-usual-beginning)
   * [History of the Individual Prayers of the Usual Beginning](1910_skaballanovich_part2_little_vespers.md#history-of-the-individual-prayers-of-the-usual-beginning)
+  * [THE NINTH HOUR](1910_skaballanovich_part2_little_vespers.md#the-ninth-hour)
   * [Character of the Service](1910_skaballanovich_part2_little_vespers.md#character-of-the-service)
   * [The Order of the Hour in General](1910_skaballanovich_part2_little_vespers.md#the-order-of-the-hour-in-general)
   * [History of the Office of the Hour in General](1910_skaballanovich_part2_little_vespers.md#history-of-the-office-of-the-hour-in-general)
   * [The Order and Content of the Ninth Hour](1910_skaballanovich_part2_little_vespers.md#the-order-and-content-of-the-ninth-hour)
   * [History of the Ninth Hour](1910_skaballanovich_part2_little_vespers.md#history-of-the-ninth-hour)
   * [The Typikon on the Ninth Hour Preceding Sunday](1910_skaballanovich_part2_little_vespers.md#the-typikon-on-the-ninth-hour-preceding-sunday)
+  * [LITTLE VESPERS](1910_skaballanovich_part2_little_vespers.md#little-vespers)
   * [General Character of the Service](1910_skaballanovich_part2_little_vespers.md#general-character-of-the-service)
   * [History](1910_skaballanovich_part2_little_vespers.md#history)
   * [The Opening Exclamation and Psalm](1910_skaballanovich_part2_little_vespers.md#the-opening-exclamation-and-psalm)
@@ -300,6 +305,7 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [Aposticha](1910_skaballanovich_part2_little_vespers.md#aposticha)
   * [Troparion, Litany, and Dismissal](1910_skaballanovich_part2_little_vespers.md#troparion-litany-and-dismissal)
   * [Alterations in the Order from the Concurrence of Commemorations](1910_skaballanovich_part2_little_vespers.md#alterations-in-the-order-from-the-concurrence-of-commemorations)
+  * [THE EVENING REFECTORY](1910_skaballanovich_part2_little_vespers.md#the-evening-refectory)
   * [Liturgical Character of the Refectory](1910_skaballanovich_part2_little_vespers.md#liturgical-character-of-the-refectory)
   * [Two Meals](1910_skaballanovich_part2_little_vespers.md#two-meals)
   * [The Order of the Evening Meal](1910_skaballanovich_part2_little_vespers.md#the-order-of-the-evening-meal)
@@ -307,6 +313,7 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
 * **[VOLUME II: EXPLANATORY EXPOSITION OF THE TYPIKON — PART II: THE ALL-NIGHT VIGIL (Typikon Chapter 2: Great Vespers, Matins, and First Hour)](1910_skaballanovich_part3_all_night_vigil.md#volume-ii-explanatory-exposition-of-the-typikon-part-ii-the-all-night-vigil-typikon-chapter-2-great-vespers-matins-and-first-hour)**
   * [CHAPTER 2 OF THE TYPIKON: "THE ALL-NIGHT VIGIL"](1910_skaballanovich_part3_all_night_vigil.md#chapter-2-of-the-typikon-the-all-night-vigil)
   * [(Sunday Great Vespers and Matins, the Hours, the Liturgy, and the Order of the Panagia)](1910_skaballanovich_part3_all_night_vigil.md#sunday-great-vespers-and-matins-the-hours-the-liturgy-and-the-order-of-the-panagia)
+  * [THE BELL-PEAL AND CENSING](1910_skaballanovich_part3_all_night_vigil.md#the-bell-peal-and-censing)
   * [The Appointed Time for the Vigil](1910_skaballanovich_part3_all_night_vigil.md#the-appointed-time-for-the-vigil)
   * [Character of the Bell-Peal](1910_skaballanovich_part3_all_night_vigil.md#character-of-the-bell-peal)
   * [Prayer Accompanying the Bell-Peal](1910_skaballanovich_part3_all_night_vigil.md#prayer-accompanying-the-bell-peal)
@@ -317,12 +324,16 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * ["Arise" or "Command"](1910_skaballanovich_part3_all_night_vigil.md#arise-or-command)
   * [Censing of the Nave](1910_skaballanovich_part3_all_night_vigil.md#censing-of-the-nave)
   * [Censing of the Narthex](1910_skaballanovich_part3_all_night_vigil.md#censing-of-the-narthex)
+  * [THE OPENING EXCLAMATION](1910_skaballanovich_part3_all_night_vigil.md#the-opening-exclamation)
   * ["Bless, Master!" ("Lord, Bless")](1910_skaballanovich_part3_all_night_vigil.md#bless-master-lord-bless)
   * ["Glory to the Holy..."](1910_skaballanovich_part3_all_night_vigil.md#glory-to-the-holy)
+  * [THE INTRODUCTORY PSALM](1910_skaballanovich_part3_all_night_vigil.md#the-introductory-psalm)
   * [The Singing of "O Come, Let Us Worship"](1910_skaballanovich_part3_all_night_vigil.md#the-singing-of-o-come-let-us-worship)
   * [Character and Content of the Introductory Psalm](1910_skaballanovich_part3_all_night_vigil.md#character-and-content-of-the-introductory-psalm)
   * [Manner of Execution of the Psalm](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution-of-the-psalm)
   * [Actions of the Priest during the Introductory Psalm](1910_skaballanovich_part3_all_night_vigil.md#actions-of-the-priest-during-the-introductory-psalm)
+  * [THE PRAYERS OF LIGHT](1910_skaballanovich_part3_all_night_vigil.md#the-prayers-of-light)
+  * [THE GREAT LITANY](1910_skaballanovich_part3_all_night_vigil.md#the-great-litany)
   * [The Litany](1910_skaballanovich_part3_all_night_vigil.md#the-litany)
   * [The Great Litany: Its Character and Content](1910_skaballanovich_part3_all_night_vigil.md#the-great-litany-its-character-and-content)
   * [History of the Great Litany: The Litany in First Clement](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-great-litany-the-litany-in-first-clement)
@@ -340,12 +351,15 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [Ancient Variants of the Great Litany](1910_skaballanovich_part3_all_night_vigil.md#ancient-variants-of-the-great-litany)
   * ["Lord, Have Mercy" in the Litany](1910_skaballanovich_part3_all_night_vigil.md#lord-have-mercy-in-the-litany)
   * [The Place of the Great Litany at Ancient Vespers](1910_skaballanovich_part3_all_night_vigil.md#the-place-of-the-great-litany-at-ancient-vespers)
+  * ["BLESSED IS THE MAN"](1910_skaballanovich_part3_all_night_vigil.md#blessed-is-the-man)
   * [The Kathisma at Vespers](1910_skaballanovich_part3_all_night_vigil.md#the-kathisma-at-vespers)
   * [Manner of Execution of "Blessed is the Man"](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution-of-blessed-is-the-man)
   * ["Blessed is the Man" in Ancient Typika](1910_skaballanovich_part3_all_night_vigil.md#blessed-is-the-man-in-ancient-typika)
+  * [THE LITTLE LITANY AT THE VESPERAL KATHISMA](1910_skaballanovich_part3_all_night_vigil.md#the-little-litany-at-the-vesperal-kathisma)
   * [History of the Little Litany](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-little-litany)
   * [Actions of the Clergy at the Vesperal Kathisma](1910_skaballanovich_part3_all_night_vigil.md#actions-of-the-clergy-at-the-vesperal-kathisma)
   * [Part One of Great Vespers in Historical Development](1910_skaballanovich_part3_all_night_vigil.md#part-one-of-great-vespers-in-historical-development)
+  * ["LORD, I HAVE CRIED"](1910_skaballanovich_part3_all_night_vigil.md#lord-i-have-cried)
   * [The Tones](1910_skaballanovich_part3_all_night_vigil.md#the-tones)
   * [The Psalms of "Lord, I Have Cried"](1910_skaballanovich_part3_all_night_vigil.md#the-psalms-of-lord-i-have-cried)
   * [The Initial Refrain](1910_skaballanovich_part3_all_night_vigil.md#the-initial-refrain)
@@ -355,16 +369,19 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [The Composition of Stichera on Sunday](1910_skaballanovich_part3_all_night_vigil.md#the-composition-of-stichera-on-sunday)
   * [The Dogmatika](1910_skaballanovich_part3_all_night_vigil.md#the-dogmatika)
   * [The Distribution of Stichera Between the Choirs](1910_skaballanovich_part3_all_night_vigil.md#the-distribution-of-stichera-between-the-choirs)
+  * [THE ENTRANCE](1910_skaballanovich_part3_all_night_vigil.md#the-entrance)
   * [Its Meaning](1910_skaballanovich_part3_all_night_vigil.md#its-meaning)
   * [The Order of the Entrance](1910_skaballanovich_part3_all_night_vigil.md#the-order-of-the-entrance)
   * [Ancient Typika and the Greek Typikon Concerning the Entrance](1910_skaballanovich_part3_all_night_vigil.md#ancient-typika-and-the-greek-typikon-concerning-the-entrance)
   * [History of the Entrance](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-entrance)
   * [The Distinction of the Vesperal Entrance from the Liturgical Entrances](1910_skaballanovich_part3_all_night_vigil.md#the-distinction-of-the-vesperal-entrance-from-the-liturgical-entrances)
   * [Peculiarities of the Vesperal Entrance in Historical Development](1910_skaballanovich_part3_all_night_vigil.md#peculiarities-of-the-vesperal-entrance-in-historical-development)
+  * ["O GLADSOME LIGHT" (*PHOS HILARON*)](1910_skaballanovich_part3_all_night_vigil.md#o-gladsome-light-phos-hilaron)
   * [Content of the Hymn](1910_skaballanovich_part3_all_night_vigil.md#content-of-the-hymn)
   * [Origin of the Hymn](1910_skaballanovich_part3_all_night_vigil.md#origin-of-the-hymn)
   * [Manner of Execution](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution)
   * [Ancient Typika Concerning "O Gladsome Light"](1910_skaballanovich_part3_all_night_vigil.md#ancient-typika-concerning-o-gladsome-light)
+  * [THE VESPERAL PROKEIMENON](1910_skaballanovich_part3_all_night_vigil.md#the-vesperal-prokeimenon)
   * [Concept of the Prokeimenon](1910_skaballanovich_part3_all_night_vigil.md#concept-of-the-prokeimenon)
   * [History of the Prokeimenon](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-prokeimenon)
   * [Acclamations Before the Prokeimenon](1910_skaballanovich_part3_all_night_vigil.md#acclamations-before-the-prokeimenon)
@@ -372,15 +389,19 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [Manner of Execution of the Prokeimenon](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution-of-the-prokeimenon)
   * [According Unto Ancient Typika](1910_skaballanovich_part3_all_night_vigil.md#according-unto-ancient-typika)
   * [The Prokeimenon of Sunday Vespers](1910_skaballanovich_part3_all_night_vigil.md#the-prokeimenon-of-sunday-vespers)
+  * [THE AUGMENTED LITANY (*EKTENĒS HIKETEIA*)](1910_skaballanovich_part3_all_night_vigil.md#the-augmented-litany-ektenēs-hiketeia)
   * [Its Content](1910_skaballanovich_part3_all_night_vigil.md#its-content)
   * [History of the Augmented Litany](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-augmented-litany)
   * [The Threefold "Lord, Have Mercy"](1910_skaballanovich_part3_all_night_vigil.md#the-threefold-lord-have-mercy)
   * [The Augmented Litany at Vespers](1910_skaballanovich_part3_all_night_vigil.md#the-augmented-litany-at-vespers)
   * [Who Recites the Augmented Litany at Vespers](1910_skaballanovich_part3_all_night_vigil.md#who-recites-the-augmented-litany-at-vespers)
+  * ["Vouchsafe, O Lord" (*Spodobi, Gospodi* — *Kataxioson, Kyrie*)](1910_skaballanovich_part3_all_night_vigil.md#vouchsafe-o-lord-spodobi-gospodi-kataxioson-kyrie)
   * [History of the Prayer](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-prayer)
   * [Manner of Performance](1910_skaballanovich_part3_all_night_vigil.md#manner-of-performance)
+  * [The Litany of Supplication (*Prositel'naya Ekteniya*)](1910_skaballanovich_part3_all_night_vigil.md#the-litany-of-supplication-prositelnaya-ekteniya)
   * [History of the Litany](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-litany)
   * [The Bowing of Heads (*Glavopreklońenie*)](1910_skaballanovich_part3_all_night_vigil.md#the-bowing-of-heads-glavopreklońenie)
+  * [The Litiya (*Litiya* — *Litē*)](1910_skaballanovich_part3_all_night_vigil.md#the-litiya-litiya-litē)
   * [General History of the Litiya](1910_skaballanovich_part3_all_night_vigil.md#general-history-of-the-litiya)
   * [The Procession unto the Litiya](1910_skaballanovich_part3_all_night_vigil.md#the-procession-unto-the-litiya)
   * [The Procession according unto Ancient Typika](1910_skaballanovich_part3_all_night_vigil.md#the-procession-according-unto-ancient-typika)
@@ -392,31 +413,54 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
   * [Bodily Posture during the Final Prayer ("O Master Great in Mercy")](1910_skaballanovich_part3_all_night_vigil.md#bodily-posture-during-the-final-prayer-o-master-great-in-mercy)
   * [The Litiya according to the Present Typikon of the Great Church](1910_skaballanovich_part3_all_night_vigil.md#the-litiya-according-to-the-present-typikon-of-the-great-church)
   * [The Return from the Litiya](1910_skaballanovich_part3_all_night_vigil.md#the-return-from-the-litiya)
+  * [The Aposticha (*Stikhovny* — *Eis ton stichon*)](1910_skaballanovich_part3_all_night_vigil.md#the-aposticha-stikhovny-eis-ton-stichon)
   * [History of the Aposticha](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-aposticha)
   * [Sunday Aposticha](1910_skaballanovich_part3_all_night_vigil.md#sunday-aposticha)
   * [Cancellation and Abbreviation](1910_skaballanovich_part3_all_night_vigil.md#cancellation-and-abbreviation)
+  * ["Now lettest Thou Thy servant depart" (*Nunc Dimittis* — *Nyně otpushchayeshi*)](1910_skaballanovich_part3_all_night_vigil.md#now-lettest-thou-thy-servant-depart-nunc-dimittis-nyně-otpushchayeshi)
   * [History of Its Usage](1910_skaballanovich_part3_all_night_vigil.md#history-of-its-usage)
-  * [The Trisagion](1910_skaballanovich_part2_little_vespers.md#the-trisagion)
+  * [The Trisagion](1910_skaballanovich_part3_all_night_vigil.md#the-trisagion)
   * [The Dismissal Troparion of Vespers](1910_skaballanovich_part3_all_night_vigil.md#the-dismissal-troparion-of-vespers)
+  * ["Rejoice, O Virgin Theotokos" (*Bogoroditse Devo*)](1910_skaballanovich_part3_all_night_vigil.md#rejoice-o-virgin-theotokos-bogoroditse-devo)
   * [History of the Troparion "Rejoice, O Virgin Theotokos"](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-troparion-rejoice-o-virgin-theotokos)
   * [Manner of Execution](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution)
   * [Curtailment and Omission](1910_skaballanovich_part3_all_night_vigil.md#curtailment-and-omission)
+  * [THE BLESSING OF LOAVES (*Blagoslovenie khlebov* — *Artoklasia*)](1910_skaballanovich_part3_all_night_vigil.md#the-blessing-of-loaves-blagoslovenie-khlebov-artoklasia)
   * [History of the Rite](1910_skaballanovich_part3_all_night_vigil.md#history-of-the-rite)
+  * ["BLESSED BE THE NAME OF THE LORD" (*Budi imya Gospodne blagoslovenno*)](1910_skaballanovich_part3_all_night_vigil.md#blessed-be-the-name-of-the-lord-budi-imya-gospodne-blagoslovenno)
   * [History](1910_skaballanovich_part2_little_vespers.md#history)
   * [Manner of Execution](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution)
   * [According unto the Present Constantinopolitan Order](1910_skaballanovich_part3_all_night_vigil.md#according-unto-the-present-constantinopolitan-order)
+  * [THE GREAT READING (*Chtenie Velikoe*)](1910_skaballanovich_part3_all_night_vigil.md#the-great-reading-chtenie-velikoe)
   * [Its Origin](1910_skaballanovich_part3_all_night_vigil.md#its-origin)
   * [Order of the Great Reading](1910_skaballanovich_part3_all_night_vigil.md#order-of-the-great-reading)
   * [Ancient Typika on the Great Reading](1910_skaballanovich_part3_all_night_vigil.md#ancient-typika-on-the-great-reading)
+  * [FRACTION AND CONSUMPTION OF BREAD AND WINE (*Khlebolomlenie i pocherpanie*)](1910_skaballanovich_part3_all_night_vigil.md#fraction-and-consumption-of-bread-and-wine-khlebolomlenie-i-pocherpanie)
   * [Ancient Typika on the Blessing of Loaves](1910_skaballanovich_part3_all_night_vigil.md#ancient-typika-on-the-blessing-of-loaves)
   * [Historical Foundation of the Evening Blessing of Loaves and Wine](1910_skaballanovich_part3_all_night_vigil.md#historical-foundation-of-the-evening-blessing-of-loaves-and-wine)
+  * [NON-ORTHODOX VESPERS (*Inoslavnye vecherni*)](1910_skaballanovich_part3_all_night_vigil.md#non-orthodox-vespers-inoslavnye-vecherni)
+  * [THE BEGINNING OF MATINS (*Nachalo utreni*)](1910_skaballanovich_part3_all_night_vigil.md#the-beginning-of-matins-nachalo-utreni)
   * [Bell-Chime for Matins (*Zvon k utrene*)](1910_skaballanovich_part3_all_night_vigil.md#bell-chime-for-matins-zvon-k-utrene)
   * [Initial Versicles of Matins (*Nachal'nye stikhi utreni*)](1910_skaballanovich_part3_all_night_vigil.md#initial-versicles-of-matins-nachalnye-stikhi-utreni)
   * [The Plan of Matins (*Plan utreni*)](1910_skaballanovich_part3_all_night_vigil.md#the-plan-of-matins-plan-utreni)
+  * [THE SIX PSALMS (*Shestopsalmie* — *Hexapsalmos*)](1910_skaballanovich_part3_all_night_vigil.md#the-six-psalms-shestopsalmie-hexapsalmos)
   * [Its Origin (*Proiskhozhdenie ego*)](1910_skaballanovich_part3_all_night_vigil.md#its-origin-proiskhozhdenie-ego)
   * [Manner of Execution (*Sposob ispolneniya*)](1910_skaballanovich_part3_all_night_vigil.md#manner-of-execution-sposob-ispolneniya)
   * [Execution in Antiquity (*Ispolnenie v drevnosti*)](1910_skaballanovich_part3_all_night_vigil.md#execution-in-antiquity-ispolnenie-v-drevnosti)
+  * [THE MORNING PRAYERS (*Utrennie molitvy* — *Euchai Orthrinai*)](1910_skaballanovich_part3_all_night_vigil.md#the-morning-prayers-utrennie-molitvy-euchai-orthrinai)
+  * [THE GREAT LITANY AT MATINS (*Velikaya ekteniya na utrene*)](1910_skaballanovich_part3_all_night_vigil.md#the-great-litany-at-matins-velikaya-ekteniya-na-utrene)
+  * ["GOD IS THE LORD" (*Bog Gospod'*)](1910_skaballanovich_part3_all_night_vigil.md#god-is-the-lord-bog-gospod)
   * [Troparia at "God is the Lord" (*Tropari na Bog Gospod'*)](1910_skaballanovich_part3_all_night_vigil.md#troparia-at-god-is-the-lord-tropari-na-bog-gospod)
+  * [THE PSALTER KATHISMATA AT MATINS (*Kafizmy utreni*)](1910_skaballanovich_part3_all_night_vigil.md#the-psalter-kathismata-at-matins-kafizmy-utreni)
+  * [THE SESSIONAL HYMNS AFTER THE KATHISMATA (*Sedal'ny po kafizmakh*)](1910_skaballanovich_part3_all_night_vigil.md#the-sessional-hymns-after-the-kathismata-sedalny-po-kafizmakh)
+  * [THE BLAMELESS OR THE POLYELEOS (*Neporochny ili Polieley*)](1910_skaballanovich_part3_all_night_vigil.md#the-blameless-or-the-polyeleos-neporochny-ili-polieley)
+  * [THE ANABATHMOI (*Stepenny*)](1910_skaballanovich_part3_all_night_vigil.md#the-anabathmoi-stepenny)
+  * [THE MATINS PROKEIMENON (*Prokimen utreni*)](1910_skaballanovich_part3_all_night_vigil.md#the-matins-prokeimenon-prokimen-utreni)
+  * [THE GOSPEL (*Evangelie*)](1910_skaballanovich_part3_all_night_vigil.md#the-gospel-evangelie)
+  * [FROM THE GOSPEL UNTO THE CANON (*Ot Evangelia do kanona*)](1910_skaballanovich_part3_all_night_vigil.md#from-the-gospel-unto-the-canon-ot-evangelia-do-kanona)
+  * [THE KANON (*Kanon*)](1910_skaballanovich_part3_all_night_vigil.md#the-kanon-kanon)
+  * [THE HEIRMOS AND TROPARIA (*Irmos i tropari*)](1910_skaballanovich_part3_all_night_vigil.md#the-heirmos-and-troparia-irmos-i-tropari)
+  * [THE KANON OF SUNDAY MATINS (*Kanon voskresnoy utreni*)](1910_skaballanovich_part3_all_night_vigil.md#the-kanon-of-sunday-matins-kanon-voskresnoy-utreni)
   * [THE MORNING LITIYA (*LITIYA UTRENNYAYA*)](1910_skaballanovich_part3_all_night_vigil.md#the-morning-litiya-litiya-utrennyaya)
   * [THE STUDITE CATECHESIS (*OGLASHENIE STUDITOVO*)](1910_skaballanovich_part3_all_night_vigil.md#the-studite-catechesis-oglashenie-studitovo)
   * [THE VARIABLE PARTS OF THE DIVINE LITURGY (SUNDAY)](1910_skaballanovich_part3_all_night_vigil.md#the-variable-parts-of-the-divine-liturgy-sunday)

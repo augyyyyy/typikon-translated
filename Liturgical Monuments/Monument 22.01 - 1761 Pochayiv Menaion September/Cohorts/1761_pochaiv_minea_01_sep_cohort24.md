@@ -7,7 +7,7 @@ Having been shown forth as the most sacred branches of honorable Sophia, Faith, 
 *Sessional Hymn, Tone 1. Podoben: "The Angelic Choir" (Ли́къ а҆́гг҃льскїй):*
 As noetic lambs of the Lamb and Shepherd, ye were surrendered unto fire and cruel torments, and were shown forth as equal in honor unto the angels; therefore we all celebrate your sacred memory in gladness of heart, O divinely wise virgins.[^1557]
 
-*Glory, Both now, of the Feast. Podoben: The same:*
+*Glory, Both now, of the Feast. Podoben: The same (Подо́бенъ то́йже):*
 The weapon of the Cross was shown forth of old in warfare unto the pious Emperor Constantine, an invincible victory over the enemies for the sake of the faith; whereat the adverse powers tremble: this was both the salvation of the faithful and Paul's boast.[^1558]
 
 *Ode 4 [of the Feast]. Heirmos:*
@@ -226,7 +226,7 @@ Psalmodically foreseeing now Thy footstool, O Master, where Thy most pure feet s
 *Sticheron:*
 As an invincible weapon, an insurmountable shield, and as a divine scepter, we bow down before Thy Cross, O Christ, Thy throne: through which the world was saved and Adam dances for joy; we, the assemblies of earthborn beings, honor it with songs, praising it well, and accomplishing its divine Exaltation, we ask for purification.[^1618]
 
-*Other Stichera of the Saint, Tone 8. Podoben: The same:*
+*Other Stichera of the Saint, Tone 8. Podoben: The same (Подо́бенъ то́йже):*
 Having purified thy soul and body from passions, thou wast a house of the Holy Spirit, and didst adorn thyself with the anointing of sacred things; thou wast an excellent protector, O Eumenius, and a converser with the holy angels, and an heir of the glory of the Lord, and an intercessor for those who praise thee.[^1619]
 
 *Sticheron:*

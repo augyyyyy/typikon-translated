@@ -88,7 +88,7 @@
 
 *Glory:* O Bride of God, unwedded Mary! Deliver me from every wicked harm as I, thy servant, cry unto thee; and stand by me in the future trial, O only protectress of Christians.[^7802]
 
-*Both now:* That Thy Son might deify mankind, O Lady, He appeared from thee as perfect man; entreat Him therefore to show me, perfectly cleansed, a partaker of His divine kingdom.[^7803]
+*Both now:* That thy Son might deify mankind, O Lady, He appeared from thee as perfect man; entreat Him therefore to show me, perfectly cleansed, a partaker of His divine kingdom.[^7803]
 
 *Ode 9. Heirmos:* O Virgin who didst receive from the Angel the "Rejoice," and gavest birth to thy Creator: save those who magnify thee.[^7804]
 
@@ -127,7 +127,7 @@
 
 *Verse: Many are the afflictions of the righteous, and out of them all the Lord will deliver them.*[^7821]
 
-*Hymn for the Departed (Поко́инъ):* Truly all things are vanity, and life is but a shadow and a dream; for in vain doth everyone born of earth disquiet himself, as the Scripture saith: when we have acquired the world, then do we dwell in the grave, where kings and paupers are together. Therefore, O Christ God, give rest unto the departed, as the Lover of mankind.[^7822]
+*Hymn for the Departed (Поко́инъ):* Truly all things are vanity, and life is but a shadow and a dream; for in vain doth everyone born of earth disquiet himself, as the Scripture says: when we have acquired the world, then do we dwell in the grave, where kings and paupers are together. Therefore, O Christ God, give rest unto the departed, as the Lover of mankind.[^7822]
 
 *Glory... both now... Theotokion:*
 

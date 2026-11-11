@@ -46,6 +46,6 @@
 
 [^458]: Tone 4 Sessional Hymn (Kathisma) melodic model: *Joseph was amazed* (Slavonic: *Ꙋди́вися І҆ѡ́сифъ*; Greek: *Κατεπλάγη Ἰωσήφ*).
 
-[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σтаυρῷ*).
+[^459]: Tone 4 Sessional Hymn melodic model: *Thou Who wast lifted up upon the Cross* (Slavonic: *Възнесы́йся на Крⷭ҇тъ*; Greek: *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ*).
 
 [^460]: Patristic reading at Matins: Saint Gregory the Theologian (of Nazianzus), *Oration 19: On the Calamity of the City and the Reconciliation of the Emperor's Tax-Collector* (also known as *On the Hail* or *On the Plague*).

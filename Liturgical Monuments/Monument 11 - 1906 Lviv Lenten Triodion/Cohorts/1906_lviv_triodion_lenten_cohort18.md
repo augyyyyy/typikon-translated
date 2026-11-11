@@ -122,7 +122,7 @@ Truly beyond comprehension are the marvelous splendors of thy Childbirth, O Brid
 *After the 2nd Kathisma-verse, Sessional Hymn, Tone 4. Podoben: "Joseph marveled" (Оу҆диви́сѧ І҆ѡ́сифъ):*[^399]  
 Me who am slain in soul by the fruit of transgression, make alive, O Christ, through true fasting and repentance, I pray Thee, as Thou art compassionate; and grant me ever to walk in the right and good paths of Thy venerable commandments, that I may attain Thy divine glory, and with all who love Thee glorify Thy goodness in all things, O Jesus.
 
-*Glory, the same. Both now and ever: Theotokion. Podoben:*  
+*Glory, the same. Both now and ever: Theotokion. Podoben (Подо́бенъ):*  
 Surged about by the billows of passions, obscure and tempest-tossed, O Pure One, I warmly call upon thee: despise me not, a wretched one, that I perish not, O thou who gavest birth unto the abyss of mercy; for apart from thee I have gained no hope, lest I who trust in thee should become an object of rejoicing and laughter unto enemies; for thou canst do whatsoever thou desirest, being the Mother of the God of all.
 
 *After the 3rd Kathisma-verse, Sessional Hymn, Tone 6. Podoben: "Lord, have mercy on us" (Гдⷭ҇и поми́лꙋй на́съ):*  

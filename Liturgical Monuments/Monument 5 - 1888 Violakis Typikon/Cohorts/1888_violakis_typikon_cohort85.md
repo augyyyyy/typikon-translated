@@ -1,6 +1,6 @@
 === LEAF p841 ===
 
-# Pentecost: Vespers Concluded (§ 47), Matins (§ 48), and Divine Liturgy Antiphons (§ 49 Opening)
+## Pentecost: Vespers Concluded (§ 47), Matins (§ 48), and Divine Liturgy Antiphons (§ 49 Opening)
 
 ## Τῇ Κυριακῇ τῆς Πεντηκοστῆς: Ἑσπερινός, Ὄρθρος καὶ Λειτουργία (§§ 47–49) [Violakis, p. 826]
 
@@ -24,7 +24,7 @@
 
 === LEAF p842 ===
 
-# Pentecost: Vespers Concluded (§ 47), Matins (§ 48), and Divine Liturgy Antiphons (§ 49 Opening)
+## Pentecost: Vespers Concluded (§ 47), Matins (§ 48), and Divine Liturgy Antiphons (§ 49 Opening)
 
 ## Pentecost: Vespers Concluded (§ 47), Matins (§ 48), and Divine Liturgy Antiphons (§ 49 Opening) [Violakis, p. 827]
 
@@ -52,7 +52,7 @@ and their words unto the ends of the world.
 
 === LEAF p843 ===
 
-# Pentecost: Divine Liturgy Continued (§ 49 Antiphons 2–3, Entrance, Readings, Zadostoinyk)
+## Pentecost: Divine Liturgy Continued (§ 49 Antiphons 2–3, Entrance, Readings, Zadostoinyk)
 
 ## Τῇ Κυριακῇ τῆς Πεντηκοστῆς: Λειτουργία Συνέχεια (§ 49) [Violakis, p. 828]
 
@@ -89,7 +89,7 @@ and their words unto the ends of the world.
 
 === LEAF p844 ===
 
-# Pentecost: Divine Liturgy Continued (§ 49 Antiphons 2–3, Entrance, Readings, Zadostoinyk)
+## Pentecost: Divine Liturgy Continued (§ 49 Antiphons 2–3, Entrance, Readings, Zadostoinyk)
 
 ## Pentecost: Divine Liturgy Continued (§ 49 Antiphons 2–3, Entrance, Readings, Zadostoinyk) [Violakis, p. 829]
 
@@ -132,7 +132,7 @@ The Entrance Hymn: **"Be Thou exalted, O Lord, in Thy strength; we will sing and
 
 === LEAF p845 ===
 
-# Pentecost Liturgy Concluded (§ 49) and Great Vespers of Pentecost with Kneeling Prayers (§ 50 Opening)
+## Pentecost Liturgy Concluded (§ 49) and Great Vespers of Pentecost with Kneeling Prayers (§ 50 Opening)
 
 ## Τῇ Κυριακῇ τῆς Πεντηκοστῆς (Τέλος Λειτουργίας) καὶ Ἑσπερινὸς τῆς Γονυκλισίας (§§ 49–50) [Violakis, p. 830]
 
@@ -150,13 +150,13 @@ The Entrance Hymn: **"Be Thou exalted, O Lord, in Thy strength; we will sing and
 
 === LEAF p846 ===
 
-# Pentecost Liturgy Concluded (§ 49) and Great Vespers of Pentecost with Kneeling Prayers (§ 50 Opening)
+## Pentecost Liturgy Concluded (§ 49) and Great Vespers of Pentecost with Kneeling Prayers (§ 50 Opening)
 
 ## Pentecost Liturgy Concluded (§ 49) and Great Vespers of Pentecost with Kneeling Prayers (§ 50 Opening) [Violakis, p. 831]
 
 Communion Hymn: **"Thy good Spirit shall lead me in the land of uprightness. Alleluia!"** (*Τὸ Πνεῦμά σου τὸ ἀγαθὸν ὁδηγήσει με ἐν γῇ εὐθείᾳ*, Ps. 142:10 LXX) [Note 15]. At "With the fear of God...", we chant the Dismissal Troparion: **"Blessed art Thou, O Christ our God..."** (*Εὐλογητὸς εἶ Χριστὲ ὁ Θεὸς ἡμῶν*); then **"Blessed be the name of the Lord from this time forth, and unto the ages"** (*Εἴη τὸ ὄνομα Κυρίου*), and the Dismissal as indicated at Vespers [Note 16].
 
-# THE SUNDAY OF PENTECOST: VESPERS
+## THE SUNDAY OF PENTECOST: VESPERS
 ## (Great Vespers of Pentecost with the Kneeling Prayers)
 
 50.    In Great Vespers, following the Introductory Psalm (Ps. 103 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant six verses of the three Idiomela Stichera of Matins: **"Marvelous things today have all the nations seen..."** (*Παράδοξα σήμερον*) (repeating each one once); "Glory... Both now and ever...": Tone 6: **"O Heavenly King, Comforter..."** (*Βασιλεῦ οὐράνιε*). Entrance with the censer, **"O Joyful Light"** (*Φῶς ἱλαρόν*) [Note 17]. The Great Prokimenon: Tone 7: **"Who is a god so great as our God? Thou art the God Who workest wonders!"** (*Τίς Θεὸς μέγας ὡς ὁ Θεὸς ἡμῶν; Σὺ εἶ ὁ Θεὸς ὁ ποιῶν θαυμάσια*, Ps. 76:13–14 LXX) with its three verses, chanted once from the Sanctuary [Bema] and once by each of the two Choirs; and immediately the Great Archdeacon intones: **"Again and again, bending our knees, let us pray to the Lord!"** (*Ἔτι καὶ ἔτι κλίναντες τὰ γόνατα τοῦ Κυρίου δεηθῶμεν*), and while the people bend their knees, listening in reverent devotion with heads uncovered, the Patriarch recites the Prayers to the hearing of all. After the second Prayer: **"Blessed art Thou, O Lord, Master Almighty..."**, the Deacon intones: **"Help us, save us, have mercy on us, raise us up, O God, by Thy grace"**, and the Exclamation: **"For Thine it is to show mercy and to save us, O Lord our God, and unto Thee do we ascribe glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."** The Deacon intones: **"Let us all say with our whole soul and with our whole mind, let us say"**, with the Exclamation: **"For Thou art a merciful God and lovest mankind..."**. And immediately the Deacon intones: **"Again and again, bending our knees, let us pray to the Lord!"**, and the next two Prayers are read; at the conclusion, the Deacon intones: **"Help us, save us, have mercy on us, raise us up, O God, by Thy grace"**, and the Exclamation: **"By the favor and grace of Thine only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and forever, and unto the ages of ages. Amen."** Then the prayer **"Vouchsafe, O Lord, to keep us this evening without sin..."** (*Καταξίωσον Κύριε*). Immediately after this, the Deacon intones again: **"Again and again, bending our knees, let us pray to the Lord!"**, and the last three Prayers are read [Note 18]; at the conclusion, the Deacon intones once again: **"Help us, save us, have mercy on us, raise us up, O God, by Thy grace"**, and the Exclamation: **"For Thou art the repose of our souls and bodies, and unto Thee do we ascribe glory, to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."** Then the Deacon intones: **"Let us complete our evening prayer unto the Lord"**, and the Exclamation: **"For Thou art a good God and lovest mankind..."**. The Patriarch intones: **"Peace be to all"**... The Deacon: **"Let us bow our heads unto the Lord"**; the Patriarch reads the Prayer of Head-inclination and intones the Exclamation: **"May the might...**
@@ -171,7 +171,7 @@ Communion Hymn: **"Thy good Spirit shall lead me in the land of uprightness. All
 
 === LEAF p847 ===
 
-# Kneeling Vespers Concluded (§ 50), Monday of the Holy Spirit (§§ 51–52), and Apodosis Note
+## Kneeling Vespers Concluded (§ 50), Monday of the Holy Spirit (§§ 51–52), and Apodosis Note
 
 ## Τῇ Κυριακῇ τῆς Πεντηκοστῆς (Τέλος Ἑσπερινοῦ), Τῇ Δευτέρᾳ τοῦ Ἁγίου Πνεύματος καὶ Ἀπόδοσις (§§ 50–52) [Violakis, p. 832]
 
@@ -191,13 +191,13 @@ Communion Hymn: **"Thy good Spirit shall lead me in the land of uprightness. All
 
 === LEAF p848 ===
 
-# Kneeling Vespers Concluded (§ 50), Monday of the Holy Spirit (§§ 51–52), and Apodosis Note
+## Kneeling Vespers Concluded (§ 50), Monday of the Holy Spirit (§§ 51–52), and Apodosis Note
 
 ## Kneeling Vespers Concluded (§ 50), Monday of the Holy Spirit (§§ 51–52), and Apodosis Note [Violakis, p. 833]
 
 ...of Thy Kingdom be blessed and glorified, of the Father, and of the Son, and of the Holy Spirit, now and forever, and unto the ages of ages. Amen." And then are chanted the three Idiomela Aposticha: Tone 3: **"Now as a sign unto all men, the Spirit of the Savior hath visibly shone forth upon the Apostles..."** (*Νῦν εἰς σημεῖον τοῖς πᾶσιν*); "Glory... Both now and ever...": Tone 8: **"Come, all ye peoples, let us worship the Godhead in three Persons..."** (*Δεῦτε λαοὶ τὴν Τρισυπόστατον θεότητα*). Then the prayer **"Now lettest Thou Thy servant depart in peace..."** (*Νῦν ἀπολύεις*), the Trisagion, the Dismissal Troparion of the Feast: **"Blessed art Thou, O Christ our God..."** (*Εὐλογητὸς εἶ Χριστὲ ὁ Θεὸς ἡμῶν*) three times, and the Dismissal by the Patriarch: **"May Christ our true God, Who emptied Himself, leaving the bosom of the Father, and descended from heaven upon earth..."** (*Ὁ ἐκ τῶν πατρικῶν κόλπων κτλ.*), then **"Through the prayers of our holy Fathers, O Lord Jesus Christ our God, have mercy on us."** (*Δι᾽ εὐχῶν*).
 
-# THE MONDAY OF THE HOLY SPIRIT
+## THE MONDAY OF THE HOLY SPIRIT
 ## (The Feast of the Holy Spirit)
 
 51.    On Monday of the Holy Spirit, after **"Blessed is our God always, now and forever, and unto the ages of ages. Amen."**, we say **"Glory to Thee, our God, glory to Thee!"**, **"O Heavenly King, Comforter..."** (*Βασιλεῦ οὐράνιε*), the Trisagion, Psalm 50, the Dismissal Troparion of the Feast: **"Blessed art Thou, O Christ our God..."**, then **"Have mercy on us, O God, according to Thy great mercy..."**, and the rest of the Dismissal of the Midnight Office. Then, after the **"Blessed is our God..."** of Matins, the Six Psalms are recited as usual. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparion (three times), and the Psalter, the two Kathismata of the First and Second Stasis twice each, Psalm 50 recited plainly, and both Canons as yesterday without verses. After the 3rd Ode, the Kathisma: **"The All-holy Spirit, proceeding from the Father, and through the Son descended upon the unlettered Disciples..."** (*Τὸ Πανάγιον Πνεῦμα*) (once); after the 6th Ode, the Kontakion in Tone 8: **"When the Most High came down..."**, the Ikos of the Feast, the Menologion of the day, and the Hypomnema of the Monday of the Holy Spirit. The Katavasias: **"Covered by a divine cloud, he that was slow of tongue proclaimed the Law written of God..."** (*Θείῳ καλυφθεὶς*) alone; then the 9th Ode is chanted. The first Exaposteilarion (twice) and the second (once). At the Praises: the three Idiomela: **"By the Prophets Thou didst proclaim unto us the way of salvation..."** (*Ἐν τοῖς Προφήταις ἀνήγγειλας*) to four [repeating the first] {Translator's Note: The Pentekostarion indicates that each of the three Idiomela must be repeated once for a total of six}; "Glory... Both now and ever...": Tone 8: **"Once the tongues were confused on account of the audacity of the tower-building..."** (*Γλῶσσαί ποτε συνεχύθησαν*). The Great Doxology, and the Dismissal Troparion: **"Blessed art Thou, O Christ our God..."**.
@@ -214,7 +214,7 @@ Communion Hymn: **"Thy good Spirit shall lead me in the land of uprightness. All
 
 === LEAF p849 ===
 
-# Apodosis Concluded (§ 52) and Sunday of All Saints (§§ 53–55 Opening)
+## Apodosis Concluded (§ 52) and Sunday of All Saints (§§ 53–55 Opening)
 
 ## Ἡ Ἀπόδοσις τῆς Πεντηκοστῆς (Τέλος) καὶ Τῇ Κυριακῇ τῶν Ἁγίων Πάντων (§§ 52–55) [Violakis, p. 834]
 
@@ -234,7 +234,7 @@ Communion Hymn: **"Thy good Spirit shall lead me in the land of uprightness. All
 
 === LEAF p850 ===
 
-# Apodosis Concluded (§ 52) and Sunday of All Saints (§§ 53–55 Opening)
+## Apodosis Concluded (§ 52) and Sunday of All Saints (§§ 53–55 Opening)
 
 ## Apodosis Concluded (§ 52) and Sunday of All Saints (§§ 53–55 Opening) [Violakis, p. 835]
 
@@ -242,12 +242,12 @@ Communion Hymn: **"Thy good Spirit shall lead me in the land of uprightness. All
 
     After the Apodosis of the Feast, the following Katavasias are sung henceforth: **"I shall open my mouth, and it shall be filled with the Spirit..."** (*Ἀνοίξω τὸ στόμα μου*); and in the Divine Liturgy, we sing the Kontakion: **"O Protection of Christians unashamed, Mediatress before the Creator unwavering..."** (*Προστασία τῶν Χριστιανῶν*).
 
-# THE FIRST SUNDAY AFTER PENTECOST: ALL SAINTS
+## THE FIRST SUNDAY AFTER PENTECOST: ALL SAINTS
 ## (The Sunday of All Saints)
 
-53.    On Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant six Resurrectional Stichera in Tone 8 and four of the Saints; "Glory...": Doxastikon in Tone 6: **"The divine choir of the Martyrs, the foundation of the Church, the perfection of the Gospel..."** (*Μαρτύρων θεῖος χορός*); "Both now and ever...": Dogmatic Theotokion in Tone 6: **"Who would not call thee blessed, O all-holy Virgin?..."** (*Τίς μὴ μακαρίσει σε* / *Ὁ βασιλεὺς τῶν οὐρανῶν*). Entrance with censer, **"O Joyful Light"** (*Φῶς ἱλαρόν*), the Prokimenon of the day: **"The Lord is King, He is clothed with majesty!"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX), and the Old Testament Readings (Isaiah 43:9–14; Wisdom of Solomon 3:1–9; 5:15–6:3 LXX). At the Aposticha: the Resurrectional Stichera; "Glory...": Doxastikon in Tone 6: **"Come, all ye faithful today, let us celebrate in chorus with psalms and hymns..."** (*Δεῦτε πιστοὶ σήμερον*); "Both now and ever...": Theotokion in Tone 6: **"My Maker and Redeemer, Christ the Lord, proceeding from thy womb, O all-pure Virgin..."** (*Ὁ Ποιητὴς καὶ λυτρωτής μου*). The Resurrectional Dismissal Troparion in Tone 8, that of the Saints in Tone 4: **"Clothed in the blood of Thy Martyrs throughout all the world as in purple and fine linen, Thy Church through them crieth unto Thee, O Christ God: Send down Thy compassions upon Thy people; grant peace unto Thy commonwealth, and unto our souls great mercy!"** (*Τῶν ἐν ὅλῳ τῷ κόσμῳ Μαρτύρων σου*); the Theotokion, and Dismissal.
+53.    On Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant six Resurrectional Stichera in Tone 8 and four of the Saints; "Glory...": Doxastikon in Tone 6: **"The divine choir of the Martyrs, the foundation of the Church, the perfection of the Gospel..."** (*Μαρτύρων θεῖος χορός*); "Both now and ever...": Dogmatic Theotokion in Tone 6: **"Who would not call thee blessed, O all-holy Virgin?..."** (*Τίς μὴ μακαρίσει σε* / *Ὁ βασιλεὺς τῶν οὐρανῶν*). Entrance with censer, **"O Joyful Light"** (*Φῶς ἱλαρόν*), the Prokimenon of the day: **"The Lord is King, He is clothed with majesty!"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX), and the Old Testament Readings (Isaiah 43:9–14; Wisdom of Solomon 3:1–9; 5:15–6:3 LXX). At the Aposticha: the Resurrectional Stichera; "Glory...": Doxastikon in Tone 6: **"Come, all ye faithful today, let us celebrate in chorus with psalms and hymns..."** (*Δεῦτε πιστοὶ σήμερον*); "Both now and ever...": Theotokion in Tone 6: **"My Maker and Redeemer, Christ the Lord, proceeding from thy womb, O all-pure Virgin..."** (*Ὁ Ποιητὴς καὶ λυτρωτής μου*). The Resurrectional Dismissal Troparion in Tone 8, that of the Saints in Tone 4: **"Clothed in the blood of Thy Martyrs throughout all the world as in purple and fine linen, Thy Church through them cries unto Thee, O Christ God: Send down Thy compassions upon Thy people; grant peace unto Thy commonwealth, and unto our souls great mercy!"** (*Τῶν ἐν ὅλῳ τῷ κόσμῳ Μαρτύρων σου*); the Theotokion, and Dismissal.
 
-54.    On Sunday at Matins, after Psalm 50, the Triadic Canon, the Liti of the Saints, and **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*); then the Trisagion, the Dismissal Troparion of the Saints: **"Clothed in the blood of Thy Martyrs..."**, and the Six Psalms. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as in Vespers; then the Psalter and the Amomos (Psalm 118 LXX / 17th Kathisma). The Resurrectional Kathismata of the First and Second Stasis [Stichologia], the Resurrectional Evlogitaria (**"Blessed art Thou, O Lord, teach me Thy statutes"**), the Ypakoe of Tone 8, the Anavathmoi of Tone 8, and the Prokimenon of Tone 8. The Canons: the Resurrectional Canon and that of the Saints. After the 3rd Ode, the Resurrectional Kontakion with its Ikos recited plainly, then the Kathisma of the Saints with its Theotokion; after the 6th Ode, the Kontakion in Tone 8: **"Unto Thee, O Lord, the Planter of creation, the world offereth the God-bearing Martyrs as first-fruits of nature..."** (*Ὡς ἀπαρχὰς τῆς φύσεως*), the Ikos of the Pentekostarion, the Menologion of the day, and the Hypomnema of the Sunday of All Saints. The Katavasias: **"I shall open my mouth..."** (*Ἀνοίξω τὸ στόμα μου*), and the entire order of the Matins Gospel (First Eothinon: Matthew 28:16–20); then we chant with verses: **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*). Exaposteilaria: the Resurrectional Exaposteilarion, the two of the Saints, and the Theotokion. At the Praises: four Resurrectional Stichera and four of the Saints; "Glory...": First Eothinon Doxastikon in Tone 1: **"When the Disciples were hastening to the mountain for the Ascension on high..."** (*Εἰς τὸ Ὄρος τοῖς Μαθηταῖς*); "Both now and ever...": Tone 2: **"Most blessed art thou, O Virgin Theotokos..."** (*Ὑπερευλογημένη ὑπάρχεις*). The Great Doxology, and **"Today is salvation come into the world..."** (*Σήμερον σωτηρία*).
+54.    On Sunday at Matins, after Psalm 50, the Triadic Canon, the Liti of the Saints, and **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*); then the Trisagion, the Dismissal Troparion of the Saints: **"Clothed in the blood of Thy Martyrs..."**, and the Six Psalms. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as in Vespers; then the Psalter and the Amomos (Psalm 118 LXX / 17th Kathisma). The Resurrectional Kathismata of the First and Second Stasis [Stichologia], the Resurrectional Evlogitaria (**"Blessed art Thou, O Lord, teach me Thy statutes"**), the Ypakoe of Tone 8, the Anavathmoi of Tone 8, and the Prokimenon of Tone 8. The Canons: the Resurrectional Canon and that of the Saints. After the 3rd Ode, the Resurrectional Kontakion with its Ikos recited plainly, then the Kathisma of the Saints with its Theotokion; after the 6th Ode, the Kontakion in Tone 8: **"Unto Thee, O Lord, the Planter of creation, the world offers the God-bearing Martyrs as first-fruits of nature..."** (*Ὡς ἀπαρχὰς τῆς φύσεως*), the Ikos of the Pentekostarion, the Menologion of the day, and the Hypomnema of the Sunday of All Saints. The Katavasias: **"I shall open my mouth..."** (*Ἀνοίξω τὸ στόμα μου*), and the entire order of the Matins Gospel (First Eothinon: Matthew 28:16–20); then we chant with verses: **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*). Exaposteilaria: the Resurrectional Exaposteilarion, the two of the Saints, and the Theotokion. At the Praises: four Resurrectional Stichera and four of the Saints; "Glory...": First Eothinon Doxastikon in Tone 1: **"When the Disciples were hastening to the mountain for the Ascension on high..."** (*Εἰς τὸ Ὄρος τοῖς Μαθηταῖς*); "Both now and ever...": Tone 2: **"Most blessed art thou, O Virgin Theotokos..."** (*Ὑπερευλογημένη ὑπάρχεις*). The Great Doxology, and **"Today is salvation come into the world..."** (*Σήμερον σωτηρία*).
 
 55.    In the Divine Liturgy, the Typika and the four Beatitudes of Tone 8, and four hymns from the 6th Ode of the Canon of the Saints: **"As an honorable, chosen living temple..."** (*Ὡς ἔντιμον, ἐκλεκτόν*). After the Entrance, the Resurrectional Dismissal Troparion, that of the Saints, that of the Patron Saint of the Church, and the Kontakion: **"Unto Thee, O Lord, the Planter of creation..."**. The Epistle of the Saints (Hebrews 11:33–12:2) and Gospel of the Saints (Matthew 10:32–33, 37–38; 19:27–30). At "Especially", **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*)...[^484]
 

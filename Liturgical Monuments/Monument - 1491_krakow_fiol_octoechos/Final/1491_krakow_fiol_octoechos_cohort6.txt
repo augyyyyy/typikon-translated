@@ -26,7 +26,7 @@ The furnace of fire once in Babylon divided its operation by the divine decree,[
 
 *Troparion:* Thou didst clothe Thyself in mortality, and through Thy Resurrection Thou didst grant immortality unto all; therefore, praising Thee, we hymn Thee, an elect people, crying: Bless the Lord, all ye works!
 
-*Theotokion:* Having conceived without seed and ineffably given birth unto Him Who is inseparable from the Father, Who dwelt godworthily in Thy womb, O most pure Birthgiver of God: therefore we praise Thee as salvation unto us all.
+*Theotokion:* Having conceived without seed and ineffably given birth unto Him Who is inseparable from the Father, Who dwelt godworthily in thy womb, O most pure Birthgiver of God: therefore we praise thee as salvation unto us all.
 
 *Another Canon to the Cross. Ode 8, Heirmos: In the light-bearing furnace...*
 
@@ -64,7 +64,7 @@ The furnace of fire once in Babylon divided its operation by the divine decree,[
 
 *Troparion:* Let all us faithful sing a triumphal hymn: Having risen by divine power, destroying the dominion of death and striking down the Ishmaelite enemy,[^63] grant unto Thy servants victories over our adversaries!
 
-*Theotokion:* O Birthgiver of God, great refuge of Christians: we flee unto Thy protection and Thy fervent intercession; receive us into the satiety of divine gladness, O pure one, that we the faithful, ceaselessly praising Thee, may magnify Thee.
+*Theotokion:* O Birthgiver of God, great refuge of Christians: we flee unto thy protection and thy fervent intercession; receive us into the satiety of divine gladness, O pure one, that we the faithful, ceaselessly praising thee, may magnify thee.
 
 *Another Canon to the Theotokos. Ode 9, Heirmos: The same.*
 
@@ -121,7 +121,7 @@ The furnace of fire once in Babylon divided its operation by the divine decree,[
 
 *Troparion to the Trinity:* Let us glorify the divine Trinity, hymning one Godhead in three Persons.
 
-*Theotokion:* All generations bless Thee, O pure one; for without seed Thou didst bear in the flesh the heavenly King.
+*Theotokion:* All generations bless thee, O pure one; for without seed thou didst bear in the flesh the heavenly King.
 
 *On Sunday, the Apostle to the Corinthians [sic, recte: Romans, pericope 116].[^66] Prokeimenon: The Lord is my strength and my song, and He is become my salvation (Psalm 117:14 LXX). Verse: Unto Thee, O Lord, will I cry (Psalm 27:1 LXX):*
 

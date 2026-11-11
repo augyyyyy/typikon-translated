@@ -2264,7 +2264,7 @@
 
 [^1131]: Church Slavonic: *Свѣтосїѧ́ненъ ѕвѣзда́ми ѡ҆́бразъ предпоказа̀ крⷭ҇те...* Sticheron at the Litiya attributed to Anatolios, celebrating the vision of the Cross granted to Saint Constantine the Great before the Battle of the Milvian Bridge and its finding by his mother Saint Helen.
 
-[^1132]: Church Slavonic: *Чⷭ҇тна́гѡ крⷭ҇та, хрⷭ҇тѐ, дѣ́йство проwбрази́въ мѡѷсе́й...* Doxasticon at the Litiya referencing Exodus 17:11–12, where Moses' raised arms formed the figure of the Cross to overcome Amalek.
+[^1132]: Church Slavonic: *Чⷭ҇тна́гѡ крⷭ҇та, хрⷭ҇тѐ, дѣ́йство проѡбрази́въ мѡѷсе́й...* Doxasticon at the Litiya referencing Exodus 17:11–12, where Moses' raised arms formed the figure of the Cross to overcome Amalek.
 
 [^1133]: Church Slavonic: *Ра́дуйсѧ живоно́сный крⷭ҇те...* Automelon sticheron at the Aposticha, Tone 5.
 
@@ -2276,7 +2276,7 @@
 
 [^1137]: Church Slavonic: *Ра́дуйсѧ слѣпы́хъ наста́вниче...* Third sticheron at the Aposticha, completing the triadic set of prosomoia on Tone 5.
 
-[^1138]: Church Slavonic: *Є҆го́же дре́вле мѡѷсе́й проwбразова́въ собо́ю...* Doxasticon at the Aposticha attributed to Saint John the Monk (Saint John Damascene).
+[^1138]: Church Slavonic: *Є҆го́же дре́вле мѡѷсе́й проѡбразова́въ собо́ю...* Doxasticon at the Aposticha attributed to Saint John the Monk (Saint John Damascene).
 
 [^1139]: Church Slavonic: *коро́лю на́шемꙋ, [и҆́мⷬк]*. In the 1761 Pochaiv edition, the text prints a rubrical blank/formula space (*имярек* / placeholder) for the reigning monarch of the Polish-Lithuanian Commonwealth (King Augustus III of Poland, r. 1734–1763).
 
@@ -2288,7 +2288,7 @@
 
 [^1143]: Church Slavonic: *Дне́сь проро́ческое и҆спо́лнисѧ сло́во...* Second Kathisma Sessional Hymn, Tone 6, citing Psalm 131:7 (LXX): "We will worship at the place where His feet stood."
 
-[^1144]: Church Slavonic: *Проwбража́ше та́инственнѡ дре́вле і҆исꙋ́съ навѵ́нъ...* Sessional Hymn on Tone 8 modeled on *Повелѣ́нное та́йнѡ*, referencing Joshua 10:12–14.
+[^1144]: Church Slavonic: *Проѡбража́ше та́инственнѡ дре́вле і҆исꙋ́съ навѵ́нъ...* Sessional Hymn on Tone 8 modeled on *Повелѣ́нное та́йнѡ*, referencing Joshua 10:12–14.
 
 [^1145]: Church Slavonic: *Въ раи́ мѧ пре́жде дре́во ѡ҆бнажѝ...* Polyeleos Sessional Hymn on Tone 8, modeled on *Повелѣ́нное та́йнѡ*.
 
@@ -3832,7 +3832,7 @@
 
 [^1915]: September 21: Commemoration of the holy Apostle Quadratus of the Seventy, Bishop of Athens and Magnesia (d. ca. 130). In the Ruthenian Typikon, because the Apodosis of the Exaltation of the Holy Cross falls on September 21, the Apostle's office is transferred to September 22 to be chanted together with the Hieromartyr Phocas of Sinope.
 
-[^1916]: *Leavetaking of the Exaltation of the Precious and Life-giving Cross* (Ѿда́нїе воздви́женїѧ честна́гѡ крⷭ҇та̀). On this day, the entire service of the Feast of the Exaltation (September 14) is repeated without change, except for the entrance at Vespers and the polyeleos at Matins.
+[^1916]: *Apodosis of the Exaltation of the Precious and Life-giving Cross* (Ѿда́нїе воздви́женїѧ честна́гѡ крⷭ҇та̀). On this day, the entire service of the Feast of the Exaltation (September 14) is repeated without change, except for the entrance at Vespers and the polyeleos at Matins.
 
 [^1917]: Rubrics governing the occurrence of the Apodosis on a Saturday, specifying the chanting of the Resurrection Dogmatic Theotokion of the Tone at the entrance of Vespers.
 
@@ -4310,7 +4310,7 @@
 
 [^2154]: Psalm 91:13 (LXX 91:12).
 
-[^2155]: Slavonic typographical error: the printed text reads *и҆з̾ два̀ ро́ждшагwся* (*iz dva rozhdshagosya*), an obvious erratum for *и҆з̾ дв҃ы ро́ждшагwся* (*iz Dvy rozhdshagosya*, "of Him Who was born of the Virgin").
+[^2155]: Slavonic typographical error: the printed text reads *и҆з̾ два̀ ро́ждшагѡся* (*iz dva rozhdshagosya*), an obvious erratum for *и҆з̾ дв҃ы ро́ждшагѡся* (*iz Dvy rozhdshagosya*, "of Him Who was born of the Virgin").
 
 [^2156]: Heirmos of Ode 5, Canon of St. Euphrosyne, Tone 5 (referencing Psalm 103:2, LXX).
 

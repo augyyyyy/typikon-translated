@@ -19,7 +19,7 @@ def get_project_root() -> Path:
     for parent in [curr] + list(curr.parents):
         if (parent / "Final").exists():
             return parent
-    return Path(os.environ.get("TRANSLATION_PROJECT_DIR", r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation"))
+    return Path(os.environ.get("TRANSLATION_PROJECT_DIR", r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation"))
 
 def normalize(text: str) -> str:
     t = re.sub(r'\[\^?\d+[a-z]?\]', '', text)

@@ -33,7 +33,7 @@
 
 **Friday of the Second Week**
 
-33.    At Vespers, after the Introductory Psalm and the Eighteenth Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the Idiomelon: **"Now is the acceptable time..."** (*Νῦν καιρὸς εὐπρόσδεκτος*) twice, the four Martyrika of the occurring Tone, and four Stichera from the Menaion; "Glory...": the Doxastikon of the Departed [Nekrosimon] of the occurring Tone; "Both now and ever...": the first Dogmatic Theotokion of the Tone of the week; the Old Testament Readings of the day: Genesis 5:32–6:8 [LXX] and Proverbs 6:20–7:1 [LXX]. Then: **"Let my prayer arise"** (*Κατευθυνθήτω*), and the Liturgy of the Presanctified Gifts is celebrated.  
+33.    At Vespers, after the Introductory Psalm and the Eighteenth Kathisma, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the Idiomelon: **"Now is the acceptable time..."** (*Νῦν καιρὸς εὐπρόσδεκτος*) twice, the four Martyrika of the occurring Tone, and four Stichera from the Menaion; "Glory...": the Doxastikon of the Departed (*Hymn for the Departed (Поко́инъ)*) of the occurring Tone; "Both now and ever...": the first Dogmatic Theotokion of the Tone of the week; the Old Testament Readings of the day: Genesis 5:32–6:8 [LXX] and Proverbs 6:20–7:1 [LXX]. Then: **"Let my prayer arise"** (*Κατευθυνθήτω*), and the Liturgy of the Presanctified Gifts is celebrated.  
     In the evening, Small Compline (*To mikron Apodeipnon*) is served, and the Second Stasis of the Oikoi of the Most Holy Theotokos (Oikoi 7–12) is read, etc., as is customary (see Paragraph 26 above).
 
 **Saturday of the Second Week**
@@ -200,7 +200,7 @@ The Choirs singing the Asmatikon come down from their stalls and move to the Nor
 
 40.    In the Divine Liturgy, the following Festal Antiphons are chanted:
 
-### First Antiphon
+**First Antiphon**
 
 *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."** (*Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*)
 
@@ -211,7 +211,7 @@ The Choirs singing the Asmatikon come down from their stalls and move to the Nor
 
 ["Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen." — *Refrain:* **"Through the intercessions of the Theotokos, Savior, save us."**]
 
-### Second Antiphon
+**Second Antiphon**
 
 *Refrain:* **"Save us, O Son of God, Who art risen from the dead, who sing unto Thee: Alleluia!"** (*Σῶσον ἡμᾶς, Υἱὲ Θεοῦ, ὁ ἀναστὰς ἐκ νεκρῶν, ψάλλοντάς Σοι: Ἀλληλούϊα!*)
 

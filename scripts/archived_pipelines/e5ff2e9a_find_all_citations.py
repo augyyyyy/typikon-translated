@@ -4,7 +4,7 @@ import re
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-base = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded"
+base = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded"
 d_path = os.path.join(base, 'Data', 'Service Books', 'Typikon', 'Dolnytsky_Typikon_Master.md')
 o_path = os.path.join(base, 'Data', 'Service Books', 'Typikon', 'Ordo', 'Ordo_Celebrationis_1996_CLEAN.md')
 

@@ -1,6 +1,6 @@
 === LEAF p821 ===
 
-# Sunday of the Paralytic Concluded (§ 22) and The Wednesday of Mid-Pentecost Opening (§§ 23–24)
+## Sunday of the Paralytic Concluded (§ 22) and The Wednesday of Mid-Pentecost Opening (§§ 23–24)
 
 ## Τῇ Κυριακῇ τοῦ Παραλύτου (Τέλος) καὶ Τῇ Τετάρτῃ τῆς Μεσοπεντηκοστῆς (§§ 22–24) [Violakis, p. 806]
 
@@ -23,7 +23,7 @@
 
 === LEAF p822 ===
 
-# Sunday of the Paralytic Concluded (§ 22) and The Wednesday of Mid-Pentecost Opening (§§ 23–24)
+## Sunday of the Paralytic Concluded (§ 22) and The Wednesday of Mid-Pentecost Opening (§§ 23–24)
 
 ## Sunday of the Paralytic Concluded (§ 22) and The Wednesday of Mid-Pentecost Opening (§§ 23–24) [Violakis, p. 807]
 
@@ -33,10 +33,10 @@
 
     The Service of the Paralytic is chanted until Tuesday, on which day its Apodosis is celebrated.
 
-# THE WEDNESDAY OF MID-PENTECOST
+## THE WEDNESDAY OF MID-PENTECOST
 ## (Forefeast and Feast of Mid-Pentecost)
 
-23.    On Tuesday evening, after **"Christ is risen from the dead..."** (*Χριστὸς ἀνέστη*), we recite the Introductory Psalm (Ps. 103 LXX). At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the three Prosomia: **"Now has come the midpoint of the days..."** (*Πάρεστιν ἡ μεσότης ἡμερῶν*) to six (i.e., twice each); "Glory... Both now and ever...": Tone 6: **"As the Feast comes to its midpoint, O Christ God..."** (*Τῆς ἑορτῆς μεσούσης*). Entrance with censer, the Prokimenon of the day, and the Old Testament Readings (Micah 4:2–3, 5; 5:2–5, 8; Isaiah 55:1–3, 6–11; Proverbs 9:1–11 LXX). At the Aposticha: the three Idiomela: **"The midpoint of the days of Pentecost has arrived..."** (*Πεντηκοστῆς ἐφέστηκεν*), with the appointed Verses: **"Remember Thy congregation, which Thou hast purchased from the beginning"** (*Μνήσθητι τῆς συναγωγῆς σου ἧς ἐκτήσω ἀπ᾿ ἀρχῆς*, Ps. 73:2 LXX), and **"God is our King before the ages: He hath wrought salvation in the midst of the earth"** (*Ὁ δὲ Θεὸς Βασιλεὺς ἡμῶν πρὸ αἰώνων εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς*, Ps. 73:12 LXX); "Glory... Both now and ever...": Tone 8: **"At the midpoint of the Feast..."** (*Μεσούσης τῆς ἑορτῆς*). The Dismissal Troparion in Tone 8: **"At the midpoint of the Feast, provide Thou my thirsty soul with the water of piety, as Thou didst cry unto all, O Savior: Whosoever thirsteth, let him come unto Me and drink! O Well-spring of our life, Christ God, glory to Thee!"** (*Μεσούσης τῆς ἑορτῆς*) three times, and Dismissal.
+23.    On Tuesday evening, after **"Christ is risen from the dead..."** (*Χριστὸς ἀνέστη*), we recite the Introductory Psalm (Ps. 103 LXX). At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the three Prosomia: **"Now has come the midpoint of the days..."** (*Πάρεστιν ἡ μεσότης ἡμερῶν*) to six (i.e., twice each); "Glory... Both now and ever...": Tone 6: **"As the Feast comes to its midpoint, O Christ God..."** (*Τῆς ἑορτῆς μεσούσης*). Entrance with censer, the Prokimenon of the day, and the Old Testament Readings (Micah 4:2–3, 5; 5:2–5, 8; Isaiah 55:1–3, 6–11; Proverbs 9:1–11 LXX). At the Aposticha: the three Idiomela: **"The midpoint of the days of Pentecost has arrived..."** (*Πεντηκοστῆς ἐφέστηκεν*), with the appointed Verses: **"Remember Thy congregation, which Thou hast purchased from the beginning"** (*Μνήσθητι τῆς συναγωγῆς σου ἧς ἐκτήσω ἀπ᾿ ἀρχῆς*, Ps. 73:2 LXX), and **"God is our King before the ages: He hath wrought salvation in the midst of the earth"** (*Ὁ δὲ Θεὸς Βασιλεὺς ἡμῶν πρὸ αἰώνων εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς*, Ps. 73:12 LXX); "Glory... Both now and ever...": Tone 8: **"At the midpoint of the Feast..."** (*Μεσούσης τῆς ἑορτῆς*). The Dismissal Troparion in Tone 8: **"At the midpoint of the Feast, provide Thou my thirsty soul with the water of piety, as Thou didst cry unto all, O Savior: Whosoever thirsts, let him come unto Me and drink! O Well-spring of our life, Christ God, glory to Thee!"** (*Μεσούσης τῆς ἑορτῆς*) three times, and Dismissal.
 
 24.    On Wednesday at Matins, after the Midnight Office, the Trisagion, the Dismissal Troparion, and the Six Psalms. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparion in Tone 8 (three times); then the Psalter; then the two Kathismata of the First and Second Stasis of the Kathisma [Stichologia], twice each. Then **"Having beheld the Resurrection of Christ..."** (*Ἀνάστασιν Χριστοῦ θεασάμενοι*) and Psalm 50 recited plainly. Both Canons without verses. After the 3rd Ode, the two Kathismata; after the 6th Ode, the Kontakion in Tone 4: **"As the Feast of the Law is at midpoint, O Creator and Master of all, Thou didst say unto those present, O Christ God: Come and draw forth the water of immortality!..."** (*Τῆς ἑορτῆς τῆς νομικῆς μεσαζούσης*), the Ikos, the Menologion of the day, and the Hypomnema of the Feast. The Katavasias: **"Thou didst make the sea a wall..."** (*Θάλασσαν ἔπηξας*); then the 9th Ode of both Canons, and the Katavasia: **"Virginity is alien to mothers, and childbearing is strange to virgins; yet in thee, O Theotokos, both were accomplished!..."** (*Ἀλλότριον τῶν Μητέρων*); the Exaposteilarion: **"Having arrived at the midpoint of the feasts..."** (*Ὁ τὸν κρατῆρα ἔχων*) twice. At the Praises: three Prosomia to four (repeating the first); "Glory... Both now and ever...": Tone 4: **"Having been enlightened, brethren, by the Resurrection of Christ the Savior..."** (*Φωτισθέντες ἀδελφοί*). Great Doxology and the Dismissal Troparion.[^470]
 
@@ -47,7 +47,7 @@
 
 === LEAF p823 ===
 
-# Mid-Pentecost Concluded (§ 25) and The Fifth Sunday After Pascha: Sunday of the Samaritan Woman (§§ 26–28 Opening)
+## Mid-Pentecost Concluded (§ 25) and The Fifth Sunday After Pascha: Sunday of the Samaritan Woman (§§ 26–28 Opening)
 
 ## Ἡ Μεσοπεντηκοστὴ (Τέλος) καὶ Τῇ Ε΄ Κυριακῇ: Ἡ Σαμαρεῖτις (§§ 25–28 Ἀρχή) [Violakis, p. 808]
 
@@ -65,13 +65,13 @@
 
 === LEAF p824 ===
 
-# Mid-Pentecost Concluded (§ 25) and The Fifth Sunday After Pascha: Sunday of the Samaritan Woman (§§ 26–28 Opening)
+## Mid-Pentecost Concluded (§ 25) and The Fifth Sunday After Pascha: Sunday of the Samaritan Woman (§§ 26–28 Opening)
 
 ## Mid-Pentecost Concluded (§ 25) and The Fifth Sunday After Pascha: Sunday of the Samaritan Woman (§§ 26–28 Opening) [Violakis, p. 809]
 
 25.    In the Divine Liturgy, the Paschal Antiphons and Entrance Hymn. After the Entrance, the Dismissal Troparion and Kontakion of the Feast; the Epistle (Acts 14:6–18) and Gospel (John 7:14–30) of the day. At "Especially", in place of "It is truly right" [Axion Estin / Zadostoinyk]: the Ninth Heirmos of Mid-Pentecost: **"Virginity is alien to mothers, and childbearing is strange to virgins; yet in thee, O Theotokos, both were accomplished!..."** (*Ἀλλότριον τῶν Μητέρων ἡ παρθενία*). Communion Hymn: **"He who eats My flesh and drinks My blood abides in Me, and I in him. Alleluia!"** (*Ὁ τρώγων μου τὴν σάρκα*, John 6:56), **"Christ is risen from the dead..."** (*Χριστὸς ἀνέστη*), **"Blessed be the name of the Lord from this time forth, and unto the ages"** (*Εἴη τὸ ὄνομα Κυρίου*), and Dismissal.
 
-# THE FIFTH SUNDAY AFTER PASCHA
+## THE FIFTH SUNDAY AFTER PASCHA
 ## (Sunday of the Samaritan Woman)
 
 26.    On Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant four Resurrectional Stichera in Tone 4, three of Mid-Pentecost, and three of the Samaritan Woman; "Glory...": Doxastikon in Tone 6: **"By Jacob's well Jesus found the Samaritan woman: He Who covers the earth with clouds asks water of her..."** (*Παρὰ τὸ φρέαρ τοῦ Ἰακώβ*); "Both now and ever...": Dogmatic Theotokion in Tone 4: **"The grandparent of God for Thy sake, David the Prophet, melodiously sang concerning thee unto Him Who wrought great things in thee..."** (*Ὁ διὰ σὲ θεοπάτωρ*). At the Aposticha: the Resurrectional Apostichon Sticheron in Tone 4: **"O Lord, when Thou didst ascend the Cross, Thou didst wipe away our ancestral curse..."** (*Κύριε ἀνελθὼν ἐν τῷ Σταυρῷ*), then the Stichera of Pascha: **"A sacred Pascha is shown forth unto us today..."** (*Πάσχα ἱερόν*) with their verses; "Glory...": of the Samaritan Woman, in Tone 8; "Both now and ever...": of the Feast, in Tone 8: **"At the midpoint of the Feast..."** (*Μεσούσης τῆς ἑορτῆς*). The Resurrectional Dismissal Troparion in Tone 4: **"Having learned the joyful proclamation of the Resurrection from the angel..."** (*Τὸ φαιδρὸν τῆς Ἀναστάσεως*), the Dismissal Troparion of the Feast in Tone 8: **"At the midpoint of the Feast..."** (*Μεσούσης τῆς ἑορτῆς*), and Dismissal.
@@ -84,7 +84,7 @@
 
 === LEAF p825 ===
 
-# Sunday of the Samaritan Woman Concluded (§ 28), Weekdays of Mid-Pentecost Note, and The Sixth Sunday After Pascha: Sunday of the Blind Man (§§ 29–31 Opening)
+## Sunday of the Samaritan Woman Concluded (§ 28), Weekdays of Mid-Pentecost Note, and The Sixth Sunday After Pascha: Sunday of the Blind Man (§§ 29–31 Opening)
 
 ## Ἡ Σαμαρεῖτις (Τέλος), Τὰ Μεθέορτα τῆς Μεσοπεντηκοστῆς, καὶ Τῇ ΣΤ΄ Κυριακῇ: Ὁ Τυφλὸς (§§ 28–31 Ἀρχή) [Violakis, p. 810]
 
@@ -104,7 +104,7 @@
 
 === LEAF p826 ===
 
-# Sunday of the Samaritan Woman Concluded (§ 28), Weekdays of Mid-Pentecost Note, and The Sixth Sunday After Pascha: Sunday of the Blind Man (§§ 29–31 Opening)
+## Sunday of the Samaritan Woman Concluded (§ 28), Weekdays of Mid-Pentecost Note, and The Sixth Sunday After Pascha: Sunday of the Blind Man (§§ 29–31 Opening)
 
 ## Sunday of the Samaritan Woman Concluded (§ 28), Weekdays of Mid-Pentecost Note, and The Sixth Sunday After Pascha: Sunday of the Blind Man (§§ 29–31 Opening) [Violakis, p. 811]
 
@@ -112,7 +112,7 @@
 
 *Rubrical Note:* The Service of the Samaritan Woman is chanted only on Sunday, Thursday, Friday, and Saturday, on which day its Apodosis is celebrated. On Monday and Tuesday we chant the Afterfeast hymns of Mid-Pentecost. On Wednesday we celebrate the Apodosis of Mid-Pentecost, the Service being chanted as prescribed in Paragraphs 23–25, except for the Old Testament Readings. The Epistle and Gospel are of the day.
 
-# THE SIXTH SUNDAY AFTER PASCHA
+## THE SIXTH SUNDAY AFTER PASCHA
 ## (Sunday of the Blind Man)
 
 29.    On Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant seven Resurrectional Stichera in Tone 5, and three of the Blind Man; "Glory...": Doxastikon in Tone 8: **"Lord, passing by on the way, Thou didst find a man blind from his birth..."** (*Κύριε παράγων ἐν τῇ ὁδῷ*); "Both now and ever...": Dogmatic Theotokion in Tone 5: **"In the Red Sea there was once depicted an image of the unwedded bride..."** (*Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ*). At the Aposticha: the Resurrectional Apostichon Sticheron in Tone 5: **"Thou Who didst take flesh, O Christ our Savior, and yet wast not parted from the heavens..."** (*Σὲ τὸν σαρκωθέντα σωτῆρα Χριστόν*), then the Stichera of Pascha: **"A sacred Pascha is shown forth unto us today..."** (*Πάσχα ἱερόν*) with their verses; "Glory...": Doxastikon in Tone 8: **"O Sun of Righteousness, Christ God, Who by Thy pure touch didst grant light to both eyes of him who from his mother's womb was deprived of light..."** (*Δικαιοσύνης Ἥλιε*); "Both now and ever...": Tone 5: **"It is the day of Resurrection: let us be radiant for the festival..."** (*Ἀναστάσεως ἡμέρα*). The Resurrectional Dismissal Troparion in Tone 5: **"The Word co-eternal with the Father and the Spirit, Who for our salvation was born of the Virgin, let us faithful praise and worship!..."** (*Τὸν συνάναρχον λόγον*), the Theotokion in Tone 5: **"Hail, impassable Gate of the Lord!..."** (*Χαῖρε Πύλη Κυρίου*), and Dismissal.
@@ -125,7 +125,7 @@
 
 === LEAF p827 ===
 
-# Sunday of the Blind Man Concluded (§ 31) and The Apodosis of the Blind Man (§§ 32–34)
+## Sunday of the Blind Man Concluded (§ 31) and The Apodosis of the Blind Man (§§ 32–34)
 
 ## Ὁ Τυφλὸς (Τέλος) καὶ Ἡ Ἀπόδοσις τοῦ Τυφλοῦ (§§ 31–34) [Violakis, p. 812]
 
@@ -141,13 +141,13 @@
 
 === LEAF p828 ===
 
-# Sunday of the Blind Man Concluded (§ 31) and The Apodosis of the Blind Man (§§ 32–34)
+## Sunday of the Blind Man Concluded (§ 31) and The Apodosis of the Blind Man (§§ 32–34)
 
 ## Sunday of the Blind Man Concluded (§ 31) and The Apodosis of the Blind Man (§§ 32–34) [Violakis, p. 813]
 
 ...Sunday. At "Especially", in place of "It is truly right" [Axion Estin / Zadostoinyk]: **"The Angel cried unto her who is full of grace: O pure Virgin, rejoice, and again I say rejoice; for thy Son has arisen from the grave on the third day. Shine, shine, O new Jerusalem, for the glory of the Lord is risen upon thee!..."** (*Ὁ Ἄγγελος ἐβόα . . . Φωτίζου, φωτίζου*). Communion Hymn: **"Receive the Body of Christ; taste of the immortal Fountain. Alleluia!"** (*Σῶμα Χριστοῦ*), the Dismissal Troparion: **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!"** (*Χριστὸς ἀνέστη*), **"Blessed be the name of the Lord from this time forth, and unto the ages"** (*Εἴη τὸ ὄνομα Κυρίου*), and Dismissal.
 
-# THE APODOSIS OF THE SUNDAY OF THE BLIND MAN
+## THE APODOSIS OF THE SUNDAY OF THE BLIND MAN
 ## (Tuesday of the Sixth Week)
 
 32.    On Monday evening, the Apodosis of the Service of the Blind Man takes place. At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the six Idiomela from the Pentekostarion which are indicated in the Vespers of Tuesday evening, in order; "Glory...": Doxastikon in Tone 8: **"Who can tell of Thy mighty acts, O Christ?..."** (*Τίς λαλήσει τὰς δυναστείας σου Χριστέ*); "Both now and ever...": Dogmatic Theotokion in Tone 5: **"In the Red Sea there was once depicted an image of the unwedded bride..."** (*Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ*). At the Aposticha: the four Saturday evening Stichera of the Octoechos in Tone 5: **"By Thy precious Cross hast Thou put the devil to shame, O Christ..."** (*Διὰ τοῦ Τιμίου σου Σταυροῦ*), **"He Who has granted resurrection unto the human race..."** (*Ὁ τὴν Ἀνάστασιν διδούς*), **"O great wonder! The Creator of invisible things..."** (*Μέγα θαῦμα*), and the Apostichon: **"Thou Who didst take flesh, O Christ our Savior..."** (*Σὲ τὸν σαρκωθέντα σωτῆρα Χριστόν*), with the verses: **"The Lord is King, He is clothed with majesty!"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX) etc.; "Glory... Both now and ever...": Tone 8: **"O Sun of Righteousness, Christ God..."** (*Δικαιοσύνης Ἥλιε*). The Dismissal Troparion in Tone 5: **"The Word co-eternal with the Father and the Spirit..."** (*Τὸν συνάναρχον λόγον*), the Theotokion in Tone 5: **"Hail, impassable Gate of the Lord!..."** (*Χαῖρε Πύλη Κυρίου*), and Dismissal.
@@ -160,7 +160,7 @@
 
 === LEAF p829 ===
 
-# Wednesday of the 6th Week: The Apodosis of the Feast of Pascha (§§ 35–36)
+## Wednesday of the 6th Week: The Apodosis of the Feast of Pascha (§§ 35–36)
 
 ## Τῇ Τετάρτῃ τῆς ΣΤ΄ Ἑβδομάδος: Ἡ Ἀπόδοσις τῆς Ἑορτῆς τοῦ Πάσχα (§§ 35–36) [Violakis, p. 814]
 
@@ -174,11 +174,11 @@
 
 === LEAF p830 ===
 
-# Wednesday of the 6th Week: The Apodosis of the Feast of Pascha (§§ 35–36)
+## Wednesday of the 6th Week: The Apodosis of the Feast of Pascha (§§ 35–36)
 
 ## Wednesday of the 6th Week: The Apodosis of the Feast of Pascha (§§ 35–36) [Violakis, p. 815]
 
-# WEDNESDAY OF THE SIXTH WEEK
+## WEDNESDAY OF THE SIXTH WEEK
 ## THE APODOSIS OF THE FEAST OF PASCHA
 
 35.    On Tuesday evening the Ninth Hour is read as tri-psalmic (i.e., involving three psalms: Psalms 83, 84, 85 LXX), at which we say the Dismissal Troparion: **"The Word co-eternal with the Father and the Spirit..."** (*Τὸν συνάναρχον λόγον*), and the Kontakion: **"My soul's eyes being blind, I come unto Thee, O Christ..."** (*Τῆς ψυχῆς τὰ ὄμματα*); then, instead of the usual **"Blessed is our God always, now and forever, and unto the ages of ages. Amen."**, the Priest exclaims (as is the custom now): **"Glory to the holy, consubstantial, life-creating, and indivisible Trinity, always, now and forever, and unto the ages of ages. Amen."** (*Δόξα τῇ ἁγίᾳ καὶ ὁμοουσίῳ*). Then the Priest inside the Sanctuary chants **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life!"** (*Χριστὸς ἀνέστη*) three times; this hymn is chanted also three times by each of the two Choirs, and again immediately once by the Priest from the Sanctuary [Note: The rubrics of the Pentekostarion state simply: "And we chant Christ is risen with its verses, exactly as was done on the day of Pascha." Apparently, this exact order is what is actually being called for here: if each of the two Choirs chants "Christ is risen" three times, we have the sum total of 10 times, as on the day of Pascha].

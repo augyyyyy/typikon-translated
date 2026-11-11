@@ -169,7 +169,7 @@
 
 *Troparion 3:* Keep me from worldly scandals, and preserve me from demonic malice by thy prayers, O Hierarch Nicholas.[^7469]
 
-*Theotokion:* He Who gives being unto us dwelt within thy womb, O Theotokos: Whom pray Thou to save us.[^7470]
+*Theotokion:* He Who gives being unto us dwelt within thy womb, O Theotokos: Whom pray thou to save us.[^7470]
 
 *Ode 6. Heirmos:* Beholding the sea of life surging with the tempest of temptations, fleeing unto Thy calm haven I cry unto Thee: Bring up my life from corruption, O Greatly Merciful One.[^7471]
 
@@ -202,7 +202,7 @@
 
 *Troparion 3:* Implore the Good Shepherd, O divine disciples, to seek out me who have gone astray in the mountains of transgression, and to save him who cries fervently: Blessed is the God of our fathers.[^7485]
 
-*Theotokion:* Together with the Prophets, Apostles, and Martyrs, O Virgin, pray Thou unto Him Whom thou hast borne: to deliver me from earthly evils, and vouchsafe me, O Sovereign Lady, to be a partaker of heavenly goods.[^7486]
+*Theotokion:* Together with the Prophets, Apostles, and Martyrs, O Virgin, pray thou unto Him Whom thou hast borne: to deliver me from earthly evils, and vouchsafe me, O Sovereign Lady, to be a partaker of heavenly goods.[^7486]
 
 *Canon to Nicholas. Ode 7. Heirmos:* Having heard the song of Thy holy youths, and bedewed the burning furnace: blessed art Thou, O Lord God of our fathers.[^7487]
 

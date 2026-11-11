@@ -55,7 +55,7 @@ Nothing separated thee from the love of Christ: neither the wounding of the body
 Being a most radiant son of the light and of the day, full of light thou wast translated, increasing toward the divine radiance, unfailing by day and by night, O God-receiver.[^480]
 *Theotokion:*
 Having found thee alone amidst thorns, as a most pure lily and flower of the valleys, O Mother of God, the spiritual Bridegroom took up His abode in thee.[^481]
-*Kontakion, Tone 3. Podoben: "Today the Virgin":*[^482]
+*Kontakion, Tone 3. Podoben: "Today the Virgin" (Дв҃а дне́сь):*[^482]
 Yesterday the Master came unto us in the flesh, and today the servant departs from the flesh; yesterday He Who reigns
 
 === LEAF p165 ===
@@ -121,7 +121,7 @@ Thou hast found heavenly riches and an enduring habitation instead of bitter ban
 Offering hymnody and prayers unto the Master, O father, cease not to pray for my weakness, for our fellow dwellers, and for the brotherhood, so that having lived together we may together attain deification.[^514]
 *Theotokion:*
 Thee Who beyond mind and word didst bear God the Word today in Bethlehem, O Virgin, and didst swaddle Him in swaddling clothes, as truly the Maiden of God and Mother of God do we magnify.[^515]
-*Exapostilarion. Podoben: "In the spirit in the sanctuary":*[^516]
+*Exapostilarion. Podoben: "In the spirit in the sanctuary" (Дх҃омъ во ст҃и́лищи):*[^516]
 Thou didst behold standing at the right hand of the Father the Word Who is before all beginning, and with ineffable light
 
 === LEAF p170 ===

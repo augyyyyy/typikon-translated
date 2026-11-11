@@ -253,7 +253,7 @@ I have sinned, I confess unto Thee, O Lord, prodigal that I am; I dare not look 
 In the midst of the tribunal of transgressors, rejoicing, Thy passion-bearers cried aloud: O Lord, glory to Thee!
 
 === LEAF p230 ===
-*Glory, and now and ever: Theotokion, Tone 7, Podoben:*  
+*Glory, and now and ever: Theotokion, Tone 7, Podoben (Подо́бенъ):*  
 Thou wast born of the Virgin ineffably, O Christ, and didst enlighten those who were in darkness, crying: O Lord, glory to Thee!
 
 *At the Sixth Hour, Troparion of the Prophecy, Tone 7:*  

@@ -226,10 +226,10 @@ Pardon, remit, O Compassionate One, unto those who have been translated unto The
 *Troparion:*  
 O venerable Father John, truly didst thou continually bear the high praises of God in thy throat, meditating all-wisely upon the practical, divinely-inspired words, and wast enriched by the grace flowing thence, becoming blessed, and overturning the counsels of all the ungodly.
 
-*The same Podoben:*  
+*The same Podoben (Подо́бенъ то́йже):*  
 O all-glorious Father John, having cleansed thy soul with fountains of tears, and having propitiated God by all-night standings, thou didst soar, O blessed one, unto His love and beauty, which thou now worthily enjoyest, rejoicing unceasingly with thy fellow sufferers, O divinely-wise and venerable father!
 
-*The same Podoben:*  
+*The same Podoben (Подо́бенъ то́йже):*  
 O venerable Father John, having winged thy mind unto God by faith, thou didst abhor the unsteady confusion of the world, and taking up thy cross, didst follow the All-Seeing One: having enslaved the unbridled body to the mind through the exploits of ascetic training, by the power of the Holy Spirit.
 
 *Glory, Tone 5:*[^917]  

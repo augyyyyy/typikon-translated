@@ -5,7 +5,7 @@
 - **Inline Locus Milestones Inserted**: `[f. XvA]`, `[f. XrA]` across all 246 leaves
 - **Total Primitive Normalization & Drift Events**: 15 (`8` Podobens/Pokoin, `0` Psalm Stichoi, `0` Weekday Heirmoi, `7` Seam Deduplications)
 - **True Pre-Normalization AI Translation Drift Unified**: 7 occurrences
-- **Source-Text (1716 Slavonic) Scribal Truncations & Tier 3 Variations Classified**: 2 events
+- **Source-Text (1716 Slavonic) Scribal Truncations & Tier 3 Variations Classified**: 5 events
 
 ---
 
@@ -26,7 +26,7 @@
 | `PODOBEN_NORMALIZED` | `C03:p21` | `POD.T1.GROB_TVOI_SPASE` | `TIER_0_EXACT` | *Гро́бъ тво́й Сп҃се* | Podoben: While the soldiers were guarding Thy tomb | **While the soldiers were guarding Thy tomb** |
 | `PODOBEN_NORMALIZED` | `C03:p29` | `POD.T1.GROB_TVOI_SPASE` | `TIER_0_EXACT` | *Гро́бъ тво́й Сп҃се* | Podoben: While the soldiers were guarding Thy tomb | **While the soldiers were guarding Thy tomb** |
 | `PODOBEN_NORMALIZED` | `C04:p33` | `POD.T1.GROB_TVOI_SPASE` | `SCRIBAL_INCIPIT_TRUNCATION` | *Гро́бъ тво́й* | Podoben: While the soldiers were guarding Thy tomb | **While the soldiers were guarding Thy tomb** |
-| `PODOBEN_NORMALIZED` | `C05:p48` | `POD.T2.MILOSERDIA_SUSHCHI` | `TIER_0_EXACT` | *Милосе́рдія сꙋ́щи и҆сто́чникъ* | Podoben: Being the wellspring of loving-kindness | **Being the wellspring of loving-kindness** |
-| `PODOBEN_NORMALIZED` | `C06:p59` | `POD.T2.MILOSERDIA_SUSHCHI` | `TIER_0_EXACT` | *Милосе́рдія сꙋ́щи и҆сто́чникъ* | Podoben: Being the wellspring of loving-kindness | **Being the wellspring of loving-kindness** |
-| `PODOBEN_NORMALIZED` | `C08:p71` | `POD.T3.BOZHESTVENNYYA_VERY` | `TIER_0_EXACT` | *Бж҃е́ственныя вѣ́ры* | Podoben: Of the Divine Faith | **Of the divine faith** |
+| `PODOBEN_NORMALIZED` | `C05:p48` | `POD.T2.MILOSERDIA_SUSHCHI` | `SCRIBAL_INCIPIT_TRUNCATION` | *Милосе́рдїа сꙋ́щи* | Podoben: Being the wellspring of loving-kindness | **Being the wellspring of loving-kindness** |
+| `PODOBEN_NORMALIZED` | `C06:p59` | `POD.T2.MILOSERDIA_SUSHCHI` | `SCRIBAL_INCIPIT_TRUNCATION` | *Милосе́рдїа сꙋ́щи* | Podoben: Being the wellspring of loving-kindness | **Being the wellspring of loving-kindness** |
+| `PODOBEN_NORMALIZED` | `C08:p71` | `POD.T3.BOZHESTVENNYYA_VERY` | `TIER_3_LEXICAL_RECENSIONAL` | *Боже́ственныя вѣ́ры* | Podoben: Of the Divine Faith | **Of the divine faith** |
 | `PODOBEN_NORMALIZED` | `C08:p75` | `POD.T3.KRASOTE_DEVSTVA` | `SCRIBAL_INCIPIT_TRUNCATION` | *Красотѣ̀ дѣ́вства* | Podoben: The Beauty of Thy Virginity | **Beholding the beauty of thy virginity** |

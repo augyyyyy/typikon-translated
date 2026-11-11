@@ -1,6 +1,6 @@
 === LEAF p831 ===
 
-# Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39)
+## Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39)
 
 ## Ἡ Ἀπόδοσις τοῦ Πάσχα (Λειτουργία) καὶ Τῇ Πέμπτῃ τῆς Ἀναλήψεως (§§ 37–39) [Violakis, p. 816]
 
@@ -16,13 +16,13 @@
 
 === LEAF p832 ===
 
-# Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39)
+## Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39)
 
 ## Apodosis of Pascha Liturgy (§ 37) and Thursday of the Ascension: Vespers (§ 38) and Matins (§ 39) [Violakis, p. 817]
 
 37.    In the Divine Liturgy, the Antiphons and the Entrance Hymn of Pascha. After the Entrance we chant **"Christ is risen from the dead..."** (*Χριστὸς ἀνέστη*), the Ypakoe, and the Kontakion. Instead of the Trisagion Hymn we chant **"As many as have been baptized into Christ have put on Christ. Alleluia!"** (*Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε*); the Epistle and the Gospel of the day. At "Especially", in place of "It is truly right" [Axion Estin / Zadostoinyk]: **"The Angel cried unto her who is full of grace: O pure Virgin, rejoice, and again I say rejoice; for thy Son has arisen from the grave on the third day. Shine, shine, O new Jerusalem, for the glory of the Lord is risen upon thee!..."** (*Ὁ Ἄγγελος ἐβόα . . . Φωτίζου, φωτίζου*). Communion Hymn of Pascha: **"Receive the Body of Christ; taste of the immortal Fountain. Alleluia!"** (*Σῶμα Χριστοῦ*), **"Christ is risen from the dead..."** (*Χριστὸς ἀνέστη*). After the Prayer behind the Amvon, **"Christ is risen from the dead..."** (three times) recited plainly, the Dismissal, and the Apodosis.
 
-# THE THURSDAY OF THE ASCENSION
+## THE THURSDAY OF THE ASCENSION
 ## (Great Vespers and Matins of the Ascension)
 
 38.    On Wednesday evening, after the Ninth Hour of Pascha, the Priest intones **"Blessed is our God..."** (*Εὐλογητὸς ὁ Θεὸς*), and the Introductory Psalm (Ps. 103 LXX) begins with **"Come, let us worship and fall down before Christ, our King and our God"** (three times). At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the five Idiomela: **"The Lord ascended into the heavens, that He might send the Paraclete unto the world..."** (*Ὁ Κύριος ἀνελήφθη*) to six, repeating the first hymn; "Glory... Both now and ever...": Tone 6: **"Without parting from the Fatherly bosom, O sweetest Jesus..."** (*Τῶν κόλπων τῶν Πατρικῶν*). Entrance with censer, the Prokimenon of the day, and the Old Testament Readings (Isaiah 2:2–3; 62:10–63:3, 7–9; Zechariah 14:1, 4, 8–11 LXX). At the Aposticha: the three Idiomela; "Glory... Both now and ever...": Tone 6: **"God is gone up with a shout, the Lord with the sound of a trumpet..."** (*Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ*). The Dismissal Troparion in Tone 4: **"Thou hast ascended in glory, O Christ our God, having gladdened Thy disciples with the promise of the Holy Spirit, they having been assured by the blessing that Thou art the Son of God, the Redeemer of the world!"** (*Ἀνελήφθης ἐν δόξῃ*) three times, and the Dismissal with the following appointed prologue: **"He Who ascended in glory from us into the heavens and sat at the right hand of God the Father, Christ our true God..."** (*Ὁ ἐν δόξῃ ἀναληφθεὶς ἀφ᾿ ἡμῶν εἰς τοὺς Οὐρανοὺς καὶ ἐν δεξιᾷ καθίσας τοῦ Θεοῦ καὶ Πατρός, Χριστὸς ὁ ἀληθινὸς Θεὸς ἡμῶν...*).
@@ -33,7 +33,7 @@
 
 === LEAF p833 ===
 
-# Thursday of the Ascension: Divine Liturgy Antiphons (§ 40)
+## Thursday of the Ascension: Divine Liturgy Antiphons (§ 40)
 
 ## Τῇ Πέμπτῃ τῆς Ἀναλήψεως: Τὰ Ἀντίφωνα τῆς Λειτουργίας (§ 40) [Violakis, p. 818]
 
@@ -80,7 +80,7 @@
 
 === LEAF p834 ===
 
-# Thursday of the Ascension: Matins Concluded (§ 39) and Divine Liturgy Antiphons (§ 40)
+## Thursday of the Ascension: Matins Concluded (§ 39) and Divine Liturgy Antiphons (§ 40)
 
 ## Thursday of the Ascension: Matins Concluded (§ 39) and Divine Liturgy Antiphons (§ 40) [Violakis, p. 819]
 
@@ -109,7 +109,7 @@ ANTIPHON TWO (Psalm 47 LXX)
 Great is the Lord, and greatly to be praised,  
 in the city of our God, in His holy mountain.  
 God is known in her palaces,  
-when He cometh to help her.  
+when He comes to help her.  
 For lo, the kings of the earth were assembled;  
 they came together.  
     | Save us, O Son  
@@ -140,7 +140,7 @@ The Entrance Hymn: **"God is gone up with a shout, the Lord with the sound of a 
 
 === LEAF p835 ===
 
-# Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42)
+## Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42)
 
 ## Ἡ Ἀνάληψις (Τέλος) καὶ Τῇ Ζ΄ Κυριακῇ: Τῶν Ἁγίων Πατέρων τῆς ἐν Νικαίᾳ Α΄ Συνόδου (§§ 40–42) [Violakis, p. 820]
 
@@ -160,13 +160,13 @@ The Entrance Hymn: **"God is gone up with a shout, the Lord with the sound of a 
 
 === LEAF p836 ===
 
-# Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42)
+## Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42)
 
 ## Ascension Liturgy Concluded (§ 40) and The Seventh Sunday: Holy Fathers of the First Synod at Nicea (§§ 41–42) [Violakis, p. 821]
 
 ...the Epistle (Acts 1:1–12) and Gospel (Luke 24:36–53). At "Especially", in place of "It is truly right" [Axion Estin / Zadostoinyk]: the Ninth Heirmos of the Feast: **"Thee who art beyond human mind and word, who hast given birth in time unto the Timeless One, the faithful with one accord do magnify!"** (*Σὲ τὴν ὑπὲρ νοῦν*). Communion Hymn: **"God is gone up with a shout, the Lord with the sound of a trumpet. Alleluia!"** (*Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ*, Ps. 46:5 LXX). After the Communion Hymn, the Dismissal Troparion: **"Thou hast ascended in glory, O Christ our God..."** (*Ἀνελήφθης ἐν δόξῃ*); **"Blessed be the name of the Lord from this time forth, and unto the ages"** (*Εἴη τὸ ὄνομα Κυρίου*), and the Dismissal as in Vespers [Note 13].
 
-# THE SEVENTH SUNDAY: THE HOLY FATHERS OF THE FIRST SYNOD AT NICEA
+## THE SEVENTH SUNDAY: THE HOLY FATHERS OF THE FIRST SYNOD AT NICEA
 ## (Sunday of the Holy 318 God-bearing Fathers of the First Ecumenical Council)
 
 41.    In Vespers on Saturday evening, following the Introductory Psalm (Ps. 103 LXX) and the Psalter (First Kathisma: "Blessed is the man", Pss. 1–3 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant three Resurrectional Stichera of Tone 6, three of the Ascension, and four of the Fathers; "Glory...": Doxastikon in Tone 6: **"Let us extol today the mystical trumpets of the Spirit, the God-bearing Fathers..."** (*Τὰς μυστικὰς σήμερον*); "Both now and ever...": Dogmatic Theotokion of Tone 6: **"Who would not call thee blessed, O all-holy Virgin?..."** (*Τίς μὴ μακαρίσει σε*). Entrance with censer, **"O Joyful Light"** (*Φῶς ἱλαρόν*), the Prokimenon of the day: **"The Lord is King, He is clothed with majesty!"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX), and the Old Testament Readings (Genesis 14:14–20; Deuteronomy 1:8–11, 15–17; 10:14–21 LXX). At the Aposticha: the Resurrectional Stichera; "Glory...": Doxastikon in Tone 4: **"Let us faithfully celebrate today the yearly commemoration of the God-bearing Fathers..."** (*Τὴν ἐτήσιον μνήμην σήμερον*); "Both now and ever...": of the Feast, in Tone 4: **"O Lord, having fulfilled the mystery hidden from the ages..."** (*Κύριε τὸ μυστήριον*). The Resurrectional Dismissal Troparion of Tone 6, "Glory...": that of the Fathers in Tone 8: **"Most glorified art Thou, O Christ our God, Who hast established our Fathers as luminous stars upon the earth..."** (*Ὑπερδεδοξασμένος εἶ*); "Both now and ever...": that of the Ascension in Tone 4: **"Thou hast ascended in glory, O Christ our God..."** (*Ἀνελήφθης ἐν δόξῃ*), and Dismissal.
@@ -180,7 +180,7 @@ The Entrance Hymn: **"God is gone up with a shout, the Lord with the sound of a 
 
 === LEAF p837 ===
 
-# Seventh Sunday Liturgy (§ 43), Apodosis of Ascension Note, and Saturday of the Seventh Week: Memorial Saturday (§ 44 Opening)
+## Seventh Sunday Liturgy (§ 43), Apodosis of Ascension Note, and Saturday of the Seventh Week: Memorial Saturday (§ 44 Opening)
 
 ## Τῇ Ζ΄ Κυριακῇ (Λειτουργία), Ἡ Ἀπόδοσις τῆς Ἀναλήψεως, καὶ Τῷ Σαββάτῳ πρὸ τῆς Πεντηκοστῆς (§§ 43–44 Ἀρχή) [Violakis, p. 822]
 
@@ -199,7 +199,7 @@ The Entrance Hymn: **"God is gone up with a shout, the Lord with the sound of a 
 
 === LEAF p838 ===
 
-# Seventh Sunday Liturgy (§ 43), Apodosis of Ascension Note, and Saturday of the Seventh Week: Memorial Saturday (§ 44 Opening)
+## Seventh Sunday Liturgy (§ 43), Apodosis of Ascension Note, and Saturday of the Seventh Week: Memorial Saturday (§ 44 Opening)
 
 ## Seventh Sunday Liturgy (§ 43), Apodosis of Ascension Note, and Saturday of the Seventh Week: Memorial Saturday (§ 44 Opening) [Violakis, p. 823]
 
@@ -207,7 +207,7 @@ The Entrance Hymn: **"God is gone up with a shout, the Lord with the sound of a 
 
     On Friday of this week the Apodosis of the Feast of the Ascension takes place; the Service is sung exactly as prescribed in Paragraphs 38–40: in Vespers, with the exception of the Old Testament Readings; and in Matins, with the exception of the Liti, the Polyeleos with its Kathisma of the Third Stasis, and also of the Matins Gospel. In the Divine Liturgy, we read the Epistle and Gospel of the day.
 
-# THE SATURDAY OF THIS [SEVENTH] WEEK
+## THE SATURDAY OF THIS [SEVENTH] WEEK
 ## (The Saturday Before Pentecost / Soul Saturday)
 
 We make commemoration of all those pious Christians who have reposed through the ages.
@@ -218,7 +218,7 @@ We make commemoration of all those pious Christians who have reposed through the
 
 === LEAF p839 ===
 
-# Memorial Saturday Concluded (§§ 44–46) and The Sunday of Pentecost: Vespers Opening (§ 47)
+## Memorial Saturday Concluded (§§ 44–46) and The Sunday of Pentecost: Vespers Opening (§ 47)
 
 ## Τῷ Σαββάτῳ πρὸ τῆς Πεντηκοστῆς (Τέλος) καὶ Τῇ Κυριακῇ τῆς Πεντηκοστῆς (§§ 44–47 Ἀρχή) [Violakis, p. 824]
 
@@ -239,17 +239,17 @@ We make commemoration of all those pious Christians who have reposed through the
 
 === LEAF p840 ===
 
-# Memorial Saturday Concluded (§§ 44–46) and The Sunday of Pentecost: Vespers Opening (§ 47)
+## Memorial Saturday Concluded (§§ 44–46) and The Sunday of Pentecost: Vespers Opening (§ 47)
 
 ## Memorial Saturday Concluded (§§ 44–46) and The Sunday of Pentecost: Vespers Opening (§ 47) [Violakis, p. 825]
 
 ...as prescribed on the Saturday before Meatfare Sunday. The Dismissal follows.
 
-45.    On Saturday at Matins, after the Midnight Office, the Trisagion, the Dismissal Troparion: **"O Thou Who with the depth of wisdom..."** (*Ὁ βάθει σοφίας*), and the Six Psalms; then **"Alleluia"** with its verses and the Dismissal Troparia, as prescribed on the Saturday before Meatfare Sunday; the Psalter, the Kathismata, and the Amomos (Psalm 118 LXX / 17th Kathisma), and the names of the Reposed are commemorated as yesterday at Vespers; the Evlogitaria, and after the Exclamation, the Kathisma: **"Give rest with the righteous, O our Savior, unto Thy servants..."** (*Ἀνάπαυσον Σωτὴρ ἡμῶν*); "Glory... Both now and ever...": Theotokion: **"O Thou Who didst dawn from the Virgin..."** (*Ὁ ἐκ Παρθένου ἀνατείλας*). Then Psalm 50, and the Canon: **"O Master of all souls..."** (*Ψυχῶν πασῶν ὁ Δεσπότης*) with the prescribed verses. After the 3rd Ode, the Kathisma and the Theotokion. After the 6th Ode, the Kontakion in Tone 8: **"With the Saints grant rest, O Christ, unto the souls of Thy servants, where there is neither pain, nor grief, nor sighing, but life everlasting!"** (*Μετὰ τῶν Ἁγίων ἀνάπαυσον*), the Ikos, the Menologion of the day, and the Hypomnema of the Triodion; then we chant the Heirmos of the 8th Ode: **"Be astonished and tremble, O heaven..."** (*Ἔκστηθι φρίττων Οὐρανέ*), we chant with verses: **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), the Heirmos: **"Every tongue is at a loss to praise thee as is meet..."** (*Ἀπορεῖ πᾶσα γλῶσσα*), and the two Exaposteilaria. At the Praises: the four Stichera: **"Dreaded is the end, the coming of death..."** (*Φοβερὸν τὸ τέλος τὸ τοῦ θανάτου*); "Glory...": Doxastikon in Tone 8: **"As a flower fadeth, and as a shadow passeth away, so is every man dissolved..."** (*Ὡς ἄνθος μαραίνεται*); "Both now and ever...": Theotokion in Tone 8: **"Thou art our God, Who in wisdom hast fashioned all things..."** (*Σὺ εἶ ὁ Θεὸς ἡμῶν*); the prayer **"To Thee belongeth glory..."** (*Σοὶ δόξα πρέπει*) recited plainly, the Litany, and the four Aposticha: **"Having an inconceivable depth of compassions, O Christ..."** (*Ἔχων ἀκατάληπτον*); "Glory...": Doxastikon in Tone 6: **"A pain unto Adam was the eating of the tree of old in Eden..."** (*Ἄλγος τῷ Ἀδάμ*); "Both now and ever...": Theotokion in Tone 6: **"Thou hast been seen as a dwelling-place, O unwedded Virgin..."** (*Ὤφθης ἐνδιαίτημα*); then **"It is good to give praise unto the Lord, and to chant unto Thy name, O Most High"** (*Ἀγαθὸν τὸ ἐξομολογεῖσθαι*, Ps. 91:1 LXX); the Trisagion, the two Dismissal Troparia: **"O Thou Who with the depth of wisdom..."** (*Ὁ βάθει σοφίας*) and **"Thee do we have as a rampart and haven..."** (*Σὲ καὶ τεῖχος καὶ λιμένα ἔχομεν*).
+45.    On Saturday at Matins, after the Midnight Office, the Trisagion, the Dismissal Troparion: **"O Thou Who with the depth of wisdom..."** (*Ὁ βάθει σοφίας*), and the Six Psalms; then **"Alleluia"** with its verses and the Dismissal Troparia, as prescribed on the Saturday before Meatfare Sunday; the Psalter, the Kathismata, and the Amomos (Psalm 118 LXX / 17th Kathisma), and the names of the Reposed are commemorated as yesterday at Vespers; the Evlogitaria, and after the Exclamation, the Kathisma: **"Give rest with the righteous, O our Savior, unto Thy servants..."** (*Ἀνάπαυσον Σωτὴρ ἡμῶν*); "Glory... Both now and ever...": Theotokion: **"O Thou Who didst dawn from the Virgin..."** (*Ὁ ἐκ Παρθένου ἀνατείλας*). Then Psalm 50, and the Canon: **"O Master of all souls..."** (*Ψυχῶν πασῶν ὁ Δεσπότης*) with the prescribed verses. After the 3rd Ode, the Kathisma and the Theotokion. After the 6th Ode, the Kontakion in Tone 8: **"With the Saints grant rest, O Christ, unto the souls of Thy servants, where there is neither pain, nor grief, nor sighing, but life everlasting!"** (*Μετὰ τῶν Ἁγίων ἀνάπαυσον*), the Ikos, the Menologion of the day, and the Hypomnema of the Triodion; then we chant the Heirmos of the 8th Ode: **"Be astonished and tremble, O heaven..."** (*Ἔκστηθι φρίττων Οὐρανέ*), we chant with verses: **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), the Heirmos: **"Every tongue is at a loss to praise thee as is meet..."** (*Ἀπορεῖ πᾶσα γλῶσσα*), and the two Exaposteilaria. At the Praises: the four Stichera: **"Dreaded is the end, the coming of death..."** (*Φοβερὸν τὸ τέλος τὸ τοῦ θανάτου*); "Glory...": Doxastikon in Tone 8: **"As a flower fades, and as a shadow passes away, so is every man dissolved..."** (*Ὡς ἄνθος μαραίνεται*); "Both now and ever...": Theotokion in Tone 8: **"Thou art our God, Who in wisdom hast fashioned all things..."** (*Σὺ εἶ ὁ Θεὸς ἡμῶν*); the prayer **"To Thee belongs glory..."** (*Σοὶ δόξα πρέπει*) recited plainly, the Litany, and the four Aposticha: **"Having an inconceivable depth of compassions, O Christ..."** (*Ἔχων ἀκατάληπτον*); "Glory...": Doxastikon in Tone 6: **"A pain unto Adam was the eating of the tree of old in Eden..."** (*Ἄλγος τῷ Ἀδάμ*); "Both now and ever...": Theotokion in Tone 6: **"Thou hast been seen as a dwelling-place, O unwedded Virgin..."** (*Ὤφθης ἐνδιαίτημα*); then **"It is good to give praise unto the Lord, and to chant unto Thy name, O Most High"** (*Ἀγαθὸν τὸ ἐξομολογεῖσθαι*, Ps. 91:1 LXX); the Trisagion, the two Dismissal Troparia: **"O Thou Who with the depth of wisdom..."** (*Ὁ βάθει σοφίας*) and **"Thee do we have as a rampart and haven..."** (*Σὲ καὶ τεῖχος καὶ λιμένα ἔχομεν*).
 
 46.    In the Divine Liturgy, the Antiphons: **"It is good to give praise unto the Lord..."** (*Ἀγαθὸν τὸ ἐξομολογεῖσθαι*). After the Entrance, the Dismissal Troparion: **"O Thou Who with the depth of wisdom..."** (*Ὁ βάθει σοφίας*), that of the Patron Saint of the Church, and the Kontakion: **"With the Saints grant rest, O Christ..."** (*Μετὰ τῶν Ἁγίων ἀνάπαυσον*) (see the 6th Ode of the Vespers Canon). The Epistle of the Reposed (1 Thessalonians 4:13–17) and Gospel of the day (John 21:15–25). At "Especially", **"It is truly right to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*). Communion Hymn: **"Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord; and their memorial is unto generation and generation. Alleluia!"** (*Μακάριοι οὓς ἐξελέξω*, Ps. 64:4 LXX). In place of **"We have seen the true Light..."** (*Εἴδομεν τὸ φῶς*), we chant the Dismissal Troparion: **"O Thou Who with the depth of wisdom providing for all with love of mankind..."** (*Ὁ βάθει σοφίας φιλανθρώπως πάντα οἰκονομῶν*) [Note 14]; then we chant **"With the spirits of the righteous departed..."** (*Μετὰ πνευμάτων δικαίων*), and the names of all the deceased pious and Orthodox Christians from time immemorial are commemorated, etc., and Dismissal.
 
-# THE SUNDAY OF PENTECOST
+## THE SUNDAY OF PENTECOST
 ## (Great Vespers of Pentecost)
 
 47.    In Great Vespers on Saturday evening, following the Introductory Psalm (Ps. 103 LXX), we do not chant the Psalter [Translator's Note: The Pentekostarion prescribes the First Kathisma of the Psalter: "Blessed is the man", Pss. 1–3 LXX]. At **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we set ten verses and chant the three Idiomela of Tone 1: **"We celebrate Pentecost and the coming of the Spirit..."** (*Πεντηκοστὴν ἑορτάζομεν*) to five...[^479]

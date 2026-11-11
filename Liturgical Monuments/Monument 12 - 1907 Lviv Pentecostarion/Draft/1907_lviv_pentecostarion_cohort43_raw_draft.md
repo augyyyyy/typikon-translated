@@ -124,7 +124,7 @@ Living sacrifices, rational whole-burnt offerings, Martyrs of the Lord, perfect 
 
 === LEAF p425 ===
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 6:*  
-Thus saith the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who it is that saith unto thee: Give Me water to drink: thou wouldest have asked of Him, and He would have given thee to drink, that thou shouldest not thirst for ever, saith the Lord.[^1055]
+Thus says the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who it is that says unto thee: Give Me water to drink: thou wouldest have asked of Him, and He would have given thee to drink, that thou shouldest not thirst for ever, says the Lord.[^1055]
 
 ## ON FRIDAY OF THE SAMARITAN WOMAN, AT MATINS
 

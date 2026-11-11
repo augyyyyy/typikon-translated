@@ -36,7 +36,7 @@ Upon the grass of the right faith, and upon the living water of true wisdom, and
 
 Cutting down roots and thorns with thy sickle of teaching, with thy plow thou didst cut through abominable heretical words and hearts, and didst sow the divine commandments, thine uprightness and rectitude; and having shown these forth as fruitful, thou hast thy talent doubled, and this thou bringest unto thy Master.
 
-*Glory... Both now... Theotokion, Same Podoben:*
+*Glory... Both now... Theotokion, Same Podoben (Подо́бенъ то́йже):*
 
 Other sovereign refuge, and tower of strength, and unconquerable wall, we truly have not acquired save thee, O all-pure one; unto thee do we flee, and unto thee do we cry: O Birthgiver of God, help, lest we perish; show forth thy grace upon us, and the glory of strength, and the greatness of thy tender mercy!
 

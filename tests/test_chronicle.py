@@ -35,7 +35,7 @@ class TestLabChronicle(unittest.TestCase):
         self.chronicle_path = ChronicleManager.get_chronicle_path()
 
     def test_chronicle_file_exists_and_has_chapters(self):
-        """Verifies CHRONICLE.md exists and contains the four historical chapters."""
+        """Verifies CHRONICLE.md exists and contains the five historical chapters."""
         self.assertTrue(self.chronicle_path.exists(), "CHRONICLE.md should exist at project root")
         text = ChronicleManager.get_chronicle_text()
         self.assertIn("# The Byzantine-Ruthenian Typikon Translation Lab Chronicle: Voyage Towards Complete Monument Transmission", text)
@@ -43,6 +43,7 @@ class TestLabChronicle(unittest.TestCase):
         self.assertIn("## Chapter 2: The Two-Chat Stutter & The Inviolable Autonomous Execution Mandate", text)
         self.assertIn("## Chapter 3: The 591-Leaf Marathon, Table Sprawl, and The 10-Leaf Invariant", text)
         self.assertIn("## Chapter 4: The 400-Year Codicological Reorganization & Transmission Chain Scaling", text)
+        self.assertIn("## Chapter 5: The 3-Phase Bookend Hybrid Routing Architecture, `SGC-06` *Tabula Rasa* Law & Brain Control-Plane Compression", text)
         self.assertIn("## Today’s Lab Bench (The Present Horizon)", text)
         self.assertIn("## The Uncharted Horizon (Ledger of Intent)", text)
 
@@ -56,6 +57,8 @@ class TestLabChronicle(unittest.TestCase):
         self.assertIn("Monument 3: 1901 Mikita Typikon (Part I: Cohorts 1–11)", text)
         self.assertIn("Monument 3: 1901 Mikita Typikon (Part II: Cohorts 12–32)", text)
         self.assertIn("Monument 3: Mikita Grand Pause & Autopsy PA-004", text)
+        self.assertIn("Marker 2.0: SGC-02 / PE-HSG Anti-Potemkin Remediation", text)
+        self.assertIn("Marker 3.0: Brain Control-Plane & Progressive-Disclosure Overhaul", text)
 
     def test_sync_chronicle_bench_updates_state(self):
         """Verifies sync_bench updates bench attributes and ledger markers."""

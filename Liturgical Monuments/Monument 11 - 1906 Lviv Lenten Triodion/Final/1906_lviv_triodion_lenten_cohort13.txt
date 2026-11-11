@@ -377,7 +377,7 @@ Lord, who shall abide in Thy dwelling-place?
 *Tone 2, Podoben: "Our Enlightener" (Просвѣти́телѧ на́шего): by Joseph:*
 Illumine me who am darkened by the deceits of hostility, O my Christ, Who hanging upon the Cross didst once darken the sun, and didst visibly shed upon the faithful the true light of forgiveness; that walking in the light of Thy commandments, I may purely reach the saving dawn of Thy Resurrection!
 
-*Podoben:*
+*Podoben (Подо́бенъ):*
 As a Vine hanging upon the Tree, O Savior, Thou didst give the ends of the earth to drink the wine of incorruption, O Christ; therefore I cry: having given drink through the sweetness of true compunction unto me who am ever grievously darkened by sinful drunkenness, strengthen me now to fast from pleasures, O Savior, as God and Lover of mankind!
 
 *Another prosomoion by Lord Theodore, in the same Tone, Podoben: "O the great mystery" (Ѡ҆ вели́кагѡ та́инства):*

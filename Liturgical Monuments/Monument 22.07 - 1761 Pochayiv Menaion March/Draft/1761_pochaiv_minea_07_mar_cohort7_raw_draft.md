@@ -67,7 +67,7 @@
 
 *The same month, on the 10th day: The Holy Martyr Codratus and his companions:*[^115]
 *At "Lord, I have cried," Stichera, Tone 1:*
-*Tone 1, Podoben: "Joy of the heavenly ranks" (Nebesnykh chinov):*
+*Tone 1, Podoben: "Joy of the heavenly ranks" (Небє́сныхъ чинѡ́въ):*
 With all-praised Codratus, let great Cyprian, the two Dionysiuses, and Anectus be brightly hymned worthily, together with Crescent, and glorious Paul faithfully; as God-crowned passion-bearers of the Lord, and our most fervent intercessors.
 
 Another choir of sacredly victorious and triumphant martyrs hath appeared today, illuminating the assembly of the divine passion-bearers: a steadfast number, a chosen company, over which Codratus is commander, shown forth as a glorious victor, and crowned together with the passion-bearers.
@@ -75,10 +75,10 @@ Another choir of sacredly victorious and triumphant martyrs hath appeared today,
 The intricate entanglements of rhetorical wisdom hast thou destroyed like mist by thy cutting word, O all-praised Codratus; having faithfully taught, and patiently suffered for Christ, adorned with both, and crowned together with the passion-bearers.
 
 *Glory... Both now... Theotokion:*
-*In the same Tone, and the same Podoben:*
+*In the same Tone, and the same Podoben (Подо́бенъ то́йже):*
 Held fast by hopeless transgressions, O pure one, having acquired thee as our sole intercessor, O Virgin, we cry aloud in thanksgiving: Purge us from defilements, O Bride of God; for thou art the refuge of the world, and the protection of our race.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the blameless Virgin beheld the Lamb lifted up upon the Cross, weeping she cried aloud: O my sweet Child, what is this new and most glorious sight? How dost Thou Who holdest all things in Thy hand hang in bitterness, nailed in the flesh unto the Tree?
 
 *Canon, the work of Kyr Joseph.*[^116]
@@ -120,7 +120,7 @@ With Codratus let us, the faithful, piously crown Anectus with hymns, and with P
 Not even a single mind can declare the mystery of thy childbirth which surpasses the mind, O Maiden; for in thy womb, O pure one, thou didst conceive the Word of the First Mind, Who established all things by His Word.
 
 *Sessional Hymn, Tone 4:*
-*Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Voznesyisya):*
+*Tone 4, Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йсѧ):*
 By the endurance of cruel torments, thou didst slay the proud enemy, O passion-bearer, having endured death by the sword together with the all-wise who suffered with thee, O Codratus; therefore do we celebrate your precious memory, crying aloud: Remember us before the Master, O unconquerable martyrs!
 
 *Glory... Both now... Theotokion:*

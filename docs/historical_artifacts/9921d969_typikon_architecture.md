@@ -58,17 +58,17 @@ Within each of these 22 core cases, the system evaluates several **sub-cases** b
 
 | Feature | In the Typikon (Dolnytsky / Ordo) | In the JSON (`json_db/`) |
 | :--- | :--- | :--- |
-| **Rubrical Logic** | The canonical narrative of how services are structured and what takes precedence. | [02a_logic_general.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02a_logic_general.json) maps the triggers (days of week, period, ranks) to Case IDs and sets variable states. |
-| **Saint Calendar** | Calendar of saints with their ranks. | [02b_01_september.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02b_01_september.json) (and other monthly files) contains names, ranks, and date-specific overrides. |
-| **Movable Cycle** | Calculations of Pascha offsets and seasonal boundaries. | [02c_logic_triodion.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02c_logic_triodion.json) stores movable dates, offsets, and Compline/Lenten overrides. |
-| **Double Feasts** | Rules for when Annunciation falls on Lenten Sundays/Holy Week. | [02k_logic_collisions.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02k_logic_collisions.json) defines double-feast override matrices. |
-| **Patronal Transfers** | Transfer protocols for Parish Patronal feasts (Temple Cases 1-24). | [02d_logic_temple.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02d_logic_temple.json) maps patronal feast transfers (e.g. transfers on Passion Week). |
+| **Rubrical Logic** | The canonical narrative of how services are structured and what takes precedence. | [02a_logic_general.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02a_logic_general.json) maps the triggers (days of week, period, ranks) to Case IDs and sets variable states. |
+| **Saint Calendar** | Calendar of saints with their ranks. | [02b_01_september.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02b_01_september.json) (and other monthly files) contains names, ranks, and date-specific overrides. |
+| **Movable Cycle** | Calculations of Pascha offsets and seasonal boundaries. | [02c_logic_triodion.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02c_logic_triodion.json) stores movable dates, offsets, and Compline/Lenten overrides. |
+| **Double Feasts** | Rules for when Annunciation falls on Lenten Sundays/Holy Week. | [02k_logic_collisions.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02k_logic_collisions.json) defines double-feast override matrices. |
+| **Patronal Transfers** | Transfer protocols for Parish Patronal feasts (Temple Cases 1-24). | [02d_logic_temple.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02d_logic_temple.json) maps patronal feast transfers (e.g. transfers on Passion Week). |
 
 ---
 
 ## 3. Liturgical Context Panel Data Sources
 
-The frontend [Liturgical Context](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L580-L690) panel pulls dynamically from the `/api/resolve` JSON response, mapping fields as follows:
+The frontend [Liturgical Context](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/cantor_dashboard/main.js#L580-L690) panel pulls dynamically from the `/api/resolve` JSON response, mapping fields as follows:
 
 ```
 [API /api/resolve Response Data]

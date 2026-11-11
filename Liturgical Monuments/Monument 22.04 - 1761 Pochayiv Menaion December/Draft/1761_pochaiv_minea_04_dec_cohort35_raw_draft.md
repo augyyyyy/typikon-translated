@@ -23,7 +23,7 @@ Bethlehem has opened Eden, come let us behold; we have found food in secret; com
 
 Unto righteous Joseph the Betrothed of the Virgin, and with David unto James, let us sing as is fitting; for having walked in a righteous path, they worthily attained the heavenly mansions, dancing with the angels, and they ask for us the forgiveness of sins.
 
-*Glory, in the same tone and podoben:*
+*Glory, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 The Virgin has given birth unto the Creator of all things, and the Magi come to worship Him in the flesh; men with the angels give glory; the cave and the manger offer gifts, hymning the One born: a young Child, the Pre-eternal God.[^543]
 
@@ -194,7 +194,7 @@ As steps and a ladder unto the heavenly ascent were the stones cast at thee; asc
 
 Shining with signs and wonders, and with dogmas, thou didst quench the council of the lawless; and being slain by them, and pelted with stones, thou didst pray for forgiveness for those who slew thee, imitating the voice of the Savior, into Whose hands thou didst commit thy spirit, O sacred Stephen.[^567]
 
-*Other Stichera of the Venerable One, in the same tone and podoben:*
+*Other Stichera of the Venerable One, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Unto the wounds of wandering were added wounds unto thee, most grievous exiles, O venerable one, when he who unlawfully held the lawful throne fiercely troubled the laws of the faith and cast down the Savior's most pure icon; whom by divine grace thou didst put to shame, O pleased servant of Christ.[^568]
 

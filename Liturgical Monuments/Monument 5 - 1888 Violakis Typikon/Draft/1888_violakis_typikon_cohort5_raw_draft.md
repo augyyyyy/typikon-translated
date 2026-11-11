@@ -156,7 +156,7 @@ Note: The pages of the first column are those of the Typikon of G. Violakis [188
 | — Concerning the Kontakion and the Ikos | 23 | 73 |
 | — Concerning the Katavasiai | 23 | 75 |
 | — Concerning the Sunday Matins Resurrection Gospel (*Ἑωθινὸν Εὐαγγέλιον*) | 24 | 77 |
-| — Concerning the Verses (*Stichoi*) of the Ninth Ode of *My soul magnifieth the Lord* | 24 | 77 |
+| — Concerning the Verses (*Stichoi*) of the Ninth Ode of *My soul magnifies the Lord* | 24 | 77 |
 | — Concerning the Exapostilaria | 25 | 79 |
 | — Concerning the Stichera of the Praises (*Ainoi*) | 26 | 81 |
 | — Concerning the Doxastikon of the Praises | 27 | 83 |
@@ -204,7 +204,7 @@ Note: The pages of the first column are those of the Typikon of G. Violakis [188
 | — Ἡ Λειτουργία | 58 | 138 |
 
 ## ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ ΤΗΣ ΑΚΟΛΟΥΘΙΑΣ
-### τοῦ Ἑσπερινοῦ, τοῦ Ὄρθρου καὶ τῆς Λειτουργίας τῶν κατὰ μῆνα Δεσποτικῶν καὶ Θεομητορικῶν ἑορτῶν καὶ τῶν ἑορταζομένων Ἁγίων
+**τοῦ Ἑσπερινοῦ, τοῦ Ὄρθρου καὶ τῆς Λειτουργίας τῶν κατὰ μῆνα Δεσποτικῶν καὶ Θεομητορικῶν ἑορτῶν καὶ τῶν ἑορταζομένων Ἁγίων**
 
 | Μὴν / Ἑορτή | Σελὶς Βιολάκη | Σελὶς Ἔργου |
 | :--- | :---: | :---: |
@@ -256,7 +256,7 @@ Note: The pages of the first column are those of the Typikon of G. Violakis [188
 | — Divine Liturgy | 58 | 139 |
 
 ## TYPIKON ORDER OF SERVICES FOR THE MENAION[^51]
-### The Order of Service of Vespers, Matins, and Divine Liturgy, by Month, for Feasts of the Lord, Feasts of the Mother of God, and Commemorated Saints
+**The Order of Service of Vespers, Matins, and Divine Liturgy, by Month, for Feasts of the Lord, Feasts of the Mother of God, and Commemorated Saints**
 
 | Month / Rubrical Feast | Violakis Page | Work Page |
 | :--- | :---: | :---: |

@@ -123,7 +123,7 @@ Held fast by the devilish slumber, Judas fell asleep unto death; it is a time to
 *(The Hierarch with his own hands pours warm water into the pre-consecrated basin. And when the deacon says):*
 **Deacon:** And began to wash the disciples' feet, and to wipe them with the towel wherewith He was girded.
 *(This is repeated multiple times. And the Hierarch begins on the left side to wash the feet of the priests, beginning from the first, even unto the one holding the place of Peter. And he washes, falling upon his knees before each one, wiping the feet of each of those being washed, kissing them, and rising up. And when he comes unto the one holding the place of Peter, the deacon says):*[^177]
-**Deacon:** Then comes He to Simon Peter; and Peter saith unto Him:
+**Deacon:** Then comes He to Simon Peter; and Peter says unto Him:
 *(And the one holding the place of Peter says):*
 **Representative of Peter:** Lord, dost Thou wash my feet?
 *(The Deacon):*
@@ -131,7 +131,7 @@ Held fast by the devilish slumber, Judas fell asleep unto death; it is a time to
 *(The Hierarch):*
 **Hierarch:** What I do thou knowest not now, but thou shalt understand hereafter.
 *(The Deacon):*
-**Deacon:** Peter saith unto Him:
+**Deacon:** Peter says unto Him:
 *(And the one holding the place of Peter says):*
 **Representative of Peter:** Thou shalt never wash my feet.
 *(The Deacon):*
@@ -139,7 +139,7 @@ Held fast by the devilish slumber, Judas fell asleep unto death; it is a time to
 *(The Hierarch):*
 **Hierarch:** If I wash thee not, thou hast no part with Me.
 *(The Deacon):*
-**Deacon:** Simon Peter saith unto Him:
+**Deacon:** Simon Peter says unto Him:
 *(And the one holding the place of Peter, having risen a little as though affrighted, and lifting up his hands, points with his right hand toward his feet, saying in a gentle voice, in the hearing of all):*
 **Representative of Peter:** Lord, not my feet only,
 *(and showing his hands, he says):*
@@ -147,7 +147,7 @@ Held fast by the devilish slumber, Judas fell asleep unto death; it is a time to
 *(and then pointing to his head, having bowed it slightly, he says):*
 **Representative of Peter:** and my head.
 *(The Deacon):*
-**Deacon:** Jesus saith unto him:
+**Deacon:** Jesus says unto him:
 *(The Hierarch):*
 **Hierarch:** He that is washed needs not save to wash his feet, but is clean every whit; and ye are clean, but not all.
 *(And the one holding the place of Peter sits down, and the Hierarch washes his feet also, even as the rest. And the deacon concludes the Gospel):*

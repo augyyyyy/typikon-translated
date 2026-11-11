@@ -223,7 +223,7 @@ The First Choir: **"We lift them up unto the Lord."** (*Ἔχομεν πρὸς 
 The Priest: **"Let us give thanks unto the Lord."** (*Εὐχαριστήσωμεν τῷ Κυρίῳ.*)  
 The Second Choir: **"It is meet and right."** (*Ἄξιον καὶ δίκαιον.*)  
 The Priest: **"Singing the triumphant hymn, shouting, crying aloud, and saying..."** (*Τὸν ἐπινίκιον ὕμνον ᾄδοντα...*)  
-The First Choir: **"Holy, Holy, Holy, Lord of Sabaoth; heaven and earth are full of Thy glory: Hosanna in the highest! Blessed is He that cometh in the Name of the Lord: Hosanna in the highest!"** (*Ἅγιος, Ἅγιος, Ἅγιος Κύριος Σαββαώθ...*)  
+The First Choir: **"Holy, Holy, Holy, Lord of Sabaoth; heaven and earth are full of Thy glory: Hosanna in the highest! Blessed is He that comes in the Name of the Lord: Hosanna in the highest!"** (*Ἅγιος, Ἅγιος, Ἅγιος Κύριος Σαββαώθ...*)  
 The Priest: **"Take, eat: this is My Body, which is broken for you for the remission of sins."** (*Λάβετε, φάγετε· τοῦτό μού ἐστι τὸ Σῶμα.*)  
 The Second Choir: **"Amen."** (*Ἀμήν.*)  
 The Priest: **"Drink of this all of you: this is My Blood of the New Testament, which is shed for you and for many for the remission of sins."** (*Πίετε ἐξ αὐτοῦ πάντες· τοῦτό ἐστι τὸ αἷμά μου.*)  

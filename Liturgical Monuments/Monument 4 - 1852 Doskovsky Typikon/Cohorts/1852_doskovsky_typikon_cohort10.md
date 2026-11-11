@@ -1,5 +1,3 @@
-# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 10 (Leaves p91–p100)
-
 === LEAF p91 ===
 
 [Book Page 180]
@@ -8,11 +6,11 @@ Month — 180 — March
 
 *If the Forty Martyrs occur on the Saturday of the Akathist, we sing their service on the 5th Sunday of Lent.*
 
-### On the 24th Day: The Forefeast of the Annunciation of the Most Holy Theotokos
+**On the 24th Day: The Forefeast of the Annunciation of the Most Holy Theotokos**
 *It is necessary to know: That if the Forefeast of the Annunciation of the Most Holy Theotokos occur on whatever day except Saturday and Sunday, the directive is according to the cycle: prostrations and troparia according to Lenten custom. At Matins: Alleluia and the Trinity Hymns of the Tone.*  
 ☞ *If the Forefeast of the Annunciation occur on Thursday of the 5th week of the Fast, when the Great Canon is sung: we sing the Forefeast of the Annunciation, the stichera and canon beforehand on Wednesday in the cycle. But the Saint of the Menaion we sing at Compline.*[^198]
 
-### On the 25th Day: The Annunciation of our Most Holy Lady and Ever-Virgin Mary
+**On the 25th Day: The Annunciation of our Most Holy Lady and Ever-Virgin Mary**
 *The Feast of the Annunciation of the Most Holy Theotokos begins from Thursday of the 3rd week of Holy Lent, and ascends unto Wednesday of Bright Week. An extensive directive concerning this feast is found in the Triodions and in the Anthologion or Menaion; but here in brief we set down only the following observations:*  
 *1). It is necessary to know: If the Annunciation of the Most Holy Theotokos occur on the* SUNDAY *of the 3rd, 4th, or 5th week of Lent: Little Vespers is sung on Saturday according to the directive set down in the Triodion. Then according to custom Great Vespers with Litiya [All-Night Vigil].*[^199]
 
@@ -61,16 +59,16 @@ Month — 185 — August
 *a single deacon reads the Gospel of the Annunciation according to custom, as always; and for that Gospel they do not strike the bell; and in order the Divine Liturgy of Chrysostom. Instead of "It is truly right", the Heirmos of Pascha.*  
 ☞ *The other directives concerning that feast look in the Triodion.*[^206]
 
-### IN THE MONTH OF APRIL,
-### On the 23rd Day: The Holy Great-Martyr George
+**IN THE MONTH OF APRIL,**
+**On the 23rd Day: The Holy Great-Martyr George**
 *Look: This feast begins from the day of Great Friday, and ascends unto Thursday of the 5th week after Pascha. And if the Great-Martyr George occur on Great Friday, or on Great Saturday, or on Pascha itself: the stichera of the Saint, and the canon, and the rest of the service are sung on Bright Monday with the daily service. The rest look in the Triodion.*[^207]
 
-### IN THE MONTH OF JULY,
-### On the 16th Day:
+**IN THE MONTH OF JULY,**
+**On the 16th Day:**
 *It is necessary to know: That on this 16th day, if Sunday occur, the service of the Holy Fathers is sung; but if on another day, then after the day of Saint Athenogenes, that is after the 16th date of this month on the 1st coming Sunday we celebrate the memory of the Holy Six Ecumenical Councils, according to the directive written in the Anthologion. The memory of the Saint who coincides we sing at Compline.*[^208]
 
-### IN THE MONTH OF AUGUST,
-### On the 1st Day: The Procession of the Precious Wood of the Honorable and Life-Giving Cross; and the Memory of the Holy Seven Maccabee Martyrs
+**IN THE MONTH OF AUGUST,**
+**On the 1st Day: The Procession of the Precious Wood of the Honorable and Life-Giving Cross; and the Memory of the Holy Seven Maccabee Martyrs**
 
 === LEAF p94 ===
 
@@ -95,11 +93,11 @@ Month — 187 — August
 
 Month — 188 — August
 
-### On the 16th Day: The Translation of the Icon Not-Made-by-Hands of our Lord Jesus Christ, that is to say the Holy Mandylion; and of Saint Diomedes
+**On the 16th Day: The Translation of the Icon Not-Made-by-Hands of our Lord Jesus Christ, that is to say the Holy Mandylion; and of Saint Diomedes**
 *The service of the feast and of the Icon. At Matins the Great Doxology. At the Divine Liturgy: troparion of the Mandylion and of the Dormition; Glory, kontakion of the Mandylion; now and ever, kontakion of the Dormition; Epistle to the Colossians, pericope 248 [Col. 1:12-18], then of the cycle; Gospel from Luke, pericope 48 from the half [Luke 9:51-56; 10:22-24], and thereafter of the cycle.*  
 ☞ *If the Afterfeast of the Dormition of the Theotokos and of the Icon Not-Made-by-Hands occur on a Sunday: we sing the service of the Theotokos and of the Icon as that of the Holy Great-Martyr Demetrius and of the earthquake, if it occur on Sunday, look in the Typikon leaf 134. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, and of the feast 3, and of the Icon 4; and the rest look in the Anthologion. At Matins: after the 6th Ode, kontakion and ikos of the Icon. At the Divine Liturgy after the Entrance: Sunday Resurrection troparion, and of the Icon, and of the feast; Sunday Resurrection kontakion; Glory, of the Icon; now and ever, of the feast. Prokeimenon, Epistle, Alleluia, Gospel, and Communion verse Sunday Resurrection and of the Icon.*[^211]  
 *If the Afterfeast of the Dormition of the Theotokos occur on Saturday: We say at* **"Lord, I have cried"**, *Glory, of the feast; now and ever, the Dogmatikon of the current (descending) Tone.*  
-### On the 29th Day:
+**On the 29th Day:**
 *On the Beheading of the Honorable Head of the Holy John the Forerunner: fasting takes place on whatever day it may occur.*
 
 [Book Page 189]
@@ -114,11 +112,11 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 — 190 —
 
-### TYPIKON
-#### For the Sundays and Weekdays of the Holy Forty Days of Great Lent
+**TYPIKON**
+**For the Sundays and Weekdays of the Holy Forty Days of Great Lent**
 
-### Sunday of the Publican and Pharisee,
-#### That is to say the Third before Lent
+# Sunday of the Publican and Pharisee,
+**That is to say the Third before Lent**
 *On Saturday evening, at Great Vespers: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *Sunday Resurrection stichera 3, Anatolian 4, and of the Triodion 3, repeating the first, or adding the Litiya sticheron. Glory, of the Triodion; now and ever, the Dogmatikon of the current Tone. At the Aposticha of the Octoechos; Glory, of the Triodion; now and ever, Theotokion in the same place in the Triodion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Sunday Resurrection troparion; Glory, now and ever, its Theotokion. At Compline after "It is truly right" and after the Trisagion, the kontakion of the Triodion alone.*  
 ☞ *Be it known: That the office of the Saint who coincides on this Sunday, and on the Sunday of the Prodigal Son, on Meatfare and Cheesefare Sundays, we sing on Friday at Compline, or whenever the superior of the church decides, provided only that the memory of some great Saint does not occur. Then thou hast the directive in the Triodion.*[^213]  
 *On Sunday at Matins: At* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion 2 times; Glory, now and ever, its Theotokion. After the Kathisma, Sunday Resurrection Sessional Hymns of the Octoechos; then the Polyeleos with the Bulgarian refrain:* **"The angelic council..."** (*А҆́ггельскїй собо́ръ...*); *Hypakoe of the Tone, and Graduals of the cycle of the Tone. Sunday Resurrection Prokeimenon, Sunday Resurrection Matins Gospel of the cycle;* **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Христо́во...*).
@@ -127,7 +125,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 — 191 —
 
-*After Psalm 50 immediately the Penitential stichera are sung: Glory, 1st sticheron Tone 8:* **"Open to me the doors of repentance, O Giver of Life..."** (*Покая́нїя ѿве́рзи ми две́ри, Жизнода́вче...*); *Now and ever, Theotokion:* **"Make straight the paths of salvation..."** (*На спасе́нїя стезѝ...*); *Then the refrain:* **"Have mercy on me, O God, according to Thy great mercy..."** (*Поми́лꙋй мя̀, Бо́же, по вели́цѣй ми́лости Твое́й...*); *and the sticheron, Tone 6:* **"When I ponder the multitude of evil deeds..."** (*Мно́жество содѣ́янныхъ...*). [*And these stichera are sung from the Sunday of the Publican and Pharisee even unto the 5th Sunday of the Holy Great Fast.* **"Jesus having risen from the tomb..."** (*Воскре́съ І҆исꙋ́съ ѿ гро́ба...*) *is not sung]. Canons 4, that is to say: the 1st Sunday Resurrection from the Octoechos with the Heirmos to 4; Cross-Resurrection without Heirmos to 2; Theotokos without Heirmos to 2; 4th of the Triodion without Heirmos to 6. Katavasia after each Ode of the Theotokos:* **"I shall open my mouth..."** (*Ѿве́рзꙋ оу҆ста̀ моя̀...*). *After the 3rd Ode, Sunday Resurrection kontakion and ikos, and Sessional Hymn of the Triodion; Glory, now and ever, Theotokion. After the 6th Ode, kontakion and ikos of the Triodion. After the 8th Ode:* **"My soul doth magnify the Lord..."** (*Вели́читъ дꙋша̀ моя̀ Го́спода...*); *after the 9th Ode:* **"Holy is the Lord our God..."** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ...*); *and Sunday Resurrection Exapostilarion; Glory, of the Triodion; now and ever, Theotokion in the same place. At the Praises, Sunday Resurrection stichera of the Octoechos 4; and of the Triodion idiomela 4, Tone 1:* **"Let us not pray as the Pharisee..."** (*Не помо́лимся фарисе́йски...*); *and:* **"The Pharisee through vainglory..."** (*Фарисе́й тщесла́вїемъ...*), *written at Vespers, and in the Triodion at the Praises, with the verses:* **"Arise, O Lord my God..."** (*Воскреснѝ, Го́споди Бо́же мо́й...*); *and:* **"I will confess Thee..."** (*И҆сповѣ́мся Тебѣ̀...*); *Glory, of the Triodion; now and ever:* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *After the Doxology, Sunday Resurrection troparion only one of the two; Ectenes and the Dismissal.*[^214]  
+*After Psalm 50 immediately the Penitential stichera are sung: Glory, 1st sticheron Tone 8:* **"Open to me the doors of repentance, O Giver of Life..."** (*Покая́нїя ѿве́рзи ми две́ри, Жизнода́вче...*); *Now and ever, Theotokion:* **"Make straight the paths of salvation..."** (*На спасе́нїя стезѝ...*); *Then the refrain:* **"Have mercy on me, O God, according to Thy great mercy..."** (*Поми́лꙋй мя̀, Бо́же, по вели́цѣй ми́лости Твое́й...*); *and the sticheron, Tone 6:* **"When I ponder the multitude of evil deeds..."** (*Мно́жество содѣ́янныхъ...*). (*And these stichera are sung from the Sunday of the Publican and Pharisee even unto the 5th Sunday of the Holy Great Fast.* **"Jesus having risen from the tomb..."** (*Воскре́съ І҆исꙋ́съ ѿ гро́ба...*) *is not sung*). Canons 4, that is to say: the 1st Sunday Resurrection from the Octoechos with the Heirmos to 4; Cross-Resurrection without Heirmos to 2; Theotokos without Heirmos to 2; 4th of the Triodion without Heirmos to 6. Katavasia after each Ode of the Theotokos:* **"I shall open my mouth..."** (*Ѿве́рзꙋ оу҆ста̀ моя̀...*). *After the 3rd Ode, Sunday Resurrection kontakion and ikos, and Sessional Hymn of the Triodion; Glory, now and ever, Theotokion. After the 6th Ode, kontakion and ikos of the Triodion. After the 8th Ode:* **"My soul doth magnify the Lord..."** (*Вели́читъ дꙋша̀ моя̀ Го́спода...*); *after the 9th Ode:* **"Holy is the Lord our God..."** (*Свѧ́тъ Госпо́дь Бо́гъ на́шъ...*); *and Sunday Resurrection Exapostilarion; Glory, of the Triodion; now and ever, Theotokion in the same place. At the Praises, Sunday Resurrection stichera of the Octoechos 4; and of the Triodion idiomela 4, Tone 1:* **"Let us not pray as the Pharisee..."** (*Не помо́лимся фарисе́йски...*); *and:* **"The Pharisee through vainglory..."** (*Фарисе́й тщесла́вїемъ...*), *written at Vespers, and in the Triodion at the Praises, with the verses:* **"Arise, O Lord my God..."** (*Воскреснѝ, Го́споди Бо́же мо́й...*); *and:* **"I will confess Thee..."** (*И҆сповѣ́мся Тебѣ̀...*); *Glory, of the Triodion; now and ever:* **"Most blessed art thou..."** (*Преблагослове́нна є҆сѝ...*). *After the Doxology, Sunday Resurrection troparion only one of the two; Ectenes and the Dismissal.*[^214]  
 *It is necessary to know: That all 11 Matins Gospel stichera, from this current Sunday even until All Saints, are sung after the dismissal of Matins, at Glory, now and ever. At the Hours: at the 1st, Sunday Resurrection troparion, and kontakion from the Triodion; at the 3rd, the same likewise; at the 6th, Sunday Resurrection troparion; Glory, troparion of the temple, and*
 
 === LEAF p97 ===
@@ -142,7 +140,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 ☞ *It is necessary to know: That in this week the heretical Armenians fast: their abominable fast called the Artzivourion. But with us in this week there is a dispensation: and on every day (that is to say, on Wednesday and Friday) monastics partake of cheese and eggs (at the 9th hour), while the laity eat meat, overturning their decree.*[^215]  
 *Look: Concerning the feast of the Meeting of the Lord look in the Triodion.*
 
-### On the Sunday of the Prodigal Son
+**On the Sunday of the Prodigal Son**
 *On Saturday evening, all as was written before for the Sunday of the Publican. On Sunday at Matins: at* **"God is the Lord"** (*Бо́гъ Госпо́дь*): *Sunday Resurrection troparion 2 times, and Theotokion. Customary Kathisma and Sessional Hymns of the Octoechos. And we sing the Polyeleos, the customary two Psalms:* **"Praise the name of the Lord..."** (*Хвали́те и҆́мя Госпо́дне...*); *and:* **"Give thanks unto the Lord..."** (*И҆сповѣ́дайтеся Го́сподеви...*); *and we chant in addition unto these also the 3rd Psalm 136 [Psalm 137]:* **"By the rivers of Babylon..."** (*На рѣка́хъ Вавѷлѡ́нскихъ...*), *with the melodious Alleluia; at the end: Glory, now and ever, Alleluia 3 times; and* **"The angelic council..."**; *(but the Bulgarian refrains are omitted). Thus we do on Meatfare Sunday and Cheesefare Sunday. All the rest as on the Sunday of the Publican.*[^216]  
 *It is necessary to know: That in the Meatfare week one Kathisma is omitted at Matins, and*
 
@@ -152,8 +150,8 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 *it is read at Vespers. In this week we do not sing Alleluia. Little Compline is sung.*
 
-### On Meatfare Saturday,
-#### We celebrate the memory of all from the age fallen-asleep orthodox Christians, our fathers and brethren
+**On Meatfare Saturday,**
+**We celebrate the memory of all from the age fallen-asleep orthodox Christians, our fathers and brethren**
 *On Friday evening, after the customary ectene, and after the Prooemiac Psalm [Psalm 103], and after the Kathisma: at* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *we set 6 stichera, and sing of the Octoechos 3 of the Martyrs, and of the Triodion 3 prosomoia. Instead of the Prokeimenon, we sing Alleluia in Tone 8, with the verses:* **"Blessed are they whom Thou hast chosen..."** (*Блаже́ни, я҆́же и҆збра́лъ...*); *and:* **"Their souls shall dwell among good things..."** (*Дꙋ́шы и҆́хъ во благи́хъ...*); *and the rest. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): *Troparion:* **"With depth of wisdom..."** (*Глꙋбино́ю мꙋ́дрости...*); *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."** (*Тебѐ и҆ стѣ́нꙋ...*). *Ectene:* **"Have mercy on us, O God..."**; **"Again we pray for the most holy..."**; *and the Dismissal. After the dismissal of Vespers we perform a Panakhyda for the reposed.*[^217]  
 *At Compline after "It is truly right": Kontakion:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*). *At Matins, after the Six Psalms, the customary ectene. Then immediately we sing Alleluia in Tone 8, and say the verses; Troparion:* **"With depth of wisdom..."**; *Glory, now and ever, Theotokion:* **"Thee we have as a rampart..."**; *and the customary chanting of the Psalter and Sessional Hymns of the Octoechos. Thereafter the Amomos [Psalm 118] is sung in two Stases with the refrain:* **"Blessed art Thou, O Lord..."** (*Благослове́нъ є҆сѝ, Го́споди...*); *at the end of the verses:* **"Unless Thy law had been my meditation..."** (*Ꙗ҆́кѡ а҆́ще бы не зако́нъ Тво́й...*) *3 times. And after it the Ectene for the Reposed:* **"Again and again in peace let us pray to the Lord."** *Choir:* **"Lord, have mercy"** *3 times.* **"Again we pray for the repose of the souls of the departed servants of God, our forefathers, fathers, and brethren who lie here, and all orthodox"**
 
@@ -174,11 +172,11 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 *is sung on the preceding Saturday or on Thursday before.*[^219]
 
-### On Meatfare Sunday Evening
+**On Meatfare Sunday Evening**
 *At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Octoechos 3, and of the Menaion of the Saint 3. At the Aposticha, stichera of the Triodion.*  
 *Be it known: That from today in the Octoechos the Aposticha at Vespers and at Matins are omitted: and instead of them the idiomelon stichera of the day of the Triodion are sung until Saturday of the 6th week.*[^220]
 
-### On Cheesefare Tuesday Evening
+**On Cheesefare Tuesday Evening**
 *From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri-*
 
 === LEAF p99 ===
@@ -198,11 +196,11 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 
 *is sung on the preceding Saturday or on Thursday before.*
 
-### On Meatfare Sunday Evening
+**On Meatfare Sunday Evening**
 *At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera to 6: of the Octoechos 3, and of the Menaion of the Saint 3. At the Aposticha, stichera of the Triodion.*  
 *Be it known: That from today in the Octoechos the Aposticha at Vespers and at Matins are omitted: and instead of them the idiomelon stichera of the day of the Triodion are sung until Saturday of the 6th week.*
 
-### On Cheesefare Tuesday Evening
+**On Cheesefare Tuesday Evening**
 *From the beginning of Vespers, we begin prostrations. After the customary Psalm [Psalm 103], the Kathisma of the cycle. At* **"Lord, I have cried"** (*Го́споди воззва́хъ*): *stichera of the Octoechos 3, and to the Saint 3; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. Prokeimenon of the day. Then:* **"Vouchsafe, O Lord..."** (*Сподо́би, Го́споди...*); *and 3 prostrations. At the Aposticha, idiomelon of the Triodion with the customary refrains; Glory, of the Saint, if he has one; if not, Glory, now and ever, Stavrotheotokion. After* **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*) *and after the Trisagion, troparion Tone 4:* **"O Theotokos and Virgin, rejoice..."** (*Богоро́дице Дѣ́во, ра́дꙋйся...*); *and one prostration; Glory:* **"O Baptizer of Christ..."** (*Крести́телю Христо́въ...*); *and a prostration; Now and ever:* **"Intercede for us, O holy Apostles..."** (*Моли́те за ны̀, святи́и а҆по́столи...*); *a prostration;* **"Beneath thy compassion..."** (*Подъ твою̀ ми́лость...*); *without a prostration;* **"Lord, have mercy"** *40 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"More honorable than the Cherubim..."** (*Честнѣ́йшꙋю херꙋвї́мъ...*); **"In the name of the Lord bless, father"** (*И҆́менемъ Госпо́днимъ благословѝ, ѻ҆́тче*). *Priest:* **"Blessed is He Who is, Christ our God..."** (*Сы́й благослове́нъ Христо́съ Бо́гъ на́шъ...*); *and we say the prayer:* **"O Heavenly King..."** (*Царю̀ Небе́сный...*); *and 3 great prostrations with the prayer of Saint Ephrem:* **"O Lord and Master of my life..."** (*Го́споди и҆ Влады́ко живота̀ моегѡ̀...*); *and the rest 12 metanias; and thereafter the prayer all together:* **"O Lord and Master..."**; *and a great prostration; Tri-*
 
 === LEAF p100 ===
@@ -214,7 +212,7 @@ FROM THE SUNDAY OF THE PUBLICAN AND PHARISEE EVEN UNTO THE 2ND SUNDAY AFTER THE 
 *sagion; after "Our Father":* **"Lord, have mercy"** *12 times; "Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:";* **"Lord, have mercy"** *3 times;* **"Bless"** (*Благословѝ*). *Then the priest says:* **"Glory to Thee, Christ God, our hope, glory to Thee"** (*Сла́ва Тебѣ̀, Христѐ Бо́же, оу҆пова́нїе на́ше, сла́ва Тебѣ̀*); *and the daily Dismissal. And we say Great Compline with prostrations. After "It is truly right", instead of* **"Lord of hosts, be with us"** (*Го́споди си́лъ, съ на́ми бꙋ́ди*): *we say the troparion of the day and of the temple; then:* **"O God of our fathers..."** (*Бо́же ѻ҆те́цъ на́шихъ...*); **"O Thou Who in the whole world..."** (*И҆́же во все́мъ мі́рѣ...*); *Glory:* **"With the Saints give rest..."** (*Со святы́ми оу҆поко́й...*); *now and ever:* **"Through the prayers of the Theotokos..."** (*Моли́твами Богоро́дицы...*); **"Lord, have mercy"** *40 times; and the prayer:* **"O Thou Who at all times..."** (*И҆́же на вся́кое вре́мя...*); *and after "More honorable than the Cherubim...": the customary 16 prostrations. Thereafter the Trisagion; and the prayer:* **"O Undefiled, Untainted..."** (*Нескве́рная, небла́зная...*); *and:* **"And grant unto us, Master..."** (*И҆ да́ждь на́мъ, Влады́ко...*); *and the Little Dismissal.*  
 ☞ *In like manner we sing also on Friday the entire service.*[^221]
 
-### On Cheesefare Wednesday
+**On Cheesefare Wednesday**
 *We say the Midnight Office entirely with its prostrations. At Matins we sing Alleluia in the current Tone of the Octoechos, and the Trinity Hymns of the Tone, and the customary two Kathismata of the cycle, and the rest. After Psalm 50, the Priest:* **"Save, O God, Thy people..."** (*Спасѝ, Бо́же, лю́ди Твоя̑...*); *and the exclamation:* **"Through the mercy and compassions..."** (*Ми́лостїю и҆ щедро́тами...*). *Canon of the Octoechos with the Heirmos to 6, to the Saint to 4, and of the Triodion to 4. In whichever Odes the triodion [three-ode canon] arrives, in these Odes we omit the canon of the Octoechos and Menaion, and sing the canon of the Triodion with the Heirmos to 6, and the triodion to 8, and afterwards the Heirmos of the triodion. But the Saint of the Menaion we sing in the prior Odes in this manner: the 1st Ode of the canon of the Octoechos with the Heirmos to 4, and in the Menaion of the Saint the 1st and 3rd Odes to 6: that is, from the 1st Ode 3 troparia without the Theotokion, and from the 3rd 3, and in the Triodion 4. Similarly we sing the 8th with the 6th, and the 9th with the 7th*[^222]
 
 [Book Page 197]

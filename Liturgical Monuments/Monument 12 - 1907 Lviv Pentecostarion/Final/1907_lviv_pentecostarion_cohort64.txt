@@ -134,7 +134,7 @@ Approach, all ye, not unto Mount Sinai, but unto God the Most High, concealed in
 *Sticheron:*
 Christ is given unto all sinners for food, making bread His Body, and transforming wine into divine Blood.
 
-*Glory... The same Tone and Podoben:*
+*Glory... The same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 *Doxasticon:*
 We praise Thee, O Christ, our good Savior, Who hast poured out Thy Blood for the sake of human salvation.
 
@@ -244,7 +244,7 @@ He Whom thou didst bear without seed, O all-pure Virgin, He is seen mysteriously
 *Tone 6:*
 
 *Sticheron:*
-On the first day of unleavened bread, the Disciples said unto Jesus: Lord, where wilt Thou that we prepare for Thee to eat the Passover? But He said: Go into the village ahead, and say unto the master of the house: The Teacher saith, With thee I will keep the Passover with My Disciples. And they did as they were commanded, and prepared the Passover: and while they were eating, Jesus, having taken bread, given thanks, blessed, and broken it, gave it unto the Disciples, saying: Take, eat, this is My Body; drink of the cup, this is My Blood, for the remission of sins.[^2883]
+On the first day of unleavened bread, the Disciples said unto Jesus: Lord, where wilt Thou that we prepare for Thee to eat the Passover? But He said: Go into the village ahead, and say unto the master of the house: The Teacher says, With thee I will keep the Passover with My Disciples. And they did as they were commanded, and prepared the Passover: and while they were eating, Jesus, having taken bread, given thanks, blessed, and broken it, gave it unto the Disciples, saying: Take, eat, this is My Body; drink of the cup, this is My Blood, for the remission of sins.[^2883]
 
 *Sticheron:*
 David the ancestor of God, bringing the Ark from the house of Obed-edom into his city, played upon trumpets, upon timbrels, and cymbals, and all the people escorted the Ark with joy, and the king playing upon the harp: this Ark was a sign of the Ark of the Holy of Holies, the Body and Blood of Christ our God, Who this day is worshiped by all: unto Whom we also bowing down, pray unto Him as God and Creator of all, that He may save our souls.[^2884]
@@ -286,7 +286,7 @@ O Savior Christ, Lover of mankind, Who for the sake of our salvation didst come 
 
 *Verse: And He rained down manna upon them to eat, and gave them the bread of heaven.*
 *Sticheron:*
-I am the heavenly Bread (said the Lord unto His Disciples), that came down from heaven; I am the living Bread, he that comes to Me shall not hunger, and he that believs in Me shall not thirst: if anyone eat of this Bread, he shall live for ever, and the Bread which I will give is My Flesh, which gives eternal life unto them that partake.
+I am the heavenly Bread (said the Lord unto His Disciples), that came down from heaven; I am the living Bread, he that comes to Me shall not hunger, and he that believes in Me shall not thirst: if anyone eat of this Bread, he shall live for ever, and the Bread which I will give is My Flesh, which gives eternal life unto them that partake.
 
 *Verse: Man ate the bread of Angels, He sent them food in abundance.*
 *Sticheron:*

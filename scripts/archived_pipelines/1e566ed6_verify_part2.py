@@ -17,7 +17,7 @@ def clean_body_text(text):
     cleaned = re.sub(r'[^a-zA-Z]', '', body_text)
     return cleaned.lower()
 
-typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 orig_path = os.path.join(typikon_dir, "backup", "Final_Dolnytsky_part2_general_rubrics.md")
 form_path = os.path.join(typikon_dir, "Final_Dolnytsky_part2_general_rubrics.md")
 

@@ -61,10 +61,10 @@ The Light that came forth from Light, and shone forth from the Virgin unto those
 
 Herod the malevolent, having been mocked by the wise men, madly mows down the young blade of infants, and thought to stretch forth his foully-murderous hand against Thee; but Thou camest to drive away the deepest darkness from the Egyptians, with whom we sing: Blessed is our God Who is come: glory to Thee!
 
-*Glory, the same tone and podoben:*
+*Glory, the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Let us sing a new song, O new Israel: sing a heavenly hymn, O eye! Rejoice and exult with joy, and dance! Bring brightly forefestal things: God hath appeared from the south in the flesh. He also desires to be washed as a man in the streams of the Jordan!
 
-*Both now, the same podoben:*
+*Both now, the same podoben (Подо́бенъ то́йже):*
 Thou didst appear upon earth, and didst dwell with men, and by the decree of Caesar didst enroll Thyself with the servants: Thou didst create without being altered; Thou didst remain unchanged, being wholly God, though Thou wast incarnate. Glory to Thy dispensation, honor, praise, magnificence, both now and unto the ages. Amen!
 
 *At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме є҆ѵфра́ѳовъ):*[^1040]

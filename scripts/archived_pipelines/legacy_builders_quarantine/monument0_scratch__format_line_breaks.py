@@ -1,8 +1,8 @@
 import os
 import re
 
-FINAL_DIR = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final"
-TYPIKON_DIR = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+FINAL_DIR = r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation\Final"
+TYPIKON_DIR = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 
 def is_header(line):
     line = line.strip()

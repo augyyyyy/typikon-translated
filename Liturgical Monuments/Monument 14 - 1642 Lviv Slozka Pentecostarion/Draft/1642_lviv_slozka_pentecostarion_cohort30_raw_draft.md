@@ -314,7 +314,7 @@ Unto the Well Thou didst come, O Fountain of wonders, in the sixth hour, to catc
 When the Lord came unto the well, the Samaritan woman besought the tender-hearted One: "Give me the water of faith, and I shall receive the waters of the font, joy, and deliverance: O Giver of life, Lord, glory to Thee!"
 
 === LEAF p299 ===
-*[Woodcut: Christ and the Samaritan Woman at Jacob's Well near Sychar, with the Apostles approaching on the right. Inscriptions: "Sunday of the Samaritan Woman" (Нл҃ѧ . Ѡ самарѧныни), "Jesus Christ" (І҆с҃ Хс҃), "The Samaritan Woman" (Самарѧныни), "Jacob's Well" (Студенецъ Іѧковль), "Apostles" (Апⷵли).]*[^658]
+*(*Woodcut: Christ and the Samaritan Woman at Jacob's Well near Sychar, with the Apostles approaching on the right. Inscriptions: "Sunday of the Samaritan Woman" (Нл҃ѧ . Ѡ самарѧныни), "Jesus Christ" (І҆с҃ Хс҃), "The Samaritan Woman" (Самарѧныни), "Jacob's Well" (Студенецъ Іѧковль), "Apostles" (Апⷵли).*)*[^658]
 
 *Sticheron. Tone 3:*
 The co-unoriginate and co-everlasting Son and Word of the Father came unto the Well, the Fountain of healings; and a woman of Samaria came to draw water, seeing whom the Savior said: "Give Me water to drink, and go, call thy husband!" But she, speaking as unto a man and not unto God, striving to conceal it, said: "I have no husband." And the Teacher said unto her: "Thou hast spoken truly: 'I have no husband': for thou hast had five husbands, and he whom thou now hast is not thy husband." And she, astonished at His voice, running into the city, cried unto the crowds, saying: "Come and see Christ, Who grants great mercy unto the world!"

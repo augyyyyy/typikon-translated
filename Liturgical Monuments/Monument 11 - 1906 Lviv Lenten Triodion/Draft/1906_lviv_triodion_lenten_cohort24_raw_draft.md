@@ -5,7 +5,7 @@
 *Prosomoia of the Triodion, by Lord Joseph, Tone 3. Podoben: "They weighed thirty pieces of silver" (Поста́виша три́десѧть сре́бреникъ):*[^589]  
 O Lord, Who by the Cross didst slay the deceiver, deliver me from his delusion, me who sin and am deceived; having cleansed me by the fast, grant me to accomplish Thy desires, that I may see, O Master, rejoicing, Thy precious Sufferings.
 
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 I was wounded by the weapon of pleasure, O Lord, and became utterly dead; heal and revive my humble soul, O Master Who wast pierced with a spear; and me, who am wounded by the arrow of the enemy, heal as Thou art compassionate, and show me forth as a partaker of Thy precious Sufferings.
 
 *Another sticheron by Lord Theodore, Tone 8. Podoben: "Let Him be crucified" (Да ра́спнетсѧ):*[^590]  
@@ -45,7 +45,7 @@ When the lawless people, O Savior, hung Thee, the Life of all, upon the Tree, th
 *After the second stichology, we chant the present sessional hymn by Lord Joseph, Tone 3. Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства):*[^595]  
 By the Tree Thou didst quench the flame of transgression, O Master, being lifted up upon the Cross, and Thou didst slay the enemy, being slain of Thine own will; therefore I pray Thee: slay the desires of my flesh, and revive my wretched heart by the passion-slaying fast, cleansing me from every defilement, as Thou art tender-hearted.
 
-*Glory, the same. Both now and ever: Stavrotheotokion. Podoben:*  
+*Glory, the same. Both now and ever: Stavrotheotokion. Podoben (Подо́бенъ):*  
 A shameful death, O Compassionate One, Thou didst willingly endure by crucifixion; beholding which, she who bore Thee, O Christ, was wounded, was torn in her womb, and maternal-wise sobbed; by whose prayers, for the loving-kindness of Thy mercy, show compassion, and save the world, Thou Who takest away its sin.
 
 *After the third stichology, sessional hymn, Tone 8. Podoben: "Having risen from the tomb" (Воскр҃съ и҆з̾ гро́ба):*[^596]  
@@ -201,7 +201,7 @@ Living sacrifices, rational whole burnt offerings, martyrs of the Lord, perfect 
 *Other stichera by Lord Joseph, Tone 6. Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*[^607]  
 Having appeared as rays of the spiritual Sun, O apostles who beheld God, ask enlightenment for our souls, and deliver us from the dark gloom of passions; and pray that we may see the saving day, having cleansed our hearts with fasting and prayers, which the deceitful one wounded: that being saved by faith, we may ever honor you who saved the world by your all-wise preaching.
 
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 Having departed as a prodigal into the land of malice, I squandered the riches which Thou, O compassionate Father, gavest me; and I melt away with hunger for good deeds, and behold, I am clothed with the shame of transgression, being stripped of the grace of God, and I cry unto Thee: I have sinned, for I know Thy goodness; receive me as one of Thy hired servants, O Compassionate Christ, by the supplications of the apostles who loved Thee.
 
 *Another sticheron, prosomoion by Lord Theodore, the same Tone. Podoben: "At the right hand of the Savior" (Ѡдеснꙋ́ю Сп҃са):*[^608]  

@@ -5,7 +5,7 @@
 [^643]: Ode 3 of the Psalter: the Third Biblical Canticle (Prayer of Hannah, 1 Kings [1 Sam.] 2:1–10).
 [^644]: Ode 3 Heirmos of the Triodion Canon by St. Joseph: "The desert has blossomed..." (Процвѣла есть пустыня), Tone 2; Greek: Ἐξήνθησεν ἡ ἔρημος.
 [^645]: Ode 8 Heirmos of the Triodion Canon by St. Joseph: "The furnace of fire..." (Пещь огненная), Tone 2; Greek: Ἡ κάμινος ποτέ.
-[^646]: Ode 9 Heirmos of the Triodion Canon by St. Joseph: "Of the unoriginate Begetter..." (Безначална родителя), Tone 2; Greek: Ἀνάρχου Γεννήторос.
+[^646]: Ode 9 Heirmos of the Triodion Canon by St. Joseph: "Of the unoriginate Begetter..." (Безначална родителя), Tone 2; Greek: Ἀνάρχου Γεννήτορος.
 [^647]: Ode 9 Heirmos of the Triodion Canon by St. Theodore the Studite: "Pure and most pure..." (Чистую и пречистую), Tone 2; Greek: Τὴν ἁγνὴν καὶ ἄχραντον.
 [^648]: The Hymn to the Theotokos: "It is truly meet to bless thee, the Mother of God" (Достойно есть яко воистинну блажити тя Богородицу).
 [^649]: LXX Ps. 89:14–16 (MT Ps. 90:14–16). Matins Aposticha 1st Stichos.
@@ -33,6 +33,6 @@
 [^671]: LXX Ps. 129:6b (MT Ps. 130:6b), appointed for the 6th Sticheron at "Lord, I have cried."
 [^672]: Kyivan rubric detailing the doxasticon allocation between the Triodion and Menaion on Lenten weekdays.
 [^673]: Ceremonial rubric for the Vespers Entrance at the Presanctified Liturgy: censer and candle alone unless a Festal Gospel is appointed.
-[^674]: The ancient Christian evening hymn "O Gladsome Radiance" (Φῶς ἱлаρόν / Свѣте тихій).
+[^674]: The ancient Christian evening hymn "O Gladsome Radiance" (Φῶς ἱλαρόν / Свѣте тихій).
 [^675]: LXX Ps. 11:8 (MT Ps. 12:7), the Evening Prokeimenon preceding the Old Testament readings.
 [^676]: LXX Ps. 11:2 (MT Ps. 12:1), Stichos of the Evening Prokeimenon.

@@ -33,7 +33,7 @@
 *Seeking the hidden Treasure, the lawless Herod slew the innocent infants today, and Rachel was inconsolable, seeing their unjust slaughter and untimely death, over whom she wept, aching in womb; but now she rejoices, beholding them in Abraham's bosom.*
 *Seeking the ageless King Who had come under time, the lawless king, not finding Him to kill Him, reaped an ineffable multitude of infants; whom he made martyrs without intending it, and citizens of the Kingdom on high, forever reproaching his extreme madness.*
 *When Thou wast born of the Virgin, O pre-eternal Lord, and for goodness' sake didst become an infant, a choir of infants was brought unto Thee by martyr's blood, having most righteously illumined their unclouded souls; whom Thou didst settle in the ever-living mansions, reproaching Herod's malice and most cruel madness.*
-*Stichera of the Venerable Father, Tone and Podoben the same:*
+*Stichera of the Venerable Father, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 *An image of temperance...*
 
 === LEAF p373 ===
@@ -71,7 +71,7 @@
 *...bringing them gratefully, guided from among the Gentiles unto worshipping Him. Glory, and now and ever, the same.*
 *After the 2nd Kathisma, Sessional Hymn, Tone 8. Podoben: "He is risen from the dead" (Воскре́се и҆з̾ ме́ртвыхъ):*
 *The angelic host cries aloud the good song, having renewed the pastoral order, saying: Sing divine praise, ye that govern the sheep; cry aloud, singing: For Christ the Lord is born, Who was well pleased to save the human race as God!*
-*Glory, and now and ever, the same Podoben:*
+*Glory, and now and ever, the same Podoben (Подо́бенъ то́йже):*
 *A most glorious mystery is this, O faithful: God was born of the Virgin as He knows; the angelic ranks, marveling at His condescension, cry aloud, singing: For Christ the Lord is born, Who was well pleased to save the human race as God!*
 *Canon of the Feast, on 6; and of the Saints, two canons, on 8. Canon of Cyr Cosmas, Tone 1. Ode 1. Heirmos:*[^642]
 *Christ is born, give ye glory! Christ from the heavens, meet ye Him! Christ on earth, be ye lifted up! Sing unto the Lord, all the earth; and in gladness sing, O ye people, for He is glorified!*

@@ -101,7 +101,7 @@ In thee, O father, was preserved with certainty that which is according to the i
 Rejoice, O Virgin Birthgiver of God, full of grace; for from thee hath shone forth the Sun of righteousness, Christ our God, Who enlightens those in darkness. Rejoice thou also, O righteous elder, who received in thine arms the Deliverer of our souls, Who grants us resurrection.
 
 *At Matins, at "God is the Lord," the Troparion of the Feast, twice; Glory..., of the Saint; Both now..., of the Feast.*
-*After the 1st Kathisma, Sessional Hymn, Tone 1, Podoben:*
+*After the 1st Kathisma, Sessional Hymn, Tone 1, Podoben (Подо́бенъ):*
 
 === LEAF p55 ===
 *Podoben: "The angelic choir" (Ли́къ а҆́гглскїй):*

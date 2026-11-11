@@ -143,7 +143,7 @@ Come, ye earthborn, today let us honor with hymns the robe of the maiden of God 
 Thou alone hast renewed both nature and time, O Mother of God; for incorrupt is thy childbearing, and incorrupt also is the robe wherewith thou coverest thy city, wherewith thou upholdest the scepters of piety.
 
 *At the Praises, stichera on 4.*
-*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кw до́блѧ):*
+*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 The shrine containing thy robe, O most pure one, is known every day by thy servants as an ark of sanctification, and a sacred defense, and glory and praise, and a fountain of healings. Where having sacredly gathered together today, we sing of thy many
 
 === LEAF p25 ===
@@ -167,7 +167,7 @@ Having cleansed our senses and mind, we also keep festival with the angels, radi
 
 *July 3: The Holy Martyr Hyacinth.*[^20]
 
-*Stichera, Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*Stichera, Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 A cornerstone has been laid, chosen in Zion, and an immovable foundation, upon which the ranks of martyrs were built, with whom the victor Hyacinth shines with heavenly brightness. O Thine ineffable compassion, O Master, through which, O Christ, save our souls, as Thou alone art compassionate!
 
 Running as a stone of jacinth[^21] through the radiant city of God,
@@ -328,7 +328,7 @@ Having found the Mother of the Lord, the cause of great praises, with honey-flow
 We know thee, O father, as a pillar of Orthodoxy, an image of chastity, and a pattern of meekness, and as a divine hymnographer who enlightens Christ's Church, O sacred initiate Andrew; therefore we celebrate thy festival.
 
 *Other stichera of Saint Martha, on 3.*
-*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кw до́блѧ):*
+*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 Unto painful abstinence, unto manly struggles, unto warfare against the enemy who tripped up human nature, thou didst separate thyself, not sparing the flesh through fasts and tears for the sake of divine love; therefore thou didst accomplish divine ascetical struggles, having humbled the mind of the adversary, O honored and most glorious Martha! *(Twice)*
 
 Thou didst loathe temporal things, and didst flee from the love of corruptible things; and thou didst desire the heavenly lot, eternal and worthy of the righteous, incorrupt, O pure one, and unceasing life. Therefore in faith performing thy radiant and light-bearing memory, we honor thee with divine hymns, O glorious Martha!

@@ -25,7 +25,7 @@ Having acquired an angelic life and a humble mind in Christ, O father, thou wast
 
 The radiant brightness of the Father settled in thee, O pure one, and being born in the flesh, He enlightened the world, and delivered it from the darkness of polytheism; therefore we sing thy praise.
 
-*Kontakion, Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyisya):*
+*Kontakion, Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*
 
 Having been inflamed with love for the highest, thou didst prefer the harshness of the wilderness of Jordan above all the sweets of the world; therefore the wild beast was obedient unto thee even unto death, O father, dutifully serving thee, and piteously died upon thy tomb,[^20] God having thus glorified thee: beseeching Him, remember us also, O father Gerasimus.
 
@@ -88,7 +88,7 @@ Bearing Emmanuel in thy hands as an infant, O pure one full of God's grace, thou
 *In the same month, on the 5th day: Holy Martyr Conon of Isauria.*  
 *At "Lord, I have cried," stichera, Tone 8:*
 
-*Tone 8, Podoben: "O Marvelous Wonder" (O preslavnago chudese):*
+*Tone 8, Podoben: "O Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 O undecieving and divine dawn, light-bearing radiance of the commandments of God, and most excellent passion-bearer of the martyrs, ever-memorable one, thou didst drive away the mist of darkness, as a light-bearing star, O blessed one. O good offering, and undefiled sacrifice! Therefore unceasingly pray unto Christ to save our souls.
 
@@ -96,11 +96,11 @@ Preacher of truth, shown to be a sword-bearing champion against impiety, by thy 
 
 O good change by the right hand of the Most High, which the Lord of the fathers wrought in thee, O all-glorious passion-bearer! From an unbelieving root, thou wast shown to be a fair-flowering fruit, O all-blessed and all-praised Conon; and having Christ as Thine excellent commander, thou didst mightily conquer the legions of demons.
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rejoice, vehicle of the divine Light, candlestick of the Star, and tabernacle of sanctification! Light hath shone forth unto us from thy most pure womb, enlightening the ends of the world, and sanctifying them by its grace; rejoice, beginning of salvation, all-pure one; rejoice, fearful hearing and speech unto those who hope in thee.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Thee nailed upon the Cross, O Jesus, and voluntarily accepting the passions, the Virgin and Thy Mother, O Master, cried aloud weeping: Woe is me, sweet Child! How dost Thou endure wounds unjustly, O Physician Who didst heal human infirmity, and didst deliver all from corruption by Thy tender mercy?
 
@@ -142,7 +142,7 @@ Having become a temple of God, by divine invocations thou didst cast down the id
 
 One of the Holy Trinity is born of thee, O all-pure one, beyond mind and word, renewing earthly things that were enslaved to passions by the foul counsel of the enemy.
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 
 Armed with the whole armor of Christ, thou wast shown to be the total destroyer of demons, and wast an unbroken peace-offering, possessing the unassailable pillar of faith, and thou liftest us up to the height of thy wonders; therefore thou hast worthily received crowns of victory from God, O much-suffering martyr Conon. Therefore we cry aloud unto thee: Pray unto Christ God to grant remission of transgressions unto those who honor thy holy memory with love.
 
@@ -272,7 +272,7 @@ With thy light illumine me, O Virgin, who am ever held fast by the night of desp
 *In the same month, on the 6th day: The 42 Holy Martyrs of Amorium.*[^26]  
 *At "Lord, I have cried," stichera, Tone 4:*
 
-*Tone 4, Podoben: "Being Called from on High" (Zvannyi svyshe):*
+*Tone 4, Podoben: "Being Called from on High" (Зва́нный свы́ше):*
 
 Having appeared in the latter times, O victorious martyrs, unwaning stars in the venerable firmament of the Church: by the brightness of your suffering ye enlightened the whole world beneath the sun, and destroyed the darkness of delusion, O all-praised ones; and now ye have passed over unto eternal radiance. Therefore in faith we celebrate your light-bearing and sacred suffering, enriched by your good intercession.
 
@@ -339,10 +339,10 @@ Having blossomed like unerring stars, pillars of the holy Church, upon the firma
 
 Being incarnate in thy womb as God and man for the sake of the better, He Who alone is the Lover of mankind saves man from the gates of death, O most pure Mother of God, only all-hymned one.
 
-*Kontakion, Tone 4, Podoben: "Thou Who Wast Raised Up" (Voznesyisya):*
+*Kontakion, Tone 4, Podoben: "Thou Who Wast Raised Up" (Вознесы́йсѧ):*
 
 Having contended on earth for Christ's sake, ye appeared as pious crown-bearers, and received the heavens to dwell in joy; for having cast down every craft of the enemy by the pains and blood of your wounds, ye ever grant remission of sins from on high unto those who praise you.
 
-*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 
 Grievously were ye bound by the enemies, and shut up in prison for many seasons, being preserved by faith ye remained unhurt; and when severed by the sword from your bodies, O holy ones, ye were manifestly bound with divine longing. Therefore, like luminaries ye shone forth in the world, enlightening all by the grace of the Spirit, O blessed passion-bearers: pray unto Christ God to grant remission of sins unto those who feast with love...

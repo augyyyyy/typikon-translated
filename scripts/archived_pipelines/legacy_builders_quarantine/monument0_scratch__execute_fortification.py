@@ -12,7 +12,7 @@ def main():
 
 ## Preamble & Global Rules Inheritance
 This workspace inherits and enforces all compliance protocols, API configurations, and general code safety standards defined in the parent root:
-* [GLOBAL_SYSTEM_RULES.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_SYSTEM_RULES.md)
+* [GLOBAL_SYSTEM_RULES.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/GLOBAL_SYSTEM_RULES.md)
 
 You must strictly comply with the Honesty Protocol, the Evidence Gate, Banned Phrases, UTF-8 Enforcement, Dynamic Path Resolution, and DeepSeek V4 API Orchestration rules defined therein.
 
@@ -88,7 +88,7 @@ After modifying files or completing audits:
 1. Run `git diff --stat` to verify changes.
 2. Run a dry run of the verifiers if they were modified to ensure API connection and key resolution functions.
 3. Update the global notice board at `GLOBAL_ECOSYSTEM_STATE.md` if shipping a new translation segment.
-4. Copy finalized deliverables to the Hub's inbox: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
+4. Copy finalized deliverables to the Hub's inbox: `C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
 5. Write a `handoff_note.md` in the Inbox detailing what was translated and any terminology considerations.
 """
     with open(agents_path, 'w', encoding='utf-8') as f:

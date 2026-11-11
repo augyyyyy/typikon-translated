@@ -167,10 +167,10 @@ Behold, the Pure One, beyond mind and word, gives birth unto the Son of God, Who
 *Sticheron:*
 Without leaving the Father's bosom, Thou hast appeared as man; and held by maternal hands, Thou hast called the Magi from Persia by a star, who worship Thee as King and God. By the breath of Thy lips Thou shalt destroy the impious pagan princes, and shalt shepherd Thy chosen people!
 
-*Glory, in the same Tone and Podoben:*
+*Glory, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 The Word Who is consubstantial with the Father, having received a mingling of pure blood from virginity, is fashioned, and grows by the space of pregnancy; and moreover He is born in a cave. Great is the awe! Angels sing praises, and men clap their hands: Christ, the King of Israel, comes!
 
-*Both now, in the same Tone and Podoben:*
+*Both now, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 The prophecies of the sorcerer Balaam receive fulfillment; for illumined by Persian wonders and by the radiance of an unusual star, being illumined by Christ, the never-setting Sun, they denote with gifts the incarnate God and King in Bethlehem, and the voluntary dead One.
 
 *At the Aposticha, Stichera, Tone 2, Podoben: "O house of Ephratha" (До́ме є҆ѵфра́ѳовъ):*
@@ -187,7 +187,7 @@ That He may fulfill the prophetic utterances, the Lord is born in Bethlehem and 
 *Sticheron:*
 Anoint with myrrh, O Bethlehem, the holy manger; for within thee the Master is about to extend the rays of His Godhead!
 
-*Glory, both now, in the same Podoben:*
+*Glory, both now, in the same Podoben (Подо́бенъ то́йже):*
 Come, ye earthborn, let us unceasingly hymn the Virgin, Mary the Theotokos, with one accord; for from her Christ is born!
 
 *On the 22nd Day of the Same Month. Forefeast of the Nativity of Christ: And the Holy Great Martyr Anastasia, Pharmakolytria, which is the Deliverer from Bonds:*[^231]

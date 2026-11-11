@@ -40,7 +40,7 @@
 
 48.    Εἰ τύχοι ἄρχεσθαι τὸ Τριῴδιον τῇ ΙΔ΄ τοῦ μηνός, ἡ Ἀπόδοσις τῆς ἑορτῆς προψάλλεται τῇ ΙΓ΄ ἤτοι τῷ Σαββάτῳ, Ἀπόστολος καὶ Εὐαγγέλιον λέγεται τοῦ Σαββάτου μετὰ τὰ Φῶτα, ἡ δὲ τῆς Κυριακῆς τοῦ Τελώνου καὶ Φαρισαίου Ἀκολουθία μετὰ τῶν Ἀναστασίμων ψάλλεται ὡς εἴθισται (ὅρα σημ. β΄ ἐν περιπτώσει Β΄ § 16.)
 
-### Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου.
+**Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου.**
 
 Α΄)    Ἐὰν παρέλθῃ ἡ μετὰ τὰ Φῶτα Κυριακὴ καὶ μένῃ μία μόνη μέχρι τῆς Α΄ Κυριακῆς τοῦ Τριῳδίου, τῇ Κυριακῇ ταύτῃ Ἀπόστολον λέγομεν τῆς ΛΒ΄ Κυριακῆς καὶ Εὐαγγέλιον τοῦ Ζακχαίου.
 
@@ -88,7 +88,7 @@
 
 Ε΄)    Μετὰ τὴν τῆς ἑορτῆς τῶν Θεοφανείων Ἀπόδοσιν, τῇ Α΄ τυχούσῃ Κυριακῇ ἢ ἑορτῇ, ἄρχονται αἱ Καταβασίαι τῆς Ὑπαπαντῆς *Χέρσον ἀβυσσοτόκον*, καὶ Κοντάκιον *Ὁ μήτραν παρθενικήν*.
 
-### Τῇ ΙΖ΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου.
+**Τῇ ΙΖ΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Ὁσίου ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία αὐτοῦ ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ.
 
@@ -108,7 +108,7 @@
 
 5.    After the Apodosis of the Feast of Theophany, on the first occurring Sunday or feast, we begin the Katavasiai of the Meeting of the Lord: **"The sun once shone upon the dry ground"** (*Χέρσον ἀβυσσοτόκον*), and the Kontakion: **"Thou Who didst sanctify the virginal womb by Thy birth"** (*Ὁ μήτραν παρθενικὴν ἁγιάσας τῷ τόκῳ σου*).
 
-### January 17: Our Righteous Father Anthony the Great
+**January 17: Our Righteous Father Anthony the Great**
 
 1.    If the commemoration of the Righteous Saint falls on any day except Sunday: his office is chanted as appointed in the Menaion.
 
@@ -162,7 +162,7 @@
 
 Φαρισαίου μέχρι τοῦ Σαββάτου τῆς αὐτῆς ἑβδομάδος. (Ὅρα τὸν τοῦ Ἑορτοδρομίου Πίνακα).
 
-### Τῇ ΙΗ΄. Τῶν ἐν ἁγίοις πατέρων ἡμῶν Ἀθανασίου καὶ Κυρίλλου Πατριαρχῶν Ἀλεξανδρείας.
+**Τῇ ΙΗ΄. Τῶν ἐν ἁγίοις πατέρων ἡμῶν Ἀθανασίου καὶ Κυρίλλου Πατριαρχῶν Ἀλεξανδρείας.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῶν Ἁγίων ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία αὐτῶν ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ.
 
@@ -182,7 +182,7 @@
 
 ...until Saturday of that week (see the Paschal Tables [Heortodromion]).
 
-### January 18: Our Fathers among the Saints Athanasius and Cyril, Patriarchs of Alexandria
+**January 18: Our Fathers among the Saints Athanasius and Cyril, Patriarchs of Alexandria**
 
 1.    If the commemoration of the Saints falls on any day except Sunday: their office is chanted as appointed in the Menaion.
 

@@ -114,7 +114,7 @@ Overlook my lawless deeds, O Lord Who wast born of the Virgin, and cleanse my he
 
 Having taken up the Cross of Christ as an invincible weapon, the holy martyrs abolished all the power of the devil, and received heavenly crowns, becoming a wall for us as they pray on our behalf. *Glory, both now. Theotokion:*
 
-Save Thy servants from perils, O Virgin Theotokos, for all...
+Save thy servants from perils, O Virgin Theotokos, for all...
 
 **[Right Page — Fol. 223r]**
 

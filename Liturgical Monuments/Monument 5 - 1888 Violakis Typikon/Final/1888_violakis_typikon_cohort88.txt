@@ -82,13 +82,13 @@
 
 ---
 
-### Case 1: If the Consecration of a Church Falls on the Commemoration of a Celebrated Saint
+**Case 1: If the Consecration of a Church Falls on the Commemoration of a Celebrated Saint**
 
 If the Consecration of a Church takes place on the commemoration of a celebrated Saint, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Consecration, 3 of the celebrated Saint, and 3 of the Patron Saint of the church being consecrated; **"Glory..."** (*Δόξα*) of the celebrated Saint; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Old Testament Readings: two of the Consecration and one of the celebrated Saint. At the Aposticha: Stichera of the celebrated Saint; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Then the Dismissal Troparia: that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration.
 
 At Matins: the Kathismata of the celebrated Saint, and those of the Consecration instead of Theotokia. Canons: the Canon of the Consecration, that of the celebrated Saint, and that of the Patron Saint of the church, each Ode with 4 Troparia [totaling 12]. Exapostilaria: that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration. At the Praises (*Ainoi*): 8 Stichera: 2 of the Consecration, 3 of the celebrated Saint, and 3 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Patron Saint of the church (unless it be the feast of the Apostles, or of the Forerunner, or of the Evangelists, or of any solemnly celebrated saint, in which case the Doxastikon is of the celebrated Saint); **"Now and forever..."** (*Καὶ νῦν*) of the Consecration; the Great Doxology, and the Dismissal Troparion of the Consecration.
 
-### Case 2: If the Consecration Takes Place on a Sunday
+**Case 2: If the Consecration Takes Place on a Sunday**
 
 If the Consecration takes place on a Sunday, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Resurrection, 3 of the Consecration...[^497]
 
@@ -125,13 +125,13 @@ If the Consecration takes place on a Sunday, at Vespers, at **"Lord, I have crie
 
 At Matins: the Resurrection Kathismata, and those of the Consecration in place of the Theotokia. Canons: the Resurrection Canon, that of the Consecration, and that of the Patron Saint of the church. Exapostilaria: the Sunday Resurrection Exapostilarion, that of the Patron Saint of the church, and that of the Consecration. At the Praises (*Ainoi*): 8 Stichera: 4 of the Resurrection and 4 of the Consecration; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Sunday Troparion: **"Today salvation is come unto the world..."** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν*).
 
-### Case 3: If the Consecration Takes Place on a Sunday with the Commemoration of a Celebrated Saint
+**Case 3: If the Consecration Takes Place on a Sunday with the Commemoration of a Celebrated Saint**
 
 If the Consecration takes place on a Sunday with the commemoration of a celebrated Saint, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 3 of the Resurrection, 2 of the Consecration, 3 of the celebrated Saint, and 2 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the celebrated Saint; **"Now and forever..."** (*Καὶ νῦν*), the first Dogmatic Theotokion of the Tone of the week. Two Readings of the Consecration and one of the celebrated Saint. At the Aposticha: Resurrection Stichera; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Dismissal Troparia: the Sunday Resurrection Troparion, that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration.
 
 At Matins: the Resurrection Kathismata, those of the celebrated Saint, and those of the Consecration in place of the Theotokia. Canons: the Resurrection Canon, that of the Consecration, and that of the celebrated Saint. Exapostilaria: the Sunday Resurrection Exapostilarion, that of the celebrated Saint, that of the Patron Saint of the church, and that of the Consecration. At the Praises (*Ainoi*): 8 Stichera: 3 of the Resurrection, 2 of the Consecration, and 3 of the celebrated Saint; **"Glory..."** (*Δόξα*) of the Patron Saint of the church (unless, as has been said, it be the feast of the Apostles, or of the Forerunner, or of the Evangelists, or of a solemnly celebrated saint); **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Sunday Troparion: **"Today salvation is come unto the world..."** (*Σήμερον σωτηρία...*).
 
-### Case 4: If the Consecration Takes Place on a Feast of the Mother of God (Theotokos)
+**Case 4: If the Consecration Takes Place on a Feast of the Mother of God (Theotokos)**
 
 If the Consecration takes place on a Feast of the Mother of God, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Feast, 3 of the Consecration, and 3 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration...[^498]
 
@@ -170,13 +170,13 @@ If the Consecration takes place on a Feast of the Mother of God, at Vespers, at 
 
 At Matins, and in the three poetic Kathisma seatings [Stichologies]: the Kathisma of the Feast, that of the Consecration, and again that of the Feast. Canons: the Canons of the Feast and that of the Consecration. Exapostilaria: of the Feast, that of the Consecration, that of the Patron Saint of the church, and again that of the Feast. At the Praises (*Ainoi*): 8 Stichera: 4 of the Feast, 2 of the Consecration, and 2 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Dismissal Troparion of the Feast.
 
-### Case 5: If the Consecration Takes Place on a Feast of the Lord (Despotic Feast)
+**Case 5: If the Consecration Takes Place on a Feast of the Lord (Despotic Feast)**
 
 If the Consecration takes place on a Feast of the Lord, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 8 Stichera are chanted: 6 of the Feast and 2 of the Consecration; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Two Readings of the Feast and one of the Consecration. At the Aposticha: Stichera of the Feast; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Feast. Dismissal Troparia: the Troparion of the Feast, that of the Consecration, that of the Patron Saint of the church, and again that of the Feast.
 
 At Matins, and in the three poetic Kathisma seatings [Stichologies]: the Kathisma of the Feast, that of the Consecration, and again that of the Feast. Canons: the Canons of the Feast and that of the Consecration. Exapostilaria: of the Feast, that of the Consecration, that of the Patron Saint of the church, and again that of the Feast. At the Praises (*Ainoi*): 8 Stichera: 4 of the Feast, 2 of the Consecration, and 2 of the Patron Saint of the church; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Great Doxology, and the Dismissal Troparion of the Feast.
 
-### Case 6: If the Consecration Takes Place on a Sunday with a Feast of the Mother of God (Theotokos)
+**Case 6: If the Consecration Takes Place on a Sunday with a Feast of the Mother of God (Theotokos)**
 
 If the Consecration takes place on a Sunday with a Feast of the Theotokos, at Vespers, at **"Lord, I have cried"** (*Κύριε, ἐκέκραξα*), 10 Stichera are chanted: 4 of the Resurrection, 4 of the Feast, and 2 of the Consecration; **"Glory..."** (*Δόξα*) of the Feast; **"Now and forever..."** (*Καὶ νῦν*) of the Consecration. Two Readings of the Feast and one of the Consecration. At the Aposticha: Resurrection Stichera; **"Glory..."** (*Δόξα*) of the Patron Saint of the church; **"Now and forever..."** (*Καὶ νῦν*) of the Feast. Dismissal Troparia: the Sunday Resurrection Troparion, that of the Feast, that of the Patron Saint of the church, and that of the Consecration.
 

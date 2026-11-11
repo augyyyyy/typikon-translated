@@ -200,7 +200,7 @@ That Thou mightest destroy the curse of Adam, Thou didst accept our flesh withou
 
 The serpent of old enclosed Eden through a tree, but the Tree of the Cross opens it unto all that desire to be cleansed through fasting and tears; come, therefore, beholding it set forth, let us the faithful fall down before it with fear, crying aloud: Open the heavenly gates, O Cross, unto them that love thee!
 
-*Glory... Both now... Same Podoben:*  
+*Glory... Both now... Same Podoben (Подо́бенъ то́йже):*  
 When She who without seed bare Thee, O Word of God, beheld Thee fastened with nails unto the Cross, she cried aloud weeping: Woe is me, O my sweetest Child! What is this Thy humility, O my God? How dost Thou Who art impassible suffer passion by an unjust judgment? I hymn Thy fearful and utmost condescension!
 
 *At the Aposticha, stichera, Tone 2. Podoben: "O house of Ephratha" (До́ме Е҆ѵфра́ѳовъ):*[^662]  

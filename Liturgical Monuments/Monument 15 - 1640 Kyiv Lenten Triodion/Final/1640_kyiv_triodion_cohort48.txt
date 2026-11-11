@@ -27,7 +27,7 @@ I have sinned! To confess unto Thee, O Lord, prodigal that I am, I dare not lift
 *Prokeimenon, Psalm 45, Tone 4:* The Lord of hosts is with us, the God of Jacob is our helper: *Verse:* God is our refuge and strength: (Ps. 45:8, 2 LXX [46:7, 1]).
 
 *Reading from the Prophecy of Isaiah (Chapter 9:9–14 LXX):*[^1289]
-Thus saith the Lord: All the people of Ephraim shall know, and they that dwell in Samaria, in insolence and a proud heart, saying:
+Thus says the Lord: All the people of Ephraim shall know, and they that dwell in Samaria, in insolence and a proud heart, saying:
 The bricks are fallen down, but come, let us hew stones, and cut down sycamores and cedars, and build for ourselves a tower!
 And God shall dash down them that rise up against Mount Zion, and against Jerusalem upon them, and shall scatter the enemies of Judah:
 Syria from the rising of the sun, and the Greeks from the setting of the sun, who devour My people with open mouth.
@@ -91,7 +91,7 @@ But they that sin against me act impiously against their own souls, and they tha
 Wisdom hath built a house for herself, and set up seven pillars. (Prov. 9:1 LXX).
 She hath killed her sacrifices, and mingled her wine in a bowl, and prepared her table. (Prov. 9:2 LXX).
 She hath sent forth her servants, summoning with a loud proclamation to the bowl, saying: (Prov. 9:3 LXX).
-Whosoever is simple, let him turn aside unto me; and to them that want understanding she saith: (Prov. 9:4 LXX).
+Whosoever is simple, let him turn aside unto me; and to them that want understanding she says: (Prov. 9:4 LXX).
 Come, eat of my bread, and drink wine which I have mingled for you! (Prov. 9:5 LXX).
 Leave folly, and ye shall live [reign for ever, and seek wisdom that ye may live];[^1293] and correct knowledge with understanding. (Prov. 9:6 LXX).
 He that reproves evil men shall get to himself dishonor, and he that rebukes an ungodly man shall defame himself: [and reproofs to the ungodly are wounds to him].[^1294] (Prov. 9:7 LXX).

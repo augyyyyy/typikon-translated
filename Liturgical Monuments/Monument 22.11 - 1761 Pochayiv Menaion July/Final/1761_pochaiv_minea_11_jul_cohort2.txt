@@ -3,7 +3,7 @@ Having a fountain of healings, O holy unmercenaries, you bestow healing upon all
 
 *Now and ever... Theotokion:*
 *If it be Wednesday or Friday, say the Stavrotheotokion, Tone 4:*
-*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кw до́блѧ):*
+*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 Seeing Christ, the Lover of mankind, being crucified, and His side pierced with a spear, the most pure one cried aloud, weeping: What is this, O my Son? What have the ungrateful people rendered unto Thee in return for the good things Thou didst do for them? And art Thou striving to leave me childless, O most beloved One? I marvel, O compassionate One, at Thy voluntary crucifixion!
 
 *At the Aposticha of the Octoechos.*
@@ -11,7 +11,7 @@ Seeing Christ, the Lover of mankind, being crucified, and His side pierced with 
 Who will not marvel? Who will not glorify? Who will not faithfully sing of the wonders of the wise and most glorious unmercenaries? How even after their holy departure they richly bestow healings upon all who run unto them with faith, and their precious and holy relics pour forth the grace of healings! O holy pair! O honored heads! O wisdom and glory of the grace given unto you from God! Therefore with hymns we cry unto God the Benefactor, Who showed them forth for the healing of our souls and bodies.
 
 *Now and ever... Theotokion or Stavrotheotokion:*
-*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 The undefiled Heifer, seeing the Young Bull willingly nailed upon the Tree, weeping piteously, cried aloud: Woe is me, most beloved Child! What has the ungrateful Jewish assembly rendered unto Thee, wishing to make me childless of Thee, O all-beloved One?
 
 *At the Liturgy. The Beatitudes of the Octoechos on 4; and from the canon of the saints, Ode 3, on 4.*

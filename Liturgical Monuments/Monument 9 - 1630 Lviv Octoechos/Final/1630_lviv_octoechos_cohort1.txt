@@ -1,20 +1,20 @@
 === LEAF p1 ===
 
-#### [Front Cover — Leather Binding]
+**[Front Cover — Leather Binding]**
 [Blind-tooled brown calfskin binding over bevelled wooden boards with concentric decorative rolls and geometric strapwork. In the central oval mandorla medallion is embossed the Crucifixion of our Lord Jesus Christ, with the Most Holy Mother of God and the Holy Apostle and Evangelist John the Theologian standing at the foot of the Cross. Three brass clasp fittings on leather straps are preserved along the fore-edge.][^1]
 
 === LEAF p2 ===
 
-#### [Left Page — Front Pastedown]
+**[Left Page — Front Pastedown]**
 [Upper left corner, modern library classification and accession marks in ink and pencil:][^2]
 LNBU
 2124
 SV-97
 
-[Blank restoration endpaper]
+*(Vacat — Blank restoration endpaper)*
 
-#### [Right Page — Flyleaf with Mounted Fragments]
-##### Column A
+**[Right Page — Flyleaf with Mounted Fragments]**
+**Column A**
 [Mounted printed fragments of an early Cyrillic liturgical edition:][^3]
 
 [Fragment 1, upper text strip:]
@@ -29,7 +29,7 @@ SV-97
 ...hath shown...
 ...forth.
 
-##### Column B
+**Column B**
 [Fragment 2, right portion:]
 *At Vespers, Stichera:*
 For Thy life...
@@ -57,8 +57,8 @@ sighing
 
 === LEAF p3 ===
 
-#### [Left Page — Flyleaf Verso with Fragments]
-##### Column A
+**[Left Page — Flyleaf Verso with Fragments]**
+**Column A**
 [Mounted printed fragments of Church Slavonic Octoechos printing:][^5]
 
 [Fragment 1, left strip:]
@@ -91,7 +91,7 @@ unto us...
 and not...
 now...
 
-##### Column B
+**Column B**
 [Fragment 3, upper right:]
 *...Ode... [Dominion...]*
 *Antiphon 2:*
@@ -112,8 +112,8 @@ The right wheel...
 Having resurrected in the name...
 our, the Savior of our soul...
 
-#### [Right Page — Flyleaf Recto with Inscriptions]
-##### Column A
+**[Right Page — Flyleaf Recto with Inscriptions]**
+**Column A**
 [Accession stamp and circled shelfmark at upper right:][^6]
 LNBU
 (2194)
@@ -126,7 +126,7 @@ Of the Church of Borkhiv
 [Formal calligraphic title in shaded display lettering:]
 OKTOICH
 
-##### Column B
+**Column B**
 [Library and chronological jottings:]
 № Oktoich
 Octoechos
@@ -141,15 +141,15 @@ Kaniwczyk [signed with his own hand]
 
 === LEAF p4 ===
 
-#### [Left Page — Blank Flyleaf Verso]
+**[Left Page — Blank Flyleaf Verso]**
 [Flyleaf verso. Chronological calculation written in pencil at left center:][^8]
 1964
 1630
 ----
 334
 
-#### [Right Page — Title Page (1630 Print)]
-##### Column A
+**[Right Page — Title Page (1630 Print)]**
+**Column A**
 [Title page printed in black and vermilion within an elaborate woodcut architectural frame featuring an arch supported by decorated pilasters, with evangelists and floral arabesques:][^9]
 
 **OCTOECHOS,**
@@ -160,7 +160,7 @@ The work of our venerable father
 And other God-inspired
 Holy Fathers.
 
-##### Column B
+**Column B**
 By the help of Divine grace from on high: and with the blessing of the most holy Lord and Father, the Archbishop of Constantinople, Ecumenical Patriarch.
 And through the zealous diligence and expenditure of the Church Brotherhood, at the temple of the all-honorable Dormition of the Most Holy Ever-Virgin Mary, depicted in their Printing-House.
 
@@ -175,14 +175,14 @@ in the month of December, the 15th day.
 
 === LEAF p5 ===
 
-#### [Left Page — Coat of Arms and Epigram]
-##### Column A
+**[Left Page — Coat of Arms and Epigram]**
+**Column A**
 [Woodcut heraldic achievement of the Mohyla family, Voivodes of Moldavia, surrounded by the initials P-B-M-M-K-P:][^10]
 
 **UPON THE MOST RENOWNED CREST OF THEIR ILLUSTRIOUS MERCY,**
 **THE MOHYLAS, VOIVODES OF MOLDAVIA.**
 
-##### Column B
+**Column B**
 [Six-line heraldic epigram in Ruthenian verse:]
 These snowy emblems they possess as their crest,
 Which from of old have valiantly humbled their adversaries.
@@ -193,8 +193,8 @@ And in the eternal Crown and in heaven do receive it.
 
 [Woodcut typographic headband]
 
-#### [Right Page — Folio 1r (Manuscript replacement: Weekday Midnight Office)]
-##### Column A
+**[Right Page — Folio 1r (Manuscript replacement: Weekday Midnight Office)]**
+**Column A**
 **THE WEEKDAY MIDNIGHT OFFICE**[^11]
 
 [Opening blessings and prayers damaged at outer margin: *Blessed is our God... Glory to Thee, our God, glory to Thee. O Heavenly King... Trisagion through Our Father... Lord, have mercy (12). Glory... Both now... Come, let us worship (3). Psalm 50: Have mercy on me, O God... Psalm 118: Blessed are the blameless in the way...*]
@@ -208,7 +208,7 @@ And in the eternal Crown and in heaven do receive it.
 ...[have mercy] on me, for I have sought
 ...[Thy commandments]...
 
-##### Column B
+**Column B**
 ...and now. As Thou art to come,
 enlighten the eyes of my heart, and re-
 member me; hear the midnight prayer of Thy word,
@@ -225,8 +225,8 @@ and of the Holy Spirit, now and ever and unto ages of ages.
 
 === LEAF p6 ===
 
-#### [Left Page — Folio 1v (Manuscript replacement: Weekday Midnight Office)]
-##### Column A
+**[Left Page — Folio 1v (Manuscript replacement: Weekday Midnight Office)]**
+**Column A**
 [Continuation of the Weekday Midnight Office:][^12]
 ...grant rest...
 ...with the saints give rest, O Christ, unto the souls of Thy servants, where there is neither pain, nor sorrow, nor sighing, but life everlasting...
@@ -238,15 +238,15 @@ and of the Holy Spirit, now and ever and unto ages of ages.
 *Prayer of Saint Eustratius:*
 I magnify Thee with great praises, O Lord, for Thou hast looked upon my lowliness, and hast not shut me up into the hands of the enemies, but hast saved my soul from afflictions. And now, O Master, let Thy hand cover me...
 
-##### Column B
+**Column B**
 *Prayer of Saint Mardarios:*
 O Master God, Father Almighty, O Lord, Only-Begotten Son, Jesus Christ, and Holy Spirit, one Godhead, one Power: have mercy on me, a sinner, and by the judgments which Thou knowest, save me, Thine unworthy servant; for Thou art blessed unto ages of ages. Amen.
 *Mutual Forgiveness Rubric:*
 Bless, holy fathers, and forgive me, a sinner...
 May the Lord forgive you...
 
-#### [Right Page — Dedicatory Preface to Petro Mohyla]
-##### Column A
+**[Right Page — Dedicatory Preface to Petro Mohyla]**
+**Column A**
 [Woodcut headpiece depicting Christ teaching the Apostles][^13]
 
 **UNTO THE MOST VENERABLE IN CHRIST**
@@ -257,19 +257,19 @@ Great Archimandrite of the Holy, Great, and Wonder-Working
 **LAVRA OF THE CAVES OF KYIV.**
 Unto our gracious Lord and Benefactor.
 
-##### Column B
+**Column B**
 A true proverb it is, most illustrious and gracious Lord, our Father and Pastor, that beneficence is a golden chain and fetter whereby the human soul is secretly bound and drawn: this we ourselves have manifestly experienced. For it is evident unto the whole world what generous and illustrious benefits our Lviv Brotherhood Church hath received from Their Mercies, the illustrious rulers of Moldo-Wallachia, the renowned Mohylas, ancestors of Your Mercy—in particular, of pious memory, His Mercy Symeon, your father, and His Mercy Jeremiah, uncle of Your Illustriousness. For by their renowned and lavish expenditure our church was exalted on high, remaining unto their eternal glory.
 
 Likewise thee also, O renowned Mohyla, our Father and Pastor, by thine outstanding noble virtues, our Brotherhood hath ever possessed as a particular benefactor, experiencing special proofs of confirmed benevolence: which have so bound, strengthened, and drawn us unto thee, that in renewing the memory of those of holy remembrance, we strive that we, well-wishers in God, might in some small part repay Their Mercies, the ancestors of Your Grace, and you their renowned descendants. Especially since virtue itself and gratitude, ready to spring forth from our hearts into open sight, demand this of us. With the memory therefore of light and grateful confession of the ancestors of Your Illustriousness, while offering yearly prayer for their souls and for the long-lasting life and health of Your Grace in this world, with fitting declarations:
 
 === LEAF p7 ===
 
-#### [Left Page — Conclusion of Preface to Petro Mohyla]
-##### Column A
+**[Left Page — Conclusion of Preface to Petro Mohyla]**
+**Column A**
 [Continuation of the Dedicatory Preface:][^14]
 our desire is ardently to honor and exalt the renowned family of Your Illustriousness with immortal renown. Striving therefore with all our strength, behold, following the renewal of our Brotherhood Printing-House, we issue under the illustrious name of Your Grace this very first book, filled with God-inspired consolations, and offer it unto thee, as a pious man unto a pious patron. For who is such a witness thereof, as that thou, being born of a most renowned family, having deservedly gained the royal favor of the Crown of Poland and the goodwill of His Royal Majesty our gracious King, and of the whole Commonwealth, and having formed bonds of friendship with the noble assembly of Senators of the Crown of Poland, didst renounce all these things out of piety, making an offering unto God the Creator, voluntarily embracing poverty and virginal chastity, lovingly receiving the angelic monastic habit? And immediately, by the providence of God and the favor of His Royal Majesty, by the common consent of both spiritual and lay fathers, thou wast crowned with high ecclesiastical dignity.
 
-##### Column B
+**Column B**
 Witness thereto is thy fervent prayer unto God the Creator, unto His most pure and most blessed Mother, and unto the beloved Eastern Church. Witness also is thy zealous and pious care for the multiplication of the praise of God, for the elevation of schools, for good order in the Monastery, and for the internal and external adornment of churches. By the rule of thy piety, not only Kyiv, but the whole Rus’ land rejoices and gives thanks unto God, that unto that holy place, for the profit and consolation of all Christendom, after holy and pious men, He hath granted so holy, pious, and watchful a Pastor.
 
 Unto thee therefore, a pious father, we offer, present, and dedicate this pious Book, and place it beneath the broad wings of our Father and Pastor. Let it fly forth under thy patronage; let it pay thee this tribute; under thy name let it go forth securely into the world. Receive therefore, most illustrious, most venerable, and gracious Father and our Pastor, this work kindly, graciously, and favorably; and deign ever to keep us, thy servants and perpetual petitioners, grateful well-wishers of Your Illustriousness, in thy gracious, fatherly love and holy prayers.
@@ -282,10 +282,10 @@ Perpetual intercessors in God
 and humble servants,
 [The Stauropegion Brotherhood of the Dormition of the Most Holy Mother of God in Lviv]
 
-#### [Right Page — Folio 1r (Manuscript replacement: Saturday Great Vespers)]
+**[Right Page — Folio 1r (Manuscript replacement: Saturday Great Vespers)]**
 # TONE 1
 
-##### Column A
+**Column A**
 **Tone One**
 **ON SATURDAY EVENING AT GREAT VESPERS**[^15]
 
@@ -296,7 +296,7 @@ Come, O ye peoples, let us sing and worship Christ, glorifying His Resurrection 
 *Other Eastern Stichera, Tone 1:*
 Rejoice, O heavens; sound the trumpet, ye foundations of the earth; cry aloud with joy, ye mountains! For behold, Emmanuel hath nailed our sins
 
-##### Column B
+**Column B**
 to the Cross, and, putting death to death, hath granted life, raising fallen Adam, the father of all, for He loves mankind.
 Him Who was willingly crucified in the flesh for our sake, Who suffered, and was buried, and rose from the dead, let us praise, saying: Confirm Thy Church in Orthodoxy, O Christ, and make peace in our life, for Thou art good and lovest mankind.
 Standing unworthy before Thy life-receiving tomb, we offer a hymn of praise unto Thine ineffable loving-kindness, O Christ our God; for Thou, being sinless, didst accept the Cross and death, that Thou mightest grant the Resurrection unto the world, as Thou lovest mankind.
@@ -304,8 +304,8 @@ Let us praise the Word, co-eternal with the Father...
 
 === LEAF p8 ===
 
-#### [Left Page — Folio 1v (Manuscript replacement: Saturday Great Vespers)]
-##### Column A
+**[Left Page — Folio 1v (Manuscript replacement: Saturday Great Vespers)]**
+**Column A**
 [Continuation of Eastern Stichera, Tone 1:][^16]
 ...Who ineffably came forth from a virginal womb, and willingly accepted the Cross and death for our sake, and rose in glory, saying: O Giver of life, O Lord, glory to Thee, the Savior of our souls!
 *Glory... Both now... Theotokion:*
@@ -314,7 +314,7 @@ Let us sing of Mary the Virgin, the glory of the whole world, who blossomed fort
 *Then: The Entrance. O Gladsome Light. The Prokeimenon of the day: The Lord is King, He is robed in majesty. But outside of a vigil, if there is an augmented litany: Vouchsafe, O Lord, and the rest.*
 *At the Aposticha, Resurrectional Sticheron, Tone 1:*
 
-##### Column B
+**Column B**
 By Thy Passion, O Christ, we have been set free from passions, and by Thy Resurrection we have been delivered from corruption: O Lord, glory to Thee!
 *Other Stichera according to the Alphabet. Tone 1:*
 *Verse: The Lord is King, He is robed in majesty.*
@@ -322,8 +322,8 @@ Let creation rejoice, let the heavens be glad; let the nations clap their hands 
 *Verse: For He hath established the world, so that it cannot be moved.*
 Being King of heaven and earth, O Incomprehensible One, Thou wast willingly crucified for the love of mankind! Hades, meeting Thee below, was embittered, and the souls of the righteous, receiving Thee, rejoiced; and Adam, seeing Thee, the Creator, in the nethermost regions, arose! O wonder! How did He Who is the Life of all taste of death? But as He willed to enlighten the world, crying out and saying: O Lord Who art risen from the dead, glory to Thee!
 
-#### [Right Page — Folio 2r (Manuscript replacement: Saturday Great Vespers & Sunday Matins)]
-##### Column A
+**[Right Page — Folio 2r (Manuscript replacement: Saturday Great Vespers & Sunday Matins)]**
+**Column A**
 [Continuation of Aposticha, Tone 1:][^17]
 *Verse: Holiness becomes Thine house, O Lord, unto length of days.*
 The Myrrh-bearing women, carrying myrrh, reached Thy tomb with haste and lamentation; and not finding Thy most pure Body, but learning from the Angel of the new and glorious miracle, they said unto the Apostles: The Lord is risen, granting great mercy unto the world!
@@ -332,7 +332,7 @@ Lo, the prophecy of Isaiah is fulfilled, for a Virgin hast thou given birth, and
 *Then: Now lettest Thou Thy servant depart... Trisagion. After Our Father... Resurrectional Troparion, Tone 1:*
 When the stone had been sealed by the Jews, and the soldiers were guarding
 
-##### Column B
+**Column B**
 Thine immaculate Body, Thou didst arise on the third day, O Savior, granting life unto the world. Therefore the Heavenly Powers cried out unto Thee, O Giver of life: Glory to Thy Resurrection, O Christ! Glory to Thy kingdom! Glory to Thy dispensation, O only Lover of mankind!
 *Theotokion:*
 As Gabriel proclaimed unto thee, O Virgin, *Rejoice!*, with that voice the Master of all became incarnate in thee, the holy Ark, as the righteous David said. Thou wast shown to be more spacious than the heavens, having borne thy Creator. Glory to Him Who dwelt in thee! Glory to Him Who came forth from thee! Glory to Him Who hath set us free through thy giving birth!
@@ -343,8 +343,8 @@ As Gabriel proclaimed unto thee, O Virgin, *Rejoice!*, with that voice the Maste
 
 === LEAF p9 ===
 
-#### [Left Page — Folio 2v (Manuscript replacement: Sunday Matins)]
-##### Column A
+**[Left Page — Folio 2v (Manuscript replacement: Sunday Matins)]**
+**Column A**
 [Resurrectional Sessional Hymns, Tone 1:][^18]
 While the soldiers were guarding Thy tomb, O Savior, they became as dead from the radiance of the appearing Angel, who proclaimed the Resurrection unto the women. We glorify Thee, the Destroyer of corruption; we fall down before Thee Who art risen from the tomb, and our only God!
 *Glory:*
@@ -352,7 +352,7 @@ Willingly nailed to the Cross, O Compassionate One, and laid in the tomb as one 
 *Both now... Theotokion:*
 We all know thee to be the Mother of God, who wast truly revealed as a Virgin even after childbirth, who flee with love unto thy goodness. For we sinners have thee as our protectress, and we have acquired thee as our salvation in afflictions, O only all-immaculate one!
 
-##### Column B
+**Column B**
 *After the second kathisma, Sessional Hymns, Tone 1:*
 *Model: When the stone had been sealed...*
 The women went early in the morning unto the tomb, and seeing the angelic vision they trembled. The tomb radiated life, the wonder struck them with awe; therefore going away, they proclaimed the rising unto the disciples: Christ hath overthrown Hades, as He alone is mighty and strong, and He hath raised up all that were corrupted, destroying the fear of condemnation by the power of the Cross! *Glory:*
@@ -360,8 +360,8 @@ Nailed to the Cross, O Life of all, and accounted among the dead, O immortal Lor
 *Both now... Theotokion. Model: While the soldiers were guarding Thy tomb...*
 O thou who didst conceive the Receptacle of the Master: deliver us who have fallen grievously into the abyss of folly and transgressions and sorrows.
 
-#### [Right Page — Folio 3r (Manuscript replacement: Sunday Matins)]
-##### Column A
+**[Right Page — Folio 3r (Manuscript replacement: Sunday Matins)]**
+**Column A**
 For thou art the salvation and help of sinners, and a mighty protector, and thou savest thy servants![^19]
 *Then: Blessed are the blameless in the way... [Psalm 118].*
 *After this: Blessed art Thou, O Lord... Then the Little Litany. After this:*
@@ -374,7 +374,7 @@ Unto those who live in the wilderness there is unceasing divine longing, as they
 Unto the Holy Spirit belong honor and glory, as also unto the Father, and likewise unto the Son; therefore let us sing unto the Trinity, the one Dominion.
 *Both now, the same.*
 
-##### Column B
+**Column B**
 *Antiphon 2:*
 Unto the mountains of Thy laws, of virtues, hast Thou exalted me; enlighten me, O God, that I may praise Thee.
 May Thy right hand take hold of me, O Word; preserve me and keep me, lest the fire of sin burn me! *Glory:*
@@ -387,11 +387,11 @@ Unto the Holy Spirit belong honor and worship, glory and dominion; as it is fitt
 
 === LEAF p10 ===
 
-#### [Left Page — Folio 3v (Manuscript replacement: Sunday Matins)]
-##### Column A
+**[Left Page — Folio 3v (Manuscript replacement: Sunday Matins)]**
+**Column A**
 For the Trinity is a monad in essence, but not in persons.[^20]
 *Prokeimenon, Tone 1:*
-*Now will I arise, saith the Lord; I will set Myself in salvation, and I will not pass him by.*
+*Now will I arise, says the Lord; I will set Myself in salvation, and I will not pass him by.*
 *Verse: The words of the Lord are pure words.*
 *Let every breath praise the Lord.*
 *Morning Gospel. Having beheld the Resurrection of Christ... Psalm 50.*
@@ -400,7 +400,7 @@ For the Trinity is a monad in essence, but not in persons.[^20]
 *Ode 3: Heirmos:*
 *Thou Who alone knowest the weakness of human nature, and didst compassionately take form therein:*
 
-##### Column B
+**Column B**
 *gird us with power from on high, that we may cry unto Thee: Holy is the living temple of Thine immaculate glory, O Lover of mankind!*
 *Ode 4: Heirmos:*
 *Habakkuk, having perceived with prophetic eyes thee as the mountain overshadowed by the grace of God, foreproclaimed that the Holy One of Israel would come forth from thee for our salvation and renewal.*
@@ -409,14 +409,14 @@ For the Trinity is a monad in essence, but not in persons.[^20]
 *Ode 6: Heirmos:*
 *The lowest abyss hath compassed us about, and there is none to deliver; and we were accounted as sheep for the slaughter: save Thy people, O our God!*
 
-#### [Right Page — Folio 4r (Manuscript replacement: Sunday Matins)]
-##### Column A
+**[Right Page — Folio 4r (Manuscript replacement: Sunday Matins)]**
+**Column A**
 *Kontakion, Tone 1. Model: When Thou shalt come...*[^21]
 As God Thou didst arise from the tomb in glory, and didst raise the world with Thyself; and human nature sings praise unto Thee as God, and death hath vanished! Adam rejoices, O Master, and Eve, now delivered from bonds, rejoices, crying aloud: Thou art He Who grants Resurrection unto all, O Christ!
 *Ikos:*
 Let us sing of Him Who arose on the third day as the almighty God, Who broke down the gates of Hades and raised up from the tomb those who were dead from all ages, appearing unto the Myrrh-bearing women as it pleased Him, having first said unto them *Rejoice!*, and proclaiming joy unto the Apostles as the only Giver of life. Therefore with faith the women announce the signs of victory unto the disciples;
 
-##### Column B
+**Column B**
 and Hades groans, and death laments, and the world rejoices, and all rejoice together with him in the Resurrection of Christ: for Thou, O Christ, grantest Resurrection unto all!
 *Ode 7: Heirmos:*
 *Thee, O Mother of God, we faithful perceive as the spiritual furnace: for as the highly exalted One saved the three children, so hath the praised and all-glorious God of our fathers wholly renewed the world in thy womb.*

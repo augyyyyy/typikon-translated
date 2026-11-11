@@ -64,9 +64,9 @@ The Dismissal: **"Wisdom!"**; **"Blessed is He Who is, Christ our God, always, n
 **THE MATINS** ⁴⁶
 
 ---
-46. Because many in the cities find it difficult around midnight to leave their homes [in order to attend the Matins service at the Seventh Hour of the night, that is, at 1:00 a.m.], by dispensation [oikonomia] and for the convenience of all, the custom arose of celebrating this Matins service at the same hour as the Matins of the Bridegroom, that is, around the First Hour of the night (7:00 p.m.). The Divine Liturgy itself is postponed until the following morning; thus the great length of the service is divided into two separate events celebrated at different times.
+46. Because many in the cities find it difficult around midnight to leave their homes [in order to attend the Matins service at the Seventh Hour of the night, that is, at 1:00 a.m.], by dispensation [oikonomia] and for the convenience of all, the custom arose of celebrating this Matins service at the same hour as the Matins of the Bridegroom, that is, around the First Hour of the night (7:00 p.m.). The Divine Liturgy itself is postponed until the following morning; thus the great length of the service is divided into two separate events celebrated at different times.[^451]
 
-*(Printed Page 769)*[^451]
+*(Printed Page 769)*
 
 === LEAF p785 ===
 

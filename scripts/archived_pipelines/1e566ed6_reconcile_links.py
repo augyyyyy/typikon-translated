@@ -8,7 +8,7 @@ def slugify(text):
     slug = re.sub(r'-+', '-', slug)
     return slug
 
-typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 intro_path = os.path.join(typikon_dir, "Final_Dolnytsky_intro.md")
 
 with open(intro_path, 'r', encoding='utf-8') as f:

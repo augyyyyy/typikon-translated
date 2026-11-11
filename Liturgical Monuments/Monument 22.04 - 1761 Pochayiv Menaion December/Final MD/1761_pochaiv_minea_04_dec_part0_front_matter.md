@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 4: December (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-4-december-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 4: December (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-4-december-pochaiv-lavra-1761"></a>
 
 [Title Page with typographical ornament border printed in cinnabar and black ink]
 
@@ -13,7 +13,7 @@ To the glory of the Holy, Consubstantial, Life-Creating, and Undivided Trinity: 
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 4: December (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-4-december-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 4: December (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-4-december-pochaiv-lavra-1761)**
 * **[MONTH OF DECEMBER](1761_pochaiv_minea_04_dec_part1_month-of-december.md#month-of-december)**
 * **[CONCLUDING APPENDICES AND COLOPHON](1761_pochaiv_minea_04_dec_part2_concluding-appendices-and-colophon.md#concluding-appendices-and-colophon)**
 

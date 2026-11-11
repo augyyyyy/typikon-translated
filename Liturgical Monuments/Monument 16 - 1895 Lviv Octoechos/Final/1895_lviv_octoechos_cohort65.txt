@@ -223,7 +223,7 @@
 
 *Troparion 1:* A Star shining with the beams of the Godhead out of Jacob hath shone forth upon those held fast in gloom; for through thee, O All-Pure One, Christ God the Word was made incarnate: by Whom being enlightened, with the heavenly hosts we call thee blessed.[^6787]
 
-*Troparion 2:* Strengthened by thy might and grace, from my heart have I earnestly offered a song unto thee; but receive it, O pure Virgin, bestowing in return thy most radiant grace from Thine incorruptible treasures, O divinely blessed one.[^6788]
+*Troparion 2:* Strengthened by thy might and grace, from my heart have I earnestly offered a song unto thee; but receive it, O pure Virgin, bestowing in return thy most radiant grace from thine incorruptible treasures, O divinely blessed one.[^6788]
 
 *Troparion 3:* Thou hast manifestly been shown forth as the loom of the Godhead, wherein the Word wove the vesture of the body, deifying my form, O Virgin; having put on which, He saved all who with a pure mind magnify thee.[^6789]
 

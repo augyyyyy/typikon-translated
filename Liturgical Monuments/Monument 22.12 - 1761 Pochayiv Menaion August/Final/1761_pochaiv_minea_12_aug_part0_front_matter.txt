@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 12: August (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-12-august-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 12: August (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-12-august-pochaiv-lavra-1761"></a>
 
 *(Binding — Upper cover: dark leather with tooling, ornamental border of interlaced strapwork, a central gilded blossoming cross, and the numeral 8 in a dotted semicircle below) (Endpaper — Pastedown leaf with botanical pattern: green trefoil leaves and blue blossoms on a light olive ground with white undulating lines) (Flyleaf — Archival flyleaf with later cursive manuscript liturgical commemorations, cancelled with a diagonal blue pencil line)*[^1]
 
@@ -34,7 +34,7 @@
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 12: August (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-12-august-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 12: August (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-12-august-pochaiv-lavra-1761)**
 * **[MONTH OF AUGUST](1761_pochaiv_minea_12_aug_part1_month-of-august.md#month-of-august)**
 * **[APPENDIX: THEOTOKIA IN THE EIGHT TONES](1761_pochaiv_minea_12_aug_part2_appendix-theotokia-in-the-eight-tones.md#appendix-theotokia-in-the-eight-tones)**
 

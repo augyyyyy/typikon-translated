@@ -186,7 +186,7 @@
 *Verse: But God is our King before the ages, He has wrought salvation in the midst of the earth (Ps. 73:12 LXX).*
 *Sticheron:* Let us exalt, O ye people, the Tree lying before us, whereby Christ grants salvation unto us, and let us kiss it with faith!
 
-*Glory... Both now... Stavrotheotokion, the same Podoben:* Seeing Thy Son lifted up upon the Cross, O Virgin, she cried aloud, lamenting: "Glory to Thy compassion!"
+*Glory... Both now... Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):* Seeing Thy Son lifted up upon the Cross, O Virgin, she cried aloud, lamenting: "Glory to Thy compassion!"
 
 *Then: "Now lettest Thou Thy servant depart." Trisagion. After "Our Father":*
 *Troparion, Tone 1:*

@@ -1,10 +1,10 @@
 {
   "schema_version": "2.0.0",
-  "description": "Comprehensive Physical Podoben Invocation Concordance for 1761 Pochayiv Menaion — Vol. 11: July (Pochayiv Lavra, 1761)",
+  "description": "Comprehensive Physical Podoben Invocation Concordance for 1761 Pochaiv Menaion — Vol. 11: July (Pochaiv Lavra, 1761)",
   "summary": {
     "monument_id": "1761_pochaiv_minea_11_jul",
-    "total_podoben_invocations": 235,
-    "distinct_model_families": 58,
+    "total_podoben_invocations": 232,
+    "distinct_model_families": 56,
     "tones_represented": [
       1,
       2,
@@ -19,7 +19,6 @@
         "model_id": "POD.T1.NEBESNYKH_CHINOV",
         "tone": 1,
         "prescribed_model": "Joy of the heavenly ranks",
-        "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
         "total_invocations": 16,
         "first_locus": "p3 (p3)",
         "attested_loci": [
@@ -44,7 +43,6 @@
         "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
         "tone": 4,
         "prescribed_model": "Thou hast given a sign",
-        "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
         "total_invocations": 12,
         "first_locus": "p3 (p3)",
         "attested_loci": [
@@ -66,7 +64,6 @@
         "model_id": "POD.T6.VSE_OTLOZHSHE",
         "tone": 6,
         "prescribed_model": "Having laid aside all earthly hope",
-        "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
         "total_invocations": 5,
         "first_locus": "p4 (p4)",
         "attested_loci": [
@@ -81,7 +78,6 @@
         "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
         "tone": 6,
         "prescribed_model": "Having risen on the third day",
-        "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
         "total_invocations": 6,
         "first_locus": "p4 (p4)",
         "attested_loci": [
@@ -97,7 +93,6 @@
         "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
         "tone": 8,
         "prescribed_model": "Guiding unto wisdom",
-        "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
         "total_invocations": 14,
         "first_locus": "p5 (p5)",
         "attested_loci": [
@@ -121,7 +116,6 @@
         "model_id": "POD.T8.SAME",
         "tone": 8,
         "prescribed_model": "The same (то́йже)",
-        "byzantine_greek_automelon": "Τὸ αὐτό",
         "total_invocations": 1,
         "first_locus": "p6 (p6)",
         "attested_loci": [
@@ -132,7 +126,6 @@
         "model_id": "POD.T3.EXT_HAVING_ADORNED_HEAVEN",
         "tone": 3,
         "prescribed_model": "Having Adorned Heaven with Stars",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p9 (p9)",
         "attested_loci": [
@@ -143,7 +136,6 @@
         "model_id": "POD.T4.YAKO_DOBLYA",
         "tone": 4,
         "prescribed_model": "As one valiant among martyrs",
-        "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
         "total_invocations": 17,
         "first_locus": "p11 (p11)",
         "attested_loci": [
@@ -165,7 +157,6 @@
         "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
         "tone": 8,
         "prescribed_model": "O most marvelous wonder",
-        "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
         "total_invocations": 17,
         "first_locus": "p11 (p11)",
         "attested_loci": [
@@ -190,7 +181,6 @@
         "model_id": "POD.T2.EXT_O_HOUSE_OF",
         "tone": 2,
         "prescribed_model": "O House of Ephratha",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 4,
         "first_locus": "p12 (p12)",
         "attested_loci": [
@@ -204,7 +194,6 @@
         "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
         "tone": 4,
         "prescribed_model": "O all-lauded martyrs",
-        "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
         "total_invocations": 9,
         "first_locus": "p16 (p16)",
         "attested_loci": [
@@ -221,7 +210,6 @@
         "model_id": "POD.T3.KRASOTE_DEVSTVA",
         "tone": 3,
         "prescribed_model": "Beholding the beauty of thy virginity",
-        "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
         "total_invocations": 4,
         "first_locus": "p17 (p17)",
         "attested_loci": [
@@ -234,7 +222,6 @@
         "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
         "tone": 4,
         "prescribed_model": "Thou hast appeared today",
-        "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
         "total_invocations": 9,
         "first_locus": "p17 (p17)",
         "attested_loci": [
@@ -253,7 +240,6 @@
         "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
         "tone": 4,
         "prescribed_model": "Thou Who wast lifted up upon the Cross",
-        "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
         "total_invocations": 12,
         "first_locus": "p19 (p19)",
         "attested_loci": [
@@ -275,7 +261,6 @@
         "model_id": "POD.T4.EXT_O_CHANGELESS_LIGHT",
         "tone": 4,
         "prescribed_model": "O Changeless Light",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p24 (p24)",
         "attested_loci": [
@@ -286,7 +271,6 @@
         "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
         "tone": 3,
         "prescribed_model": "Of the divine faith",
-        "byzantine_greek_automelon": "Θείας πίστεως",
         "total_invocations": 6,
         "first_locus": "p27 (p27)",
         "attested_loci": [
@@ -302,7 +286,6 @@
         "model_id": "POD.T2.EXT_IN_PRAYERS",
         "tone": 2,
         "prescribed_model": "In Prayers",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p33 (p33)",
         "attested_loci": [
@@ -313,7 +296,6 @@
         "model_id": "POD.T4.SKORO_PREDVARI",
         "tone": 4,
         "prescribed_model": "Speedily anticipate",
-        "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
         "total_invocations": 10,
         "first_locus": "p33 (p33)",
         "attested_loci": [
@@ -333,7 +315,6 @@
         "model_id": "POD.T2.VYSHNIKH_ISHCHA",
         "tone": 2,
         "prescribed_model": "Seeking the highest",
-        "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
         "total_invocations": 7,
         "first_locus": "p36 (p36)",
         "attested_loci": [
@@ -350,7 +331,6 @@
         "model_id": "POD.T3.EXT_THE_HEAVEN_WITH",
         "tone": 3,
         "prescribed_model": "The Heaven with Stars",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p38 (p38)",
         "attested_loci": [
@@ -361,7 +341,6 @@
         "model_id": "POD.T2.EXT_HOUSE_OF_EPHRATHA",
         "tone": 2,
         "prescribed_model": "House of Ephratha",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 2,
         "first_locus": "p40 (p40)",
         "attested_loci": [
@@ -373,7 +352,6 @@
         "model_id": "POD.T6.EXT_WITH_WHAT_PRAISEWORTHY",
         "tone": 6,
         "prescribed_model": "With What Praiseworthy Crowns",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 2,
         "first_locus": "p40 (p40)",
         "attested_loci": [
@@ -385,7 +363,6 @@
         "model_id": "POD.T5.RADUISYA_POSTNIKOV",
         "tone": 2,
         "prescribed_model": "Rejoice, O container of ascetics",
-        "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
         "total_invocations": 2,
         "first_locus": "p44 (p44)",
         "attested_loci": [
@@ -397,7 +374,6 @@
         "model_id": "POD.T1.GROB_TVOI_SPASE",
         "tone": 4,
         "prescribed_model": "While the soldiers were guarding Thy tomb",
-        "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
         "total_invocations": 5,
         "first_locus": "p45 (p45)",
         "attested_loci": [
@@ -412,7 +388,6 @@
         "model_id": "POD.T8.EXT_TO_THEE_THE",
         "tone": 8,
         "prescribed_model": "To Thee, the Champion Leader",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 2,
         "first_locus": "p51 (p51)",
         "attested_loci": [
@@ -424,7 +399,6 @@
         "model_id": "POD.T2.EGDA_OT_DREVA",
         "tone": 2,
         "prescribed_model": "When from the Tree",
-        "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
         "total_invocations": 8,
         "first_locus": "p70 (p70)",
         "attested_loci": [
@@ -442,7 +416,6 @@
         "model_id": "POD.T8.EXT_THINE_HONORED_PASSION",
         "tone": 8,
         "prescribed_model": "Thine Honored Passion",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p70 (p70)",
         "attested_loci": [
@@ -453,7 +426,6 @@
         "model_id": "POD.T8.MUCHENITSY_GOSPODNI",
         "tone": 8,
         "prescribed_model": "Martyrs of the Lord",
-        "byzantine_greek_automelon": "Οἱ Μάρτυρές σου Κύριε",
         "total_invocations": 1,
         "first_locus": "p76 (p76)",
         "attested_loci": [
@@ -464,7 +436,6 @@
         "model_id": "POD.T2.EXT_THE_FIRSTFRUITS",
         "tone": 2,
         "prescribed_model": "The First-Fruits",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p85 (p85)",
         "attested_loci": [
@@ -475,7 +446,6 @@
         "model_id": "POD.T1.EXT_JOY_OF_THE",
         "tone": 1,
         "prescribed_model": "Joy of the Heavenly Hosts",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p86 (p86)",
         "attested_loci": [
@@ -486,7 +456,6 @@
         "model_id": "POD.T4.ZVANNYI_SVYSHE",
         "tone": 4,
         "prescribed_model": "Being called from on high",
-        "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
         "total_invocations": 4,
         "first_locus": "p87 (p87)",
         "attested_loci": [
@@ -499,7 +468,6 @@
         "model_id": "POD.T5.PREPODOBNE_OTCHE",
         "tone": 6,
         "prescribed_model": "O venerable father",
-        "byzantine_greek_automelon": "Ὅσιε Πάτερ",
         "total_invocations": 4,
         "first_locus": "p88 (p88)",
         "attested_loci": [
@@ -511,7 +479,6 @@
         "model_id": "POD.T4.UDIVISIA_IOSIF",
         "tone": 4,
         "prescribed_model": "Joseph was amazed",
-        "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
         "total_invocations": 6,
         "first_locus": "p91 (p91)",
         "attested_loci": [
@@ -527,7 +494,6 @@
         "model_id": "POD.T6.EZHE_O_NAS",
         "tone": 6,
         "prescribed_model": "Fulfilling the dispensation for our sake",
-        "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
         "total_invocations": 2,
         "first_locus": "p106 (p106)",
         "attested_loci": [
@@ -539,8 +505,7 @@
         "model_id": "POD.EXAP.ZHENY_USLYSHITE",
         "tone": 6,
         "prescribed_model": "Give ear, ye women",
-        "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
-        "total_invocations": 8,
+        "total_invocations": 7,
         "first_locus": "p108 (p108)",
         "attested_loci": [
           "p108 (p108)",
@@ -556,7 +521,6 @@
         "model_id": "POD.T4.EXT_O_MARVELOUS_WONDER",
         "tone": 4,
         "prescribed_model": "O Marvelous Wonder",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 2,
         "first_locus": "p109 (p109)",
         "attested_loci": [
@@ -568,7 +532,6 @@
         "model_id": "POD.T2.EXT_THE_HEAVEN_WITH",
         "tone": 2,
         "prescribed_model": "The heaven with stars",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p121 (p121)",
         "attested_loci": [
@@ -579,7 +542,6 @@
         "model_id": "POD.T3.EXT_VISITED_US",
         "tone": 3,
         "prescribed_model": "Visited us",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p131 (p131)",
         "attested_loci": [
@@ -590,7 +552,6 @@
         "model_id": "POD.T8.CHTO_VAS_NARECHEM",
         "tone": 8,
         "prescribed_model": "What shall we call you, O holy ones",
-        "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
         "total_invocations": 2,
         "first_locus": "p133 (p133)",
         "attested_loci": [
@@ -599,32 +560,9 @@
         ]
       },
       {
-        "model_id": "POD.T8.EXT_SLAV",
-        "tone": 8,
-        "prescribed_model": "Ѽ пресла́внагѡ чꙋдесѐ",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 1,
-        "first_locus": "p158 (p158)",
-        "attested_loci": [
-          "p158 (p158)"
-        ]
-      },
-      {
-        "model_id": "POD.T8.EXT_WHAT_IS_THIS",
-        "tone": 8,
-        "prescribed_model": "What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!",
-        "byzantine_greek_automelon": "—",
-        "total_invocations": 1,
-        "first_locus": "p158 (p158)",
-        "attested_loci": [
-          "p158 (p158)"
-        ]
-      },
-      {
         "model_id": "POD.T8.EXT_AS_THE_FIRSTFRUITS",
         "tone": 8,
         "prescribed_model": "As the first-fruits",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p170 (p170)",
         "attested_loci": [
@@ -635,7 +573,6 @@
         "model_id": "POD.T3.DEVA_DNESS",
         "tone": 3,
         "prescribed_model": "Today the Virgin",
-        "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
         "total_invocations": 4,
         "first_locus": "p179 (p179)",
         "attested_loci": [
@@ -649,7 +586,6 @@
         "model_id": "POD.T2.EXT_THE_FIRM",
         "tone": 2,
         "prescribed_model": "The firm",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p190 (p190)",
         "attested_loci": [
@@ -660,7 +596,6 @@
         "model_id": "POD.T3.EXT_O_LIGHT_IMMUTABLE",
         "tone": 3,
         "prescribed_model": "O Light Immutable",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p214 (p214)",
         "attested_loci": [
@@ -671,7 +606,6 @@
         "model_id": "POD.T8.EXT_O_MARVELOUS_WONDER",
         "tone": 8,
         "prescribed_model": "O marvelous wonder",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 3,
         "first_locus": "p217 (p217)",
         "attested_loci": [
@@ -684,7 +618,6 @@
         "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
         "tone": 5,
         "prescribed_model": "The Word co-unoriginate",
-        "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
         "total_invocations": 2,
         "first_locus": "p219 (p219)",
         "attested_loci": [
@@ -696,7 +629,6 @@
         "model_id": "POD.T2.EXT_THE_FIRM_AND",
         "tone": 2,
         "prescribed_model": "The firm and divinely-inspired preachers",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p221 (p221)",
         "attested_loci": [
@@ -707,7 +639,6 @@
         "model_id": "POD.T2.EXT_O_CHANGELESS_LIGHT",
         "tone": 2,
         "prescribed_model": "O Changeless Light",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p234 (p234)",
         "attested_loci": [
@@ -718,7 +649,6 @@
         "model_id": "POD.T4.EXT_THE_ANGELIC_CHOIR",
         "tone": 4,
         "prescribed_model": "The angelic choir",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p236 (p236)",
         "attested_loci": [
@@ -729,7 +659,6 @@
         "model_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
         "tone": 5,
         "prescribed_model": "Rejoice, O life-bearing Cross",
-        "byzantine_greek_automelon": "Χαίροις ὁ ζωηφόρος Σταυρός",
         "total_invocations": 1,
         "first_locus": "p246 (p246)",
         "attested_loci": [
@@ -740,7 +669,6 @@
         "model_id": "POD.T2.EXT_WITH_WHAT_CROWNS",
         "tone": 2,
         "prescribed_model": "With what crowns of praise",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p249 (p249)",
         "attested_loci": [
@@ -751,7 +679,6 @@
         "model_id": "POD.T1.EXT_THE_ANGELIC_CHOIR",
         "tone": 1,
         "prescribed_model": "The angelic choir",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 3,
         "first_locus": "f. 124r (p252)",
         "attested_loci": [
@@ -763,7 +690,6 @@
         "model_id": "POD.T3.EXT_THOU_HAST_VISITED",
         "tone": 3,
         "prescribed_model": "Thou hast visited us",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p263 (p263)",
         "attested_loci": [
@@ -774,7 +700,6 @@
         "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
         "tone": 8,
         "prescribed_model": "That which was commanded mystically",
-        "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
         "total_invocations": 1,
         "first_locus": "p269 (p269)",
         "attested_loci": [
@@ -785,7 +710,6 @@
         "model_id": "POD.T2.EXT_WITH_THE_DISCIPLES",
         "tone": 2,
         "prescribed_model": "With the disciples",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p277 (p277)",
         "attested_loci": [
@@ -796,7 +720,6 @@
         "model_id": "POD.T2.EXT_HEAVEN_WITH_STARS",
         "tone": 2,
         "prescribed_model": "Heaven with stars",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "p277 (p277)",
         "attested_loci": [
@@ -807,7 +730,6 @@
         "model_id": "POD.T5.EXT_WITH_THE_DISCIPLES",
         "tone": 5,
         "prescribed_model": "With the disciples",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "f. 145r (p292)",
         "attested_loci": [
@@ -829,7 +751,6 @@
       "normalized_rubric": "*Tone 1, Podoben: \"Joy of the Celestial Ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*Troparion:*"
     },
     {
@@ -844,7 +765,6 @@
       "normalized_rubric": "*Tone 4, Podoben: \"Thou Hast Given a Sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Troparion:*"
     },
     {
@@ -859,7 +779,6 @@
       "normalized_rubric": "*Tone 6, Podoben: \"Having Laid Aside All Earthly Hope\" (Всѐ ѿло́жше):*",
       "prescribed_model": "Having laid aside all earthly hope",
       "model_id": "POD.T6.VSE_OTLOZHSHE",
-      "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
       "governed_hymn_opening": "When of old the ewe-lamb, the undefiled and spotless Lady,..."
     },
     {
@@ -874,7 +793,6 @@
       "normalized_rubric": "*Tone 6, Podoben: \"Having Risen on the Third Day\" (Тридне́венъ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "Beholding Thee crucified, O Christ, she who bare Thee cried..."
     },
     {
@@ -889,7 +807,6 @@
       "normalized_rubric": "*Tone 8, Podoben: \"Of Wisdom\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Givers of healings and wonderworkers, you have appeared unto all..."
     },
     {
@@ -899,12 +816,11 @@
       "leaf": "p6",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "то́йже",
-      "verbatim_slavonic_witness": "то́йже",
-      "normalized_rubric": "*Glory... Tone 8, Podoben: The same (\"Of Wisdom\"):*",
+      "verbatim_1630_slavonic": "Премꙋ́дрости",
+      "verbatim_slavonic_witness": "Премꙋ́дрости",
+      "normalized_rubric": "*Glory... Tone 8, Podoben: The same (\"Of Wisdom\") (Премꙋ́дрости):*",
       "prescribed_model": "The same (то́йже)",
       "model_id": "POD.T8.SAME",
-      "byzantine_greek_automelon": "Τὸ αὐτό",
       "governed_hymn_opening": "Shedding the rays of healings upon those on earth, O..."
     },
     {
@@ -919,7 +835,6 @@
       "normalized_rubric": "*Tone 3, Podoben: \"Having Adorned Heaven with Stars\" (Не́бо ѕвѣзда́ми):*",
       "prescribed_model": "Having Adorned Heaven with Stars",
       "model_id": "POD.T3.EXT_HAVING_ADORNED_HEAVEN",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "What word will suffice to declare the grace of healings..."
     },
     {
@@ -929,12 +844,11 @@
       "leaf": "p11",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw до́блѧ",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw до́блѧ",
-      "normalized_rubric": "*Tone 4, Podoben: \"As One Valiant\" (Ꙗ҆́кw до́блѧ):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
+      "normalized_rubric": "*Tone 4, Podoben: \"As One Valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "Seeing Christ, the Lover of mankind, being crucified, and His..."
     },
     {
@@ -944,12 +858,11 @@
       "leaf": "p11",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ѽ пресла́внагw чꙋдесѐ",
-      "verbatim_slavonic_witness": "Ѽ пресла́внагw чꙋдесѐ",
-      "normalized_rubric": "*Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагw чꙋдесѐ):*",
+      "verbatim_1630_slavonic": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "verbatim_slavonic_witness": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "normalized_rubric": "*Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "The undefiled Heifer, seeing the Young Bull willingly nailed upon..."
     },
     {
@@ -964,7 +877,6 @@
       "normalized_rubric": "*Tone 1, Podoben: \"Joy of the Celestial Ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Most glorious art thou in generations of generations, O Virgin..."
     },
     {
@@ -979,7 +891,6 @@
       "normalized_rubric": "*Tone 2, Podoben: \"O House of Ephratha\" (До́ме є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Rejoice, O Blachernae, divine treasury of the only Mother of..."
     },
     {
@@ -994,7 +905,6 @@
       "normalized_rubric": "*Glory... now and ever... Tone 2, Podoben: \"O House of Ephratha\" (До́ме є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Glory in heaven and gladness upon earth! For behold, the..."
     },
     {
@@ -1009,7 +919,6 @@
       "normalized_rubric": "*Tone 4, Podoben: \"Thou Hast Given a Sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "Thou, O Lover of mankind, hast given Thy Mother as..."
     },
     {
@@ -1024,7 +933,6 @@
       "normalized_rubric": "*Tone 4, Podoben: \"O All-Praised Martyrs\" (Всехва́льнїи мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "Thou alone wast the animate palace of God, and thy..."
     },
     {
@@ -1039,7 +947,6 @@
       "normalized_rubric": "*Tone 3, Podoben: \"Awed by the Beauty of Thy Virginity\" (Красотѣ̀ дѣ́вства):*",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "By the beauty of thy virginity having given birth unto..."
     },
     {
@@ -1054,7 +961,6 @@
       "normalized_rubric": "*Tone 3, Podoben: \"Awed by the Beauty of Thy Virginity\" (Красотѣ̀ дѣ́вства):*",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "Incorrupt childbirth and virginity thou alone didst possess, O blessed..."
     },
     {
@@ -1069,7 +975,6 @@
       "normalized_rubric": "*Tone 4, Podoben: \"Thou Hast Appeared Today\" (Ꙗ҆ви́лся є҆сѝ дне́сь):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Today the universe celebrates the precious deposition of thy robe,..."
     },
     {
@@ -1084,7 +989,6 @@
       "normalized_rubric": "*Tone 4, Podoben: \"Thou Who Wast Raised Up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "Rivers of wonders, O Mother of God, proceeding from thine..."
     },
     {
@@ -1099,7 +1003,6 @@
       "normalized_rubric": "*Kontakion, Tone 4, Podoben: \"Thou Who Wast Raised Up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "As a garment of incorruption for all the faithful, O..."
     },
     {
@@ -1114,7 +1017,6 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"O Changeless Light\" (Свѣ́те неизмѣ́нне):*",
       "prescribed_model": "O Changeless Light",
       "model_id": "POD.T4.EXT_O_CHANGELESS_LIGHT",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Come, ye earthborn, today let us honor with hymns the..."
     },
     {
@@ -1124,12 +1026,11 @@
       "leaf": "p24",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw до́блѧ",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw до́блѧ",
-      "normalized_rubric": "*Tone 4, Podoben: \"As One Valiant\" (Ꙗ҆́кw до́блѧ):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
+      "normalized_rubric": "*Tone 4, Podoben: \"As One Valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "The shrine containing thy robe, O most pure one, is..."
     },
     {
@@ -1139,12 +1040,11 @@
       "leaf": "p25",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ѽ пресла́внагw чꙋдесѐ",
-      "verbatim_slavonic_witness": "Ѽ пресла́внагw чꙋдесѐ",
-      "normalized_rubric": "*Stichera, Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагw чꙋдесѐ):*",
+      "verbatim_1630_slavonic": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "verbatim_slavonic_witness": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "normalized_rubric": "*Stichera, Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "A cornerstone has been laid, chosen in Zion, and an..."
     },
     {
@@ -1159,7 +1059,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 3, Podoben: \"Of the Divine Faith\" (Бж҃твенныѧ вѣ́ры):*",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "An honored stone of the Church, preserved in the heavenly..."
     },
     {
@@ -1174,7 +1073,6 @@
       "normalized_rubric": "*Tone 1, Podoben: \"Joy of the Celestial Ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Having hated the bodily pleasures of earth, with pure conduct..."
     },
     {
@@ -1184,12 +1082,11 @@
       "leaf": "p30",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw до́блѧ",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw до́блѧ",
-      "normalized_rubric": "*Tone 4, Podoben: \"As One Valiant\" (Ꙗ҆́кw до́блѧ):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
+      "normalized_rubric": "*Tone 4, Podoben: \"As One Valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "Unto painful abstinence, unto manly struggles, unto warfare against the..."
     },
     {
@@ -1199,12 +1096,11 @@
       "leaf": "p31",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ѽ пресла́внагw чꙋдесѐ",
-      "verbatim_slavonic_witness": "Ѽ пресла́внагw чꙋдесѐ",
-      "normalized_rubric": "*Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагw чꙋдесѐ):*",
+      "verbatim_1630_slavonic": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "verbatim_slavonic_witness": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "normalized_rubric": "*Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "The undefiled heifer, seeing the Calf nailed willingly upon the..."
     },
     {
@@ -1219,7 +1115,6 @@
       "normalized_rubric": "*Kontakion of Saint Martha, Tone 2, Podoben: \"In Prayers\" (Въ моли́твахъ):*",
       "prescribed_model": "In Prayers",
       "model_id": "POD.T2.EXT_IN_PRAYERS",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Standing in prayers before the Lord, offering songs and praises..."
     },
     {
@@ -1229,12 +1124,11 @@
       "leaf": "p33",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ско́рw предварѝ",
-      "verbatim_slavonic_witness": "Ско́рw предварѝ",
-      "normalized_rubric": "*Then the Sessional Hymn of Saint Andrew, Tone 4, Podoben: \"Speedily Anticipate\" (Ско́рw предварѝ):*",
+      "verbatim_1630_slavonic": "Ско́рѡ предварѝ",
+      "verbatim_slavonic_witness": "Ско́рѡ предварѝ",
+      "normalized_rubric": "*Then the Sessional Hymn of Saint Andrew, Tone 4, Podoben: \"Speedily Anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "As with precious stones, with thy words, O all-wise one,..."
     },
     {
@@ -1249,7 +1143,6 @@
       "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"Seeking the Highest\" (Вы́шнихъ и҆щѧ̀):*",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "Having clearly sounded the trumpet of divine sweet melody, thou..."
     },
     {
@@ -1264,7 +1157,6 @@
       "normalized_rubric": "*Exapostilarion, Tone 3, Podoben: \"The Heaven with Stars\" (Нб҃о ѕвѣзда́ми):*",
       "prescribed_model": "The Heaven with Stars",
       "model_id": "POD.T3.EXT_THE_HEAVEN_WITH",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Desiring the angelic life, O venerable one, thou didst therefore..."
     },
     {
@@ -1279,7 +1171,6 @@
       "normalized_rubric": "*Tone 2, Podoben: \"On the Third Day\" (Трїдне́венъ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "Pondering Thy seedless conception and ineffable childbearing, I marveled greatly:..."
     },
     {
@@ -1294,7 +1185,6 @@
       "normalized_rubric": "*At Small Vespers, stichera, on 4. Tone 1, Podoben: \"O Most Praised Martyrs\" (Всехва́льні́и мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "Having become an ardent lover of divine peace, by this..."
     },
     {
@@ -1309,7 +1199,6 @@
       "normalized_rubric": "*At the Aposticha, stichera, Tone 2, Podoben: \"House of Ephratha\" (До́ме є҆ѵфра́ѳовъ):*",
       "prescribed_model": "House of Ephratha",
       "model_id": "POD.T2.EXT_HOUSE_OF_EPHRATHA",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Let us, the choirs of fathers who are on Athos,..."
     },
     {
@@ -1324,7 +1213,6 @@
       "normalized_rubric": "*At \"Lord, I Have Cried\", stichera on 8. Tone 6, Podoben: \"With What Praiseworthy Crowns\" (Кі́ими похва́лными):*",
       "prescribed_model": "With What Praiseworthy Crowns",
       "model_id": "POD.T6.EXT_WITH_WHAT_PRAISEWORTHY",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "With what praiseworthy honors shall we crown Athanasius?—him who excelled..."
     },
     {
@@ -1339,7 +1227,6 @@
       "normalized_rubric": "*Tone 6, Podoben: \"With What Praiseworthy Crowns\" (Кі́ими похва́лными):*",
       "prescribed_model": "With What Praiseworthy Crowns",
       "model_id": "POD.T6.EXT_WITH_WHAT_PRAISEWORTHY",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "With what praiseworthy crowns of words shall we crown Athanasius?—the..."
     },
     {
@@ -1354,7 +1241,6 @@
       "normalized_rubric": "*At the Aposticha, Tone 2, Podoben: \"Rejoice\" (Ра́дꙋйсѧ):*",
       "prescribed_model": "Rejoice, O container of ascetics",
       "model_id": "POD.T5.RADUISYA_POSTNIKOV",
-      "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
       "governed_hymn_opening": "Rejoice, conversing with the angelic choirs, O venerable Athanasius; for..."
     },
     {
@@ -1369,7 +1255,6 @@
       "normalized_rubric": "*After the 1st Stichology, Sessional Hymn, Tone 4, Podoben: \"Thy Tomb\" (Гро́бъ тво́й):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "An all-radiant star of monastics didst thou appear, and a..."
     },
     {
@@ -1384,7 +1269,6 @@
       "normalized_rubric": "*After the 2nd Stichology, Sessional Hymn, Tone 3, Podoben: \"Of the Divine Faith\" (Бж҃е́ственныѧ вѣ́ры):*",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Held fast by divine desire of immortality, O Athanasius, and..."
     },
     {
@@ -1399,7 +1283,6 @@
       "normalized_rubric": "*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: \"The Wisdom and the Word\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having received contemplation and action, adorning thy senses, O venerable..."
     },
     {
@@ -1414,7 +1297,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"The Wisdom and the Word\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having left all worldly things from thy youth, both the..."
     },
     {
@@ -1429,7 +1311,6 @@
       "normalized_rubric": "*Kontakion, Tone 8, Podoben: \"To Thee, the Champion Leader\" (Възбра́нной):*",
       "prescribed_model": "To Thee, the Champion Leader",
       "model_id": "POD.T8.EXT_TO_THEE_THE",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "As an eminent beholder of immaterial essences and an all-true..."
     },
     {
@@ -1439,12 +1320,11 @@
       "leaf": "p54",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ѽ пресла́внагw чꙋдесѐ",
-      "verbatim_slavonic_witness": "Ѽ пресла́внагw чꙋдесѐ",
-      "normalized_rubric": "*At the Praises, stichera on 4. Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагw чꙋдесѐ):*",
+      "verbatim_1630_slavonic": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "verbatim_slavonic_witness": "Ѽ пресла́внагѡ чꙋдесѐ",
+      "normalized_rubric": "*At the Praises, stichera on 4. Tone 8, Podoben: \"O Most Marvelous Wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "Precious indeed in Thy sight, O Christ, was the death..."
     },
     {
@@ -1459,7 +1339,6 @@
       "normalized_rubric": "*Stichera, Tone 4, Podoben: \"Thou Hast Given a Sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "Radiantly did thine all-festal memory shine forth like the sun,..."
     },
     {
@@ -1474,7 +1353,6 @@
       "normalized_rubric": "*Kontakion, Tone 4, Podoben: \"Thou Hast Appeared Today\" (Ꙗ҆ви́лсѧ є҆сѝ):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Having striven ascetically, thou wast seen as an angel upon..."
     },
     {
@@ -1489,7 +1367,6 @@
       "normalized_rubric": "*Stichera, Tone 1, Podoben: \"Joy of the Heavenly Ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "We know thee as a divinely-radiant luminary, O father, illumining..."
     },
     {
@@ -1499,12 +1376,11 @@
       "leaf": "p60",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw до́блѧ",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw до́блѧ",
-      "normalized_rubric": "*Other Stichera of Saint Acacius. Tone 4, Podoben: \"As One Valiant among Martyrs\" (Ꙗ҆́кw до́блѧ):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
+      "normalized_rubric": "*Other Stichera of Saint Acacius. Tone 4, Podoben: \"As One Valiant among Martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "By temperance thou didst mortify the wisdom of the flesh,..."
     },
     {
@@ -1519,7 +1395,6 @@
       "normalized_rubric": "*Kontakion of Saint Acacius, Tone 2, Podoben: \"Seeking the Highest\" (Вы́шнихъ и҆щѧ̀):*",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "Having left the world, thou didst follow Christ from infancy,..."
     },
     {
@@ -1534,7 +1409,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Thou Hast Appeared Today\" (Ꙗ҆ви́лсѧ є҆сѝ):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Having well-pleased God by divine deeds and a pure life,..."
     },
     {
@@ -1549,7 +1423,6 @@
       "normalized_rubric": "*Glory... Tone 4, Podoben: \"Speedily Anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "By the brightness of faith and by active light, thou..."
     },
     {
@@ -1564,7 +1437,6 @@
       "normalized_rubric": "*Kontakion of Saint Thomas, Tone 4, Podoben: \"Thou Who Wast Raised Up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "Thou didst manfully show forth a great victory; whence, inflamed..."
     },
     {
@@ -1574,12 +1446,11 @@
       "leaf": "p69",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw до́блѧ",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw до́блѧ",
-      "normalized_rubric": "*Stichera on 6, Tone 4, Podoben: \"As One Valiant among Martyrs\" (Ꙗ҆́кw до́блѧ):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
+      "normalized_rubric": "*Stichera on 6, Tone 4, Podoben: \"As One Valiant among Martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "A calling came unto thee from heaven, even as unto..."
     },
     {
@@ -1594,7 +1465,6 @@
       "normalized_rubric": "*Other Stichera, Tone 4, Podoben: \"Thou Hast Given a Sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "Even as Paul of old, Jesus the Truth called thee..."
     },
     {
@@ -1609,7 +1479,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 2, Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дрѣ́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "When of old the undefiled Ewe-lamb and spotless Sovereign Lady..."
     },
     {
@@ -1624,7 +1493,6 @@
       "normalized_rubric": "*Both now... Stavrotheotokion, Tone 8, Podoben: \"Thine Honored Passion\" (Страда́лческꙋю чⷭ҇тнꙋ́ю):*",
       "prescribed_model": "Thine Honored Passion",
       "model_id": "POD.T8.EXT_THINE_HONORED_PASSION",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Seeing Thee nailed upon the Cross, O Jesus, and willingly..."
     },
     {
@@ -1639,7 +1507,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Thy Tomb\" (Гро́бъ тво́й):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Even as Paul of old, Christ from heaven called thee..."
     },
     {
@@ -1654,7 +1521,6 @@
       "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"Seeking the Highest\" (Вы́шнихъ и҆щѧ̀):*",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "Inflamed with divine zeal for Christ, and protected by the..."
     },
     {
@@ -1664,12 +1530,11 @@
       "leaf": "p75",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw до́блѧ",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw до́блѧ",
-      "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: \"As One Valiant among Martyrs\" (Ꙗ҆́кw до́блѧ):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ до́блѧ",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ до́блѧ",
+      "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: \"As One Valiant among Martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "Beholding Christ, the Lover of mankind, crucified, and His side..."
     },
     {
@@ -1684,7 +1549,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 8, Podoben: \"The Martyrs of the Lord\" (Мꙋ́нцы гдⷭ҇ни):*",
       "prescribed_model": "Martyrs of the Lord",
       "model_id": "POD.T8.MUCHENITSY_GOSPODNI",
-      "byzantine_greek_automelon": "Οἱ Μάρτυρές σου Κύριε",
       "governed_hymn_opening": "I endure not, O Child, seeing Thee asleep upon the..."
     },
     {
@@ -1699,7 +1563,6 @@
       "normalized_rubric": "*Stichera, Tone 2, Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дрѣ́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "When the supreme one among the disciples, traversing the whole..."
     },
     {
@@ -1714,7 +1577,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Thou Hast Appeared Today\" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Shown forth as a champion of piety and a victor,..."
     },
     {
@@ -1729,7 +1591,6 @@
       "normalized_rubric": "*Kontakion, Tone 4, Podoben: \"Thou Hast Appeared Today\" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "A radiant star unto the people of Taormina wast thou..."
     },
     {
@@ -1744,7 +1605,6 @@
       "normalized_rubric": "*Stichera of the Martyrs, Tone 1, Podoben: \"O All-Praised Martyrs\" (Всехва́лнїи мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "O all-praised martyrs, broken with stones, ye did not deny..."
     },
     {
@@ -1759,7 +1619,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Thou Who Wast Raised Up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "The valiant soldiers of Christ, having contended well, utterly drowned..."
     },
     {
@@ -1769,12 +1628,11 @@
       "leaf": "p85",
       "office": "MONTH OF JULY",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ꙗ҆́кw нача́тки",
-      "verbatim_slavonic_witness": "Ꙗ҆́кw нача́тки",
-      "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"The First-Fruits\" (Ꙗ҆́кw нача́тки):*",
+      "verbatim_1630_slavonic": "Ꙗ҆́кѡ нача́тки",
+      "verbatim_slavonic_witness": "Ꙗ҆́кѡ нача́тки",
+      "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"The First-Fruits\" (Ꙗ҆́кѡ нача́тки):*",
       "prescribed_model": "The First-Fruits",
       "model_id": "POD.T2.EXT_THE_FIRSTFRUITS",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "For the sake of Christ, O martyrs, ye endured many..."
     },
     {
@@ -1789,7 +1647,6 @@
       "normalized_rubric": "*At Small Vespers, on \"Lord, I have cried,\" we set 4 verses, and we sing Stichera, Tone 1, Podoben: \"Joy of the Heavenly Hosts\" (Нбⷭ҇ныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the Heavenly Hosts",
       "model_id": "POD.T1.EXT_JOY_OF_THE",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Following in the steps of the great fathers of the..."
     },
     {
@@ -1804,7 +1661,6 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "From earthly unto heavenly mansions thou didst most gloriously pass,..."
     },
     {
@@ -1819,7 +1675,6 @@
       "normalized_rubric": "*On \"Lord, I have cried,\" we set 8 verses, and we sing Stichera, Tone 4, Podoben: \"Called from on High\" (Зва́нный свы́ше):*",
       "prescribed_model": "Being called from on high",
       "model_id": "POD.T4.ZVANNYI_SVYSHE",
-      "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
       "governed_hymn_opening": "When divine yearning came upon thee, O venerable one, then..."
     },
     {
@@ -1834,7 +1689,6 @@
       "normalized_rubric": "*Sticheron, Tone 4, Podoben: \"Called from on High\" (Зва́нный свы́ше):*",
       "prescribed_model": "Being called from on high",
       "model_id": "POD.T4.ZVANNYI_SVYSHE",
-      "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
       "governed_hymn_opening": "When thou wast kindled with the love of Christ, O..."
     },
     {
@@ -1849,7 +1703,6 @@
       "normalized_rubric": "*Sticheron, Tone 4, Podoben: \"Called from on High\" (Зва́нный свы́ше):*",
       "prescribed_model": "Being called from on high",
       "model_id": "POD.T4.ZVANNYI_SVYSHE",
-      "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
       "governed_hymn_opening": "When thou didst receive divine love into thy heart, O..."
     },
     {
@@ -1864,7 +1717,6 @@
       "normalized_rubric": "*Other Stichera of the Venerable One, Tone 6, Podoben: \"O Venerable Father\" (Преподо́бне ѻ҆́тче):*",
       "prescribed_model": "O venerable father",
       "model_id": "POD.T5.PREPODOBNE_OTCHE",
-      "byzantine_greek_automelon": "Ὅσιε Πάτερ",
       "governed_hymn_opening": "O venerable father Anthony, having illuminated thy mind by the..."
     },
     {
@@ -1879,7 +1731,6 @@
       "normalized_rubric": "*Sticheron, Tone 6, Podoben: \"O Venerable Father\" (Преподо́бне ѻ҆́тче):*",
       "prescribed_model": "O venerable father",
       "model_id": "POD.T5.PREPODOBNE_OTCHE",
-      "byzantine_greek_automelon": "Ὅσιε Πάτερ",
       "governed_hymn_opening": "O venerable father Anthony, fulfilling the commandments of Christ, the..."
     },
     {
@@ -1894,7 +1745,6 @@
       "normalized_rubric": "*Sticheron, Tone 6, Podoben: \"O Venerable Father\" (Преподо́бне ѻ҆́тче):*",
       "prescribed_model": "O venerable father",
       "model_id": "POD.T5.PREPODOBNE_OTCHE",
-      "byzantine_greek_automelon": "Ὅσιε Πάτερ",
       "governed_hymn_opening": "O venerable father Anthony, having with God chastely guided the..."
     },
     {
@@ -1909,7 +1759,6 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 1, Podoben: \"O All-Praised Martyrs\" (Всехва́лнїи мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "In the steps of the great Anthony didst thou follow,..."
     },
     {
@@ -1924,7 +1773,6 @@
       "normalized_rubric": "*Sticheron, Tone 1, Podoben: \"O All-Praised Martyrs\" (Всехва́лнїи мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "Like a most radiant luminary thou didst shine forth in..."
     },
     {
@@ -1939,7 +1787,6 @@
       "normalized_rubric": "*Sticheron, Tone 1, Podoben: \"O All-Praised Martyrs\" (Всехва́лнїи мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "The cave in which thy sacred body lies, O venerable..."
     },
     {
@@ -1954,7 +1801,6 @@
       "normalized_rubric": "*At Matins, After the First Kathisma Verse-gathering, Sessional Hymn, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "Most radiant and light-bearing, O God-wise Anthony, is thy venerable..."
     },
     {
@@ -1969,7 +1815,6 @@
       "normalized_rubric": "*After the Second Kathisma Verse-gathering, Sessional Hymn, Tone 4, Podoben: \"Joseph was amazed\" (Оу҆диви́сѧ і҆ѡ́сифъ):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "A converse companion and fellow-servant of the fathers of the..."
     },
     {
@@ -1984,7 +1829,6 @@
       "normalized_rubric": "*After the Polyeleos: Sessional Hymn, Tone 8, Podoben: \"The Wisdom and Word\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Into the subterranean caves didst thou enter, O venerable one;..."
     },
     {
@@ -1999,7 +1843,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Joseph was amazed\" (Оу҆диви́сѧ і҆ѡ́сифъ):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Thy spiritual superior was amazed, beholding the great abstinence in..."
     },
     {
@@ -2014,7 +1857,6 @@
       "normalized_rubric": "*Kontakion, Tone 8, Podoben: \"To thee, the Champion Leader\" (Взбра́нной):*",
       "prescribed_model": "To thee, the Champion Leader",
       "model_id": "POD.T8.EXT_TO_THEE_THE",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Having dedicated thyself unto God, Whom thou didst love above..."
     },
     {
@@ -2029,7 +1871,6 @@
       "normalized_rubric": "*At the Praises, Stichera to 4, Tone 2, Podoben: \"When from the Tree\" (Е҆гда̀ ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "Desiring to see the ineffable joy of the saints and..."
     },
     {
@@ -2044,7 +1885,6 @@
       "normalized_rubric": "*At Lord, I have cried, Stichera, Tone 8, Podoben: \"O Marvelous Wonder\" (Ѡ҆ пресла́внагѡ чудесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "O marvelous wonder! The ewe-lamb of the Lord, emulating His..."
     },
     {
@@ -2059,7 +1899,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 6, Podoben: \"Having Laid Aside All\" (Всѐ ѿло́жше):*",
       "prescribed_model": "Having laid aside all earthly hope",
       "model_id": "POD.T6.VSE_OTLOZHSHE",
-      "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
       "governed_hymn_opening": "A sword, as Simeon said, shall pierce through thy heart,..."
     },
     {
@@ -2074,7 +1913,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 6, Podoben: \"On the Third Day\" (Трїдне́венъ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "Beholding the most lawless people unjustly nailing Thee upon the..."
     },
     {
@@ -2089,7 +1927,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"The Wisdom and Word\" (Прему́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "By the streams of thy blood thou ever workest a..."
     },
     {
@@ -2104,7 +1941,6 @@
       "normalized_rubric": "*Kontakion, Tone 6, Podoben: \"Having Fulfilled the Dispensation\" (Е҆́же ѡ҆ на́съ):*",
       "prescribed_model": "Fulfilling the dispensation for our sake",
       "model_id": "POD.T6.EZHE_O_NAS",
-      "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
       "governed_hymn_opening": "Thou didst fervently undertake struggles in martyrdom, struggles in faith..."
     },
     {
@@ -2119,7 +1955,6 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"Give Ear, Ye Women\" (Жены̀ оу҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "A strange and marvelous, and great miracle, let all the..."
     },
     {
@@ -2134,7 +1969,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: \"O Marvelous Wonder\" (Пресла́внагѡ чудесѐ):*",
       "prescribed_model": "O Marvelous Wonder",
       "model_id": "POD.T4.EXT_O_MARVELOUS_WONDER",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Beholding Thee nailed upon the Cross, O Jesus, and willingly..."
     },
     {
@@ -2149,7 +1983,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 1, Podoben: \"O All-Praised Martyrs\" (Всехва́льніи му́чнцы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "When the ewe-lamb and spotless Sovereign Lady beheld her own..."
     },
     {
@@ -2164,7 +1997,6 @@
       "normalized_rubric": "*At \"Lord, I have cried\", Stichera, Tone 1, Podoben: \"Joy of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*Sticheron 1:* Having endured manifold torments, ye received radiant crowns..."
     },
     {
@@ -2179,7 +2011,6 @@
       "normalized_rubric": "*Other Stichera of the Venerable Father, Tone 5, Podoben: \"O venerable father\" (Преподо́бне ѻ҆́тче):*",
       "prescribed_model": "O venerable father",
       "model_id": "POD.T5.PREPODOBNE_OTCHE",
-      "byzantine_greek_automelon": "Ὅσιε Πάτερ",
       "governed_hymn_opening": "*Sticheron 1:* O venerable father, from youth thou didst love..."
     },
     {
@@ -2194,7 +2025,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 6,[^316] Podoben: \"Having risen on the third day\" (Трїдне́венъ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "Beholding our Life hanging upon the Tree, the all-immaculate Birthgiver..."
     },
     {
@@ -2209,7 +2039,6 @@
       "normalized_rubric": "*Kontakion of the Martyrs, Tone 4, Podoben: \"Thou Who wast lifted up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "As the morning star, the honorable suffering of the martyrs..."
     },
     {
@@ -2224,7 +2053,6 @@
       "normalized_rubric": "*Sessional Hymn, Tone 1, Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й Сп҃се):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Hilarion, ye faithful, and glorious Proclus, who suffered firmly and..."
     },
     {
@@ -2239,7 +2067,6 @@
       "normalized_rubric": "*Glory... of the Venerable Father, Tone 8, Podoben: \"The Wisdom and Word\" (Премꙋ́дрости):*[^320]",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "The rational lamb of Christ, who venerable-like pastured the Lord's..."
     },
     {
@@ -2254,7 +2081,6 @@
       "normalized_rubric": "*Kontakion of the Venerable Father, Tone 2, Podoben: \"Seeking the highest\" (Тве́рдыѧ):*[^324]",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "The heaviness of the flesh thou didst thin down by..."
     },
     {
@@ -2269,7 +2095,6 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"The heaven with stars\" (Не́бо ѕвѣзда́ми):*[^326]",
       "prescribed_model": "The heaven with stars",
       "model_id": "POD.T2.EXT_THE_HEAVEN_WITH",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Desiring the angelic life, thou didst distance thyself from all..."
     },
     {
@@ -2284,7 +2109,6 @@
       "normalized_rubric": "*At \"Lord, I have cried\", Stichera of the Archangel, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Sticheron 1:* The Pre-eternal Mind, having established a second light,..."
     },
     {
@@ -2299,7 +2123,6 @@
       "normalized_rubric": "*Other Stichera of the Venerable Father, Tone 8, Podoben: \"O marvelous wonder\" (Ѡ҆ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "*Sticheron 1:* O God-bearing father Stephen, having brightly strengthened thy..."
     },
     {
@@ -2314,7 +2137,6 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 6, Podoben: \"Having risen on the third day\" (Трїдне́венъ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "When the pure Lady beheld Thee hanging upon the Cross,..."
     },
     {
@@ -2329,7 +2151,6 @@
       "normalized_rubric": "*Sessional Hymn of the Archangel, Tone 4, Podoben: \"Thou Who wast lifted up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "Holding the primacy among the bodiless ministers, the pre-eternal decreed..."
     },
     {
@@ -2344,7 +2165,6 @@
       "normalized_rubric": "*Glory... of the Venerable Father, Tone 3, Podoben: \"Awed by the beauty of thy virginity\" (Красотѣ̀ дѣ́вства):*",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "The uprightness of thy life enlightens the steps of all,..."
     },
     {
@@ -2359,7 +2179,6 @@
       "normalized_rubric": "*Kontakion of the Archangel, Tone 2, Podoben: \"Seeking the highest\" (Тве́рдыѧ):*",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "Arch-strategist of God, minister of divine glory, leader of angels,..."
     },
     {
@@ -2374,7 +2193,6 @@
       "normalized_rubric": "*Exapostilarion, Tone 3, Podoben: \"Visited us\" (Посѣти́лъ ны̀):*",
       "prescribed_model": "Visited us",
       "model_id": "POD.T3.EXT_VISITED_US",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "O arch-strategist of God, encamp beneath the shelter of Thy..."
     },
     {
@@ -2389,7 +2207,6 @@
       "normalized_rubric": "*Stichera of the Apostle, 3, Tone 1, Podoben: \"Joy of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*Sticheron 1:* The great Paul, the sun of the universe,..."
     },
     {
@@ -2404,7 +2221,6 @@
       "normalized_rubric": "*Other Stichera of the Martyrs, 3, Tone 4, Podoben: \"As one valiant among martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "*Sticheron 1:* With mature mind, though immature in body, O..."
     },
     {
@@ -2419,7 +2235,6 @@
       "normalized_rubric": "*Both now... Theotokion or Stavrotheotokion, Tone 6, Podoben: \"Having risen on the third day\" (Трїдне́венъ):*",
       "prescribed_model": "Having risen on the third day",
       "model_id": "POD.T6.TRIDNEVEN_VOSKRESL_ESI",
-      "byzantine_greek_automelon": "Τριήμερος ἀνέστης",
       "governed_hymn_opening": "When the most lawless people unjustly nailed Thee to the..."
     },
     {
@@ -2434,7 +2249,6 @@
       "normalized_rubric": "*Both now... Theotokion or Stavrotheotokion, Tone 8, Podoben: \"What shall we call you\" (Что́ ва́съ нарече́мъ):*",
       "prescribed_model": "What shall we call you, O holy ones",
       "model_id": "POD.T8.CHTO_VAS_NARECHEM",
-      "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
       "governed_hymn_opening": "I cannot bear, O Child, to see Thee asleep upon..."
     },
     {
@@ -2449,7 +2263,6 @@
       "normalized_rubric": "*Sessional Hymn of the Apostle, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "Having illumined thy soul with the voices of Paul, thou..."
     },
     {
@@ -2464,7 +2277,6 @@
       "normalized_rubric": "*Glory... Of the Martyrs, Tone 4, Podoben: \"Joseph marveled\" (Оу҆диви́сѧ І҆ѡ́сифъ):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Truly a threefold-named martyr and preacher wast thou revealed, having..."
     },
     {
@@ -2479,7 +2291,6 @@
       "normalized_rubric": "*Kontakion of the Martyrs, Tone 4, Podoben: \"Thou hast appeared today\" (Ꙗ҆ви́лсѧ є҆сѝ):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Bearing Cyricus in her embrace, the martyr of Christ Julitta..."
     },
     {
@@ -2494,7 +2305,6 @@
       "normalized_rubric": "*Glory... Of the Martyrs, Tone 2, Podoben: \"Give ear, ye women\" (Жены̀ ᲂу҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "Rejoice, be adorned and dance for joy, radiantly celebrating, O..."
     },
     {
@@ -2509,7 +2319,6 @@
       "normalized_rubric": "*Both now... Theotokion or Stavrotheotokion, Tone 6, Podoben: \"O when from the Tree\" (Ѽ гдⷭ҇а ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "Beholding Thee nailed unto the Tree of the Cross, O..."
     },
     {
@@ -2524,7 +2333,6 @@
       "normalized_rubric": "*Both now... Theotokion or Stavrotheotokion, Tone 4, Podoben: \"As one valiant among martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "When she who bare Thee, as a ewe, beheld Thee,..."
     },
     {
@@ -2539,7 +2347,6 @@
       "normalized_rubric": "*At Vespers, Blessed is the man, the 1st antiphony. At \"Lord, I have cried,\" Stichera on 6, Tone 4, Podoben: \"As one valiant among martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "*Sticheron 1:* A second Constantine wast thou in word and..."
     },
     {
@@ -2554,7 +2361,6 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 8, Podoben: \"O most marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ!):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "*Sticheron 1:* O most marvelous wonder! A proud understanding is..."
     },
     {
@@ -2569,7 +2375,6 @@
       "normalized_rubric": "*Exapostilarion, Tone 2, Podoben: \"Give ear, ye women\" (Жены̀ ᲂу҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "Having enlightened the whole universe, ye were truly shown forth..."
     },
     {
@@ -2584,7 +2389,6 @@
       "normalized_rubric": "*At the Praises, Stichera, on 4. Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Sticheron 1:* A mighty weapon hast Thou given unto our..."
     },
     {
@@ -2599,41 +2403,10 @@
       "normalized_rubric": "*At \"Lord, I have cried,\" Stichera, Tone 8, Podoben: \"O most marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "*Sticheron 1:* Athenogenes the glorious, clad in the radiant garment..."
     },
     {
       "index": 120,
-      "tone": 8,
-      "locus": "p158",
-      "leaf": "p158",
-      "office": "MONTH OF JULY",
-      "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ѽ пресла́внагѡ чꙋдесѐ",
-      "verbatim_slavonic_witness": "Ѽ пресла́внагѡ чꙋдесѐ",
-      "normalized_rubric": "*Glory... Both now... Theotokion, Same Tone and Podoben:* Save me, O all-pure Lady, who ineffably didst give birth unto the Savior Christ: for thee alone have I acquired as a protectress, and an unassailable rampart, and a shelter and joy, and divine consolation of my soul; do thou therefore deliver me from the unsleeping worm, and from the everlasting fire, O Mother of Christ God!",
-      "prescribed_model": "Ѽ пресла́внагѡ чꙋдесѐ",
-      "model_id": "POD.T8.EXT_SLAV",
-      "byzantine_greek_automelon": "—",
-      "governed_hymn_opening": "*At Matins, the Canon, whose acrostic is: \"I sing the..."
-    },
-    {
-      "index": 121,
-      "tone": 8,
-      "locus": "p158",
-      "leaf": "p158",
-      "office": "MONTH OF JULY",
-      "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Ѽ пресла́внагѡ чꙋдесѐ",
-      "verbatim_slavonic_witness": "Ѽ пресла́внагѡ чꙋдесѐ",
-      "normalized_rubric": "*Stavrotheotokion, Same Podoben:* \"What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!\" said the weeping Birthgiver of God, when she saw Him Who ineffably shone forth from her, God and man, lifted up upon the Cross.",
-      "prescribed_model": "What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!",
-      "model_id": "POD.T8.EXT_WHAT_IS_THIS",
-      "byzantine_greek_automelon": "—",
-      "governed_hymn_opening": "*At Matins, the Canon, whose acrostic is: \"I sing the..."
-    },
-    {
-      "index": 122,
       "tone": 4,
       "locus": "p159",
       "leaf": "p159",
@@ -2644,11 +2417,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "Having first pre-cleansed thy soul by abstinence, and secondly by..."
     },
     {
-      "index": 123,
+      "index": 121,
       "tone": 2,
       "locus": "p161",
       "leaf": "p161",
@@ -2659,11 +2431,10 @@
       "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"Thou Who wast raised up\" (Вознесы́йсѧ):* Having followed the Master's saying, as an excellent shepherd thou didst lay down thy life for the sheep of Christ, O hieromartyr Athenogenes. Therefore we praise thee, and with thee the ten-numbered choir of thy disciples, who suffered, guided by the fear of God and by thy teaching. Therefore the Master crowned you, who pleased Him, with His life-originating right hand; Whom entreat for all of us.",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "*Ode 7. Heirmos:* The Chaldean furnace, kindled with fire, was..."
     },
     {
-      "index": 124,
+      "index": 122,
       "tone": 6,
       "locus": "p162",
       "leaf": "p162",
@@ -2674,11 +2445,10 @@
       "normalized_rubric": "*Tone 6, Podoben: \"Having laid aside all earthly hope\" (Ѿча́ѧнныѧ):*[^381]",
       "prescribed_model": "Having laid aside all earthly hope",
       "model_id": "POD.T6.VSE_OTLOZHSHE",
-      "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
       "governed_hymn_opening": "*Sticheron 1:* Out of the womb wast Thou born before..."
     },
     {
-      "index": 125,
+      "index": 123,
       "tone": 4,
       "locus": "p167",
       "leaf": "p167",
@@ -2689,11 +2459,10 @@
       "normalized_rubric": "*Sessional Hymn of the Fathers, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "Most radiant luminaries of Christ's truth did ye appear unto..."
     },
     {
-      "index": 126,
+      "index": 124,
       "tone": 8,
       "locus": "p170",
       "leaf": "p170",
@@ -2704,11 +2473,10 @@
       "normalized_rubric": "*Kontakion, Tone 8, Podoben: \"As the first-fruits\" (Ꙗ҆́кѡ нача́тки):*",
       "prescribed_model": "As the first-fruits",
       "model_id": "POD.T8.EXT_AS_THE_FIRSTFRUITS",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "The preaching of the apostles and the dogmas of the..."
     },
     {
-      "index": 127,
+      "index": 125,
       "tone": 2,
       "locus": "p173",
       "leaf": "p173",
@@ -2719,26 +2487,10 @@
       "normalized_rubric": "*Exapostilarion, Tone 2, Podoben: \"Give ear, ye women\" (Жены̀ ꙋ҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "Celebrating today the memory of the divine Fathers, by their..."
     },
     {
-      "index": 128,
-      "tone": 2,
-      "locus": "p173",
-      "leaf": "p173",
-      "office": "MONTH OF JULY",
-      "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Жены̀ ꙋ҆слы́шите",
-      "verbatim_slavonic_witness": "Жены̀ ꙋ҆слы́шите",
-      "normalized_rubric": "*Theotokion, Podoben:*",
-      "prescribed_model": "Give ear, ye women",
-      "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
-      "governed_hymn_opening": "Rejoice, palace of God! Rejoice, overshadowing mountain! Rejoice, unburnt bush!..."
-    },
-    {
-      "index": 129,
+      "index": 126,
       "tone": 6,
       "locus": "p173",
       "leaf": "p173",
@@ -2749,11 +2501,10 @@
       "normalized_rubric": "*At the Praises, Resurrectional Stichera, 4; and of the Fathers, 4. Tone 6, Podoben: \"Having laid aside all earthly hope\" (Всѐ ѿло́жше):*[^415]",
       "prescribed_model": "Having laid aside all earthly hope",
       "model_id": "POD.T6.VSE_OTLOZHSHE",
-      "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
       "governed_hymn_opening": "Having gathered together all spiritual skill, and having examined together..."
     },
     {
-      "index": 130,
+      "index": 127,
       "tone": 8,
       "locus": "p175",
       "leaf": "p175",
@@ -2764,11 +2515,10 @@
       "normalized_rubric": "*At \"Lord, I have cried\", Stichera on 6. Tone 8, Podoben: \"O most marvelous wonder\" (Ѡ҆ пресла́внагѡ чꙋдесѐ):*[^420]",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "O most marvelous wonder! The exalted haughtiness of him who..."
     },
     {
-      "index": 131,
+      "index": 128,
       "tone": 2,
       "locus": "p175",
       "leaf": "p175",
@@ -2779,11 +2529,10 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 2, Podoben: \"When from the Tree\" (Є҆гда̀ ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "Beholding Thee nailed unto the wood of the Cross, O..."
     },
     {
-      "index": 132,
+      "index": 129,
       "tone": 2,
       "locus": "p176",
       "leaf": "p176",
@@ -2794,11 +2543,10 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 2, Podoben: \"When from the Tree\" (Є҆гда̀ ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "When the undefiled ewe-lamb beheld her Lamb drawn willingly as..."
     },
     {
-      "index": 133,
+      "index": 130,
       "tone": 4,
       "locus": "p177",
       "leaf": "p177",
@@ -2809,11 +2557,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*[^422]",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "A radiant festival hath arisen for feast-lovers, the memory of..."
     },
     {
-      "index": 134,
+      "index": 131,
       "tone": 3,
       "locus": "p179",
       "leaf": "p179",
@@ -2824,11 +2571,10 @@
       "normalized_rubric": "*Kontakion, Tone 3, Podoben: \"Today the Virgin\" (Дѣ́ва дне́сь):*[^424]",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "Adorned with the beauties of virginity, O virgin, with incorruptible..."
     },
     {
-      "index": 135,
+      "index": 132,
       "tone": 2,
       "locus": "p181",
       "leaf": "p181",
@@ -2839,11 +2585,10 @@
       "normalized_rubric": "*Exapostilarion, Tone 2, Podoben: \"Give ear, ye women\" (Жены̀ ꙋ҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "Having been strengthened, O fair virgin, by the Cross of..."
     },
     {
-      "index": 136,
+      "index": 133,
       "tone": 4,
       "locus": "p181",
       "leaf": "p181",
@@ -2854,11 +2599,10 @@
       "normalized_rubric": "*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: \"O all-praised martyrs\" (Всехва́льніи мч҃енницы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "When the ewe-lamb and undefiled Lady beheld her Lamb upon..."
     },
     {
-      "index": 137,
+      "index": 134,
       "tone": 4,
       "locus": "p182",
       "leaf": "p182",
@@ -2869,11 +2613,10 @@
       "normalized_rubric": "*Stichera, Tone 4, Podoben: \"As one valiant\" (Ꙗ҆́кѡ до́блѧ):*[^432]",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "*Sticheron 1:* The Hellenic services hast thou crushed like dust,..."
     },
     {
-      "index": 138,
+      "index": 135,
       "tone": 4,
       "locus": "p182",
       "leaf": "p182",
@@ -2884,11 +2627,10 @@
       "normalized_rubric": "*Glory... Both now... Theotokion, Tone 4, Podoben: \"As one valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "With the showers of the All-holy Spirit, O all-pure one,..."
     },
     {
-      "index": 139,
+      "index": 136,
       "tone": 4,
       "locus": "p182",
       "leaf": "p182",
@@ -2899,11 +2641,10 @@
       "normalized_rubric": "*Stavrotheotokion, Podoben: \"As one valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "When she beheld Thee nailed upon the Cross, O Lord,..."
     },
     {
-      "index": 140,
+      "index": 137,
       "tone": 8,
       "locus": "p183",
       "leaf": "p183",
@@ -2914,11 +2655,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"Of Wisdom\" (Премꙋ́дрости):*[^434]",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Strengthened by divine power, the gods of the godless didst..."
     },
     {
-      "index": 141,
+      "index": 138,
       "tone": 3,
       "locus": "p185",
       "leaf": "p185",
@@ -2929,11 +2669,10 @@
       "normalized_rubric": "*Kontakion, Tone 3, Podoben: \"Of the divine Faith\" (Бж҃е́ственныѧ вѣ́ры):*[^435]",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Kindled with divine zeal, thou wast not afraid of the..."
     },
     {
-      "index": 142,
+      "index": 139,
       "tone": 4,
       "locus": "p187",
       "leaf": "p187",
@@ -2944,11 +2683,10 @@
       "normalized_rubric": "*Stichera of the Saint, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*[^437]",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Sticheron 1:* Incorruptibly and undefiledly didst thou preserve thy virginity,..."
     },
     {
-      "index": 143,
+      "index": 140,
       "tone": 4,
       "locus": "p188",
       "leaf": "p188",
@@ -2959,11 +2697,10 @@
       "normalized_rubric": "*Other Stichera of the Venerable Father, Tone 4, Podoben: \"As one valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "*Sticheron 1:* As a universal star intellectually shining upon the..."
     },
     {
-      "index": 144,
+      "index": 141,
       "tone": 4,
       "locus": "p188",
       "leaf": "p188",
@@ -2974,11 +2711,10 @@
       "normalized_rubric": "*Glory... Both now... Theotokion, Tone 4, Podoben: \"As one valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "O thou who didst hold in thy womb the uncontainable..."
     },
     {
-      "index": 145,
+      "index": 142,
       "tone": 4,
       "locus": "p188",
       "leaf": "p188",
@@ -2989,11 +2725,10 @@
       "normalized_rubric": "*Stavrotheotokion, Podoben: \"As one valiant\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "When she who bare Thee beheld Thee upon the Tree..."
     },
     {
-      "index": 146,
+      "index": 143,
       "tone": 2,
       "locus": "p190",
       "leaf": "p190",
@@ -3004,11 +2739,10 @@
       "normalized_rubric": "*Kontakion of the Venerable Father, Tone 2, Podoben: \"The firm\" (Тве́рдыѧ):*[^440]",
       "prescribed_model": "The firm",
       "model_id": "POD.T2.EXT_THE_FIRM",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Divinely armed with purity of soul, and having powerfully taken..."
     },
     {
-      "index": 147,
+      "index": 144,
       "tone": 4,
       "locus": "p190",
       "leaf": "p190",
@@ -3019,11 +2753,10 @@
       "normalized_rubric": "*Sessional Hymn of the Saint, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "Thy divine memory, O Macrina, having shone forth today, appeared..."
     },
     {
-      "index": 148,
+      "index": 145,
       "tone": 8,
       "locus": "p190",
       "leaf": "p190",
@@ -3034,11 +2767,10 @@
       "normalized_rubric": "*Glory... Of the Venerable Father, Tone 8, Podoben: \"Of Wisdom\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having been dedicated unto God from infancy, and having well-pleased..."
     },
     {
-      "index": 149,
+      "index": 146,
       "tone": 4,
       "locus": "p193",
       "leaf": "p193",
@@ -3049,11 +2781,10 @@
       "normalized_rubric": "*Kontakion of the Saint, Tone 4, Podoben: \"Thou hast appeared\" (Ꙗ҆ви́лсѧ є҆сѝ):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "The good God with all thy heart didst thou love,..."
     },
     {
-      "index": 150,
+      "index": 147,
       "tone": 1,
       "locus": "p197",
       "leaf": "p197",
@@ -3064,11 +2795,10 @@
       "normalized_rubric": "*At Vespers, the customary kathisma. At \"Lord, I have cried,\" stichera on 6: Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ); and Idiomela, Tone 2; Glory... Tone 6: \"Come, ye of the Orthodox...\" Both now... Theotokion, or Stavrotheotokion. At the Aposticha of the Oktoechos: Glory... Tone 6: \"O prophet, preacher of Christ...\" Both now... Theotokion. Troparion, Tone 4: \"An angel in the flesh...\" Glory... Both now... Theotokion, or Stavrotheotokion.*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "...or Stavrotheotokion."
     },
     {
-      "index": 151,
+      "index": 148,
       "tone": 1,
       "locus": "p197",
       "leaf": "p197",
@@ -3079,11 +2809,10 @@
       "normalized_rubric": "*At Small Vespers, at \"Lord, I have cried,\" stichera on 4. Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*Sticheron 1:* With the thrice-radiant light of the divine radiance,..."
     },
     {
-      "index": 152,
+      "index": 149,
       "tone": 2,
       "locus": "p198",
       "leaf": "p198",
@@ -3094,11 +2823,10 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"House of Ephratha\" (До́ме є҆ѵфра́ѳовъ):*",
       "prescribed_model": "House of Ephratha",
       "model_id": "POD.T2.EXT_HOUSE_OF_EPHRATHA",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Sticheron 1:* O divine prophet, being zealous for the Lord..."
     },
     {
-      "index": 153,
+      "index": 150,
       "tone": 1,
       "locus": "p198",
       "leaf": "p198",
@@ -3109,11 +2837,10 @@
       "normalized_rubric": "*At Great Vespers, at \"Lord, I have cried,\" stichera on 8. Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "*Sticheron 1:* O Word, Who by a fiery chariot didst..."
     },
     {
-      "index": 154,
+      "index": 151,
       "tone": 8,
       "locus": "p205",
       "leaf": "p205",
@@ -3124,11 +2851,10 @@
       "normalized_rubric": "*At the Aposticha, stichera, Tone 8, Podoben: \"O marvelous wonder\" (Ѡ҆ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "*Sticheron 1:* Elijah the marvelous prophet, having enlightened his mind..."
     },
     {
-      "index": 155,
+      "index": 152,
       "tone": 8,
       "locus": "p209",
       "leaf": "p209",
@@ -3139,11 +2865,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"The Wisdom\" (Премꙋ́дрости):*[^474]",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "The fountain of wonders, the adornment of the prophets, let..."
     },
     {
-      "index": 156,
+      "index": 153,
       "tone": 3,
       "locus": "p214",
       "leaf": "p214",
@@ -3154,11 +2879,10 @@
       "normalized_rubric": "*Exapostilarion, Tone 3, Podoben: \"O Light Immutable\" (Свѣ́те неизмѣ́нный):*",
       "prescribed_model": "O Light Immutable",
       "model_id": "POD.T3.EXT_O_LIGHT_IMMUTABLE",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "The light upon the fiery four-horse chariot, which revealed thee,..."
     },
     {
-      "index": 157,
+      "index": 154,
       "tone": 8,
       "locus": "p215",
       "leaf": "p215",
@@ -3169,11 +2893,10 @@
       "normalized_rubric": "*At the Praises, Stichera on 6, Tone 8, Podoben: \"What shall we call you\" (Что̀ вы́съ нарече́мъ):*",
       "prescribed_model": "What shall we call you, O holy ones",
       "model_id": "POD.T8.CHTO_VAS_NARECHEM",
-      "byzantine_greek_automelon": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
-      "index": 158,
+      "index": 155,
       "tone": 4,
       "locus": "p216",
       "leaf": "p216",
@@ -3184,11 +2907,10 @@
       "normalized_rubric": "*Stichera of the Venerable Ones, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
-      "index": 159,
+      "index": 156,
       "tone": 8,
       "locus": "p217",
       "leaf": "p217",
@@ -3199,11 +2921,10 @@
       "normalized_rubric": "*Other Stichera of the Prophet, Tone 8, Podoben: \"O marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O marvelous wonder",
       "model_id": "POD.T8.EXT_O_MARVELOUS_WONDER",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
-      "index": 160,
+      "index": 157,
       "tone": 4,
       "locus": "p219",
       "leaf": "p219",
@@ -3214,11 +2935,10 @@
       "normalized_rubric": "*Kontakion of the Prophet, Tone 4, Podoben: \"Thou hast appeared today\" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Thou wast revealed as God's prophet, O marvelous Ezekiel; thou..."
     },
     {
-      "index": 161,
+      "index": 158,
       "tone": 5,
       "locus": "p219",
       "leaf": "p219",
@@ -3229,11 +2949,10 @@
       "normalized_rubric": "*Sessional Hymn of the Venerable Ones, Tone 5, Podoben: \"Co-beginningless Word\" (Собезнача́льное сло́во):*",
       "prescribed_model": "The Word co-unoriginate",
       "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
-      "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
       "governed_hymn_opening": "Illumined with divine concord, ye walked in the paths leading..."
     },
     {
-      "index": 162,
+      "index": 159,
       "tone": 3,
       "locus": "p219",
       "leaf": "p219",
@@ -3244,11 +2963,10 @@
       "normalized_rubric": "*Glory, of the Prophet, Tone 3, Podoben: \"Awed by the beauty\" (Красотѣ̀ дѣ́вства):*",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "The Incarnation of the Word thou didst prefigure, illumined by..."
     },
     {
-      "index": 163,
+      "index": 160,
       "tone": 2,
       "locus": "p221",
       "leaf": "p221",
@@ -3259,11 +2977,10 @@
       "normalized_rubric": "*Kontakion of the Venerable Ones, Tone 2, Podoben: \"The firm and divinely-inspired preachers\" (Тве́рдыя):*",
       "prescribed_model": "The firm and divinely-inspired preachers",
       "model_id": "POD.T2.EXT_THE_FIRM_AND",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Him Who appeared bodiless in the flesh, and shone forth..."
     },
     {
-      "index": 164,
+      "index": 161,
       "tone": 8,
       "locus": "p224",
       "leaf": "p224",
@@ -3274,11 +2991,10 @@
       "normalized_rubric": "*Stichera of the Saint, Tone 8, Podoben: \"O marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O marvelous wonder",
       "model_id": "POD.T8.EXT_O_MARVELOUS_WONDER",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
-      "index": 165,
+      "index": 162,
       "tone": 4,
       "locus": "p225",
       "leaf": "p225",
@@ -3289,11 +3005,10 @@
       "normalized_rubric": "*Other Stichera of the Saint, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Sticheron 4:*"
     },
     {
-      "index": 166,
+      "index": 163,
       "tone": 6,
       "locus": "p225",
       "leaf": "p225",
@@ -3304,11 +3019,10 @@
       "normalized_rubric": "*Both now, Theotokion, or Stavrotheotokion, Tone 6, Podoben: \"Having set aside all the hope\" (Всѐ ѿло́жше):*",
       "prescribed_model": "Having laid aside all earthly hope",
       "model_id": "POD.T6.VSE_OTLOZHSHE",
-      "byzantine_greek_automelon": "Ὅλην ἀποθέμενοι",
       "governed_hymn_opening": "When of old the unblemished ewe-lamb and immaculate Lady beheld..."
     },
     {
-      "index": 167,
+      "index": 164,
       "tone": 8,
       "locus": "p226",
       "leaf": "p226",
@@ -3319,11 +3033,10 @@
       "normalized_rubric": "*Both now, Theotokion, or Stavrotheotokion, Tone 8, Podoben: \"O marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O marvelous wonder",
       "model_id": "POD.T8.EXT_O_MARVELOUS_WONDER",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Seeing Thee nailed to the Cross, O Jesus, and willingly..."
     },
     {
-      "index": 168,
+      "index": 165,
       "tone": 2,
       "locus": "p228",
       "leaf": "p228",
@@ -3334,11 +3047,10 @@
       "normalized_rubric": "*Kontakion of the Saint, Tone 2, Podoben: \"In fulfilling the dispensation\" (Е҆́же ѡ҆ на́съ):*",
       "prescribed_model": "Fulfilling the dispensation for our sake",
       "model_id": "POD.T6.EZHE_O_NAS",
-      "byzantine_greek_automelon": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
       "governed_hymn_opening": "As a hierarch offering sacrifices, O father, at the end..."
     },
     {
-      "index": 169,
+      "index": 166,
       "tone": 8,
       "locus": "p228",
       "leaf": "p228",
@@ -3349,11 +3061,10 @@
       "normalized_rubric": "*Sessional Hymn of the Saint, Tone 8, Podoben: \"The Wisdom and Word\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Unto the Word Who became poor by His abundant mercy,..."
     },
     {
-      "index": 170,
+      "index": 167,
       "tone": 4,
       "locus": "p228",
       "leaf": "p228",
@@ -3364,11 +3075,10 @@
       "normalized_rubric": "*Glory of the Saint, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "A radiant festival hath arrived, O ye lovers of feasts,..."
     },
     {
-      "index": 171,
+      "index": 168,
       "tone": 2,
       "locus": "p231",
       "leaf": "p231",
@@ -3379,11 +3089,10 @@
       "normalized_rubric": "*Kontakion of the Saint, Tone 2, Podoben: \"Today the Virgin\" (Дѣ́ва днесь):*",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "Standing, O all-glorious one, by the Savior's Cross with many..."
     },
     {
-      "index": 172,
+      "index": 169,
       "tone": 2,
       "locus": "p234",
       "leaf": "p234",
@@ -3394,11 +3103,10 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"O Changeless Light\" (Свѣ́те неизмѣ́нный):*",
       "prescribed_model": "O Changeless Light",
       "model_id": "POD.T2.EXT_O_CHANGELESS_LIGHT",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "The unsetting Sun, O Maiden, Who shone forth from the..."
     },
     {
-      "index": 173,
+      "index": 170,
       "tone": 4,
       "locus": "p235",
       "leaf": "p235",
@@ -3409,11 +3117,10 @@
       "normalized_rubric": "*At \"Lord, I have cried,\" Stichera, Tone 4, Podoben: \"All-lauded martyrs\" (Всехва́льнїи мꙋ́ченицы):*",
       "prescribed_model": "O all-lauded martyrs",
       "model_id": "POD.T1.VSEKHVALNII_MUCHENITSY",
-      "byzantine_greek_automelon": "Πανεύφημοι μάρτυρες",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
-      "index": 174,
+      "index": 171,
       "tone": 4,
       "locus": "p236",
       "leaf": "p236",
@@ -3424,11 +3131,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"The angelic choir\" (Ли́къ а҆́ггелскїй):*",
       "prescribed_model": "The angelic choir",
       "model_id": "POD.T4.EXT_THE_ANGELIC_CHOIR",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Having passed through tortures with valiant mind and received victory..."
     },
     {
-      "index": 175,
+      "index": 172,
       "tone": 4,
       "locus": "p240",
       "leaf": "p240",
@@ -3439,11 +3145,10 @@
       "normalized_rubric": "*Stichera of the Saint, on 6, Tone 4, Podoben: \"As one valiant among martyrs\" (Я́кѡ до́бля):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "*Sticheron 1:*"
     },
     {
-      "index": 176,
+      "index": 173,
       "tone": 2,
       "locus": "p240",
       "leaf": "p240",
@@ -3454,11 +3159,10 @@
       "normalized_rubric": "*Both now, Theotokion or Stavrotheotokion, Tone 2, Podoben: \"When from the Tree\" (Егда́ ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "Having endured many sorrows at the crucifixion of thy Son..."
     },
     {
-      "index": 177,
+      "index": 174,
       "tone": 2,
       "locus": "p241",
       "leaf": "p241",
@@ -3469,11 +3173,10 @@
       "normalized_rubric": "*Both now, Theotokion or Stavrotheotokion, Tone 2, Podoben: \"When from the Tree\" (Егда́ ѿ дре́ва):*",
       "prescribed_model": "When from the Tree",
       "model_id": "POD.T2.EGDA_OT_DREVA",
-      "byzantine_greek_automelon": "Ὅτε ἐκ τοῦ ξύλου",
       "governed_hymn_opening": "When the lawless people lifted Thee up upon the Tree,..."
     },
     {
-      "index": 178,
+      "index": 175,
       "tone": 4,
       "locus": "p242",
       "leaf": "p242",
@@ -3484,11 +3187,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Thy Tomb, O Savior\" (Гро́бъ тво́й):*[^536]",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Thy precious blood, O honorable one, like an alabaster box..."
     },
     {
-      "index": 179,
+      "index": 176,
       "tone": 4,
       "locus": "p243",
       "leaf": "p243",
@@ -3499,11 +3201,10 @@
       "normalized_rubric": "*Kontakion, Tone 4, Podoben: \"Thou Who wast lifted up upon the Cross\" (Вознесы́йся):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "A light-radiant dove wast thou shown to be, having golden..."
     },
     {
-      "index": 180,
+      "index": 177,
       "tone": 4,
       "locus": "p245",
       "leaf": "p245",
@@ -3514,11 +3215,10 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"Give ear, ye women\" (Же́ны оу҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "Like a most fair briar rose hast thou blossomed from..."
     },
     {
-      "index": 181,
+      "index": 178,
       "tone": 5,
       "locus": "p246",
       "leaf": "p246",
@@ -3529,11 +3229,10 @@
       "normalized_rubric": "*Both now, Theotokion or Stavrotheotokion, Tone 5, Podoben: \"Rejoice, O life-bearing Cross\" (Ра́дꙋйсѧ):*[^539]",
       "prescribed_model": "Rejoice, O life-bearing Cross",
       "model_id": "POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE",
-      "byzantine_greek_automelon": "Χαίροις ὁ ζωηφόρος Σταυρός",
       "governed_hymn_opening": "As a ransom for our sake and a great price,..."
     },
     {
-      "index": 182,
+      "index": 179,
       "tone": 1,
       "locus": "p247",
       "leaf": "p247",
@@ -3544,11 +3243,10 @@
       "normalized_rubric": "*Both now, Theotokion or Stavrotheotokion, Tone 1, Podoben: \"Joy of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Standing by the Cross of thy Son and God, and..."
     },
     {
-      "index": 183,
+      "index": 180,
       "tone": 4,
       "locus": "p247",
       "leaf": "p247",
@@ -3559,11 +3257,10 @@
       "normalized_rubric": "*At Small Vespers, Stichera, Tone 4, Podoben: \"As one valiant among martyrs\" (Ꙗ҆́кѡ до́блѧ):*",
       "prescribed_model": "As one valiant among martyrs",
       "model_id": "POD.T4.YAKO_DOBLYA",
-      "byzantine_greek_automelon": "Ὡς γενναῖον ἐν Μάρτυσιν",
       "governed_hymn_opening": "Most holy, radiant, and richly-festal hath your memory shone forth..."
     },
     {
-      "index": 184,
+      "index": 181,
       "tone": 2,
       "locus": "p248",
       "leaf": "p248",
@@ -3574,11 +3271,10 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 2, Podoben: \"O House of Ephratha\" (До́ме є҆ѵфра́ѳовъ):*",
       "prescribed_model": "O House of Ephratha",
       "model_id": "POD.T2.EXT_O_HOUSE_OF",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Having cleansed yourselves as a dwelling place for the Holy..."
     },
     {
-      "index": 185,
+      "index": 182,
       "tone": 8,
       "locus": "p248",
       "leaf": "p248",
@@ -3589,11 +3285,10 @@
       "normalized_rubric": "*On \"Lord, I have cried,\" Stichera, to 8. Tone 8, Podoben: \"O most marvelous wonder\" (Ѡ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "O most marvelous wonder! A divine and honorable pair of..."
     },
     {
-      "index": 186,
+      "index": 183,
       "tone": 2,
       "locus": "p249",
       "leaf": "p249",
@@ -3604,11 +3299,10 @@
       "normalized_rubric": "*Other Stichera, Tone 2, Podoben: \"With what crowns of praise\" (Кі́ими похва́льными):*",
       "prescribed_model": "With what crowns of praise",
       "model_id": "POD.T2.EXT_WITH_WHAT_CROWNS",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "With what crowns of praise shall we crown those who..."
     },
     {
-      "index": 187,
+      "index": 184,
       "tone": 4,
       "locus": "p251",
       "leaf": "p251",
@@ -3619,11 +3313,10 @@
       "normalized_rubric": "*At the Aposticha, Stichera to the Saints, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "*Come, lovers of chastity, let us honor the venerable pair..."
     },
     {
-      "index": 188,
+      "index": 185,
       "tone": 1,
       "locus": "f. 124r",
       "leaf": "p252",
@@ -3634,11 +3327,10 @@
       "normalized_rubric": "*At Matins, after the first stichology, Sessional Hymn, Tone 1, Podoben: \"The angelic choir\" (Ли́къ а҆́гг҃лскїй):*",
       "prescribed_model": "The angelic choir",
       "model_id": "POD.T1.EXT_THE_ANGELIC_CHOIR",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Enduring your passion with your patience and courage, O Prince..."
     },
     {
-      "index": 189,
+      "index": 186,
       "tone": 1,
       "locus": "f. 124r",
       "leaf": "p252",
@@ -3649,11 +3341,10 @@
       "normalized_rubric": "*After the second stichology, Sessional Hymn, Tone 1, Podoben: \"The angelic choir\" (Ли́къ а҆́гг҃лскїй):*",
       "prescribed_model": "The angelic choir",
       "model_id": "POD.T1.EXT_THE_ANGELIC_CHOIR",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Having loved Christ together from youth, O venerable brethren, having..."
     },
     {
-      "index": 190,
+      "index": 187,
       "tone": 8,
       "locus": "f. 124r",
       "leaf": "p252",
@@ -3664,11 +3355,10 @@
       "normalized_rubric": "*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: \"The Wisdom and Word\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "*Having known the good commandments of Christ, having loved Him..."
     },
     {
-      "index": 191,
+      "index": 188,
       "tone": 1,
       "locus": "p255",
       "leaf": "p255",
@@ -3679,11 +3369,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 1, Podoben: \"The angelic choir\" (Ли́къ а҆́гг҃лскїй):*",
       "prescribed_model": "The angelic choir",
       "model_id": "POD.T1.EXT_THE_ANGELIC_CHOIR",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "*Having loved Christ together from youth, O venerable brethren, having..."
     },
     {
-      "index": 192,
+      "index": 189,
       "tone": 3,
       "locus": "p258",
       "leaf": "p258",
@@ -3694,11 +3383,10 @@
       "normalized_rubric": "*Kontakion, Tone 3, Podoben: \"Today the Virgin\" (Дѣ́ва дне́сь):*",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "*Today your all-glorious memory has shone forth, O noble passion-bearers*..."
     },
     {
-      "index": 193,
+      "index": 190,
       "tone": 3,
       "locus": "p263",
       "leaf": "p263",
@@ -3709,11 +3397,10 @@
       "normalized_rubric": "*Tone 3, Podoben: \"Thou hast visited us\" (Посѣти́лъ ны́):*[^562]",
       "prescribed_model": "Thou hast visited us",
       "model_id": "POD.T3.EXT_THOU_HAST_VISITED",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "As truly most radiant luminaries, you enlightened the whole universe..."
     },
     {
-      "index": 194,
+      "index": 191,
       "tone": 1,
       "locus": "p263",
       "leaf": "p263",
@@ -3724,11 +3411,10 @@
       "normalized_rubric": "*At the Praises, Stichera on 4, Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ):*[^563]",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "The radiant and holy and beauteous all-festal memory of the..."
     },
     {
-      "index": 195,
+      "index": 192,
       "tone": 4,
       "locus": "p264",
       "leaf": "p264",
@@ -3739,11 +3425,10 @@
       "normalized_rubric": "*At Vespers, having recited \"Blessed is the man\", the first Kathisma glory. At \"Lord, I have cried\", we set 8 stichera, and sing stichera, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*[^565]",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "Keeping the statutes of justification unharmed, and serving God the..."
     },
     {
-      "index": 196,
+      "index": 193,
       "tone": 4,
       "locus": "p264",
       "leaf": "p264",
@@ -3754,11 +3439,10 @@
       "normalized_rubric": "*Other Stichera, Tone 4, Podoben: \"O marvelous wonder\" (Ѡ҆ ди́внагѡ чудесѐ):*[^566]",
       "prescribed_model": "O marvelous wonder",
       "model_id": "POD.T4.EXT_O_MARVELOUS_WONDER",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "O radiant solemnity, and bright day, and joyful to the..."
     },
     {
-      "index": 197,
+      "index": 194,
       "tone": 5,
       "locus": "p266",
       "leaf": "p266",
@@ -3769,11 +3453,10 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 5, Podoben: \"Rejoice\" (Ра́дуйсѧ):*[^569]",
       "prescribed_model": "Rejoice, O container of ascetics",
       "model_id": "POD.T5.RADUISYA_POSTNIKOV",
-      "byzantine_greek_automelon": "Χαίροις ἀσκητικῶν",
       "governed_hymn_opening": "Rejoice, spiritual swallow, that didst announce the spring of grace..."
     },
     {
-      "index": 198,
+      "index": 195,
       "tone": 8,
       "locus": "p269",
       "leaf": "p269",
@@ -3784,11 +3467,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"The mystery commanded\" (Повелѣ́нное):*[^574]",
       "prescribed_model": "That which was commanded mystically",
       "model_id": "POD.T8.POVELENNOE_TAINSTVENNO",
-      "byzantine_greek_automelon": "Τὸ προσταχθὲν μυστικῶς",
       "governed_hymn_opening": "Keeping vigil in secret prayers, and delighting in the divinely-inspired..."
     },
     {
-      "index": 199,
+      "index": 196,
       "tone": 1,
       "locus": "p271",
       "leaf": "p271",
@@ -3799,11 +3481,10 @@
       "normalized_rubric": "*Stichera of the Holy Women, Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ):*[^576]",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Let us worthily honor in hymns with one accord Olympias,..."
     },
     {
-      "index": 200,
+      "index": 197,
       "tone": 4,
       "locus": "p271",
       "leaf": "p271",
@@ -3814,11 +3495,10 @@
       "normalized_rubric": "*After the 1st Kathisma, Sessional Hymn, Tone 4, Podoben: \"Speedily anticipate\" (Ско́рѡ предварѝ):*",
       "prescribed_model": "Speedily anticipate",
       "model_id": "POD.T4.SKORO_PREDVARI",
-      "byzantine_greek_automelon": "Ταχὺ προκατάλαβε",
       "governed_hymn_opening": "We celebrate thy dormition, O righteous Anna, for Christ God..."
     },
     {
-      "index": 201,
+      "index": 198,
       "tone": 4,
       "locus": "p271",
       "leaf": "p271",
@@ -3829,11 +3509,10 @@
       "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: \"Joseph marveled\" (Оу҆диви́сѧ їѡ́сифъ):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Having surrendered thy soul into the hands of Him Who..."
     },
     {
-      "index": 202,
+      "index": 199,
       "tone": 5,
       "locus": "p272",
       "leaf": "p272",
@@ -3844,11 +3523,10 @@
       "normalized_rubric": "*After the Polyeleos After the Polyeleos, Sessional Hymn, Tone 5, Podoben: \"Co-beginningless Word\" (Собезначáлное сло́во):*",
       "prescribed_model": "The Word co-unoriginate",
       "model_id": "POD.T5.SLOVO_SOBEZNACHALNOE",
-      "byzantine_greek_automelon": "Τὸν συνάναρχον Λόγον",
       "governed_hymn_opening": "The multitudes of angels glorify thee, and the human race..."
     },
     {
-      "index": 203,
+      "index": 200,
       "tone": 8,
       "locus": "p273",
       "leaf": "p273",
@@ -3859,11 +3537,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"The Wisdom and Word\" (Премꙋ́дрости):*[^580]",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Thou wast mother of the Mother of the Master and..."
     },
     {
-      "index": 204,
+      "index": 201,
       "tone": 2,
       "locus": "p274",
       "leaf": "p274",
@@ -3874,11 +3551,10 @@
       "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"Seeking the highest\" (Вы́шнихъ и҆щѧ̀):*[^581]",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "We celebrate the memory of Christ's ancestors, [faithfully asking...] faithfully..."
     },
     {
-      "index": 205,
+      "index": 202,
       "tone": 2,
       "locus": "p277",
       "leaf": "p277",
@@ -3889,11 +3565,10 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"With the disciples\" (Со оу҆чени́ки):*[^583]",
       "prescribed_model": "With the disciples",
       "model_id": "POD.T2.EXT_WITH_THE_DISCIPLES",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "As is right and meet let us sing of divinely-called..."
     },
     {
-      "index": 206,
+      "index": 203,
       "tone": 2,
       "locus": "p277",
       "leaf": "p277",
@@ -3904,11 +3579,10 @@
       "normalized_rubric": "*Glory, both now, Podoben: \"Heaven with stars\" (Не́бо ѕвѣзда́ми):*[^584]",
       "prescribed_model": "Heaven with stars",
       "model_id": "POD.T2.EXT_HEAVEN_WITH_STARS",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Having given birth to the new heaven, Mary, from whom..."
     },
     {
-      "index": 207,
+      "index": 204,
       "tone": 1,
       "locus": "p277",
       "leaf": "p277",
@@ -3919,11 +3593,10 @@
       "normalized_rubric": "*At the Praises, Stichera on 4, Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Celebrating the honorable memory, we sing unto Thee, O Christ,..."
     },
     {
-      "index": 208,
+      "index": 205,
       "tone": 8,
       "locus": "p278",
       "leaf": "p278",
@@ -3934,11 +3607,10 @@
       "normalized_rubric": "*Stichera, Tone 8, Podoben: \"O most marvelous wonder\" (Ѡ҆ пресла́внагѡ чꙋдесѐ):*[^588]",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "O martyr-sufferer Hermolaus, having once hidden thyself for fear of..."
     },
     {
-      "index": 209,
+      "index": 206,
       "tone": 8,
       "locus": "p280",
       "leaf": "p280",
@@ -3949,11 +3621,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 8, Podoben: \"The Wisdom and Word\" (Премꙋ́дрости):*[^590]",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having sacredly finished thy life, thou wast shown to be..."
     },
     {
-      "index": 210,
+      "index": 207,
       "tone": 4,
       "locus": "f. 137v",
       "leaf": "p281",
@@ -3964,11 +3635,10 @@
       "normalized_rubric": "*Kontakion, Tone 4, Podoben: \"Thou Who wast lifted up\" (Вознесы́йся):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "Having lived piously as a hierarch, thou didst receive the..."
     },
     {
-      "index": 211,
+      "index": 208,
       "tone": 4,
       "locus": "f. 138v",
       "leaf": "p283",
@@ -3979,11 +3649,10 @@
       "normalized_rubric": "*Tone 4, Podoben: \"Thou Who wast called from on high\" (Зва́нный свы́ше):*",
       "prescribed_model": "Being called from on high",
       "model_id": "POD.T4.ZVANNYI_SVYSHE",
-      "byzantine_greek_automelon": "Ὁ κληθεὶς ἄνωθεν",
       "governed_hymn_opening": "When thou didst extend loving care of souls unto all,..."
     },
     {
-      "index": 212,
+      "index": 209,
       "tone": 1,
       "locus": "f. 141v",
       "leaf": "p285",
@@ -3994,11 +3663,10 @@
       "normalized_rubric": "*At the Aposticha, Stichera, Tone 1, Podoben: \"Joy of the heavenly hosts\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Panteleimon *[Fol. 142r]*"
     },
     {
-      "index": 213,
+      "index": 210,
       "tone": 1,
       "locus": "f. 142r",
       "leaf": "p286",
@@ -4009,11 +3677,10 @@
       "normalized_rubric": "*At Matins, after the 1st Kathisma, Sessional Hymn, Tone 1, Podoben: \"The soldiers keeping watch at Thy tomb\" (Гро́бъ тво́й):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Thou didst preserve thy mother's piety, O blessed one, and..."
     },
     {
-      "index": 214,
+      "index": 211,
       "tone": 4,
       "locus": "f. 142r",
       "leaf": "p286",
@@ -4024,11 +3691,10 @@
       "normalized_rubric": "*After the 2nd Kathisma, Sessional Hymn, Tone 4, Podoben: \"Thou Who wast lifted up\" (Вознесы́йся):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "As an invincible soldier of Christ and a passion-bearer *[Fol...."
     },
     {
-      "index": 215,
+      "index": 212,
       "tone": 8,
       "locus": "f. 142v",
       "leaf": "p287",
@@ -4039,11 +3705,10 @@
       "normalized_rubric": "*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: \"The Wisdom\" (Премꙋ́дрости):*",
       "prescribed_model": "Guiding unto wisdom",
       "model_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
-      "byzantine_greek_automelon": "Τῆς σοφίας ὁδηγέ",
       "governed_hymn_opening": "Having nobly borne witness for Christ and having proclaimed the..."
     },
     {
-      "index": 216,
+      "index": 213,
       "tone": 4,
       "locus": "f. 142v",
       "leaf": "p287",
@@ -4054,11 +3719,10 @@
       "normalized_rubric": "*Glory, Tone 4, Podoben: \"Thou hast appeared today\" (Ꙗ҆ви́лся є҆сѝ):*",
       "prescribed_model": "Thou hast appeared today",
       "model_id": "POD.T4.YAVILSYA_ESI_DNESS",
-      "byzantine_greek_automelon": "Ἐπεφάνης σήμερον",
       "governed_hymn_opening": "Today the universe celebrates thy venerable contests, O sufferer Panteleimon,..."
     },
     {
-      "index": 217,
+      "index": 214,
       "tone": 4,
       "locus": "f. 143r",
       "leaf": "p288",
@@ -4069,11 +3733,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 4, Podoben: \"Joseph marveled\" (Оу҆диви́ся їѡ́сифъ):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "Let us, the faithful, radiantly praise the noble sufferer of..."
     },
     {
-      "index": 218,
+      "index": 215,
       "tone": 4,
       "locus": "f. 143v",
       "leaf": "p289",
@@ -4084,11 +3747,10 @@
       "normalized_rubric": "*Glory, another, in the same tone and podoben (Tone 4, Podoben: \"Joseph marveled\" (*Оу҆диви́ся їѡ́сифъ*)):*",
       "prescribed_model": "Joseph was amazed",
       "model_id": "POD.T4.UDIVISIA_IOSIF",
-      "byzantine_greek_automelon": "Κατεπλάγη Ἰωσήφ",
       "governed_hymn_opening": "O martyr, thou didst listen to the words of wise..."
     },
     {
-      "index": 219,
+      "index": 216,
       "tone": 5,
       "locus": "f. 145r",
       "leaf": "p292",
@@ -4099,11 +3761,10 @@
       "normalized_rubric": "*Exapostilarion, Podoben: \"With the disciples\" (Оу҆чн҃кѡ́мъ):*",
       "prescribed_model": "With the disciples",
       "model_id": "POD.T5.EXT_WITH_THE_DISCIPLES",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "God, foreseeing thy merciful soul, proclaimed thee Panteleimon;[^607] for gratuitously..."
     },
     {
-      "index": 220,
+      "index": 217,
       "tone": 8,
       "locus": "f. 145r",
       "leaf": "p292",
@@ -4114,11 +3775,10 @@
       "normalized_rubric": "*At the Praises, Stichera on 4, Tone 8, Podoben: \"O most marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "Greatly was the providence of the Most High that was..."
     },
     {
-      "index": 221,
+      "index": 218,
       "tone": 1,
       "locus": "f. 145v",
       "leaf": "p293",
@@ -4129,11 +3789,10 @@
       "normalized_rubric": "*Stichera, Tone 1, Podoben: \"Joy of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "By the divine election ye were preferred to minister unto..."
     },
     {
-      "index": 222,
+      "index": 219,
       "tone": 2,
       "locus": "f. 146v",
       "leaf": "p295",
@@ -4144,11 +3803,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 2, Podoben: \"Of the divine faith\" (Бж҃е́ственныя вѣ́ры):*",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "As divine trumpets of truth, honorable vessels of piety, and..."
     },
     {
-      "index": 223,
+      "index": 220,
       "tone": 1,
       "locus": "f. 147r",
       "leaf": "p296",
@@ -4159,11 +3817,10 @@
       "normalized_rubric": "*Kontakion, Tone 1, Podoben: \"The virginal womb\" (Оу҆тро́бꙋ дв҃чꙋ):*",
       "prescribed_model": "Today the Virgin",
       "model_id": "POD.T3.DEVA_DNESS",
-      "byzantine_greek_automelon": "Ἡ Παρθένος σήμερον",
       "governed_hymn_opening": "Honorable deacons and eyewitnesses of the Word, and chosen vessels..."
     },
     {
-      "index": 224,
+      "index": 221,
       "tone": 8,
       "locus": "f. 148r",
       "leaf": "p298",
@@ -4174,11 +3831,10 @@
       "normalized_rubric": "*At \"Lord, I have cried,\" Stichera, Tone 8, Podoben: \"O most marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "O godly-wise martyr Callinicus, desiring to die piously rather than..."
     },
     {
-      "index": 225,
+      "index": 222,
       "tone": 8,
       "locus": "f. 148r",
       "leaf": "p298",
@@ -4189,11 +3845,10 @@
       "normalized_rubric": "*Both now, Theotokion, in the same tone and podoben (Tone 8, Podoben: \"O most marvelous wonder\" (*Ѽ пресла́внагѡ чꙋдесѐ*)):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "Having taken flesh from thy blood, the pre-eternal God showed..."
     },
     {
-      "index": 226,
+      "index": 223,
       "tone": 8,
       "locus": "f. 148r",
       "leaf": "p298",
@@ -4204,11 +3859,10 @@
       "normalized_rubric": "*Stavrotheotokion, in the same tone and podoben (Tone 8, Podoben: \"O most marvelous wonder\" (*Ѽ пресла́внагѡ чꙋдесѐ*)):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "What is this visible sight which is seen by mine..."
     },
     {
-      "index": 227,
+      "index": 224,
       "tone": 2,
       "locus": "f. 148v",
       "leaf": "p299",
@@ -4219,11 +3873,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 2, Podoben: \"Of the divine faith\" (Бж҃е́ственныя вѣ́ры):*",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Having divine zeal in thy soul, O glorious one, thou..."
     },
     {
-      "index": 228,
+      "index": 225,
       "tone": 2,
       "locus": "f. 149v",
       "leaf": "p301",
@@ -4234,11 +3887,10 @@
       "normalized_rubric": "*Kontakion, Tone 2, Podoben: \"Seeking the highest\" (Вы́шнихъ и҆щѧ̀):*",
       "prescribed_model": "Seeking the highest",
       "model_id": "POD.T2.VYSHNIKH_ISHCHA",
-      "byzantine_greek_automelon": "Τὰ ἄνω ζητῶν",
       "governed_hymn_opening": "Thou hast worthily inherited the highest delights, O Callinicus; for..."
     },
     {
-      "index": 229,
+      "index": 226,
       "tone": 4,
       "locus": "f. 150v",
       "leaf": "p303",
@@ -4249,11 +3901,10 @@
       "normalized_rubric": "*At \"Lord, I have cried,\" Stichera, Tone 4, Podoben: \"Thou hast given a sign\" (Да́лъ є҆сѝ зна́менїе):*",
       "prescribed_model": "Thou hast given a sign",
       "model_id": "POD.T4.DALS_ESI_ZNAMENIE",
-      "byzantine_greek_automelon": "Ἔδωκας σημείωσιν",
       "governed_hymn_opening": "Illumined with divine outpourings of light, O apostles, like winged..."
     },
     {
-      "index": 230,
+      "index": 227,
       "tone": 3,
       "locus": "f. 151r",
       "leaf": "p304",
@@ -4264,11 +3915,10 @@
       "normalized_rubric": "*Sessional Hymn, Tone 3, Podoben: \"Of the divine faith\" (Бж҃е́ственныя вѣ́ры):*",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Having become the divine coal of the Comforter, kindled with..."
     },
     {
-      "index": 231,
+      "index": 228,
       "tone": 4,
       "locus": "f. 152r",
       "leaf": "p306",
@@ -4279,11 +3929,10 @@
       "normalized_rubric": "*Kontakion, Tone 4, Podoben: \"Lifted up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "Ye were shown forth as vines of Christ's vineyard, bearing..."
     },
     {
-      "index": 232,
+      "index": 229,
       "tone": 4,
       "locus": "f. 153r",
       "leaf": "p308",
@@ -4294,11 +3943,10 @@
       "normalized_rubric": "*At \"Lord, I have cried,\" Stichera of the Cross, Tone 4, Podoben: \"Of the heavenly ranks\" (Небе́сныхъ чинѡ́въ):*",
       "prescribed_model": "Joy of the heavenly ranks",
       "model_id": "POD.T1.NEBESNYKH_CHINOV",
-      "byzantine_greek_automelon": "Τῶν οὐρανίων ταγμάτων",
       "governed_hymn_opening": "Let all human nature now joyfully dance, keeping the forefeast;..."
     },
     {
-      "index": 233,
+      "index": 230,
       "tone": 8,
       "locus": "f. 153r",
       "leaf": "p308",
@@ -4309,11 +3957,10 @@
       "normalized_rubric": "*Other Stichera, of the Saint, Tone 8, Podoben: \"O most marvelous wonder\" (Ѽ пресла́внагѡ чꙋдесѐ):*",
       "prescribed_model": "O most marvelous wonder",
       "model_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
-      "byzantine_greek_automelon": "Ὢ τοῦ παραδόξου θαύματος",
       "governed_hymn_opening": "O blessed and godly-wise Eudocimus, thy pure soul, shining with..."
     },
     {
-      "index": 234,
+      "index": 231,
       "tone": 4,
       "locus": "f. 154v",
       "leaf": "p311",
@@ -4324,11 +3971,10 @@
       "normalized_rubric": "*Glory... Both now... of the Cross, Tone 4, Podoben: \"Lifted up\" (Вознесы́йсѧ):*",
       "prescribed_model": "Thou Who wast lifted up upon the Cross",
       "model_id": "POD.T4.VOZNESYISYA_NA_KREST",
-      "byzantine_greek_automelon": "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ",
       "governed_hymn_opening": "Radiantly it is shown forth brighter than the sun; with..."
     },
     {
-      "index": 235,
+      "index": 232,
       "tone": 2,
       "locus": "f. 157v",
       "leaf": "p317",
@@ -4339,7 +3985,6 @@
       "normalized_rubric": "*Both now... of the Cross, Podoben: \"Give ear, ye women\" (Жєны̀ ᲂу҆слы́шите):*",
       "prescribed_model": "Give ear, ye women",
       "model_id": "POD.EXAP.ZHENY_USLYSHITE",
-      "byzantine_greek_automelon": "Γυναῖκες ἀκουτίσθητε",
       "governed_hymn_opening": "The Cross is kept as a forefeast, and the world..."
     }
   ]

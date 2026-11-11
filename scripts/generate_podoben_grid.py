@@ -122,7 +122,11 @@ def parse_by_leaf(text: str) -> Dict[int, List[str]]:
     curr_leaf = 0
     for raw_ln in text.splitlines():
         ln = raw_ln.strip()
-        m = re.match(r"^===\s*LEAF\s+p?(\d+)\s*===$", ln, re.IGNORECASE)
+        m = re.match(
+            r"^===\s*LEAF\s+p?(\d+)(?:\s*\([^=\n]*\))?\s*===(?:\s*\([^\n]*\))?\s*$",
+            ln,
+            re.IGNORECASE,
+        )
         if m:
             curr_leaf = int(m.group(1))
             by_leaf[curr_leaf] = []
@@ -166,7 +170,11 @@ def build_cohort_coordinate_maps(
             ln = raw_ln.strip()
             if not ln:
                 continue
-            m_lf = re.match(r"^===\s*LEAF\s+p?(\d+)\s*===$", ln, re.IGNORECASE)
+            m_lf = re.match(
+                r"^===\s*LEAF\s+p?(\d+)(?:\s*\([^=\n]*\))?\s*===(?:\s*\([^\n]*\))?\s*$",
+                ln,
+                re.IGNORECASE,
+            )
             if m_lf:
                 curr_leaf = int(m_lf.group(1))
                 if curr_leaf not in leaf_locus_map:
@@ -495,7 +503,6 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
                 "normalized_rubric": ln,
                 "prescribed_model": model_title,
                 "model_id": model_id,
-                "byzantine_greek_automelon": greek_automelon,
                 "governed_hymn_opening": governed_hymn,
             })
 
@@ -507,7 +514,6 @@ def extract_podoben_grid_data(monument_id: str = "1630_lviv_octoechos") -> Tuple
                 "model_id": m_id,
                 "tone": inv["tone"],
                 "prescribed_model": inv["prescribed_model"],
-                "byzantine_greek_automelon": inv["byzantine_greek_automelon"],
                 "total_invocations": 0,
                 "first_locus": f"{inv['locus']} ({inv['leaf']})",
                 "attested_loci": [],
@@ -551,8 +557,8 @@ def generate_podoben_grid_markdown(
         "",
         "## Part I: Prescribed Melodic Model Families",
         "",
-        "| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |",
-        "| :---: | :--- | :--- | :---: | :---: | :--- | :--- |",
+        "| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |",
+        "| :---: | :--- | :--- | :---: | :---: | :--- |",
     ]
 
     for fam in sorted(summary_stats["families"], key=lambda f: (f["tone"], -f["total_invocations"])):
@@ -560,7 +566,7 @@ def generate_podoben_grid_markdown(
         if len(fam["attested_loci"]) > 5:
             all_loci_str += f" (+{len(fam['attested_loci']) - 5} more)"
         lines.append(
-            f"| Tone {fam['tone']} | `{fam['model_id']}` | **{fam['prescribed_model']}** | {fam['total_invocations']} | `{fam['first_locus']}` | {all_loci_str} | *{fam['byzantine_greek_automelon']}* |"
+            f"| Tone {fam['tone']} | `{fam['model_id']}` | **{fam['prescribed_model']}** | {fam['total_invocations']} | `{fam['first_locus']}` | {all_loci_str} |"
         )
 
     lines.extend([

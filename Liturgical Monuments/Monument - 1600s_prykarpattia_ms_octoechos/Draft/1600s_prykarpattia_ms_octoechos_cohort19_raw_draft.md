@@ -266,7 +266,7 @@ O divine clouds of the Master, with divine showers water now my heart that has b
 === LEAF p187 ===
 [Thursday.]
 *Theotokion:*
-Together with the holy Angels, with the divine Apostles, and with the glorious Martyrs, pray Thy Son and God, O all-immaculate Mother of God, to deliver our souls from afflictions!
+Together with the holy Angels, with the divine Apostles, and with the glorious Martyrs, pray thy Son and God, O all-immaculate Mother of God, to deliver our souls from afflictions!
 
 *Another Heirmos: Rejoice, O Isaiah...*
 *Troparion 1:*

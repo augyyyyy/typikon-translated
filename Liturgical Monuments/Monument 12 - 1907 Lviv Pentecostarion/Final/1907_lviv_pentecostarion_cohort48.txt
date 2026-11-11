@@ -25,7 +25,7 @@ O Lord, having fulfilled as the Good One the mystery hidden from ages and from g
 Thou wast born as Thou Thyself didst will; Thou didst appear as Thou Thyself didst desire; Thou didst suffer in the flesh, O our God; Thou didst rise from the dead, having trampled down death; Thou didst ascend in glory, filling all things, and Thou didst send unto us the divine Spirit, that we might hymn and glorify Thy Godhead.[^1560]
 
 *Verse: Clap your hands, all ye nations; shout unto God with the voice of rejoicing. (Ps. 46:1)*[^1561]  
-When Thou wast taken up, O Christ, from the Mount of Olives, the Powers, seeing it, cried one to another: Who is this? And one saith unto them: This is the Mighty and Strong One; this is the Mighty in battle; this is truly the King of glory! And why are His garments crimson? He comes from Bosor, which is the flesh! And Thou Thyself, sitting as God at the right hand of Majesty, hast sent unto us the Holy Spirit, that He may guide and save our souls.[^1562]
+When Thou wast taken up, O Christ, from the Mount of Olives, the Powers, seeing it, cried one to another: Who is this? And one says unto them: This is the Mighty and Strong One; this is the Mighty in battle; this is truly the King of glory! And why are His garments crimson? He comes from Bosor, which is the flesh! And Thou Thyself, sitting as God at the right hand of Majesty, hast sent unto us the Holy Spirit, that He may guide and save our souls.[^1562]
 
 *Verse: God is gone up with a shout, the Lord with the sound of a trumpet. (Ps. 46:5)*[^1563]  
 Thou hast ascended in glory upon the Mount of Olives, O Christ God, before Thy Disciples, and Thou didst sit at the right hand of the Father, filling all things with Thy Godhead; and Thou didst send unto them the Holy Spirit, enlightening, confirming, and sanctifying our souls.[^1564]
@@ -51,7 +51,7 @@ God is gone up with a shout, the Lord with the sound of a trumpet, to lift up th
 
 *The prayers: "Remember, O Lord, in hope...": we do not say. The beginning of Matins according to custom.*[^1574]
 
-*And immediately the reader saith: "Come, let us worship..." (Thrice), and the customary two Psalms, 19 and 20, and the Six Psalms.*[^1575]
+*And immediately the reader says: "Come, let us worship..." (Thrice), and the customary two Psalms, 19 and 20, and the Six Psalms.*[^1575]
 
 === LEAF p473 ===
 ## ON THURSDAY OF THE ASCENSION, AT MATINS[^1576]

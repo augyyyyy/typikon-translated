@@ -5,9 +5,7 @@ Brethren, having therefore boldness to enter into the holies by the blood of Jes
 *Then, the Gospel from John, pericopa 59 [John 18:28–19:37]:*  
 *At that time, they led Jesus from Caiaphas into the Praetorium... Ending: They shall look on Him Whom they pierced.*
 
-*Then: Cast us not off unto the end... Trisagion. After Our Father: Kontakion: He Who for our sake was crucified... (see fol. 102).[^376] Then, Lord, have mercy (40 times). Prayer: At all times... Lord, have mercy (thrice). Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. More honorable than the Cherubim... In the Name of the Lord, bless, father. Priest: Through the prayers of our holy fathers...*
-
-*At the Ninth Hour.*
+*Then: Cast us not off unto the end... Trisagion. After Our Father: Kontakion: He Who for our sake was crucified... (see fol. 107).[^376] Then, Lord, have mercy (40 times). Prayer: At all times... Lord, have mercy (thrice). Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. More honorable than the Cherubim... In the Name of the Lord, bless, father. Priest: Through the prayers of our holy fathers...*
 
 *Then, this Prayer:*  
 *O Master, Lord Jesus Christ our God, Who art long-suffering... Ending: now and ever, and unto ages of ages. Amen.*
@@ -15,7 +13,7 @@ Brethren, having therefore boldness to enter into the holies by the blood of Jes
 *Then immediately the Beatitudes: In Thy Kingdom remember us, O Lord, when Thou comest: We sing the sixth verse.*  
 *The Heavenly Choir... Glory to the Father, and to the Son, and to the Holy Spirit: The assembly of holy Angels... Both now and ever, and unto ages of ages. Amen: I believe in one God... Forgive, remit... We sing: Our Father... Kontakion: He Who for our sake was crucified... Lord, have mercy (40 times). And the Prayer: O All-Holy Trinity, consubstantial Dominion unconstrained... Then: Blessed be the Name of the Lord (thrice). Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Psalm 33: I will bless the Lord at all times... Then: It is truly meet... More honorable than the Cherubim... Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Lord, have mercy (twice). Lord, bless. And the Dismissal.*
 
-*It should also be known that we have received tradition not to celebrate the Presanctified, nor again the full Liturgy, on this holy day of Great Friday. Therefore, we do not even set a refectory table, nor do we eat on this day of the Crucifixion. But if anyone is exceedingly infirm or very aged, and unable to remain fasting, let bread and water be given him after the setting of the sun. For thus have we received from the holy injunctions of the holy Apostles,[^377] not to eat on Great Friday. For the Lord's word also, which He spoke to the Pharisees:*
+*It should also be known that we have received tradition in Palestine not to celebrate the Presanctified, nor again the full Liturgy, on this holy day of Great Friday. Therefore, we do not even set a refectory table, nor do we eat on this day of the Crucifixion. But if anyone is exceedingly infirm or very aged, and unable to remain fasting, let bread and water be given him after the setting of the sun. For thus have we received from the holy injunctions of the holy Apostles,[^377] not to eat on Great Friday. For the Lord's word also, which He spoke to the Pharisees:*
 
 === LEAF p122 ===
 

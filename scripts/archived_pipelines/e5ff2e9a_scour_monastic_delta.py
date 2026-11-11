@@ -2,7 +2,7 @@ import os
 import sys
 import re
 
-base_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded"
+base_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded"
 dolnytsky_path = os.path.join(base_dir, 'Data', 'Service Books', 'Typikon', 'Dolnytsky_Typikon_Master.md')
 ordo_path = os.path.join(base_dir, 'Data', 'Service Books', 'Typikon', 'Ordo', 'Ordo_Celebrationis_1996_CLEAN.md')
 out_path = r"C:\Users\augus\.gemini\antigravity\brain\e5ff2e9a-16b3-401d-bdc1-57dd450d6e62\scratch\scour_results.txt"

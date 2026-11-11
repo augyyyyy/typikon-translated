@@ -33,7 +33,7 @@
 ---
 
 ## ΠΕΡΙ ΤΩΝ ΕΥΛΟΓΗΤΑΡΙΩΝ
-### ΤΗΣ ΥΠΑΚΟΗΣ, ΤΩΝ ΑΝΑΒΑΘΜΩΝ ΚΑΙ ΤΟΥ ΠΡΟΚΕΙΜΕΝΟΥ
+**ΤΗΣ ΥΠΑΚΟΗΣ, ΤΩΝ ΑΝΑΒΑΘΜΩΝ ΚΑΙ ΤΟΥ ΠΡΟΚΕΙΜΕΝΟΥ**
 
 **22.** Κατὰ πᾶσαν Κυριακήν, μετὰ τὰ Καθίσματα, ψάλλονται τὰ Εὐλογητάρια, εἶτα γίνεται παρὰ τοῦ Ἱερέως Αἴτησις καὶ ἡ Ἐκφώνησις *Ὅτι ηὐλόγηται*, μετὰ ταῦτα ἡ Ὑπακοὴ τοῦ ἤχου, τὰ Ἀντίφωνα, τὸ Προκείμενον καὶ ἀκολούθως οἱ Κανόνες. Θεομητορικῆς δὲ ἑορτῆς συμπιπτούσης ἐν Κυριακῇ, Εὐλογητάρια οὐ ψάλλονται· ἀλλὰ μετὰ τὰ Καθίσματα, εὐθὺς ἡ παρὰ τοῦ Ἱερέως Αἴτησις καὶ ἡ Ἐκφώνησις· εἶτα ἡ Ὑπακοὴ τοῦ ἤχου καὶ οἱ Ἀναβαθμοί, τὸ Προκείμενον τῆς ἑορτῆς, τὸ *Πᾶσα πνοὴ* καὶ τὸ Εὐαγγέλιον τοῦ Ὄρθρου τῆς ἑορτῆς· ἔπειτα τὸ *Ἀνάστασιν Χριστοῦ* καὶ ὁ Ν΄ Ψαλμὸς χῦμα, *Δόξα, Ταῖς τῆς Θεοτόκου, Καὶ νῦν* τὸ αὐτό, ὁ Στίχος *Ἐλέησόν με ὁ Θεός*, καὶ τὸ ὡρισμένον Ἰδιόμελον τῆς ἑορτῆς, μεθ᾽ ὅ ὁ Ἱερεὺς *Σῶσον ὁ Θεὸς τὸν λαόν σου... Ἐλέει καὶ οἰκτιρμοῖς*, καὶ ἄρχονται οἱ Κανόνες. Εἰς τὰς Ἀποδόσεις ὅμως καὶ τὰς μεθεόρτους Κυριακὰς τῶν Θεομητορικῶν ἢ τῶν Δεσποτικῶν ἑορτῶν, διατηρεῖται ἡ καθωρισμένη τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου τῆς Κυριακῆς· (Ἴδε τὴν ἰδιαιτέραν τῆς Κυριακῆς Τυπικὴν Διάταξιν).
 
@@ -70,7 +70,7 @@
 ---
 
 ## ΠΕΡΙ ΤΩΝ ΣΤΙΧΩΝ ΤΩΝ ΨΑΛΛΟΜΕΝΩΝ
-### ΠΡΟ ΤΩΝ ΤΡΟΠΑΡΙΩΝ ΤΩΝ ΚΑΝΟΝΩΝ
+**ΠΡΟ ΤΩΝ ΤΡΟΠΑΡΙΩΝ ΤΩΝ ΚΑΝΟΝΩΝ**
 
 **24.** Κατὰ τὴν ἀρχαίαν τυπικὴν διάταξιν, εἰς τοὺς ἐν τῷ Ὄρθρῳ Κανόνας τῶν Κυριακῶν καὶ τῶν Ἁγίων, καὶ εἰς τοὺς καθ᾽ ἑκάστην ἀναγινωσκομένους Κανόνας, προεψάλλοντο Στίχοι ἐκ τῶν ἐννέα Ὠδῶν τοσοῦτοι, ὅσα καὶ Τροπάρια ἐμπεριείχοντο ἐν ἑκάστῃ Ὠδῇ τοῦ Κανόνος· ἀλλὰ νῦν, μετὰ τὸν Εἱρμὸν ἑκάστης Ὠδῆς, προψάλλονται τῶν Τροπαρίων Στίχοι, εἰς μὲν τὰ Ἀναστάσιμα, *Δόξα τῇ Ἁγίᾳ Ἀναστάσει Σου Κύριε*, εἰς τὰ Θεομητορικά, *Ὑπεραγία Θεοτόκε σῶσον ἡμᾶς*, καὶ εἰς τὰ τῶν Ἁγίων, *Ἅγιοι τοῦ Θεοῦ πρεσβεύσατε ὑπὲρ ἡμῶν*. Εἰς τὸν Μέγαν κανόνα, *Ἐλέησόν με ὁ Θεὸς ἐλέησόν με*...
 
@@ -113,14 +113,14 @@
 
 ---
 
-### Concerning the Kathisma [Sessional Hymn] of the Third Ode
+**Concerning the Kathisma [Sessional Hymn] of the Third Ode**
 
 **25.** On Sundays, after the Little Litany following the Third Ode of the Canon, the Kathisma and Theotokion of the occurring Saint are chanted. If a Feast of the Mother of God occurs, the Kontakion and Ikos of the Octoechos are read beforehand, and then the Kathisma of the feast is chanted once; the same order is observed on all Sundays of the Triodion and on the commemorations of more solemnly celebrated Saints.
   On Forefeast and Afterfeast Sundays, the Kathisma of the occurring Saint is chanted first, and then that of the Forefeast or Afterfeast.[^87]
 
 ---
 
-### Concerning the Kontakion and Ikos
+**Concerning the Kontakion and Ikos**
 
 **26.** On Sundays at Matins, after the Little Litany following the Sixth Ode of the Canon (which is intoned by the Priest with the exclamation **"For Thou art the King of peace, and the Savior of our souls, and unto Thee do we send up glory..."** [*Ὅτι Σὺ εἶ ὁ Βασιλεὺς τῆς εἰρήνης...*]), the Kontakion and Ikos of the Octoechos are read. Excepted are Sundays on which Feasts of the Mother of God occur, as well as all Sundays of the Triodion (except the Second, Fourth, and Fifth Sundays of Lent, on which the Kontakion and Ikos of the Octoechos are read), the Sundays of the Pentecostarion, the Sunday of the Holy Forefathers, the Sunday before the Nativity of Christ, the Sunday after the Nativity of Christ, the three Sundays...
 

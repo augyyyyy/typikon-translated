@@ -7,7 +7,7 @@ Among non-Chalcedonian traditions, Coptic Matins has no Biblical Odes; Nestorian
 
 Armenian Matins (properly speaking, the Midnight Office) has the Odes of the 3 Holy Children, the Theotokos, and Zacharias; among the Armenians there is also one ode each at the Third Hour, Vespers, and the "Service before Sleep" (after Compline), the latter having portions of the Odes of Habakkuk, the 3 Holy Children, and Simeon the God-receiver. Among the Maronites: Matins has 7 odes, Vespers 4, the Hours 3 or 2, Compline 2. Among Western rites, the Roman rite already under St. Benedict had at the concluding, most important part of Matins (Lauds) in turn (beginning from Sunday): the Odes of the 3 Holy Children, Isaiah (from ch. 12), Hezekiah, Hannah, Moses 1, Habakkuk, Moses 2 (the Theotokos—at Vespers); the Ambrosian rite—Zacharias or Moses 2, Moses 1, the Three Holy Children (only on Sundays and feasts); the Mozarabic rite—one ode in turn, but differently from the Roman (Introductory Chapter, pp. 299–303, 315–318).
 
-### Manner of Execution (*Sposob ispolneniya*)
+**Manner of Execution (*Sposob ispolneniya*)**
 
 The Biblical Odes in the kanon are used in three scopes: in their entirety in Great Lent (though not all daily), in an abbreviated form on weekdays, and in an even more abbreviated form on Sundays, feasts, forefeasts, afterfeasts, and on Saturdays. In the first and second cases, the Biblical Ode is first chanted by verses alternately by the two choirs without refrains until there remains a sufficient number of verses unto which the heirmos and troparia of the kanons are to be appended as refrains (usually 12 such verses are needed, or 14 with "Glory" and "Both now"; sometimes in Lent only 2); in the last case, the entire ode is chanted with the troparia of the kanon appended as refrains. To judge the degree of abbreviation of the odes for weekday and festal use, one must compare the number *(Orig. p. 670)* of verses of each of them in its complete form, in which the ode is used in Great Lent, with the number of verses in its abbreviated forms. At the same time, it must be noted that the division of the odes into verses for liturgical use for the most part does not correspond unto their division into verses in the Bible: long
 
@@ -29,7 +29,7 @@ The abbreviation is carried out in such a way that from the ode those verses are
 
 The weekday execution of the Biblical Odes bears the title **"Let us sing unto the Lord"** (*Gospodevi poim*), and the festal **"We sing unto the Lord"** (*Poim Gospodevi*) (see Chapter 18 of the Typikon). The odes in the indicated three scopes are placed in the Heirmologion; in the Followed Psalter, however, only in the Lenten scope. Unto the Heirmologion the chapter of the Typikon under examination likewise refers: "and after the Amen (unto the exclamation: Through the mercy and compassions) we begin the heirmos of the Sunday kanon... And unto the 1st troparion the refrain: Glory, O Lord, to Thy holy resurrection. Then the refrains of the Sunday odes (written in the Heirmologion)."
 
-### Manner of Execution in Antiquity (*Sposob ispolneniya v drevnosti*)
+**Manner of Execution in Antiquity (*Sposob ispolneniya v drevnosti*)**
 
 In the ancient Western Church also, the Biblical Odes were chanted with a more solemn melody than the psalms [^2516]. One may think that originally the Biblical Odes were chanted with a short refrain unto each verse, and such a manner of chanting them was not abandoned even when kanons appeared: prior unto the heirmos or troparia the entire ode was chanted with this refrain, and the troparia were chanted either without refrains, or with special refrains not taken from the ode, or, finally, with the repetition of the concluding verses of the ode as refrains. A trace of such
 
@@ -39,7 +39,7 @@ In the ancient Western Church also, the Biblical Odes were chanted with a more s
 Later, in the Studite Typikon, refrains (*otpely*) were composed for the odes, distinctive for each in accordance with its content. They are indicated, for instance, in the Horologion of the Sophia Library at the St. Petersburg Theological Academy of the 13th century, No. 1052; some of them—namely, for some reason only the refrains of Odes 2, 4, and 7—are indicated by the most important manuscript of the Studite Typikon of the Moscow Synodal Library No. 330/380 (with the note that Ode 2 is chanted on Tuesday, if "God is the Lord" does not occur, Ode 4 on Thursday, and Ode 7 on Saturday); these refrains coincide with the verses placed in the present Followed Psalter as epigraphs unto the odes (with the exception of Ode 2):
 1. **"Let us sing unto the Lord, for He is gloriously glorified"** (*Gospodevi poim, slavno bo proslavisya*).
 2. (vv. 1–14): **"Glory to Thee, O God"** (*Slava Tebe, Bozhe*); (vv. 15–22a): **"Preserve me, O Lord"** (*Sokhrani mya, Gospodi*); (vv. 22b–39): **"Righteous art Thou, O Lord"** (*Praveden esi, Gospodi*); (vv. 39b–43): **"Glory to Thee, O God"** (*Slava Tebe, Bozhe*).
-3. **"Holy art Thou, O Lord, and my spirit praiseth Thee"** (*Svyat esi, Gospodi, i poet Tya dukh moy*).
+3. **"Holy art Thou, O Lord, and my spirit praises Thee"** (*Svyat esi, Gospodi, i poet Tya dukh moy*).
 4. **"Glory to Thy power, O Lord"** (*Slava sile Tvoey, Gospodi*).
 5. **"O Lord our God, give us peace"** (*Gospodi Bozhe, mir dazhd' nam*).
 6. **"As Thou didst save the prophet Jonah, save us, O Lord"** (*Yako proroka Ionu spasi mya [nas, Gospodi]*).
@@ -58,7 +58,7 @@ In a manuscript likewise of the 14th century, but of a later redaction, there al
 
 In the time of Arseny Sukhanov in Greece there was already the present abbreviation of the odes, but identical for feasts and weekdays (such as is now for feasts) [^2525], and thence, it must be, it was introduced into our Heirmologion.
 
-### Refrains (*Pripevy*)
+**Refrains (*Pripevy*)**
 
 Almost universal practice, at least in Russia, replaces the verses of the Biblical Odes, with the exception of Great Lent, with special refrains unto the kanon; thus, unto the Sunday kanon there is used the refrain: **"Glory, O Lord, to Thy holy resurrection"** (*Slava, Gospodi, svyatomu voskreseniyu Tvoemu*); unto the Cross-Resurrection kanon: **"Glory, O Lord, to Thy Precious Cross and resurrection"** (*Slava, Gospodi, Krestu Tvoemu chestnomu i voskreseniyu*); unto the Theotokos kanon and the Theotokia in the first two kanons: **"Most Holy Theotokos, save us"** (*Presvyataya Bogoroditse, spasi nas*); unto the kanons of the saints from the Menaion: "Holy [rank and name], pray to God for us" (*Svyaty... moli Boga o nas*).
 
@@ -86,7 +86,7 @@ On this foundation the following refrains may be permissible for the diverse cho
 The register of these refrains may be supplemented further by the following: for Feasts of the Lord, their forefeasts and afterfeasts: **"Glory to Thee, our God, glory to Thee"**; for Feasts of the Theotokos: **"Most Holy Theotokos, save us"**; for Lenten kanons of the Triodion: **"Have mercy on me, O God, have mercy on me"** (excluding the 1st and 3rd Sundays of Lent, where there is **"Glory to Thee, our God, glory to Thee"**).
 *(Orig. p. 674)*
 
-### Antiquity of the Practice (*Davnost' praktiki*)
+**Antiquity of the Practice (*Davnost' praktiki*)**
 
 When the custom of replacing the verses of the Biblical Odes in the kanon with other refrains arose may be judged from the fact that in 16th-century monuments these refrains are already indicated. Thus, for example, in certain 16th-century Typika for the Nativity kanon there is indicated the refrain **"Glory, O Lord, to Thy Nativity"**, for the Theophany—**"...to Thy Theophany"** [^2526]. In a certain 17th-century Typikon there are sections: "On the refrains in the Octoechos on weekdays, how to speak them in the kanon" and "Rubric on the refrains in the kanons unto the saints" [^2527].
 
@@ -114,11 +114,11 @@ But very rarely does this entire series of troparia constitute a single kanon: a
 === LEAF p818 ===
 ...the structure of the kanon is also that Ode 2 is usually omitted in it, except on Tuesday of Great Lent and certain Saturdays connected with Great Lent; this is done on account of the profound sorrowfulness and wrathfulness of this ode, and also, perhaps, because of mankind's perpetual unfavorable view of the number 2.
 
-### History (*Istoriya*)
+**History (*Istoriya*)**
 
 The earliest writer of kanons, and consequently the founder of this genre of church hymnody, might be recognized as St. Sophronius, Patriarch of Jerusalem (7th c.), and the original form of the kanon might be considered the triodion (Introductory Chapter, p. 331), had not the view been expressed at present, with considerable foundation, that the triodia attributed unto St. Sophronius belong unto St. Joseph the Hymnographer (9th c.) [^2530].
 
-However, refrains in the form of troparia unto the Biblical Odes are already indicated by the well-known description of the Sinai Matins of the 6th–7th centuries (Introductory Chapter, p. 295); it is remarkable that in this description the refrains unto Ode 8 stand out from the rest, although they bear the identical name of "troparia"; it is possible that the refrains unto the remaining odes had the form of the above-indicated (p. 671) short and uniform verses for each ode (for Ode 1 **"Let us sing unto the Lord, for He is gloriously glorified"**, for Ode 2 **"Glory to Thee, O God"**, for Ode 3 **"Holy art Thou, O Lord, and my spirit praiseth Thee"**, etc.), and only for Ode 8 were in honor of the commemorated event (cf. the significance that *(Orig. p. 676)* the Ode of the 3 Holy Children has at sung Asmatic Matins—Introductory Chapter, p. 346); if so, then the original form of the kanon was the single-ode kanon (*monoodion*).
+However, refrains in the form of troparia unto the Biblical Odes are already indicated by the well-known description of the Sinai Matins of the 6th–7th centuries (Introductory Chapter, p. 295); it is remarkable that in this description the refrains unto Ode 8 stand out from the rest, although they bear the identical name of "troparia"; it is possible that the refrains unto the remaining odes had the form of the above-indicated (p. 671) short and uniform verses for each ode (for Ode 1 **"Let us sing unto the Lord, for He is gloriously glorified"**, for Ode 2 **"Glory to Thee, O God"**, for Ode 3 **"Holy art Thou, O Lord, and my spirit praises Thee"**, etc.), and only for Ode 8 were in honor of the commemorated event (cf. the significance that *(Orig. p. 676)* the Ode of the 3 Holy Children has at sung Asmatic Matins—Introductory Chapter, p. 346); if so, then the original form of the kanon was the single-ode kanon (*monoodion*).
 
 The *monoodion* gradually grew into a two-ode kanon (*diodion*) through the appending of Ode 9 unto Ode 8: a certain 9th-century Georgian Menaion on the majority of days of the year has *diodia* of Odes 8 and 9, providing full kanons only on the greatest feasts and *triodia* for the Triodion period [^2531].
 

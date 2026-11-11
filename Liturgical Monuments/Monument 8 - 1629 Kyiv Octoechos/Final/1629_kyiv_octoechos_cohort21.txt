@@ -225,7 +225,7 @@ unto me the reward of the eleventh hour and great mercy!
 Come, all ye people, let us honor the passion-bearers of Christ with songs and spiritual hymns: the enlighteners of the world and preachers of the faith, the ever-flowing springs from whom healings pour forth unto the faithful; by their prayers, O Christ our God, grant peace unto all the world, and unto our souls great mercy!
 
 *Glory, both now. Theotokion:*
-Receiving the prayers of sinners, and despising not the sighs of the afflicted: pray Thy Son Who came forth from thy womb, that we may be saved, O most holy Virgin!
+Receiving the prayers of sinners, and despising not the sighs of the afflicted: pray thy Son Who came forth from thy womb, that we may be saved, O most holy Virgin!
 
 *On Monday, Beatitudes of Repentance, Tone 1:*
 

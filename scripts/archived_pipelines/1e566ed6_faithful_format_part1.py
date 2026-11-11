@@ -1,7 +1,7 @@
 import os
 import re
 
-typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 backup_path = os.path.join(typikon_dir, "backup", "Final_Dolnytsky_part1_structure.md")
 target_path = os.path.join(typikon_dir, "Final_Dolnytsky_part1_structure.md")
 

@@ -115,7 +115,7 @@ Givers of healings and wonderworkers, you have appeared unto all as light-receiv
 === LEAF p6 ===
 ...God, to grant remission of transgressions unto those who celebrate your holy memory with love.
 
-*Glory... Tone 8, Podoben: The same ("Of Wisdom"):*
+*Glory... Tone 8, Podoben: The same ("Of Wisdom") (Премꙋ́дрости):*
 Shedding the rays of healings upon those on earth, O divine wonderworkers, you manifestly drive away the ailments of men, having truly acquired within yourselves the unwaning Sun, Christ our God. Therefore, having worthily assembled, we honor your glorious and precious memory, O holy ones, God-bearing unmercenaries. Pray to Christ God to grant remission of sins unto those who honor your holy memory with love.
 
 *Both now... Theotokion:*

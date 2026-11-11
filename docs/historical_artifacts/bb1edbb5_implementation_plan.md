@@ -1,6 +1,6 @@
 # Implementation Plan: Expand Dolnytsky Typikon Implementation Reference
 
-This plan outlines the updates to [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/docs/DOLNYTSKY_IMPLEMENTATION.md) to comprehensively document the logic engine's coverage of the Triodion moveable cycle, Pentecostarion moveable cycle, collision logic, seasonal Katavasiae, and temple/patronal overrides.
+This plan outlines the updates to [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/docs/DOLNYTSKY_IMPLEMENTATION.md) to comprehensively document the logic engine's coverage of the Triodion moveable cycle, Pentecostarion moveable cycle, collision logic, seasonal Katavasiae, and temple/patronal overrides.
 
 ## User Review Required
 
@@ -15,7 +15,7 @@ This plan outlines the updates to [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users
 
 ### Documentation
 
-#### [MODIFY] [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/docs/DOLNYTSKY_IMPLEMENTATION.md)
+#### [MODIFY] [DOLNYTSKY_IMPLEMENTATION.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/docs/DOLNYTSKY_IMPLEMENTATION.md)
 We will expand the file (currently 243 lines) to cover:
 1. **Group F: The Triodion Moveable Cycle (Lent & Holy Week)**: Document the paradigms for Pre-Lenten Sundays, Soul Saturdays, Lenten Sundays (Orthodoxy, Gregory Palamas, etc.), Great Canon Thursday, Akathist Saturday, Lazarus Saturday, Palm Sunday, and Holy Week days (Presanctified Liturgy settings and Great Friday/Saturday Tomb Matins).
 2. **Group G: The Pentecostarion Moveable Cycle**: Document Pascha/Bright Week suppression logic, Pentecostarion Sundays (Thomas, Myrrhbearers, Paralytic, Samaritan, Blind Man, Fathers of 1st Council, All Saints), and major Pentecostarion feasts (Mid-Pentecost, Ascension, Pentecost, Holy Spirit Monday).

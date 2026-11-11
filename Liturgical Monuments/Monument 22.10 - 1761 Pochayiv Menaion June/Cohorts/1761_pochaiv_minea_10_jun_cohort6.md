@@ -220,7 +220,7 @@ Holy Timothy, praise of the righteous, * champion of the universe * and luminary
 
 A beautiful garment dyed in blood * thou didst weave by thy sufferings, O Timothy, * a heavenly garment from on high * of incorruptible purification; * and ineffably thou didst receive immutable life: * bearing it immaterially on high, * pray for all who piously praise thee, * O passion-bearer!
 
-*Other Stichera of the Theotokos, Tone 4, Podoben the same:*
+*Other Stichera of the Theotokos, Tone 4, Podoben the same (Подо́бенъ то́йже):*
 
 From condemnation deliver my humble soul, * O most holy Bride of God, * and from grievous transgressions, * and from death ransom me by thy prayers; * and grant me to obtain justification in the Day of Trial, * which the assemblies of the saints have obtained: * having cleansed me by repentance * and outpourings of tears, * show me forth before the end!
 

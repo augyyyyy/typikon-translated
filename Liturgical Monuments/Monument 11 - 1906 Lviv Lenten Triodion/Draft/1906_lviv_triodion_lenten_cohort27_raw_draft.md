@@ -259,7 +259,7 @@ Today the prophetic word has been fulfilled; for lo, we bow down in worship at t
 O Lord, Who of Thine own will didst stretch out Thy palms upon the Cross, account us also worthy to bow down in worship before it with compunction of heart, having been well enlightened by fasting and prayers, by self-control and good works, as Thou art good and the Lover of mankind.
 
 === LEAF p269 ===
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 O Lord, according to the multitude of Thy compassions, cleanse the multitude of my sins, O All-Merciful One, and account me worthy with pure soul to see and to kiss Thy Cross during the present week of self-control, as Thou art the Lover of mankind.
 
 *Another sticheron of Lord Theodore, Tone 3. Podoben: "A great wonder" (Ве́лїе чꙋ́до):*[^710]  
@@ -297,13 +297,13 @@ The heavenly hosts sing of thee, O joyful Mother unwedded, and we glorify thine 
 *After the second stichology, we say the present Sessional Hymn, Tone 8, of Lord Joseph. Podoben: "Having arisen" (Воскре́съ є҆сѝ):*[^713]  
 Let us, the faithful, bow down in worship before the all-honorable Tree whereon the Creator of all was lifted up; it is set forth, sanctifying those who draw near in soul and body, cleansing the defilement of sin from those who fast faithfully, and who ever praise Christ, the only Benefactor.
 
-*Glory... the same. Both now... Theotokion, Podoben:*  
+*Glory... the same. Both now... Theotokion, Podoben (Подо́бенъ):*  
 The Word of the Father came down upon the earth, and an Angel of light cried unto the Theotokos: Rejoice, O blessed one, who alone hast preserved the chamber, having received the conception of the pre-eternal God and Lord, that as God He may save the human race from deception!
 
 *After the third stichology, Sessional Hymn, Tone 3. Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дѣ́вства):*[^714]  
 Having now reached the midpoint of self-control, and having anticipated the veneration of Thy life-bearing Cross, O Christ, falling down before Thee we cry aloud: Great art Thou, O Lover of mankind, and great are Thy works, in that Thou hast shown forth Thy precious Cross, before which bowing down in worship with fear we cry out: Glory to Thy boundless tender-heartedness!
 
-*Glory... the same. Both now... Theotokion, Podoben:*  
+*Glory... the same. Both now... Theotokion, Podoben (Подо́бенъ):*  
 As an uncultivated vine, O Virgin, thou hast blossomed forth the most fair Cluster, which pours out for us saving wine that gladdens the souls and bodies of all; therefore, calling thee blessed as the cause of good things, we ever cry out unto thee with the Angel: Rejoice, O full of grace!
 
 *Canon of the Menaion, and the present triode, and the Ode is sung with verses.*  

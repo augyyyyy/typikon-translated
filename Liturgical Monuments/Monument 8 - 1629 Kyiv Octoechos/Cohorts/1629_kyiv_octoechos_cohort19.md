@@ -32,7 +32,7 @@ indivisible, ever blameless, creative, co-eternal, providential, and saving all;
 
 *Theotokion:*
 
-Upon earth hath shone the unwaning Sun, Who from thy virginal childbearing, O all-pure Sovereign Lady, was pleased to dwell among men and changed our earthly and deceitful dark wrath; therefore now also illumine me with the divine rays of His Godhead, and preserve Thy servant!
+Upon earth hath shone the unwaning Sun, Who from thy virginal childbearing, O all-pure Sovereign Lady, was pleased to dwell among men and changed our earthly and deceitful dark wrath; therefore now also illumine me with the divine rays of His Godhead, and preserve thy servant!
 
 *Ode 9. Heirmos: Heaven was astonished:*
 

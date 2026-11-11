@@ -8,7 +8,7 @@
 Εἰς τὸ Ἐξαιρέτως Ὁ τόκος σου, ἄφθορος, Κοινωνικὸν τῆς
 ἑορτῆς, Μετεμορφώθης ἐν τῷ ὄρει, ᾿Απόλυσις καὶ ᾿Απόδοσις.
 
-### Τῇ ΙΔ΄. Τὰ Προεόρτια τῆς Κοιμήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ Προφήτου Μιχαίου.
+**Τῇ ΙΔ΄. Τὰ Προεόρτια τῆς Κοιμήσεως τῆς Ὑπεραγίας Θεοτόκου, καὶ τοῦ Προφήτου Μιχαίου.**
 
 1.    Ἐὰν τύχωσι τὰ Προεόρτια ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ὁ προεόρτιος Ἑσπερινὸς (καὶ μετ᾿ αὐτόν, ἐννοεῖται, ἡ τελευταία Παράκλησις), καὶ τὸ πρωῒ ὁ Ὄρθρος μετὰ τῆς Λειτουργίας ψάλλονται κατὰ τὴν τοῦ Μηναίου διάταξιν.
 
@@ -25,7 +25,7 @@
 
 ...the Dismissal Troparion of the Feast, and the Kontakion. Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"Thy childbearing was shown to be incorrupt"** (*Ὁ τόκος σου, ἄφθορος*); Communion Hymn of the Feast: **"Thou wast transfigured upon the mountain"** (*Μετεμορφώθης ἐν τῷ ὄρει*); Dismissal and Apodosis.
 
-### August 14: Forefeast of the Dormition of the Most Holy Theotokos, and the Prophet Micah
+**August 14: Forefeast of the Dormition of the Most Holy Theotokos, and the Prophet Micah**
 
 1.    If the Forefeast of the Dormition falls on any day except Sunday, the Forefeast Vespers (and with it, it is understood, the last Paraklesis), and in the morning Matins with the Divine Liturgy are chanted according to the order of the Menaion.
 
@@ -44,7 +44,7 @@
 
 4.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ Προεορτίου Κανόνος δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον ᾿Απολυτίκιον, τὸ Προεόρτιον, τὸ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Τῇ ἐνδόξῳ μνήμῃ σου. ᾿Απόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς, καὶ ᾿Απόλυσις.
 
-### Τῇ ΙΕ΄. Ἡ Κοίμησις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου.
+**Τῇ ΙΕ΄. Ἡ Κοίμησις τῆς Ὑπεραγίας Δεσποίνης ἡμῶν Θεοτόκου.**
 
 1.    Ἐν τῷ Μ. Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ Κύριε ἐκέκραξα τὰ Προσόμοια Ὢ τοῦ παραδόξου θαύματος εἰς ς΄, Δόξα, Καὶ νῦν, Θεαρχίῳ νεύματι, Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ ᾿Αναγνώσματα. Εἰς τὰ ᾿Απόστιχα, τὰ γ΄ Ἰδιόμελα, Δόξα, Καὶ νῦν, Ὅτε ἐξεδήμησας, τὸ ᾿Απολυτίκιον [Ἐν τῇ γεννήσει] ἐκ γ΄ καὶ ᾿Απόλυσις.
 
@@ -63,7 +63,7 @@
 
 4.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Forefeast. After the Little Entrance, the Dismissal Troparion of the Resurrection, that of the Forefeast, that of the Patron Saint of the Church, and the Kontakion: **"At thy glorious memorial"** (*Τῇ ἐνδόξῳ μνήμῃ σου*); Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### August 15: The Dormition of our Most Holy Lady Theotokos
+**August 15: The Dormition of our Most Holy Lady Theotokos**
 
 1.    In Great Vespers, following the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the Prosomoia: **"O, the marvelous wonder!"** (*Ὢ τοῦ παραδόξου θαύματος*) to 6; "Glory... Both now and ever...": **"By the royal command of God"** (*Θεαρχίῳ νεύματι*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Readings. At the Aposticha: the three Idiomela; "Glory... Both now and ever...": **"When thou departedst from this life"** (*Ὅτε ἐξεδήμησας*). The Dismissal Troparion: [**"In giving birth"** (*Ἐν τῇ γεννήσει*)] three times, and Dismissal.
 
@@ -85,7 +85,7 @@
 
 3.    Εἰς τὴν Λειτουργίαν τὰ ᾿Αντίφωνα.
 
-#### ᾿Αντίφωνον Α΄.
+**᾿Αντίφωνον Α΄.**
 
       ᾿Αλαλάξατε τῷ Κυρίῳ πᾶσα ἡ γῆ.
       Ἐξομολογεῖσθε αὐτῷ, αἰνεῖτε τὸ ὄνομα αὐτοῦ.
@@ -93,7 +93,7 @@
       Ἐγενήθη ἐν εἰρήνῃ ὁ τόπος αὐτοῦ, καὶ τὸ κατοικητήριον αὐτοῦ ἐν Σιών.
       [Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.]
 
-#### ᾿Αντίφωνον Β΄.
+**᾿Αντίφωνον Β΄.**
 
       ᾿Αγαπᾷ Κύριος τὰς πύλας Σιών, ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ.
       Δεδοξασμένα ἐλαλήθη περὶ σοῦ, ἡ πόλις τοῦ Θεοῦ.
@@ -102,7 +102,7 @@
       Δόξα, Καὶ νῦν, Ὁ μονογενὴς Υἱὸς κτλ.
       [Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἁγίοις θαυμαστός, ψάλλοντάς σοι· ᾿Αλληλούϊα.]
 
-#### ᾿Αντίφωνον Γ΄.
+**᾿Αντίφωνον Γ΄.**
 
       Ἑτοίμη ἡ καρδία μου, ὁ Θεός, ἑτοίμη ἡ καρδία μου.
       Τί ἀνταποδώσω τῷ Κυρίῳ περὶ πάντων, ὧν ἀνταπέδωκέ μοι;
@@ -121,7 +121,7 @@
 
 3.    In the Divine Liturgy, the Antiphons:
 
-#### Antiphon 1
+**Antiphon 1**
 
 | Verses of the Antiphon | Refrain |
 | :--- | :--- |
@@ -130,18 +130,18 @@
 | **"In the city of the Lord of hosts, in the city of our God."** (*Ἐν πόλει Κυρίου τῶν δυνάμεων ἐν πόλει τοῦ Θεοῦ ἡμῶν*, Ps. 47:9 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** |
 | **"His sanctuary hath been made in peace, and His dwelling in Zion."** (*Ἐγενήθη ἐν εἰρήνῃ ὁ τόπος αὐτοῦ, καὶ τὸ κατοικητήριον αὐτοῦ ἐν Σιών*, Ps. 75:3 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** |
 
-#### Antiphon 2
+**Antiphon 2**
 
 | Verses of the Antiphon | Refrain |
 | :--- | :--- |
-| **"The Lord loveth the gates of Zion more than all the dwellings of Jacob."** (*Ἀγαπᾷ Κύριος τὰς πύλας Σιών, ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ*, Ps. 86:2 LXX) | **"Save us, O Son of God, Who art wonderful in the saints, who sing to Thee: Alleluia."** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἁγίοις θαυμαστός, ψάλλοντάς σοι· ᾿Αλληλούϊα.*) |
+| **"The Lord loves the gates of Zion more than all the dwellings of Jacob."** (*Ἀγαπᾷ Κύριος τὰς πύλας Σιών, ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ*, Ps. 86:2 LXX) | **"Save us, O Son of God, Who art wonderful in the saints, who sing to Thee: Alleluia."** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν Ἁγίοις θαυμαστός, ψάλλοντάς σοι· ᾿Αλληλούϊα.*) |
 | **"Glorious things are spoken of thee, O city of God."** (*Δεδοξασμένα ἐλαλήθη περὶ σοῦ, ἡ πόλις τοῦ Θεοῦ*, Ps. 86:3 LXX) | **"Save us, O Son of God, Who art wonderful in the saints, who sing to Thee: Alleluia."** |
 | **"God hath established her forever."** (*Ὁ Θεὸς ἐθεμελίωσεν αὐτὴν εἰς τὸν αἰῶνα*, Ps. 47:9 LXX) | **"Save us, O Son of God, Who art wonderful in the saints, who sing to Thee: Alleluia."** |
 | **"The Most High hath sanctified His tabernacle."** (*Ἡγίασε τὸ σκήνωμα αὑτοῦ ὁ Ὕψιστος*, Ps. 45:5 LXX) | **"Save us, O Son of God, Who art wonderful in the saints, who sing to Thee: Alleluia."** |
 
 "Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen." **"O Only-begotten Son and Word of God"** (*Ὁ μονογενὴς Υἱὸς καὶ Λόγος τοῦ Θεοῦ*)...
 
-#### Antiphon 3
+**Antiphon 3**
 
 | Verses of the Antiphon | Refrain |
 | :--- | :--- |
@@ -187,7 +187,7 @@ After the Entrance, the Dismissal Troparion: **"In giving birth"** (*Ἐν τῇ
 
 ᾿Απόλυσις.
 
-### Τῇ ΙϚ΄. Ἡ ἐξ Ἐδέσσης ἀνακομιδὴ τῆς ἀχειροποιήτου Εἰκόνος, ἤτοι τοῦ ἁγίου Μανδηλίου, καὶ τοῦ ἁγίου Διομήδους.
+**Τῇ ΙϚ΄. Ἡ ἐξ Ἐδέσσης ἀνακομιδὴ τῆς ἀχειροποιήτου Εἰκόνος, ἤτοι τοῦ ἁγίου Μανδηλίου, καὶ τοῦ ἁγίου Διομήδους.**
 
 7.    Τῇ ΙΕ΄ τοῦ μηνὸς ἑσπέρας, μετὰ τὸν Προοιμιακόν, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τὰ γ΄ Στιχηρὰ Προσόμοια τοῦ ἁγίου Μανδηλίου, καὶ γ΄ τῆς ἑορτῆς (τὰ τοῦ μικροῦ Ἑσπερινοῦ), Δόξα, Καὶ νῦν, Δεῦτε τὴν παγκόσμιον κοίμησιν. Εἴσοδος, Φῶς ἱλαρόν, καὶ τὸ Προκείμενον τῆς ἡμέρας. Εἰς τὰ ᾿Απόστιχα, τὰ τῆς σειρᾶς Δῆμος τῶν μαθητῶν, Δόξα, Καὶ νῦν μεθέορτον, ᾿Απολυτίκια Τὴν ἄχραντον Εἰκόνα σου, Ἐν τῇ Γεννήσει καὶ ᾿Απόλυσις.
 
@@ -205,7 +205,7 @@ After the Entrance, the Dismissal Troparion: **"In giving birth"** (*Ἐν τῇ
 
 ...Communion Hymn: [**"I will receive the cup of salvation"**]; **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### August 16: Translation of the Icon Not Made by Human Hands (that is, the Holy Mandylion) from Edessa; and the Holy Martyr Diomedes
+**August 16: Translation of the Icon Not Made by Human Hands (that is, the Holy Mandylion) from Edessa; and the Holy Martyr Diomedes**
 
 7.    On August 15, at Great Vespers following the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing the three Stichira Prosomoia of the Holy Mandylion, and three of the Feast (from Small Vespers); "Glory... Both now and ever...": **"Come, let us celebrate the universal dormition"** (*Δεῦτε τὴν παγκόσμιον κοίμησιν*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon of the day. At the Aposticha: the three hymns of the sequence: **"The community of the disciples"** (*Δῆμος τῶν μαθητῶν*); "Glory... Both now and ever...": of the Afterfeast; Dismissal Troparia: **"Thy most pure icon"** (*Τὴν ἄχραντον Εἰκόνα σου*), **"In giving birth"** (*Ἐν τῇ Γεννήσει*), and Dismissal.
 

@@ -27,9 +27,9 @@ This is a **scholarly translation pipeline project** — not a software applicat
 ### 1.2 Directory Structure & Purpose
 
 ```
-C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\
+C:\Users\augus\Documents\Google Antigravity\Projects\Translation\
 ├── (Official MD deliverables established in Typikon Coded:)
-├── C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\
+├── C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\
 │   ├── Final_Dolnytsky_intro.md         (16 KB — Introduction & translator's preface)
 │   ├── Final_Dolnytsky_part1_structure.md   (68 KB — Part I: Structure of Services)
 │   ├── Final_Dolnytsky_part2_general_rubrics.md (83 KB — Part II: General Rubrics)
@@ -145,7 +145,7 @@ The most critical referential integrity constraint is:
 
 | Integration | Direction | Details |
 |:---|:---|:---|
-| **Typikon Coded Engine** | Downstream consumer | Located at `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\`. Directly hosts the translation files as the single source of truth in markdown format at `Data/Service Books/Typikon/`. Uses a 4-tier authority hierarchy: Ordo Celebrationis 1944 → Dolnytsky Typikon → Pochaiv Anthologion → Engine Default. |
+| **Typikon Coded Engine** | Downstream consumer | Located at `C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\`. Directly hosts the translation files as the single source of truth in markdown format at `Data/Service Books/Typikon/`. Uses a 4-tier authority hierarchy: Ordo Celebrationis 1944 → Dolnytsky Typikon → Pochaiv Anthologion → Engine Default. |
 | **Yasinovsky Irmologia Catalogue** | Parallel project | Uses the same Dolnytsky terminology standards for consistency in scholarly cataloguing. |
 | **1996 Ordo Celebrationis** | Reference text | `English OC 1996/Ordo_Celebrationis_1996_CLEAN.txt` (325 KB). Used by the Typikon Coded engine as the highest-authority rubrical source. |
 

@@ -2,7 +2,7 @@
 [^1536]: Prokeimenon of the funeral office (cf. Ps. 114:9 / 115:6 [LXX]; liturgical funeral chant).
 [^1537]: Ps. 27:1 [LXX].
 [^1538]: Lection from the First Epistle of Paul to the Thessalonians (1 Thess. 4:13–17), the statutory Epistle lection for the burial of a layman.
-[^1539]: 1 Thess. 4:15–17. Slavonic: *не и҆ма́мы превари́ти оу҆со́пшихъ* (Greek: οὐ μὴ φθάσωмен τοὺς κοιμηθέντας, "shall not precede them that are asleep").
+[^1539]: 1 Thess. 4:15–17. Slavonic: *не и҆ма́мы превари́ти оу҆со́пшихъ* (Greek: οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας, "shall not precede them that are asleep").
 [^1540]: Ps. 64:5 [LXX 64:4].
 [^1541]: Gospel lection from John 5:24–30, the statutory Gospel lection for the burial of a layman.
 [^1542]: John 5:29. The printed Slavonic witness exhibits *сътко́ршей* (a typographical error or vernacular consonant shift for *сътво́ршей*, "they that have done").
@@ -13,7 +13,7 @@
 [^1547]: Combining Matt. 18:21–22 ("seventy times seven") and Matt. 18:18 ("whatsoever ye shall bind on earth... whatsoever ye shall loose on earth").
 [^1548]: Doxological conclusion of the Absolution Prayer over the departed (*Моли́тва проща́льнаѧ на оу҆ме́ршымъ*).
 [^1549]: The Last Kiss (*Послѣ́днее цѣлова́нїе* / ἀσπασμός), the solemn liturgical farewell offered by clergy, relatives, and faithful to the deceased before the grave is closed.
-[^1550]: Melodic model: Tone 2, *Podoben: "When from the Tree"* (*Е҆гда̀ ѿ дрѣ́ва тѧ̀* / Ὅте ἐκ τοῦ ξύλου).
+[^1550]: Melodic model: Tone 2, *Podoben: "When from the Tree"* (*Е҆гда̀ ѿ дрѣ́ва тѧ̀* / Ὅτε ἐκ τοῦ ξύλου).
 [^1551]: Opening Sticheron of the Last Kiss (*Прїидѣ́те послѣ́днее цѣлова́нїе...*).
 [^1552]: Sticheron 2 of the Last Kiss (*Коѐ разлꙋче́нїе ѡ҆ бра́тїе...*).
 [^1553]: Sticheron 3 of the Last Kiss (*Нн҃ѣ соуе́тнаго житїѧ̀...*); cf. Eccles. 12:6–7.

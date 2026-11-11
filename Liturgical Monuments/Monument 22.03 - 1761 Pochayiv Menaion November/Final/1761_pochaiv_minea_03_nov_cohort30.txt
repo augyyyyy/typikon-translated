@@ -61,7 +61,7 @@ Today the animate temple of the holy glory of Christ our God, the only blessed a
 
 Thou art the preaching of the prophets, the glory of the apostles, and the boast of the martyrs, and the renewal of all earthborn, O Virgin Mother of God; for through thee have we been reconciled unto God. Therefore do we honor thine entry into the temple of the Lord, and with the angel do we all cry out to thee in song: "Rejoice!", O all-pure one, being saved by thy prayers.
 
-*Other Stichera of Saint Clement, Tone 2, Podoben:*
+*Other Stichera of Saint Clement, Tone 2, Podoben (Подо́бенъ):*
 
 === LEAF p294 ===
 *Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
@@ -217,7 +217,7 @@ As the saving gate and fair paradise, as the sacred cloud of the co-eternal Ligh
 *Kontakion of the Hieromartyrs, Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 As the unshakable and divine towers of the Church, the divine pillars of piety, truly mighty, O all-praised Clement together with Peter: by your prayers preserve all.
 
-*Sessional Hymn of Saint Clement, Tone 8, Podoben: The same:*[^1074]
+*Sessional Hymn of Saint Clement, Tone 8, Podoben: The same (Подо́бенъ то́йже):*[^1074]
 Thou hast shone forth like a ray of the sun, and shinest ever brightly upon all the world by thy teachings, O God-proclaimed, light-bearing Clement, boast of martyrs.
 
 *Glory, of Saint Peter, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*

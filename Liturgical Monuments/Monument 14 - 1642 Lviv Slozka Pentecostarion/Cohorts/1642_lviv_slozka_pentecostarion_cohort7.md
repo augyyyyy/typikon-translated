@@ -23,7 +23,7 @@ The harlot in weeping cried aloud, O Merciful One, warmly wiping Thy most pure f
 
 *Then the Reading, and Psalm 50. Then the Two-Ode Canon.*
 
-*Two-Ode Canon. The Composition of Lord Cosmas. Its acrostic: ("ΤΕΤРАΔΙ ΨАЛЛΩ"), that is: "On Wednesday I chant." The Heirmos twice, Troparia to 12. Afterward, the Heirmos by both choirs together.*[^242]
+*Two-Ode Canon. The Composition of Lord Cosmas. Its acrostic: ("ΤΕΤΡΑΔΙ ΨΑΛΛΩ"), that is: "On Wednesday I chant." The Heirmos twice, Troparia to 12. Afterward, the Heirmos by both choirs together.*[^242]
 
 *Tone 2. Ode 3. Heirmos:*
 Having established me upon the rock of faith, Thou hast enlarged my mouth against mine enemies: for my spirit hath rejoiced when singing unto Thee: There is none holy as our God, and none righteous besides Thee, O Lord!
@@ -54,7 +54,7 @@ Whence was she moved to come? Because she beheld the mercifulness of Christ, and
 
 And while He was reclining at supper, she poured myrrh upon the top of His head, which was worth three hundred denarii, that is, sixty denarii, nine peniazi, and three silver pieces.[^246] And the disciples rebuked her, especially Judas Iscariot; but Christ defended her, lest they should thwart her good intention; and He also made mention of His burial, turning Judas away from betrayal and deeming the woman worthy of honor, commanding that her good work should be proclaimed everywhere.
 
-It is necessary to know that this woman is thought by some to be one and the same in all four Evangelists; but it is not so.[^247] For concerning three of them, as the divine Chrysostom saith, it is indeed one and the same, who was also named a harlot; but in John it is no longer so, but a certain good and marvelous woman of honorable life, Mary the sister of Lazarus, who was not a harlot, and was beloved by Christ.
+It is necessary to know that this woman is thought by some to be one and the same in all four Evangelists; but it is not so.[^247] For concerning three of them, as the divine Chrysostom says, it is indeed one and the same, who was also named a harlot; but in John it is no longer so, but a certain good and marvelous woman of honorable life, Mary the sister of Lazarus, who was not a harlot, and was beloved by Christ.
 
 Now this Mary, six days before Pascha, in her own house in Bethany, while He reclined at supper, performed the anointing with myrrh, pouring it upon the extremities of His feet, wiping them with the hair of her head, expending an abundance of price upon Him, and bringing myrrh unto Him as unto God. For she knew assuredly that oil was offered in sacrifices unto God, and priests were anointed with myrrh; and Jacob of old anointed a pillar unto God. And she brought it unto Him, offering a gift clearly unto the Master as unto God, and again on account of the life of her brother. Therefore no reward was promised unto her...
 
@@ -62,7 +62,7 @@ Now this Mary, six days before Pascha, in her own house in Bethany, while He rec
 
 ...no reward was promised unto her, even though Judas himself murmured, being covetous. But the other woman, that is, the harlot, two days before Pascha, while Christ was still in that same Bethany, though in the house of Simon the leper, reclining at supper then also, poured that precious myrrh upon His head, as the sacred Matthew and Mark narrated.[^248] Concerning this harlot the disciples also were indignant, foreseeing clearly that Christ was prepared for mercy. And unto her the reward was given, that her good work should be praised everywhere throughout the whole world.
 
-Common opinion saith that there was one woman, but he of the Golden Tongue saith that there were two women. Yet there are some who say that there were three women: two being the aforesaid, when the Passion of Christ was drawing near to the doors; and the third a different one before them, or rather in the midst of the Gospel preaching, who did this deed, and she was both a harlot and a sinner. And this was inside the house, not of the leper, but of Simon the Pharisee, pouring out myrrh upon the feet of Christ alone, and in private; when one Pharisee alone was offended, and unto her the Savior granted the reward of the forgiveness of sins.
+Common opinion says that there was one woman, but he of the Golden Tongue says that there were two women. Yet there are some who say that there were three women: two being the aforesaid, when the Passion of Christ was drawing near to the doors; and the third a different one before them, or rather in the midst of the Gospel preaching, who did this deed, and she was both a harlot and a sinner. And this was inside the house, not of the leper, but of Simon the Pharisee, pouring out myrrh upon the feet of Christ alone, and in private; when one Pharisee alone was offended, and unto her the Savior granted the reward of the forgiveness of sins.
 
 Concerning this woman alone the divine Luke narrats in his Gospel in the midst, as was said, in the Seventh Chapter.[^249] For after the account of this harlot, he immediately adds, saying: "And it came to pass afterward, that He went throughout every city and village, preaching and showing the glad tidings of the kingdom of God." From which it is evident that this took place not at the time of the Passion.
 
@@ -80,9 +80,9 @@ But the Mystical Supper, and the furnished Upper Room within the city of Jerusal
 
 Therefore this opinion of Chrysostom of the Golden Head seems to me to be truly right rather than otherwise: that there were indeed two women: one, as was said, in the three Evangelists, being a harlot and sinner, who poured myrrh upon the head of Christ; and the other in John, Mary the sister of Lazarus, who brought this and poured it upon the very divine feet of Christ. And that the suppers in Bethany were different, and different was the Mystical Supper.
 
-And evidently from these things, after the narrative concerning the harlot, the Savior sends the disciples unto the city, to prepare the Passover: "Go ye," He saith, "into the city to such a man, and say unto him: The Master saith, I will keep the Passover at thy house with My disciples. And behold, there shall meet you a man bearing a pitcher of water; and he will show you a large upper room furnished; there make ready for us." And they having gone, he saith, found as He had commanded them, and they made ready the Passover, that is, the legal Passover which was at the doors. Which also having come, He accomplished with the disciples, as the divine Chrysostom saith. Afterward, when the supper was taking place, that is, the Mystical Supper, and the divine Washing having been accomplished in the midst, He immediately sat down, and delivered our Passover upon that very table, as the golden John also recounts. And these things are so.
+And evidently from these things, after the narrative concerning the harlot, the Savior sends the disciples unto the city, to prepare the Passover: "Go ye," He says, "into the city to such a man, and say unto him: The Master says, I will keep the Passover at thy house with My disciples. And behold, there shall meet you a man bearing a pitcher of water; and he will show you a large upper room furnished; there make ready for us." And they having gone, he says, found as He had commanded them, and they made ready the Passover, that is, the legal Passover which was at the doors. Which also having come, He accomplished with the disciples, as the divine Chrysostom says. Afterward, when the supper was taking place, that is, the Mystical Supper, and the divine Washing having been accomplished in the midst, He immediately sat down, and delivered our Passover upon that very table, as the golden John also recounts. And these things are so.
 
-Now the God-inspired John, and with him also the divine Evangelist Mark, added to the myrrh the word *Pistike*, naming it also very costly; and they thought this *Pistike* was so called as being genuine, unadulterated, unmixed, and refined in purity.[^251] So also this was a certain name of the most excellent and primary myrrh. Mark also adds that the woman brake the vessel out of haste, as being narrow-mouthed, which he also calls an alabaster box. Now this vessel was of glass, as the sacred Epiphanius saith, made without any handles, which is also called a *bykion*.[^252] And that myrrh was compounded of many kinds, but especially of these: flower of myrrh, fragrant cinnamon, that is, aromatic spices, and olive oil.
+Now the God-inspired John, and with him also the divine Evangelist Mark, added to the myrrh the word *Pistike*, naming it also very costly; and they thought this *Pistike* was so called as being genuine, unadulterated, unmixed, and refined in purity.[^251] So also this was a certain name of the most excellent and primary myrrh. Mark also adds that the woman brake the vessel out of haste, as being narrow-mouthed, which he also calls an alabaster box. Now this vessel was of glass, as the sacred Epiphanius says, made without any handles, which is also called a *bykion*.[^252] And that myrrh was compounded of many kinds, but especially of these: flower of myrrh, fragrant cinnamon, that is, aromatic spices, and olive oil.
 
 But Thou Who wast anointed with spiritual myrrh, O Christ God, deliver us from approaching passions and have mercy upon us, as the only Holy One and Lover of mankind! Amen.
 
@@ -109,7 +109,7 @@ With pure souls and undefiled lips, come, let us magnify the undefiled and most 
 Ungrateful for the manifestation, and envious with malice, the betrayer sells by word the worthy and divine gift, whereby the debt of sins was loosed: the fierce Judas, stealing divine grace! Spare our souls, O Christ God, and save us!
 
 *Troparion 2:*
-Having gone unto the lawless rulers, Judas saith: "What will ye give me, and I will deliver Christ unto you, though none of you seek Him?"—casting away the touch of Christ for gold! Spare our souls, O Christ God, and save us!
+Having gone unto the lawless rulers, Judas says: "What will ye give me, and I will deliver Christ unto you, though none of you seek Him?"—casting away the touch of Christ for gold! Spare our souls, O Christ God, and save us!
 
 *Troparion 3:*
 O ungodly one, blinded by the love of money, whence hast thou forgotten that the world is in no wise equal in value to a soul, as thou wast taught? For by despair thou hast brought judgment upon thyself, O running betrayer! Spare our souls, O Christ God, and save us!
@@ -168,7 +168,7 @@ Today the evil assembly is gathered together, and hath meditated vain things aga
 *Prokeimenon, Psalm 133, Tone 4: The Lord bless thee out of Zion, Who made heaven and earth. Verse: Behold now, bless ye the Lord, all ye servants of the Lord.*
 
 *Reading from the Prophecy of Ezekiel (Ezekiel 2:3 - 3:3):*[^259]
-The Lord said unto me: Son of man, I send thee to the house of Israel, to them that provoke Me, who have provoked Me, they and their fathers, having rejected Me even unto this day. And they are impudent children and stiff-hearted: I send thee unto them, and thou shalt say unto them: Thus saith the Lord God: whether they will hear, or whether they will fear, for they are a provoking house, yet shall they know that thou art a prophet in the midst of them. And thou, son of man, be not afraid of them, neither be dismayed at their face, because they will rage and surround thee on every side, and thou dwellest in the midst of scorpions: be not afraid of their words, and be not dismayed at their face, for they are a provoking house. And thou shalt speak My words unto them, whether they will hear, or whether they will fear...
+The Lord said unto me: Son of man, I send thee to the house of Israel, to them that provoke Me, who have provoked Me, they and their fathers, having rejected Me even unto this day. And they are impudent children and stiff-hearted: I send thee unto them, and thou shalt say unto them: Thus says the Lord God: whether they will hear, or whether they will fear, for they are a provoking house, yet shall they know that thou art a prophet in the midst of them. And thou, son of man, be not afraid of them, neither be dismayed at their face, because they will rage and surround thee on every side, and thou dwellest in the midst of scorpions: be not afraid of their words, and be not dismayed at their face, for they are a provoking house. And thou shalt speak My words unto them, whether they will hear, or whether they will fear...
 
 === LEAF p68 ===
 
@@ -176,7 +176,7 @@ The Lord said unto me: Son of man, I send thee to the house of Israel, to them t
 
 *Prokeimenon, Psalm 134, Tone 2: Ye that fear the Lord, bless ye the Lord. Verse: Praise ye the name of the Lord, praise Him, O ye servants of the Lord.*
 
-*Rubric: It is necessary to know: at the last Trisagion of the Hours, the Paraklesiarch strikes the iron semantron, if any brethren have become slack; and when all are gathered into the church, the Abbot saith (or if in a city church, the Priest) the Dismissal Prayer in the hearing of all:*[^260]
+*Rubric: It is necessary to know: at the last Trisagion of the Hours, the Paraklesiarch strikes the iron semantron, if any brethren have become slack; and when all are gathered into the church, the Abbot says (or if in a city church, the Priest) the Dismissal Prayer in the hearing of all:*[^260]
 
 "O Master, Great in mercy, Lord Jesus Christ our God..."[^261]—all of us lying upon our knees until the end, and praying likewise within ourselves. Then the Abbot makes a prostration unto the brethren (or the Priest unto the people), saying thus:
 
@@ -186,7 +186,7 @@ And the brethren answer all together:
 
 "May God forgive thee, holy father!"
 
-After this, the Abbot saith the Litany: "Let us pray for our sovereign Ruler..." and the rest. And at the end, the Abbot saith:
+After this, the Abbot says the Litany: "Let us pray for our sovereign Ruler..." and the rest. And at the end, the Abbot says:
 
 "Through the prayers of Thy most pure Mother and of all the saints, O Lord Jesus Christ our God, have mercy on us!"
 

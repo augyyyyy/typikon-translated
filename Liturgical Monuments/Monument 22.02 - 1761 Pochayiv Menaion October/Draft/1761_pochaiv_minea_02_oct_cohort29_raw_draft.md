@@ -89,11 +89,11 @@ O God-bearing father Stephen, thou didst enlighten thy mind with theology, O ven
 O God-bearing father Stephen, having ever enriched thy mind through temperance, thou didst cause it to run unto the Primal Cause, and thou didst cast aside the turmoil of the world; and having shaken off earthly tumults through purity of mind, thou didst mingle thyself, O all-wise one, with the truly utmost Desire, O God-wise, venerable one!
 
 *Glory, both now, Theotokion:*
-*Podoben the same:*
+*Podoben the same (Подо́бенъ то́йже):*
 Vessel of virginity, and pure, fair dwelling-place of God, I entreat thee, the all-honored one: Comfort my soul, which is afflicted by the serpent's venom and slain by transgressions; that I may glorify thee, who hast magnified all things for the faithful, O full of God's grace!
 
 *Stavrotheotokion:*
-*Podoben the same:*
+*Podoben the same (Подо́бенъ то́йже):*
 What is this visible sight which is beheld by mine eyes, O Master? Holding all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!—the Birthgiver of God said weeping, when she beheld Him Who ineffably shone forth from her, God and Man, lifted up upon the Cross.
 
 *Troparion, Tone 4:*[^1122]

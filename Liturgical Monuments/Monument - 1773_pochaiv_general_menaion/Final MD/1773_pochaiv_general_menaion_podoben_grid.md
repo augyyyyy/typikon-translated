@@ -15,49 +15,49 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 6 | `p18 (p18)` | p18 (p18), f. 234v (p25), p37 (p37), p86 (p86), f. 84v (p91) (+1 more) | *Τὸν τάφον σου Σωτήρ* |
-| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 3 | `f. 1v (p36)` | f. 1v (p36), p97 (p97), p102 (p102) | *Τῶν οὐρανίων ταγμάτων* |
-| Tone 1 | `POD.T1.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 1 | `f. 234v (p49)` | f. 234v (p49) | *—* |
-| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | **When the stone had been sealed** | 1 | `p68 (p68)` | p68 (p68) | *Τοῦ λίθου σφραγισθέντος* |
-| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 7 | `p27 (p27)` | p27 (p27), p39 (p39), p45 (p45), p51 (p51), p58 (p58) (+2 more) | *Τὰ ἄνω ζητῶν* |
-| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `p5 (p5)` | p5 (p5) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 2 | `POD.T2.EXT_THE_FIRM` | **The firm** | 1 | `p76 (p76)` | p76 (p76) | *—* |
-| Tone 2 | `POD.T2.EXT_BY_THE_SPIRIT` | **By the Spirit in the sanctuary** | 1 | `p83 (p83)` | p83 (p83) | *—* |
-| Tone 2 | `POD.T2.EXT_HAVING_RECEIVED_GRACE` | **Having received grace** | 1 | `p100 (p100)` | p100 (p100) | *—* |
-| Tone 2 | `POD.T2.EXT_O_HEAVEN_WITH` | **O heaven with stars** | 1 | `f. 124v (p125)` | f. 124v (p125) | *—* |
-| Tone 2 | `POD.T2.EXT_HOUSE_OF_EPHRATHA` | **House of Ephratha** | 1 | `f. 1v (p126)` | f. 1v (p126) | *—* |
-| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | **Of the divine faith** | 7 | `p5 (p5)` | p5 (p5), p13 (p13), p18 (p18), p32 (p32), p61 (p61) (+2 more) | *Θείας πίστεως* |
-| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 2 | `p5 (p5)` | p5 (p5), p103 (p103) | *Τὴν ὡραιότητα τῆς παρθενίας σου* |
-| Tone 3 | `POD.T3.EXT_HE_HAS_VISITED` | **He has visited us** | 1 | `p46 (p46)` | p46 (p46) | *—* |
-| Tone 3 | `POD.T3.EXT_O_THOU_WHO` | **O Thou Who hast adorned heaven with stars** | 1 | `p65 (p65)` | p65 (p65) | *—* |
-| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 1 | `p70 (p70)` | p70 (p70) | *Ἡ Παρθένος σήμερον* |
-| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 20 | `p15 (p15)` | p15 (p15), p16 (p16), p29 (p29), f. 234v (p42), p48 (p48) (+15 more) | *Ὡς γενναῖον ἐν Μάρτυσιν* |
-| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 11 | `p8 (p8)` | p8 (p8), p14 (p14), p18 (p18), p26 (p26), p44 (p44) (+6 more) | *Ἐπεφάνης σήμερον* |
-| Tone 4 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 9 | `p11 (p11)` | p11 (p11), p46 (p46), p65 (p65), p90 (p90), p107 (p107) (+4 more) | *Ἔδωκας σημείωσιν* |
-| Tone 4 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 9 | `p37 (p37)` | p37 (p37), p38 (p38), f. 234v (p42), p81 (p81), p97 (p97) (+4 more) | *Ταχὺ προκατάλαβε* |
-| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 9 | `p55 (p55)` | p55 (p55), p57 (p57), p63 (p63), p73 (p73), p79 (p79) (+4 more) | *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ* |
-| Tone 4 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 4 | `p47 (p47)` | p47 (p47), p59 (p59), p65 (p65), p72 (p72) | *Πανεύφημοι μάρτυρες* |
-| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 2 | `p3 (p3)` | p3 (p3), p52 (p52) | *Ὁ κληθεὶς ἄνωθεν* |
-| Tone 4 | `POD.T4.UDIVISIA_IOSIF` | **Joseph was amazed** | 2 | `p74 (p74)` | p74 (p74), p92 (p92) | *Κατεπλάγη Ἰωσήφ* |
-| Tone 4 | `POD.T4.EXT_HAVING_SEEN_IN` | **Having seen in spirit** | 1 | `p15 (p15)` | p15 (p15) | *—* |
-| Tone 4 | `POD.T4.EXT_O_PRAISED_MARTYRS` | **O praised martyrs** | 1 | `p31 (p31)` | p31 (p31) | *—* |
-| Tone 4 | `POD.T4.EXT_OF_THE_HEAVENLY` | **Of the heavenly hosts** | 1 | `f. 54v (p121)` | f. 54v (p121) | *—* |
-| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 10 | `f. 234v (p31)` | f. 234v (p31), p37 (p37), p50 (p50), p67 (p67), f. 45v (p85) (+5 more) | *Τὸν συνάναρχον Λόγον* |
-| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 3 | `p17 (p17)` | p17 (p17), p35 (p35), p72 (p72) | *Τριήμερος ἀνέστης* |
-| Tone 6 | `POD.T6.EXT_THE_GATES_OF` | **The gates of compassion** | 2 | `p6 (p6)` | p6 (p6), p7 (p7) | *—* |
-| Tone 6 | `POD.T8.MUCHENITSY_GOSPODNI` | **Martyrs of the Lord** | 2 | `f. 29r (p35)` | f. 29r (p35), f. 54v (p78) | *Οἱ Μάρτυρές σου Κύριε* |
-| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 1 | `p22 (p22)` | p22 (p22) | *Ὅλην ἀποθέμενοι* |
-| Tone 6 | `POD.T6.EXT_OUR_SAVIOR_HAS` | **Our Savior has visited us** | 1 | `p29 (p29)` | p29 (p29) | *—* |
-| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 13 | `p12 (p12)` | p12 (p12), p19 (p19), f. 234v (p25), p43 (p43), p61 (p61) (+8 more) | *Τῆς σοφίας ὁδηγέ* |
-| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 7 | `p9 (p9)` | p9 (p9), p29 (p29), p41 (p41), p59 (p59), f. 111r (p113) (+2 more) | *Ὢ τοῦ παραδόξου θαύματος* |
-| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 3 | `p10 (p10)` | p10 (p10), p78 (p78), p108 (p108) | *Τί ὑμᾶς καλέσωμεν ἅγιοι* |
-| Tone 8 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 3 | `p40 (p40)` | p40 (p40), p71 (p71), p77 (p77) | *Γυναῖκες ἀκουτίσθητε* |
-| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 2 | `p98 (p98)` | p98 (p98), p103 (p103) | *Τὸ προσταχθὲν μυστικῶς* |
-| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 1 | `p22 (p22)` | p22 (p22) | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* |
-| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 1 | `p34 (p34)` | p34 (p34) | *Ὡς ἀπαρχὰς τῆς φύσεως* |
-| Tone 8 | `POD.T8.EXT_THY_MARTYRS_O` | **Thy martyrs, O Lord** | 1 | `p96 (p96)` | p96 (p96) | *—* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 6 | `p18 (p18)` | p18 (p18), f. 234v (p25), p37 (p37), p86 (p86), f. 84v (p91) (+1 more) |
+| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 3 | `f. 1v (p36)` | f. 1v (p36), p97 (p97), p102 (p102) |
+| Tone 1 | `POD.T1.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 1 | `f. 234v (p49)` | f. 234v (p49) |
+| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | **When the stone had been sealed** | 1 | `p68 (p68)` | p68 (p68) |
+| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 7 | `p27 (p27)` | p27 (p27), p39 (p39), p45 (p45), p51 (p51), p58 (p58) (+2 more) |
+| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `p5 (p5)` | p5 (p5) |
+| Tone 2 | `POD.T2.EXT_THE_FIRM` | **The firm** | 1 | `p76 (p76)` | p76 (p76) |
+| Tone 2 | `POD.T2.EXT_BY_THE_SPIRIT` | **By the Spirit in the sanctuary** | 1 | `p83 (p83)` | p83 (p83) |
+| Tone 2 | `POD.T2.EXT_HAVING_RECEIVED_GRACE` | **Having received grace** | 1 | `p100 (p100)` | p100 (p100) |
+| Tone 2 | `POD.T2.EXT_O_HEAVEN_WITH` | **O heaven with stars** | 1 | `f. 124v (p125)` | f. 124v (p125) |
+| Tone 2 | `POD.T2.EXT_HOUSE_OF_EPHRATHA` | **House of Ephratha** | 1 | `f. 1v (p126)` | f. 1v (p126) |
+| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | **Of the divine faith** | 7 | `p5 (p5)` | p5 (p5), p13 (p13), p18 (p18), p32 (p32), p61 (p61) (+2 more) |
+| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 2 | `p5 (p5)` | p5 (p5), p103 (p103) |
+| Tone 3 | `POD.T3.EXT_HE_HAS_VISITED` | **He has visited us** | 1 | `p46 (p46)` | p46 (p46) |
+| Tone 3 | `POD.T3.EXT_O_THOU_WHO` | **O Thou Who hast adorned heaven with stars** | 1 | `p65 (p65)` | p65 (p65) |
+| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 1 | `p70 (p70)` | p70 (p70) |
+| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 20 | `p15 (p15)` | p15 (p15), p16 (p16), p29 (p29), f. 234v (p42), p48 (p48) (+15 more) |
+| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 11 | `p8 (p8)` | p8 (p8), p14 (p14), p18 (p18), p26 (p26), p44 (p44) (+6 more) |
+| Tone 4 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 9 | `p11 (p11)` | p11 (p11), p46 (p46), p65 (p65), p90 (p90), p107 (p107) (+4 more) |
+| Tone 4 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 9 | `p37 (p37)` | p37 (p37), p38 (p38), f. 234v (p42), p81 (p81), p97 (p97) (+4 more) |
+| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 9 | `p55 (p55)` | p55 (p55), p57 (p57), p63 (p63), p73 (p73), p79 (p79) (+4 more) |
+| Tone 4 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 4 | `p47 (p47)` | p47 (p47), p59 (p59), p65 (p65), p72 (p72) |
+| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 2 | `p3 (p3)` | p3 (p3), p52 (p52) |
+| Tone 4 | `POD.T4.UDIVISIA_IOSIF` | **Joseph was amazed** | 2 | `p74 (p74)` | p74 (p74), p92 (p92) |
+| Tone 4 | `POD.T4.EXT_HAVING_SEEN_IN` | **Having seen in spirit** | 1 | `p15 (p15)` | p15 (p15) |
+| Tone 4 | `POD.T4.EXT_O_PRAISED_MARTYRS` | **O praised martyrs** | 1 | `p31 (p31)` | p31 (p31) |
+| Tone 4 | `POD.T4.EXT_OF_THE_HEAVENLY` | **Of the heavenly hosts** | 1 | `f. 54v (p121)` | f. 54v (p121) |
+| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 10 | `f. 234v (p31)` | f. 234v (p31), p37 (p37), p50 (p50), p67 (p67), f. 45v (p85) (+5 more) |
+| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 3 | `p17 (p17)` | p17 (p17), p35 (p35), p72 (p72) |
+| Tone 6 | `POD.T6.EXT_THE_GATES_OF` | **The gates of compassion** | 2 | `p6 (p6)` | p6 (p6), p7 (p7) |
+| Tone 6 | `POD.T8.MUCHENITSY_GOSPODNI` | **Martyrs of the Lord** | 2 | `f. 29r (p35)` | f. 29r (p35), f. 54v (p78) |
+| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 1 | `p22 (p22)` | p22 (p22) |
+| Tone 6 | `POD.T6.EXT_OUR_SAVIOR_HAS` | **Our Savior has visited us** | 1 | `p29 (p29)` | p29 (p29) |
+| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 13 | `p12 (p12)` | p12 (p12), p19 (p19), f. 234v (p25), p43 (p43), p61 (p61) (+8 more) |
+| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 7 | `p9 (p9)` | p9 (p9), p29 (p29), p41 (p41), p59 (p59), f. 111r (p113) (+2 more) |
+| Tone 8 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 3 | `p10 (p10)` | p10 (p10), p78 (p78), p108 (p108) |
+| Tone 8 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 3 | `p40 (p40)` | p40 (p40), p71 (p71), p77 (p77) |
+| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 2 | `p98 (p98)` | p98 (p98), p103 (p103) |
+| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 1 | `p22 (p22)` | p22 (p22) |
+| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 1 | `p34 (p34)` | p34 (p34) |
+| Tone 8 | `POD.T8.EXT_THY_MARTYRS_O` | **Thy martyrs, O Lord** | 1 | `p96 (p96)` | p96 (p96) |
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## TYPIKON
 
-### THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST
+**THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST**
 
 BILINGUAL EDITION
 
@@ -20,7 +20,7 @@ Christ, the Lord of Holy Wisdom (Agia Sophia) with the kneeling Emperor Leo VI r
 
 ## TYPIKON
 
-### BILINGUAL EDITION
+**BILINGUAL EDITION**
 
 === LEAF p4 ===
 
@@ -30,7 +30,7 @@ Christ, the Lord of Holy Wisdom (Agia Sophia) with the kneeling Emperor Leo VI r
 
 To the edition approved in Constantinople which was twice published by Constantine the Protopsaltis,[^3] with many additions and corrections by the Protopsaltis
 
-### GEORGE VIOLAKIS
+**GEORGE VIOLAKIS**
 
 Having labored in collaboration with two successive committees appointed for this purpose by Patriarchal decree.
 
@@ -51,7 +51,7 @@ Contributing Translator and Editor
 
 With the edition approved in Constantinople and published twice by Constantine the First Chanter with many additions and corrections by the First Chanter
 
-### GEORGE VIOLAKIS
+**GEORGE VIOLAKIS**
 
 Working in collaboration with two successive committees appointed to this task by Patriarchal order.
 

@@ -4,7 +4,7 @@
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters E–I) [Demos, p. 986 / TD-7]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -53,7 +53,7 @@
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters I–M) [Demos, p. 987 / TD-8]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -94,8 +94,6 @@
 | Keros | 84 | Great Synapti (*Megali Synapti*) | 98 |
 | *Dormition (*Kimisis*) | 85 | *Megalynarion | 98 |[^560]
 
----
-[*] *Editorial Note on the Index (pp. TD-7–TD-8):* Liturgical terms in this index segment are harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon. Greek and Slavonic loan terms are aligned with canonical UGCC usage, including *Communion Hymn* (*Kinonikon*), *Heirmos* (*Irmos*), *Apodosis* (*Leave-taking*), *Litiya* (*Liti*), *Sessional Hymn* (*Kathisma Hymn*), and *Dormition* (*Kimisis*).
 
 *(Printed Page TD-8)*
 
@@ -105,7 +103,7 @@
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters M–P) [Demos, p. 988 / TD-9]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -142,7 +140,7 @@
 | Temple / Church (*Naos*) | 105 | Patriarchal Pastoral Staff (*Patriarchiki Pimantoriki Ravdos*) | 112 |
 | Narthex | 105 | Pentikostarion | 113 |
 | Nave | 106 | Phrase | 113 |
-| Nekrosimon | 106 | | |
+| Hymn for the Departed (Поко́инъ) | 106 | | |
 
 *(Printed Page TD-9)*
 
@@ -152,7 +150,7 @@
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters P–S) [Demos, p. 989 / TD-10]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -193,8 +191,6 @@
 | Psalm 118 [LXX 118 / MT 119] | 120 | Sessional Hymn | 131 |
 | Psalm 119 [LXX 119 / MT 120] | 121 | Sexton | 131 |[^561]
 
----
-[*] *Editorial Note on the Index (pp. TD-9–TD-10):* Non-canonical variants in this index section have been harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon. Entries for (*Post-feast*) and (*Pre-feast*) (lit. 'Post-feast' and 'Pre-feast') are indexed under canonical *Afterfeast* and *Forefeast*, *Mode* under *Tone*, and *Kathisma Hymn* under *Sessional Hymn*. Psalter references are harmonized with the Septuagint (LXX) canon with Masoretic (MT) versification supplied in brackets.
 
 *(Printed Page TD-10)*
 
@@ -204,7 +200,7 @@
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters S–V) [Demos, p. 990 / TD-11]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Continued)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -253,7 +249,7 @@
 
 ## Brief Alphabetical Index of Typikon Related Terms (Letters Y–Z and Bibliography) [Demos, p. 991 / TD-12]
 
-### BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Conclusion)
+**BRIEF ALPHABETICAL INDEX OF TYPIKON RELATED TERMS (Conclusion)**
 
 | Term / Entry | Source Page | Term / Entry | Source Page |
 | :--- | :--- | :--- | :--- |
@@ -264,8 +260,6 @@
 | | | | |
 | **Bibliography** | | Dictionary Bibliography | 174 |[^562]
 
----
-[*] *Editorial Note on the Typikon Index (pp. TD-11–TD-12):* Physical leaves p1005 and p1006 conclude the preliminary *Brief Alphabetical Index of Typikon Related Terms* (pp. TD-5 to TD-12) preceding the main text of the dictionary. All entries have been harmonized with the Master Translation Standard (MTS-1) and the Ecosystem Liturgical Lexicon, ensuring complete cross-referencing between traditional Greek transliterations, Slavonic equivalents, and canonical English nomenclature.
 
 *(Printed Page TD-12)*
 
@@ -275,7 +269,7 @@
 
 ## Extended Dictionary of Typikon Related Terms (Letters A–Aetos) [Demos, p. 992 / TD-13]
 
-### EXTENDED DICTIONARY OF TYPIKON RELATED TERMS
+**EXTENDED DICTIONARY OF TYPIKON RELATED TERMS**
 
 **ABSTINENCE** (ἐγκράτεια, ἡ [*ἐγκράτια*]). See also **FAST**: A penitential practice in Christianity consisting of voluntary deprivation of certain foods for religious reasons. In the Orthodox Church, days of abstinence are observed on Wednesdays and Fridays, or other specific periods, such as Great Lent. (FL)
 

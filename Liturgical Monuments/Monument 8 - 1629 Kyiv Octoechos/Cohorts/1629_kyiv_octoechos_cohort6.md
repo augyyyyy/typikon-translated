@@ -114,7 +114,7 @@ great mercy.
 
 *Glory, Both now:*  
 *Theotokion:*  
-We hymn thee as the mediatress of the salvation of our race, O Virgin Mother of God; for having accepted suffering on the Cross in the flesh which He took from thee, Thy Son and our God has delivered us from corruption, as the Lover of mankind.
+We hymn thee as the mediatress of the salvation of our race, O Virgin Mother of God; for having accepted suffering on the Cross in the flesh which He took from thee, thy Son and our God has delivered us from corruption, as the Lover of mankind.
 
 
 *Canon to the Holy and Life-Creating Trinity:*

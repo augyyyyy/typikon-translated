@@ -15,46 +15,46 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 2 | `p149 (p149)` | p149 (p149), p176 (p176) | *Τῶν οὐρανίων ταγμάτων* |
-| Tone 1 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 2 | `p229 (p229)` | p229 (p229), p503 (p503) | *Ὡς γενναῖον ἐν Μάρτυσιν* |
-| Tone 1 | `POD.T1.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 2 | `p318 (p318)` | p318 (p318), p368 (p368) | *—* |
-| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 2 | `p330 (p330)` | p330 (p330), p494 (p494) | *Πανεύφημοι μάρτυρες* |
-| Tone 1 | `POD.T1.EXT_IN_THE_WOMB` | **In the Womb** | 1 | `p172 (p172)` | p172 (p172) | *—* |
-| Tone 1 | `POD.T1.EXT_O_HOUSE_OF` | **O House of Ephratha** | 1 | `p231 (p231)` | p231 (p231) | *—* |
-| Tone 1 | `POD.T1.EXT_THOU_WHO_DIDST` | **Thou Who didst willingly ascend...** | 1 | `p397 (p397)` | p397 (p397) | *—* |
-| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 22 | `p151 (p151)` | p151 (p151), p157 (p157), p174 (p174), p189 (p189), p217 (p217) (+11 more) | *Τὰ ἄνω ζητῶν* |
-| Tone 2 | `POD.T2.EXT_THE_FIRM` | **The Firm** | 4 | `p208 (p208)` | p208 (p208), p250 (p250), p339 (p339) | *—* |
-| Tone 2 | `POD.T1.EGDA_PRIIDESHI` | **When Thou shalt come** | 2 | `p336 (p336)` | p336 (p336) | *Ὅταν ἔλθῃς ὁ Θεός* |
-| Tone 2 | `POD.T2.EXT_IN_PRAYERS` | **In prayers...** | 2 | `p349 (p349)` | p349 (p349) | *—* |
-| Tone 2 | `POD.T2.EXT_FIRM_AND_GODBEARING` | **Firm [and God-bearing]** | 1 | `p222 (p222)` | p222 (p222) | *—* |
-| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `p242 (p242)` | p242 (p242) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 2 | `POD.T2.EXT_THOU_WHO_BEAREST` | **Thou who bearest flesh...** | 1 | `p284 (p284)` | p284 (p284) | *—* |
-| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 18 | `p135 (p135)` | p135 (p135), p153 (p153), p156 (p156), p184 (p184), p242 (p242) (+8 more) | *Ἡ Παρθένος σήμερον* |
-| Tone 3 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 6 | `p7 (p7)` | p7 (p7), p8 (p8), p9 (p9) | *Γυναῖκες ἀκουτίσθητε* |
-| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 16 | `p156 (p156)` | p156 (p156), p168 (p168), p177 (p177), p188 (p188), p287 (p287) (+6 more) | *Ἐπεφάνης σήμερον* |
-| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 10 | `p155 (p155)` | p155 (p155), p187 (p187), p193 (p193), p224 (p224), p229 (p229) (+3 more) | *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ* |
-| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 4 | `p327 (p327)` | p327 (p327), p331 (p331), p334 (p334), p503 (p503) | *Ὁ κληθεὶς ἄνωθεν* |
-| Tone 4 | `POD.T4.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 2 | `p318 (p318)` | p318 (p318), p414 (p414) | *—* |
-| Tone 4 | `POD.T4.EXT_THE_FIRM_AND` | **The Firm and God-Proclaiming Preachers** | 1 | `p178 (p178)` | p178 (p178) | *—* |
-| Tone 4 | `POD.T4.EXT_LORD_I_HAVE` | **Lord, I have cried,** | 1 | `p401 (p401)` | p401 (p401) | *—* |
-| Tone 4 | `POD.T4.EXT_A_MARVEL_TODAY` | **A marvel today** | 1 | `p502 (p502)` | p502 (p502) | *—* |
-| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `p181 (p181)` | p181 (p181), p219 (p219) | *Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν* |
-| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 2 | `p383 (p383)` | p383 (p383), p522 (p522) | *Ὅλην ἀποθέμενοι* |
-| Tone 6 | `POD.T6.EXT_HAVING_LAID_UP` | **Having laid up all hope** | 2 | `p513 (p513)` | p513 (p513), p514 (p514) | *—* |
-| Tone 6 | `POD.T6.EXT_TO_THEE_CHAMPION` | **To Thee, Champion Leader** | 1 | `p212 (p212)` | p212 (p212) | *—* |
-| Tone 6 | `POD.T6.EXT_HE_WHO_FULFILLED` | **He Who fulfilled the dispensation for us...** | 1 | `p359 (p359)` | p359 (p359) | *—* |
-| Tone 6 | `POD.T6.EXT_DESPAIRING_OF_SALVATION` | **Despairing of salvation...** | 1 | `p382 (p382)` | p382 (p382) | *—* |
-| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 6 | `p155 (p155)` | p155 (p155), p171 (p171), p208 (p208), p219 (p219), p236 (p236) (+1 more) | *Ὡς ἀπαρχὰς τῆς φύσεως* |
-| Tone 8 | `POD.T8.EXT_TO_THEE_THE` | **To Thee, the Champion Leader** | 3 | `p186 (p186)` | p186 (p186), p368 (p368) | *—* |
-| Tone 8 | `POD.T8.EXT_AS_THE_FIRSTFRUITS` | **As the firstfruits...** | 2 | `p341 (p341)` | p341 (p341) | *—* |
-| Tone 8 | `POD.T8.EXT_IN_THE_IMAGE` | **In the Image** | 1 | `p196 (p196)` | p196 (p196) | *—* |
-| Tone 8 | `POD.T8.EXT_TO_THEE_CHAMPION` | **To Thee, Champion Leader** | 1 | `p213 (p213)` | p213 (p213) | *—* |
-| Tone 8 | `POD.T8.EXT_TO_THE_CHOSEN` | **To the chosen...** | 1 | `p283 (p283)` | p283 (p283) | *—* |
-| Tone 8 | `POD.T8.EXT_WHAT_A_MARVELOUS` | **What a marvelous wonder** | 1 | `p332 (p332)` | p332 (p332) | *—* |
-| Tone 8 | `POD.T8.EXT_HE_WHO_FULFILLED` | **He Who fulfilled the dispensation for us...** | 1 | `p359 (p359)` | p359 (p359) | *—* |
-| Tone 8 | `POD.T8.EXT_THE_ANGELIC_CHOIR` | **The angelic choir...** | 1 | `p368 (p368)` | p368 (p368) | *—* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 2 | `p149 (p149)` | p149 (p149), p176 (p176) |
+| Tone 1 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 2 | `p229 (p229)` | p229 (p229), p503 (p503) |
+| Tone 1 | `POD.T1.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 2 | `p318 (p318)` | p318 (p318), p368 (p368) |
+| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 2 | `p330 (p330)` | p330 (p330), p494 (p494) |
+| Tone 1 | `POD.T1.EXT_IN_THE_WOMB` | **In the Womb** | 1 | `p172 (p172)` | p172 (p172) |
+| Tone 1 | `POD.T1.EXT_O_HOUSE_OF` | **O House of Ephratha** | 1 | `p231 (p231)` | p231 (p231) |
+| Tone 1 | `POD.T1.EXT_THOU_WHO_DIDST` | **Thou Who didst willingly ascend...** | 1 | `p397 (p397)` | p397 (p397) |
+| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 22 | `p151 (p151)` | p151 (p151), p157 (p157), p174 (p174), p189 (p189), p217 (p217) (+11 more) |
+| Tone 2 | `POD.T2.EXT_THE_FIRM` | **The Firm** | 4 | `p208 (p208)` | p208 (p208), p250 (p250), p339 (p339) |
+| Tone 2 | `POD.T1.EGDA_PRIIDESHI` | **When Thou shalt come** | 2 | `p336 (p336)` | p336 (p336) |
+| Tone 2 | `POD.T2.EXT_IN_PRAYERS` | **In prayers...** | 2 | `p349 (p349)` | p349 (p349) |
+| Tone 2 | `POD.T2.EXT_FIRM_AND_GODBEARING` | **Firm [and God-bearing]** | 1 | `p222 (p222)` | p222 (p222) |
+| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 1 | `p242 (p242)` | p242 (p242) |
+| Tone 2 | `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | **Rejoice, O life-bearing Cross** | 1 | `p284 (p284)` | p284 (p284) |
+| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 18 | `p135 (p135)` | p135 (p135), p153 (p153), p156 (p156), p184 (p184), p242 (p242) (+8 more) |
+| Tone 3 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 6 | `p7 (p7)` | p7 (p7), p8 (p8), p9 (p9) |
+| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 16 | `p156 (p156)` | p156 (p156), p168 (p168), p177 (p177), p188 (p188), p287 (p287) (+6 more) |
+| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 10 | `p155 (p155)` | p155 (p155), p187 (p187), p193 (p193), p224 (p224), p229 (p229) (+3 more) |
+| Tone 4 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 4 | `p327 (p327)` | p327 (p327), p331 (p331), p334 (p334), p503 (p503) |
+| Tone 4 | `POD.T4.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 2 | `p318 (p318)` | p318 (p318), p414 (p414) |
+| Tone 4 | `POD.T4.EXT_THE_FIRM_AND` | **The Firm and God-Proclaiming Preachers** | 1 | `p178 (p178)` | p178 (p178) |
+| Tone 4 | `POD.T4.EXT_LORD_I_HAVE` | **Lord, I have cried,** | 1 | `p401 (p401)` | p401 (p401) |
+| Tone 4 | `POD.T4.EXT_A_MARVEL_TODAY` | **A marvel today** | 1 | `p502 (p502)` | p502 (p502) |
+| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `p181 (p181)` | p181 (p181), p219 (p219) |
+| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 2 | `p383 (p383)` | p383 (p383), p522 (p522) |
+| Tone 6 | `POD.T6.EXT_HAVING_LAID_UP` | **Having laid up all hope** | 2 | `p513 (p513)` | p513 (p513), p514 (p514) |
+| Tone 6 | `POD.T6.EXT_TO_THEE_CHAMPION` | **To Thee, Champion Leader** | 1 | `p212 (p212)` | p212 (p212) |
+| Tone 6 | `POD.T6.EXT_HE_WHO_FULFILLED` | **He Who fulfilled the dispensation for us...** | 1 | `p359 (p359)` | p359 (p359) |
+| Tone 6 | `POD.T6.EXT_DESPAIRING_OF_SALVATION` | **Despairing of salvation...** | 1 | `p382 (p382)` | p382 (p382) |
+| Tone 8 | `POD.T8.YAKO_NACHATKI_ESTESTVA` | **As first-fruits of nature** | 6 | `p155 (p155)` | p155 (p155), p171 (p171), p208 (p208), p219 (p219), p236 (p236) (+1 more) |
+| Tone 8 | `POD.T8.EXT_TO_THEE_THE` | **To Thee, the Champion Leader** | 3 | `p186 (p186)` | p186 (p186), p368 (p368) |
+| Tone 8 | `POD.T8.EXT_AS_THE_FIRSTFRUITS` | **As the firstfruits...** | 2 | `p341 (p341)` | p341 (p341) |
+| Tone 8 | `POD.T8.EXT_IN_THE_IMAGE` | **In the Image** | 1 | `p196 (p196)` | p196 (p196) |
+| Tone 8 | `POD.T8.EXT_TO_THEE_CHAMPION` | **To Thee, Champion Leader** | 1 | `p213 (p213)` | p213 (p213) |
+| Tone 8 | `POD.T8.EXT_TO_THE_CHOSEN` | **To the chosen...** | 1 | `p283 (p283)` | p283 (p283) |
+| Tone 8 | `POD.T8.EXT_WHAT_A_MARVELOUS` | **What a marvelous wonder** | 1 | `p332 (p332)` | p332 (p332) |
+| Tone 8 | `POD.T8.EXT_HE_WHO_FULFILLED` | **He Who fulfilled the dispensation for us...** | 1 | `p359 (p359)` | p359 (p359) |
+| Tone 8 | `POD.T8.EXT_THE_ANGELIC_CHOIR` | **The angelic choir...** | 1 | `p368 (p368)` | p368 (p368) |
 
 ---
 
@@ -113,7 +113,7 @@
 | 49 | `p247` (p247) | T8 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Яко начатки* | **As first-fruits of nature** | "*Kontakion:*" |
 | 50 | `p248` (p248) | T2 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Вышних ища* | **Seeking the highest** | "*Kontakion:*" |
 | 51 | `p250` (p250) | T2 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Твердыя* | **The Firm...** | "*Kontakion:*" |
-| 52 | `p284` (p284) | T2 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **Thou who bearest flesh...** | "*Troparion:*" |
+| 52 | `p284` (p284) | T2 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Ра́дꙋйсѧ живоно́сный Крⷭ҇те* | **Rejoice, O life-bearing Cross** | "*Troparion:*" |
 | 53 | `p283` (p283) | T8 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Въ избраннои* | **To the chosen...** | "*Kontakion:*" |
 | 54 | `p287` (p287) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Явися* | **Thou hast appeared today** | "*Kontakion:*" |
 | 55 | `p289` (p289) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Явися* | **Thou hast appeared today** | "*Kontakion:*" |
@@ -178,18 +178,18 @@
 | 114 | `p397` (p397) | T1 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **Thou Who didst willingly ascend...** | "*The Great Doxology. While the brethren are singing, the priest..." |
 | 115 | `p400` (p400) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Явился еси днесь* | **Thou hast appeared today** | "By Thy divine Transfiguration today human nature hath been divinely..." |
 | 116 | `p400` (p400) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Явился еси днесь* | **Thou hast appeared today** | "By Thy divine Transfiguration today human nature hath been divinely..." |
-| 117 | `p401` (p401) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **Lord, I have cried,** | "*Two from Exodus: "The Lord said unto Moses: Come up..." |
+| 117 | `p401` (p401) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Пре́жде честна́гѡ твоегѡ̀ Крⷭ҇та̀* | **Lord, I have cried,** | "*Two from Exodus: "The Lord said unto Moses: Come up..." |
 | 118 | `p414` (p414) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **The angelic choir** | "*Kontakion of the Holy Martyr Agathonicus:*" |
-| 119 | `p417` (p417) | T3 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **Thou hast appeared today** | "*Kontakion of Our Venerable Father Poemen:*" |
-| 120 | `p417` (p417) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **Thou hast appeared today** | "*Kontakion of Our Venerable Father Moses the Black:*" |
-| 121 | `p420` (p420) | T2 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *то́йже* | **Thou hast appeared today** | "*Kontakion of the Deposition of the Sash of the Theotokos:*" |
+| 119 | `p417` (p417) | T3 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Ꙗ҆ви́лсѧ є҆сѝ дне́сь* | **Thou hast appeared today** | "*Kontakion of Our Venerable Father Poemen:*" |
+| 120 | `p417` (p417) | T4 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Ꙗ҆ви́лсѧ є҆сѝ дне́сь* | **Thou hast appeared today** | "*Kontakion of Our Venerable Father Moses the Black:*" |
+| 121 | `p420` (p420) | T2 | MONTH OF SEPTEMBER — *Hymnographic Propers* | *Ꙗ҆ви́лсѧ є҆сѝ дне́сь* | **Thou hast appeared today** | "*Kontakion of the Deposition of the Sash of the Theotokos:*" |
 | 122 | `p494` (p494) | T3 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Всехвалніи мученицы* | **O all-lauded martyrs** | "*At the Liturgy: We begin the appointed typical Psalms; the..." |
 | 123 | `p501` (p501) | T1 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Дѣва днесь* | **Today the Virgin** | "My soul, O Lord, grievously paralyzed by all manner of..." |
 | 124 | `p502` (p502) | T4 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Преславная днесь* | **A marvel today** | "*Glory, Both now, Tone 8:* "The feast being at the..." |
 | 125 | `p503` (p503) | T4 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Яко добля* | **As one valiant among martyrs** | "*At the Liturgy: [The Beatitudes from] Ode 3 and Ode..." |
 | 126 | `p503` (p503) | T4 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Званный свыше* | **Being called from on high** | "*Sunday 4 [after Pascha]: Of the Samaritan Woman.*[^773] *On Saturday,..." |
-| 127 | `p513` (p513) | T6 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *то́йже* | **Having laid up all hope** | "*At the Liturgy: From the Canon of the Holy Fathers,..." |
-| 128 | `p514` (p514) | T6 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *то́йже* | **Having laid up all hope** | "*On Thursday of the 7th Week [Eve of the Apodosis..." |
+| 127 | `p513` (p513) | T6 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Всѐ оу҆пова́нїе* | **Having laid up all hope** | "*At the Liturgy: From the Canon of the Holy Fathers,..." |
+| 128 | `p514` (p514) | T6 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Всѐ оу҆пова́нїе* | **Having laid up all hope** | "*On Thursday of the 7th Week [Eve of the Apodosis..." |
 | 129 | `p522` (p522) | T6 | SYNAXARION OF THE TRIODION AND PENTECOSTARION — *Hymnographic Propers* | *Все упование* | **Having laid aside all earthly hope** | "*At the Litiya [Entrance]: Idiomela of the Saint whose church..." |
 
 ---

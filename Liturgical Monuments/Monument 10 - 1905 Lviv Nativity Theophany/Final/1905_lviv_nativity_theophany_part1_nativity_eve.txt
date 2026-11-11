@@ -8,9 +8,9 @@
 
 *The Priest, having taken his stand before the Royal Doors, begins:*
 
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages.
+> **Priest:** "Blessed is our God, always, now and ever, and unto ages of ages."
 
-**Choir:** Amen.
+> **Choir:** "Amen."
 
 Glory to Thee, our God, glory to Thee.
 
@@ -26,9 +26,9 @@ Glory: Now and ever: Lord, have mercy. *(Thrice)*
 
 Our Father, Who art in the heavens, hallowed be Thy name; Thy kingdom come; Thy will be done, on earth as it is in heaven. Give us this day our daily bread; and forgive us our debts, as we forgive our debtors; and lead us not into temptation, but deliver us from the evil one.
 
-**Priest:** For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages.
+> **Priest:** "For Thine is the kingdom, and the power, and the glory, of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto ages of ages."
 
-**Choir:** Amen.
+> **Choir:** "Amen."
 
 Lord, have mercy. *(Twelve times)* Glory: Now and ever:
 
@@ -164,11 +164,11 @@ Now the prophetic utterance draws near to its fulfillment, which secretly said: 
 
 *Then Glory: Tone 8:*
 
-These things saith Joseph unto the Virgin: Mary, what is this deed that I see in thee? I am at a loss and wonder, and in mind I am dismayed; therefore depart from me in secret speedily. Mary, what is this deed that I see in thee? In place of honor, shame; in place of gladness, sorrow; instead of being praised, thou hast brought me reproach. I can no longer bear the reproaches of men; for from the priests of the temple of the Lord I received thee as blameless, and what is this that is seen?
+These things says Joseph unto the Virgin: Mary, what is this deed that I see in thee? I am at a loss and wonder, and in mind I am dismayed; therefore depart from me in secret speedily. Mary, what is this deed that I see in thee? In place of honor, shame; in place of gladness, sorrow; instead of being praised, thou hast brought me reproach. I can no longer bear the reproaches of men; for from the priests of the temple of the Lord I received thee as blameless, and what is this that is seen?
 
 *Both now:*
 
-*These things saith Joseph unto the Virgin...*
+*These things says Joseph unto the Virgin...*
 
 *Then the Prokeimenon, Tone 4:*
 
@@ -180,7 +180,7 @@ The Lord said unto Me: Thou art My Son, this day have I begotten Thee.[^9]
 
 *Reading from the Prophecy of Micah, Chapter 5:*[^10]
 
-Thus saith the Lord: And thou Bethlehem, house of Ephratha, art thou too least among the thousands of Judah? For out of thee shall come forth unto Me a ruler, to be prince in Israel; and His goings forth have been from the beginning, from the days of eternity. Therefore shall He give them up, until the time that she that is in travail hath brought forth; and the rest of His brethren shall return unto the children of Israel. And He shall stand, and see, and shepherd His flock in the strength of the Lord; and they shall abide in the glory of the name of the Lord their God: for now shall He be magnified unto the ends of the earth.
+Thus says the Lord: And thou Bethlehem, house of Ephratha, art thou too least among the thousands of Judah? For out of thee shall come forth unto Me a ruler, to be prince in Israel; and His goings forth have been from the beginning, from the days of eternity. Therefore shall He give them up, until the time that she that is in travail hath brought forth; and the rest of His brethren shall return unto the children of Israel. And He shall stand, and see, and shepherd His flock in the strength of the Lord; and they shall abide in the glory of the name of the Lord their God: for now shall He be magnified unto the ends of the earth.
 
 *Reading from the Epistle of the Holy Apostle Paul to the Hebrews, Pericope 303:*[^11]
 
@@ -216,7 +216,7 @@ In the name of the Lord, bless, father.
 
 *The Priest exclaims:*
 
-**Priest:** God be bountiful unto us, and bless us, and show the light of His countenance upon us, and have mercy on us.
+> **Priest:** "God be bountiful unto us, and bless us, and show the light of His countenance upon us, and have mercy on us."
 
 *Then this prayer:*
 
@@ -328,7 +328,7 @@ Before Thy birth, O Lord, beholding Thy mystery with trembling, the spiritual ho
 
 *Glory: Tone 2.*
 
-Tell us, Joseph, how is it that the Virgin whom thou didst receive from the Holy of Holies thou bringest with child to Bethlehem? I, saith he, have searched the prophets, and having received word from an angel, I am persuaded that Mary shall ineffably give birth to God; unto Whom the Magi from the East shall come to worship, serving Him with precious gifts: O Thou Who wast incarnate for our sake, Lord, glory to Thee.
+Tell us, Joseph, how is it that the Virgin whom thou didst receive from the Holy of Holies thou bringest with child to Bethlehem? I, says he, have searched the prophets, and having received word from an angel, I am persuaded that Mary shall ineffably give birth to God; unto Whom the Magi from the East shall come to worship, serving Him with precious gifts: O Thou Who wast incarnate for our sake, Lord, glory to Thee.
 
 *Both now: again the same Sticheron.*
 
@@ -340,9 +340,7 @@ Unto us a Child is born, a Son, and unto us He is given.[^18]
 
 *Reading from the Prophecy of Jeremiah, Chapter 3:*[^19]
 
-This is our God, no other shall be compared unto Him. He hath found out every way of knowledge, and hath given it unto Jacob His servant, and unto Israel His beloved. Afterward upon earth...
-
-He appeared, and lived among men. This is the book of the commandments of God, and the law that endures unto the ages: all they that hold fast to it are appointed unto life, but they that forsake it shall die. Turn thee, O Jacob, and lay hold upon it: walk toward the brightness over against the light thereof. Give not thine honor unto another, nor the things that are profitable for thee unto a foreign nation. Blessed are we, O Israel, for the things that are pleasing unto God are made known unto us.
+This is our God, no other shall be compared unto Him. He hath found out every way of knowledge, and hath given it unto Jacob His servant, and unto Israel His beloved. Afterward upon earth He appeared, and lived among men. This is the book of the commandments of God, and the law that endures unto the ages: all they that hold fast to it are appointed unto life, but they that forsake it shall die. Turn thee, O Jacob, and lay hold upon it: walk toward the brightness over against the light thereof. Give not thine honor unto another, nor the things that are profitable for thee unto a foreign nation. Blessed are we, O Israel, for the things that are pleasing unto God are made known unto us.
 
 *Reading from the Epistle of the Holy Apostle Paul to the Galatians, Pericope 208:*[^20]
 
@@ -350,9 +348,7 @@ Brethren, before faith came, we were kept under the law, shut up unto the faith 
 
 *Reading from the Holy Gospel according to Luke, Pericope 5:*[^21]
 
-In those days, there went out a decree from Caesar Augustus, that all the world should be registered. This first registration was made when Cyrenius was governing Syria. And all went to be registered, every one into his own city. And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem, because he was of the house and lineage of David; to be registered...
-
-...with Mary his espoused wife, being great with child. And so it was, that while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn Son, and wrapped Him in swaddling clothes, and laid Him in a manger, because there was no room for them in the inn. And there were shepherds in the same country abiding in the field, keeping watch by night over their flock. And lo, the angel of the Lord stood by them, and the glory of the Lord shone round about them, and they were sore afraid. And the angel said unto them: Fear not; for behold, I bring you good tidings of great joy, which shall be to all people: for unto you is born this day a Savior, Who is Christ the Lord, in the city of David. And this shall be a sign unto you: Ye shall find the Babe wrapped in swaddling clothes, lying in a manger. And suddenly there was with the angel a multitude of the heavenly host praising God, and saying: Glory to God in the highest, and on earth peace, good will toward men. And it came to pass, as the angels were gone away from them into heaven, the shepherd men said one to another: Let us go even unto Bethlehem, and see this thing which has come to pass, which the Lord has made known unto us. And they came with haste, and found both Mary and Joseph, and the Babe lying in a manger. And when they had seen it, they made known abroad the saying which was told them concerning this Child. And all they that heard it wondered at those things which were told them by the shepherds. But Mary kept all these sayings, pondering them in her heart. And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.
+In those days, there went out a decree from Caesar Augustus, that all the world should be registered. This first registration was made when Cyrenius was governing Syria. And all went to be registered, every one into his own city. And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem, because he was of the house and lineage of David; to be registered with Mary his espoused wife, being great with child. And so it was, that while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn Son, and wrapped Him in swaddling clothes, and laid Him in a manger, because there was no room for them in the inn. And there were shepherds in the same country abiding in the field, keeping watch by night over their flock. And lo, the angel of the Lord stood by them, and the glory of the Lord shone round about them, and they were sore afraid. And the angel said unto them: Fear not; for behold, I bring you good tidings of great joy, which shall be to all people: for unto you is born this day a Savior, Who is Christ the Lord, in the city of David. And this shall be a sign unto you: Ye shall find the Babe wrapped in swaddling clothes, lying in a manger. And suddenly there was with the angel a multitude of the heavenly host praising God, and saying: Glory to God in the highest, and on earth peace, good will toward men. And it came to pass, as the angels were gone away from them into heaven, the shepherd men said one to another: Let us go even unto Bethlehem, and see this thing which has come to pass, which the Lord has made known unto us. And they came with haste, and found both Mary and Joseph, and the Babe lying in a manger. And when they had seen it, they made known abroad the saying which was told them concerning this Child. And all they that heard it wondered at those things which were told them by the shepherds. But Mary kept all these sayings, pondering them in her heart. And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.
 
 *Then we say:*
 
@@ -376,7 +372,7 @@ More honorable than the Cherubim, and beyond compare more glorious than the Sera
 
 In the name of the Lord, bless, father.
 
-**Priest:** Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us.
+> **Priest:** "Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us."
 
 *Then the Prayer:*
 
@@ -464,9 +460,7 @@ Mary was once registered with the elder Joseph in Bethlehem as being of the seed
 
 *Both now: Theotokion:*
 
-Since we have no boldness on account of our manifold sins, do thou entreat Him Who was born of thee...
-
-...O Virgin Mother of God: for the supplication of a Mother avails much unto the loving-kindness of the Master. Despise not the petitions of sinners, O all-pure one, for He is merciful, and able to save, Who also was pleased to suffer for our sake.
+Since we have no boldness on account of our manifold sins, do thou entreat Him Who was born of thee O Virgin Mother of God: for the supplication of a Mother avails much unto the loving-kindness of the Master. Despise not the petitions of sinners, O all-pure one, for He is merciful, and able to save, Who also was pleased to suffer for our sake.
 
 *Then we chant these Troparia:*
 
@@ -486,9 +480,7 @@ Hear, O heaven, and give ear, O earth; let the foundations be shaken, let trembl
 
 *Glory: Tone 5:*
 
-Come, O Christ-bearing people, let us behold a wonder that astonishes every understanding and holds it fast...
-
-...and praising piously, ye faithful, let us worship: today the Virgin, being great with child, comes to Bethlehem to give birth to the Lord; and the choirs of angels run before Her; and beholding these things, Joseph the Betrothed cried out: What is this strange mystery in thee, O Virgin? And how art thou about to give birth, O Heifer that hast not known a mate?
+Come, O Christ-bearing people, let us behold a wonder that astonishes every understanding and holds it fast and praising piously, ye faithful, let us worship: today the Virgin, being great with child, comes to Bethlehem to give birth to the Lord; and the choirs of angels run before Her; and beholding these things, Joseph the Betrothed cried out: What is this strange mystery in thee, O Virgin? And how art thou about to give birth, O Heifer that hast not known a mate?
 
 *Both now: we chant again the same.*
 
@@ -500,9 +492,7 @@ Out of the womb before the morning star have I begotten Thee; the Lord has sworn
 
 *Reading from the Prophecy of Isaiah, Chapter 7:*[^29]
 
-The Lord spoke again unto Ahaz, saying: Ask thee a sign of the Lord thy God, in the depth, or in the height above. And Ahaz said: I will not ask, neither will I tempt the Lord. And Isaiah said: Hear ye now, O house of David: Is it a small thing for you to weary men, but will ye weary my God also? Therefore the Lord Himself shall give you a sign: Behold, a Virgin shall conceive in her womb, and shall bring forth a Son, and they shall call His name Emmanuel. Butter and honey shall He eat, before He knows or chooses the evil, He shall choose the good: for before the Child shall know good or evil, He shall refuse the evil, and choose the good. And the Lord said unto me: Take thee a great new scroll, and write in it with the pen of a man: To make speed to plunder the spoils, for they are at hand. And make Me faithful men to witness, Uriah the priest, and Zechariah the son of Jeberechiah. And I approached...
-
-...unto the prophetess; and she conceived, and bore a son. Then said the Lord to me: Call his name, Spoil quickly, plunder swiftly. For before the child shall know how to call his father or his mother, the power of Damascus and the spoils of Samaria shall be taken away before the king of Assyria. God is with us: understand, ye nations, and submit yourselves; give ear, even unto the ends of the earth; submit yourselves, ye mighty: for if ye again wax strong, again shall ye be conquered. And whatsoever counsel ye take, the Lord shall bring it to nought; and whatsoever word ye speak, it shall not abide in you, for God is with us.
+The Lord spoke again unto Ahaz, saying: Ask thee a sign of the Lord thy God, in the depth, or in the height above. And Ahaz said: I will not ask, neither will I tempt the Lord. And Isaiah said: Hear ye now, O house of David: Is it a small thing for you to weary men, but will ye weary my God also? Therefore the Lord Himself shall give you a sign: Behold, a Virgin shall conceive in her womb, and shall bring forth a Son, and they shall call His name Emmanuel. Butter and honey shall He eat, before He knows or chooses the evil, He shall choose the good: for before the Child shall know good or evil, He shall refuse the evil, and choose the good. And the Lord said unto me: Take thee a great new scroll, and write in it with the pen of a man: To make speed to plunder the spoils, for they are at hand. And make Me faithful men to witness, Uriah the priest, and Zechariah the son of Jeberechiah. And I approached unto the prophetess; and she conceived, and bore a son. Then said the Lord to me: Call his name, Spoil quickly, plunder swiftly. For before the child shall know how to call his father or his mother, the power of Damascus and the spoils of Samaria shall be taken away before the king of Assyria. God is with us: understand, ye nations, and submit yourselves; give ear, even unto the ends of the earth; submit yourselves, ye mighty: for if ye again wax strong, again shall ye be conquered. And whatsoever counsel ye take, the Lord shall bring it to nought; and whatsoever word ye speak, it shall not abide in you, for God is with us.
 
 *Reading from the Epistle of the Holy Apostle Paul to the Hebrews, Pericope 304:*[^30]
 
@@ -534,13 +524,11 @@ More honorable than the Cherubim, and beyond compare more glorious than the Sera
 
 In the name of the Lord, bless, father.
 
-**Priest:** Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us.
+> **Priest:** "Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us."
 
 *Then the Prayer of Saint Basil the Great:*[^33]
 
-O God and Lord of hosts, and Maker of all creation, Who through the compassion of Thine incomparable mercy didst send down Thine Only-Begotten Son, our Lord Jesus Christ, for the salvation of our race, and by His precious Cross didst tear up the handwriting of our sins, and thereby didst triumph over the principalities and powers of darkness: do Thou Thyself, O Master, Lover of mankind, accept also these thanksgiving and suppliant prayers of us sinners, and deliver us from every all-destroying and dark transgression, and from all enemies, visible and invisible, that seek to do us harm; nail our flesh to Thy fear, and incline not our hearts to words or...
-
-...thoughts of evil, but wound our souls with Thy love, that always gazing upon Thee, and guided by the light that comes from Thee, beholding Thee, the unapproachable and everlasting Light, we may send up unceasing confession and thanksgiving unto Thee, the Father without beginning, with Thine Only-Begotten Son, and Thine All-Holy, Good, and Life-Creating Spirit, both now and ever, and unto ages of ages. Amen.
+O God and Lord of hosts, and Maker of all creation, Who through the compassion of Thine incomparable mercy didst send down Thine Only-Begotten Son, our Lord Jesus Christ, for the salvation of our race, and by His precious Cross didst tear up the handwriting of our sins, and thereby didst triumph over the principalities and powers of darkness: do Thou Thyself, O Master, Lover of mankind, accept also these thanksgiving and suppliant prayers of us sinners, and deliver us from every all-destroying and dark transgression, and from all enemies, visible and invisible, that seek to do us harm; nail our flesh to Thy fear, and incline not our hearts to words or thoughts of evil, but wound our souls with Thy love, that always gazing upon Thee, and guided by the light that comes from Thee, beholding Thee, the unapproachable and everlasting Light, we may send up unceasing confession and thanksgiving unto Thee, the Father without beginning, with Thine Only-Begotten Son, and Thine All-Holy, Good, and Life-Creating Spirit, both now and ever, and unto ages of ages. Amen.
 
 *And the Dismissal.*[^34]
 
@@ -590,9 +578,7 @@ For great is Thy mercy toward me, and Thou hast delivered my soul from the lowes
 O God, the lawless rose up against me, and the assembly of the mighty sought after my soul, and set Thee not before them.
 And Thou, O Lord my God, art compassionate and merciful, long-suffering, plenteous in mercy, and true.
 Look upon me, and have mercy on me; give Thy strength unto Thy servant, and save the son of Thine handmaid.
-Work with me a token for good, and let them that hate me see it and be put to shame...
-
-...because Thou, Lord, hast helped me, and comforted me.
+Work with me a token for good, and let them that hate me see it and be put to shame because Thou, Lord, hast helped me, and comforted me.
 
 Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen. Alleluia, alleluia, alleluia; glory to Thee, O God. *(Thrice)* Lord, have mercy. *(Thrice)*
 
@@ -636,15 +622,11 @@ A Child is born unto us, a Son, and He is given unto us, Whose government is upo
 
 *Reading from the Epistle of the Holy Apostle Paul to the Hebrews, Pericope 306:*[^41]
 
-Brethren, He that sanctifies and they who are sanctified are all of one: for which cause He is not ashamed to call them brethren, saying: I will declare Thy name unto My brethren, in the midst of the Church will I sing praise unto Thee. And again: I will put My trust in Him; and again: Behold I and the children which God has given Me. Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise took part of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage. For truly He takes not hold of angels, but of the seed of Abraham He takes hold. Therefore in all things it behooved Him to be made like unto His...
-
-...brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make reconciliation for the sins of the people. For in that He Himself has suffered, being tempted, He is able to succor them that are tempted.
+Brethren, He that sanctifies and they who are sanctified are all of one: for which cause He is not ashamed to call them brethren, saying: I will declare Thy name unto My brethren, in the midst of the Church will I sing praise unto Thee. And again: I will put My trust in Him; and again: Behold I and the children which God has given Me. Forasmuch then as the children are partakers of flesh and blood, He also Himself likewise took part of the same; that through death He might destroy him that had the power of death, that is, the devil; and deliver them who through fear of death were all their lifetime subject to bondage. For truly He takes not hold of angels, but of the seed of Abraham He takes hold. Therefore in all things it behooved Him to be made like unto His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make reconciliation for the sins of the people. For in that He Himself has suffered, being tempted, He is able to succor them that are tempted.
 
 *Reading from the Holy Gospel according to Matthew, Pericope 4:*[^42]
 
-When the Magi had departed, behold, the angel of the Lord appeared to Joseph in a dream, saying: Arise, and take the young Child and His mother, and flee into Egypt, and be thou there until I tell thee; for Herod will seek the young Child to destroy Him. And he arose, and took the young Child and His mother by night, and departed into Egypt; and was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying: Out of Egypt have I called My Son. Then Herod, when he saw that he was mocked of the Magi, was exceedingly wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had diligently inquired of the Magi. Then was fulfilled that which was spoken by Jeremiah the prophet, saying: A voice was heard in Ramah, lamentation, and weeping, and great mourning; Rachel weeping for her children, and would not be comforted, because they are not. But when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying: Arise, and take the young Child and His mother, and go into the land of Israel: for they are dead who sought the young Child's life. And he arose, and took the young Child and His mother, and came into the land of Israel. But when he heard that Archelaus was reigning in Judea in the room of his father Herod, he was afraid to go thither; and being warned...
-
-...in a dream, he turned aside into the parts of Galilee; and he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets: He shall be called a Nazarene.
+When the Magi had departed, behold, the angel of the Lord appeared to Joseph in a dream, saying: Arise, and take the young Child and His mother, and flee into Egypt, and be thou there until I tell thee; for Herod will seek the young Child to destroy Him. And he arose, and took the young Child and His mother by night, and departed into Egypt; and was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying: Out of Egypt have I called My Son. Then Herod, when he saw that he was mocked of the Magi, was exceedingly wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had diligently inquired of the Magi. Then was fulfilled that which was spoken by Jeremiah the prophet, saying: A voice was heard in Ramah, lamentation, and weeping, and great mourning; Rachel weeping for her children, and would not be comforted, because they are not. But when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, saying: Arise, and take the young Child and His mother, and go into the land of Israel: for they are dead who sought the young Child's life. And he arose, and took the young Child and His mother, and came into the land of Israel. But when he heard that Archelaus was reigning in Judea in the room of his father Herod, he was afraid to go thither; and being warned in a dream, he turned aside into the parts of Galilee; and he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets: He shall be called a Nazarene.
 
 *Then we say the Troparion:*
 
@@ -668,13 +650,11 @@ More honorable than the Cherubim, and beyond compare more glorious than the Sera
 
 In the name of the Lord, bless, father.
 
-**Priest:** Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us.
+> **Priest:** "Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us."
 
 *Then the Prayer of Saint Basil the Great:*[^44]
 
-O Master, Lord Jesus Christ our God, Who art long-suffering over our transgressions, and hast brought us even unto this present hour, in which, hanging upon the life-creating Wood, Thou didst open the entrance into Paradise to the wise thief, and by death didst destroy death: cleanse us sinners and Thine unworthy servants; for we have sinned and committed iniquity, and we are not worthy to lift up our eyes and look upon the height of heaven, because we have forsaken...
-
-...the path of Thy righteousness, and have walked in the desires of our hearts. But we implore Thine immeasurable goodness: spare us, O Lord, according to the multitude of Thy mercy, and save us for Thy holy name's sake, for our days have vanished in vanity. Pluck us from the hand of the adversary, forgive us our sins, and put to death our carnal desires, that, having put off the old man, we may put on the new, and live unto Thee, our Master and Benefactor; and thus, following Thy commandments, we may attain unto eternal rest, where is the dwelling of all that rejoice. For Thou truly art the true joy and exultation of those who love Thee, O Christ our God, and unto Thee do we send up glory, together with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.
+O Master, Lord Jesus Christ our God, Who art long-suffering over our transgressions, and hast brought us even unto this present hour, in which, hanging upon the life-creating Wood, Thou didst open the entrance into Paradise to the wise thief, and by death didst destroy death: cleanse us sinners and Thine unworthy servants; for we have sinned and committed iniquity, and we are not worthy to lift up our eyes and look upon the height of heaven, because we have forsaken the path of Thy righteousness, and have walked in the desires of our hearts. But we implore Thine immeasurable goodness: spare us, O Lord, according to the multitude of Thy mercy, and save us for Thy holy name's sake, for our days have vanished in vanity. Pluck us from the hand of the adversary, forgive us our sins, and put to death our carnal desires, that, having put off the old man, we may put on the new, and live unto Thee, our Master and Benefactor; and thus, following Thy commandments, we may attain unto eternal rest, where is the dwelling of all that rejoice. For Thou truly art the true joy and exultation of those who love Thee, O Christ our God, and unto Thee do we send up glory, together with Thine unoriginate Father, and Thy most holy and good and life-creating Spirit, now and ever, and unto ages of ages. Amen.
 
 *Then Psalm 102:*[^45]
 
@@ -753,9 +733,7 @@ Both now:
 I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible;
 And in one Lord Jesus Christ, the Son of God, the Only-begotten, begotten of the Father before all ages;
 Light of Light, true God of true God, begotten, not made, of one essence with the Father, by Whom all things were made;
-Who for us men and for our salvation came down from heaven, and was incarnate...
-
-...of the Holy Spirit and the Virgin Mary, and became man;
+Who for us men and for our salvation came down from heaven, and was incarnate of the Holy Spirit and the Virgin Mary, and became man;
 And was crucified also for us under Pontius Pilate, and suffered, and was buried;
 And arose again on the third day according to the Scriptures;
 And ascended into heaven, and sits at the right hand of the Father;
@@ -819,8 +797,8 @@ The Lord will redeem the souls of His servants, and none of them that hope in Hi
 
 *It behooves to know that if the Eve of the Nativity of Christ falls on a Saturday or on a Sunday, the Liturgy of Saint John Chrysostom is chanted; but the Liturgy of Saint Basil the Great is chanted on the very feast day of the Nativity.*[^54]
 
-**Priest:** Blessed is the kingdom...
-**Choir:** Amen.
+> **Priest:** "Blessed is the kingdom..."
+> **Choir:** "Amen."
 *Heavenly King... Trisagion... Our Father... Lord, have mercy (12 times). Glory... Both now... Come, let us worship (thrice).*
 
 *Psalm 103:*[^55]
@@ -869,10 +847,10 @@ How magnified are Thy works, O Lord! In wisdom hast Thou made them all.
 *Glory... Both now... Alleluia (thrice). Glory to Thee, O God (thrice).*
 
 *Then the Priest says the Great Litany:*[^57]
-**Priest:** In peace let us pray to the Lord.
+> **Priest:** "In peace let us pray to the Lord."
 *After each petition the Choir says:*
-**Choir:** Lord, have mercy.
-**Priest:**
+> **Choir:** "Lord, have mercy."
+> **Priest:** ""
 For the peace from above and for the salvation of our souls, let us pray to the Lord.
 For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray to the Lord.
 For this holy house, and for those who enter into it with faith, reverence, and the fear of God, let us pray to the Lord.
@@ -880,16 +858,16 @@ For our most reverend Archbishop and Metropolitan, Lord *[Name]*, and for our Go
 For our most religious Emperor *[Name]*, for all his court and army, let us pray to the Lord.
 That He may help him and subdue under his feet every enemy and adversary, let us pray to the Lord.
 
-**Priest:**
+> **Priest:** ""
 For this city *(or this village, or this holy monastery)*, and for every city, countryside, and the faithful dwelling therein, let us pray to the Lord.
 For favorable weather, an abundance of the fruits of the earth, and for peaceful times, let us pray to the Lord.
 For travelers by water and by land, the sick, the suffering, those in captivity, and for their salvation, let us pray to the Lord.
 For our deliverance from all tribulation, wrath, and need, let us pray to the Lord.
 Help us, save us, have mercy on us, and protect us, O God, by Thy grace.
 Remembering our most holy, most pure, most blessed, and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the Saints, let us commend ourselves and one another, and our whole life unto Christ our God.
-**Choir:** To Thee, O Lord.
-**Priest:** For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Choir:** "To Thee, O Lord."
+> **Priest:** "For unto Thee is due all glory, honor, and worship, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *(If it be on Saturday evening, we chant: Blessed is the man, the entire Kathisma. If on Sunday evening, we chant only the first Antiphon. But if on any other day, there is no Stichology; but after the Litany we immediately chant in Tone 2:)*[^59]
 
 *Psalm 140:*[^60]
@@ -946,9 +924,9 @@ What shall we offer Thee, O Christ, because Thou hast appeared on earth as man f
 *Glory... Both now... In the same Tone:*
 When Augustus reigned alone upon the earth, the many-sovereignties of men ceased; and when Thou wast made man of the pure Virgin, the polytheism of idols was abolished. Under one earthly kingdom were the cities united, and in one dominion of the Godhead did the nations believe. The people were enrolled by the decree of Caesar; we the faithful were enrolled in the name of the Godhead, of Thee our God Who wast made man. Great is Thy mercy, O Lord, glory to Thee![^67]
 *Entrance with the Gospel.*[^68]
-**Priest:** Wisdom! Stand upright!
-**Choir:** O Gladsome Light of the holy glory of the immortal Father, heavenly, holy, blessed, O Jesus Christ! Having come unto the setting of the sun, and having beheld the evening light, we praise the Father, Son, and Holy Spirit, God. Worthy art Thou at all times to be praised with holy voices, O Son of God, Giver of life; therefore the world glorifies Thee.[^69]
-**Priest:** Let us attend! Peace be unto all! Wisdom, let us attend!
+> **Priest:** "Wisdom! Stand upright!"
+> **Choir:** "O Gladsome Light of the holy glory of the immortal Father, heavenly, holy, blessed, O Jesus Christ! Having come unto the setting of the sun, and having beheld the evening light, we praise the Father, Son, and Holy Spirit, God. Worthy art Thou at all times to be praised with holy voices, O Son of God, Giver of life; therefore the world glorifies Thee."[^69]
+> **Priest:** "Let us attend! Peace be unto all! Wisdom, let us attend!"
 
 *The Choir chants: The Prokeimenon of the day; and the Readings in their order, with their Troparia and their Verses. If the Eve of the Nativity of Christ occurs on Friday, the Prokeimenon is chanted: Who is so great a God as our God? with its Verses (see the Synaxis of the Most Holy Theotokos)[^70], but the Prokeimenon of the day is omitted.*[^71]
 
@@ -1017,8 +995,8 @@ In those days, there went out a decree from Caesar Augustus... (see p. 16)[^89]
 In thee rejoices, O full of grace, all creation, the angelic assembly and the race of men; O sanctified temple and noetic paradise, boast of virgins, of whom God was incarnate and became a babe, He Who is our God before all ages. For He made thy womb a throne, and fashioned thy body more spacious than the heavens. In thee rejoices, O full of grace, all creation; glory to thee!
 
 *It should be known that if the Eve of the Nativity of Christ falls on Saturday or Sunday, the Liturgy of Saint John Chrysostom is celebrated at its proper time, and Vespers is chanted at its proper time as follows:*[^92]
-**Priest:** Blessed is our God.
-**Choir:** Amen. *Then:* Glory to Thee, our God, glory to Thee. O Heavenly King... *and the rest with the Trisagion; and after the Our Father:* Come, let us worship... *After the Exclamation, the Prooemiac Psalm:* Bless the Lord, O my soul... (see p. 44)[^93], *the Great Litany:* In peace let us pray to the Lord (see p. 47)[^94]. *After the Litany:*
+> **Priest:** "Blessed is our God."
+> **Choir:** "Amen. *Then:* Glory to Thee, our God, glory to Thee. O Heavenly King... *and the rest with the Trisagion; and after the Our Father:* Come, let us worship... *After the Exclamation, the Prooemiac Psalm:* Bless the Lord, O my soul... (see p. 44)[^93], *the Great Litany:* In peace let us pray to the Lord (see p. 47)[^94]. *After the Litany:*"
 Blessed is the man — Alleluia — that walks not in the counsel of the ungodly. Alleluia.
 For the Lord knows the way of the righteous, and the way of the ungodly, the way of the ungodly shall perish. Alleluia.
 Serve the Lord with fear, and rejoice in Him with trembling. Alleluia.
@@ -1028,21 +1006,21 @@ Arise, O Lord, save me, O my God. Alleluia.
 Salvation is of the Lord, and Thy blessing is upon Thy people. Alleluia.
 Glory: Alleluia. Both now: Alleluia. Alleluia, thrice. Glory to Thee, O God, thrice.
 *At "Lord, I have cried," we chant the Idiomelon Stichera, Tone 2:* Come, let us rejoice... — When the Lord Jesus was born... — Thy kingdom, O Christ God... — What shall we offer Thee, O Christ... Glory... Both now... When Augustus reigned alone upon the earth... (see pp. 50–52)[^95]. *Entrance with the Gospel Book; O Gladsome Light (see p. 52)[^96]. The Prokeimenon of the day. (If on Saturday evening, the Prokeimenon: The Lord has reigned— —and the Readings according to the order, of which there shall be eight. After the Readings: Epistle to the Galatians, Pericope 67; Alleluia; Gospel according to Matthew, Pericope 53. After the Gospel, the Litany:)*[^97]
-**Deacon:** Let us all say with our whole soul and with our whole mind, let us say.
-**Choir:** Lord, have mercy.
-**Deacon:** O Lord Almighty, the God of our fathers, we pray Thee, hear and have mercy.
-**Choir:** Lord, have mercy (thrice).
-**Deacon:** Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy.
-**Choir:** Lord, have mercy.
-**Deacon:** Again we pray for the most holy Universal Pontiff, [Name], Pope of Rome, and for our pious and God-preserved Emperor, [Name], for their realm, victory, continuance, peace, health, salvation, and the remission of their sins; and that the Lord our God may especially further and prosper them in all things, and subdue under their feet every enemy and adversary.[^98]
-**Choir:** Lord, have mercy (thrice).
-**Deacon:** Again we pray for our most reverend Archbishop, Metropolitan Lord [Name], and for our God-loving Bishop Lord [Name], and for our spiritual fathers, and for all our brethren in Christ.[^99]
-**Choir:** Lord, have mercy (thrice).
-**Deacon:** Again we pray for the people present, who await from Thee great and rich mercy, for those who show us mercy, and for all orthodox Christians.
-**Choir:** Lord, have mercy (thrice).
+> **Deacon:** "Let us all say with our whole soul and with our whole mind, let us say."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "O Lord Almighty, the God of our fathers, we pray Thee, hear and have mercy."
+> **Choir:** "Lord, have mercy (thrice)."
+> **Deacon:** "Have mercy on us, O God, according to Thy great mercy, we pray Thee, hear and have mercy."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "Again we pray for the most holy Universal Pontiff, [Name], Pope of Rome, and for our pious and God-preserved Emperor, [Name], for their realm, victory, continuance, peace, health, salvation, and the remission of their sins; and that the Lord our God may especially further and prosper them in all things, and subdue under their feet every enemy and adversary."[^98]
+> **Choir:** "Lord, have mercy (thrice)."
+> **Deacon:** "Again we pray for our most reverend Archbishop, Metropolitan Lord [Name], and for our God-loving Bishop Lord [Name], and for our spiritual fathers, and for all our brethren in Christ."[^99]
+> **Choir:** "Lord, have mercy (thrice)."
+> **Deacon:** "Again we pray for the people present, who await from Thee great and rich mercy, for those who show us mercy, and for all orthodox Christians."
+> **Choir:** "Lord, have mercy (thrice)."
 
-**Priest:** For a merciful and man-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Priest:** "For a merciful and man-loving God art Thou, and unto Thee do we send up glory, to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 *Thereafter we say:*[^100]
 Vouchsafe, O Lord, to keep us this evening without sin.
 Blessed art Thou, O Lord, God of our fathers, and praised and glorified is Thy name unto the ages. Amen.
@@ -1055,36 +1033,36 @@ To Thee belongs praise, to Thee belongs song.
 To Thee glory belongs, to the Father, and to the Son, and to the Holy Spirit.
 Now and ever, and unto ages of ages. Amen.
 *Thereafter the Litany:*[^101]
-**Deacon:** Let us complete our evening prayer unto the Lord.
-**Choir:** Lord, have mercy.
-**Deacon:** For this holy temple, and for those who enter into it with faith, reverence, and fear of God, let us pray to the Lord.
+> **Deacon:** "Let us complete our evening prayer unto the Lord."
+> **Choir:** "Lord, have mercy."
+> **Deacon:** "For this holy temple, and for those who enter into it with faith, reverence, and fear of God, let us pray to the Lord."
 
-**Deacon:** That we may be delivered from all affliction, wrath, and need, let us pray to the Lord.
+> **Deacon:** "That we may be delivered from all affliction, wrath, and need, let us pray to the Lord."
 Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 That the whole day may be perfect, holy, peaceful, and sinless, let us ask of the Lord.
 *The Choir says after each petition:*
-**Choir:** Grant this, O Lord.
-**Deacon:** An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord.
+> **Choir:** "Grant this, O Lord."
+> **Deacon:** "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
 Pardon and remission of our sins and offenses, let us ask of the Lord.
 Things good and profitable for our souls, and peace for the world, let us ask of the Lord.
 That we may complete the remaining time of our life in peace and repentance, let us ask of the Lord.
 A Christian ending to our life, painless, unashamed, peaceful, and a good defense before the dread judgment seat of Christ, let us ask.
 Commemorating our all-holy, immaculate, most blessed and glorious Lady, the Theotokos and Ever-Virgin Mary, with all the Saints, let us commend ourselves and one another, and our whole life unto Christ our God.
-**Choir:** To Thee, O Lord.
-**Priest:** Through the bounties and love toward mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages.
-**Choir:** Amen.
+> **Choir:** "To Thee, O Lord."
+> **Priest:** "Through the bounties and love toward mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thine all-holy, good, and life-creating Spirit, now and ever, and unto ages of ages."
+> **Choir:** "Amen."
 
-**Priest:** Wisdom!
-**Choir:** Bless.
-**Priest:** Blessed and most glorified is He Who is, Christ our God.
-**Choir:** Establish, O God, the Catholic faith unto ages of ages.[^102]
-**Priest:** Most Holy Lady Theotokos, save us.
-**Choir:** More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify.
-**Priest:** Glory to Thee, O Christ God, our hope, glory to Thee.
-**Choir:** Glory... Both now... Lord, have mercy (twice). Lord, bless.
+> **Priest:** "Wisdom!"
+> **Choir:** "Bless."
+> **Priest:** "Blessed and most glorified is He Who is, Christ our God."
+> **Choir:** "Establish, O God, the Catholic faith unto ages of ages."[^102]
+> **Priest:** "Most Holy Lady Theotokos, save us."
+> **Choir:** "More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify."
+> **Priest:** "Glory to Thee, O Christ God, our hope, glory to Thee."
+> **Choir:** "Glory... Both now... Lord, have mercy (twice). Lord, bless."
 *The Priest says the Dismissal:*[^103]
-**Priest:** May He Who was born in a cave in Bethlehem of Judea, and lay in a manger for the sake of our salvation, Christ our true God, through the prayers of His most pure Mother, of the holy, glorious, and all-praised Apostles, of our venerable and God-bearing fathers, and of all the Saints, have mercy on us and save us, as He is good and loves mankind.
-**Choir:** Amen.
+> **Priest:** "May He Who was born in a cave in Bethlehem of Judea, and lay in a manger for the sake of our salvation, Christ our true God, through the prayers of His most pure Mother, of the holy, glorious, and all-praised Apostles, of our venerable and God-bearing fathers, and of all the Saints, have mercy on us and save us, as He is good and loves mankind."
+> **Choir:** "Amen."
 *Thereafter both choirs, gathering together in the midst of the church, chant together the Troparion of the Feast:* Thy Nativity... *Glory... Both now... The Kontakion of the Feast:* Today the Virgin...[^104]
 
 ---

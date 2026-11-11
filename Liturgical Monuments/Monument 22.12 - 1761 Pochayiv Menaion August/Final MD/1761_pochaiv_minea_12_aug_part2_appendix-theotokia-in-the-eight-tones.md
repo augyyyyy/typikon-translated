@@ -634,7 +634,7 @@ O all-spotless Virgin, Mother of Christ God: a sword pierced thy most holy soul 
 [^988]: An explicit defense of the veneration of holy icons, reflecting the theology of the Seventh Ecumenical Council (Nicaea II, 787 AD) against Iconoclasm.
 [^989]: The central mystery of the Incarnation and the perpetual virginity (aeiparthenia) of the Mother of God.
 [^990]: Echoing the angelic Trisagion hymn (Isa. 6:3; Rev. 4:8).
-[^991]: Luke 1:28 ("Rejoice, thou that art full of grace" / Χαῖρε, κεχαриτωμένη).
+[^991]: Luke 1:28 ("Rejoice, thou that art full of grace" / Χαῖρε, κεχαριτωμένη).
 [^992]: Isa. 25:8; Rev. 7:17, 21:4 ("and God shall wipe away all tears from their eyes").
 [^993]: Mal. 4:2 [LXX 3:20].
 [^994]: Dan. 7:9–10; Jude 1:14; Matt. 25:31–32 (the eschatological Dread Judgment).

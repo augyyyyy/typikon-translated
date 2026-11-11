@@ -61,10 +61,10 @@ O sevenfold company of Christ's martyrs, the assaults of persecutors and death b
 
 === LEAF p93 ===
 [Fol. 46r]
-*Tone 8, Podoben: "O Most Marvelous Wonder":*
+*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 O martyr-sufferer Agapius, having loved the Well-spring of good things, the utmost of desired ends, thou didst hasten to drink the cup of martyrdom, calling upon the divine name of the living God. O Thy courage! O Thy endurance, by which thou wast visibly accounted worthy to obtain glory and radiance!
 
-*Tone 8, Podoben: "O Most Marvelous Wonder":*
+*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 O most blessed martyrs, unto voluntary slaughter ye delivered up yourselves, and with your blood ye sanctified the earth, and by your transit ye enlightened the air; and now ye dwell in the heavens, before the unwaning Light, ever praying for us, O most God-like ones.
 
 *Glory... Both now... Theotokion:*
@@ -228,14 +228,14 @@ With the light of repentance enlighten me who am darkened through negligence, O 
 *Tone 8, Podoben: "What shall we call you, O holy ones" (Что̀ ва́съ нарече́мъ):*
 What shall we name thee, O glorious one? A valiant soldier of the King and God, who manfully cast down the impiety of the bodiless spirits; a lamp shining with noetic light; an all-powerful destroyer of idols; a most fervent ascetic and most lawful sufferer: pray that our souls may be saved.
 
-*Tone 8, Podoben: "What shall we call you, O holy ones":*
+*Tone 8, Podoben: "What shall we call you, O holy ones" (Что̀ вы̀ нарече́мъ):*
 What shall we now proclaim thee, O Sabinus? A river of living water pouring forth unto us spiritual breadth, when we are hemmed in by misfortunes; an inexhaustible inundation of healings; a cup pouring forth a holy draught; a most true wonderworker, an equal in honor of the bodiless spirits: pray that our souls may be saved.
 
-*Tone 8, Podoben: "What shall we call you, O holy ones":*
+*Tone 8, Podoben: "What shall we call you, O holy ones" (Что̀ вы̀ нарече́мъ):*
 What shall we declare thee, O holy one? A guide of the wandering, or an intercessor for sinners; a true physician for them that are storm-tossed in misfortunes; a precious sweet-smelling lily of paradise; a first-fruit and confirmation of martyrs; an ever-flowing fountain of miracles, a valiant ascetic: pray that our souls may be saved.
 
 *Glory... Both now... Theotokion:*
-*Tone 8, Podoben: "What shall we call you, O holy ones":*
+*Tone 8, Podoben: "What shall we call you, O holy ones" (Что̀ вы̀ нарече́мъ):*
 Unto what hast thou likened thyself, O wretched soul, looking not up at all unto repentance, and fearing not the fire that awaits the wicked? Arise, and call upon her who alone is swift to intercede, and cry aloud: O Virgin Mother, pray Thy Son and our God to deliver me from the snare of the deceiver.
 
 *Stavrotheotokion, Tone 8, Podoben: "What shall we call you, O holy ones" (Крⷭ҇тобг҃оро́диченъ):*

@@ -24,7 +24,7 @@ While the woman pursued Jewish customs and brought forward her own non-communion
 Thou hast no drawing-vessel, and the well is very deep; whence then dost Thou give me incorruptible water? The Samaritan woman cried unto Thee, O Christ, supposing Thee to be a man and not God, and marveling at Thy words; whom having given to drink with sweetest sayings, Thou didst cause to confess Thee as the God of all creation.[^1123]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 6:*  
-Thus saith the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who He is that saith unto thee: Give Me water to drink, thou wouldst have asked of Him, and He would have given thee to drink, that thou mightest never thirst unto ages, saith the Lord.[^1124]
+Thus says the Lord unto the Samaritan woman: If thou hadst known the gift of God, and Who He is that says unto thee: Give Me water to drink, thou wouldst have asked of Him, and He would have given thee to drink, that thou mightest never thirst unto ages, says the Lord.[^1124]
 
 === LEAF p432 ===
 *On Saturday of the Samaritan Woman, the Four-Ode Canon, whose acrostic is: ᾌδω μέλος τέταρτον, that is: I sing the fourth song.*[^1125]
@@ -120,7 +120,7 @@ O Lord, passing by on the way...
 
 *Both now and for ever and unto ages of ages. Amen. Theotokion: the present Dogmatikon.*  
 *Tone 5:*  
-Let us honor the God-befitting and all-pure Maiden, more honorable than the Cherubim: for the Creator of all, desiring to become man, took up His dwelling in her ineffably. O dread things and most glorious mysteries! Who would not marvel, hearing this: that God becomes man, and there is no alteration in Him; and He passes through the gates of virginity, and no diminution was left in Him; even as the Prophet saith: Man shall never pass through them, but only the Lord God of Israel, Who hath great mercy![^1151]
+Let us honor the God-befitting and all-pure Maiden, more honorable than the Cherubim: for the Creator of all, desiring to become man, took up His dwelling in her ineffably. O dread things and most glorious mysteries! Who would not marvel, hearing this: that God becomes man, and there is no alteration in Him; and He passes through the gates of virginity, and no diminution was left in Him; even as the Prophet says: Man shall never pass through them, but only the Lord God of Israel, Who hath great mercy![^1151]
 
 === LEAF p435 ===
 *At the Aposticha, Resurrection sticheron, Tone 5:*  

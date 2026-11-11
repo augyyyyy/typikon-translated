@@ -8,7 +8,7 @@
 
 12.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον ᾿Απολυτίκιον, Τὴν ἄχραντον εἰκόνα σου, Ἐν τῇ Γεννήσει, τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Τὴν ἐν πρεσβείαις ἀκοίμητον, ᾿Απόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε. Εἴδομεν τὸ φῶς καὶ ᾿Απόλυσις.
 
-### Κυριακὴ μετὰ τὴν ἑορτήν.
+**Κυριακὴ μετὰ τὴν ἑορτήν.**
 
 13.    Τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ἀναστάσιμα Στιχηρὰ ς΄ καὶ μεθέορτα δ΄, Δόξα, Ἡ τῶν οὐρανῶν ὑψηλοτέρα ὑπάρχουσα (ζήτει εἰς τὴν Λιτήν), Καὶ νῦν τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, Φῶς ἱλαρόν, καὶ τὸ Προκείμενον. Εἰς τὰ ᾿Απόστιχα, τὰ ἀναστάσιμα Στιχηρά, Δόξα, Καὶ νῦν, Ἄσατε λαοί (ζήτει εἰς τὴν Λιτήν), τὸ ἀναστάσιμον ᾿Απολυτίκιον, τὸ τῆς ἑορτῆς ἅπαξ καὶ ᾿Απόλυσις.
 
@@ -24,7 +24,7 @@
 
 12.    In the Divine Liturgy, the Typika and the Beatitudes of the Tone. After the Little Entrance, the Dismissal Troparia: of the Resurrection, **"Thy most pure icon"** (*Τὴν ἄχραντον εἰκόνα σου*), **"In giving birth"** (*Ἐν τῇ Γεννήσει*), of the Patron Saint of the Church, and the Kontakion: **"Neither the tomb nor death"** (*Τὴν ἐν πρεσβείαις ἀκοίμητον*); Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### Sunday after the Feast
+**Sunday after the Feast**
 
 13.    On Saturday evening at Great Vespers, following the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant 6 Resurrection Stichira and 4 of the Afterfeast; "Glory...": **"She who is higher than the heavens"** (*Ἡ τῶν οὐρανῶν ὑψηλοτέρα ὑπάρχουσα*, see the Litiya of the Feast); "Both now and ever...": the first Theotokion of the Tone. Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrection Stichira; "Glory... Both now and ever...": **"Sing, O people!"** (*Ἄσατε λαοί*, see the Litiya). The Dismissal Troparia: of the Resurrection, that of the Feast: [**"In giving birth"** (*Ἐν τῇ Γεννήσει*)] once, and Dismissal.
 
@@ -40,7 +40,7 @@
 
 15.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῆς ἑορτῆς. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον ᾿Απολυτίκιον, τὸ τῆς ἑορτῆς, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Τὴν ἐν πρεσβείαις, ᾿Απόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε. Εἴδομεν τὸ φῶς καὶ ᾿Απόλυσις.
 
-### Ἡ ᾿Απόδοσις.
+**Ἡ ᾿Απόδοσις.**
 
 16.    Τῇ ΚΓ΄ τοῦ μηνὸς ἀποδίδοται ἡ ἑορτὴ καὶ ψάλλεται ἡ ᾿Ακολουθία ἀπαραλλάκτως κατὰ τὴν ἐν §§ 1, 2, 3, διάταξιν, ἐξαιρουμένων ἐν τῷ Ἑσπερινῷ τοῦ Ψαλτηρίου καὶ τῶν ᾿Αναγνωσμάτων, ἐν τῷ Ὄρθρῳ, τῆς Λιτῆς, τοῦ Πολυελέου, τοῦ Εὐαγγελίου καὶ τοῦ Μηνολογίου· ἐν δὲ τῇ Λειτουργίᾳ, ᾿Απόστολος καὶ Εὐαγγέλιον λέγονται τὰ τῆς ἑορτῆς, Κοινωνικὸν Ποτήριον.
 
@@ -58,7 +58,7 @@
 
 15.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Feast. After the Little Entrance, the Dismissal Troparion of the Resurrection, that of the Feast, that of the Patron Saint of the Church, and the Kontakion: **"Neither the tomb nor death"** (*Τὴν ἐν πρεσβείαις*); Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### The Apodosis of the Feast
+**The Apodosis of the Feast**
 
 16.    On the 23rd of this month the Apodosis of the Feast takes place, and the service is chanted without variation according to the order set forth in Paragraphs 1, 2, and 3 [of August 15], with the following exceptions: in Vespers, the Psalter reading and the Old Testament Readings are omitted; and in Matins, the Litiya, the Polyeleos, the Gospel, and the Menologion are omitted. In the Divine Liturgy, the Epistle and the Gospel are of the Feast, and the Communion Hymn: **"I will receive the cup of salvation"** (*Ποτήριον σωτηρίου λήψομαι*, Ps. 115:4 LXX).
 
@@ -77,7 +77,7 @@
 19.    Εἰς τὴν Λειτουργίαν, τὰ ᾿Αντίφωνα τῆς ἑορτῆς· εἰς τὸ β΄ ᾿Αντίφωνον Ὁ ἀναστὰς ἐκ νεκρῶν. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον ᾿Απολυτίκιον, τὸ τῆς ἑορτῆς, καὶ τὸ Κοντάκιον Τὴν ἐν πρεσβείαις, ᾿Απόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. [Σημ. Μεταφραστοῦ· Αὐτὴ ἡ τάξις δὲν συμφωνεῖ μέ σελ. 36-37 § 42 τῆς Προθεωρίας, ἡ ὁποία λέγει· Ἐν τῇ Κοιμήσει τῆς Θεοτόκου καὶ ἐν τῇ ᾿Αποδόσει, ᾿Απόστολος καὶ Εὐαγγέλιον λέγονται πάντοτε τὰ τῆς ἑορτῆς, ἐν οἵᾳ ἂν ἡμέρᾳ τύχῃ.] Εἰς τὸ Ἐξαιρέτως Αἱ γενεαὶ πᾶσαι . . . Νενίκηνται τῆς φύσεως οἱ ὅροι. Κοινωνικὸν Ποτήριον, Εἴδομεν τὸ φῶς, ᾿Απόλυσις καὶ ᾿Απόδοσις.
        Μετὰ τὴν ᾿Απόδοσιν τῆς ἑορτῆς, ἐπαναλαμβάνονται αἱ Καταβασίαι Σταυρὸν χαράξας Μωσῆς, καὶ Κοντάκιον λέγεται Ἰωακεὶμ καὶ Ἄννα.
 
-### Τῇ ΚΘ΄. Ἡ ᾿Αποτομὴ τῆς τιμίας κεφαλῆς τοῦ τιμίου, ἐνδόξου, Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου.
+**Τῇ ΚΘ΄. Ἡ ᾿Αποτομὴ τῆς τιμίας κεφαλῆς τοῦ τιμίου, ἐνδόξου, Προφήτου, Προδρόμου καὶ Βαπτιστοῦ Ἰωάννου.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Προδρόμου ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ ᾿Ακολουθία ψάλλεται ὥς ἐστι διατεταγμένη ἐν Μηναίῳ.
 
@@ -96,7 +96,7 @@
 19.    In the Divine Liturgy, the Antiphons of the Feast; at the Second Antiphon: **"Who art risen from the dead"** (*Ὁ ἀναστὰς ἐκ νεκρῶν*). After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Feast, and the Kontakion: **"Neither the tomb nor death"** (*Τὴν ἐν πρεσβείαις*). Epistle and Gospel of the Sunday. {Translator’s Note: This rubrical order does not conform with page 36–37 § 42 of the Protheoria, which states: "On the Dormition of the Theotokos and on the Apodosis, the Epistle and the Gospel are always those of the Feast, regardless of the day on which it falls."} At "Especially" [Megalynarion], **"All generations . . . The laws of nature are overcome"** (*Αἱ γενεαὶ πᾶσαι . . . Νενίκηνται τῆς φύσεως οἱ ὅροι*). Communion Hymn: **"I will receive the cup of salvation"** (*Ποτήριον σωτηρίου λήψομαι*, Ps. 115:4 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*); Dismissal and Apodosis.
        After the Apodosis of the Feast, the Katavasiai: **"Inscribing the Cross"** (*Σταυρὸν χαράξας Μωσῆς*) are resumed, and the Kontakion: **"Joachim and Anna"** (*Ἰωακεὶμ καὶ Ἄννα*) is said.
 
-### August 29: The Beheading of the Honorable and Glorious Prophet, Forerunner and Baptist John
+**August 29: The Beheading of the Honorable and Glorious Prophet, Forerunner and Baptist John**
 
 1.    If the commemoration of the Forerunner falls on any day except Sunday, the service is chanted as set forth in the Menaion.
 
@@ -124,7 +124,7 @@
 
 ## August 29: The Beheading of the Prophet, Forerunner and Baptist John (Concl. §§ 3–4, Fasting Rubric, § 5 Saturday Concurrence) [Violakis, p. 653]
 
-...the Forerunner, and the Trinity Hymns **"It is truly right"** (*Ἄξιόν ἐστιν*); then the Trisagion Prayers, the Dismissal Troparion of the Forerunner, and the Six Psalms. At "God is the Lord": the Dismissal Troparia as at Vespers; then the Psalter reading and the Polyeleos; the Resurrection Sessional Hymns in order, and one of the Forerunner with each of the Theotokia; in the Third Stichologia, the Sessional Hymn of the Forerunner and the Theotokion. The Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. Canons: of the Resurrection and of the Forerunner. After the Third Ode, the Resurrection Kontakion and Ikos; then the Sessional Hymn of the Forerunner: **"Now hath appeared unto us"** (*Νῦν ἐπέφανεν ἡμῖν*) and the Theotokion; after the Sixth Ode, the Kontakion and Ikos of the Forerunner, and the Menologion. Katavasiai: **"Inscribing the Cross"** (*Σταυρὸν χαράξας*), and the entire order of the Sunday Matins Gospel; then we chant the Magnifications: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exaposteilaria: of the Resurrection, that of the Forerunner, and the Theotokion. At the Praises: 4 Resurrection Stichira and 4 of the Forerunner; "Glory...": **"Again Herodias rageth"** (*Πάλιν Ἡρωδιὰς μαίνεται*); "Both now and ever...": **"Most blessed art Thou"** (*Ὑπερευλογημένη*); Great Doxology, and **"Today salvation"** (*Σήμερον σωτηρία*).
+...the Forerunner, and the Trinity Hymns **"It is truly right"** (*Ἄξιόν ἐστιν*); then the Trisagion Prayers, the Dismissal Troparion of the Forerunner, and the Six Psalms. At "God is the Lord": the Dismissal Troparia as at Vespers; then the Psalter reading and the Polyeleos; the Resurrection Sessional Hymns in order, and one of the Forerunner with each of the Theotokia; in the Third Stichologia, the Sessional Hymn of the Forerunner and the Theotokion. The Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. Canons: of the Resurrection and of the Forerunner. After the Third Ode, the Resurrection Kontakion and Ikos; then the Sessional Hymn of the Forerunner: **"Now hath appeared unto us"** (*Νῦν ἐπέφανεν ἡμῖν*) and the Theotokion; after the Sixth Ode, the Kontakion and Ikos of the Forerunner, and the Menologion. Katavasiai: **"Inscribing the Cross"** (*Σταυρὸν χαράξας*), and the entire order of the Sunday Matins Gospel; then we chant the Magnifications: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exaposteilaria: of the Resurrection, that of the Forerunner, and the Theotokion. At the Praises: 4 Resurrection Stichira and 4 of the Forerunner; "Glory...": **"Again Herodias rages"** (*Πάλιν Ἡρωδιὰς μαίνεται*); "Both now and ever...": **"Most blessed art Thou"** (*Ὑπερευλογημένη*); Great Doxology, and **"Today salvation"** (*Σήμερον σωτηρία*).
 
 4.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Forerunner. After the Little Entrance, the Dismissal Troparion of the Resurrection, that of the Forerunner, and that of the Patron Saint of the Church; Kontakion: **"Joachim and Anna"** (*Ἰωακεὶμ καὶ Ἄννα*); Epistle and Gospel of the Forerunner. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"In eternal memory shall the righteous be"** (*Εἰς μνημόσυνον αἰώνιον ἔσται δίκαιος*, Ps. 111:6 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
@@ -138,7 +138,7 @@
 
 ## Τῇ ΛΑ΄: Ἡ Κατάθεσις τῆς τιμίας Ζώνης τῆς Ὑπεραγίας Θεοτόκου (§§ 1–4) [Violakis, p. 654]
 
-### Τῇ ΛΑ΄. Ἡ Κατάθεσις τῆς τιμίας Ζώνης τῆς Ὑπεραγίας Θεοτόκου.
+**Τῇ ΛΑ΄. Ἡ Κατάθεσις τῆς τιμίας Ζώνης τῆς Ὑπεραγίας Θεοτόκου.**
 
 1.    Εἰ τύχοι ἡ ἑορτὴ ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, τὴν διάταξιν τῆς ᾿Ακολουθίας ὅρα Ἰουλίου β΄. Ἐν τῷ Ὄρθρῳ Καταβασίαι ψάλλονται Σταυρὸν χαράξας Μωσῆς καὶ Κοντάκιον τὸ ἀπὸ γ΄ Ὠδῆς ἐπέχον τόπον Καθίσματος Τὰ καταθέσια τῆς σῆς θείας Ζώνης καὶ καθεξῆς. (Διὰ τὸ σωστὸν Κοντάκιον, ὅρα ὑποσημείωσιν, σελ. 41).
 
@@ -154,7 +154,7 @@
 
 ## August 31: The Deposition of the Precious Cincture of the Most Holy Theotokos (§§ 1–4) [Violakis, p. 655]
 
-### August 31: The Deposition of the Precious Cincture of the Most Holy Theotokos
+**August 31: The Deposition of the Precious Cincture of the Most Holy Theotokos**
 
 1.    If the Feast falls on any day except Sunday, see July 2 for the order of service. In Matins, the Katavasiai: **"Inscribing the Cross"** (*Σταυρὸν χαράξας Μωσῆς*) are chanted, and the Kontakion from the Third Ode: **"The deposition of thy divine Cincture"** (*Τὰ καταθέσια τῆς σῆς θείας Ζώνης*) takes the place of the Sessional Hymn, and so on. (For the correct Kontakion, see footnote on page 41.)
 

@@ -66,7 +66,7 @@ It was fitting for thee, as a teacher of piety, to be with God, and to partake o
 Supernaturally, O Mother of God, thou wast in truth the dwelling-place of the King of all, and the golden Ark, holding within Christ, the only Lawgiver, Who was incarnate.
 
 *In the same month, on the 17th day: The Holy Prophet Daniel, and the Three Holy Children: Ananias, Azarias, and Misael.*
-*At "Lord, I have cried," Stichera of the Prophet, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кw до́блѧ):*[^163]
+*At "Lord, I have cried," Stichera of the Prophet, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́блѧ):*[^163]
 The marvelous Daniel, having acquired a pure heart as a dwelling of the Spirit, and enlightened by Him, clearly foretells the revelation of future things, adorned with the brightness of prophecy, and lucidly
 
 === LEAF p163 ===

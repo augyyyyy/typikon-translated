@@ -1,5 +1,4 @@
 === LEAF p11 ===
-[Book Page XI]
 
 *Page*  
 **II. Extraordinary Vespers**  
@@ -12,7 +11,7 @@
 **§ 35.** Order of Vespers for the Descent of the Holy Spirit — 77  
 **§ 36.** Order of Vespers on the Eve of the Nativity of Jesus Christ, if it occurs on Saturday or on Sunday — 78
 
-#### MEMBER II
+**MEMBER II**
 **§ 37.** On Compline — 79
 
 **I. Ordinary Compline**  
@@ -24,11 +23,10 @@
 **§ 41.** Order of Compline in the Great Fast: (α) Order of Small Compline with prostrations; (β) Order of Great Compline in the first week of the Holy Great Fast; (γ) Order of Great Compline in the other weeks of the Great Fast; (δ) Order of Great Compline on Fridays of the Holy Great Fast — 82  
 **§ 42.** Order of Great Compline with Litiya — 87
 
-#### MEMBER III
+**MEMBER III**
 **§ 43.** On the Midnight Office — 88
 
 === LEAF p12 ===
-[Book Page XII]
 
 *Page*  
 **I. Ordinary Midnight Offices**  
@@ -41,7 +39,7 @@
 **§ 48.** Order of Festal Midnight Office — 91  
 **§ 49.** Order of Midnight Office on Holy and Great Saturday — 92
 
-#### MEMBER IV
+**MEMBER IV**
 **§ 50.** On Matins — 92
 
 **I. Ordinary Matins**  
@@ -58,12 +56,11 @@
 **§ 59.** Order of Matins in Bright Week: (α) Order of Matins on the Sunday of Pascha; (β) Order of Sunday Matins, if on a certain day in Bright Week a Saint with a Polyeleos falls; (γ) Notes on Matins from Thomas Sunday unto Ascension — 109
 
 === LEAF p13 ===
-[Book Page XIII]
 
 *Page*  
 **§ 60.** Order of Matins for the Exaltation of the Precious Cross. Note on Matins for the Sunday of the Veneration of the Cross — 112
 
-#### MEMBER V
+**MEMBER V**
 **§ 61.** On the Canonical Hours and Typika (*Obidnytsia*) — 113
 
 **I. Ordinary Hours**  
@@ -74,14 +71,14 @@
 **§ 64.** Hours in the Great Fast — 117  
 **§ 65.** Hours in Bright Week — 119
 
-### APPENDIX
+**APPENDIX**
 **§ 66.** On the All-Night Vigil — 120  
 **§ 67.** What is Necessary to Note Concerning the Ecclesiastical Rule? — 120
 
-### CHAPTER II
+**CHAPTER II**
 **§ 68.** On the Ecclesiastical Rule for Diverse Occasions — 121
 
-#### MEMBER I
+**MEMBER I**
 **§ 69.** (I) If it is Sunday and a Lesser Saint — 122  
 **§ 70.** (II) If it is Sunday and a Middle Saint — 123  
 **§ 71.** (III) If it is Sunday and a Saint with a Polyeleos — 124  
@@ -93,7 +90,6 @@
 **§ 77.** (IX) If it is Sunday and a Marian Feast — 129
 
 === LEAF p14 ===
-[Book Page XIV]
 
 *Page*  
 **§ 78.** (X) If it is Sunday and a Feast of the Lord — 130  
@@ -112,7 +108,7 @@
 **§ 91.** (XXIII) If it is Sunday, the Apodosis of the Feast, and two Saints — 140  
 **§ 92.** (XXIV) If it is Sunday and with the Forefeast or with the Apodosis of any feast there occurs the Patronal Feast of a Male or Female Saint — 140
 
-#### MEMBER II
+**MEMBER II**
 **§ 93.** (XXV) If it is a weekday and a Lesser Saint — 141  
 **§ 94.** (XXVI) If it is a weekday and a Middle Saint — 143  
 **§ 95.** (XXVII) If it is a weekday and a Great Saint — 144  
@@ -121,7 +117,6 @@
 **§ 98.** (XXX) If it is a weekday and many Saints — 146
 
 === LEAF p15 ===
-[Book Page XV]
 
 *Page*  
 **§ 99.** (XXXI) If it is a weekday and a Saint having a Litiya — 146  
@@ -144,10 +139,9 @@
 **§ 116.** (XLVIII) How the Triodion is sung with the Menaion from Thomas Sunday throughout the entire Pentecostarion on each week, even unto the Apodosis of Pentecost, except Saturdays and Sundays, at Vespers and at Matins? — 157
 
 === LEAF p16 ===
-[Book Page XVI]
 
 *Page*  
-#### MEMBER III
+**MEMBER III**
 **§ 117.** (XLIX) How the whole Divine Service ought to be performed, and more especially Matins, if it is Saturday, the Patronal Feast of a Saint, and the Canon of the Saint is for 4? — 159  
 **§ 118.** (L) How Matins is performed, if it is Saturday, the Patronal Feast of a Saint, and the Canon of the Saint is for 6? — 161  
 **§ 119.** (LI) How Matins ought to be performed, if it is Saturday, the Patronal Feast of a Saint, and a Saint having a Canon for 8? — 161  
@@ -161,12 +155,11 @@
 **§ 127.** (LIX) How Matins is performed, if it is Saturday, any kind of patronal temple, and within the Feast a Saint for 8? — 164  
 **§ 128.** (LX) How Matins is performed, if it is Saturday, any kind of patronal temple, and within the Feast two Saints having services? — 165
 
-### APPENDIX
+**APPENDIX**
 **§ 129.** On the Kathismata — 165  
 **§ 130.** When is the Polyeleos Sung? — 168
 
 === LEAF p17 ===
-[Book Page XVII]
 
 *Page*  
 **§ 131.** On which Sundays the Sunday Gospel is not read, and when “Having Beheld the Resurrection of Christ” is omitted — 168  
@@ -179,36 +172,35 @@
 ## SECTION II
 **§ 137.** On Liturgical Celebrations — 173
 
-### CHAPTER I
+**CHAPTER I**
 **§ 138.** On the Divine Liturgies in General — 174
 
-#### MEMBER I
-#### Order of the Liturgy of St. John Chrysostom
+**MEMBER I**
+**Order of the Liturgy of St. John Chrysostom**
 **§ 139.** (a) On the Proskomide — 175  
 **§ 140.** (b) Order of the Liturgy of the Catechumens — 182  
 **§ 141.** (c) Order of the Liturgy of the Faithful — 187
 
-#### MEMBER II
-#### On the Liturgy of St. Basil the Great
+**MEMBER II**
+**On the Liturgy of St. Basil the Great**
 **§ 142.** Order of the Liturgy of St. Basil the Great without Vespers — 198  
 **§ 143.** Order of the Liturgy of St. Basil the Great with Vespers — 199
 
-#### MEMBER III
-#### Order of the Liturgy of the Presanctified Gifts
+**MEMBER III**
+**Order of the Liturgy of the Presanctified Gifts**
 **§ 144.** (a) Preparation of the Holy Lamb — 200  
 **§ 145.** (b) Vespers as Part of the Holy Liturgy of the Presanctified Gifts — 201  
 **§ 146.** (c) Liturgy of the Catechumens — 204  
 **§ 147.** (d) Liturgy of the Faithful — 205
 
 === LEAF p18 ===
-[Book Page XVIII]
 
 *Page*  
-### CHAPTER II
+**CHAPTER II**
 **§ 148.** On the Divine Liturgies for Diverse Occasions — 207
 
-#### MEMBER I
-#### On Ordinary Occasions
+**MEMBER I**
+**On Ordinary Occasions**
 **§ 149.** (I) How the Liturgy is performed, if it is Sunday and a Lesser Saint?[^2] — 207  
 **§ 150.** (II) How the Liturgy is performed, if it is Sunday and a Middle Saint? — 208  
 **§ 151.** (III) How the Liturgy is performed, if it is Sunday and a Saint with a Polyeleos? — 208  
@@ -225,7 +217,6 @@
 **§ 162.** (XIV) How the Liturgy is performed, if on a weekday a Great Saint occurs? — 214
 
 === LEAF p19 ===
-[Book Page XIX]
 
 *Page*  
 **§ 163.** (XV) What is Necessary for Us to Note Concerning Weekday Liturgies Celebrated in the Holy Pentecostarion (That Is, from Thomas Sunday unto All Saints Sunday)? — 214  
@@ -237,15 +228,14 @@
 **§ 169.** (XXI) How the Liturgy is performed on weekdays, if the Apodosis of the Feast occurs? — 217  
 **§ 170.** (XXII) When is it permitted to celebrate the Liturgy of the Departed in black vestments? — 217
 
-#### MEMBER II
-#### On Liturgical Peculiarities
-**§ 171.** Which are the Most Renowned Peculiarities in the Holy Liturgies? “Heavenly King” (*Царю̀ небе́сный*); “Christ is Risen”; Antiphons; “As Many as Have Been Baptized into Christ”; “To Thy Cross We Bow Down”; “Arise, O God, Judge Thou the Earth”; Reading of the Gospel according to John, Tone 1, in 12 stations; On the Epistles (*Apostoly*) and Gospels of festal Sundays; On extraordinary ektenias; “Let All Mortal Flesh Keep Silence”; “Of Thy Mystical Supper” (*Вечери твоея*); On the Megalynaria (*Velichaniya*); “Of Thy Mystical Supper” (*Вечери твоея*) [repeated in orig.]; “Be Thou Exalted Above the Heavens, O God”; The Oblation (*Prynos* / Prosphora); Antidoron; Anointing with Blessed Oil (*Myrovaniye*); The first blessing of a newly ordained priest; Sunday Dismissal — 219
+**MEMBER II**
+**On Liturgical Peculiarities**
+**§ 171.** Which are the Most Renowned Peculiarities in the Holy Liturgies? “Heavenly King”; “Christ is Risen”; Antiphons; “As Many as Have Been Baptized into Christ”; “To Thy Cross We Bow Down”; “Arise, O God, Judge Thou the Earth”; Reading of the Gospel according to John, Tone 1, in 12 stations; On the Epistles (*Apostoly*) and Gospels of festal Sundays; On extraordinary ektenias; “Let All Mortal Flesh Keep Silence”; “Of Thy Mystical Supper”; On the Megalynaria (*Velichaniya*); “Of Thy Mystical Supper” [repeated in orig.]; “Be Thou Exalted Above the Heavens, O God”; The Oblation (*Prynos* / Prosphora); Antidoron; Anointing with Blessed Oil (*Myrovaniye*); The first blessing of a newly ordained priest; Sunday Dismissal — 219
 
 === LEAF p20 ===
-[Book Page XX]
 
 *Page*  
-### APPENDIX
+**APPENDIX**
 **§ 172.** What is Necessary to Note Concerning the Eves of the Nativity of Christ and Theophany? — 225  
 **§ 173.** What is Necessary to Know Concerning the Peculiarities of the Other Feasts? — 226  
 **§ 174.** What is Necessary to Note Concerning the Annunciation? — More Especially if it Occurs on Great Friday? (Typikon of Bishop Basil Popovics) — 226  
@@ -254,8 +244,8 @@
 ## SECTION III
 **§ 176.** On Services Following the Divine Liturgy in General — 233
 
-### CHAPTER I
-#### On the Rites of the Holy Mysteries
+**CHAPTER I**
+**On the Rites of the Holy Mysteries**
 **§ 177.** Order of Holy Baptism — 234  
 **§ 178.** Order of the Holy Mystery of Chrismation — 237  
 **§ 179.** Order of the Holy Mystery of the Eucharist: (a) Communion of the healthy; (b) Communion of the sick — 238  
@@ -264,8 +254,8 @@
 **§ 182.** Order of the Holy Mystery of Matrimony: (α) Blessing of first-married spouses [orig. misprinted *perkobrachykh* for *pervobrachykh*]; (β) Blessing of second-married spouses — 251  
 **§ 183.** Order of the Holy Mystery of the Anointing of the Sick (*Eleosviashcheniye*) — 254
 
-### CHAPTER II
-#### On Ecclesiastical Blessings and Sanctifications
+**CHAPTER II**
+**On Ecclesiastical Blessings and Sanctifications**
 **§ 184.** Order of the Blessing of Children — 256  
 **§ 185.** Order of the Churching of a Bride After Marriage — 257  
 **§ 186.** Order of the Churching of a Woman After Childbirth — 257

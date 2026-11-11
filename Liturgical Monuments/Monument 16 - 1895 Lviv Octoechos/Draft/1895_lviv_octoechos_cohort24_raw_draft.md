@@ -244,7 +244,7 @@ The shadow of the law passed away when grace arrived; for even as the bush burne
 *For the Departed (continued):* ...who shows mercy unto it; lifting up its eyes unto the angels, it prays in vain; stretching out its hands unto men, it has none to help. Therefore, my beloved brethren, having understood our brief life, let us ask rest from Christ for the departed, and for our souls great mercy.[^2085]
 
 *Glory... Both now... Theotokion:*
-Save Thy servants from perils, O Virgin Theotokos; for next to God we all flee unto thee, as unto an unbreakable rampart and protection.[^2086]
+Save thy servants from perils, O Virgin Theotokos; for next to God we all flee unto thee, as unto an unbreakable rampart and protection.[^2086]
 
 *Now lettest Thou Thy servant depart: Trisagion; after "Our Father:" Troparion and dismissal.*[^2087]
 

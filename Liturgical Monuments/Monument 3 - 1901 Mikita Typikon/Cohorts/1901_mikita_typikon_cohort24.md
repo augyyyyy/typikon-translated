@@ -1,16 +1,16 @@
 === LEAF p231 ===
 
-[...Blessed be the] name [of the Lord,”] the choir readeth Psalm 33 (“I will bless the Lord”), and upon the conclusion of this reading exclaimeth: “It is truly right... of our [God],” unto which the priest exclaimeth: “Wisdom!” and the choir continueth: “More honorable than the Cherubim,” etc., and there is the dismissal and blessing. After the dismissal the priest saith: “Now lettest Thou Thy servant depart,” etc., and the prayers found in the Sluzhebnik. Finally, having kissed the holy Altar-Table and the Cross, he departeth from the holy Altar-Table and, having divested himself of the priestly vestments, washeth his hands, readeth the prayers after Holy Communion, and having given thanks unto God, departeth.
+[...Blessed be the] name [of the Lord,”] the choir reads Psalm 33 (“I will bless the Lord”), and upon the conclusion of this reading exclaims: “It is truly right... of our [God],” unto which the priest exclaims: “Wisdom!” and the choir continues: “More honorable than the Cherubim,” etc., and there is the dismissal and blessing. After the dismissal the priest says: “Now lettest Thou Thy servant depart,” etc., and the prayers found in the Sluzhebnik. Finally, having kissed the holy Altar-Table and the Cross, he departs from the holy Altar-Table and, having divested himself of the priestly vestments, washes his hands, reads the prayers after Holy Communion, and having given thanks unto God, departs.
 
-### CHAPTER II.
+**CHAPTER II.**
 
 §. 148.
 
 Concerning Liturgies on Various Occasions.
 
-It was already stated that the Greek Church in a single Horologion combineth the Oktoechos with the Menaion, that is, the celebration of an immovable feast with the celebration of a movable feast, because she celebrateth every day a twofold feast—and from this combination there have arisen various occurrences. So it is likewise concerning the holy Liturgy. But here the variety of these occurrences is further increased also by the fact that here with the daily Liturgy there can be combined also a Liturgy of various intentions, as for example: for every petition, or for the remission of sins, or for the sick, etc. But besides this there are also certain extraordinary occurrences in holy Liturgies. And in accordance herewith we shall speak here: (α) concerning regular occurrences, and (β) concerning the most notable extraordinary occurrences.
+It was already stated that the Greek Church in a single Horologion combines the Oktoechos with the Menaion, that is, the celebration of an immovable feast with the celebration of a movable feast, because she celebrates every day a twofold feast—and from this combination there have arisen various occurrences. So it is likewise concerning the holy Liturgy. But here the variety of these occurrences is further increased also by the fact that here with the daily Liturgy there can be combined also a Liturgy of various intentions, as for example: for every petition, or for the remission of sins, or for the sick, etc. But besides this there are also certain extraordinary occurrences in holy Liturgies. And in accordance herewith we shall speak here: (α) concerning regular occurrences, and (β) concerning the most notable extraordinary occurrences.
 
-#### ARTICLE I.
+**ARTICLE I.**
 
 Concerning Regular Occurrences.
 
@@ -89,7 +89,7 @@ The typical antiphons; stichera at the Beatitudes of the Oktoechos on 4, of the 
 
 §. 158.
 
-X. How the Liturgy is Celebrated if the Apodosis of a Feast Falleth on a Sunday?
+X. How the Liturgy is Celebrated if the Apodosis of a Feast Falls on a Sunday?
 
 The typical antiphons. The Beatitudes of the tone on 6, and of the feast Ode 9 on 4, that is, unto 4 verses of the Beatitudes the 4 troparia of the 9th Ode of the Matins canon prescribed for the feast are appended. At the entrance, if it is the Apodosis of a Feast of the Lord, there is sung: “Come, let us worship” and the final refrain of the feast. After the entrance: the Sunday troparion and the troparion of the feast;
 
@@ -99,7 +99,7 @@ The typical antiphons. The Beatitudes of the tone on 6, and of the feast Ode 9 o
 
 §. 159.
 
-XI. How the Liturgy is Celebrated if the Patronal Feast of a Saint Falleth with a Forefeast or with the Apodosis of a Feast on a Sunday?
+XI. How the Liturgy is Celebrated if the Patronal Feast of a Saint Falls with a Forefeast or with the Apodosis of a Feast on a Sunday?
 
 The typical antiphons; stichera at the Beatitudes: the Sunday ones on 4, of the feast Ode 3 on 4, of the temple Ode 6 on 4. After the entrance, the troparion of the Sunday, of the feast, and of the temple of the Saint; the Sunday kontakion; “Glory”: the kontakion of the temple; “Now and forever”: of the feast. The Prokimenon of the tone and of the temple. The Epistle in course and of the temple. The Gospel in course and of the temple. The Communion Hymn of the Sunday and of the temple.
 
@@ -118,8 +118,8 @@ The weekday service according to the Oktoechos is taken on Monday unto the Angel
 
 === LEAF p237 ===
 
-then, when upon a weekday there falleth a Minor or Middle Saint.[^237]
-On such days the daily antiphons are taken (1st Antiphon: “It is good to give praise”; 2nd Antiphon: “The Lord reigneth”; 3rd Antiphon: “Come, let us rejoice in the Lord”).[^238]
+then, when upon a weekday there falls a Minor or Middle Saint.[^237]
+On such days the daily antiphons are taken (1st Antiphon: “It is good to give praise”; 2nd Antiphon: “The Lord reigns”; 3rd Antiphon: “Come, let us rejoice in the Lord”).[^238]
 After the entrance (if the service is taken for the day alone): The troparion of the day; “Glory”: the kontakion of the day; “Now and forever”: the kontakion from the feasts of the Mother of God according to the tone, or the kontakion of the temple, if the temple is of Christ or of the Mother of God; but if the temple is of a Saint, at “Now and forever”: “O Protection of Christians.”[^239] The Prokimenon, Epistle, Gospel, and Communion Hymn of the day. (Unto the Minor Saint nothing is taken.)
 Note. With a service of intention it is taken thus: The troparion of the day and the troparion of intention; the kontakion of intention; “Glory”: the kontakion of the day; “Now and forever”: “O Protection of Christians” (or the kontakion of the temple, where the temple is of Christ or of the Mother of God).[^240] The Prokimenon, Epistle, Gospel, and Communion Hymn of the day [and] of intention.
 
@@ -135,9 +135,9 @@ Note. If there is a service of a particular intention, there is sung: the tropar
 
 §. 162.
 
-XIV. How the Liturgy is Celebrated if a Great Saint Falleth on a Weekday.
+XIV. How the Liturgy is Celebrated if a Great Saint Falls on a Weekday.
 
-When on a weekday (other than Sunday) a Great Saint falleth, then the entire daily service—the troparion with the kontakion, the Prokimenon with the Communion Hymn—is omitted at the Liturgy. The Epistle and Gospel in course (that is, the daily series [*stolp*]) are read one day beforehand, and the entire service is taken unto the Saint.[^242] The typical antiphons. After the entrance: the troparion unto the Saint; “Glory”: the kontakion unto the Saint; “Now and forever”: “O Protection of Christians,” or the kontakion of the temple, where the temple is of Christ or of the Mother of God. The Prokimenon, Epistle, Gospel, and Communion Hymn unto the Saint.[^243]
+When on a weekday (other than Sunday) a Great Saint falls, then the entire daily service—the troparion with the kontakion, the Prokimenon with the Communion Hymn—is omitted at the Liturgy. The Epistle and Gospel in course (that is, the daily series [*stolp*]) are read one day beforehand, and the entire service is taken unto the Saint.[^242] The typical antiphons. After the entrance: the troparion unto the Saint; “Glory”: the kontakion unto the Saint; “Now and forever”: “O Protection of Christians,” or the kontakion of the temple, where the temple is of Christ or of the Mother of God. The Prokimenon, Epistle, Gospel, and Communion Hymn unto the Saint.[^243]
 Note. If the priest hath a particular intention, then: the troparion of the Saint and the troparion of intention; the kontakion of intention; “Glory”: the kontakion of the Saint; “Now and forever”: as above. The Prokimenon, Epistle, Gospel, and Communion Hymn unto the Saint and of intention.
 
 §. 163.
@@ -158,7 +158,7 @@ Since those Sundays are festal, whose entire service is repeated also on weekday
 
 §. 164.
 
-XVI. How the Liturgy is Celebrated on Weekdays if a Forefeast Occurreth with a Minor Saint?
+XVI. How the Liturgy is Celebrated on Weekdays if a Forefeast Occurs with a Minor Saint?
 
 Unto the Minor Saint at the Liturgy nothing is taken. There are taken: the typical antiphons. After the entrance: the troparion of the forefeast; “Glory... now and forever”: the kontakion of the forefeast. The Prokimenon, Epistle, Gospel, and Communion Hymn of the day (in course).
 If there is also a service of some intention, then it is taken thus: The troparion of the forefeast and the troparion of intention; “Glory”: the kontakion of intention; “Now and forever”: of the forefeast. The Prokimenon, Epistle, Gospel, and Communion Hymn of the day and of intention.

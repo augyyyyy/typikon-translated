@@ -35,7 +35,7 @@ The granular heading-level citation model has been successfully implemented acro
 * **Result:** All files returned **100% SUCCESS** (0 characters of liturgical prose or footnotes were lost, mutated, or deleted).
 
 ### 2. Anchor Validation Audit
-* Ran the link verifier script [verify_links.py](file:///C:/Users/augus/.gemini/antigravity/brain/1e566ed6-510f-4f9f-9987-1ea377eeb714/scratch/verify_links.py) against the newly compiled master document [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md):
+* Ran the link verifier script [verify_links.py](file:///C:/Users/augus/.gemini/antigravity/brain/1e566ed6-510f-4f9f-9987-1ea377eeb714/scratch/verify_links.py) against the newly compiled master document [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md):
   ```
   Checked 244 internal links. Found 0 broken links.
   SUCCESS: No broken internal links found!

@@ -343,7 +343,7 @@ When the sun set beneath the earth, it saw thee not buried; but the Unsetting Su
 *Sticheron:*
 In no way understanding the enemy's scheming, thou didst love the child whom thou barest not, and with a father's tender compassion didst nourish him, O glorious one, enduring human reproach with pious thoughts, an innocent interdict in truth, O Theodora: therefore do we celebrate thine honorable festival.[^762]
 
-*Other Stichera of Autonomus, the same Tone and Podoben:*[^763]
+*Other Stichera of Autonomus, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*[^763]
 *Sticheron:*
 Enlightened by virtues, adorned with piety, thou wast a divine hierarch, and like a multi-radiant sun thou didst traverse the world, instructing everywhere the preaching of the faith; and thou didst uproot delusion with the sickle of thy tongue, O God-wise hierarch, great preacher Autonomus![^764]
 

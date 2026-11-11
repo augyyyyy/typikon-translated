@@ -6,7 +6,7 @@ Choir: **"Glory... Now and forever...; Lord, have mercy"** thrice; **"Lord, bles
 
 "The Priest, having descended from the Altar and standing in the Holy Doors facing the people, pronounces the Dismissal, commemorating therein the current service (that is, the service occurring on that day, whether one or more, as many as occur).
 
-#### Rubrical Notes
+**Rubrical Notes**
 
 1. If Deacons happen to be present, then, as the Troparion is being concluded, they go forth, each through his respective door, before the Holy Doors; and having bowed profoundly toward the Holy Mysteries, stand one on the right and the other on the left of the Holy Doors, facing each other. And the first Deacon, who is by the Icon of the Savior, raising the Orarion toward the people with three fingers of his right hand, proclaims: **"Wisdom!"** The second Deacon, who is by the Icon of the Mother of God, proclaims: **"Bless."** Priest: **"Blessed is He Who is..."** and the rest; and he stands there until the end of the Dismissal. While the Priest pronounces the Dismissal, both Deacons keep the Orarion raised with three fingers of their right hand; and thus at the end, having bowed toward the Holy Mysteries, they depart, each through his respective door into the Sanctuary; and having closed together with the Priest the Holy Doors, and having bowed all three together toward the Holy Mysteries, they depart into the Vestry. If there is only one Deacon, he alone goes forth through the southern door before the Icon of the Savior and proclaims: **"Wisdom!"**, keeping his Orarion raised at that exclamation and during the Dismissal, as stated above."
 
@@ -16,9 +16,9 @@ Choir: **"Glory... Now and forever...; Lord, have mercy"** thrice; **"Lord, bles
 
 2. "It is not proper to sit during this Vespers at those points where it was indicated not to sit at Vespers with the All-Night Vigil, as well as during the Dismissal."
 
-### Order of Daily Vespers
+**Order of Daily Vespers** <a id="order-of-daily-vespers"></a>
 
-#### Actions for the Entire Vespers
+**Actions for the Entire Vespers**
 
 "Be it known that at this Vespers there is no Entrance, and for this reason the Holy Doors are not opened, neither do Deacons serve, nor does the Priest make use of the Phelonion, but only of the Epitrakhelion. He censes only at **"Lord, I have cried"** (*Господи воззвахъ*); and he goes forth before the Holy Doors:
 1. At the beginning, as at Great Vespers;
@@ -26,7 +26,7 @@ Choir: **"Glory... Now and forever...; Lord, have mercy"** thrice; **"Lord, bles
 3. At **"Wisdom! Stand upright!"**, and stands there until the end of the exclamation: **"Let us be attentive! Peace be to all! Wisdom! Let us be attentive!"**, at which he also gives peace, turning toward the people;
 4. At the conclusion, for the Dismissal."
 
-#### The Text
+**The Text**
 
 "From the beginning of Vespers even unto the Stichera at **"Lord, I have cried,"** all things are done according to the pattern of Great Vespers without an All-Night Vigil; only here, instead of the first Kathisma (**"Blessed is the man"**), the prescribed Kathisma of the Psalter is taken. But when an All-Night Vigil has preceded, then on account of the labor of the vigil, the prescribed Kathisma is omitted at such a Vespers; and since according to the Typikon the All-Night Vigil was formerly kept every Sunday, for this reason, according to the same prescription, no Kathisma is appointed at Vespers on Sunday evening (leading into Monday), even though today the Vigil is not kept every Sunday.
 The Stichera at **"Lord, I have cried"** are not ten or eight, but only six; and at their conclusion there is no prayer of the Entrance, because there is no Entrance.
@@ -38,7 +38,7 @@ The Stichera at **"Lord, I have cried"** are not ten or eight, but only six; and
 At the conclusion of the Stichera: **"Wisdom! Stand upright! O Joyful Light; Let us be attentive! Peace be to all! Wisdom! Let us be attentive!"** and the Prokimenon of the day from the Horologion. Readings do not occur, neither is the Litany: **"Let us all say"** recited here; but immediately: **"Vouchsafe, O Lord,"** and all the rest unto the end, as at Great Vespers without an All-Night Vigil. Only here, after the Troparion of the Saint, since he is not a Polyeleos Saint, the Sunday Theotokion is not taken, but the Daily Dismissal Theotokion, according to the Tone of the Troparion of the Saint and according to the day of the week. But if there are two Saints, then the Troparion of the first Saint is taken, **"Glory..."** the Troparion of the second Saint, and **"Now and forever..."** the Dismissal Theotokion according to the Tone of the second Saint; during an Afterfeast, however, also at this Vespers we do not cover the Troparia with the Dismissal Theotokion, but with the Troparion of the Feast.
 Furthermore, at the conclusion of the Troparia the Priest chants the Litany: **"Have mercy on us, O God,"** and performs the Moderate Dismissal, that is, he says: **"Wisdom!"** and the Choir immediately: **"More honorable than the Cherubim..."** and the rest as at Great Vespers without an All-Night Vigil, the Priest turning toward the people at: **"Christ our true God..."**"
 
-#### Rubrical Notes
+**Rubrical Notes**
 
 1. "On Sunday itself, or another Feast with an All-Night Vigil, the common custom of making the Entrance is retained[^17] in parishes in the province.
 2. It is not proper at this Vespers to sit in those places where sitting is not allowed at Great Vespers without an All-Night Vigil."
@@ -47,15 +47,15 @@ Furthermore, at the conclusion of the Troparia the Priest chants the Litany: **"
 
 === LEAF p24 ===
 
-### Order of Small Vespers
+**Order of Small Vespers** <a id="order-of-small-vespers"></a>
 
 "This Vespers is performed like Daily Vespers,[^18] yet without a Kathisma and without Litanies, except for the final Litany: **"Have mercy on us, O God,"** which the Slavonic Typika alone appoint, while the Greek omit it; and the Stichera at **"Lord, I have cried"** are only four. The Dismissal, even though it may begin from **"Glory to Thee, O Christ God,"** yet among us they also prepend **"Wisdom!"** with **"More honorable than the Cherubim..."**, as at Daily Vespers."
 
-### Concerning Compline
+**Concerning Compline** <a id="concerning-compline"></a>
 
-### Order of Small Compline
+**Order of Small Compline** <a id="order-of-small-compline"></a>
 
-#### The Text
+**The Text**
 
 1. "The usual beginning, that is: **"Blessed is our God,"** and the rest; **"Glory to Thee, our God, glory to Thee; Heavenly King; All-Holy Trinity; Lord, have mercy"** thrice; **"Glory... Now and forever...; Our Father; For Thine is the kingdom;"** and the other preparatory prayers, even unto **"Come, let us worship"** thrice inclusively, invariably as we set down for Great Vespers without an All-Night Vigil.[^19]
 2. The Three Psalms, the Little Doxology, and the Symbol of Faith (**"I believe"**), as in the Horologion.
@@ -85,7 +85,7 @@ In the case of a Festive Service (Forefeast and Afterfeast of the Lord or of the
 6. After the Troparia: **"Lord, have mercy"** forty times, and all the rest as found in the Horologion.
 7. At the conclusion, the Dismissal, and after it the Commemorations, as in the Horologion at the conclusion of the Daily Midnight Office. (The mutual forgiveness which is appointed before the Commemorations is said only in monasteries.) Instead of these Commemorations, in private today we say: **"Forgive, remit..."**
 
-#### Actions
+**Actions**
 
 This Compline, whenever it is celebrated in church, is celebrated only in the Epitrakhelion, the Holy Doors being closed.
 
@@ -96,7 +96,7 @@ This Compline, whenever it is celebrated in church, is celebrated only in the Ep
 The Priest goes forth before the Holy Doors at the beginning and remains there until **"Come, let us worship,"** and goes forth again at **"O Christ, Who at all times,"** and remains there even unto the end.
 At the Dismissal of this Compline, as also at every Dismissal of any Divine Service that is celebrated in church, the Priest turns toward the people."
 
-### Order of Great Compline without an All-Night Vigil
+**Order of Great Compline without an All-Night Vigil** <a id="order-of-great-compline-without-an-all-night-vigil"></a>
 
 "The sequence of this Compline is set down in the Horologion or Molitvoslov. The Priest, however, performs the following actions:
 1. He makes use only of the Epitrakhelion, having at the beginning signed it with the cross and kissed it where it has the cross.
@@ -104,7 +104,7 @@ At the Dismissal of this Compline, as also at every Dismissal of any Divine Serv
 3. At the prayer instead of the Dismissal: **"O Master, abundant in mercy,"** he does not turn toward the people.
 4. This Compline is celebrated, like the Small Compline, with the Holy Doors closed."
 
-#### Rubrical Note
+**Rubrical Note**
 
 "We celebrate this Compline on Monday, Tuesday, Wednesday, and Thursday (and only according to the rubric of the Slavonic Triodia also on
 
@@ -114,7 +114,7 @@ At the Dismissal of this Compline, as also at every Dismissal of any Divine Serv
 
 Friday) of each week of the Great Fast, and on Tuesday and Thursday of Cheesefare Week preceding the Great Fast, and on Monday and Tuesday of Holy Week following the Great Fast."
 
-### Order of Great Compline with an All-Night Vigil
+**Order of Great Compline with an All-Night Vigil** <a id="order-of-great-compline-with-an-all-night-vigil"></a>
 
 "From the beginning of Compline even unto the end of the Doxology (**"Glory to God in the highest"**), all things are taken invariably as at Great Compline without an All-Night Vigil;[^21] and after the Doxology immediately the Litiya, and the rest in order, as at Vespers with an All-Night Vigil.
 Instead of the daily Troparia appointed after the Trisagion following **"Most Holy Lady,"** the Troparion of the Feast is taken once; and instead of the Troparia: **"Have mercy on us, O Lord,"** appointed after the prayer of Manasses, the Kontakion of the Feast is taken once.
@@ -124,16 +124,16 @@ At the beginning of Compline the Holy Doors are opened, and the Priest censes on
 
 === LEAF p29 ===
 
-### Concerning the Midnight Office
+**Concerning the Midnight Office** <a id="concerning-the-midnight-office"></a>
 
 "The Midnight Office is threefold: Daily, Saturday, and Sunday. The Daily and Saturday offices have a single form, although the prayers are different, and their order is set down in the Horologion and Molitvoslov. The Order of the Sunday Midnight Office is likewise set down in the Horologion and Molitvoslov; however, the Triadicon (Trinity) Canon is taken from the Oktoechos for the current Tone; for the Canon appointed in the Horologion and Molitvoslov, in which each of the eight Odes is taken from one of the eight Tones of the Oktoechos, is used only in private.
 According to the Typikon, the time for the Midnight Office is midnight itself; according to present custom, however, we recite it either earlier in the evening, or in the morning after midnight."
 
-#### Rubrical Note
+**Rubrical Note**
 
-##### Concerning the Festive Troparion and Kontakion at the Midnight Office
+**Concerning the Festive Troparion and Kontakion at the Midnight Office**
 
-"Certain festive occasions occur wherein at the Midnight Office, instead of the three customary Troparia **"Behold, the Bridegroom cometh"** with the other two following after the first Trisagion, the Troparion of the Feast is taken; and instead of the four Troparia **"Remember, O Lord,"** and the other three following after the second Trisagion with the prayer **"Remember, O Lord,"** the Kontakion of the Feast is taken, omitting the twelve **"Lord, have mercy"** appointed before the prayer **"Remember."** These cases are:
+"Certain festive occasions occur wherein at the Midnight Office, instead of the three customary Troparia **"Behold, the Bridegroom comes"** with the other two following after the first Trisagion, the Troparion of the Feast is taken; and instead of the four Troparia **"Remember, O Lord,"** and the other three following after the second Trisagion with the prayer **"Remember, O Lord,"** the Kontakion of the Feast is taken, omitting the twelve **"Lord, have mercy"** appointed before the prayer **"Remember."** These cases are:
 In the Menaion cycle:
 - December 26: Synaxis of the Theotokos.
 - January 1: (If there is no All-Night Vigil.)
@@ -149,11 +149,11 @@ In the Triodion cycle:
 - The Apodosis of Pascha.
 - Monday of the Holy Spirit (Pentecost Monday), that is, on Sunday evening on the eve of Monday.[^22]
 
-### Order of Great Matins
+**Order of Great Matins** <a id="order-of-great-matins"></a>
 
-#### With an All-Night Vigil and without an All-Night Vigil
+**With an All-Night Vigil and without an All-Night Vigil** <a id="with-an-all-night-vigil-and-without-an-all-night-vigil"></a>
 
-##### From the Beginning even unto the Troparia at "God is the Lord"
+**From the Beginning even unto the Troparia at "God is the Lord"**
 
 "If there is an All-Night Vigil, then we take Great Matins immediately after Great Vespers, thus: The Priest, wearing the Epitrakhelion and Phelonion, and having concluded Vespers with the words: **"The blessing of the Lord be upon you,"** turns toward the Altar, and standing before its steps, proclaims: **"Glory to the holy..."** The Choir: **"Amen,"** and: **"Glory to God in the highest"** thrice with small metanias, and: **"O Lord, open Thou my lips"** twice, without metanias; then the Six Psalms.
 The Priest, after **"O Lord, open Thou my lips,"** having closed the Holy Doors and made a profound metania toward the Holy Mysteries, divests himself of the Phelonion, goes forth through the northern door before the Holy Doors, and having again made a profound metania, reads there the Morning Prayers.[^23]
@@ -171,7 +171,7 @@ After the Six Psalms, the Priest chants the Litany: **"In peace let us pray to t
 
 === LEAF p32 ===
 
-#### Troparia at "God is the Lord"
+**Troparia at "God is the Lord"**
 
 "If it is a Feast of the Lord or of the Mother of God, then the Troparion of the Feast twice, then: **"Glory... Now and forever..."** again the same once.
 If it is a Sunday Service and of a Saint with his Troparion, then the Sunday Resurrectional Troparion of the current Tone twice, **"Glory..."** the Troparion of the Saint once, and **"Now and forever..."** the Theotokion from the Sunday set in the Tone of the Troparion of the Saint.
@@ -187,7 +187,7 @@ If on a weekday there is a Festive Service and of a Saint, then the Troparion of
 
 If on a weekday there is a Festive Service and of two Saints with separate Troparia, then the Troparion of the Festive Service once, the Troparion of the first Saint once, and **"Glory..."** of the second Saint once, then **"Now and forever..."** again the Troparion of the Festive Service once.[^27]
 
-#### From the Troparia unto the Graduals
+**From the Troparia unto the Graduals**
 
 "After the Troparia, the Reader reads the prescribed Kathisma of the Psalter according to the rubrical index set down in the Psalter (according to present local custom, only a few verses); and the Little Litany with the exclamation: **"For Thine is the dominion,"** which according to local custom the Priest says secretly from his place, seated, while the Choir chants its responses aloud; then the Sessional Hymn, and **"Glory... Now and forever..."** its Theotokion.
 After this, again another prescribed Kathisma, and the Little Litany with the exclamation: **"For good and loving is God,"** and the second Sessional Hymn with **"Glory... Now and forever..."** its Theotokion.
@@ -202,7 +202,7 @@ then the Kathisma taken is only the 19th, and immediately the Exaltations, then 
 Concerning the Polyeleos, be it known that it is chanted on all Feasts having Great Vespers and Great Matins. On account of Sunday, it is chanted only on Sundays from the Apodosis of the Precious Cross even unto the Forefeast of the Nativity of Christ, excluding both, that is, from September 22 even unto December 19 inclusively, and from the Apodosis of Theophany (January 14) exclusively, even unto Cheesefare Sunday, which precedes the Great Fast, inclusively. On other Sundays of the entire year the 17th Kathisma is used.
 To the 19th Kathisma, that is, the Polyeleos, only the first two Psalms are assigned (Psalms 134 and 135); according to our present custom, however, only selected verses are taken: that is, from the first Psalm we chant four verses, and from the second four; from the first Psalm: verses 1, 2, 13, and 21; and from the second: verses 1, 6, 21, and 26. They add also in the middle and at the end of the verses: **"Alleluia,"** as much as is needed for the full development of beautiful chanting.
 
-#### From the Graduals unto the Canon
+**From the Graduals unto the Canon**
 
 After the Hypakoe, or after the third Sessional Hymn, if it is a Sunday Service, the Graduals of the current Tone are chanted, all three Antiphons (in Tone 8, four); but if it is a Festive Service, then only the first Antiphon of Tone
 
@@ -231,7 +231,7 @@ If, however, it is Matins with an All-Night Vigil, then the Priest here does not
 at Vespers, the forehead of each of the people who has kissed the Gospel and approaches for the anointing, saying to him: **"Christ is among us;"** and the one anointed responds: **"He is and ever will be."** In the Paschal season the Priest says: **"Christ is risen;"** and the one anointed responds: **"Truly He is risen."**
 When he has anointed all, he returns through the Holy Doors into the Sanctuary; and having bowed profoundly, and handed over the vessel with the brush, he closes the Holy Doors; and having again bowed profoundly, departs; and having divested himself of the Phelonion, sits in his place."
 
-#### The Canon
+**The Canon**
 
 "After the exclamation: **"Through the mercy and compassions,"** while the Priest performs the anointing, the Choirs chant the Canon. If, however, there was no All-Night Vigil, then the Choirs chant the Canon without the Priest performing the anointing.
 The Canon, except during the Great Fast, is usually composed of eight Odes, but in the Great Fast of nine. The eight Odes of the Canon, except in the Great Fast, are designated by the numbers: 1st, 3rd, 4th, 5th, 6th, 7th, 8th, and 9th; for although the Canon contains only eight Odes, yet its Heirmoi reach in number even unto the 9th Ode, the 2nd having been omitted. The reason for this is that the Heirmoi are distinguished by the number of the Biblical Odes, whose theme they contain in brief. But since the theme of the 2nd Biblical Canticle is suited only to the time of fasting, for this reason the Heirmoi of the Canon, outside of the Great Fast, are not composed from this Canticle, but only from the eight above-mentioned Canticles, leaving aside the 2nd.

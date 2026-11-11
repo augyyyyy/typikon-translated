@@ -1,6 +1,6 @@
 === LEAF p641 ===
 
-# Month of August: Forefeast of the Transfiguration (August 5, Concl. §§ 4–6); The Holy Transfiguration of our Lord Jesus Christ (August 6, Heading, § 1 Opening)
+## Month of August: Forefeast of the Transfiguration (August 5, Concl. §§ 4–6); The Holy Transfiguration of our Lord Jesus Christ (August 6, Heading, § 1 Opening)
 
 ## Τῇ Ε΄: Προεόρτια τῆς Μεταμορφώσεως (Τέλος §§ 4–6)· Τῇ ΣΤ΄: Ἡ Μεταμόρφωσις τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ (Ἐπιγραφή, § 1 Ἀρχὴ) [Violakis, p. 626]
 
@@ -11,13 +11,13 @@
 
 6.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ προεορτίου Κανόνος δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον ᾿Απολυτίκιον, τὸ προεόρτιον, τὸ τοῦ Ἁγίου τοῦ Ναοῦ, καὶ Κοντάκιον Ἐν τῇ θείᾳ σήμερον Μεταμορφώσει, ᾿Απόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς, καὶ ᾿Απόλυσις.
 
-### Τῇ ΣΤ΄. Ἡ Μεταμόρφωσις τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.
+**Τῇ ΣΤ΄. Ἡ Μεταμόρφωσις τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.**
 
 1.    Εἰ τύχοι ἡ ἑορτὴ τῆς Μεταμορφώσεως ἐν Κυριακῇ, οὐδὲν τῶν ᾿Αναστασίμων ψάλλομεν, ἀλλ᾿ ἅπαντα τὰ τῆς ἑορτῆς ὡς ἑξῆς· Τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακόν, εἰς τὸ Κύριε ἐκέκραξα τὰ Ἰδιόμελα Πρὸ τοῦ Σταυροῦ σου Κύριε εἰς ς΄, Δόξα, Καὶ νῦν, Προτυπῶν τὴν Ἀνάστασιν τὴν σήν, Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ ᾿Αναγνώσματα. Εἰς τὰ ᾿Απόστιχα, τὰ γ΄ Ἰδιόμελα, Δόξα, Καὶ νῦν, Πέτρῳ καὶ Ἰωάννῃ καὶ Ἰακώβῳ, τὸ ᾿Απολυτίκιον Μετεμορφώθης ἐν τῷ Ὄρει ἐκ γ΄ καὶ
 
 === LEAF p642 ===
 
-# Month of August: Forefeast of the Transfiguration (August 5, Concl. §§ 4–6); The Holy Transfiguration of our Lord Jesus Christ (August 6, Heading, § 1 Opening)
+## Month of August: Forefeast of the Transfiguration (August 5, Concl. §§ 4–6); The Holy Transfiguration of our Lord Jesus Christ (August 6, Heading, § 1 Opening)
 
 ## August 5: Forefeast of the Transfiguration (Concl. §§ 4–6); August 6: The Holy Transfiguration of our Lord and Savior Jesus Christ (Heading, § 1 Opening) [Violakis, p. 627]
 
@@ -28,13 +28,13 @@
 
 6.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Forefeast. After the Little Entrance, the Dismissal Troparion of the Resurrection, that of the Forefeast, that of the Patron Saint of the Church, and the Kontakion: **"In the divine Transfiguration today"** (*Ἐν τῇ θείᾳ σήμερον Μεταμορφώσει*); Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### August 6: The Holy Transfiguration of our Lord and Savior Jesus Christ
+**August 6: The Holy Transfiguration of our Lord and Savior Jesus Christ**
 
 1.    If the Feast of the Transfiguration falls on a Sunday, none of the Resurrection hymns are chanted, but all those of the Feast, as follows: On Saturday evening at Vespers, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the Idiomela: **"Before Thy Cross, O Lord"** (*Πρὸ τοῦ Σταυροῦ σου Κύριε*) to 6; "Glory... Both now and ever...": **"Prefiguring Thy Resurrection"** (*Προτυπῶν τὴν Ἀνάστασιν τὴν σήν*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Readings. At the Aposticha: the 3 Idiomela; "Glory... Both now and ever...": **"To Peter, and John, and James"** (*Πέτρῳ καὶ Ἰωάννῃ καὶ Ἰακώβῳ*). The Dismissal Troparion: **"Thou wast transfigured upon the mountain"** (*Μετεμορφώθης ἐν τῷ Ὄρει*)...[^380]
 
 === LEAF p643 ===
 
-# Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 1, §§ 2–3, Antiphons 1 & 2)
+## Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 1, §§ 2–3, Antiphons 1 & 2)
 
 ## Τῇ ΣΤ΄: Ἡ Μεταμόρφωσις τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ (Τέλος § 1, §§ 2–3, Ἀντίφωνα Α΄ & Β΄) [Violakis, p. 628]
 
@@ -64,7 +64,7 @@
 
 === LEAF p644 ===
 
-# Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 1, §§ 2–3, Antiphons 1 & 2)
+## Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 1, §§ 2–3, Antiphons 1 & 2)
 
 ## August 6: The Holy Transfiguration of our Lord and Savior Jesus Christ (Concl. § 1, §§ 2–3, Antiphons 1 & 2) [Violakis, p. 629]
 
@@ -74,21 +74,21 @@
 
 3.    In the Divine Liturgy, the Antiphons:
 
-#### Antiphon 1
+**Antiphon 1**
 
 | Verses of the Antiphon | Refrain |
 | :--- | :--- |
 | **"Great is the Lord, and greatly to be praised in the city of our God, in His holy mountain."** (*Μέγας Κύριος καὶ αἰνετὸς σφόδρα ἐν πόλει τοῦ Θεοῦ ἡμῶν*, Ps. 47:2 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** (*Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*) |
 | **"Who preparest the mountains in Thy strength, being girded about with power."** (*Ἑτοιμάζων ὄρη ἐν τῇ ἰσχύϊ αὑτοῦ*, Ps. 64:7 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** |
 | **"Who coverest Thyself with light as with a garment."** (*Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον*, Ps. 103:2 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** |
-| **"The mountains shall rejoice at the presence of the Lord, for He cometh."** (*Τὰ ὄρη ἀγαλλιάσονται ἀπὸ προσώπου Κυρίου*, Ps. 97:8–9 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** |
+| **"The mountains shall rejoice at the presence of the Lord, for He comes."** (*Τὰ ὄρη ἀγαλλιάσονται ἀπὸ προσώπου Κυρίου*, Ps. 97:8–9 LXX) | **"Through the intercessions of the Theotokos, Savior, save us."** |
 
-#### Antiphon 2
+**Antiphon 2**
 
 | Verses of the Antiphon | Refrain |
 | :--- | :--- |
 | **"His foundations are in the holy mountains."** (*Οἱ θεμέλιοι αὐτοῦ ἐν τοῖς ὄρεσι τοῖς ἁγίοις*, Ps. 86:1 LXX) | **"Save us, O Son of God, Who wast transfigured upon Mount Tabor, who sing to Thee: Alleluia."** (*Σῶσον ἡμᾶς, Υἱὲ Θεοῦ, ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς...*) |
-| **"The Lord loveth the gates of Zion more than all the dwellings of Jacob."** (*Ἀγαπᾷ Κύριος τὰς πύλας Σιών, ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ*, Ps. 86:2 LXX) | **"Save us, O Son of God, Who wast transfigured upon Mount Tabor, who sing to Thee: Alleluia."** |
+| **"The Lord loves the gates of Zion more than all the dwellings of Jacob."** (*Ἀγαπᾷ Κύριος τὰς πύλας Σιών, ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ*, Ps. 86:2 LXX) | **"Save us, O Son of God, Who wast transfigured upon Mount Tabor, who sing to Thee: Alleluia."** |
 | **"Glorious things are spoken of thee, O city of God."** (*Δεδοξασμένα ἐλαλήθη περὶ σοῦ ἡ πόλις τοῦ Θεοῦ*, Ps. 86:3 LXX) | **"Save us, O Son of God, Who wast transfigured upon Mount Tabor, who sing to Thee: Alleluia."** |
 
 ------------------------------------------------------------------------
@@ -96,7 +96,7 @@
 
 === LEAF p645 ===
 
-# Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 3, Antiphons 2 concl. & 3, Isodikon, Liturgy concl., Evening Great Prokeimenon); Saturday after the Feast (§ 4)
+## Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 3, Antiphons 2 concl. & 3, Isodikon, Liturgy concl., Evening Great Prokeimenon); Saturday after the Feast (§ 4)
 
 ## Τῇ ΣΤ΄: Ἡ Μεταμόρφωσις τοῦ Κυρίου καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ (Τέλος § 3)· Σαββάτῳ μετὰ τὴν ἑορτήν (§ 4) [Violakis, p. 630]
 
@@ -114,7 +114,7 @@
       Εἰσοδικὸν Ὅτι παρὰ σοὶ πηγὴ ζωῆς, Κύριε, ἐν τῷ φωτί σου ὀψόμεθα φῶς . . . Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς . . . τὸ ᾿Απολυτίκιον καὶ τὸ Κοντάκιον τῆς ἑορτῆς, τὸ Τρισάγιον, ὁ ᾿Απόστολος καὶ τὸ Εὐαγγέλιον· Εἰς τὸ Ἐξαιρέτως τὸ Νῦν τὰ ἀνήκουστα ἠκούσθη³ (ζήτει ἐν τῇ ζ΄ Ὠδῇ), Κοινωνικὸν Ἐν τῷ φωτὶ τῆς δόξης τοῦ προσώπου σου, Μετεμορφώθης ἐν τῷ Ὄρει, καὶ ᾿Απόλυσις.
       Τὸ ἑσπέρας τῆς ἑορτῆς, οἱαδήποτε ἡμέρα καὶ ἂν ᾖ, ἀντὶ τοῦ Προκειμένου τῆς ἡμέρας ψάλλεται τὸ Μ. Προκείμενον Ὁ Θεὸς ἡμῶν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ μετὰ τῶν Στίχων αὐτοῦ.
 
-### Σαββάτῳ μετὰ τὴν ἑορτήν.
+**Σαββάτῳ μετὰ τὴν ἑορτήν.**
 
 4.    Τῇ Παρασκευῇ ἑσπέρας, ὁ Ἑσπερινὸς ψάλλεται κατὰ τὴν σειρὰν τοῦ Μηναίου καὶ ἐν τῷ τέλει ἡ Παράκλησις, ᾿Απολυτίκιον Μετεμορφώθης ἐν τῷ ὄρει, ὁ Ἱερεὺς Ἐλέησον ἡμᾶς ὁ Θεός, κτλ. καὶ ἡ ᾿Απόλυσις.
 
@@ -123,7 +123,7 @@
 
 === LEAF p646 ===
 
-# Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 3, Antiphons 2 concl. & 3, Isodikon, Liturgy concl., Evening Great Prokeimenon); Saturday after the Feast (§ 4)
+## Month of August: The Holy Transfiguration of our Lord Jesus Christ (August 6, Concl. § 3, Antiphons 2 concl. & 3, Isodikon, Liturgy concl., Evening Great Prokeimenon); Saturday after the Feast (§ 4)
 
 ## August 6: The Holy Transfiguration of our Lord and Savior Jesus Christ (Concl. § 3); Saturday after the Feast (§ 4) [Violakis, p. 631]
 
@@ -133,20 +133,20 @@
 
 "Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen." **"O Only-begotten Son and Word of God"** (*Ὁ μονογενὴς Υἱὸς καὶ Λόγος τοῦ Θεοῦ*).
 
-#### Antiphon 3
+**Antiphon 3**
 
 | Verses of the Antiphon | Refrain |
 | :--- | :--- |
 | **"I will sing of Thy mercies, O Lord, forever."** (*Τὰ ἐλέη σου, Κύριε, εἰς τὸν αἰῶνα ᾄσομαι*, Ps. 88:2 LXX) | Dismissal Troparion of the Feast: **"Thou wast transfigured upon the mountain, O Christ our God..."** (*Μετεμορφώθης ἐν τῷ ὄρει Χριστὲ ὁ Θεός...*) |
 | **"The heavens shall confess Thy wonders, O Lord, and Thy truth in the church of the saints."** (*Ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου, Κύριε*, Ps. 88:6 LXX) | Dismissal Troparion of the Feast: **"Thou wast transfigured upon the mountain..."** |
-| **"Blessed is the people that knoweth the joyful shout."** (*Μακάριος ὁ λαὸς ὁ γινώσκων ἀλαλαγμόν*, Ps. 88:16 LXX) | Dismissal Troparion of the Feast: **"Thou wast transfigured upon the mountain..."** |
+| **"Blessed is the people that knows the joyful shout."** (*Μακάριος ὁ λαὸς ὁ γινώσκων ἀλαλαγμόν*, Ps. 88:16 LXX) | Dismissal Troparion of the Feast: **"Thou wast transfigured upon the mountain..."** |
 | **"O Lord, in the light of Thy countenance shall they walk, and in Thy name shall they rejoice all the day."** (*Κύριε, ἐν τῷ φωτὶ τοῦ προσώπου σου πορεύσονται, καὶ ἐν τῷ ὀνόματί σου ἀγαλλιάσονται ὅλην τὴν ἡμέραν*, Ps. 88:16–17 LXX) | Dismissal Troparion of the Feast: **"Thou wast transfigured upon the mountain..."** |
 
 Entrance Hymn (Isodikon): **"For with Thee is the fountain of life; in Thy light shall we see light"** (*Ὅτι παρὰ σοὶ πηγὴ ζωῆς, Κύριε, ἐν τῷ φωτί σου ὀψόμεθα φῶς*, Ps. 35:10 LXX)... **"Save us, O Son of God, Who wast transfigured upon Mount Tabor, who sing to Thee: Alleluia!"** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς...*). The Dismissal Troparion and Kontakion of the Feast, the Trisagion, the Epistle and the Gospel. At "Especially" [Megalynarion], **"Now things unheard of have been heard"** [3] (*Τὸ Νῦν τὰ ἀνήκουστα ἠκούσθη*, see the Seventh Ode). Communion Hymn: **"In the light of the glory of Thy countenance, O Lord, we will walk forever"** (*Ἐν τῷ φωτὶ τῆς δόξης τοῦ προσώπου σου*, Ps. 4:7; 88:16 LXX); [the Dismissal Troparion:] **"Thou wast transfigured upon the mountain"**, and Dismissal.
 
 On the evening of the Feast, whatever day it may be, instead of the Prokeimenon of the day, we chant the Great Prokeimenon: **"Our God is in heaven and on earth; all things whatsoever He hath pleased, He hath done"** (*Ὁ Θεὸς ἡμῶν ἐν τῷ οὐρανῷ καὶ ἐν τῇ γῇ*, Ps. 113:11 LXX), with its verses.
 
-### Saturday after the Feast
+**Saturday after the Feast**
 
 4.    On Friday evening, Vespers is chanted according to the order of the Menaion, and at the conclusion the Paraklesis. Dismissal Troparion: **"Thou wast transfigured upon the mountain"** (*Μετεμορφώθης ἐν τῷ ὄρει*); the Priest: **"Have mercy on us, O God"** (*Ἐλέησον ἡμᾶς ὁ Θεός*), etc., and Dismissal.
 
@@ -155,7 +155,7 @@ On the evening of the Feast, whatever day it may be, instead of the Prokeimenon 
 
 === LEAF p647 ===
 
-# Month of August: Saturday after the Feast (Concl. §§ 5–6); Sunday after the Feast (Heading, §§ 7–8, § 9 Opening)
+## Month of August: Saturday after the Feast (Concl. §§ 5–6); Sunday after the Feast (Heading, §§ 7–8, § 9 Opening)
 
 ## Σαββάτῳ μετὰ τὴν ἑορτήν (Τέλος §§ 5–6)· Κυριακῇ μετὰ τὴν ἑορτήν (Ἐπιγραφή, §§ 7–8, § 9 Ἀρχὴ) [Violakis, p. 632]
 
@@ -163,7 +163,7 @@ On the evening of the Feast, whatever day it may be, instead of the Prokeimenon 
 
 6.    Εἰς τὴν Λειτουργίαν, τὰ ᾿Αντίφωνα τῆς ἑορτῆς Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς. Μετὰ τὴν Εἴσοδον, Δεῦτε προσκυνήσωμεν . . . ὁ ἐν τῷ ὄρει τῷ Θαβώρ. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Μακάριοι οὓς ἐξελέξω, Εἴδομεν τὸ φῶς καὶ ᾿Απόλυσις.
 
-### Κυριακῇ μετὰ τὴν ἑορτήν.
+**Κυριακῇ μετὰ τὴν ἑορτήν.**
 
 7.    Τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ἀναστάσιμα Στιχηρὰ ς΄ καὶ μεθέορτα δ΄, Δόξα, Δεῦτε ἀναβῶμεν εἰς τὸ ὄρος Κυρίου (ζήτει εἰς τὴν Λιτήν), Καὶ νῦν, τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, Φῶς ἱλαρόν, καὶ τὸ Προκείμενον. Εἰς τὰ ᾿Απόστιχα, τὰ ἀναστάσιμα Στιχηρά, Δόξα, Καὶ νῦν τῆς ἑορτῆς, Νῦν ἀπολύεις, τὸ Τρισάγιον, τὸ ἀναστάσιμον ᾿Απολυτίκιον τὸ τῆς ἑορτῆς ἅπαξ καὶ ᾿Απόλυσις.
 
@@ -173,15 +173,15 @@ On the evening of the Feast, whatever day it may be, instead of the Prokeimenon 
 
 === LEAF p648 ===
 
-# Month of August: Saturday after the Feast (Concl. §§ 5–6); Sunday after the Feast (Heading, §§ 7–8, § 9 Opening)
+## Month of August: Saturday after the Feast (Concl. §§ 5–6); Sunday after the Feast (Heading, §§ 7–8, § 9 Opening)
 
 ## Saturday after the Feast (Concl. §§ 5–6); Sunday after the Feast (Heading, §§ 7–8, § 9 Opening) [Violakis, p. 633]
 
-5.    On Saturday, after the Midnight Office and the regular order of Matins, at the Praises: the Vespers Stichira of August 9: **"Of the all-holy and glorious Transfiguration"** (*Τῆς παναγίας ἐνδόξου Μεταμορφώσεως*) to 4; "Glory... Both now and ever...": **"Sanctifying the whole world with Thy light"** (*Ὁ φωτί σου ἅπασαν τὴν οἰκουμένην ἁγιάσας*); **"To Thee belongeth glory"** (*Σοὶ δόξα πρέπει*); after the Insistent Litany, the Aposticha: **"On Mount Tabor"** (*Ἐν ὄρει τῷ Θαβώρ*, see August 9), and the Dismissal Troparion.
+5.    On Saturday, after the Midnight Office and the regular order of Matins, at the Praises: the Vespers Stichira of August 9: **"Of the all-holy and glorious Transfiguration"** (*Τῆς παναγίας ἐνδόξου Μεταμορφώσεως*) to 4; "Glory... Both now and ever...": **"Sanctifying the whole world with Thy light"** (*Ὁ φωτί σου ἅπασαν τὴν οἰκουμένην ἁγιάσας*); **"To Thee belongs glory"** (*Σοὶ δόξα πρέπει*); after the Insistent Litany, the Aposticha: **"On Mount Tabor"** (*Ἐν ὄρει τῷ Θαβώρ*, see August 9), and the Dismissal Troparion.
 
 6.    In the Divine Liturgy, the Antiphons of the Feast: **"Save us, O Son of God, Who wast transfigured upon Mount Tabor..."** (*Σῶσον ἡμᾶς Υἱὲ Θεοῦ, ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς*). After the Little Entrance: **"O come, let us worship... Who wast transfigured upon Mount Tabor"** (*Δεῦτε προσκυνήσωμεν... ὁ ἐν τῷ ὄρει τῷ Θαβὼρ μεταμορφωθείς*). At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord"** (*Μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε*, Ps. 64:5 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### Sunday after the Feast
+**Sunday after the Feast**
 
 7.    On Saturday evening, after the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant 6 Stichira of the Resurrection and 4 of the Afterfeast; "Glory...": **"Come, let us ascend into the mountain of the Lord"** (*Δεῦτε ἀναβῶμεν εἰς τὸ ὄρος Κυρίου*, see the Litiya); "Both now and ever...": the first Theotokion of the Tone. Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrection Stichira; "Glory... Both now and ever...": of the Feast; **"Now lettest Thou Thy servant depart"** (*Νῦν ἀπολύεις*); the Trisagion Prayers; the Dismissal Troparion of the Resurrection, that of the Feast once, and Dismissal.
 
@@ -191,14 +191,14 @@ On the evening of the Feast, whatever day it may be, instead of the Prokeimenon 
 
 === LEAF p649 ===
 
-# Month of August: Sunday after the Feast (Concl. § 9); The Apodosis of the Feast (August 13, Heading, §§ 10–12, § 13 Opening)
+## Month of August: Sunday after the Feast (Concl. § 9); The Apodosis of the Feast (August 13, Heading, §§ 10–12, § 13 Opening)
 
 ## Κυριακῇ μετὰ τὴν ἑορτήν (Τέλος § 9)· Ἡ Ἀπόδοσις τῆς ἑορτῆς (Ἐπιγραφή, §§ 10–12, § 13 Ἀρχὴ) [Violakis, p. 634]
 
 ᾿Απόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ ᾿Απόλυσις.
       Τῇ αὐτῇ Κυριακῇ ἑσπέρας, ὁ τῆς σειρᾶς Ἑσπερινὸς ψάλλεται κατὰ τὴν διάταξιν τοῦ Μηναίου, γίνεται Εἴσοδος, καὶ μετὰ τὸ Νῦν ἀπολύεις ψάλλεται ἡ Μεγάλη Παράκλησις ὡς εἴθισται.
 
-### Ἡ ᾿Απόδοσις τῆς ἑορτῆς.
+**Ἡ ᾿Απόδοσις τῆς ἑορτῆς.**
 
 10.   Τῇ ΙΓ΄ τοῦ αὐτοῦ μηνός, ἡ ᾿Ακολουθία ψάλλεται ἀπαραλλάκτως ὡς ἐν τῇ ἡμέρᾳ τῆς ἑορτῆς, ἐξαιρουμένων ἐν τῷ Ἑσπερινῷ τῶν ᾿Αναγνωσμάτων, καὶ ἐν τῷ Ὄρθρῳ τῆς Λιτῆς, τοῦ Πολυελέου καὶ τοῦ Εὐαγγελίου· ἐν δὲ τῇ Λειτουργίᾳ, ᾿Απόστολος καὶ Εὐαγγέλιον τὰ τῆς ἡμέρας.
 
@@ -210,14 +210,14 @@ On the evening of the Feast, whatever day it may be, instead of the Prokeimenon 
 
 === LEAF p650 ===
 
-# Month of August: Sunday after the Feast (Concl. § 9); The Apodosis of the Feast (August 13, Heading, §§ 10–12, § 13 Opening)
+## Month of August: Sunday after the Feast (Concl. § 9); The Apodosis of the Feast (August 13, Heading, §§ 10–12, § 13 Opening)
 
 ## Sunday after the Feast (Concl. § 9); The Apodosis of the Feast (August 13, Heading, §§ 10–12, § 13 Opening) [Violakis, p. 635]
 
 ...Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
       On that same Sunday evening, the Vespers in series is chanted according to the order of the Menaion; Little Entrance is made, and after **"Now lettest Thou Thy servant depart"** (*Νῦν ἀπολύεις*), the Great Paraklesis is chanted as is customary.
 
-### The Apodosis of the Feast
+**The Apodosis of the Feast**
 
 10.   On the 13th of this month, the service [of the Apodosis] is chanted without variation exactly as on the day of the Feast, with the following exceptions: in Vespers, the Readings are omitted; in Matins, the Litiya, the Polyeleos, and the Gospel are omitted; and in the Divine Liturgy, the Epistle and Gospel are of the day.
 

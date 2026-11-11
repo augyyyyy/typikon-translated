@@ -1,6 +1,6 @@
 === LEAF p281 ===
 
-# December 25: Nativity of Christ — Vespers & Liturgy of St. Basil / Matins of the Feast
+## December 25: Nativity of Christ — Vespers & Liturgy of St. Basil / Matins of the Feast
 
 ## Ὁ Μέγας Ἑσπερινὸς καὶ ἡ Λειτουργία τοῦ Μεγάλου Βασιλείου [Violakis, p. 266]
 
@@ -14,7 +14,7 @@
 
 === LEAF p282 ===
 
-# December 25: Nativity of Christ — Vespers & Liturgy of St. Basil / Matins of the Feast
+## December 25: Nativity of Christ — Vespers & Liturgy of St. Basil / Matins of the Feast
 
 ## Great Vespers and the Liturgy of Saint Basil the Great [Violakis, p. 267]
 
@@ -27,7 +27,7 @@
 
 === LEAF p283 ===
 
-# December 25: Nativity of Christ — Matins of the Feast Concluded
+## December 25: Nativity of Christ — Matins of the Feast Concluded
 
 ## Ὄρθρος τῆς Ἑορτῆς (Συνέχεια) [Violakis, p. 268]
 
@@ -53,20 +53,20 @@
 
 === LEAF p284 ===
 
-# December 25: Nativity of Christ — Matins of the Feast Concluded
+## December 25: Nativity of Christ — Matins of the Feast Concluded
 
 ## Matins of the Feast (Concluded) [Violakis, p. 269]
 
-Lord" (*Κύριος*): the Dismissal Troparion: **"Thy Nativity, O Christ our God"** (*Ἡ γέννησίς σου, Χριστὲ ὁ Θεὸς ἡμῶν*) thrice; then the daily Psalter and the Polyeleos: **"Praise ye the name of the Lord"** (*Αἰνεῖτε τὸ ὄνομα Κυρίου*, Psalms 134–135 LXX). The three Kathismata are sung in order; the Anavathmoi: the First Antiphon of Tone 4; and the Prokeimenon in Tone 4: **"From the womb before the morning star have I begotten Thee; the Lord hath sworn, and will not repent"** (*Ἐκ γαστρὸς πρὸ Ἑωσφόρου ἐγέννησά σε, ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται*, Ps. 109:3–4 LXX); then **"Let every breath praise the Lord"** (*Πᾶσα πνοή*) and the Matins Gospel [Matthew 1:18–25]; then Psalm 50 [LXX] recited plain; **"Glory"**: **"All things are filled with joy today"** (*Τὰ σύμπαντα σήμερον χαρᾶς πληροῦνται*); **"Both now and ever"**: repeat the same. The Verse: **"Have mercy on me, O God, according to Thy great mercy"** (*Ἐλέησόν με, ὁ Θεός*, Ps. 50:1 LXX) and the Idiomelon: **"Glory to God in the highest"** (*Δόξα ἐν ὑψίστοις Θεῷ*, look at Vespers of December 26). Both Canons are sung with four Troparia each without verses, but at the last two Troparia we chant the verse **"Glory... Both now and ever..."**. After the Third Ode: the Hypakoe (recited plain) [**"The heavens brought an offering"** / *Τὴν ἀπαρχὴν τῶν ἐθνῶν*]; after the Sixth Ode: the Kontakion: **"Today the Virgin cometh to the cave"** (*Ἡ Παρθένος σήμερον*), the Ikos, and the Synaxarion of the Feast. The double Katavasiai are sung through the Eighth Ode; then the Ninth Ode is sung with the Megalynaria as follows:
+Lord" (*Κύριος*): the Dismissal Troparion: **"Thy Nativity, O Christ our God"** (*Ἡ γέννησίς σου, Χριστὲ ὁ Θεὸς ἡμῶν*) thrice; then the daily Psalter and the Polyeleos: **"Praise ye the name of the Lord"** (*Αἰνεῖτε τὸ ὄνομα Κυρίου*, Psalms 134–135 LXX). The three Kathismata are sung in order; the Anavathmoi: the First Antiphon of Tone 4; and the Prokeimenon in Tone 4: **"From the womb before the morning star have I begotten Thee; the Lord hath sworn, and will not repent"** (*Ἐκ γαστρὸς πρὸ Ἑωσφόρου ἐγέννησά σε, ὤμοσε Κύριος καὶ οὐ μεταμεληθήσεται*, Ps. 109:3–4 LXX); then **"Let every breath praise the Lord"** (*Πᾶσα πνοή*) and the Matins Gospel [Matthew 1:18–25]; then Psalm 50 [LXX] recited plain; **"Glory"**: **"All things are filled with joy today"** (*Τὰ σύμπαντα σήμερον χαρᾶς πληροῦνται*); **"Both now and ever"**: repeat the same. The Verse: **"Have mercy on me, O God, according to Thy great mercy"** (*Ἐλέησόν με, ὁ Θεός*, Ps. 50:1 LXX) and the Idiomelon: **"Glory to God in the highest"** (*Δόξα ἐν ὑψίστοις Θεῷ*, look at Vespers of December 26). Both Canons are sung with four Troparia each without verses, but at the last two Troparia we chant the verse **"Glory... Both now and ever..."**. After the Third Ode: the Hypakoe (recited plain) [**"The heavens brought an offering"** / *Τὴν ἀπαρχὴν τῶν ἐθνῶν*]; after the Sixth Ode: the Kontakion: **"Today the Virgin comes to the cave"** (*Ἡ Παρθένος σήμερον*), the Ikos, and the Synaxarion of the Feast. The double Katavasiai are sung through the Eighth Ode; then the Ninth Ode is sung with the Megalynaria as follows:
 
-### For the First Canon
+**For the First Canon**
 
 *Magnify, O my soul, her who is greater in honor and more glorious than the hosts on high.*  
 *Magnify, O my soul, God born in the flesh from the Virgin.*  
 *Magnify, O my soul, the King born in the cave.*  
 *Magnify, O my soul, God worshipped by the Magi.*  
 
-### For the Second (Iambic) Canon
+**For the Second (Iambic) Canon**
 
 *Today the Virgin gives birth to the Master within the cave.*  
 *Today the Master is born as a babe from a Virgin Mother.*  
@@ -79,7 +79,7 @@ The two Katavasiai of the Ninth Ode, and the Exapostilarion: **"Our Savior, the 
 
 === LEAF p285 ===
 
-# December 25: Nativity of Christ — Praises Concluded & Liturgy Antiphons 1–2
+## December 25: Nativity of Christ — Praises Concluded & Liturgy Antiphons 1–2
 
 ## Αἶνοι καὶ Θεία Λειτουργία (Ἀντίφωνα Α΄–Β΄) [Violakis, p. 270]
 
@@ -87,7 +87,7 @@ The two Katavasiai of the Ninth Ode, and the Exapostilarion: **"Our Savior, the 
 
 8.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τῆς ἑορτῆς.
 
-### Ἀντίφωνον α΄ Ἦχος β΄
+**Ἀντίφωνον α΄ Ἦχος β΄**
 
 | Στίχοι | Ἐφύμνιον |
 | :--- | :--- |
@@ -97,7 +97,7 @@ The two Katavasiai of the Ninth Ode, and the Exapostilarion: **"Our Savior, the 
 | *Ἐξομολόγησις καὶ μεγαλοπρέπεια τὸ ἔργον αὐτοῦ, καὶ ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος.* | |
 | (*Δόξα Πατρὶ καὶ Υἱῷ καὶ Ἁγίῳ Πνεύματι· καὶ νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν*) | |
 
-### Ἀντίφωνον β΄.
+**Ἀντίφωνον β΄.**
 
 | Στίχοι | Ἐφύμνιον |
 | :--- | :--- |
@@ -111,14 +111,14 @@ The two Katavasiai of the Ninth Ode, and the Exapostilarion: **"Our Savior, the 
 
 === LEAF p286 ===
 
-# December 25: Nativity of Christ — Praises Concluded & Liturgy Antiphons 1–2
+## December 25: Nativity of Christ — Praises Concluded & Liturgy Antiphons 1–2
 
 ## Praises Concluded and the Divine Liturgy (Antiphons 1–2) [Violakis, p. 271]
 
 righteous" (*Εὐφραίνεσθε, δίκαιοι*); **"Glory"**: **"When it was time for Thy coming upon earth"** (*Ὅτε καιρὸς τῆς ἐπὶ τῆς γῆς παρουσίας σου*); **"Both now and ever"**: **"Today Christ is born in Bethlehem of the Virgin"** (*Σήμερον ὁ Χριστὸς*) up to the cue words **"and we cry aloud without ceasing"** (*ἡμεῖς δὲ ἀκαταπαύστως βοῶμεν*); and the Great Doxology begins immediately: **"Glory to God in the highest, and on earth peace, good will among men."** (Note: In other words, the final phrase of the above Theotokion is sung by the choir as the opening proclamation of the Great Doxology); after which we sing the Dismissal Troparion: **"Thy Nativity, O Christ our God"** (*Ἡ γέννησίς σου*).
 8.    At the Divine Liturgy: the Antiphons of the Feast:
 
-### Antiphon One (Tone 2)
+**Antiphon One (Tone 2)**
 
 | Verses [Psalm 110 LXX] | Refrain |
 | :--- | :--- |
@@ -128,7 +128,7 @@ righteous" (*Εὐφραίνεσθε, δίκαιοι*); **"Glory"**: **"When it 
 | *Praise and majesty are His work; and His righteousness endures unto the ages of ages.* | |
 | *(Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.)* | |
 
-### Antiphon Two (Tone 2)
+**Antiphon Two (Tone 2)**
 
 | Verses [Psalm 111 LXX] | Refrain |
 | :--- | :--- |
@@ -142,11 +142,11 @@ righteous" (*Εὐφραίνεσθε, δίκαιοι*); **"Glory"**: **"When it 
 
 === LEAF p287 ===
 
-# December 25: Liturgy Concluded / December 26: Synaxis of the Theotokos
+## December 25: Liturgy Concluded / December 26: Synaxis of the Theotokos
 
 ## Θεία Λειτουργία (Συνέχεια) [Violakis, p. 272]
 
-### Ἀντίφωνον γ΄ Ἦχος δ΄
+**Ἀντίφωνον γ΄ Ἦχος δ΄**
 
 | Στίχοι | Ἐφύμνιον |
 | :--- | :--- |
@@ -158,7 +158,7 @@ righteous" (*Εὐφραίνεσθε, δίκαιοι*); **"Glory"**: **"When it 
 
 *Σημείωσις.* Καθ’ ὅλον τὸ δωδεκαήμερον γίνεται ἐν τῇ τραπέζῃ κατάλυσις εἰς πάντα, ἐκτὸς τῆς Παραμονῆς τῶν Φώτων, ἥτις, ἂν ᾖ Σάββατον ἢ Κυριακή, ἐπιτρέπει κατάλυσιν οἴνου καὶ ἐλαίου.
 
-### Τῇ ΚΣΤ΄.    Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου [Violakis, p. 272]
+**Τῇ ΚΣΤ΄.    Ἡ Σύναξις τῆς Ὑπεραγίας Θεοτόκου [Violakis, p. 272]**
 
 9.    Τῇ αὐτῇ Παρασκευῇ ἑσπέρας, μετὰ τὸν Προοιμιακὸν, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν τὰ Ἰδιόμελα τῆς ἑορτῆς *Δεῦτε ἀγαλλιασώμεθα* εἰς ς΄. *Δόξα Καὶ νῦν* *Δόξα ἐν Ὑψίστοις Θεῷ*, Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Μέγα Προκείμενον *Τίς Θεὸς μέγας* μετὰ τῶν στίχων αὐτοῦ. Εἰς τὰ Ἀπόστιχα, τὰ Ἰδιόμελα *Παράδοξον Μυστήριον* καὶ τὰ λοιπὰ β΄. *Δόξα Καὶ νῦν* *Ἐν Βηθλεὲμ συνέδραμον ποιμένες* τὸ Ἀπολυτίκιον *Ἡ γέννησίς σου Χριστὲ ὁ Θεὸς* ἐκ γ΄ καὶ Ἀπόλυσις.
 10.    Τῷ Σαββάτῳ εἰς τὸν Ὄρθρον, μετὰ τὸν Ν΄ ψαλμὸν τὸ Τρισάγιον, τὸ Ἀπολυτίκιον *Ἡ γέννησίς σου Χριστὲ ὁ Θεὸς* καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος*, *Ἡ γεννησίς σου* ἐκ γ΄· εἶτα τὸ ψαλτήριον τῆς ἡμέρας (ἄνευ τοῦ Πολυελέου), τὰ δύο Καθίσματα τὸ *Δεῦτε ἴδωμεν πιστοὶ* καὶ τὸ *Τί θαυμάζεις Μαριὰμ* καὶ ὁ Ν΄
@@ -167,11 +167,11 @@ righteous" (*Εὐφραίνεσθε, δίκαιοι*); **"Glory"**: **"When it 
 
 === LEAF p288 ===
 
-# December 25: Liturgy Concluded / December 26: Synaxis of the Theotokos
+## December 25: Liturgy Concluded / December 26: Synaxis of the Theotokos
 
 ## Divine Liturgy (Concluded) [Violakis, p. 273]
 
-### Antiphon Three (Tone 4)
+**Antiphon Three (Tone 4)**
 
 | Verses [Psalm 109 LXX] | Refrain |
 | :--- | :--- |
@@ -183,7 +183,7 @@ Introit (Entrance Hymn): **"From the womb before the morning star have I begotte
 
 *Note.* Throughout the entire Twelve Days [Dodekahemeron] of the feast, there is general dispensation from fasting in the refectory, except on the Paramony [Eve] of Theophany, on which, if it falls on a Saturday or Sunday, wine and oil are permitted.
 
-### The 26th Day. The Synaxis of the Most Holy Theotokos [Violakis, p. 273]
+**The 26th Day. The Synaxis of the Most Holy Theotokos [Violakis, p. 273]**
 
 9.    On that same Friday evening, after the Introductory Psalm [Psalm 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing the 4 Idiomela of the Feast: **"Come, let us rejoice in the Lord"** (*Δεῦτε ἀγαλλιασώμεθα*) in 6 (repeating the first two). **"Glory... Both now and ever..."**: **"Glory to God in the highest"** (*Δόξα ἐν ὑψίστοις Θεῷ*). Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Great Prokeimenon in Tone 7: **"Who is so great a God as our God? Thou art the God Who doest wonders"** (*Τίς Θεὸς μέγας ὡς ὁ Θεὸς ἡμῶν; Σὺ εἶ ὁ Θεὸς ὁ ποιῶν θαυμάσια*, Ps. 76:14 LXX) with its verses. At the Aposticha: the Idiomela: **"A marvelous mystery"** (*Παράδοξον μυστήριον*) and the other two; **"Glory... Both now and ever..."**: **"In Bethlehem the shepherds hastened"** (*Ἐν Βηθλεὲμ συνέδραμον ποιμένες*). The Dismissal Troparion: **"Thy Nativity, O Christ our God"** (thrice), and Dismissal.
 10.    On Saturday at Matins: after Psalm 50 [LXX], the Trisagion Prayers, the Dismissal Troparion: **"Thy Nativity, O Christ our God"**, and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): **"Thy Nativity, O Christ our God"** (thrice); then the daily Psalter (without the Polyeleos); the two Kathismata: **"Come, let us see, ye faithful"** (*Δεῦτε ἴδωμεν, πιστοί*) and **"Why art thou filled with wonder, O Mary?"** (*Τί θαυμάζεις, Μαριάμ;*); and Psalm 50 [LXX] recited plain; both Canons without verses, as yesterday. After the Third Ode, the...[^203]
@@ -192,7 +192,7 @@ Introit (Entrance Hymn): **"From the womb before the morning star have I begotte
 
 === LEAF p289 ===
 
-# December 26: Matins Concluded & Liturgy / Sunday after Nativity & St. Stephen
+## December 26: Matins Concluded & Liturgy / Sunday after Nativity & St. Stephen
 
 ## Ὄρθρος καὶ Θεία Λειτουργία τῆς Συνάξεως (Συνέχεια) [Violakis, p. 274]
 
@@ -202,7 +202,7 @@ Introit (Entrance Hymn): **"From the womb before the morning star have I begotte
 ---
 ⁵ Ἐν ἄλλαις ἡμέραις (ἐκτὸς δηλονότι τῆς συμπτώσεως τῆς ἑορτῆς ταύτης ἐν Σαββάτῳ ἢ Κυριακῇ), Ἀπόστολος λέγεται *Ἀδελφοί, ὁ ἁγιάζων καὶ οἱ ἁγιαζόμενοι* καὶ Εὐαγγέλιον *Ἀναχωρησάντων τῶν Μάγων*.
 
-### Κυριακὴ μετὰ τὴν Χριστοῦ Γέννησιν, καὶ τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου [Violakis, p. 274]
+**Κυριακὴ μετὰ τὴν Χριστοῦ Γέννησιν, καὶ τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου [Violakis, p. 274]**
 
 12.    Τῷ αὐτῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν ἀναστάσιμα Στιχηρὰ δ΄, τῶν Θεοπατόρων τὸν Θεοπάτορα πάντες γ΄ καὶ τοῦ ἁγίου Στεφάνου γ΄, *Δόξα* *Μνήμην ἐπιτελοῦμεν*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, *Φῶς ἱλαρὸν*, καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρὰ, *Δόξα* τοῦ Ἁγίου *Πρῶτος ἐν Μάρτυσιν ἐδείχθης*, *Καὶ νῦν* *Χορεύουσιν Ἄγγελοι*, Ἀπολυτίκια τὸ Ἀναστάσιμον, τοῦ Ἁγίου, τὸ *Εὐαγγελίζου Ἰωσὴφ* καὶ Ἀπόλυσις.
 
@@ -210,16 +210,16 @@ Introit (Entrance Hymn): **"From the womb before the morning star have I begotte
 
 === LEAF p290 ===
 
-# December 26: Matins Concluded & Liturgy / Sunday after Nativity & St. Stephen
+## December 26: Matins Concluded & Liturgy / Sunday after Nativity & St. Stephen
 
 ## Matins and the Divine Liturgy of the Synaxis (Concluded) [Violakis, p. 275]
 
 Hypakoe recited plain; after the Sixth Ode, the Kontakion: **"He Who was begotten of the Father before the morning star"** (*Ὁ πρὸ Ἑωσφόρου Πατρὸς ἐκλάμψας*), the Ikos, and the Synaxarion of the Feast. The Katavasiai: **"He saved the people"** (*Ἔσωσε λαόν*); then the Ninth Ode of both Canons with their Megalynaria, and the Katavasia: **"Easier for us would it be"** (*Στέργειν μὲν ἡμᾶς*). The Exapostilarion: **"Our Savior, the Dayspring from on high, hath visited us"** (*Ἐπεσκέψατο ἡμᾶς*) thrice. At the Praises: the 4 Idiomela: **"Be glad, O ye righteous"** (*Εὐφραίνεσθε, δίκαιοι*); **"Glory"**: **"Today the invisible nature"** (*Σήμερον ἡ ἀόρατος φύσις*); **"Both now and ever"**: **"Today Christ is born in Bethlehem of the Virgin"** (*Σήμερον ὁ Χριστὸς*) up to the cue words **"and we cry aloud without ceasing: Glory to God in the highest, and on earth peace, good will among men."** (Note: the concluding phrase of the above Theotokion is sung by the choir as the opening proclamation of the Great Doxology); after which we sing the Dismissal Troparion: **"Thy Nativity, O Christ our God"** (*Ἡ γέννησίς σου*).
 11.    In the Divine Liturgy: the Antiphons of the Feast as yesterday. Introit (Entrance Hymn): **"From the womb before the morning star have I begotten Thee"** (*Ἐκ γαστρὸς πρὸ Ἑωσφόρου ἐγέννησά σε*, Ps. 109:3 LXX). The Dismissal Troparion: **"Thy Nativity, O Christ our God"**, and the Kontakion: **"Today the Virgin gives birth unto Him Who is transcendent in essence"** (*Ἡ Παρθένος σήμερον*). Instead of the Trisagion: **"As many of you as have been baptized into Christ have put on Christ. Alleluia"** (*Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε*, Gal. 3:27). The Epistle of the Saturday after the Nativity of Christ: **"O my son Timothy, follow after righteousness"** (*Τέκνον Τιμόθεε, δίωκε δικαιοσύνην*, 1 Tim. 6:11–16; note: the Greek text has "Titus", which is a typographical error for 1 Timothy 6:11–16); and the Holy Gospel likewise: **"At that time, great multitudes followed Jesus"** (*Τῷ καιρῷ ἐκείνῳ ἠκολούθησαν τῷ Ἰησοῦ ὄχλοι πολλοί*, Matt. 12:15–21). At the Megalynarion: **"Magnify, O my soul... Easier for us would it be"** (*Στέργειν μὲν ἡμᾶς*). Communion Verse: **"The Lord hath sent redemption unto His people. Alleluia"** (*Λύτρωσιν ἀπέστειλε Κύριος τῷ λαῷ αὐτοῦ*, Ps. 110:9 LXX); the Dismissal Troparion: **"Thy Nativity, O Christ our God"**, and Dismissal.
 
-*Note.* On other days (that is, outside the occurrence of this Feast on a Saturday or Sunday), the Epistle read is: **"Brethren, both He that sanctifieth and they who are sanctified are all of one"** (*Ἀδελφοί, ὁ ἁγιάζων καὶ οἱ ἁγιαζόμενοι*, Heb. 2:11–18); and the Holy Gospel: **"When the wise men had departed"** (*Ἀναχωρησάντων τῶν Μάγων*, Matt. 2:13–23).
+*Note.* On other days (that is, outside the occurrence of this Feast on a Saturday or Sunday), the Epistle read is: **"Brethren, both He that sanctifies and they who are sanctified are all of one"** (*Ἀδελφοί, ὁ ἁγιάζων καὶ οἱ ἁγιαζόμενοι*, Heb. 2:11–18); and the Holy Gospel: **"When the wise men had departed"** (*Ἀναχωρησάντων τῶν Μάγων*, Matt. 2:13–23).
 
-### Sunday after the Nativity of Christ, and the Holy Protomartyr and Archdeacon Stephen [Violakis, p. 275]
+**Sunday after the Nativity of Christ, and the Holy Protomartyr and Archdeacon Stephen [Violakis, p. 275]**
 
 12.    On that same Saturday evening, following the Introductory Psalm [Psalm 103 LXX] and the First Kathisma of the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 4 Resurrection Stichira, 3 of the Holy Forefathers [David, Joseph, and James]: **"Come, let us all praise the Ancestor of God"** (*Τὸν θεοπάτορα πάντες*), and 3 of Saint Stephen; **"Glory"**: **"Let us celebrate the memory"** (*Μνήμην ἐπιτελοῦμεν*); **"Both now and ever"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrection Stichira; **"Glory"** of the Saint: **"Thou wast shown to be the first among martyrs"** (*Πρῶτος ἐν Μάρτυσιν ἐδείχθης*); **"Both now and ever"**: **"The Angels dance in chorus"** (*Χορεύουσιν Ἄγγελοι*). Dismissal Troparia: the Resurrection Dismissal Troparion, that of Saint Stephen, that of the Holy Forefathers: **"Proclaim the wonders, O Joseph"** (*Εὐαγγελίζου, Ἰωσήφ*), and Dismissal.[^204]
 

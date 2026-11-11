@@ -91,7 +91,7 @@ Thou alone of earthborn mortals hast been shown forth as salvation, having borne
 
 Put away all sorrow, O Adam and Eve! For the Mother of Joy most gloriously blossoms forth today from a barren woman.
 
-*Glory, both now, the same Podoben:*
+*Glory, both now, the same Podoben (Подо́бенъ то́йже):*
 
 The temple of God, the only Birthgiver of God, comes forth from a barren and unbearing woman; and Adam rejoices, crying aloud.
 

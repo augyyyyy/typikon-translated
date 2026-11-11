@@ -173,7 +173,7 @@ In abstinence and afflictions, and in many vigils and fervent prayers, thou dids
 When the pious emperor formerly sinned, thou didst boldly rebuke him as Nathan rebuked David, O all-blessed Ambrose; thou didst openly impose a holy excommunication, and having instructed him in God-befitting repentance, thou didst reunite him unto thy flock.[^49]
 
 *Other Stichera of the Birthgiver of God (if Alleluia is sung, these stichera are sung first).*
-*Tone and Podoben the same:*
+*Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 By the oil of thine intercession, O pure Birthgiver of God, drive away the bestial passions of my wretched soul, and guiding me peaceably from hence unto life...
 
 
@@ -187,10 +187,10 @@ As thou art the helper of helpless men, as thou art the hope of all the hopeless
 *Troparion:*
 Extinguish with divine dew, by thy willing raining, O Virgin, the fiery surges of my soul-destroying passions; that I also, like the youths, may give thanks unto God Who was born of thee, and glorify and bless thy grace, O Birthgiver of God.
 
-*Glory... and now and ever, of the same, in the same tone and podoben:*
+*Glory... and now and ever, of the same, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having slipped by corrupt ways, I lie prostrate, and flee unto thy calmness, O Virgin; from the adverse storm and manifold temptations deliver me, that I may unceasingly sing of thy grace, O Birthgiver of God, Ever-virgin Mother.
 
-*Staurotheotokion, Podoben the same:*
+*Staurotheotokion, Podoben the same (Подо́бенъ то́йже):*
 Standing by the Cross of thy Son and God, and beholding His long-suffering, the pure Mother said, weeping: Woe is me, O sweetest Child! Why dost Thou suffer these things unjustly, O Word of God, that Thou mayest save mankind?
 
 *At the Aposticha, from the Octoechos.*

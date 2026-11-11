@@ -47,7 +47,7 @@ Recovered all 10 concelebration and altar layout diagrams that were missing or c
 ## 4. Phase 2 Remediation & Certification Milestone (2026-09-28)
 
 ### A. 100% Footnote Bijectivity Across Entire Deliverable Corpus
-- **Definitions in Master Footnotes File**: Exactly **786** canonical definitions in [`Final_footnotes.txt`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/Final_footnotes.txt).
+- **Definitions in Master Footnotes File**: Exactly **786** canonical definitions in [`Final_footnotes.txt`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/Final_footnotes.txt).
 - **Missing Definitions**: **0** across all Markdown and Text deliverables.
 - **Orphaned Anchors**: **0** across all Markdown and Text deliverables.
 - **Bijectivity Score**: **100% (786 / 786)** in both `Final/` and `Final MD/`.
@@ -62,7 +62,7 @@ Recovered all 10 concelebration and altar layout diagrams that were missing or c
 - **Monotonicity Metric**: **0 backward jumps** across all deliverable parts.
 
 ### C. Zero Vocabulary Matrix Violations (25 Master Drift Groups)
-- Audited the entire deliverable corpus against [`vocabulary_standardization_matrix.md`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Final/vocabulary_standardization_matrix.md).
+- Audited the entire deliverable corpus against [`vocabulary_standardization_matrix.md`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Final/vocabulary_standardization_matrix.md).
 - Automated remediation of 58+ regressions:
   - All instances of `irmos` / `irmoi` replaced with canonical ***Heirmos*** / ***Heirmoi***.
   - All instances of `prokeimena` replaced with canonical ***Prokimena***.
@@ -103,7 +103,7 @@ Recovered all 10 concelebration and altar layout diagrams that were missing or c
   - Investigated all 67 internal reference tokens (`[→REF:p...]`) across the corpus.
   - Confirmed that every token corresponds to specific page cross-references in the published 2010 edition layout (e.g. `here on p. 254`, `here on pp. 26-27`, `here, on p. 385`).
 - **Deterministic Concordance Resolution**:
-  - Built [`scratch/build_page_index.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/scratch/build_page_index.py) mapping all 67 citations to their exact target deliverable file, section heading, and GFM anchor slug.
+  - Built [`scratch/build_page_index.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/scratch/build_page_index.py) mapping all 67 citations to their exact target deliverable file, section heading, and GFM anchor slug.
   - In `Final MD/`: Converted every citation into a clickable, rich markdown hyperlink (e.g. `[p. 254](#9-annunciation-on-great-thursday)` or cross-file link `[pp. 26-27](Final_Dolnytsky_part2_general_rubrics.md#order-of-great-compline)`).
   - In `Final/`: Stripped the artificial bracketed tokens `[→REF:...]`, leaving clean, authentic plain text matching the printed book without markup artifacts.
   - Handled external citations cleanly (e.g. unlinking Bishop Pelesh's *Pastoral Theology*, p. 334).
@@ -153,22 +153,22 @@ Recovered all 10 concelebration and altar layout diagrams that were missing or c
   - **Internal Reference Tokens**: **0 unresolved tokens**
   - **Anti-Pattern Searcher**: **Zero newly introduced violations**
 - **Artifact Shipment to Typikon Coded Hub**:
-  - Executed [`scratch/ship_to_hub.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/scratch/ship_to_hub.py).
+  - Executed [`scratch/ship_to_hub.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/scratch/ship_to_hub.py).
   - Copied all 8 TXT deliverables and 9 MD deliverables to `Typikon Coded/Data/Inbox/`.
   - Exported `deterministic_audit_report.md` and `deterministic_audit_report.json`.
-  - Authored comprehensive [`handoff_note.md`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Inbox/handoff_note.md).
-  - Updated global notice board at [`GLOBAL_ECOSYSTEM_STATE.md`](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_ECOSYSTEM_STATE.md).
+  - Authored comprehensive [`handoff_note.md`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Inbox/handoff_note.md).
+  - Updated global notice board at [`GLOBAL_ECOSYSTEM_STATE.md`](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/GLOBAL_ECOSYSTEM_STATE.md).
 
 ---
 
 ## 10. Ecosystem Master Lexicon Deployment, Three-Tier Crosswalk & Cross-Spoke Harmonization (2026-09-28)
 
 ### A. Centralized Single Source of Truth (SSOT) Architecture Deployed
-- **Master Lexicon Created**: Established [`Projects/Shared_Lexicon/master_liturgical_vocabulary.json`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Shared_Lexicon/master_liturgical_vocabulary.json), codifying the authoritative **Three-Tier Architectural Crosswalk**:
+- **Master Lexicon Created**: Established [`Projects/Shared_Lexicon/master_liturgical_vocabulary.json`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Shared_Lexicon/master_liturgical_vocabulary.json), codifying the authoritative **Three-Tier Architectural Crosswalk**:
   - **Tier 1 (Parish Front-End)**: Vernacular English and pastoral Kyivan transliterations (`Hymn of Light`, `Leave-taking`, `Post-feast`, `At Psalm 140`, `Irmos`, `Podoben`, `Samohlasen`).
   - **Tier 2 (Machine-Readable Database Slug)**: Normalized lowercase snake_case tokens (`exapostilarion`, `apodosis`, `afterfeast`, `stichera_lord_i_call`, `heirmos`, `podoben`).
   - **Tier 3 (Scientific Typikon Standard)**: Precise Byzantine Greek and synodal manual terminology (`Exaposteilarion`, `Apodosis`, `Afterfeast`, `Lord, I Call`, `Heirmos`, `Prosomoion`, `Idiomelon`, `Sluzhebnik`, `Tserkovne Oko`).
-- **Adjudication Decrees Published**: Codified binding rulings in [`Projects/Shared_Lexicon/adjudication_rules.md`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Shared_Lexicon/adjudication_rules.md):
+- **Adjudication Decrees Published**: Codified binding rulings in [`Projects/Shared_Lexicon/adjudication_rules.md`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Shared_Lexicon/adjudication_rules.md):
   - **Decree 1 (`Prokimenon` vs `Prokeimenon`)**: Adjudicated both as canonical Byzantine transliterations. Neither spoke may flag the other's form as an error; both map to Tier 2 slug `prokeimenon`.
   - **Decree 2 (`Heirmos` vs `Irmos`)**: `Heirmos` strictly enforced in Typikon; `Irmos` preserved in 10-year Royal Doors historical archives; Tier 2 slug `heirmos` bridges both.
   - **Decree 3 (`Apodosis` vs `Leave-taking`)**: `Apodosis` enforced in Typikon; `Leave-taking` on parish web; Tier 2 slug `apodosis` bridges both.
@@ -176,7 +176,7 @@ Recovered all 10 concelebration and altar layout diagrams that were missing or c
   - **Decree 6 (Doxology)**: Enforced Father Paul authentic Byzantine standard (*"...now and forever, and unto the ages of ages. Amen."*) for all future publications and compiled propers.
 
 ### B. Centralized Deterministic Linter Engine Built
-- Engineered [`Projects/Shared_Lexicon/lint_vocabulary.py`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Shared_Lexicon/lint_vocabulary.py):
+- Engineered [`Projects/Shared_Lexicon/lint_vocabulary.py`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Shared_Lexicon/lint_vocabulary.py):
   - Invariant root resolver finding `Projects/` across any folder depth.
   - O(1) exact-match and word-bounded regex tokenizers (`\b...\b`).
   - Context-aware exemption filters honoring verbatim historical citations in footnotes (e.g. `[^118]`, `[^143]`, `[^160]`, `[^211]`), comparative glossaries, and matrix documentation.
@@ -204,6 +204,6 @@ Recovered all 10 concelebration and altar layout diagrams that were missing or c
 - `lint_vocabulary.py --target "Translation/Final" --mode typikon`: **0 violations across all 10 files**.
 - `scratch/deterministic_auditor.py`: **0 Critical, 0 High, 0 Medium, 243 Low**.
 - `scratch/search_anti_patterns.py`: **0 new anti-patterns**.
-- Updated [`GLOBAL_ECOSYSTEM_STATE.md`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_ECOSYSTEM_STATE.md).
+- Updated [`GLOBAL_ECOSYSTEM_STATE.md`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/GLOBAL_ECOSYSTEM_STATE.md).
 
 

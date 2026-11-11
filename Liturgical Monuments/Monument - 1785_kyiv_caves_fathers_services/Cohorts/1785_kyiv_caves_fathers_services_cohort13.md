@@ -164,7 +164,7 @@ Appear unto us at this hour, O all-pure Virgin, and having received the supplica
 *(Left page — Folio 120 verso, running header: SERVICE TO THE VENERABLE ONES)*
 ...for we are thy servants, having thee as a swift protector and intercessor for our souls!
 
-*After the Polyeleos, Sessional Hymn, in the same Tone and Podoben:*[^590]
+*After the Polyeleos, Sessional Hymn, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*[^590]
 O locked garden of the Mother of God, sprout forth for us two unfading flowers, the martyrs, through whom monastics are filled with joy, and the marvelous monastery boasts; the people honor them with praises, receiving healing from their relics, and having them as fervent intercessors unto the Lord!
 
 *Glory... Both now... Of the Feast, or this Theotokion:*

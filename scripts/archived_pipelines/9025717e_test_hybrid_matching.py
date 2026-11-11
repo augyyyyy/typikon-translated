@@ -105,7 +105,7 @@ def main():
         })
         
     # Load Stamford blocks
-    stamford_path = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
+    stamford_path = r'c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
     blocks = parse_blocks(stamford_path)
     print(f"Parsed {len(blocks)} commemoration blocks from Stamford.")
     

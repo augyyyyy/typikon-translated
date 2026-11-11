@@ -3,7 +3,7 @@
 
 ## 1. Spoke Identity & Architectural Role
 * **Project Name**: `Translation`
-* **Physical Location**: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation`
+* **Physical Location**: `C:\Users\augus\Documents\Google Antigravity\Projects\Translation`
 * **Architectural Role in Ecosystem**: Primary Canonical Text Translation & Formatting Factory.
 
 ---

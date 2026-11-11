@@ -29,7 +29,7 @@ As man Thou appearedst in essence, not in phantasm; so as God by character of cr
 Be enlightened, O creation, for the Creator comes forward to be born in the cave on account of His ineffable mercy! Ye shepherds, go forth to meet Him with diligence, beholding a fearsome marvel! Come, ye Magi, holding gifts in your hands, and saying: Glory to the born King, glory to Him Who guided us on the way! Let us worship Him in the flesh as King of all!
 
 *Glory..., both now... Tone 4:*
-*Tone 4, Podoben: "Speedily anticipate" (Ско́рw предварѝ):*
+*Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 Divinely does all creation rejoice today; for Christ the Lord, the Son of God, is born of the pure Virgin, making all the human race immortal; and she has annulled the curse of our foremother Eve. Therefore, as unto our Benefactor, let us offer up a song!
 
 *After the second stichology, sessional hymn, Tone 6:*
@@ -124,7 +124,7 @@ Of a truth, a fearsome wonder passing understanding! He Who gives being unto all
 As the bride of Christ we praise thee, O virgin; as an honorable maiden we worthily revere thee. Therefore also in thy memory rivers of healings pour forth; for thou hast received grace, keeping the commandments of the Lord by the power of the Spirit!
 
 *Glory..., both now..., of the Forefeast, Tone 8:*
-*Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнw):*
+*Tone 8, Podoben: "That which was commanded mystically" (Повелѣ́нное та́йнѡ):*
 Celebrating the forefeast of the Nativity of Christ, let us the faithful keep festival; and let us all worthily go forth to meet Him, bringing the virtues like gifts, as did the Magi: to sing a new angelic song unto our God, born in Bethlehem without seed of the Virgin Handmaiden of God, Whom all creation glorifies!
 
 *Ode 4. Heirmos:*
@@ -328,7 +328,7 @@ Let all creation now rejoice brightly: the Theotokos comes to give birth unto Go
 *Tone 2, Podoben: "In the spirit in the sanctuary" (Дх҃омъ во ст҃или́щи):*
 Unto marvelous Chrysogonus shut up in prison Thou didst minister, O glorious Anastasia; and having obeyed his words, in God didst Thou finish the course of martyrdom; from Whom receiving the grace of healings, Thou healest infirmities![^247]
 
-*Glory..., both now..., of the Forefeast, the same Podoben:*
+*Glory..., both now..., of the Forefeast, the same Podoben (Подо́бенъ то́йже):*
 Let heaven rejoice and let the earth be glad! Be enlightened, O cave, and receive, O manger, Him Who created man with His hand, being born as an infant of the Virgin! Ye multitude of angels, cry aloud clearly: Glory to God in the highest!
 
 *At the Praises, stichera to 4, Tone 6:*
@@ -344,10 +344,10 @@ He Who worked wonders, striking Egypt, and rained down manna upon the senseless 
 
 He Who is from before, the Child, the King of the ages, is born willingly, and a Son is given unto us! Give ear, ye nations, and hear; understand, and submit yourselves: for God is with us, Who shall crush and destroy from the earth every kingdom and principality that has not obeyed Him![^249]
 
-*Glory..., the same Podoben:*
+*Glory..., the same Podoben (Подо́бенъ то́йже):*
 With a rod of iron shalt thou be pastured, O Judea, because thou hast not submitted, nor believed the prophets; for unto the begotten Son the Father gives the nations for an inheritance, and the possession of all the earth; but thee He shall cast away, O defiled murderer, because thou hast not submitted to cry aloud: Christ the King of Israel comes![^250]
 
-*Both now..., the same Podoben:*
+*Both now..., the same Podoben (Подо́бенъ то́йже):*
 Leap for joy, O David, for Christ comes from thy loins! Rejoice, O Jesse, for thy root has blossomed! From thy thigh, O Judah, the Lord comes, according to the prophecy of Balaam! Behold, ye nations, according to great Isaiah: Lo, the all-pure Virgin shall bring forth the Child Emmanuel![^251]
 
 *At the Aposticha, stichera, Tone 2:*

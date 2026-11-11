@@ -52,7 +52,7 @@ Each Kathisma is further subdivided into three sections designated **Stases** (*
 
 The Church maintains as its authentic, canonical witness of the Old Testament the ancient Septuagint (Greek / LXX) version, rather than the later Masoretic (Hebrew / MT) recension. For this reason, the canonical numbering and division of the Psalms in liturgical practice follows the Greek Septuagint numbering rather than the Masoretic numbering found in the King James Version and Western vernacular Bibles.
 
-### Chapter Divisions: Septuagint vs. Masoretic Text
+**Chapter Divisions: Septuagint vs. Masoretic Text**
 
 The Septuagint Greek version (LXX) is the authentic Old Testament text received and utilized by the Church. The LXX Psalter diverges in several respects from the Masoretic Text (MT), which forms the basis for the King James Version and most modern Western translations.
 

@@ -131,7 +131,7 @@
 *Stichos: Give ear to my words, O Lord, understand my cry. (Ps. 5:2)*
 
 *Reading from the Prophecy of Isaiah (Isa. 1:19–2:3):*[^616]
-Thus saith the Lord: "If ye be willing and obedient, ye shall eat the good of the land.
+Thus says the Lord: "If ye be willing and obedient, ye shall eat the good of the land.
 20. But if ye refuse and will not hear Me,
 21. the sword shall devour you; for the mouth of the Lord hath spoken these things. How is the faithful city of Zion become a harlot, which was full of judgment? Righteousness lodged in her, but now murderers!
 22. Your silver is not approved, your wine-merchants mix
@@ -140,7 +140,7 @@ Thus saith the Lord: "If ye be willing and obedient, ye shall eat the good of th
 === LEAF p227 ===
 
 ...judging not for the fatherless, neither taking heed unto the cause of the widow.
-24. Therefore thus saith the Master, the Lord of Sabaoth: "Ah, woe unto the strong ones in Israel! For My wrath against the adversaries shall not cease, and I will execute judgment on Mine enemies.
+24. Therefore thus says the Master, the Lord of Sabaoth: "Ah, woe unto the strong ones in Israel! For My wrath against the adversaries shall not cease, and I will execute judgment on Mine enemies.
 25. And I will bring My hand upon thee, and purge thee thoroughly unto purity; but the disobedient I will destroy, and I will take away from thee all the lawless, and all the proud.
 26. And I will restore thy judges as of old, and thy counselors as at the beginning; and afterward thou shalt be called the City of Righteousness, the faithful Mother-City."
 27. Zion: with judgment shall her captivity be saved, and with mercy.

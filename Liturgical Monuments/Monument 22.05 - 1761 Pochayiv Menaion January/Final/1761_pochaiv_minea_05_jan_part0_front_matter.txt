@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 5: January (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-5-january-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 5: January (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-5-january-pochaiv-lavra-1761"></a>
 
 [Title Page with typographical ornament border printed in cinnabar and black ink]
 
@@ -59,7 +59,7 @@ Sitting on a throne of fiery appearance in the highest with the unoriginate Fath
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 5: January (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-5-january-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 5: January (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-5-january-pochaiv-lavra-1761)**
 * **[MONTH OF JANUARY](1761_pochaiv_minea_05_jan_part1_month-of-january.md#month-of-january)**
 
 ---

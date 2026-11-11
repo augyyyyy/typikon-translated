@@ -41,5 +41,8 @@
   "unresolved_quarantines": 0,
   "cohort_retry_counts": {},
   "small_pause_gate_status": "MONUMENT_SEALED_AND_HANDED_OFF",
-  "active_blockers": []
+  "active_blockers": [],
+  "status": "completed",
+  "active_lease": false,
+  "updated_at": "2026-11-02T13:28:31.813844+00:00"
 }

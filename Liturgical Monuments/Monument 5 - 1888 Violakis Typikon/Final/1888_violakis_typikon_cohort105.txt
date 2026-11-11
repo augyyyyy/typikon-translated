@@ -60,7 +60,7 @@ Protestant communions do not classify these sacred books as canonical Scripture;
 
 **DIAKONIKON** (*διακονικόν, τό*; Slav. *Diakonik*): The Diakonikon is the sacred vestry and liturgical repository situated on the south side within the **SANCTUARY**, where sacred vessels, vestments, and liturgical appointments are stored. The holy icon traditionally enshrined here depicts either the Resurrection (**"The Resurrection"** / *῾Η ᾿Ανάστασις*) or the Extreme Humility of Christ (**"The Extreme Humility"** / *ἄκρα ταπείνωσις*). It is likewise in the Diakonikon that icons brought by the faithful for blessing remain deposited for forty days.[^593]
 
-### The PROTHESIS, the DIAKONIKON, and the SKEVOPHYLAKION
+**The PROTHESIS, the DIAKONIKON, and the SKEVOPHYLAKION**
 
 The **SANCTUARY** of the Church is the Holy of Holies, wherein man, through the grace of God, unites with the angelic hosts in offering unceasing thanksgiving and glory to our Heavenly Father. Notwithstanding its mystical transcendence, the Sanctuary functions with precise liturgical efficiency. Like the **NARTHEX** and the **NAVE**, the Sanctuary is architecturally disposed to serve the ritual actions of the clergy who officiate at the Divine Services.
 

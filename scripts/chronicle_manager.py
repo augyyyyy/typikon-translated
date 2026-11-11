@@ -77,6 +77,7 @@ class ChronicleManager:
             "## Chapter 2: The Two-Chat Stutter & The Inviolable Autonomous Execution Mandate",
             "## Chapter 3: The 591-Leaf Marathon, Table Sprawl, and The 10-Leaf Invariant",
             "## Chapter 4: The 400-Year Codicological Reorganization & Transmission Chain Scaling",
+            "## Chapter 5: The 3-Phase Bookend Hybrid Routing Architecture, `SGC-06` *Tabula Rasa* Law & Brain Control-Plane Compression",
             "## Today’s Lab Bench (The Present Horizon)",
             "## The Uncharted Horizon (Ledger of Intent)",
         ]
@@ -94,6 +95,8 @@ class ChronicleManager:
             "Monument 3: 1901 Mikita Typikon (Part I: Cohorts 1–11)",
             "Monument 3: 1901 Mikita Typikon (Part II: Cohorts 12–32)",
             "Monument 3: Mikita Grand Pause & Autopsy PA-004",
+            "Marker 2.0: SGC-02 / PE-HSG Anti-Potemkin Remediation",
+            "Marker 3.0: Brain Control-Plane & Progressive-Disclosure Overhaul",
         ]
 
         for marker in required_markers:

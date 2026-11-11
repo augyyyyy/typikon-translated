@@ -1002,7 +1002,7 @@ and taken away the reproach of Eve: Rejoice, O unwedded Virgin![^130]
 *Exapostilarion, Podoben: "In the Spirit in the sanctuary" (Дꙋ́хомъ въ ст҃и́лищи):*
 As one bodiless didst thou endure unendurable torments, O all-praised Acepsimas, glory of priests, together with marvelous Joseph and admirable Aeithalas the deacon, initiate of Christ's mysteries; at the pains of whose sufferings the ranks of the bodiless angels ever marvel![^131]
 
-*Glory, of Saint George, Podoben the same:*
+*Glory, of Saint George, Podoben the same (Подо́бенъ то́йже):*
 With streams of thy blood, O blessed one, thou didst quench the flames of deception, and didst utterly destroy the cruelty of the tormentors, and didst glorify Christ, O passion-bearer George. Therefore thou didst receive the crown of incorruption and life from the right hand of the Most High!
 
 *Theotokion:*
@@ -1393,13 +1393,13 @@ Nourished with the milk of faith, for the sake of many torments and sorrows, O G
 
 of faith, whereby thou didst obtain God, being now most perfectly deified![^211]
 
-*Sticheron 2, Podoben the same:*
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*
 Skilfully didst thou seek the Fountain of good things, the utmost of desirable things, O Episteme; with His brightnesses thou didst illumine both thy soul and thought, O divinely blessed one, and by steadfast resistances didst bring low the wily and ancient tormentor, O divine adornment of monastics, much-suffering martyr!
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 Two all-radiant luminaries of the noetic Orient shine forth by grace, and piously enlighten the whole creation with surpassing splendors of sufferings and divine ignitions of healings. Celebrating their all-radiant feast, let us glorify Christ Who sanctifies all for their sake!
 
-*Glory, Both now, Theotokion, Podoben the same:*
+*Glory, Both now, Theotokion, Podoben the same (Подо́бенъ то́йже):*
 Rejoice, enlightenment of souls, forgiveness of sinners, correction of the negligent! Rejoice, comfort and joy, helper of the afflicted! Rejoice, O good one, healing of infirm souls! Rejoice, reconciliation unto God and intercessor, as thou art holier than all the Seraphim, O pure one!
 
 *Stavrotheotokion:*
@@ -1561,13 +1561,13 @@ Thou art our weapon and wall, O Theotokos; thou art the protection of those who 
 *At "Lord, I have cried," stichera on 6, in Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*[^237]
 The God-proclaiming Paul ordains thee as an imitator, called by the same name and adorned with his ways, O all-blessed one, inflamed with piety, and courage of soul, and endurance of afflictions, and zeal, O champion of Orthodoxy; with whom thou art also now glorified together in the heavenly mansions.[^238]
 
-*Sticheron 2, Podoben the same:*
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*
 With the firm cords of thy dogmas, O father, hieromartyr, thou didst choke godless Arius and malignant Macedonius; and by the upright word of teaching thou didst confirm the multitudes of the Orthodox. Therefore, accepting thy most radiant confession, the Lover of mankind showed thee to be a partaker of the Kingdom.[^239]
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 When thou hadst finished the course and kept the faith, O blessed hierarch, Christ crowned thee with a radiant crown of righteousness, and adorned thy confession, O marvelous one. Therefore, having received the heavenly inheritance, pray unto the Savior for those who sing of thee![^240]
 
-*Sticheron 4, Podoben the same:*
+*Sticheron 4, Podoben the same (Подо́бенъ то́йже):*
 O all-blessed Paul, namesake of confession, having become a fervent defender of those who praise thee well: from every tribulation, from every sin, and the storm of passions, and torment do thou deliver them, as an unconquerable martyr and an acceptable hierarch; for thou hast acquired boldness before Christ our God!
 
 *Glory, in Tone 4, by Germanus:*[^241]
@@ -1775,21 +1775,21 @@ Beholding the Lamb stretched upon the Tree, the Ewe-lamb and Virgin in the midst
 *At "Lord, I have cried," stichera, in Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́блѧ въ мꙋ́ченицѣхъ):*[^277]
 A divinely chosen army, a sacred host, a divine assembly, a holy people, a God-inspired company of martyrs, a fair gathering, an unbreakable fellowship, truly were you shown to be, O praiseworthy ones, and worthy citizens of the heavenly metropolis: therefore as is meet you are called blessed!
 
-*Sticheron 2, Podoben the same:*[^278]
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*[^278]
 With Nicander let us honor Hesychius, Athanasius, Mamas, divine Barachius and Callinicus, Diogenes and Nicon, Longinus and Theodore, Valerius together with Xanthias, Theodulus and Callimachus, and Eugenius *(Fol. 29v)*
 
 and Eugenius; having all assembled, together with divine Diodochus and Ostrychius let us honor them![^279]
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 The good Hieron, glorious Epiphanius, Maximian together with Ducitius, Claudian and Theophilus, and divine Gigantius, and Dorotheus faithfully, and Theodotus let us sing, and Castricius and Anicletus together with Themelius, and Eutychius with one accord, witnesses of the truth!
 
 *Other Stichera of the Venerable One, in Tone 6, Podoben: "Having laid all aside" (Всѐ ѿло́жше):*[^280]
 Having laid aside all the irrationality of passions, and subjected the flesh unto the spirit, thou wast a rule of virtue, a confirmation of monastics, an image of fasters, an adornment of the venerable. And now thou beholdest the ineffable beauty of thy Creator, ever feeding upon the good things that are in heaven: assembled together in spirit, in the songs of sweet melodies we celebrate thy honorable and all-festal memory!
 
-*Sticheron 2, Podoben the same:*
+*Sticheron 2, Podoben the same (Подо́бенъ то́йже):*
 Having shaken off all the heavy burden of earth, and having calmed the turbulent surges of the flesh, O wise one, by thy breathings, thou didst remain unmoved by passions: as a pillar strengthened with spiritual armor by a valiant mind. And now thou hast truly obtained divine vision and brightness, and unto Him Whom thou didst desire hast thou passed over, delighting in His unending light, deified by adoption![^281]
 
-*Sticheron 3, Podoben the same:*
+*Sticheron 3, Podoben the same (Подо́бенъ то́йже):*
 Emulating Elijah, and John the Luminary, having loved the light, to keep silence in the mountains and deserts; ever learning divine walking with God, and advancing on the path of virtues: therefore thou didst reach the utmost desire, O all-wise one, and rejoicing thou standest before the tri-radiant light of the Trinity. From Whom directly receiving the divine ray, with boldness pray for our souls!
 
 *Glory, in Tone 6:*[^282]
@@ -2158,7 +2158,7 @@ Circling about the throne of the King of all, ever dancing in choir, O ranks of 
 *Verse: Praise Him, all His angels; praise Him, all His hosts.*[^315]
 God the Father Who is over all, together with the Only-Begotten Word and the Spirit, brought forth the powers of heavenly minds, formless and immaterial, as chanters of His Three-Sun glory!
 
-*Glory, and now, Theotokion, the same Podoben:*
+*Glory, and now, Theotokion, the same Podoben (Подо́бенъ то́йже):*
 Rejoice, O Virgin Birthgiver of God, in unison with Gabriel we cry aloud unto thee: for having received from above the most-divine joy, do thou fill all of us with joy!
 
 *Troparion, Tone 4:*
@@ -2585,10 +2585,10 @@ The maidens, having loved the Bridegroom and Lord, submitting unto thy teaching,
 
 mastered the passions, and were led in with thee, O Matrona, into the heavenly and divine bridal chamber, and now ever make merry!
 
-*Glory, and now, Theotokion, the same Podoben:*
+*Glory, and now, Theotokion, the same Podoben (Подо́бенъ то́йже):*
 O thou who didst contain in thy womb the uncontainable God, Who out of love for mankind became man, and took from thee our mortal compound, and manifestly deified it: despise me not, O all-pure one, who am now in sorrow; but swiftly have compassion, and deliver me from diverse enmities and from the harm of the evil one!
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When Thine ewe-lamb and Mother beheld Thee nailed upon the Cross, O Lord, she marveled and cried aloud: What is this sight, O most beloved Son? Is this what the faithless, most lawless assembly renders unto Thee, having enjoyed Thy many wonders? But glory to Thine ineffable condescension, O Master!
 
 *Troparion of the Martyrs, Tone 4:*[^382]
@@ -3884,7 +3884,7 @@ Even as Moses, thou didst receive the Law from the Lord, O Chrysostom, making wi
 
 Thou wast truly a herald of the divine kingdom, O golden-worded one, crying aloud: Repent, drowning all despair.
 
-*Glory, in the same Tone and Podoben:*
+*Glory, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Thou hast taught us to believe in the precious Trinity in one sovereignty: Father, Word, and Spirit, O Chrysostom our father.
 
 *Now and ever, Theotokion:*
@@ -4296,7 +4296,7 @@ Let us all praise the all-wise John, the most loud-voiced preacher of repentance
 *Now and ever... Theotokion:*
 O all-immaculate Virgin, my Lady and Sovereign Lady, entreat thy Son together with the glorious Chrysostom, that they who hymn thee may be delivered from all temptations, and obtain eternal blessings, O all-holy one; for thou canst do whatsoever thou wilt!
 
-*At the Praises, Stichera on 4. Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе):*[^575]
+*At the Praises, Stichera on 4. Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе):*[^575]
 A most honored vessel of the Divine Spirit wast thou, and a most sacred shepherd, an angel on earth, a pillar of the Church, and a foundation of dogmas, a surety of sinners, the divine consolation of the repentant, a provider for the poor, and the comfort of orphans, O John Chrysostom, intercessor for our souls!
 
 *Sticheron:*
@@ -4446,7 +4446,7 @@ Having hoped in thee, O most holy and pure one, let me not fall away from thy ex
 *Sessional Hymn, Tone 8, Podoben: "Of wisdom" (Премудрости):*[^609]
 A spiritual, teaching-bearing cloud hast thou truly appeared unto those upon the earth, watering our hearts mystically as a field; running through with the word, thou waterest the ends, and pourest forth a rain of myrrh from thy shrine. Therefore, having breathed into faithless hearts the fragrance of the Spirit, in which thou didst treasure up grace, O Apostle Philip: pray to Christ God that He may grant the remission of sins unto those who celebrate unto those who celebrate with love thy holy memory!
 
-*Glory... Podoben the same:*[^610]
+*Glory... Podoben the same (Подо́бенъ то́йже):*[^610]
 Thou didst cast down the deception of idols, having desired the passions of the Savior, O glorious Philip! Thou didst appear unto the world, pouring forth marvelous healings for all, and becoming an Apostle of the nations, O all-blessed one. Therefore we worthily honor thy memory, chanting praises: O Apostle of the Lord, pray to Christ God that He may grant the remission of sins unto those who celebrate with love thy holy memory!
 
 *Now and ever... Theotokion:*[^611]
@@ -4582,7 +4582,7 @@ O Mother of God, mediatress of all who pray unto thee: in thee do we take courag
 *Of the Holy Martyrs and Confessors Gurias, Samonas, and Abibus. Alleluia.*[^633]
 *Be it known that if the beginning of this Fast fall on a Saturday: on Friday evening, at "Lord, I have cried", Stichera of the saints on 6.*[^634] *If on a Sunday, Stichera first of the Octoechos, and of the saints, 3; Glory of the saints; Now and ever, Theotokion. At the Aposticha of the Octoechos, Glory of the saints; Now and ever, Theotokion. Evening, and at Matins, on "God is the Lord", Troparion of the saints; Glory... now and ever... Theotokion. On the other days, from Monday to Friday, we chant Alleluia, to honor the beginning of the holy Fast.*[^635]
 *At "Lord, I have cried", we chant Stichera first of the Theotokos, 3, and of the saints, 3; Glory... now and ever... Theotokion or Stavrotheotokion. Instead of the Prokeimenon, we chant Alleluia in Tone 6.*[^636] *At the Aposticha of the Octoechos, Glory... now and ever... Theotokion or Stavrotheotokion. At Matins, instead of "God is the Lord", we chant Alleluia and the Trinity Hymns; and after Ode 6, the Kontakion of the saints.*
-*At "Lord, I have cried", Stichera, Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе):*[^637]
+*At "Lord, I have cried", Stichera, Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе):*[^637]
 Abibus the all-wise, and Samonas the marvelous, and Gurias the glorious, having gathered a common choir for the faithful, now dance together with us in joy, O passion-bearers, and are glad! For unto the souls of the martyrs was this granted by God, clearly to behold what takes place here!
 
 *Sticheron:*
@@ -4591,7 +4591,7 @@ Having endured the pains of intolerable torments, and having valiantly suffered,
 *Sticheron:*
 Having put in at the untempestuous harbor, and at the immaterial life and calm haven, O passion-bearing martyrs, having fled unto the abode of dispassion, ye have now exchanged the earthly things, worthily receiving from God the rewards of labors and the honors of sufferings, O blessed ones!
 
-*Other Stichera of the Mother of God, Tone and Podoben the same.*
+*Other Stichera of the Mother of God, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 *If Alleluia, we chant these* Stichera first:*[^638]
 Rain down upon me, O Mother of God, the abyss of thy mercy, and water my heart which is scorched by the heat of passions, as thou art merciful, O Maiden; and grant, I pray thee, that I may unceasingly pour forth drops of compunction, whereby I may be vouchsafed comfort, O pure one, which they who have genuinely wept shall obtain!
 
@@ -4660,7 +4660,7 @@ He Who entered into thy womb, O most pure Mother of God, showed thee to be a fou
 *Sessional Hymn, Tone 8, Podoben: "Of wisdom" (Премꙋ́дрости):*[^650]
 Armed with the Cross of Christ, through it ye manfully cast down all the might of the tormentors, as champions of the faith: ye rebuked all the godlessness of idols, and fervently proclaimed the Holy Trinity! Therefore did ye worthily receive from Her the crowns of victory, as having lawfully suffered, O all-glorious passion-bearers: entreat Christ God, that He grant remission of sins unto those who celebrate with love your holy memory!
 
-*Glory... Tone 8, Podoben the same:*[^651]
+*Glory... Tone 8, Podoben the same (Подо́бенъ то́йже):*[^651]
 Having served Christ as martyrs, ye enslaved the deception of the tormentor, possessing an unenslaved soul and wisdom; for, wounded by faith in the Trinity, O all-praised ones, ye rebuked the inglorious glory of polytheism! Therefore as stars ye shine brightly in the world with the radiance of wonders, O blessed ones, all-lauded passion-bearers: entreat Christ God, that He grant remission of sins unto those who honor with love your holy memory!
 
 *Now and ever... Theotokion:*[^652]
@@ -4806,7 +4806,7 @@ When Christ called Thee unto His discipleship, O God-receiver, Thou didst eagerl
 
 *If the superior will to chant the Litiya: see the 14th day of this month.*[^679]
 
-*At the Aposticha, Stichera, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе):*[^680]
+*At the Aposticha, Stichera, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе):*[^680]
 With the trumpet of thy words thou didst gather men into the knowledge of God, O ever-hymned one; and having driven from the earth the assemblies of deception, thou didst direct the faithful into one single-mindedness: and thou prayest now, that those who ever perform with faith thy honorable memory may be delivered from corruption and misfortunes!
 
 *Verse: Their proclamation hath gone out into all the earth, and their words unto the ends of the universe.*[^681]
@@ -4894,7 +4894,7 @@ The theological trumpet of divinely-wise Matthew, uttering mightily, enlightened
 *Sessional Hymn, Tone 8, Podoben: "Of wisdom" (Премꙋ́дрости):*[^703]
 Unto all the ends of the earth hath the sound of thy wise words truly run, O all-praised Apostle of the Lord; clearly didst thou preach the vision of God unto all, and didst bring the folly of the nations unto understanding! Therefore, having driven away the darkness of idolatry, thou didst shine forth the light of knowledge unto those in darkness, O all-praised Matthew: entreat Christ God, that He grant remission of sins unto those who honor with love thy holy memory!
 
-*Glory... Podoben the same:*
+*Glory... Podoben the same (Подо́бенъ то́йже):*
 
 As a luminary of the Light and a disciple, as an eyewitness of the divine Word, we all praise thee, O Apostle of the Lord; for having spread thy nets of grace, thou dost catch rational fish by His command. Therefore the nations also were counted blessed, being guided by faith through the power of the Spirit, O all-praised initiate of heavenly mysteries: pray unto Christ God that He grant remission of sins unto those who honor with love thy holy memory![^704]
 
@@ -5000,13 +5000,13 @@ Without leaving the bosom of the beginningless Father, the beginningless Word, a
 *Exapostilarion, Tone 3, Podoben: "He hath visited us" (Посѣти́лъ ны̀ є҆́сть):*[^714]
 The glorious writer of the Gospel of Christ, divinely-acceptable Matthew, hath made known unto us divine benefactions; whom honoring with love, let us sing with harmonious praise!
 
-*Glory... Podoben the same:*[^715]
+*Glory... Podoben the same (Подо́бенъ то́йже):*[^715]
 Having wisely cast away the yoke of the tax office, thou didst follow Christ, O divinely-wise Matthew; and marvelously following in His footsteps, thou wast a partaker of His Kingdom, and a companion of His glory, and an initiate of ineffable mysteries!
 
 *Now and ever... Theotokion:*[^716]
 Thy all-holy hands, O Virgin Theotokos, with which thou didst bear the Creator, lift up in prayer for us unto Him, that He deliver us from all temptations of the devil, and vouchsafe us to obtain those good things to come, O all-hymned one!
 
-*At the Praises, Stichera on 4, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе):*[^717]
+*At the Praises, Stichera on 4, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе):*[^717]
 Thou didst shine forth, O Apostle, light-like as the sun, with the beams of the Spirit; and thou didst illumine the whole inhabited earth, O blessed one, with the knowledge of God, and didst drive away the gloom of polytheism O all-wise Matthew. Therefore today we celebrate thy most radiant and worthy-of-wonder festival, as a fountain of sanctification! *(Twice)*
 
 *Sticheron:*
@@ -5216,7 +5216,7 @@ Thou wast revealed, O Virgin, Mother of God, having beyond nature given birth in
 *Exapostilarion, Podoben: "Give ear, ye women" (Жены̀ ѹ҆слы́шите):*[^745]
 Thou didst shine forth with wonders, O wonderworker Gregory; thou didst deliver the idolater from corruption and demonic delusion, moving a stone by thy command; and having dried up a lake, thou didst stay a river. Therefore we all praise thee with one accord, O thrice-blessed one!
 
-*Theotokion, the same Podoben:*[^746]
+*Theotokion, the same Podoben (Подо́бенъ то́йже):*[^746]
 Rejoice, praise of the faithful! Rejoice, confirmation of the venerable! Rejoice, glory of the righteous! Rejoice, light of those in darkness! Rejoice, all-holy temple! Rejoice, paradise of God! Rejoice, dissolution of the curse, O blessed Mary!
 
 *At the Aposticha, stichera of the Octoechos, and of the saint, Tone 4:*
@@ -6076,7 +6076,7 @@ The fruit of the holy promise and most glorious, * the Theotokos in truth was re
 
 Nourished with heavenly bread, O Virgin, * faithfully in the temple of the Lord, * thou gavest birth unto the world's Bread of Life, the Word; * unto Whom, as an elect and all-immaculate temple, * thou wast mystically betrothed by the Spirit, * espoused unto God the Father.
 
-*Stichera of the Venerable Father, Tone 1, Podoben: The same:*
+*Stichera of the Venerable Father, Tone 1, Podoben: The same (Подо́бенъ то́йже):*
 Into the heavenly mansions with rejoicing thou didst make thy dwelling, * and standing with the angels, O father, * boldly before the throne of the Lord: * pray that forgiveness of sins and passions be granted * unto those who celebrate thy memory on earth!
 
 With the sickle of prayer, O father Gregory, * cutting down the thorns of passions, * and having tilled the soil of thy soul with the plow of abstinence, * thou didst cast into it the seeds of piety, * wherewith thou makest the fruits of healing grow for us.
@@ -6128,7 +6128,7 @@ Established by the divine beginning of wisdom, the fear of the Lord, thence by s
 Before conception thou wast sanctified unto God, O pure one, and having been born upon earth, thou art now brought as a gift unto Him, fulfilling the parental promise. In the divine temple, as being the divine temple, from infancy purely given over with bright candles, thou wast revealed as the receptacle of the unapproachable and divine Light. Great in truth is thy procession, O only Bride of God and Ever-Virgin!
 *Glory Both now, the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 4, and the Podoben the same:*
+*After the 2nd Kathisma, Sessional Hymn, Tone 4, and the Podoben the same (Подо́бенъ то́йже):*
 The temple of God, the most precious bridal chamber, goes forth with bright candles to dwell with rejoicing in the temple of God; and Zechariah rejoices over her, seeing the revelation of the sacred prophets clearly fulfilled, and he makes glad, and sings the forefestal song: Thy going forth proclaims joy, O Virgin Maiden!
 *Glory, Both now, the same.*
 
@@ -6614,7 +6614,7 @@ Ye ranks of virgins, * receive the pure Virgin, * brightly bearing torches, * in
 *Verse: They shall be brought in gladness and rejoicing, they shall be led into the temple of the King.*[^901]
 The bridal chamber of God the Word, * dwelling in the Holy of Holies, * receives noetic bread * from the hand * of the divine angel.
 
-*Glory, and now: Tone 2, Podoben: The same.*
+*Glory, and now: Tone 2, Podoben: The same (Подо́бенъ то́йже).*
 The Three-sunned Light, * having embraced thee with fire, O Theotokos, * in the temple of glory, * sends thee heavenly food, * magnifying thee.
 
 *Troparion, Tone 4:*
@@ -6808,7 +6808,7 @@ Unto the Son Who was begotten incorruptibly of the Father before the ages, and i
 *Tone 4, Podoben: "Joseph was astonished" (Оу҆диви́сѧ І҆ѡ́сифъ):*
 Cry aloud, O David: What is this present feast of her whom thou didst once sing in the book of the Psalms: Virgins shall be brought after her mystically unto the King, as His daughter, the Maiden of God and Virgin, and her companions shall be brought;[^920] and make it a marvelous and universal feast for those who cry: The Theotokos, the mediatress of salvation, has appeared unto us!
 
-*Glory, and now: Tone and Podoben the same.*
+*Glory, and now: Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 The immaculate ewe-lamb and undefiled bridal chamber, the Theotokos Mariam, is most gloriously led with joy into the house of God, whom the angels of God faithfully attend, and all the faithful ever call blessed, and thankfully sing unto her unceasingly with a loud voice: Thou art our glory and salvation, O all-immaculate one!
 
 *Ode 4, [First Canon]. Heirmos:*
@@ -7743,17 +7743,17 @@ Thou wast a sacred vessel of Christ, O father, a pillar of the Church, and a hav
 Having given birth unto the timeless Light, Who shone forth from the Father, enlighten my soul and mind, O Maiden, driving far from me the darkness of passions, that I may call thee blessed, the ever-blessed hope of the faithful.
 
 *Exapostilarion of Saint Amphilochius.*
-*Tone 2, Podoben: "With the disciples" (Uchenikom):*
+*Tone 2, Podoben: "With the disciples" (Оу҆ченикѡ́мъ зрѧ́щымъ):*
 Having become god by adoption[^1036] through the immaterial communion of the divine nature, O all-wise one, thou wast anointed by Angels as a hierarch of the divine clergy; mediating between the Creator and creation, O divinely receptive father Amphilochius. Therefore, celebrating thy memory, we hymn thee, being delivered by thy prayers from corruption and tribulations.
 
 *Glory, of Saint Gregory:*
 Having adorned thy life through asceticism, O wise father, thou didst appear as an honorable hierarch of the Church of Christ, O blessed Gregory, enlightening the Orthodox with the beams of thy teachings and with unutterable wonders. Therefore, ask by thy prayers salvation of soul for those who celebrate thy most holy dormition.
 
 *Both now, of the Feast.*
-*Tone 2, Podoben: "Hear, ye women" (Zheny uslyshite):*
+*Tone 2, Podoben: "Hear, ye women" (Жє́ны оу҆слы́шите):*
 Her whom of old the prophetic company foreannounced as the jar, the rod, the tablet, and the unquarried mountain: Mary, the Maiden of God, let us faithfully praise; for today is she led into the Holy of Holies to be brought up for the Lord.
 
-*Aposticha Stichera, Tone 2. Podoben: "O house of Ephratha" (Dome Evfrathov):*
+*Aposticha Stichera, Tone 2. Podoben: "O house of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*
 The partition of the cities hath truly been gilded with gold by the divine entrance of the Theotokos; and we on earth are now united with the heavenly ones.
 
 *Verse: The virgins that follow after her shall be brought unto the King; those near her shall be brought unto Thee.*
@@ -7778,14 +7778,14 @@ Thy priests shall be clothed with righteousness, and Thy venerable ones shall re
 
 *On the 24th Day of the Same Month: The Holy Great-Martyr Catherine, and the Holy Great-Martyr Mercurius:*
 
-*At "Lord, I have cried", Stichera of the Saint, Tone 1. Podoben: "Joy of the celestial ranks" (Nebesnykh chinov):*
+*At "Lord, I have cried", Stichera of the Saint, Tone 1. Podoben: "Joy of the celestial ranks" (Небє́сныхъ чинѡ́въ):*
 Today the city of Alexandria rejoices, wisely possessing thy swaddling-clothes in thy divine temple, O martyr. Therefore, we also piously celebrate thy venerable memory, O Catherine; pray thou for those who honor thee.
 
 Let us now celebrate the memory of Catherine; for she in truth valiantly cast down all the power of the enemy, both by word and by deed, and the opposition of the rhetors; but by her prayers deliver us, O God, from godless foes.
 
 Rejoice, all-glorious and venerable martyr Catherine; for on Mount Sinai, wherein Moses saw the unburnt bush, Christ, having now translated thy God-pleasing body, keeps it preserved even unto the time of His Second Coming.[^1037]
 
-*Other Stichera, of the Martyr [Mercurius], Tone 4. Podoben: "As one noble" (Yako dobla):*
+*Other Stichera, of the Martyr [Mercurius], Tone 4. Podoben: "As one noble" (Ꙗ҆́кѡ до́блѧ):*
 By the assistance of the Spirit, O passion-bearer Mercurius, having overcome the adversary as an invincible soldier, with the weapon of faith thou didst cut down myriads of spiritual Ethiopians;[^1038] and having lawfully accomplished thy contest, thou wast crowned together with all the sufferers, O most blessed great-martyr.
 
 From heaven an Angel was sent unto thee to heal thy wounds by the beck of the Divine Spirit; having been healed thereby, O right-renowned one, when thou wast pierced most fiercely with red-hot spikes, thou didst endure hanging and being stretched out, and being bound unto a heavy stone, and being bathed everywhere with thy blood, O martyr.
@@ -7798,7 +7798,7 @@ Let us run joyfully unto the festival of the divinely wise martyr Catherine, O l
 *Both now, Tone 8:*
 After thy birth, O Bride of God and Sovereign Lady, thou didst come into the temple of the Lord to be brought up in the Holy of Holies as consecrated. Then Gabriel also was sent unto thee, the all-immaculate one, bringing thee food. All the heavenly ones were astonished, beholding the Holy Spirit dwell within thee. Therefore, O all-pure and undefiled Mother of God, who art glorified in heaven and upon earth, save our race.
 
-*At the Aposticha, of the Feast, Tone 4. Podoben: "Joy of the celestial ranks" (Nebesnykh chinov):*
+*At the Aposticha, of the Feast, Tone 4. Podoben: "Joy of the celestial ranks" (Небє́сныхъ чинѡ́въ):*
 Come, all ye lovers of the feasts, let us honor with songs the only pure Theotokos and Virgin; for into the house of God is she led today to dwell brightly therein: the truly holiest temple of Christ, and the mediatress of joy and the mediatress of all joy.
 
 *Verse: The virgins that follow after her shall be brought unto the King; those near her shall be brought unto Thee.*
@@ -7826,12 +7826,12 @@ Thy martyr, O Lord, Mercurius, in his contest received an incorruptible crown fr
 
 *At Matins, at "God is the Lord", Troparion of the Feast, twice; and of Catherine, once. Glory, of the Martyr; Both now, of the Feast.*
 
-*After the 1st Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Kameni zapechatannu):*
+*After the 1st Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Ка́мени запеча́танꙋ):*
 Praise, O virgins! Celebrate, O mothers! Glorify, O peoples! Bless, O priests, the all-pure Mother of God! For being an infant in the flesh, she was of old brought into the temple, as the holiest temple of God. Therefore, celebrating a spiritual festival, let us hymn her as the protectress of the human race.
 
 *Glory, Both now, the same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Kameni zapechatannu):*
+*After the 2nd Kathisma, Sessional Hymn, Tone 4. Podoben: "When the stone was sealed" (Ка́мени запеча́танꙋ):*
 Being the Holy of Holies, O Theotokos, thou wast worthily brought to dwell in the Holy of Holies, as an animate ark of the Lord, and truly a divine dwelling-place of the Holy Spirit, O Virgin Mother. Therefore, He Who is Only-begotten unto the Father and co-essential with the Holy Spirit, even Thy Son, dwelt within thee without knowing man, deifying all humanity.[^1040]
 
 *Glory, Both now, the same.*
@@ -8287,7 +8287,7 @@ Today the animate temple of the holy glory of Christ our God, the only blessed a
 
 Thou art the preaching of the prophets, the glory of the apostles, and the boast of the martyrs, and the renewal of all earthborn, O Virgin Mother of God; for through thee have we been reconciled unto God. Therefore do we honor thine entry into the temple of the Lord, and with the angel do we all cry out to thee in song: "Rejoice!", O all-pure one, being saved by thy prayers.
 
-*Other Stichera of Saint Clement, Tone 2, Podoben:*
+*Other Stichera of Saint Clement, Tone 2, Podoben (Подо́бенъ):*
 
 *Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 Having become a branch of the vine of life, O father and hierarch, thou didst bring forth by the Spirit fair clusters of dogmas, O all-wise one, which ever drip the saving wine of divine knowledge and gladden the hearts of all the pious who truly honor thee, O God-bearing and all-blessed Clement.
@@ -8431,7 +8431,7 @@ As the saving gate and fair paradise, as the sacred cloud of the co-eternal Ligh
 *Kontakion of the Hieromartyrs, Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́лсѧ є҆сѝ дне́сь):*
 As the unshakable and divine towers of the Church, the divine pillars of piety, truly mighty, O all-praised Clement together with Peter: by your prayers preserve all.
 
-*Sessional Hymn of Saint Clement, Tone 8, Podoben: The same:*[^1074]
+*Sessional Hymn of Saint Clement, Tone 8, Podoben: The same (Подо́бенъ то́йже):*[^1074]
 Thou hast shone forth like a ray of the sun, and shinest ever brightly upon all the world by thy teachings, O God-proclaimed, light-bearing Clement, boast of martyrs.
 
 *Glory, of Saint Peter, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
@@ -8710,7 +8710,7 @@ From the holy promise, a glorious fruit, the Theotokos truly appeared unto the w
 
 Nourished by heavenly bread, O Virgin, faithfully in the temple of the Lord, thou didst bear unto the world the Bread of Life, the Word: unto Whom, as a chosen and all-undefiled temple, thou wast mystically betrothed in the Spirit, betrothed unto God and the Father.
 
-*And 3 of Saint Peter, Tone 4, Podoben: The same:*
+*And 3 of Saint Peter, Tone 4, Podoben: The same (Подо́бенъ то́йже):*
 The consubstantiality of the transcendent Trinity, as of an uncreated Unity, O all-wise, all-blessed one: thou didst cast down Arius, showing us the indivisibility of the Son, as being of the same Godhead with the Father and the Spirit.
 
 The murderous assault of the persecutors has ceased, the outpouring of blood has now come to an invisible end; both were sealed, O wise Peter, by thy sacred witness, as the flow of blood once ceased for Moses' child through the flint of Zipporah.[^1084]
@@ -8737,10 +8737,10 @@ O God-wise Alypius, Thou didst appear as a most great luminary, enlightening all
 
 Thou wast an unshakable pillar of monks, O wise one, standing firm upon a pillar, afflicted by heat and frost, and by many fasts. Therefore thou didst also receive the divine gifts of the Spirit, to heal sicknesses and to drive away the most cruel passions. And now pray thou that He grant unto our souls peace and great mercy.
 
-*Glory, both now, Theotokion, Podoben: The same:*
+*Glory, both now, Theotokion, Podoben: The same (Подо́бенъ то́йже):*
 Rejoice, bush unconsumed,[^1086] who truly didst bear the Angel of Great Counsel, our Joy! Rejoice, O Maiden, the good pleasure of the honorable Trinity! Rejoice, confirmation of earthly ones! Rejoice, who didst bud forth the untilled Ear of wheat of paradise, the King and Lord, having escaped the malice of that sprout!
 
-*Staurotheotokion, Podoben: The same:*
+*Staurotheotokion, Podoben: The same (Подо́бенъ то́йже):*
 When the ewe-lamb and undefiled Lady saw her Lamb upon the Cross having neither form nor beauty, "Woe is me!" she cried, lamenting: "Whither has Thy beauty set, O sweetest One? Where is Thy comeliness? Where is the beaming grace of Thy countenance, O my most beloved Son?"
 
 *Troparion of the Venerable One, Tone 1:*
@@ -9513,7 +9513,7 @@ For the sake of God and King of all, a numerous multitude being slaughtered perc
 
 Honored with a sevenfold decad, and thrice, O honorable one, a choir of hundreds of sufferers,[^1162] through faith thou didst overthrow the polytheistic deceit of the most lawless ones. Together with them thou wast crowned, having struggled valiantly, O Paramon, and rejoicing wast numbered with the choirs of the bodiless ones. Together with them pray thou that we be delivered from every affliction and misfortune, who honor thee and ever call thee blessed.
 
-*If the superior decide to sing "Alleluia", let him sing these stichera to the Theotokos first. Tone and Podoben the same:*
+*If the superior decide to sing "Alleluia", let him sing these stichera to the Theotokos first. Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 From the unoriginate Father, the timeless Son, for the sake of condescension and the salvation of men, being God became man, that He might now give Paradise unto the first-created; then also shall all nature be delivered from the deception of the serpent, and He shall save the fallen image, as the Benevolent Transformer; and her He made His Mother, a pure Birthgiver of Heaven, as being undefiled; whom, as an anchor and haven, we all call blessed.
 
 The incarnate Creator of all didst thou have within thy womb, O divinely-blessed one, Who restored man that fell of old through the transgression of the serpent. For thou didst bear God in the flesh ineffably for us, and didst deliver from corruption all nature that had grown old, through thy childbearing. Therefore we sing and glorify thy grace, O unwedded Virgin; cease not to pray that our souls may be saved.
@@ -9967,7 +9967,7 @@ Every mother, having given birth to a child, can no longer remain a virgin; but 
 *Sessional Hymn, Tone 8. Podoben: "Of wisdom:" (Премудрости:)*
 As the first-called of all the disciples, and eyewitness and minister of the Word, O Andrew the Apostle, we honor thee as is meet; for with unwavering faith thou didst warmly follow the Lamb Who takes away the sins of the world. Therefore thou didst also show thyself a partaker of His Sufferings, Who for our sake willingly endured death in the flesh. Therefore we cry unto thee: Pray to Christ God to grant remission of sins unto those who celebrate with love thy holy memory.
 
-*Glory, another Sessional Hymn, the same Tone and Podoben:*
+*Glory, another Sessional Hymn, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having overthrown the savage fury of idols, and desired the Sufferings of the Savior, O blessed Andrew, thou didst show thyself an Apostle, pouring forth miracles from heaven upon all, and thou wast a teacher of the nations, O all-blessed one. Therefore, worthily honoring thy memory, in hymns we glorify and faithfully magnify thee, O Apostle of the Lord. Pray to Christ God to grant remission of sins unto those who celebrate with love thy holy memory.
 
 *Both now, Theotokion:*
@@ -10251,7 +10251,7 @@ The three-hypostatic Nature and undivided Glory, praised in one Godhead unceasin
 *Both now, Theotokion:*
 Unto those who flee beneath thy lovingkindness in faith and devoutly worship thy Son, O Virgin Mother of God: beseech Him as God and Lord of the world to deliver them from corruption and dangers and every assault.
 
-*Exapostilarion, Podoben:*
+*Exapostilarion, Podoben (Подо́бенъ):*
 
 *Tone 2, Podoben: "In the Spirit in the sanctuary" (Духомъ во святилищи):*[^1227]
 Having found thee, O all-blessed one, the Word Who is supremely without beginning showed thee to be the First-called of all the apostles, O ever-memorable Andrew; and following in His steps, thou wast shown to be a guide of the wandering, leading them unto that heavenly,[^1228] divine pathway.
@@ -10305,7 +10305,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^12]: Psalm 132:1 (LXX).
 [^13]: In churches dedicated to Saints Cosmas and Damian, the Theotokos canon is appointed alongside both patristic canons to the saints, reaching an aggregate vigiliary ode-count of 14.
 [^14]: The Greek alphabetic acrostic of the first Canon: Σοφοὺς ἰατροὺς γηγενεῖς ᾄδειν χρεών ("It is fitting for earthly ones to hymn the wise physicians").
-[^15]: The acrostic of the second Canon, composed by Saint John of Damascus: ᾌσмаσι γεραίρω τοὺς σοφοὺς ἀναργύρους ("With hymns I honor the wise unmercenaries").
+[^15]: The acrostic of the second Canon, composed by Saint John of Damascus: ᾌσμασι γεραίρω τοὺς σοφοὺς ἀναργύρους ("With hymns I honor the wise unmercenaries").
 [^16]: First Kingdoms (1 Samuel) 2:1–2: The Prayer of Hannah (Third Canticle of the Old Testament).
 [^17]: Habakkuk 3:2: The Prayer of the Prophet Habakkuk (Fourth Canticle of the Old Testament).
 [^18]: Habakkuk 3:2: "O Lord, I have heard Thy report, and was afraid: I considered Thy works, and was amazed."
@@ -10340,7 +10340,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^47]: Luke 2:34–35: The prophecy of Righteous Symeon to the Virgin Mary: "Yea, a sword shall pierce through thine own soul also."
 [^48]: Psalm 67:36 (LXX).
 [^49]: The common Troparion of the Holy Persian Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, and Anempodistus (Tone 2).
-[^50]: The acrostic of the canon composed by Saint Theophanes the Branded: Τῶν σῶν με λιταῖς μαρτύρων δῆме σκέπε ("With the supplications of Thy martyrs, O choir, cover me").
+[^50]: The acrostic of the canon composed by Saint Theophanes the Branded: Τῶν σῶν με λιταῖς μαρτύρων δῆμε σκέπε ("With the supplications of Thy martyrs, O choir, cover me").
 [^51]: The classic Byzantine Heirmos of Ode 1 (composed by Saint John of Damascus for the Akathist and canon to the Theotokos), based on Psalm 44:2 (LXX): "My heart hath poured forth a good word."
 [^52]: Malachi 4:2: "The Sun of Righteousness."
 [^53]: 1 Kingdoms (1 Samuel) 2:1–3, Jeremiah 9:23–24: "Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches."
@@ -10449,7 +10449,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^156]: Heirmos of Ode 1 of the Canon of the Martyrs: Exodus 15:1ff (the Song of Moses).
 [^157]: Allusion to the dual consecration of Saint Nicander: the chrism of the episcopacy and the baptism of his own blood in martyrdom.
 [^158]: Classical theological antinomy of the Incarnation: He Who is uncircumscribed (*ἀπερίγραπτος*) in His divinity is circumscribed (*περιγραπτός*) in the flesh in the Virgin's womb.
-[^159]: Heirmos of Ode 3 of the Canon of Saint Joannicius: Based on the Heirmos *Тоὺς σοὺς ὑμνολόγους, Θεοτόκε*.
+[^159]: Heirmos of Ode 3 of the Canon of Saint Joannicius: Based on the Heirmos *Τοὺς σοὺς ὑμνολόγους, Θεοτόκε*.
 [^160]: Comparison of Saint Joannicius's mountain hesychasm on Mount Olympus to the Prophet Elijah on Mount Horeb (1 Kings 19 [LXX 3 Kings 19]).
 [^161]: Allusion to the Life of Saint Joannicius: his encounter with an ascetic maiden/nun who lived hidden in the mountains of Bithynia.
 [^162]: Metaphor of the golden lampstand from Exodus 25:31ff applied to the Mother of God bearing the Divine Light.
@@ -10473,7 +10473,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^180]: Reference to the Life of Saint Joannicius the Great: when an envious monk gave him a lethal poison in a cup, the Holy Great-Martyr Eustathius (Placidus) appeared to him, healed him, and delivered him from death.
 [^181]: Heirmos of Ode 6, Tone 4: *Prefiguring the three-day burial, the Prophet Jonah...*
 [^182]: Conclusion of the final troparion of Ode 6 from the preceding leaf (`Fol. 20v` / p42).
-[^183]: Greek *Nikandros* (Νίκанδρος) derives from *nikē* ("victory") and *anēr* / *andros* ("man"): "man of victory" (*тезоимени́тне мꙋ́жей*).
+[^183]: Greek *Nikandros* (Νίκανδρος) derives from *nikē* ("victory") and *anēr* / *andros* ("man"): "man of victory" (*тезоимени́тне мꙋ́жей*).
 [^184]: In the physical print, the initial letter *V* (*В*) is printed in rubricated display font above the black text *збранной*, indicating the classic model sticheron *Взбранной Воеводѣ* ("To thee, the champion leader").
 [^185]: Heirmos of Ode 7, Tone 4: *The divinely-wise worshipped not the creature...* (cf. Daniel 3).
 [^186]: Reference to Saint Joannicius founding monastic temples and cells on Mount Olympus in Bithynia.
@@ -10629,9 +10629,9 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^336]: Sessional Hymn after the first poetic kathisma, Tone 4, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се / Τὸν τάφον σου Σωτήρ).
 [^337]: Tone 4, Podoben: "The choir of angels" (Ли́къ а҆́гглскїй / Χορὸς ἀγγελικός).
 [^338]: Sessional Hymn after the second poetic kathisma, Tone 2, Podoben: "When Thou didst descend" (Е҆гда̀ снизше́лъ є҆сѝ / Ὅτε κατῆλθες).
-[^339]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε).
+[^339]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάλαβε).
 [^340]: Sessional Hymn after the Polyeleos, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости / Τὴν Σοφίαν καὶ Λόγον).
-[^341]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάлаβε).
+[^341]: Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ / Ταχὺ προκατάλαβε).
 [^342]: Prokeimenon at Matins, Ps. 103:4 LXX.
 [^343]: Ps. 103:1 LXX.
 [^344]: Matins Gospel: Matthew 13:24–30, 36–43 (pericope 52).
@@ -10849,23 +10849,23 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^556]: Tone 8, Podoben: "Of wisdom" (Премудрости).
 [^557]: Tone 8, Podoben: "Of wisdom" (Премудрости).
 [^558]: Sessional Hymn Theotokion in Tone 8.
-[^559]: *Ode 4, Tone 8. Heirmos:* "I have heard, O Lord, the mystery of Thy dispensation" (Оуслышахъ гди смотренiя твоего таинство), Heirmologion Tone 8, Ode 4.
+[^559]: *Ode 4, Tone 8. Heirmos:* "I have heard, O Lord, the mystery of Thy dispensation" (Оуслышахъ гди смотренія твоего таинство), Heirmologion Tone 8, Ode 4.
 [^560]: *Ode 4, Tone 8. Heirmos:* "Thou art my strength, O Lord" (Ты моя крепость гди), Heirmologion Tone 8, Ode 4 (Habakkuk 3:2–19).
-[^561]: *Ode 5, Tone 8. Heirmos:* "Enlighten us by Thy commandments, O Lord" (Просвети насъ повеленiи твоими гди), Heirmologion Tone 8, Ode 5 (Isaiah 26:9).
+[^561]: *Ode 5, Tone 8. Heirmos:* "Enlighten us by Thy commandments, O Lord" (Просвети насъ повеленіи твоими гди), Heirmologion Tone 8, Ode 5 (Isaiah 26:9).
 [^562]: *Ode 5, Tone 8. Heirmos:* "Why hast Thou cast me off from Thy face, O unwaning Light" (Вскую мя отринулъ еси), Heirmologion Tone 8, Ode 5.
-[^563]: *Ode 6, Tone 8. Heirmos:* "I will pour out my supplication unto the Lord" (Молитву пролiю ко гду), Heirmologion Tone 8, Ode 6 (Jonah 2:2–9).
+[^563]: *Ode 6, Tone 8. Heirmos:* "I will pour out my supplication unto the Lord" (Молитву пролію ко гду), Heirmologion Tone 8, Ode 6 (Jonah 2:2–9).
 [^564]: *Ode 6, Tone 8. Heirmos:* "Cleanse me, O Savior, for many are mine iniquities" (Очисти мя спасе), Heirmologion Tone 8, Ode 6.
 [^565]: Tone 6, Podoben: "Having fulfilled the dispensation for us" (Еже о насъ исполнивъ).
 [^566]: The Ikos of St. John Chrysostom alludes to 1 Samuel 2:30 ("them that glorify Me I will glorify").
-[^567]: *Ode 7, Tone 8. Heirmos:* "The Children that came down from Judea in Babylon of old" (От iудеи дошедше отроцы), Heirmologion Tone 8, Ode 7 (Daniel 3).
-[^568]: *Ode 7, Tone 8. Heirmos:* "The fire was abashed at God's condescension" (Бжiя снизхожденiя), Heirmologion Tone 8, Ode 7.
+[^567]: *Ode 7, Tone 8. Heirmos:* "The Children that came down from Judea in Babylon of old" (От іудеи дошедше отроцы), Heirmologion Tone 8, Ode 7 (Daniel 3).
+[^568]: *Ode 7, Tone 8. Heirmos:* "The fire was abashed at God's condescension" (Бжія снизхожденія), Heirmologion Tone 8, Ode 7.
 [^569]: *Ode 8, Tone 8. Heirmos:* "The King of heaven, Whom the angelic hosts hymn" (Царя нбнаго), Heirmologion Tone 8, Ode 8.
 [^570]: *Ode 8, Tone 8. Heirmos:* "Sevenfold did the Chaldean tormentor furiously kindle the furnace" (Седмерицею пещь), Heirmologion Tone 8, Ode 8 (Daniel 3:19).
 [^571]: *Ode 9, Tone 8. Heirmos:* "Truly we confess thee to be the Birthgiver of God" (Воистинну бцу тя исповедуемъ), Heirmologion Tone 8, Ode 9.
 [^572]: *Ode 9, Tone 8. Heirmos:* "Heaven was stricken with awe at this" (Ужасеся о семъ небо), Heirmologion Tone 8, Ode 9.
 [^573]: Tone 2 (or Tone 3), Podoben: "In the Spirit in the sanctuary" (Духомъ во святилищи).
 [^574]: Tone 2, Podoben: "Give ear, ye women" (Жены услышите).
-[^575]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе).
+[^575]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе).
 [^576]: Liturgical idiomelic sticheron composed by Anatolius of Constantinople (9th c.).
 [^577]: Liturgical rubric directing the chanting of the Beatitudes with troparia from Ode 3 of both canons (4 troparia) and Ode 6 of both canons (4 troparia).
 [^578]: Liturgy Prokeimenon, Tone 4 (Psalm 48:3, LXX).
@@ -10879,14 +10879,14 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^586]: Rubric directing the reader to the common readings for an apostle located at November 4 (or 1 Peter 1:3–9, 1:13–19, and 2:11–24).
 [^587]: Tone 1, Podoben: "As one valiant" (Яко добля).
 [^588]: Doxastikon of the Apostle Philip at the Litiya in Tone 2.
-[^589]: Theotokion at the Litiya in Tone 2: "All my hope do I place in thee" (Все упованiе мое).
+[^589]: Theotokion at the Litiya in Tone 2: "All my hope do I place in thee" (Все упованіе мое).
 [^590]: Tone 1, Podoben: "Joy of the heavenly hosts" (Небныхъ чиновъ).
 [^591]: The verse for the Aposticha ("Their proclamation hath gone out into all the earth...", Psalm 18:4, LXX) continues on physical leaf p151 of Cohort 16.
 [^592]: Psalm 18:4 (LXX).
 [^593]: Psalm 18:1 (LXX).
 [^594]: Doxastikon of the Apostle Philip at the Aposticha in Tone 2.
 [^595]: Theotokion at the Aposticha, Tone 2: "O new wonder! Greater than all ancient wonders" (Ѡ чудесе новагѡ).
-[^596]: Troparion of the Holy Apostle Philip, Tone 3: "O holy Apostle Philip, entreat the merciful God" (Ап̃ле ст̃ый Фiлiппе).
+[^596]: Troparion of the Holy Apostle Philip, Tone 3: "O holy Apostle Philip, entreat the merciful God" (Ап̃ле ст̃ый Філіппе).
 [^597]: Alternative Troparion of the Holy Apostle Philip, Tone 3: "The universe is adorned, Ethiopia dances" (Благоукрашается вселенная). Alludes to Psalm 67:31 (LXX): "Ethiopia shall stretch out her hand unto God."
 [^598]: Theotokion in Tone 3: "Thee, who didst mediate the salvation of our race" (Тя ходатайствовавшую).
 [^599]: Tone 4, Podoben: "Thy tomb, O Savior" (Гробъ твой).
@@ -10903,13 +10903,13 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^610]: Tone 8, Podoben: "Of wisdom" (Премудрости).
 [^611]: Sessional Hymn Theotokion in Tone 8.
 [^612]: *Ode 4, Tone 6. Heirmos:* "Christ is my power, God and Lord" (Хр̃тосъ моя сила бг̃ъ и гд̃ь), Heirmologion Tone 6, Ode 4 (Habakkuk 3).
-[^613]: *Ode 5, Tone 6. Heirmos:* "With Thy divine light, O Good One" (Бж̃iимъ свѣтомъ твоимъ бл̃же), Heirmologion Tone 6, Ode 5 (Isaiah 26:9).
+[^613]: *Ode 5, Tone 6. Heirmos:* "With Thy divine light, O Good One" (Бж̃іимъ свѣтомъ твоимъ бл̃же), Heirmologion Tone 6, Ode 5 (Isaiah 26:9).
 [^614]: *Ode 6, Tone 6. Heirmos:* "Jonah was swallowed, yet was not held fast" (Ятъ бысть, но не удержанъ), Heirmologion Tone 6, Ode 6 (Jonah 2).
 [^615]: Tone 8, Podoben: "As first-fruits" (Яко начатки).
 [^616]: The Ikos of the Apostle Philip alludes to Psalm 103:2 ("Who coverest Thyself with light as with a garment").
 [^617]: *Ode 7, Tone 6. Heirmos:* "The Children in Babylon feared not the flame of the furnace" (Отроцы въ вавѷлонѣ), Heirmologion Tone 6, Ode 7 (Daniel 3).
-[^618]: The printed text reads `Антiнскую` (a phonetic variant of `Аттинскую` / `Аѳинскую`, referring to Attic/Athenian philosophy and sophistry).
-[^619]: *Ode 8, Tone 6. Heirmos:* "Braving danger for the ancestral laws" (За законы ѻтеческiя), Heirmologion Tone 6, Ode 8 (Daniel 3:19–20).
+[^618]: The printed text reads `Антінскую` (a phonetic variant of `Аттинскую` / `Аѳинскую`, referring to Attic/Athenian philosophy and sophistry).
+[^619]: *Ode 8, Tone 6. Heirmos:* "Braving danger for the ancestral laws" (За законы ѻтеческія), Heirmologion Tone 6, Ode 8 (Daniel 3:19–20).
 [^620]: *Ode 9, Tone 6. Heirmos:* "It is impossible for men to see God" (Бг̃а человѣкомъ невозможно видѣти), Heirmologion Tone 6, Ode 9.
 [^621]: Tone 2 (or 3), Podoben: "In the Spirit in the sanctuary" (Духомъ во святилищи).
 [^622]: Tone 8, Podoben: "O most marvelous wonder" (Ѡ преславнагѡ чудесе).
@@ -10927,7 +10927,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^634]: Rubric for the eve of the Nativity Fast.
 [^635]: Liturgical rubric governing the chanting of Alleluia on weekdays during the Nativity Fast (the "Philip's Fast"), reflecting the penitential Lenten structure of Matins.
 [^636]: At weekday Vespers with Alleluia, the Lenten Alleluia in Tone 6 replaces the daily Prokeimenon.
-[^637]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе).
+[^637]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе).
 [^638]: Lenten Penitential Theotokia chanted at "Lord, I have cried" when Alleluia is appointed during the Fast.
 [^639]: Tone 4, Podoben: "As one valiant" (Яко добля).
 [^640]: Idiomelic Doxastikon of the Holy Martyrs Gurias, Samonas, and Abibus in Tone 2.
@@ -10945,14 +10945,14 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^652]: Sessional Theotokion in Tone 8: "As a Virgin and the only one among women" (Ꙗ҆́кѡ дв҃ꙋ и҆ є҆ди́нꙋ въ жена́хъ).
 [^653]: Sessional Stavrotheotokion in Tone 8: "Beholding upon the Cross the Lamb and Shepherd" (А҆́гнца и҆ па́стырѧ и҆ и҆зба́вителѧ).
 [^654]: *Ode 4, Tone 4. Heirmos:* "Beholding Thee, the Sun of Righteousness, lifted up upon the Cross" (Вознесе́на тѧ̀ ви́дѣвши це́рковь на крⷭ҇тѣ̀), Heirmologion Tone 4, Ode 4 (Habakkuk 3).
-[^655]: *Ode 5, Tone 4. Heirmos:* "Thou, my Lord, hast come into the world as a light" (Ты́ гдⷭ҇и мо́й свѣ́тъ въ мíръ прише́лъ є҆сѝ), Heirmologion Tone 4, Ode 5 (Isaiah 26:9).
-[^656]: *Ode 6, Tone 4. Heirmos:* "I will sacrifice unto Thee with the voice of praise" (Пожрꙋ́ ти со гла́сомъ хвале́нiя), Heirmologion Tone 4, Ode 6 (Jonah 2:9).
+[^655]: *Ode 5, Tone 4. Heirmos:* "Thou, my Lord, hast come into the world as a light" (Ты́ гдⷭ҇и мо́й свѣ́тъ въ мі́ръ прише́лъ є҆сѝ), Heirmologion Tone 4, Ode 5 (Isaiah 26:9).
+[^656]: *Ode 6, Tone 4. Heirmos:* "I will sacrifice unto Thee with the voice of praise" (Пожрꙋ́ ти со гла́сомъ хвале́нія), Heirmologion Tone 4, Ode 6 (Jonah 2:9).
 [^657]: Alludes again to the deliverance of the maiden Euphemia from the grave by the holy martyrs of Edessa.
 [^658]: Kontakion of the Holy Martyrs Gurias, Samonas, and Abibus in Tone 2, Podoben: "Seeking the highest" (Вы́шнихъ и҆щѧ̀).
 [^659]: Ikos of the Holy Martyrs Gurias, Samonas, and Abibus.
-[^660]: *Ode 7, Tone 4. Heirmos:* "In the Persian furnace the children of Abraham" (Въ пещѝ а҆враа́мстiи ѻ҆́троцы), Heirmologion Tone 4, Ode 7 (Daniel 3).
+[^660]: *Ode 7, Tone 4. Heirmos:* "In the Persian furnace the children of Abraham" (Въ пещѝ а҆враа́мстіи ѻ҆́троцы), Heirmologion Tone 4, Ode 7 (Daniel 3).
 [^661]: Refers to the divine retribution visited upon the perjured Gothic mercenary who broke his oath sworn before the martyrs' relics and entombed Euphemia.
-[^662]: *Ode 8, Tone 4. Heirmos:* "Stretching out his hands, Daniel shut the lions' mouths" (Рꙋ́цѣ распросте́ръ данiи́лъ), Heirmologion Tone 4, Ode 8 (Daniel 6 and 3).
+[^662]: *Ode 8, Tone 4. Heirmos:* "Stretching out his hands, Daniel shut the lions' mouths" (Рꙋ́цѣ распросте́ръ даніи́лъ), Heirmologion Tone 4, Ode 8 (Daniel 6 and 3).
 [^663]: *Ode 9, Tone 4. Heirmos:* "A cornerstone was cut out without hands from thee, the unhewn mountain, O Virgin" (Ка́мень нерꙋкосѣ́чный), Heirmologion Tone 4, Ode 9 (Daniel 2:34, 45).
 [^664]: Exapostilarion of the Holy Martyrs Gurias, Samonas, and Abibus, Tone 3, Podoben: "Heavens with stars" (Не́бо ѕвѣ́здами).
 [^665]: Exapostilarion Theotokion in Tone 3.
@@ -10970,7 +10970,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^677]: Dogmatic Theotokion in Tone 4: "He Who for thy sake was a prophet, David the ancestor of God" (И҆́же тебѐ ра́ди бг҃ооте́цъ пррⷪ҇къ дв҃дъ).
 [^678]: The Old Testament readings for an Apostle at Vespers are the same as those appointed on November 14 (Feast of the Holy Apostle Philip): 1 Peter 1:1–12; 1 Peter 1:13–2:6; and 1 Peter 2:11–24.
 [^679]: Rubric for the chanting of Litiya hymns from November 14 if authorized by the superior.
-[^680]: Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе).
+[^680]: Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе).
 [^681]: Prokeimenon verse at the Aposticha (Psalm 18:4, LXX).
 [^682]: Prokeimenon verse at the Aposticha (Psalm 18:1, LXX).
 [^683]: Doxastikon of the Holy Apostle Matthew at the Aposticha in Tone 6.
@@ -11007,7 +11007,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^714]: Exapostilarion of the Holy Apostle Matthew, Tone 3, Podoben: "He hath visited us" (Посѣти́лъ ны̀ є҆́сть).
 [^715]: Second Exapostilarion of the Holy Apostle Matthew, Tone 3, Podoben the same.
 [^716]: Exapostilarion Theotokion in Tone 3.
-[^717]: Stichera at the Praises, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менiе).
+[^717]: Stichera at the Praises, Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́меніе).
 [^718]: Idiomelic Doxastikon of the Holy Apostle Matthew at the Praises in Tone 2, by Byzantios.
 [^719]: Theotokion at the Praises in Tone 2.
 [^720]: Prokeimenon at the Liturgy, Tone 8 (Psalm 18:4, LXX).
@@ -11104,7 +11104,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^811]: Heirmologion, Tone 4, Ode 8.
 [^812]: Heirmologion, Tone 5, Ode 9.
 [^813]: Heirmologion, Tone 4, Ode 9.
-[^814]: Melodic model: *While the disciples looked on* (Оу҆ченикѡ́мъ зрѧ́щымъ / Ἀκουόντων τῶν μαθητῶν / Τοῖς μαθηтаῖς συνέλθωμεν).
+[^814]: Melodic model: *While the disciples looked on* (Оу҆ченикѡ́мъ зрѧ́щымъ / Ἀκουόντων τῶν μαθητῶν / Τοῖς μαθηταῖς συνέλθωμεν).
 [^815]: Melodic model: *Having set aside all* (Всѐ ѿло́жше / Ὅλην ἀποθέμενοι).
 [^816]: The Dogmatikon Theotokion of Tone 6 (Кто̀ тебѐ не оу҆блажи́тъ, прест҃а́ѧ дв҃о / Τίς μὴ μακαρίσει σε, Παναγία Παρθένε).
 [^817]: Wisdom of Solomon 3:1-9.
@@ -11333,7 +11333,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^1040]: *Obgotvoriv vse chelovechestvo* — another explicit witness to the doctrine of deification (*theosis*), affirming that by the Incarnation Christ deified human nature.
 [^1041]: The Slavonic acrostic reflects the Greek acrostic: Αἰκατερίναν τὴν ἀείμνηστον μέλπω. Θεοφάνους.
 [^1042]: Cf. 1 Tim. 6:20 ("oppositions of science falsely so called" / *lzheimennago znaniya* / ψευδωνύμου γνώσεως).
-[^1043]: Slavonic acrostic representing the Greek: Μερκουρίου με καρтеρία σκέποι. Ἰωσήφ ("May the steadfastness/strength of Mercurius shelter me. By Joseph [the Hymnographer]").
+[^1043]: Slavonic acrostic representing the Greek: Μερκουρίου με καρτερία σκέποι. Ἰωσήφ ("May the steadfastness/strength of Mercurius shelter me. By Joseph [the Hymnographer]").
 [^1044]: Cf. Ps. 44:10 (LXX) / Ps. 45:9: "The queen stood at thy right hand in vesture of gold".
 [^1045]: A typical patristic antitype contrasting Eve, through whom transgression entered humanity, with Mary the Theotokos, through whom restoration and incorruption blossom.
 [^1046]: Sessional Hymn of St. Catherine: "Having loved thy Bridegroom, Christ..." (Жениха твоего Хрїста возлюбившы). The imagery of the wise virgin preparing her lamp reflects Matthew 25:1-13.
@@ -11350,7 +11350,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^1057]: Ode 9 Troparion 3 of the Feast: The liturgical catalogue of Old Testament typological figures of the Theotokos: the Golden Urn / Jar of Manna (стамну), the Ark of the Covenant (кївотъ), the Temple Veil (катапетасму), Aaron's Rod (жезлъ), the Indestructible Temple, and the Closed Gate (Ezekiel 44:2).
 [^1058]: Ode 9 Troparion 4 of the Feast: Davidic typology from Psalm 44:10, 14-15 [LXX] / 45:9, 13-14 ("The queen stood at Thy right hand in gold of Ophir... all the glory of the king's daughter is from within").
 [^1059]: Ode 9 Troparion 1 of St. Catherine: St. Catherine presented iconographically and hymnographically bearing her virginal bridal lamp in her right hand and her severed head in her left hand.
-[^1060]: Ode 9 Theotokion: "Whom the Father poured forth from His heart before all ages..." Allusion to Psalm 44:2 [LXX] / 45:1 (Ἐξηρεύξαто ἡ καρδία μου λόγον ἀγαθόν / Отрыгну сердце мое слово благо).
+[^1060]: Ode 9 Theotokion: "Whom the Father poured forth from His heart before all ages..." Allusion to Psalm 44:2 [LXX] / 45:1 (Ἐξηρεύξατο ἡ καρδία μου λόγον ἀγαθόν / Отрыгну сердце мое слово благо).
 [^1061]: Tone 3 Podoben "Дꙋхо́мъ во ст҃или́щи" (In the Spirit in the sanctuary) from the Sunday Matins Exapostilaria.
 [^1062]: The printed text has "Возжиза́ема" (or "Возгнуша́ема") "мꙋдрова́нїемъ женъ, ѿ [= Ѽ] дв҃о єкатерї́но". Other recensions read: "Возгнуша́вшися мудрова́нія женъ" (having spurned the [frail] mind of women).
 [^1063]: Authorship rubric: Babylas the Monk (Вавѵ́ла мона́ха), 8th/9th-century hymnographer.
@@ -11480,7 +11480,7 @@ Receive, O Bethlehem, the metropolis of God; for the unwaning Light comes to be 
 [^1187]: 1 Peter 1:18–2:6. This passage forms the first Paremia at Great Vespers for the Feast of the Holy Apostle Andrew the First-Called (November 30). In Ruthenian and Byzantine liturgical usage, New Testament Apostolic Epistles are appointed as readings for major feasts of the Apostles.
 [^1188]: 1 Peter 2:21–3:9 (Pericope 58), the second Paremia at Great Vespers for the Holy Apostle Andrew.
 [^1189]: 1 Peter 4:1–11 (Pericope 61), the third Paremia at Great Vespers for the Holy Apostle Andrew.
-[^1190]: Slavonic: *Твореніе маvла*, referring to the Byzantine hymnographer Maurus (or Maruthas).
+[^1190]: Slavonic: *Твореніе маѵла*, referring to the Byzantine hymnographer Maurus (or Maruthas).
 [^1191]: Slavonic: *Андреа їеролимитянина: или Анатоліево* (attributed either to St. Andrew of Jerusalem [Crete] or Anatolius).
 [^1192]: Slavonic: *Германово*, Doxasticon by Patriarch Germanus of Constantinople.
 [^1193]: The Troparion of St. Andrew, Tone 4.

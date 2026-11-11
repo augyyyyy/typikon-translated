@@ -129,7 +129,7 @@ As from afar didst thou shine forth unto those in darkness, being light-bearing,
 *Glory... now and ever... Theotokion:*
 Having been entreated, O Queen of all, by the supplications of thine honored Athanasius, keep thy flock inviolate from every opposition, which ever prays unto thee, the protectress of the world.
 
-*At the Praises, stichera on 4. Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*At the Praises, stichera on 4. Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 Precious indeed in Thy sight, O Christ, was the death of Thy venerable one;[^108] for lo, from his foot Thy pleasing servant poured forth a fountain of blood,[^109] driving away every disease even after death, and driving out the spirits of wickedness...
 
 === LEAF p55 ===
@@ -327,7 +327,7 @@ Having been illustrious of old in worldly life with wealth and power, O venerabl
 *Sticheron:*
 By a pillar of fire visibly did God guide thee unto salvation, O father,[^138] unto the calm haven and unto the mountain of dispassion; and by thy prayer thou didst pour forth water, and granted sight unto the blind, and swift running unto the lame!
 
-*Other Stichera of Saint Acacius. Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кw до́блѧ):*
+*Other Stichera of Saint Acacius. Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 By temperance thou didst mortify the wisdom of the flesh, and didst quicken thy soul through fasting and the perfection of virtues; whence also thou wast revealed as truly alive after thy death: for death was accounted as sleep unto thee when thou didst pass over unto God, and didst commit thy soul into His hands, O glorious Acacius![^139]
 
 *Sticheron:*

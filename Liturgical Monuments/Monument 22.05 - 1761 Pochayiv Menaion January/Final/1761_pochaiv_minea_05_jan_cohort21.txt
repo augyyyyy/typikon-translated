@@ -102,7 +102,7 @@ Adorned, O father, with the God-given anointing of the priesthood, thou didst ma
 === LEAF p204 ===
 ...radiant with divine virtues of excellence and divine obedience unto Christ; and having finished thy course, thou criest aloud in the heavens with the angels: Glory to Thy compassion, O Savior; glory to Thy kingdom; glory to Thy dispensation, O Thou Who alone art the Lover of mankind!
 
-*Both now... of the Feast, the same Tone and Podoben:*
+*Both now... of the Feast, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Unto Him Who was born of the Virgin Mary, and baptized in the Jordan by John: the Spirit descended upon Him, seen in the form of a dove. Therefore the Prophet with the angels cried aloud, saying: Glory to Thy coming, O Christ; glory to Thy kingdom; glory to Thy dispensation, O Thou Who alone art the Lover of mankind!
 
 *Canon of the Feast. Ode 4. Heirmos:*

@@ -82,13 +82,13 @@ Having overthrown the snares of the enemy by the power of the Almighty, thou did
 *Theotokion:*
 Having ineffably conceived Him Who shone forth from the Father without a mother, thou didst bear Him, O Mother of God, all-hymned pure Virgin: pray, O most holy one, unto thy Son and our God for thy servants.
 
-*Exapostilarion. Tone 2, Podoben: "Give ear, ye women" (Zheny uslyshite):*
+*Exapostilarion. Tone 2, Podoben: "Give ear, ye women" (Жє́ны оу҆слы́шите):*
 Having received the light of the consubstantial Trinity in thy heart, O Theodosius, father of fathers: thou didst enlighten the pious, being strengthened in the cave with the great Anthony, one of the same kin with the angels; with them, remember those who hymn thee with faith. (Twice)
 
 *Glory... Both now... of the Feast.*
 
 *At the Praises, Stichera on 4, Tone 2:*
-*Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 Being completely wounded with faith and the love of Christ, O blessed one: following Him, thou didst renounce the world, thy homeland, and thy lineage; running unto the venerable Anthony, from whom thou wast instructed in ineffable things which ear hath not heard, and which entered into thy heart; with him we sacredly hymn thee, honoring thee, O Theodosius. (Twice)
 
 *Sticheron:*
@@ -123,7 +123,7 @@ O venerable father, the sound of thy right deeds hath gone forth into all the ea
 ## May 4. Holy Venerable-Martyr Pelagia
 
 *Stichera, Tone 2:*
-*Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 When by the divine nod thou wast catechized by divine words, O blessed one, like a glorious, fertile earth thou didst receive the spiritual seed into the furrows of thy heart; and thou didst sprout a hundredfold ear of grain, which delights the hearts of all who faithfully honor thee with grace, O martyr, truly Pelagia!
 
 *Sticheron:*
@@ -172,11 +172,11 @@ O pure one, thou hast raised up my fallen image, having manifestly given birth u
 
 === LEAF p36 === (Fol. 18v)
 *Kontakion of the Saint, Tone 3:*
-*Tone 3, Podoben: "Today the Virgin" (Deva dnes):*
+*Tone 3, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 Having despised temporal things, and become a partaker of heavenly good things, receiving a crown because of suffering, O all-honorable Pelagia: as a gift thou didst offer streams of blood unto Christ the Master; pray unto Him to deliver us from afflictions who honor thy memory!
 
 *Then, the Sessional Hymn, Tone 4:*
-*Tone 4, Podoben: "Thy Tomb, O Savior" (Grob tvoy Spase):*
+*Tone 4, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й Сп҃се):*
 Having kindled thy soul with the love of Christ, thou didst enter courageously into the exceedingly kindled cauldron, O godly-wise Pelagia, and becamest a sweet-smelling sacrifice unto thy Master. Therefore celebrating thy all-holy memory today, we hymn thee.
 
 *Glory... Both now... of the Feast.*
@@ -267,7 +267,7 @@ Thou wast shown to be virgin and mother beyond nature, O Birthgiver of God, havi
 ## May 5. Holy and Glorious Martyr Irene
 
 *Stichera, Tone 4:*[^41]
-*Tone 4, Podoben: "O All-Praised Martyrs" (Vsekhvalnii muchenitsy):*
+*Tone 4, Podoben: "O All-Praised Martyrs" (Всехва́льнїи мч҃ницы):*
 Radiantly clothed in a purple robe from thine own blood, O all-honorable one, thou didst ascend unto the King, the Creator of all, and the Lord, Whom thou didst desire, from Whom thou didst truly receive a crown of victory; with Whom thou reignest now, as a virgin and much-suffering martyr.
 
 *Sticheron:*
@@ -317,7 +317,7 @@ A pillar of virtues unshaken, and a dwelling of piety didst thou become, and a r
 Death ran unto thee, O holy one, but was shattered against Him Who was born of thee, O all-immaculate one: therefore we name thee the beginning of immortality.
 
 *Kontakion, Tone 4:*
-*Tone 4, Podoben: "Thou Hast Appeared" (Yavilsya yesi):*
+*Tone 4, Podoben: "Thou Hast Appeared" (Ꙗ҆ви́лсѧ є҆сѝ):*
 Adorned with the beauties of virginity, O virgin Irene, by martyrdom thou wast most fair, stained with thy blood that flowed forth, having cast down the deception of godlessness; therefore...
 
 === LEAF p40 === (Fol. 20v)
@@ -325,7 +325,7 @@ Adorned with the beauties of virginity, O virgin Irene, by martyrdom thou wast m
 ...thou didst receive the honors of victory from the hand of thy Creator.
 
 *Sessional Hymn, Tone 8:*
-*Tone 8, Podoben: "Thou Hast Risen" (Voskresl yesi):*
+*Tone 8, Podoben: "Thou Hast Risen" (Воскре́слъ є҆сѝ):*
 Great peace accrued unto thee, O martyr, having been released from the flesh after many sicknesses; rejoicing, He received thee on high in the heavens, all-enlightened and radiant with suffering, and led thee rejoicing into the divine bridal chamber.
 
 *Glory... Both now... of the Feast.*

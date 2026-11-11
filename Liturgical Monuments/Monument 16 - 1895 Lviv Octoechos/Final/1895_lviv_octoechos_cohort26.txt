@@ -247,7 +247,7 @@ Let the heavens be glad, let the earth rejoice; for the Lord hath wrought...[^22
 *Resurrectional Troparion (continued):* ...might with His arm; He hath trampled down death by death; He became the firstborn of the dead; He hath delivered us from the belly of Hades, and hath granted great mercy unto the world.[^2296]
 
 *Glory... both now... Theotokion:*
-Thee who didst mediate the salvation of our race, do we hymn, O Virgin Theotokos! For in the flesh assumed from thee, Thy Son and our God, having through the Cross accepted the Passion, delivered us from corruption, as the Lover of mankind.[^2297]
+Thee who didst mediate the salvation of our race, do we hymn, O Virgin Theotokos! For in the flesh assumed from thee, thy Son and our God, having through the Cross accepted the Passion, delivered us from corruption, as the Lover of mankind.[^2297]
 
 *On Saturday at Compline.*
 *Canon to the Most Holy Theotokos.*

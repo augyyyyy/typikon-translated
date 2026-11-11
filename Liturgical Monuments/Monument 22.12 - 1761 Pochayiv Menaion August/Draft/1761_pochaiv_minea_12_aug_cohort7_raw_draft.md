@@ -56,7 +56,7 @@ Showing the human transformation at Thy second and fearful coming with Thy glory
 
 *Glory... Both now... the same.*
 
-*After the 2nd Stichology, Sessional Hymn, Tone and Podoben the same:*[^140]
+*After the 2nd Stichology, Sessional Hymn, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*[^140]
 
 Thou wast transfigured upon Mount Tabor, O Jesus, and a bright cloud extending like a shadow covered the Apostles with glory; therefore also they fell prone upon the earth, unable to endure the vision of the brightness of the unapproachable glory of Thy face, O beginningless Savior, Christ God: O Thou Who didst then cause Thy light to shine upon them, illuminate our souls!
 

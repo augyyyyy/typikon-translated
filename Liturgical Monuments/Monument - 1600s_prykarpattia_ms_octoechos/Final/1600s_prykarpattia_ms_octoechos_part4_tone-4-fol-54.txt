@@ -54,7 +54,7 @@ Ascending the Cross, O Lord, Thou didst wipe away our ancestral curse; and desce
 
 Hanging upon the Tree, O only Mighty One, all creation [p60LA] Thou didst shake, O only Mighty One; and being laid in the tomb, Thou didst raise up those dwelling in the tombs, granting incorruption and life unto the human race; therefore, singing, we glorify Thy three-day arising.
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 *Sticheron:*
 
@@ -158,7 +158,7 @@ As unto the only existing Creator of all, the all-wise Sustainer and Helmsman, a
 
 *Theotokion:*
 
-Desiring to give life unto man who had grown old and corrupt of old, whom for the sake of goodness Thy Son created, O Virgin, and showing forth the image of the divine form, He became man from thee, and proclaimed the one Godhead in three Persons.
+Desiring to give life unto man who had grown old and corrupt of old, whom for the sake of goodness thy Son created, O Virgin, and showing forth the image of the divine form, He became man from thee, and proclaimed the one Godhead in three Persons.
 
 *Ode 6. Heirmos: Crying aloud, he prefigured the three-day burial...*
 
@@ -324,7 +324,7 @@ Arising came unto the dead on account of Thy putting to death; for strength was 
 
 [f. 61A] *Theotokion:*
 
-...Fair beyond the heavenly hosts was Thine animate divine temple, having borne in the womb, O Virgin, the holy Mountain of our God.
+...Fair beyond the heavenly hosts was thine animate divine temple, having borne in the womb, O Virgin, the holy Mountain of our God.
 
 *Another Canon to the Most Holy Theotokos, Heirmos: The captains of three ranks...*
 

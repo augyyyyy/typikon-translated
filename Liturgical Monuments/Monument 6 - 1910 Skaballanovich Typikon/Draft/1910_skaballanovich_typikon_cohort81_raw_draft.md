@@ -2,7 +2,7 @@
 ...(**"Having beheld the Resurrection of Christ"**), the refrains unto the concluding doxology of the psalm are not Sunday verses, but a prayerful turning in the spirit of the psalm in thought unto the foremost witnesses of the Resurrection and partakers of its joy—the Apostles and the Theotokos [^2492]: **"Glory: Through the prayers of the Apostles, O Merciful One, cleanse the multitude of our transgressions"**; **"Both now: Through the prayers of the Theotokos..."** The refrain unto the 1st verse of the psalm repeated here is the troparion in Tone 6: **"Jesus having risen from the grave..."** (*Voskres Iisus ot groba...*), which, with power in its conciseness and a certain victoriousness in its expressions and melody (an *idiomelon* in Tone 6), depicts both the external and the internal aspects of the commemorated event.
 *(Orig. p. 662)*
 
-### Their History (*Istoriya ikh*)
+**Their History (*Istoriya ikh*)**
 
 The present execution of Psalm 50 is the most integral remnant of the ancient manner of chanting for every psalm, when it was required to conclude each psalm with a doxology unto the Holy Trinity and to append a refrain unto every verse (Introductory Chapter, p. 157).
 
@@ -16,26 +16,26 @@ The Old Believer Typikon: "For the sake of the prayers... have mercy on us, O Go
 
 In the Kyiv-Pechersk Lavra: **"Through the prayers of the holy Apostles..."**, **"Through the prayers of the Most Holy Theotokos..."**
 
-### The Veneration of the Gospel (*Tselovanie Evangelia*)
+**The Veneration of the Gospel (*Tselovanie Evangelia*)**
 
 During Psalm 50 and the hymns surrounding it, the veneration (kissing) of the Gospel takes place. This is a powerful and at the same time childishly simple expression of joy, when one kisses even an inanimate object that has brought us joy. But the Holy Gospel is not merely such an object: it represents
 
 === LEAF p802 ===
 ...in itself, as does also the Cross, the Lord Himself, by its carrying out from the sanctuary as from the tomb signifying His appearance after the Resurrection. Therefore the kissing of the Gospel, as also veneration paid unto it, "passes to the Prototype" and serves as a greeting of the Savior upon His Resurrection. However, here too joy does not exceed bounds nor rise unto the boundlessness of Paschal joy, which expresses itself also in the mutual kissing among the faithful.
 
-### Origin of the Custom (*Vozniknovenie obychaya*)
+**Origin of the Custom (*Vozniknovenie obychaya*)**
 
 According unto the Sinai Kanonarion of the 9th–10th centuries, at Paschal Matins after the reading of the Gospel the priest brings out the latter unto the people and greets them; all kiss one another [^2496]. According unto a certain 13th-century Triodion at Paschal Matins it is indicated: "and they kiss the Holy Gospel, and the ektenia and dismissal" [^2497]; consequently, the Paschal greeting (*christosovanie*) here was reduced unto the veneration of the Gospel, as is now done at ordinary Sunday Matins.
 *(Orig. p. 663)*
 
-### The Order of Veneration (*Chin tselovaniya*)
+**The Order of Veneration (*Chin tselovaniya*)**
 
 The Typikon sets forth in detail the order for the veneration of the Gospel. The Gospel is brought out through the Holy Doors (as a sign of the glorification of Christ, whereas at entrances it is brought through the north door as a sign of humiliation—as are likewise the Cross and the Plashchanytsia [shroud]) by the priest, and not by the deacon; as at entrances, in an unloosed phelonion (see above, p. 551), the priest holding the Gospel at his breast (the deacon, as subordinate, holds it higher—before his face), as a sign of love for Christ. The priest is preceded, as at all entrances, by two candlesticks with candles. The priest halts in the midst of the church; the candlesticks are placed at his sides so that, burning before the Gospel, they do not hinder the kissing thereof. Unto the Gospel there first approaches the superior—in contrast unto the rest of the brethren, who approach in pairs—alone, and makes two bows before the Gospel prior to kissing it and one afterward: not prostrations to the ground, the Typikon notes parenthetically, but small bows (metanias), bowing the head so far as to touch the ground with the hand, because on Sunday, on Despotic feasts, and throughout the entire Pentecostarion knees are not bent (Canon 20 of the First Ecumenical Council is meant). After the veneration of the Gospel, the superior makes a slight bow ("a semblance of a bow") first toward the left choir, because he himself stands on the right side and can bow toward the right choir "as he departs unto his place." After the superior, the brethren approach the Gospel in pairs ("two by two") according unto seniority ("by rank")
 
 === LEAF p803 ===
 ...and bow before the Gospel just as the superior does, and in place of bows toward the choirs they make a bow toward the superior. The Typikon presumes the veneration to conclude together with Psalm 50: the chanting of the entire psalm would provide sufficient time for this.
 
-### Development of the Order (*Razvitie china*)
+**Development of the Order (*Razvitie china*)**
 
 Georgian and early Greek manuscripts merely mention the kissing (*aspasmos*, Gr. ἀσπασμός) of the Gospel. Later Greek manuscripts specify:
 
@@ -74,14 +74,14 @@ According unto the Hieratikon:
 
 After the Gospel the hierarch, if he is present, blesses the people with the Cross during the singing of *Eis polla* [Gr. Εἰς πολλὰ ἔτη]; when the choirs in chanting Psalm 50 reach the verse **"For behold, Thou hast loved truth..."** (*Se bo istinu vozlyubil...*), the priest carries out the Gospel unto the middle of the temple and presents it for veneration unto the hierarch or the present priest, and in order unto all the people, and then places it upon the *proskynetarion* [Gr. προσκυνητάριον] and enters the sanctuary; moreover, during the kissing of the Gospel by the hierarch the 1st choir sings *Eis polla*, the 2nd sings the specified verse slowly, and the hierarch blesses the people with his right hand [^2505].
 
-### "Save, O God" (*Spasi Bozhe*)
+**"Save, O God" (*Spasi Bozhe*)**
 
 Every psalm or group of psalms must have following it a prayer in the form of an ektenia or another form. Psalm 50,
 
 === LEAF p805 ===
 ...in accordance with its exceptional position at this part of Matins, likewise has following it a prayer in a distinctive form—that of a truncated litiya ektenia. Such a prayer, so fitting also unto this place in Matins—the conclusion (cf. at Vespers) of one of its parts—is the prayer **"Save, O God, Thy people"** (*Spasi, Bozhe, lyudi Tvoya*), which, like an ektenia, is proclaimed by the deacon "at the customary place" and has a priestly exclamation. Unto this brief "litiya" the response, naturally, is not "Lord, have mercy" dozens of times, but only 12 times. And the exclamation here (**"Through the mercy and compassions and love for mankind..."** [*Milostiyu i shchedrotami i chelovekolyubiem...*]), more so than in simpler ektenias, appeals unto the mercy of God, designating the latter—*(Orig. p. 665)* like the exclamation at the most sacred part of the Divine Liturgy (after the Our Father)—by three synonyms (only here with "mercy," whereas there, in view of the Mystery being accomplished, with "grace"), and naming the Persons of the Holy Trinity with special distinctness. The prayer, as well as the exclamation, boldly addresses God the Father directly in the Name of His Son.
 
-### According unto Ancient Typika (*Po starym ustavam*)
+**According unto Ancient Typika (*Po starym ustavam*)**
 
 In place of the prayer **"Save, O God,"** certain 16th-century Georgian manuscript Euchologia appoint after the Gospel and Psalm 50 an entire ektenia (a remnant of the most ancient practice).
 
@@ -105,12 +105,12 @@ Slavic Typika of the 14th century: *Kyrie eleison* [^2508].
 
 With the Kanon begins—or rather, the Kanon constitutes—the third of the four parts of Matins, completely different in character from the other parts, especially from the preceding second part. As that part consisted primarily *(Orig. p. 666)* of psalms, so this part does not have a single psalm, but consists of the so-called "Biblical Odes" (*bibleyskie pesni*), the verses of which are alternated with hymns of later Christian composition; whereas hymns of the latter kind in other parts of Matins occupy very little space in comparison with the biblical material (the psalms), here they are allotted a more prominent position, so that the Biblical Odes appear rather as something appended unto them. Nevertheless, the Biblical Odes regulate, by the number of their verses, the quantity of hymns of later composition, and also determine in a certain measure their very content, serving for them, consequently, as a rule, a model, a norm—whence also the name of this part of Matins: "Kanon" (*kanon*, Gr. κανών). The chant melody of the kanon in complexity is intermediate between the sticheraric and the troparic.
 
-### The Word "Kanon" and Its Present Application (*Slovo "kanon" i ego nastoyashchee primenenie*)
+**The Word "Kanon" and Its Present Application (*Slovo "kanon" i ego nastoyashchee primenenie*)**
 
 *Kanōn* [Gr. κανών] (perhaps cognate with *kanna* [Gr. κάννα], a reed)—strictly speaking, is a straight stick, entering, for example, into the construction of shields, weaving looms (such use of the word is found in Homer), or scales (Pollux), serving for measuring (Sophocles); hence a measure (Euripides), a rule (Lycurgus), a prescription (Demosthenes); among ecclesiastical writers: a rule in general (Clement of Rome), the rule of faith (Clement of Alexandria), a rule of the Church (Council of Ancyra), a canon of a Council (Basil the Great), of the Fathers (Socrates, Sozomen), the collection of divinely inspired books (Athanasius the Great); and finally: a church service, an office (Basil the Great, Evagrius, Palladius), more precisely—the total quantity of psalms that a monk was required to chant in a twenty-four-hour period (whence the designation of Typika as Kanonaria) [^2509], in particular—Matins (John Moschos), or the Vigil (Dorotheus). With its present liturgical meaning, the word emerges firmly only from the 9th century, first appearing, apparently, in Theodore the Studite [^2510]. It could have acquired such a narrow meaning both because the kanon constituted a significant, central part of Matins, and also because this is a genre of church hymnody possessing the most strictly sustained and definite literary form.
 
 === LEAF p808 ===
-### The Biblical Odes of the Kanon (*Bibleyskie pesni kanona*)
+**The Biblical Odes of the Kanon (*Bibleyskie pesni kanona*)**
 
 The foundation of the kanon, its principal part (with the exception of a few kanons), is composed of the Biblical Odes (*ôdai*, Gr. ᾠδαί). These are songs chanted by Old Testament prophets and righteous ones on the occasion of the greatest events in their lives and in that of all Israel. Being, therefore, outpourings of the highest religious inspiration, they constitute the finest portion, the flower of biblical poetry, and may be placed higher than the psalms. Of such odes there are 11 recorded in the Bible: two of Moses, those of Deborah, Hannah, Habakkuk, Isaiah, Hezekiah, Jonah, the Three Holy Children, Zacharias, and the Mother of God. But from among them there did not enter into the composition of the kanon the Ode of Deborah (Judges 5), on account of its martial character and the specialized nature of its content, and the purely personal prayer of Hezekiah (Isaiah 38:11–20). The 9 odes taken as the foundation of the kanon yielded *(Orig. p. 667)* also the 9 odes of the kanon, according unto the number of the 9 Angelic ranks; yet from the Ode of the Three Holy Children two were made, while the two New Testament odes were united into a single 9th ode of the kanon. By the content of each Biblical Ode there is determined the theme and its unfolding throughout the non-biblical composition of each ode of the kanon, not to mention that its verses are always appended as refrains unto the troparia of the Matins kanon (with the exception of Matins of Holy Week and Bright Week). Therefore this content is of the most essential significance in the kanon. Here it is in brief:
 
@@ -125,7 +125,7 @@ The Ode of Hannah (1 Samuel [1 Kingdoms] 2:1–11), **"My heart is established i
 
 The Ode of the Prophet Habakkuk (3:1–19), **"O Lord, I have heard Thy report"** (*Gospodi, uslyshakh slukh Tvoy*), depicts the impending appearance of the Lord ("revive Thy work in the midst of the years," LXX: "in the midst of two living creatures shalt Thou be known," according unto certain Fathers: between the two testaments) for judgment upon the oppressors of the chosen people (the Chaldeans), like unto the Theophany at Sinai and the wonders of the Exodus ("God shall come from the south," Heb. Teman—southern Idumaea; according unto the Fathers—from Bethlehem; "and the Holy One from the mountain overshadowed by the forest," Heb. "from Mount Paran"; according unto the Fathers—Zion), an appearance destined to be accompanied by terrible elemental upheavals and tribulations, which will serve as punishment for the ungodly and therefore ought not to dismay one who firmly trusts in God.
 
-The Ode of the Prophet Isaiah (Chapter 26), from which the greater part is taken for the kanon, verses 9–19, beginning with the words **"From night my spirit awaketh early"** (*Ot noshchi utrenyuet dukh moy*), chants the future longed-for land of the righteous, from which all the ungodly will be removed and upon which there will take place what is impossible according unto natural laws: the dead, who generally do not return to life, after certain spiritual labors of the righteous people resembling the pangs of childbirth, will revive from the dew of God (in Hebrew only "thy dead") unto the joy of all born of earth.
+The Ode of the Prophet Isaiah (Chapter 26), from which the greater part is taken for the kanon, verses 9–19, beginning with the words **"From night my spirit awakes early"** (*Ot noshchi utrenyuet dukh moy*), chants the future longed-for land of the righteous, from which all the ungodly will be removed and upon which there will take place what is impossible according unto natural laws: the dead, who generally do not return to life, after certain spiritual labors of the righteous people resembling the pangs of childbirth, will revive from the dew of God (in Hebrew only "thy dead") unto the joy of all born of earth.
 
 The Ode of the Prophet Jonah (2:3–10 [LXX; Masoretic 2:2–9]), **"I cried in my affliction unto the Lord"** (*Vozopikh v skorbi moey ko Gospodu*), sung as if from the tomb by one buried alive, progressively depicts all the horrors of the prophet's plight: first externally—the deep of the waters, then internally—the proximity of death; moreover, along with the deepening of the colors in this description, there ever grows *(Orig. p. 668)* the prophet's hope of deliverance, which in the 3rd part of the ode supplants all other thoughts.
 
@@ -140,7 +140,7 @@ The Canticle of Zacharias (Luke 1:68–79), **"Blessed be the Lord God of Israel
 
 The Odes are arranged in the kanon approximately in chronological order; only the Ode of Habakkuk has been transposed with the Ode of Jonah, perhaps in order to take a more moving biblical ode for the 6th Ode of the kanon as concluding that division. At the same time, one cannot fail to notice that joyful odes have occupied the odd positions, while mournful ones have occupied the even positions (cf. the Six Psalms), with the exception of Odes 7 and 8, where for this principle it would have been necessary to place the end of the ode before its beginning.
 
-### History of Use (*Istoriya upotrebleniya*)
+**History of Use (*Istoriya upotrebleniya*)**
 
 In the Old Testament Temple, at the additional (festal) sacrifice on the Sabbath, the rebuking Ode of Moses was chanted—apparently one-sixth of it in turn—while at the evening sacrifice Exodus 15 was chanted, verses 1–10 and 11–19 in turn [^2511].
 

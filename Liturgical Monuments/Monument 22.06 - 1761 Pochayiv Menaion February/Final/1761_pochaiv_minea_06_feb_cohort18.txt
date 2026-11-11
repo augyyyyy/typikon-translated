@@ -214,10 +214,10 @@ As a living pillar and a proclaimer of the words of upright doctrines does the C
 *Sticheron:*
 Lord, Thou hast shown forth the hierarch's word as a sharpened sword against those who act impiously against Thy Orthodox faith; and thereby cutting off false opinions, Thou hast multiplied the doctrines of piety in the world, O Master.
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 The distress of my contrite heart, and the groanings, O Bride of God, do thou accept, O pure Virgin; and do not cast away the lifting up of my hands, O all-immaculate and pure one, since thou art a lover of goodness; that I may praise and magnify thee who hast magnified our race.[^400]
 
-*Stavrotheotokion, Podoben:*
+*Stavrotheotokion, Podoben (Подо́бенъ):*
 When the ewe-lamb and virgin beheld Thee, the Lamb, led unto slaughter, weeping she followed Thee, O Word, and cried aloud: "Whither dost Thou hasten, O my sweetest Child, at Thy departure? For I cannot endure not to see Thee, O my most merciful Jesus!"
 
 *Troparion, Tone 4:*

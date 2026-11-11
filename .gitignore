@@ -12,6 +12,7 @@ scratch_*.png
 # System and temporary files
 .system_generated/
 .tempmediaStorage/
+.pytest_cache/
 __pycache__/
 *.pyc
 
@@ -39,6 +40,11 @@ desktop.ini
 **/scratch/*.jpeg
 **/scratch/*.pdf
 **/scratch/*.txt
+**/scratch/**/*.png
+**/scratch/**/*.jpg
+**/scratch/**/*.jpeg
+**/scratch/**/*.pdf
+**/scratch/**/*.txt
 
 # Python Virtual Environments
 .venv/

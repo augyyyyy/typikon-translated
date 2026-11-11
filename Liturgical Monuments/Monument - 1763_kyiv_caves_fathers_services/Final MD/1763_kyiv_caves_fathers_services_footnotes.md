@@ -762,7 +762,7 @@
 
 [^380]: Fol. 95r (p99): Theotokion following Kathisma 1 Sessional Hymn, invoking the painless birthgiving of the Virgin Mary to soothe painful illnesses.
 
-[^381]: Fol. 95r (p99): Sessional Hymn after Kathisma 2, Tone 3. Podoben model: "Speedily anticipate" (*Ταхὺ προκατάλαβε*).
+[^381]: Fol. 95r (p99): Sessional Hymn after Kathisma 2, Tone 3. Podoben model: "Speedily anticipate" (*Ταχὺ προκατάλαβε*).
 
 [^382]: Fol. 95v (p100): Sessional Hymn after the Polyeleos, Tone 8. Podoben model: "Having reclined on Wisdom" (*Премꙋ́дрости возле́гъ* / *Τῇ σοφίᾳ προσκλιθείς*).
 
@@ -1438,7 +1438,7 @@
 
 [^718]: Tone 8 Resurrectional Dogmatic Theotokion at Lord, I have cried (Богородичен догматик, глас 8: «Царь небесный за человеколюбие на земли явися...»). Greek: Ὁ Βασιλεὺς τῶν οὐρανῶν, διὰ φιλανθρωπίαν... The text breaks across the spread boundary from the foot of Fol. 127r to the head of Fol. 127v.
 
-[^719]: Tone 8 Resurrectional Aposticha Theotokion (Богородичен на стиховне, глас 8: «Безневестная Дево, яже Бога неизреченно заченши плотию...»). Greek: Ἀνύμφευτε Παρθένε, ἡ τὸν Θεὸн ἀφράστως...
+[^719]: Tone 8 Resurrectional Aposticha Theotokion (Богородичен на стиховне, глас 8: «Безневестная Дево, яже Бога неизреченно заченши плотию...»). Greek: Ἀνύμφευτε Παρθένε, ἡ τὸν Θεὸν ἀφράστως...
 
 [^720]: Liturgical section heading: The eight Resurrectional Dismissal Theotokia (Богородичны воскресны отпустительныя по тропарех святых, осми гласов; Greek: Θεοτοκία Ἀπολυτίκια τῶν ὀκτὼ ἤχων), chanted at Vespers, Matins, and the Divine Liturgy after the Troparion of the Day or of a Saint.
 
@@ -1446,7 +1446,7 @@
 
 [^722]: Allusion to Psalm 131:8 (LXX: ἀνάστηθι, Κύριε, εἰς τὴν ἀνάπαυσίν σου, σὺ καὶ ἡ κιβωτὸς τοῦ ἁγιάσματός σου; Slavonic: «Воскресни, Господи, в покой твой, ты и кивот святыни твоея»).
 
-[^723]: Tone 2 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 2: «Вся паче смысла, вся преславная твоя Богородице таинства...»). Greek: Πάντα ὑπὲρ ἔνноιαν, πάντα ὑπερένδοξα...
+[^723]: Tone 2 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 2: «Вся паче смысла, вся преславная твоя Богородице таинства...»). Greek: Πάντα ὑπὲρ ἔννοιαν, πάντα ὑπερένδοξα...
 
 [^724]: Tone 3 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 3: «Тя ходатайствовавшую спасение рода нашего...»). Greek: Σὲ τὴν μεσιτεύσασαν τὴν σωτηρίαν...
 
@@ -1458,8 +1458,8 @@
 
 [^728]: Direct citation of the Parable of the Lost Drachma in Luke 15:8–9 (LXX / Slavonic: «срадуйтеся мне, яко обретеся погибшая драхма»).
 
-[^729]: Tone 7 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 7: «Яко нашего воскресения сокровище...»). Greek: Ὡς τῆς ἡμῶν ἀнаστάσεως θησαύρισμα...
+[^729]: Tone 7 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 7: «Яко нашего воскресения сокровище...»). Greek: Ὡς τῆς ἡμῶν ἀναστάσεως θησαύρισμα...
 
-[^730]: Tone 8 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 8: «Иже нас ради рождейся от Девы...»). Greek: Ὁ δι' ἡμᾶς γεννηθεὶς ἐк Παρθένου...
+[^730]: Tone 8 Resurrectional Dismissal Theotokion (Богородичен отпустительный, глас 8: «Иже нас ради рождейся от Девы...»). Greek: Ὁ δι' ἡμᾶς γεννηθεὶς ἐκ Παρθένου...
 
 [^731]: Codicological concluding colophon of the 1763 Kyiv-Pechersk Lavra edition of the Services to the Caves Fathers («Конец и Богу слава»; Latin: Finis et Deo gloria), adorned below with an elaborate rococo woodcut floral tailpiece cartouche marking the completion of the liturgical imprint on Fol. 128v.

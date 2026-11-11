@@ -82,7 +82,7 @@ God, Who rests in His saints, chose thee as the fairest among women, and was wel
 *Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Givers of healings and wonderworkers, you have appeared unto all as light-receiving lamps of wonders through spiritual grace; for by faith you cool the flame of passions and warm the understanding of the faithful therein. Therefore, having acquired your divine church as a medicine for souls, fleeing unto it we cry: O God-bearing unmercenaries, pray to Christ God, to grant remission of transgressions unto those who celebrate your holy memory with love.
 
-*Glory... Tone 8, Podoben: The same ("Of Wisdom"):*
+*Glory... Tone 8, Podoben: The same ("Of Wisdom") (Премꙋ́дрости):*
 Shedding the rays of healings upon those on earth, O divine wonderworkers, you manifestly drive away the ailments of men, having truly acquired within yourselves the unwaning Sun, Christ our God. Therefore, having worthily assembled, we honor your glorious and precious memory, O holy ones, God-bearing unmercenaries. Pray to Christ God to grant remission of sins unto those who honor your holy memory with love.
 
 *Both now... Theotokion:*
@@ -228,7 +228,7 @@ Having a fountain of healings, O holy unmercenaries, you bestow healing upon all
 
 *Now and ever... Theotokion:*
 *If it be Wednesday or Friday, say the Stavrotheotokion, Tone 4:*
-*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кw до́блѧ):*
+*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 Seeing Christ, the Lover of mankind, being crucified, and His side pierced with a spear, the most pure one cried aloud, weeping: What is this, O my Son? What have the ungrateful people rendered unto Thee in return for the good things Thou didst do for them? And art Thou striving to leave me childless, O most beloved One? I marvel, O compassionate One, at Thy voluntary crucifixion!
 
 *At the Aposticha of the Octoechos.*
@@ -236,7 +236,7 @@ Seeing Christ, the Lover of mankind, being crucified, and His side pierced with 
 Who will not marvel? Who will not glorify? Who will not faithfully sing of the wonders of the wise and most glorious unmercenaries? How even after their holy departure they richly bestow healings upon all who run unto them with faith, and their precious and holy relics pour forth the grace of healings! O holy pair! O honored heads! O wisdom and glory of the grace given unto you from God! Therefore with hymns we cry unto God the Benefactor, Who showed them forth for the healing of our souls and bodies.
 
 *Now and ever... Theotokion or Stavrotheotokion:*
-*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 The undefiled Heifer, seeing the Young Bull willingly nailed upon the Tree, weeping piteously, cried aloud: Woe is me, most beloved Child! What has the ungrateful Jewish assembly rendered unto Thee, wishing to make me childless of Thee, O all-beloved One?
 
 *At the Liturgy. The Beatitudes of the Octoechos on 4; and from the canon of the saints, Ode 3, on 4.*
@@ -612,7 +612,7 @@ Come, ye earthborn, today let us honor with hymns the robe of the maiden of God 
 Thou alone hast renewed both nature and time, O Mother of God; for incorrupt is thy childbearing, and incorrupt also is the robe wherewith thou coverest thy city, wherewith thou upholdest the scepters of piety.
 
 *At the Praises, stichera on 4.*
-*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кw до́блѧ):*
+*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 The shrine containing thy robe, O most pure one, is known every day by thy servants as an ark of sanctification, and a sacred defense, and glory and praise, and a fountain of healings. Where having sacredly gathered together today, we sing of thy many great wonders and the abyss of miracles. *(Twice)*
 
 Most glorious is the place, ever radiant with beams, wherein by grace has been placed the treasure, the honored robe of the Maiden of God. Draw near, O men, and draw forth abundantly enlightenment and cleansing therefrom, and cry aloud with a thankful heart: O all-holy Virgin, we bless thee, being saved by thy childbearing!
@@ -633,7 +633,7 @@ Having cleansed our senses and mind, we also keep festival with the angels, radi
 
 *July 3: The Holy Martyr Hyacinth.*[^20]
 
-*Stichera, Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*Stichera, Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 A cornerstone has been laid, chosen in Zion, and an immovable foundation, upon which the ranks of martyrs were built, with whom the victor Hyacinth shines with heavenly brightness. O Thine ineffable compassion, O Master, through which, O Christ, save our souls, as Thou alone art compassionate!
 
 Running as a stone of jacinth[^21] through the radiant city of God, having become a stone dyed red with blood, with the purple of suffering. And now pray clearly, dancing and rejoicing. Save by thy prayers those who celebrate thy most glorious and sacred memory, O all-blessed one!
@@ -781,7 +781,7 @@ Having found the Mother of the Lord, the cause of great praises, with honey-flow
 We know thee, O father, as a pillar of Orthodoxy, an image of chastity, and a pattern of meekness, and as a divine hymnographer who enlightens Christ's Church, O sacred initiate Andrew; therefore we celebrate thy festival.
 
 *Other stichera of Saint Martha, on 3.*
-*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кw до́блѧ):*
+*Tone 4, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 Unto painful abstinence, unto manly struggles, unto warfare against the enemy who tripped up human nature, thou didst separate thyself, not sparing the flesh through fasts and tears for the sake of divine love; therefore thou didst accomplish divine ascetical struggles, having humbled the mind of the adversary, O honored and most glorious Martha! *(Twice)*
 
 Thou didst loathe temporal things, and didst flee from the love of corruptible things; and thou didst desire the heavenly lot, eternal and worthy of the righteous, incorrupt, O pure one, and unceasing life. Therefore in faith performing thy radiant and light-bearing memory, we honor thee with divine hymns, O glorious Martha!
@@ -797,7 +797,7 @@ Seeing Thee upon the Tree, her Lamb and Shepherd, the Ewe-lamb that bare Thee we
 The multitudes of monastics honor thee as an instructor, O our father Andrew; for by thy path we have truly learned to walk uprightly. Blessed art thou who didst labor for Christ, and didst refute the power of the enemy, O converser with the angels, companion of the venerable and the righteous; with them pray unto the Lord that our souls may be saved!
 
 *Now and ever... Theotokion, or Stavrotheotokion:*
-*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 The undefiled heifer, seeing the Calf nailed willingly upon the Tree, weeping piteously, cried aloud: Woe is me, most beloved Child! What hath the thankless Jewish council rendered unto Thee, desiring to bereave me of Thee, O All-beloved?
 
 *Troparion, Tone 4:*
@@ -872,7 +872,7 @@ Upon the rock of my hope, O most pure one, establish the ascents of my soul; tha
 *Kontakion of Saint Martha, Tone 2, Podoben: "In Prayers" (Въ моли́твахъ):*
 Standing in prayers before the Lord, offering songs and praises unto the most pure Virgin Mother of God, O honored Martha, thou didst bear a sacred child, the most marvelous Symeon, a universal luminary: with him pray ever for all of us!
 
-*Then the Sessional Hymn of Saint Andrew, Tone 4, Podoben: "Speedily Anticipate" (Ско́рw предварѝ):*
+*Then the Sessional Hymn of Saint Andrew, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 As with precious stones, with thy words, O all-wise one, having adorned the crown of the Church, thou wast a sacred priest, O Andrew; therefore after many labors in this life, thou hast received an ageless kingdom and glory: therein remember, O father, those who remember thee!
 
 *Glory... Sessional Hymn of Saint Martha, Tone 4:*
@@ -1481,7 +1481,7 @@ As from afar didst thou shine forth unto those in darkness, being light-bearing,
 *Glory... now and ever... Theotokion:*
 Having been entreated, O Queen of all, by the supplications of thine honored Athanasius, keep thy flock inviolate from every opposition, which ever prays unto thee, the protectress of the world.
 
-*At the Praises, stichera on 4. Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*At the Praises, stichera on 4. Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 Precious indeed in Thy sight, O Christ, was the death of Thy venerable one;[^108] for lo, from his foot Thy pleasing servant poured forth a fountain of blood,[^109] driving away every disease even after death, and driving out the spirits of wickedness against which, while yet alive, he stood arrayed in battle even unto blood.[^110] *Twice.*
 
 *Sticheron:*
@@ -1663,7 +1663,7 @@ Having been illustrious of old in worldly life with wealth and power, O venerabl
 *Sticheron:*
 By a pillar of fire visibly did God guide thee unto salvation, O father,[^138] unto the calm haven and unto the mountain of dispassion; and by thy prayer thou didst pour forth water, and granted sight unto the blind, and swift running unto the lame!
 
-*Other Stichera of Saint Acacius. Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кw до́блѧ):*
+*Other Stichera of Saint Acacius. Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 By temperance thou didst mortify the wisdom of the flesh, and didst quicken thy soul through fasting and the perfection of virtues; whence also thou wast revealed as truly alive after thy death: for death was accounted as sleep unto thee when thou didst pass over unto God, and didst commit thy soul into His hands, O glorious Acacius![^139]
 
 *Sticheron:*
@@ -1949,7 +1949,7 @@ Receive from us, O God-bearer, the hymn offered unto thee from a pure heart; and
 As being truly the root and confirmation of incorruption, O Virgin, do all we the faithful honor thee with praises; for thou hast given birth unto Hypostatic Immortality for us!
 
 *July 8: The Holy Great-Martyr Procopius.*[^177]
-*Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кw до́блѧ):*
+*Stichera on 6, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 A calling came unto thee from heaven, even as unto the preacher of the Gentiles,[^178] O all-glorious Procopius; and enlightened in mind, thou didst leave behind the darkness of idols, and becamest a luminary of the faithful, illuminating the ends of the world with the divine brightness of thine honored struggles: the glory and praise of martyrs!
 
 *Sticheron:*
@@ -2140,7 +2140,7 @@ Clothed today with thy strength, O martyr of Christ, the Church rejoices, and wo
 *Glory... Tone 4:*
 Adorned with the purple robe of the blood of thy martyrdom, the Church of God sends forth solar rays, O much-suffering Procopius; for arming thyself with the Cross, and desiring with valiant mind to die for Christ, thou didst stand against the host of the alien; and having put to shame the plots of the lawless, thou wast revealed as a victorious warrior of Christ. Therefore we beseech thee, as thou hast boldness toward Him, O adornment of martyrs: pray that our souls may be saved!
 
-*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кw до́блѧ):*
+*Both now... Theotokion, or Stavrotheotokion, Tone 4, Podoben: "As One Valiant among Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 Beholding Christ, the Lover of mankind, crucified, and His side pierced with a spear, the all-pure one weeping cried aloud: What is this, O my Son? What have the thankless people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O Tenderhearted One, at Thy voluntary crucifixion!
 
 *At the Aposticha, from the Octoechos.*
@@ -2427,7 +2427,7 @@ O glory of martyrs, beauty of martyrs, God-chosen choir of sufferers: diligently
 *Theotokion:*
 What word can declare the wonder of thy seedless conception, O all-spotless one? For thou didst conceive God, Who came unto us through tender mercy.
 
-*Kontakion, Tone 2, Podoben: "The First-Fruits" (Ꙗ҆́кw нача́тки):*
+*Kontakion, Tone 2, Podoben: "The First-Fruits" (Ꙗ҆́кѡ нача́тки):*
 For the sake of Christ, O martyrs, ye endured many torments, and cast down all the polytheism of idols, and destroyed the godlessness of every deceit, having trampled these down by the power of Christ; ye teach us all faithfully to cry aloud: Alleluia![^242]
 
 *Ode 7. Heirmos:*
@@ -4168,9 +4168,9 @@ In two wills and natures, O all-immaculate one, yet in one hypostasis dost thou 
 
 *Sticheron 3:* The divinely-chosen ten disciples, having cast down the swelling of passions by fasting contests, suffered and put the serpent to death, having gained the sacred instructor Athenogenes through divine power: by their supplications, O Compassionate One, save us who ever place our hope in Thee, the All-good!
 
-*Glory... Both now... Theotokion, Same Tone and Podoben:* Save me, O all-pure Lady, who ineffably didst give birth unto the Savior Christ: for thee alone have I acquired as a protectress, and an unassailable rampart, and a shelter and joy, and divine consolation of my soul; do thou therefore deliver me from the unsleeping worm, and from the everlasting fire, O Mother of Christ God!
+*Glory... Both now... Theotokion, Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* Save me, O all-pure Lady, who ineffably didst give birth unto the Savior Christ: for thee alone have I acquired as a protectress, and an unassailable rampart, and a shelter and joy, and divine consolation of my soul; do thou therefore deliver me from the unsleeping worm, and from the everlasting fire, O Mother of Christ God!
 
-*Stavrotheotokion, Same Podoben:* "What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!" said the weeping Birthgiver of God, when she saw Him Who ineffably shone forth from her, God and man, lifted up upon the Cross.
+*Stavrotheotokion, Same Podoben (Подо́бенъ то́йже):* "What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!" said the weeping Birthgiver of God, when she saw Him Who ineffably shone forth from her, God and man, lifted up upon the Cross.
 
 *At Matins, the Canon, whose acrostic is: "I sing the glory of Thy sufferers, O Christ. Joseph." Tone 8.*
 
@@ -4496,7 +4496,7 @@ The preaching of the apostles and the dogmas of the Fathers sealed the one Faith
 *Exapostilarion, Tone 2, Podoben: "Give ear, ye women" (Жены̀ ꙋ҆слы́шите):*
 Celebrating today the memory of the divine Fathers, by their supplications we pray Thee, O All-merciful One: deliver Thy people, O Lord, from every harm, and vouchsafe all to glorify the Father, the Word, and the All-holy Spirit!
 
-*Theotokion, Podoben:*
+*Theotokion, Podoben (Подо́бенъ):*
 Rejoice, palace of God! Rejoice, overshadowing mountain! Rejoice, unburnt bush! Rejoice, throne of glory! Rejoice, divine table! Rejoice, golden urn! Rejoice, all-radiant lampstand! Rejoice, light cloud, Virgin Mother Mary!
 
 *At the Praises, Resurrectional Stichera, 4; and of the Fathers, 4. Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*[^415]
@@ -8689,7 +8689,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^78]: Exod. 14:21–31; the first Heirmos of the Paraklesis Canon to the Most Holy Theotokos.
 [^79]: Exod. 14:16–28; 15:1–21.
 [^80]: The name Athanasios signifies "immortal" (ἀ- privative + θάνατος, death).
-[^81]: The Church Slavonic idiom ѿ мѧ́гкихъ ногте́й literally renders Greek ἐξ ἁпаλῶν ὀνύχων ("from tender fingernails", i.e. from infancy/early childhood).
+[^81]: The Church Slavonic idiom ѿ мѧ́гкихъ ногте́й literally renders Greek ἐξ ἁπαλῶν ὀνύχων ("from tender fingernails", i.e. from infancy/early childhood).
 [^82]: Dan. 7:9, 13, 22.
 [^83]: The festive Katavasia of the Mother of God (Tone 4): "I shall open my mouth, and it shall be filled with the Spirit..."
 [^84]: Heirmos of the Small Paraklesis Canon to the Theotokos (Tone 8).
@@ -8791,7 +8791,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^180]: Acts 9:3–5; 26:14–18.
 [^181]: 2 Tim. 4:7. Procopius was tortured in Caesarea by the Roman governor with three-pronged iron scrapers and fire, yet remained steadfast.
 [^182]: Procopius' martyrdom inspired the conversion of his mother Theodosia, twelve noble women, and two military tribunes (Nicostratus and Antiochus) with their soldiers, all of whom were martyred together with him.
-[^183]: A classic Patristic expression of the doctrine of *theosis* (deification by grace): "by position/adoption a god, through the deification of participation" (Greek: θέσει θεὸς χρηματίσας τῇ μεθέξει τῆς θεώсеως; cf. Ps. 81:6; Jn. 10:34–35; 2 Pet. 1:4).
+[^183]: A classic Patristic expression of the doctrine of *theosis* (deification by grace): "by position/adoption a god, through the deification of participation" (Greek: θέσει θεὸς χρηματίσας τῇ μεθέξει τῆς θεώσεως; cf. Ps. 81:6; Jn. 10:34–35; 2 Pet. 1:4).
 [^184]: Exod. 14:21–29; 17:11–12. Heirmos of Ode 1, Tone 4.
 [^185]: Acts 9:3–6; 26:14–18. Like Saul, Neanias (Procopius) was called by a heavenly voice and vision of Christ.
 [^186]: 1 Kg. (1 Sam.) 2:2; 1 Cor. 1:24, 30. Heirmos of Ode 3, Tone 4.
@@ -8844,7 +8844,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^233]: Basil the Great, *On the Holy Spirit*, 18.45: "For the honor paid to the image passes to the prototype."
 [^234]: The Forty-five Martyrs of Nicopolis suffered under Emperor Licinius (c. 319). St. Anthony of the Caves (983–1073), founder of the Kyiv-Caves Lavra, is commemorated on July 10; his full separate festal service follows immediately in this Menaion edition.
 [^235]: Isaiah 53:2.
-[^236]: The Greek acrostic of the canon by Joseph the Hymnographer: Θεοστεφῆ φάлаγγα μέλπω μαρτύρων ("I sing the God-crowned company of martyrs").
+[^236]: The Greek acrostic of the canon by Joseph the Hymnographer: Θεοστεφῆ φάλαγγα μέλπω μαρτύρων ("I sing the God-crowned company of martyrs").
 [^237]: Heirmos of Ode 1, Tone 5 (Exodus 15:1–19).
 [^238]: Heirmos of Ode 3, Tone 5.
 [^239]: Heirmos of Ode 4, Tone 5 (Habakkuk 3:2).
@@ -8950,7 +8950,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^339]: *Lucifer* translates *денни́ца* (the morning star / day-star, Latin *Lucifer*, Isa. 14:12), referring to the fallen archangel Satan.
 [^340]: *Childish-minded* translates *младоꙋ́мнаго* (Greek *νηπιόφρονος*), contrasting with the three-year-old martyr Cyricus who possessed a "mature mind" (*соверше́ннымъ ᲂу҆мо́мъ*).
 [^341]: *By paradoxical deeds* (*Преквїрными*): an East Slavic/Ruthenian liturgical calque (cf. Polish *przekorny* / Greek *παραδόξοις*) indicating paradoxical, contrary-to-nature wonders, whereby mortal suffering is exchanged for immutable heavenly glory.
-[^342]: *Threefold-named* translates *Трезоимени́тѡ* (or *тезоимени́тѡ* / Greek *ὁμωνύμως* or *τρισεπώνυме*); Cyricus (Greek *Κύρικος*, from *Κύριος*, Lord) is hailed as named after the Lord.
+[^342]: *Threefold-named* translates *Трезоимени́тѡ* (or *тезоимени́тѡ* / Greek *ὁμωνύμως* or *τρισεπώνυμε*); Cyricus (Greek *Κύρικος*, from *Κύριος*, Lord) is hailed as named after the Lord.
 [^343]: *Guide of strangers* (*странноводе́цъ* / *страннокоде́цъ*): referring to the holy Apostle Aquila's hospitality and accompaniment of the Apostle Paul as recorded in the Book of Acts (Acts 18:2–3, 18, 26).
 [^344]: *Named after the Lord* (*Господоиме́ннаѧ*, Greek *Κυριώνυμος*): an epithet of the Theotokos as Lady (*Δέσποινα* / *Domina*), corresponding to the Lord (*Κύριος* / *Dominus*).
 [^345]: *A young heifer, a sacredly-fair young maiden* (*тели́ца ю́на ю҆ни́ца сщ҃еннопрекра́сна*): poetically contrasting the mother (the young heifer / *δάμαλις*) bearing her offspring to the sacrificial slaughter, offering him to Christ the Lamb.
@@ -9040,7 +9040,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^429]: The Epistle reading for a holy martyr or virgin-martyr: 2 Corinthians 6:1–10 (Pericope 181).
 [^430]: The Gospel reading for a holy woman or martyr: Luke 7:36–50 (Pericope 33, Christ in the house of Simon the Pharisee).
 [^431]: The Holy Martyr Hyacinth of Amastris (in Paphlagonia, martyred under Trajan, c. 98–117 AD) and the Holy Martyr Emilian of Silistria (Durostorum in Moesia Inferior, martyred under Julian the Apostate in 362 AD).
-[^432]: Tone 4 automelon *Ὡς γενναῖον ἐν μάρτυσιν* (*Ꙗ҆́кw до́блѧ* / "As one valiant").
+[^432]: Tone 4 automelon *Ὡς γενναῖον ἐν μάρτυσιν* (*Ꙗ҆́кѡ до́блѧ* / "As one valiant").
 [^433]: Acrostic in Church Slavonic: *Є҆міліа́на мч҃нка пою̀ сла́внѡ* ("Emilian the martyr do I sing gloriously"). Greek: *Αἰμιλιανὸν τὸν μάτυρα μέλπω*, composed by St. Joseph the Hymnographer.
 [^434]: Tone 8 automelon *Τὴν Σοφίαν καὶ Λόγον* (*Премꙋ́дрости* / "Of Wisdom").
 [^435]: Tone 3 automelon *Θείας πίστεως* (*Бж҃е́ственныѧ вѣ́ры* / "Of the divine Faith").
@@ -9207,7 +9207,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^596]: A reference to the miracle recounted in the Life of St. Panteleimon: encountering a child dead from the bite of an echidna (viper), the saint prayed to Christ that the child be resurrected and the serpent burst asunder, which miracle brought him immediately to Holy Baptism by St. Hermolaus.
 [^597]: Slavonic `ма́рдїю` (witnessing Byzantine Greek μάρμαρον or an epigraphic rendering of spiritual endurance/luster): referring to the steadfast, unyielding character of the martyr reflecting divine compassion and steadfast patience.
 [^598]: Gospel of Luke, pericope 106 (Luke 21:12–19), the festal Matins Gospel appointed for great martyrs ("The Lord said to His disciples: Beware of men; for they will lay their hands on you and persecute you...").
-[^599]: The canon is the work of St. Theophanes the Branded (Graptos, c. 778–845); its acrostic in Greek forms Παντελεήμονα παναρίδηλον μέлπω, rendered faithfully in the Church Slavonic text as `Пантелеи́мона всеизря́днаго мꙋ́ченика пою̀` ("I sing of Panteleimon the most excellent martyr").
+[^599]: The canon is the work of St. Theophanes the Branded (Graptos, c. 778–845); its acrostic in Greek forms Παντελεήμονα παναρίδηλον μέλπω, rendered faithfully in the Church Slavonic text as `Пантелеи́мона всеизря́днаго мꙋ́ченика пою̀` ("I sing of Panteleimon the most excellent martyr").
 [^600]: An allusion to the elder priest Hermolaus who instructed Panteleimon in spiritual wisdom and baptized him, framed typologically against the righteous elder Simeon who took Christ into his arms in the Temple (Luke 2:25–35).
 [^601]: An allusion to Psalm 65:12 (LXX): "We went through fire and through water, but Thou broughtest us out into a place of refreshment."
 [^602]: Dan. 3:24–28; the canticle of the Three Holy Children in the Babylonian furnace, where the angel of the Lord came down and made the midst of the furnace like a bedewing breeze.
@@ -9215,7 +9215,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^604]: Slavonic `Ѡнти́нское` (witnessing Greek ὀνθώδη or an epigraphic rendering of corrupt philosophical chatter): contrasting empty medical speculation with the grace-filled healing wrought through the invocation of Christ's name.
 [^605]: The catchword `дѣ́ломъ` ("in deed") at the foot of fol. 144v matches the Greek text of Ode 9 (ἔργῳ), though omitted at the start of fol. 145r by the typesetter.
 [^606]: Dan. 6:16–23; the Prophet Daniel in the lions' den, a recurring typological model for Christian martyrs unharmed by ravenous beasts in the arena.
-[^607]: Etymological wordplay on the martyr's name *Panteleimon* (Greek: Παντελεήμων, "all-merciful"), compound of πᾶς ("all") and ἐлеήμων ("merciful").
+[^607]: Etymological wordplay on the martyr's name *Panteleimon* (Greek: Παντελεήμων, "all-merciful"), compound of πᾶς ("all") and ἐλεήμων ("merciful").
 [^608]: Pericope 292 of the Apostle (2 Tim. 2:1–10: "My son Timothy, be strong in the grace that is in Christ Jesus...").
 [^609]: Pericope 52 of the Gospel according to John (John 15:17–16:2: "The Lord said to His disciples: These things I command you, that ye love one another...").
 [^610]: Acts 6:1–6; the appointment and ordination of the first seven deacons in Jerusalem to oversee the daily distribution and serve tables (Prochorus, Nicanor, Timon, and Parmenas are commemorated together on July 28).
@@ -9249,7 +9249,7 @@ Precious in the sight of the Lord is the death of His venerable ones.[^654]
 [^638]: Hab. 3:2 (LXX); Canticle of Habakkuk ("In the midst of two living creatures Thou shalt be known; when the years draw near Thou shalt be recognized").
 [^639]: Ex. 17:6, Num. 20:11; the rock struck by Moses in the wilderness that poured forth water, understood typologically of the Life-Creating Cross of Christ.
 [^640]: St. Eudocimus was buried in Charsianon; eighteen months later his mother opened the tomb and found his body completely incorrupt, fragrant, and performing miraculous healings; his relics were later translated to the Church of the Theotokos in Constantinople.
-[^641]: A direct play on the saint's name Eudocimus (`тезоименитно`, "consistently with thy name", εὐ-δόкиμος).
+[^641]: A direct play on the saint's name Eudocimus (`тезоименитно`, "consistently with thy name", εὐ-δόκιμος).
 [^642]: Jonah 2:2–9; the prayer of the Prophet Jonah from the belly of the sea-monster.
 [^643]: Ex. 14:21–29; Moses prefiguring the power of the Cross by dividing the Red Sea with his staff.
 [^644]: Dan. 3:49–50; the angel of the Lord descending into the furnace and driving away the flame with a moist whistling wind (spiritual dew).

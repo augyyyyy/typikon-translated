@@ -94,7 +94,7 @@
 
 [^60]: The patristic rationale (synthesized by Nikephoros Kallistos) explaining why the Synoptic Evangelists (Matthew, Mark, and Luke) did not record the raising of Lazarus: when their Gospels were compiled and circulated, Lazarus was still alive in Cyprus, and publishing the miracle would have endangered his life by renewing the persecuting fury of the Jewish authorities; whereas Saint John wrote late in the first century, long after Lazarus had reposed in the Lord.
 
-[^61]: An ancient Byzantine and Ruthenian linguistic and rubrical custom: burial winding-sheets and shrouds were known as *lazaroma* (Greek: λάζαρωма; Slavonic: ла́зарома), and any departed Christian was mystically designated a 'Lazarus', resting in anticipation of hearing the voice of Christ and the final trumpet at the general resurrection (1 Corinthians 15:52; 1 Thessalonians 4:16).
+[^61]: An ancient Byzantine and Ruthenian linguistic and rubrical custom: burial winding-sheets and shrouds were known as *lazaroma* (Greek: λάζαρωμα; Slavonic: ла́зарома), and any departed Christian was mystically designated a 'Lazarus', resting in anticipation of hearing the voice of Christ and the final trumpet at the general resurrection (1 Corinthians 15:52; 1 Thessalonians 4:16).
 
 [^62]: Daniel 3:26–27 (LXX): The prayer and thanksgiving of Azarias and the Hebrew children in the furnace of Babylon.
 
@@ -418,7 +418,7 @@
 
 [^222]: The solemn Exapostilarion (Exaposteilarion) of Holy Week (*"Thy bridal chamber do I see adorned, O my Savior"*) chanted three times, followed by the Stichera Idiomela at the Praises (Lauds) in Tone 1 and Tone 2. The first sticheron (*"Into the splendors of Thy saints, how shall I enter being unworthy?"*) meditates upon the lack of a wedding garment (Matthew 22:11–14), while the second sticheron in Tone 2 repents of spiritual drowsiness and begs the Lord to dispel darkened slumber and unite the soul with the wise virgins.
 
-[^223]: The Aposticha of Great Tuesday Matins, opening with the renowned Idiomelon in Tone 6: *"Come, ye faithful, let us labor eagerly for the Master; for He distributs riches unto His servants..."* The hymn translates the Parable of the Talents into concrete spiritual actions: one brings forth wisdom through good works, another accomplishes a radiant liturgical service, a third imparts orthodox doctrine to the untaught, and another distributes earthly wealth to the poor, that all may enter into the joy of the Lord.
+[^223]: The Aposticha of Great Tuesday Matins, opening with the renowned Idiomelon in Tone 6: *"Come, ye faithful, let us labor eagerly for the Master; for He distributes riches unto His servants..."* The hymn translates the Parable of the Talents into concrete spiritual actions: one brings forth wisdom through good works, another accomplishes a radiant liturgical service, a third imparts orthodox doctrine to the untaught, and another distributes earthly wealth to the poor, that all may enter into the joy of the Lord.
 
 [^224]: The Sixth Hour of Great and Holy Tuesday. The Troparion of Prophecy in Tone 4 (*"Unto those who sin without measure, abundantly grant forgiveness, O Savior"*) implores Christ to grant uncondemned veneration of His Holy Resurrection through the prayers of the Theotokos. The Prokeimenon is taken from Psalm 129:7 LXX (*"For with the Lord there is mercy, and with Him is plenteous redemption"*).
 
@@ -485,7 +485,7 @@
 [^272]: Liturgical rubric on the cessation of the Midnight Office (*Polunochnitsa*) in church from Great Thursday until Saint Thomas Sunday, appointing it to be recited privately in cells (*v Keliiakh*).
 [^273]: Decorative woodcut headpiece depicting the Mystical Supper, and the solemn opening of Great and Holy Thursday Matins: the striking of the semantron (*Klepalo*) at the 7th hour of the night (approx. 1:00 AM).
 [^274]: The celebrated Troparion of Great and Holy Thursday (*Tone 8*): "When the glorious disciples were illumined at the washing of the feet at supper, then Judas the ungodly, diseased with the love of money, was darkened..." chanted thrice.
-[^275]: The Full Canon of Great and Holy Thursday by Saint Cosmas of Maiuma (*Tone 6*), bearing the Greek alphabetic acrostic *ΤΗΙ ΜΑΚΡΑΙ ΠΕΜΠΤΗΙ ΜΑΚРОН ΥΜΝΟΝ ΕΞΑΔΩ* ("On the Long Thursday I chant a long hymn"), rendered in Slavonic as *Въ До́лгїи Четверто́къ до́лгꙋю пѣ́снь воспою̀*.
+[^275]: The Full Canon of Great and Holy Thursday by Saint Cosmas of Maiuma (*Tone 6*), bearing the Greek alphabetic acrostic *ΤΗΙ ΜΑΚΡΑΙ ΠΕΜΠΤΗΙ ΜΑΚΡΟΝ ΥΜΝΟΝ ΕΞΑΔΩ* ("On the Long Thursday I chant a long hymn"), rendered in Slavonic as *Въ До́лгїи Четверто́къ до́лгꙋю пѣ́снь воспою̀*.
 [^276]: Ode 1 Heirmos: Exodus 14, the dividing of the Red Sea by Moses's rod, making a dry path for the unarmed Israelites and a watery grave for the fully-armed Egyptians.
 [^277]: Sessional Hymns after Ode 3: Tone 1 (*Podoben: "The Soldiers standing guard at Thy Tomb" [Grob tvoi]*), Tone 3 (*Podoben: "Of the Divine Faith" [Bozhii vêrê]*), and Tone 4 (*Podoben: "Thou hast appeared today" [Iavylsia nynê]*), meditating on Christ girding Himself with a towel and washing the disciples' feet, Peter's initial refusal and subsequent obedience.
 [^278]: Ode 4 Heirmos: Habakkuk 3:2-3, the Prophet foreseeing the ineffable mystery of Christ's love and the Father sending His only-begotten Son as a propitiation into the world.
@@ -587,11 +587,11 @@
 [^370]: Sticheron Idiomelon Tone 8 of the Sixth Hour, where the choir of the Apostles confronts the Jewish elders and Pharisees, professing the resurrected Lamb as the true Temple and the Savior of the wilderness.
 [^371]: Isaiah 52:13–54:1. The Fourth Servant Song of Isaiah (the Suffering Servant), the preeminent Old Testament prophecy of the Passion, vicarious atonement, and resurrection of Christ, concluding with the rejoicing of the desolate Gentile Church.
 [^372]: Hebrews 2:11–18 (pericopa 306). The Epistle of the Sixth Hour, expounding how the Son of God took part in flesh and blood that through death He might destroy the devil who held the power of death, and liberate those bound by fear of death.
-[^373]: Luke 23:32–49 (pericopa 121). The Sixth Hour Passion Gospel, highlighting Christ's prayer for His executioners, the repentance of the Good Thief, the darkness over the earth, and Christ commending His spirit into the Father's hands.
+[^373]: Luke 23:32–49 (pericopa 111). The Sixth Hour Passion Gospel, highlighting Christ's prayer for His executioners, the repentance of the Good Thief, the darkness over the earth, and Christ commending His spirit into the Father's hands.
 [^374]: Prayer of Saint Basil the Great ("Боже и Господи сил..."), the solemn concluding prayer of the Sixth Hour in the Ruthenian Triodion and Horologion, glorifying Christ for breaking the handwriting of our sins by His precious Cross. A rubric notes that some local traditions omit this prayer on Great Friday when the Hours are celebrated continuously.
 [^375]: The text directs the reader to the Prophecy of Jeremiah on Great Thursday (fol. 77 / physical leaf p84), which contains the composite reading Jeremiah 11:18–23; 12:1–5, 9–11, 14–15 ("O Lord, make known to me, and I shall know... ending: and each into their own land").
 
-[^376]: The Kontakion of Great Friday ("На́съ дѣ́ля распя́таго, прїиди́те всѝ воспои́мъ...") is printed in full at the Third Hour on fol. 102 (physical leaf p109). The text here directs the reader back to fol. 102 for its complete text.
+[^376]: The Kontakion of Great Friday ("На́съ дѣ́ля распя́таго, прїиди́те всѝ воспои́мъ...") is printed in full at the First Hour on fol. 107 (physical leaf p110). The text here directs the reader back to fol. 107 for its complete text.
 [^377]: Apostolic Canon 69: "If any bishop, or presbyter, or deacon, or subdeacon, or reader, or singer, does not fast the holy Forty Days of the Pascha, or the Wednesday, or the Friday, let him be deposed, unless he be hindered by bodily weakness; but if he be a layman, let him be suspended." The early Christian Didascalia and Apostolic Constitutions (Book V, ch. 18) mandate total abstinence on Great Friday and Holy Saturday until the cock-crow of Pascha.
 [^378]: The Studite Typikon prescribes xerophagy (dry bread, water, and dried fruits) for the first week of Great Lent, allowing moderate cooked food without oil on certain days, but strictly prohibiting cooked meals on Great Friday.
 [^379]: Chapter 96 of the Typikon governs the liturgical coincidence of the Feast of the Annunciation (March 25) with Great and Holy Friday (Kyriopascha / Great Friday Annunciation). On Great Thursday evening, Vespers is united with the Liturgy of Saint Basil the Great, and wine and oil are permitted at table. At Matins on Great Friday, the 12 Passion Gospels are interwoven with the festive Polyeleos, Gradual Antiphons of the 4th Tone, and the festal Annunciation Gospel (Luke 1:39–56).
@@ -768,7 +768,7 @@
 [^526]: The ceremonial elevation and breaking of the Artos (*Voznoshenie Artosa / Panagii*): On Bright Saturday, the whole Artos loaf, which had been blessed on Pascha night and elevated throughout Bright Week in place of the Panagia, is broken and consumed by the brethren before the meal, concluding with the ritual signing of the Panagiarion.
 [^527]: The woodcut icon of Thomas Sunday (Antipascha): Folio 200 (p204–p205) features a prominent woodcut depicting Christ appearing behind shut doors and inviting Thomas to thrust his hand into His side, inaugurating Part III of the Flowery Triodion.
 [^528]: Authorship inscription to John the Monk (*І҆ѡа́нна Мона́ха* / St. John of Damascus) for the Doxastikon of Thomas Sunday Vespers: "While the doors were shut, Thou camest unto the disciples, O Christ...", preserved as a distinct recensional heading in the 1642 Slozka imprint.
-[^529]: The Midnight Office Triadic Canon by Metrophanes of Smyrna (9th c.): Chanted when an All-Night Vigil cannot be celebrated; the heading preserves the Greek alphabetic acrostic in Cyrillic transliteration: `ΜΙΑΝ ΣΕ ΜΕЛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН` ("Singing, I hymn Thee, the one Tri-radiant Nature").
+[^529]: The Midnight Office Triadic Canon by Metrophanes of Smyrna (9th c.): Chanted when an All-Night Vigil cannot be celebrated; the heading preserves the Greek alphabetic acrostic in Cyrillic transliteration: `ΜΙΑΝ ΣΕ ΜΕΛΠΩ ΤΗΝ ТРІСНЛІОН ФҮСІН` ("Singing, I hymn Thee, the one Tri-radiant Nature").
 [^530]: Typikon Chapter 105 (*Глава̀, р҃е*) in the 1642 Lviv Triodion: Comprehensive rubrical statute governing the concurrence of the Feast of the Holy Great-Martyr George (*Yurii*, April 23) when it coincides with the Sunday of Saint Thomas (Antipascha).
 [^531]: The Canon of Thomas Sunday, composed by St. John of Damascus (*І҆ѡа́нна Мона́ха*), Tone 1: With the poetic heirmos "Let us all sing a song of victory..." and the Paschal katavasia "The Day of Resurrection" (*Voskreseniia den*).
 [^532]: Appointed Patristic homily after Ode 3 of Matins: St. Gregory the Theologian, Oratio 44 (*In novam Dominicam* / *Ѡ҆ бновле́нїа почита́ити* / "On the New Sunday: to honor renewal is an ancient law"), celebrating the renewal of the week and creation through the Resurrection.
@@ -864,7 +864,7 @@
 [^615]: Codicological folio cross-reference: The rubric directs the reader to the Dismissal Troparion of the Paralytic printed on folio 164 (`с҃д`), corresponding to physical leaf `p268` in this edition.
 [^616]: Codicological folio cross-reference: The rubric directs the reader to the Doxastikon of the Paralytic ('O Lord, Thou didst not heal the Paralytic in the pool') printed on folio 168 (`с҃ми`), corresponding to physical leaf `p272` in this edition.
 [^617]: Codicological folio cross-reference: The rubric directs the reader to the Doxastikon of the Paralytic ('At the Sheep Pool a man lay in disease') printed on folio 167 (`с҃з`), corresponding to physical leaf `p271` in this edition.
-[^618]: Greek Alphabetic Acrostic of the Triodion Beatitudes for Tuesday: The acrostic 'ΨАЛМΩΔΙΑ ΙΩΣΗΦ' transliterates the Greek 'Ψαλμῳδία Ἰωσήφ' (*Psalmodia Ioseph* / 'Chanting of Joseph'), identifying the hymnographic composition of St. Joseph the Hymnographer, rendered in the 1642 rubric as 'Пѣ́нїе І҆ѡ́сифово'.
+[^618]: Greek Alphabetic Acrostic of the Triodion Beatitudes for Tuesday: The acrostic 'ΨΑΛΜΩΔΙΑ ΙΩΣΗΦ' transliterates the Greek 'Ψαλμῳδία Ἰωσήφ' (*Psalmodia Ioseph* / 'Chanting of Joseph'), identifying the hymnographic composition of St. Joseph the Hymnographer, rendered in the 1642 rubric as 'Пѣ́нїе І҆ѡ́сифово'.
 [^619]: Codicological folio cross-reference: The rubric marks the opening of the feast of Mid-Pentecost on folio 175 (`с҃ое`), corresponding to physical leaf `p279` in this edition.
 [^620]: Prophetic lection for Mid-Pentecost Vespers: A composite liturgical reading from Micah 4:2–3, 6:1–5, 8, concluding with Micah 5:4, following the Septuagint text.
 [^621]: Prophetic lection for Mid-Pentecost Vespers: Isaiah 55:1–3, 6–13, following the Septuagint versification, calling all who thirst to drink from the waters of salvation.
@@ -934,7 +934,7 @@
 [^682]: Physical leaf p292. Mid-Pentecost Praises and Aposticha.
 [^683]: The 1642 Slozka print explicitly designates Tone 6 (Гла́съ, ѕ҃) for these stichera, although the melodic model "O House of Ephratha" (Οἶκος τοῦ Ἐφραθᾶ) is traditionally Tone 2 in the standard Octoechos.
 [^684]: Greek acrostic Δόξα τῷ Θεῷ ἡμῶν ("Glory to our God") transliterated into Cyrillic as ДО́ХА ТѠ ѲЕѠ И҆МѠН in the Mid-Pentecost Beatitudes Triodion canon.
-[^685]: The 1642 Slozka print designates Tone 4 (Гла́съ, д҃) for the prosomoion model "Joy of the heavenly ranks" (Небе́сныхъ чино́въ / Τῶν οὐρανίων таγμάτων), which in standard received Octoechoi is rooted in Tone 1.
+[^685]: The 1642 Slozka print designates Tone 4 (Гла́съ, д҃) for the prosomoion model "Joy of the heavenly ranks" (Небе́сныхъ чино́въ / Τῶν οὐρανίων ταγμάτων), which in standard received Octoechoi is rooted in Tone 1.
 
 [^686]: Physical leaf p288. Sessional hymn of Mid-Pentecost, Tone 8: "Having drawn the water of wisdom and life, let us all draw the forgiveness of sins..."
 [^687]: Physical leaf p206 (cohort 31, leaf p310). Mid-Pentecost Praises Doxasticon, Tone 4: "When Thou didst come into the Sanctuary, O Christ God, as the Feast reached its midpoint..."
@@ -957,7 +957,7 @@
 [^703]: Cross-reference to the Dogmatic Theotokion of Tone 5 ("In the Red Sea...") on fol. 193 (physical leaf p197).
 [^704]: Rubric indicating that when a Vigil is not celebrated, the Doxasticon appointed for the Litiya is sung instead at "Lord, I have cried" at Vespers.
 [^705]: Rubric governing the rare Paschal confluence when Key 30 [Л] occurs, requiring the service of the Holy Apostle and Evangelist John the Theologian (May 8) to be combined with the Sunday of the Blind Man, following the order specified on fols. 234-235 (physical leaves p238-p239).
-[^706]: The Greek acrostic printed in the 1642 Slozka edition transliterates the Greek: Κανὼν πέμπτος φωтὶ τῷ трιφαεῖ ("Fifth Canon unto the Thrice-radiant Light"). The Heirmos directs the reader to the Sunday Midnight Office of Tone 5 in the Octoechos.
+[^706]: The Greek acrostic printed in the 1642 Slozka edition transliterates the Greek: Κανὼν πέμπτος φωτὶ τῷ τριφαεῖ ("Fifth Canon unto the Thrice-radiant Light"). The Heirmos directs the reader to the Sunday Midnight Office of Tone 5 in the Octoechos.
 [^707]: Refers to the homiletic commentary on John 9:1-38 by St. John Chrysostom (Homilies 56, 57, and 58 on the Gospel of John).
 [^708]: John 20:11-18 (Pericope 64), the Eighth Matins Resurrection Gospel.
 [^709]: Cross-reference to the full text of the Paschal Canon on fol. 232 (physical leaf p236).
@@ -973,10 +973,10 @@
 [^718]: John 9:1-38 (Pericope 34), appointed Gospel reading for the Sunday of the Blind Man.
 [^719]: The 1642 Slozka prints "По: Радуйся: поз" (Podoben: Raduysya postnycheskykh / "Rejoice, O container of ascetics", Tone 5).
 [^720]: Physical leaf p324 (fol. 320r).
-[^721]: The Greek acrostic printed in the 1642 edition transliterates ΔΟΞΑ ΘΕΩ (printed in Cyrillic as "ДОΞА ΘЄѠ"), glossed in Slavonic as "си ест, Слава Бгꙋ подобает" ("that is, Glory to God is due").
+[^721]: The Greek acrostic printed in the 1642 edition transliterates ΔΟΞΑ ΘΕΩ (printed in Cyrillic as "ΔΟΞΑ ΘЄѠ"), glossed in Slavonic as "си ест, Слава Бгꙋ подобает" ("that is, Glory to God is due").
 [^722]: Typikon rubric governing the concurrence of Paschal Key 8 [И], in which the Feast of St. John the Theologian (May 8) falls on Wednesday before the Ascension.
 [^723]: Physical leaf p336 (fol. 332r).
-[^724]: The Greek acrostic printed in the 1642 text is ὙΜΝΩΔΙΑ ΙΩΣΗΦ (printed as "ѴМНѠДІА ІѠСИФА"), with the Slavonic gloss "си естъ: Пѣснопѣніе Іwсифово" ("that is, The Song of Joseph"), identifying the hymnographer as St. Joseph the Hymnographer.
+[^724]: The Greek acrostic printed in the 1642 text is ὙΜΝΩΔΙΑ ΙΩΣΗΦ (printed as "ѴМНѠДІА ІѠСИФА"), with the Slavonic gloss "си естъ: Пѣснопѣніе Іѡсифово" ("that is, The Song of Joseph"), identifying the hymnographer as St. Joseph the Hymnographer.
 [^725]: Physical leaf p337 (fol. 333r).
 [^726]: Physical leaf p174 (fol. 170r).
 [^727]: Comprehensive Typikon rubric detailing the liturgical order when the Feast of the Holy Apostle and Evangelist John the Theologian (May 8) coincides with the Apodosis (Apodosis) of Pascha on Wednesday of the Sixth Week after Pascha.
@@ -1015,7 +1015,7 @@
 [^759]: Festal Matins Patristic reading: Encomium on the Ascension by Lord Andrew of Crete ("Кѵ́ръ А҆ндре́а").
 [^760]: The 1642 text misidentifies the Gospel reading as "Еѵа́ггелїе ѿ Матѳе́а: зача́ло од҃", whereas the incipit "Воскре́съ І҆исоу́съ заꙋ́тра въ пе́рвꙋю сꙋббѡ́тꙋ" corresponds to Mark 16:9-20 (Pericope 71), which is the Third Resurrection Matins Gospel appointed for the Ascension.
 [^761]: First Canon of the Ascension (Tone 5), composed by St. John of Damascus ("Кѵ́ръ І҆ѡа́нна Мона́ха"), sung with the Heirmos twice and Troparia on 6.
-[^762]: Second Canon of the Ascension (Tone 4), composed by St. Joseph the Hymnographer, bearing an alphabetical acrostic in Odes 1-7, and the Greek acrostic ὨΙΔΗ ІΩСИФ ("Song of Joseph") across Odes 8-9.
+[^762]: Second Canon of the Ascension (Tone 4), composed by St. Joseph the Hymnographer, bearing an alphabetical acrostic in Odes 1-7, and the Greek acrostic ὨΙΔΗ ІѠСИФ ("Song of Joseph") across Odes 8-9.
 [^763]: The Katavasiai for the Canon of the Ascension in the 1642 Slozka print are taken from the Iambic Canon of Pentecost ("Боже́ственнымъ покрове́нъ бы́въ...").
 [^764]: Katavasia of Ode 3: based on the Prayer of Hannah (1 Kingdoms / 1 Samuel 2:1-10; LXX).
 [^765]: Sessional Hymn after Ode 3, Tone 8, Podoben: "Of the Wisdom" (Премꙋ́дрости / "Of the Wisdom and the Word").
@@ -1098,7 +1098,7 @@
 [^839]: Katavasia of Ascension Ode 9 ("Thee who art beyond mind and word..."), with alternative option from the Iambic Pentecost Canon ("Strange and marvelous is the Virgin's womb...").
 [^840]: Tenth Resurrection Matins Exapostilarion (John 21:1–14).
 [^841]: Concluding line of the Ascension Theotokion / Exapostilarion at Matins, continued from leaf p371.
-[^842]: Prosomoion model: Tone 6, "Having laid aside all earthly hope" (Slavonic: Всѐ ᲂу҆пова́нїе; Greek: Ὅλην ἀποθέмеνοι).
+[^842]: Prosomoion model: Tone 6, "Having laid aside all earthly hope" (Slavonic: Всѐ ᲂу҆пова́нїе; Greek: Ὅλην ἀποθέμενοι).
 [^843]: Psalm 150:4.
 [^844]: Psalm 150:6.
 [^845]: Song of the Three Holy Children (Daniel 3:26).
@@ -1157,7 +1157,7 @@
 [^898]: Psalm 46:6.
 [^899]: Leaf 344 (`тм҃д`, physical leaf p349) contains the Idiomelon Sticheron of the Ascension in Tone 4 ("Ascending into the heavens whence also Thou didst descend...").
 [^900]: Prosomoion model: Tone 1, "When the stone had been sealed" (Slavonic: Ка́мени зна́менанꙋ; Greek: Τοῦ λίθου σφραγισθέντος).
-[^901]: Prosomoion model: Tone 2, "O House of Ephratha" (Slavonic: До́ме є҆ѵфра́ѳовъ; Greek: Οἶκος τοῦ Ἐφраθᾶ).
+[^901]: Prosomoion model: Tone 2, "O House of Ephratha" (Slavonic: До́ме є҆ѵфра́ѳовъ; Greek: Οἶκος τοῦ Ἐφραθᾶ).
 [^902]: Psalm 46:2.
 [^903]: Psalm 46:6.
 [^904]: Cross-reference to the Sessional Hymn of the Ascension appointed after the Polyeleos / Kathismata on the day of the feast.
@@ -1192,7 +1192,7 @@
 [^932]: Leaf p388 (fol. 383v): Ode 9 Heirmos of the Memorial Saturday Canon by St. Theodore the Studite, Tone 8.
 [^933]: Leaf p388 (fol. 384r): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸν τοῖς ἄστροις*.
 [^934]: Leaf p388 (fol. 384r): Melodic model (Podoben) *Tone 8, Podoben: "In Eden of old" (И҆́же въ є҆де́мѣ):* corresponds to Greek *Ὁ ἐν Ἐδὲμ Παράδεισος*.
-[^935]: Leaf p389 (fol. 385r): Melodic model (Podoben) *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ᲊпова́нїе):* corresponds to Greek *Ὅλην ἀποθέмеνοι*.
+[^935]: Leaf p389 (fol. 385r): Melodic model (Podoben) *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ᲊпова́нїе):* corresponds to Greek *Ὅλην ἀποθέμενοι*.
 [^936]: Folio 379 corresponds to physical leaf p383.
 [^937]: Leaf p390 (fol. 386r): Headpiece opening of the Great Feast of Holy Pentecost (Fifty Days after Pascha), beginning Part V of the publication spec.
 [^938]: Leaf p390 (fol. 386r): Melodic model (Podoben) *Tone 1, Podoben: "Joy of the heavenly ranks" (Небе́сныхъ чино́въ):* corresponds to Greek *Τῶν οὐρανίων ταγμάτων*.
@@ -1212,7 +1212,7 @@
 [^951]: LXX Psalm 50:13.
 [^952]: Leaf p393 (fol. 389r): Troparion of Holy Pentecost in Tone 8 (*Блгⷭ҇ве́нъ є҆сѝ хрⷭ҇тѐ бж҃е на́шъ* / *Blessed art Thou, O Christ our God*).
 [^953]: Leaf p393 (fol. 389r): Melodic model (Podoben) *Tone 4, Podoben: "Thou who wast lifted up upon the Cross" (Ꙗ҆ви́лся є҆сѝ дне́сь):* corresponds to Greek *Ἐπεφάνης σήμερον*.
-[^954]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):* corresponds to Greek *Τὸν συνάнаρχον Λόγον*.
+[^954]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):* corresponds to Greek *Τὸν συνάναρχον Λόγον*.
 [^955]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 8, Podoben: "That which was mystically commanded" (Повелѣ́нное та́инственно):* corresponds to Greek *Τὸ προσταχθὲν μυστικῶς*.
 [^956]: LXX Psalm 142:10.
 [^957]: Leaf p394 (fol. 389v): Gospel reading at Pentecost Matins: John 20:19–23.
@@ -1235,7 +1235,7 @@
 [^974]: Leaf p397 (fol. 393r): Ode 8 Heirmos of the Second (Iambic) Canon.
 [^975]: Leaf p398 (fol. 393v): Ode 9 Heirmos of the First Canon.
 [^976]: Leaf p398 (fol. 393v): Ode 9 Heirmos of the Second (Iambic) Canon.
-[^977]: Leaf p398 (fol. 393v): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸн τοῖς ἄστροις*.
+[^977]: Leaf p398 (fol. 393v): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸν τοῖς ἄστροις*.
 [^978]: Leaf p398 (fol. 394r): Stichera at the Praises (Lauds) in Tone 4, based on the narrative of Acts 2:1–11.
 [^979]: Leaf p399 (fol. 394v): Liturgy Antiphons for the Feast of Pentecost based on LXX Psalms 18, 19, and 20.
 [^980]: Leaf p399 (fol. 394v): Galatians 3:27, replacing the Trisagion at the Divine Liturgy of Pentecost.

@@ -15,14 +15,14 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 4 | `f. 7v (p18)` | f. 7v (p18), f. 11r (p21), f. 19r (p29), f. 22v (p33) | *Τὸν τάφον σου Σωτήρ* |
-| Tone 2 | `POD.T2.MILOSERDIA_SUSHCHI` | **Being the wellspring of loving-kindness** | 2 | `f. 37v (p48)` | f. 37v (p48), f. 49r (p59) | *Εὐσπλαγχνίας ὑπάρχουσα πηγή* |
-| Tone 2 | `POD.T2.EXT_WE_HAVE_BECOME` | **We have become partakers of the divine** | 1 | `f. 45r (p55)` | f. 45r (p55) | *—* |
-| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | **Of the divine faith** | 1 | `f. 61r (p71)` | f. 61r (p71) | *Θείας πίστεως* |
-| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 1 | `f. 65r (p75)` | f. 65r (p75) | *Τὴν ὡραιότητα τῆς παρθενίας σου* |
-| Tone 8 | `POD.T8.EXT_TO_THEE_THE` | **To thee, the Champion Leader** | 2 | `f. 185r (p195)` | f. 185r (p195), f. 188v (p199) | *—* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 4 | `f. 7v (p18)` | f. 7v (p18), f. 11r (p21), f. 19r (p29), f. 22v (p33) |
+| Tone 2 | `POD.T2.MILOSERDIA_SUSHCHI` | **Being the wellspring of loving-kindness** | 2 | `f. 37v (p48)` | f. 37v (p48), f. 49r (p59) |
+| Tone 2 | `POD.T2.EXT_WE_HAVE_BECOME` | **We have become partakers of the divine** | 1 | `f. 45r (p55)` | f. 45r (p55) |
+| Tone 3 | `POD.T3.BOZHESTVENNYYA_VERY` | **Of the divine faith** | 1 | `f. 61r (p71)` | f. 61r (p71) |
+| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 1 | `f. 65r (p75)` | f. 65r (p75) |
+| Tone 8 | `POD.T8.EXT_TO_THEE_THE` | **To thee, the Champion Leader** | 2 | `f. 185r (p195)` | f. 185r (p195), f. 188v (p199) |
 
 ---
 
@@ -34,10 +34,10 @@
 | 2 | `f. 11r` (p21) | T1 | ON MONDAY AT SMALL COMPLINE (TONE 1) — *Hymnographic Propers* | *Гро́бъ тво́й Сп҃се* | **While the soldiers were guarding Thy tomb** | "Pilot my wretched soul, O Pure One, and have compassion..." |
 | 3 | `f. 19r` (p29) | T1 | ON WEDNESDAY AT SMALL COMPLINE (TONE 1) — *Hymnographic Propers* | *Гро́бъ тво́й Сп҃се* | **While the soldiers were guarding Thy tomb** | "O Virgin and Nourisher of One of the Trinity, adorned..." |
 | 4 | `f. 22v` (p33) | T1 | ON THURSDAY AT SMALL COMPLINE (TONE 1) — *Hymnographic Propers* | *Гро́бъ тво́й* | **While the soldiers were guarding Thy tomb** | "Beholding the Lamb and Shepherd hanging dead upon the Tree,..." |
-| 5 | `f. 37v` (p48) | T2 | ON MONDAY AT SMALL COMPLINE (TONE 2) — *Hymnographic Propers* | *Милосе́рдія сꙋ́щи и҆сто́чникъ* | **Being the wellspring of loving-kindness** | "Beholding the cruel slothfulness of my soul and the exhaustion..." |
+| 5 | `f. 37v` (p48) | T2 | ON MONDAY AT SMALL COMPLINE (TONE 2) — *Hymnographic Propers* | *Милосе́рдїа сꙋ́щи* | **Being the wellspring of loving-kindness** | "Beholding the cruel slothfulness of my soul and the exhaustion..." |
 | 6 | `f. 45r` (p55) | T2 | ON WEDNESDAY AT SMALL COMPLINE (TONE 2) — *Hymnographic Propers* | *Бж҃їю бы́хомъ* | **We have become partakers of the divine** | "Vouchsafe me the divine entrance, O Pure One, by thy..." |
-| 7 | `f. 49r` (p59) | T2 | ON THURSDAY AT SMALL COMPLINE (TONE 2) — *Hymnographic Propers* | *Милосе́рдія сꙋ́щи и҆сто́чникъ* | **Being the wellspring of loving-kindness** | "Beholding Thee hanging dead upon the Tree, O Christ, Thy..." |
-| 8 | `f. 61r` (p71) | T3 | ON SUNDAY AT SMALL COMPLINE (TONE 3) — *Hymnographic Propers* | *Бж҃е́ственныя вѣ́ры* | **Of the divine faith** | "Thou didst become the divine Tabernacle of the Word, O..." |
+| 7 | `f. 49r` (p59) | T2 | ON THURSDAY AT SMALL COMPLINE (TONE 2) — *Hymnographic Propers* | *Милосе́рдїа сꙋ́щи* | **Being the wellspring of loving-kindness** | "Beholding Thee hanging dead upon the Tree, O Christ, Thy..." |
+| 8 | `f. 61r` (p71) | T3 | ON SUNDAY AT SMALL COMPLINE (TONE 3) — *Hymnographic Propers* | *Боже́ственныя вѣ́ры* | **Of the divine faith** | "Thou didst become the divine Tabernacle of the Word, O..." |
 | 9 | `f. 65r` (p75) | T3 | ON MONDAY AT SMALL COMPLINE (TONE 3) — *Hymnographic Propers* | *Красотѣ̀ дѣ́вства* | **Beholding the beauty of thy virginity** | "O thou who didst carry the Merciful One in thy..." |
 | 10 | `f. 185r` (p195) | T8 | ON SATURDAY AT SMALL COMPLINE (TONE 8) — *Hymnographic Propers* | *Возбра́нной Воево́дѣ* | **To thee, the Champion Leader** | "To thee, the Champion Leader, do we thy servants dedicate..." |
 | 11 | `f. 188v` (p199) | T8 | ON SUNDAY AT SMALL COMPLINE (TONE 8) — *Hymnographic Propers* | *Возбра́нной Воево́дѣ* | **To thee, the Champion Leader** | "Let us the faithful praise another piety for the hosts,..." |

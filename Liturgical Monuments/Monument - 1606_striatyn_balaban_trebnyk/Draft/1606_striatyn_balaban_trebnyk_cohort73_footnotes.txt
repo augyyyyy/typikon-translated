@@ -1,4 +1,4 @@
-[^2024]: Physical leaf p721 (`Page_0721.jpg`, fol. 325r, signature ж ж). Following the 8-tone cycle of the funeral office for monastics, the deacon intones the Little Litany (`па́ки и҆ па́ки`), followed by the priest's ecphonesis and the Kontakion in Tone 8 (`С̾ ст҃ыми поко́и Хрⷭ҇ѐ` / Greek: Μετὰ τῶν ἁγίων ἀνάпаυσον, Χριστέ). The rubric `ко҃` abbreviates `кондакъ`.
+[^2024]: Physical leaf p721 (`Page_0721.jpg`, fol. 325r, signature ж ж). Following the 8-tone cycle of the funeral office for monastics, the deacon intones the Little Litany (`па́ки и҆ па́ки`), followed by the priest's ecphonesis and the Kontakion in Tone 8 (`С̾ ст҃ыми поко́и Хрⷭ҇ѐ` / Greek: Μετὰ τῶν ἁγίων ἀνάπαυσον, Χριστέ). The rubric `ко҃` abbreviates `кондакъ`.
 
 [^2025]: Physical leaf p721 (`Page_0721.jpg`, fol. 325r). The funeral Ikos `Ты̀ є҆ди́нъ є҆си без̾сме́ртне` (Greek: Αὐτὸς μόνος εἶ ἀθάνατος) quotes Gen. 3:19 ("for dust thou art, and unto dust shalt thou return"). The phrase "graveside weeping" (`на́дгробное рыда́нїе`) reflects the Greek ἐπιτάφιον θρῆνον.
 
@@ -18,7 +18,7 @@
 
 [^2033]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Theotokion at the Beatitudes for *Both now...*, confessing the virginal conception of Christ without human seed (`без̾сѣ́мене бо роди́ла є҆си пло́тїю Бг҃а`).
 
-[^2034]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Prokeimenon of the monastic funeral office in Tone 6: `Блаже́нъ поу́ть въ́ньже по́идеши бра́те дне́сь, ꙗ҆́ко оу҆гото́ва́ ти сѧ мѣ́сто поко́ино` (Greek: Μακαρία ἡ ὁδός, ᾗ πορεύῃ σήμερον, ἀδελφέ, ὅτι ἡτοιμάσθη σοι τόπος ἀναпаύσεως).
+[^2034]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Prokeimenon of the monastic funeral office in Tone 6: `Блаже́нъ поу́ть въ́ньже по́идеши бра́те дне́сь, ꙗ҆́ко оу҆гото́ва́ ти сѧ мѣ́сто поко́ино` (Greek: Μακαρία ἡ ὁδός, ᾗ πορεύῃ σήμερον, ἀδελφέ, ὅτι ἡτοιμάσθη σοι τόπος ἀναπαύσεως).
 
 [^2035]: Physical leaf p723 (`Page_0723.jpg`, fol. 326r). Verse of the Prokeimenon, quoting LXX Ps. 114:7 (`Ѡ҆брати́сѧ, дш҃е моѧ̀, въ поко́й тво́й, ꙗ҆́ко Гдⷭ҇ь бл҃госотворѝ тебѣ̀` / Greek: Ἐπίστρεψον, ψυχή μου, εἰς τὴν ἀνάπαυσίν σου, ὅτι Κύριος εὐηργέτησέ σε).
 

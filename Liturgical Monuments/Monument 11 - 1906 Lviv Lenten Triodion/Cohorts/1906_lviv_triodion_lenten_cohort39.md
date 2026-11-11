@@ -234,7 +234,7 @@ and he that holds back anger is better than one that takes a city.]
 Thou didst stretch out Thy palms upon the tree, O Christ, healing Adam's wound by Thy wounds; therefore I pray Thee: heal my wounds which the deceiver has inflicted upon my soul, and count me worthy in prayer and fasting, O Savior, to be well-pleasing unto Thee!  
 *Twice.*
 
-*Stavrotheotokion, Podoben:*  
+*Stavrotheotokion, Podoben (Подо́бенъ):*  
 Seeing Thee, O Christ, stretched out dead upon the Cross, the all-blameless Mother cried aloud: O My Son, co-unoriginate with the Father and the Spirit, what ineffable dispensation of Thine is this, whereby Thou hast saved the creation of Thine all-pure hands, O Merciful One?
 
 *After the Third Stichologia, Sessional Hymn.*  
@@ -242,7 +242,7 @@ Seeing Thee, O Christ, stretched out dead upon the Cross, the all-blameless Moth
 O Cross, guardian of the world, driver-away of demons, invincible protection unto all who have acquired thee: grant us with a pure conscience to traverse the remainder of the fast, making our souls right before Christ, O blessed Wood!  
 *Twice.*
 
-*Stavrotheotokion, Podoben:*  
+*Stavrotheotokion, Podoben (Подо́бенъ):*  
 O pure and honorable Virgin, glory of angels, when thou didst stand by the Cross of thy Son and God, unable to bear the sight of the enemies' mockings, thou didst cry aloud, lamenting with a mother's grief: How dost Thou endure the threats of all, O Lover of mankind? Glory to Thy long-suffering!
 
 *Triodion by Lord Joseph.*  

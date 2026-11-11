@@ -44,10 +44,10 @@ The Root of all and Giver of life, the Word co-eternal with the Divine Father, t
 
 When the Jewish feast was half over, O Christ, Thou didst stand in the sanctuary, the Master of the Law, teaching with authority and convicting the scribes, even as it is written, and astonishing them by the wisdom of Thy words and the display of miracles.[^926]
 
-The Giver of wisdom and Dispenser of good things, pouring forth Divine streams from the ever-flowing fountain, cries aloud: Come unto Me, ye that thirst, draw water of life; and rivers of Divine gifts, saith He, shall flow out of your belly.[^927]
+The Giver of wisdom and Dispenser of good things, pouring forth Divine streams from the ever-flowing fountain, cries aloud: Come unto Me, ye that thirst, draw water of life; and rivers of Divine gifts, says He, shall flow out of your belly.[^927]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 2:*  
-When Thou didst come into the sanctuary, O Christ God, at Mid-feast, then didst Thou teach the people, crying aloud: He that believs on Me, though he die, yet shall he live! But the Jews flared with rage, together with the Pharisees, Sadducees, and scribes, saying: Who is this that speaks blasphemy? Not considering that Thou art our God, Who art before all ages, glorified with the Father and the Spirit: glory to Thee![^928]
+When Thou didst come into the sanctuary, O Christ God, at Mid-feast, then didst Thou teach the people, crying aloud: He that believes on Me, though he die, yet shall he live! But the Jews flared with rage, together with the Pharisees, Sadducees, and scribes, saying: Who is this that speaks blasphemy? Not considering that Thou art our God, Who art before all ages, glorified with the Father and the Spirit: glory to Thee![^928]
 
 *At the Aposticha, stichera of the Octoechos.*  
 *Tone 4:*  
@@ -148,7 +148,7 @@ In fiery flame the Cherubim and Seraphim stand before Thee, O Lord, and all crea
 Having torn asunder the handwriting of Adam by the Cross, O Lord, Thou hast now poured forth blessing unto us, becoming a curse of Thine own will, O Christ; therefore we bless Thee continually unto the ages.[^963]
 
 *Troparion [Acrostic letter I]:*  
-The assembly of holy disciples, O Lord, beheld Thee risen from the dead, and was filled with mystical consolation, unto whom Thou didst cry aloud: Knowing Me to be God the Giver of life, go forth, saith He, proclaim Me the King of all![^964]
+The assembly of holy disciples, O Lord, beheld Thee risen from the dead, and was filled with mystical consolation, unto whom Thou didst cry aloud: Knowing Me to be God the Giver of life, go forth, says He, proclaim Me the King of all![^964]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit.*  
 *Troparion [Acrostic letter A]:*  
@@ -193,12 +193,12 @@ At the mid-point of the feast of Thy Resurrection, O Christ, and of the Divine c
 The mid-point of the days of Pentecost hath arrived, wherein Christ, revealing in part His Divine power, strengthened the paralytic by a word, raising him from his bed; and performing miracles in God-befitting manner in the body He had fashioned, He bestowed upon men eternal life and great mercy.[^978]
 
 *Verse: Remember Thy congregation, which Thou hast purchased from the beginning.*[^979]  
-Thou didst come into the sanctuary, O Wisdom of God, when the feast was half over, teaching and convicting the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me and drink living water, and he shall never thirst unto the ages; he that believs in My goodness, out of his belly shall flow rivers of eternal life! O Thy goodness and Thy compassion, O Christ our God, glory to Thee![^980]
+Thou didst come into the sanctuary, O Wisdom of God, when the feast was half over, teaching and convicting the disobedient Jews, Pharisees, and scribes, and crying aloud with boldness unto them: Let him that thirsts come unto Me and drink living water, and he shall never thirst unto the ages; he that believes in My goodness, out of his belly shall flow rivers of eternal life! O Thy goodness and Thy compassion, O Christ our God, glory to Thee![^980]
 
 === LEAF p418 ===
 *Verse: But God is our King before the ages; He hath wrought salvation in the midst of the earth.*[^981]  
 *Tone 2:*  
-When the mid-point of the feast arrived, Jesus went up into the sanctuary and taught the disobedient Jews, saying: Let him that thirsts come unto Me and drink living and eternal water, and he shall never thirst unto the age; he that believs on Me, rivers shall flow out of his belly, and he shall have the light of life![^982]
+When the mid-point of the feast arrived, Jesus went up into the sanctuary and taught the disobedient Jews, saying: Let him that thirsts come unto Me and drink living and eternal water, and he shall never thirst unto the age; he that believes on Me, rivers shall flow out of his belly, and he shall have the light of life![^982]
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. Tone 8:*  
 When the feast was half over, as Thou wast teaching, O Savior, the Jews said: How knows this Man letters, having never learned? Not understanding that Thou art the Wisdom that fashioned the world: glory to Thee![^983]
@@ -238,7 +238,7 @@ Having been enlightened, brethren, by the Resurrection of Christ the Savior, and
 *Tone 4, Podoben: "Being called from on high" (Зва́нный свы́ше):*  
 Finding the Samaritan woman at the well, Christ asked of her water to drink, thirsting for her correction and salvation, which is understood as fulfilled by deeds; for as she was drawing a drink, He Himself drew her away from that drink and filled her with the living drink, as she proclaimed unto her fellow citizens: Behold, Christ the Messiah, Who of old was spoken of in the Law, hath appeared as man, revealing the ineffable secrets of our thoughts![^995]
 
-Behold, Christ the Messiah hath appeared on earth! the Samaritan woman saith unto those in the city: The great Prophet written of old in the Law to come, God and man, Who told me the things that I have done, and all things hidden in the depth of my heart He declared unto me, even as I committed them! Therefore the city, having flocked together, sees that her words are true in every way, and is astonished at the matter, and strengthened by the sight.[^996]
+Behold, Christ the Messiah hath appeared on earth! the Samaritan woman says unto those in the city: The great Prophet written of old in the Law to come, God and man, Who told me the things that I have done, and all things hidden in the depth of my heart He declared unto me, even as I committed them! Therefore the city, having flocked together, sees that her words are true in every way, and is astonished at the matter, and strengthened by the sight.[^996]
 
 The daughter of the ancestral mother, who of old at the sixth hour beheld Thee, God the Master, walking in Paradise, again beheld Thee at the sixth hour sitting where there was a spring of water and a dug well, asking of her to drink, that Thou mightest give her to drink of the water of incorruptible life, which indeed came to pass: for having drunk abundantly of Thy life-bearing water, she also proclaimed in the city what manner of wealth was Thine![^997]
 

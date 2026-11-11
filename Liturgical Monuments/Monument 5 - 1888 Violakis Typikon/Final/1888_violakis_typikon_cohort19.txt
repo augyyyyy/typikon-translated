@@ -3,7 +3,7 @@
 Ἄμωμος. Καθίσματα εἰς τὴν α΄ καὶ β΄ Στιχολογίαν ἀνὰ δύο Ἀναστάσιμα, καὶ ἀνὰ ἓν τῆς ἑορτῆς, εἶτα τὰ Εὐλογητάρια, ἡ Ὑπακοή, οἱ Ἀναβαθμοὶ τοῦ ἤχου καὶ τὸ Προκείμενον. Κανόνες ὁ Ἀναστάσιμος, καὶ οἱ τῆς ἑορτῆς· ἀπὸ γ΄ Ὠδῆς τὸ Κάθισμα *Ἡ Παρθένος Μαριὰμ* ἅπαξ, ἀφ’ ς΄ Κοντάκιον καὶ Οἶκος τὰ Ἀναστάσιμα, καὶ τὸ Μηνολόγιον τῶν Ἁγίων τῆς ἡμέρας, αἱ Καταβασίαι *Σταυρὸν χαράξας* καὶ ἅπασα ἡ τάξις τοῦ Ἑωθινοῦ Εὐαγγελίου, εἶτα στιχολογοῦμεν *Τὴν τιμιωτέραν*, καὶ μετ’ αὐτὴν ψάλλεται ἡ Θ΄ τῆς ἑορτῆς. Ἐξαποστειλάρια τὸ Ἀναστάσιμον καὶ τὸ τῆς ἑορτῆς. Εἰς τοὺς Αἴνους Ἀναστάσιμα δ΄ καὶ τῆς ἑορτῆς δ΄, *Δόξα* *Αὕτη ἡμέρα Κυρίου*, *Καὶ νῦν* *Ὑπερευλογημένη*· Δοξολογία Μεγάλη, *Σήμερον σωτηρία*, καὶ καθεξῆς ἡ Λειτουργία μετὰ τῶν Ἀντιφώνων ὡς ἐν τῇ ἰδίᾳ ἡμέρᾳ τῆς ἑορτῆς, ὁ Ἀπόστολος καὶ τὸ Εὐαγγέλιον τῆς Κυριακῆς πρὸ τῆς Ὑψώσεως. Εἰς τὸ *Ἐξαιρέτως* *Ἀλλότριον τῶν μητέρων*· Κοινωνικὸν *Ποτήριον σωτηρίου*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
     Σημειωτέον ὅτι, ὅταν τύχῃ ἡ Ἀπόδοσις ἐν Σαββάτῳ, Ἀπόστολος καὶ Εὐαγγέλιον λέγονται τοῦ Σαββάτου πρὸ τῆς Ὑψώσεως.
 
-### Τῇ ΙΓ΄. Μνήμη τῶν Ἐγκαινίων [τοῦ Ναοῦ τῆς Ἀναστάσεως εἰς Ἱεροσόλυμα] καὶ Προεόρτια [τῆς Ὑψώσεως] τοῦ Τιμίου Σταυροῦ, καὶ τοῦ ἁγίου Μάρτυρος Κορνηλίου.
+**Τῇ ΙΓ΄. Μνήμη τῶν Ἐγκαινίων [τοῦ Ναοῦ τῆς Ἀναστάσεως εἰς Ἱεροσόλυμα] καὶ Προεόρτια [τῆς Ὑψώσεως] τοῦ Τιμίου Σταυροῦ, καὶ τοῦ ἁγίου Μάρτυρος Κορνηλίου.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῶν Ἐγκαινίων ἐν πάσῃ ἄλλῃ ἡμέρᾳ, πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται μετὰ τῶν Προεορτίων τοῦ Σταυροῦ ὥς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ.
 2.    Ἄν τύχωσι τὰ Ἐγκαίνια ἐν Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν ἀναστάσιμα Στιχηρὰ δ΄, τῶν Ἐγκαινίων γ΄ καὶ Προεόρτια τοῦ Σταυροῦ γ΄ τὰ ἐν τῷ μικρῷ Ἑσπερινῷ *Ὑψουμένου σου Δέσποτα*· *Δόξα* *Τὴν μνήμην τῶν Ἐγκαινίων*· *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρὸν*, τὸ Προκείμενον, καὶ τὰ Ἀναγνώσματα τῶν Ἐγκαινίων. Εἰς τὰ Ἀπόστιχα τὰ ἀναστάσιμα Στιχηρά, *Δόξα καὶ νῦν* *Σύ μου σκέπη κραταιὰ*, Ἀπολυτίκια τὸ Ἀναστάσιμον, τῶν Ἐγκαινίων, τὸ Προεόρτιον *Τὸν ζωοποιὸν Σταυρὸν* καὶ Ἀπόλυσις.
@@ -18,7 +18,7 @@
 
     Note that, when the Apodosis occurs on Saturday, the Epistle and Gospel appointed are those of the Saturday before the Exaltation [1 Cor. 2:6–9; Matt. 10:37–11:1].
 
-### The 13th Day. Commemoration of the Consecration of the Temple of the Holy Resurrection in Jerusalem, and Forefeast of the Universal Exaltation of the Precious Cross, and the Holy Hieromartyr Cornelius the Centurion.[^148]
+**The 13th Day. Commemoration of the Consecration of the Temple of the Holy Resurrection in Jerusalem, and Forefeast of the Universal Exaltation of the Precious Cross, and the Holy Hieromartyr Cornelius the Centurion.[^148]**
 
 1.    If the commemoration of the Consecration occurs on any weekday except Sunday: the service is chanted together with the hymns of the Forefeast of the Cross as appointed in the Menaion.
 2.    If the Consecration occurs on Sunday: on Saturday evening at Great Vespers, after the Introductory Psalm and the Psalter [Kathisma 1], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing 4 Resurrection Stichira, 3 Stichira of the Consecration, and 3 Stichira of the Forefeast of the Cross from Small Vespers: **"Lifted high upon the Cross, O Master"** (*Ὑψουμένου σου Δέσποτα*); **"Glory"**: **"The commemoration of the Consecration"** (*Τὴν μνήμην τῶν Ἐγκαινίων*); **"Both now"**: the First Dogmatic Theotokion of the Tone. Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings of the Consecration [1 Kings 8:22–30; Prov. 3:19–34; Prov. 9:1–11]. At the Aposticha: the Resurrection Stichira; **"Glory"**, **"Both now"**: **"Thou art my powerful protection"** (*Σύ μου σκέπη κραταιὰ ὑπάρχεις*). Dismissal Troparia: the Resurrection Dismissal Troparion, that of the Consecration, that of the Forefeast: **"The Life-creating Cross of Thy goodness"** (*Τὸν ζωοποιὸν Σταυρὸν*), and Dismissal.
@@ -33,7 +33,7 @@
 4.    Εἰς τὴν Λειτουργίαν τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῶν Ἐγκαινίων, μετὰ τὴν Εἴσοδον τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ Προεόρτιον *Τὸν ζωοποιὸν Σταυρὸν τῆς σῆς ἀγαθότητος*, τῶν Ἐγκαινίων *Ὡς τοῦ ἄνω στερεώματος*, τὸ τοῦ Ἁγίου τοῦ Ναοῦ, καὶ Κοντάκιον *Οὐρανὸς πολύφωτος ἡ Ἐκκλησία*, Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς πρὸ τῆς Ὑψώσεως. Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
     Ὅταν δὲ συμπέσῃ ἡ μνήμη τῶν Ἐγκαινίων ἐν Σαββάτῳ, Ἀπόστολος λέγεται τοῦ Σαββάτου πρὸ τῆς Ὑψώσεως, καὶ Εὐαγγέλιον τῶν Ἐγκαινίων, Κοινωνικὸν *Κύριε ἠγάπησα εὐπρέπειαν Οἴκου σου*.
 
-### Τῇ ΙΔ΄. Ἡ παγκόσμιος Ὕψωσις τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ.
+**Τῇ ΙΔ΄. Ἡ παγκόσμιος Ὕψωσις τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ.**
 
 *(Σημείωσις. Ἰστέον ὅτι, κατὰ τὴν μεγάλην ταύτην ἡμέραν τῆς Ὑψώσεως ἀνεπαύσατο ἐν Κυρίῳ ὁ ἐν ἁγίοις πατὴρ ἡμῶν Ἰωάννης ὁ Χρυσόστομος, οὐ ψάλλεται δὲ ἡ Ἀκολουθία αὐτοῦ ἐν τῇ ἡμέρᾳ τῆς Ὑψώσεως, μετατεθείσης τῆς μνήμης αὐτοῦ τῇ ιγ τοῦ Νοεμβρίου ἵνα μείνωσι τὰ τῆς Ἀκολουθίας αὐτοῦ ἀνελλιπῆ καὶ ἀμείωτα).*
 
@@ -49,7 +49,7 @@
 4.    At the Divine Liturgy: the Typika, and 4 Beatitudes of the Tone and 4 Troparia from the Sixth Ode of the Canon of the Consecration. After the Little Entrance: the Resurrection Dismissal Troparion, the Forefeast Troparion: **"The Life-creating Cross of Thy goodness"** (*Τὸν ζωοποιὸν Σταυρὸν τῆς σῆς ἀγαθότητος*), that of the Consecration: **"As Thou hadst shown from on high"** (*Ὡς τοῦ ἄνω στερεώματος*), that of the Patron Saint of the temple, and the Kontakion: **"A fully illumined heaven is the Church"** (*Οὐρανὸς πολύφωτος ἡ Ἐκκλησία*); the Epistle and Gospel of the Sunday before the Exaltation of the Precious Cross [Gal. 6:11–18; John 3:13–17]. At the Megalynarion: **"It is truly meet"** (*Ἄξιόν ἐστιν*); Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.
     When the commemoration of the Consecration occurs on a Saturday: the Epistle appointed is that of the Saturday before the Exaltation [1 Cor. 2:6–9], and the Gospel is that of the Consecration [John 10:22–28]; Communion Verse: **"Lord, I have loved the comeliness of Thy house"** (*Κύριε, ἠγάπησα εὐπρέπειαν οἴκου σου*, Ps. 25:8 LXX).
 
-### The 14th Day. The Universal Exaltation of the Precious and Life-Creating Cross.[^149]
+**The 14th Day. The Universal Exaltation of the Precious and Life-Creating Cross.[^149]**
 
 *(Rubrical Note: It must be borne in mind that, on this great day of the Exaltation, our holy Father John Chrysostom reposed in the Lord. His service, however, is not chanted on the day of the Exaltation; rather, his commemoration is transferred to November 13, so that the hymns of his service may remain complete and undiminished.)*
 
@@ -92,21 +92,21 @@
 
 7.    Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα.
 
-#### Ἀντίφωνον Α΄ Ἦχος β΄.
+**Ἀντίφωνον Α΄ Ἦχος β΄.**
 *Ὁ θεός, ὁ θεός μου πρόσχες μοι, ἵνα τί ἐγκατέλιπές με;*  
 *Μακρὰν ἀπὸ τῆς σωτηρίας μου οἱ λόγοι τῶν παραπτωμάτων μου.*  
 *Ὁ θεός μου κεκράξομαι ἡμέρας καὶ οὐκ εἰσακούσῃ·*  
 *Σὺ δὲ ἐν Ἁγίῳ κατοικεῖς, ὁ ἔπαινος τοῦ Ἰσραήλ.*  
 *Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς.*
 
-#### Ἀντίφωνον Β΄ Ἦχος β΄.
+**Ἀντίφωνον Β΄ Ἦχος β΄.**
 *Ἵνα τί ὁ θεὸς ἀπώσω εἰς τέλος;*  
 *Μνήσθητι τῆς συναγωγῆς σου, ἧς ἐκτήσω ἀπ’ ἀρχῆς.*  
 *Ὄρος Σιὼν τοῦτο, ὃ κατεσκήνωσας ἐν αὐτῷ.*  
 *Ὁ δὲ θεὸς Βασιλεὺς ἡμῶν, πρὸ αἰώνων εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς.*  
 *Σῶσον ἡμᾶς, Υἱὲ Θεοῦ, ὁ σαρκὶ σταυρωθείς, ψάλλοντάς σοι, Ἀλληλούϊα* (οἵα ἄν ἡμέρα τύχῃ).
 
-#### [Ἀντίφωνον Γ΄ Ἦχος α΄.]*
+**[Ἀντίφωνον Γ΄ Ἦχος α΄.]***
 *Ὁ Κύριος ἐβασίλευσεν, ὀργιζέσθωσαν λαοί.*  
 *Κύριος ἐν Σιὼν μέγας καὶ ὑψηλός ἐστιν ἐπὶ πάντας τοὺς λαούς.*  
 *Ἐξομολογησάσθωσαν τῷ ὀνόματί σου τῷ μεγάλῳ, ὅτι φοβερὸν καὶ ἅγιόν ἐστιν.*  
@@ -122,7 +122,7 @@
 
 7.    At the Divine Liturgy: the Festal Antiphons.[^152]
 
-#### Antiphon 1 [Tone 2; Psalm 21 LXX]
+**Antiphon 1 [Tone 2; Psalm 21 LXX]**
 Verse 1: **"O God, my God, attend unto me: why hast Thou forsaken me?"** (*Ὁ Θεός, ὁ Θεός μου, πρόσχες μοι· ἵνα τί ἐγκατέλιπές με;*, Ps. 21:2 LXX)  
 Refrain: **"Through the intercessions of the Theotokos, O Savior, save us"** (*Ταῖς πρεσβείαις τῆς Θεοτόκου, Σῶτερ, σῶσον ἡμᾶς*).  
 Verse 2: **"Far from my salvation are the words of my transgressions"** (*Μακρὰν ἀπὸ τῆς σωτηρίας μου οἱ λόγοι τῶν παραπτωμάτων μου*, Ps. 21:2 LXX)  
@@ -132,7 +132,7 @@ Refrain: **"Through the intercessions of the Theotokos, O Savior, save us."**
 Verse 4: **"But Thou dwellest in the sanctuary, O Thou Praise of Israel"** (*Σὺ δὲ ἐν Ἁγίῳ κατοικεῖς, ὁ ἔπαινος τοῦ Ἰσραήλ*, Ps. 21:4 LXX)  
 Refrain: **"Through the intercessions of the Theotokos, O Savior, save us."**
 
-#### Antiphon 2 [Tone 2; Psalm 73 LXX]
+**Antiphon 2 [Tone 2; Psalm 73 LXX]**
 Verse 1: **"O God, why hast Thou cast us off unto the end?"** (*Ἵνα τί, ὁ Θεός, ἀπώσω εἰς τέλος;*, Ps. 73:1 LXX)  
 Refrain: **"Save us, O Son of God, Who wast crucified in the flesh, who sing unto Thee: Alleluia!"** (*Σῶσον ἡμᾶς, Υἱὲ Θεοῦ, ὁ σαρκὶ σταυρωθείς, ψάλλοντάς σοι· Ἀλληλούϊα*, on whatever day the feast falls).  
 Verse 2: **"Remember Thy congregation which Thou hast purchased from the beginning"** (*Μνήσθητι τῆς συναγωγῆς σου, ἧς ἐκτήσω ἀπ’ ἀρχῆς*, Ps. 73:2 LXX)  
@@ -142,7 +142,7 @@ Refrain: **"Save us, O Son of God, Who wast crucified in the flesh, who sing unt
 Verse 4: **"Yet God is our King before the ages: He hath wrought salvation in the midst of the earth"** (*Ὁ δὲ Θεὸς βασιλεὺς ἡμῶν πρὸ αἰώνων, εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς*, Ps. 73:12 LXX)  
 Refrain: **"Save us, O Son of God, Who wast crucified in the flesh, who sing unto Thee: Alleluia!"**
 
-#### [Antiphon 3: Tone 1; Psalm 98 LXX]*
+**[Antiphon 3: Tone 1; Psalm 98 LXX]***
 Verse 1: **"The Lord is king, let the peoples rage"** (*Ὁ Κύριος ἐβασίλευσεν, ὀργιζέσθωσαν λαοί*, Ps. 98:1 LXX)  
 Refrain: The Dismissal Troparion: **"Save, O Lord, Thy people, and bless Thine inheritance"** (*Σῶσον, Κύριε, τὸν λαόν σου*).  
 Verse 2: **"The Lord is great in Sion, and He is high above all the peoples"** (*Κύριος ἐν Σιὼν μέγας καὶ ὑψηλός ἐστιν ἐπὶ πάντας τοὺς λαούς*, Ps. 98:2 LXX)  

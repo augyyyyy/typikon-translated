@@ -99,7 +99,7 @@ Dwelling in the highest, O Christ King, Creator and Builder of all things visibl
 
 Thou Who dost grant fruitful seasons and rains from heaven unto those on earth, receiving now the supplications of Thy servants, deliver Thy city from every necessity; for Thy compassions are truly upon all Thy works. Therefore bless our entrances and our exits, direct the works of our hands among us, and grant us forgiveness of sins, O God; for Thou, as powerful, didst bring all things from non-being into being.
 
-*Another Sessional Hymn of the Venerable Father, Tone and Podoben the same:*
+*Another Sessional Hymn of the Venerable Father, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Having forsaken all earthly things, and being in the world in the body, in spirit thou wast a heavenly angel. For having put to death by the flesh the passions that assail, thou didst appear as a pleasing servant of the Trinity, O blessed one. Therefore thou healest the ailments of the suffering, and by a word drivest away spirits by grace. O all-blessed Symeon, entreat Christ God to grant forgiveness of transgressions unto those who honor thy holy memory with love.
 

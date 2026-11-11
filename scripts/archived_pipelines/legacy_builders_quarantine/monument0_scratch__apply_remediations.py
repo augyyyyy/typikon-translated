@@ -1,7 +1,7 @@
 import os
 import re
 
-FINAL_DIR = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Translation\Final"
+FINAL_DIR = r"c:\Users\augus\Documents\Google Antigravity\Projects\Translation\Final"
 
 def get_path(filename):
     return os.path.join(FINAL_DIR, filename)

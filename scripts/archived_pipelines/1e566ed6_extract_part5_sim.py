@@ -7,7 +7,7 @@ if hasattr(sys.stdout, 'reconfigure'):
 else:
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-path = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_part5_temple.md"
+path = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_part5_temple.md"
 with open(path, 'r', encoding='utf-8') as f:
     for idx, line in enumerate(f, 1):
         if line.strip().startswith('#'):

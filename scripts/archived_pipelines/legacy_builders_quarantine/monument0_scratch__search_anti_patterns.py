@@ -40,7 +40,7 @@ def detect_bare_except(lines, i, filepath):
 
 
 def detect_hardcoded_paths(line):
-    r"""Check for hardcoded absolute paths like C:\Users, E:\, OneDrive/Documents."""
+    r"""Check for hardcoded absolute paths like C:\Users, E:\, Documents."""
     if re.search(r'[A-Za-z]:\\', line):
         return True
     if re.search(r'OneDrive[\\/]Documents', line):

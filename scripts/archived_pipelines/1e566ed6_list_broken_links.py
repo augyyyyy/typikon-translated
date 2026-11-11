@@ -16,7 +16,7 @@ def slugify(text):
     return slug
 
 def main():
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     master = os.path.join(typikon_dir, "Dolnytsky_Typikon_Master.md")
     report_file = os.path.join(typikon_dir, "broken_links_report.txt")
     

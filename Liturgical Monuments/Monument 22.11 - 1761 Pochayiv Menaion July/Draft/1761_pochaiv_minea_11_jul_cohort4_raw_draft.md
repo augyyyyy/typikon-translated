@@ -7,7 +7,7 @@ Seeing Thee upon the Tree, her Lamb and Shepherd, the Ewe-lamb that bare Thee we
 The multitudes of monastics honor thee as an instructor, O our father Andrew; for by thy path we have truly learned to walk uprightly. Blessed art thou who didst labor for Christ, and didst refute the power of the enemy, O converser with the angels, companion of the venerable and the righteous; with them pray unto the Lord that our souls may be saved!
 
 *Now and ever... Theotokion, or Stavrotheotokion:*
-*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагw чꙋдесѐ):*
+*Tone 8, Podoben: "O Most Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 The undefiled heifer, seeing the Calf nailed willingly upon the Tree, weeping piteously, cried aloud: Woe is me, most beloved Child! What hath the thankless Jewish council rendered unto Thee, desiring to bereave me of Thee, O All-beloved?
 
 *Troparion, Tone 4:*
@@ -88,7 +88,7 @@ Upon the rock of my hope, O most pure one, establish the ascents of my soul; tha
 *Kontakion of Saint Martha, Tone 2, Podoben: "In Prayers" (Въ моли́твахъ):*
 Standing in prayers before the Lord, offering songs and praises unto the most pure Virgin Mother of God, O honored Martha, thou didst bear a sacred child, the most marvelous Symeon, a universal luminary: with him pray ever for all of us!
 
-*Then the Sessional Hymn of Saint Andrew, Tone 4, Podoben: "Speedily Anticipate" (Ско́рw предварѝ):*
+*Then the Sessional Hymn of Saint Andrew, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 As with precious stones, with thy words, O all-wise one, having adorned the crown of the Church, thou wast a sacred priest, O Andrew; therefore after many labors in this life, thou hast received an ageless kingdom and glory: therein remember, O father, those who remember thee!
 
 *Glory... Sessional Hymn of Saint Martha, Tone 4:*

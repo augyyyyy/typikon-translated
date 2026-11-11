@@ -1,6 +1,6 @@
 import os
 
-part1_path = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_part1_structure.md"
+part1_path = r"C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_part1_structure.md"
 
 if not os.path.exists(part1_path):
     print("Part 1 file not found!")

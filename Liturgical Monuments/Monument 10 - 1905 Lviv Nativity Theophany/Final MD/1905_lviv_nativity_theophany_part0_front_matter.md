@@ -45,7 +45,7 @@ Metropolitan
   * [Great Compline on the Nativity of Christ](1905_lviv_nativity_theophany_part2_nativity_feast.md#great-compline-on-the-nativity-of-christ)
   * [Matins on the Nativity of Christ](1905_lviv_nativity_theophany_part2_nativity_feast.md#matins-on-the-nativity-of-christ)
   * [Divine Liturgy on the Nativity of Christ](1905_lviv_nativity_theophany_part2_nativity_feast.md#divine-liturgy-on-the-nativity-of-christ)
-* **[PART III: POST-FEAST OF THE NATIVITY (SYNAXIS OF THE MOST HOLY MOTHER OF GOD & ST. JOSEPH AND ST. STEPHEN THE FIRST-MARTYR)](1905_lviv_nativity_theophany_part3_nativity_postfeast.md#part-iii-post-feast-of-the-nativity-synaxis-of-the-most-holy-mother-of-god-st-joseph-and-st-stephen-the-first-martyr)**
+* **[PART III: AFTERFEAST OF THE NATIVITY (SYNAXIS OF THE MOST HOLY MOTHER OF GOD & ST. JOSEPH AND ST. STEPHEN THE FIRST-MARTYR)](1905_lviv_nativity_theophany_part3_nativity_postfeast.md#part-iii-afterfeast-of-the-nativity-synaxis-of-the-most-holy-mother-of-god-st-joseph-and-st-stephen-the-first-martyr)**
   * [Synaxis of the Most Holy Mother of God and Holy Joseph the Betrothed](1905_lviv_nativity_theophany_part3_nativity_postfeast.md#synaxis-of-the-most-holy-mother-of-god-and-holy-joseph-the-betrothed)
   * [Service of the Holy Apostle, First-Martyr, and Archdeacon Stephen](1905_lviv_nativity_theophany_part3_nativity_postfeast.md#service-of-the-holy-apostle-first-martyr-and-archdeacon-stephen)
 * **[PART IV: THE CIRCUMCISION OF OUR LORD JESUS CHRIST AND ST. BASIL THE GREAT (VESPERS, MATINS, AND DIVINE LITURGY)](1905_lviv_nativity_theophany_part4_circumcision_basil.md#part-iv-the-circumcision-of-our-lord-jesus-christ-and-st-basil-the-great-vespers-matins-and-divine-liturgy)**
@@ -61,7 +61,7 @@ Metropolitan
   * [Matins on Holy Theophany](1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md#matins-on-holy-theophany)
   * [Divine Liturgy on Holy Theophany](1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md#divine-liturgy-on-holy-theophany)
   * [Vespers on the Synaxis of the Holy and Glorious Prophet, Forerunner, and Baptist John](1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md#vespers-on-the-synaxis-of-the-holy-and-glorious-prophet-forerunner-and-baptist-john)
-  * [Original Table of Contents (*Оглавленіе*)](1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md#original-table-of-contents-оглавленіе)
+  * [Original Table of Contents (*Оглавленіе*)](1905_lviv_nativity_theophany_part6_theophany_feast_forerunner.md#original-table-of-contents)
 
 ---
 

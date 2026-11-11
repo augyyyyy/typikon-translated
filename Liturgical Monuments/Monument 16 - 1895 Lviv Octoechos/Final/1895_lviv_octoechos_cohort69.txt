@@ -179,7 +179,7 @@ Hope and wall and haven art thou unto thy people, O Virgin: for from thee withou
 
 *Glory...* Both now and then may I find thy help, O Pure One, in the hour wherein my spirit shall depart; quickly rescuing me, deliver me from the tormenting of demons, O All-Blameless One: and leave me not, O Good One, to be delivered up unto them.[^7227]
 
-*Both now...* I await the compassionate Judge, even Thine own Son, the Lover of mankind, O Pure One! Despise me not, but make Him propitious unto me, that He may place me on the right hand then, O All-Blameless One, before His all-pure judgment seat; for on thee have I set my hope.[^7228]
+*Both now...* I await the compassionate Judge, even thine own Son, the Lover of mankind, O Pure One! Despise me not, but make Him propitious unto me, that He may place me on the right hand then, O All-Blameless One, before His all-pure judgment seat; for on thee have I set my hope.[^7228]
 
 *It is truly meet: Trisagion; and after Our Father: Troparion and the rest as usual.*[^7229]
 

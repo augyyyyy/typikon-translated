@@ -206,8 +206,6 @@ ni ex Frankonia anno 1491[^376]
 
 *[Archival service target slip inserted by the microfilming laboratory certifying that the verso of the final blank leaf (fol. 172v / Blatt 172b) is wanting in this surviving exemplar of the 1491 incunabulum.]*[^382]
 
-## CODICOLOGICAL PROVENANCE, ARCHIVAL INSCRIPTIONS, AND REAR BINDING
-
 [p345LA] *[Rear flyleaf / endpaper of the historical binding, upon which is mounted in the center a rectangular paper slip bearing a nineteenth-century handwritten German collation certificate in cursive ink by a scholarly bibliographer of the Breslau / Wrocław Stadtbibliothek:]*
 
 diese Incunabel enthaelt 172 (Ein hundert siebenzig und zwei) Blaetter

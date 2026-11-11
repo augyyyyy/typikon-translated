@@ -53,10 +53,10 @@ Pasturing with the staff of thy words, O all-sacred shepherd,
 **[Right Page — Fol. 195r]**
 thou didst thereby preserve the rational flock of God unharmed from all wolves; therefore the Good Shepherd led thee into the heavenly sheepfold, where the chosen ancestral spirits of the righteous dwell, O divinely-bearing and all-blessed Eustathius.
 
-*Glory... both now..., Theotokion, the same Tone and Podoben:*
+*Glory... both now..., Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Unto whom hast thou become likened, O wretched soul, in no way rousing thyself unto repentance, and not dreading the fire that awaits the wicked? Arise, and call upon the only one who is swift to help, and cry aloud: O Virgin Mother, entreat Thy Son and our God, to deliver me from the snare of the deceiver.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the Ewe-lamb beheld her Lamb stretched out willingly upon the Tree of the Cross, she cried aloud maternally, grieving with weeping: My Son, what strange sight is this? Thou Who givest life unto all as Lord, how art Thou put to death, O Long-suffering One, granting resurrection unto earthly beings? I glorify Thy great condescension, O my God!
 
 *Troparion, Tone 4:*

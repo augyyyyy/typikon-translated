@@ -184,7 +184,7 @@ O the ineffable goodness of Him Who was incarnate of thee, O all-hymned Theotoko
 "What is this sight seen, which is beheld by mine eyes, O Master? Holding all creation, Thou hast been lifted up upon the Tree, and diest, Who givest life unto all!" the Theotokos said weeping, when she beheld lifted up upon the Cross God and man, Who had ineffably shone forth from her.[^10557]
 
 *Sticheron 6:*  
-Deliver from perils by thy precious prayers the flock which Thy Son and God acquired, sprinkling it with blood, O All-Immaculate One, driving away visible and invisible enemies like beasts; and fill their faces with dishonor, as the hymn-singer David proclaimed of old, O Pure One.[^10558]
+Deliver from perils by thy precious prayers the flock which thy Son and God acquired, sprinkling it with blood, O All-Immaculate One, driving away visible and invisible enemies like beasts; and fill their faces with dishonor, as the hymn-singer David proclaimed of old, O Pure One.[^10558]
 
 *Glory... Both now... Stavrotheotokion:*  
 Beholding Thee nailed upon the Cross, O Jesus, and willingly receiving...[^10559]

@@ -1,8 +1,10 @@
 # TONE 2: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES
 
-## ON SATURDAY EVENING, AT GREAT VESPERS, AT "LORD, I HAVE CRIED"
+## SATURDAY EVENING: VESPERS (TONE 2)
 
-[f. 36rA] *Resurrectional Stichera, Tone 2:*[^46]
+[f. 36rA] *ON SATURDAY EVENING, AT GREAT VESPERS, AT "LORD, I HAVE CRIED"*
+
+*Resurrectional Stichera, Tone 2:*[^46]
 
 *Composition of Saint John of Damascus.*
 
@@ -24,7 +26,7 @@ The guards were terrified, O Lord, and the gates of death and the gatekeepers of
 
 The shadow of the Law passed away when grace arrived: for as the bush burned with fire and was not consumed, so as a Virgin thou didst give birth, and a Virgin thou didst remain; instead of a pillar of fire, the Sun of Righteousness hath shone forth; instead of Moses, Christ, the Salvation of our souls![^47]
 
-### AT THE APOSTICHA
+*AT THE APOSTICHA*
 
 *Resurrectional Stichera, Tone 2:*
 
@@ -36,7 +38,7 @@ Thy resurrection, O Christ Savior, enlightened the whole universe and recalled T
 
 By the Tree, O Savior, Thou didst abolish the curse of the tree; the dominion of death Thou didst put to death by Thy burial, and Thou didst enlighten our race by Thy resurrection: therefore we cry unto Thee: O Giver of life, Christ our God, glory to Thee!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 Thou wast seen nailed upon the Cross, O Christ, reforming the beauty of creation; the soldiers indeed showed cruelty, piercing Thy ribs with a spear, and the Jews asked to seal the tomb, not knowing Thy power: but in Thy tender mercy Thou didst accept burial, and on the third day Thou didst rise: [f. 36vB] O Lord, glory to Thee!
 
@@ -56,8 +58,11 @@ When Thou didst descend unto death, O Life Immortal, then didst Thou slay Hades 
 
 All beyond comprehension, all all-glorious are thy mysteries, O Theotokos: sealed in purity and preserved in virginity, thou wast known to be a true Mother, having given birth unto the true God; pray Him that our souls may be saved!
 
-# ON SUNDAY AT THE MIDNIGHT OFFICE, TRIADICAL CANON
-[f. 37rA] *Composition of Metrophanes.*[^48]
+## SUNDAY MIDNIGHT OFFICE (TONE 2)
+
+[f. 37rA] *ON SUNDAY AT THE MIDNIGHT OFFICE, TRIADICAL CANON*
+
+*Composition of Metrophanes.*[^48]
 
 *Ode 1, Tone 2. Heirmos:*
 
@@ -383,6 +388,8 @@ Thou wast crucified and buried, O Christ, as Thou didst will; Thou didst despoil
 
 Truly, ye lawless ones, having sealed the stone, ye have made us worthy of a greater miracle: the guards know it, having come forth today from the sepulchre; and they said: "Say ye that while we were asleep, His disciples came and stole Him." And who steals a dead body, and especially a naked one? He arose by His own power as God, leaving behind His burial wrappings in the tomb. Come, behold, O Jews, how He hath not broken the seals, He Who hath trampled down death, and granted unending life unto mankind, and great mercy!
 
+## SUNDAY EVENING VESPERS (TONE 2)
+
 *ON SUNDAY EVENING, AT LORD, I HAVE CRIED:*[^57]
 
 *Penitential Stichera, Tone 2.*
@@ -443,7 +450,11 @@ The Passion-bearers, not shaken by earthly pleasures, were accounted worthy of h
 
 Rejoice, O Mother Theotokos, invincible Church, protection and rampart: as the Prophet cries: "Zion, Church of God, in which righteousness hath appeared unto us!"
 
+## MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 2)
+
 [f. 43rA] *ON MONDAY AT MATINS.*[^59]
+
+## SUNDAY MATINS (TONE 2)
 
 *After the 1st Kathisma, Sessional Hymns.*
 
@@ -693,6 +704,8 @@ Ye suffered for Christ even unto death, O Passion-bearing Martyrs: for ye have y
 
 In thee have I placed my hope, O Theotokos: let us not fall away from our expectation; save...
 
+## MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 2)
+
 *ON MONDAY EVENING, AT LORD, I HAVE CRIED:*
 
 *Penitential Stichera, Tone 2.*
@@ -702,6 +715,8 @@ In thee have I placed my hope, O Theotokos: let us not fall away from our expect
 I have surpassed all in sin, what repentance shall I learn? If I sigh like the Publican [f. 46rB] us from perils, O Helper of the perplexed; and overthrow the counsels of adversaries: for thou art our salvation, O blessed one.
 
 *ON MONDAY*
+
+## SUNDAY LITURGY: THE BEATITUDES (TONE 2)
 
 *The Beatitudes, Tone 2:*
 
@@ -754,6 +769,8 @@ When the holy Martyrs pray for us, and hymn Christ: all deceit ceases, and the h
 *Glory: Both now: Theotokion:*
 
 O impassable Door, mystically sealed, blessed Theotokos: receive our prayers, and bring them unto thy Son and our God, that for thy sake He may save our souls.
+
+## TUESDAY MATINS: REPENTANCE AND ST. JOHN THE FORERUNNER (TONE 2)
 
 *ON TUESDAY AT MATINS.*[^63]
 
@@ -1015,7 +1032,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *Glory: Both now: Theotokion:*
 
-"Save Thy servants from perils, O Virgin Theotokos: for under God we all flee unto thee, as unto an unbreakable wall and protectress."
+"Save thy servants from perils, O Virgin Theotokos: for under God we all flee unto thee, as unto an unbreakable wall and protectress."
 
 *On Tuesday at the Beatitudes (Blazhenna), Tone 2:*
 
@@ -1033,7 +1050,9 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "The Fruit of thy womb, O pure one: hath again made him who slipped through the fruit to be an inhabitant of Paradise."
 
-## ON TUESDAY EVENING, AT "LORD, I CALL:"
+## TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 2)
+
+*ON TUESDAY EVENING, AT "LORD, I CALL:"*
 
 *Stichera of the Precious Cross, Tone 2.*
 
@@ -1075,7 +1094,9 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *Glory: Both now: Stavrotheotokion:*
 
-"Having endured many pangs at the Crucifixion of thy Son and God, O all-pure one, she groaned with tears and cried aloud: 'Woe is me, sweet Child! How dost Thou suffer unjustly, desiring to deliver the earthborn descendants of Adam?' Therefore, O all-pure Virgin, we entreat thee in faith: make Him merciful unto us!"
+"Having endured many pangs at the Crucifixion of thy Son and God, O all-pure one, she groaned with tears and cried aloud: 'Woe is me, sweet Child! How dost thou suffer unjustly, desiring to deliver the earthborn descendants of Adam?' Therefore, O all-pure Virgin, we entreat thee in faith: make Him merciful unto us!"
+
+## WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 2)
 
 *On Wednesday at Matins.*
 
@@ -1117,7 +1138,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Preserved by the Precious Cross of thy Son, O pure Lady Theotokos, we easily overcome every assault of the adversary; therefore, as is meet, we bless thee as the Mother of God, the only hope of our souls."
 
-# CANON TO THE PRECIOUS AND LIFE-GIVING CROSS
+*CANON TO THE PRECIOUS AND LIFE-GIVING CROSS*
+
 *Work of Joseph.*[^70]
 
 *Ode 1. Tone 2. Heirmos:*
@@ -1134,7 +1156,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "The sacred company of the Prophets named thee an impassable gate, a chosen land, and an unhewn mountain, O all-pure Lady: for thou didst bear the God of the ages, Who of His own will received crucifixion in the flesh."
 
-# ANOTHER CANON TO THE MOST HOLY THEOTOKOS
+*ANOTHER CANON TO THE MOST HOLY THEOTOKOS*
+
 *Tone 2. Heirmos:*
 
 *"Come, ye peoples, let us sing a song unto Christ God, Who divided the sea and led the people whom He brought out of the bondage of Egypt: for He hath been glorified!"*
@@ -1217,7 +1240,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *"O Giver of light and of the ages:"*
 
-"We the faithful know Thee to be incarnate of thee, O Theotokos, who didst bear the Son without seed: true God, and man by nature: therefore we glorify thee."
+"We the faithful know thee to be incarnate of thee, O Theotokos, who didst bear the Son without seed: true God, and man by nature: therefore we glorify thee."
 
 "Fleeing ever in faith unto thy protection and intercession, O all-pure Virgin, for thy sake we are delivered from great and cruel distress."
 
@@ -1375,9 +1398,11 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Beholding Him upon the Cross Whom thou didst bear without seed: the Maiden hymned His longsuffering with tears."
 
-## ON WEDNESDAY EVENING, AT "LORD, I CALL:"
+## WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 2)
 
-[f. 55rA] *Stichera to the Holy Apostles, Tone 2.*
+[f. 55rA] *ON WEDNESDAY EVENING, AT "LORD, I CALL:"*
+
+*Stichera to the Holy Apostles, Tone 2.*
 
 *Podoben: "When from the Tree" (Егда́ ѿ дрѣ́ва):* [^72]
 
@@ -1417,6 +1442,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Like a fruitful olive tree, O Virgin, thou didst put forth the Fruit of life for us, bearing great and rich mercy for the world."
 
+## THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 2)
+
 *On Thursday at Matins.*
 
 *After the 1st Kathisma, Sessional Hymns of the Apostles, Tone 2:*[^73]
@@ -1453,7 +1480,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "O unwedded and all-pure, holy Theotokos and Bride unwedded: together with the Apostles ever entreat thy Son, Whom thou didst bear in the flesh beyond nature: to grant forgiveness of transgressions, direction for our life, and a change of our passions, unto all that hymn thee."
 
-# CANON TO THE HOLY APOSTLES
+*CANON TO THE HOLY APOSTLES*
+
 *Work of Theophanes.*[^74]
 
 *Ode 1. Tone 2. Heirmos:*
@@ -1470,7 +1498,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Having borne the good God Who works good in all things, O all-pure one: entreat Him, O all-immaculate one, together with the Prophets, Martyrs, and Apostles: to deliver from all perils them that are held captive by distress."
 
-# ANOTHER CANON TO SAINT NICHOLAS
+*ANOTHER CANON TO SAINT NICHOLAS*
+
 *Work of Joseph.*
 
 *Ode 1. Tone 2. Heirmos:*
@@ -1565,7 +1594,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *Theotokion:*
 
-"With Thy light illuminate me who lie in darkness, O Dwelling-place of light: and pray with the Apostles, O all-immaculate one, to deliver me from every necessity."
+"With thy light illuminate me who lie in darkness, O Dwelling-place of light: and pray with the Apostles, O all-immaculate one, to deliver me from every necessity."
 
 *Another [Canon]. Heirmos: O Giver of light:*
 
@@ -1747,9 +1776,11 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "The boast of the Apostles, the adornment of the sufferers art thou, O all-pure Virgin, and the salvation of the world."
 
-## ON THURSDAY EVENING, AT "LORD, I CALL:"
+## THURSDAY EVENING VESPERS (FOR FRIDAY) (TONE 2)
 
-[f. 59rA] *Stichera of the Precious Cross, Tone 2.*
+[f. 59rA] *ON THURSDAY EVENING, AT "LORD, I CALL:"*
+
+*Stichera of the Precious Cross, Tone 2.*
 
 *Podoben: "When from the Tree" (Егда́ ѿ дрѣ́ва):* [^76]
 
@@ -1775,7 +1806,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 [f. 59vA] [...Thee: 'What is this that Thou hast done, O Benefactor] of all? Yet I hymn and glorify Thy supreme loving-kindness, which is beyond mind and word, O Lover of mankind!' "
 
-### AT THE APOSTICHA, STICHERA OF THE CROSS
+*AT THE APOSTICHA, STICHERA OF THE CROSS*
 
 *Tone 2:*
 
@@ -1793,7 +1824,9 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "When the lawless people lifted Thee up upon the Tree, O Savior, the Life of all: then Thine all-pure and immaculate Mother, standing by and weeping, cried aloud: 'O my sweet Child, Light of mine eyes, woe is me! How didst Thou endure to be nailed upon the Cross in the midst of malefactors, Thou Who didst hang the earth upon the waters?' "
 
-## ON FRIDAY AT MATINS
+## FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 2)
+
+*ON FRIDAY AT MATINS*
 
 *After the 1st Psalter Stichology, Sessional Hymns (Sedalna) of the Cross, Tone 2:*[^77]
 
@@ -1829,9 +1862,10 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *Glory: Both now: Stavrotheotokion:*
 
-"Preserved by the Precious Cross of Thy Son, O pure Lady Theotokos: we all easily conquer every assault of the adversary. Therefore, as is meet, we bless thee as the Mother of God, and the sole hope of our souls."
+"Preserved by the Precious Cross of thy Son, O pure Lady Theotokos: we all easily conquer every assault of the adversary. Therefore, as is meet, we bless thee as the Mother of God, and the sole hope of our souls."
 
-# CANON TO THE PRECIOUS AND LIFE-GIVING CROSS
+*CANON TO THE PRECIOUS AND LIFE-GIVING CROSS*
+
 *The Composition of Joseph. Tone 2.*[^78]
 
 *Ode 1. Heirmos:*
@@ -1852,7 +1886,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *Theotokion:*
 
-"The word of the honored Prophet is fulfilled: for a sword pierced through thy heart, O Lady, when thou didst behold Thy Son pierced upon the Cross."
+"The word of the honored Prophet is fulfilled: for a sword pierced through thy heart, O Lady, when thou didst behold thy Son pierced upon the Cross."
 
 *Another Canon, to the Most Holy Theotokos. Tone 2. Heirmos:*
 
@@ -2076,7 +2110,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Bless my humble heart, O Lady, which is injured by pleasurable bars, as the Mother of the Good One, and being good unto all; and lead me unto the doors of good repentance."
 
-### AT THE APOSTICHA, STICHERA OF THE CROSS
+*AT THE APOSTICHA, STICHERA OF THE CROSS*
 
 *Tone 2:*[^79]
 
@@ -2092,7 +2126,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "When the immaculate Ewe-lamb beheld her Lamb led of His own will unto the slaughter like a man: weeping, she said: 'Dost Thou now hasten to leave me childless, O Christ, who gave Thee birth? What is this that Thou hast done, O Redeemer of all? Yet I hymn and glorify Thy supreme loving-kindness, which is beyond mind and word, O Lover of mankind!' "
 
-# ON FRIDAY, THE BEATITUDES (BLAZHENNA)
+*ON FRIDAY, THE BEATITUDES (BLAZHENNA)*
+
 *Tone 2:*
 
 "We bring unto Thee the voice of the thief, and pray: 'Remember us, O Lord, in Thy Kingdom!' "
@@ -2107,9 +2142,11 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Beholding Christ as a Lamb hung upon the Tree, the all-immaculate one, weeping, magnified Him."
 
-## ON FRIDAY EVENING, AT "LORD, I CALL:"
+## FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 2)
 
-[f. 63vA] *Stichera to the Holy Martyrs, Hierarchs, and Venerables. Tone 2.*
+[f. 63vA] *ON FRIDAY EVENING, AT "LORD, I CALL:"*
+
+*Stichera to the Holy Martyrs, Hierarchs, and Venerables. Tone 2.*
 
 *Podoben: "When from the Tree" (Егда́ ѿ дре́ва):* [^80]
 
@@ -2131,7 +2168,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "The shadow of the law hath passed away..."
 
-### AT THE APOSTICHA, STICHERA
+*AT THE APOSTICHA, STICHERA*
 
 *Tone 2. For the Martyrs:*
 
@@ -2149,9 +2186,11 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 *Glory: Both now: Theotokion:*
 
-"Save Thy servants from perils, O Theotokos Virgin: for under God we all flee unto thee, as unto an unbreakable wall and protectress."
+"Save thy servants from perils, O Theotokos Virgin: for under God we all flee unto thee, as unto an unbreakable wall and protectress."
 
-## ON SATURDAY AT MATINS
+## SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 2)
+
+*ON SATURDAY AT MATINS*
 
 *After the 1st Psalter Stichology, Sessional Hymns (Sedalna) to the Martyrs, Tone 2:*[^81]
 
@@ -2179,7 +2218,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "O Virgin Mother Mary, who didst bear Christ the Redeemer and Savior: pray His tender compassion, together with the Apostles, and Martyrs, and Prophets, and with the Venerables, and Hieromartyrs: to grant us cleansing of sins and great mercy."
 
-# CANON TO THE HOLY MARTYRS, HIERARCHS, VENERABLES, AND THE DEPARTED
+*CANON TO THE HOLY MARTYRS, HIERARCHS, VENERABLES, AND THE DEPARTED*
+
 *The Composition of Joseph. Tone 2.*[^82]
 
 *Ode 1. Heirmos:*
@@ -2246,7 +2286,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Those whom Thou hast translated from temporal life, a numerous multitude, having followed Thy most glorious faith, O Word: uniting them with all the multitude of the saved, vouchsafe them eternal life. *Theotokion:*"
 
-"Desiring divine deadness, which truly mediated unending life, the honored women were vouchsafed it, O all-pure Lady Mother of God, entreating Thy Son and God on our behalf."
+"Desiring divine deadness, which truly mediated unending life, the honored women were vouchsafed it, O all-pure Lady Mother of God, entreating thy Son and God on our behalf."
 
 *Another [Canon]. Heirmos: I sing unto Thee, hearing:*
 
@@ -2382,7 +2422,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "Thee who art worthy do we the faithful now bless: following thy God-inspired words, for Thou alone didst bear God for the earthborn, [f. 67rB] Who destroyed the power of death, O Virgin Mother."
 
-# AT THE PRAISES (LAUDS): STICHERA TO THE MARTYRS
+*AT THE PRAISES (LAUDS): STICHERA TO THE MARTYRS*
+
 *Tone 2:*[^83]
 
 "Having suffered for Christ even unto death, O passion-bearing Martyrs: your souls indeed are in the hand of God in the heavens; and throughout all the world your relics are honored: Hierarchs and Kings bow down, and all peoples rejoicing, we customarily cry aloud: 'Precious in the sight of the Lord is the death of His venerable ones!' "
@@ -2397,7 +2438,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 "All my hope do I place in thee, O Mother of God: preserve me beneath thy protection."
 
-### AT THE APOSTICHA, STICHERA FOR THE DEPARTED
+*AT THE APOSTICHA, STICHERA FOR THE DEPARTED*
 
 *Tone 2.*
 
@@ -2421,7 +2462,8 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 [f. 67vB] then stand by me, O Lady, and destroy the counsels of bodiless enemies, and crush their jaws who seek to devour me unsparingly: that I may pass without hindrance through the princes of darkness who stand in the air, O Bride of God!"
 
-# ON SATURDAY, THE BEATITUDES (BLAZHENNA)
+*ON SATURDAY, THE BEATITUDES (BLAZHENNA)*
+
 *Tone 2:*
 
 "We bring unto Thee the voice of the thief, and pray: 'Remember us, O Lord, in Thy Kingdom!' "
@@ -2448,7 +2490,7 @@ Root out with the axe of thy prayer, cutting down the instigator of the passions
 
 [^46]: Codicological Apparatus: On Folio 36r (`лѕ҃`), following the conclusion of Tone 1 Saturday Matins Aposticha on Folio 33v, the text initiates Tone 2 Saturday Great Vespers (*"В СУББОТУ ВЕЧЕРЪ НА ВЕЛИЦѢЙ ВЕЧЕРНИ НА ГД̃И КО ЗВАХЪ: Стіхи́ры воскр(ес)ны, гласъ, в҃. Творе́ніе Іѡ́анна Дамаски́на"*).
 [^47]: Folio 36v presents the conclusion of the Great Vespers Stichera at *"Lord, I Have Cried"*, including the iconic Dogmatikon Theotokion in Tone 2 (*"Пре́йде сѣ́нь зако́ннаѧ, бл҃гти прише́дши..."* — *"The shadow of the Law passed away when grace arrived..."*), composed by Saint John of Damascus, celebrating the Virgin as the unburnt bush and the mystery of the Incarnation.
-[^48]: Folio 37r opens the Sunday Midnight Office in Tone 2 with the Triadical Canon (*"В НЕДѢЛЮ, НА ПОЛꙊНОЩНИЦI, КАНОНЪ ТР(ОИ)ЧЕНЪ"*), bearing the attribution to Metrophanes, Metropolitan of Smyrna (*"Творе́ніе Митрофа́ново"*), meditating on the undivided Trinity of equal majesty and the co-eternal Godhead.
+[^48]: Folio 37r opens the Sunday Midnight Office in Tone 2 with the Triadical Canon (*"В НЕДѢЛЮ, НА ПОЛꙊНОЩНИЦІ, КАНОНЪ ТР(ОИ)ЧЕНЪ"*), bearing the attribution to Metrophanes, Metropolitan of Smyrna (*"Творе́ніе Митрофа́ново"*), meditating on the undivided Trinity of equal majesty and the co-eternal Godhead.
 [^49]: Folio 38v — Paleographical Apparatus: Paper Damage and Physical Reconstruction. On Leaf p41 (Folios 38v and 39r), the lower inner and outer margins have suffered physical loss, attrition, and rodent or moisture damage. Standard liturgical restorations for the Tone 2 Sunday Midnight Office conclusion, Sessional Hymns (Sedalna), and Anabathmoi Antiphons are supplied in editorial square brackets `[...]` adhering to epigraphic paleographical standard MTS-1.
 [^50]: Folio 39r — Liturgical Apparatus: Tone 2 Sunday Matins Anabathmoi and Resurrectional Prokeimenon. The Gradual Antiphons of Tone 2 (*"На небо очи пущаю моего сердца..."*, LXX Psalm 122:1; *"Аще не Господь бы былъ въ насъ..."*, LXX Psalm 123:1; *"Надѣющіися на Господа..."*, LXX Psalm 124:1) culminate in the Sunday Matins Prokeimenon from LXX Psalm 9:33 (*"Воскресни, Господи Боже мой..."*).
 [^51]: Folio 39r — Codicological and Typographical Structure: Canon Selection and Abridgement. Tone 2 Sunday Matins features the Resurrectional Canon by Saint John of Damascus (*"Во глубинѣ потопи древле..."*) paired with the Cross-Resurrectional Canon (*"Нетренну не обычну..."*). The 1630 Lviv print sets Ode 1 on Folio 39r, then transitions directly across the leaf to Folio 39v where the pre-Kontakion Theotokion of Ode 6 leads immediately into the Resurrectional Kontakion and Ikos, followed by Odes 7, 8, and 9. Physical continuity of Leaf 39 (recto on p41, verso on p42) proves this is the intended typographic layout rather than a missing gathering.

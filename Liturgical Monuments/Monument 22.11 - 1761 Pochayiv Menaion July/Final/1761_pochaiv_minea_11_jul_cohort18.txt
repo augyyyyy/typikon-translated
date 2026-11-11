@@ -59,7 +59,7 @@
 *Exapostilarion, Tone 2, Podoben: "Give ear, ye women" (Жены̀ ꙋ҆слы́шите):*
 Celebrating today the memory of the divine Fathers, by their supplications we pray Thee, O All-merciful One: deliver Thy people, O Lord, from every harm, and vouchsafe all to glorify the Father, the Word, and the All-holy Spirit!
 
-*Theotokion, Podoben:*
+*Theotokion, Podoben (Подо́бенъ):*
 Rejoice, palace of God! Rejoice, overshadowing mountain! Rejoice, unburnt bush! Rejoice, throne of glory! Rejoice, divine table! Rejoice, golden urn! Rejoice, all-radiant lampstand! Rejoice, light cloud, Virgin Mother Mary!
 
 *At the Praises, Resurrectional Stichera, 4; and of the Fathers, 4. Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*[^415]

@@ -2,7 +2,7 @@
 
 **[Left Page — Fol. 258v]**
 
-Having fallen into many transgressions, and having enslaved my soul unto sins, raise me up by Thy mighty prayer, and loose me from bondage, O all-immaculate one.
+Having fallen into many transgressions, and having enslaved my soul unto sins, raise me up by thy mighty prayer, and loose me from bondage, O all-immaculate one.
 
 As Thou hast brought forth the Creator and King of all, O all-immaculate, pure Mother of God, do Thou deliver me from every foul transgression.
 
@@ -28,9 +28,9 @@ Beholding the Master lifted up upon the Cross, weeping, she cried aloud, the Vir
 
 *Another Canon, same Heirmos:*
 
-Having received wounds over all my body through sins, heal me, O Sovereign Lady, by the herb of Thy tender mercy!
+Having received wounds over all my body through sins, heal me, O Sovereign Lady, by the herb of thy tender mercy!
 
-Of old Thou didst halt the flow of corruption by Thy divine childbirth; now halt the flow of my transgressions, O all-immaculate one.
+Of old thou didst halt the flow of corruption by thy divine childbirth; now halt the flow of my transgressions, O all-immaculate one.
 
 Have mercy and show compassion, O Sovereign Lady, upon my soul, and deliver me from condemnation and eternal torment.
 
@@ -64,13 +64,13 @@ A sword pierced Thy heart, O all-immaculate one (Luke 2:35), when Thou didst beh
 
 *Another Canon, same Heirmos:*
 
-An abyss of transgressions hath surrounded me, casting me down, O pure one, into the depth of despair; therefore lead me up from the nethermost hades, who glorify Thee.
+An abyss of transgressions hath surrounded me, casting me down, O pure one, into the depth of despair; therefore lead me up from the nethermost hades, who glorify thee.
 
 Raise me up, who lie upon the bed of transgressions, O all-immaculate Sovereign Lady, and grant me saving enlightenment through repentance.
 
 Purify, O Lover of mankind, by the prayers of her who purely gave Thee birth, and deliver Thy world from every affliction, and vouchsafe unto eternal glory.
 
-Departing from communion in evil deeds, yet ever grieving my Master with falsehood, O all-immaculate Sovereign Lady, do Thou grant me amendment!
+Departing from communion in evil deeds, yet ever grieving my Master with falsehood, O all-immaculate Sovereign Lady, do thou grant me amendment!
 
 *Ode 7. Heirmos: In the furnace of fire...* [^265]
 
@@ -94,11 +94,11 @@ With voluntary impulse daring unto suffering, the passion-bearers showed themsel
 
 *Theotokion:*
 
-After childbirth, O pure one, even as before childbirth, Thou remainest; for God was Thy Child, that He might deify mankind.
+After childbirth, O pure one, even as before childbirth, thou remainest; for God was thy Child, that He might deify mankind.
 
 *Another Canon, same Heirmos:*
 
-O pure Mother of God, despise me not who ever flee with faith beneath Thy protection.
+O pure Mother of God, despise me not who ever flee with faith beneath thy protection.
 
 Drying up the pasture of my passions, grant me to pour forth drops of tears, O Mother of God...
 
@@ -106,7 +106,7 @@ Drying up the pasture of my passions, grant me to pour forth drops of tears, O M
 
 ...bound with the chains of sin, loose me by Thy prayers, O all-immaculate, all-hymned one who didst give birth unto God.
 
-Unto Thee do I flee in faith, and Thee do I invoke, O pure one; deliver me, O Virgin, from eternal fire.
+Unto thee do I flee in faith, and thee do I invoke, O pure one; deliver me, O Virgin, from eternal fire.
 
 *Ode 8. Heirmos: Him Who from the Father before the ages...* [^266]
 
@@ -130,9 +130,9 @@ As a bridal conductor unto Thee, O Virgin, Gabriel was sent, crying aloud unto T
 
 *Another Canon, same Heirmos:*
 
-Being in perplexity of both heart and mind, not fearing the chastisement of Gehenna, I sin unceasingly; but do Thou, O Virgin, resolve my perplexity, and deliver me from fire!
+Being in perplexity of both heart and mind, not fearing the chastisement of Gehenna, I sin unceasingly; but do thou, O Virgin, resolve my perplexity, and deliver me from fire!
 
-By the pleasures of my flesh I am often dragged down, and like a captive I am sold, ever provoking God to anger; O Mother of God, sole hope of the hopeless, do Thou Thyself have mercy on me!
+By the pleasures of my flesh I am often dragged down, and like a captive I am sold, ever provoking God to anger; O Mother of God, sole hope of the hopeless, do thou Thyself have mercy on me!
 
 Since Thy prayer is never put to shame, O all-immaculate...
 
@@ -310,11 +310,11 @@ Truly all things are vanity, and life is but a shadow and a dream (Ecclesiastes 
 
 **[Left Page — Fol. 267v]**
 
-...earthborn man disquiet himself (Psalm 38:7 LXX), as the Scripture saith: When we have gained the world, then into the grave do we take up our abode, where kings and beggars are together; therefore, O Christ God, give rest unto those who have departed, as Thou art the Lover of mankind!
+...earthborn man disquiet himself (Psalm 38:7 LXX), as the Scripture says: When we have gained the world, then into the grave do we take up our abode, where kings and beggars are together; therefore, O Christ God, give rest unto those who have departed, as Thou art the Lover of mankind!
 
 *Glory; Both now: Theotokion:*
 
-From the heart and from the depths of my being do I ever send sighs unto Thee; I pray for Thy favorable intercession, O all-immaculate one: have mercy on my passionate soul, entreat the merciful God to deliver me from judgment and the lake of fire, O only blessed one!
+From the heart and from the depths of my being do I ever send sighs unto thee; I pray for thy favorable intercession, O all-immaculate one: have mercy on my passionate soul, entreat the merciful God to deliver me from judgment and the lake of fire, O only blessed one!
 
 *Canon to the Holy Martyrs, Hierarchs, and Venerable Monks, Tone 6. Ode 1. Heirmos: He Who marvelously drowned Pharaoh...* [^273]
 

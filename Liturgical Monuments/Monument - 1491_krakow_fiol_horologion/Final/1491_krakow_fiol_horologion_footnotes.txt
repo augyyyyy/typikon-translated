@@ -82,11 +82,11 @@
 
 [^40]: Cinnabar heading on fol. 9v: 'мл҃тва мѡѵсеѡва чл҃ка бж҃іа • п҃ѳ' ('A Prayer of Moses, the man of God. Psalm 89 [LXX Ps. 89]'). In verse 5, the print witnesses the archaic form 'лѣще бѫдоуть' ('their trivialities shall be years'), rendering Greek τὰ ἐξουδενώματα αὐτῶν ἔτη ἔσονται.
 
-[^41]: Folio 10r signature 'г҃і' (13) in the bottom right margin designates the third leaf of quire 13. In LXX Ps. 89:10, Fiol renders τὰ ἔτη ἡμῶν ὡς ἀράхνη ἐмеλέτων as 'лѣта наша ꙗко паоучина пооучаахѫ сѧ' ('our years were considered like a spider’s web').
+[^41]: Folio 10r signature 'г҃і' (13) in the bottom right margin designates the third leaf of quire 13. In LXX Ps. 89:10, Fiol renders τὰ ἔτη ἡμῶν ὡς ἀράχνη ἐμελέτων as 'лѣта наша ꙗко паоучина пооучаахѫ сѧ' ('our years were considered like a spider’s web').
 
-[^42]: The Slavonic text preserves the ancient Septuagint translation of LXX Ps. 89:10: 'яко наиде кротость на ны и накажемся' ('for mildness hath come upon us, and we shall be chastened'), rendering Greek ὅти ἐпῆλθεν пραΰτηѕ ἐφ' ἡмᾶѕ кαὶ пαιδευθηѕόмеθа.
+[^42]: The Slavonic text preserves the ancient Septuagint translation of LXX Ps. 89:10: 'яко наиде кротость на ны и накажемся' ('for mildness hath come upon us, and we shall be chastened'), rendering Greek ὅτι ἐπῆλθεν πραΰτης ἐφ' ἡμᾶς καὶ παιδευθησόμεθα.
 
-[^43]: In LXX Ps. 89:12, the archaic translation 'и окованыя сердцемъ въ мудрости' ('and those who are shackled in heart in wisdom') faithfully reflects the Greek τοὺς пεпεδημένουѕ τῇ κаρδίᾳ ἐν ѕοφίᾳ.
+[^43]: In LXX Ps. 89:12, the archaic translation 'и окованыя сердцемъ въ мудрости' ('and those who are shackled in heart in wisdom') faithfully reflects the Greek τοὺς πεπεδημένους τῇ καρδίᾳ ἐν σοφίᾳ.
 
 [^44]: Leaf p21 concludes Psalm 89 (LXX Ps. 89:17) with the double petition for the confirmation of human works: 'и дѣла рѫкъ нашихъ исправи на насъ, и дѣло рѫкъ нашихъ исправи', reflecting the ancient Septuagint doublet καὶ τὰ ἔργα τῶν χειρῶν ἡμῶν κατεύθυνον ἐφ' ἡμᾶς, καὶ τὸ ἔργον τῶν χειρῶν ἡμῶν κατεύθυνον.
 
@@ -152,7 +152,7 @@
 
 [^75]: Cinnabar heading on fol. 19r: 'Межѹчасіе .г҃. го часа' ('The Inter-Hour of the Third Hour'). The Mesohorion of Terce opens with Psalm 29 (LXX Ps. 29, 'ѱаломь давыдовъ , к҃ѳ :~') introduced by a large red initial 'В' ('Вознесу Тя, Господи, яко подъятъ мя еси...').
 
-[^76]: Folio 19v introduces the second psalm of the Mesohorion with cinnabar heading 'ѱалѡмь дв҃двъ разоумь л҃а :~' (Psalm 31 / LXX Ps. 31, Maskil of David: 'Blessed are they whose iniquities are forgiven...'). In verse 4, 'възврати сѧ на страсть егда ѹнзе ми трънь' renders Greek ἐστράφην εἰς ταλαιπωρίαν ἐν τῷ ἐμπαγῆναι ἄканθαν.
+[^76]: Folio 19v introduces the second psalm of the Mesohorion with cinnabar heading 'ѱалѡмь дв҃двъ разоумь л҃а :~' (Psalm 31 / LXX Ps. 31, Maskil of David: 'Blessed are they whose iniquities are forgiven...'). In verse 4, 'възврати сѧ на страсть егда ѹнзе ми трънь' renders Greek ἐστράφην εἰς ταλαιπωρίαν ἐν τῷ ἐμπαγῆναι ἄκανθαν.
 
 [^77]: Folio 20r bears quire signature 'ѕ҃і' (16) at the lower right margin, marking the sixteenth quire. The leaf concludes Psalm 31 with the warning against unreasoning stubborness ('не будѣте яко конь и мьскъ...' - LXX Ps. 31:9) and the exultation of the righteous ('Възвеселитеся о Господѣ...').
 
@@ -178,7 +178,7 @@
 
 [^88]: Cinnabar heading on fol. 23r: 'хвала пѣни давыдовы :~ ч҃ :~' introduces Psalm 90 (LXX Ps. 90: Αἶνος ᾠδῆς τῷ Δαυΐδ), adorned with a four-line cinnabar braided initial 'Ж' ('Живый въ помощи Вышняго...'). Psalm 90 concludes the fixed psalm triad of the Sixth Hour.
 
-[^89]: Folio 23v witnesses LXX Ps. 90:5–6 with the graphic phrase 'ѿ срѣща и́ бѣса полоуденьнаго' (Greek ἀπὸ συμπτώματος καὶ δαιμονίου меσημβρινοῦ: 'from mishap and the noonday demon'), directly invoking divine protection during the midday heat and the mystical hour of the Crucifixion.
+[^89]: Folio 23v witnesses LXX Ps. 90:5–6 with the graphic phrase 'ѿ срѣща и́ бѣса полоуденьнаго' (Greek ἀπὸ συμπτώματος καὶ δαιμονίου μεσημβρινοῦ: 'from mishap and the noonday demon'), directly invoking divine protection during the midday heat and the mystical hour of the Crucifixion.
 
 [^90]: Folio 24r gives the dismissal rubrics and the classic Lenten troparion of the Sixth Hour in Tone 2: 'Иже въ шестии день же и часъ на Крестѣ пригвоздивый...' ('Thou Who on the sixth day and hour didst nail to the Cross the sin which daring Adam committed in Paradise...'), accompanied by psalm verses from LXX Ps. 54:17–18.
 
@@ -194,7 +194,7 @@
 
 [^96]: Folio 25v bears the cinnabar rubric 'вконьць ѡ́ нерастлѣніи дв҃дѹ ѱлѡ҃ н҃ѕ :~' introducing Psalm 56 (LXX Ps. 56: Εἰς τὸ τέλος, μὴ διαφθεῖραι· τῷ Δαυΐδ εἰς στηλογραφίαν), the second psalm of the Sixth Hour Inter-Hour, adorned with a four-line cinnabar initial 'П' ('Помилуй мя, Боже...').
 
-[^97]: Folio 26r concludes Psalm 56 (LXX Ps. 56:4–12) with David's morning praise ('востани псалтирю и гусли, востану рано...') and introduces the third psalm with the cinnabar rubric 'въ конець ѱалѡмь дв҃двъ • въ спѡминаніе въ е́же сп҃сти мя :~ ѯ҃ѳ :~' (LXX Ps. 69: Εἰς τὸ τέλος, τῷ Δαυΐδ, εἰς ἀνάмνησιν, εἰς τὸ σῶσαί με Κύριον).
+[^97]: Folio 26r concludes Psalm 56 (LXX Ps. 56:4–12) with David's morning praise ('востани псалтирю и гусли, востану рано...') and introduces the third psalm with the cinnabar rubric 'въ конець ѱалѡмь дв҃двъ • въ спѡминаніе въ е́же сп҃сти мя :~ ѯ҃ѳ :~' (LXX Ps. 69: Εἰς τὸ τέλος, τῷ Δαυΐδ, εἰς ἀνάμνησιν, εἰς τὸ σῶσαί με Κύριον).
 
 [^98]: Folio 26v opens Psalm 69 (LXX Ps. 69:2: 'Боже, въ помощь мою вонми...'), introduced with a four-line cinnabar initial 'Б'. This supplication concludes the psalm triad of the Sixth Hour Inter-Hour.
 
@@ -204,7 +204,7 @@
 
 [^101]: Folio 27r provides the monastic dismissal rubrics for the Inter-Hour: thirty repetitions of 'Lord, have mercy' ('г҃и помилоуи • л҃ •'), the hymn 'More honorable than the Cherubim', priestly blessing ('попъ: святи за молитвъ святыхъ отецъ нашихъ'), and the Prayer of Saint Ephrem ('Господи и Владыко живота моего...') with three great prostrations.
 
-[^102]: Folio 27r bears the cinnabar attribution 'мл҃тва великаго василіа :~' introducing the solemn prayer of Saint Basil the Great ('Боже и Господи силъ, и всея твари Содѣтелю...'; Greek Κύριε ὁ Θεὸς τῶν δυνάмеων, καὶ πάσης κτίσεως δημιουργέ...), which crowns the Sixth Hour and its Inter-Hour in early Sabaite and Studite tradition.
+[^102]: Folio 27r bears the cinnabar attribution 'мл҃тва великаго василіа :~' introducing the solemn prayer of Saint Basil the Great ('Боже и Господи силъ, и всея твари Содѣтелю...'; Greek Κύριε ὁ Θεὸς τῶν δυνάμεων, καὶ πάσης κτίσεως δημιουργέ...), which crowns the Sixth Hour and its Inter-Hour in early Sabaite and Studite tradition.
 
 [^103]: Folio 27v bears a monumental cinnabar title in liturgical display script marking a major landmark in the Horologion: 'Начало типикомъ • еже есть ѡ́бѣдница •' ('The Beginning of the Typika, which is the Obednitsa'), followed by the blessing 'Благословенъ еси, Господи' and Psalm 102 (LXX Ps. 102: 'Благослови, душе моя, Господа...'), the First Antiphon of the Typika.
 
@@ -254,7 +254,7 @@
 
 [^126]: Folio 38v completes Psalm 112 (LXX Ps. 112:4–9), and introduces the second psalm of the Mid-Hour of the Ninth Hour, Psalm 137 (LXX Ps. 137:1–4; 'Исповѣдаюся Тебѣ, Господи, всѣмъ сердцемъ моимъ...').
 
-[^127]: Folio 39r reveals an epigraphic textual lacuna between fol. 38v and fol. 39r in this surviving exemplar: following the opening four verses of Psalm 137 on fol. 38v, fol. 39r opens directly with the concluding lines of the Mid-Hour supplication to Christ the Good Shepherd ('...грѣшныя, да не отлучиши мене стада Твоего, Пастырю добрый...'), followed by the Mid-Hour troparia ('Яко разбойникъ исповѣдаяся...' and 'Насъ ради распеншагося...'), thirty repetitions of 'Lord, have mercy', the Prayer of St. Ephrem, and the opening lines of the canonical Prayer of St. Basil the Great ('Владыко Господи Іисусе Христе Боже нашъ, долготерпѣливый о нашихъ согрѣшеніихъ...'; Greek Δέσποτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμῶν πλημμελήмаσι...).
+[^127]: Folio 39r reveals an epigraphic textual lacuna between fol. 38v and fol. 39r in this surviving exemplar: following the opening four verses of Psalm 137 on fol. 38v, fol. 39r opens directly with the concluding lines of the Mid-Hour supplication to Christ the Good Shepherd ('...грѣшныя, да не отлучиши мене стада Твоего, Пастырю добрый...'), followed by the Mid-Hour troparia ('Яко разбойникъ исповѣдаяся...' and 'Насъ ради распеншагося...'), thirty repetitions of 'Lord, have mercy', the Prayer of St. Ephrem, and the opening lines of the canonical Prayer of St. Basil the Great ('Владыко Господи Іисусе Христе Боже нашъ, долготерпѣливый о нашихъ согрѣшеніихъ...'; Greek Δέσποτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμῶν πλημμελήμασι...).
 
 [^128]: Folio 39v continues the Prayer of Saint Basil the Great at the Mid-Hour of the Ninth Hour, preserving its profound penitential theology of the Crucifixion, the admission of human fragility and straying from the divine path, and the supplication for the mortification of carnal mind and the putting on of the new man created in righteousness.
 
@@ -280,7 +280,7 @@
 
 [^139]: Folio 45r details the antiphonal performance of the Lenten Alleluia at Vespers, prescribing the specific daily psalm verses chanted by alternating choirs (Monday: LXX Ps. 6:2; Tuesday: LXX Ps. 98:5; Wednesday: LXX Ps. 18:5; Thursday: LXX Ps. 98:5), concluding with the Doxology and three metanias before the holy doors. It preserves the opening petitions of the ancient evening hymn of supplication, 'Сподоби, Господи' (Vouchsafe, O Lord; Greek Καταξίωσον, Κύριε), based on Daniel 3:26 and Psalm 118:12.
 
-[^140]: Folio 45v witnesses the conclusion of the evening hymn of supplication, 'Сподоби, Господи' (Vouchsafe, O Lord; Greek Καταξίωσον, Κύριε), with the Father Paul Doxology Standard ('unto ages of ages'), followed by the Litany of Supplication ('Исполнимъ вечернія молитвы наша', Greek Πληρώσωμεν τὴν ἑσпеρινὴν δέησιν ἡμῶν τῷ Κυρίῳ) and the Prayer at the Bowing of Heads with its priestly exclamation ('Буди держава царствія Твоего...'). It then introduces the Aposticha (стихиры на стиховнѣ / aposticha) with the weekday psalm verses from Psalm 122 (LXX Ps. 122:1–4; 'Къ Тебѣ возведохъ очи мои, живущему на небеси...').
+[^140]: Folio 45v witnesses the conclusion of the evening hymn of supplication, 'Сподоби, Господи' (Vouchsafe, O Lord; Greek Καταξίωσον, Κύριε), with the Father Paul Doxology Standard ('unto ages of ages'), followed by the Litany of Supplication ('Исполнимъ вечернія молитвы наша', Greek Πληρώσωμεν τὴν ἑσπερινὴν δέησιν ἡμῶν τῷ Κυρίῳ) and the Prayer at the Bowing of Heads with its priestly exclamation ('Буди держава царствія Твоего...'). It then introduces the Aposticha (стихиры на стиховнѣ / aposticha) with the weekday psalm verses from Psalm 122 (LXX Ps. 122:1–4; 'Къ Тебѣ возведохъ очи мои, живущему на небеси...').
 
 [^141]: Folio 46r witnesses the conclusion of the evening Stichera and the Typikon ceremonial of the canonarch (канонархъ / кононархъ), who performs reverences in the center towards the holy icons and to both monastic choirs before returning to his stall. It contains the Canticle of Simeon the God-Receiver ('Нынѣ отпущаеши', Nunc Dimittis; Luke 2:29–32), the Trisagion prayers, the dismissal litany, and the ancient Lenten evening troparia opening with the Angelic Salutation, 'Богородице Дѣво, радуйся' (Ave Maria; Luke 1:28, 42), accompanied by solemn metanias (дл҃е а҃ = 1 prostration).
 
@@ -310,7 +310,7 @@
 
 [^154]: Folio 52v continues Psalm 24 (LXX Ps. 24:4–14), setting forth David's supplicatory plea for divine guidance ('Пути Твоя, Господи, скажи ми...'), forgiveness of the sins of youth and ignorance ('Грѣхъ юности моея и невѣдѣнія моего не помяни...'), and the covenantal blessing upon the meek and God-fearing. The orthography consistently maintains archaic Ruthenian/Middle East Slavic features, including nasal reflexes and jers.
 
-[^155]: Folio 53r witnesses the conclusion of Psalm 24 (LXX Ps. 24:15–22; 'Очи мои выну ко Господу...'), concluding with the national redemption of Israel ('Избави, Боже, Израиля отъ всѣхъ скорбей его'). It immediately introduces the third Psalm of this unit, Psalm 30 (LXX Ps. 30; 'Псаломъ Давыдовъ о исступленіи, тридесятый', Greek ψалмὸς τῷ Δαυΐδ, ἐκστάσεως, λ҃), beginning with David's cry of refuge: 'На Тя, Господи, уповахъ, да не постыжуся въ вѣкъ...' (LXX Ps. 30:1–3).
+[^155]: Folio 53r witnesses the conclusion of Psalm 24 (LXX Ps. 24:15–22; 'Очи мои выну ко Господу...'), concluding with the national redemption of Israel ('Избави, Боже, Израиля отъ всѣхъ скорбей его'). It immediately introduces the third Psalm of this unit, Psalm 30 (LXX Ps. 30; 'Псаломъ Давыдовъ о исступленіи, тридесятый', Greek ψαλμὸς τῷ Δαυΐδ, ἐκστάσεως, λ҃), beginning with David's cry of refuge: 'На Тя, Господи, уповахъ, да не постыжуся въ вѣкъ...' (LXX Ps. 30:1–3).
 
 [^156]: Folio 53v continues Psalm 30 (LXX Ps. 30:3–11), featuring the celebrated Christological and Compline surrender verse: 'Въ руцѣ Твои предамъ душу мою; избавилъ мя еси, Господи, Боже истины' (Luke 23:46; Ps. 30:6). The text articulates the acute physical and psychological suffering of the psalmist ('изнеможе нищетою крѣпость моя, и кости моя смятошася'), underscoring the deep penitential ethos of Great Compline.
 
@@ -462,7 +462,7 @@
 
 [^230]: Folio 96v (September 30): Lines 1–2 conclude the commemoration of Our Venerable Father Cyriacus the Anchorite (from p180), prescribing that the Liturgy sequence follows yesterday's unchanged ('послѣдованіе въчерашьнее неизмѣннымь'). Lines 2–19 open September 30 (marked 'л҃' in the left margin in cinnabar): Holy Hieromartyr Gregory of Greater Armenia (Святаго священномученика Григория Великия Армения), the Illuminator of Armenia (ca. 257–ca. 331). Lines 4–10 detail the Vespers order: stichera on 6; Doxasticon in Tone 6 ('Кто по достоянию...'); Aposticha with Doxasticon; Dismissal Troparion in Tone 4 ('И нравом причастник...', cross-referenced to September 3); Matins canons (Octoechos and saint on 6); and after Ode 3, a Sessional Hymn/Kontakion in Tone 6, Podoben: "Fulfilling the Dispensation for Our Sake" (Еже о нас): 'За Христа усердно страдая, всякоя напасти претерпел еси, священномучениче Григорие: кровь к кровем, яко злато драгоценно соблюдеся нескверно, воспевая песнь чудне: Бог есть со мною, и никтоже на мя :~'. Lines 16–19 give the opening of the festal Kontakion of St. Gregory after Ode 6 in Tone 2: 'Славнаго святителя вси, яко страдальца истинна, днесь вернии приидете, песньми и песньми похвалим, бодраго [пастыря...]'.
 
-[^231]: Folio 97r (marked '97' in pencil at the top right) spans the transition from September to October. Lines 1–6 conclude the office of St. Gregory of Armenia: lines 1–2 complete the Kontakion ('...пастыря и учителя Григория, светильника всемирна: Христа Бога молит о всех нас :~') and lines 3–6 prescribe the Liturgy readings: prokeimenon LXX Ps. 115:6, 3; Epistle pericope 13 [Heb. 7:26–8:2]; Alleluia LXX Ps. 131:9; Gospel from John [Jn. 10:9–16, pericope 36]; and communion verse LXX Ps. 111:6. Lines 7–9 feature a prominent cinnabar month banner: 'МЦ҃Ь ѠКТѦБРЬ И́МѦ ДНІИ · ЛА · ДНЫ ИМАТЬ · ЧА · АI · А НОЩЬ · ГI ·' (The Month of October, having 31 days; the day has 11 hours, and the night 13 hours). Lines 9–18 open October 1 (marked 'а҃' in cinnabar in the right margin): The Protection of the Most Holy Theotokos (Покров Пресвятыя Богородицы), together with the Holy Apostle Ananias of the Seventy, and our Venerable Father Romanus the Melodist ('прѣподобнаго романа пѣвца'). The rubric prescribes a full All-Night Vigil if the igumen wills ('аще изволить игумен: вечер: Блажен муж...'), stichera at "Lord, I have cried" on 10 (Theotokos 3 on 4, Apostle 3, Romanus 3; Glory, of the Apostle; Both now, of the Protection), Entrance, prokeimenon of the day, 3 festal Paremias of the Theotokos (Gen. 28:10–17; Ezek. 43:27–44:4; Prov. 9:1–11), litany, and Litiya stichera.
+[^231]: Folio 97r (marked '97' in pencil at the top right) spans the transition from September to October. Lines 1–6 conclude the office of St. Gregory of Armenia: lines 1–2 complete the Kontakion ('...пастыря и учителя Григория, светильника всемирна: Христа Бога молит о всех нас :~') and lines 3–6 prescribe the Liturgy readings: prokeimenon LXX Ps. 115:6, 3; Epistle pericope 13 [Heb. 7:26–8:2]; Alleluia LXX Ps. 131:9; Gospel from John [Jn. 10:9–16, pericope 36]; and communion verse LXX Ps. 111:6. Lines 7–9 feature a prominent cinnabar month banner: 'МЦ҃Ь ѠКТѦБРЬ И́МѦ ДНІИ · ЛА · ДНЫ ИМАТЬ · ЧА · АІ · А НОЩЬ · ГІ ·' (The Month of October, having 31 days; the day has 11 hours, and the night 13 hours). Lines 9–18 open October 1 (marked 'а҃' in cinnabar in the right margin): The Protection of the Most Holy Theotokos (Покров Пресвятыя Богородицы), together with the Holy Apostle Ananias of the Seventy, and our Venerable Father Romanus the Melodist ('прѣподобнаго романа пѣвца'). The rubric prescribes a full All-Night Vigil if the igumen wills ('аще изволить игумен: вечер: Блажен муж...'), stichera at "Lord, I have cried" on 10 (Theotokos 3 on 4, Apostle 3, Romanus 3; Glory, of the Apostle; Both now, of the Protection), Entrance, prokeimenon of the day, 3 festal Paremias of the Theotokos (Gen. 28:10–17; Ezek. 43:27–44:4; Prov. 9:1–11), litany, and Litiya stichera.
 
 [^232]: Folio 97v continues the All-Night Vigil for the Protection of the Mother of God (October 1): Lines 1–5 detail the Aposticha: 3 stichera of the Protection in Tone 2, and a samoglasen of the Apostle in Tone 8 with psalm verse LXX Ps. 18:5; Glory, of Romanus; Both now, of the Protection. Lines 5–11 provide the complete text of the Dismissal Troparion of St. Romanus the Melodist, Tone 8 ('О тебе, отче Романе, известно спасенную бысть образ: прием бо крест, последовал еси Христу, творя и учаше: еже презирати плоть, мимоходит бо; прилежати же души, вещи безсмертней; тем с ангелы радуется дух твой :~'). Lines 11–19 provide the full text of the celebrated Dismissal Troparion of the Protection, Tone 4 ('Днесь благовернии людие светло празднуем, осеняеми твоим, Богомати, пришествием, и к твоему взирающе пречистому образу, умильно глаголем: покрый нас честным ти покровом, и избави нас от всякаго зла, молящи Сына твоего, Христа Бога нашего, спасти душа наша :~'), concluding with the rubric for the Troparion at Matins.
 
@@ -780,7 +780,7 @@
 
 [^389]: January 31 concludes the month of January with the Holy Unmercenaries Cyrus and John (*Кѵръ и Іоаннъ*). The Kontakion after Ode 6 is Tone 3 (*Отъ божественныя благодати дарованіе чудесъ пріимше...*) sung to the model *Дѣва днесь*. At the base of leaf p340, a prominent decorative headpiece marks the transition into the Month of February (*Мѣсяць Февруарій*), specifying 28 days and opening with the commemoration of the Holy Martyr Tryphon (*Трифонъ*) and the Forefeast of the Meeting of the Lord in the Temple (*Срѣтеніе Господне*).
 
-[^390]: February 1: Forefeast of the Meeting of the Lord in the Temple (*Срѣтеніе Господне*) and the Holy Martyr Tryphon (*Трифонъ*). The codex records the full texts of the ancient Forefeast Troparion (*Небесный ликъ небесныхъ ангелъ...*, Tone 1) and the Kontakion of St. Tryphon (*Мучительскаго прещенія многобожіе разрушилъ еси...*, Tone 8) sung to the model *Яко начатки* (here printed as *яко паткы*, preserving the archaic South Slavic/Old Church Slavonic translation of the Greek Ὡς ἀπαρχὰς τῆς φύсеως). Fiol's typesetter exhibits minor mechanical corruptions: *глапоють* for *глаголють* / *въспѣвають*, and *дїнкъ* for *мч҃нкъ*.
+[^390]: February 1: Forefeast of the Meeting of the Lord in the Temple (*Срѣтеніе Господне*) and the Holy Martyr Tryphon (*Трифонъ*). The codex records the full texts of the ancient Forefeast Troparion (*Небесный ликъ небесныхъ ангелъ...*, Tone 1) and the Kontakion of St. Tryphon (*Мучительскаго прещенія многобожіе разрушилъ еси...*, Tone 8) sung to the model *Яко начатки* (here printed as *яко паткы*, preserving the archaic South Slavic/Old Church Slavonic translation of the Greek Ὡς ἀπαρχὰς τῆς φύσεως). Fiol's typesetter exhibits minor mechanical corruptions: *глапоють* for *глаголють* / *въспѣвають*, and *дїнкъ* for *мч҃нкъ*.
 
 [^391]: February 2: The Great Feast of the Meeting of Our Lord Jesus Christ in the Temple (*Оусърѣтеніе Господа нашего Ісуса Христа*). Order of Little Vespers with the full Troparion (*Радуйся, обрадованная Богородице Дѣво...*, Tone 1) and Great Vespers with Old Testament lections from Exodus (Ex. 13:1–16), Isaiah (Is. 6:1–12), and Ezekiel (Ez. 43:27–44:4).
 
@@ -934,7 +934,7 @@
 
 [^466]: Liturgical pericope references for the Divine Liturgy of the Transfiguration: Epistle 2 Peter 1:10–19 (Catholic lection 65); Gospel Matthew 17:1–9 (lection 70).
 
-[^467]: Physical leaf p403 records the ancient Byzantine and monastic ritual of the Blessing of Grapes (*стафиліе* / σταφυλή) at the conclusion of the Divine Liturgy on August 6, recited following the distribution of the antidoron (*дора* / ἀнτίδωрон).
+[^467]: Physical leaf p403 records the ancient Byzantine and monastic ritual of the Blessing of Grapes (*стафиліе* / σταφυλή) at the conclusion of the Divine Liturgy on August 6, recited following the distribution of the antidoron (*дора* / ἀντίδωρον).
 
 [^468]: Physical leaf p404 preserves the ancient Ruthenian recension of the *Prayer for the Blessing of Grapes* (*Молитва на благословеніе гроздія*), invoking God Who adorned the earth with flowers and ripens fruits through the dew, the gentle breeze, and the heat of the sun, that the tasting of these earthly fruits may lead unto spiritual joy and thanksgiving through the Blood and Body of Christ.
 
@@ -1078,7 +1078,7 @@
 
 [^538]: Sacerdotal rubric governing the covering of the Presanctified Gifts after the Great Entrance: the priest removes both veils (*sudaria*) and covers both the diskos and the chalice together with a single large veil or with the aer (*vozdukh*).
 
-[^539]: The consecrated Eucharistic Lamb is designated as the "Holy Artos" (ст҃го артоса / арьтоса, from the Greek ἄрτος, *artos* — the consecrated Bread/Host) at the ritual Elevation before communion: "The Presanctified Holy Things unto the holy!"
+[^539]: The consecrated Eucharistic Lamb is designated as the "Holy Artos" (ст҃го артоса / арьтоса, from the Greek ἄρτος, *artos* — the consecrated Bread/Host) at the ritual Elevation before communion: "The Presanctified Holy Things unto the holy!"
 
 [^540]: Archaic Ruthenian terminology for the post-communion ablution: "и покꙋшнивають водици" (*i pokushnivayut voditsi* — "and they partake of the warm water"), describing the purification rinse taken by the communicants after receiving the Holy Mysteries.
 
@@ -1354,7 +1354,7 @@
 
 [^676]: Bright Wednesday evening inaugurates Bright Thursday (Четвертокъ Свѣтлыя седмицы).
 
-[^677]: The Dogmatikon Theotokion of Tone 5 (Въ Чермнѣмъ мори неискусобрачныя невѣсты образъ написася иногда / Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ τῆς ἀπειроγάμου νύμφης εἰκὼν διεγράφη ποτέ), composed by St. John of Damascus, typologically parallels the miraculous parting of the Red Sea by Moses with the virginal conception and birth of Christ.
+[^677]: The Dogmatikon Theotokion of Tone 5 (Въ Чермнѣмъ мори неискусобрачныя невѣсты образъ написася иногда / Ἐν τῇ Ἐρυθρᾷ θαλάσσῃ τῆς ἀπειρογάμου νύμφης εἰκὼν διεγράφη ποτέ), composed by St. John of Damascus, typologically parallels the miraculous parting of the Red Sea by Moses with the virginal conception and birth of Christ.
 
 [^678]: The Great Prokeimenon of Bright Wednesday evening in Tone 7 is taken from Psalm 54:2 (LXX): "Give ear, O God, unto my prayer, and despise not my supplication" (Внуши, Боже, молитву мою, и не презри моленія моего).
 
@@ -1414,7 +1414,7 @@
 
 [^706]: Great Vespers of Thomas Sunday, forming the opening service of the All-Night Vigil.
 
-[^707]: The Troparion of Thomas Sunday in Tone 7 (Запечатану гробу, животъ отъ гроба возсіялъ еси, Христе Боже / Ἐσφραγισμένου τοῦ μνήματος, ἡ ζωὴ ἐκ τάфου ἀνέτειλας, Χριστὲ ὁ Θεός).
+[^707]: The Troparion of Thomas Sunday in Tone 7 (Запечатану гробу, животъ отъ гроба возсіялъ еси, Христе Боже / Ἐσφραγισμένου τοῦ μνήματος, ἡ ζωὴ ἐκ τάφου ἀνέτειλας, Χριστὲ ὁ Θεός).
 
 [^708]: In accordance with ancient Studite and Sabbaitic Typika, during the Paschal season extending from Thomas Sunday until All Saints (Sunday after Pentecost), the Great Patristic/Scriptural reading between Kathismata at the All-Night Vigil is taken from the Acts of the Apostles (Дѣянія святыхъ апостолъ). When the book is completed, it is read through again.
 
@@ -1460,7 +1460,7 @@
 
 [^729]: Ancient Kyivan-Ruthenian rubrical rule: on Wednesdays and Fridays throughout Paschaltide, the Stichera of the Cross (крестныя стихиры) precede the Resurrectional stichera, commemorating Christ's Passion which preceded His glorious third-day Resurrection.
 
-[^730]: The Dogmatikon Theotokion of Tone 1 (Всемірную славу, отъ человѣкъ прозябшую / Τὴν παγκόσμιον δόξαν, τὴν ἐξ ἀνθρώπων σπαреῖσαν), composed by St. John of Damascus.
+[^730]: The Dogmatikon Theotokion of Tone 1 (Всемірную славу, отъ человѣкъ прозябшую / Τὴν παγκόσμιον δόξαν, τὴν ἐξ ἀνθρώπων σπαρεῖσαν), composed by St. John of Damascus.
 
 [^731]: On Friday evening (inaugurating Saturday), the Canon for the Departed (Канонъ о усопшихъ) from the Octoechos is appointed at Compline throughout all weeks of the Pentecostarion, maintaining regular monastic prayer for deceased brethren.
 
@@ -1470,7 +1470,7 @@
 
 [^734]: The Third Sunday of Pascha (counted as the Second Sunday after Pascha Sunday) is dedicated to the Holy Myrrh-Bearing Women (Святыя мироносицы: Mary Magdalene, Mary the wife of Cleopas, Joanna, Salome mother of the sons of Zebedee, Susanna, and Martha and Mary the sisters of Lazarus) and Righteous Joseph of Arimathea and Nicodemus.
 
-[^735]: The Doxastikon of the Myrrh-Bearers at Vespers in Tone 6 (Мироносицы жены, утре глубоко / Μυроφόροι γυναῖκες, ὄρθρου βαθέος).
+[^735]: The Doxastikon of the Myrrh-Bearers at Vespers in Tone 6 (Мироносицы жены, утре глубоко / Μυροφόροι γυναῖκες, ὄρθρου βαθέος).
 
 [^736]: The Dogmatikon Theotokion of Tone 2 (Прейде сѣнь законная, благодати пришедшей / Παρῆλθεν ἡ σκιὰ τοῦ νόμου, τῆς χάριτος ἐλθούσης), composed by St. John of Damascus.
 
@@ -1510,7 +1510,7 @@
 
 [^754]: The Vesperal Doxastikon of the Paralytic in Tone 5 (Взыде Іисусъ во Іерусалимъ / Ἀνέβη ὁ Ἰησοῦς εἰς Ἱεροσόλυμα).
 
-[^755]: The Aposticha Doxastikon of the Paralytic in Tone 8 (Въ притворѣ Соломоновѣ тамо лежаше множество болящихъ / Ἐν τῇ στοᾷ τοῦ Σολομῶντος, ἐκεῖ κατέκειто πλῆθος τῶν ἀσθενούντων).
+[^755]: The Aposticha Doxastikon of the Paralytic in Tone 8 (Въ притворѣ Соломоновѣ тамо лежаше множество болящихъ / Ἐν τῇ στοᾷ τοῦ Σολομῶντος, ἐκεῖ κατέκειτο πλῆθος τῶν ἀσθενούντων).
 
 [^756]: The Fourth Matins Resurrection Gospel is Luke 24:1–12 (Pericope 112), recounting the visit of the women to the sepulchre, the message of the two men in shining garments, and St. Peter running unto the sepulchre and finding the linen clothes laid by themselves.
 
@@ -1518,7 +1518,7 @@
 
 [^758]: In accordance with Paschaltide practice, the Magnificat ("My soul doth magnify the Lord") and the Marian refrain "More honorable than the Cherubim" are omitted at Ode 9 of Matins in favor of the festal heirmoi and troparia.
 
-[^759]: The Doxastikon of the Paralytic at the Praises in Tone 8 (Господи, разслабленнаго не купель исцѣли / Κύριε, τὸν Παράλυτον οὐχ ἡ κολυμβήθра ἐθεράπευσεν), celebrating Christ's sovereign word which immediately restored the paralytic without need of the Bethesda pool.
+[^759]: The Doxastikon of the Paralytic at the Praises in Tone 8 (Господи, разслабленнаго не купель исцѣли / Κύριε, τὸν Παράλυτον οὐχ ἡ κολυμβήθρα ἐθεράπευσεν), celebrating Christ's sovereign word which immediately restored the paralytic without need of the Bethesda pool.
 
 [^760]: The Epistle pericope appointed for the Sunday of the Paralytic is Acts 9:32–42 (Pericope 23), recording St. Peter healing the paralytic Aeneas at Lydda and raising Tabitha (Dorcas) from the dead at Joppa.
 
@@ -1542,7 +1542,7 @@
 
 [^770]: The Gospel appointed for Mid-Pentecost is John 7:14–30 (Pericope 26), wherein Christ enters the Temple in the midst of the feast and teaches the people, answering those who marvel at His wisdom and authority.
 
-[^771]: The Communion verse (Kinonikon) for Mid-Pentecost is taken from John 6:56: "He that eats My Flesh and drinks My Blood abides in Me, and I in him, saith the Lord" (Ядый Мою Плоть, и піяй Мою Кровь, во Мнѣ пребываетъ, и Азъ въ немъ, рече Господь).
+[^771]: The Communion verse (Kinonikon) for Mid-Pentecost is taken from John 6:56: "He that eats My Flesh and drinks My Blood abides in Me, and I in him, says the Lord" (Ядый Мою Плоть, и піяй Мою Кровь, во Мнѣ пребываетъ, и Азъ въ немъ, рече Господь).
 
 [^772]: The liturgical afterfeast of Mid-Pentecost is observed for eight days, extending through the following Wednesday, which serves as the Apodosis (Отданіе) of the feast.
 
@@ -1614,7 +1614,7 @@
 
 [^806]: At Matins of the Ascension, two canons are chanted: the first canon in Tone 5 composed by St. John of Damascus, and the second canon in Tone 4 composed by St. Joseph the Hymnographer.
 
-[^807]: The Katavasia for the Ascension is the Iambic Heirmos of Ode 1 in Tone 4: "Covered by the divine cloud" (Божественнымъ покровенъ / Θείῳ καλυφθεὶς ὁ βραδύγлωσσος γνόφῳ).
+[^807]: The Katavasia for the Ascension is the Iambic Heirmos of Ode 1 in Tone 4: "Covered by the divine cloud" (Божественнымъ покровенъ / Θείῳ καλυφθεὶς ὁ βραδύγλωσσος γνόφῳ).
 
 [^808]: The Kontakion of the Ascension in Tone 6 (Еже о насъ исполнивъ смотрѣніе / Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν), composed by St. Romanos the Melodist.
 
@@ -2250,7 +2250,7 @@
 
 [^1124]: Psalm 111:2a, 3a [LXX 111:2a, 3a / MT 112:2a, 3a]: "His seed shall be mighty upon earth... Wealth and riches shall be in his house."
 
-[^1125]: Psalm 111:3b, 4a [LXX 111:3b, 4a / MT 112:3b, 4a]: "And his righteousness endures forever. Unto the upright there ariss light in the darkness."
+[^1125]: Psalm 111:3b, 4a [LXX 111:3b, 4a / MT 112:3b, 4a]: "And his righteousness endures forever. Unto the upright there arises light in the darkness."
 
 [^1126]: Psalm 111:5 [LXX 111:5 / MT 112:5]: "A good man shows favor, and lends: he will guide his affairs with discretion."
 
@@ -2570,7 +2570,7 @@
 
 [^1284]: Church Slavonic: `сѣⷣ на д҃ ст҃лѡ гла҃ ѕ҃:~` (Rubric: Sessional Hymns on 4, Tone 6).
 
-[^1285]: Church Slavonic: `[П]одъıшлаю днь ѡныи страшныи • и плачюся дѣянии моихъ лоукавыxъ` (Tone 6 penitential sessional hymn: "I ponder that fearsome day and weep over my evil deeds").
+[^1285]: Church Slavonic: `[П]одъıшлаю днь ѡныи страшныи • и плачюся дѣянии моихъ лоукавыхъ` (Tone 6 penitential sessional hymn: "I ponder that fearsome day and weep over my evil deeds").
 
 [^1286]: Church Slavonic: `како ѡвѣщаю бесоумрътномоу цр҃ю • кыим ли дрѣзновениемъ възрю на сꙋдию блꙋдныи азь` ("How shall I answer the Immortal King? Or with what boldness shall I, the prodigal, look upon the Judge?").
 

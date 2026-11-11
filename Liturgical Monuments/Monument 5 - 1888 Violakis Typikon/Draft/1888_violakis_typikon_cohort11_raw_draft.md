@@ -13,7 +13,7 @@
 ---
 
 ## ΠΕΡΙ ΤΟΥ ΑΠΟΛΥΤΙΚΙΟΥ ΤΟΥ ΟΡΘΡΟΥ ΤΗΣ ΚΥΡΙΑΚΗΣ
-### ΣΗΜΕΡΟΝ ΣΩΤΗΡΙΑ
+**ΣΗΜΕΡΟΝ ΣΩΤΗΡΙΑ**
 
 **35.** Κατὰ πᾶσαν Κυριακήν, καὶ ἂν συμπέσῃ Θεομητορικὴ ἑορτή, ἢ Ἀπόδοσις Δεσποτικῆς ἢ Θεομητορικῆς ἑορτῆς, καὶ τὰς μεθεόρτους Κυριακάς, τὰς Κυριακὰς τοῦ Τριῳδίου (πλὴν τῆς τῶν Βαΐων) καὶ τὰς μετὰ τὴν τοῦ Θωμᾶ τέσσαρας Κυριακὰς τοῦ Πεντηκοσταρίου, ὡς καὶ τὸ Σάββατον τοῦ Λαζάρου μετὰ τὴν Δοξολογίαν ψάλλεται εἰς τὸν ἦχον τῆς ἡμέρας τὸ Ἀπολυτίκιον τοῦ Ὄρθρου τῆς Κυριακῆς...
 
@@ -29,12 +29,12 @@
 
 ## Concerning the Doxology
 
-**34.** On every Sunday, on every Feast of the Lord and of the Theotokos, and on commemorations of celebrated Saints, the so-called Great Doxology is chanted at Matins in the Tone of the Doxastikon [of the Praises]. On ordinary weekdays, on fasting days, and on the first five days of Holy Week—that is, from Matins of Holy Monday until Matins of Holy Friday—the Small Doxology **"To Thee belongeth glory, O Lord our God, and unto Thee do we ascribe glory..."** (*Σοὶ δόξα πρέπει*) is read simply [in a speaking voice], after which follow the Litany of Fervent Supplication [Ektenia] and the Aposticha. Throughout all of Bright Week, as well as on the Apodosis of Pascha, no Doxology is chanted; but after **"The Day of Resurrection"** (*Ἀναστάσεως ἡμέρα*), the Paschal troparion **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life"** (*Χριστὸς ἀνέστη*) is chanted thrice according to its customary melody, and this takes the place of both the Doxology and the Dismissal Troparion.[^97]
+**34.** On every Sunday, on every Feast of the Lord and of the Theotokos, and on commemorations of celebrated Saints, the so-called Great Doxology is chanted at Matins in the Tone of the Doxastikon [of the Praises]. On ordinary weekdays, on fasting days, and on the first five days of Holy Week—that is, from Matins of Holy Monday until Matins of Holy Friday—the Small Doxology **"To Thee belongs glory, O Lord our God, and unto Thee do we ascribe glory..."** (*Σοὶ δόξα πρέπει*) is read simply [in a speaking voice], after which follow the Litany of Fervent Supplication [Ektenia] and the Aposticha. Throughout all of Bright Week, as well as on the Apodosis of Pascha, no Doxology is chanted; but after **"The Day of Resurrection"** (*Ἀναστάσεως ἡμέρα*), the Paschal troparion **"Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life"** (*Χριστὸς ἀνέστη*) is chanted thrice according to its customary melody, and this takes the place of both the Doxology and the Dismissal Troparion.[^97]
 
 ---
 
 ## Concerning the Dismissal Troparion of Sunday Matins
-### Today is Salvation
+**Today is Salvation**
 
 **35.** On every Sunday, even if a Feast of the Theotokos or the Apodosis of a Feast of the Lord or of the Theotokos occurs, as well as on Afterfeast Sundays, on Sundays of the Triodion (except Palm Sunday), on the four Sundays of the Pentecostarion following Thomas Sunday, and on the Saturday of Lazarus, after the Doxology, the Sunday Matins troparion **"Today salvation has come to the world; let us sing unto Him Who is risen from the grave, the Author of our life..."** (*Σήμερον σωτηρία τῷ κόσμῳ γέγονεν*) is sung in the Tone of the day. On Feasts of the Lord and of the Theotokos and on commemorations of...
 
@@ -102,7 +102,7 @@
 
 === LEAF p108 ===
 
-...Psalm 92 LXX: **"The Lord reigneth, He is clothed with majesty... Through the intercessions of Thy Saints, O Lord, save us"** (*Ὁ Κύριος ἐβασίλευσεν... Πρεσβείαις τῶν Ἁγίων σου σῶσον ἡμᾶς, Κύριε*); and the Third Antiphon, Psalm 94 LXX: **"Come, let us rejoice in the Lord, let us shout with jubilation unto God our Savior... Save us, O Son of God, Who art wonderful in the saints, who sing unto Thee: Alleluia"** (*Δεῦτε ἀγαλλιασώμεθα τῷ Κυρίῳ... Σῶσον ἡμᾶς... ὁ ἐν Ἁγίοις θαυμαστός*). (For the precise form and rubrical order of these Antiphons, see the Particular Order of the Daily Office, p. 46, §2).[^100]
+...Psalm 92 LXX: **"The Lord reigns, He is clothed with majesty... Through the intercessions of Thy Saints, O Lord, save us"** (*Ὁ Κύριος ἐβασίλευσεν... Πρεσβείαις τῶν Ἁγίων σου σῶσον ἡμᾶς, Κύριε*); and the Third Antiphon, Psalm 94 LXX: **"Come, let us rejoice in the Lord, let us shout with jubilation unto God our Savior... Save us, O Son of God, Who art wonderful in the saints, who sing unto Thee: Alleluia"** (*Δεῦτε ἀγαλλιασώμεθα τῷ Κυρίῳ... Σῶσον ἡμᾶς... ὁ ἐν Ἁγίοις θαυμαστός*). (For the precise form and rubrical order of these Antiphons, see the Particular Order of the Daily Office, p. 46, §2).[^100]
 
 ---
 

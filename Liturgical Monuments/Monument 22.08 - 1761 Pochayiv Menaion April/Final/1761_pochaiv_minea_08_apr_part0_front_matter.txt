@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-8-april-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 8: April (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-8-april-pochaiv-lavra-1761"></a>
 
 *[Architectural Typographical Title Border]*
 
@@ -17,7 +17,7 @@ In the year from the creation of the world according to the Greek chronographers
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 8: April (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-8-april-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 8: April (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-8-april-pochaiv-lavra-1761)**
 * **[MONTH OF APRIL](1761_pochaiv_minea_08_apr_part1_month-of-april.md#month-of-april)**
 
 ---

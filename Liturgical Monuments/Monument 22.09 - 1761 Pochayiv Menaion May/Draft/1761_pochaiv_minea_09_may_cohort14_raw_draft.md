@@ -7,7 +7,7 @@ The angelic ranks were amazed, O all-pure one, and human hearts were struck with
 
 *Kontakion of the Feast, and Ikos.*
 
-*Then Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Premudrosti):*
+*Then Sessional Hymn, Tone 8, Podoben: "Of Wisdom" (Премꙋ́дрости):*
 Having richly watered thy soul with the showers of tears, O wise father, thou didst reap a fruitful ear of thy virtues; and having become a shepherd unto venerable sheep, thou didst nurture them upon the pasture of abstinence. Therefore having been loosed from life gloriously, O Pachomius, thou wast joined unto the choir of the fathers. Therefore we cry aloud unto thee: pray unto Christ God to grant remission of transgressions unto those who honor thy holy memory with love! *(Twice)*
 
 *Glory, and now... of the Feast.*
@@ -72,7 +72,7 @@ Without husband...
 === LEAF p133 === (Fol. 67r)
 ...thou didst bear, O Virgin, and remainest a virgin, showing forth the images of the true Godhead of thy Son and God.
 
-*Kontakion, Tone 2, Podoben: "Seeking the highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the highest" (Вы́шнихъ и҆щѧ̀):*
 A radiant beacon thou didst appear at the ends of the earth, and didst make cities of the desert with multitudes of monastics; having crucified thyself, taking thy cross upon thy shoulder, and by abstinence thou didst wear out thy body, praying unceasingly for us all.[^244]
 
 *Ikos:*
@@ -125,7 +125,7 @@ Now enjoying fruits beyond comprehension for all these thy painful struggles, O 
 *Theotokion:*
 As the fleece, O all-immaculate one,[^251] receiving the heavenly dew in thy womb, thou didst bear for us Him Who gives food unto those who piously sing of Him, and confess thee as the all-hymned Birthgiver of God.
 
-*Exapostilarion, Podoben: "Heavens with stars" (Nebo zvezdami):*
+*Exapostilarion, Podoben: "Heavens with stars" (Не́бо звѣзда́ми):*
 Desiring the angelic life, thou didst withdraw thyself into the deserts, and didst subdue carnal passions, being shown forth as equal to the angels, O God-bearing Pachomius.
 
 *Glory, and now... of the Feast.*
@@ -144,7 +144,7 @@ The multitudes of monastics honor thee as an instructor...
 
 ## May 16. Our Venerable Father Theodore the Sanctified, Disciple of Venerable Pachomius the Great
 
-*Stichera of Theodore, Tone 6, Podoben: "Having laid aside all earthly hope" (Vse otlozhshe):*
+*Stichera of Theodore, Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*
 He Who of old as Master established the ascent of clouds,[^254] having now descended upon a light cloud into Egypt,[^255] foretold that the elect should shine forth, who are caught up on the clouds as God-wise ones;[^256] with whom Theodore, our sanctified father, an immovable pillar, unswerving toward virtue, shining with the most radiant splendors of Christ, with boldness prays for our souls!
 
 *Sticheron:*
@@ -188,14 +188,14 @@ Sanctified unto God, thou didst surpass the perception of visible things, O all-
 *Theotokion:*
 Thou didst withdraw into the deserts, fleeing, O glorious one, having received God the Word Who shone forth from the Virgin: in Whom also thou wast saved, O wonder-worthy one.
 
-*Kontakion, Tone 2, Podoben: "Seeking the highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the highest" (Вы́шнихъ и҆щѧ̀):*
 
 
 === LEAF p137 === (Fol. 69r)
 *Ikos (continued):*
 In the house of God thou didst blossom like a palm tree,[^261] and by excellent fasting didst bring forth fruits of virtues unto the Lord, O venerable father; therefore thou art also called blessed as equal in standing unto the bodiless powers.
 
-*Sessional Hymn, Tone 3, Podoben: "Of divine faith" (Bozhestvennyya very):*
+*Sessional Hymn, Tone 3, Podoben: "Of divine faith" (Бж҃е́ственныѧ вѣ́ры):*
 Clad in divine power, thou didst strip bare the hosts of adversary powers, O God-bearer; and having shone forth with the brightness of virtues, thou didst flash the dawn of healings, O venerable father: entreat Christ God to grant us great mercy!
 
 *Glory, and now... of the Feast.*
@@ -289,7 +289,7 @@ The first Adam, who through disobedience was corrupted by diseases, was renewed 
 
 ## May 17. Holy Apostle Andronicus and Those with Him
 
-*Stichera of the Saints, Tone 8, Podoben: "O most marvelous wonder" (O preslavnago chudese):*
+*Stichera of the Saints, Tone 8, Podoben: "O most marvelous wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 By the word thou didst stay the irrational darkness of godlessness, as an obedient hearer of the Word, and a glorious minister, and a most radiant luminary of the universe, O God-blessed one: therefore with divine words we glorify thee, and joyfully celebrate thy holy memory, offering praise unto the Almighty!
 
 === LEAF p140 === (Fol. 70v)

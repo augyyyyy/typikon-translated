@@ -7,7 +7,7 @@
 [^2822]: Theotokion Troparion, Tone 4 (*Не умолчимъ никогдаже, Богородице* / *Οὐ σιωπήσομέν ποτε Θεοτόκε*), on fol. 478v (physical page 972).
 [^2823]: Rubric on fol. 479r (physical page 973): Directing the reading of Psalm 50 (Septuagint LXX; Masoretic 51): *Помилуй мя, Боже* (Have mercy on me, O God).
 [^2824]: Rubric on fol. 479r (physical page 973): Indicating the beginning of the Supplicatory Canon to the Most Holy Theotokos (*кано́нъ молбѣ̀ пр҃тѣ́й Бц҃и*), Tone 8, Ode 1.
-[^2825]: Heirmos of Ode 1, Tone 8, on fol. 479r (physical page 973): *Во́дꙋ прошѐдъ ꙗ҆́ко по сꙋ́хꙋ, и҆з̾ є҆гѵ́пе[тскаго зла бѣжав]* (*Ὑγρὰν διοδεύσας ὡсеὶ ξηράν*). Printed by incipit only, in strict conformity with Ruthenian liturgical typography.
+[^2825]: Heirmos of Ode 1, Tone 8, on fol. 479r (physical page 973): *Во́дꙋ прошѐдъ ꙗ҆́ко по сꙋ́хꙋ, и҆з̾ є҆гѵ́пе[тскаго зла бѣжав]* (*Ὑγρὰν διοδεύσας ὡσεὶ ξηράν*). Printed by incipit only, in strict conformity with Ruthenian liturgical typography.
 [^2826]: Troparion 1 of Ode 1, Tone 8 (*Многими содержимь напастьми* / *Πολλοῖς συνεχόμενος πειρασμοῖς*), on fol. 479r (physical page 973).
 [^2827]: Troparion 2 of Ode 1, Tone 8 (*Страстей мя смущаютъ прилози* / *Παθῶν με ταράττουσι προσβολαί*), on fol. 479r (physical page 973).
 [^2828]: Troparion 3 of Ode 1, Tone 8 (*Спаса рождшую тя и Бога молю* / *Σωτῆρα τεκοῦσάν σε καὶ Θεόν*), on fol. 479r (physical page 973), preceded by the cue for *Glory*.
@@ -17,8 +17,8 @@
 [^2832]: Heirmos of Ode 3, Tone 8, on fol. 479v (physical page 974): *Небесному кругу верхотворче Господи* (*Οὐρανίας ἁψῖδος ὀροφοῦργε Κύριε*), witnessed here by incipit only (*Нбⷭ҇ному крꙋ́гꙋ връхо:*).
 [^2833]: Troparion 1 of Ode 3, Tone 8 (*Заступленіе и покровъ жизни моея* / *Προστασίαν καὶ σκέπην ζωῆς ἐμῆς*), on fol. 479v (physical page 974).
 [^2834]: Troparion 2 of Ode 3, Tone 8 (*Молюся, Дѣво, душевное смущеніе* / *Ἱκετεύω, Παρθένε, τὸν ψυχικὸν τάραχον*), on fol. 480r (physical page 975).
-[^2835]: Troparion 3 of Ode 3, Tone 8 (*Благодѣтеля рождши добрыхъ виновнаго* / *Εὐεργέτην τεκοῦσα τὸν τῶν καλῶν αἴтиον*), on fol. 480r (physical page 975), preceded by the cue for *Glory*.
-[^2836]: Troparion 4 (Theotokion) of Ode 3, Tone 8, on fol. 480r (physical page 975): *Лютыми недуги и болѣзньными страстьми* (*Χαλεпаῖς ἀррωστίαις καὶ νοσεροῖς πάθεσιν*), preceded by the cue for *Both now*.
+[^2835]: Troparion 3 of Ode 3, Tone 8 (*Благодѣтеля рождши добрыхъ виновнаго* / *Εὐεργέτην τεκοῦσα τὸν τῶν καλῶν αἴτιον*), on fol. 480r (physical page 975), preceded by the cue for *Glory*.
+[^2836]: Troparion 4 (Theotokion) of Ode 3, Tone 8, on fol. 480r (physical page 975): *Лютыми недуги и болѣзньными страстьми* (*Χαλεπαῖς ἀρρωστίαις καὶ νοσεροῖς πάθεσιν*), preceded by the cue for *Both now*.
 [^2837]: Katavasia cue after Ode 3 on fol. 480r (physical page 975): *Спаси отъ бѣдъ рабы своя, Богородице*.
 [^2838]: Rubric on fol. 480r (physical page 975): Prescribes the augmented litany (*дїако́нства*), wherein the priest or deacon commemorates the specific petitioner(s) for whose intention the moleben is celebrated.
 [^2839]: Opening petition of the augmented litany on fol. 480v (physical page 976): *Помилуй насъ, Боже, по велицѣй милости твоей, молимтися, услыши и помилуй*.

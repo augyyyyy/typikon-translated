@@ -3,7 +3,7 @@
 
 *Another Heirmos:* O Giver of light and Creator of the ages, O Lord: guide us in the light of Thy commandments; for we know no other God save Thee.[^1670]
 
-*Troparion 1:* Knowing Thee to be incarnate of thee, O Birthgiver of God, we the faithful acknowledge the Son born without seed, true God, and man by nature; therefore do we glorify thee.[^1671]
+*Troparion 1:* Knowing thee to be incarnate of thee, O Birthgiver of God, we the faithful acknowledge the Son born without seed, true God, and man by nature; therefore do we glorify thee.[^1671]
 
 *Troparion 2:* Having recourse at all times with faith beneath thy shelter and protection, O All-Pure One, for thy sake, O Virgin, are we delivered from every cruel circumstance.
 
@@ -69,7 +69,7 @@
 
 *Martyrikon 2:* The mouths of beasts, the mire of stalls, freezing cold and frost, the weight of burning heat, the tearing of nails, imprisonments, and violent death did ye endure with steadfastness, O passion-bearers! Therefore are ye glorified with Christ.[^1693]
 
-*Theotokion:* He who wills to do so accepts flesh from thy womb, and the Invisible One becomes visible; He accepts crucifixion, and is called a curse, delivering all from the curse, even Thy Son, O Lady full of the grace of God.[^1694]
+*Theotokion:* He who wills to do so accepts flesh from thy womb, and the Invisible One becomes visible; He accepts crucifixion, and is called a curse, delivering all from the curse, even thy Son, O Lady full of the grace of God.[^1694]
 
 *Another Heirmos:* Let us hymn Him who of old bedewed the Hebrew youths in the flame, and gloriously burned up the Chaldeans therein, even the Lord, saying: Bless and supremely exalt Him unto the ages.[^1695]
 

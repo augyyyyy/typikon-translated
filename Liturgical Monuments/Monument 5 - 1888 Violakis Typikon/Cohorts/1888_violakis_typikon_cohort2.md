@@ -1,8 +1,8 @@
 === LEAF p11 ===
 
-# ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 
-### By Dr. George T. Demos
+**By Dr. George T. Demos**
 
 A project of this size and complexity relied on the assistance of many individuals. Foremost was the immense effort of the book’s principal translator, Fr. Robert Athas,[^8] a graduate of Saint Vladimir’s Orthodox Seminary in Crestwood, New York, and former Proistamenos of the Holy Trinity Greek Orthodox Church in Tulsa, Oklahoma, of the Greek Orthodox Metropolis of Denver. Father Athas is now the Proistamenos of the Dormition of the Mother of God Greek Orthodox Church in Burlington, Vermont, of the Greek Orthodox Metropolis of Boston.
 
@@ -40,7 +40,7 @@ Above all, I thank our Lord God for any ability He has granted to me and especia
 
 === LEAF p13 ===
 
-# GREEK ORTHODOX METROPOLIS OF DENVER
+## GREEK ORTHODOX METROPOLIS OF DENVER
 
 ## INTRODUCTORY COMMENTARY
 
@@ -93,7 +93,7 @@ Protopresbyter
 
 === LEAF p16 ===
 
-# TYPIKON TRANSLATION
+## TYPIKON TRANSLATION
 
 ## (ΜΕΤΑΦΡΑΣΙΣ ΤΥΠΙΚΟΥ)[^14]
 
@@ -101,11 +101,11 @@ Protopresbyter
 
 === LEAF p17 ===
 
-# GUIDE TO PHONETIC USAGE[^15]
+## GUIDE TO PHONETIC USAGE[^15]
 
 ## (ΦΩΝΗΤΙΚΟΣ ΟΔΗΓΟΣ)
 
-### Compiled by George T. Demos, M.D.
+**Compiled by George T. Demos, M.D.**
 
 | Greek Letter | Phonetic Equivalent & Pronunciation | Greek Letter | Phonetic Equivalent & Pronunciation |
 | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ Protopresbyter
 | **Μ, μ** | m as in mother | | |
 | **Ν, ν** | n as in name | | |
 
-### DIPHTHONGS AND COMPOUND CONSONANTS
+**DIPHTHONGS AND COMPOUND CONSONANTS**
 
 | Combination | Phonetic Equivalent & Rules of Pronunciation |
 | :--- | :--- |
@@ -146,7 +146,7 @@ Although the ᾳ, ῃ, ῳ are considered to be diphthongs, the iota subscript i
 
 === LEAF p18 ===
 
-# ADDITIONAL READING INSTRUCTIONS[^16]
+## ADDITIONAL READING INSTRUCTIONS[^16]
 
 ## (ΕΠΙΠΡΟΣΘΕΤΑΙ ΟΔΗΓΙΑΙ ΑΝΑΓΝΩΣΕΩΣ)
 
@@ -160,7 +160,7 @@ Although the ᾳ, ῃ, ῳ are considered to be diphthongs, the iota subscript i
 
 === LEAF p19 ===
 
-# ΟΔΗΓΙΑΙ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ
+## ΟΔΗΓΙΑΙ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ
 
 ## ΕΠΙ ΤΩΝ ΠΡΟΗΓΟΥΜΕΝΩΝ ΕΚΔΟΣΕΩΝ ΤΟΥ ΤΥΠΙΚΟΥ[^17]
 
@@ -178,7 +178,7 @@ Although the ᾳ, ῃ, ῳ are considered to be diphthongs, the iota subscript i
 
 === LEAF p20 ===
 
-# GUIDELINES AND OBSERVATIONS ON THE PREVIOUS EDITIONS OF THE TYPIKON
+## GUIDELINES AND OBSERVATIONS ON THE PREVIOUS EDITIONS OF THE TYPIKON
 
 The synodically appointed five-member Committee consisting of the Reverend Metropolitans of Ainos, Samos, Caesarea, Mytiline and the Protopsaltis [highest-ranking chanter] of the Great Church George Violakis, which reviewed the previous Typika of the Church—such as that by the Protopsaltis Constantine—which are in use today, corrected in its report the errors and inaccuracies of these works as follows:
 

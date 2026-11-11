@@ -1,6 +1,6 @@
 === LEAF p611 ===
 
-# Month of July: Saints Cosmas and Damian (July 1, Concl. §§ 1–4); Deposition of the Precious Robe of the Theotokos (July 2, Heading, § 1 Opening)
+## Month of July: Saints Cosmas and Damian (July 1, Concl. §§ 1–4); Deposition of the Precious Robe of the Theotokos (July 2, Heading, § 1 Opening)
 
 ## Τῇ Α΄: Τῶν ἁγίων Ἀναργύρων Κοσμᾶ καὶ Δαμιανοῦ (Τέλος §§ 1–4)· Τῇ Β΄: Ἡ Κατάθεσις τῆς τιμίας Ἐσθῆτος τῆς Ὑπεραγίας Θεοτόκου ἐν ταῖς Βλαχέρναις (Ἀρχὴ § 1 Ἀρχὴ) [Violakis, p. 596]
 
@@ -12,13 +12,13 @@
 
 4.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τῶν Ἁγίων. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῶν Ἁγίων, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Προστασία τῶν Χριστιανῶν, Ἀπόστολος τῶν Ἁγίων, καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε. Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ Β΄. Ἡ Κατάθεσις τῆς τιμίας Ἐσθῆτος τῆς Ὑπεραγίας Θεοτόκου ἐν ταῖς Βλαχέρναις.
+**Τῇ Β΄. Ἡ Κατάθεσις τῆς τιμίας Ἐσθῆτος τῆς Ὑπεραγίας Θεοτόκου ἐν ταῖς Βλαχέρναις.**
 
 1.    Εἰ τύχοι ἡ ἑορτὴ τῆς Θεοτόκου ἐν πάσῃ ἄλλῃ ἡμέρᾳ, πλὴν
 
 === LEAF p612 ===
 
-# Month of July: Saints Cosmas and Damian (July 1, Concl. §§ 1–4); Deposition of the Precious Robe of the Theotokos (July 2, Heading, § 1 Opening)
+## Month of July: Saints Cosmas and Damian (July 1, Concl. §§ 1–4); Deposition of the Precious Robe of the Theotokos (July 2, Heading, § 1 Opening)
 
 ## July 1: The Holy Unmercenaries Cosmas and Damian (Concl. §§ 1–4); July 2: The Deposition of the Precious Robe of the Most Holy Theotokos in Blachernae (Heading, § 1 Opening) [Violakis, p. 597]
 
@@ -30,13 +30,13 @@
 
 4.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Saints. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Saints, that of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*); Epistle of the Saints and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### July 2: The Deposition of the Precious Robe of the Most Holy Theotokos in Blachernae
+**July 2: The Deposition of the Precious Robe of the Most Holy Theotokos in Blachernae**
 
 1.    If the commemoration of the Theotokos occurs on any other day except...[^365]
 
 === LEAF p613 ===
 
-# Month of July: Deposition of the Precious Robe of the Theotokos (July 2, Concl. § 1 Concl., §§ 2–4); Saint Athanasius of Athos (July 5, Heading, § 1 Opening)
+## Month of July: Deposition of the Precious Robe of the Theotokos (July 2, Concl. § 1 Concl., §§ 2–4); Saint Athanasius of Athos (July 5, Heading, § 1 Opening)
 
 ## Τῇ Β΄: Ἡ Κατάθεσις τῆς τιμίας Ἐσθῆτος τῆς Ὑπεραγίας Θεοτόκου ἐν ταῖς Βλαχέρναις (Τέλος § 1 Τέλος, §§ 2–4)· Τῇ Ε΄: Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀθανασίου τοῦ ἐν τῷ Ἄθῳ (Ἀρχὴ § 1 Ἀρχὴ) [Violakis, p. 598]
 
@@ -48,13 +48,13 @@
 
 4.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῆς Θεοτόκου δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τῆς Θεοτόκου, τὸ τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Περιβολὴν πᾶσι πιστοῖς (ζήτει ἀφ᾿ ς΄ Ὠδῆς)· Ἀπόστολος τῆς Θεοτόκου (ζήτει Νοεμβρίου ΚΑ΄), καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν. Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ Ε΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀθανασίου τοῦ ἐν τῷ Ἄθῳ.
+**Τῇ Ε΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀθανασίου τοῦ ἐν τῷ Ἄθῳ.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Ὁσίου ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία αὐτοῦ ψάλλεται μετὰ τῆς τοῦ ὁσίου
 
 === LEAF p614 ===
 
-# Month of July: Deposition of the Precious Robe of the Theotokos (July 2, Concl. § 1 Concl., §§ 2–4); Saint Athanasius of Athos (July 5, Heading, § 1 Opening)
+## Month of July: Deposition of the Precious Robe of the Theotokos (July 2, Concl. § 1 Concl., §§ 2–4); Saint Athanasius of Athos (July 5, Heading, § 1 Opening)
 
 ## July 2: The Deposition of the Precious Robe of the Most Holy Theotokos in Blachernae (Concl. § 1 Concl., §§ 2–4); July 5: Our Venerable Father Athanasius of Athos (Heading, § 1 Opening) [Violakis, p. 599]
 
@@ -66,20 +66,20 @@
 
 4.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Theotokos. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Theotokos, of the Patron Saint of the Church, and the Kontakion: **"A vesture to all the faithful"** (*Περιβολὴν πᾶσι πιστοῖς*; this is from the Sixth Ode of the Canon). Epistle of the Theotokos (see November 21) and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### July 5: Our Venerable Father Athanasius of Athos
+**July 5: Our Venerable Father Athanasius of Athos**
 
 1.    If the commemoration of the Saint occurs on any other day except Sunday, his service, along with that of Saint Lambados, is chanted according...[^366]
 
 === LEAF p615 ===
 
-# Month of July: Saint Athanasius of Athos (July 5, Concl. § 1 Concl.); Holy Great-Martyr Kyriake (July 7, Heading, §§ 1–4)
+## Month of July: Saint Athanasius of Athos (July 5, Concl. § 1 Concl.); Holy Great-Martyr Kyriake (July 7, Heading, §§ 1–4)
 
 ## Τῇ Ε΄: Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀθανασίου τοῦ ἐν τῷ Ἄθῳ (Τέλος § 1 Τέλος)· Τῇ Ζ΄: Τῆς ἁγίας Μάρτυρος Κυριακῆς (§§ 1–4) [Violakis, p. 600]
 
 Λαμπαδοῦ, κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν.
     Εἰ δὲ τύχοι ἐν Κυριακῇ τὴν διάταξιν τῆς Ἀκολουθίας ὅρα ἐν τῇ μνήμῃ τοῦ Ἁγίου Ἀντωνίου (Ἰανουαρίου ΙΖ΄), ἡ δὲ Ἀκολουθία τοῦ ὁσίου Λαμπαδοῦ ἐν τοῖς Ἀποδείπνοις.
 
-### Τῇ Ζ΄. Τῆς ἁγίας Μάρτυρος Κυριακῆς.
+**Τῇ Ζ΄. Τῆς ἁγίας Μάρτυρος Κυριακῆς.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῆς Ἁγίας ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία αὐτῆς, μετὰ τῆς τοῦ ὁσίου Θωμᾶ τοῦ ἐν τῷ Μαλεῷ, ψάλλεται κατὰ τὴν ἐν τῷ Μηναίῳ διάταξιν.
 
@@ -91,14 +91,14 @@
 
 === LEAF p616 ===
 
-# Month of July: Saint Athanasius of Athos (July 5, Concl. § 1 Concl.); Holy Great-Martyr Kyriake (July 7, Heading, §§ 1–4)
+## Month of July: Saint Athanasius of Athos (July 5, Concl. § 1 Concl.); Holy Great-Martyr Kyriake (July 7, Heading, §§ 1–4)
 
 ## July 5: Our Venerable Father Athanasius of Athos (Concl. § 1 Concl.); July 7: The Holy Great-Martyr Kyriake (Heading, §§ 1–4) [Violakis, p. 601]
 
 ...to the order of the Menaion.
     If the feast occurs on a Sunday, see the feast of Saint Anthony (January 17) for the order of the service; the service of Saint Lambados, on the other hand, is chanted at Compline.
 
-### July 7: The Holy Great-Martyr Kyriake
+**July 7: The Holy Great-Martyr Kyriake**
 
 1.    If the commemoration of the Saint occurs on any other day except Sunday, her service, together with that of the Venerable Father Thomas of Maleon, is chanted according to the order of the Menaion.
 
@@ -110,11 +110,11 @@
 
 === LEAF p617 ===
 
-# Month of July: Holy Great-Martyr Euphemia (July 11, Heading, §§ 1–3, Patriarchal Note)
+## Month of July: Holy Great-Martyr Euphemia (July 11, Heading, §§ 1–3, Patriarchal Note)
 
 ## Τῇ ΙΑ΄: Τῆς ἁγίας Μεγαλομάρτυρος καὶ πανευφήμου Εὐφημίας (Ἀρχὴ §§ 1–3, Σημείωσις) [Violakis, p. 602]
 
-### Τῇ ΙΑ΄. Τῆς ἁγίας Μεγαλομάρτυρος καὶ πανευφήμου Εὐφημίας.
+**Τῇ ΙΑ΄. Τῆς ἁγίας Μεγαλομάρτυρος καὶ πανευφήμου Εὐφημίας.**
 
 1.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὴν Α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ Κύριε ἐκέκραξα τὰ ἕξ Προσόμοια τῆς Ἁγίας ὡς καὶ τὸ Δόξα [τῆς Ἁγίας], Καὶ νῦν, Τίς μὴ μακαρίσει σε. Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα (ζήτει Ἰουλίου ΚΖ΄). Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Στιχηρὰ Προσόμοια καὶ τὸ Δόξα, Καὶ νῦν, Θεοτόκε σὺ εἶ ἡ ἄμπελος . . . μετὰ τῆς ἀθληφόρου, τὸ Ἀπολυτίκιον Λίαν εὔφρανας, Καὶ νῦν, Σὲ τὴν μεσιτεύσασαν, καὶ Ἀπόλυσις.
 
@@ -125,11 +125,11 @@
 
 === LEAF p618 ===
 
-# Month of July: Holy Great-Martyr Euphemia (July 11, Heading, §§ 1–3, Patriarchal Note)
+## Month of July: Holy Great-Martyr Euphemia (July 11, Heading, §§ 1–3, Patriarchal Note)
 
 ## July 11: The Holy, Glorious Great-Martyr and All-Praised Euphemia (Heading, §§ 1–3, Patriarchal Note) [Violakis, p. 603]
 
-### July 11: The Holy, Glorious Great-Martyr and All-Praised Euphemia
+**July 11: The Holy, Glorious Great-Martyr and All-Praised Euphemia**
 
 1.    In Vespers, after the Introductory Psalm [Ps. 103 LXX] and the First Stasis of the Psalter [Kathisma 1, Pss. 1–8 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the 6 Prosomoia Stichira and the "Glory..." {of the Saint}; "Both now and ever...": **"Who would not call Thee blessed"** (*Τίς μὴ μακαρίσει σε*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings (these are found on July 27). At the Aposticha: the 3 Prosomoia Stichira; "Glory... Both now and ever...": **"O Theotokos, Thou art the vine... with the prize-bearer"** (*Θεοτόκε σὺ εἶ ἡ ἄμπελος . . . μετὰ τῆς ἀθληφόρου*). The Dismissal Troparion: **"Thou didst greatly gladden"** (*Λίαν εὔφρανας*); "Both now and ever...": **"Thou who didst intercede for us"** (*Σὲ τὴν μεσιτεύσασαν*), and Dismissal.
 
@@ -140,7 +140,7 @@
 
 === LEAF p619 ===
 
-# Month of July: Holy Great-Martyr Euphemia (July 11, Sunday Concurrence §§ 4–6); Sunday of the Holy Fathers of the Fourth Ecumenical Council (Heading, Note, § 1 Opening)
+## Month of July: Holy Great-Martyr Euphemia (July 11, Sunday Concurrence §§ 4–6); Sunday of the Holy Fathers of the Fourth Ecumenical Council (Heading, Note, § 1 Opening)
 
 ## Τῇ ΙΑ΄: Τῆς ἁγίας Μεγαλομάρτυρος καὶ πανευφήμου Εὐφημίας (Περιπτώσεις ἐν Κυριακῇ §§ 4–6)· Τῇ Κυριακῇ τῶν Ἁγίων Πατέρων τῆς Δ΄ Οἰκουμενικῆς Συνόδου (Ἐπιγραφή, Σημ., § 1 Ἀρχὴ) [Violakis, p. 604]
 
@@ -150,7 +150,7 @@
 
 6.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τῆς Ἁγίας δ΄. Μετὰ τὴν Εἴσοδον τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ τῆς Ἁγίας καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Προστασία τῶν Χριστιανῶν, Ἀπόστολος τῆς Ἁγίας καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ Κυριακῇ τῶν Ἁγίων Πατέρων τῆς Δ΄ Οἰκουμενικῆς Συνόδου, τῶν ἐν Χαλκηδόνι συνελθόντων.
+**Τῇ Κυριακῇ τῶν Ἁγίων Πατέρων τῆς Δ΄ Οἰκουμενικῆς Συνόδου, τῶν ἐν Χαλκηδόνι συνελθόντων.**
 
 Σημ.    Τῇ Κυριακῇ τῇ ἀπὸ τῆς ΙΓ΄ τοῦ Ἰουλίου μηνὸς μέχρι τῆς ΙΘ΄ συμπιπτούσῃ, ψάλλεται ἡ Ἀκολουθία τῶν Ἁγίων Πατέρων ὡς ἑξῆς.
 
@@ -158,7 +158,7 @@
 
 === LEAF p620 ===
 
-# Month of July: Holy Great-Martyr Euphemia (July 11, Sunday Concurrence §§ 4–6); Sunday of the Holy Fathers of the Fourth Ecumenical Council (Heading, Note, § 1 Opening)
+## Month of July: Holy Great-Martyr Euphemia (July 11, Sunday Concurrence §§ 4–6); Sunday of the Holy Fathers of the Fourth Ecumenical Council (Heading, Note, § 1 Opening)
 
 ## July 11: The Holy, Glorious Great-Martyr and All-Praised Euphemia (Sunday Concurrence §§ 4–6); Sunday of the Holy Fathers of the Fourth Ecumenical Council (Heading, Note, § 1 Opening) [Violakis, p. 605]
 
@@ -168,7 +168,7 @@
 
 6.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Saint. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Saint, of the Patron Saint of the Church, and the Kontakion: **"Protection of Christians"** (*Προστασία τῶν Χριστιανῶν*). Epistle of the Saint and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### The Sunday of the Holy Fathers of the Fourth Ecumenical Council, Convening in Chalcedon
+**The Sunday of the Holy Fathers of the Fourth Ecumenical Council, Convening in Chalcedon**
 
 Note: On the Sunday occurring between the 13th and the 19th of July, we chant the service of the Holy Fathers as follows:
 

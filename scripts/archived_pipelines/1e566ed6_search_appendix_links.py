@@ -1,7 +1,7 @@
 import os
 import re
 
-intro_path = r"C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_intro.md"
+intro_path = r"C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon\Final_Dolnytsky_intro.md"
 
 if not os.path.exists(intro_path):
     print("Intro file not found!")

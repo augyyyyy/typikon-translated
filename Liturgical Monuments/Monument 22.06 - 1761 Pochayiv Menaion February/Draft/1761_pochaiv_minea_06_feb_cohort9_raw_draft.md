@@ -49,7 +49,7 @@ An infant in the flesh, * the Ancient of Days, * is seen most gloriously; * on t
 *Verse: A light for revelation unto the gentiles, and the glory of Thy people Israel.*
 Receive, O Symeon, * cried the all-immaculate one * in the sanctuary, * as an infant, * the Lord of glory and salvation of the world.
 
-*Glory... Both now... the same Tone and Podoben:*
+*Glory... Both now... the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 A great and awesome mystery * and strange dispensation: * He Who encompasses all things * and fashions infants, * is carried as an infant in arms!
 
 *On the Seventh Day of the Same Month: Our Venerable Father Parthenius, Bishop of Lampsacus; and our Venerable Father Luke of Hellas:*

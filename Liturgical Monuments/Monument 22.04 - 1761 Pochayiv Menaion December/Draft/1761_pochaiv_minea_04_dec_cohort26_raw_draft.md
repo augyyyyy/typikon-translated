@@ -19,7 +19,7 @@ O Bethlehem, prepare thyself; O Eden, now be opened; the all-holy Virgin comes t
 === LEAF p252 ===
 Life is in the manger, the Rich One is in the cave; He comes for the sake of the multitude of His mercy, having assumed the poverty of Adam, without change or confusion!
 
-*Other Stichera, of the Holy Martyrs, in the same Tone and Podoben:*
+*Other Stichera, of the Holy Martyrs, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 *Tone 4, Podoben: "As one valiant" (Я҆́кѡ до́блѧ):*
 The divinely-called decade and ten-branched lamp, illuminating the fullness of the Church with divine radiance, unshakable pillars, radiant stars, who have made the earth heavenly by the splendors of greatest struggles: let them be praised with loud voice today with sacred praises!
 
@@ -186,7 +186,7 @@ O marvel truly awesome and beyond word! He Who gives existence unto all, for the
 *Tone 1, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й сп҃се):*
 The radiant and honorable governors of Crete, having suffered steadfastly, by faith conquered the primordial evil serpent, and were lawfully crowned! Today we celebrate their praiseworthy memory, with loud voice glorifying the Lord of all! *Twice.*
 
-*Glory..., both now..., of the Forefeast, in the same Tone and Podoben:*
+*Glory..., both now..., of the Forefeast, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Rejoice, O Zion; adorn thyself, O Bethlehem: the Sustainer of all, having sent a star beforehand, has announced His immeasurable descent; for He Whom the heavenly powers tremble before, is born of the Virgin without change, our only God!
 
 *Ode 4. Heirmos:*

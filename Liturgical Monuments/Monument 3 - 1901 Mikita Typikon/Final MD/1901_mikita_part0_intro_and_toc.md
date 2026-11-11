@@ -1,21 +1,23 @@
-# GUIDE TO THE ECCLESIASTICAL TYPIKON, <a id="typikon-of-alexander-mikita-mukachevo-uzhhorod-1901"></a>
+# Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901) <a id="typikon-of-alexander-mikita-mukachevo-uzhhorod-1901"></a>
 
-### which
-### for the spiritually profitable use of youth
-### was composed and augmented by:
+## GUIDE TO THE ECCLESIASTICAL TYPIKON,
+
+**which**
+**for the spiritually profitable use of youth**
+**was composed and augmented by:**
 ## Dr. ALEXANDER MIKITA,
-### Canon-Custodian of the Cathedral Church of Mukachevo.
+**Canon-Custodian of the Cathedral Church of Mukachevo.**
 
 ---
 
-### With the approval of the Eparchial Government
-### published by:
+**With the approval of the Eparchial Government**
+**published by:**
 ## THE ECCLESIASTICAL-LITERARY CIRCLE
 ## OF THE SEMINARY OF UNGVÁR (UZHHOROD).
 
 ---
 
-### SECOND EDITION.
+**SECOND EDITION.**
 
 ---
 
@@ -26,15 +28,17 @@
 > “The law of Thy mouth is good to me, above thousands of gold and silver.”  
 > — *Psalm 118:72*
 
-# TO MY PROTECTRESS:
+## TO MY PROTECTRESS:
 
 ## TO THE QUEEN OF HEAVEN,
 ## THE MOST HOLY MOTHER OF GOD
 ## AND EVER-VIRGIN MARY,
 
-# BE HONOUR AND GLORY!
+## BE HONOUR AND GLORY!
 
-# PREFACE TO THE READER
+*(Vacat — Blank Leaf)*
+
+## PREFACE TO THE READER
 
 Just as man consists of soul and of body, so too any ecclesiastical service and the entire rite consists of two parts: of spirit and of body—that is, of the spiritual element (*elementum spirituale* [spiritual element]) and of the material element (*elementum materiale* [material element]).
 
@@ -44,7 +48,7 @@ Both elements stand in the closest union and in the greatest alliance between th
 
 And although in ecclesiastical services both elements are equally important, nevertheless in this booklet we shall not occupy ourselves with the symbolic meanings of individual holy rites—for all this is taught to youth in Pastoral Theology or in Liturgics—but here we shall speak only of how those services ought to be performed externally according to ecclesiastical prescriptions; that is, here we shall occupy ourselves solely with the material element of our rites.
 
-This material element, these ritual prescriptions, are compiled in our public ecclesiastical books. Our ecclesiastical books are an evident witness to how great, how magnificent, how wondrous is the material element of our ecclesiastical rites. Yet not only are they witnesses, but what is more, they are themselves the rite-bearing books.
+This material element, these ritual prescriptions, are compiled in our public ecclesiastical books. Our ecclesiastical books are an evident witness to how great, how magnificent, how marvelous is the material element of our ecclesiastical rites. Yet not only are they witnesses, but what is more, they are themselves the rite-bearing books.
 
 Now, since among us there are multiple ecclesiastical books, and many rites are compiled not in one, but in several books, therefore there must be a single guide to the rite-bearing books, there must be a single director for the ecclesiastical services.
 
@@ -52,7 +56,7 @@ This guide, or better to say, this director, is: the **Typikon**.
 
 For through the Typikon a key is given to youth for the use of our ecclesiastical books, and at the same time there is presented therein an anthology of ritual prescriptions.
 
-To possess this key, to know these prescriptions, and according to their direction to perform all services in unity and uniformity (*in unitate et uniformitate* [in unity and uniformity]) is a conscientious and binding duty for all those to whom the celebration of divine services is entrusted, or will be entrusted. Furthermore, to speak of these prescriptions as of little consequence is great frivolity; for the purpose of the rite and of ritual prescriptions is the glorification of God and the salvation of men; and in a matter of such great importance there can be no discussion of insignificant things. Already in the Old Testament God revealed this: *“Cursed is every man that continueth not in all the words of this law, to do them”* (Deut. 27:26 LXX [V Moses 27:26]).
+To possess this key, to know these prescriptions, and according to their direction to perform all services in unity and uniformity (*in unitate et uniformitate* [in unity and uniformity]) is a conscientious and binding duty for all those to whom the celebration of divine services is entrusted, or will be entrusted. Furthermore, to speak of these prescriptions as of little consequence is great frivolity; for the purpose of the rite and of ritual prescriptions is the glorification of God and the salvation of men; and in a matter of such great importance there can be no discussion of insignificant things. Already in the Old Testament God revealed this: *“Cursed is every man that continues not in all the words of this law, to do them”* (Deut. 27:26 LXX [V Moses 27:26]).
 
 However, since such a guiding and systematic booklet, in which this material element of our holy rites might be found briefly set down, has hitherto not been found among us either in the theological seminary or in the cantors’ and teachers’ preparatory institute (*praeparandia*), therefore I ventured to write such a work for the spiritually profitable use of our youth.
 
@@ -72,7 +76,9 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 
 **THE AUTHOR.**
 
-# TABLE OF CONTENTS
+*(Vacat — Blank Leaf)*
+
+## TABLE OF CONTENTS
 
 *Page*  
 **Preface to the Reader** — V
@@ -81,9 +87,9 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 1.** Concept, Origin, and Division of the Typikon — 1
 
 ## PART I
-### On Ecclesiastical Services in General
+**On Ecclesiastical Services in General**
 
-### CHAPTER I
+**CHAPTER I**
 **§ 2.** On the Ecclesiastical Menologion (*Misiatsoslov*) in General — 3  
 **§ 3.** On the Menologion of Moveable Feasts — 5  
 **§ 4.** On the Menologion of Immoveable Feasts — 9  
@@ -98,7 +104,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 13.** The Directory of Feasts Prescribed for the Eparchy of Mukachevo — 20  
 **§ 13.** What Must be Noted Concerning Sundays, Weekdays, Fast Days, Common Days, and Days for the Departed? — 23
 
-### CHAPTER II
+**CHAPTER II**
 **§ 14.** On Ecclesiastical Books in General — 25  
 **§ 15.** Which of the Ecclesiastical Books are Public? Horologion (*Chasoslov*), Psalter (*Psaltyr*), Triodion (*Trypisnets*), Pentecostarion (*Piatdesiatnytsia*), Octoechos (*Osmohlasnyk*), Chant Book (*Pisnoslov*), Monthly Books (*Misiachnyia Knyhy* / Menaia), Anthologion (*Tsvitoslov*), Synaxarion, Apostol, Gospel (*Evangeliye*), Sluzhebnik, Trebnik, and Typikon (*Typik*) — 25 *Page*
 **§ 17.** Which of the Ecclesiastical Books are Private? — 33  
@@ -106,21 +112,21 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 19.** What Must be Noted Concerning Ecclesiastical Books? — 34  
 **§ 20.** From Whom do Ecclesiastical Books Originate? — 37
 
-### CHAPTER III
+**CHAPTER III**
 **§ 21.** On Technical Terms Found in Ecclesiastical Books in General — 38  
 **§ 22.** On Technical Terms Found in Ecclesiastical Books in Particular: Order (*Chyn*); Service (*Sluzhba*); Psalm (*Psalm*); Kathisma (*Kadizma*); Antiphon; Paroemia; Canticles of Moses; Verse (*Stykh*); Prokimenon; Sticheron; Idiomelon (*Samohlasna*); Prosomoion (*Podoben*); Troparion; Kontakion; Ikos; Hypakoe (*Upakoi*); Canon; Ode (*Pisn*); Heirmos; Refrain (*Pryspiv*); Katavasia; Synaxarion; Exaposteilarion (*Svitylen*); Megalynarion (*Velichaniye*); Polyeleos (*Mnohomylostyven*); Gradual (*Stepenna*); Theotokion (*Bohorodychen*); Ektenia; Bow (*Poklon*); Litiya; Akathist; Paraklesis; Parastas; Dismissal (*Otpust*) — 39  
 **§ 23.** What Else Must be Noted Concerning These Designations? — 57
 
 ## PART II
-### On Ecclesiastical Services in Particular
+**On Ecclesiastical Services in Particular**
 
 ## SECTION I
 **§ 24.** On Pre-Liturgical Services in General — 59
 
-### CHAPTER I
-#### Parts of the Ecclesiastical Rule
+**CHAPTER I**
+**Parts of the Ecclesiastical Rule**
 
-#### MEMBER I
+**MEMBER I**
 **§ 25.** On Vespers — 59
 
 **I. Ordinary Vespers**  
@@ -137,7 +143,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 35.** Order of Vespers for the Descent of the Holy Spirit — 77  
 **§ 36.** Order of Vespers on the Eve of the Nativity of Jesus Christ, if it occurs on Saturday or on Sunday — 78
 
-#### MEMBER II
+**MEMBER II**
 **§ 37.** On Compline — 79
 
 **I. Ordinary Compline**  
@@ -149,7 +155,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 41.** Order of Compline in the Great Fast: (α) Order of Small Compline with prostrations; (β) Order of Great Compline in the first week of the Holy Great Fast; (γ) Order of Great Compline in the other weeks of the Great Fast; (δ) Order of Great Compline on Fridays of the Holy Great Fast — 82  
 **§ 42.** Order of Great Compline with Litiya — 87
 
-#### MEMBER III
+**MEMBER III**
 **§ 43.** On the Midnight Office — 88 *Page*
 **I. Ordinary Midnight Offices**  
 **§ 44.** Order of Daily Midnight Office — 89  
@@ -161,7 +167,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 48.** Order of Festal Midnight Office — 91  
 **§ 49.** Order of Midnight Office on Holy and Great Saturday — 92
 
-#### MEMBER IV
+**MEMBER IV**
 **§ 50.** On Matins — 92
 
 **I. Ordinary Matins**  
@@ -178,7 +184,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 59.** Order of Matins in Bright Week: (α) Order of Matins on the Sunday of Pascha; (β) Order of Sunday Matins, if on a certain day in Bright Week a Saint with a Polyeleos falls; (γ) Notes on Matins from Thomas Sunday unto Ascension — 109 *Page*
 **§ 60.** Order of Matins for the Exaltation of the Precious Cross. Note on Matins for the Sunday of the Veneration of the Cross — 112
 
-#### MEMBER V
+**MEMBER V**
 **§ 61.** On the Canonical Hours and Typika (*Obidnytsia*) — 113
 
 **I. Ordinary Hours**  
@@ -189,14 +195,14 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 64.** Hours in the Great Fast — 117  
 **§ 65.** Hours in Bright Week — 119
 
-### APPENDIX
+**APPENDIX**
 **§ 66.** On the All-Night Vigil — 120  
 **§ 67.** What is Necessary to Note Concerning the Ecclesiastical Rule? — 120
 
-### CHAPTER II
+**CHAPTER II**
 **§ 68.** On the Ecclesiastical Rule for Diverse Occasions — 121
 
-#### MEMBER I
+**MEMBER I**
 **§ 69.** (I) If it is Sunday and a Lesser Saint — 122  
 **§ 70.** (II) If it is Sunday and a Middle Saint — 123  
 **§ 71.** (III) If it is Sunday and a Saint with a Polyeleos — 124  
@@ -222,7 +228,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 91.** (XXIII) If it is Sunday, the Apodosis of the Feast, and two Saints — 140  
 **§ 92.** (XXIV) If it is Sunday and with the Forefeast or with the Apodosis of any feast there occurs the Patronal Feast of a Male or Female Saint — 140
 
-#### MEMBER II
+**MEMBER II**
 **§ 93.** (XXV) If it is a weekday and a Lesser Saint — 141  
 **§ 94.** (XXVI) If it is a weekday and a Middle Saint — 143  
 **§ 95.** (XXVII) If it is a weekday and a Great Saint — 144  
@@ -247,7 +253,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 114.** (XLVI) If on a weekday the Apodosis of the Feast and two Saints occur — 156  
 **§ 115.** (XLVII) If on weekdays the Patronal Feast of a Male or Female Saint occurs with a Forefeast or with the Apodosis of any feast — 156  
 **§ 116.** (XLVIII) How the Triodion is sung with the Menaion from Thomas Sunday throughout the entire Pentecostarion on each week, even unto the Apodosis of Pentecost, except Saturdays and Sundays, at Vespers and at Matins? — 157 *Page*
-#### MEMBER III
+**MEMBER III**
 **§ 117.** (XLIX) How the whole Divine Service ought to be performed, and more especially Matins, if it is Saturday, the Patronal Feast of a Saint, and the Canon of the Saint is for 4? — 159  
 **§ 118.** (L) How Matins is performed, if it is Saturday, the Patronal Feast of a Saint, and the Canon of the Saint is for 6? — 161  
 **§ 119.** (LI) How Matins ought to be performed, if it is Saturday, the Patronal Feast of a Saint, and a Saint having a Canon for 8? — 161  
@@ -261,7 +267,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 127.** (LIX) How Matins is performed, if it is Saturday, any kind of patronal temple, and within the Feast a Saint for 8? — 164  
 **§ 128.** (LX) How Matins is performed, if it is Saturday, any kind of patronal temple, and within the Feast two Saints having services? — 165
 
-### APPENDIX
+**APPENDIX**
 **§ 129.** On the Kathismata — 165  
 **§ 130.** When is the Polyeleos Sung? — 168 *Page*
 **§ 131.** On which Sundays the Sunday Gospel is not read, and when “Having Beheld the Resurrection of Christ” is omitted — 168  
@@ -274,31 +280,31 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 ## SECTION II
 **§ 137.** On Liturgical Celebrations — 173
 
-### CHAPTER I
+**CHAPTER I**
 **§ 138.** On the Divine Liturgies in General — 174
 
-#### MEMBER I
-#### Order of the Liturgy of St. John Chrysostom
+**MEMBER I**
+**Order of the Liturgy of St. John Chrysostom**
 **§ 139.** (a) On the Proskomide — 175  
 **§ 140.** (b) Order of the Liturgy of the Catechumens — 182  
 **§ 141.** (c) Order of the Liturgy of the Faithful — 187
 
-#### MEMBER II
-#### On the Liturgy of St. Basil the Great
+**MEMBER II**
+**On the Liturgy of St. Basil the Great**
 **§ 142.** Order of the Liturgy of St. Basil the Great without Vespers — 198  
 **§ 143.** Order of the Liturgy of St. Basil the Great with Vespers — 199
 
-#### MEMBER III
-#### Order of the Liturgy of the Presanctified Gifts
+**MEMBER III**
+**Order of the Liturgy of the Presanctified Gifts**
 **§ 144.** (a) Preparation of the Holy Lamb — 200  
 **§ 145.** (b) Vespers as Part of the Holy Liturgy of the Presanctified Gifts — 201  
 **§ 146.** (c) Liturgy of the Catechumens — 204  
 **§ 147.** (d) Liturgy of the Faithful — 205 *Page*
-### CHAPTER II
+**CHAPTER II**
 **§ 148.** On the Divine Liturgies for Diverse Occasions — 207
 
-#### MEMBER I
-#### On Ordinary Occasions
+**MEMBER I**
+**On Ordinary Occasions**
 **§ 149.** (I) How the Liturgy is performed, if it is Sunday and a Lesser Saint?[^2] — 207  
 **§ 150.** (II) How the Liturgy is performed, if it is Sunday and a Middle Saint? — 208  
 **§ 151.** (III) How the Liturgy is performed, if it is Sunday and a Saint with a Polyeleos? — 208  
@@ -322,10 +328,10 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 169.** (XXI) How the Liturgy is performed on weekdays, if the Apodosis of the Feast occurs? — 217  
 **§ 170.** (XXII) When is it permitted to celebrate the Liturgy of the Departed in black vestments? — 217
 
-#### MEMBER II
-#### On Liturgical Peculiarities
+**MEMBER II**
+**On Liturgical Peculiarities**
 **§ 171.** Which are the Most Renowned Peculiarities in the Holy Liturgies? “Heavenly King”; “Christ is Risen”; Antiphons; “As Many as Have Been Baptized into Christ”; “To Thy Cross We Bow Down”; “Arise, O God, Judge Thou the Earth”; Reading of the Gospel according to John, Tone 1, in 12 stations; On the Epistles (*Apostoly*) and Gospels of festal Sundays; On extraordinary ektenias; “Let All Mortal Flesh Keep Silence”; “Of Thy Mystical Supper”; On the Megalynaria (*Velichaniya*); “Of Thy Mystical Supper” [repeated in orig.]; “Be Thou Exalted Above the Heavens, O God”; The Oblation (*Prynos* / Prosphora); Antidoron; Anointing with Blessed Oil (*Myrovaniye*); The first blessing of a newly ordained priest; Sunday Dismissal — 219 *Page*
-### APPENDIX
+**APPENDIX**
 **§ 172.** What is Necessary to Note Concerning the Eves of the Nativity of Christ and Theophany? — 225  
 **§ 173.** What is Necessary to Know Concerning the Peculiarities of the Other Feasts? — 226  
 **§ 174.** What is Necessary to Note Concerning the Annunciation? — More Especially if it Occurs on Great Friday? (Typikon of Bishop Basil Popovics) — 226  
@@ -334,8 +340,8 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 ## SECTION III
 **§ 176.** On Services Following the Divine Liturgy in General — 233
 
-### CHAPTER I
-#### On the Rites of the Holy Mysteries
+**CHAPTER I**
+**On the Rites of the Holy Mysteries**
 **§ 177.** Order of Holy Baptism — 234  
 **§ 178.** Order of the Holy Mystery of Chrismation — 237  
 **§ 179.** Order of the Holy Mystery of the Eucharist: (a) Communion of the healthy; (b) Communion of the sick — 238  
@@ -344,8 +350,8 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 182.** Order of the Holy Mystery of Matrimony: (α) Blessing of first-married spouses [orig. misprinted *perkobrachykh* for *pervobrachykh*]; (β) Blessing of second-married spouses — 251  
 **§ 183.** Order of the Holy Mystery of the Anointing of the Sick (*Eleosviashcheniye*) — 254
 
-### CHAPTER II
-#### On Ecclesiastical Blessings and Sanctifications
+**CHAPTER II**
+**On Ecclesiastical Blessings and Sanctifications**
 **§ 184.** Order of the Blessing of Children — 256  
 **§ 185.** Order of the Churching of a Bride After Marriage — 257  
 **§ 186.** Order of the Churching of a Woman After Childbirth — 257 *Page*
@@ -380,7 +386,7 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 **§ 215.** What Doth the Priest Perform on the First Day of the Holy Great Fast? — 280  
 **§ 216.** What is the Dread Prayer? — 280  
 **§ 217.** Order of the Akathist to the Dormition of the Most Holy Virgin Mary — 281 *Page*
-### APPENDIX
+**APPENDIX**
 **§ 218.** When Do We Use the Censer? — 282  
 **§ 219.** What is Necessary to Note Concerning the Colour of Church Vestments? — 283  
 **§ 220.** What is Necessary to Know Concerning the Ecclesiastical Language? — 284  
@@ -388,23 +394,23 @@ In Ungvár (Uzhhorod), on the feast of St. Panteleimon the Healer, 1900.
 
 Glory be to Thee, O Holy Trinity, Glory be to Thee!
 
-### INDEX OF DIVERSE PRAYERS
+**INDEX OF DIVERSE PRAYERS**
 
 *Page*  
 Prayer of the Evening Entrance: “O Good Lover of Mankind,” etc. — 62  
 When is it fitting to say the verse: “God be bountiful unto us,” and when: “By the prayers of our Holy Fathers”? — 114  
 Prayers used at the Proskomide — 175  
-Prayer for the Priest departing unto the High Place: “Blessed is He that cometh in the Name of the Lord” — 185  
+Prayer for the Priest departing unto the High Place: “Blessed is He that comes in the Name of the Lord” — 185  
 Prayer before the Gospel: “Shine forth” — 185  
 Prayer at the Transfer of the Precious Gifts: “The Most Holy Hierarch” — 188  
-Prayer of a Newly Ordained Priest when he requesteth Holy Communion from the Bishop: “Behold, I draw near” — 195  
+Prayer of a Newly Ordained Priest when he requests Holy Communion from the Bishop: “Behold, I draw near” — 195  
 Prayer of the Priestly Blessing at the First Divine Liturgy — 223  
 Prayer of Intention before the administration of the Holy Mysteries: “O God, Who of Thy...” — 234  
 Prayer before Holy Communion: “I believe, O Lord, and I confess” — 238  
-Prayer before Holy Confession, when the Priest receiveth a sinner — 241  
-Prayer after Confession, when the Priest absolveth a sinner — 242  
+Prayer before Holy Confession, when the Priest receives a sinner — 241  
+Prayer after Confession, when the Priest absolves a sinner — 242 *(Vacat — Blank Leaf / Чистый листъ)*
 
-# INTRODUCTION
+## INTRODUCTION
 
 ## § 1. Concept, Principles, and Division of the Typikon
 
@@ -414,9 +420,9 @@ The services that are prescribed by the Church for Sundays and weekdays, as well
 
 Public services are divided into 3 parts: (α) Into pre-liturgical (*ante-liturgicae*), that is, those preceding the Divine Liturgy, and these are: Vespers, Compline, the Midnight Office, Matins, the Hours, and Typika (*Obidnytsia*)[^3]; (β) Into liturgical (*ceremoniae liturgicae*), concerning the three Liturgies, namely: of St. John Chrysostom, of St. Basil the Great, and of St. Gregory the Dialogist; (γ) And into services following the Divine Liturgy, and these are of the Holy Mysteries, Ecclesiastical Sanctifications, and Blessings (*ceremoniae Sacramentorum et Sacramentalium*).
 
-The pastor must celebrate the holy services: (α) Intelligibly, that is, with distinct pronunciation and with a decent voice; (β) In godly fear, that is, with an interior spirit for the profit of the people; (γ) In unity with other pastors and with ecclesiastical ordinances; wherefore the Council of Trent stateth: “If anyone should say that the received and approved rites of the Church may be omitted by any pastor at his own pleasure without sin, or changed into other new ones, let him be anathema.”[^4] (δ) Uniformly, that is, without any diminution or addition, and at that very time which hath been appointed by the eparchial authority.
+The pastor must celebrate the holy services: (α) Intelligibly, that is, with distinct pronunciation and with a decent voice; (β) In godly fear, that is, with an interior spirit for the profit of the people; (γ) In unity with other pastors and with ecclesiastical ordinances; therefore the Council of Trent states: “If anyone should say that the received and approved rites of the Church may be omitted by any pastor at his own pleasure without sin, or changed into other new ones, let him be anathema.”[^4] (δ) Uniformly, that is, without any diminution or addition, and at that very time which hath been appointed by the eparchial authority.
 
-The systematic collection of all church services constituteth a rite (*complexus ordinatus omnium ceremoniarum est ritus*). The Typikon (*in Greek Τυπικὸν, from the word τύπος = forma, praescriptio, regula* [form, prescription, rule]): (α) Objectively is the collection of all those prescriptions, that is, rules, according to which the sacred services must be celebrated (*est complexus regularum, juxta quas ceremoniae administrari possunt ac debent* [is the collection of rules according to which ceremonies can and ought to be administered]); (β) Subjectively is the science which anyone acquireth for himself if he learneth those prescriptions, that is, the rules. Those prescriptions are taken either: (α) from the church books; or (β) from the decrees of the Congregation of Sacred Rites (*Congregatio SS. Rituum*); or (γ) from customary law (*consuetudo*).
+The systematic collection of all church services constitutes a rite (*complexus ordinatus omnium ceremoniarum est ritus*). The Typikon (*in Greek Τυπικὸν, from the word τύπος = forma, praescriptio, regula* [form, prescription, rule]): (α) Objectively is the collection of all those prescriptions, that is, rules, according to which the sacred services must be celebrated (*est complexus regularum, juxta quas ceremoniae administrari possunt ac debent* [is the collection of rules according to which ceremonies can and ought to be administered]); (β) Subjectively is the science which anyone acquires for himself if he learns those prescriptions, that is, the rules. Those prescriptions are taken either: (α) from the church books; or (β) from the decrees of the Congregation of Sacred Rites (*Congregatio SS. Rituum*); or (γ) from customary law (*consuetudo*).
 
 Just as services are divided into 3 parts, so also prescriptions are divided into 3 parts, namely: (α) into prescriptions concerning pre-liturgical services; (β) into prescriptions concerning liturgical services; and (γ) into prescriptions concerning services of the Holy Mysteries and other Ecclesiastical Sanctifications and Blessings.
 
@@ -427,18 +433,23 @@ In accordance with this, we also divide our Typikon first into 2 principal parts
 ## TABLE OF CONTENTS
 
 * **[Typikon of Alexander Mikita (Mukachevo-Uzhhorod, 1901)](#typikon-of-alexander-mikita-mukachevo-uzhhorod-1901)**
+  * [GUIDE TO THE ECCLESIASTICAL TYPIKON,](#guide-to-the-ecclesiastical-typikon)
   * [Dr. ALEXANDER MIKITA,](#dr-alexander-mikita)
   * [THE ECCLESIASTICAL-LITERARY CIRCLE](#the-ecclesiastical-literary-circle)
   * [OF THE SEMINARY OF UNGVÁR (UZHHOROD).](#of-the-seminary-of-ungvár-uzhhorod)
+  * [TO MY PROTECTRESS:](#to-my-protectress)
   * [TO THE QUEEN OF HEAVEN,](#to-the-queen-of-heaven)
   * [THE MOST HOLY MOTHER OF GOD](#the-most-holy-mother-of-god)
   * [AND EVER-VIRGIN MARY,](#and-ever-virgin-mary)
+  * [BE HONOUR AND GLORY!](#be-honour-and-glory)
+  * [PREFACE TO THE READER](#preface-to-the-reader)
   * [INTRODUCTION](#introduction)
   * [PART I](#part-i)
   * [PART II](#part-ii)
   * [SECTION I](#section-i)
   * [SECTION II](#section-ii)
   * [SECTION III](#section-iii)
+  * [INTRODUCTION](#introduction)
   * [§ 1. Concept, Principles, and Division of the Typikon](#1-concept-principles-and-division-of-the-typikon)
 * **[PART I: ON DIVINE SERVICES IN GENERAL (Calendar, Church Books, and Liturgical Realia)](1901_mikita_part1_general_services.md#part-i-on-divine-services-in-general-calendar-church-books-and-liturgical-realia)**
   * [CHAPTER I. § 2. On the Ecclesiastical Menologion in General](1901_mikita_part1_general_services.md#chapter-i-2-on-the-ecclesiastical-menologion-in-general)
@@ -454,21 +465,22 @@ In accordance with this, we also divide our Typikon first into 2 principal parts
   * [§ 12. Which Are the Lesser Feasts?](1901_mikita_part1_general_services.md#12-which-are-the-lesser-feasts)
   * [§ 13. Direction of Feasts Prescribed for the Eparchy of Mukachevo](1901_mikita_part1_general_services.md#13-direction-of-feasts-prescribed-for-the-eparchy-of-mukachevo)
   * [§ 13. What Must Be Noted Concerning Sunday, Weekday, Fasting, Fast-Free, and Requiem Days?](1901_mikita_part1_general_services.md#13-what-must-be-noted-concerning-sunday-weekday-fasting-fast-free-and-requiem-days)
+  * [CHAPTER II](1901_mikita_part1_general_services.md#chapter-ii)
   * [§ 14. On Church Books in General](1901_mikita_part1_general_services.md#14-on-church-books-in-general)
   * [§ 15. Which of the Church Books Are Public?](1901_mikita_part1_general_services.md#15-which-of-the-church-books-are-public)
   * [§ 17. Which of the Church Books Are Private?](1901_mikita_part1_general_services.md#17-which-of-the-church-books-are-private)
   * [§ 18. How Are Public Books Divided?](1901_mikita_part1_general_services.md#18-how-are-public-books-divided)
   * [§ 19. What Must Be Noted Concerning Church Books?](1901_mikita_part1_general_services.md#19-what-must-be-noted-concerning-church-books)
   * [§ 20. From Whom Do the Church Books Originate?](1901_mikita_part1_general_services.md#20-from-whom-do-the-church-books-originate)
+  * [CHAPTER III.](1901_mikita_part1_general_services.md#chapter-iii)
   * [On Liturgical Expressions and Terminology in the Church Books](1901_mikita_part1_general_services.md#on-liturgical-expressions-and-terminology-in-the-church-books)
   * [§ 21. On Liturgical Technical Terms in General](1901_mikita_part1_general_services.md#21-on-liturgical-technical-terms-in-general)
   * [§ 22. On Liturgical Technical Terms in Particular](1901_mikita_part1_general_services.md#22-on-liturgical-technical-terms-in-particular)
 * **[PART II: ON CHURCH SERVICES IN PARTICULAR (Canonical Hours, Vigil, and Divine Liturgy)](1901_mikita_part2_particular_services.md#part-ii-on-church-services-in-particular-canonical-hours-vigil-and-divine-liturgy)**
-  * [Part II](#part-ii)
-  * [CHAPTER II.](#chapter-ii)
+  * [CHAPTER II.](1901_mikita_part1_general_services.md#chapter-ii)
   * [SECTION II.](#section-ii)
   * [SECTION III.](#section-iii)
-  * [APPENDIX](#appendix)
+  * [APPENDIX](1901_mikita_part2_particular_services.md#appendix)
 
 ---
 

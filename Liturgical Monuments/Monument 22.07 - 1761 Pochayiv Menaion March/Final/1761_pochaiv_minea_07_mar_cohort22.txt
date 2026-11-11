@@ -254,4 +254,4 @@ The god-opposing decree of the lawless tyrant raised a high flame; but Christ sp
 
 *Theotokion:* Calm my unstable turmoil of thoughts, O pure Mother of God, directing their motion unto thy Son.
 
-*Kontakion, Tone 4, Podoben:*
+*Kontakion, Tone 4, Podoben (Подо́бенъ):*

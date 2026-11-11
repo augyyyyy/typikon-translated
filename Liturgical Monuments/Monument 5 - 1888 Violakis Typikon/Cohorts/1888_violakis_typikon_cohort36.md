@@ -1,6 +1,6 @@
 === LEAF p351 ===
 
-# Month of January: Sunday after the Lights with Triodion (§ 44 concl. – § 47 incipit)
+## Month of January: Sunday after the Lights with Triodion (§ 44 concl. – § 47 incipit)
 
 ## Ἑορτὴ ἐν Κυριακῇ: Σύμπτωσις μετὰ τοῦ Τριῳδίου [Violakis, p. 336]
 
@@ -16,7 +16,7 @@
 
 === LEAF p352 ===
 
-# Month of January: Sunday after the Lights with Triodion (§ 44 concl. – § 47 incipit)
+## Month of January: Sunday after the Lights with Triodion (§ 44 concl. – § 47 incipit)
 
 ## Sunday after the Lights: Concurrence with the Triodion [Violakis, p. 337]
 
@@ -32,7 +32,7 @@
 
 === LEAF p353 ===
 
-# Month of January: Sunday after the Lights Concluded (§ 47 concl. – § 48); Epistle & Gospel Notes
+## Month of January: Sunday after the Lights Concluded (§ 47 concl. – § 48); Epistle & Gospel Notes
 
 ## Ἀπόδοσις καὶ Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου [Violakis, p. 338]
 
@@ -40,7 +40,7 @@
 
 48.    Εἰ τύχοι ἄρχεσθαι τὸ Τριῴδιον τῇ ΙΔ΄ τοῦ μηνός, ἡ Ἀπόδοσις τῆς ἑορτῆς προψάλλεται τῇ ΙΓ΄ ἤτοι τῷ Σαββάτῳ, Ἀπόστολος καὶ Εὐαγγέλιον λέγεται τοῦ Σαββάτου μετὰ τὰ Φῶτα, ἡ δὲ τῆς Κυριακῆς τοῦ Τελώνου καὶ Φαρισαίου Ἀκολουθία μετὰ τῶν Ἀναστασίμων ψάλλεται ὡς εἴθισται (ὅρα σημ. β΄ ἐν περιπτώσει Β΄ § 16.)
 
-### Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου.
+**Σημειώσεις περὶ Ἀποστόλου καὶ Εὐαγγελίου.**
 
 Α΄)    Ἐὰν παρέλθῃ ἡ μετὰ τὰ Φῶτα Κυριακὴ καὶ μένῃ μία μόνη μέχρι τῆς Α΄ Κυριακῆς τοῦ Τριῳδίου, τῇ Κυριακῇ ταύτῃ Ἀπόστολον λέγομεν τῆς ΛΒ΄ Κυριακῆς καὶ Εὐαγγέλιον τοῦ Ζακχαίου.
 
@@ -56,7 +56,7 @@
 
 === LEAF p354 ===
 
-# Month of January: Sunday after the Lights Concluded (§ 47 concl. – § 48); Epistle & Gospel Notes
+## Month of January: Sunday after the Lights Concluded (§ 47 concl. – § 48); Epistle & Gospel Notes
 
 ## Apodosis and Notes Concerning the Epistle and Gospel [Violakis, p. 339]
 
@@ -64,7 +64,7 @@
 
 48.    If the Triodion begins on the 14th of the month, the Apodosis of the Feast is anticipated and chanted on Saturday the 13th; the Epistle and Gospel of the Saturday after the Lights are read; and the office of the Sunday of the Publican and the Pharisee, together with the Sunday Resurrectional hymns, is chanted according to custom (see Note 2 in Situation Two, § 16).
 
-### Notes Concerning the Epistle and Gospel Readings
+**Notes Concerning the Epistle and Gospel Readings**
 
 1.    If after the Sunday after the Lights only one Sunday remains before the First Sunday of the Triodion: on that Sunday we read the Epistle of the 32nd Sunday [1 Timothy 4:9–15] and the Gospel of Zacchaeus [15th Sunday of Luke, Luke 19:1–10].
 
@@ -80,7 +80,7 @@
 
 === LEAF p355 ===
 
-# Month of January: Gospel Note Concluded; Hypapante Katavasiai; St. Anthony the Great (§ 1–3 incipit)
+## Month of January: Gospel Note Concluded; Hypapante Katavasiai; St. Anthony the Great (§ 1–3 incipit)
 
 ## Ὑπαπαντὴ καὶ Τοῦ Ὁσίου Πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου [Violakis, p. 340]
 
@@ -88,7 +88,7 @@
 
 Ε΄)    Μετὰ τὴν τῆς ἑορτῆς τῶν Θεοφανείων Ἀπόδοσιν, τῇ Α΄ τυχούσῃ Κυριακῇ ἢ ἑορτῇ, ἄρχονται αἱ Καταβασίαι τῆς Ὑπαπαντῆς *Χέρσον ἀβυσσοτόκον*, καὶ Κοντάκιον *Ὁ μήτραν παρθενικήν*.
 
-### Τῇ ΙΖ΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου.
+**Τῇ ΙΖ΄. Τοῦ Ὁσίου πατρὸς ἡμῶν Ἀντωνίου τοῦ Μεγάλου.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Ὁσίου ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία αὐτοῦ ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ.
 
@@ -100,7 +100,7 @@
 
 === LEAF p356 ===
 
-# Month of January: Gospel Note Concluded; Hypapante Katavasiai; St. Anthony the Great (§ 1–3 incipit)
+## Month of January: Gospel Note Concluded; Hypapante Katavasiai; St. Anthony the Great (§ 1–3 incipit)
 
 ## Presentation Katavasiai and Saint Anthony the Great [Violakis, p. 341]
 
@@ -108,7 +108,7 @@
 
 5.    After the Apodosis of the Feast of Theophany, on the first occurring Sunday or feast, we begin the Katavasiai of the Meeting of the Lord: **"The sun once shone upon the dry ground"** (*Χέρσον ἀβυσσοτόκον*), and the Kontakion: **"Thou Who didst sanctify the virginal womb by Thy birth"** (*Ὁ μήτραν παρθενικὴν ἁγιάσας τῷ τόκῳ σου*).
 
-### January 17: Our Righteous Father Anthony the Great
+**January 17: Our Righteous Father Anthony the Great**
 
 1.    If the commemoration of the Righteous Saint falls on any day except Sunday: his office is chanted as appointed in the Menaion.
 
@@ -120,7 +120,7 @@
 
 === LEAF p357 ===
 
-# Month of January: St. Anthony the Great (§ 3 concl. – § 6); Sunday in Triodion
+## Month of January: St. Anthony the Great (§ 3 concl. – § 6); Sunday in Triodion
 
 ## Ἅγιος Ἀντώνιος καὶ Κυριακὴ τοῦ Τελώνου καὶ Φαρισαίου [Violakis, p. 342]
 
@@ -138,7 +138,7 @@
 
 === LEAF p358 ===
 
-# Month of January: St. Anthony the Great (§ 3 concl. – § 6); Sunday in Triodion
+## Month of January: St. Anthony the Great (§ 3 concl. – § 6); Sunday in Triodion
 
 ## Saint Anthony the Great and Sunday of the Publican and Pharisee [Violakis, p. 343]
 
@@ -156,13 +156,13 @@
 
 === LEAF p359 ===
 
-# Month of January: St. Anthony Note Concluded; SS. Athanasius & Cyril (§ 1–4)
+## Month of January: St. Anthony Note Concluded; SS. Athanasius & Cyril (§ 1–4)
 
 ## Ἅγιοι Ἀθανάσιος καὶ Κύριλλος [Violakis, p. 344]
 
 Φαρισαίου μέχρι τοῦ Σαββάτου τῆς αὐτῆς ἑβδομάδος. (Ὅρα τὸν τοῦ Ἑορτοδρομίου Πίνακα).
 
-### Τῇ ΙΗ΄. Τῶν ἐν ἁγίοις πατέρων ἡμῶν Ἀθανασίου καὶ Κυρίλλου Πατριαρχῶν Ἀλεξανδρείας.
+**Τῇ ΙΗ΄. Τῶν ἐν ἁγίοις πατέρων ἡμῶν Ἀθανασίου καὶ Κυρίλλου Πατριαρχῶν Ἀλεξανδρείας.**
 
 1.    Εἰ τύχοι ἡ μνήμη τῶν Ἁγίων ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία αὐτῶν ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ.
 
@@ -176,13 +176,13 @@
 
 === LEAF p360 ===
 
-# Month of January: St. Anthony Note Concluded; SS. Athanasius & Cyril (§ 1–4)
+## Month of January: St. Anthony Note Concluded; SS. Athanasius & Cyril (§ 1–4)
 
 ## Saints Athanasius and Cyril of Alexandria [Violakis, p. 345]
 
 ...until Saturday of that week (see the Paschal Tables [Heortodromion]).
 
-### January 18: Our Fathers among the Saints Athanasius and Cyril, Patriarchs of Alexandria
+**January 18: Our Fathers among the Saints Athanasius and Cyril, Patriarchs of Alexandria**
 
 1.    If the commemoration of the Saints falls on any day except Sunday: their office is chanted as appointed in the Menaion.
 

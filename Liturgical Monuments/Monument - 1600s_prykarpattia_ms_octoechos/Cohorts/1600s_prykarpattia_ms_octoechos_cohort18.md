@@ -335,7 +335,7 @@ Having been made like unto the sufferings of Christ, O valiant sufferers, all-pr
 O Tri-hypostatic Unity and undivided all-effecting Trinity, one essence and power: protect Thy singers from every harm of the enemy, and vouchsafe them the Kingdom, which they that lived well have obtained!
 
 *Both now... Theotokion:*
-Beholding Him upon the Cross Whom thou didst incarnate of thy pure blood, grieving she cried aloud, O Virgin Mother of God: What is this, O Child, that the evil assembly hath rendered unto Thee, putting Thee to death, Who art the life and resurrection of all the faithful!
+Beholding Him upon the Cross Whom thou didst incarnate of thy pure blood, grieving she cried aloud, O Virgin Mother of God: What is this, O Child, that the evil assembly hath rendered unto thee, putting thee to death, Who art the life and resurrection of all the faithful!
 
 *Prokeimenon, Tone 3 (Song of the Theotokos): My soul doth magnify the Lord. (Luke 1:46) Verse: For He hath regarded the lowliness of His handmaiden. (Luke 1:48)*
 

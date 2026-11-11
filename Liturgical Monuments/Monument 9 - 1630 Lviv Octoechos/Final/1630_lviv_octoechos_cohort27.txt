@@ -1,6 +1,6 @@
 === LEAF p261 ===
 
-#### [Left Page — Folio 261v / 1638 Purchase and Donation Inscription]
+**[Left Page — Folio 261v / 1638 Purchase and Donation Inscription]**
 [Seventeenth-century Ukrainian chancery script inscription in faded brown ink commemorating the purchase, binding, and donation of this Octoechos:][^340]
 [...Purchased this book, the Octoechos, for ... table-zlotys... under the oversight of...]
 [...of the Church of Saint Nicholas...]
@@ -17,7 +17,7 @@ This book the Pope-cantor Tereshko Kuzmyn Vyshnevskyi gave to be bound; he gave 
 
 [Blind-embossed papermaker's oval watermark stamp in the lower center of the leaf.]
 
-#### [Right Page — Manuscript Folio 1r / Exapostilaria and Evangelical Stichera]
+# [Right Page — Manuscript Folio 1r / Exapostilaria and Evangelical Stichera]
 # EXAPOSTILARIA AND EVANGELICAL STICHERA
 
 Resurrectional Exaposteilaria and Evangelical Stichera
@@ -39,7 +39,7 @@ An angel indeed brought unto the Virgin the 'Rejoice!' before Thy conception, O 
 
 === LEAF p262 ===
 
-#### [Left Page — Manuscript Folio 1v]
+**[Left Page — Manuscript Folio 1v]**
 ...of ineffable joy, while the other, in place of death, proclaimed and magnified Thee, the Giver of life, and declared the Resurrection unto the initiates of the mysteries.
 
 Evangelical Stichera 2. Tone 2:
@@ -53,7 +53,7 @@ Thou hast shone forth, O Sun, from the tomb today as a Bridegroom from his brida
 
 Evangelical Stichera 3. Tone 3:[^342]
 
-#### [Right Page — Manuscript Folio 2r]
+**[Right Page — Manuscript Folio 2r]**
 When Mary Magdalene announced the glad tidings of the Savior's Resurrection from the dead and His appearance, the disciples, being disbelieving, were reproached for the hardness of their hearts; but armed with signs and miracles, they were sent forth unto preaching; and Thou indeed, O Lord, didst ascend unto the Father, the primal Light; while they preached the Word everywhere, confirming it with miracles. Therefore, having been enlightened, we also glorify Thy Resurrection from the dead, O Lover of mankind!
 
 Tone 4. Exaposteilarion 4:
@@ -67,7 +67,7 @@ Very early in the morning the women came unto Thy Tomb, O Christ, but the Body l
 
 === LEAF p263 ===
 
-#### [Left Page — Manuscript Folio 2v]
+**[Left Page — Manuscript Folio 2v]**
 ...He is risen, even as He said before! Why do ye not remember His words? Believing whom, they preached what they had seen; but their glad tidings seemed to be idle tales: so dull of understanding were the disciples yet. But Peter ran, and saw, and glorified Thy all-powerful wonders!
 
 Tone 5. Exaposteilarion 5:
@@ -79,7 +79,7 @@ The Creator of creation and God of all things, having taken earthly flesh from t
 Evangelical Stichera 5. Tone 5:
 O how wise are Thy judgments, O Christ! How unto Peter indeed by the grave-clothes alone Thou gavest understanding of Thy Resurrection; and walking with Luke and Cleopas, Thou didst converse with them, and didst not reveal Thyself unto them quickly; therefore Thou wast reproached as being the only stranger in Jerusalem who knew not the counsel thereof unto the end; yet ordering all things unto the profit of creation, Thou didst unveil the prophetic words concerning Thyself; and in the blessing of the bread Thou wast made known unto them, whose hearts before that were kindled unto the knowledge of Thee; who also, when the disciples were gathered together, already clearly preached...[^344]
 
-#### [Right Page — Manuscript Folio 3r]
+**[Right Page — Manuscript Folio 3r]**
 ...Thy Resurrection, through which have mercy on us!
 
 Tone 6. Exaposteilarion 6:
@@ -93,7 +93,7 @@ Thou art true peace, O Christ, unto the men of God! Giving Thy peace unto the di
 
 === LEAF p264 ===
 
-#### [Left Page — Manuscript Folio 3v]
+**[Left Page — Manuscript Folio 3v]**
 Tone 7. Exaposteilarion 7:
 When Mary said that they had taken away the Lord, Simon Peter and that other disciple of Christ whom He loved ran unto the tomb; and both ran together, and found the linen clothes lying alone within, and also the napkin that was about His head wrapped together apart from them; therefore they kept silence again until they beheld Christ.
 
@@ -106,7 +106,7 @@ Behold, it was darkness and early; and why, O Mary, standest thou at the tomb, h
 Tone 8. Exaposteilarion 8:
 Beholding two angels within the tomb, Mary was amazed; and not knowing Christ, she asked Him as the gardener: Sir, where hast Thou laid the body of my Jesus?...[^346]
 
-#### [Right Page — Manuscript Folio 4r]
+**[Right Page — Manuscript Folio 4r]**
 ...and recognizing Him by His call, she heard that He was the Savior Himself: Touch Me not, for I ascend unto the Father; say unto My brethren!
 
 Theotokion:
@@ -119,11 +119,11 @@ Evangelical 9. Exaposteilarion 9. Tone 5:
 The doors being shut, O Master, when Thou didst enter, Thou didst fill the Apostles with the Spirit, unto whom Thou didst say to bind and to loose sins; and after eight days Thou didst show Thy side and hands unto Thomas, with whom we cry aloud: Thou art my Lord and my God!
 
 Theotokion:
-O pure Birth-giver of God and most holy Virgin, joy of the sorrowful, protection of the world, intercessor for sinners: comfort our sorrowing hearts by thy prayers, for after God we the faithful have no other hope save thee, O merciful and pure one, our expectation, lover of peace and salvation of the world, O Maiden![^347]
+O pure Birthgiver of God and most holy Virgin, joy of the sorrowful, protection of the world, intercessor for sinners: comfort our sorrowing hearts by thy prayers, for after God we the faithful have no other hope save thee, O merciful and pure one, our expectation, lover of peace and salvation of the world, O Maiden![^347]
 
 === LEAF p265 ===
 
-#### [Left Page — Manuscript Folio 4v]
+**[Left Page — Manuscript Folio 4v]**
 Evangelical Stichera 9. Tone 5:
 As in the latter days, when it was late on the Sabbath, Thou didst stand before Thy friends, O Christ, and by wonder Thou dost confirm wonder: by the closed entry of the doors, Thy Resurrection from the dead! But Thou didst fill the disciples with joy, and didst impart the Holy Spirit unto them, and gavest them authority for the forgiveness of sins, and didst not leave Thomas to be submerged in the storm of disbelief: therefore grant unto us true understanding and the forgiveness of transgressions, O compassionate Lord!
 
@@ -131,19 +131,19 @@ Evangelical 10. Exaposteilarion 10. Tone 6:
 The Sea of Tiberias with the children of Zebedee, and Nathanael with Peter, together with two others and Thomas of old, had them fishing; who, casting their net on the right side at Christ's command, drew forth a multitude of fishes; Whom Peter recognized, wading unto Him, unto whom He appeared the third time, and showed bread and fish upon the coals.
 
 Theotokion:
-Worshipping Thine honored icon, O all-pure one: show us to be children of the light, inhabitants of Paradise, and partakers of the Kingdom; for we are thy suppliants and thy people, O all-pure one! Let us not fall away from thy protection, O Theotokos, and account us all worthy of salvation, O all-immaculate one!
+Worshipping thine honored icon, O all-pure one: show us to be children of the light, inhabitants of Paradise, and partakers of the Kingdom; for we are thy suppliants and thy people, O all-pure one! Let us not fall away from thy protection, O Theotokos, and account us all worthy of salvation, O all-immaculate one!
 
 Evangelical Stichera 10. Tone 6:
 After the descent into hades and the Resurrection from the dead, Thy disciples, sorrowing over Thy parting, O Christ, turned unto labor; and again there were boats and nets, but no catch at all; but Thou, O Savior, appearing as the Master of all, commandest them to cast the net on the right side; and straightway the word became deed, and the multitude of fish was great; and a strange supper...[^348]
 
-#### [Right Page — Manuscript Folio 5r]
+**[Right Page — Manuscript Folio 5r]**
 ...was ready on the earth; of which Thy disciples having partaken then, account us also now worthy spiritually to be filled, O Lord, Lover of mankind!
 
 Evangelical 11. Exaposteilarion 11. Tone 2:
 After the divine Resurrection, the Lord said thrice unto Peter: Lovest thou Me? Appointing him chief shepherd over His sheep; but when Peter saw him whom Jesus loved following after, he asked: Master, and what shall this man do? If I will that he tarry till I come again, He said, what is that to thee, friend Peter?
 
 Theotokion:
-Rejoice! we cry aloud unto thee, O all-pure Theotokos: for thou didst announce joy, and didst turn Eve's sorrow into joy, O Virgin; fill us also with thy joy, and by the light of Thy Son account us all worthy of the portion of the elect, O all-pure one, and we all cry aloud unto thee: Rejoice, O pure Maiden!
+Rejoice! we cry aloud unto thee, O all-pure Theotokos: for thou didst announce joy, and didst turn Eve's sorrow into joy, O Virgin; fill us also with thy joy, and by the light of thy Son account us all worthy of the portion of the elect, O all-pure one, and we all cry aloud unto thee: Rejoice, O pure Maiden!
 
 Evangelical Stichera 11. Tone 8:
 Manifesting Thyself unto the disciples after the Resurrection, O Savior, Thou didst give the feeding of the sheep unto Simon in return for his love, seeking from him care for the flock; therefore Thou saidst: If thou lovest Me, Peter, feed My sheep! But he straightway showed his affection again, inquiring concerning that other disciple: by whose prayers, O Christ, preserve Thy flock from the wolves that destroy it!
@@ -155,7 +155,7 @@ On the 11th day of March in the year 1631...[^349]
 
 === LEAF p266 ===
 
-#### [Left Page — Folio 266v / 1964 Zaliztsi Novyi Colophon by Cantor Mykola Makar]
+**[Left Page — Folio 266v / 1964 Zaliztsi Novyi Colophon by Cantor Mykola Makar]**
 [Autograph memorandum in blue ballpoint script recording the clandestine preservation of this Octoechos during Soviet anti-religious persecutions:][^350]
 Makar Mykola,
 cantor in Zaliztsi Novi,
@@ -167,17 +167,17 @@ in Zaliztsi Novi.
 December 6, 1964.
 M. Makar [with calligraphic flourish signature]
 
-#### [Right Page — Folio 267r / Soviet State Library Stamp and Endpaper]
+**[Right Page — Folio 267r / Soviet State Library Stamp and Endpaper]**
 [Lower rectangular purple institutional accession ink stamp of the Soviet Book Museum in Kyiv:]
 State Museum of the Book and Printing of the Ukrainian SSR
 Fond 2124
 Inventory No. CD-97
-[Blank protective flyleaf]
+*(Vacat — Blank protective flyleaf)*
 
 === LEAF p267 ===
 
-#### [Left Page — Rear Pastedown Lining]
-[Blank rear endpaper and vellum guard strip along inner hinge.]
+**[Left Page — Rear Pastedown Lining]**
+*(Vacat — Blank rear endpaper and vellum guard strip along inner hinge.)*
 
-#### [Right Page — Rear Binding]
+**[Right Page — Rear Binding]**
 [Monumental seventeenth-century blind-tooled calfskin binding over bevelled wooden boards. The decorative program consists of an outer rectangular border impressed with a Renaissance floral and vine roll, enclosed within triple fillet blind lines; an intermediate frieze of palmette scrolls; and an inner rectangular panel divided into two quadripartite compartments by diagonal blind fillets forming cross-hatched triangular fields. Along the fore-edge are affixed three chased brass clasp catches mounted upon layered calfskin thongs with brass rivets, matching the front board fittings and preserving the volume under tension. Marking the physical completion of Monument 9: 1630 Lviv Octoechos.][^351]

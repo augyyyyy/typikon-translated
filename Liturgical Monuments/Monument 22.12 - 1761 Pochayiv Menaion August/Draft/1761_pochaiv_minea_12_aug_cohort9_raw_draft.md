@@ -241,7 +241,7 @@ Upon Mount Tabor wast Thou transfigured, O Jesus, and a bright cloud spreading f
 
 *Glory... Both now... the same.*
 
-*After the 2nd Stichology, Sessional Hymn, the same tone and podoben [Tone 4, Podoben: "Joseph was amazed"]:*
+*After the 2nd Stichology, Sessional Hymn, the same tone and podoben [Tone 4, Podoben: "Joseph was amazed"] (Оу҆диви́сѧ І҆ѡ́сифъ):*
 
 Being transfigured by Thine unapproachable glory, O Christ, with Thy divine light Thou didst illuminate Thy divine disciples, John and Peter and James; Thou didst strike them with awe by divine grace. And they heard the Father's voice testifying of the beloved Son, and beheld the glory of Thy countenance, O Savior. O Word Who desirest to save all, illuminate our souls!
 

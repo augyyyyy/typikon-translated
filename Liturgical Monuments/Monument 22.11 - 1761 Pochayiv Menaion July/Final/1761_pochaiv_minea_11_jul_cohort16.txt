@@ -174,9 +174,9 @@ In two wills and natures, O all-immaculate one, yet in one hypostasis dost thou 
 
 *Sticheron 3:* The divinely-chosen ten disciples, having cast down the swelling of passions by fasting contests, suffered and put the serpent to death, having gained the sacred instructor Athenogenes through divine power: by their supplications, O Compassionate One, save us who ever place our hope in Thee, the All-good!
 
-*Glory... Both now... Theotokion, Same Tone and Podoben:* Save me, O all-pure Lady, who ineffably didst give birth unto the Savior Christ: for thee alone have I acquired as a protectress, and an unassailable rampart, and a shelter and joy, and divine consolation of my soul; do thou therefore deliver me from the unsleeping worm, and from the everlasting fire, O Mother of Christ God!
+*Glory... Both now... Theotokion, Same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* Save me, O all-pure Lady, who ineffably didst give birth unto the Savior Christ: for thee alone have I acquired as a protectress, and an unassailable rampart, and a shelter and joy, and divine consolation of my soul; do thou therefore deliver me from the unsleeping worm, and from the everlasting fire, O Mother of Christ God!
 
-*Stavrotheotokion, Same Podoben:* "What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!" said the weeping Birthgiver of God, when she saw Him Who ineffably shone forth from her, God and man, lifted up upon the Cross.
+*Stavrotheotokion, Same Podoben (Подо́бенъ то́йже):* "What is this visible sight which is seen by mine eyes, O Master? O Thou Who upholdest all creation, Thou art lifted up upon the Tree, and Thou diest, Who givest life unto all!" said the weeping Birthgiver of God, when she saw Him Who ineffably shone forth from her, God and man, lifted up upon the Cross.
 
 *At Matins, the Canon, whose acrostic is: "I sing the glory of Thy sufferers, O Christ. Joseph." Tone 8.*
 

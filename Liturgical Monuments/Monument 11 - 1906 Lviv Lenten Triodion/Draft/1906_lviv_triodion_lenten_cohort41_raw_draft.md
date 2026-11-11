@@ -288,7 +288,7 @@ When Thou shalt raise up all Thy creation to be judged, O Christ, have mercy on 
 *Rejoice, O Isaiah! The Virgin hath conceived in her womb and borne a Son, Emmanuel, both God and man; the Orient is His name; Whom magnifying, we call the Virgin blessed.*
 
 *Exapostilarion, Podoben: "Give ear, ye women" (Жены̀ ᲂу҆слы́шите):*[^1155]
-The mystery hidden from the ages is made known today: the divine God the Word, the Son of the Virgin Mary, becomes man through compassion, and Gabriel announcs the joy of the Annunciation, with whom let us all cry aloud: Rejoice, O Mother of the Lord!
+The mystery hidden from the ages is made known today: the divine God the Word, the Son of the Virgin Mary, becomes man through compassion, and Gabriel announces the joy of the Annunciation, with whom let us all cry aloud: Rejoice, O Mother of the Lord!
 
 *At the Praises [Lauds], let every breath praise the Lord. We set 4 verses, and we chant Stichera, Tone 4, Podoben: "As one valiant among martyrs" (Ꙗ҆́кѡ до́блѧ):*
 

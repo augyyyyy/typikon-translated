@@ -246,7 +246,7 @@ Having labored in many sweats, and having received innocent martyrdom, O God-wis
 Appear unto us at this hour, O all-pure Virgin, and having received the supplications offered unto thee, carry them unto thy Son Whom thou didst bear in maternal arms, asking remission of sins for us; for we are thy servants *(Left page — Folio 120 verso, running header: SERVICE TO THE VENERABLE ONES)*
 ...for we are thy servants, having thee as a swift protector and intercessor for our souls!
 
-*After the Polyeleos, Sessional Hymn, in the same Tone and Podoben:*[^590]
+*After the Polyeleos, Sessional Hymn, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*[^590]
 O locked garden of the Mother of God, sprout forth for us two unfading flowers, the martyrs, through whom monastics are filled with joy, and the marvelous monastery boasts; the people honor them with praises, receiving healing from their relics, and having them as fervent intercessors unto the Lord!
 
 *Glory... Both now... Of the Feast, or this Theotokion:*
@@ -1061,7 +1061,7 @@ Standing before the throne of the Thrice-Radiant Godhead, and richly...
 
 *Then the Entrance, the Prokeimenon of the day, and three readings for venerable monks: seek in the beginning of this book, Folio 4 on the reverse.*[^695]
 
-*At the Aposticha, Stichera, Tone 1, Podoben: "Joy of the ranks of heaven" (До́ме є҆vфра́ѳовъ):*[^696]
+*At the Aposticha, Stichera, Tone 1, Podoben: "Joy of the ranks of heaven" (До́ме є҆ѵфра́ѳовъ):*[^696]
 O God-chosen laborers, our venerable fathers of the Caves, ye planted upon earth an intelligible vineyard of virtues, wherefrom there grew up for you the worthy fruit of eternal life!
 
 *Verse: The venerable shall boast in glory, and they shall rejoice upon their beds.*[^697]
@@ -1521,7 +1521,7 @@ O Theotokos, thou art the true vine that hast blossomed forth for us the Fruit o
 [^693]: Opening of the General Synaxis Service of the Venerable Fathers Resting in the Far (Theodosius) Caves of the Kyiv Caves Lavra, celebrated on August 28, following the Dormition of the Theotokos.
 [^694]: Opening Stichera at "Lord, I have cried," Tone 8, Podoben: "O marvelous wonder" (*Ѡ҆ пресла́внагѡ чꙋдесѐ*).
 [^695]: Rubrical cross-reference to the three Festal Old Testament readings for monastics at the front of the 1785 print (Folio 4 verso; physical leaf p10).
-[^696]: Melodic model: *До́ме є҆vфра́ѳовъ* ("House of Ephratha / Joy of the ranks of heaven"), Tone 1.
+[^696]: Melodic model: *До́ме є҆ѵфра́ѳовъ* ("House of Ephratha / Joy of the ranks of heaven"), Tone 1.
 [^697]: Psalm 149:5.
 [^698]: Psalm 127:1 [LXX 127:1].
 [^699]: Troparion of the Fathers of the Far Caves, Tone 4: "Мы́сленное со́лнце, и҆ свѣти́лꙋ лꙋнꙋ̀...".

@@ -43,7 +43,7 @@
 --- Line 65 ---
 60: ---------------- MODEL RESPONSES ----------------
 61: I will read the `.cursorrules` file in the project root to understand the updated project layout, target directories, and rules.
-62: I will check the contents of `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\GLOBAL_SYSTEM_RULES.md` if it exists.
+62: I will check the contents of `C:\Users\augus\Documents\Google Antigravity\Projects\GLOBAL_SYSTEM_RULES.md` if it exists.
 63: I will check the sister directories to find the "Typikon Coded" project folder where the new Markdown files are located.
 64: I will list the contents of the `Typikon Coded` directory to locate the translated Markdown files.
 65: I will list the contents of the `Data` directory inside `Typikon Coded`.
@@ -52,9 +52,9 @@
 68: I will list the contents of the `json_db` directory in `Typikon Coded`.
 69: I will list the contents of the `docs/encyclopedia` directory in `Typikon Coded` to see if the final translated Markdown files are located there.
 70: I will search for any occurrences of "PART I" in Markdown files inside the `Typikon Coded` project directory to see where the translated text is stored now.
-71: I will view `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\.cursorrules` to see the guidelines and learn where the final files are stored.
-72: I will list the contents of the `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books` directory to see if there are other `.md` files or resources there.
-73: I will list the contents of `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
+71: I will view `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\.cursorrules` to see the guidelines and learn where the final files are stored.
+72: I will list the contents of the `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books` directory to see if there are other `.md` files or resources there.
+73: I will list the contents of `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
 74: I will read the beginning of `Final_Dolnytsky_intro.md` to see the current Table of Contents structure in the target Markdown file.
 75: I will view the remaining lines of `Final_Dolnytsky_intro.md` to see the full Table of Contents.
 76: I will check the contents of the artifact directory for this conversation to see if there is an existing implementation plan or task list.
@@ -63,7 +63,7 @@
 79: I will view the rest of `Final_Dolnytsky_part1_structure.md` (lines 101 to 220) to see all the headings in the document.
 --- Line 66 ---
 61: I will read the `.cursorrules` file in the project root to understand the updated project layout, target directories, and rules.
-62: I will check the contents of `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\GLOBAL_SYSTEM_RULES.md` if it exists.
+62: I will check the contents of `C:\Users\augus\Documents\Google Antigravity\Projects\GLOBAL_SYSTEM_RULES.md` if it exists.
 63: I will check the sister directories to find the "Typikon Coded" project folder where the new Markdown files are located.
 64: I will list the contents of the `Typikon Coded` directory to locate the translated Markdown files.
 65: I will list the contents of the `Data` directory inside `Typikon Coded`.
@@ -72,9 +72,9 @@
 68: I will list the contents of the `json_db` directory in `Typikon Coded`.
 69: I will list the contents of the `docs/encyclopedia` directory in `Typikon Coded` to see if the final translated Markdown files are located there.
 70: I will search for any occurrences of "PART I" in Markdown files inside the `Typikon Coded` project directory to see where the translated text is stored now.
-71: I will view `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\.cursorrules` to see the guidelines and learn where the final files are stored.
-72: I will list the contents of the `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books` directory to see if there are other `.md` files or resources there.
-73: I will list the contents of `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
+71: I will view `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\.cursorrules` to see the guidelines and learn where the final files are stored.
+72: I will list the contents of the `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books` directory to see if there are other `.md` files or resources there.
+73: I will list the contents of `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
 74: I will read the beginning of `Final_Dolnytsky_intro.md` to see the current Table of Contents structure in the target Markdown file.
 75: I will view the remaining lines of `Final_Dolnytsky_intro.md` to see the full Table of Contents.
 76: I will check the contents of the artifact directory for this conversation to see if there is an existing implementation plan or task list.
@@ -89,9 +89,9 @@
 68: I will list the contents of the `json_db` directory in `Typikon Coded`.
 69: I will list the contents of the `docs/encyclopedia` directory in `Typikon Coded` to see if the final translated Markdown files are located there.
 70: I will search for any occurrences of "PART I" in Markdown files inside the `Typikon Coded` project directory to see where the translated text is stored now.
-71: I will view `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\.cursorrules` to see the guidelines and learn where the final files are stored.
-72: I will list the contents of the `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books` directory to see if there are other `.md` files or resources there.
-73: I will list the contents of `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
+71: I will view `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\.cursorrules` to see the guidelines and learn where the final files are stored.
+72: I will list the contents of the `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books` directory to see if there are other `.md` files or resources there.
+73: I will list the contents of `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
 74: I will read the beginning of `Final_Dolnytsky_intro.md` to see the current Table of Contents structure in the target Markdown file.
 75: I will view the remaining lines of `Final_Dolnytsky_intro.md` to see the full Table of Contents.
 76: I will check the contents of the artifact directory for this conversation to see if there is an existing implementation plan or task list.
@@ -234,7 +234,7 @@
 271: I will draft a new implementation plan at `implementation_plan.md` defining a formatting style guide (separating spoken exclamations from rubrics, styling dialogues, italicizing actions, and breaking down large narrative blocks into structured sections) to eliminate the "wall of text" and make the documents readable.
 272: I will view the `implementation_plan.md` artifact to understand the current plan and see how it relates to formatting the table of contents and service files.
 273: I will list the contents of the `Translation` project directory to see the available scripts and source file references.
-274: I will list the parent directory `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects` to check if `Typikon Coded` exists there.
+274: I will list the parent directory `c:\Users\augus\Documents\Google Antigravity\Projects` to check if `Typikon Coded` exists there.
 275: I will list the contents of the Typikon directory inside `Typikon Coded` to find the source files.
 276: I will list the contents of the `scratch` directory in `Translation` to see the build scripts.
 277: I will read `build_master_document.py` to see how it compiles the master document.
@@ -338,11 +338,11 @@
 650: I will list the contents of the translation workspace directory to see what files and scripts we have.
 651: I will list the contents of the scratch directory within the translation project workspace.
 652: I will list the contents of the '4 Liturgical Books' subdirectory.
-653: I will list the contents of the `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects` parent directory to locate "Typikon Coded".
-654: I will list the contents of `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded` to find the markdown files we need to work on.
+653: I will list the contents of the `c:\Users\augus\Documents\Google Antigravity\Projects` parent directory to locate "Typikon Coded".
+654: I will list the contents of `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded` to find the markdown files we need to work on.
 655: I will list the contents of the Data directory inside `Typikon Coded` to locate the Service Books and Typikon files.
 656: I will list the contents of the Service Books directory.
-657: I will list the files inside `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
+657: I will list the files inside `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
 658: I will list the contents of the backup directory.
 659: I will view the contents of the `verify_links.py` script to see how it validates the links in the master Typikon document.
 660: I will run the link verification script to see which links are currently broken in the compiled `Dolnytsky_Typikon_Master.md`.
@@ -357,11 +357,11 @@
 669: I will build the master document by concatenating all the aligned markdown parts.
 --- Line 657 ---
 652: I will list the contents of the '4 Liturgical Books' subdirectory.
-653: I will list the contents of the `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects` parent directory to locate "Typikon Coded".
-654: I will list the contents of `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded` to find the markdown files we need to work on.
+653: I will list the contents of the `c:\Users\augus\Documents\Google Antigravity\Projects` parent directory to locate "Typikon Coded".
+654: I will list the contents of `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded` to find the markdown files we need to work on.
 655: I will list the contents of the Data directory inside `Typikon Coded` to locate the Service Books and Typikon files.
 656: I will list the contents of the Service Books directory.
-657: I will list the files inside `c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
+657: I will list the files inside `c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon`.
 658: I will list the contents of the backup directory.
 659: I will view the contents of the `verify_links.py` script to see how it validates the links in the master Typikon document.
 660: I will run the link verification script to see which links are currently broken in the compiled `Dolnytsky_Typikon_Master.md`.
@@ -970,7 +970,7 @@
 1251: I will view the `sectionation_analysis.md` artifact to see the analysis and details of the citation gaps.
 1252: I will search for all copies of `Final_Dolnytsky_part1_structure.md` in the workspace to see their structural differences and locate the 7-paragraph version of Daily Matins.
 1253: I will run the search script to locate all versions of Part 1.
-1254: I will update the search script to search inside `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects` and run it to locate all versions of Part 1.
+1254: I will update the search script to search inside `C:\Users\augus\Documents\Google Antigravity\Projects` and run it to locate all versions of Part 1.
 1255: I will run the search script across the Projects folder.
 1256: I will write a python script to search the Menaion (Part 3) file for the Exaltation of the Cross section to check its headings.
 1257: I will run the search script to view the Exaltation section.

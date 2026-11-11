@@ -53,7 +53,7 @@ Still the unstable confusion of my thoughts, O Mother of God, directing their mo
 *Sessional Hymn, Tone 4, Podoben: "Thou Who wast lifted up" (Вознесы́йсѧ):*
 Adorned with the beauties of martyrdom, rejoicing before the Heavenly King, O crowned martyr Theodore, thou dost stand; for upon a cross wast thou lifted up for His sake,[^356] and the driving in of nails, the ox-hide thongs, the scrapings with claws, and the gouging out of the pupils of thine eyes didst thou endure steadfastly; therefore with faith we honor thee, O great victor. *Twice.*
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 He Who sits upon the cherubic throne and rests in the bosom of the Father, sits as upon His holy throne in thy womb, O Lady; for God, having truly become incarnate, is become King over all nations; and understandingly we now sing unto Him: Whom do thou entreat, that thy servants may be saved.
 
 *Stavrotheotokion:*
@@ -195,10 +195,10 @@ What shall I now call thee, O marvelous one? A preacher of truth, and a firm fou
 *Sticheron:*
 What shall I now call thee, O marvelous one? A ruler and king over bodily passions, guiding spiritual virtue brightly? A vessel of divine mercy; an abode of perfect love; waiting for the conversion of those who sin against the love of mankind. Pray that our souls may be saved!
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Unto whom hast thou become like, O wretched soul, in no wise looking up unto repentance, nor fearing the fire that awaits the wicked? Arise, and call upon the one who is speedy unto protection, and cry aloud: "O Virgin Mother, pray thy Son and our God, to deliver me from the snare of the deceitful one!"
 
-*Stavrotheotokion, Podoben:*
+*Stavrotheotokion, Podoben (Подо́бенъ):*
 When the ewe-lamb beheld the Lamb willingly stretched out upon the Tree of the Cross, weeping maternally and suffering with tears, she cried aloud: "O my Son, what is this strange sight? How art Thou Who grantest life unto all as Lord, put to death, O Long-suffering One, granting resurrection unto earthborn men? I glorify Thy great condescension, O my God!"
 
 *Troparion, Tone 8:*
@@ -239,7 +239,7 @@ Thou hast been adorned like a bride with maidenly beauties, O Maiden full of gra
 *Sessional Hymn, Tone 3, Podoben: "Of the divine faith" (Бж҃е́ственныѧ вѣ́ры):*
 Thou didst still insolent boldnesses, and by deeds didst convince of Orthodoxy, having hoped like a lion, O righteous one;[^368] thou declarest true teachings and exposest the hiding places of deceit, O venerable father. Entreat Christ God, that He grant us great mercy!
 
-*Glory..., both now..., Theotokion, tone and Podoben the same:*
+*Glory..., both now..., Theotokion, tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Without separating from the divine nature, becoming flesh in thy womb, yet God having become man remained, Who preserved thee as a Virgin Mother after childbearing, even as before childbirth, all-immaculate, the only Lord: Him do thou diligently pray, that He grant us great mercy!
 
 *Stavrotheotokion:*

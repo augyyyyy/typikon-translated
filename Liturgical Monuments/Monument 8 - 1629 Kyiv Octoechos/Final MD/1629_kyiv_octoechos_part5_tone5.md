@@ -156,7 +156,7 @@ Vouchsafe me to look upon Thy beneficent beams, O Inaccessible Light, Father Alm
 
 Thou hast shone forth upon us from the thrice-radiant beam the one Christ and Lord, O all-hymned one, teaching all to hymn the one Godhead in three Persons unto the ages.
 
-*Ode 9. Heirmos: Rejoice, O Isaiah! For a Virgin hath conceived...*
+*Ode 9. Heirmos: Rejoice, O Isaiah! For a Virgin has conceived...*
 
 Human tongues cannot hymn Thee worthily, O Divine Unity; yet as much as we are able, daring through faith, O Divine and Co-enthroned Trinity, we offer glory and praise unto Thy dominion!
 
@@ -564,7 +564,7 @@ A dread, marvelous, and great mystery: the Incomprehensible One is contained wit
 
 [Tailpiece: Ornamental Renaissance woodcut cartouche featuring a grotesque cherubic mascaron flanked by scrollwork and foliate flourishes]
 
-[17th-century cursive ink marginalia at lower margin: "one hundred words... on Saturday" (*сто рословъ нинець всуботу*)]
+(*17th-century cursive ink marginalia at lower margin: "one hundred words... on Saturday" (*сто рословъ нинець всуботу*)*)
 
 ---
 
@@ -581,7 +581,7 @@ A dread, marvelous, and great mystery: the Incomprehensible One is contained wit
 [^112]: Fol. 106v–107r (Leaf p109). Sunday Matins, Tone 5 (Hypakoe, Anavathmoi, and Prokeimenon). Following Psalm 118 (*По непоро́чна*), Fol. 106v introduces the Hypakoe *А҆́гг҃льскимъ зра́комъ* and the three Antiphons of the Gradual Hymns (*А҆нтифо́ны*), paraphrasing the Gradual Psalms (Psalms 119–121 [LXX 119–121 / MT 120–122]). Fol. 107r marks the transition to quire Щ and records the Sunday Matins Prokeimenon in Tone 5 (Psalm 9:33 [LXX 9:33 / MT 10:12]: *Воскрⷭ҇ни гдⷭ҇и бж҃е мо́й...*).
 [^113]: Fol. 107v–108r (Leaf p110). Sunday Matins, Tone 5 Canons (Resurrection, Cross-Resurrection, and Theotokos, Ode 1). Following the Matins Gospel and Psalm 50, Fol. 107v opens the Resurrection Canon of St. John of Damascus (*Конѧ̀ и҆ вса́дника*), interpreting the crown of thorns (*терконо́сное є҆ѵре́йское собо́рище*) as releasing the curse of thorns of Genesis 3:18. Fol. 108r opens the Canon of the Cross and Resurrection and the Canon to the Most Holy Theotokos.
 [^114]: Fol. 108v/109r (p111). Tone 5 Sunday Matins, Canon of the Resurrection, Ode 3. The heirmos 'Оутверже́й ниначе́мъ же зе́млю' reflects Job 26:7 ('He hangs the earth upon nothing') and the Byzantine kanon poet's synthesis of cosmology with ecclesiology: the foundation of the Church upon the immovable rock of Christ's commandments. On the right page (Fol. 109r), signature 'Щ г' marks the third recto leaf of gathering 'Щ' (quaternion), accompanied by printed folio number 'рѳ҃' (109).
-[^115]: Fol. 109v/110r (p112). Tone 5 Sunday Matins, Canon of the Resurrection, Ode 4. Habakkuk's prophetic Ode (Habakkuk 3:2) is linked typologically to the wood that sweetened the bitter waters of Marah (Exodus 15:23–25), identifying the tree thrown into the waters as a prophetic type of the wood of the Cross transforming the bitterness of the ancestral transgression into spiritual sweetness. Leaf 110r bears gathering mark 'Щ д' (fourth leaf of quaternion 'Щ') and printed folio number 'рi҃' (110).
+[^115]: Fol. 109v/110r (p112). Tone 5 Sunday Matins, Canon of the Resurrection, Ode 4. Habakkuk's prophetic Ode (Habakkuk 3:2) is linked typologically to the wood that sweetened the bitter waters of Marah (Exodus 15:23–25), identifying the tree thrown into the waters as a prophetic type of the wood of the Cross transforming the bitterness of the ancestral transgression into spiritual sweetness. Leaf 110r bears gathering mark 'Щ д' (fourth leaf of quaternion 'Щ') and printed folio number 'рі҃' (110).
 [^116]: Fol. 110v/111r (p113). Tone 5 Sunday Matins, Canon of the Cross and Resurrection, Ode 4. The imagery of the planting of the Cross upon Golgotha shattering the eternal bars ('ве́рїа') and gatekeepers ('вра́тницы вѣ́чнїи') of Hades reflects Psalm 106:16 and the harrowing narrative of the Gospel of Nicodemus. At Fol. 111r, the codex transitions to gathering 'Ъ' (marked simply 'Ъ' at the bottom recto), continuing with printed folio number 'р̃аі' (111).
 [^117]: Fol. 111v/112r (p114). Tone 5 Sunday Matins, Canon of the Resurrection, Ode 6. The heirmos 'Волна́ющеесѧ бꙋ́рею дшетлѣ́нною' invokes the Jonah typological cycle (Jonah 2:3–7), framing spiritual passion as a tempestuous sea from which only Christ's descent into corruption ('тлѣ́нїе тлѣ́ющему бы́въ') can draw mankind upward into incorruption. Leaf 112r bears gathering mark 'Ъ в' and folio number 'р̃ві' (112).
 [^118]: Fol. 112v/113r (p115). Tone 5 Sunday Matins, Canon of the Resurrection, Ode 7. The troparion 'Пло́тїю ѡ҆бложе́сѧ , ꙗ҆́кѡ оу҆́дицею' invokes the classic patristic metaphor of the divine fishhook (*hamus divinitatis*), developed by St. Gregory of Nyssa and St. John Damascene: Christ's humanity serves as the bait (*esca*) concealing the hook of His divinity, drawing forth the ancestral serpent (Leviathan) from his lair. Leaf 113r bears signature 'Ъ г' and folio number 'р̃гі' (113).

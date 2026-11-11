@@ -136,7 +136,7 @@ The Lord's Cross, unto those who undeviatingly bow down before it, is the bridle
 
 ...were accounted worthy of heavenly good things, and became fellow-citizens with the angels: O Lord, by their prayers have mercy on us and save us!
 
-*Glory... Both now... Stavrotheotokion, Tone 2, Podoben: "When from the Tree" (Egda ot dreva):*
+*Glory... Both now... Stavrotheotokion, Tone 2, Podoben: "When from the Tree" (Є҆гда̀ ѿ дре́ва):*
 
 When thou didst behold hanging upon the Tree the ripe Cluster, Whom untilled thou didst bear in thy womb, O pure one, lamenting and weeping thou didst cry aloud: "O Child, Benefactor, pour forth wine whereby all drunkenness of passions may be quenched, for my sake who bare Thee, with divine consolations, as Thou art tenderhearted!"
 
@@ -156,7 +156,7 @@ When thou didst behold hanging upon the Tree the ripe Cluster, Whom untilled tho
 
 *At the 1st Stichology: Sessional hymn in the Octoechos.*
 
-*At the 2nd Stichology: Sessional Hymn from the Triodion, Tone 6, Podoben: "Having placed all their hope" (Vse upovanie):*
+*At the 2nd Stichology: Sessional Hymn from the Triodion, Tone 6, Podoben: "Having placed all their hope" (Всѐ оу҆пова́нїе):*
 
 Exalt the horn of the Church, O precious Cross! Cast down heretical arrogance by thy power, and make glad the Orthodox assemblies! Grant that we all may anticipate thy Forefeast, and bow down before thee, the footstool of Christ: for in thee do we boast, O blessed Tree! (Ps. 74:11, 98:5 [LXX]; Gal. 6:14).
 

@@ -210,7 +210,7 @@ Appear unto us at this hour, O All-Pure Virgin, and receiving the praises offere
 
 ...having thee as our speedy advocate and intercessor for our souls.
 
-*After the Polyeleos, Sessional Hymn, Tone 4. The same Podoben:*
+*After the Polyeleos, Sessional Hymn, Tone 4. The same Podoben (Подо́бенъ то́йже):*
 The enclosed garden of the Mother of God brought forth for us two unfading flowers, Theodore and Basil, the noble martyrs, wherewith monastics are filled with joy, and the marvelous monastery is made fragrant; whom the people honor with praises, receiving healing from their relics, and having them as fervent intercessors unto God.[^436]
 
 *Glory, both now: Of the Feast, or this Theotokion:*

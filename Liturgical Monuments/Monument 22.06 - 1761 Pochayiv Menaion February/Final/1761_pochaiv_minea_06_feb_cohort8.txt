@@ -61,7 +61,7 @@ Now release me unto true life, Symeon cried aloud, O my Savior; for I have seen 
 
 Anna the chaste and venerable prophetically confessed Him Who sprouted from the Virgin for the deliverance of those on earth.
 
-*Glory..., both now... Tone and Podoben the same:*
+*Glory..., both now... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Rejoice, thou who didst receive joy for the world, Christ the Giver of Life, and didst put an end to the grief of our ancestral mother, O Virgin.
 
 === LEAF p73 ===

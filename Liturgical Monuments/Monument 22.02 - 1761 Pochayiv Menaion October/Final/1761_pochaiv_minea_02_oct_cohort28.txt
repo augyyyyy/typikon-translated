@@ -251,4 +251,4 @@ Having lifted up thy feet upon a rock, Christ, the Rock of life, established the
 *Theotokion:*
 Rend asunder the bonds of my transgressions, O Virgin Mary, who didst bear God Who takes away the sin of the world; for in thee have I placed my hope of salvation!
 
-*Kontakion, Tone 2, Podoben:*
+*Kontakion, Tone 2, Podoben (Подо́бенъ):*

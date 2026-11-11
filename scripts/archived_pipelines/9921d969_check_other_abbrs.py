@@ -1,6 +1,6 @@
 import json
 
-calendar_path = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\json_db\calendar_dolnytsky.json"
+calendar_path = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\json_db\calendar_dolnytsky.json"
 
 with open(calendar_path, "r", encoding="utf-8") as f:
     db = json.load(f)

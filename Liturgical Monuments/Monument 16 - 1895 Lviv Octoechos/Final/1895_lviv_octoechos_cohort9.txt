@@ -202,7 +202,7 @@ O Virgin and nourisher of One of the Trinity, beautiful paradise, salvation of e
 *Troparion 3:* Being sin-loving, I live in slothfulness, and tremble at the unbribable judgment-seat, O Pure One; whereat preserve me uncondemned by thy holy prayers, O Virgin Bride of God, that as protectress I may call thee blessed unceasingly.[^837]
 
 *Both now...*
-*Theotokion:* I tremble at the judgment-seat, O Virgin, and the unforgetting eye of Thy Son, having committed many sins upon earth; and therefore do I cry unto thee: All-merciful Lady, help me, and deliver me then uncondemned from distress, O Pure One.[^838]
+*Theotokion:* I tremble at the judgment-seat, O Virgin, and the unforgetting eye of thy Son, having committed many sins upon earth; and therefore do I cry unto thee: All-merciful Lady, help me, and deliver me then uncondemned from distress, O Pure One.[^838]
 
 *Then: It is truly meet: Trisagion. After Our Father: Troparia and the rest as usual, and the Dismissal.*[^839]
 

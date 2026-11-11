@@ -1,8 +1,8 @@
 === LEAF p501 ===
 
 ## Monday of the Holy Spirit
-### Typikon
-#### At Vespers
+**Typikon** <a id="typikon"></a>
+**At Vespers**
 
 1. Immediately after the conclusion of the Liturgy, the Priest, and the Deacons if there are [any], vested in all the sacred vestments, standing by the Holy Table, begin Vespers. Priest: **"Blessed is our God"** (*Благослове́нъ Бо́гъ на́шъ*), and after **"Amen"**, all having bended their knees, we sing **"O Heavenly King"** (*Царю̀ небе́сный*), then we say the Trisagion and the rest with the **"Our Father"** (*О҆́тче на́шъ*), and **"Come, let us worship"** (*Прїидѣ́те поклони́мся*) thrice, according to custom.
 2. The Great Ektenia: **"In peace let us pray to the Lord"** (*Ми́ромъ Го́споду помоли́мся*), with the addition of proper petitions.[^660]
@@ -17,15 +17,15 @@
 **"Remembering our most holy, most pure..."** (*Пресвяту́ю, пречи́стую*); the Priest [says] the proper Exclamation. We do likewise both after **"Let us all say"** (*Рцѣ́мъ всѝ*), and after **"Vouchsafe, O Lord"** (*Сподо́би, Го́споди*).[^662]
 6. At the Aposticha, [Stichera] of the Feast; and after **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*), the Troparion of the Feast; and the Great Dismissal proper to this Vespers.
 
-#### At Compline
+**At Compline**
 
 The Canon to the Theotokos is omitted, and the Canon of the Holy Spirit which is in the Triodion is sung, with the refrain: **"Glory to Thee, our God, glory to Thee"** (*Сла́ва тебѣ̀, Бо́же на́шъ, сла́ва тебѣ̀*); and after the 9th Ode, in place of **"It is truly meet"** (*Досто́йно є҆́сть*), the Heirmos of the same Ode; and after the Trisagion, the Kontakion of the Feast.
 
-#### At the Midnight Office
+**At the Midnight Office**
 
 After the 1st Trisagion, the Troparion, and after the 2nd, the Kontakion of the Feast, without the prayer **"Remember, O Lord"** (*Помянѝ*).[^663]
 
-#### At Matins
+**At Matins**
 
 1. At **"God is the Lord"** (*Бо́гъ Госпо́дь*): Troparion of the Feast thrice.
 2. After the two customary Kathismata, Sessional Hymns of the Feast; and immediately Psalm 50 and the Canon.
@@ -39,11 +39,11 @@ After the 3rd Ode, Sessional Hymn of the Feast; after the 6th Ode, Kontakion and
 4. At the Praises, Stichera of the Feast on 4; **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*): of the Feast.
 5. After the Great Doxology, Troparion of the Feast; and after the Ektenias, the Great Dismissal of the Feast: **"He Who in the form of fiery tongues..."** (*Въ ви́дѣ ѻ҆́гненныхъ я҆зы́къ*).
 
-#### At the Hours
+**At the Hours**
 
 At the Hours, Troparion and Kontakion of the Feast.
 
-#### At the Liturgy
+**At the Liturgy**
 
 1. The first two Antiphons of the Feast, the third weekday with the Refrain of the Feast.
 2. The Entrance Hymn (*Vkhódnoye*) proper; Troparion, **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), Kontakion of the Feast, and the Trisagion.
@@ -51,7 +51,7 @@ At the Hours, Troparion and Kontakion of the Feast.
 
 *Note.* If the Service to the Holy Trinity is joined, then after the Entrance, as we deem (for the Typikon has nothing [concerning this]), the entire Service is to be taken first to the Holy Trinity, then to Monday. Namely the Troparia thus: Troparion of the Holy Trinity, then of the Descent; **"Glory"** (*Сла́ва*), Kontakion of the Holy Trinity; **"Both now"** (*И҆ ны́нѣ*), of the Descent; likewise all the rest first to the Holy Trinity, then to Monday.
 
-### Apodosis of the Feast of Pentecost
+**Apodosis of the Feast of Pentecost**
 
 Takes place on Saturday, according to the General Typikon of the Apodosis of a Feast of the Lord.
 
@@ -59,11 +59,11 @@ Takes place on Saturday, according to the General Typikon of the Apodosis of a F
 
 === LEAF p504 ===
 
-### Sunday of All Saints: 1st After the Descent
+**Sunday of All Saints: 1st After the Descent**
 **Tone 8.**
 We do not celebrate a Vigil.
 
-#### At Great Vespers
+**At Great Vespers**
 
 1. **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*), according to custom.
 2. At **"Lord, I have cried"** (*Го́споди воззва́хъ*), 10 Stichera: 4 Resurrectional, and 6 of the Saints; **"Glory"** (*Сла́ва*) of the Saints; **"Both now"** (*И҆ ны́нѣ*), the 1st Theotokion of the Tone (Tone 8, Dogmatikon).
@@ -71,15 +71,15 @@ We do not celebrate a Vigil.
 4. At the Aposticha, Resurrectional [Stichera]; **"Glory"** (*Сла́ва*) of the Saints; **"Both now"** (*И҆ ны́нѣ*), their Theotokion.
 5. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): Resurrectional Troparion; **"Glory"** (*Сла́ва*) of the Saints; **"Both now"** (*И҆ ны́нѣ*), Resurrectional Theotokion according to the Tone of the Saints.
 
-#### At Compline
+**At Compline**
 
 We begin to read the Canon to the Theotokos. After **"It is truly meet"** (*Досто́йно є҆́сть*), the Kontakion of All Saints.
 
-#### At the Midnight Office
+**At the Midnight Office**
 
 All things according to custom, that is, the Canon of the Holy Trinity of the Tone of the week (Tone 8).
 
-#### At Great Matins
+**At Great Matins**
 
 1. At **"God is the Lord"** (*Бо́гъ Госпо́дь*): Resurrectional Troparion twice; **"Glory"** (*Сла́ва*) of the Saints; **"Both now"** (*И҆ ны́нѣ*), Resurrectional Theotokion according to the Tone of the Saints.
 2. Kathismata of the cycle, and all the rest even unto the Resurrectional Canon according to custom. (Gospel of the cycle, 1st).
@@ -93,17 +93,17 @@ After the 3rd Ode, Sessional Hymn of the Saints; after the 6th Ode, Kontakion an
 4. At the Praises, 8 Stichera: 5 Resurrectional from the Octoechos, and 3 of the Saints, with their two refrains; **"Glory"** (*Сла́ва*), 1st Gospel Sticheron; **"Both now"** (*И҆ ны́нѣ*): **"Most blessed art thou"** (*Преблагослове́нна е҆сѝ*).
 5. After the Great Doxology, one of the two customary Resurrectional Troparia, and all the rest customary, as on all Sundays.
 
-#### At the Hours
+**At the Hours**
 
 At all [the Hours]: Resurrectional Troparion; **"Glory"** (*Сла́ва*) of the Saints; but Kontakion only of the Saints.
 
-#### At the Liturgy
+**At the Liturgy**
 
 1. After the Entrance: Troparion Resurrectional and of the Saints; **"Glory... Both now..."** (*Сла́ва, и҆ ны́нѣ*), Kontakion of the Saints.
 2. Prokeimenon Resurrectional of the Tone, and of the Saints; Alleluia of the Saints; Epistle and Gospel of the Saints; Communion Hymn: **"Praise the Lord"** (*Хвали́те Го́спода*), and of the Saints (**"Rejoice in the Lord, O ye righteous"** (*Ра́дꙋйтеся*)).
 
-### Monday of the 2nd Week After the Descent
-#### Beginning of the Fast of the Holy Preeminent Apostles Peter and Paul
+**Monday of the 2nd Week After the Descent**
+**Beginning of the Fast of the Holy Preeminent Apostles Peter and Paul**
 
 This Fast begins with Monday after the Sunday of All Saints, and ends with the Eve of the Feast of the Holy Apostles. Regarding Divine Services, on this first Monday, if a celebrated Saint did not occur, Alleluia was formerly sung, and the entire Church Rule
 
@@ -114,8 +114,8 @@ This Fast begins with Monday after the Sunday of All Saints, and ends with the E
 fasting, as in the fast-days of the Holy Forty Days; yet today we restrict the Alleluia to the Great Forty Days, and here we sing **"God is the Lord"** (*Бо́гъ Госпо́дь*).
 Regarding the Fast: the Synod of Lviv restricts this Fast to Mondays, Wednesdays, and Fridays of each of its weeks, and dispenses those same [days] to dairy products; the other four days it dispenses to meat, yet under the condition of reciting Psalm 50 for the Clergy, and five **"Our Father"** and five **"O Theotokos and Virgin"** for the laity, before the midday meal and before the evening meal.[^664]
 
-### On Thursday After the Sunday of All Saints
-#### Feast of the Most Holy Eucharist
+**On Thursday After the Sunday of All Saints**
+**Feast of the Most Holy Eucharist**
 **Transferred to the 2nd Sunday After the Descent.**
 
 This Feast is celebrated with an Octave (*osmodnéviye*), from the Thursday after the Sunday of All Saints unto the following Thursday, on which it also has its Apodosis. But since according to our custom it is transferred from Thursday to the following Sunday, on this account the Synod of Lviv commands that its Service be sung on Sunday, with a Vigil, unalterably as it is set down in the Triodion on the Thursday of the Feast itself, according to the General Typikon of a First-Class Feast of the Lord, without the Resurrectional [hymns]; and on the days preceding and following this Sunday to sing it according to the General Typikon Inside a Feast of the Lord. Moreover, the Synod commands that on the Sunday itself there take place according to custom the Procession with the Holy Mysteries after the Prayer behind the Ambo, that is, out of the church to four Altars erected
@@ -127,8 +127,8 @@ This Feast is celebrated with an Octave (*osmodnéviye*), from the Thursday afte
 outside the church, equally distant from one another. Where this would be impossible, it suffices to begin the Procession from the Altar which is inside the church, and having circled the church thrice, to conclude this rite at the very same Altar in the church with the blessing with the Holy Mysteries. Regarding the four Gospel Readings, commonly chanted one at each of the four Altars, the Synod commands that those be chosen which discourse concerning the Most Holy Mysteries, according to the Typikon prescribed for this Feast.[^665]
 After these things it is necessary to present two Typika: 1. How the Exposition of the Holy Mysteries takes place on this Feast; 2. How the Procession with the Holy Mysteries takes place.
 
-### Typikon I
-#### Concerning the Exposition of the Holy Mysteries at the Liturgy
+**Typikon I**
+**Concerning the Exposition of the Holy Mysteries at the Liturgy**
 
 The Priest, on one of the days preceding the Feast, consecrates at the Liturgy two Lambs; and from the one he communicates, but the other, placing it in the Pyx (*Kivot*), he preserves until the day of the Feast. All these things he performs according to the Typikon written for Great Thursday, here on page 435, in the Note. When the day of the Feast itself arrives, after the conclusion of the Proskomide, immediately before the beginning of the Divine Liturgy, the Deacons (or the Priest himself) having censed all things according to custom, there takes place the Exposition
 
@@ -153,8 +153,8 @@ the Holy Mysteries thrice, as before, waits there kneeling until the Deacon, hav
 
 === LEAF p510 ===
 
-### Typikon II
-#### Concerning the Procession with the Holy Mysteries After the Prayer Behind the Ambo
+**Typikon II**
+**Concerning the Procession with the Holy Mysteries After the Prayer Behind the Ambo**
 
 After the conclusion of the Prayer behind the Ambo, the Sacred Ministers having stood before the step of the Holy Table, the first Deacon, having ascended the step, and having bowed profoundly, takes down the Holy Mysteries from atop the Tabernacle, and having set Them upon the folded Iliton, steps aside a little to his own side. And all having bended their knees, the Priest, having censed the Holy Mysteries thrice, and having taken upon himself the humeral veil, ascends the step, and having taken hold of the Holy Mysteries with both hands, with the Deacon assisting, and having turned to the people, as at the beginning of the Liturgy, and having intoned the beginning of the Troparion: **"Bread Supernatural"** (*Хлѣ́бъ преесте́ственный*), or some other devout hymn, goes forth by the Holy Doors into the church, two Deacons preceding with Censers; and having entered beneath the Canopy (*Baldakhin*), advances unto the doors of the church; and with the bells chiming, the Procession proceeds from the church unto the first Altar, the Choirs and the people following singing the Troparion, or something else. And the order of the Procession is as follows: First of all goes the Cross-bearer between two Taper-bearers, then the Banner-bearers and Icon-bearers, then four Maidens carrying icons, after them the Church Brotherhood, two by two, with candles, the Choirs, and all the Clergy two by two with candles, according to the order of their dignity, the Priests nearest in Phelonia, the others in Epitrakhelia, and last of all the celebrant Priest with the Holy Mysteries, two Deacons preceding and unceasingly censing from the side, and Taper-bearers surrounding the Canopy. When
 
@@ -179,13 +179,13 @@ turn. After these things the Procession returns into the church, and the Priest 
 
 === LEAF p513 ===
 
-### On Thursday of the 3rd Week After the Descent
-#### Apodosis of the Feast of the Eucharist
+**On Thursday of the 3rd Week After the Descent**
+**Apodosis of the Feast of the Eucharist**
 
 Takes place according to the General Rule of the Apodosis of a Feast of the Lord.
 
-### On Friday After the Apodosis of the Eucharist
-#### Feast of the Compassion of the Most Holy Theotokos
+**On Friday After the Apodosis of the Eucharist**
+**Feast of the Compassion of the Most Holy Theotokos**
 
 We celebrate this Feast as a single day, without a Vigil, but only with Polyeleos.
 At Great Vespers: **"Blessed is the man"** (*Блаже́нъ мꙋ́жъ*). At **"Lord, I have cried"** (*Го́споди воззва́хъ*), Stichera on 6; and after the Prokeimenon of the day, Readings of the Feast, 3; and the rest of the Service of the Feast alone, according to the Typikon of the Service of July 2nd, here on page 345. The Litiya which is appointed in the Triodion we do not use today, apart from an All-Night Vigil.
@@ -201,8 +201,8 @@ At the Liturgy: at the 3rd Antiphon, and at **"Come, let us worship"** (*Прї�
 
 The Temple Typika (*Ustavy Khramoviyi*) in use among us are of a twofold kind: some are borrowed from the local Western Churches, which do not enter into the original fabric of our Divine Services, but have been attached to it; and others are innate to our Divine Services. The typika borrowed from the Western Churches relate to the Holy Mysteries of the Eucharist, which on the day of the Patronal Feast are exposed upon the Holy Table, and with Them a Procession takes place around the church; and concerning these it behooves us first to set forth the Typikon, and afterwards concerning the rest.
 
-### Chapter I
-#### Concerning the Exposition of the Holy Mysteries Upon the Holy Table
+**Chapter I**
+**Concerning the Exposition of the Holy Mysteries Upon the Holy Table**
 
 The Priest, on one of the days preceding the Feast, consecrates at the Liturgy two Lambs, and of the one he communicates, but the other, having placed it into the Pyx (*Kivot*), he preserves until the day of the Feast. All these things he performs according to the Typikon written for Great Thursday, here on page 435. When the feast-day itself arrives, after the conclusion of the Proskomide, immediately before the beginning of the Liturgy, the Deacons (or the Priest himself) having censed all things
 
@@ -213,8 +213,8 @@ The Priest, on one of the days preceding the Feast, consecrates at the Liturgy t
 according to custom, the Exposition of the Holy Mysteries takes place unalterably as was indicated on the Feast of the Eucharist, here on page 512.
 After the Prayer behind the Ambo, the Holy Mysteries are hidden in the Tabernacle, and before the beginning of Vespers are exposed again; for it is not fitting to leave the Holy Mysteries without adorers, and without a sufficient number of candles, of which according to the Synod of Lviv there are to be at least six of wax.[^667]
 
-### § 2. Concerning the Procession with the Holy Mysteries
-#### At Vespers
+**§ 2. Concerning the Procession with the Holy Mysteries**
+**At Vespers**
 
 Before the beginning of Vespers, the Priest vested in all the priestly vestments, and the Deacon in all the deacon's vestments, having come before the steps of the Holy Table, open the Holy Doors; and the first Deacon, having laid aside the Gospel Book to the right, takes the Holy Mysteries from the Tabernacle, and sets Them upon the Iliton; and the Priest having censed Them thrice, in all things as at the beginning of the Liturgy, he sets Them atop the Tabernacle upon the folded Iliton, and having placed the Gospel Book again in the middle of the Holy Table, exclaims: **"Bless, Master"** (*Благословѝ, Влады́ко*); and the Priest begins: **"Blessed is our God"** (*Благослове́нъ Бо́гъ на́шъ*), standing with the Deacons by the Holy Table; and Vespers is sung with the Entrance, the Priest stepping away from the Holy Table only at the Entrance, and the Deacons also at the Ektenia, and after the Prokeimenon for the Sermon, if this is ever to take place, the Holy Mysteries being veiled by the Tabernacle.
 Before the Dismissal of Vespers, all having bended their knees, the Deacon, having taken the Sacred Gospel Book from the middle of the Holy Table, and having set it on the right side thereof, takes down
@@ -236,13 +236,13 @@ On one of the days after the Feast, the Priest, celebrating the Liturgy, consume
 
 === LEAF p518 ===
 
-### Chapter II
+**Chapter II**
 ## Temple Typika
-### Entering into the Fabric of Our Divine Services
+**Entering into the Fabric of Our Divine Services**
 
 Such Typika are either general or proper. The general apply to many cases, the proper only to certain ones. We set forth first the general Typika, and then the proper ones.
 
-### § 1. General Typika[^669]
+**§ 1. General Typika[^669]**
 
 1. On a Patronal Feast, even if it be of a Saint of the lowest rank, an All-Night Vigil must be celebrated. Thus do we perform, and thus has the *Tserkovne Oko* in Chapter 4 concerning Temples.[^670]
 2. The Feast of the Patron Saint of a Temple, even if of the lowest rank, takes precedence even over the Feast of a Saint with a Vigil, first in that if it occurs on a Sunday, it excludes at Matins before the Canon the Prokeimenon, Gospel, and Resurrectional Sticheron, unalterably as does a Feast of the Theotokos, and likewise transfers the Gospel Sticheron from the Praises to the end of Matins. Besides this, if it occurs

@@ -4,9 +4,9 @@
 
 ## Τυπικὴ Διάταξις τῶν Ἀκολουθιῶν τοῦ Τριῳδίου· Κυριακὴ τοῦ Τελώνου καὶ Φαρισαίου (§§ 1–2 Ἀρχή) [Violakis, p. 656]
 
-### ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ ΤΩΝ ΑΚΟΛΟΥΘΙΩΝ ΤΟΥ ΤΡΙΩΔΙΟΥ
+**ΤΥΠΙΚΗ ΔΙΑΤΑΞΙΣ ΤΩΝ ΑΚΟΛΟΥΘΙΩΝ ΤΟΥ ΤΡΙΩΔΙΟΥ**
 
-### ΚΥΡΙΑΚΗ ΤΟΥ ΤΕΛΩΝΟΥ ΚΑΙ ΦΑΡΙΣΑΙΟΥ
+**ΚΥΡΙΑΚΗ ΤΟΥ ΤΕΛΩΝΟΥ ΚΑΙ ΦΑΡΙΣΑΙΟΥ**
 
 1.    Τῷ Σαββάτῳ ἑσπέρας¹, εἰς τὸ Κύριε ἐκέκραξα ᾿Αναστάσιμα Στιχηρὰ ζ΄ καὶ τοῦ Τριῳδίου γ΄, Δόξα, Παντοκράτορ Κύριε, Καὶ νῦν τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἰς τὰ ᾿Απόστιχα τὰ ἀναστάσιμα Στιχηρά, Δόξα, Βεβαρημένων τῶν ὀφθαλμῶν, Καὶ νῦν, Ναὸς καὶ πύλη, ᾿Απολυτίκιον ᾿Αναστάσιμον, τὸ Θεοτοκίον, καὶ ᾿Απόλυσις.
 
@@ -20,9 +20,9 @@
 
 ## The Ritual Order of the Services of the Triodion; Sunday of the Publican and the Pharisee (§§ 1–2 Opening) [Violakis, p. 657]
 
-### THE RITUAL ORDER OF THE SERVICES OF THE TRIODION
+# THE RITUAL ORDER OF THE SERVICES OF THE TRIODION
 
-### SUNDAY OF THE PUBLICAN AND THE PHARISEE
+**SUNDAY OF THE PUBLICAN AND THE PHARISEE**
 
 1.    On Saturday evening at Great Vespers¹, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant 7 Resurrection Stichira and 3 of the Triodion; "Glory...": **"Almighty Lord"** (*Παντοκράτορ Κύριε*); "Both now and ever...": the first Theotokion of the Tone. At the Aposticha: the Resurrection Stichira; "Glory...": **"Mine eyes being weighed down"** (*Βεβαρημένων τῶν ὀφθαλμῶν*); "Both now and ever...": **"Temple and gate"** (*Ναὸς καὶ πύλη*). The Dismissal Troparion of the Resurrection, the Theotokion, and Dismissal.
 
@@ -42,7 +42,7 @@
 
 Τὴν ἑβδομάδα ταύτην γίνεται κατάλυσις εἰς πάντα.
 
-### ΚΥΡΙΑΚΗ ΤΟΥ ΑΣΩΤΟΥ
+**ΚΥΡΙΑΚΗ ΤΟΥ ΑΣΩΤΟΥ**
 
 4.    Τῷ Σαββάτῳ ἑσπέρας, εἰς τὸ Κύριε ἐκέκραξα ἀναστάσιμα Στιχηρὰ ζ΄ καὶ τοῦ Τριῳδίου γ΄, Δόξα, Ὢ πόσων ἀγαθῶν, Καὶ νῦν τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἰς τὰ ᾿Απόστιχα, τὰ ἀναστάσιμα Στιχηρά, Δόξα, Τῆς πατρικῆς δωρεᾶς, Καὶ νῦν, Ὁ ποιητὴς καὶ λυτρωτής μου, ᾿Απολυτίκιον ᾿Αναστάσιμον, τὸ Θεοτοκίον καὶ ᾿Απόλυσις.
 
@@ -60,7 +60,7 @@
 
       *Note on Fasting:* Throughout this week there is dispensation from fasting in all things [fast-free week].
 
-### SUNDAY OF THE PRODIGAL SON
+**SUNDAY OF THE PRODIGAL SON**
 
 4.    On Saturday evening at Great Vespers, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant 7 Resurrection Stichira and 3 of the Triodion; "Glory...": **"Oh, from how many blessings"** (*Ὢ πόσων ἀγαθῶν*); "Both now and ever...": the first Theotokion of the Tone. At the Aposticha: the Resurrection Stichira; "Glory...": [**"Having squandered the riches of the fatherly gift"** (*Τῆς πατρικῆς δωρεᾶς*)]; "Both now and ever...": **"My Maker and Deliverer"** (*Ὁ ποιητὴς καὶ λυτρωτής μου*). The Dismissal Troparion of the Resurrection, the Theotokion, and Dismissal.[^396]
 
@@ -78,9 +78,9 @@
 
 Σημ. Τὴν Τετάρτην καὶ τὴν Παρασκευὴν κατάλυσις οὐ γίνεται.
 
-### ΣΑΒΒΑΤΟΝ ΠΡΟ ΤΗΣ ΑΠΟΚΡΕΩ
+**ΣΑΒΒΑΤΟΝ ΠΡΟ ΤΗΣ ΑΠΟΚΡΕΩ**
 
-#### Μνήμην ἐπιτελοῦμεν πάντων τῶν ἀπ᾿ αἰῶνος Κεκοιμημένων ὀρθοδόξων Χριστιανῶν, πατέρων καὶ ἀδελφῶν ἡμῶν.
+**Μνήμην ἐπιτελοῦμεν πάντων τῶν ἀπ᾿ αἰῶνος Κεκοιμημένων ὀρθοδόξων Χριστιανῶν, πατέρων καὶ ἀδελφῶν ἡμῶν.**
 
 7.    Τῇ Παρασκευῇ ἑσπέρας μετὰ τὸν Προοιμιακὸν [καὶ τὴν
 
@@ -98,9 +98,9 @@
 
       *Note on Fasting:* Note that Wednesday and Friday are fast days [no dispensation from fasting].
 
-### SATURDAY BEFORE MEATFARE
+**SATURDAY BEFORE MEATFARE**
 
-#### We celebrate the memory of all Orthodox Christians who have fallen asleep from all the ages: our fathers and brothers.
+**We celebrate the memory of all Orthodox Christians who have fallen asleep from all the ages: our fathers and brothers.**
 
 7.    On Friday evening, after the Introductory Psalm [Ps. 103 LXX] and the accus-[^397]
 

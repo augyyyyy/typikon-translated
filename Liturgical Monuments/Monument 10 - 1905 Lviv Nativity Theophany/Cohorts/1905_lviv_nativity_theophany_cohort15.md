@@ -21,7 +21,7 @@ As a bridegroom from his chamber, David said the Lord would come forth from the 
 *Theotokion:*
 Let us honor Mary, the unwedded Mother of God, for because of her the Sun of Righteousness has shone forth upon us.
 *After this, the Kontakion: "He Who was born before the morning star" (see p. 134);[^334] and the Ikos: "The uncultivated Cluster of Grapes" (p. 134).[^335]*
-*Sessional Hymn, Tone 2. Podoben: Today the Virgin:*[^336]
+*Sessional Hymn, Tone 2. Podoben: Today the Virgin (Дв҃а дне́сь):*[^336]
 Let us worthily hymn righteous Joseph the Betrothed of the Virgin, and with David, James:
 
 === LEAF p143 ===
@@ -50,7 +50,7 @@ Thou didst sit upon the throne, as Thou didst swear, O Master, to the Prophet Da
 David was shown forth indeed as a king and marvelous prophet, and forefather of the divine Incarnation; while James was shown forth as the first bishop and disciple of Jesus.
 *Theotokion:*
 We pray thee for thy servants, O Virgin Mother of God: pray to Him Who was incarnate of thee, for we know thee as our only Protectress.
-*Kontakion, Tone 3. Podoben: Today the Virgin:*[^342]
+*Kontakion, Tone 3. Podoben: Today the Virgin (Дв҃а дне́сь):*[^342]
 Today divine David is filled with gladness, and Joseph with James offers praise; for receiving the crown by kinship with Christ,
 
 === LEAF p145 ===
@@ -83,7 +83,7 @@ David was indeed made a king from being a shepherd of old; and thou, O James, fr
 Rejoice now, O Bethlehem, having become the city of the new David; and Sion, proclaim the primacy of the churches, the common joy, having now received the King of all and His pleased servants!
 *Theotokion:*
 The angelic assemblies glorify thee, O Mother of God, and the human race unceasingly honors thee with hymns; for through thy divine childbearing thou hast united earthly things with heavenly; therefore do we honor thee.
-*Exapostilarion. Podoben: With the disciples:*[^348]
+*Exapostilarion. Podoben: With the disciples (Съ оу҆ченикѝ взы́демъ):*[^348]
 With glorious James, the Brother of the Lord, let us sing of David the Ancestor of God, and divine Joseph the Betrothed of the Mother of God; for they served the divine Nativity of Christ in the city of Bethlehem in a manner fitting for God, with angels, Magi, and shepherds, singing a hymn to Him as God and Master.[^349]
 *Glory... Both now... Of the Nativity.*[^350]
 *At the Praises: Stichera of the Nativity, 4: "Rejoice, ye righteous" (see p. 134).[^351] Glory: "The memory of the sacred ones" (p. 128);[^352] Both now: of the Nativity.[^353] After this, the Great Doxology: "Glory to God in the highest" (p. 118).[^354] Troparion: "Proclaim the wonders, O Joseph" (p. 129);[^355] Glory... Both now: of the Nativity;[^356] and the Dismissal.*[^357]

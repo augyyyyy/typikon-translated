@@ -128,7 +128,7 @@ The seekings of evil transgressions continually bring forth sorrows. Therefore w
 *Glory...*
 
 *Troparion:*
-Thou givest birth, and art shown to be Pure after Childbirth, O Virgin Theotokos. Therefore pray unceasingly unto Thy Offspring, that we may be delivered from every harm of the enemy by thy prayers.
+Thou givest birth, and art shown to be Pure after Childbirth, O Virgin Theotokos. Therefore pray unceasingly unto thy Offspring, that we may be delivered from every harm of the enemy by thy prayers.
 
 *Both now...*
 
@@ -232,7 +232,7 @@ He Who of old by divine beckoning gathered the waters into one gathering, and di
 Thee, the Shadow-Covered Mountain, which Habakkuk the Prophet foresaw by the Spirit, I implore, O Most Pure One: overshadow me who am scorched by passions, and deliver me from the deathly shade of grievous calamities.
 
 *Troparion:*
-By the sprinkling of the Divine Blood shed from the Divine Rib of Thy Son, O Pure One, wash away the wounds of my heart: that I may magnify thee, and glorify thee as is meet, who art ever-blessed and all-immaculate.
+By the sprinkling of the Divine Blood shed from the Divine Rib of thy Son, O Pure One, wash away the wounds of my heart: that I may magnify thee, and glorify thee as is meet, who art ever-blessed and all-immaculate.
 
 *Glory...*
 

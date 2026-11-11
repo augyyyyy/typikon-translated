@@ -81,7 +81,7 @@ Our Father...
 *Sticheron 3:* Come ye fervently, O faithful! Having the firm armor of the Fast as a shield, let us turn aside every wile of the enemy's deception! Let us not be burned by lustful passion, nor fear the fire of temptations, for the sake of which Christ God crowns us with the rewards of endurance! Therefore praying with boldness, we fall down crying aloud, asking peace, and great mercy for our souls!
 
 *And in the Menaion of the Saint, 3 stichera.*
-*Glory... Both now... Theotokion in the same Tone, and the same Podoben. O Joyous Light (Phos Hilaron).*
+*Glory... Both now... Theotokion in the same Tone, and the same Podoben. O Joyous Light (Phos Hilaron) (Подо́бенъ то́йже).*
 *Then the Prokeimenon, Tone 6, Psalm 3:*
 *Salvation is of the Lord, and Thy blessing is upon Thy people (Ps. 3:9).*
 *Verse: O Lord, why are they multiplied that afflict me? (Ps. 3:2).*

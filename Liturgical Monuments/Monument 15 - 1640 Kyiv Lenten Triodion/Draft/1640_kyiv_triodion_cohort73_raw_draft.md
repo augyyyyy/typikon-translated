@@ -133,7 +133,7 @@ O Trinity equal in glory, co-eternal Unity, Father, and Son, and Spirit, save th
 
 *Heirmos:* Emulating the song of the children, cry aloud, sing with the youths: Bless the Lord, all ye works of the Lord, and exalt Him above all unto all ages![^2189]
 
-*Ode 9. Heirmos: "The image of the pure childbearing" (Ѻ҆́бразъ ч[ис]та́гѡ):*
+*Ode 9. Heirmos: "The image of the pure childbearing" (Ѻ҆́бразъ ч(*ис*)та́гѡ):*
 *Troparion:* Elijah beheld the Lord in a subtle whirlwind, having first refined the flesh by prayers and fasting; whom emulating, O my soul, cast away the grossness of pleasures, that thou mayest see Him Who is desired.[^2190]
 
 *Troparion:* Moses of old lifted up the serpent upon the tree, O Savior, prefiguring Thy lifting up, which was upon the Cross, O all-good One, against the venomous malice of the serpent; whereby Thou hast delivered all nations that worship Thee.[^2191]
@@ -192,16 +192,16 @@ Mercy and judgment will I sing unto Thee, O Lord!
 *Verse:* I will sing and have understanding in a blameless way.[^2204]
 
 *Reading from the Prophecy of Isaiah (Chapter 45).*
-Thus saith the Lord God, the Holy One of Israel, Who made him and created the things to come: Ask Me concerning My sons and concerning My daughters, and give Me command concerning the works of My hands.
+Thus says the Lord God, the Holy One of Israel, Who made him and created the things to come: Ask Me concerning My sons and concerning My daughters, and give Me command concerning the works of My hands.
 I have made the earth, and man upon it; I with My hand have established the heaven, I have given command to all the stars.
-I have raised him up with righteousness as a king, and all his ways are right; he shall build My city, and shall turn back the captivity of My people, not for price nor for reward, saith the Lord of hosts.
-Thus saith the Lord of hosts: Egypt hath labored, and the merchandise of the Ethiopians, and the Sabeans, men of stature, shall pass over unto thee, and they shall be thy servants, and they shall follow after thee, bound with hand-fetters, and they shall pass over unto thee, and shall bow down unto thee, and make supplication in thee, for God is in thee, and there is no God beside thee.
+I have raised him up with righteousness as a king, and all his ways are right; he shall build My city, and shall turn back the captivity of My people, not for price nor for reward, says the Lord of hosts.
+Thus says the Lord of hosts: Egypt hath labored, and the merchandise of the Ethiopians, and the Sabeans, men of stature, shall pass over unto thee, and they shall be thy servants, and they shall follow after thee, bound with hand-fetters, and they shall pass over unto thee, and shall bow down unto thee, and make supplication in thee, for God is in thee, and there is no God beside thee.
 For Thou art God, and we knew it not, the God of Israel, the Savior.
 All that oppose Him shall be ashamed and confounded,
 
 === LEAF p730 ===
 *(fol. 718)*
-and shall walk in shame. Be ye renewed unto Me, ye islands of Israel; be ye saved of the Lord with an everlasting salvation; ye shall not be ashamed neither confounded, even forevermore, saith the Lord Almighty.[^2205]
+and shall walk in shame. Be ye renewed unto Me, ye islands of Israel; be ye saved of the Lord with an everlasting salvation; ye shall not be ashamed neither confounded, even forevermore, says the Lord Almighty.[^2205]
 
 *Prokeimenon, Psalm 101, Tone 4:*
 O Lord, hear my prayer, and let my cry come unto Thee!

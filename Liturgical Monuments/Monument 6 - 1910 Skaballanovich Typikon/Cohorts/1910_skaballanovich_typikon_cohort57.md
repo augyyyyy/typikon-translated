@@ -1,28 +1,28 @@
 === LEAF p561 ===
 by a different arrangement of words concerning the Holy Spirit and by the addition: "as it was in the beginning" (which corresponds in our exclamations to: "always" alongside "now and ever"). Traces of primitive forms of doxology (in which the names of the Holy Trinity were *(Orig. p. 465)* not placed in identical grammatical cases) have been preserved among us in certain exclamations ("with Whom Thou art blessed, together with the All-Holy... Spirit"), and in the Roman Catholic Church in the conclusions of hymns (*"Gloria Deo Patri cum Filio, Sancto simul Paraclito"*); the preposition "through" (*dia* / *per*) with the Name of the Son, despite New Testament prototypes, is avoided by both Churches in view of Arian abuses thereof.
 
-### The Trisagion
+**The Trisagion**
 
 The prayer **"Holy God..."** (*Svyaty Bozhe...* / *Ἅγιος ὁ Θεός...*) represents an amplification of the Seraphic hymn in the vision of the Prophet Isaiah [Isa. 6:3]. According to the tradition related in the epistles cited by Zonaras (12th c.)[^1915] of Patriarch Acacius of Constantinople (471–479) and other contemporary bishops to the Chalcedonian presbyter Peter the Fuller (who sought to introduce into this prayer the addition "Who wast crucified for us"), it was heard from the Angels by a boy lifted up into the air during a penitential moleben on the occasion of an earthquake in Constantinople in 438–439 (under Emperor Theodosius the Younger, Pulcheria, and Patriarch Proclus) 20 days prior to Pascha around the 3rd hour of the day, and by imperial edict was immediately introduced into liturgical use. The Monophysite addition "Who wast crucified for us" introduced by the aforementioned Fuller, notwithstanding the extensive polemic against it, was accepted for a time even in Constantinople, for which the city, according to tradition, suffered many calamities (during a litany with the singing of such a Trisagion, an ash rain fell upon the city). This addition is retained today in the Armenian and Coptic [Egyptian] Churches, wherein in its justification it is argued that the entire hymn may be referred to the Son of God alone.[^1916] The Greek text of the prayer: *"Ἅγιος ὁ Θεός, ἅγιος Ἰσχυρός, ἅγιος ἀθάνατος, ἐλέησον ἡμᾶς"*—permits also the translation: "Holy God, Holy Mighty, Holy Immortal, have mercy on us" (such a translation would be closer to the original, which lacks the vocative case); then the prayer formula would consist of praise and petition, which also corresponds to that detail of the tradition that the boy heard from the Angels only the first part of the hymn, and the people added: "have mercy on us."
 
-### "O Heavenly King" and "Most Holy Trinity"
+**"O Heavenly King" and "Most Holy Trinity"**
 
 Concerning the remaining prayers in the usual beginning, regarding the origin of the prayers **"Most Holy Trinity"** (*Presvyataya Troitse*), **"O Heavenly King"** (*Tsaryu Nebesny*), and **"Glory to Thee, our God, glory to Thee"** (*Slava Tebe Bozhe nash, slava Tebe*), nothing can be stated with certainty. The prayer **"O Heavenly King"** is rather a hymn than a
 
 === LEAF p562 ===
 prayer, and serves as a sticheron of Pentecost, from the service of which it was undoubtedly borrowed into the usual beginning, inasmuch as it appears therein later than in that festal office. Judging from the fact that this hymn is unknown to the 9th-century Typikon of Constantinople, it appeared *(Orig. p. 466)* no earlier than the flourishing of hymnographic activity in the 8th–9th centuries. According to the Horologion of the Sinai Library No. 865 of the 12th c. and the Ethiopian Horologion (14th c.), it is appointed as yet only as a troparion at the Third Hour (in the latter also at the Midnight Office). The prayer **"Most Holy Trinity"** the Coptic Horologion contains in the following simpler and therefore, perhaps, most ancient form: "Most Holy Trinity, have mercy on us (thrice). Lord, cleanse our sins; Lord, cleanse our iniquities; Lord, forgive our transgressions; Lord, visit the infirmities of Thy people and heal them, for Thy Name's sake." The Horologion places it not within the order of daily services, but within the order of evening prayers, in their midst, after **"Holy God"**.[^1917] The Ethiopian Horologion, however, places it in various services after the Trisagion, before the **"Our Father"**, as with us, but again in a different recension: "Most Holy Trinity, have compassion upon us; Most Holy Trinity, spare us; Most Holy Trinity, have mercy on us. Lord, forgive our sins; Lord, remit our iniquities and our transgressions; Lord, visit the infirm among the people and heal them, for the sake of Thy Holy Name."[^1918]
 
-### "O come, let us worship"
+**"O come, let us worship"**
 
 **"O come, let us worship"** (*Priidite poklonimsya*) likewise did not immediately receive its present form. In the Typikon of the Monastery of St. Nicholas of Casole (in Calabria) of the 12th c. (according to a 12th–13th c. MS of Turin University), these verses have the following simpler form: "O come, let us worship and fall down before our King. O come, let us worship and fall down before Christ our God. O come, let us worship."[^1919] In the Typikon of the Georgian Monastery of Shio-Mgvime of the 13th c. (at the All-Night Vigil): "O come, let us worship and fall down before Christ our King and God"—twice, then the same without "King," and finally, only: "O come, let us worship" (a gradual abbreviation, just as today there is a gradual expansion).[^1920] In the Greek Typikon of the Moscow Rumyantsev Museum of the 13th c., our present first verse occurs twice, then our present third verse, and "O come, let us worship."[^1921] In the Greek Typikon of the Moscow Synodal Library No. 381 of the 14th c.—our present first verse, our present third verse without "Himself," and our present third and fourth verses at the All-Night Vigil (fol. 1). In the Slavic Typikon of the same library No. 328/383: "O come, let us worship" (perhaps unfinished) twice, and our present third verse (fol. 3). In the Ethiopian Horologion (14th c.) the form is as follows: "O come, let us worship, come let us pray to Christ our God. O come, let us worship, come let us pray to Christ our Savior," and again the second verse.[^1922]
 
 === LEAF p563 ===
 *(Orig. p. 467)*
 
-*[Blank leaf in original edition / Division marker before the Ninth Hour]*
+*(Vacat — Blank leaf in original edition / Division marker before the Ninth Hour)*
 
 === LEAF p564 ===
-# THE NINTH HOUR
+## THE NINTH HOUR
 
 ## Character of the Service
 

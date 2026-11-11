@@ -1,6 +1,6 @@
 === LEAF p521 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation I Concl. §§ 2–3, General Rubric)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation I Concl. §§ 2–3, General Rubric)
 
 ## Τῇ ΚΓ΄: Τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου (Περίπτωσις Α΄ Τέλος §§ 2–3, Γενικὴ Διάταξις) [Violakis, p. 506]
 
@@ -14,7 +14,7 @@
 
 === LEAF p522 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation One Concl. §§ 2–3, General Rubric)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation One Concl. §§ 2–3, General Rubric)
 
 ## April 23: The Holy Glorious Great-Martyr George the Trophy-Bearer (Situation One Concl. §§ 2–3, General Rubric) [Violakis, p. 507]
 
@@ -28,11 +28,11 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 === LEAF p523 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation II §§ 4–6: Bright Friday)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation II §§ 4–6: Bright Friday)
 
 ## Τῇ ΚΓ΄: Τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου (Περίπτωσις Β΄ §§ 4–6: Τῇ Παρασκευῇ τῆς Διακαινησίμου) [Violakis, p. 508]
 
-### Β΄.
+**Β΄.**
 
 4.    Εἰ τύχοι τῇ Παρασκευῇ τῆς Διακαινησίμου, τῇ Πέμπτῃ ἑσπέρας, εἰς τὸ Κύριε ἐκέκραξα ἀναστάσιμα Στιχηρὰ γ΄, τῆς Θεοτόκου γ΄, καὶ δ΄ τοῦ Ἁγίου, Δόξα τοῦ Ἁγίου, Καὶ νῦν, Τίς λαλήσει τὰς δυναστείας σου Πηγή, Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον Ἀγαπήσω σε Κύριε ἡ ἰσχύς μου μετὰ τῶν Στίχων, καὶ τὰ Ἀναγνώσματα τοῦ Ἁγίου. Εἰς τὰ Ἀπόστιχα, τὸ ἀναστάσιμον Στιχηρὸν Τὴν Ἀνάστασίν σου Χριστὲ Σωτήρ, καὶ τὰ γ΄ ἀπόστιχα Στιχηρὰ τῆς Θεοτόκου, Δόξα τοῦ Ἁγίου, Καὶ νῦν, Ἀναστάσεως ἡμέρα, τὸ Χριστὸς ἀνέστη, τὸ Ἀπολυτίκιον τοῦ Ἁγίου, αὖθις Χριστὸς ἀνέστη, καὶ Ἀπόλυσις.
 
@@ -44,11 +44,11 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 === LEAF p524 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Two §§ 4–6: Bright Friday)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Two §§ 4–6: Bright Friday)
 
 ## April 23: The Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Two §§ 4–6: Bright Friday) [Violakis, p. 509]
 
-### SITUATION TWO
+**SITUATION TWO**
 
 4.    If the commemoration [of the Saint] falls on Friday of Bright Week, on Thursday evening, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 3 Resurrection Stichira, 3 of the Theotokos, and 4 of the Saint. "Glory...": of the Saint; "Both now and ever...": **"Who can tell of thy mighty deeds, O Pure Spring?"** (*Τίς λαλήσει τὰς δυναστείας σου Πηγή*). Little Entrance, **"O Gladsome Light"**, the Prokeimenon: **"I will love Thee, O Lord, my strength"** (*Ἀγαπήσω σε Κύριε ἡ ἰσχύς μου*, Ps. 17:2 LXX) with its verses, and the Old Testament Lessons of the Saint. At the Aposticha: the Resurrection Stichiron: **"Thy Resurrection, O Christ Savior"** (*Τὴν Ἀνάστασίν σου Χριστὲ Σωτήρ*) and the 3 Aposticha Stichira of the Theotokos; "Glory...": of the Saint; "Both now and ever...": **"It is the day of Resurrection"** (*Ἀναστάσεως ἡμέρα*); **"Christ is risen"** (once), the Dismissal Troparion of the Saint, again **"Christ is risen"**, and Dismissal.
 
@@ -60,11 +60,11 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 === LEAF p525 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation III §§ 7–9: Thomas Sunday, Situation IV Opening § 10)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation III §§ 7–9: Thomas Sunday, Situation IV Opening § 10)
 
 ## Τῇ ΚΓ΄: Τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου (Περίπτωσις Γ΄ §§ 7–9: Τῇ Κυριακῇ τοῦ Θωμᾶ, Περίπτωσις Δ΄ Ἀρχὴ § 10) [Violakis, p. 510]
 
-### Γ΄.
+**Γ΄.**
 
 7.    Εἰ τύχοι τῇ Κυριακῇ τοῦ Θωμᾶ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸ Χριστὸς ἀνέστη τρίς, ὁ Προοιμιακὸς καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τῆς ἑορτῆς Ἰδιόμελα ς΄ καὶ τοῦ Ἁγίου δ΄, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῆς ἑορτῆς. Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον Ὁ Κύριος ἐβασίλευσεν καὶ τὰ Ἀναγνώσματα τοῦ Ἁγίου· τὰ Ἀπόστιχα τῆς ἑορτῆς, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῆς ἑορτῆς, Ἀπολυτίκιον τῆς ἑορτῆς, τὸ τοῦ Ἁγίου, αὖθις τὸ τῆς ἑορτῆς, καὶ Ἀπόλυσις.
 
@@ -72,17 +72,17 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 9.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τοῦ Πάσχα καὶ τὸ Εἰσοδικόν, τὸ Ἀπολυτίκιον τῆς ἑορτῆς καὶ τὸ τοῦ Ἁγίου· Κοντάκιον Εἰ καὶ ἐν τάφῳ· Ἀπόστολος τοῦ Ἁγίου, καὶ τὸ Εὐαγγέλιον Οὔσης ὀψίας. Εἰς τὸ Ἐξαιρέτως Σὲ τὴν φαεινὴν λαμπάδα, Κοινωνικὸν Ἐπαίνει Ἱερουσαλήμ, τὸ Χριστὸς Ἀνέστη, καὶ Ἀπόλυσις.
 
-### Δ΄.
+**Δ΄.**
 
 10.    Εἰ τύχοι τῇ Δευτέρᾳ τῆς τοῦ Θωμᾶ ἑβδομάδος, τῇ Κυριακῇ
 
 === LEAF p526 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Three §§ 7–9: Thomas Sunday, Situation Four Opening § 10)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Three §§ 7–9: Thomas Sunday, Situation Four Opening § 10)
 
 ## April 23: The Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Three §§ 7–9: Thomas Sunday, Situation Four Opening § 10) [Violakis, p. 511]
 
-### SITUATION THREE
+**SITUATION THREE**
 
 7.    If the commemoration of the Saint occurs on the Sunday of Saint Thomas, on Saturday evening, after **"Christ is risen"** (thrice), the Introductory Psalm [Ps. 103 LXX], and the Psalter reading [1st Kathisma, Pss. 1–8 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 6 Idiomela of the Feast and 4 of the Saint; "Glory...": of the Saint; "Both now and ever...": of the Feast. Little Entrance, **"O Gladsome Light"**, the Prokeimenon: **"The Lord is King"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX), and the Old Testament Lessons of the Saint. At the Aposticha: the Stichira of the Feast; "Glory...": of the Saint; "Both now and ever...": of the Feast. The Dismissal Troparion of the Feast: **"While the tomb was sealed"** (*Ἐσφραγισμένου τοῦ μνήματος*), that of the Saint: **"Liberator of captives"** (*Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*), again that of the Feast, and Dismissal.
 
@@ -90,13 +90,13 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 9.    In the Divine Liturgy, the Antiphons and Entrance Hymn [Eisodikon] of Pascha; after the Entrance, the Dismissal Troparion of the Feast, the Dismissal Troparion of the Saint, the Kontakion: **"Though Thou didst descend into the tomb"** (*Εἰ καὶ ἐν τάφῳ*), the Epistle of the Saint [Acts 12:1–11], and the Gospel: **"When it was evening"** (*Οὔσης ὀψίας*, John 20:19–31). At "Especially": **"Thee, the radiant lamp"** (*Σὲ τὴν φαεινὴν λαμπάδα*); Communion Hymn: **"Praise the Lord, O Jerusalem"** (*Ἐπαίνει Ἱερουσαλήμ*, Ps. 147:1 LXX); **"Christ is risen"**, and Dismissal.
 
-### SITUATION FOUR
+**SITUATION FOUR**
 
 10.    If the commemoration of the Saint occurs on the Monday of Thomas Week, on[^322]
 
 === LEAF p527 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation IV Concl. §§ 10–12, Situation V Opening § 13)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation IV Concl. §§ 10–12, Situation V Opening § 13)
 
 ## Τῇ ΚΓ΄: Τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου (Περίπτωσις Δ΄ Τέλος §§ 10–12, Περίπτωσις Ε΄ Ἀρχὴ § 13) [Violakis, p. 512]
 
@@ -106,7 +106,7 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 12.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τοῦ Πάσχα καὶ τὸ Εἰσοδικόν, τὸ Ἀπολυτίκιον τῆς ἑορτῆς, τὸ τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Τῇ φιλοπράγμονι δεξιᾷ, Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς μνημόσυνον, Χριστὸς Ἀνέστη, Εἴη τὸ ὄνομα Κυρίου καὶ Ἀπόλυσις².
 
-### Ε΄.
+**Ε΄.**
 
 13.    Εἰ τύχοι τῷ Σαββάτῳ τῆς Ἀποδόσεως τῆς ἑορτῆς, τῇ
 
@@ -114,7 +114,7 @@ we chant the Anavathmoi: the 1st Antiphon of Tone 4, the Prokeimenon: **"The rig
 
 === LEAF p528 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Four Concl. §§ 10–12, Situation Five Opening § 13)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Four Concl. §§ 10–12, Situation Five Opening § 13)
 
 ## April 23: The Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Four Concl. §§ 10–12, Situation Five Opening § 13) [Violakis, p. 513]
 
@@ -124,7 +124,7 @@ Sunday evening, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have c
 
 12.    In the Divine Liturgy, the Antiphons and Entrance Hymn [Eisodikon] of Pascha; after the Entrance, the Dismissal Troparion of the Feast, that of the Saint, that of the Patron Saint of the Church, and the Kontakion: **"With his searching right hand"** (*Τῇ φιλοπράγμονι δεξιᾷ*). The Epistle and Gospel of the Saint. At "Especially": **"It is meet in truth"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"The righteous shall be in everlasting remembrance"** (*Εἰς μνημόσυνον αἰώνιον*, Ps. 111:6 LXX); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal².
 
-### SITUATION FIVE
+**SITUATION FIVE**
 
 13.    If the commemoration of the Saint occurs on the Saturday of the Apodosis of
 
@@ -132,7 +132,7 @@ Sunday evening, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have c
 
 === LEAF p529 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation V Concl. §§ 13–15, Situation VI Opening §§ 16–17)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation V Concl. §§ 13–15, Situation VI Opening §§ 16–17)
 
 ## Τῇ ΚΓ΄: Τοῦ Ἁγίου Γεωργίου τοῦ Τροπαιοφόρου (Περίπτωσις Ε΄ Τέλος §§ 13–15, Περίπτωσις ΣΤ΄ Ἀρχὴ §§ 16–17) [Violakis, p. 514]
 
@@ -142,7 +142,7 @@ Sunday evening, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have c
 
 15.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα τοῦ Πάσχα καὶ τὸ Εἰσοδικόν, τὸ Ἀπολυτίκιον τῆς ἑορτῆς, τὸ τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον Τῇ φιλοπράγμονι δεξιᾷ, Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου. Εἰς τὸ Ἐξαιρέτως Σὲ τὴν φαεινὴν λαμπάδα, Κοινωνικὸν τῆς ἑορτῆς Χριστὸς Ἀνέστη, Εἴη τὸ ὄνομα Κυρίου, Ἀπόλυσις καὶ Ἀπόδοσις τῆς ἑορτῆς.
 
-### ΣΤ΄.
+**ΣΤ΄.**
 
 16.    Εἰ τύχοι τῇ Κυριακῇ τῶν Μυροφόρων, τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν Ἀναστάσιμα δ΄, τῶν Μυροφόρων β΄ καὶ τοῦ Ἁγίου δ΄, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῶν Μυροφόρων, Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον, καὶ τὰ Ἀναγνώσματα τοῦ Ἁγίου. Εἰς τὰ Ἀπόστιχα, τὸ ἀναστάσιμον Στιχηρόν, καὶ τὸ Πάσχα ἱερόν, Δόξα τοῦ Ἁγίου, Καὶ νῦν, Σὲ τὸν ἀναβαλλόμενον τὸ φῶς, τὰ Ἀπολυτίκια Ὅτε κατῆλθες πρὸς τὸν θάνατον, Ὁ εὐσχήμων Ἰωσήφ, Δόξα τοῦ Ἁγίου, Καὶ νῦν, Ταῖς Μυροφόροις γυναιξί καὶ Ἀπόλυσις.
 
@@ -150,7 +150,7 @@ Sunday evening, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have c
 
 === LEAF p530 ===
 
-# Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Five Concl. §§ 13–15, Situation Six Opening §§ 16–17)
+## Month of April: Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Five Concl. §§ 13–15, Situation Six Opening §§ 16–17)
 
 ## April 23: The Holy Glorious Great-Martyr George the Trophy-Bearer (Situation Five Concl. §§ 13–15, Situation Six Opening §§ 16–17) [Violakis, p. 515]
 
@@ -160,7 +160,7 @@ the Feast, on Friday evening, at **"Lord, I have cried"** (*Κύριε ἐκέκ
 
 15.    In the Divine Liturgy, the Antiphons and Entrance Hymn [Eisodikon] of Pascha; after the Entrance, the Dismissal Troparia of the Feast, of the Saint, and of the Patron Saint of the Church, and the Kontakion: **"With his searching right hand"** (*Τῇ φιλοπράγμονι δεξιᾷ*). The Epistle and Gospel of the Saint. At "Especially": **"Thee, the radiant lamp"** (*Σὲ τὴν φαεινὴν λαμπάδα*); Communion Hymn of the Feast: **"Praise the Lord, O Jerusalem"** (*Ἐπαίνει Ἱερουσαλήμ*, Ps. 147:1 LXX); **"Christ is risen"**, **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), Dismissal, and the Apodosis of the Feast.
 
-### SITUATION SIX
+**SITUATION SIX**
 
 16.    If the commemoration of the Saint occurs on the Sunday of the Myrrhbearers, on Saturday evening, after the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 4 Resurrection Stichira, 2 of the Myrrhbearers, and 4 of the Saint; "Glory...": of the Saint; "Both now and ever...": of the Myrrhbearers. Little Entrance, **"O Gladsome Light"**, the Prokeimenon, and the Old Testament Lessons of the Saint. At the Aposticha: the Resurrection Apostichon, then the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": of the Saint; "Both now and ever...": **"Thou Who clothest Thyself with light as with a garment"** (*Σὲ τὸν ἀναβαλλόμενον τὸ φῶς ὥσπερ ἱμάτιον*, Ps. 103:2 LXX). The Dismissal Troparia: **"When Thou didst descend unto death, O Life Immortal"** (*Ὅτε κατῆλθες πρὸς τὸν θάνατον*), **"The noble Joseph"** (*Ὁ εὐσχήμων Ἰωσήφ*); "Glory...": of the Saint; "Both now and ever...": **"Unto the myrrhbearing women"** (*Ταῖς Μυροφόροις γυναιξί*), and Dismissal.
 

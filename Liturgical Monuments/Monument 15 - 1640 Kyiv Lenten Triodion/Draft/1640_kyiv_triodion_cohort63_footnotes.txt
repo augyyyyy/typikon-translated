@@ -5,7 +5,7 @@
 [^1684]: Rubrical instruction indicating the Katavasia of Ode 4 from the Canon of the Most Holy Theotokos (Tone 4): "He Who sits in glory upon the throne of the Godhead" (Сѣдѧ́й въ сла́вѣ на прⷭ҇тлѣ бж҃тва / Ὁ καθήμενος ἐν δόξῃ).
 [^1685]: Heirmos of Ode 5, Canon of the Triodion, Tone 5: "Rising at dawn out of the night" (Ѡ҆ но́щи ᲂу҆́треннююще / Ὀρθρίζοντες ἐκ νυκτός), based on Isa. 26:9.
 [^1686]: Heirmos of Ode 5, Canon to St. John Climacus, Tone 8: "Why hast Thou cast me off" (Въскꙋ́ю мѧ̀ ѿри́нꙋлъ є҆сѝ / Ἵνα τί με ἀπώσω), based on Ps. 43:24 and Ps. 87:15 LXX.
-[^1687]: Katavasia: Heirmos of Ode 5 from the Canon of the Most Holy Theotokos (Tone 4): "All things were amazed at thy divine glory" (ᲊ҆диви́шасѧ всѧ́чєскаѧ ѡ҆ бж҃твеннѣй сла́вѣ твое́й / Ἐξέστη τὰ σύμπανта).
+[^1687]: Katavasia: Heirmos of Ode 5 from the Canon of the Most Holy Theotokos (Tone 4): "All things were amazed at thy divine glory" (ᲊ҆диви́шасѧ всѧ́чєскаѧ ѡ҆ бж҃твеннѣй сла́вѣ твое́й / Ἐξέστη τὰ σύμπαντα).
 [^1688]: The historical Life of St. John Climacus (Vita Sancti Joannis Scholastici / Sinaitae), Abbot of Mount Sinai and author of the *Ladder of Divine Ascent*, composed in the 7th century by Daniel, monk of the nearby monastery of Raithu (Раїѳꙋ̀). In this 1640 Kyivan edition of Petro Mohyla, the Life is translated into Early Modern Ruthenian theological prose (*prosta mova*), designed for direct edification during monastic refectory or Matins reading.
 [^1689]: Marginal scriptural reference to Heb. 12:22–23: "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels, to the general assembly and church of the firstborn, which are written in heaven."
 [^1690]: Scriptural allusion to Ps. 25:12 LXX (Ps. 26:12 MT): "My foot hath stood in uprightness; in the congregations will I bless Thee, O Lord."
@@ -25,4 +25,4 @@
 [^1704]: John, Abbot of Raithu (Їѡа́ннъ и҆гꙋ́менъ Раїѳскій), who wrote the formal epistolary request to John Climacus entreating him to compose the *Ladder of Divine Ascent* for the guidance of monastics.
 [^1705]: St. John Climacus reposed peacefully ca. AD 649 at an advanced age, having governed the Monastery of Mount Sinai for several years before retiring once again to Tholas.
 [^1706]: Heirmos of Ode 7, Canon of the Triodion, Tone 5: "The highly exalted" (Превозноси́мый / Ὁ ὑπερυψούμενος).
-[^1707]: Heirmos of Ode 7, Canon to St. John Climacus, Tone 8: "The children that went down from Judea" (Ѿ І҆ꙋде́а доше́дшїи / Οἱ ἐκ τῆς Ἰουδαίας καταντήсанτες), based on the Song of the Three Holy Youths in Babylon (Dan. 3).
+[^1707]: Heirmos of Ode 7, Canon to St. John Climacus, Tone 8: "The children that went down from Judea" (Ѿ І҆ꙋде́а доше́дшїи / Οἱ ἐκ τῆς Ἰουδαίας καταντήσαντες), based on the Song of the Three Holy Youths in Babylon (Dan. 3).

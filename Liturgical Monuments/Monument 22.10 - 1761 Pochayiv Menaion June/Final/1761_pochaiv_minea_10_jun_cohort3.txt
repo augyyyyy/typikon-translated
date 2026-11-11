@@ -134,7 +134,7 @@ Having dyed thy sacred vesture with the divine streams of blood, O Dorotheus, re
 *Sticheron:*
 Thy life was equal to the Angels, and thy martyrdom was enlightened, whereby thou wast accounted worthy to dance with the Angels in joy, illuminating the earth with divine wonders and teachings, O father Dorotheus; therefore by thy prayers ask that great mercy be granted unto all!
 
-*Other Stichera of the Theotokos, Tone and Podoben the same:*
+*Other Stichera of the Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Snatch me, O Lady, from the hand of the manslaying serpent who strives deceitfully to swallow me up completely; crush his jaws, I pray thee, and destroy his subtleties, that having been delivered from his claws, I may magnify thy power!
 

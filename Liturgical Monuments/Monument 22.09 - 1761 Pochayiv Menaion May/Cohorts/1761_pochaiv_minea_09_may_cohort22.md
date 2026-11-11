@@ -5,7 +5,7 @@ The all-wealthy Therapon, being a fountain of living water, pours forth streams 
 *Sticheron:*
 The marvelous Therapon, sprinkled with crimson blood, having made his vestment most bright—the vestment truly of priesthood, in which he was divinely adorned—entered into the holy of holies: by his prayers, O Lord, grant unto all great mercy!
 
-*Stichera of the Theotokos, same tone and podoben:*
+*Stichera of the Theotokos, same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 *Sticheron:*
 Snatch me away, O Sovereign Lady, from the hand of the man-slaying serpent, who battles to swallow me up utterly through deceit: crush his jaws, I pray, and destroy his craftiness, that having been delivered from his claws, I may magnify thy power!
@@ -53,7 +53,7 @@ Thou dost heal grievous passions of those who approach with faith, and layest lo
 *Theotokion:*
 Human mind cannot comprehend the ineffable depth of thy childbearing, O pure one; for God, having poured Himself out in His tender mercy into thy womb, renewed me wholly.
 
-*Sessional Hymn, Tone 4, Podoben: "Thy Tomb" (Grob tvoi):*
+*Sessional Hymn, Tone 4, Podoben: "Thy Tomb" (Гро́бъ тво́й):*
 O servant of Christ, having suffered lawfully, thou didst appear as a true hierarch and martyr; therefore we pray thee, O holy one, heal now the incurable passions of our souls, and entreat Christ, the Lover of mankind and Creator!
 
 *Glory... Both now... Theotokion:*
@@ -166,7 +166,7 @@ With thy light, O Virgin full of God's grace among women, enlighten me, I pray, 
 
 ## May 28. Our Venerable Father Nicetas, Bishop of Chalcedon[^405]
 
-*At Vespers, Stichera, Tone 1, Podoben: "As One Valiant" (Yako dobla):*
+*At Vespers, Stichera, Tone 1, Podoben: "As One Valiant" (Ꙗ҆́кѡ до́блѧ):*
 
 *Sticheron:*
 Emulating Abraham's love of strangers, and Isaac's love of God, and Jacob's guilelessness, thou didst portray the patience of Job, the chastity of Joseph,[^406] the meekness of David, and the gentleness of Moses; anointed with the holy chrism as Aaron of old, O hierarch,
@@ -180,7 +180,7 @@ Thy great gentleness drove away demonic malice by the grace of the divine Spirit
 *Sticheron:*
 Bound together by kinship, ye kept the laws of the Holy Spirit, O sacred ones; and following the footsteps of the God-wise shepherd who shone with the rays of most glorious healings, ye were adorned with like forms of healings, O most glorious Nicetas, together with God-wise Ignatius![^407]
 
-*Stichera of the Theotokos, same tone and podoben:*
+*Stichera of the Theotokos, same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 *Sticheron:*
 From condemnation deliver my humble soul, O all-pure Bride of God, and from grievous transgressions, and rescue me from death by thy prayers: and grant me to obtain justification in the day of trial, which the assemblies of the saints obtained: show me cleansed by repentance before the end, and by outpourings of tears!
@@ -233,7 +233,7 @@ Accomplishing thy life in guilelessness like an infant, O venerable one, thou di
 *Theotokion:*
 As the most divinely fair dwelling of God, let us all with joy glorify the Birthgiver of God, the only blessed one among women!
 
-*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Skoro predvari):*
+*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 From infancy taking up thy cross, thou didst piously follow Christ, withering the fleshly mind by self-control; therefore on the hierarch's cathedra, O Nicetas, thou didst magnify the Master, Who adorned thy shrine with diverse signs, O God-blessed one!
 
 *Glory... Both now... of the feast, or Theotokion:*
@@ -292,7 +292,7 @@ Having fled the darkness of destructive heresy by the honorable veneration of Ch
 *Theotokion:*
 O door through which the Most High alone passed, open unto me the doors of repentance and the entrances of salvation, preserving me from every harm, O all-spotless one!
 
-*Kontakion, Tone 4, Podoben: "To Thee, the Champion Leader" (Vzbrannoi):*
+*Kontakion, Tone 4, Podoben: "To Thee, the Champion Leader" (Взбра́нной воево́дѣ):*
 Thou didst shine forth by the brightness of thy deeds, O venerable one; thou wast an heir of the apostolic throne, O Nicetas; and like a sun thou didst shine upon thy flock, O father, being filled with all divine teachings: therefore we cry unto thee: Rejoice, adornment of Chalcedon!
 
 *Ode 7. Heirmos:*

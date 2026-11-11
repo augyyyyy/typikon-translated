@@ -57,7 +57,7 @@ def main():
     sys.stdout.reconfigure(encoding='utf-8')
     
     # Load Royal Doors
-    with open(r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors.json', 'r', encoding='utf-8') as f:
+    with open(r'c:\Users\augus\Documents\Google Antigravity\Projects\Festal Propers Comparisons\text_royaldoors.json', 'r', encoding='utf-8') as f:
         rd_data = json.load(f)
     
     # Pre-tokenize all Royal Doors entries
@@ -76,7 +76,7 @@ def main():
         })
         
     # Load Stamford
-    stamford_path = r'c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
+    stamford_path = r'c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Recensions\Stamford Divine Office\JSON_MD\TROPARIA MENAION.md'
     stamford_hymns = parse_stamford_troparia(stamford_path)
     
     print(f"Loaded {len(stamford_hymns)} Stamford hymns and {len(rd_entries)} Royal Doors entries.")

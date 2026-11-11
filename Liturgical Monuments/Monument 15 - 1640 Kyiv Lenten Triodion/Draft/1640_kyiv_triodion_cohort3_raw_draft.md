@@ -176,7 +176,7 @@ On this present day, with God, we begin the Triodion. Which Book, in truth, many
 
 Let us flee the most evil boastfulness of the Pharisee, and let us learn the excellent humility of the Publican, that we may be exalted, crying out unto God with him: "Cleanse Thy servants, O Christ the Savior, Who of Thine own will wast born of the Virgin, and didst endure the Cross, and hast saved the world by Thy divine power!"
 
-*Both now... Theotokion, Podoben:*  
+*Both now... Theotokion, Podoben (Подо́бенъ):*  
 The Fashioner of creation and God of all took corruptible flesh from thy spotless womb, O all-hymned Mother of God, and renewed all my corrupt nature, having left thee after childbearing even as thou wast before childbearing; therefore, with faith, praising thee, we all cry out: Rejoice, O glory of the world!
 
 *At the Praises, Resurrectional Stichera: Tone 4; and 1 Anatolian; and 2 from the Triodion. On 6. Tone 3:*  

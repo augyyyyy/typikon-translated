@@ -18,8 +18,8 @@ graph TD
 
 ### Key Alignment Rules
 * **Our Role (The Scholarly Factory):** We focus exclusively on translation, scholarly enrichment, indexing (e.g., Yasinovsky Catalogue), and mapping musical notation (e.g., MEI encoding). We do **not** write logic engine rules—that is the sole domain of the **Typikon Coded Hub**.
-* **Global Bulletin Board:** We must post major milestones to [GLOBAL_ECOSYSTEM_STATE.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_ECOSYSTEM_STATE.md).
-* **The Handoff Protocol:** Completed JSON/MD data assets must be shipped directly to the Hub's inbox at `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\` alongside a `handoff_note.md` detailing schemas and methodology.
+* **Global Bulletin Board:** We must post major milestones to [GLOBAL_ECOSYSTEM_STATE.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/GLOBAL_ECOSYSTEM_STATE.md).
+* **The Handoff Protocol:** Completed JSON/MD data assets must be shipped directly to the Hub's inbox at `C:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\` alongside a `handoff_note.md` detailing schemas and methodology.
 
 ---
 
@@ -29,11 +29,11 @@ The following files represent the **Single Source of Truth** and control center 
 
 | File Path | Role & Operational Rules |
 | :--- | :--- |
-| [_brain/PROJECT_BRAIN_PRINT.md](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/PROJECT_BRAIN_PRINT.md) | **Ecosystem Baseline:** Documents active priorities across Wing A, B, and C, checksums, file system alignments, API offloading protocols, and previous session histories. |
-| [_brain/workflow_state.md](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/workflow_state.md) | **Active Frontiers:** Tracks the precise entry number and text chunks where the last session stopped. Tells us exactly what to work on next. |
-| [_brain/system_instructions.md](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/system_instructions.md) | **Wing A Instructions:** Prescribes JSON schemas, physical metadata parsing rules, and linguistic/OCR normalization glossaries for manuscript cataloging. |
-| [_brain/Translation_Protocol_Articles.md](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/Translation_Protocol_Articles.md) | **Wing B Instructions:** Outlines strict rules for scholarly articles: no summarization, complete footnote fidelity, and the Dual-Phase Transcription pipeline. |
-| [Irmologia Catalogue/.cursorrules](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/.cursorrules) | **Execution Safe-Guards:** Outlines path policies, API offloading boilerplate, and environment-specific constraints. |
+| [_brain/PROJECT_BRAIN_PRINT.md](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/PROJECT_BRAIN_PRINT.md) | **Ecosystem Baseline:** Documents active priorities across Wing A, B, and C, checksums, file system alignments, API offloading protocols, and previous session histories. |
+| [_brain/workflow_state.md](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/workflow_state.md) | **Active Frontiers:** Tracks the precise entry number and text chunks where the last session stopped. Tells us exactly what to work on next. |
+| [_brain/system_instructions.md](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/system_instructions.md) | **Wing A Instructions:** Prescribes JSON schemas, physical metadata parsing rules, and linguistic/OCR normalization glossaries for manuscript cataloging. |
+| [_brain/Translation_Protocol_Articles.md](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/Translation_Protocol_Articles.md) | **Wing B Instructions:** Outlines strict rules for scholarly articles: no summarization, complete footnote fidelity, and the Dual-Phase Transcription pipeline. |
+| [Irmologia Catalogue/.cursorrules](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/.cursorrules) | **Execution Safe-Guards:** Outlines path policies, API offloading boilerplate, and environment-specific constraints. |
 
 ---
 
@@ -41,7 +41,7 @@ The following files represent the **Single Source of Truth** and control center 
 
 ### 3.1 DeepSeek API Offloading (Dual-AI Environment)
 To bypass context limits and avoid local Gemini quota issues (`RESOURCE_EXHAUSTED`), we must offload heavy/bulk tasks (translating large texts, fuzzy-sorting lists, bulk renaming) to the **DeepSeek API** using the key stored in:
-`C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\.env`
+`C:\Users\augus\Documents\Google Antigravity\Projects\.env`
 
 * **Thinking Toggle:** Set `"thinking": {"type": "disabled"}` in extra body params for visual OCR and standard text mapping to save tokens and costs.
 * **Chunking Directive:** Scripts must actively chunk text before calling the API to prevent timeouts.
@@ -62,7 +62,7 @@ Manuscript files are split strictly between two repositories:
 
 ## 4. Current State & Immediate Operational Next Steps
 
-Based on [workflow_state.md](file:///C:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/workflow_state.md), here is our current progress:
+Based on [workflow_state.md](file:///C:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/workflow_state.md), here is our current progress:
 
 ### Wing A: Catalogue Data Pipeline (~51% Complete)
 * **Status:** 279 manuscript entries translated and extracted into English Markdown with JSON payloads.

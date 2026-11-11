@@ -6,11 +6,11 @@ Thou wast accounted worthy to behold the majestic beauty and comeliness of the K
 
 Neither the yoke of slavery, nor female weakness, nor hunger, nor wounds hindered thee from being likened unto the steadfastness of the martyrs, O all-glorious one; for with fervor of soul thou didst endure torments. Whence thou hast obtained the heavenly bridal chamber, and hast been adorned with the crown of grace, standing before thy Creator.
 
-*Glory, both now, Theotokion, in the same tone and podoben:*
+*Glory, both now, Theotokion, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Deliver my humble soul from condemnation and grievous transgressions, O all-pure Bride of God, and rescue it from death by thy prayers, and grant that I may obtain justification on the day of trial, which the assemblies of the saints have obtained; show me purified before the end by repentance and outpourings of tears.
 
-*Stavrotheotokion, the same podoben:*
+*Stavrotheotokion, the same podoben (Подо́бенъ то́йже):*
 
 When Thy Lamb and Mother beheld Thee nailed to the Cross, O Lord, she marveled and cried: What is this sight, O most desired Son? Hath the faithless and lawless assembly rendered these things unto Thee, which enjoyed Thy many miracles? But glory to Thine ineffable condescension, O Master!
 
@@ -139,11 +139,11 @@ As a star of many lights, as an unsetting sun, as an ensouled heaven adorned wit
 **[Left Page — Fol. 102v]**
 *...sweetness: as a fountain of sanctification, as a most great physician of the infirm, as a shepherd, and as our good protector, we praise thee, Stephen.*
 
-*Glory, both now, Theotokion, the same tone and podoben:*
+*Glory, both now, Theotokion, the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 With showers of the All-Holy Spirit, O all-pure one, dew my mind, who didst bear Christ, the Drop that by compassions washed away beyond number the boundless transgressions of men; dry up the fountain of my passions, and by thy prayers account me worthy of the stream of living delight evermore.
 
-*Stavrotheotokion, the same podoben:*
+*Stavrotheotokion, the same podoben (Подо́бенъ то́йже):*
 
 When Thy Lamb and Mother beheld Thee nailed to the Cross, O Lord, she marveled and cried: What is this sight, O most desired Son? Hath the faithless and lawless assembly rendered these things unto Thee, which enjoyed Thy many miracles? But glory to Thine ineffable condescension, O Master!
 

@@ -1,6 +1,6 @@
 import os
 
-coded_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+coded_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
 
 for file in sorted(os.listdir(coded_dir)):
     if file.endswith('.md') and not file.startswith('Dolnytsky_Typikon_Master'):

@@ -53,14 +53,15 @@ sys.path.insert(0, str(PROJECT_ROOT))
 from scripts.assemble_and_sync_hub import verify_closed_leaf_conservation, extract_accounted_leaves, get_hub_inbox
 
 def slugify(heading_text: str) -> str:
-    """Computes ASCII-safe GitHub Flavored Markdown heading slug (stripping parenthetical Cyrillic)."""
+    """Computes GitHub Flavored Markdown heading slug (preserving Greek & Latin diacritics while stripping HTML & Cyrillic)."""
     cleaned = re.sub(r'<[^>]+>', '', heading_text)
     cleaned = re.sub(r'\[\^?\d+\]', '', cleaned)
     cleaned = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', cleaned)
     cleaned = re.sub(r'\([^\)]*[\u0400-\u04FF\uA640-\uA69F][^\)]*\)', '', cleaned)
+    cleaned = re.sub(r'[\u0400-\u052F\u1C80-\u1C8F\u2DE0-\u2DFF\uA640-\uA69F\u0480-\u0489]', '', cleaned)
     cleaned = re.sub(r'[*_`~]', '', cleaned)
     cleaned = cleaned.lower()
-    cleaned = re.sub(r'[^a-z0-9\s-]', '', cleaned)
+    cleaned = re.sub(r'[^\w\s-]', '', cleaned)
     cleaned = re.sub(r'[\s_]+', '-', cleaned)
     cleaned = re.sub(r'-+', '-', cleaned)
     return cleaned.strip('-')
@@ -75,8 +76,8 @@ def is_explicit_leaf_marker(s: str) -> bool:
     # HTML comment: <!-- LEAF ... -->
     if re.fullmatch(r"<!--\s*LEAF:?[^>]*-->", s, re.IGNORECASE):
         return True
-    # Delimiter banner: === LEAF ... ===
-    if re.fullmatch(r"===\s*LEAF\s+[^=]+===", s, re.IGNORECASE):
+    # Delimiter banner: === LEAF ... === (with optional trailing parenthetical folio info)
+    if re.fullmatch(r"===\s*LEAF\s+[^=]+===(?:\s*\([^)]*\))?\s*", s, re.IGNORECASE):
         return True
     # Bracketed page/leaf: [Book Page 134], [Physical Page 1 / Leaf p1], [Leaf p12], [Page 12]
     if re.fullmatch(r"\[(?:Physical\s+Page\s+\d+\s*/\s*)?(?:Book\s+Page|Physical\s+Page|Leaf|Page)\s+[^\]]+\]", s, re.IGNORECASE):
@@ -449,60 +450,204 @@ NON_VERB_ETH_TOKENS = {
     "kenneth", "teeth", "beneath", "underneath", "twentieth", "thirtieth",
     "fortieth", "fiftieth", "sixtieth", "seventieth", "eightieth",
     "ninetieth", "hundredth", "thousandth", "aseneth", "japheth",
-    "mephibosheth", "ishbosheth", "gath", "sabbath",
+    "mephibosheth", "ishbosheth", "gath", "sabbath", "elisabeth",
+    "gennesareth", "shibboleths", "tebeth", "meth", "lambeth", "macbeth", "ashtoreth",
 }
 
 EXACT_ETH_VERB_MAP = {
-    "abideth": "abides", "agreeth": "agrees", "assuageth": "assuages",
+    "abideth": "abides", "acquireth": "acquires", "addeth": "adds", "agreeth": "agrees",
+    "arrangeth": "arranges", "assuageth": "assuages", "awaketh": "awakes",
     "battleth": "battles", "becometh": "becomes", "begetteth": "begets",
     "beginneth": "begins", "beguileth": "beguiles", "behooveth": "behooves",
-    "believeth": "believes", "blotteth": "blots", "causeth": "causes",
+    "believeth": "believes", "blotteth": "blots", "breatheth": "breathes",
+    "bringeth": "brings", "careth": "cares", "causeth": "causes",
     "ceaseth": "ceases", "celebrateth": "celebrates", "censeth": "censes",
-    "cleanseth": "cleanses", "cleaveth": "cleaves", "cometh": "comes",
-    "commiteth": "commits", "committeth": "commits", "compelleth": "compels",
-    "createth": "creates", "crieth": "cries", "cutteth": "cuts",
-    "danceth": "dances", "decreeth": "decrees", "defileth": "defiles",
+    "changeth": "changes", "citeth": "cites", "cleanseth": "cleanses",
+    "cleaveth": "cleaves", "clotheth": "clothes", "coincideth": "coincides",
+    "combineth": "combines", "cometh": "comes", "commiteth": "commits",
+    "committeth": "commits", "compareth": "compares", "compelleth": "compels",
+    "completeth": "completes", "componeth": "composes", "concludeth": "concludes",
+    "conjureth": "conjures", "consumeth": "consumes", "continueth": "continues",
+    "conveneth": "convenes", "createth": "creates", "crieth": "cries", "cutteth": "cuts",
+    "danceth": "dances", "dareth": "dares", "dateth": "dates", "declareth": "declares",
+    "decreeth": "decrees", "defileth": "defiles", "defineth": "defines",
     "denieth": "denies", "describeth": "describes", "desireth": "desires",
-    "dieth": "dies", "dispelleth": "dispels", "doeth": "does",
-    "donateth": "donates", "draggeth": "drags", "drieth": "dries",
+    "deviseth": "devises", "devoteth": "devotes", "dieth": "dies",
+    "dispelleth": "dispels", "divideth": "divides", "doeth": "does",
+    "donateth": "donates", "doneth": "does", "draggeth": "drags", "drieth": "dries",
     "drinketh": "drinks", "driveth": "drives", "droppeth": "drops",
     "dryeth": "dries", "dwelleth": "dwells", "eateth": "eats",
-    "edifieth": "edifies", "emptieth": "empties", "endureth": "endures",
-    "enticeth": "entices", "envieth": "envies", "excelleth": "excels",
-    "executeth": "executes", "continueth": "continues",
-    "expelleth": "expels", "fadeth": "fades", "fleeth": "flees",
+    "edifieth": "edifies", "emptieth": "empties", "encourageth": "encourages",
+    "endureth": "endures", "entangleth": "entangles", "enticeth": "entices",
+    "envieth": "envies", "erreth": "errs", "excelleth": "excels",
+    "exciteth": "excites", "executeth": "executes", "expelleth": "expels",
+    "fadeth": "fades", "fareth": "fares", "figureth": "figures", "fleeth": "flees",
     "flieth": "flies", "forbiddeth": "forbids", "forgetteth": "forgets",
     "forgiveth": "forgives", "freeth": "frees", "freezeth": "freezes",
     "getteth": "gets", "giveth": "gives", "glorifieth": "glorifies",
     "goeth": "goes", "hateth": "hates", "hearkeneth": "gives ear",
-    "hopeth": "hopes", "illumineth": "illuminates", "inclineth": "inclines",
-    "intercedeth": "intercedes", "inundateth": "inundates",
+    "hopeth": "hopes", "illumineth": "illuminates", "imploreth": "implores",
+    "inclineth": "inclines", "includeth": "includes", "inquireth": "inquires",
+    "inscribeth": "inscribes", "intercedeth": "intercedes", "interveneth": "intervenes",
+    "intoneth": "intones", "inundateth": "inundates", "inviteth": "invites",
     "issueth": "issues", "judgeth": "judges", "justifieth": "justifies",
-    "knitteth": "knits", "letteth": "lets", "lieth": "lies",
+    "kindleth": "kindles", "knitteth": "knits", "letteth": "lets", "lieth": "lies",
     "liveth": "lives", "looseth": "looses", "loveth": "loves",
     "magnifieth": "magnifies", "maketh": "makes", "marvelleth": "marvels",
-    "moveth": "moves", "multiplieth": "multiplies", "partaketh": "partakes",
-    "permitteth": "permits", "pitieth": "pities", "praiseth": "praises",
-    "prepareth": "prepares", "preserveth": "preserves", "procureth": "procures",
-    "prophesieth": "prophesies", "provoketh": "provokes",
+    "melteth": "melts", "mergeth": "merges", "moveth": "moves",
+    "multiplieth": "multiplies", "nameth": "names", "noteth": "notes",
+    "obligeth": "obliges", "overcometh": "overcomes", "oweth": "owes",
+    "partaketh": "partakes", "permitteth": "permits", "pitieth": "pities",
+    "praiseth": "praises", "precedeth": "precedes", "prepareth": "prepares",
+    "prescribeth": "prescribes", "preserveth": "preserves", "procureth": "procures",
+    "profaneth": "profanes", "promoteth": "promotes", "prophesieth": "prophesies",
+    "provideth": "provides", "provoketh": "provokes", "pruneth": "prunes",
     "purifieth": "purifies", "putteth": "puts", "rageth": "rages",
     "raiseth": "raises", "rebuketh": "rebukes", "receiveth": "receives",
-    "rejoiceth": "rejoices", "removeth": "removes", "repelleth": "repels",
-    "rideth": "rides", "riseth": "rises", "ruleth": "rules", "runneth": "runs",
-    "saith": "says", "sanctifieth": "sanctifies", "satisfieth": "satisfies",
-    "saveth": "saves", "schemeth": "schemes", "seeth": "sees",
-    "setteth": "sets", "shaketh": "shakes", "shareth": "shares",
+    "reciteth": "recites", "rejoiceth": "rejoices", "removeth": "removes",
+    "reneweth": "renews", "repelleth": "repels", "requireth": "requires",
+    "revereth": "reveres", "rideth": "rides", "riseth": "rises", "ruleth": "rules",
+    "runneth": "runs", "saith": "says", "sanctifieth": "sanctifies",
+    "satisfieth": "satisfies", "saveth": "saves", "schemeth": "schemes",
+    "seeth": "sees", "setteth": "sets", "shaketh": "shakes", "shareth": "shares",
     "shippeth": "ships", "shineth": "shines", "shunneth": "shuns",
     "shutteth": "shuts", "signifieth": "signifies", "sinneth": "sins",
     "sitteth": "sits", "slippeth": "slips", "sprinkleth": "sprinkles",
     "steppeth": "steps", "stirreth": "stirs", "stoppeth": "stops",
-    "striketh": "strikes", "strippeth": "strips", "submitteth": "submits",
-    "taketh": "takes", "tasteth": "tastes", "testifieth": "testifies",
+    "striketh": "strikes", "strippeth": "strips", "styleth": "styles",
+    "subdueth": "subdues", "submitteth": "submits", "taketh": "takes",
+    "tasteth": "tastes", "testifieth": "testifies", "tonsureth": "tonsures",
     "trampleth": "tramples", "trembleth": "trembles", "trieth": "tries",
-    "troubleth": "troubles", "undergoeth": "undergoes", "waketh": "wakes",
-    "warreth": "wars", "wasteth": "wastes", "winneth": "wins",
-    "worshippeth": "worships", "writeth": "writes",
+    "troubleth": "troubles", "undergoeth": "undergoes", "uniteth": "unites",
+    "urgeth": "urges", "waketh": "wakes", "warreth": "wars", "wasteth": "wastes",
+    "winneth": "wins", "wipeth": "wipes", "worshippeth": "worships", "writeth": "writes",
 }
+
+
+_CYR_TO_GRK_MAP = str.maketrans({
+    "а": "α", "А": "Α", "в": "β", "В": "Β", "г": "γ", "Г": "Γ",
+    "д": "δ", "Д": "Δ", "е": "ε", "Е": "Ε", "з": "ζ", "З": "Ζ",
+    "и": "ι", "И": "Ι", "і": "ι", "І": "Ι", "ї": "ϊ", "Ї": "Ϊ",
+    "й": "ι", "к": "κ", "К": "Κ", "л": "λ", "Л": "Λ", "м": "μ",
+    "М": "Μ", "н": "ν", "Н": "Ν", "о": "ο", "О": "Ο", "п": "π",
+    "П": "Π", "р": "ρ", "Р": "Ρ", "с": "σ", "С": "Σ", "ѕ": "σ",
+    "т": "τ", "Т": "Τ", "у": "υ", "У": "Υ", "Ү": "Υ", "ѵ": "υ", "Ѵ": "Υ",
+    "ф": "φ", "Ф": "Φ", "х": "χ", "Х": "Χ", "ѳ": "θ", "Ѳ": "Θ", "ѡ": "ω", "Ѡ": "Ω",
+})
+_GRK_TO_CYR_MAP = str.maketrans({
+    "ω": "ѡ", "Ω": "Ѡ", "ῶ": "ѡ̂", "ώ": "ѡ́", "ὼ": "ѡ̀",
+    "ν": "н", "τ": "т", "α": "а", "Α": "А", "ε": "е", "Ε": "Е",
+    "ο": "о", "Ο": "О", "ρ": "р", "Ρ": "Р", "κ": "к", "Κ": "К",
+    "χ": "х", "Χ": "Х", "υ": "ѵ", "Υ": "Ѵ", "ι": "і", "Ι": "І",
+    "ὴ": "і̀", "ή": "і́", "Ἰ": "І҆", "ἰ": "і҆", "θ": "ѳ", "Θ": "Ѳ",
+    "λ": "л", "Λ": "Л", "η": "и", "Η": "И",
+})
+_LAT_TO_CYR_MAP = str.maketrans({
+    "i": "і", "I": "І", "w": "ѡ", "W": "Ѡ", "v": "ѵ", "V": "Ѵ",
+    "y": "у", "Y": "У", "x": "х", "X": "Х", "a": "а", "A": "А",
+    "e": "е", "E": "Е", "o": "о", "O": "О", "c": "с", "C": "С",
+    "p": "р", "P": "Р", "s": "ѕ", "z": "ѕ", "f": "ѳ",
+})
+_LAT_TO_GRK_MAP = str.maketrans({
+    "A": "Α", "B": "Β", "E": "Ε", "Z": "Ζ", "H": "Η", "I": "Ι",
+    "K": "Κ", "M": "Μ", "N": "Ν", "O": "Ο", "P": "Ρ", "T": "Τ",
+    "X": "Χ", "Y": "Υ", "a": "α", "o": "ο", "u": "υ", "i": "ι",
+    "e": "ε", "p": "ρ", "k": "κ", "x": "χ", "v": "ν",
+})
+_CYR_TO_LAT_MAP = str.maketrans({
+    "а": "a", "е": "e", "о": "o", "р": "p", "с": "c", "у": "y", "х": "x",
+    "і": "i", "к": "k", "А": "A", "В": "B", "Е": "E", "К": "K", "М": "M",
+    "Н": "H", "О": "O", "Р": "P", "С": "C", "Т": "T", "Х": "X", "І": "I",
+})
+_SLAV_STRICT_RE = re.compile(
+    r"[ЪъЫыЬьЭэЮюЯяѢѣѦѧѪѫѮѯѰѱѲѳѴѵꙊꙋѺѻѼѽѾѿҀҁ\u0483-\u0487\u2DE0-\u2DFF]"
+)
+_CYR_EXCLUSIVE_RE = re.compile(
+    r"[БбГгДдЖжЗзИиЙйЛлПпУуФфЦцЧчШшЩщЪъЫыЬьЭэЮюЯяѢѣѦѧѪѫѮѯѰѱѲѳѴѵꙊꙋѺѻѼѽѾѿҀҁ\u0483-\u0487\u2DE0-\u2DFF]"
+)
+_GRK_DISTINCT_RE = re.compile(r"[δΔξΞψΨςζΖφΦθΘλΛ\u1F00-\u1FFF]")
+_SLAV_COMB_RE = re.compile(r"[\u0483-\u0487\u2DE0-\u2DFF]")
+_MIXED_TOKEN_RE = re.compile(
+    r"[A-Za-z\u0370-\u03FF\u1F00-\u1FFF\u0400-\u04FF\u2DE0-\u2DFF\uA640-\uA69F\u1C80-\u1C8F\u0300-\u036F]+"
+)
+_EXACT_MIXED_MAP = {
+    "ҮМNON": "ΥΜΝΟΝ",
+    "теоρία": "θεωρία",
+    "Каτευνθύνθτω": "Κατευθυνθήτω",
+    "Каτευνθύντω": "Κατευθυνθήτω",
+    "μou": "μου",
+    "Еѵхаὶ": "Εὐχαὶ",
+    "δаймо́нїон": "δαιμόνιον",
+    "ἄротон": "ἄρτον",
+    "ἔлеос": "ἔλεος",
+}
+_PRESERVED_DIPLOMATIC_TOKENS = {
+    "HMДEMYIΣ", "INЦI", "ΘЄѠ", "ѲY", "ΘV", "ᾎ́SMA", "ᾌDW", "ΘEW", "ᾌдѡ",
+    "ПЕМПТHI", "ПРОZАХАPIA", "λ҃", "ϟ҃",
+}
+
+
+def heal_mixed_script_homoglyphs(text: str) -> str:
+    """Repairs intra-token Cyrillic/Greek/Latin homoglyph contamination while preserving Slavistic transliteration."""
+    def _fix_tok(m: re.Match) -> str:
+        tok = m.group(0)
+        if tok in _PRESERVED_DIPLOMATIC_TOKENS:
+            return tok
+        if tok in _EXACT_MIXED_MAP:
+            return _EXACT_MIXED_MAP[tok]
+
+        cyr_chars = re.findall(r"[\u0400-\u04FF\uA640-\uA69F\u1C80-\u1C8F]", tok)
+        grk_chars = re.findall(r"[\u0370-\u03FF\u1F00-\u1FFF]", tok)
+        lat_chars = re.findall(r"[A-Za-z]", tok)
+        if (bool(cyr_chars) + bool(grk_chars) + bool(lat_chars)) <= 1:
+            if lat_chars and not cyr_chars and not grk_chars and _SLAV_COMB_RE.search(tok):
+                if all(ch in _LAT_TO_CYR_MAP for ch in map(ord, lat_chars)):
+                    return tok.translate(_LAT_TO_CYR_MAP)
+            return tok
+
+        # Case 1: Greek + Latin (no Cyrillic)
+        if grk_chars and lat_chars and not cyr_chars:
+            if len(grk_chars) >= len(lat_chars) and all(ch in _LAT_TO_GRK_MAP for ch in map(ord, lat_chars)):
+                return tok.translate(_LAT_TO_GRK_MAP)
+            return tok
+
+        # Case 2: Cyrillic + Greek
+        if cyr_chars and grk_chars:
+            if _SLAV_STRICT_RE.search(tok) or (
+                not _GRK_DISTINCT_RE.search(tok)
+                and (_CYR_EXCLUSIVE_RE.search(tok) or (len(cyr_chars) >= len(grk_chars) + 2 and not lat_chars))
+            ):
+                res = tok.translate(_GRK_TO_CYR_MAP)
+                if lat_chars and all(ch in _LAT_TO_CYR_MAP for ch in map(ord, lat_chars)):
+                    res = res.translate(_LAT_TO_CYR_MAP)
+                return res
+            conv = tok.translate(_CYR_TO_GRK_MAP)
+            if lat_chars and all(ch in _LAT_TO_GRK_MAP for ch in map(ord, lat_chars)):
+                conv = conv.translate(_LAT_TO_GRK_MAP)
+            if conv.endswith("σ"):
+                conv = conv[:-1] + "ς"
+            return conv
+
+        # Case 3: Cyrillic + Latin (no Greek)
+        if cyr_chars and lat_chars and not grk_chars:
+            # Preserve Slavistic transliteration (Latin base word with ѣ/ъ/ь/ѧ/ѫ and no Slavonic titlo)
+            if not _SLAV_COMB_RE.search(tok) and all(c in "ѣѢъЪьЬѧѦѫѪ" for c in cyr_chars):
+                return tok
+            if all(ch in "iIwWvVyYxXaAeEoOcCpPszf" for ch in lat_chars):
+                if (
+                    len(cyr_chars) > len(lat_chars)
+                    or _SLAV_COMB_RE.search(tok)
+                    or (len(cyr_chars) >= 1 and (_CYR_EXCLUSIVE_RE.search(tok) or re.search(r"[\u0300\u0301\u0311\u0486]", tok)))
+                    or (len(cyr_chars) == 1 and len(lat_chars) == 1 and tok.isupper() and "I" in lat_chars)
+                ):
+                    return tok.translate(_LAT_TO_CYR_MAP)
+            if len(lat_chars) >= 3 and len(cyr_chars) <= 2 and not _SLAV_COMB_RE.search(tok):
+                if not re.search(r"[\u0462\u0463\u044A\u044C]", tok) and all(ch in _CYR_TO_LAT_MAP for ch in map(ord, cyr_chars)):
+                    return tok.translate(_CYR_TO_LAT_MAP)
+
+        return tok
+
+    return _MIXED_TOKEN_RE.sub(_fix_tok, text)
 
 
 def _preserve_case_token(original: str, replacement: str) -> str:
@@ -525,7 +670,11 @@ def _convert_3rd_person_eth_token(match: re.Match) -> str:
     stem = wl[:-3]
     if len(stem) < 2:
         return token
-    if stem.endswith(("sh", "ch", "ss", "x", "z", "v")):
+    if len(stem) >= 3 and stem[-1] == stem[-2] and stem[-1] not in ("l", "s", "z", "f"):
+        return _preserve_case_token(token, stem[:-1] + "s")
+    if stem.endswith(("sh", "ch", "ss", "x", "z", "v", "c")) or (stem.endswith("s") and not stem.endswith("ss")):
+        mod = stem + "es"
+    elif len(stem) > 3 and stem.endswith(("at", "ut")) and not stem.endswith(("eat", "oat", "out")):
         mod = stem + "es"
     else:
         mod = stem + "s"
@@ -548,9 +697,10 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
     original = text
     healed = text
 
-    # 1. Strip UTF-8 BOM
+    # 1. Strip UTF-8 BOM & repair mixed-script Unicode homoglyphs
     if healed.startswith("\ufeff"):
         healed = healed.lstrip("\ufeff")
+    healed = heal_mixed_script_homoglyphs(healed)
 
     # 2. Convert stray <sup>...</sup> HTML tags to Unicode superscripts
     def _sup_repl(m: re.Match) -> str:
@@ -597,7 +747,7 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
     )
     healed = re.sub(r"\bNekrosimon\b", "Hymn for the Departed", healed, flags=re.IGNORECASE)
 
-    # Helper to protect quoted strings ("..." and “...”) in footnotes from meta-commentary mutation
+    # Helper to protect quoted strings ("..." and “...”) in footnotes from slop meta-commentary mutation
     def _apply_outside_quotes_if_footnotes(src: str, transform_fn) -> str:
         if not is_footnotes:
             return transform_fn(src)
@@ -606,7 +756,7 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
             idx = len(placeholders)
             placeholders.append(m.group(0))
             return f"__QUOTED_SPAN_{idx}__"
-        masked = re.sub(r'(?:"[^"\r\n]+"|“[^”\r\n]+”|\*[^*\r\n]+\*)', _mask, src)
+        masked = re.sub(r'(?:"[^"\r\n]+"|“[^”\r\n]+”|(?<!\*)\*[^*\r\n]+\*(?!\*))', _mask, src)
         transformed = transform_fn(masked)
         for idx, val in enumerate(placeholders):
             transformed = transformed.replace(f"__QUOTED_SPAN_{idx}__", val)
@@ -618,6 +768,9 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         "compells": "compels", "dris": "dries", "executs": "executes",
         "forgivs": "forgives", "partaks": "partakes", "rebuks": "rebukes",
         "removs": "removes", "rids": "rides", "tris": "tries", "wasts": "wastes",
+        "communicats": "communicates", "distributs": "distributes", "placs": "places",
+        "dats": "dates", "acquirs": "acquires", "announcs": "announces",
+        "ariss": "arises", "elisabs": "Elisabeth", "tebs": "Tebeth",
     }
     for bad_w, good_w in corrupted_eth_fixes.items():
         healed = re.sub(rf"\b{bad_w}\b", lambda m, g=good_w: _preserve_case_token(m.group(0), g), healed, flags=re.IGNORECASE)
@@ -629,6 +782,7 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
             vocab_data = json.loads(vocab_file.read_text(encoding="utf-8"))
             elements = vocab_data.get("liturgical_elements", {})
             rules = []
+            singular_s_tokens = {"irmos", "prokimenos", "polieleos", "polyeleios"}
             for _key, entry in elements.items():
                 canonical = entry.get("tier_3_typikon", "")
                 plural_canonical = entry.get("plural_typikon", "")
@@ -638,7 +792,13 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
                     clean_f = re.sub(r"\(.*?\)", "", raw_f).strip()
                     if not clean_f:
                         continue
-                    repl = plural_canonical if (plural_canonical and clean_f.lower().endswith("i")) else canonical
+                    cf_low = clean_f.lower()
+                    if plural_canonical and (cf_low.endswith("i") or (cf_low.endswith("s") and cf_low not in singular_s_tokens)):
+                        repl = plural_canonical
+                    elif cf_low.endswith("s") and cf_low not in singular_s_tokens and not canonical.lower().endswith("s"):
+                        repl = canonical + "s"
+                    else:
+                        repl = canonical
                     rules.append((re.compile(rf"\b{re.escape(clean_f)}\b", re.IGNORECASE), repl))
 
             if rules:
@@ -656,14 +816,14 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
                                     last_open = before.rfind("(*")
                                     if "*)" not in before[last_open:]:
                                         return m.group(0)
-                                if 'lit. "' in line_ref or "(lit. " in line_ref:
+                                if 'lit. "' in line_ref or 'lit. \'' in line_ref or "(lit. " in line_ref:
                                     return m.group(0)
                                 return _preserve_case_token(m.group(0), r)
                             ln = pat.sub(_vocab_sub, ln)
                         out_lines.append(ln)
                     return "\n".join(out_lines) + ("\n" if chunk_str.endswith("\n") else "")
 
-                healed = _apply_outside_quotes_if_footnotes(healed, _apply_vocab_rules)
+                healed = _apply_vocab_rules(healed)
         except (OSError, json.JSONDecodeError) as e:
             print(f"  [Warning] Could not apply vocabulary healing ({e})", file=sys.stderr)
 
@@ -684,6 +844,8 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         (r"\bhearken\b", "give ear"),
         (r"\bwherefore\b", "therefore"),
         (r"\bperadventure\b", "perhaps"),
+        (r"\bforsooth\b", "indeed"),
+        (r"\bhaply\b", "perhaps"),
         (r"\beffulgent\b", "radiant"),
         (r"\bresplendent\b", "radiant"),
         (r"\bbeholden\b", "obliged"),
@@ -705,9 +867,10 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         for pat_str, repl in slop_map:
             pat = re.compile(pat_str, re.IGNORECASE)
             chunk_str = pat.sub(lambda m, r=repl: _preserve_case_token(m.group(0), r), chunk_str)
-        return re.sub(r"\b([A-Za-z]+eth|saith)\b", _convert_3rd_person_eth_token, chunk_str, flags=re.IGNORECASE)
+        return chunk_str
 
     healed = _apply_outside_quotes_if_footnotes(healed, _apply_slop_and_eth)
+    healed = re.sub(r"\b([A-Za-z]+eth|saith)\b", _convert_3rd_person_eth_token, healed, flags=re.IGNORECASE)
 
     shall_verbs = {
         "bow": "bows", "enter": "enters", "take": "takes", "cense": "censes",
@@ -755,13 +918,14 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         healed = healed.replace("ποлюώνυма", "πολυώνυμα").replace("πολυώνυма", "πολυώνυμα").replace("μέлпω", "μέλπω")
 
         # Parenthesize unparenthesized Cyrillic acrostics and inscriptions:
+        healed = re.sub(r"\(\*\(\*([^\*\r\n]+)\*\)\*\)", r"(*\1*)", healed)
         healed = re.sub(r"\[Acrostic:\s+([\u0400-\u04FF])\]", r"[Acrostic: (*\1*)]", healed)
         healed = re.sub(r"\[Acrostic:\s+([A-Za-z])\s*/\s*Slavonic\s+([\u0400-\u04FF])\]", r"[Acrostic: \1 / Slavonic (*\2*)]", healed)
-        healed = re.sub(r"\[(Τετράδι ψάλλω)\s*/\s*([^\]]+)\]", r"[\1 / (*\2*)]", healed)
+        healed = re.sub(r"\[(Τετράδι ψάλλω)\s*/\s*(?!\(\*)([^\]]+)\]", r"[\1 / (*\2*)]", healed)
         healed = re.sub(r"\[(Спасѝ\s+Бж҃е\s+лю́ди\s+твоѧ̑)\]", r"(*\1*)", healed)
         healed = re.sub(
             r"\[(?!(?:Acrostic:|Τετράδι|Left\s+Page|Right\s+Page|Column|Колонка))([^\[\]\^]*[\u0400-\u04FF\uA640-\uA69F][^\[\]]*)\]",
-            r"(*\1*)",
+            lambda m: f"(*{m.group(1).strip('* ')}*)",
             healed,
         )
         healed = re.sub(r"I\.N\s+Ц\.I\.", "I.N (*Ц.I.*)", healed)
@@ -774,7 +938,90 @@ def heal_cohort_and_apparatus_text(text: str, is_footnotes: bool = False) -> Tup
         healed = re.sub(r"Gathering\s+ѡ̃\s+ѡ̃", r"Gathering (*ѡ̃ ѡ̃*)", healed)
         healed = re.sub(r"with\s+inscription\s+ІС҃\s+ХС҃", r"with inscription (*ІС҃ ХС҃*)", healed)
 
+        # General line-level fallback for any remaining bare unparenthesized Cyrillic shelfmarks/stamps/inscriptions
+        cyr_line_out: List[str] = []
+        for ln in healed.splitlines():
+            s_ln = ln.strip()
+            if not s_ln or s_ln.startswith("=== LEAF"):
+                cyr_line_out.append(ln)
+                continue
+            probe = re.sub(r"<[^>]+>", "", s_ln)
+            while re.search(r"\([^\(\)]*\)", probe):
+                probe = re.sub(r"\([^\(\)]*\)", "", probe)
+            if not re.search(r"[\u0400-\u04FF\uA640-\uA69F]", probe):
+                cyr_line_out.append(ln)
+                continue
+
+            # Mask balanced (...) spans and <...> tags before wrapping bare Cyrillic spans
+            masked_spans: List[str] = []
+
+            def _mask_span(m: re.Match) -> str:
+                idx_m = len(masked_spans)
+                masked_spans.append(m.group(0))
+                return f"__PAREN_MASK_{idx_m}__"
+
+            work_ln = re.sub(r"<[^>]+>", _mask_span, ln)
+            while re.search(r"\([^\(\)]*\)", work_ln):
+                work_ln = re.sub(r"\([^\(\)]*\)", _mask_span, work_ln)
+
+            # 0) Bold or italic Cyrillic spans (**...** or *...*) outside parentheses
+            work_ln = re.sub(
+                r"\*\*([^\*\r\n|()]*[\u0400-\u04FF\uA640-\uA69F][^\*\r\n|()]*)\*\*",
+                lambda m: f"(**{m.group(1).strip()}**)",
+                work_ln,
+            )
+            while re.search(r"\([^\(\)]*\)", work_ln):
+                work_ln = re.sub(r"\([^\(\)]*\)", _mask_span, work_ln)
+
+            work_ln = re.sub(
+                r"(?<!\*)\*([^\*\r\n|]*[\u0400-\u04FF\uA640-\uA69F][^\*\r\n|]*)\*(?!\*)",
+                lambda m: f"(*{m.group(1).strip()}*)",
+                work_ln,
+            )
+            while re.search(r"\([^\(\)]*\)", work_ln):
+                work_ln = re.sub(r"\([^\(\)]*\)", _mask_span, work_ln)
+
+            # 1) Quoted Cyrillic spans ("...", “...”, «...») outside parentheses
+            work_ln = re.sub(
+                r'(?:"[^"\r\n]*[\u0400-\u04FF\uA640-\uA69F][^"\r\n]*"|“[^”\r\n]*[\u0400-\u04FF\uA640-\uA69F][^”\r\n]*”|«[^»\r\n]*[\u0400-\u04FF\uA640-\uA69F][^»\r\n]*»)',
+                lambda m: f"(*{m.group(0)}*)",
+                work_ln,
+            )
+            # Re-mask newly created (*...*) so step 2 doesn't double-wrap inside them
+            while re.search(r"\([^\(\)]*\)", work_ln):
+                work_ln = re.sub(r"\([^\(\)]*\)", _mask_span, work_ln)
+
+            # 2) Bare Cyrillic phrases / archival shelfmarks (e.g., МКДУ 2353 / Сд 115)
+            cyr_char = r"[\u0400-\u04FF\uA640-\uA69F\u0300-\u036F\u0480-\u0489\u2DE0-\u2DFF\uA66F-\uA67F]"
+            bare_cyr_pat = re.compile(
+                rf"{cyr_char}+(?:(?:\s+|\s*[/\-.,:;]\s*|-)(?:{cyr_char}+|\d+[A-Za-zА-Яа-яіїєґІЇЄҐ]*))*"
+            )
+            work_ln = bare_cyr_pat.sub(lambda m: f"(*{m.group(0).strip()}*)", work_ln)
+
+            # Restore masked spans in reverse order (since nested parentheses were masked iteratively)
+            for idx_m in range(len(masked_spans) - 1, -1, -1):
+                work_ln = work_ln.replace(f"__PAREN_MASK_{idx_m}__", masked_spans[idx_m])
+            cyr_line_out.append(work_ln)
+
+        healed = "\n".join(cyr_line_out) + ("\n" if healed.endswith("\n") else "")
+
     return healed, (healed != original)
+
+
+def _safe_write_text(target: Path, content: str, newline: Optional[str] = "\n") -> None:
+    """Atomically writes UTF-8 text via a temporary sibling file with retry for Windows cloud-synced directories."""
+    tmp = target.with_name(target.name + ".tmp_compile")
+    tmp.write_text(content, encoding="utf-8", newline=newline)
+    for attempt in range(8):
+        try:
+            tmp.replace(target)
+            return
+        except OSError:
+            if attempt == 7:
+                if tmp.exists():
+                    tmp.unlink()
+                raise
+            time.sleep(0.35)
 
 
 def clean_and_parse_footnotes(footnotes_file: Path) -> Dict[int, str]:
@@ -782,13 +1029,14 @@ def clean_and_parse_footnotes(footnotes_file: Path) -> Dict[int, str]:
     if not footnotes_file.exists():
         return {}
 
-    content = footnotes_file.read_text(encoding="utf-8-sig")
+    raw_content = footnotes_file.read_text(encoding="utf-8-sig")
+    content = raw_content.replace("\r\n", "\n")
     cleaned_content = re.sub(r"^#+\s*Cohort\s+\d+\s+Footnotes.*?\n+", "", content, flags=re.MULTILINE | re.IGNORECASE)
     cleaned_content = re.sub(r"\n{3,}", "\n\n", cleaned_content).strip()
     cleaned_content, _ = heal_cohort_and_apparatus_text(cleaned_content, is_footnotes=True)
 
-    if cleaned_content != content:
-        footnotes_file.write_text(cleaned_content + "\n", encoding="utf-8")
+    if cleaned_content != content or ("\r\n" in raw_content):
+        _safe_write_text(footnotes_file, cleaned_content + "\n")
 
     fn_map: Dict[int, str] = {}
     pattern = re.compile(r"^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^\d+\]:|\Z)", re.DOTALL | re.MULTILINE)
@@ -873,7 +1121,7 @@ class UniversalPublicationEngine:
         """Universal default publication_spec scaffold for any monument lacking explicit registry parts."""
         return {
             "mode": "universal_dynamic_h1",
-            "hub_inbox_folder": self.cfg.get("short_title", self.monument_id).replace(" ", "_"),
+            "hub_inbox_folder": self.cfg.get("short_title", self.monument_id).rstrip(". ").replace(" ", "_"),
             "master_title": self.cfg.get("title", self.monument_id),
             "parts": [
                 {
@@ -910,11 +1158,13 @@ class UniversalPublicationEngine:
         healed_cohort_count = 0
         draft_dir = self.ws_dir / "Draft"
         for cf in archived_cohorts:
-            raw_c = cf.read_text(encoding="utf-8-sig")
+            raw_c_orig = cf.read_text(encoding="utf-8-sig")
+            raw_c = raw_c_orig.replace("\r\n", "\n")
             healed_c, was_healed = heal_cohort_and_apparatus_text(raw_c, is_footnotes=False)
-            if was_healed:
-                cf.write_text(healed_c, encoding="utf-8")
-                healed_cohort_count += 1
+            if was_healed or ("\r\n" in raw_c_orig):
+                _safe_write_text(cf, healed_c)
+                if was_healed:
+                    healed_cohort_count += 1
                 # Synchronize Final/*cohort*.txt and Draft/*cohort*.md mirrors on disk if present
                 c_num_m = re.search(r"cohort0?(\d+)", cf.name, re.IGNORECASE)
                 if c_num_m:
@@ -922,12 +1172,12 @@ class UniversalPublicationEngine:
                     for f_txt in self.final_dir.glob(f"*cohort*{c_num}*.txt"):
                         m_check = re.search(r"cohort0?(\d+)", f_txt.name, re.IGNORECASE)
                         if m_check and int(m_check.group(1)) == c_num:
-                            f_txt.write_text(healed_c, encoding="utf-8")
+                            _safe_write_text(f_txt, healed_c)
                     if draft_dir.exists():
                         for d_md in draft_dir.glob(f"*cohort*{c_num}*.md"):
                             m_check = re.search(r"cohort0?(\d+)", d_md.name, re.IGNORECASE)
                             if m_check and int(m_check.group(1)) == c_num:
-                                d_md.write_text(healed_c, encoding="utf-8")
+                                _safe_write_text(d_md, healed_c)
             cohort_texts.append(healed_c)
         if healed_cohort_count > 0:
             print(f"  [Self-Healer] Synchronized MTS-1 vocabulary/slop/-eth healing across {healed_cohort_count} cohort files on disk.")
@@ -958,6 +1208,7 @@ class UniversalPublicationEngine:
             print(f"  [Hymnographic Engine] Successfully stitched {stats['total_stitches']} 2-up seams; {stats['drift_events_count']} drift events tracked.")
         else:
             stitched_body = stitch_cohort_boundaries(cohort_texts)
+        stitched_body = heal_mixed_script_homoglyphs(stitched_body)
 
         # 7. Apply Liturgical Typography
         print("[Step 6] Applying liturgical typography rules (Monument 0 parity)...")
@@ -993,6 +1244,16 @@ class UniversalPublicationEngine:
         part0_spec = self.pub_spec["parts"][0]
         part0_toc = adapt_toc_for_part0(master_toc, part_slug_map, part0_spec["filename"])
 
+        def _deduplicate_html_anchors(doc_str: str) -> str:
+            seen_ids: Set[str] = set()
+            def _repl_id(m: re.Match) -> str:
+                aid = m.group(1)
+                if aid.lower() in seen_ids:
+                    return ""
+                seen_ids.add(aid.lower())
+                return m.group(0)
+            return re.sub(r'\s*<a\s+id="([^"]+)"></a>', _repl_id, doc_str)
+
         # 11. Format Part Contents with In-File Footnotes
         print("[Step 8] Formatting modular part files and local in-file footnotes...")
         formatted_parts: Dict[str, str] = {}
@@ -1007,7 +1268,7 @@ class UniversalPublicationEngine:
                 content = raw_content
 
             # Format local footnotes
-            formatted_content = format_footnotes_for_part(content, fn_map)
+            formatted_content = _deduplicate_html_anchors(format_footnotes_for_part(content, fn_map))
             formatted_parts[filename] = formatted_content
 
         # 12. Assemble Master Complete Edition
@@ -1024,7 +1285,7 @@ class UniversalPublicationEngine:
             complete_sections.append(parts_raw[p["id"]])
         complete_sections.append(master_footnotes_text)
 
-        complete_md = "\n\n---\n\n".join(complete_sections)
+        complete_md = _deduplicate_html_anchors("\n\n---\n\n".join(complete_sections))
 
         # 13. Write Deliverables
         print("[Step 10] Emitting publication deliverables to Final MD/ and Final/...")
@@ -1047,13 +1308,13 @@ class UniversalPublicationEngine:
 
         for filename, content in all_deliverables.items():
             md_path = self.final_md_dir / filename
-            md_path.write_text(content, encoding="utf-8")
+            _safe_write_text(md_path, content)
             print(f"  Emitted Final MD: {filename} ({len(content):,} chars)")
 
             # Text mirror in Final/
             if filename.endswith(".md"):
                 txt_path = self.final_dir / (filename[:-3] + ".txt")
-                txt_path.write_text(content, encoding="utf-8")
+                _safe_write_text(txt_path, content)
 
         # Step 10.5: Emit Universal Atomic Corpus, Propers Corpus, and Podoben Grid
         try:
@@ -1061,6 +1322,36 @@ class UniversalPublicationEngine:
             extract_monument_atomic_corpus(self.monument_id, sync_hub=False)
         except (OSError, ValueError, KeyError, ImportError) as e:
             print(f"  [Companion] Atomic corpus / Podoben grid generation note: {e}")
+
+        # Step 10.6: Regenerate Primitives Digest & Consolidated Slavonic for 1-up Octoechoi (e.g. 1895_lviv_octoechos)
+        if not is_hymnographic_2up and "octoechos" in self.monument_id.lower():
+            try:
+                from scripts.hymnographic_gold_normalizer import (
+                    HymnographicNormalizer,
+                    generate_father_paul_digest,
+                    load_monument_metadata,
+                )
+                src_files_1up = sorted(source_dir.glob("*source.txt"), key=self._cohort_sort_key) if source_dir.exists() else []
+                if src_files_1up:
+                    slav_complete_1up = "\n\n---\n\n".join(sf.read_text(encoding="utf-8-sig").strip() for sf in src_files_1up)
+                    _safe_write_text(self.final_md_dir / f"{self.monument_id}_slavonic_complete.md", slav_complete_1up)
+                mon_meta_1up = load_monument_metadata(self.monument_id)
+                drift_path_1up = self.final_md_dir / f"{self.monument_id}_drift_ledger.json"
+                propers_path_1up = self.final_md_dir / f"{self.monument_id}_propers_corpus.json"
+                events_1up = json.loads(drift_path_1up.read_text(encoding="utf-8")).get("events", []) if drift_path_1up.exists() else []
+                items_1up = json.loads(propers_path_1up.read_text(encoding="utf-8")).get("items", []) if propers_path_1up.exists() else []
+                digest_1up = generate_father_paul_digest(
+                    monument_id=self.monument_id,
+                    mon_meta=mon_meta_1up,
+                    normalizer=HymnographicNormalizer(),
+                    events=events_1up,
+                    corpus_items=items_1up,
+                    stitched_cohorts=cohort_texts,
+                )
+                _safe_write_text(self.final_md_dir / f"{self.monument_id}_primitives_review.md", digest_1up)
+                print(f"  [Companion] Emitted 1-up Octoechos {self.monument_id}_primitives_review.md ({len(digest_1up):,} chars)")
+            except (OSError, ValueError, KeyError, ImportError) as e:
+                print(f"  [Companion] 1-up Octoechos primitives digest note: {e}")
 
         # 14. Synchronize to Typikon Coded Hub Inbox
         print("[Step 11] Synchronizing deliverables to Typikon Coded Hub Inbox...")
@@ -1073,7 +1364,7 @@ class UniversalPublicationEngine:
             if old_hub_part.name not in all_deliverables:
                 old_hub_part.unlink()
         for filename, content in all_deliverables.items():
-            (hub_inbox / filename).write_text(content, encoding="utf-8")
+            _safe_write_text(hub_inbox / filename, content)
 
         # Also sync companion deliverables (Slavonic, Drift ledger, Primitives review, Atomic & Propers corpora, Podoben grid)
         for companion in [
@@ -1088,7 +1379,7 @@ class UniversalPublicationEngine:
         ]:
             src_c = self.final_md_dir / companion
             if src_c.exists():
-                (hub_inbox / companion).write_text(src_c.read_text(encoding="utf-8"), encoding="utf-8")
+                _safe_write_text(hub_inbox / companion, src_c.read_text(encoding="utf-8"))
 
         print(f"  Successfully synced {len(all_deliverables)} files to: {hub_inbox.relative_to(PROJECT_ROOT.parent)}")
 
@@ -1118,7 +1409,7 @@ class UniversalPublicationEngine:
                 else:
                     existing = by_num[c_num]
                     try:
-                        if cf.stat().st_mtime > existing.stat().st_mtime + 1.0:
+                        if cf.stat().st_mtime > existing.stat().st_mtime + 0.01:
                             by_num[c_num] = cf
                     except OSError:
                         pass
@@ -1176,13 +1467,27 @@ class UniversalPublicationEngine:
             ]
             landmarks: List[Tuple[str, int, str]] = [("part0", 0, dynamic_parts[0]["title"])]
             part_counter = 1
+            seen_h1_titles: set = set()
+            is_hymn = (
+                self.cfg.get("genre_register", "").lower() == "hymnographic"
+                or self.cfg.get("monument_type", "").lower() in ("octoechos", "lenten_triodion", "pentecostarion", "anthologion", "akathistnik", "irmologion")
+            )
             for idx, line in enumerate(lines):
-                if idx < 15:
+                if idx < 3 or re.match(r"^#\s+(?:PREFACE|TO THE READER|FOREWORD|INTRODUCTION|APPROBATION|DEDICATION|TITLE\s+PAGE)\b", line.strip(), re.IGNORECASE):
                     continue
                 m_h1 = re.match(r"^#\s+([^\n#]+)$", line.strip())
                 if m_h1:
                     raw_h1_title = m_h1.group(1).strip()
                     clean_h1_title = re.sub(r"\s*\[\^\d+\]", "", raw_h1_title).strip()
+                    norm_h1_key = re.sub(r"\s+", " ", clean_h1_title).upper()
+                    if norm_h1_key in seen_h1_titles:
+                        fn_suffix = "".join(re.findall(r"\[\^\d+\]", raw_h1_title))
+                        if is_hymn:
+                            lines[idx] = f"*{clean_h1_title}:*{fn_suffix}"
+                        else:
+                            lines[idx] = f"## {raw_h1_title}"
+                        continue
+                    seen_h1_titles.add(norm_h1_key)
                     pid = f"part{part_counter}"
                     slug = slugify(clean_h1_title)[:40].strip("-_") or pid
                     dynamic_parts.append(
@@ -1348,7 +1653,7 @@ class UniversalPublicationEngine:
                     chunk = re.sub(r"(To the glory\s*\nof the All-Holy)", r"## Dedication\n\n\1", chunk, count=1)
                 master_title_str = self.pub_spec.get("master_title", "")
                 master_title_slug = slugify(master_title_str)
-                chunk = re.sub(r'\s*<a\s+id="[^"]*"></a>', '', chunk, count=1)
+                chunk = re.sub(r'^(#\s+[^\n]*?)\s*<a\s+id="[^"]*"></a>', r'\1', chunk, count=1, flags=re.MULTILINE)
                 if master_title_slug and f'<a id="{master_title_slug}">' not in chunk:
                     first_h1_m = re.search(r"^#\s+([^\n]+)", chunk, flags=re.MULTILINE)
                     if first_h1_m and slugify(first_h1_m.group(1)) == master_title_slug:
@@ -1398,12 +1703,11 @@ class UniversalPublicationEngine:
             filename = ps["filename"]
             raw_text = parts_raw.get(pid, "")
             for line in raw_text.splitlines():
+                for tag_m in re.finditer(r'<a\s+id="([^"]+)"', line):
+                    slug_map.setdefault(tag_m.group(1).lower(), filename)
                 m = re.match(r"^#{1,6}\s+(.+)$", line.strip())
                 if m:
                     heading = m.group(1).strip()
-                    tag_m = re.search(r'<a\s+id="([^"]+)"', heading)
-                    if tag_m:
-                        slug_map.setdefault(tag_m.group(1).lower(), filename)
                     slug = slugify(heading)
                     if slug:
                         slug_map.setdefault(slug, filename)
@@ -1456,7 +1760,7 @@ class UniversalPublicationEngine:
         text += f"- `{self.monument_id}_complete.md`: Master Unabridged Publication Edition\n"
         text += f"- `{self.pub_spec.get('footnotes_filename', f'{self.monument_id}_footnotes.md')}`: Standalone Master Critical Apparatus\n"
 
-        note_path.write_text(text, encoding="utf-8")
+        _safe_write_text(note_path, text, newline=None)
 
 def main():
     parser = argparse.ArgumentParser(description="Universal Publication Compiler & Formatter Engine")

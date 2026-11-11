@@ -167,44 +167,23 @@ The Lord gives me the tongue of instruction, that I should know when to speak a 
 *Then the Epistle to the Romans, pericopa 88 from the half (Romans 5:6–10):*[^364]
 Brethren: For why did Christ, when we were yet without strength, in due time die for the ungodly? For scarcely for a righteous man will one die; yet perhaps for a good man someone would even dare to die. But God commends His love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by His blood, we shall be saved from wrath through Him. For if, when we were enemies, we were reconciled to God by the death of His Son, much more, having been reconciled, we shall be saved by His life.
 
-*Then the Gospel according to Mark, pericopas 67 and 68 (Mark 15:16–41):*[^365]
-At that time, the soldiers led Jesus away into the hall called Praetorium; and they call together the whole band. And they clothed Him with purple, and platted a crown of thorns, and put it about His head, and began to salute Him: "Hail, King of the Jews!" And they smote Him on the head with a reed, and spat upon Him, and bowing their knees worshiped Him. And when they had mocked Him, they took off the purple from Him, and put His own clothes on Him, and led Him out to crucify Him. And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear His Cross. And they bring Him unto the place Golgotha, which is, being interpreted: The Place of a Skull. And they gave Him to drink wine mingled with myrrh; but He received it not. And when they had crucified Him, they parted His garments, casting lots upon them, what every man should take. And it was the third hour, and they crucified Him. And the superscription of His accusation was written over: THE KING OF THE JEWS. And with Him they crucify two thieves: the one on His right hand, and the other on His left. And the Scripture was fulfilled, which says: "And He was numbered with the transgressors." And they that passed by railed on Him, wagging their heads, and saying: "Ah, Thou that destroyest the temple, and buildest it in three days, save Thyself, and come down from the Cross!" Likewise also the chief priests mocking said among themselves with the scribes: "He saved others; Himself He cannot save! Let Christ the King of Israel descend now from the Cross, that we may see and believe!" And they that were crucified with Him reviled Him. And when the sixth hour was come, there was darkness over the whole land until the ninth hour. And at the ninth hour Jesus cried with a loud voice, saying: "Eloi, Eloi, lama sabachthani?" which is, being interpreted: "My God, My God, why hast Thou forsaken Me?" And some of them that stood by, when they heard it, said: "Behold, He calls Elijah." And one ran and filled a sponge full of vinegar, and put it on a reed, and gave Him to drink, saying: "Let alone; let us see whether Elijah will come to take Him down." And Jesus cried with a loud voice, and gave up the spirit. And the veil of the temple was torn in two from the top to the bottom. And when the centurion, who stood over against Him, saw that He so cried out, and gave up the spirit, he said: "Truly this Man was the Son of God!" There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome; who also, when He was in Galilee, followed Him, and ministered unto Him; and many other women who came up with Him unto Jerusalem.
+*Gospel according to Mark, pericopas 67 and 68 in order:*[^365]
+**"At that time, the soldiers led Jesus away into the hall..."** *End:* **"...who came up with Him unto Jerusalem."**
 
-*Then:*
-Direct my steps according to Thy word, and let no iniquity have dominion over me. Deliver me from the slander of men, and I will keep Thy commandments. Make Thy face to shine upon Thy servant, and teach me Thy statutes. Let my mouth be filled with Thy praise, O Lord, that I may hymn Thy glory and Thy majesty all the day long.
+*Then:* **"The Lord God is blessed..."** *Trisagion, and after* **"Our Father"***:*
 
-*Trisagion through Our Father.*
+*Kontakion:* **"Him Who was crucified for our sake..."** *(Folio 107).*
 
-*Kontakion, Tone 8:*
-Come, let us all hymn Him Who was crucified for our sake; for Mary beheld Him upon the Tree and said: "Even though Thou endurest crucifixion, Thou art My Son and My God!"
+*Then:* **"Lord, have mercy"** *(40 times).* *Prayer:* **"Thou Who at all times..."** **"Lord, have mercy"** *(thrice).* *Glory... Both now...* **"More honorable than the Cherubim..."** **"In the name of the Lord, bless, Father."**
 
-*Then:* Lord, have mercy. *(40 times)*
+**Priest:** **"Through the prayers of our holy fathers..."**
 
-*And the Prayer of the Hours:*
-Thou Who at all times and at every hour, in heaven and on earth, art worshiped and glorified, O Christ God, long-suffering, plenteous in mercy, most compassionate; Who lovest the righteous and hast mercy on sinners; Who callest all to salvation through the promise of good things to come: do Thou Thyself, O Lord, receive also our supplications at this hour, and direct our life in Thy commandments. Sanctify our souls, purify our bodies, set right our thoughts, cleanse our minds, and deliver us from all sorrow, evil, and pain. Compass us about with Thy holy Angels, that, guarded and guided by their host, we may attain to the unity of the faith and to the comprehension of Thine unapproachable glory: for blessed art Thou unto ages of ages. Amen.
+*Then this Prayer:*[^366]
+O Master God, Father Almighty, and Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, and one Power, have mercy on me a sinner; and by the judgments which Thou knowest, save me, Thine unworthy servant: for blessed art Thou unto ages of ages. Amen.
 
-Lord, have mercy. *(thrice)*
-Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto ages of ages. Amen.
-More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify.
-In the name of the Lord, bless, Father.
+## Then the Sixth Hour
 
-**Priest:** God be merciful unto us and bless us, and cause His face to shine upon us, and have mercy on us.
-
-*And this Prayer of Saint Mardarios:*[^366]
-O Master God, Father Almighty, and Lord, Only-begotten Son Jesus Christ, and Holy Spirit: one Godhead, one Power, have mercy on me a sinner; and by the judgments which Thou knowest, save Thine unworthy servant: for blessed art Thou unto ages of ages. Amen.
-
-## Great and Holy Friday: Sixth Hour
-
-**Priest:** Blessed is our God, always, now and ever, and unto ages of ages.
-
-**Reader:** Amen.
-
-Glory to Thee, our God, glory to Thee.
-O Heavenly King... Trisagion through Our Father... Lord, have mercy *(12 times).* Glory, Both now:
-
-O come, let us worship and fall down before our King and God.
-O come, let us worship and fall down before Christ, our King and God.
-O come, let us worship and fall down before Christ Himself, our King and God.
+**"O come, let us worship..."** *(thrice).* *And Psalm 51 (LXX).*
 
 *Psalm 51 (LXX):*
 Why boastest thou in malice, O mighty man?

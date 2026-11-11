@@ -16,7 +16,6 @@
         "model_id": "POD.T1.GROB_TVOI_SPASE",
         "tone": 1,
         "prescribed_model": "While the soldiers were guarding Thy tomb",
-        "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
         "total_invocations": 4,
         "first_locus": "f. 7v (p18)",
         "attested_loci": [
@@ -30,7 +29,6 @@
         "model_id": "POD.T2.MILOSERDIA_SUSHCHI",
         "tone": 2,
         "prescribed_model": "Being the wellspring of loving-kindness",
-        "byzantine_greek_automelon": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
         "total_invocations": 2,
         "first_locus": "f. 37v (p48)",
         "attested_loci": [
@@ -42,7 +40,6 @@
         "model_id": "POD.T2.EXT_WE_HAVE_BECOME",
         "tone": 2,
         "prescribed_model": "We have become partakers of the divine",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 1,
         "first_locus": "f. 45r (p55)",
         "attested_loci": [
@@ -53,7 +50,6 @@
         "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
         "tone": 3,
         "prescribed_model": "Of the divine faith",
-        "byzantine_greek_automelon": "Θείας πίστεως",
         "total_invocations": 1,
         "first_locus": "f. 61r (p71)",
         "attested_loci": [
@@ -64,7 +60,6 @@
         "model_id": "POD.T3.KRASOTE_DEVSTVA",
         "tone": 3,
         "prescribed_model": "Beholding the beauty of thy virginity",
-        "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
         "total_invocations": 1,
         "first_locus": "f. 65r (p75)",
         "attested_loci": [
@@ -75,7 +70,6 @@
         "model_id": "POD.T8.EXT_TO_THEE_THE",
         "tone": 8,
         "prescribed_model": "To thee, the Champion Leader",
-        "byzantine_greek_automelon": "—",
         "total_invocations": 2,
         "first_locus": "f. 185r (p195)",
         "attested_loci": [
@@ -98,7 +92,6 @@
       "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й Сп҃се):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "We all have acquired thee as a protectress before God,..."
     },
     {
@@ -113,7 +106,6 @@
       "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й Сп҃се):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Pilot my wretched soul, O Pure One, and have compassion..."
     },
     {
@@ -128,7 +120,6 @@
       "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й Сп҃се):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "O Virgin and Nourisher of One of the Trinity, adorned..."
     },
     {
@@ -143,7 +134,6 @@
       "normalized_rubric": "*Podoben: \"While the soldiers were guarding Thy tomb\" (Гро́бъ тво́й):*",
       "prescribed_model": "While the soldiers were guarding Thy tomb",
       "model_id": "POD.T1.GROB_TVOI_SPASE",
-      "byzantine_greek_automelon": "Τὸν τάφον σου Σωτήρ",
       "governed_hymn_opening": "Beholding the Lamb and Shepherd hanging dead upon the Tree,..."
     },
     {
@@ -153,12 +143,11 @@
       "leaf": "p48",
       "office": "ON MONDAY AT SMALL COMPLINE (TONE 2)",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
-      "verbatim_slavonic_witness": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
-      "normalized_rubric": "*Podoben: \"Being the wellspring of loving-kindness\" (Милосе́рдія сꙋ́щи и҆сто́чникъ):*",
+      "verbatim_1630_slavonic": "Милосе́рдїа сꙋ́щи",
+      "verbatim_slavonic_witness": "Милосе́рдїа сꙋ́щи",
+      "normalized_rubric": "*Podoben: \"Being the wellspring of loving-kindness\" (Милосе́рдїа сꙋ́щи):*",
       "prescribed_model": "Being the wellspring of loving-kindness",
       "model_id": "POD.T2.MILOSERDIA_SUSHCHI",
-      "byzantine_greek_automelon": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
       "governed_hymn_opening": "Beholding the cruel slothfulness of my soul and the exhaustion..."
     },
     {
@@ -173,7 +162,6 @@
       "normalized_rubric": "*Lord, have mercy (3 times). Glory... Both now... Sessional Hymn, Tone 2, Podoben: \"We have become partakers of the divine\" (Бж҃їю бы́хомъ):*[^27]",
       "prescribed_model": "We have become partakers of the divine",
       "model_id": "POD.T2.EXT_WE_HAVE_BECOME",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Vouchsafe me the divine entrance, O Pure One, by thy..."
     },
     {
@@ -183,12 +171,11 @@
       "leaf": "p59",
       "office": "ON THURSDAY AT SMALL COMPLINE (TONE 2)",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
-      "verbatim_slavonic_witness": "Милосе́рдія сꙋ́щи и҆сто́чникъ",
-      "normalized_rubric": "*Podoben: \"Being the wellspring of loving-kindness\" (Милосе́рдія сꙋ́щи и҆сто́чникъ):*",
+      "verbatim_1630_slavonic": "Милосе́рдїа сꙋ́щи",
+      "verbatim_slavonic_witness": "Милосе́рдїа сꙋ́щи",
+      "normalized_rubric": "*Podoben: \"Being the wellspring of loving-kindness\" (Милосе́рдїа сꙋ́щи):*",
       "prescribed_model": "Being the wellspring of loving-kindness",
       "model_id": "POD.T2.MILOSERDIA_SUSHCHI",
-      "byzantine_greek_automelon": "Εὐσπλαγχνίας ὑπάρχουσα πηγή",
       "governed_hymn_opening": "Beholding Thee hanging dead upon the Tree, O Christ, Thy..."
     },
     {
@@ -198,12 +185,11 @@
       "leaf": "p71",
       "office": "ON SUNDAY AT SMALL COMPLINE (TONE 3)",
       "section": "Hymnographic Propers",
-      "verbatim_1630_slavonic": "Бж҃е́ственныя вѣ́ры",
-      "verbatim_slavonic_witness": "Бж҃е́ственныя вѣ́ры",
-      "normalized_rubric": "*Podoben: \"Of the divine faith\" (Бж҃е́ственныя вѣ́ры):* [^36]",
+      "verbatim_1630_slavonic": "Боже́ственныя вѣ́ры",
+      "verbatim_slavonic_witness": "Боже́ственныя вѣ́ры",
+      "normalized_rubric": "*Podoben: \"Of the divine faith\" (Боже́ственныя вѣ́ры):* [^36]",
       "prescribed_model": "Of the divine faith",
       "model_id": "POD.T3.BOZHESTVENNYYA_VERY",
-      "byzantine_greek_automelon": "Θείας πίστεως",
       "governed_hymn_opening": "Thou didst become the divine Tabernacle of the Word, O..."
     },
     {
@@ -218,7 +204,6 @@
       "normalized_rubric": "*Podoben: \"Beholding the beauty of thy virginity\" (Красотѣ̀ дѣ́вства):* [^38]",
       "prescribed_model": "Beholding the beauty of thy virginity",
       "model_id": "POD.T3.KRASOTE_DEVSTVA",
-      "byzantine_greek_automelon": "Τὴν ὡραιότητα τῆς παρθενίας σου",
       "governed_hymn_opening": "O thou who didst carry the Merciful One in thy..."
     },
     {
@@ -233,7 +218,6 @@
       "normalized_rubric": "*Lord, have mercy (3 times). Glory... Both now... Sessional Hymn, Tone 8, Podoben: \"To thee, the Champion Leader\" (Возбра́нной Воево́дѣ):*",
       "prescribed_model": "To thee, the Champion Leader",
       "model_id": "POD.T8.EXT_TO_THEE_THE",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "To thee, the Champion Leader, do we thy servants dedicate..."
     },
     {
@@ -248,7 +232,6 @@
       "normalized_rubric": "*Lord, have mercy (3 times). Glory... Both now... Sessional Hymn, Tone 8, Podoben: \"To thee, the Champion Leader\" (Возбра́нной Воево́дѣ):*",
       "prescribed_model": "To thee, the Champion Leader",
       "model_id": "POD.T8.EXT_TO_THEE_THE",
-      "byzantine_greek_automelon": "—",
       "governed_hymn_opening": "Let us the faithful praise another piety for the hosts,..."
     }
   ]

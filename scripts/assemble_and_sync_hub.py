@@ -32,6 +32,10 @@ if sys.stderr and hasattr(sys.stderr, 'reconfigure'):
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 REGISTRY_FILE = PROJECT_ROOT / "Liturgical Monuments" / "codex_registry.json"
 STATE_FILE = PROJECT_ROOT / "Liturgical Monuments" / "ACTIVE_ORCHESTRATOR_STATE.json"
 from orchestrator_state import load_state, resolve_monument_id
@@ -39,7 +43,8 @@ from orchestrator_state import load_state, resolve_monument_id
 def get_hub_inbox(monument_name: str) -> Path:
     # Ecosystem Projects root is parent of Translation
     ecosystem_root = PROJECT_ROOT.parent
-    hub_inbox = ecosystem_root / "Typikon Coded" / "Data" / "Inbox" / monument_name.replace(" ", "_")
+    clean_name = re.sub(r'[<>:"/\\|?*]', '_', monument_name).rstrip('. ').replace(" ", "_")
+    hub_inbox = ecosystem_root / "Typikon Coded" / "Data" / "Inbox" / clean_name
     hub_inbox.mkdir(parents=True, exist_ok=True)
     return hub_inbox
 
@@ -183,36 +188,63 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
 
     if draft_fn_file.exists():
         with open(draft_fn_file, "r", encoding="utf-8") as df:
-            new_fn_text = df.read().strip()
+            new_fn_text = df.read().replace("\r\n", "\n").strip()
 
         existing_text = ""
         if master_fn_file.exists():
             with open(master_fn_file, "r", encoding="utf-8") as mf:
-                existing_text = mf.read()
+                existing_text = mf.read().replace("\r\n", "\n")
 
         cohort_fn_header = f"## Cohort {cohort_num} Footnotes"
         if new_fn_text:
+            first_fn_m = re.search(r"^\[\^(\d+)\]:", new_fn_text, re.MULTILINE)
+            first_fn_exists = bool(
+                first_fn_m and re.search(rf"^\[\^{first_fn_m.group(1)}\]:", existing_text, re.MULTILINE)
+            )
             if cohort_fn_header in existing_text:
                 pattern = rf"(## Cohort {cohort_num} Footnotes\s*\n)(.*?)(?=\n## Cohort \d+ Footnotes|\Z)"
                 replacement = f"## Cohort {cohort_num} Footnotes\n\n{new_fn_text}\n"
                 updated_text = re.sub(pattern, replacement, existing_text, flags=re.DOTALL)
-                with open(master_fn_file, "w", encoding="utf-8") as mf:
+                with open(master_fn_file, "w", encoding="utf-8", newline="\n") as mf:
                     mf.write(updated_text)
                 print(f"Updated Cohort {cohort_num} footnotes in-place in {master_fn_file.name}")
+            elif first_fn_exists:
+                updated_text = re.sub(
+                    rf"\n*## Cohort {cohort_num} Footnotes\s*\n.*",
+                    "",
+                    existing_text,
+                    flags=re.DOTALL,
+                )
+                fn_pat = re.compile(r"^\[\^(\d+)\]:\s*(.*?)(?=\n\[\^\d+\]:|\Z)", re.DOTALL | re.MULTILINE)
+                for m_fn in fn_pat.finditer(new_fn_text):
+                    fn_id = m_fn.group(1)
+                    fn_body = m_fn.group(2).strip()
+                    updated_text = re.sub(
+                        rf"^\[\^{fn_id}\]:\s*.*?(?=\n\[\^\d+\]:|\Z)",
+                        lambda _m, fid=fn_id, fb=fn_body: f"[^{fid}]: {fb}",
+                        updated_text,
+                        count=1,
+                        flags=re.DOTALL | re.MULTILINE,
+                    )
+                with open(master_fn_file, "w", encoding="utf-8", newline="\n") as mf:
+                    mf.write(updated_text.strip() + "\n")
+                print(f"Updated Cohort {cohort_num} footnotes by definition ID in {master_fn_file.name}")
             else:
-                with open(master_fn_file, "a", encoding="utf-8") as mf:
+                with open(master_fn_file, "a", encoding="utf-8", newline="\n") as mf:
                     mf.write(f"\n\n{cohort_fn_header}\n\n{new_fn_text}\n")
                 print(f"Appended Cohort {cohort_num} footnotes to {master_fn_file.name}")
 
     # 3. Assemble Master Edition
-    # Collect unique cohort files in Final MD (one per cohort number, preferring larger file)
+    # Collect unique cohort files across Cohorts/ and Final MD/ (one per cohort number, preferring newest mtime)
     cohort_map: Dict[int, Path] = {}
-    for p in final_md_dir.glob("*cohort*.md"):
-        m = re.search(r"cohort(\d+)", p.name)
-        if m:
-            c_num = int(m.group(1))
-            if c_num not in cohort_map or p.stat().st_size > cohort_map[c_num].stat().st_size:
-                cohort_map[c_num] = p
+    search_dirs = [d for d in (ws / "Cohorts", final_md_dir) if d.exists()]
+    for s_dir in search_dirs:
+        for p in s_dir.glob("*cohort*.md"):
+            m = re.search(r"cohort0?(\d+)", p.name, re.IGNORECASE)
+            if m:
+                c_num = int(m.group(1))
+                if c_num not in cohort_map or p.stat().st_mtime >= cohort_map[c_num].stat().st_mtime:
+                    cohort_map[c_num] = p
 
     all_cohort_files = [cohort_map[k] for k in sorted(cohort_map.keys())]
     print(f"Assembling master edition from {len(all_cohort_files)} cohorts: {[p.name for p in all_cohort_files]}...")
@@ -278,9 +310,9 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
 {footnotes_content.strip()}
 """
 
-    with open(complete_md_file, "w", encoding="utf-8") as f:
+    with open(complete_md_file, "w", encoding="utf-8", newline="\n") as f:
         f.write(master_edition_content)
-    with open(complete_txt_file, "w", encoding="utf-8") as f:
+    with open(complete_txt_file, "w", encoding="utf-8", newline="\n") as f:
         f.write(master_edition_content)
     print(f"Generated complete edition: {complete_md_file.name} ({complete_md_file.stat().st_size} bytes)")
 
@@ -297,7 +329,7 @@ def ingest_and_sync(monument_id: str, cohort_num: int) -> int:
 
     # 4. Sync Deliverables to Hub Inbox
     pub_spec = mon_info.get("publication_spec", {})
-    inbox_folder = pub_spec.get("hub_inbox_folder") or mon_info.get("short_title", monument_id).replace(" ", "_")
+    inbox_folder = (pub_spec.get("hub_inbox_folder") or mon_info.get("short_title", monument_id).rstrip(". ").replace(" ", "_")).rstrip(". ")
     hub_inbox = get_hub_inbox(inbox_folder)
     print(f"Syncing deliverables to Hub Inbox: {hub_inbox}")
 
@@ -342,7 +374,7 @@ All files have passed the Small Pause Gatekeeper Suite (vocabulary linting, 100%
 - Zero dropped folios adhering to Closed Mathematical Leaf Conservation
 """
 
-    with open(hub_inbox / "handoff_note.md", "w", encoding="utf-8") as f:
+    with open(hub_inbox / "handoff_note.md", "w", encoding="utf-8", newline="\n") as f:
         f.write(handoff_note)
     print(f"Updated Hub handoff note: {hub_inbox / 'handoff_note.md'}")
 

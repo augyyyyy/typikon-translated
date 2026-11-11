@@ -10,7 +10,7 @@ Having reclined upon the breast of Christ the Teacher at the Lord's Supper, O be
 
 *Both now... of the Feast.*
 
-*At the Aposticha, Stichera, Tone 4, Podoben: "Called from on High" (Zvannyi svyshe):*
+*At the Aposticha, Stichera, Tone 4, Podoben: "Called from on High" (Зва́нный свы́ше):*
 Having theologized the Son of the Most High, co-everlasting with the Father and consubstantial, immutable Light from Light, and the express image of the Parent's Hypostasis, shining forth timelessly and impassibly from Him, the Fashioner and Lord of all ages: O beloved one, thou didst preach Him unto the world, as Christ our God, Who brought forth light out of darkness; Whom do thou entreat to save and enlighten our souls.
 
 *Verse:* Their proclamation hath gone out into all the earth, and their words unto the ends of the universe.
@@ -43,17 +43,17 @@ With the streams of thy tears thou didst cultivate the barren desert, and by sig
 
 *Both now... of the Feast.*
 
-*After the first Kathisma, Sessional Hymn, Tone 4, Podoben: "Thy Tomb, O Savior" (Grob tvoi):*
+*After the first Kathisma, Sessional Hymn, Tone 4, Podoben: "Thy Tomb, O Savior" (Гро́бъ тво́й):*
 Having become a disciple of Christ, the Master of all things, thou didst teach the people and enlighten the world, guiding it unto the knowledge of Him, O Apostle; therefore all of us name thee a preacher of truth and a Theologian, a friend and bosom companion of Christ. *(Twice)*
 
 *Glory... Both now... of the Feast.*
 
-*After the second Kathisma, Sessional Hymn, Tone 5, Podoben: "The Word Co-Unoriginate" (Sobeznachalnoe slovo):*
+*After the second Kathisma, Sessional Hymn, Tone 5, Podoben: "The Word Co-Unoriginate" (Собезнача́льное Сло́во):*
 Let us all hymn with songs and sacred praises the all-honored John, the apostle and disciple of Christ, who proclaimed unto all the divine nativity from the Father of our Deliverer and King, Christ; for he unceasingly prays that our souls may be shown mercy. *(Twice)*
 
 *Glory... Both now... of the Feast.*
 
-*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "The Wisdom and the Word" (Premudrosti):*
+*After the Polyeleos, Sessional Hymn, Tone 8, Podoben: "The Wisdom and the Word" (Премꙋ́дрости):*
 Having reclined upon the breast of Jesus, thou didst obtain boldness, as a disciple inquiring: Lord, who is he that betrays Thee? Being exceedingly beloved, O all-praised one, by bread...
 
 === LEAF p63 === (Fol. 32r)
@@ -129,7 +129,7 @@ Having received help from God through contrition of heart, O Arsenius, thou dids
 *Theotokion:*
 Higher than the Cherubim and Seraphim wast thou revealed to be, O Birthgiver of God; for thou alone didst receive the uncontainable God in thy womb, O undefiled one; therefore all the faithful bless thee with hymns, O pure one.
 
-*Kontakion of the Venerable One, Tone 3, Podoben: "Today the Virgin" (Deva dnes):*
+*Kontakion of the Venerable One, Tone 3, Podoben: "Today the Virgin" (Дв҃а дне́сь):*
 From Rome thou didst shine forth as a great sun, and didst reach the imperial...
 
 === LEAF p65 === (Fol. 33r)
@@ -139,10 +139,10 @@ From Rome thou didst shine forth as a great sun, and didst reach the imperial...
 *Ikos:*
 Having heard the voice of the Lord, O venerable one, Thou didst leave worldly beauties behind and embraced the monastic life, emulating the angelic conversation, O godly-wise one; therefore Thou wast revealed as wholly transformed, an angel in the body, offering unto Christ fasting and tears, blameless prayer, and all-night standing; therefore Thou becamest a temple of the Trinity, a pattern for monks, a guide of virtue, and a fervent intercessor for those who ever honor thee: therefore we honor thee, O glory of the fathers, venerable Arsenius.
 
-*Then Sessional Hymn of the Apostle, Tone 8, Podoben: "The Wisdom and the Word" (Premudrosti):*
+*Then Sessional Hymn of the Apostle, Tone 8, Podoben: "The Wisdom and the Word" (Премꙋ́дрости):*
 Having reclined upon the breast of Wisdom, and learned the knowledge of existing things, thou didst divinely thunder forth: *In the beginning was the Word;* having well written first of the unoriginate Nativity, thou didst proclaim unto all the Incarnation of the Word; therefore having caught the gentiles with thy tongue as with a net, by the grace of the Spirit thou dost teach the ends [of the earth], and enlighten them with miracles, O Theologian and apostle: entreat Christ God to grant remission of sins unto those who celebrate thy holy memory with love.
 
-*Glory... Sessional Hymn of the Venerable One, Tone 8, and the same Podoben:*
+*Glory... Sessional Hymn of the Venerable One, Tone 8, and the same Podoben (Подо́бенъ то́йже):*
 Having fled the clamor of life, and accomplished thy life in stillness, thou didst mortify the passions, and winged thy mind toward God, and wast shown to be a pillar of fire and a luminary unto all the faithful who honor thee; and watered with showers of tears, thou wast revealed as a fruitful tree, O God-bearing Arsenius: entreat Christ God to grant remission of offenses unto those who honor thy holy memory with love.
 
 *Both now... of the Feast.*
@@ -311,7 +311,7 @@ Christ the never-setting Light shone forth upon thee, and granted thee joy in th
 *Theotokion:*
 Thou wast revealed, O Virgin Mother of God, having brought forth in the flesh beyond nature God the Word, Whom the Father as Good brought forth from His heart before all ages;[^78] Whom now we understand to be higher than bodies, even though He clothed Himself in a body.
 
-*Exapostilarion, Podoben: "Hear, Ye Women" (Zheny uslyshite):*
+*Exapostilarion, Podoben: "Hear, Ye Women" (Жє́ны оу҆слы́шите):*
 Having become a son of thunder, thou didst theologize unto men *He Who was in the beginning, the Word,* O Apostle John; for reclining faithfully upon the breast of thy Master, and from thence drawing forth the streams of theology, thou dost water all creation.
 
 *Glory... of the Venerable One:*
@@ -319,7 +319,7 @@ Thou didst turn away from worldly attachment as from defilement, and having with
 
 *Both now... of the Feast.*
 
-*At the Praises, Stichera of the Feast, 3; and of the Apostle, 3, Tone 8, Podoben: "O Marvelous Wonder" (O preslavnago chudese):*
+*At the Praises, Stichera of the Feast, 3; and of the Apostle, 3, Tone 8, Podoben: "O Marvelous Wonder" (Ѽ пресла́внагѡ чꙋдесѐ):*
 O blessed and all-wise John, through the abundance of warmth for Christ's love, more than all didst thou become the beloved disciple unto the all-seeing Word, Who judges the whole universe with righteous measures; having been illumined with purity and the beauties of virginity in body and in thoughts, O God-blessed one.
 
 *Sticheron:*

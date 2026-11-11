@@ -1,12 +1,12 @@
 === LEAF p371 ===
 
-# Month of January: St. John Chrysostom Concurrence; The Three Hierarchs (§ 1 – § 3)
+## Month of January: St. John Chrysostom Concurrence; The Three Hierarchs (§ 1 – § 3)
 
 ## Τῇ Λ΄: Τῶν τριῶν Ἱεραρχῶν Βασιλείου τοῦ Μ., Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου [Violakis, p. 356]
 
 μέχρι τῆς Τρίτης τῆς Τυρινῆς (Ὅρα τὸν τοῦ Ἑορτοδρομίου Πίνακα).
 
-### Τῇ Λ΄. Τῶν τριῶν Ἱεραρχῶν Βασιλείου τοῦ Μ., Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου
+**Τῇ Λ΄. Τῶν τριῶν Ἱεραρχῶν Βασιλείου τοῦ Μ., Γρηγορίου τοῦ Θεολόγου καὶ Ἰωάννου τοῦ Χρυσοστόμου**
 
 1.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ *Κύριε ἐκέκραξα* τὰ ς΄ τῶν Ἁγίων Προσόμοια, *Δόξα*, *Τὰς μυστικὰς σήμερον*, *Καὶ νῦν*, *Τίς μὴ μακαρίσει σε*, Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ Ἀναγνώσματα. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Προσόμοια, *Δόξα*, *Σαλπίσωμεν ἐν σάλπιγγι*, *Καὶ νῦν*, *Μακαρίζομέν σε*, τὸ Ἀπολυτίκιον *Τοὺς τρεῖς μεγίστους φωστῆρας*, Θεοτοκίον *Τοῦ Γαβριὴλ φθεγξαμένου σοι* καὶ Ἀπόλυσις.
 
@@ -18,13 +18,13 @@
 
 === LEAF p372 ===
 
-# Month of January: St. John Chrysostom Concurrence; The Three Hierarchs (§ 1 – § 3)
+## Month of January: St. John Chrysostom Concurrence; The Three Hierarchs (§ 1 – § 3)
 
 ## January 30: Commemoration of the Three Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom [Violakis, p. 357]
 
 ...Cheesefare Week (see the Paschal Tables [Heortodromion]).
 
-### January 30: The Three Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom
+**January 30: The Three Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom**
 
 1.    At Vespers: following the Introductory Psalm [Ps. 103 LXX] and the First Stasis of the Psalter [Kathisma 1], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the 6 Stichira Prosomia of the Saints; **"Glory..."**: **"Let us extol today the mystical trumpets"** (*Τὰς μυστικὰς σήμερον*); **"Both now and ever..."**: the first Theotokion of Tone 6: **"Who would not call thee blessed"** (*Τίς μὴ μακαρίσει σε*); Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Old Testament Readings. At the Aposticha: the 3 Stichira Prosomia; **"Glory..."**: **"Let us blow the trumpet with song"** (*Σαλπίσωμεν ἐν σάλπιγγι*); **"Both now and ever..."**: **"We bless thee, O Virgin Theotokos"** (*Μακαρίζομέν σε*); the Dismissal Troparion: **"The three great luminaries"** (*Τοὺς τρεῖς μεγίστους φωστῆρας*); Theotokion: **"When Gabriel cried aloud unto thee"** (*Τοῦ Γαβριὴλ φθεγξαμένου σοι*), and Dismissal.
 
@@ -36,7 +36,7 @@
 
 === LEAF p373 ===
 
-# Month of January: The Three Hierarchs (§ 4 – § 6 incipit)
+## Month of January: The Three Hierarchs (§ 4 – § 6 incipit)
 
 ## Τῇ Λ΄: Τῶν τριῶν Ἱεραρχῶν (Συνέχεια) [Violakis, p. 358]
 
@@ -54,7 +54,7 @@
 
 === LEAF p374 ===
 
-# Month of January: The Three Hierarchs (§ 4 – § 6 incipit)
+## Month of January: The Three Hierarchs (§ 4 – § 6 incipit)
 
 ## January 30: The Three Hierarchs (Continued) [Violakis, p. 359]
 
@@ -72,7 +72,7 @@
 
 === LEAF p375 ===
 
-# Month of January: The Three Hierarchs (§ 6 concl. – § 8); Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 incipit)
+## Month of January: The Three Hierarchs (§ 6 concl. – § 8); Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 incipit)
 
 ## Τῇ Λ΄: Τῶν τριῶν Ἱεραρχῶν (Τέλος) / Μὴν Φεβρουάριος: Τῇ Α΄: Τοῦ ἁγίου Τρύφωνος [Violakis, p. 360]
 
@@ -88,9 +88,9 @@
 
 ❦
 
-### Μὴν Φεβρουάριος
+**Μὴν Φεβρουάριος**
 
-### Τῇ Α΄. Τοῦ ἁγίου Μάρτυρος Τρύφωνος, καὶ τὰ Προεόρτια τῆς Ὑπαπαντῆς τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
+**Τῇ Α΄. Τοῦ ἁγίου Μάρτυρος Τρύφωνος, καὶ τὰ Προεόρτια τῆς Ὑπαπαντῆς τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ**
 
 1.    Εἰ τύχοι ἡ Α΄ Φεβρουαρίου ἐν οἱᾳδήποτε ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία τοῦ Ἁγίου Τρύφωνος καὶ τὰ Προεόρτια
 
@@ -98,7 +98,7 @@
 
 === LEAF p376 ===
 
-# Month of January: The Three Hierarchs (§ 6 concl. – § 8); Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 incipit)
+## Month of January: The Three Hierarchs (§ 6 concl. – § 8); Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 incipit)
 
 ## January 30: The Three Hierarchs (Concluded) / Month of February: February 1: St. Tryphon and Forefeast [Violakis, p. 361]
 
@@ -114,9 +114,9 @@
 
 ❦
 
-### Month of February
+**Month of February**
 
-### February 1: The Holy Martyr Tryphon, and the Forefeast of the Meeting of our Lord Jesus Christ
+**February 1: The Holy Martyr Tryphon, and the Forefeast of the Meeting of our Lord Jesus Christ**
 
 1.    If February 1 occurs on any day except Sunday, the office of Saint Tryphon and of the Forefeast is chanted according to the order of the Menaion...[^247]
 
@@ -124,7 +124,7 @@
 
 === LEAF p377 ===
 
-# Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 concl. – § 5 incipit)
+## Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 concl. – § 5 incipit)
 
 ## Τῇ Α΄: Τοῦ ἁγίου Μάρτυρος Τρύφωνος, καὶ τὰ Προεόρτια (Συνέχεια) [Violakis, p. 362]
 
@@ -142,13 +142,13 @@
 
 === LEAF p378 ===
 
-# Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 concl. – § 5 incipit)
+## Month of February: St. Tryphon and Forefeast of the Meeting (§ 1 concl. – § 5 incipit)
 
 ## February 1: St. Tryphon and the Forefeast of the Meeting (Continued) [Violakis, p. 363]
 
 ...is chanted according to the order of the Menaion.
 
-2.    If the feast occurs on Sunday: at Vespers on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter [Kathisma 1], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 4 Resurrectional Stichira, 3 Forefeast, and 3 of the Saint; **"Glory..."**: Forefeast; **"Both now and ever..."**: the first Theotokion of the Tone; Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrectional Stichira; **"Glory..."**: of the Saint; **"Both now and ever..."**: Forefeast: **"The holy Virgin beareth the Holy One"** (*Τὸν ἱερὸν ἡ ἱερὰ Παρθένος*); the Dismissal Troparia: the Resurrectional, that of the Saint, and that of the Forefeast: **"The heavenly choir"** (*Οὐράνιος χορός*), and Dismissal.
+2.    If the feast occurs on Sunday: at Vespers on Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter [Kathisma 1], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 4 Resurrectional Stichira, 3 Forefeast, and 3 of the Saint; **"Glory..."**: Forefeast; **"Both now and ever..."**: the first Theotokion of the Tone; Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon. At the Aposticha: the Resurrectional Stichira; **"Glory..."**: of the Saint; **"Both now and ever..."**: Forefeast: **"The holy Virgin bears the Holy One"** (*Τὸν ἱερὸν ἡ ἱερὰ Παρθένος*); the Dismissal Troparia: the Resurrectional, that of the Saint, and that of the Forefeast: **"The heavenly choir"** (*Οὐράνιος χορός*), and Dismissal.
 
 3.    On Sunday at Matins: after Psalm 50 [LXX], the Triadic Canon and the Triadic hymns **"It is truly meet"** (*Ἄξιόν ἐστιν*); then the Trisagion Prayers, the Hypakoe of the Tone, and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as at Vespers; then the Psalter and the 17th Kathisma [Amomos, Ps. 118 LXX]; the Resurrectional Kathismata in sequence, the Evlogitaria, the Hypakoe, the Anavathmoi of the Tone, and the Prokeimenon. The Canons: of the Resurrection and of the Forefeast, with the Verse: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι, ὁ Θεὸς ἡμῶν, δόξα σοι*); after the Third Ode: the Kathisma of the Saint and that of the Forefeast; after the Sixth Ode: the Resurrectional Kontakion and Ikos, and the Menologion of the Saint; the Katavasiai: **"The sun once shone upon the dry ground"** (*Χέρσον ἀβυσσοτόκον*), and the entire order of the Morning Gospel; then we chant **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilaria: the Resurrectional, that of the Saint, and that of the Forefeast. At the Praises: 4 Resurrectional Stichira and 4 of the Forefeast; **"Glory..."**: the Eothinon Doxastikon; **"Both now and ever..."**: **"Most blessed art thou"** (*Ὑπερευλογημένη ὑπάρχεις*); Great Doxology, **"Today salvation is come unto the world"** (*Σήμερον σωτηρία*). Then follows the Divine Liturgy: the Epistle of the Saint [2 Timothy 2:1–10] and Gospel of the Sunday; Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.
 
@@ -160,15 +160,15 @@
 
 === LEAF p379 ===
 
-# Month of February: St. Tryphon concl. (§ 5); February 2: The Meeting of our Lord Jesus Christ (Case I, § 1 – § 2 incipit)
+## Month of February: St. Tryphon concl. (§ 5); February 2: The Meeting of our Lord Jesus Christ (Case I, § 1 – § 2 incipit)
 
 ## Τῇ Β΄: Ἡ Ὑπαπαντὴ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ [Violakis, p. 364]
 
 Εὐαγγελίου. *Τὴν τιμιωτέραν*, τὸ ἀναστάσιμον Ἐξαποστειλάριον, τοῦ Τριῳδίου, τοῦ Ἁγίου, καὶ τὸ Προεόρτιον. Εἰς τοὺς Αἴνους, Ἀναστάσιμα γ΄, τοῦ Τριῳδίου β΄ καὶ Προεόρτια γ΄. *Δόξα*, τοῦ Τριῳδίου, *Καὶ νῦν*, *Ὑπερευλογημένη*, Δοξολογία Μεγάλη, *Σήμερον σωτηρία* καὶ καθεξῆς ἡ Λειτουργία, ἐν ᾗ ψάλλονται οἱ Μακαρισμοί. Ἀπολυτίκια μετὰ τὴν Εἴσοδον, τὸ Ἀναστάσιμον, τὸ Προεόρτιον, τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον *Ὁ μήτραν παρθενικήν* [Σημ. *], Ἀπόστολος τοῦ Ἁγίου καὶ Εὐαγγέλιον τοῦ Τριῳδίου· Κοινωνικὸν *Αἰνεῖτε [τὸν Κύριον]* καὶ Ἀπόλυσις.
 
-### Τῇ Β΄. Ἡ Ὑπαπαντὴ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ
+**Τῇ Β΄. Ἡ Ὑπαπαντὴ τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ**
 
-#### ΠΕΡΙΠΤΩΣΕΙΣ Α΄
+**ΠΕΡΙΠΤΩΣΕΙΣ Α΄**
 
 1.    Ἐν τῷ Μεγάλῳ Ἑσπερινῷ, μετὰ τὸν Προοιμιακόν, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν τὰ γ΄ Ἰδιόμελα *Λέγε Συμεὼν* εἰς ἕξ. *Δόξα*, *Καὶ νῦν*, *Ἀνοιγέσθω ἡ πύλη*. Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα. Εἰς τὰ Ἀπόστιχα, τὰ Ἰδιόμελα *Κατακόσμησον τὸν Νυμφῶνα σου Σιών*, *Δόξα*, *Καὶ νῦν*, *Ὁ τοῖς Χερουβὶμ ἐποχούμενος*. *Νῦν Ἀπολύεις*, τὸ Τρισάγιον, τὸ Ἀπολυτίκιον *Χαῖρε Κεχαριτωμένη* ἐκ τρίτου, καὶ Ἀπόλυσις *Ὁ ἐν ἀγκάλαις τοῦ δικαίου Συμεὼν βασταχθῆναι καταδεξάμενος διὰ τὴν ἡμῶν σωτηρίαν, Χριστὸς ὁ ἀληθινὸς Θεὸς ἡμῶν* κτλ.
 
@@ -181,7 +181,7 @@
 
 === LEAF p380 ===
 
-# Month of February: St. Tryphon concl. (§ 5); February 2: The Meeting of our Lord Jesus Christ (Case I, § 1 – § 2 incipit)
+## Month of February: St. Tryphon concl. (§ 5); February 2: The Meeting of our Lord Jesus Christ (Case I, § 1 – § 2 incipit)
 
 ## February 2: Feast of the Meeting of our Lord, God and Savior Jesus Christ [Violakis, p. 365]
 
@@ -189,9 +189,9 @@
 
 > *Note on Textual Variant (\*).* {On the Sunday of the Publican and the Pharisee, when the Forefeast coincides, the Kontakion of the Forefeast replaces that of the Triodion at the Little Entrance.}
 
-### February 2: The Meeting of our Lord, God and Savior Jesus Christ
+**February 2: The Meeting of our Lord, God and Savior Jesus Christ**
 
-#### Case I
+**Case I**
 
 1.    At Great Vespers: following the Introductory Psalm [Ps. 103 LXX] and the Psalter, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the 3 Idiomela: **"Tell us, O Symeon"** (*Λέγε, Συμεών*) doubled to 6; **"Glory... Both now and ever..."**: **"Let the gate of heaven be opened"** (*Ἀνοιγέσθω ἡ πύλη τοῦ οὐρανοῦ*); Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings. At the Aposticha: the Idiomela: **"Adorn thy bridal chamber, O Zion"** (*Κατακόσμησον τὸν νυμφῶνά σου, Σιών*); **"Glory... Both now and ever..."**: **"He Who is borne on high by the Cherubim"** (*Ὁ τοῖς Χερουβὶμ ἐποχούμενος*); then **"Now lettest Thou Thy servant depart"** (*Νῦν ἀπολύεις*, Luke 2:29–32), and the Trisagion Prayers. The Dismissal Troparion: **"Hail, O Theotokos Virgin full of grace"** (*Χαῖρε, κεχαριτωμένη Θεοτόκε Παρθένε*) thrice, and the Dismissal: **"May He Who for our salvation deigned to be carried in the arms of the righteous Symeon, Christ our true God..."** (*Ὁ ἐν ἀγκάλαις τοῦ δικαίου Συμεὼν βασταχθῆναι καταδεξάμενος διὰ τὴν ἡμῶν σωτηρίαν, Χριστὸς ὁ ἀληθινὸς Θεὸς ἡμῶν*), etc.
 

@@ -17,7 +17,7 @@ Knowing thee to be the Mother of God, O Pure One, and our Protectress: we presen
 I cried unto the Lord in my affliction, and unto Thee, and Thou hast brought up my life from corruption, O Most Merciful One.[^209]
 
 *Troparion:*
-O Sovereign Lady, implore Thy Son Who was lifted up upon the Cross, and delivered men from corruption, that we may be saved.
+O Sovereign Lady, implore thy Son Who was lifted up upon the Cross, and delivered men from corruption, that we may be saved.
 
 *Troparion:*
 O Most Pure Sovereign Lady, forsake me not who trust in thee, but make haste with thy help. Glory:

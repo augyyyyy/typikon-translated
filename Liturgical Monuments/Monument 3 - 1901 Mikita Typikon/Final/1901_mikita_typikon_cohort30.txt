@@ -1,5 +1,4 @@
 === LEAF p291 ===
-[Book Page 267]
 
 (p. 267)
 
@@ -11,7 +10,7 @@ After this he sprinkles with the holy water all those present, and makes the dis
 
 Order of the Blessing of Palms.
 
-The Blessing of Palms takes place on Palm Sunday at Matins. The cantor after the Gospel begins to read Psalm 50, and the Priest, without saying “Having beheld the Resurrection of Christ,” immediately goes forth unto the branches and censes them cruciformly. When the choir hath finished Psalm 50, the Priest proclaims: “Let us pray to the Lord,” and in a loud voice saith the prayer: “O Lord our God, Who sittest upon the Cherubim,” etc. After this: “Peace be unto all.” “Bow your heads,” etc., and the exclamation: “O Lord God Almighty,” etc. At the conclusion of this the Priest sprinkles the branches with holy water, saying: “These branches and palms are blessed and sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit, Amen,” etc. At the conclusion of this the Priest gives the Gospel to kiss and distributes the branches; and Matins continues as prescribed.
+The Blessing of Palms takes place on Palm Sunday at Matins. The cantor after the Gospel begins to read Psalm 50, and the Priest, without saying “Having beheld the Resurrection of Christ,” immediately goes forth unto the branches and censes them cruciformly. When the choir hath finished Psalm 50, the Priest proclaims: “Let us pray to the Lord,” and in a loud voice says the prayer: “O Lord our God, Who sittest upon the Cherubim,” etc. After this: “Peace be unto all.” “Bow your heads,” etc., and the exclamation: “O Lord God Almighty,” etc. At the conclusion of this the Priest sprinkles the branches with holy water, saying: “These branches and palms are blessed and sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit, Amen,” etc. At the conclusion of this the Priest gives the Gospel to kiss and distributes the branches; and Matins continues as prescribed.
 
 §. 197.
 
@@ -19,10 +18,9 @@ Order of the Blessing of Foods.
 
 The Blessing of Foods takes place on Pascha Sunday.
 
-At the Liturgy after the Ambo Prayer and after “Christ is risen” (*Христосъ воскресе*) hath been sung three times, etc., the Priest proclaims: “Glory to the Holy, Consubstantial,” etc., unto which the choir sings: “Amen,” etc. After this “Christ is risen” (*Христосъ воскресе*) three times, during which singing the Priest, having come unto the place where the artos and the foods have been prepared, censes them. After this he proclaims: “Let us pray to the Lord,” and recites three prayers, namely: a) for the blessing of the artos, b) for the blessing of the lamb and other meat foods, and c) for the blessing of dairy and other foods. And having finished these prayers, he sprinkles the foods with holy water, saying: “These foods are blessed and sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit,” etc., and the Dismissal.
+At the Liturgy after the Ambo Prayer and after “Christ is risen” hath been sung three times, etc., the Priest proclaims: “Glory to the Holy, Consubstantial,” etc., unto which the choir sings: “Amen,” etc. After this “Christ is risen” three times, during which singing the Priest, having come unto the place where the artos and the foods have been prepared, censes them. After this he proclaims: “Let us pray to the Lord,” and recites three prayers, namely: a) for the blessing of the artos, b) for the blessing of the lamb and other meat foods, and c) for the blessing of dairy and other foods. And having finished these prayers, he sprinkles the foods with holy water, saying: “These foods are blessed and sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit,” etc., and the Dismissal.
 
 === LEAF p292 ===
-[Book Page 268]
 
 (p. 268)
 
@@ -32,18 +30,17 @@ Order of the Blessing of a Sown Field.
 
 The blessing of a sown field takes place around the feast of Saint Mark, and that in the following manner:
 
-When the Priest at the Liturgy after “Blessed be the name of the Lord” (*Буди имя Господне*) hath pronounced the words: “Let us depart in peace,” etc., the procession, having gone forth from the church, with the cross-bearer preceding, goes unto the field. On the way various songs are sung, especially: “Our Father” (*Отче нашъ*) and “O Theotokos Virgin.”[^311]
+When the Priest at the Liturgy after “Blessed be the name of the Lord” hath pronounced the words: “Let us depart in peace,” etc., the procession, having gone forth from the church, with the cross-bearer preceding, goes unto the field. On the way various songs are sung, especially: “Our Father” and “O Theotokos Virgin.”[^311]
 
 Having arrived at the field at the designated place, the Priest first of all turns with his face toward the east (First Stasis), and the cantor begins to read Psalm 84: “Lord, Thou hast been favorable unto Thy land.” After this: “Glory, and Now. Alleluia” (three times), and the Priest proclaims: “Let us pray to the Lord,” and in a loud voice recites the prayer: “O Lord God from before all ages,” etc., and so follow the Gospel and the second prayer: “O Almighty God.” After this the Priest first conjures with the words: “I conjure you, aerial waves,” etc., afterwards sprinkles the field with holy water and blesses the seeds, saying: “May God bless,” etc., and with this he concludes the stasis.
 
-After this the Priest turns toward the south (Second Stasis), and the choir reads Psalm 125: “When the Lord turned again the captivity of Zion”; after this the Priest in a loud voice recites the prayer: “O Holy Master,” then the Gospel, and again saith the prayer: “Multiply, we pray Thee, O Master”; after the prayer he first conjures, saying: “I conjure you, clouds,” etc., and so blesses the field with holy water, saying: “Bless, O Lord, the earth,” etc.
+After this the Priest turns toward the south (Second Stasis), and the choir reads Psalm 125: “When the Lord turned again the captivity of Zion”; after this the Priest in a loud voice recites the prayer: “O Holy Master,” then the Gospel, and again says the prayer: “Multiply, we pray Thee, O Master”; after the prayer he first conjures, saying: “I conjure you, clouds,” etc., and so blesses the field with holy water, saying: “Bless, O Lord, the earth,” etc.
 
-At the Third Stasis the Priest turns toward the west; the cantor reads Psalm 146: “Praise the Lord” (*Хвали́те*); after which the Priest in a loud voice recites the prayer: “O Master Jesus Christ,” reads the Gospel, and again the second prayer: “O Almighty,” etc., after which he first conjures with the words: “I conjure you, waves and winds,” etc., and only so blesses, saying: “May He bless you, the seeds,” etc.
+At the Third Stasis the Priest turns toward the west; the cantor reads Psalm 146: “Praise the Lord”; after which the Priest in a loud voice recites the prayer: “O Master Jesus Christ,” reads the Gospel, and again the second prayer: “O Almighty,” etc., after which he first conjures with the words: “I conjure you, waves and winds,” etc., and only so blesses, saying: “May He bless you, the seeds,” etc.
 
 At the Fourth Stasis he turns toward the north, and the choir reads Psalm 147: “Praise Jerusalem,” after which the Priest in a loud voice recites the prayer: “O Creator of all,” reads the Gospel, and the second prayer in a loud voice: “O Holy Master,” etc. And he conjures with the words: “I conjure you, devils,” etc.; afterwards he blesses the field, sprinkling with holy water, saying as before: “May He bless,” and with this is concluded also the Fourth Stasis, after which they return unto the church.
 
 === LEAF p293 ===
-[Book Page 269]
 
 (p. 269)
 
@@ -55,18 +52,17 @@ Order of the Blessing of Herbs.
 
 Among us for the most part herbs are blessed on the day of the Nativity of Saint John the Baptist, in some places however on the Dormition of the Most Holy Virgin.
 
-After the Liturgy after “Blessed be the name,” the Priest proclaims: “Blessed is our God,” and begins to cense the herbs, which the people hold standing on both sides from the Royal Doors even unto the church gates. The cantor, having sung “Amen,” saith: “Heavenly King,” “Trisagion,” “Our Father,” “Lord, have mercy” (*Господи помилуй*) (12 times), “Come, let us worship” (*Прїиди́те поклони́мся*) (three times), and immediately reads Psalm 64 (“Praise is meet for Thee”). After the Psalm he sings the troparion and kontakion of the feast, unto which the Priest: “Let us pray to the Lord,” and in a loud voice recites the prayer: “O Almighty and Pre-Eternal God.” After this prayer he in a loud voice recites the second prayer: “O God, Who through Moses,” and so: “Peace be unto all,” “Bow your heads,” etc., with the exclamation. After the exclamation he sprinkles the herbs with holy water, walking in the midst of the people and saying: “May the blessing of God Almighty, the Father, and the Son, and the Holy Spirit, descend upon this creation and abide with it always. Amen,” etc. Dismissal.
+After the Liturgy after “Blessed be the name,” the Priest proclaims: “Blessed is our God,” and begins to cense the herbs, which the people hold standing on both sides from the Royal Doors even unto the church gates. The cantor, having sung “Amen,” says: “Heavenly King,” “Trisagion,” “Our Father,” “Lord, have mercy” (12 times), “Come, let us worship” (three times), and immediately reads Psalm 64 (“Praise is meet for Thee”). After the Psalm he sings the troparion and kontakion of the feast, unto which the Priest: “Let us pray to the Lord,” and in a loud voice recites the prayer: “O Almighty and Pre-Eternal God.” After this prayer he in a loud voice recites the second prayer: “O God, Who through Moses,” and so: “Peace be unto all,” “Bow your heads,” etc., with the exclamation. After the exclamation he sprinkles the herbs with holy water, walking in the midst of the people and saying: “May the blessing of God Almighty, the Father, and the Son, and the Holy Spirit, descend upon this creation and abide with it always. Amen,” etc. Dismissal.
 
 §. 200.
 
 What Other Blessings We Have.
 
-a) The Blessing of Candles: it is twofold: on the feast of the Meeting of the Lord before the Holy Liturgy solemnly;[^312] on other feast days, however, it is performed in brief, and that in such a manner, that after “Blessed be the name of the Lord” (*Буди имя Господне*) the Priest proclaims: “Let us pray to the Lord,” and reads the prayer: “O God Almighty,” etc. After the prayer he sprinkles the candles with holy water, saying: “These lights are sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit, Amen.”
+a) The Blessing of Candles: it is twofold: on the feast of the Meeting of the Lord before the Holy Liturgy solemnly;[^312] on other feast days, however, it is performed in brief, and that in such a manner, that after “Blessed be the name of the Lord” the Priest proclaims: “Let us pray to the Lord,” and reads the prayer: “O God Almighty,” etc. After the prayer he sprinkles the candles with holy water, saying: “These lights are sanctified by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit, Amen.”
 
 b) Grapes or vine berries and grain seeds are blessed on the feast of the Transfiguration of Christ, and that in token of thanksgiving for the receiving of these fruits and in test-
 
 === LEAF p294 ===
-[Book Page 270]
 
 (p. 270)
 
@@ -86,12 +82,11 @@ The Priest, having received from the Bishop the authority for the foundation of 
 
 On the following day, on the day of the blessing, the Priest vests in bright vestments and goes with the whole clergy, the deacons preceding him with censers, and the church servers with holy water and with other necessary things, unto this place. As they go, the cantors sing the litiya stichera of the Saint unto whom the temple will be dedicated.
 
-Having arrived at the place, they place upon the prepared Tetrapod candles, the Gospel, and the Holy Cross.[^313] And the Priest, having censed the Tetrapod cruciformly, proclaims: “Blessed is our God,” etc. After this follows: “Heavenly King,” “Trisagion,” “Our Father,” “Come, let us worship” (*Прїиди́те поклони́мся*) (three times), etc. Psalm 83: (“How lovely are Thy tabernacles, O Lord.”) The Litany of Peace and the troparia: “Thou Who hast founded it, O Christ,” etc.
+Having arrived at the place, they place upon the prepared Tetrapod candles, the Gospel, and the Holy Cross.[^313] And the Priest, having censed the Tetrapod cruciformly, proclaims: “Blessed is our God,” etc. After this follows: “Heavenly King,” “Trisagion,” “Our Father,” “Come, let us worship” (three times), etc. Psalm 83: (“How lovely are Thy tabernacles, O Lord.”) The Litany of Peace and the troparia: “Thou Who hast founded it, O Christ,” etc.
 
-After the troparia the Priest sprinkles with holy water the place where the Holy Cross is to be — or hath already been erected — and saith the prayer: “Deign, O Christ our God,” etc.; and having taken the Holy Cross, if it is not yet erected, he erects it, while the choir sings the troparion: “The Cross having been erected on the earth.” Afterwards the Priest
+After the troparia the Priest sprinkles with holy water the place where the Holy Cross is to be — or hath already been erected — and says the prayer: “Deign, O Christ our God,” etc.; and having taken the Holy Cross, if it is not yet erected, he erects it, while the choir sings the troparion: “The Cross having been erected on the earth.” Afterwards the Priest
 
 === LEAF p295 ===
-[Book Page 271]
 
 (p. 271)
 
@@ -113,16 +108,15 @@ Finally, having returned unto the place where he had begun to sprinkle, he stand
 
 Order of the Blessing of a New Church.[^315]
 
-The Priest, having permission from the Bishop, wishing to bless a new church, after the singing of Matins, vested in all the priestly vestments, goes with the other invited Priests unto the doors of the church, one holy cross preceding them, where first of all he saith secretly the prayer of intention: “O God of our action.” After this he begins in a loud voice: “Blessed is our God,” etc. “Heavenly King,” “Trisagion,” “Our Father,” “Come, let us worship” (*Прїиди́те поклони́мся*) (three times). Psalm 50.
+The Priest, having permission from the Bishop, wishing to bless a new church, after the singing of Matins, vested in all the priestly vestments, goes with the other invited Priests unto the doors of the church, one holy cross preceding them, where first of all he says secretly the prayer of intention: “O God of our action.” After this he begins in a loud voice: “Blessed is our God,” etc. “Heavenly King,” “Trisagion,” “Our Father,” “Come, let us worship” (three times). Psalm 50.
 
 === LEAF p296 ===
-[Book Page 272]
 
 (p. 272)
 
 During the reading of the Psalm the Priest, compassing round about from without the church, empty and stripped of all sanctuary adornments, sprinkles its walls with holy water, saying: “Thou shalt sprinkle me with hyssop,” etc. The cantor, having finished Psalm 50, sings the troparia: “The circuit of the sanctification today,” etc.
 
-After the sprinkling from without, the Priest, standing before the church doors, proclaims in a loud voice: “With compunction, having bowed our knees, let us pray to the Lord,” and the Priest, having bowed his knees, saith the prayer: “O Lord God of mercy,” etc.
+After the sprinkling from without, the Priest, standing before the church doors, proclaims in a loud voice: “With compunction, having bowed our knees, let us pray to the Lord,” and the Priest, having bowed his knees, says the prayer: “O Lord God of mercy,” etc.
 
 After this prayer the Priest, having arisen, signs the church doors cruciformly with his right hand, saying: “In the name of the Father, † and of the Son, † and of the Holy Spirit, † with peace let us enter.” The choir sings unto this: “In the name of the Lord,” etc., and the Priest, having opened the doors with the holy cross, first enters himself into the church, and after him the others, singing the sticheron: “Even as the house of Zacchaeus,” etc.
 
@@ -130,12 +124,11 @@ After the entry into the church the Priest stands before the Royal Doors, and th
 
 After the reading of the Psalm (if there be not the Liturgy) follow: the Prokeimenon, the Epistle, the Gospel (of the sanctification of a church), and the sticheron: “O Lord, the ranks and hosts of Angels in the heavens,” etc.[^316]
 
-And the Priest again before the great Throne proclaims: “Again and again, with compunction having bowed the knees, let us pray to the Lord,” and having bowed the knees, he saith the prayers: “O Lord God of hosts,” and “O God and Father Almighty,” etc.
+And the Priest again before the great Throne proclaims: “Again and again, with compunction having bowed the knees, let us pray to the Lord,” and having bowed the knees, he says the prayers: “O Lord God of hosts,” and “O God and Father Almighty,” etc.
 
 After this the Priest sanctifies — if they be present — the new priestly vestments, and having vested in them, and having placed the Antimension, the Epistle, the Gospel, and the Holy Cross upon the holy Altar-Table, begins the Divine Litur-
 
 === LEAF p297 ===
-[Book Page 273]
 
 (p. 273)
 
@@ -151,7 +144,7 @@ The Altar-Table is twofold: one immovable, and the other movable, that is: the A
 
 The Priest, wishing to bless an Altar-Table, vests in all the priestly vestments and, having come before the Altar-Table that is to be blessed, stands there before the placed Tetrapod. Upon this Tetrapod are placed the Cross, lighted candles, holy water, a sprinkler, and likewise also the Antimension, which must be placed upon the new Altar-Table.
 
-After this he performs this rite thus: First, standing before the Tetrapod, he proclaims: “Blessed is our God,” etc. “Heavenly King,” etc., “Trisagion,” etc., “Our Father.” “Come, let us worship” (*Прїиди́те поклони́мся*) (three times). Psalm 83: (“How lovely are Thy dwellings, O Lord,” etc.) During the Psalm the Priest sprinkles the Altar-Table with holy water, saying: “Thou shalt sprinkle me with hyssop, and I shall be cleansed; Thou shalt wash me, and I shall be made whiter than snow.” The cantor, after the Psalm, sings the troparion of the Saint whose image is above the Altar-Table.
+After this he performs this rite thus: First, standing before the Tetrapod, he proclaims: “Blessed is our God,” etc. “Heavenly King,” etc., “Trisagion,” etc., “Our Father.” “Come, let us worship” (three times). Psalm 83: (“How lovely are Thy dwellings, O Lord,” etc.) During the Psalm the Priest sprinkles the Altar-Table with holy water, saying: “Thou shalt sprinkle me with hyssop, and I shall be cleansed; Thou shalt wash me, and I shall be made whiter than snow.” The cantor, after the Psalm, sings the troparion of the Saint whose image is above the Altar-Table.
 
 The Priest, after the sprinkling, places the Antimension upon the Altar-Table, and censes the table. After this he proclaims: “With compunction, having bowed our knees, let us pray to the Lord,” and the Priest, having bowed his knees, in a loud voice reads the prayer: “O Lord God of hosts,” etc. At the end the usual dismissal of the day, and the Divine Liturgy is celebrated upon the newly-blessed Altar-Table.
 
@@ -162,7 +155,6 @@ Order of the Blessing of Altar Linens.
 The linens are placed upon the Tetrapod before the Royal Doors. The Priest, vested in epitrachelion and phelonion, goes forth from the Sanctuary and, having censed them cruciformly, proclaims in a loud voice: “Blessed is our God.” After this: Heavenly King. Trisagion. Our Father. Lord, have mercy (12 times). Come, let us worship (three times). And Psalm 92: (“The Lord reigns.”)
 
 === LEAF p298 ===
-[Book Page 274]
 
 (p. 274)
 
@@ -189,7 +181,6 @@ After this, wishing to sanctify the Star, he again proclaims: “Let us pray to 
 Finally he sanctifies the Spoon, proclaiming: “Let us pray to the Lord,” and reads the prayer: “O Lord God Almighty, with the coal taken with tongs by the Seraph,” etc. Then he sprinkles the Spoon with holy water, saying: “This Spoon is sanctified by the grace
 
 === LEAF p299 ===
-[Book Page 275]
 
 (p. 275)
 
@@ -201,13 +192,13 @@ Note: The blessing and sanctification of the Ciborium, that is, the Tabernacle, 
 
 Order of the Blessing of New Priestly Vestments.[^317]
 
-Before the Royal Doors upon the prepared Tetrapod are placed the new vestments brought for blessing. The Priest, vested in epitrachelion and phelonion, first censes them, saying as usual: “Blessed is our God,” etc. After this: “Amen.” “Heavenly King,” etc. Trisagion. Our Father. Lord, have mercy (12 times). “Come, let us worship” (*Прїиди́те поклони́мся*) (three times). And Psalm 92. After the Psalm the Priest proclaims: “Let us pray to the Lord,” and reads the prayer: “O Lord God Almighty,” etc. After this: “Peace be unto all.” “Bow your heads unto the Lord,” and the exclamation. After the exclamation the Priest sprinkles the vestments set forth with holy water, saying: “These vestments are sanctified (he names them) by the grace of the All-Holy Spirit, by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit,” etc. And the dismissal of the day and Many Years.
+Before the Royal Doors upon the prepared Tetrapod are placed the new vestments brought for blessing. The Priest, vested in epitrachelion and phelonion, first censes them, saying as usual: “Blessed is our God,” etc. After this: “Amen.” “Heavenly King,” etc. Trisagion. Our Father. Lord, have mercy (12 times). “Come, let us worship” (three times). And Psalm 92. After the Psalm the Priest proclaims: “Let us pray to the Lord,” and reads the prayer: “O Lord God Almighty,” etc. After this: “Peace be unto all.” “Bow your heads unto the Lord,” and the exclamation. After the exclamation the Priest sprinkles the vestments set forth with holy water, saying: “These vestments are sanctified (he names them) by the grace of the All-Holy Spirit, by the sprinkling of this holy water, in the name of the Father, and of the Son, and of the Holy Spirit,” etc. And the dismissal of the day and Many Years.
 
 §. 207.
 
 Order of the Blessing of Church Banners.
 
-The Priest, vested in epitrachelion and phelonion, having censed the banners, begins: “Blessed is our God,” etc., unto which the choir answers: “Amen,” and saith: “Trisagion,” and “Our Father.” After the exclamation the Priest saith: “Let us pray to the Lord,” and in a loud voice recites the prayer: “O Eternal God without beginning.” And he sprinkles the banners with holy water, saying: “These banners are sanctified by the grace of the All-Holy Spirit, by the sprinkling of this holy water: in the name of the Father, and of the Son, and of the Holy Spirit, Amen,” and the Dismissal.
+The Priest, vested in epitrachelion and phelonion, having censed the banners, begins: “Blessed is our God,” etc., unto which the choir answers: “Amen,” and says: “Trisagion,” and “Our Father.” After the exclamation the Priest says: “Let us pray to the Lord,” and in a loud voice recites the prayer: “O Eternal God without beginning.” And he sprinkles the banners with holy water, saying: “These banners are sanctified by the grace of the All-Holy Spirit, by the sprinkling of this holy water: in the name of the Father, and of the Son, and of the Holy Spirit, Amen,” and the Dismissal.
 
 §. 208.
 
@@ -216,7 +207,6 @@ Order of the Blessing of the Iconostasis.
 An Iconostasis can be erected either in a blessed church or in an unblessed church.
 
 === LEAF p300 ===
-[Book Page 276]
 
 (p. 276)
 

@@ -18,7 +18,7 @@ As the voice of the Word, direct my cries unto God, O all-wise Baptist, and deli
 Nourish me with the immortal food of Christ's commandments; give me to drink of the water of life, O Baptist and Prophet; and present me saved unto God, who flee beneath thy protection.[^10141]
 
 *Theotokion:*  
-O Sovereign Lady, pure and most-glorified Virgin, with the Forerunner pray unto Thy Son and King, to save from every necessity those who bless thee in faith.[^10142]
+O Sovereign Lady, pure and most-glorified Virgin, with the Forerunner pray unto thy Son and King, to save from every necessity those who bless thee in faith.[^10142]
 
 *Then: It is truly meet: litany, Exapostilarion, and the usual psalms.*[^10143]
 
@@ -114,7 +114,7 @@ Having traversed the water as dry land, and escaped the Egyptian evil, the Israe
 Encompassed by many temptations, I flee unto thee, seeking salvation: O Mother of the Word and Virgin, save me from grevious and cruel ills.[^10179]
 
 *Troparion 2:*  
-Assaults of passions trouble me, filling my soul with much despondency: bring peace, O Maiden, by the calm of Thy Son and God, O All-Immaculate.[^10180]
+Assaults of passions trouble me, filling my soul with much despondency: bring peace, O Maiden, by the calm of thy Son and God, O All-Immaculate.[^10180]
 
 *Glory:*  
 Having given birth unto the Savior and God, I pray thee, O Virgin, to deliver me from cruel misfortunes; for fleeing now unto thee, I stretch forth both soul and understanding.[^10181]
@@ -251,7 +251,7 @@ In the midst between two thieves, Thy Cross was found as a righteous balance: br
 
 *Glory: both now: Stavrotheotokion:*  
 *Tone 8, Podoben: "Guiding unto wisdom" (Премꙋ́дрости):*[^10226]  
-When thou didst see Him Who was incarnate of thee lifted up upon the Cross between two thieves, O Virgin, taking up lamentation, thou didst cry aloud: Woe is me, sweetest Child! How art Thou voluntarily crucified, Who takest away the sins of the world as Thou art tender-hearted? desiring as God that songs of praise be offered unto Thee by men.[^10227]
+When thou didst see Him Who was incarnate of thee lifted up upon the Cross between two thieves, O Virgin, taking up lamentation, thou didst cry aloud: Woe is me, sweetest Child! How art thou voluntarily crucified, Who takest away the sins of the world as thou art tender-hearted? desiring as God that songs of praise be offered unto thee by men.[^10227]
 
 *After the second stichology, sessional hymns. Tone 8:*[^10228]  
 In the midst of Eden a tree blossomed death, but in the midst of the earth a Tree grew life; for having at first tasted the fruit, being incorruptible, we became corruptible; but having attained the second, we enjoyed incorruption. For by the Cross, as God, Thou savest mankind.[^10229]
@@ -277,7 +277,7 @@ Beholding Thee lifted up upon the Cross, O Christ, the unwaning Sun: through fea
 A tree of old brought forth bitterness in Eden, but the Tree of the Cross blossomed sweet life; for Adam, having eaten, slipped into corruption, but we, delighting in the Flesh of Christ, are made alive, and being mystically deified receive the ever-existing Kingdom of God; therefore also in faith we cry: Glory to Thy passion, O Word.[^10237]
 
 *Glory: both now: Stavrotheotokion:*  
-Being ever preserved by the Cross of Thy Son and God, O Virgin, we overcome all demonic assaults and wiles, truly chanting of thee as the true Theotokos, and in love all generations call thee blessed, O All-Pure, even as thou didst foretell. Therefore grant remission of our sins by thy prayers.[^10238]
+Being ever preserved by the Cross of thy Son and God, O Virgin, we overcome all demonic assaults and wiles, truly chanting of thee as the true Theotokos, and in love all generations call thee blessed, O All-Pure, even as thou didst foretell. Therefore grant remission of our sins by thy prayers.[^10238]
 
 *Canon to the Precious and Life-Creating Cross.*  
 *(Whose acrostic without the Theotokia is: Thanksgiving unto God nailed to the Tree.) The work of Joseph.*[^10239]  
@@ -309,7 +309,7 @@ Standing by Thy Cross, O Lord, the Unwedded Maiden, beholding Thy wounding, O Ma
 *Refrain: Most Holy Lady Theotokos, save us.*
 
 *Troparion 1:*  
-In thee, O Virgin, have I placed the hope of my salvation; wash me clean of all defilement of sin, and make me pure, to be well-pleasing unto God and Thy Son, and to labor for His all-holy name.[^10249]
+In thee, O Virgin, have I placed the hope of my salvation; wash me clean of all defilement of sin, and make me pure, to be well-pleasing unto God and thy Son, and to labor for His all-holy name.[^10249]
 
 *Troparion 2:*  
 O Gate of light, enlighten mine eyes, which the dark serpent hath darkened by the gloom of transgressions; and open unto me the gates of repentance, O Virgin, guide me unto life, and snatch me away from flame and darkness.[^10250]

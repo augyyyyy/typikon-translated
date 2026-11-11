@@ -2,7 +2,7 @@
 [^593]: Psalm 18:1 (LXX).
 [^594]: Doxastikon of the Apostle Philip at the Aposticha in Tone 2.
 [^595]: Theotokion at the Aposticha, Tone 2: "O new wonder! Greater than all ancient wonders" (Ѡ чудесе новагѡ).
-[^596]: Troparion of the Holy Apostle Philip, Tone 3: "O holy Apostle Philip, entreat the merciful God" (Ап̃ле ст̃ый Фiлiппе).
+[^596]: Troparion of the Holy Apostle Philip, Tone 3: "O holy Apostle Philip, entreat the merciful God" (Ап̃ле ст̃ый Філіппе).
 [^597]: Alternative Troparion of the Holy Apostle Philip, Tone 3: "The universe is adorned, Ethiopia dances" (Благоукрашается вселенная). Alludes to Psalm 67:31 (LXX): "Ethiopia shall stretch out her hand unto God."
 [^598]: Theotokion in Tone 3: "Thee, who didst mediate the salvation of our race" (Тя ходатайствовавшую).
 [^599]: Tone 4, Podoben: "Thy tomb, O Savior" (Гробъ твой).
@@ -19,13 +19,13 @@
 [^610]: Tone 8, Podoben: "Of wisdom" (Премудрости).
 [^611]: Sessional Hymn Theotokion in Tone 8.
 [^612]: *Ode 4, Tone 6. Heirmos:* "Christ is my power, God and Lord" (Хр̃тосъ моя сила бг̃ъ и гд̃ь), Heirmologion Tone 6, Ode 4 (Habakkuk 3).
-[^613]: *Ode 5, Tone 6. Heirmos:* "With Thy divine light, O Good One" (Бж̃iимъ свѣтомъ твоимъ бл̃же), Heirmologion Tone 6, Ode 5 (Isaiah 26:9).
+[^613]: *Ode 5, Tone 6. Heirmos:* "With Thy divine light, O Good One" (Бж̃іимъ свѣтомъ твоимъ бл̃же), Heirmologion Tone 6, Ode 5 (Isaiah 26:9).
 [^614]: *Ode 6, Tone 6. Heirmos:* "Jonah was swallowed, yet was not held fast" (Ятъ бысть, но не удержанъ), Heirmologion Tone 6, Ode 6 (Jonah 2).
 [^615]: Tone 8, Podoben: "As first-fruits" (Яко начатки).
 [^616]: The Ikos of the Apostle Philip alludes to Psalm 103:2 ("Who coverest Thyself with light as with a garment").
 [^617]: *Ode 7, Tone 6. Heirmos:* "The Children in Babylon feared not the flame of the furnace" (Отроцы въ вавѷлонѣ), Heirmologion Tone 6, Ode 7 (Daniel 3).
-[^618]: The printed text reads `Антiнскую` (a phonetic variant of `Аттинскую` / `Аѳинскую`, referring to Attic/Athenian philosophy and sophistry).
-[^619]: *Ode 8, Tone 6. Heirmos:* "Braving danger for the ancestral laws" (За законы ѻтеческiя), Heirmologion Tone 6, Ode 8 (Daniel 3:19–20).
+[^618]: The printed text reads `Антінскую` (a phonetic variant of `Аттинскую` / `Аѳинскую`, referring to Attic/Athenian philosophy and sophistry).
+[^619]: *Ode 8, Tone 6. Heirmos:* "Braving danger for the ancestral laws" (За законы ѻтеческія), Heirmologion Tone 6, Ode 8 (Daniel 3:19–20).
 [^620]: *Ode 9, Tone 6. Heirmos:* "It is impossible for men to see God" (Бг̃а человѣкомъ невозможно видѣти), Heirmologion Tone 6, Ode 9.
 [^621]: Tone 2 (or 3), Podoben: "In the Spirit in the sanctuary" (Духомъ во святилищи).
 [^622]: Tone 8, Podoben: "O most marvelous wonder" (Ѡ преславнагѡ чудесе).
@@ -43,7 +43,7 @@
 [^634]: Rubric for the eve of the Nativity Fast.
 [^635]: Liturgical rubric governing the chanting of Alleluia on weekdays during the Nativity Fast (the "Philip's Fast"), reflecting the penitential Lenten structure of Matins.
 [^636]: At weekday Vespers with Alleluia, the Lenten Alleluia in Tone 6 replaces the daily Prokeimenon.
-[^637]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе).
+[^637]: Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе).
 [^638]: Lenten Penitential Theotokia chanted at "Lord, I have cried" when Alleluia is appointed during the Fast.
 [^639]: Tone 4, Podoben: "As one valiant" (Яко добля).
 [^640]: Idiomelic Doxastikon of the Holy Martyrs Gurias, Samonas, and Abibus in Tone 2.

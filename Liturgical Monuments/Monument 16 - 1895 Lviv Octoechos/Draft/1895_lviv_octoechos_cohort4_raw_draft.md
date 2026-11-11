@@ -151,7 +151,7 @@ Joy of the heavenly ranks, mighty protection of men upon earth, O most pure Virg
 
 *Troparion 1:* O unwedded Mother of God, all-pure one! Stretch forth thy hand unto me, and snatch me out of the depth of evils which I, most wretched one, have brought upon my passionate soul by my folly.[^289]
 
-*Troparion 2:* Arise, O pure one, unto the aid of thy servant, who placs his hope, after God, in thine invincible protection, lest the enemy prevail, and seize and destroy me.[^290]
+*Troparion 2:* Arise, O pure one, unto the aid of thy servant, who places his hope, after God, in thine invincible protection, lest the enemy prevail, and seize and destroy me.[^290]
 
 *Glory...*
 
@@ -249,7 +249,7 @@ All of us have acquired thee as an intercessor before the Lord, O Pure One, and 
 
 *Sessional Hymn 1:* Thy tribunal is fearful and Thy judgment is just, but my deeds are grievous; yet do Thou, O Merciful One, anticipate me and save me, and deliver me from torment; deliver me, O Master, from the portion of the goats, and vouchsafe me to stand on Thy right hand, O most righteous Judge![^323]
 
-*Glory... Both now... Theotokion:* Surpassing the immaterial hosts, O Maiden, and alone transcending the heavenly Ranks, thou receivest worthy praise from them, O All-pure One! But entreat Thy Son with the Angels, that I, who alone am condemned, may be delivered from the tyranny of passions.[^324]
+*Glory... Both now... Theotokion:* Surpassing the immaterial hosts, O Maiden, and alone transcending the heavenly Ranks, thou receivest worthy praise from them, O All-pure One! But entreat thy Son with the Angels, that I, who alone am condemned, may be delivered from the tyranny of passions.[^324]
 
 *Penitential Canon,*[^325]
 *whose acrostic is: "Wash away the filth of my transgressions, O Word!"*

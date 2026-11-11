@@ -93,7 +93,7 @@ A spiritual, teaching-bearing cloud hast thou truly appeared unto those upon the
 
 ...unto those who celebrate with love thy holy memory!
 
-*Glory... Podoben the same:*[^610]
+*Glory... Podoben the same (Подо́бенъ то́йже):*[^610]
 Thou didst cast down the deception of idols, having desired the passions of the Savior, O glorious Philip! Thou didst appear unto the world, pouring forth marvelous healings for all, and becoming an Apostle of the nations, O all-blessed one. Therefore we worthily honor thy memory, chanting praises: O Apostle of the Lord, pray to Christ God that He may grant the remission of sins unto those who celebrate with love thy holy memory!
 
 *Now and ever... Theotokion:*[^611]
@@ -250,7 +250,7 @@ O Mother of God, mediatress of all who pray unto thee: in thee do we take courag
 *Of the Holy Martyrs and Confessors Gurias, Samonas, and Abibus. Alleluia.*[^633]
 *Be it known that if the beginning of this Fast fall on a Saturday: on Friday evening, at "Lord, I have cried", Stichera of the saints on 6.*[^634] *If on a Sunday, Stichera first of the Octoechos, and of the saints, 3; Glory of the saints; Now and ever, Theotokion. At the Aposticha of the Octoechos, Glory of the saints; Now and ever, Theotokion. Evening, and at Matins, on "God is the Lord", Troparion of the saints; Glory... now and ever... Theotokion. On the other days, from Monday to Friday, we chant Alleluia, to honor the beginning of the holy Fast.*[^635]
 *At "Lord, I have cried", we chant Stichera first of the Theotokos, 3, and of the saints, 3; Glory... now and ever... Theotokion or Stavrotheotokion. Instead of the Prokeimenon, we chant Alleluia in Tone 6.*[^636] *At the Aposticha of the Octoechos, Glory... now and ever... Theotokion or Stavrotheotokion. At Matins, instead of "God is the Lord", we chant Alleluia and the Trinity Hymns; and after Ode 6, the Kontakion of the saints.*
-*At "Lord, I have cried", Stichera, Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменiе):*[^637]
+*At "Lord, I have cried", Stichera, Tone 4, Podoben: "Thou hast given a sign" (Далъ еси знаменіе):*[^637]
 Abibus the all-wise, and Samonas the marvelous, and Gurias the glorious, having gathered a common choir for the faithful, now dance together with us in joy, O passion-bearers, and are glad! For unto the souls of the martyrs was this granted by God, clearly to behold what takes place here!
 
 *Sticheron:*
@@ -259,7 +259,7 @@ Having endured the pains of intolerable torments, and having valiantly suffered,
 *Sticheron:*
 Having put in at the untempestuous harbor, and at the immaterial life and calm haven, O passion-bearing martyrs, having fled unto the abode of dispassion, ye have now exchanged the earthly things, worthily receiving from God the rewards of labors and the honors of sufferings, O blessed ones!
 
-*Other Stichera of the Mother of God, Tone and Podoben the same.*
+*Other Stichera of the Mother of God, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже).*
 *If Alleluia, we chant these...*
 
 === LEAF p160 ===

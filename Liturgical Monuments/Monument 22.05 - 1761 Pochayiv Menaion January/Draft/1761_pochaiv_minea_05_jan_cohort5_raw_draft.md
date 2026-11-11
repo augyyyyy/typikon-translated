@@ -46,11 +46,11 @@ The angelic hosts surrounded the Redeemer being baptized in the Jordan, and with
 *At Matins, at "God is the Lord," the Troparion of the Forefeast, twice; Glory, of the Martyr; both now, of the Forefeast.*  
 *After the 1st Kathisma, Sessional Hymn, Tone 3, Podoben: "Awed by the beauty" (Красотѣ̀ дѣ́вства):*[^177]  
 Being uncircumscribed in Godhead, yet circumscribed by bodily matter, He is willing to come to be baptized in Jordan's waters; let us receive Him with mental purity, for He is willing to work renewal for all. Unto Him let us cry aloud with fear: Glory, O Christ, to Thy manifestation!  
-*Glory, and both now, the same Podoben:*  
+*Glory, and both now, the same Podoben (Подо́бенъ то́йже):*  
 When Thou didst appear in the Jordan to be baptized in the flesh in the waters, O Savior: the angelic hosts were terrified, beholding the Master of creation standing before a servant. From on high the Father without beginning proclaimed Thee. Therefore with gladness we cry unto Thee: Glory to God Who was baptized!  
 *After the 2nd Kathisma, Sessional Hymn, Tone 5, Podoben: "The Co-beginningless Word" (Собезна́чальное сло́во):*  
 The Word co-equal in honor with the Father and the Spirit, incarnate out of compassion and being baptized, the angelic choirs seeing were trembling; and the river Jordan, ashamed and afraid, turned back; leading us who were corrupted by passions unto the height of salvation.[^178]  
-*Glory, and both now, the same Podoben:*  
+*Glory, and both now, the same Podoben (Подо́бенъ то́йже):*  
 The Word co-beginningless with the Father and the Spirit, having now taken the form of another out of compassion, comes already to be baptized for our sake: let us meet Him with pure mind, crying: Blessed art Thou, O Christ Savior Benefactor, Who comest to sanctify us![^179]  
 *Canons, three: of the Forefeast with the Heirmos to 6; and of the Prophet to 4; and of the Martyr to 4.*  
 *Canon of the Forefeast. Whose acrostic is by the alphabet. By Joseph. Tone 4.*  
@@ -238,7 +238,7 @@ The senseless in mind promises thee corruptible glory: unto thee, O Gordius, who
 Having thy hopes directed unto God, Thou didst run through the instability of life; and being cut down with the sword, Thou didst pass unto spacious breadth.[^244]  
 *Theotokion:*  
 Raise up my mind put to death by the surges of passions, O thou who didst bear the eternal Life, Christ, Who grants healings unto all.[^245]  
-*Kontakion of the Forefeast, Tone 4, Podoben:*  
+*Kontakion of the Forefeast, Tone 4, Podoben (Подо́бенъ):*  
 
 
 === LEAF p49 ===

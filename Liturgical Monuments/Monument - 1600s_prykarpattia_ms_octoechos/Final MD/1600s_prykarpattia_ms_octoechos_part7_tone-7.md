@@ -50,7 +50,7 @@ Risen from the tomb, O Savior of the world, Thou didst raise man with Thyself to
 
 Come, let us worship Him Who arose from the dead and enlightened all things; for from the tyranny of Hades He set us free by His third-day Resurrection, and granted us life and great mercy!
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 Descending into Hades, O Christ, Thou didst despoil death, and rising on the third day, Thou didst raise us with Thyself, who glorify Thine almighty rising: O Lord, Lover of mankind!
 
@@ -60,7 +60,7 @@ Fearful didst Thou appear, O Lord, lying in the tomb as sleeping; but rising on 
 
 *Theotokion:*
 
-Fleeing under thy protection, O Lady, all of us earth-born cry aloud unto thee: O Mother of God, our hope, deliver us from our boundless transgressions, and save our souls! *Now lettest Thou Thy servant depart. Trisagion through Our Father.*
+Fleeing under thy protection, O Lady, all of us earth-born cry aloud unto thee: O Mother of God, our hope, deliver us from our boundless transgressions, and save our souls! *Now lettest thou thy servant depart. Trisagion through Our Father.*
 
 *Resurrectional Troparion, Tone 7:*
 
@@ -612,7 +612,7 @@ The only Tender-hearted, the pre-eternal Word, Who in the last times was born of
 
 *Troparion:*
 
-With the light of thy childbirth, in marvelous splendor thou didst enlighten the universe, O Birth-giver of God; thou bearest in thine arms the existing God, Who sanctifies the faithful who ever cry: All ye works of the Lord, bless the Lord, and supremely exalt Him unto the ages!
+With the light of thy childbirth, in marvelous splendor thou didst enlighten the universe, O Birthgiver of God; thou bearest in thine arms the existing God, Who sanctifies the faithful who ever cry: All ye works of the Lord, bless the Lord, and supremely exalt Him unto the ages!
 
 *Troparion:*
 

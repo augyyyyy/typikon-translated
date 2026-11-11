@@ -1,6 +1,6 @@
 === LEAF p631 ===
 
-# Month of August: The Seven Holy Maccabees and the Procession of the Cross (August 1, Heading, §§ 1–3, § 4 Opening)
+## Month of August: The Seven Holy Maccabees and the Procession of the Cross (August 1, Heading, §§ 1–3, § 4 Opening)
 
 ## Τῇ Α΄: Τῶν ἁγίων ἑπτὰ Μακκαβαίων καὶ ἡ Πρόοδος τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ (Ἐπιγραφή, §§ 1–3, § 4 Ἀρχὴ) [Violakis, p. 616]
 
@@ -20,13 +20,13 @@
 
 === LEAF p632 ===
 
-# Month of August: The Seven Holy Maccabees and the Procession of the Cross (August 1, Heading, §§ 1–3, § 4 Opening)
+## Month of August: The Seven Holy Maccabees and the Procession of the Cross (August 1, Heading, §§ 1–3, § 4 Opening)
 
 ## August 1: The Seven Holy Maccabees and the Procession of the Precious and Life-Creating Cross (Heading, §§ 1–3, § 4 Opening) [Violakis, p. 617]
 
-# MONTH OF AUGUST
+## MONTH OF AUGUST
 
-### August 1: The Seven Holy Maccabees and the Procession of the Precious and Life-Creating Cross
+**August 1: The Seven Holy Maccabees and the Procession of the Precious and Life-Creating Cross**
 
 1.    At Vespers, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant 3 Prosomoia Stichira of the Cross and 3 of the Saints; "Glory...": **"The Holy Maccabees"** (*Οἱ ἅγιοι Μακκαβαῖοι*); "Both now and ever...": **"Whom Moses prefigured of old"** (*Ὅνπερ πάλαι Μωϋσῆς*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon of the day. At the Aposticha: the Stichira of the Cross, with the Verses: **"Exalt the Lord our God, and worship at His footstool, for He is holy"** (*Ὑψοῦτε Κύριον τὸν Θεὸν ἡμῶν...*, Ps. 98:5 LXX), and **"God is our King before the ages; He hath wrought salvation in the midst of the earth"** (*Ὁ δὲ Θεὸς Βασιλεὺς ἡμῶν...*, Ps. 73:12 LXX); "Glory...": of the Saints; "Both now and ever...": of the Cross. Dismissal Troparia: **"The sufferings of the Saints"** (*Τὰς ἀλγηδόνας τῶν Ἁγίων*), and **"Save, O Lord, Thy people"** (*Σῶσον Κύριε τὸν λαόν σου*) once, and Dismissal.
 
@@ -40,7 +40,7 @@
 
 === LEAF p633 ===
 
-# Month of August: The Seven Holy Maccabees (August 1, Concl. §§ 4–6); Translation of the Relics of Saint Stephen (August 2, Heading, § 1 Opening)
+## Month of August: The Seven Holy Maccabees (August 1, Concl. §§ 4–6); Translation of the Relics of Saint Stephen (August 2, Heading, § 1 Opening)
 
 ## Τῇ Α΄: Ἡ Πρόοδος τοῦ τιμίου καὶ ζωοποιοῦ Σταυροῦ (Τέλος §§ 4–6)· Τῇ Β΄: Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου (Ἐπιγραφή, § 1 Ἀρχὴ) [Violakis, p. 618]
 
@@ -50,13 +50,13 @@
 
 6.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τοῦ Σταυροῦ δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον τοῦ Σταυροῦ, καὶ τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον Ἐπὶ τοῦ Ὄρους μετεμορφώθης, Ἀπόστολος καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως Ἄξιόν ἐστιν. Κοινωνικὸν Αἰνεῖτε, Εἴδομεν τὸ φῶς καὶ Ἀπόλυσις.
 
-### Τῇ Β΄. Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου.
+**Τῇ Β΄. Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου.**
 
 1.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν εἰς τὸ Κύριε ἐκέκραξα τὰ Προσόμοια τοῦ Ἁγίου Τῇ τοῦ πνεύματος χάριτι εἰς ς΄, Δόξα τοῦ Ἁγίου, Καὶ νῦν, Τίς μὴ μακαρίσει σε, Εἴσοδος, Φῶς ἱλαρόν, καὶ τὸ Προκείμενον τῆς ἡμέρας. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Ἰδιόμελα Πρῶτος ἐν διακόνοις, μετὰ Στίχων Δίκαιος ὡς φοῖνιξ ἀνθήσει καὶ Πεφυτευμένος ἐν τῷ οἴκῳ Κυρίου, Δόξα, Χαίροις
 
 === LEAF p634 ===
 
-# Month of August: The Seven Holy Maccabees (August 1, Concl. §§ 4–6); Translation of the Relics of Saint Stephen (August 2, Heading, § 1 Opening)
+## Month of August: The Seven Holy Maccabees (August 1, Concl. §§ 4–6); Translation of the Relics of Saint Stephen (August 2, Heading, § 1 Opening)
 
 ## August 1: The Procession of the Precious Cross (Concl. §§ 4–6); August 2: Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen (Heading, § 1 Opening) [Violakis, p. 619]
 
@@ -66,37 +66,37 @@
 
 6.    In the Divine Liturgy, the Typika and 4 Beatitudes of the Tone, and 4 hymns from the Sixth Ode of the Canon of the Cross. After the Little Entrance, the Dismissal Troparia: of the Resurrection, of the Cross, and that of the Patron Saint of the Church; Kontakion: **"Thou wast transfigured upon the mountain"** (*Ἐπὶ τοῦ Ὄρους μετεμορφώθης*); Epistle and Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 
-### August 2: The Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen
+**August 2: The Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen**
 
 1.    At Vespers, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the Prosomoia of the Saint: **"By the grace of the Spirit"** (*Τῇ τοῦ πνεύματος χάριτι*) to 6 (chanting each twice); "Glory...": of the Saint; "Both now and ever...": **"Who will not bless thee"** (*Τίς μὴ μακαρίσει σε*). Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon of the day. At the Aposticha: the 3 Idiomela: **"First among deacons"** (*Πρῶτος ἐν διακόνοις*), with the Verses:...[^376]
 
 === LEAF p635 ===
 
-# Month of August: Translation of the Relics of Saint Stephen (August 2, Concl. § 1); The Order of the Paraklesis (p. 620)
+## Month of August: Translation of the Relics of Saint Stephen (August 2, Concl. § 1); The Order of the Paraklesis (p. 620)
 
 ## Τῇ Β΄: Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου (Τέλος § 1)· Ἡ Παράκλησις [Violakis, p. 620]
 
 ἐν Κυρίῳ Στέφανε μακάριε, Καὶ νῦν, Θεοτόκε σὺ εἶ ἡ ἄμπελος . . . μετὰ τοῦ Ἀθλοφόρου, Νῦν ἀπολύεις καὶ εὐθύς·
 
-### Ἡ Παράκλησις.
+**Ἡ Παράκλησις.**
 
       Ὁ Πατριάρχης (ἢ ὁ Προϊστάμενος) τὸν ψαλμὸν Κύριε εἰσάκουσον τῆς προσευχῆς μου χῦμα, εἶτα ψάλλεται ὑπὸ τῶν Χορῶν εἰς ἦχον δ΄ τὸ Θεὸς Κύριος τετράκις Τῇ Θεοτόκῳ ἐκτενῶς νῦν προσδράμωμεν . . . (Δόξα) τὸ Ἀπολυτίκιον τοῦ Ἁγίου τοῦ Ναοῦ, Καὶ νῦν, Οὐ σιωπήσωμέν ποτε Θεοτόκε καὶ ὁ Ν΄ ψαλμὸς χῦμα· εἶτα ψάλλεται ὁ Κανὼν τῆς μικρᾶς Παρακλήσεως ἄνευ τῶν Εἱρμῶν, ἀλλ᾿ εὐθὺς Ὑπεραγία Θεοτόκε σῶσον ἡμᾶς . . . Πολλοῖς συνεχόμενος πειρασμοῖς ἀνὰ δ΄ Τροπάρια ἐν ἑκάστῃ Ὠδῇ· ἀπὸ γ΄ Ὠδῆς, Διάσωσον ἀπὸ κινδύνων, καὶ Ἐπίβλεψον ἐν εὐμενείᾳ, ὁ Ἱερεὺς Ἐλέησον ἡμᾶς ὁ Θεὸς καὶ οἱ Χοροὶ τὸ Κύριε ἐλέησον τετράκις ἀνὰ τρίς, εἶτα τὸ Πρεσβεία θερμὴ καὶ ἄρχεται ὁ β΄ Χορὸς τῆς δ΄ Ὠδῆς· μετὰ τὴν ς΄ Ὠδὴν τὸ Διάσωσον ἀπὸ κινδύνων, καὶ τὸ Ἄχραντε ἡ διὰ λόγου, καὶ αὖθις ὑπὸ τοῦ Ἱερέως ἡ Ἐκτενὴς Ἐλέησον ἡμᾶς ὁ Θεός, εἶτα τὸ Κοντάκιον Προστασία τῶν χριστιανῶν καὶ εὐθὺς οἱ Χοροὶ τὸ Προκείμενον Μνησθήσομαι τοῦ ὀνόματός σου, Πᾶσα πνοὴ καὶ τὸ Εὐαγγέλιον Ἀναστᾶσα Μαριάμ, Δόξα, Πάτερ, Λόγε, Πνεῦμα, Καὶ νῦν, Ταῖς τῆς Θεοτόκου, ὁ Στίχος, Ἐλέησόν με ὁ Θεός, καὶ τὸ Μὴ καταπιστεύσῃς με . . . Οὐδεὶς προστρέχων ἐπὶ σοὶ . . . Μεταβολὴ τῶν θλιβομένων καὶ ὁ Ἱερεὺς Σῶσον ὁ Θεὸς τὸν λαόν σου, οἱ Χοροὶ τὸ Κύριε ἐλέησον ιβ΄, ὁ Ἱερεὺς Ἐλέει καὶ οἰκτιρμοῖς καὶ ψάλλεται ἡ ζ΄, η΄ καὶ θ΄ Ὠδὴ τοῦ Κανόνος. Μετὰ τὴν θ΄ Ὠδὴν ἐπισυνάπτονται καὶ τὰ Μεγαλυνάρια Ἄξιόν ἐστιν ὡς ἀληθῶς . . . τὴν Ὑψηλοτέραν τῶν οὐρανῶν κτλ. ὅταν δὲ ψάλληται τὸ Ἄλαλα τὰ χείλη τῶν ἀσεβῶν, ὁ Πατριάρχης ἀσπάζεται τὴν εἰκόνα τῆς Θεοτόκου καὶ ἐπιστρέφων (εἰς τὸν θρόνον) εὐλογεῖ τὸν λαόν, τῶν Χορῶν ψαλλόντων Εἰς πολλὰ ἔτη· εἶτα ψάλλονται καὶ τὰ λοιπὰ Μεγαλυνάρια Ψάλλομεν προθύμως σοι τὴν Ὠδήν, τὸ τοῦ Ἁγίου τοῦ Ναοῦ καὶ τὸ Πᾶσαι τῶν Ἀγγέλων αἱ στρατιαί, τὸ Τρισάγιον, τὸ Ἀπολυτίκιον τοῦ Ἁγίου Βασίλειον διάδημα, καὶ Θεοτοκίον Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον, ὁ Ἱερεὺς αὖθις Ἐλέησον ἡμᾶς ὁ Θεὸς κτλ. ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι ... καὶ οἱ Χοροὶ τὸ Κύριε ἐλέησον, ὁ Πατριάρχης Ἐπάκουσον ἡμῶν ὁ Θεός, ὁ Ἱερεὺς Σοφία,
 
 === LEAF p636 ===
 
-# Month of August: Translation of the Relics of Saint Stephen (August 2, Concl. § 1); The Order of the Paraklesis (p. 621)
+## Month of August: Translation of the Relics of Saint Stephen (August 2, Concl. § 1); The Order of the Paraklesis (p. 621)
 
 ## August 2: Translation of the Relics of Saint Stephen (Concl. § 1); The Order of the Paraklesis [Violakis, p. 621]
 
 ...**"The righteous shall flourish like a palm tree, he shall grow like a cedar in Lebanon"** (*Δίκαιος ὡς φοῖνιξ ἀνθήσει*, Ps. 91:13 LXX), and **"Those that are planted in the house of the Lord shall flourish in the courts of our God"** (*Πεφυτευμένος ἐν τῷ οἴκῳ Κυρίου*, Ps. 91:14 LXX); "Glory...": **"Rejoice in the Lord, O blessed Stephen"** (*Χαίροις ἐν Κυρίῳ Στέφανε μακάριε*); "Both now and ever...": **"O Theotokos, thou art the true vine... with the Prize-bearer"** (*Θεοτόκε σὺ εἶ ἡ ἄμπελος . . . μετὰ τοῦ Ἀθλοφόρου*); **"Now lettest Thou Thy servant depart"** (*Νῦν ἀπολύεις*), and immediately:
 
-### The Order of the Paraklesis (Supplicatory Canon)
+**The Order of the Paraklesis (Supplicatory Canon)**
 
-      The Patriarch (or the Superior) reads Psalm 142 [LXX] **"O Lord, hear my prayer"** (*Κύριε εἰσάκουσον τῆς προσευχῆς μου*) in a low voice [recto tono]; then the Choirs chant "God is the Lord" four times in Tone 4, with **"Unto the Theotokos let us now run earnestly"** (*Τῇ Θεοτόκῳ ἐκτενῶς νῦν προσδράμωμεν*); "Glory...": the Dismissal Troparion of the Patron Saint of the Church; "Both now and ever...": **"Never will we be silent, O Theotokos"** (*Οὐ σιωπήσωμέν ποτε Θεοτόκε*); and Psalm 50 [LXX] is read in a low voice. Then the Canon of the Small Paraklesis is chanted without the Heirmoi, beginning immediately with: **"Most Holy Theotokos, save us"** (*Ὑπεραγία Θεοτόκε σῶσον ἡμᾶς*), **"Held captive by many temptations"** (*Πολλοῖς συνεχόμενος πειρασμοῖς*), with 4 Troparia in each Ode. After Ode 3: **"Deliver from dangers"** (*Διάσωσον ἀπὸ κινδύνων*), and **"Look down with loving-kindness"** (*Ἐπίβλεψον ἐν εὐμενείᾳ*); the Priest says the Litany: **"Have mercy on us, O God"** (*Ἐλέησον ἡμᾶς ὁ Θεός*), and the Choirs respond with **"Lord, have mercy"** (*Κύριε ἐλέησον*) four times in groups of three; then the Sessional Hymn: **"Fervent advocate"** (*Πρεσβεία θερμή*), and the Second Choir begins Ode 4. After Ode 6: **"Deliver from dangers"** (*Διάσωσον ἀπὸ κινδύνων*), and **"O Undefiled One, who by a word"** (*Ἄχραντε ἡ διὰ λόγου*); and again the Priest says the Insistent Litany: **"Have mercy on us, O God"**; then the Kontakion: **"Protection of Christians"** (*Προστασία τῶν χριστιανῶν*), and immediately the Choirs chant the Prokeimenon: **"I will remember Thy name in every generation and generation"** (*Μνησθήσομαι τοῦ ὀνόματός σου*, Ps. 44:18 LXX); **"Let everything that hath breath praise the Lord"** (*Πᾶσα πνοή*), and the Gospel: **"Mary arose in those days"** (*Ἀναστᾶσα Μαριάμ*, Luke 1:39–49, 56); "Glory...": **"Father, Word, and Spirit"** (*Πάτερ, Λόγε, Πνεῦμα*); "Both now and ever...": **"By the intercessions of the Theotokos"** (*Ταῖς τῆς Θεοτόκου*); the Verse: **"Have mercy on me, O God, according to Thy great mercy"** (*Ἐλέησόν με ὁ Θεός*, Ps. 50:1 LXX), and the Idiomelon: **"Entrust me not to human protection"** (*Μὴ καταπιστεύσῃς με ἀνθρωπίνῃ προστασίᾳ*); **"No one who runneth to thee"** (*Οὐδεὶς προστρέχων ἐπὶ σοί*); **"A relief to those in affliction"** (*Μεταβολὴ τῶν θλιβομένων*). The Priest proclaims: **"Save, O God, Thy people"** (*Σῶσον ὁ Θεὸς τὸν λαόν σου*); the Choirs chant **"Lord, have mercy"** 12 times; the Priest says the Prayer: **"Through the mercy and compassions"** (*Ἐλέει καὶ οἰκτιρμοῖς*); and Odes 7, 8, and 9 of the Canon are chanted. After Ode 9, the Megalynaria are joined: **"It is truly right to bless thee"** (*Ἄξιόν ἐστιν ὡς ἀληθῶς*)... **"Higher than the heavens"** (*Τὴν Ὑψηλοτέραν τῶν οὐρανῶν*), etc. When **"Speechless be the lips of the impious"** (*Ἄλαλα τὰ χείλη τῶν ἀσεβῶν*) is chanted, the Patriarch venerates the icon of the Theotokos and, returning to the Throne, blesses the people, while the Choirs chant: **"Many years, O Master"** (*Εἰς πολλὰ ἔτη*); then the remaining Megalynaria are chanted: **"Eagerly we offer thee this hymn"** (*Ψάλλομεν προθύμως σοι τὴν Ὠδήν*), that of the Patron Saint of the Church, and **"All the armies of the Angels"** (*Πᾶσαι τῶν Ἀγγέλων αἱ στρατιαί*); the Trisagion Prayers; the Dismissal Troparion of the Saint: **"A royal diadem"** (*Βασίλειον διάδημα*), and the Theotokion: **"The mystery hidden from all ages"** (*Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον*). The Priest says again: **"Have mercy on us, O God, according to Thy great mercy"** (*Ἐλέησον ἡμᾶς ὁ Θεός*), etc., **"Again we pray that this holy church may be preserved..."** (*Ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι...*), and the Choirs respond: **"Lord, have mercy"**; the Patriarch says: **"Hear us, O God our Savior"** (*Ἐπάκουσον ἡμῶν ὁ Θεός*); the Priest: **"Wisdom"** (*Σοφία*); the Patriarch:...[^377]
+      The Patriarch (or the Superior) reads Psalm 142 [LXX] **"O Lord, hear my prayer"** (*Κύριε εἰσάκουσον τῆς προσευχῆς μου*) in a low voice [recto tono]; then the Choirs chant "God is the Lord" four times in Tone 4, with **"Unto the Theotokos let us now run earnestly"** (*Τῇ Θεοτόκῳ ἐκτενῶς νῦν προσδράμωμεν*); "Glory...": the Dismissal Troparion of the Patron Saint of the Church; "Both now and ever...": **"Never will we be silent, O Theotokos"** (*Οὐ σιωπήσωμέν ποτε Θεοτόκε*); and Psalm 50 [LXX] is read in a low voice. Then the Canon of the Small Paraklesis is chanted without the Heirmoi, beginning immediately with: **"Most Holy Theotokos, save us"** (*Ὑπεραγία Θεοτόκε σῶσον ἡμᾶς*), **"Held captive by many temptations"** (*Πολλοῖς συνεχόμενος πειρασμοῖς*), with 4 Troparia in each Ode. After Ode 3: **"Deliver from dangers"** (*Διάσωσον ἀπὸ κινδύνων*), and **"Look down with loving-kindness"** (*Ἐπίβλεψον ἐν εὐμενείᾳ*); the Priest says the Litany: **"Have mercy on us, O God"** (*Ἐλέησον ἡμᾶς ὁ Θεός*), and the Choirs respond with **"Lord, have mercy"** (*Κύριε ἐλέησον*) four times in groups of three; then the Sessional Hymn: **"Fervent advocate"** (*Πρεσβεία θερμή*), and the Second Choir begins Ode 4. After Ode 6: **"Deliver from dangers"** (*Διάσωσον ἀπὸ κινδύνων*), and **"O Undefiled One, who by a word"** (*Ἄχραντε ἡ διὰ λόγου*); and again the Priest says the Insistent Litany: **"Have mercy on us, O God"**; then the Kontakion: **"Protection of Christians"** (*Προστασία τῶν χριστιανῶν*), and immediately the Choirs chant the Prokeimenon: **"I will remember Thy name in every generation and generation"** (*Μνησθήσομαι τοῦ ὀνόματός σου*, Ps. 44:18 LXX); **"Let everything that hath breath praise the Lord"** (*Πᾶσα πνοή*), and the Gospel: **"Mary arose in those days"** (*Ἀναστᾶσα Μαριάμ*, Luke 1:39–49, 56); "Glory...": **"Father, Word, and Spirit"** (*Πάτερ, Λόγε, Πνεῦμα*); "Both now and ever...": **"By the intercessions of the Theotokos"** (*Ταῖς τῆς Θεοτόκου*); the Verse: **"Have mercy on me, O God, according to Thy great mercy"** (*Ἐλέησόν με ὁ Θεός*, Ps. 50:1 LXX), and the Idiomelon: **"Entrust me not to human protection"** (*Μὴ καταπιστεύσῃς με ἀνθρωπίνῃ προστασίᾳ*); **"No one who runs to thee"** (*Οὐδεὶς προστρέχων ἐπὶ σοί*); **"A relief to those in affliction"** (*Μεταβολὴ τῶν θλιβομένων*). The Priest proclaims: **"Save, O God, Thy people"** (*Σῶσον ὁ Θεὸς τὸν λαόν σου*); the Choirs chant **"Lord, have mercy"** 12 times; the Priest says the Prayer: **"Through the mercy and compassions"** (*Ἐλέει καὶ οἰκτιρμοῖς*); and Odes 7, 8, and 9 of the Canon are chanted. After Ode 9, the Megalynaria are joined: **"It is truly right to bless thee"** (*Ἄξιόν ἐστιν ὡς ἀληθῶς*)... **"Higher than the heavens"** (*Τὴν Ὑψηλοτέραν τῶν οὐρανῶν*), etc. When **"Speechless be the lips of the impious"** (*Ἄλαλα τὰ χείλη τῶν ἀσεβῶν*) is chanted, the Patriarch venerates the icon of the Theotokos and, returning to the Throne, blesses the people, while the Choirs chant: **"Many years, O Master"** (*Εἰς πολλὰ ἔτη*); then the remaining Megalynaria are chanted: **"Eagerly we offer thee this hymn"** (*Ψάλλομεν προθύμως σοι τὴν Ὠδήν*), that of the Patron Saint of the Church, and **"All the armies of the Angels"** (*Πᾶσαι τῶν Ἀγγέλων αἱ στρατιαί*); the Trisagion Prayers; the Dismissal Troparion of the Saint: **"A royal diadem"** (*Βασίλειον διάδημα*), and the Theotokion: **"The mystery hidden from all ages"** (*Τὸ ἀπ᾿ αἰῶνος ἀπόκρυφον*). The Priest says again: **"Have mercy on us, O God, according to Thy great mercy"** (*Ἐλέησον ἡμᾶς ὁ Θεός*), etc., **"Again we pray that this holy church may be preserved..."** (*Ἔτι δεόμεθα ὑπὲρ τοῦ διαφυλαχθῆναι...*), and the Choirs respond: **"Lord, have mercy"**; the Patriarch says: **"Hear us, O God our Savior"** (*Ἐπάκουσον ἡμῶν ὁ Θεός*); the Priest: **"Wisdom"** (*Σοφία*); the Patriarch:...[^377]
 
 === LEAF p637 ===
 
-# Month of August: The Order of the Paraklesis (Concl.); Translation of the Relics of Saint Stephen (August 2, Concl. § 2, Sunday Occurrence with Great Paraklesis) (p. 622)
+## Month of August: The Order of the Paraklesis (Concl.); Translation of the Relics of Saint Stephen (August 2, Concl. § 2, Sunday Occurrence with Great Paraklesis) (p. 622)
 
 ## Τῇ Β΄: Ἡ Παράκλησις (Τέλος)· Ἡ Ἀνακομιδὴ τοῦ λειψάνου τοῦ ἁγίου Πρωτομάρτυρος καὶ Ἀρχιδιακόνου Στεφάνου (Τέλος § 2) [Violakis, p. 622]
 
@@ -115,7 +115,7 @@
 
 === LEAF p638 ===
 
-# Month of August: The Order of the Paraklesis (Concl.); Translation of the Relics of Saint Stephen (August 2, Concl. § 2, Sunday Occurrence with Great Paraklesis) (p. 623)
+## Month of August: The Order of the Paraklesis (Concl.); Translation of the Relics of Saint Stephen (August 2, Concl. § 2, Sunday Occurrence with Great Paraklesis) (p. 623)
 
 ## August 2: The Order of the Paraklesis (Concl.); Translation of the Relics of Saint Stephen (Concl. § 2, Sunday Occurrence with Great Paraklesis) [Violakis, p. 623]
 
@@ -134,7 +134,7 @@
 
 === LEAF p639 ===
 
-# Month of August: Forefeast of the Transfiguration of our Lord Jesus Christ, and Holy Martyr Eusignius (August 5, Heading, §§ 1–3, § 4 Opening)
+## Month of August: Forefeast of the Transfiguration of our Lord Jesus Christ, and Holy Martyr Eusignius (August 5, Heading, §§ 1–3, § 4 Opening)
 
 ## Τῇ Ε΄: Προεόρτια τῆς Μεταμορφώσεως τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, καὶ τοῦ ἁγίου Μάρτυρος Εὐσιγνίου (Ἐπιγραφή, §§ 1–3, § 4 Ἀρχὴ) [Violakis, p. 624]
 
@@ -150,15 +150,15 @@
 
 === LEAF p640 ===
 
-# Month of August: Forefeast of the Transfiguration of our Lord Jesus Christ, and Holy Martyr Eusignius (August 5, Heading, §§ 1–3, § 4 Opening)
+## Month of August: Forefeast of the Transfiguration of our Lord Jesus Christ, and Holy Martyr Eusignius (August 5, Heading, §§ 1–3, § 4 Opening)
 
 ## August 5: Forefeast of the Transfiguration of our Lord and Savior Jesus Christ, and the Holy Martyr Eusignius (Heading, §§ 1–3, § 4 Opening) [Violakis, p. 625]
 
-### August 5: The Forefeast of the Transfiguration of our Lord and Savior Jesus Christ, and the Holy Martyr Eusignius
+**August 5: The Forefeast of the Transfiguration of our Lord and Savior Jesus Christ, and the Holy Martyr Eusignius**
 
 1.    If the Forefeast of the Transfiguration falls on any other day except Sunday, the service is chanted according to the order in the Menaion, and Little Entrance is made. After **"Now lettest Thou Thy servant depart"** (*Νῦν ἀπολύεις*), the Paraklesis is chanted as is customary; and at the conclusion, after the Trisagion Prayers, the Forefeast Dismissal Troparion: **"Let us go forth to meet the Transfiguration of Christ"** (*Χριστοῦ τὴν Μεταμόρφωσιν προϋπαντήσωμεν*) is chanted once, then the Insistent Litany, and Dismissal.
 
-2.    In the morning at Matins, after the Midnight Office, the Trisagion Prayers, the Dismissal Troparion, and the Six Psalms. At "God is the Lord": the Forefeast Dismissal Troparion twice, and the Psalter reading; the Forefeast Sessional Hymns, and Psalm 50 [LXX] in a low voice; then the Canons, with the verse: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι ὁ Θεός*); after Odes 3 and 6, the Heirmoi and the Litanies; at Ode 9, the Heirmos of the Eighth Ode is chanted: **"Christ the King"** (*Τὸν βασιλέα Χριστόν*), and we chant the Magnifications: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*); then the Heirmos of the Ninth Ode: **"Thee, the unwedded Theotokos"** (*Σὲ τὴν ἀπειρόγαμον Θεοτόκον*); then the Forefeast Exaposteilarion twice. At the Praises: the Prosomoia: **"Of the all-holy and glorious Transfiguration"** (*Τῆς παναγίας ἐνδόξου Μεταμορφώσεως*) to 4 (seek in the Aposticha, or rather in the Menaion at Matins immediately after the Exaposteilaria); "Glory... Both now and ever...": **"The fulfillment of the Law and the Prophets, O Christ"** (*Νόμου καὶ Προφητῶν σε Χριστέ*, seek in the Litiya of the Feast); **"To Thee belongeth glory"** (*Σοὶ δόξα πρέπει*) in a low voice. At the Aposticha: the Prosomoia: **"With the radiance of virtues"** (*Φέγγει τῶν ἀρετῶν*), which were chanted yesterday at Vespers.
+2.    In the morning at Matins, after the Midnight Office, the Trisagion Prayers, the Dismissal Troparion, and the Six Psalms. At "God is the Lord": the Forefeast Dismissal Troparion twice, and the Psalter reading; the Forefeast Sessional Hymns, and Psalm 50 [LXX] in a low voice; then the Canons, with the verse: **"Glory to Thee, our God, glory to Thee"** (*Δόξα σοι ὁ Θεός*); after Odes 3 and 6, the Heirmoi and the Litanies; at Ode 9, the Heirmos of the Eighth Ode is chanted: **"Christ the King"** (*Τὸν βασιλέα Χριστόν*), and we chant the Magnifications: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*); then the Heirmos of the Ninth Ode: **"Thee, the unwedded Theotokos"** (*Σὲ τὴν ἀπειρόγαμον Θεοτόκον*); then the Forefeast Exaposteilarion twice. At the Praises: the Prosomoia: **"Of the all-holy and glorious Transfiguration"** (*Τῆς παναγίας ἐνδόξου Μεταμορφώσεως*) to 4 (seek in the Aposticha, or rather in the Menaion at Matins immediately after the Exaposteilaria); "Glory... Both now and ever...": **"The fulfillment of the Law and the Prophets, O Christ"** (*Νόμου καὶ Προφητῶν σε Χριστέ*, seek in the Litiya of the Feast); **"To Thee belongs glory"** (*Σοὶ δόξα πρέπει*) in a low voice. At the Aposticha: the Prosomoia: **"With the radiance of virtues"** (*Φέγγει τῶν ἀρετῶν*), which were chanted yesterday at Vespers.
 
 3.    In the Divine Liturgy, the Antiphons: **"It is good to give praise unto the Lord"** (*Ἀγαθὸν τὸ ἐξομολογεῖσθαι τῷ Κυρίῳ*, Ps. 91:2 LXX); **"The Lord is King"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX); **"O come, let us sing unto the Lord... Save us, O Son of God, Who art wonderful in the saints..."** (*Δεῦτε ἀγαλλιασώμεθα τῷ Κυρίῳ... Σῶσον ἡμᾶς... ὁ ἐν ἁγίοις θαυμαστός*, Ps. 94:1 LXX). After the Little Entrance: **"O come, let us worship... Who art wonderful in the saints"** (*Δεῦτε προσκυνήσωμεν... ὁ ἐν ἁγίοις θαυμαστός*); the Forefeast Dismissal Troparion; that of the Patron Saint of the Church; and the Forefeast Kontakion: **"In the divine Transfiguration today"** (*Ἐν τῇ θείᾳ σήμερον Μεταμορφώσει*). Epistle: **"Brethren, blessed be God"** (*Ἀδελφοί, εὐλογητὸς ὁ Θεός*, see Friday of the 32nd Week, 2 Cor. 1:3–7 LXX), and the Gospel of the day. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn of the day; **"We have seen the true light"** (*Εἴδομεν τὸ φῶς*), and Dismissal.
 

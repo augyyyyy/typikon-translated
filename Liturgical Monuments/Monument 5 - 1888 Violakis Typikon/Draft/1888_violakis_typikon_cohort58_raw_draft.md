@@ -6,7 +6,7 @@
 
 διατεταγμένη ἐν τῷ Μηναίῳ μετὰ τῶν μεθεόρτων· εἰς τὴν θ΄ στιχολογοῦμεν Τὴν τιμιωτέραν. Μετὰ τὴν Εἴσοδον, Δεῦτε προσκυνήσωμεν . . . ὁ ἐν δόξῃ ἀναληφθείς, Ἀπόστολος καὶ Εὐαγγέλιον λέγονται τὰ τοῦ Εὐαγγελιστοῦ. Εἰς τὸ Ἐξαιρέτως, τὸ Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς πᾶσαν τὴν γῆν, Ἀνελήφθης ἐν δόξῃ κτλ.
 
-### Ζ΄.
+**Ζ΄.**
 
 17.    Εἰ τύχοι τῇ Κυριακῇ τῶν Ἁγίων Πατέρων, ἡ Ἀκολουθία τῆς Ἀναλήψεως καταλιμπάνεται, καὶ ψάλλεται ἡ ἀναστάσιμος Ἀκολουθία, ἡ τοῦ Εὐαγγελιστοῦ καὶ ἡ τῶν Πατέρων ὡς ἑξῆς. Τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν Ἀναστάσιμα γ΄, τοῦ Εὐαγγελιστοῦ γ΄ καὶ τῶν Πατέρων δ΄. Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν, τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα δύο τοῦ Εὐαγγελιστοῦ καὶ ἓν τῶν Πατέρων. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, Δόξα τοῦ Εὐαγγελιστοῦ, Καὶ νῦν τῶν Πατέρων, τὸ Ἀναστάσιμον Ἀπολυτίκιον, τοῦ Εὐαγγελιστοῦ, τῶν Πατέρων τὸ Ἀνελήφθης ἐν δόξῃ ἀντὶ Θεοτοκίου, καὶ Ἀπόλυσις.
 
@@ -20,7 +20,7 @@
 
 ...with the hymns of the Afterfeast; at the Ninth Ode we sing the Magnifications: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). At the Little Entrance, the Entrance Hymn [Eisodikon]: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who wast taken up in glory"** (*Δεῦτε προσκυνήσωμεν . . . ὁ ἐν δόξῃ ἀναληφθείς*); the Epistle and Gospel of the Evangelist are read. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Unto all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX); the Dismissal Troparion **"Thou hast ascended in glory, O Christ our God"** (*Ἀνελήφθης ἐν δόξῃ*), etc.
 
-### SITUATION SEVEN
+**SITUATION SEVEN**
 
 17.    If the Feast of Saint John the Evangelist occurs on the Sunday of the Holy Fathers, the service of the Ascension is omitted, and the services of the Resurrection, of the Evangelist, and of the Fathers are sung as follows: On Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing 3 Resurrection Stichira, 3 of the Evangelist, and 4 of the Fathers; "Glory...": of the Evangelist; "Both now and ever...": the first Theotokion of the Tone. Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Lessons: 2 of the Evangelist and 1 of the Fathers. At the Aposticha: the Resurrection Stichira; "Glory...": of the Evangelist; "Both now and ever...": of the Fathers. The Resurrection Dismissal Troparion, that of the Evangelist, and of the Fathers the Troparion of the Ascension: **"Thou hast ascended in glory, O Christ our God"** (*Ἀνελήφθης ἐν δόξῃ*) instead of a Theotokion, and Dismissal.
 
@@ -36,7 +36,7 @@
 
 19.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ δ΄ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τοῦ Εὐαγγελιστοῦ. Μετὰ τὴν Εἴσοδον, Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστὰς ἐκ νεκρῶν, τὸ Ἀναστάσιμον Ἀπολυτίκιον, τῆς ἑορτῆς, τοῦ Εὐαγγελιστοῦ, τῶν Πατέρων, τοῦ Ἁγίου τοῦ Ναοῦ, καὶ Κοντάκιον Τὴν ὑπὲρ ἡμῶν, Ἀπόστολος τοῦ Εὐαγγελιστοῦ, καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Αἰνεῖτε, Ἀνελήφθης ἐν δόξῃ καὶ Ἀπόλυσις.
 
-### Η΄.
+**Η΄.**
 
 20.    Εἰ τύχοι τῇ Παρασκευῇ τῆς ἑβδομάδος ταύτης, ἐν ᾗ ἀποδίδοται ἡ ἑορτὴ τῆς Ἀναλήψεως, ἡ Ἀκολουθία τῆς ἑορτῆς μετὰ τῆς τοῦ Εὐαγγελιστοῦ ψάλλεται ὡς ἐν τῇ ἰδίᾳ ἡμέρᾳ τῆς ἑορτῆς (§ 13-15), ἐξαιρουμένων τῶν τῆς ἑορτῆς Ἀναγνωσμάτων ἐν τῷ Ἑσπερινῷ, ἐν τῷ Ὄρθρῳ, τῆς Λιτῆς τῆς ἑορτῆς καὶ τοῦ Εὐαγγελίου. Ἐν δὲ τῇ Λειτουργίᾳ, Ἀπόστολος καὶ Εὐαγγέλιον λέγονται τοῦ Εὐαγγελιστοῦ καὶ Κοινωνικὸν τῆς ἑορτῆς.
 
@@ -44,8 +44,8 @@
 
 ## Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης
 
-### ΠΕΡΙΠΤΩΣΕΙΣ
-### Α΄.
+**ΠΕΡΙΠΤΩΣΕΙΣ**
+**Α΄.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Ἁγίου τῷ Σαββάτῳ τῆς ἑβδομάδος τοῦ Παραλύτου, ἡ Ἀκολουθία τοῦ Ἁγίου μετὰ τῶν μεθεόρτων τῆς
 
@@ -59,7 +59,7 @@
 
 19.    In the Divine Liturgy, the Typika and the Beatitudes of the Tone in 4 and 4 from Ode 6 of the Canon of the Evangelist. The Entrance Hymn [Eisodikon]: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who art risen from the dead"** (*Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστὰς ἐκ νεκρῶν*). After the Entrance, the Resurrection Dismissal Troparion, that of the Feast, that of the Evangelist, that of the Fathers, that of the Patron Saint of the Church, and the Kontakion: **"When for us Thou hadst fulfilled Thy dispensation"** (*Τὴν ὑπὲρ ἡμῶν*); the Epistle of the Evangelist and the Gospel of the Sunday. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Praise the Lord from the heavens"** (*Αἰνεῖτε*, Ps. 148:1 LXX); the Dismissal Troparion **"Thou hast ascended in glory, O Christ our God"** (*Ἀνελήφθης ἐν δόξῃ*), and Dismissal.
 
-### SITUATION EIGHT
+**SITUATION EIGHT**
 
 20.    If the Feast of the Evangelist occurs on Friday of this week, which is the Apodosis of the Feast of the Ascension, the service of the Feast together with that of the Evangelist is celebrated as on the day of the Feast (Paragraphs 13–15), with the following exceptions: in Vespers there are no Old Testament Readings of the Feast; in Matins we omit the Litiya and Gospel of the Feast. In the Divine Liturgy, the Epistle and Gospel of the Evangelist are read, and the Communion Hymn is of the Feast.
 
@@ -67,8 +67,8 @@
 
 ## May 21: The Holy Glorious Kings and Equals-to-the-Apostles Constantine and Helen
 
-### SITUATIONS
-### SITUATION ONE
+**SITUATIONS**
+**SITUATION ONE**
 
 1.    If the commemoration of the Saints occurs on the Saturday of the Week of the Paralytic (that is, the Saturday after Mid-Pentecost and the day before the...[^346]
 
@@ -82,7 +82,7 @@
 
 2.    Εἰς τὸν Ὄρθρον, ὁ Κανὼν τῆς ἑορτῆς καὶ ὁ τοῦ Ἁγίου, αἱ Καταβασίαι τῆς ἑορτῆς, Τὴν τιμιωτέραν, τὸ Ἐξαποστειλάριον τοῦ Ἁγίου καὶ τὸ τῆς ἑορτῆς. Εἰς τοὺς Αἴνους, τὰ Στιχηρὰ τοῦ Ἁγίου εἰς δ΄, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῆς ἑορτῆς, Δοξολογία Μ. τὸ Ἀπολυτίκιον τοῦ Ἁγίου καὶ ἀκολούθως ἡ Λειτουργία, ἐν ᾗ ψάλλονται τὰ Ἀντίφωνα τοῦ Πάσχα καὶ τὸ Εἰσοδικόν. Μετὰ τὴν Εἴσοδον, τὸ Ἀπολυτίκιον τῆς ἑορτῆς, τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ, Κοντάκιον τῆς ἑορτῆς. Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου. Εἰς τὸ Ἐξαιρέτως, Ἄξιόν ἐστιν, Κοινωνικὸν Εἰς πᾶσαν τὴν γῆν, Χριστὸς ἀνέστη, Εἴη τὸ ὄνομα Κυρίου καὶ Ἀπόλυσις.
 
-### Β΄.
+**Β΄.**
 
 3.    Εἰ τύχοι τῇ Κυριακῇ τῆς Σαμαρείτιδος, καταλιμπάνεται ἡ Ἀκολουθία τῆς Μεσοπεντηκοστῆς, ψαλλομένου μόνου τοῦ Ἀπολυτικίου ἐν τῷ Ἑσπερινῷ καὶ τῷ Ὄρθρῳ, ὡς καὶ μετὰ τὴν Εἴσοδον ἐν τῇ Λειτουργίᾳ ὡς ἑξῆς· Τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα, ψάλλομεν Ἀναστάσιμα δ΄, τῆς Σαμαρείτιδος β΄ καὶ τοῦ Ἁγίου δ΄, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῆς Σαμαρείτιδος, Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα τοῦ Ἁγίου. Εἰς τὰ Ἀπόστιχα, τὸ ἀναστάσιμον Στιχηρὸν καὶ τὰ Πάσχα ἱερόν, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῆς Σαμαρείτιδος, τὸ ἀναστάσιμον Ἀπολυτίκιον, τοῦ Ἁγίου, τῆς ἑορτῆς καὶ Ἀπόλυσις.
 
@@ -98,7 +98,7 @@
 
 2.    At Matins, the Canon of the Feast and that of the Saints; the Katavasiai of the Feast; **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*); the Exapostilarion of the Saints and that of the Feast. At the Praises: the 4 Stichira of the Saints; "Glory...": of the Saints; "Both now and ever...": of the Feast; Great Doxology, and the Dismissal Troparion of the Saints. Then follows the Divine Liturgy, in which we chant the Antiphons and Entrance Hymn [Eisodikon] of Pascha. After the Entrance, the Dismissal Troparia: of the Feast, of the Saints, and of the Patron Saint of the Church, and the Kontakion of the Feast; the Epistle and Gospel of the Saints. At "Especially" [Megalynarion], **"It is truly right"** (*Ἄξιόν ἐστιν*); Communion Hymn: **"Unto all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX); **"Christ is risen"** (*Χριστὸς ἀνέστη*), **"Blessed be the name of the Lord"** (*Εἴη τὸ ὄνομα Κυρίου*, Ps. 112:2 LXX), and Dismissal.
 
-### SITUATION TWO
+**SITUATION TWO**
 
 3.    If the Feast of the Saints occurs on the Sunday of the Samaritan Woman, the service of Mid-Pentecost is omitted; only the Dismissal Troparion is sung at Vespers and at Matins, as well as after the Entrance in the Divine Liturgy. The services are performed as follows: On Saturday evening, after the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing 4 Resurrection Stichira, 2 of the Samaritan Woman, and 4 of the Saints; "Glory...": of the Saints; "Both now and ever...": of the Samaritan Woman. Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings of the Saints. At the Aposticha: the Resurrection Stichiron of the Tone and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": of the Saints; "Both now and ever...": of the Samaritan Woman. The Dismissal Troparia: of the Resurrection, of the Saints, and of the Feast, and Dismissal.
 
@@ -115,11 +115,11 @@
 5.    Εἰς τὴν Λειτουργίαν, τὰ Ἀντίφωνα καὶ τὸ Εἰσοδικὸν τοῦ Πάσχα, μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῆς ἑορτῆς, τοῦ Ἁγίου, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον τοῦ Πάσχα. Ἀπόστολος τοῦ Ἁγίου, καὶ Εὐαγγέλιον τῆς Κυριακῆς. Εἰς τὸ Ἐξαιρέτως, Ὁ Ἄγγελος ἐβόα . . . Φωτίζου φωτίζου, Κοινωνικὸν τοῦ Πάσχα, Χριστὸς ἀνέστη, Εἴη τὸ ὄνομα Κυρίου, καὶ Ἀπόλυσις.
     Εἰ δὲ τύχοι ἐν τῇ Ἀποδόσει τῆς Μεσοπεντηκοστῆς τὴν διάταξιν ὅρα ἐν τῇ ἑορτῇ τοῦ Ἁγίου Γεωργίου § 31.
 
-### Γ΄.
+**Γ΄.**
 
 6.    Εἰ τύχοι ἐν πάσῃ ἄλλῃ ἡμέρᾳ, πλὴν Κυριακῆς, μέχρι τῆς Ἀποδόσεως τοῦ Πάσχα, ἡ Ἀκολουθία ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ μετὰ τῶν μεθεόρτων τῆς προλαβούσης Κυριακῆς. Κοινωνικὸν Εἰς πᾶσαν τὴν γῆν.
 
-### Δ΄.
+**Δ΄.**
 
 7.    Εἰ τύχοι τῇ Κυριακῇ τοῦ Τυφλοῦ, τὴν διάταξιν τῆς Ἀκολουθίας ὅρα ἐν τῇ ἑορτῇ τοῦ ἁγίου Ἰωάννου τοῦ Θεολόγου ἐν § 7-9. Εἰς τὸν Ὄρθρον, τὰ Καθίσματα, ἐν μὲν τῇ α΄ καὶ β΄ Στιχολογίᾳ τὸ Ἀναστάσιμον, τὸ τοῦ Ἁγίου, καὶ τὸ Θεοτοκίον, ἐν δὲ τῇ γ΄ τὸ τοῦ Ἁγίου, καὶ τὸ Θεοτοκίον.
 
@@ -135,11 +135,11 @@
 
     If the Feast (May 21) occurs on the Apodosis of Mid-Pentecost, see the Feast of Saint George, Paragraph 31 for the order of the service.
 
-### SITUATION THREE
+**SITUATION THREE**
 
 6.    If the Feast of the Saints [May 21] occurs on any other day of the week except Sunday, until the Apodosis of Pascha, the service is celebrated as prescribed in the Menaion with the Afterfeast hymns of the preceding Sunday. Communion Hymn: **"Unto all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX).
 
-### SITUATION FOUR
+**SITUATION FOUR**
 
 7.    If the Feast (May 21) occurs on the Sunday of the Blind Man, see the Feast of Saint John the Theologian, Paragraphs 7–9 for the order of the service. At Matins, at the first and second Kathisma [Stichologia], the Sessional Hymns are: that of the Resurrection, that of the Saints, and the Theotokion; at the third Kathisma [Stichologia], that of the Saints and the Theotokion.[^348]
 
@@ -149,19 +149,19 @@
 
 ## Τῇ ΚΑ΄: Τῶν Ἁγίων Βασιλέων καὶ Ἰσαποστόλων Κωνσταντίνου καὶ Ἑλένης (Περίπτωσις Ε΄ § 8, Περίπτωσις Ϛ΄ § 9, Περίπτωσις Ζ΄ § 10, Περίπτωσις Η΄ Ἀρχὴ § 11) [Violakis, p. 564]
 
-### Ε΄.
+**Ε΄.**
 
 8.    Εἰ τύχοι τῇ Τετάρτῃ τῆς Ἀποδόσεως τοῦ Πάσχα, τὴν διάταξιν ὅρα ἐν τῇ ἑορτῇ τοῦ Θεολόγου ἐν § 10-12.
 
-### ΣΤ΄.
+**ΣΤ΄.**
 
 9.    Εἰ τύχοι τῇ Πέμπτῃ τῆς Ἀναλήψεως, τὴν τῆς Ἀκολουθίας διάταξιν ὅρα ἐν τῇ ἑορτῇ τοῦ Θεολόγου ἐν § 13-15.
 
-### Ζ΄.
+**Ζ΄.**
 
 10.    Εἰ τύχοι ἐν ταῖς μεθεόρτοις ἡμέραις τῆς ἑορτῆς ταύτης, ἡ Ἀκολουθία ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ μετὰ τῶν μεθεόρτων. Εἰς τὴν θ΄ στιχολογοῦμεν Τὴν τιμιωτέραν. Εἰς τὴν Λειτουργίαν μετὰ τὴν Εἴσοδον, Δεῦτε προσκυνήσωμεν . . . ὁ ἐν δόξῃ ἀναληφθείς, Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Ἁγίου, Κοινωνικὸν Εἰς πᾶσαν τὴν γῆν, καὶ Ἀνελήφθης ἐν δόξῃ.
 
-### Η΄.
+**Η΄.**
 
 11.    Εἰ τύχοι τῇ Κυριακῇ τῶν Ἁγίων Πατέρων, (ἡ ἀκολουθία τῆς Ἀναλήψεως καταλιμπάνεται, καὶ ἡ ἀκολουθία ἡ ἀναστάσιμος, τῶν Ἁγίων, καὶ τῶν Πατέρων ψάλλονται ὡς ἑξῆς·) τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν Ἀναστάσιμα δ΄, τῶν Πατέρων γ΄, καὶ τοῦ Ἁγίου γ΄. Δόξα, Τὰς μυστικὰς σήμερον, Καὶ νῦν, τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, Φῶς ἱλαρόν, τὸ Προκείμενον, καὶ τὰ Ἀναγνώσματα, δύο τῶν Πατέρων, καὶ ἓν τοῦ Ἁγίου. Εἰς τὰ Ἀπόστιχα, τὰ Ἀναστάσιμα Στιχηρά, Δόξα τοῦ Ἁγίου, Καὶ νῦν τῶν Πατέρων, τὸ ἀναστάσιμον Ἀπολυτίκιον, τῶν Πατέρων, τοῦ Ἁγίου, καὶ τὸ τῆς ἑορτῆς (τῆς Ἀναλήψεως).
 
@@ -171,19 +171,19 @@
 
 ## May 21: The Holy Glorious Kings and Equals-to-the-Apostles Constantine and Helen (Situation Five § 8, Situation Six § 9, Situation Seven § 10, Situation Eight Opening §§ 11–12 Opening) [Violakis, p. 565]
 
-### SITUATION FIVE
+**SITUATION FIVE**
 
 8.    If the Feast (May 21) occurs on the Wednesday of the Apodosis of Pascha, see the Feast of the Theologian, Paragraphs 10–12, for the order of service.
 
-### SITUATION SIX
+**SITUATION SIX**
 
 9.    If the Feast (May 21) occurs on the Thursday of the Ascension, see the Feast of the Theologian, Paragraphs 13–15 for the order of service.
 
-### SITUATION SEVEN
+**SITUATION SEVEN**
 
 10.    If the Feast (May 21) occurs on the days of the Afterfeast of the Ascension, the service is celebrated as prescribed in the Menaion together with the Afterfeast hymns. At the Ninth Ode we chant **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). In the Divine Liturgy, at the Little Entrance: **"O come, let us worship and fall down before Christ; save us, O Son of God, Who wast taken up in glory"** (*Δεῦτε προσκυνήσωμεν . . . ὁ ἐν δόξῃ ἀναληφθείς*); the Epistle and Gospel of the Saints are read; Communion Hymn: **"Unto all the earth"** (*Εἰς πᾶσαν τὴν γῆν*, Ps. 18:5 LXX); and the Dismissal Troparion **"Thou hast ascended in glory, O Christ our God"** (*Ἀνελήφθης ἐν δόξῃ*).
 
-### SITUATION EIGHT
+**SITUATION EIGHT**
 
 11.    If the Feast of the Saints occurs on the Sunday of the Holy Fathers, (the service of the Ascension is omitted, and the services of the Resurrection, of the Saints, and of the Fathers are sung as follows:) On Saturday evening, following the Introductory Psalm [Ps. 103 LXX] and the Psalter reading, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we sing 4 Resurrection Stichira, 3 of the Fathers, and 3 of the Saints. "Glory...": of the Fathers: **"Let us acclaim today the mystical trumpets of the Spirit"** (*Τὰς μυστικὰς σήμερον*); "Both now and ever...": the first Theotokion of the Tone. Little Entrance, **"Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon, and the Old Testament Readings: 2 of the Fathers and 1 of the Saints. At the Aposticha: the Resurrection Stichira; "Glory...": of the Saints; "Both now and ever...": of the Fathers. The Dismissal Troparia: of the Resurrection, of the Fathers, of the Saints, and of the Feast [of the Ascension].
 

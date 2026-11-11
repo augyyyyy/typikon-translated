@@ -240,7 +240,7 @@ For the sake of God and King of all, a numerous multitude being slaughtered...
 
 Honored with a sevenfold decad, and thrice, O honorable one, a choir of hundreds of sufferers,[^1162] through faith thou didst overthrow the polytheistic deceit of the most lawless ones. Together with them thou wast crowned, having struggled valiantly, O Paramon, and rejoicing wast numbered with the choirs of the bodiless ones. Together with them pray thou that we be delivered from every affliction and misfortune, who honor thee and ever call thee blessed.
 
-*If the superior decide to sing "Alleluia", let him sing these stichera to the Theotokos first. Tone and Podoben the same:*
+*If the superior decide to sing "Alleluia", let him sing these stichera to the Theotokos first. Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 From the unoriginate Father, the timeless Son, for the sake of condescension and the salvation of men, being God became man, that He might now give Paradise unto the first-created; then also shall all nature be delivered from the deception of the serpent, and He shall save the fallen image, as the Benevolent Transformer; and her He made His Mother, a pure Birthgiver of Heaven, as being undefiled; whom, as an anchor and haven, we all call blessed.
 
 The incarnate Creator of all didst thou have within thy womb, O divinely-blessed one, Who restored man that fell of old through the transgression of the serpent. For thou didst bear God in the flesh ineffably for us, and didst deliver from corruption all nature that had grown old, through thy childbearing. Therefore we sing and glorify thy grace, O unwedded Virgin; cease not to pray that our souls may be saved.

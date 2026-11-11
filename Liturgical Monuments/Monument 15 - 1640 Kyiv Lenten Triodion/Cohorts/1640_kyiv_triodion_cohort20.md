@@ -56,7 +56,7 @@
 
 === LEAF p193 ===
 
-*Troparion 1:* Now the season of the holy fasts has arrived; let us begin it in good deeds; for "Fast not in judgments and strifes," He saith (Isa. 58:4)!
+*Troparion 1:* Now the season of the holy fasts has arrived; let us begin it in good deeds; for "Fast not in judgments and strifes," He says (Isa. 58:4)!
 
 *Troparion 2:* Having purified himself with fasting on Mount Horeb, Elijah saw God (3 Kings [1 Kings] 19:8–12); let us also purify our hearts with fasting, and we shall behold Christ!
 
@@ -70,7 +70,7 @@
 
 *Glory to Thee, our God, glory to Thee.*
 
-*Troparion 3:* "One day indeed," he saith, "is the whole life of those on earth; but for those laboring in love there are forty days of the fast," which let us accomplish brightly!
+*Troparion 3:* "One day indeed," he says, "is the whole life of those on earth; but for those laboring in love there are forty days of the fast," which let us accomplish brightly!
 
 *Katavasia: Her who conceived in her womb according to the flesh, surpassing nature, the Word Who timelessly shone forth from the Father, let us, the faithful, magnify in unceasing hymns!*
 
@@ -261,7 +261,7 @@ And except the Lord of Sabaoth had left us a seed, we would have been as Sodom, 
 
 Hear the word of the Lord, ye rulers of Sodom; give ear unto the Law of God, ye people of Gomorrah: (Isa. 1:10)
 
-"What unto Me is the multitude of your sacrifices?" saith the Lord. "I am full of the burnt offerings of rams, and the fat of lambs, and the blood of bulls and of goats I desire not! (Isa. 1:11)
+"What unto Me is the multitude of your sacrifices?" says the Lord. "I am full of the burnt offerings of rams, and the fat of lambs, and the blood of bulls and of goats I desire not! (Isa. 1:11)
 
 Neither if ye come to appear before Me: for who hath required this at your hands? Ye shall no more tread My court! (Isa. 1:12)
 
@@ -277,7 +277,7 @@ Wash yourselves, be ye clean; take away the evil from your souls before Mine eye
 
 Learn to do good; seek judgment, deliver the wronged; judge for the orphan, and plead for the widow! (Isa. 1:17)
 
-And come, let us reason together, saith the Lord: though your sins be as scarlet, I will make them white as snow; and though they be as crimson, I will make them white as wool! (Isa. 1:18)
+And come, let us reason together, says the Lord: though your sins be as scarlet, I will make them white as snow; and though they be as crimson, I will make them white as wool! (Isa. 1:18)
 
 If ye be willing and obedient unto Me, ye shall eat the good things of the earth; (Isa. 1:19)
 

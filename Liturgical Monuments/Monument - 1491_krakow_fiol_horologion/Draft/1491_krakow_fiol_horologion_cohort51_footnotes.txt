@@ -1,6 +1,6 @@
 [^757]: The Kontakion of the Sunday of the Paralytic in Tone 3 (Дꙋшꙋ мою, Господи, во грѣсѣхъ всяческихъ / Τὴν ψυχήν μου Κύριε, ἐν ἁμαρτίαις παντοίαις), sung to the melodic model *Tone 3, Podoben: "Today the Virgin" (Дѣва днесь / Ἡ Παρθένος σήμερον)*, composed by St. Romanos the Melodist.
 [^758]: In accordance with Paschaltide practice, the Magnificat ("My soul doth magnify the Lord") and the Marian refrain "More honorable than the Cherubim" are omitted at Ode 9 of Matins in favor of the festal heirmoi and troparia.
-[^759]: The Doxastikon of the Paralytic at the Praises in Tone 8 (Господи, разслабленнаго не купель исцѣли / Κύριε, τὸν Παράλυτον οὐχ ἡ κολυμβήθра ἐθεράπευσεν), celebrating Christ's sovereign word which immediately restored the paralytic without need of the Bethesda pool.
+[^759]: The Doxastikon of the Paralytic at the Praises in Tone 8 (Господи, разслабленнаго не купель исцѣли / Κύριε, τὸν Παράλυτον οὐχ ἡ κολυμβήθρα ἐθεράπευσεν), celebrating Christ's sovereign word which immediately restored the paralytic without need of the Bethesda pool.
 [^760]: The Epistle pericope appointed for the Sunday of the Paralytic is Acts 9:32–42 (Pericope 23), recording St. Peter healing the paralytic Aeneas at Lydda and raising Tabitha (Dorcas) from the dead at Joppa.
 [^761]: The Gospel pericope for the Sunday of the Paralytic is John 5:1–15 (Pericope 14), recounting Christ healing the man who had suffered an infirmity for thirty-eight years at the Sheep Pool (Bethesda) in Jerusalem on the Sabbath day.
 [^762]: Typikon directive: the liturgical commemoration of the Paralytic is observed for three days (Sunday, Monday, and Tuesday of the Fourth Week of Pascha) before the arrival of Mid-Pentecost.
@@ -48,6 +48,6 @@
 [^804]: The Matins Prokeimenon of the Ascension in Tone 4 from Psalm 46:6 (LXX): "God is gone up with a shout, the Lord with the sound of a trumpet!" (Взыде Богъ въ воскликновеніи, Господь во гласѣ трубнѣ).
 [^805]: The Matins Gospel for the Ascension is Mark 16:9–20 (Resurrection Gospel 3), recording the Lord Jesus Christ being received up into heaven and sitting on the right hand of God following His final commission to the eleven Apostles.
 [^806]: At Matins of the Ascension, two canons are chanted: the first canon in Tone 5 composed by St. John of Damascus, and the second canon in Tone 4 composed by St. Joseph the Hymnographer.
-[^807]: The Katavasia for the Ascension is the Iambic Heirmos of Ode 1 in Tone 4: "Covered by the divine cloud" (Божественнымъ покровенъ / Θείῳ καλυφθεὶς ὁ βραδύγлωσσος γνόφῳ).
+[^807]: The Katavasia for the Ascension is the Iambic Heirmos of Ode 1 in Tone 4: "Covered by the divine cloud" (Божественнымъ покровенъ / Θείῳ καλυφθεὶς ὁ βραδύγλωσσος γνόφῳ).
 [^808]: The Kontakion of the Ascension in Tone 6 (Еже о насъ исполнивъ смотрѣніе / Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν), composed by St. Romanos the Melodist.
 [^809]: The Festal Exapostilarion of the Ascension in Tone 2 (Ученикомъ зрящымъ тя вознеслся еси, Христе / Τῶν Μαθητῶν ὁρώντων σε ἀνελήφθης, Χριστέ).

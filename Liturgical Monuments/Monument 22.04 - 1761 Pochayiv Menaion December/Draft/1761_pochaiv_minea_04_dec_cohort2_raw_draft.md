@@ -71,7 +71,7 @@ Honored worthily with holy God-vision, O God-inspired one, and with prophetic pr
 
 Thou didst show forth Thy prophet as an animate cloud, O Immortal One, pouring out water truly unto eternal life; having sent him abundantly and granted the All-Holy Spirit, Who is consubstantial with Thee, O Almighty Father, and with Thy Son Who shone forth from Thy essence, through Whom he foretold the saving coming of Christ our God, and proclaimed salvation unto all nations.
 
-*Other Stichera to the Theotokos, same Tone and Podoben:*
+*Other Stichera to the Theotokos, same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 *(If Alleluia is sung, these Stichera are sung first, then those of the saint.)*
 
 From every hostile assault, O all-immaculate Mother of God, save those who piously bow before thy childbirth, as thou art the protectress of our whole race; for thee have we all now acquired as help, refuge, and establishment, and mediatress unto the Master, Christ and Lord; Whom beseech to grant peace unto the world, we pray, and remission of sins unto those who flee into thy shelter.
@@ -80,7 +80,7 @@ Behold, I lay bare unto thee the festering sores of my soul, and show forth the 
 
 I, the wretched one, will not hide my cruel deeds, for I have acquired all things that God hates: I have defiled my flesh and my spirit, and my mind with impure thoughts, and with defiled deeds and words. With my tongue I judge those who sin, while I myself do worse things, O Mother of God. Grant me correction of all these things, that I may rise up from my evil habit, falling down and weeping for the evils I have committed in the walking of my life.
 
-*Glory... Both now... same Tone and Podoben:*
+*Glory... Both now... same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 For into the depth of many sins have I fallen, from my slothfulness and despondency, wretched and ignorant, and I am now held fast by despair. Be unto me a help, cleansing, and salvation, O all-pure one, granting me consolation with good transformation. Thee do I entreat, and unto thee do I cry for mercy, and fall down, and with faith call unto thee:...
 
@@ -89,7 +89,7 @@ For into the depth of many sins have I fallen, from my slothfulness and desponde
 [Fol. 6v]
 ...lest I appear utterly as a rejoicing unto the deceitful one.
 
-*Stavrotheotokion, same Podoben:*
+*Stavrotheotokion, same Podoben (Подо́бенъ то́йже):*
 
 Lament Me not, O Mother, seeing Thy Son and God suspended upon the Tree, Who hung the earth unrestrained upon the waters and created all creation; for I will arise and be glorified, and will crush the kingdoms of hades with power, and destroy his might, and deliver those who are bound from his malice, as I am compassionate, and will bring them unto My Father, as the Lover of mankind.
 

@@ -47,7 +47,7 @@ She who in latter times gave birth unto Thee, O Christ, Who wast begotten of the
 *After the third stichology, Sessional Hymn, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*[^852]  
 Beholding now the light of our souls, O Christ, Thy most precious Cross, and bowing down before it, with joy let us clearly cry aloud: Glory to Thee Who wast pleased to be lifted up upon it! Glory to Thee Who hast enlightened all creation thereby, in which we unceasingly glorify Thee with hymns!
 
-*Stavrotheotokion, the same Podoben:*  
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*  
 When Thine unwedded Mother beheld Thee lifted up upon the Cross, O Word of God, lamenting maternally she spoke: What is this new and strange wonder, O my Savior? How dost Thou, the Life of all, partake of death, wishing as the Tenderhearted One to make alive the dead?
 
 *Psalm 50. And the Canon of the precious Cross. But that of the Menaion is sung at Compline.*  

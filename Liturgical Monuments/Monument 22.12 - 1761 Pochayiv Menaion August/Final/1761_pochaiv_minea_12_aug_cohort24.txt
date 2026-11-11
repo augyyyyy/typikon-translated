@@ -71,7 +71,7 @@ Having drawn nigh unto the noetic Sun, thou didst receive mystical rays from Him
 *Glory... Sessional Hymn of the Saint, Tone 1, Podoben: "While the soldiers were guarding Thy tomb" (Гробъ твой):*[^729]
 Having quenched the fire of torments with the dew of the Spirit, O venerable one, thou didst pass over unto the divine and immaterial Light; and after thy blessed demise, thou dost pour forth drops of healings, quelling the inflammation of passions by spiritual power.
 
-*Both now... of the Feast, Tone and Podoben the same [Tone 1, Podoben: "While the soldiers were guarding Thy tomb"]:*[^730]
+*Both now... of the Feast, Tone and Podoben the same [Tone 1, Podoben: "While the soldiers were guarding Thy tomb"] (Гла́съ и҆ подо́бенъ то́йже):*[^730]
 The honorable choir of the all-wise Apostles gathered wondrously to bury gloriously thy most pure body, O all-hymned Mother of God; with whom the multitude of angels also sang, honoring in praise thy venerable dormition, which we celebrate in faith.
 
 *Ode 4 [of the Feast]. Heirmos:*[^731]
@@ -384,7 +384,7 @@ A ladder unto heaven * is the tomb * of the all-pure Mother of God, * leading up
 *Verse: The Lord hath sworn truth unto David, and He will not turn from it [LXX Ps. 131:11].*[^754]
 The heavenly Kingdom, * the glory of the elect, * receives thee as the Bride of God, * O Virgin, * going unto thy Son.
 
-*Glory... Both now... Tone and Podoben the same [Tone 2, Podoben: "O House of Ephratha"]:*
+*Glory... Both now... Tone and Podoben the same [Tone 2, Podoben: "O House of Ephratha"] (До́ме Є҆ѵфра́ѳовъ):*
 All ye earthborn choirs, * sing aloud: * for the Virgin Mother * hath passed over most gloriously * from earth unto heaven.
 
 *At the Liturgy, the Beatitudes of the Feast, Ode 7 of both canons, with the heirmos, to 6.*

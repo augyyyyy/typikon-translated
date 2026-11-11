@@ -21,8 +21,8 @@ Under Level 5 headings (or under Level 3 when Level 5 is absent), the text flows
 
 ### Gap A: Unnumbered Dense Prose Sections
 Certain sections are written entirely as sequential paragraphs of prose with no numbered rubrics (H5) or lists. This makes citing specific sentences within them difficult, requiring references to paragraph counts (e.g., *Part III, Section 3.1.4, Paragraph 5*).
-* **[Daily Matins](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part1_structure.md#L946-L1000):** `### 1.5.3 Order of Daily Matins` contains 7 dense paragraphs of instructions without any list items or H5 divisions.
-* **[Exaltation of the Cross](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part3_menaion.md#L45-L75):** `### 3.1.4 14 September: Universal Exaltation of the Precious Cross` contains 7 long paragraphs divided only by capitalized text lines (like `PREPARATION OF THE PRECIOUS CROSS` or `EXALTATION:`) rather than standard H4/H5 headings.
+* **[Daily Matins](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part1_structure.md#L946-L1000):** `### 1.5.3 Order of Daily Matins` contains 7 dense paragraphs of instructions without any list items or H5 divisions.
+* **[Exaltation of the Cross](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part3_menaion.md#L45-L75):** `### 3.1.4 14 September: Universal Exaltation of the Precious Cross` contains 7 long paragraphs divided only by capitalized text lines (like `PREPARATION OF THE PRECIOUS CROSS` or `EXALTATION:`) rather than standard H4/H5 headings.
 
 ### Gap B: Non-Numbered Level 4 Headings (H4)
 Level 4 headings are used as descriptive labels (e.g., `#### Beginning`, `#### Main Part`, `#### Conclusion`) but are not numbered.

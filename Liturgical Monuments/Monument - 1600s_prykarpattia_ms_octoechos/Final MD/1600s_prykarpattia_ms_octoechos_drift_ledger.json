@@ -12,11 +12,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C01:p7",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King; He is robed in majesty.",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": true
     },
     {
@@ -69,9 +68,7 @@
       "primitive_id": "POD.T1.GROB_TVOI_SPASE",
       "locus": "C01:p9",
       "tone": 1,
-      "greek_incipit": "Τὸν τάφον σου Σωτήρ",
       "slavonic_source": "Гробъ твои",
-      "slavonic_canonical": "Гро́бъ тво́й Сп҃се",
       "scribal_omitted_label": false,
       "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
       "drift_similarity": 0.9,
@@ -89,18 +86,16 @@
       "primitive_id": "POD.T1.NEBESNYKH_CHINOV",
       "locus": "C02:p11",
       "tone": 1,
-      "greek_incipit": "Τῶν οὐρανίων ταγμάτων",
       "slavonic_source": "Небе́сныхъ чинѡ́въ",
-      "slavonic_canonical": "Небе́сныхъ чинѡ́въ",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.0,
       "drift_info": {
-        "details": "Exact character match"
+        "details": "No parenthetical Slavonic witness on line"
       },
       "raw_cohort_english": "Podoben: ",
       "canonical_english": "Joy of the heavenly ranks",
-      "is_ai_drift": true
+      "is_ai_drift": false
     },
     {
       "type": "WEEKDAY_HEIRMOS_ALIGNED",
@@ -110,7 +105,6 @@
       "ode": 1,
       "raw_incipit": "He Who of old drowned Pharaoh's army in the deep",
       "canonical_english": "He Who submerged of old in the deep",
-      "greek": "Ἐν βυθῷ κατέστρωσε ποτέ",
       "is_ai_drift": true
     },
     {
@@ -121,7 +115,6 @@
       "ode": 3,
       "raw_incipit": "Establishing me upon the rock of faith",
       "canonical_english": "Establish me upon the rock of faith: the",
-      "greek": "Ἐν πέτρᾳ με τῆς πίστεως στερεώσας",
       "is_ai_drift": true
     },
     {
@@ -132,7 +125,6 @@
       "ode": 4,
       "raw_incipit": "I hymn Thee, for I heard Thy report, O Lord",
       "canonical_english": "I hymn Thee, having heard, O Lord, Thy",
-      "greek": "Ὑμνῶ σε, ἀκοῇ γάρ, Κύριε, εἰσήκουσα",
       "is_ai_drift": true
     },
     {
@@ -143,7 +135,6 @@
       "ode": 5,
       "raw_incipit": "O Enlightenment of those lying in darkness",
       "canonical_english": "Enlightenment of those lying in darkness: as the",
-      "greek": "Ὁ φωτισμὸς τῶν ἐν σκότει κειμένων",
       "is_ai_drift": true
     },
     {
@@ -154,7 +145,6 @@
       "ode": 6,
       "raw_incipit": "Held fast in the abyss of sins",
       "canonical_english": "Held fast in the abyss of sin, O",
-      "greek": "Ἐν ἀβύσσῳ πταισμάτων κυκλούμενος",
       "is_ai_drift": true
     },
     {
@@ -165,7 +155,6 @@
       "ode": 7,
       "raw_incipit": "Unto the golden image set up in the plain of Dura",
       "canonical_english": "Concerning the golden image on the plain of",
-      "greek": "Ἀντίθεον πρόσταγμα παρανόμου τυράννου",
       "is_ai_drift": true
     },
     {
@@ -173,11 +162,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C05:p42",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King, He is robed in majesty:",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": true
     },
     {
@@ -185,11 +173,10 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C05:p42",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "",
       "raw_english": "For He hath established the world, which shall not be shaken:",
-      "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "canonical_english": "*Verse: For He has established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
       "is_ai_drift": true
     },
     {
@@ -197,11 +184,10 @@
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C05:p42",
       "lxx_ref": "Ps. 92:5",
-      "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_source": "",
       "raw_english": "Holiness becomes Thy house, O Lord, unto length of days:",
       "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
     },
     {
@@ -212,7 +198,6 @@
       "ode": 3,
       "raw_incipit": "He Who brought all things out of non-being by the Word",
       "canonical_english": "He Who brought all things out of nothing",
-      "greek": "Ὁ ἐκ μὴ ὄντων τὰ πάντα παραγαγών",
       "is_ai_drift": true
     },
     {
@@ -223,7 +208,6 @@
       "ode": 4,
       "raw_incipit": "Thou hast placed steadfast love toward us",
       "canonical_english": "Thou hast set firm love toward us: the",
-      "greek": "Ἔθου πρὸς ἡμᾶς κραταιὰν ἀγάπην, Κύριε",
       "is_ai_drift": true
     },
     {
@@ -234,7 +218,6 @@
       "ode": 7,
       "raw_incipit": "Even as of old the three pious children",
       "canonical_english": "As of old Thou didst bedew the three",
-      "greek": "Ὡς πάλαι τοὺς εὐσεβεῖς τρεῖς Παῖδας",
       "is_ai_drift": true
     },
     {
@@ -245,7 +228,6 @@
       "ode": 8,
       "raw_incipit": "United in the unresting fire",
       "canonical_english": "Gathered together in the unenduring fire, yet unharmed",
-      "greek": "Ἀστέκτῳ πυρὶ ἑνωθέντες",
       "is_ai_drift": true
     },
     {
@@ -256,7 +238,6 @@
       "ode": 9,
       "raw_incipit": "A new and God-befitting wonder; for the virginal",
       "canonical_english": "A new wonder and God-befitting: for through the",
-      "greek": "Καινὸν τὸ θαῦμα καὶ θεοπρεπές",
       "is_ai_drift": true
     },
     {
@@ -267,7 +248,6 @@
       "ode": 3,
       "raw_incipit": "He Who brought all things out of non-being by the Word",
       "canonical_english": "He Who brought all things out of nothing",
-      "greek": "Ὁ ἐκ μὴ ὄντων τὰ πάντα παραγαγών",
       "is_ai_drift": true
     },
     {
@@ -278,7 +258,6 @@
       "ode": 4,
       "raw_incipit": "Thou hast placed steadfast love toward us, O Lord",
       "canonical_english": "Thou hast set firm love toward us: the",
-      "greek": "Ἔθου πρὸς ἡμᾶς κραταιὰν ἀγάπην, Κύριε",
       "is_ai_drift": true
     },
     {
@@ -289,7 +268,6 @@
       "ode": 5,
       "raw_incipit": "Unto Thee I rise early in the morning, O Creator of all",
       "canonical_english": "Unto Thee do I rise early in the",
-      "greek": "Πρὸς σὲ ὀρθρίζω, τὸν πάντων Δημιουργόν",
       "is_ai_drift": true
     },
     {
@@ -300,7 +278,6 @@
       "ode": 7,
       "raw_incipit": "As of old Thou didst refresh the three pious youths in the Chaldean flame",
       "canonical_english": "As of old Thou didst bedew the three",
-      "greek": "Ὡς πάλαι τοὺς εὐσεβεῖς τρεῖς Παῖδας",
       "is_ai_drift": true
     },
     {
@@ -311,7 +288,6 @@
       "ode": 8,
       "raw_incipit": "United in the unendurable fire",
       "canonical_english": "Gathered together in the unenduring fire, yet unharmed",
-      "greek": "Ἀστέκτῳ πυρὶ ἑνωθέντες",
       "is_ai_drift": true
     },
     {
@@ -322,7 +298,6 @@
       "ode": 9,
       "raw_incipit": "A new and divinely fitting wonder: the virginal door being shut",
       "canonical_english": "A new wonder and God-befitting: for through the",
-      "greek": "Καινὸν τὸ θαῦμα καὶ θεοπρεπές",
       "is_ai_drift": true
     },
     {
@@ -330,11 +305,10 @@
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C06:p56",
       "lxx_ref": "Ps. 9:33",
-      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_source": "",
       "raw_english": "Arise, O Lord my God, let Thine hand be lifted up; forget not Thy poor unto the end:",
       "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
       "is_ai_drift": true
     },
     {
@@ -342,11 +316,10 @@
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C06:p57",
       "lxx_ref": "Ps. 9:2",
-      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_source": "",
       "raw_english": "I will praise Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works:",
       "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
       "is_ai_drift": true
     },
     {
@@ -354,11 +327,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C06:p59",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King, He is robed in majesty:",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": true
     },
     {
@@ -366,11 +338,10 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C06:p60",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "",
       "raw_english": "For He hath established the world, which shall not be shaken:",
-      "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "canonical_english": "*Verse: For He has established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
       "is_ai_drift": true
     },
     {
@@ -378,11 +349,10 @@
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C06:p60",
       "lxx_ref": "Ps. 92:5",
-      "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_source": "",
       "raw_english": "Holiness becomes Thy house, O Lord, unto length of days:",
       "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
     },
     {
@@ -393,7 +363,6 @@
       "ode": 7,
       "raw_incipit": "In the furnace, the Abrahamite Persian children",
       "canonical_english": "In the fiery furnace the Persian children of",
-      "greek": "Ἐν τῇ καμίνῳ Ἀβραμιαῖοι Παῖδες",
       "is_ai_drift": true
     },
     {
@@ -404,7 +373,6 @@
       "ode": 4,
       "raw_incipit": "Beholding Thee, the Sun of Righteousness, lifted up upon the Cross, the Church stood in her station, worthily crying: Glory to Thy power, O Lord!",
       "canonical_english": "Beholding Thee, the Sun of righteousness, lifted up",
-      "greek": "Ἐπαρθέντα σε ἰδοῦσα ἡ Ἐκκλησία",
       "is_ai_drift": true
     },
     {
@@ -412,9 +380,7 @@
       "primitive_id": "POD.T4.YAVILSYA_ESI_DNESS",
       "locus": "C07:p70",
       "tone": 4,
-      "greek_incipit": "Ἐπεφάνης σήμερον",
       "slavonic_source": "Явился еси",
-      "slavonic_canonical": "Я҆ви́лся е҆сѝ дне́сь",
       "scribal_omitted_label": false,
       "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
       "drift_similarity": 0.9,
@@ -432,11 +398,10 @@
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C08:p74",
       "lxx_ref": "Ps. 9:33",
-      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_source": "",
       "raw_english": "Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.",
       "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
       "is_ai_drift": false
     },
     {
@@ -444,11 +409,10 @@
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C08:p74",
       "lxx_ref": "Ps. 9:2",
-      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_source": "",
       "raw_english": "I will confess Thee, O Lord, with my whole heart; I will tell of all Thy marvelous works.",
       "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
       "is_ai_drift": true
     },
     {
@@ -456,11 +420,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C08:p78",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King, He is clothed with majesty; the Lord is clothed with strength and has girded Himself.",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": true
     },
     {
@@ -468,11 +431,10 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C08:p78",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "",
       "raw_english": "For He established the world, which shall not be shaken.",
-      "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "canonical_english": "*Verse: For He has established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
       "is_ai_drift": true
     },
     {
@@ -480,11 +442,10 @@
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C08:p78",
       "lxx_ref": "Ps. 92:5",
-      "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_source": "",
       "raw_english": "Holiness befits Thy house, O Lord, unto length of days.",
       "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
     },
     {
@@ -495,7 +456,6 @@
       "ode": 1,
       "raw_incipit": "The horse and the rider in the Red Sea",
       "canonical_english": "The steed and rider into the Red Sea",
-      "greek": "Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν",
       "is_ai_drift": true
     },
     {
@@ -506,7 +466,6 @@
       "ode": 4,
       "raw_incipit": "Having understood Thy divine condescension",
       "canonical_english": "Perceiving Thy divine condescension with prophetic insight, O",
-      "greek": "Τὴν θείαν ἐννοήσας σου κένωσιν",
       "is_ai_drift": true
     },
     {
@@ -517,7 +476,6 @@
       "ode": 5,
       "raw_incipit": "O Thou Who clothest Thyself with light as with a garment",
       "canonical_english": "Thou Who clothest Thyself with light as with",
-      "greek": "Ὁ ἀναβαλλόμενος φῶς ὡς ἱμάτιον",
       "is_ai_drift": true
     },
     {
@@ -528,7 +486,6 @@
       "ode": 6,
       "raw_incipit": "Tossing in a soul-corrupting tempest, O Master Christ",
       "canonical_english": "Surging with the storm of soul-corrupting passions, O",
-      "greek": "Μαινομένην κλύδωνι ψυχοφθόρων παθῶν",
       "is_ai_drift": true
     },
     {
@@ -539,7 +496,6 @@
       "ode": 7,
       "raw_incipit": "(fol. 77) The Lord of the fathers, Who is supremely exalted, [quenched] the flame",
       "canonical_english": "The Lord God of our fathers, praised above",
-      "greek": "Ὁ ὑπερυψούμενος τῶν Πατέρων Κύριος",
       "is_ai_drift": true
     },
     {
@@ -550,7 +506,6 @@
       "ode": 8,
       "raw_incipit": "Unto Thee, the Creator of all, the youths in the furnace",
       "canonical_english": "Unto Thee, the Creator of all, the youth",
-      "greek": "Σοὶ τῷ παντουργῷ ἐν τῇ καμίνῳ Παῖδες",
       "is_ai_drift": true
     },
     {
@@ -560,8 +515,7 @@
       "tone": 5,
       "ode": 9,
       "raw_incipit": "Rejoice, O Isaiah: for the Virgin held in her womb",
-      "canonical_english": "Rejoice, O Isaiah! For a Virgin hath conceived",
-      "greek": "Ἠσαΐα χόρευε, ἡ Παρθένος ἔσχεν ἐν γαστρί",
+      "canonical_english": "Rejoice, O Isaiah! For a Virgin has conceived",
       "is_ai_drift": true
     },
     {
@@ -572,7 +526,6 @@
       "ode": 1,
       "raw_incipit": "Horse and rider into the Red Sea",
       "canonical_english": "The steed and rider into the Red Sea",
-      "greek": "Ἵππον καὶ ἀναβάτην εἰς θάλασσαν Ἐρυθράν",
       "is_ai_drift": true
     },
     {
@@ -580,11 +533,10 @@
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C10:p92",
       "lxx_ref": "Ps. 9:33",
-      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_source": "",
       "raw_english": "Arise, O Lord my God, let Thy hand be lifted on high; forget not Thy poor unto the end.",
       "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
       "is_ai_drift": true
     },
     {
@@ -592,11 +544,10 @@
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C10:p92",
       "lxx_ref": "Ps. 9:2",
-      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_source": "",
       "raw_english": "I will give thanks unto Thee, O Lord, with my whole heart; I will tell of all Thy marvelous works.",
       "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
       "is_ai_drift": true
     },
     {
@@ -604,11 +555,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C10:p94",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King, He is robed in majesty.",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": false
     },
     {
@@ -616,23 +566,21 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C10:p94",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "",
       "raw_english": "For He hath established the world, so that it cannot be moved.",
-      "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "canonical_english": "*Verse: For He has established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
-      "is_ai_drift": false
+      "is_ai_drift": true
     },
     {
       "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C10:p95",
       "lxx_ref": "Ps. 92:5",
-      "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_source": "",
       "raw_english": "Holiness becomes Thy house, O Lord, unto length of days:",
       "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
     },
     {
@@ -643,7 +591,6 @@
       "ode": 3,
       "raw_incipit": "There is none holy like unto Thee, O Lord my God",
       "canonical_english": "There is none holy as Thou, O Lord",
-      "greek": "Οὐκ ἔστιν ἅγιος ὡς σύ, Κύριε ὁ Θεός μου",
       "is_ai_drift": true
     },
     {
@@ -651,9 +598,7 @@
       "primitive_id": "POD.T6.EZHE_O_NAS",
       "locus": "C10:p96",
       "tone": 6,
-      "greek_incipit": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
       "slavonic_source": "\"Еже ѡ насъ\" (Исполнивъ смотрѣніе)",
-      "slavonic_canonical": "Е҆́же ѡ҆ на́съ",
       "scribal_omitted_label": false,
       "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
       "drift_similarity": 0.75,
@@ -678,7 +623,6 @@
       "ode": 4,
       "raw_incipit": "Christ is my power, God and Lord, the venerable Church",
       "canonical_english": "Christ is my power, God and Lord!\" the",
-      "greek": "Χριστός μου δύναμις, Θεὸς καὶ Κύριος",
       "is_ai_drift": true
     },
     {
@@ -689,7 +633,6 @@
       "ode": 5,
       "raw_incipit": "With Thy divine light, O Good One",
       "canonical_english": "With Thy Divine light, O Good One, illumine",
-      "greek": "Τῷ θείῳ φέγγει σου, ἀγαθέ",
       "is_ai_drift": true
     },
     {
@@ -700,7 +643,6 @@
       "ode": 6,
       "raw_incipit": "Beholding the sea of life surging",
       "canonical_english": "Being swallowed up by the abyss of sins",
-      "greek": "Τοῦ βίου τὴν θάλασσαν ὑψουμένην καθορῶν",
       "is_ai_drift": true
     },
     {
@@ -708,9 +650,7 @@
       "primitive_id": "POD.T6.EZHE_O_NAS",
       "locus": "C10:p97",
       "tone": 6,
-      "greek_incipit": "Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν",
       "slavonic_source": "\"Еже ѡ насъ\" (Исполнивъ смотрѣніе)",
-      "slavonic_canonical": "Е҆́же ѡ҆ на́съ",
       "scribal_omitted_label": false,
       "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
       "drift_similarity": 0.75,
@@ -735,7 +675,6 @@
       "ode": 7,
       "raw_incipit": "The Angel made the furnace bedewing",
       "canonical_english": "The Angel made the furnace sprinkle dew for",
-      "greek": "Δροσοβόλον μὲν τὴν κάμινον",
       "is_ai_drift": true
     },
     {
@@ -746,7 +685,6 @@
       "ode": 8,
       "raw_incipit": "From the flame Thou didst pour forth dew for the holy youths",
       "canonical_english": "From the flame Thou didst pour forth dew",
-      "greek": "Ἐκ φλογὸς τοῖς ὁσίοις δρόσον ἐπήγασας",
       "is_ai_drift": true
     },
     {
@@ -757,7 +695,6 @@
       "ode": 9,
       "raw_incipit": "It is not possible for man to see God",
       "canonical_english": "It is impossible for men to see God",
-      "greek": "Θεὸν ἀνθρώποις ἰδεῖν ἀδύνατον",
       "is_ai_drift": true
     },
     {
@@ -768,7 +705,6 @@
       "ode": 5,
       "raw_incipit": "Foreseeing Thy divine manifestation, O Christ",
       "canonical_english": "With Thy Divine light, O Good One, illumine",
-      "greek": "Τῷ θείῳ φέγγει σου, ἀγαθέ",
       "is_ai_drift": true
     },
     {
@@ -776,11 +712,10 @@
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C11:p109",
       "lxx_ref": "Ps. 9:2",
-      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_source": "",
       "raw_english": "I will confess Thee, O Lord, with my whole heart, I will tell of all Thy marvelous works:",
       "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
       "is_ai_drift": true
     },
     {
@@ -788,11 +723,10 @@
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C11:p109",
       "lxx_ref": "Ps. 9:33",
-      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_source": "",
       "raw_english": "Arise, O Lord my God, let Thy hand be lifted up, forget not Thy poor unto the end:",
       "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
       "is_ai_drift": true
     },
     {
@@ -800,11 +734,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C12:p111",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King, He is clothed with majesty:",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": true
     },
     {
@@ -812,11 +745,10 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C12:p111",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "",
       "raw_english": "For He established the world, which shall not be shaken:",
-      "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "canonical_english": "*Verse: For He has established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
       "is_ai_drift": true
     },
     {
@@ -824,11 +756,10 @@
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C12:p111",
       "lxx_ref": "Ps. 92:5",
-      "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_source": "",
       "raw_english": "Holiness becomes Thine house, O Lord, unto length of days:",
       "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": true
     },
     {
@@ -839,7 +770,6 @@
       "ode": 5,
       "raw_incipit": "Night without light unto the faithless, but unto the faithful enlightenment",
       "canonical_english": "Night is without light unto the unbelieving, O",
-      "greek": "Νὺξ ἀφεγγὴς τοῖς ἀπίστοις, Χριστέ",
       "is_ai_drift": true
     },
     {
@@ -850,7 +780,6 @@
       "ode": 6,
       "raw_incipit": "Sailing in the surge of worldly cares",
       "canonical_english": "Sailing in the surge of the billows of",
-      "greek": "Ναυτιλλόμενος τῷ σάλῳ τῶν βιωτικῶν μεριμνῶν",
       "is_ai_drift": true
     },
     {
@@ -861,7 +790,6 @@
       "ode": 7,
       "raw_incipit": "The holy ones cast into the fiery furnace",
       "canonical_english": "The Children of old showed the fiery furnace",
-      "greek": "Κάμινον παῖδες πυρίνην πάλαι δροσοβόλον",
       "is_ai_drift": true
     },
     {
@@ -872,7 +800,6 @@
       "ode": 1,
       "raw_incipit": "By Thy nodding upon earth",
       "canonical_english": "By Thy nod upon earth is fashioned the",
-      "greek": "Νεύματί σου πρὸς γεώδη ἀντίτυπον",
       "is_ai_drift": true
     },
     {
@@ -883,7 +810,6 @@
       "ode": 7,
       "raw_incipit": "He Who was cast into the fiery furnace",
       "canonical_english": "The Children of old showed the fiery furnace",
-      "greek": "Κάμινον παῖδες πυρίνην πάλαι δροσοβόλον",
       "is_ai_drift": true
     },
     {
@@ -891,11 +817,10 @@
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C13:p125",
       "lxx_ref": "Ps. 9:33",
-      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_source": "",
       "raw_english": "Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.",
       "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
       "is_ai_drift": false
     },
     {
@@ -903,11 +828,10 @@
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C13:p125",
       "lxx_ref": "Ps. 9:2",
-      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_source": "",
       "raw_english": "I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.",
       "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
       "is_ai_drift": false
     },
     {
@@ -915,11 +839,10 @@
       "id": "PRIM.VERSE.PS92_1A",
       "locus": "C13:p128",
       "lxx_ref": "Ps. 92:1a",
-      "slavonic_source": "Госпо́дь воцари́ся, въ лѣ́потꙋ ѡ҆блече́ся",
+      "slavonic_source": "",
       "raw_english": "The Lord is King, He is robed in majesty.",
       "canonical_english": "*Verse: The Lord is King, He is robed in majesty.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ὁ Κύριος ἐβασίλευσεν, εὐπρέπειαν ἐνεδύσατο",
       "is_ai_drift": false
     },
     {
@@ -927,23 +850,21 @@
       "id": "PRIM.VERSE.PS92_1B",
       "locus": "C13:p128",
       "lxx_ref": "Ps. 92:1b",
-      "slavonic_source": "И҆́бо оу҆твердѝ вселе́ннꙋю, я҆́же не подви́жится",
+      "slavonic_source": "",
       "raw_english": "For He hath established the world, so that it cannot be moved.",
-      "canonical_english": "*Verse: For He hath established the world, so that it cannot be moved.*",
+      "canonical_english": "*Verse: For He has established the world, so that it cannot be moved.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "καὶ γὰρ ἐστερέωσε τὴν οἰκουμένην, ἥτις οὐ σαλευθήσεται",
-      "is_ai_drift": false
+      "is_ai_drift": true
     },
     {
       "type": "PSALM_VERSE_NORMALIZED",
       "id": "PRIM.VERSE.PS92_5",
       "locus": "C13:p128",
       "lxx_ref": "Ps. 92:5",
-      "slavonic_source": "До́мꙋ твоемꙋ̀ подоба́етъ святы́ня Го́споди, въ долготꙋ̀ дні́й",
+      "slavonic_source": "",
       "raw_english": "Holiness becomes Thine house, O Lord, unto length of days.",
       "canonical_english": "*Verse: Holiness becomes Thine house, O Lord, unto length of days.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "τῷ οἴκῳ σου πρέπει ἁγίασμα, Κύριε, εἰς μακρότητα ἡμερῶν",
       "is_ai_drift": false
     },
     {
@@ -951,9 +872,7 @@
       "primitive_id": "POD.T8.POVELENNOE_TAINSTVENNO",
       "locus": "C13:p130",
       "tone": 8,
-      "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повеленное таинственно (Повеленное)",
-      "slavonic_canonical": "Повелѣ́нное та́инственно",
       "scribal_omitted_label": false,
       "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
       "drift_similarity": 0.8,
@@ -975,7 +894,6 @@
       "ode": 5,
       "raw_incipit": "Why hast Thou cast me off from Thy presence, O unwaning Light",
       "canonical_english": "Why hast Thou cast me off from Thy",
-      "greek": "Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου",
       "is_ai_drift": true
     },
     {
@@ -986,7 +904,6 @@
       "ode": 6,
       "raw_incipit": "Cleanse me, O Savior, for many are mine iniquities",
       "canonical_english": "Cleanse me, O Savior, for many are mine",
-      "greek": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
       "is_ai_drift": true
     },
     {
@@ -994,9 +911,7 @@
       "primitive_id": "POD.T8.POVELENNOE_TAINSTVENNO",
       "locus": "C14:p131",
       "tone": 8,
-      "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
       "slavonic_source": "Повеленное таинственно (Повеленное)",
-      "slavonic_canonical": "Повелѣ́нное та́инственно",
       "scribal_omitted_label": false,
       "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
       "drift_similarity": 0.8,
@@ -1018,7 +933,6 @@
       "ode": 7,
       "raw_incipit": "The fire was ashamed at the condescension of God",
       "canonical_english": "The fire was ashamed before the condescension of",
-      "greek": "Θεοῦ συγκατάβασιν τὸ πῦρ ᾐδέσθη ἐν Βαβυλῶνι",
       "is_ai_drift": true
     },
     {
@@ -1029,7 +943,6 @@
       "ode": 8,
       "raw_incipit": "The Chaldean tyrant furiously burned the furnace sevenfold",
       "canonical_english": "Sevenfold the furnace the Chaldean tyrant fiercely kindled",
-      "greek": "Ἑπταπλασίως κάμινον τῶν Χαλδαίων ὁ τύραννος",
       "is_ai_drift": true
     },
     {
@@ -1040,7 +953,6 @@
       "ode": 9,
       "raw_incipit": "Heaven was astonished at this, and the ends of the earth",
       "canonical_english": "The heaven was amazed at this, and the",
-      "greek": "Ἐξέστη ἐπὶ τούτῳ ὁ οὐρανός",
       "is_ai_drift": true
     },
     {
@@ -1051,7 +963,6 @@
       "ode": 6,
       "raw_incipit": "Cleanse me, O Savior, for many are mine iniquities; and lead me up from the depth of evils, I pray Thee; for unto Thee have I cried",
       "canonical_english": "Cleanse me, O Savior, for many are mine",
-      "greek": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
       "is_ai_drift": true
     },
     {
@@ -1059,11 +970,10 @@
       "id": "PRIM.VERSE.PS9_33",
       "locus": "C15:p143",
       "lxx_ref": "Ps. 9:33",
-      "slavonic_source": "Воскреснѝ Го́споди Бо́же мо́й, да вознесе́тся рꙋка̀ твоя̀, не забꙋ́ди оу҆бо́гихъ твои́хъ до конца̀",
+      "slavonic_source": "",
       "raw_english": "Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor to the end!",
       "canonical_english": "*Verse: Arise, O Lord my God, let Thy hand be lifted up; forget not Thy poor unto the end.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἀνάστηθι, Κύριε ὁ Θεός μου, ὑψωθήτω ἡ χείρ σου, μὴ ἐπιλάθῃ τῶν πενήτων σου εἰς τέλος",
       "is_ai_drift": true
     },
     {
@@ -1071,11 +981,10 @@
       "id": "PRIM.VERSE.PS9_2",
       "locus": "C15:p143",
       "lxx_ref": "Ps. 9:2",
-      "slavonic_source": "И҆сповѣ́мся тебѣ̀ Го́споди всѣ́мъ се́рдцемъ мои́мъ, повѣ́мъ вся̑ чꙋдеса̀ твоя̑",
+      "slavonic_source": "",
       "raw_english": "I will praise Thee, O Lord, with my whole heart; I will show forth all Thy marvelous works!",
       "canonical_english": "*Verse: I will give thanks unto Thee, O Lord, with my whole heart; I will speak of all Thy marvelous works.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Ἐξομολογήσομαί σοι, Κύριε, ἐν ὅλῃ καρδίᾳ μου, διηγήσομαι πάντα τὰ θαυμάσιά σου",
       "is_ai_drift": true
     },
     {
@@ -1083,9 +992,7 @@
       "primitive_id": "POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI",
       "locus": "C15:p146",
       "tone": 8,
-      "greek_incipit": "Κύριε, εἰ καὶ κριτηρίῳ παρέστης",
       "slavonic_source": "Господи, аще и на судищи",
-      "slavonic_canonical": "Гдⷭ҇и, а҆́ще и҆ на сꙋди́щи",
       "scribal_omitted_label": false,
       "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
       "drift_similarity": 0.92,
@@ -1102,11 +1009,10 @@
       "id": "PRIM.VERSE.PS122_1",
       "locus": "C15:p147",
       "lxx_ref": "Ps. 122:1",
-      "slavonic_source": "Къ тебѣ̀ возведо́хъ ѻ҆́чи мои́, живꙋ́щемꙋ на небесѝ",
+      "slavonic_source": "",
       "raw_english": "Unto Thee have I lifted up mine eyes, O Thou that dwellest in heaven! Behold, as the eyes of servants look unto the hands of their masters...",
       "canonical_english": "*Verse: Unto Thee have I lifted up mine eyes, unto Thee that dwellest in heaven.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "Πρὸς σὲ ἦρα τοὺς ὀφθαλμούς μου τὸν κατοικοῦντα ἐν τῷ οὐρανῷ",
       "is_ai_drift": true
     },
     {
@@ -1114,11 +1020,10 @@
       "id": "PRIM.VERSE.PS122_3",
       "locus": "C15:p147",
       "lxx_ref": "Ps. 122:3",
-      "slavonic_source": "Поми́лꙋй на́съ Го́споди, поми́лꙋй на́съ, я҆́ко помно́гꙋ и҆спо́лнихомся оу҆ничиже́нія",
+      "slavonic_source": "",
       "raw_english": "Have mercy on us, O Lord, have mercy on us, for we are utterly filled with contempt...",
       "canonical_english": "*Verse: Have mercy on us, O Lord, have mercy on us, for we are utterly filled with contempt.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἐλέησον ἡμᾶς, Κύριε, ἐλέησον ἡμᾶς, ὅτι ἐπὶ πολὺ ἐπλήσθημεν ἐξουδενώσεως",
       "is_ai_drift": true
     },
     {
@@ -1126,14 +1031,19 @@
       "primitive_id": "POD.T8.POVELENNOE_TAINSTVENNO",
       "locus": "C15:p147",
       "tone": 8,
-      "greek_incipit": "Τὸ προσταχθὲν μυστικῶς",
-      "slavonic_source": "Повелѣ́нное та́инственно",
-      "slavonic_canonical": "Повелѣ́нное та́инственно",
+      "slavonic_source": "Повеленное тайно",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
       "drift_info": {
-        "details": "Exact character match"
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "тайно"
+        ],
+        "tokens_only_in_b": [
+          "таинственно"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
       },
       "raw_cohort_english": "Podoben: That which was commanded mystically",
       "canonical_english": "That which was commanded mystically",
@@ -1144,9 +1054,7 @@
       "primitive_id": "POD.T2.EGDA_OT_DREVA",
       "locus": "C16:p157",
       "tone": 2,
-      "greek_incipit": "Ὅτε ἐκ τοῦ ξύλου",
       "slavonic_source": "Е҆гда̀ ѿ дре́ва",
-      "slavonic_canonical": "Е҆гда̀ ѿ дре́ва",
       "scribal_omitted_label": false,
       "drift_tier": "TIER_0_EXACT",
       "drift_similarity": 1.0,
@@ -1197,7 +1105,6 @@
       "raw_english": "Have mercy on us, O Lord, have mercy on us...",
       "canonical_english": "*Verse: Have mercy on us, O Lord, have mercy on us, for we are utterly filled with contempt.*",
       "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
-      "greek": "ἐλέησον ἡμᾶς, Κύριε, ἐλέησον ἡμᾶς, ὅτι ἐπὶ πολὺ ἐπλήσθημεν ἐξουδενώσεως",
       "is_ai_drift": true
     },
     {
@@ -1205,32 +1112,37 @@
       "primitive_id": "POD.T3.VELIA_KRESTA_TVOEGO",
       "locus": "C17:p169",
       "tone": 3,
-      "greek_incipit": "Μεγάλη τοῦ Σταυροῦ σου, Κύριε",
-      "slavonic_source": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
-      "slavonic_canonical": "Ве́лія Крⷭ҇та̀ твоегѡ̀ Гдⷭ҇и",
+      "slavonic_source": "Велїа крта твоего",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
       "drift_info": {
-        "details": "Exact character match"
+        "t2_source": "велиа крта твоего",
+        "t2_canonical": "велия крта твоего господи",
+        "details": "Scribal incipit truncation (3 vs 4 words)"
       },
       "raw_cohort_english": "Podoben: Great is the power of Thy Cross",
       "canonical_english": "Great is the power of Thy Cross, O Lord",
-      "is_ai_drift": true
+      "is_ai_drift": false
     },
     {
       "type": "PODOBEN_NORMALIZED",
       "primitive_id": "POD.T4.YAKO_DOBLYA",
       "locus": "C18:p179",
       "tone": 4,
-      "greek_incipit": "Ὡς γενναῖον ἐν Μάρτυσιν",
-      "slavonic_source": "Я҆́кѡ до́бля",
-      "slavonic_canonical": "Я҆́кѡ до́бля",
+      "slavonic_source": "Ꙗко добля",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
       "drift_info": {
-        "details": "Exact character match"
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "ꙗко"
+        ],
+        "tokens_only_in_b": [
+          "яко"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
       },
       "raw_cohort_english": "Podoben: As one valiant among martyrs",
       "canonical_english": "As one valiant among martyrs",
@@ -1241,14 +1153,19 @@
       "primitive_id": "POD.T3.DEVA_DNESS",
       "locus": "C19:p183",
       "tone": 3,
-      "greek_incipit": "Ἡ Παρθένος σήμερον",
-      "slavonic_source": "Дѣ́ва дне́сь",
-      "slavonic_canonical": "Дѣ́ва дне́сь",
+      "slavonic_source": "Дѣвая днесь",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "TIER_3_LEXICAL_RECENSIONAL",
+      "drift_similarity": 0.5,
       "drift_info": {
-        "details": "Exact character match"
+        "similarity": 0.5,
+        "tokens_only_in_a": [
+          "девая"
+        ],
+        "tokens_only_in_b": [
+          "дева"
+        ],
+        "details": "Lexical/syntactic variation (token similarity: 50.0%)"
       },
       "raw_cohort_english": "Podoben: Today the Virgin",
       "canonical_english": "Today the Virgin",
@@ -1262,7 +1179,6 @@
       "ode": 6,
       "raw_incipit": "I will sacrifice unto Thee with the voice of praise",
       "canonical_english": "Thou Who hast reached unto the end of",
-      "greek": "Ἄβυσσος ἐσχάτη ἁμαρτημάτων ἐκύκλωσέ με",
       "is_ai_drift": true
     },
     {
@@ -1270,9 +1186,7 @@
       "primitive_id": "POD.T8.CHTO_VAS_NARECHEM",
       "locus": "C20:p199",
       "tone": 8,
-      "greek_incipit": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
       "slavonic_source": "Что вы наречемъ",
-      "slavonic_canonical": "Что̀ вы нарече́мъ ст҃і́и",
       "scribal_omitted_label": false,
       "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
       "drift_similarity": 0.9,
@@ -1290,14 +1204,14 @@
       "primitive_id": "POD.T8.PREMUDROSTI_NASTAVNICHE",
       "locus": "C21:p201",
       "tone": 8,
-      "greek_incipit": "Τῆς σοφίας ὁδηγέ",
-      "slavonic_source": "Премꙋ́дрости наста́вниче",
-      "slavonic_canonical": "Премꙋ́дрости наста́вниче",
+      "slavonic_source": "Премудрости",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
+      "drift_similarity": 0.9,
       "drift_info": {
-        "details": "Exact character match"
+        "t2_source": "премудрости",
+        "t2_canonical": "премудрости наставниче",
+        "details": "Scribal incipit truncation (1 vs 2 words)"
       },
       "raw_cohort_english": "Podoben: Guiding unto wisdom",
       "canonical_english": "Guiding unto wisdom",
@@ -1308,14 +1222,13 @@
       "primitive_id": "POD.T8.YAKO_NACHATKI_ESTESTVA",
       "locus": "C21:p202",
       "tone": 8,
-      "greek_incipit": "Ὡς ἀπαρχὰς τῆς φύσεως",
-      "slavonic_source": "Я҆́кѡ нача́тки е҆стества̀",
-      "slavonic_canonical": "Я҆́кѡ нача́тки е҆стества̀",
+      "slavonic_source": "Яко начатки естества",
       "scribal_omitted_label": false,
-      "drift_tier": "TIER_0_EXACT",
-      "drift_similarity": 1.0,
+      "drift_tier": "TIER_2_ORTHOGRAPHIC_PHONOLOGICAL",
+      "drift_similarity": 0.92,
       "drift_info": {
-        "details": "Exact character match"
+        "t2": "яко начатки естества",
+        "details": "Ruthenian spelling / phonological reflex variance"
       },
       "raw_cohort_english": "Podoben: As first-fruits of nature",
       "canonical_english": "As first-fruits of nature",
@@ -1329,7 +1242,6 @@
       "ode": 4,
       "raw_incipit": "Thou art my strength, O Lord",
       "canonical_english": "Thou art my Lord, O Christ, Thou art",
-      "greek": "Σύ μου ἰσχύς, Κύριε, σύ μου καὶ δύναμις",
       "is_ai_drift": true
     },
     {
@@ -1340,7 +1252,6 @@
       "ode": 5,
       "raw_incipit": "Why hast Thou cast me off from Thy presence",
       "canonical_english": "Why hast Thou cast me off from Thy",
-      "greek": "Ἵνα τί με ἀπώσω ἀπὸ τοῦ προσώπου σου",
       "is_ai_drift": true
     },
     {
@@ -1351,7 +1262,6 @@
       "ode": 6,
       "raw_incipit": "Cleanse me, O Savior, for many are my transgressions",
       "canonical_english": "Cleanse me, O Savior, for many are mine",
-      "greek": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
       "is_ai_drift": true
     },
     {
@@ -1362,7 +1272,6 @@
       "ode": 6,
       "raw_incipit": "Cleanse me, O Savior",
       "canonical_english": "Cleanse me, O Savior, for many are mine",
-      "greek": "Ἱλάσθητί μοι, Σωτήρ, πολλαὶ γὰρ αἱ ἀνομίαι μου",
       "is_ai_drift": true
     },
     {
@@ -1373,7 +1282,6 @@
       "ode": 7,
       "raw_incipit": "The Hebrew children in the furnace trampled",
       "canonical_english": "The fire was ashamed before the condescension of",
-      "greek": "Θεοῦ συγκατάβασιν τὸ πῦρ ᾐδέσθη ἐν Βαβυλῶνι",
       "is_ai_drift": true
     },
     {
@@ -1381,9 +1289,7 @@
       "primitive_id": "POD.T8.CHTO_VAS_NARECHEM",
       "locus": "C21:p207",
       "tone": 8,
-      "greek_incipit": "Τί ὑμᾶς καλέσωμεν ἅγιοι",
       "slavonic_source": "Что вы наречемъ",
-      "slavonic_canonical": "Что̀ вы нарече́мъ ст҃і́и",
       "scribal_omitted_label": false,
       "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
       "drift_similarity": 0.9,
@@ -1401,9 +1307,7 @@
       "primitive_id": "POD.T8.O_PRESLAVNAGO_CHUDESE",
       "locus": "C21:p208",
       "tone": 8,
-      "greek_incipit": "Ὢ τοῦ παραδόξου θαύματος",
       "slavonic_source": "О преслав",
-      "slavonic_canonical": "Ѡ пресла́внагѡ чꙋдесѐ",
       "scribal_omitted_label": false,
       "drift_tier": "SCRIBAL_INCIPIT_TRUNCATION",
       "drift_similarity": 0.9,
@@ -1421,11 +1325,10 @@
       "id": "PRIM.VERSE.PS64_5A",
       "locus": "C21:p208",
       "lxx_ref": "Ps. 64:5a",
-      "slavonic_source": "Блаже́ни, я҆̀же и҆збра́лъ и҆ прія́лъ е҆сѝ, Го́споди",
+      "slavonic_source": "",
       "raw_english": "Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.",
       "canonical_english": "*Verse: Blessed are they whom Thou hast chosen and taken to Thyself, O Lord.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε",
       "is_ai_drift": false
     },
     {
@@ -1433,11 +1336,10 @@
       "id": "PRIM.VERSE.PS24_13A",
       "locus": "C21:p208",
       "lxx_ref": "Ps. 24:13a",
-      "slavonic_source": "Дꙋ́шы и҆́хъ во благи́хъ водворя́тся",
+      "slavonic_source": "",
       "raw_english": "Their souls shall dwell among good things.",
       "canonical_english": "*Verse: Their souls shall dwell among good things.*",
       "drift_tier": "TIER_1_TYPOGRAPHIC_TITLO",
-      "greek": "ἡ ψυχὴ αὐτοῦ ἐν ἀγαθοῖς αὐλισθήσεται",
       "is_ai_drift": false
     },
     {

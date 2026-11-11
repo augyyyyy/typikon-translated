@@ -50,7 +50,7 @@ def verify_paragraphs(orig_path, form_path, out_file):
                     out_file.write(f"    - {ms}\n")
 
 if __name__ == "__main__":
-    typikon_dir = r"c:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
+    typikon_dir = r"c:\Users\augus\Documents\Google Antigravity\Projects\Typikon Coded\Data\Service Books\Typikon"
     files = [
         "Final_Dolnytsky_part1_structure.md",
         "Final_Dolnytsky_part2_general_rubrics.md",

@@ -240,7 +240,7 @@ David the forefather wrote of thy glory, O Virgin, and prophesied that thou art 
 Thou hast renewed the earthly nature, O pure one, by the renewal of thy childbirth; therefore do we cry unto thee: Blessed unto all ages, O Lady, is the fruit of thy womb!
 
 *Troparion 4:*
-Adam who had been condemned and held by death, the second Adam, O all-immaculate one, brings up, having had mercy on him through thee, crying: Blessed art Thou, Who wast born and hast renewed me!
+Adam who had been condemned and held by death, the second Adam, O all-immaculate one, brings up, having had mercy on him through thee, crying: Blessed art thou, Who wast born and hast renewed me!
 
 *Ode 8. Heirmos:*
 Be astonished, trembling, O heaven, and let the foundations of the earth be shaken; for behold, He that dwells in the highest is numbered among the dead, and is strangely received in a narrow tomb: Whom ye children bless, ye priests praise, ye people supremely exalt unto all ages!

@@ -125,7 +125,7 @@ Let us bring palm branches of virtues, O brethren, unto Christ God Who comes, wi
 
 === LEAF p24 ===
 
-*Glory... Both now... In the same podoben:*
+*Glory... Both now... In the same podoben (Подо́бенъ то́йже):*
 Borne upon the shoulders of the Cherubim as God, sitting upon a colt, coming willingly upon an ass for our sake: come, let us earnestly sing unto Him with palm branches!
 
 *At the Aposticha, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*[^85]

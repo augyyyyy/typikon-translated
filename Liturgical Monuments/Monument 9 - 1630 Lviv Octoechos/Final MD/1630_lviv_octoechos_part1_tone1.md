@@ -1,5 +1,7 @@
 # TONE 1: SATURDAY VESPERS, SUNDAY MATINS, AND WEEKDAY OFFICES
 
+## SATURDAY EVENING: VESPERS (TONE 1)
+
 [f. 1rA] **Tone One**
 
 **ON SATURDAY EVENING AT GREAT VESPERS**[^15]
@@ -40,7 +42,7 @@ Let us sing of Mary the Virgin, the glory of the whole world, who blossomed fort
 
 Let creation rejoice, let the heavens be glad; let the nations clap their hands with gladness! For Christ our Savior hath nailed our sins to the Cross, and, putting death to death, hath granted us life, raising the fallen Adam, the father of all, for He loves mankind.
 
-*Verse: For He hath established the world, so that it cannot be moved.*
+*Verse: For He has established the world, so that it cannot be moved.*
 
 Being King of heaven and earth, O Incomprehensible One, Thou wast willingly crucified for the love of mankind! Hades, meeting Thee below, was embittered, and the souls of the righteous, receiving Thee, rejoiced; and Adam, seeing Thee, the Creator, in the nethermost regions, arose! O wonder! How did He Who is the Life of all taste of death? But as He willed to enlighten the world, crying out and saying: O Lord Who art risen from the dead, glory to Thee!
 
@@ -61,6 +63,9 @@ When the stone had been sealed by the Jews, and the soldiers were guarding [f. 2
 As Gabriel proclaimed unto thee, O Virgin, *Rejoice!*, with that voice the Master of all became incarnate in thee, the holy Ark, as the righteous David said. Thou wast shown to be more spacious than the heavens, having borne thy Creator. Glory to Him Who dwelt in thee! Glory to Him Who came forth from thee! Glory to Him Who hath set us free through thy giving birth!
 
 ---
+
+## SUNDAY MATINS (TONE 1)
+
 *At Matins, after the Six Psalms: God is the Lord and hath appeared unto us, in Tone 1; and we chant the Resurrectional Troparion twice. Glory: To the saint, if there is a troparion; Both now: Theotokion in the same tone.*
 
 *Then the customary kathisma reading from the Psalter.*
@@ -137,7 +142,7 @@ Unto the Holy Spirit belong honor and worship, glory and dominion; as it is fitt
 
 *Prokeimenon, Tone 1:*
 
-*Now will I arise, saith the Lord; I will set Myself in salvation, and I will not pass him by.*
+*Now will I arise, says the Lord; I will set Myself in salvation, and I will not pass him by.*
 
 *Verse: The words of the Lord are pure words.*
 
@@ -239,7 +244,10 @@ Let us worship the Father, let us glorify the Son, and let all we faithful prais
 
 Thy people bring Thy Mother unto Thee in prayer, O Christ: by her intercessions grant us Thy bounties, that we may glorify Thee Who didst shine forth unto us from the tomb.
 
-# ON SUNDAY EVENING, AT "LORD, I HAVE CRIED"
+## SUNDAY EVENING VESPERS (TONE 1)
+
+*ON SUNDAY EVENING, AT "LORD, I HAVE CRIED"*
+
 *Penitential Stichera, Tone 1.*
 
 *Podoben: "O all-lauded martyrs" (Прехвальніи мч̃нци):*
@@ -286,7 +294,9 @@ As a great abyss are my transgressions, O Savior, and grievously am I sunken in 
 
 *Then: Now lettest Thou Thy servant depart... and the Dismissal.*
 
-## ON MONDAY AT MATINS
+## MONDAY MATINS: REPENTANCE AND THE BODILESS POWERS (TONE 1)
+
+*ON MONDAY AT MATINS*
 
 *After the 1st Kathisma, Penitential Sessional Hymns, Tone 1:*
 
@@ -320,11 +330,13 @@ Thy judgment-seat is dreadful, and Thy judgment is righteous, but my deeds are v
 
 Unwedded and pure Virgin Mother of God, sole protectress and shelter of the faithful: deliver from perils and tribulations and all grievous distresses those who place their hope in thee, O Maiden, and save our souls by thy divine prayers!
 
-### CANONS FOR MONDAY MATINS
+[f. 14rB] *CANONS FOR MONDAY MATINS*
 
-## Penitential Canon, whose Acrostic is:
-### "Wash away the defilement of my transgressions, O Word." The work of Joseph.[^25]
-[f. 14rB] *Ode 1, Tone 1. Heirmos:*
+*Penitential Canon, whose Acrostic is:*
+
+**"Wash away the defilement of my transgressions, O Word." The work of Joseph.[^25]**
+
+*Ode 1, Tone 1. Heirmos:*
 
 *Thy victorious right hand hath been glorified in strength in a manner befitting God; for, O Immortal One, as almighty it shattered the adversaries, forging a new path for Israel through the deep.*
 
@@ -342,8 +354,9 @@ Bearing within you the fire of divine love, O sufferers, ye quenched it not; but
 
 The ranks of the Bodiless Powers sing praise unto thee with us, O all-immaculate Virgin; for in awe thou didst give birth unto Him Who was truly incarnate without fiction, remaining a Virgin even as before childbirth, O Bride of God!
 
-## Another Canon, to the Bodiless Powers. The work of Theophanes.[^26]
-[f. 14vA] *Ode 1, Tone 1. Heirmos: The same.*
+[f. 14vA] *Another Canon, to the Bodiless Powers. The work of Theophanes.[^26]*
+
+*Ode 1, Tone 1. Heirmos: The same.*
 
 Standing brightly before the throne of the Master, O all-pure Angels: pray ye unto the Word Who is co-unoriginate with the Father, the Angel of Great Counsel, that He may breathe into me a word of assistance.
 
@@ -573,7 +586,9 @@ Come, all ye people, let us honor the passion-bearers of Christ with spiritual h
 
 Receiving the prayers of sinners and despising not the sighs of the afflicted: implore Him Who was born of thy pure side, that we may be saved, O all-holy Virgin!
 
-## ON MONDAY EVENING, AT "LORD, I HAVE CRIED"
+## MONDAY EVENING VESPERS (FOR TUESDAY) (TONE 1)
+
+*ON MONDAY EVENING, AT "LORD, I HAVE CRIED"*
 
 *Penitential Stichera, Tone 1.*
 
@@ -581,8 +596,9 @@ Receiving the prayers of sinners and despising not the sighs of the afflicted: i
 
 I have squandered all my life shamefully with harlots, O Lord; wretched that I am, like the prodigal I cry in repentance: Heavenly Father, I have sinned...
 
-# ON MONDAY AT THE BEATITUDES
-[f. 17rB] *Tone 1:*
+[f. 17rB] *ON MONDAY AT THE BEATITUDES*
+
+*Tone 1:*
 
 Because of food the enemy led Adam out of Paradise; but through the Cross Christ led the thief into it, crying: Remember me when Thou comest into Thy Kingdom!
 
@@ -640,9 +656,11 @@ Your confession at the tribunal, O holy ones, struck fear into the tyrant’s po
 
 O all-praised Virgin, with prophetic eyes Moses beheld the mystery that was in thee, the bush burning yet unconsumed; for the fire of the Godhead did not burn thy pure womb: therefore we pray thee, as the Mother of our God, to entreat peace for the world and great mercy.
 
-## ON TUESDAY AT MATINS
+## TUESDAY MATINS: REPENTANCE AND ST. JOHN THE FORERUNNER (TONE 1)
 
-[f. 18rA] *After the 1st Kathisma, Penitential Sessional Hymns, Tone 1:*
+[f. 18rA] *ON TUESDAY AT MATINS*
+
+*After the 1st Kathisma, Penitential Sessional Hymns, Tone 1:*
 
 In iniquities was I conceived, prodigal that I am; I dare not look up unto the height of heaven, but trusting in Thy love for mankind, I cry: O God, cleanse me and save me!
 
@@ -676,9 +694,10 @@ I have fallen among thieves through thoughts, and have been despoiled in mind; m
 
 Unwedded and pure Virgin Mother of God, sole protectress and shelter of the faithful: deliver from perils and tribulations and all grievous distresses those who place their hope in thee, O Maiden, and save our souls by thy divine prayers!
 
-### CANONS FOR TUESDAY MATINS
+*CANONS FOR TUESDAY MATINS*
 
-## Penitential Canon. The work of Joseph.[^30]
+*Penitential Canon. The work of Joseph.[^30]*
+
 *Ode 1, Tone 1. Heirmos:*
 
 *Let us all sing a song of victory unto God Who wrought marvelous wonders with a lofty arm, and saved Israel; for He is glorified!*
@@ -697,7 +716,8 @@ As pillars and ramparts of piety, the glorious martyrs remained unshaken by the 
 
 Bearing the Creator as a fiery throne, O Virgin, as a living bridal chamber and beautiful palace thou didst contain the King, Who became what we are without change or confusion.
 
-## Another Canon, to the Holy and Great Prophet John, the Forerunner.
+*Another Canon, to the Holy and Great Prophet John, the Forerunner.*
+
 *Tone 1. Heirmos: The same.*
 
 Thou wast the great voice of the Word; receive therefore our voices which we lift up unto thee, O Forerunner, delivering us from evils through thine intercession.
@@ -920,7 +940,7 @@ Fair swallow, honorable nightingale, most good dove, wilderness-loving turtledov
 
 *Theotokion:*
 
-Thou bearest Him Who upholds all things, as a Cherubic throne, and thou dost nurse Him Who nourishes us; implore Him unceasingly, O pure one full of divine joy, that Thy flock may ever be delivered from delusion and falling, captivity and every distress!
+Thou bearest Him Who upholds all things, as a Cherubic throne, and thou dost nurse Him Who nourishes us; implore Him unceasingly, O pure one full of divine joy, that thy flock may ever be delivered from delusion and falling, captivity and every distress!
 
 *At the Aposticha, Penitential Stichera, Tone 1:*
 
@@ -934,9 +954,10 @@ Holy soldiers of the Great King, ye resisted the commands of the tyrants, manful
 
 *Glory... Both now... Theotokion:*
 
-I have surpassed the Harlot, the Prodigal, and the Thief in unrepentance, and the Publican in transgressions, and other secret sinners: woe is me, what shall become of me? How shall I, a wretch, escape torment? O pure one, I fall down before thee: have compassion on me by thy mercy, even as Thy Son saved those of old!
+I have surpassed the Harlot, the Prodigal, and the Thief in unrepentance, and the Publican in transgressions, and other secret sinners: woe is me, what shall become of me? How shall I, a wretch, escape torment? O pure one, I fall down before thee: have compassion on me by thy mercy, even as thy Son saved those of old!
 
-# ON TUESDAY AT THE BEATITUDES
+*ON TUESDAY AT THE BEATITUDES*
+
 *Tone 1:*
 
 Because of food the enemy led Adam out of Paradise; but through the Cross Christ led the thief into it, crying: Remember me, O Lord, when Thou comest into Thy Kingdom!
@@ -953,7 +974,9 @@ Having endured intricately woven torments, O all-lauded martyrs: ye were account
 
 The one Godhead in three Persons...
 
-## ON TUESDAY EVENING, AT "LORD, I HAVE CRIED"
+## TUESDAY EVENING VESPERS (FOR WEDNESDAY) (TONE 1)
+
+*ON TUESDAY EVENING, AT "LORD, I HAVE CRIED"*
 
 *Stichera of the Cross, Tone 1.*
 
@@ -985,7 +1008,7 @@ Standing by the Cross, the unwedded Bride, receiving wounds from maternal pain, 
 
 When thou didst see thy Son and God upon the Wood, hanging sorrowful, having stretched forth His hands upon the Cross, [f. 22rA] and His ribs pierced with a spear, the pure Mother, lamenting, cried out: "Woe is me, how dost Thou suffer, O Lover of mankind, taking away the passions of men?"
 
-### AT THE APOSTICHA
+*AT THE APOSTICHA*
 
 *Stichera of the Cross, Tone 1:*
 
@@ -1001,7 +1024,9 @@ O the good merchandise of yours, O holy ones! For ye gave your blood, and inheri
 
 When the undefiled Virgin beheld the Lamb lifted up upon the Cross, she wept and cried: "My sweet Child, what is this new and glorious sight? How dost Thou, Who holdest all things in the hollow of Thy hand, endure to be nailed in the flesh upon the Wood?"
 
-## ON WEDNESDAY AT MATINS
+## WEDNESDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 1)
+
+*ON WEDNESDAY AT MATINS*
 
 *After the 1st Kathisma, Sessional Hymns of the Cross, Tone 1:*
 
@@ -1039,7 +1064,8 @@ Thou didst stretch forth Thy palms upon the Cross, O Compassionate One, and dids
 
 Beholding the Lamb and Shepherd hung dead upon the Wood, the undefiled Ewe-lamb wept and cried, exclaiming with a mother's voice: "How shall I hymn Thy condescension beyond word, O my Son, and Thy voluntary passions, O God most good?"
 
-## ON WEDNESDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS
+*ON WEDNESDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS*
+
 *Composition of Saint Joseph.*[^34]
 
 *Ode 1, Tone 1. Heirmos:*
@@ -1060,7 +1086,8 @@ The clouds of tortures did not defile your patient burning, O martyrs; therefore
 
 The all-pure womb of her Son was consumed as with a sword, as she beheld Him pierced with a spear: which weapon forbids entry into Paradise, denying the faithful divine entrance!
 
-### Another Canon to the Most Holy Theotokos
+**Another Canon to the Most Holy Theotokos**
+
 *Ode 1, Tone 1. Heirmos:*
 
 *Thy victorious right hand...*
@@ -1103,7 +1130,7 @@ Grant me an abundant shower of tears, I pray, for the stream of my sinful deeds:
 
 *Theotokion:*
 
-Be Thou our strength and an unshakable tower, O thou who art full of divine grace, and a shield and invincible weapon: turning away the regiments of mental enemies from us, O all-pure Mother of God, who honor thee with faith and love!
+Be thou our strength and an unshakable tower, O thou who art full of divine grace, and a shield and invincible weapon: turning away the regiments of mental enemies from us, O all-pure Mother of God, who honor thee with faith and love!
 
 *Ode 4. Heirmos:*
 
@@ -1287,7 +1314,7 @@ I tremble as I reflect, O all-immaculate one, upon the dread day of the coming o
 
 Receive, O all-pure Sovereign Lady, the supplication of thine unprofitable servant, and turn the confusion of my soul and body into deep tranquility, that being saved, I may magnify thee!
 
-### AT THE APOSTICHA, STICHERA OF THE CROSS
+*AT THE APOSTICHA, STICHERA OF THE CROSS*
 
 *Tone 1:*
 
@@ -1303,7 +1330,8 @@ Neither tribulation, nor anguish, nor famine, nor persecution, nor wounds, nor f
 
 Standing by Thy Cross, O Word of God, the Ewe-lamb and undefiled Mother wept and cried: [f. 25vB] "Woe is me, O Son, how dost Thou die upon the Cross? Woe is me, my sweet Light: whither hath the sight of Thy beauty set, which was fairer than all the children of men?"
 
-# ON WEDNESDAY AT THE BEATITUDES
+*ON WEDNESDAY AT THE BEATITUDES*
+
 *Tone 1:*
 
 Because of food the enemy led Adam out of Paradise; but through the Cross Christ led the Thief into it, crying: Remember me, O Lord, when Thou comest into Thy Kingdom!
@@ -1322,9 +1350,11 @@ The Trinity enlightens all who purely honor It and know Its undivided dominion; 
 
 Standing by the Cross and beholding Christ nailed in the flesh, the all-immaculate one exclaimed and cried: "Whither hath Thy merciful beauty set, O truly ineffable One?"[^36]
 
-## ON WEDNESDAY EVENING, AT "LORD, I HAVE CRIED"
+## WEDNESDAY EVENING VESPERS (FOR THURSDAY) (TONE 1)
 
-[f. 26rA] *Stichera of the Holy Apostles, Tone 1.*
+[f. 26rA] *ON WEDNESDAY EVENING, AT "LORD, I HAVE CRIED"*
+
+*Stichera of the Holy Apostles, Tone 1.*
 
 *Podoben: "O all-lauded martyrs" (Прехвальніи мꙋнци):*
 
@@ -1348,7 +1378,7 @@ Thou didst make the adornment of the sacred vestment a beacon through active vir
 
 Tossed by the abyss of transgressions, having fled unto the calm harbor of thine all-pure prayer, O Mother of God, I cry unto thee: Save me, stretching forth thy strong right hand unto thy servant, O all-immaculate one!
 
-### AT THE APOSTICHA, STICHERA OF THE APOSTLES
+*AT THE APOSTICHA, STICHERA OF THE APOSTLES*
 
 *Tone 1:*
 
@@ -1364,7 +1394,9 @@ O all-lauded martyrs, the earth [f. 26vA] hath received you, and the gates of Pa
 
 Rejoice, harbinger of joy, delight of the Apostles and martyrs, and protection unto us, thy servants, O Virgin!
 
-## ON THURSDAY AT MATINS
+## THURSDAY MATINS: THE HOLY APOSTLES AND ST. NICHOLAS (TONE 1)
+
+*ON THURSDAY AT MATINS*
 
 *After the 1st Kathisma, Sessional Hymns of the Apostles, Tone 1:*
 
@@ -1398,7 +1430,8 @@ Mental luminaries, disciples of the Savior: as fiery luminaries ye illuminated t
 
 The Forefathers clearly proclaimed thee beforehand as the Maiden, Mother of God; and the divine Apostles preached thee in the world; and we the cruciform flock, piously and wisely honoring thee, hymn thee and truly call thee the Mother of God!
 
-## ON THURSDAY: CANONS TO THE HOLY APOSTLES
+*ON THURSDAY: CANONS TO THE HOLY APOSTLES*
+
 *Composition of Saint Theophanes.*[^37]
 
 *Ode 1, Tone 1. Heirmos:*
@@ -1413,7 +1446,8 @@ With the illuminating rays of the All-Holy Spirit, O most blessed ones, enlighte
 
 Joy of the Apostles, all-immaculate Sovereign Lady, Mother of God: as thou wast the Mother of Him Who was divinely glorified by them, with them pray that I may be delivered from the fire of Gehenna!
 
-### Another Canon to Saint Nicholas
+**Another Canon to Saint Nicholas**
+
 *Composition of Saint Joseph.*
 
 *Ode 1, Tone 1. Heirmos:*
@@ -1496,7 +1530,7 @@ Heal the hidden wounds of my soul by the prayers of those who clearly preached i
 
 *Theotokion:*
 
-With all the Bodiless Ones, implore God the Word, Whom thou didst incarnate beyond word, O Virgin: that Thy servants may be freed from irrational deeds and fleshly passions!
+With all the Bodiless Ones, implore God the Word, Whom thou didst incarnate beyond word, O Virgin: that thy servants may be freed from irrational deeds and fleshly passions!
 
 *Another Canon [to Saint Nicholas]. Heirmos:*
 
@@ -1624,7 +1658,7 @@ Already the end draws near; why art thou slothful, O my soul? Why art thou not z
 
 Thou who didst bear the divine Light, [f. 29rB] enlighten me who am darkened by all the assaults of the evil one and living in despondency and having angered God, O all-immaculate one; and guide me unto good works, as thou art the cause of all good things!
 
-### AT THE APOSTICHA, STICHERA OF THE APOSTLES
+*AT THE APOSTICHA, STICHERA OF THE APOSTLES*
 
 *Tone 1:*
 
@@ -1640,7 +1674,8 @@ Rejoice in the Lord, O martyrs: for ye contested with a good contest, ye resiste
 
 Rejoice, O Virgin Mother of God! Rejoice, praise of all the universe! Rejoice, all-pure Mother of God, blessed one!
 
-# ON THURSDAY AT THE BEATITUDES
+*ON THURSDAY AT THE BEATITUDES*
+
 *Tone 1:*
 
 Because of food the enemy led Adam out of Paradise; but through the Cross Christ led the Thief into it, crying: Remember me, O Lord, when Thou comest into Thy Kingdom!
@@ -1661,7 +1696,9 @@ Let us worship the Trinity, with the Father, the Son and the right Spirit: in an
 
 We bless thee, O all-pure one, as thou didst prophesy; for thou didst bear God in the flesh, Whom the apostolic choir proclaimed: through whom ask for us remission of transgressions, O all-hymned one!
 
-## ON THURSDAY EVENING, AT "LORD, I HAVE CRIED"
+## THURSDAY EVENING VESPERS (FOR FRIDAY) (TONE 1)
+
+*ON THURSDAY EVENING, AT "LORD, I HAVE CRIED"*
 
 *Stichera of the Cross, Tone 1.*
 
@@ -1685,7 +1722,7 @@ The undefiled Virgin, seeing on the Tree of old Him Whom she bore of her seedles
 
 Heal my soul grievously ailing with wicked passions, O all-hymned one, who didst bear Christ, the Physician and Savior of all, Who heals every infirmity, and delivers from the malice of the devil and from death him who is wounded!
 
-### AT THE APOSTICHA, STICHERA OF THE CROSS
+*AT THE APOSTICHA, STICHERA OF THE CROSS*
 
 *Tone 1:*
 
@@ -1701,7 +1738,9 @@ By the prayers, O Lord, of all the holy ones and of the Theotokos, grant us Thy 
 
 Beholding Thy unjust slaying, O Christ, the Virgin cried weeping unto Thee: "Sweet child, how dost Thou die unjustly? And how dost Thou hang upon the Tree, Who didst suspend all the earth upon the waters? Leave me not alone, O Benefactor rich in mercy, Thy Mother and servant, I pray!"
 
-## ON FRIDAY AT MATINS
+## FRIDAY MATINS: THE PRECIOUS CROSS AND THE THEOTOKOS (TONE 1)
+
+*ON FRIDAY AT MATINS*
 
 *After the 1st Kathisma, Sessional Hymns of the Cross, Tone 1:*
 
@@ -1735,7 +1774,8 @@ When the Sun saw Thee, O Word, hung upon the Wood of the Cross, out of tender me
 
 Having acquired thee as our protection, O all-pure one, by thy prayers we are delivered from misfortunes; for being ever preserved by the Cross of thy Son, as is due, we all piously magnify thee!
 
-## ON FRIDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS
+*ON FRIDAY: CANON TO THE PRECIOUS AND LIFE-CREATING CROSS*
+
 *Composition of Saint Joseph.*[^40]
 
 *Ode 1, Tone 1. Heirmos:*
@@ -1756,7 +1796,8 @@ Bravely assimilating yourselves unto the passions of Christ, ye shrink not from 
 
 As an Ewe-lamb beholding the Lamb raised upon the Cross, the Ewe-lamb exclaimed and cried: "Whither hath Thy beauty set, O Long-suffering One, O Son co-unoriginate?"
 
-### Another Canon to the Most Holy Theotokos
+**Another Canon to the Most Holy Theotokos**
+
 *Tone 1. Heirmos:*
 
 *A song of victory...*
@@ -1991,7 +2032,7 @@ How fearful is the day of examination, O Maiden! How terrible is the account! Ho
 
 O thou who didst bear the divine Light Who shone forth from the Father: have compassion, O all-immaculate one, upon my soul that is darkened by worldly deceits and become a mockery unto enemies, and account it worthy of the light of saving repentance, O pure one!
 
-### AT THE APOSTICHA
+*AT THE APOSTICHA*
 
 *Stichera of the Cross, Tone 1:*
 
@@ -2009,7 +2050,8 @@ Passion-bearers of Christ, come, all ye people, let us honor them with spiritual
 
 When the Ewe-lamb and all-immaculate Sovereign Lady beheld the Lamb upon the Cross having neither form nor beauty, she wept and cried: "Woe is me! Whither hath Thy beauty set, O sweetest One? Where is Thy majesty? Where is the grace of the countenance of Thine appearance, O my dearly-beloved Son?"
 
-# ON FRIDAY AT THE BEATITUDES
+*ON FRIDAY AT THE BEATITUDES*
+
 *Tone 1:*
 
 For the sake of food the enemy led Adam out of Paradise; but through the Cross, Christ led the Thief into it, who cried: "Remember me, O Lord, in Thy Kingdom!"
@@ -2030,7 +2072,9 @@ We glorify Thee, the Trinity of equal power and equal honor: God the unoriginate
 
 When she who bore Thee in the flesh beheld Thee nailed to the Cross, O Christ God, she wept and said: "What is this that the lawless assembly of the Hebrews returns unto Thee?"
 
-## ON FRIDAY EVENING, AT "LORD, I HAVE CRIED"
+## FRIDAY EVENING VESPERS (FOR SATURDAY) (TONE 1)
+
+*ON FRIDAY EVENING, AT "LORD, I HAVE CRIED"*
 
 *Stichera to the Holy Martyrs, Hierarchs, and Venerable Fathers, Tone 1.*
 
@@ -2052,9 +2096,9 @@ O the good merchandise of yours, O holy ones! For ye gave your blood, and inheri
 
 *Glory... Both now... Theotokion: "The glory of the world..."*
 
-### AT THE APOSTICHA
+[f. 30rA] *AT THE APOSTICHA*
 
-[f. 30rA] *Martyrika, Tone 1:*
+*Martyrika, Tone 1:*
 
 O all-lauded martyrs, the earth hath not concealed you, but heaven hath received you! The gates of Paradise opened unto you, and being within, ye delight in the Tree of Life; pray Christ to grant unto our souls peace and great mercy!
 
@@ -2072,9 +2116,9 @@ No one is sinless, none among men hath lived without sin, save Thou alone, O Imm
 
 Truly beyond understanding are all thy wonders, and the manner of thy birthgiving, O Bride of God, which all the prophets foretold: all-glorious was thy conception and birthgiving, O all-hymned one, incomprehensible and ineffable, whereby the world was saved, for He is merciful!
 
-## ON SATURDAY AT MATINS
+## SATURDAY MATINS: ALL SAINTS, MARTYRS, AND THE DEPARTED (TONE 1)
 
-[f. 30rB] *After the 1st Kathisma, Sessional Hymns of the Martyrs, Tone 1:*
+*ON SATURDAY AT MATINS [f. 30rB] After the 1st Kathisma, Sessional Hymns of the Martyrs, Tone 1:*
 
 With the praise of suffering and eternal honor, O glorious passion-bearers, having bound yourselves unto the Lord; for by endurance of wounds ye conquered the lawless, and by divine power received victory from heaven. By their prayers deliver us also from the invisible enemy, O Savior, and save us!
 
@@ -2098,7 +2142,8 @@ Thou didst abolish the power of death, O Christ, and those who were in corruptio
 
 O only strong and fervent protectress of the human race, Virgin Theotokos: unceasingly pray with the Prophets and Martyrs, with the Hierarchs, Ascetics, and Venerable ones, unto God the Word Whom thou, O Virgin, didst bear beyond nature, to save all!
 
-## ON SATURDAY: CANON TO THE HOLY MARTYRS, HIERARCHS, VENERABLE ONES, AND THE DEPARTED
+*ON SATURDAY: CANON TO THE HOLY MARTYRS, HIERARCHS, VENERABLE ONES, AND THE DEPARTED*
+
 *Composition of Saint Joseph.*[^43]
 
 *Ode 1, Tone 1. Heirmos:*
@@ -2119,7 +2164,8 @@ Having become dead, Thou didst grant of Thy divine life and immortal life unto t
 
 The women martyrs bound by the love of Christ and crowned by God, and all the venerable women, faithfully honor thee, O all-immaculate one and fair among women, rejoicing as unto the holy Queen!
 
-### Another Canon for the Departed
+**Another Canon for the Departed**
+
 *We sing it in order, and where there is no Menaion. Tone 1. Heirmos: "Thy victorious right hand...":*
 
 Thou didst smash the gates of death and its bars by Thy death, O Immortal One; open the gates of immortality that are beyond understanding unto the departed, O Master, by the prayers of Thy passion-bearers!
@@ -2322,9 +2368,9 @@ Thou Who hast dominion over death and life, and between all things: deign that t
 
 Thou wast the Mediatress of salvation unto us, O all-immaculate one...
 
-## ON SATURDAY EVENING, AT LITTLE VESPERS, AT "LORD, I HAVE CRIED"
+[f. 35rA] *ON SATURDAY EVENING, AT LITTLE VESPERS, AT "LORD, I HAVE CRIED"*
 
-[f. 35rA] *Resurrectional Stichera, on 4, Tone 2:*[^44]
+*Resurrectional Stichera, on 4, Tone 2:*[^44]
 
 Unto the pre-eternal Word of God born of the Father, Who was incarnate of the Virgin Mary, come, let us bow down: for having endured crucifixion, He was committed unto burial as He Himself willed; and He rose from the dead, and saved me, wandering man!
 
@@ -2336,7 +2382,7 @@ With the Archangels let us hymn the resurrection of Christ: for He is the Redeem
 
 Beholding the wonders of the great mystery, I proclaim the Godhead; beholding the passions, I deny not the humanity. For Emmanuel opened the gates of nature as man, but as God He unloosed not the bars of virginity [f. 35rB] but He passed through in like manner as He was formed, even as He entered through hearing; and in like manner He was born as He was conceived: impassibly He entered, and ineffably He came forth, according to the Prophet who said: "This gate shall be shut, and no man shall pass through it, save only the Lord God of Israel, Who hath great mercy!"
 
-### AT THE APOSTICHA
+*AT THE APOSTICHA*
 
 *Resurrectional Stichera, Tone 2:*
 
@@ -2362,7 +2408,7 @@ The fear of many-formed temptations and dire distresses now tempest-toss me, and
 
 Thou prayest for all, O Good One, who run with faith unto thy mighty protection: for we sinners have no other refuge unto God, in perils and sorrows an ever-present deliverance, laden with many sins, O Mother of the Most High God; therefore we fall down before thee: deliver thy servants from every distress![^45]
 
-Then, "Now lettest Thou depart": Trisagion. Troparion: "When Thou didst descend unto death..." Theotokion: "All beyond comprehension..." And the dismissal. [f. 33rA] all-immaculate one, and abiding in brightness unto endless ages: therefore, O pure Virgin, do we ever bless and highly exalt all Thy works unto all ages!
+Then, "Now lettest Thou depart": Trisagion. Troparion: "When Thou didst descend unto death..." Theotokion: "All beyond comprehension..." And the dismissal. [f. 33rA] all-immaculate one, and abiding in brightness unto endless ages: therefore, O pure Virgin, do we ever bless and highly exalt all thy works unto all ages!
 
 *Ode 9. Heirmos:*
 
@@ -2392,7 +2438,8 @@ Having become the Redeemer and Savior of the human race by reason of the Crucifi
 
 O the wonder of thy wonders that are beyond understanding! For thou alone, O Virgin, hast given all under the sun to understand the newest wonder, O most pure one, of thine incomprehensible birthgiving; therefore we all magnify thee!
 
-# AT THE PRAISES: STICHERA
+*AT THE PRAISES: STICHERA*
+
 *Martyrika, Tone 1:*
 
 Passion-bearers of Christ, come, all ye people, let us honor them with spiritual songs and hymns: the luminaries of the world and preachers of the faith, the ever-flowing fountains from which healings pour forth unto the faithful! By their prayers, O Christ our God, grant peace unto Thy world, and great mercy unto our souls!
@@ -2411,7 +2458,7 @@ By Thy word, O my Savior, Thou dost reveal that Thou art the Resurrection of all
 
 Rejoice on our behalf, O holy Virgin Theotokos, pure vessel of the whole universe: [f. 33vB] unquenchable lampstand, dwelling-place of the Uncontainable One, indestructible Church: Rejoice, from whom was born the Lamb of God, Who takes away the sins of the whole world!
 
-### AT THE APOSTICHA
+*AT THE APOSTICHA*
 
 *Stichera for the Departed, Tone 1.*
 

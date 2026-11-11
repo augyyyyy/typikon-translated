@@ -3,7 +3,7 @@
 *The Menaion is left aside; and we sing it at Compline in the evening.*[^1476]
 
 *Prokeimenon, Psalm 67, Tone 6: Sing unto God, sing praises to His Name (Ps. 67:5 LXX):*
-*Verse: Cast up a highway for Him Who rids upon the setting sun (Ps. 67:5 LXX):*
+*Verse: Cast up a highway for Him Who rides upon the setting sun (Ps. 67:5 LXX):*
 
 *Reading from Genesis (Gen. 9:8–17):*[^1477]
 And the Lord God spoke unto Noah, and to his sons with him, saying: Behold, I establish My covenant with you, and with your seed after you, and with every living soul that is with you, of the fowl, and of the cattle, and of all the wild beasts of the earth, as many as are with you, of all that came out of the ark. And I will establish My covenant with you, and all flesh shall no more die of the water of the deluge, and there shall no more be a deluge of water to destroy the whole earth. And God said unto Noah: This is the token of the covenant which I make between Me and you, and between every living soul that is with you, unto perpetual generations: I set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth. And it shall come to pass, when I bring clouds over the earth, that the bow shall be seen in the clouds; and I will remember My covenant, which is between Me and you, and between every living soul in all flesh; and the water shall no more become a deluge to destroy all flesh. And My bow shall be in the cloud, and they shall look upon it to remember My perpetual covenant between Me and between every soul that lives in all flesh upon the earth. And God said unto Noah: This is the token of the covenant which I have made between Me and between all flesh that is upon the earth.
@@ -48,7 +48,7 @@ The mouth of an understanding man shall be praised by a man, but the hard-hearte
 *After the third Stichology, Sessional Hymn by Kyr Theodore, Tone 1, Podoben: "Thy tomb, O Savior" (Гро́бъ тво́й):*[^1486]
 *Sessional Hymn:* Having been enlightened by virtues, let us draw near, having acquired the purity of abstinence; and crying aloud, let us bow down before the Precious Cross! Sanctify our souls and bodies, and vouchsafe us also to bow down before Thy Most-pure Passion, O only God of all, granting us great mercy! *(Twice)*
 
-*Glory, both now: Cross-Theotokion, the same Tone and Podoben:*
+*Glory, both now: Cross-Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 *Cross-Theotokion:* Beholding Thee stretched out dead upon the Cross, O Christ, the all-immaculate Mother cried aloud: O My Son, co-unoriginate with the Father and the Spirit, what is this Thine ineffable dispensation, whereby Thou hast saved the creation of Thine immaculate hands, O Compassionate One!
 
 *Canon of the Cross. A work of Kyr Theophanes. Bearing this acrostic: Let us bow down before the all-honorable Wood.*[^1487]

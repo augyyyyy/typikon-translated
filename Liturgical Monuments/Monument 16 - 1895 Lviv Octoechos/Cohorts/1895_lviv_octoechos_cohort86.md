@@ -1,18 +1,18 @@
 === LEAF p851 ===
 
-*Glory:* Foreseeing the condemnation of my wicked deeds, wretch that I am, I cry unto Thee from the depths of my heart, O all-pure one: Be Thou my protection, O Lady, and save me.[^9327]
+*Glory:* Foreseeing the condemnation of my wicked deeds, wretch that I am, I cry unto thee from the depths of my heart, O all-pure one: Be thou my protection, O Lady, and save me.[^9327]
 
 *Both now:* With the Martyrs, with the Angels, and with the Apostles, O all-immaculate one, entreat Thy Son and Lord to save Thy servants from assaults, perils, and griefs.[^9328]
 
 *Ode 8. Heirmos:* Imitating the youths in the furnace, having received the spiritual dew, with faith we call out: Bless the Lord, all ye works of the Lord![^9329]
 
-*Troparion 1:* Be Thou a help unto me, O most holy Virgin, who flee unto Thee and cry aloud with faith: Have mercy, O pure one, and grant me cleansing of sins before the end; and at the hour of demise grant salvation, and after demise bestow rest.[^9330]
+*Troparion 1:* Be thou a help unto me, O most holy Virgin, who flee unto thee and cry aloud with faith: Have mercy, O pure one, and grant me cleansing of sins before the end; and at the hour of demise grant salvation, and after demise bestow rest.[^9330]
 
-*Troparion 2:* Grievous dread takes hold of me when I ponder the fearful examination and the inexorable Judge of those who have wrought evil, such things as truly I, the wretched one, have wrought, and those torments that have no end. O Lady of the world, be Thou my salvation![^9331]
+*Troparion 2:* Grievous dread takes hold of me when I ponder the fearful examination and the inexorable Judge of those who have wrought evil, such things as truly I, the wretched one, have wrought, and those torments that have no end. O Lady of the world, be thou my salvation![^9331]
 
 *Glory:* O Thou Who art the cause of salvation for those born of earth, O champion of the faithful, cleansing of sinners! O fountain of all goodness, and bestower of good things, O pure Parent of God: heal Thou the diseases of my soul, and pour forth eternal grace, and glory, and gladness.[^9332]
 
-*Both now:* As an offering from us, who wast given unto the Master as from the beginning of nature, accept our supplications, O all-pure one, rendering unto us Thy help as fair gifts, that unceasingly we may hymn Him Who was born of Thee, and highly exalt Him unto the ages.[^9333]
+*Both now:* As an offering from us, who wast given unto the Master as from the beginning of nature, accept our supplications, O all-pure one, rendering unto us thy help as fair gifts, that unceasingly we may hymn Him Who was born of thee, and highly exalt Him unto the ages.[^9333]
 
 *Ode 9. Heirmos:* Mother of God and Virgin, having given birth and remaining a virgin still, this is not a work of nature, but of God's condescension; therefore as the only one accounted worthy of the marvels of God, Thee do we ever magnify.[^9334]
 
@@ -25,7 +25,7 @@
 
 *Glory:* Deliver me from the unquenchable fire, and the outer darkness, and eternal weeping, who am worthy of condemnation, O most holy and pure Theotokos, by Thy fervent intercession unto God![^9338]
 
-*Both now:* Preserved beneath Thy grace, O Theotokos, I remain undevoured by the assaults of the adversary enemies; therefore, as a divine foundation and ascent, I sing praise, and bow down, and magnify Thee.[^9339]
+*Both now:* Preserved beneath thy grace, O Theotokos, I remain undevoured by the assaults of the adversary enemies; therefore, as a divine foundation and ascent, I sing praise, and bow down, and magnify thee.[^9339]
 
 *It is truly meet. Trisagion. After the Our Father: troparia and the rest as usual.*[^9340]
 
@@ -121,7 +121,7 @@
 
 *Troparion 4:* For those who have been translated in faith and hope, we all beseech the good Master to have mercy on them in the hour of judgment.[^9385]
 
-*Glory... Both now: Theotokion:* Without emptying the Father's bosom, the Word appeared in Thy womb, O all-pure one, held as an Infant: the Beginningless One receiving a beginning from Thee.[^9386]
+*Glory... Both now: Theotokion:* Without emptying the Father's bosom, the Word appeared in thy womb, O all-pure one, held as an Infant: the Beginningless One receiving a beginning from thee.[^9386]
 
 === LEAF p855 ===
 
@@ -133,7 +133,7 @@
 
 *Glory:* Having come down from heaven to save the human race, O compassionate Savior: vouchsafe those who have piously been translated, by Thy tender mercy, to be filled with immaterial light, and Thy divine glory, and joy.[^9390]
 
-*Both now: Theotokion:* The laws of nature were dissolved in Thee, who didst conceive the incomprehensible Word, O pure one; and the divine law was given unto us, granting remission of transgressions unto all who are in despair, by the grace of divine goodness.[^9391]
+*Both now: Theotokion:* The laws of nature were dissolved in thee, who didst conceive the incomprehensible Word, O pure one; and the divine law was given unto us, granting remission of transgressions unto all who are in despair, by the grace of divine goodness.[^9391]
 
 *Ode 4. Heirmos:* Perceiving Thy coming in the flesh, O Christ, the Prophet Habakkuk cried aloud: Glory to Thy power, O Lord![^9392]
 
@@ -183,7 +183,7 @@
 
 *Glory:* Having put off heaviness and been loosed from bonds, and passed over unto the life on high, Thy servants, O Christ, vouchsafe, O Savior, to delight in Thy holy radiances.[^9414]
 
-*Both now: Theotokion:* O Lady Mother of God, grant loosening of my transgressions, and bestow upon me forgiveness of my sins, O Thou who didst bear the hypostatic Life unto the world, O all-immaculate one.[^9415]
+*Both now: Theotokion:* O Lady Mother of God, grant loosening of my transgressions, and bestow upon me forgiveness of my sins, O thou who didst bear the hypostatic Life unto the world, O all-immaculate one.[^9415]
 
 *Ode 6. Heirmos:* Jonah cried out from the belly of Hades: Lead my life up from corruption! And we cry aloud unto Thee: O almighty Savior, have mercy upon us![^9416]
 
@@ -195,7 +195,7 @@
 
 *Glory: Hymn for the Departed (Поко́инъ):* Thou hast translated Thy servants from temporal things, O compassionate One; yet vouchsafe them to be partakers of eternal gladness and true life.[^9420]
 
-*Both now: Theotokion:* Sanctify Thy servants, O most holy Virgin, who didst bear the most holy Word in the flesh, Whom every breath hymns, sanctifying them.[^9421]
+*Both now: Theotokion:* Sanctify thy servants, O most holy Virgin, who didst bear the most holy Word in the flesh, Whom every breath hymns, sanctifying them.[^9421]
 
 *Canon to the Departed. Ode 6. Heirmos:* Voyaging amid the turmoil of worldly cares, submerged with my ship by sins, and cast forth unto the soul-corrupting beast, like Jonah I cry aloud unto Thee, O Christ: Lead me up from the deadly deep![^9422]
 
@@ -206,7 +206,7 @@
 === LEAF p858 ===
 ...rank Thy servants who have fallen asleep before us, O Merciful One, as Thou art immortal God.[^9425]
 
-*Both now: Theotokion:* He Who by divine will and creative power composed all things out of non-being came forth from Thy womb, O pure one, and with God-originating brightness hath enlightened those that were in the darkness of death.[^9426]
+*Both now: Theotokion:* He Who by divine will and creative power composed all things out of non-being came forth from thy womb, O pure one, and with God-originating brightness hath enlightened those that were in the darkness of death.[^9426]
 
 *Ode 7. Heirmos:* Being in the Chaldean furnace, the children of Abraham rejoiced with the Angel, saying: Blessed art Thou, O God of our fathers![^9427]
 
@@ -231,7 +231,7 @@
 *Both now: Theotokion:* He Who aforetime was without mother from the Father, now without father was ineffably born of Thee, O Virgin, Christ, having clothed Himself in flesh for the sake of us men: Blessed...[^9437]
 
 === LEAF p859 ===
-...is the fruit of Thy womb, O all-pure one![^9438]
+...is the fruit of thy womb, O all-pure one![^9438]
 
 *Ode 8. Heirmos:* Imitating the youths in the furnace, having received the spiritual dew, with faith we call out: Bless the Lord, all ye works of the Lord![^9439]
 
@@ -269,7 +269,7 @@
 
 *Glory: Hymn for the Departed (Поко́инъ):* The glory of which the choirs of all the saints were accounted worthy, O Christ, vouchsafe those who have been translated, who served Thee in Orthodox manner, to partake of.[^9454]
 
-*Both now: Theotokion:* Loving sin as I do, I tremble before the fearful judgment seat of Him Who was born of Thee, O pure one: wherein, as Thou art good, preserve me uncondemned.[^9455]
+*Both now: Theotokion:* Loving sin as I do, I tremble before the fearful judgment seat of Him Who was born of thee, O pure one: wherein, as thou art good, preserve me uncondemned.[^9455]
 
 *Canon to the Departed. Ode 9. Heirmos:* Mother of God and Virgin, having given birth and remaining a virgin still, this is not a work of nature, but of God's condescension; therefore as the only one accounted worthy of the marvels of God, Thee do we ever magnify.[^9456]
 

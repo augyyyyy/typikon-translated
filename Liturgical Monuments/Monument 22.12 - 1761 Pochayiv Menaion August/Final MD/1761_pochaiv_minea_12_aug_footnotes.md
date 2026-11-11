@@ -758,11 +758,11 @@
 
 [^378]: Heirmos of Ode 8 of the second canon to St. Maximus: *На горѣ̀ ст҃ѣ́й просла́вльшасѧ* (Greek: *Τὸν ἐν ὄρει ἁγίῳ δοξασθέντα*).
 
-[^379]: Heirmos of Ode 9 of the Festal Canon of Transfiguration by St. Cosmas of Maiuma: *Оу҆страши́сѧ всѧ́къ слꙋ́хъ* (Greek: *Ἔφриξε πᾶσα ἀκοή*).
+[^379]: Heirmos of Ode 9 of the Festal Canon of Transfiguration by St. Cosmas of Maiuma: *Оу҆страши́сѧ всѧ́къ слꙋ́хъ* (Greek: *Ἔφριξε πᾶσα ἀκοή*).
 
 [^380]: Heirmos of Ode 9 of the Canon to the Martyrs Photios and Anicetus: *Ка́мень нерꙋкосѣ́чный* (Greek: *Λίθος ἀχειρότμητος*), based on Daniel 2:34, 45.
 
-[^381]: Heirmos of Ode 9 of the Canon to St. Maximus: *Проѧвле́нное на горѣ̀* (Greek: *Τὸν προδηλωθέντα ἐν ὄρει τῷ νοмоθέτῃ*).
+[^381]: Heirmos of Ode 9 of the Canon to St. Maximus: *Проѧвле́нное на горѣ̀* (Greek: *Τὸν προδηλωθέντα ἐν ὄρει τῷ νομοθέτῃ*).
 
 [^382]: Slavonic misprint: the printed text reads *пѣ́снь, з҃-ѧ, и҆ н҃-ѧ*, where *н҃-ѧ* (50th) is a typographical error for *и҃-ѧ* (8th).
 
@@ -1136,7 +1136,7 @@
 
 [^567]: Exod. 15:20–21; Miriam the prophetess leading the choir of women with timbrels.
 
-[^568]: Canon of the Holy Martyr Myron, composed by St. Joseph the Hymnographer (ca. 816–886), with the acrostic: "Пою̀ му́ρωне твою̀ мѵродохнове́ннꙋю бл҃года́ть. І҆ѡ́сифъ" (*I sing, O Myron, thy myrrh-breathing grace. Joseph*).
+[^568]: Canon of the Holy Martyr Myron, composed by St. Joseph the Hymnographer (ca. 816–886), with the acrostic: "Пою̀ μύρωνε твою̀ мѵродохнове́ннꙋю бл҃года́ть. І҆ѡ́сифъ" (*I sing, O Myron, thy myrrh-breathing grace. Joseph*).
 
 [^569]: Ode 1 Heirmos of the Canon of St. Myron (Tone 2); Exod. 14:21–31.
 
@@ -1564,7 +1564,7 @@
 
 [^781]: Sessional Hymn of St. Agathonicus, Tone 8, Podoben: *Премꙋ́дрости* (Greek: Τὴν Σοφίαν καὶ Λόγον).
 
-[^782]: Sessional Hymn of St. Luppus, Tone 1, Podoben: *Гро́бъ тво́й* (Greek: Τὸν τάφон σου, Σωτήρ).
+[^782]: Sessional Hymn of St. Luppus, Tone 1, Podoben: *Гро́бъ тво́й* (Greek: Τὸν τάφον σου, Σωτήρ).
 
 [^783]: Sessional Hymn of the Feast, Tone 1, Podoben: *Ка́мени запеча́танꙋ* (Greek: Τοῦ λίθου σφραγισθέντος).
 
@@ -1702,7 +1702,7 @@
 
 [^850]: Ode 8 Heirmos of St. Bartholomew (*Ѻ́троки благочести̑выя въ пещѝ...*) is the standard Tone 4, Ode 8 Heirmos from the Heirmologion.
 
-[^851]: The Slavonic text reads "плещи̑ дбо́ ны́нѣ мнѣ̀ дае́тъ", where *дбо́* is a printed contraction/misprint for *дѣ́во* (O Virgin). The phrase *плещи̑ дае́тъ* (literally "gives [its] shoulders/back") translates the Greek idiom νῶта δίδωσι ("turns its back / flees"), referring to the turning flaming sword of Genesis 3:24 withdrawing from the faithful through the Incarnation.
+[^851]: The Slavonic text reads "плещи̑ дбо́ ны́нѣ мнѣ̀ дае́тъ", where *дбо́* is a printed contraction/misprint for *дѣ́во* (O Virgin). The phrase *плещи̑ дае́тъ* (literally "gives [its] shoulders/back") translates the Greek idiom νῶτα δίδωσι ("turns its back / flees"), referring to the turning flaming sword of Genesis 3:24 withdrawing from the faithful through the Incarnation.
 
 [^852]: Slavonic: *свере́тника* (variant form of *све́рстника* / *сверѣ́тника*, peer or spouse of equal standing). Saint Natalia, though a woman in the eyes of the pagan magistrates, spiritually fortified her husband Saint Adrian during his interrogation and torture.
 
@@ -1756,7 +1756,7 @@
 
 [^877]: Matthew 14:1-13.
 
-[^878]: The Slavonic text reads *калное ѡбчя*, a typographical distortion corresponding to the Greek liturgical text *Τὸ τῆς ἐρήμου καλὸν ἐγκαλλώπισма* ("The fair adornment of the wilderness").
+[^878]: The Slavonic text reads *калное ѡбчя*, a typographical distortion corresponding to the Greek liturgical text *Τὸ τῆς ἐρήμου καλὸν ἐγκαλλώπισμα* ("The fair adornment of the wilderness").
 
 [^879]: Katavasia of the Exaltation of the Holy Cross: *Moses, having inscribed the Cross upon the dry land with his rod...*
 
@@ -1830,7 +1830,7 @@
 
 [^914]: Ps. 131:8 [MT 132:8].
 
-[^915]: The Slavonic acrostic reads *Крѣ́постїю мѧ̀ твое́ю ѡ҆пло́ши чⷭ҇таѧ дв҃о* (in Greek: *Ῥῶσόν με σῇ δυνάμει, Ἁγνὴ Πарθένε*), running through the odes of the first canon.
+[^915]: The Slavonic acrostic reads *Крѣ́постїю мѧ̀ твое́ю ѡ҆пло́ши чⷭ҇таѧ дв҃о* (in Greek: *Ῥῶσόν με σῇ δυνάμει, Ἁγνὴ Παρθένε*), running through the odes of the first canon.
 
 [^916]: St. Joseph the Hymnographer (c. 816–886), author of the primary canon for the feast.
 
@@ -1982,7 +1982,7 @@
 
 [^990]: Echoing the angelic Trisagion hymn (Isa. 6:3; Rev. 4:8).
 
-[^991]: Luke 1:28 ("Rejoice, thou that art full of grace" / Χαῖρε, κεχαриτωμένη).
+[^991]: Luke 1:28 ("Rejoice, thou that art full of grace" / Χαῖρε, κεχαριτωμένη).
 
 [^992]: Isa. 25:8; Rev. 7:17, 21:4 ("and God shall wipe away all tears from their eyes").
 

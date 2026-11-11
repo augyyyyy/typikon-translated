@@ -75,7 +75,7 @@ Thou didst appear, O Savior, unto Thine holy Apostles when the doors were shut, 
 
 Now beholding Thee, O King of all, not with our eyes, but with the love of our heart, believing Thee to be God, we magnify Thee in hymns.
 
-*Glory... Both now and for ever and unto ages of ages. Amen. In the same Tone and Podoben:*
+*Glory... Both now and for ever and unto ages of ages. Amen. In the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Thou givest peace unto Thy people, O Redeemer, and remission of debts, through the prayers of the all-pure and only Mother of God.
 

@@ -204,7 +204,7 @@ By Thy three-day burial having despoiled death, and corrupt...[^8095]
 === LEAF p759 ===
 ...man having raised up by Thy life-bearing rising, O Christ God, as Thou art the Lover of mankind: Glory to Thee![^8096]
 
-*Glory... both now... Theotokion:* As having loving-kindness for our aid, and beholding those that are upon the earth, have compassion upon the helpless people, O blessed Mother of God. Cease not interceding, lest we perish miserably; pray merciful God as Thou art tender-hearted, that our souls may be saved, O most holy Virgin.[^8097]
+*Glory... both now... Theotokion:* As having loving-kindness for our aid, and beholding those that are upon the earth, have compassion upon the helpless people, O blessed Mother of God. Cease not interceding, lest we perish miserably; pray merciful God as thou art tender-hearted, that our souls may be saved, O most holy Virgin.[^8097]
 
 *After the Second Stichology, Resurrectional Sessional Hymns, Tone 7:*
 Life lay in the tomb, and a seal was placed upon the stone; as a sleeping King soldiers guarded Christ, and Angels glorified Him as immortal God, while the women cried aloud: The Lord is risen, granting unto the world great mercy.[^8098]

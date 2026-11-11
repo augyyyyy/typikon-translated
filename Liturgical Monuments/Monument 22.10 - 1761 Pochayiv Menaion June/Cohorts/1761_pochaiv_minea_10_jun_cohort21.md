@@ -2,10 +2,10 @@
 *Sticheron:*
 O God-inspired Sampson, thou wast a luminary, enlightening the world under the sun with the rays of miracles, driving away the darkness of soul-corrupting diseases, dispelling demonic gloom; and now pray that peace and great mercy be granted unto our souls.[^854]
 
-*Glory, both now, Theotokion, in the same Tone and Podoben:*
+*Glory, both now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Woe is me! What shall become of me, having defiled my mind and soul and body with transgressions? What shall I do? And how shall I escape the unendurable flame, the unyielding and eternal bonds? But O all-immaculate [Lady], before the end pray to thy Son to grant me remission.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 When the ewe-lamb and undefiled Mistress beheld upon the Cross her Lamb, having neither form nor comeliness, woe is me! lamenting, she said: Whither hath Thy beauty departed, O sweetest One? Whither Thy fair comeliness? Whither the radiant grace of Thine image, O my most beloved Son?
 
 *Troparion, Tone 8:*

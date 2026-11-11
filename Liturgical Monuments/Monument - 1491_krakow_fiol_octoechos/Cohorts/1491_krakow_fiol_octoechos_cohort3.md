@@ -22,7 +22,7 @@
 === LEAF p22 ===
 saving remission; and Thou didst put to shame the one who held them fast, O Christ, showing him naked and destitute by Thy divine Resurrection.
 
-*Theotokion:* Despise not the petitions of those who ask in faith, O all-praised One, but accept them, and offer these unto Thy God, O all-pure One, unto God the only Benefactor; for we have acquired thee as our mediatress!
+*Theotokion:* Despise not the petitions of those who ask in faith, O all-praised One, but accept them, and offer these unto thy God, O all-pure One, unto God the only Benefactor; for we have acquired thee as our mediatress!
 
 *Another canon, of the Cross and Resurrection. Heirmos: Being God of peace, Father of mercies...*[^18]
 
@@ -66,9 +66,9 @@ saving remission; and Thou didst put to shame the one who held them fast, O Chri
 
 *Troparion:* Guide us into the path of repentance by thy prayers, O all-pure Lady, conquering the enemies by thy supplications!
 
-*Katavasia: Celebrating this divine and all-honorable feast... And the Kontakion of the day, or to the Theotokos: O Protection of Christians that cannot be put to shame...*[^21]
+*Katavasia: Celebrating this divine and all-honorable feast... And the Kontakion of the Saint of the day, or to the Theotokos: O Protection of Christians that cannot be put to shame...*[^21]
 
-*Ode 7. Heirmos: We, the faithful, perceive thee to be a spiritual furnace, O Theotokos; for as the Supremely Exalted One saved the three youths, so hath He wholly renewed the world in thy womb, the praised God of our fathers, and blessed art Thou!*
+*Ode 7. Heirmos: We, the faithful, perceive thee to be a spiritual furnace, O Theotokos; for as the Supremely Exalted One saved the three youths, so hath He wholly renewed the world in thy womb, the praised God of our fathers, and blessed art thou!*
 
 *Troparion:* The earth was dismayed and the sun hid itself; the light was restrained, the divine veil of the temple was rent, and the rocks were split; for the Righteous One hung upon the Cross, the praised God of our fathers!
 
@@ -87,7 +87,7 @@ saving remission; and Thou didst put to shame the one who held them fast, O Chri
 
 *Another canon, to the Theotokos. Heirmos the same:*
 
-*Troparion:* Rejoice, O pure One! For clothed in Adam's skin, out of thee in truth came forth the Shepherd, the Supremely Exalted One in humanity, by reason of His incomprehensible mercy: praised is the God of our fathers, and blessed art Thou!
+*Troparion:* Rejoice, O pure One! For clothed in Adam's skin, out of thee in truth came forth the Shepherd, the Supremely Exalted One in humanity, by reason of His incomprehensible mercy: praised is the God of our fathers, and blessed art thou!
 
 *Troparion:* Rejoice, fount of ever-living water! Rejoice, paradise of delight! Rejoice, wall of the faithful! Rejoice, unwedded one! Rejoice, joy of the universe, for whose sake hath shone forth upon us the praised God of our fathers!
 

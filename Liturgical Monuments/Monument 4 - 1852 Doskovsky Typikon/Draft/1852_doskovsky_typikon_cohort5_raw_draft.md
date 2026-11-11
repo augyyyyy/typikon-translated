@@ -4,7 +4,7 @@
 
 [Book Page 80]
 
-### Concerning Two Simple Saints with Distinct Offices Falling on a Sunday
+**Concerning Two Simple Saints with Distinct Offices Falling on a Sunday**
 
 On Saturday at Great Vespers, at **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses: stichera of the Octoechos 4, of the first saint 3, of the second saint 3; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Dogmatikon (the 1st Sunday Theotokion) of the Tone of the week. If the [first or second] saint has a sticheron appointed at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.[^92]  
 At the Aposticha, the Resurrection stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if he has one; **"Now and forever, and unto the ages of ages. Amen:"** the Theotokion according to the Tone. If there is no Doxastikon (*насла́вникъ*) for the saint, then: **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the Theotokion.  
@@ -35,7 +35,7 @@ After the Little Entrance: the Resurrection Troparion; **"Glory to the Father, a
 
 [Book Page 82]
 
-### Concerning a Saint Sung to Six, If It Occur on a Sunday
+**Concerning a Saint Sung to Six, If It Occur on a Sunday**
 
 **Behold:** If there is no Festal Menaion and the saint in the Horologion (*Часосло́въ*) has the three-dot mark like this: ⁘,\*) then we sing to the saint from the General Menaion (*Ѻ҆́бщая Мине́я*) to 6.[^94]  
 On Saturday evening, at Great Vespers: stichera of the Octoechos 6, of the saint 4.\*) **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the Tone.[^95]  
@@ -63,7 +63,7 @@ After the Little Entrance: the Resurrection Troparion; **"Glory to the Father, a
 If, however, the saint has an appointed Epistle and Gospel, after the Little Entrance it is proper to sing thus: the Resurrection Troparion, the troparion of the saint; then the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** according to the Tone of the Feast of the Theotokos or of her Temple.[^96]  
 Prokeimenon, Epistle, and Gospel: of the cycle of the Sunday; and if the saint also has them, of the saint as well.
 
-### Concerning a Saint Having a Polyeleos, If It Occur on a Sunday
+**Concerning a Saint Having a Polyeleos, If It Occur on a Sunday**
 
 On Saturday evening, at **"Lord, I have cried"** (*Го́споди воззва́хъ*), we set 10 verses, that is: Resurrection stichera of the Octoechos 3, and Anatolian (Eastern) 1,
 
@@ -108,7 +108,7 @@ Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: of the Sunday and of
 
 At the Typika (Obidnytsia), if there is no Divine Liturgy: after **"Our Father..."**: the Resurrection Kontakion, the Kontakion of the Temple; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians..."** If the temple is dedicated to Christ or to the Theotokos: the Resurrection Troparion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the Temple.
 
-### Concerning a Saint Having an All-Night Vigil, If It Occur on a Sunday
+**Concerning a Saint Having an All-Night Vigil, If It Occur on a Sunday**
 
 At Little Vespers on Saturday: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), stichera of the Octoechos 4; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion of the Tone of Little Vespers.  
 At the Aposticha: one Resurrection sticheron of the Octoechos, and the Aposticha of the saint [two stichera] of Great Vespers with their refrains; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Theotokion according to the Tone of Little Vespers.  
@@ -150,7 +150,7 @@ Prokeimenon, Epistle, Alleluia, Gospel, and Communion Hymn: first the Resurrecti
 
 If there is no Divine Liturgy, at the Typika (Obidnytsia): the Beatitudes, Prokeimenon, Epistle, Alleluia, and Gospel, as directed at the Liturgy. After **"Our Father..."**: the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** kontakion of the saint; **"Now and forever, and unto the ages of ages. Amen:"** Kontakion of the Temple if the temple is dedicated to Christ or to the Theotokos; if, however, the temple is dedicated to the saint: **"Now and forever, and unto the ages of ages. Amen:"** **"Steadfast Protectress of Christians..."**
 
-### If There Occur the Forefeast of a Dominical or Theotokos Feast, and a Simple Saint, on a Sunday
+**If There Occur the Forefeast of a Dominical or Theotokos Feast, and a Simple Saint, on a Sunday**
 
 At Great Vespers on Saturday: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), stichera of the Octoechos 4, of the Forefeast 3, and of the saint 3; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if he has one; if not, **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the Forefeast; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.[^102]  
 At the Aposticha: the Resurrection stichera of the Octoechos; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if he has one; **"Now and forever, and unto the ages of ages. Amen:"** of the Forefeast.  
@@ -182,9 +182,9 @@ After the Little Entrance: the Resurrection Troparion, the troparion of the Fore
 Prokeimenon, Epistle, Gospel, and Communion Hymn: of the Sunday only.  
 *Note:* If the Forefeast occurs on a Sunday and there are two simple saints with distinct offices, the office is sung only for the first saint, while for the second it is omitted; his canon is chanted at Compline on Saturday with the Canon of the Theotokos.[^103]
 
-### Concerning Dominical Feasts (That Is, Feasts of the Lord), If They Occur on a Sunday
+**Concerning Dominical Feasts (That Is, Feasts of the Lord), If They Occur on a Sunday**
 
-It is necessary to know that if a Dominical Feast [of Christ] occurs, namely: the Exaltation of the Precious Cross, the Nativity of Christ, Theophany, and the Transfiguration, nothing whatsoever is sung of the Resurrection: neither the Resurrection stichera, nor the Blameless, nor the Anavathmoi of the Tone, nor is the Resurrection Gospel read [only on the Exaltation of the Precious Cross after the Gospel do we sing: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)], nor is **"God is the Lord"** said with Resurrection troparia; but the entire office is of the Feast at Vespers and Matins, and at the Divine Liturgy, invariantly.[^104]  
+It is necessary to know that if a Dominical Feast [of Christ] occurs, namely: the Exaltation of the Precious Cross, the Nativity of Christ, Theophany, and the Transfiguration, nothing whatsoever is sung of the Resurrection: neither the Resurrection stichera, nor the Blameless, nor the Anavathmoi of the Tone, nor is the Resurrection Gospel read (*only on the Exaltation of the Precious Cross after the Gospel do we sing: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)*), nor is **"God is the Lord"** said with Resurrection troparia; but the entire office is of the Feast at Vespers and Matins, and at the Divine Liturgy, invariantly.[^104]  
 The Tone of the week, the Resurrection Gospel, the Gospel Sticheron, and
 
 === LEAF p47 ===
@@ -196,7 +196,7 @@ For the feast occurring, the entire office in the Menaion or Anthologion (*Тр�
 At Little Vespers: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), stichera of the feast to 4; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast. Likewise at the Aposticha, stichera of the feast, everything in sequence as written for Little Vespers. After **"Now lettest Thou"** (*Ны́нѣ ѿпꙋща́еши*): troparion of the feast once.  
 At Great Vespers, at the All-Night Vigil: if it is Sunday, **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma is chanted; if Monday, the 1st Antiphon; on the other days of the week the Kathisma is not chanted.  
 At **"Lord, I have cried"** (*Го́споди воззва́хъ*): stichera of the feast to 8, everything as written in the Anthologion; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
-Entrance. Prokeimenon of the day. [If a Dominical Feast occurs on Saturday, on Friday evening the Prokeimenon of the day is omitted, and the Great Prokeimenon is sung with its verses. On Saturday evening on the feast we sing the Prokeimenon: **"The Lord reigns"** (*Госпо́дь воцари́ся*). If, however, a Dominical Feast occurs on Sunday, on Saturday evening we sing the Prokeimenon: **"The Lord reigns"** (*Госпо́дь воцари́ся*) with its verses, and on Sunday evening we sing the Great Prokeimenon with its verses].[^105]  
+Entrance. Prokeimenon of the day. (*If a Dominical Feast occurs on Saturday, on Friday evening the Prokeimenon of the day is omitted, and the Great Prokeimenon is sung with its verses. On Saturday evening on the feast we sing the Prokeimenon: **"The Lord reigns"** (*Госпо́дь воцари́ся*). If, however, a Dominical Feast occurs on Sunday, on Saturday evening we sing the Prokeimenon: **"The Lord reigns"** (*Госпо́дь воцари́ся*) with its verses, and on Sunday evening we sing the Great Prokeimenon with its verses*).[^105]  
 The three Paremias (Readings) of the feast.  
 At the Litiya: stichera of the feast [no sticheron is sung for the Temple]; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
 At the Aposticha: stichera of the feast with the refrains of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.
@@ -206,7 +206,7 @@ At the Aposticha: stichera of the feast with the refrains of the feast; **"Glory
 At the Blessing of the Loaves: troparion of the feast thrice [simply, without "Glory"].  
 At Matins: at **"God is the Lord"** (*Бо́гъ Госпо́дь*), troparion of the feast with **"Glory..., Now and forever..."** thrice.  
 After the customary Kathismata: Sessional Hymns of the feast; the Polyeleos; the Megalynarion (*Велича́нїе*) with its verses, and then the refrain. During these, candles are distributed to the brethren. The Priest opens the holy doors and censes the holy table, the icons, and the icon of the feast upon the analogion, and the people.[^106]  
-The Anavathmoi: the 1st Antiphon of Tone 4. Prokeimenon and Gospel of the feast. [**Behold:** On the Feast of the Precious Cross there is read after the Gospel also: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)]. Psalm 50. Sticheron of the feast. Two canons or one; the troparia are read to 12. Katavasia of the cycle after each ode [the heirmos of the 1st canon].  
+The Anavathmoi: the 1st Antiphon of Tone 4. Prokeimenon and Gospel of the feast. (*Behold:** On the Feast of the Precious Cross there is read after the Gospel also: **"Having beheld the Resurrection of Christ..."** (*Воскресе́нїе Хрїсто́во ви́дѣвше...*)*). Psalm 50. Sticheron of the feast. Two canons or one; the troparia are read to 12. Katavasia of the cycle after each ode [the heirmos of the 1st canon].  
 After Ode 3: Sessional Hymn of the feast; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** the same.  
 After Ode 6: the Kontakion and Ikos of the feast.  
 At Ode 9: the brethren kindle candles again, and we sing the Refrain of the feast: **"Magnify, O my soul..."** (*Велича́й, дꙋшѐ моя̀...*), then the Heirmos of Ode 9; and to the remaining verses this same refrain is sung. Then the second refrain and the 2nd Heirmos are sung.  
@@ -227,7 +227,7 @@ If there is no Divine Liturgy, at the Typika (Obidnytsia): after **"Our Father..
 **Behold:** Thus is it sung for Dominical Feasts on the days of the week also, except that if it is Sunday, then we sing **"Blessed is the man..."** (*Блаже́нъ мꙋ́жъ*), the entire Kathisma; if on Monday, the 1st Antiphon; and on the other days the Kathisma is not sung.  
 It is necessary to know this also: that on all Dominical Feasts in the evening at Vespers there is an Entrance, and the Great Prokeimenon with its verses.
 
-### Concerning Feasts of the Most Holy Theotokos Falling on a Sunday
+**Concerning Feasts of the Most Holy Theotokos Falling on a Sunday**
 
 If a feast of the Theotokos—namely: the Nativity of the Theotokos, the Entry into the Temple, the Conception, the Dormition, the Deposition of the Robe and the Precious Sash, and the Meeting of the Lord (*Срѣ́тенїе Госпо́дне*) before the Sunday of the Publican and Pharisee—occurs on a Sunday, it is sung together with the Sunday Resurrection office thus:[^107]  
 On Saturday at Little Vespers: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), Resurrection stichera of the Tone to 4; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** of the feast.  
@@ -277,7 +277,7 @@ the Axion Estin (*На и҆зря́днѣй*): in place of **"It is truly meet..
 * * *  
 If there is no Divine Liturgy, at the Typika (Obidnytsia): the Beatitudes, Prokeimenon, and the rest as directed at the Liturgy. After **"Our Father..."**: the Resurrection Kontakion; **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen:"** Kontakion of the feast.
 
-### If There Occur the Afterfeast [Within the Feast] and a Simple Saint on a Sunday
+**If There Occur the Afterfeast [Within the Feast] and a Simple Saint on a Sunday**
 
 On Saturday at Great Vespers: at **"Lord, I have cried"** (*Го́споди воззва́хъ*), stichera of the Octoechos 4, of the feast 3, and of the saint 3; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the feast; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon of the Tone of the week. If the saint has an Idiomelon sticheron at **"Glory"**, then: **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint; **"Now and forever, and unto the ages of ages. Amen:"** the Dogmatikon.[^110]  
 At the Aposticha: the Resurrection stichera; **"Glory to the Father, and to the Son, and to the Holy Spirit:"** of the saint, if he has one; **"Now and forever, and unto the ages of ages. Amen:"** of the feast.  

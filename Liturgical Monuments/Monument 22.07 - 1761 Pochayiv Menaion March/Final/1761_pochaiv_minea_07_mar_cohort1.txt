@@ -24,7 +24,7 @@ In the year from the creation of the world according to the Greek chronographers
 *If it be the Fast, we sing Alleluia. But if not: the Troparion.*[^5]  
 *At "Lord, I have cried," stichera, Tone 4:*
 
-*Tone 4, Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*Tone 4, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 
 Having first fasted, and having withered the wantonness of the flesh by self-control, by suffering thou didst cast down a second time the crafts of the enemy, and didst obtain the victory over him, O Eudokia, blessed of God. Therefore Jesus, the Lover of mankind and Savior of our souls, crowned thee for both these contests.
 
@@ -32,14 +32,14 @@ With the furrows of thy judgments, as a fertile and God-inspired soil, Thou dids
 
 Thou didst raise the dead by thy life-creating illumination, O glorious Eudokia, having first put to death the bodily passions by the pains of self-control; and now thou dwellest in the heavens with the martyrs, having run well the course of suffering by the help of the Spirit, interceding for all who hymn thee in faith.
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rejoice, ray radiant as the sun, throne of the unwaning Sun, who didst dawn the incomprehensible Sun! Rejoice, mind glistening with divine splendors, lightning flash that enlightens
 
 === LEAF p4 === (Fol. 1v)
 the ends of the earth: true golden gleam, all-undefiled and all-immaculate one, who hast shone forth an unwaning light upon the faithful.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 Beholding Christ, the Lover of mankind, crucified, and His side pierced with a spear, the all-pure one wept and cried aloud: What is this, O my Son? What have the ungrateful people rendered unto Thee in return for the good things Thou didst for them? And dost Thou hasten to leave me childless, O most beloved One? I marvel, O compassionate One, at Thy voluntary crucifixion.
 
@@ -135,7 +135,7 @@ O all-holy Virgin, pray to thy Son, God the Lover of mankind, on their behalf; f
 *Alleluia, or the Troparion.*[^8]  
 *At "Lord, I have cried," stichera, Tone 4:*
 
-*Tone 4, Podoben: "As One Valiant among the Martyrs" (Yako dobla):*
+*Tone 4, Podoben: "As One Valiant among the Martyrs" (Ꙗ҆́кѡ до́блѧ):*
 
 A most sacred priest, the foundation of the Church, an unshakable pillar hast thou been shown to be, O all-glorious one; a most true wonderworker, a glorious servant of God, and a radiant luminary of the consecrated [priests]...
 
@@ -148,7 +148,7 @@ Having been cleansed first by Christ's Baptism, and with thy tears, and after th
 
 Thou didst blossom forth as the joy of Anna, censing the King, O Virgin; and the women who rejoiced at thy birthgiving were loosed from the curse through thee.
 
-*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Preletno / Skoro predvari):*[^9]
+*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*[^9]
 
 Illumined with divine light, thou didst forsake the darkness of deceit; for thou wast enriched with holy divine repose, and filled with divine grace, by a brief word thou didst raise the dead. Therefore, having gloriously finished the contest of martyrdom, thou wast divinely adorned with a crown and didst put the deceiver to shame. O Eudokia, equal-to-the-angels, pray unto Christ God to grant remission of transgressions unto those who honor thy holy memory with love.
 
@@ -224,11 +224,11 @@ Stretched upon the tree with ox sinews, and cruelly handled by the guards, and s
 
 Through the sinews of thy contests thou didst cast down the enemy and overthrow his power, and having fought most radiantly, thou dwellest now crowned in the highest Kingdom, deemed worthy of forgiveness; and praying that they who celebrate in faith may be saved, [O adornment] of martyrs, Theodotus.
 
-*Glory... Both now... Theotokion, in the same Tone and Podoben:*
+*Glory... Both now... Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Deliver my humble soul from condemnation and from grievous transgressions, O all-holy Bride of God, and from deadly afflictions by thy prayers, that I may obtain justification before the King on the day of trial, which the assemblies of the saints have attained; show me forth cleansed by weeping and the pouring forth of tears before the end.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 
 When the Ewe-lamb and Thy Mother beheld Thee nailed upon the Cross, O Lord, she was amazed and cried aloud: What is this vision, O desired Son? Is this what the ungrateful and lawless assembly hath rendered unto Thee, who enjoyed Thy many wonders? But glory to Thine ineffable descent, O Master!
 
@@ -268,7 +268,7 @@ Standing before the tribunal, and wounded by cruel blows, thou didst not deny th
 
 Heal my mind, O all-pure one, which hath grown weak from the assaults of the deceitful serpent and is enslaved to sin.
 
-*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Raised upon the Cross" (Voznesyisya):*
+*Sessional Hymn, Tone 4, Podoben: "Thou Who Wast Raised upon the Cross" (Вознесы́йсѧ):*
 
 Having made the robe of thy hierarchal office more radiant by steeping it in thy blood, thou didst take up thine abode in the heavens, O Theodotus, seeing with a pure mind Him Whom thou didst desire. Therefore we glorify thy most sacred memory, and cry aloud: Remember us, as thou standest with boldness before God!
 

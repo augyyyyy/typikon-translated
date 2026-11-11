@@ -124,7 +124,7 @@ The all-consecrated children, obeying thee as a father, suffered steadfastly wit
 Thy reliquary ever goushes forth waters of healing unto them that hasten to it, O much-suffering martyr, and washes away passions and drowns demonic ranks by the operation of the Holy Spirit. Therefore pray thou that peace and great mercy be granted unto our souls!
 
 === LEAF p15 === (Fol. 7r)
-*Stichera of the Theotokos, Tone and Podoben the same:*
+*Stichera of the Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rejoice, marvelous hearing, O pure one! Rejoice, sacred tree of Paradise planted by God! Rejoice, destruction of deceitful demons! Rejoice, two-edged weapon that didst cut off the enemy's head by thy marvelous childbearing, O all-holy and all-immaculate one: call back us who have become estranged!
 

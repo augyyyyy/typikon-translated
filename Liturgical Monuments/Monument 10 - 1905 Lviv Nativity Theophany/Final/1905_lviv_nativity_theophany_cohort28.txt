@@ -32,13 +32,13 @@ The bright Lamp, who is from a barren woman, seeing the Sun, Who is from the Vir
 *After the Six Psalms, at "God is the Lord", the Troparion of Theophany, three times; and the usual Kathisma readings from the Psalter. After the first Kathisma reading, Sessional Hymn, Tone 3. Podoben: Beholding the beauty of thy virginity...*
 When Thou wast manifested in the Jordan, O Savior, and wast baptized by the Forerunner, O Christ, Thou wast witnessed to as the beloved Son; therefore Thou wast also revealed as co-unoriginate with the Father; and the Holy Spirit descended upon Thee, enlightened by Whom we cry aloud: Glory to God Who exists in Trinity.[^922]
 
-*Glory... Now and ever... Tone 4. Podoben: Speedily anticipate...*
+*Glory... Now and ever... Tone 4. Podoben: Speedily anticipate (Ско́рѡ предварѝ)...*
 Thou hast sanctified the streams of the Jordan, and crushed the dominion of sin, O Christ our God; Thou didst bow Thyself down beneath the hand of the Forerunner, and didst save the human race from deception. Therefore we beseech Thee: Save our souls.[^923]
 
-*After the second Kathisma reading, Sessional Hymn, Tone 5. Podoben: Let us, the faithful, praise the Word co-unoriginate...*
+*After the second Kathisma reading, Sessional Hymn, Tone 5. Podoben: Let us, the faithful, praise the Word co-unoriginate (Собезнача́льное Сло́во)...*
 Wrapped in the streams of the Jordan, Thou Who art most gloriously clothed with light as with a garment, in them Thou hast renewed Adam's nature, crushed by evil disobedience, O Word of God. Therefore we praise Thee, and all of us glorify Thy holy Epiphany.[^924]
 
-*Glory... Now and ever... Tone 4. Podoben: Joseph was amazed...*
+*Glory... Now and ever... Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ)...*
 O river Jordan, why wast thou amazed, beholding the Invisible One naked? I saw and trembled, it said; and how should I not have been afraid of Him and retreated? His angels were terrified as they beheld Him; heaven was dismayed, and earth trembled—[^925]
 
 === LEAF p274 ===
@@ -62,7 +62,7 @@ We magnify Thee, O Christ Giver of life, Who for our sake wast baptized in the f
 My Jesus is baptized by a servant in the river Jordan, illuminating all creation.[^929]
 
 === LEAF p275 ===
-*Sessional Hymn, Tone 4. Podoben: Joseph was amazed...*
+*Sessional Hymn, Tone 4. Podoben: Joseph was amazed (Оу҆диви́сѧ І҆ѡ́сифъ)...*
 Come, O faithful, let us behold where Christ was baptized; let us now follow unto the river Jordan, unto the voice of one crying in the wilderness; and let us see there the Creator of Adam, having a servant's hand laid upon Him in His ineffable tender compassion, and let us cry aloud unto Him with a loud voice: Thou hast come and hast appeared in the Jordan to sanctify the waters.[^930]
 
 *Glory... Now and ever... the same.*

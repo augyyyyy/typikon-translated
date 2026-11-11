@@ -125,7 +125,7 @@ and wast crowned with thorns as King of all, uprooting and cutting down the sins
 
 *Glory... (Trinity):* The Father and the Son let us glorify, and the Holy Spirit, saying: O Holy Trinity, save our souls!
 
-*Both now... (Theotokion):* Beholding upon the Cross Him Whom thou didst incarnate of thy blood, O pure Mother of God: What is this, O Child, that the deceitful assembly hath rendered unto Thee, to put Thee to death Who art the Life and Resurrection of all?
+*Both now... (Theotokion):* Beholding upon the Cross Him Whom thou didst incarnate of thy blood, O pure Mother of God: What is this, O Child, that the deceitful assembly hath rendered unto thee, to put thee to death Who art the Life and Resurrection of all?
 
 *Liturgy Prokeimenon. Song of the Theotokos, Tone 3:* My soul doth magnify the Lord, and my spirit hath rejoiced in God my Savior. *Verse:* For He hath regarded the lowliness of His handmaiden; for behold, from henceforth all generations shall call me blessed.
 

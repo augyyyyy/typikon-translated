@@ -4,9 +4,9 @@
 
 ## Comparative Outline of Movable Feasts: Julian Calendar [Violakis, p. 926]
 
-### COMPARATIVE OUTLINE OF THE MOVABLE FEASTS BETWEEN THE JULIAN AND GREGORIAN CALENDARS
+**COMPARATIVE OUTLINE OF THE MOVABLE FEASTS BETWEEN THE JULIAN AND GREGORIAN CALENDARS**
 
-#### Julian Calendar: Dates of the Movable Feasts
+**Julian Calendar: Dates of the Movable Feasts**
 
 | Movable Feast | Earliest Possible Date of Occurrence | Latest Possible Date of Occurrence |
 | :--- | :--- | :--- |
@@ -43,13 +43,13 @@
 
 ## Comparative Outline of Movable Feasts: Gregorian Calendar [Violakis, p. 927]
 
-### The Relationship Between Immovable and Movable Feasts in the Gregorian Calendar
+**The Relationship Between Immovable and Movable Feasts in the Gregorian Calendar**
 
     In accordance with the Gregorian Calendar, where the Triodion period begins on 24 January (13 days later than the beginning date in the Julian Calendar) the first four immovable feasts listed in the Chart — 11, 17, 18 and 20 January — will no longer fall within the Triodion period. The earliest possible immovable feast to fall within the Triodion period will now be 25 January, St. Gregory the Theologian.
     Similarly, since the end of the movable feasts (Sunday of All Saints) will now be delayed until 3 July, three more immovable feasts may possibly fall within the Pentikostarion period: 24 June, the Nativity of St. John the Baptist; 29 June, Sts. Peter and Paul the Apostles; and 30 June, the 12 Apostles.
     N.B.: In order to facilitate the use of the Julian Chart of Feasts in today's church, the editors of this work have added next to the dates of the Julian Calendar (JC) the corresponding dates of the Gregorian Calendar (GC).
 
-### Gregorian Calendar: Dates of the Movable Feasts
+**Gregorian Calendar: Dates of the Movable Feasts**
 
 | Movable Feast | Earliest Possible Date of Occurrence | Latest Possible Date of Occurrence |
 | :--- | :--- | :--- |
@@ -86,11 +86,11 @@
 
 ## Πίναξ τοῦ Ἑορτοδρομίου: Ἑρμηνευτικοὶ Κανόνες [Violakis, p. 928]
 
-### ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ
-### ΗΤΟΙ ΤΩΝ ΑΠΟ ΤΗΣ ΙΑ΄ ΙΑΝΟΥΑΡΙΟΥ ΜΕΧΡΙ ΤΗΣ ΚΕ΄ ΜΑΙΟΥ ΤΟΥ ΙΟΥΛΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΙΗ) [ΠΕΡΙΕΧΩΝ ΚΑΙ ΤΑΣ ΑΝΤΙΣΤΟΙΧΟΥΣ ΗΜΕΡΟΜΗΝΙΑΣ ΤΟΥ ΓΡΗΓΟΡΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΓΗ)]
-### ΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ ΙΗ΄ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΤΩΝ ΑΠΑΝΤΩΣΩΝ ΕΝΤΟΣ ΤΟΥ ΤΡΙΩΔΙΟΥ ΚΑΙ ΤΟΥ ΠΕΝΤΗΚΟΣΤΑΡΙΟΥ
+**ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ**
+**ΗΤΟΙ ΤΩΝ ΑΠΟ ΤΗΣ ΙΑ΄ ΙΑΝΟΥΑΡΙΟΥ ΜΕΧΡΙ ΤΗΣ ΚΕ΄ ΜΑΙΟΥ ΤΟΥ ΙΟΥΛΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΙΗ) [ΠΕΡΙΕΧΩΝ ΚΑΙ ΤΑΣ ΑΝΤΙΣΤΟΙΧΟΥΣ ΗΜΕΡΟΜΗΝΙΑΣ ΤΟΥ ΓΡΗΓΟΡΙΑΝΟΥ ΗΜΕΡΟΛΟΓΙΟΥ (ΓΗ)]**
+**ΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ ΙΗ΄ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΤΩΝ ΑΠΑΝΤΩΣΩΝ ΕΝΤΟΣ ΤΟΥ ΤΡΙΩΔΙΟΥ ΚΑΙ ΤΟΥ ΠΕΝΤΗΚΟΣΤΑΡΙΟΥ**
 
-#### Ἑρμηνευτικοὶ τούτου κανόνες
+**Ἑρμηνευτικοὶ τούτου κανόνες**
 
     Σπουδαῖον ἐκρίθη καὶ ἐπάναγκες τοῖς τε Ἱερεῦσι καὶ τοῖς ψάλταις τὸ γινώσκειν, εἰ δὲ μή γε, τὸ εὑρίσκειν εὐχερέστερον τὴν λύσιν ἀποριῶν καὶ δυσχερειῶν, ὅσας συνεπάγεται ἡ τῶν ἀκινήτων λεγομένων ἑορτῶν, ἤτοι τοῦ Μηνολογίου, σύμπτωσις μετὰ τῶν κινητῶν τοῦ Τριῳδίου καὶ Πεντηκοσταρίου. Καὶ ποιεῖται μὲν καθ’ ἑκάστην σύμπτωσιν ἐπαρκῆ λόγον περὶ τούτων τὸ Τυπικόν, ἀλλ’ οὐδὲν ἧττον εἷς Πίναξ, οἷος ὁ ἑπόμενος, παρέχει μείζονα τὴν εὐχέρειαν καὶ ἱκανοποιεῖ τὴν περιέργειαν τοῦ φιλομαθοῦς· ἐπειδὴ δὲ αἱ κινηταὶ ἑορταὶ τοῦ Τριῳδίου καὶ Πεντηκοσταρίου οὔτε πέραν τῆς ΙΑ΄ Ἰανουαρίου τοῦ Ἰουλιανοῦ Ἡμερολογίου (ἥτις ἐστὶ τὸ πρωϊμώτερον ὅριον τῆς ἐνάρξεως τοῦ Τριῳδίου) κατέρχονται [24 Ἰανουαρίου εἰς τὸ Γρηγοριανὸν Ἡμερολόγιον], οὔτε δύνανται προχωρῆσαι ἐπέκεινα τῆς ΚΕ΄ Μαΐου-ΙΗ [Ἰουλίου 3-ΓΗ], ἥτις ἐστὶ τὸ ἔσχατον ὅριον μέχρι τοῦ ὁποίου ἐκτείνεται τὸ τέλος τοῦ Πεντηκοσταρίου, ἤτοι ἡ ἑορτὴ τῶν Ἁγίων Πάντων, διὰ τοῦτο ὁ Πίναξ ταῦτα ἔχει ἀρχῆς καὶ τέλους ὅρια, καὶ μόνον τὰς ἐν τῷ χρονικῷ τούτῳ διαστήματι ἑορτὰς τοῦ Μηνολογίου περιλαμβάνει, παρέχων ὡς ἐν κατόπτρῳ τὰς δυνατὰς εὐκολίας, ὥστε νὰ δύνανται οὕτω πως οἱ Ἱερεῖς καὶ οἱ ψάλται συμβιβάζειν ἀκόπως τὴν τυπικὴν τῶν ἱερῶν Ἀκολουθιῶν διάταξιν, καὶ διαλύειν πάντα δισταγμόν, καὶ διασκεδάζειν πᾶσαν ἐνδεχομένην ἀπορίαν. Ὅπως δὲ κατανοηθῇ καὶ ἀποβῇ εὐχερεστέρα ἡ τοῦ Πίνακος χρῆσις, ἀναγκαῖαι ἐθεωρήθησαν αἱ ἑξῆς σημειώσεις:
 
@@ -102,11 +102,11 @@
 
 ## Interpretive Rules for the Chart of Feasts: Preamble [Violakis, p. 929]
 
-### CHART OF FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)
-### FROM JANUARY 11 UNTIL MAY 25 OF THE JULIAN CALENDAR (JC) [CONTAINING ALSO THE CORRESPONDING DATES OF THE GREGORIAN CALENDAR (GC)]
-### CONTAINING THE 18 IMMOVABLE FEASTS OCCURRING WITHIN THE TRIODION AND PENTIKOSTARION PERIODS
+**CHART OF FEASTS (*ΠΙΝΑΞ ΤΟΥ ΕΟΡΤΟΔΡΟΜΙΟΥ*)**
+**FROM JANUARY 11 UNTIL MAY 25 OF THE JULIAN CALENDAR (JC) [CONTAINING ALSO THE CORRESPONDING DATES OF THE GREGORIAN CALENDAR (GC)]**
+**CONTAINING THE 18 IMMOVABLE FEASTS OCCURRING WITHIN THE TRIODION AND PENTIKOSTARION PERIODS**
 
-#### Interpretive Rules (*Ἑρμηνευτικοὶ τούτου κανόνες*)
+**Interpretive Rules (*Ἑρμηνευτικοὶ τούτου κανόνες*)**
 
     It was deemed important and necessary for priests and chanters to know, or at least to find more readily the solution to perplexities and rubrical difficulties occasioned by the concurrence of the so-called immovable feasts—namely, those of the Menologion (*Μηνολόγιον*)—with the movable feasts of the Triodion and Pentecostarion periods. Now while the Typikon provides an adequate exposition concerning each individual concurrence, nonetheless a systematic chart, such as the one that follows, affords greater facility and satisfies the scholarly inquiry of the diligent student. 
 
@@ -123,7 +123,7 @@
 
 ## Ἑρμηνευτικοὶ Κανόνες: Κανόνες Α΄, Β΄, Γ΄ [Violakis, p. 930]
 
-### [ΚΑΝΟΝΕΣ Α΄, Β΄, Γ΄]
+**[ΚΑΝΟΝΕΣ Α΄, Β΄, Γ΄]**
 
     Α΄. Τὸ Ἅγιον Πάσχα ταλαντεύεται ἐντὸς τοῦ μεταξὺ τῆς ΚΒ΄ Μαρτίου-ΙΗ καὶ ΚΕ΄ Ἀπριλίου-ΙΗ [Ἀπριλίου 4-ΓΗ— Μαΐου 8-ΓΗ] ἐκ τριάκοντα τεσσάρων ἡμερῶν διαστήματος· ἑπομένως καὶ ἡ τοῦ Τριῳδίου ἔναρξις κινεῖται ἐντὸς τοῦ ἀπὸ τῆς ΙΑ΄ Ἰανουαρίου-ΙΗ μέχρι τῆς ΙΓ΄ Φεβρουαρίου-ΙΗ [Ἰανουαρίου 24-ΓΗ — Φεβρουαρίου 28-ΓΗ] χρονικοῦ χώρου· τῶν δ’ ἐν ταῖς δυσὶ πρώταις στήλαις τοῦ Πίνακος ἑκάστης ἑορτῆς κειμένων ἀριθμῶν, οἱ πρῶτοι μὲν δεικνύουσι τὰς ἡμερομηνίας ἀφ’ ὧν, ὅταν ἄρχηται τὸ Τριῴδιον, συμπίπτει τὸ Πάσχα εἰς τὴν ὑπὸ τῆς δευτέρας στήλης δεικνυομένην ἡμερομηνίαν, ἀπέναντι δὲ τῶν ἀριθμῶν τούτων σημειοῦνται αἱ ἡμέραι καὶ ἑβδομάδες τοῦ Τριῳδίου ἢ τοῦ Πεντηκοσταρίου, καθ’ ἃς συμπίπτει ἐν ἑκάστῳ ἔτει ἡ ζητουμένη ἑορτή· καὶ ἐν τῇ τελευταίᾳ στήλῃ σημειοῦνται οἱ ἐν τῷ Τυπικῷ ἀριθμοὶ τῶν παραγράφων τῆς Τυπικῆς Διατάξεως, ἐν αἷς διασαφηνίζονται τὰ τῆς ἱερᾶς Ἀκολουθίας κατὰ τὴν ἡμέραν ἐκείνην. Παραδείγματος χάριν, ἐπιθυμοῦμεν ἵνα γνωρίζωμεν κατὰ τὸ ͵αωπθ΄ (1889) ἔτος ἡ ἑορτὴ τῆς Ὑπαπαντῆς ἐν τίνι ἡμέρᾳ καὶ ἐν τίνι ἑβδομάδι τοῦ Τριῳδίου συμπίπτει· εὑρίσκομεν τὴν ἡμερομηνίαν τοῦ Πάσχα τοῦ ἔτους ἐκείνου, ἥτις ἐστὶν ἡ Θ΄ Ἀπριλίου, εἶτα βλέπομεν ἐν ταῖς δυσὶ στήλαις τῆς ἑορτῆς ταύτης, καὶ εὑρίσκομεν ἐν μὲν τῇ α΄ στήλῃ τὸν ἀριθμὸν κθ΄, ὅς ἐστιν ἡ ἡμερομηνία τῆς ἐνάρξεως τοῦ Τριῳδίου κατὰ τὸ ἔτος ἐκεῖνο, ἐν δὲ τῇ β΄ στήλῃ τὸ ἀριθμὸν θ΄ Ἀπριλίου, ὅς ἐστιν ἡ ἡμερομηνία τοῦ Πάσχα τοῦ ἔτους ἐκείνου, ἀπέναντι δὲ τῶν ἀριθμῶν τούτων σημειοῦνται καὶ ἡ τοῦ Τριῳδίου ἑβδομάς, ὡς καὶ ἡ ἡμέρα ἐν ᾗ συμπίπτει ἡ ἑορτή, ἔστι δὲ ἡ πέμπτη τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος.
 
@@ -139,7 +139,7 @@
 
 ## Interpretive Rules for the Chart of Feasts: Rules 1, 2, and 3 [Violakis, p. 931]
 
-### Rules 1, 2, and 3 (*Κανόνες Α΄, Β΄, Γ΄*)
+**Rules 1, 2, and 3 (*Κανόνες Α΄, Β΄, Γ΄*)**
 
 1. Holy Pascha [Easter] may occur between March 22-JC and April 25-JC [between April 4-GC and May 8-GC], a thirty-four day period [comprising 35 calendar dates inclusively]. Therefore, the beginning of the Triodion period may occur between January 11-JC and February 13-JC [between January 24-GC and February 28-GC]. The first column of the Chart indicates the beginning date of the Triodion period; the second column indicates the date of Holy Pascha [Easter]. The third column shows the date and name of each of the 18 immovable feasts and, below it, the days of the movable feasts with which each immovable feast may coincide; and the fourth column displays the paragraph and page numbers in the present work where the rubrical order of service for each concurrence is set forth in detail. We provide the following concrete example: if we desire to know in the year 1889 on which day and in which week of the Triodion period the Feast of the Meeting of the Lord (*Hypapante* / *Presentation*) occurs, we first determine the date of Pascha for that year—which in this case is April 9. We then examine the first two columns under this feast, where we find in the first column the number 29 [i.e., January 29], which represents the date of the beginning of the Triodion period in that year; in the second column we find April 9, which represents the date of Holy Pascha for that year. In the third column, directly across from those dates, the table designates the precise week and day of the Triodion period upon which this immovable feast falls—which in this case is the Thursday of the Week of the Publican and the Pharisee.
 
@@ -158,7 +158,7 @@
 
 ## Ἑρμηνευτικοὶ Κανόνες: Κανὼν Δ΄ (Μέρος Α΄) [Violakis, p. 932]
 
-### [ΣΗΜΕΙΩΣΙΣ ΠΕΡΙ ΤΗΣ ΣΧΕΣΕΩΣ ΑΚΙΝΗΤΩΝ ΚΑΙ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΚΑΙ ΚΑΝΩΝ Δ΄]
+**[ΣΗΜΕΙΩΣΙΣ ΠΕΡΙ ΤΗΣ ΣΧΕΣΕΩΣ ΑΚΙΝΗΤΩΝ ΚΑΙ ΚΙΝΗΤΩΝ ΕΟΡΤΩΝ ΚΑΙ ΚΑΝΩΝ Δ΄]**
 
     [Σημειωτέον ὅτι ἡ σχέσις ἀκινήτων καὶ κινητῶν ἑορτῶν διαφέρει μεταξὺ τοῦ Ἰουλιανοῦ καὶ τοῦ Γρηγοριανοῦ Ἡμερολογίου (ὅρα Comparative Outline of Movable Feasts between the Julian and Gregorian Calendar, σελ. 926). Κατὰ τὸ Γρηγοριανὸν Ἡμερολόγιον, ἐν ᾧ τὸ Τριῴδιον ἄρχεται 24 Ἰανουαρίου (13 ἡμέρας ἀργότερον τῆς ἡμερομηνίας ἐνάρξεως εἰς τὸ Ἰουλιανὸν Ἡμερολόγιον) αἱ πρῶται τέσσαρες ἀκίνητοι ἑορταὶ εἰς τὸν Πίνακα—11, 17, 18 καὶ 20 Ἰανουαρίου—δὲν πρόκειται πλέον νὰ συμβοῦν ἐντὸς τοῦ Τριῳδίου. Ἡ πρώτη πιθανὸν ἐνωρίτερη ἀκίνητος ἑορτὴ ἡ ὁποία δύναται νὰ συμβῇ ἐντὸς τοῦ Τριῳδίου εἶναι 25 Ἰανουαρίου, Γρηγορίου τοῦ Θεολόγου. Ἐπίσης δέ, ἐπειδὴ τὸ τέλος τῶν κινητῶν ἑορτῶν (Κυριακὴ τῶν Ἁγίων Πάντων) πρόκειται ἵνα καθυστερηθῇ μέχρι 3 Ἰουλίου, τρεῖς ἐπιπρόσθεται ἀκίνητοι ἑορταὶ δύνανται νὰ συμβοῦν ἐντὸς τοῦ Πεντηκοσταρίου, ἤτοι 24 Ἰουνίου, τὸ Γενέθλιον τοῦ Ἰωάννου τοῦ Βαπτιστοῦ· 29 Ἰουνίου, Πέτρου καὶ Παύλου τῶν Ἀποστόλων· καὶ 30 Ἰουνίου, τῶν 12 Ἀποστόλων.]
 
@@ -172,7 +172,7 @@
 
 ## Interpretive Rules for the Chart of Feasts: Rule 4 (Part 1) [Violakis, p. 933]
 
-### Editorial Note on Calendar Variation and Rule 4 (Part 1) (*Κανὼν Δ΄, Μέρος Α΄*)
+**Editorial Note on Calendar Variation and Rule 4 (Part 1) (*Κανὼν Δ΄, Μέρος Α΄*)**
 
     [It should be noted, however, that the relationship between immovable and movable feasts in the Gregorian Calendar differs from that in the Julian Calendar (see the Comparative Outline of Movable Feasts, p. 926). In accordance with the Gregorian Calendar, where the Triodion period begins on 24 January (13 days later than the date of beginning in the Julian Calendar) the first four immovable feasts listed in the Chart — 11, 17, 18 and 20 January — will no longer fall within the Triodion period. The earliest possible immovable feast to fall within the Triodion period will now be 25 January, St. Gregory the Theologian. Similarly, since the end of the movable feasts (Sunday of All Saints) will now be delayed until 3 July, three more immovable feasts may possibly fall within the Pentikostarion period: 24 June, the Nativity of John the Baptist; 29 June, Peter and Paul the Apostles; and 30 June, the 12 Apostles.]
 
@@ -193,7 +193,7 @@
 
 ## Ἑρμηνευτικοὶ Κανόνες: Κανὼν Δ΄ (Συνέχεια) καὶ Κανὼν Ε΄ [Violakis, p. 934]
 
-### [ΣΥΝΕΧΕΙΑ ΚΑΝΟΝΟΣ Δ΄ ΚΑΙ ΚΑΝΩΝ Ε΄]
+**[ΣΥΝΕΧΕΙΑ ΚΑΝΟΝΟΣ Δ΄ ΚΑΙ ΚΑΝΩΝ Ε΄]**
 
     μέχρι τέλους, ἔρχονται ἀπέναντι τοῦ Πασχαλίου ἀριθμοῦ. Ἐκ τοῦ παραλληλισμοῦ δύο ἑορτῶν, μιᾶς μὲν συμπιπτούσης πρὸ τῆς ΚΘ΄ Φεβρουαρίου, ἑτέρας δὲ συμπιπτούσης μετὰ τὴν ΚΘ΄, ἀποδεικνύονται σαφῶς τὰ προειρημένα. Παραδείγματος χάριν, ἡ ἑορτὴ τῆς Ὑπαπαντῆς, ἥτις ἐστὶ μία τῶν πρὸ τῆς ΚΘ΄ Φεβρουαρίου ἑορτῶν, ἐν μὲν τῷ μὴ Βισέκτῳ ἔτει ͵αωπθ΄ (1889) συμπίπτει τῇ Πέμπτῃ τῆς τοῦ Τελώνου καὶ Φαρισαίου ἑβδομάδος (ὡς προείρηται ἐν § Α΄), ἐν δὲ τῷ Βισέκτῳ ͵αϡ΄ (1900) τῇ Τετάρτῃ τῆς αὐτῆς ἑβδομάδος. Ἡ ἑορτὴ ὅμως τοῦ Εὐαγγελισμοῦ, ἥτις ἐστὶ μετὰ τὴν ἐμβόλιμον τῆς ΚΘ΄ Φεβρουαρίου, συμπίπτει κατ’ ἀμφότερα τὰ ἔτη ἐν μιᾷ καὶ τῇ αὐτῇ ἡμέρᾳ ἤτοι τῷ Σαββάτῳ τῆς Ε΄ Ἑβδομάδος· τοιουτοτρόπως σκεπτέον καὶ περὶ πάσης ἄλλης ζητουμένης ἑορτῆς πρὸς ἄρσιν τῆς φαινομενικῆς ἀνωμαλίας τῶν ἡμερῶν τοῦ Πίνακος ἐπὶ τῇ συμπτώσει Βισέκτου ἔτους.
 
@@ -207,7 +207,7 @@
 
 ## Interpretive Rules for the Chart of Feasts: Rule 4 (Conclusion) and Rule 5 [Violakis, p. 935]
 
-### Conclusion of Rule 4 and Rule 5 (*Κανὼν Δ΄, Τέλος καὶ Κανὼν Ε΄*)
+**Conclusion of Rule 4 and Rule 5 (*Κανὼν Δ΄, Τέλος καὶ Κανὼν Ε΄*)**
 
     addition of one more day (i.e., February 29), we delay the opening date of the Triodion period by one day. In like manner, we delay the concurring movable feasts by one date as well. As another illustrative example for clarification, consider two immovable feasts occurring respectively before and after February 29: the first, namely the Feast of the Meeting of the Lord (*Hypapante* / *Presentation*), being one of the feasts prior to February 29, in a common year (1889) occurs on Thursday of the Week of the Publican and the Pharisee (as indicated in column 3); in the leap year (1900), however, it occurs on Wednesday of that same week. The Feast of the Annunciation, on the other hand, since it occurs after February 29, falls in both years upon one and the same day—that is, the Saturday of the Fifth Week of Great Lent. In this identical manner all other feasts of the Chart can be determined.
 

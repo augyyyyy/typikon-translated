@@ -1957,7 +1957,7 @@ And having sailed thus far, let us lower the sails of our discourse, and anchor 
 [^1336]: Classical patristic rhetorical trope echoing the martyrdom of the Forty Martyrs of Sebasteia (cf. St. Basil the Great, Homily on the Forty Martyrs, PG 31:508).
 [^1337]: Psalm 64:5 (LXX) [Psalm 65:4 Masoretic].
 [^1338]: Psalm 24:13 (LXX) [Psalm 25:13 Masoretic].
-[^1339]: Romans 10:4: "For Christ is the end of the law for righteousness to every one that believs"; Galatians 2:16, Romans 3:20–24.
+[^1339]: Romans 10:4: "For Christ is the end of the law for righteousness to every one that believes"; Galatians 2:16, Romans 3:20–24.
 [^1340]: Luke 18:13: The Publican's prayer: "God be merciful to me a sinner."
 [^1341]: Luke 7:37–50: The sinful woman who washed Christ's feet with her tears and wiped them with the hairs of her head.
 [^1342]: Psalm 6:1 (LXX) [Psalm 6:1 Masoretic].

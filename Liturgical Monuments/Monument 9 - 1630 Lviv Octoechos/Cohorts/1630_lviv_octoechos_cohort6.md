@@ -1,7 +1,7 @@
 === LEAF p51 ===
 
-#### [Left Page — Folio 49v]
-##### Column A
+**[Left Page — Folio 49v]**
+**Column A**
 "In the streams of Jordan, as thou didst baptize the Lord Who covers with waters the upper chambers:[^66] pray Him, O glorious Forerunner, ever to grant waters of divine compunction unto mine eyes that purify."
 "O Forerunner, who didst preach the Lamb of God Who takes away the sins of the world: pray Him, O glorious one, to show me a stranger to the portion of the goats, and to number me with the sheep on His right hand."
 "A barren womb bears thee, O Virgin, who didst bear the Word incarnate in thy womb; Whom by divine leaping the great Forerunner recognized in the womb as the enlightenment of the barren: and rejoicing, he bowed down in worship."
@@ -14,7 +14,7 @@
 "Manfully let us stand together, the stalwart Sufferers cried out one to another, being fiercely encompassed: 'Behold, Christ stretches forth crowns unto us unto ages!' *For the Martyrs:*"
 "With robust sinews, by your steadfast sufferings, ye strangled the serpent who truly thought"
 
-##### Column B
+**Column B**
 "...to deceive you; and ye were shown forth as heirs of the delight of Paradise. *Theotokion:*"
 "That God might deify us, He was incarnate of thy pure blood, and became earthly, O Virgin Theotokos: Whom pray thou ever for them that hymn thee."
 
@@ -26,8 +26,8 @@
 "Woe is me who have committed many evils! Woe is me alone, who have provoked the all-good God to wrath! O Baptist of Christ, help me, and grant remission of my transgressions and a cutting off of the debt, by thine intercession. *Theotokion:*"
 "Having borne the Most High God in the flesh: raise me up from the corruption of passions which afflict me and have grievously wounded me entirely, O all-pure one, and enrich me with divine virtues: that being saved, I may hymn thee."
 
-#### [Right Page — Folio 50r]
-##### Column A
+**[Right Page — Folio 50r]**
+**Column A**
 *Ode 9. Heirmos:*
 *"Who of earthborn men hath ever heard such a thing, or who hath ever seen, that a Virgin was found having conceived in the womb, and without pain gave birth to an Infant? Such is thy wonder: and thee, O pure Theotokos Mary, do we magnify!"*
 "Behold Thy dread tribunal, before which I am to receive judgment, and the unquenchable fire of its terror; convert me who have spent all my years in vanity, O only King of all, Who didst convert Manasseh when he had sinned."
@@ -36,7 +36,7 @@
 "An honorable host, victorious warriors, a chosen city, the assembly of the holy Martyrs, a blessed choir, joined together in an angel-pleasing manner with the bodiless hosts: by their prayers, O Christ, make all of us partakers of Thy Kingdom. *Theotokion:*"
 "With radiant beams, from Him Who shone forth unto us from thy womb and abolished the night of godlessness,"
 
-##### Column B
+**Column B**
 "...O all-immaculate Mother Mary: enlighten all who honor thee in faith, and deliver them from the ineffable darkness and from condemnation."
 
 *Another Canon [to the Forerunner]. Heirmos: He Who was begotten without beginning:*
@@ -50,13 +50,13 @@
 
 === LEAF p52 ===
 
-#### [Left Page — Folio 50v]
-##### Column A
+**[Left Page — Folio 50v]**
+**Column A**
 "Pondering the senselessness of my committed evils, what compassions shall I neglect?[^67] I have become like unto the publican, and the harlot who wept, and the prodigal son. Therefore I fall down before Thee, O Merciful One: before Thou judgest me, spare me, O God, and have mercy upon me!"
 "Overlook mine iniquities, O Lord Who wast born of the Virgin, and purify my heart, making it a temple for Thy Holy Spirit; cast me not away from Thy presence, Thou Who hast measureless great mercy. *For the Martyrs:*"
 "Having taken up the Cross of Christ, an invincible weapon, the holy Martyrs abolished all the power of the devil, and received heavenly crowns; they have become a wall for us, interceding on our behalf."
 *Glory: Both now: Theotokion:*
-"Save Thy servants from perils, O Virgin Theotokos: for under God we all flee unto thee, as unto an unbreakable wall and protectress."
+"Save thy servants from perils, O Virgin Theotokos: for under God we all flee unto thee, as unto an unbreakable wall and protectress."
 
 *On Tuesday at the Beatitudes (Blazhenna), Tone 2:*
 *The voice of the thief we bring unto Thee, and we pray: Remember us, O Lord, in Thy Kingdom!*
@@ -67,15 +67,15 @@
 *Theotokion:*
 "The Fruit of thy womb, O pure one: hath again made him who slipped through the fruit to be an inhabitant of Paradise."
 
-# ON TUESDAY EVENING, AT "LORD, I CALL:"
+*ON TUESDAY EVENING, AT "LORD, I CALL:"*
 *Stichera of the Precious Cross, Tone 2. Podoben: When from the Tree:*[^68]
-##### Column B
+**Column B**
 "Unable to endure the sight of the Sun, the luminaries were darkened when Thou, O Word, didst set upon the Cross; and the earth quaked, and the rocks were split; the temple's beauty was rent in twain; the tombs were opened, and the dead arose; and Hades, giving up all those below, proclaimed them in eternity, and as death was accounted unto all."
 "When the noble thief beheld Thee upon the Cross, O Christ, the fruitful Vine: that man became the best and most sincere of thieves; and he received forgiveness for his ancient transgressions with a very devout and small voice, saying unto Him: 'Let us hasten to be Thine, crying out: Remember us also, O Lover of mankind!' "
 "It shines like a star in heaven, in the Church the divine Cross..."
 
-#### [Right Page — Folio 51r]
-##### Column A
+**[Right Page — Folio 51r]**
+**Column A**
 "...Thy Cross, O Christ: burning up the demons, but enlightening the faithful, and putting to shame the faces of them that crucified Thee; whose ancestors the Cross prefiguring by the tree, formerly delivered from servitude, and made honey flow from the rock, establishing them in goodness."
 
 *Other Stichera to the Most Holy Theotokos. Tone and Podoben the same:*
@@ -85,7 +85,7 @@
 *Glory: Both now: Stavrotheotokion:*
 "The beam of the luminaries set, for He Who is suspended as the Noetic Light..."
 
-##### Column B
+**Column B**
 "...was stripped naked upon the Cross; for the worse is ever overcome by the greater, and the lesser gives place unto the better; how then was it not fitting for the noetic beam to be hidden when Christ shone forth? Thus with worthy voices the all-pure one cried out, beholding Thee, the Beam of luminaries."
 
 *At the Aposticha, Stichera of the Precious Cross, Tone 2:*
@@ -94,15 +94,15 @@
 *For the Martyrs:*
 "The ranks of the Martyrs opposed the tormentors, saying: 'We do battle for the King of the heavenly powers; though ye deliver us unto fire and torments, we renounce not the power of the Trinity!' "
 *Glory: Both now: Stavrotheotokion:*
-"Having endured many pangs at the Crucifixion of thy Son and God, O all-pure one, she groaned with tears and cried aloud: 'Woe is me, sweet Child! How dost Thou suffer unjustly, desiring to deliver the earthborn descendants of Adam?' Therefore, O all-pure Virgin, we entreat thee in faith: make Him merciful unto us!"
+"Having endured many pangs at the Crucifixion of thy Son and God, O all-pure one, she groaned with tears and cried aloud: 'Woe is me, sweet Child! How dost thou suffer unjustly, desiring to deliver the earthborn descendants of Adam?' Therefore, O all-pure Virgin, we entreat thee in faith: make Him merciful unto us!"
 
 *On Wednesday at Matins.*
 *After the 1st Kathisma, Sessional Hymns of the Precious Cross, Tone 2:*
 
 === LEAF p53 ===
 
-#### [Left Page — Folio 51v]
-##### Column A
+**[Left Page — Folio 51v]**
+**Column A**
 "Thou hast worked salvation in the midst of the earth, O Christ God; spreading Thine immaculate hands upon the Cross:[^69] Thou hast gathered all the nations, who cry aloud: 'O Lord, glory to Thee!' "
 "In the same manner as the enemy held Adam captive through the tree of eating: in like manner Thou, the Lord Himself, didst take the enemy captive through the Tree of the Cross and by Thy death; for unto this the second Adam came: to seek the lost one and to make alive him who had died. O God, glory to Thee!"
 *Glory: Both now: Stavrotheotokion:*
@@ -114,7 +114,7 @@
 *For the Martyrs:*
 "Thou Who didst enlighten Thy saints more than gold, and glorified Thy venerable ones as God: being entreated by them, O Christ God, give peace unto our life, as the Lover of mankind, and let our prayer be set forth as incense before Thee: Thou Who alone restest in the saints."
 
-##### Column B
+**Column B**
 *Glory: Both now: Stavrotheotokion. Model: Being full of compassion:*
 "The Virgin and Thy Mother, O Christ, beholding Thee stretched out dead upon the Cross, wept bitterly and said: 'O my Son, what is this dread mystery? Thou Who grantest eternal life unto all, how dost Thou die upon the Cross an ignominious death?' "
 
@@ -124,27 +124,27 @@
 *Glory: Both now: Stavrotheotokion:*
 "Preserved by the Precious Cross of thy Son, O pure Lady Theotokos, we easily overcome every assault of the adversary; therefore, as is meet, we bless thee as the Mother of God, the only hope of our souls."
 
-# CANON TO THE PRECIOUS AND LIFE-GIVING CROSS
+*CANON TO THE PRECIOUS AND LIFE-GIVING CROSS*
 *Work of Joseph.*[^70]
 *Ode 1. Tone 2. Heirmos:*
 *"In the deep of old He drowned:"*
 "The first-created man transgressed the first commandment of old, and thence found death; by Thine elevation upon the Tree,"
 
-#### [Right Page — Folio 52r]
-##### Column A
+**[Right Page — Folio 52r]**
+**Column A**
 "...O Immortal One, and having tasted of death, Thou didst grant immortality unto all men."
 "When the Cross was planted upon the earth, the arrogance of the enemy fell down, and he was trampled underfoot; and man, who was formerly condemned, enters again into Paradise; glory to Thee, our God, Who alone hast thus been well pleased. *For the Martyrs:*"
 "Like rams, like noetic lambs, ye were all slaughtered, and pitilessly severed limb from limb, O all-praised Martyrs: and ye were brought unto Him Who was slaughtered, like sheep; and now ye enlighten the Church of the firstborn saints. *For the Martyrs:*"
 "Ever exercising steadfastness in suffering, O wise ones, ye cast down the cunning enemies, being severed by the sword, and cast into fire and water; therefore, O passion-bearers, ye were deemed worthy of a blessed end. *Theotokion:*"
 "The sacred company of the Prophets named thee an impassable gate, a chosen land, and an unhewn mountain, O all-pure Lady: for thou didst bear the God of the ages, Who of His own will received crucifixion in the flesh."
 
-# ANOTHER CANON TO THE MOST HOLY THEOTOKOS
+*ANOTHER CANON TO THE MOST HOLY THEOTOKOS*
 *Tone 2. Heirmos:*
 *"Come, ye peoples, let us sing a song unto Christ God, Who divided the sea and led the people whom He brought out of the bondage of Egypt: for He hath been glorified!"*
 "Come, all ye faithful, with one accord let us hymn the Theotokos, for she bore God beyond human understanding; and she unceasingly prays to save us all."
 "He Who is the Image of the Father's hypostasis took from thee our mixture,"
 
-##### Column B
+**Column B**
 "...O Theotokos Mary; He glorified the fallen image, and made it new."
 "Thou art more honorable than the Cherubim, and higher than the heavenly circles; for in thy womb, beyond understanding, thou didst dispassionately contain God. *Theotokion:*"
 "Thou didst bear the Redemption for our sins, the Benefactor and Lord; having changed the mortality of our forefather Adam, thou didst raise our nature unto the heavens."
@@ -159,8 +159,8 @@
 
 === LEAF p54 ===
 
-#### [Left Page — Folio 52v]
-##### Column A
+**[Left Page — Folio 52v]**
+**Column A**
 *Another [Canon]. Heirmos:*
 *"Establish us in Thee, O Lord:"*
 "As truly the golden censer, and the jar of manna, and the mountain of God, and the fair divine palace do we name thee, O Virgin."
@@ -175,7 +175,7 @@
 "Being put to death, ye put the enemy completely to death; being scraped with iron, ye stripped off the thickness of carnal mortality, O divine Martyrs, and were clothed with glory. *For the Martyrs:*"
 "Being dreadfully beheaded, the Martyrs cut off the heads of the cunning powers: and rejoicing, they inherited surpassing glory. *Theotokion:*"
 
-##### Column B
+**Column B**
 "From thy womb the paternal Effulgence, Christ, shone forth; and being crucified, He enlightened the universe, O unwedded Maiden, and abolished the demonic darkness."
 
 *Another [Canon]. Same Heirmos:*
@@ -191,15 +191,15 @@
 *For the Martyrs:*
 "Fervent friends of Christ, intercessors for men, venerable unto the churches, all-adorned vessels of the Spirit: the wise passion-bearers"
 
-#### [Right Page — Folio 53r]
-##### Column A
+**[Right Page — Folio 53r]**
+**Column A**
 "...are worthily blessed. *For the Martyrs:*"
 "Lawfully did the choir of Thy holy sufferers contend; they put the lawless to shame, O only Lawgiver, by Thy power: and having finished the course, they were victoriously crowned. *Theotokion:*"
 "Thou wast shown forth incorrupt after childbirth, O pure Virgin, for God was incarnate and born of thee; beholding Whom crucified, unable to bear it, she cried aloud in maternal grief."
 
 *Another [Canon]. Heirmos:*
 *"O Giver of light and of the ages:"*
-"We the faithful know Thee to be incarnate of thee, O Theotokos, who didst bear the Son without seed: true God, and man by nature: therefore we glorify thee."
+"We the faithful know thee to be incarnate of thee, O Theotokos, who didst bear the Son without seed: true God, and man by nature: therefore we glorify thee."
 "Fleeing ever in faith unto thy protection and intercession, O all-pure Virgin, for thy sake we are delivered from great and cruel distress."
 "Deliver us from temptations, and from perilous thoughts, O all-pure one: from great wrath, and from great sin, from famine and pestilence, and from eternal torment, O Virgin. *Theotokion:*"
 "Be thou our protectress, salvation, and hope, O Lady, unto Christians: save them that ever faithfully hymn thee in love, O all-praised Virgin."
@@ -208,7 +208,7 @@
 *"In the sea-monster, Jonah cried aloud: 'Lead me up from the depth of Hades, O Master, that as unto the Deliverer, in the voice of praise and in the spirit of truth, I may sacrifice unto Thee!' "*
 "Laying his hands across their heads of old, Jacob prefigured the Cross:"
 
-##### Column B
+**Column B**
 "...upon which, O Word, Thou didst stretch forth Thy palms: and from the hand of the deceitful warrior Thou didst deliver mankind, O Christ."
 "When Thou of Thine own will wast crucified, O Christ, King of all, reigning sin was buried; and Adam, who of old was expelled from Paradise, is settled therein again, hymning Thee."
 "Still covered with blood in sacred wounds, who were adorned with heavenly beauty: the truly beloved Martyrs of the Lord I hymn with an unwavering heart. *For the Martyrs:*"
@@ -224,8 +224,8 @@
 
 === LEAF p55 ===
 
-#### [Left Page — Folio 53v]
-##### Column A
+**[Left Page — Folio 53v]**
+**Column A**
 "...hast placed the hope of thy servants upon thee: for thou art a refuge, O Lady, and comfort unto our souls."
 
 *Ode 7. Heirmos:*
@@ -240,7 +240,7 @@
 *Another [Canon]. Same Heirmos:*
 "My strength, and hymn, and salvation, and sure protection, and unassailable wall art thou, O Lady: conquer the demons that war against me,"
 
-##### Column B
+**Column B**
 "...who ever seek to put my soul to death."
 "Thou who didst incarnate God from thy virginal blood, Who made mankind alive of old: deliver me by thy prayers, who am defiled by passions and have fallen through the wiles of the enemy."
 *Theotokion:*
@@ -254,8 +254,8 @@
 "The relics of the passion-bearers pour forth healings unto the faithful, and ever heal the wounds of diseases that are difficult to cure; 'Wondrous art Thou, O Lord, in Thy holy Martyrs!' we cry aloud with thanksgiving. *For the Martyrs:*"
 "Having your mouths muzzled, and your limbs bound fast, and enduring the freezing cold, the weight of burning heat, the tearing of nails, bitter imprisonments, and a violent death, O passion-bearers: ye are therefore glorified with Christ."
 
-#### [Right Page — Folio 54r]
-##### Column A
+**[Right Page — Folio 54r]**
+**Column A**
 "...*Theotokion:*"
 "Desiring to take flesh from thy womb, the Invisible One becomes visible; and He Who is the curse endured crucifixion and is called a curse, delivering all from the curse, even thy Son, O Lady full of divine joy!"
 
@@ -270,7 +270,7 @@
 *Ode 9. Heirmos:*
 *"The Son of the Father without beginning, God and Lord:"*
 
-##### Column B
+**Column B**
 "...being incarnate of the Virgin, hath appeared unto us, to enlighten the darkened and to gather together the dispersed; therefore the all-hymned Theotokos do we magnify!"
 "Heal my brokenness and my wretchedness by Thy wound, O only Physician: and the image buried by cunning passions, purify by Thy Passion, O Master, God of my salvation!"
 "Thou wast seen lifted up upon the cypress, O Master, and upon the pine and cedar, for the sake of Thy goodness: being One of the Holy Trinity, having one Hypostasis in two natures, that Thou mightest save mankind. *For the Martyrs:*"
@@ -283,8 +283,8 @@
 
 === LEAF p56 ===
 
-#### [Left Page — Folio 54v]
-##### Column A
+**[Left Page — Folio 54v]**
+**Column A**
 *"...with one accord we the faithful magnify Him in hymns!"*
 "Vouchsafe me divine radiance, O Maiden, who alone didst ineffably give birth to the Lover of mankind, Who borrowed flesh from thee: deliver me from the coming flame and from every torment, who glorify thee in love."
 "Having acquired thee, O Theotokos, as a firm protectress, as a hope and a wall, an expectation and a steadfast shelter, an unassailable confirmation and a harbor sheltered from storms: all of us are eternally saved."
@@ -295,7 +295,7 @@
 "Having voluntarily become poor for the sake of Adam's poverty, O Christ God, Thou camest upon earth, incarnate of the Virgin; and Thou didst receive crucifixion, that Thou mightest free us from the bondage of the enemy: O Lord, glory to Thee! *For the Martyrs:*"
 "Every city and country honors your relics, O holy passion-bearing Martyrs:"
 
-##### Column B
+**Column B**
 "...for having lawfully contended, ye received crowns from heaven; and therefore ye are the boast of hierarchs, the victory of churches, and the beauty of churches."
 *Glory: Both now: Stavrotheotokion. Model: When from the Tree:*
 "The all-ripe Cluster, Whom thou didst carry untilled in thy womb, when thou didst behold Him hanging upon the Tree, O pure one: sobbing, she cried aloud and called out: 'O Child, drip forth sweetness, whereby all drunkenness of passions may be taken away, O Benefactor: for the sake of me who bore Thee, by divine supplications, as Thou art compassionate!' "
@@ -311,16 +311,16 @@
 *Both now: Theotokion:*
 "Beholding Him upon the Cross Whom thou didst bear without seed: the Maiden hymned His longsuffering with tears."
 
-#### [Right Page — Folio 55r]
-# ON WEDNESDAY EVENING, AT "LORD, I CALL:"
+**[Right Page — Folio 55r]**
+*ON WEDNESDAY EVENING, AT "LORD, I CALL:"*
 *Stichera to the Holy Apostles, Tone 2. Podoben: When from the Tree:*[^72]
-##### Column A
+**Column A**
 "Ye watered all the earth like spiritual rivers flowing forth from Eden; and having offered sacrifice, ye preached the saving preaching, and reaped a fruitful harvest, O wise ones: hiding the saved souls of these within noetic treasures, O disciples of the Lord, as a multi-instructed wealth."
 "From the darkness of passions and pleasures, deliver my much-suffering heart, ye who are luminaries of the noetic East, and all-radiant enlighteners, shining forth the Sun unto all, Who dissolved the deceit of the night of malice; pray Him, as His eyewitnesses, to enlighten our minds also."
 "Ye were shown forth as truly new tablets of grace inscribed by God, initiates of mysteries and sufficient witnesses: bearing the saving Word, written by the Finger of the Spirit; therefore ye traversed all the ends of the earth, clearly showing forth unto all men the Orthodox faith and the path that leads unto it."
 
 *Other Stichera to Saint Nicholas. Tone and Podoben the same:*
-##### Column B
+**Column B**
 "Having lived in Myra as a venerable one: thou wast truly shown forth as myrrh, being anointed with noetic myrrh, O holy Nicholas, hierarch of Christ; and exhaling an immortal fragrance of sweet savor unto them that flee beneath thy protection in faith, releasing them from misfortunes, perils, and afflictions, O father, by thy prayers unto the Lord."
 "Held fast by a multitude of tribulations, and tossed by the storm of life, and most grievously submerged by waves, and encompassed with sorrows: upon thee do I place all my hope, O father Nicholas: grant me deliverance from all cruel things by thy prayers, O blessed one, which thou offerest unto our Master and God."
 "Beset by the gloom and darkening of thoughts, and borne away by demonic deceits, and inflamed by carnal passions, and overcome by the law of sin: illuminate me with the light of grace, for thou art a light in the world, enlightened by a divine ray, O Nicholas worthy of all blessedness."
@@ -329,8 +329,8 @@
 
 === LEAF p57 ===
 
-#### [Left Page — Folio 55v]
-##### Column A
+**[Left Page — Folio 55v]**
+**Column A**
 "...and bringing them unto Him by divine teachings."
 
 *At the Aposticha, Stichera of the Apostles, Tone 2:*
@@ -343,7 +343,7 @@
 
 *On Thursday at Matins.*
 *After the 1st Kathisma, Sessional Hymns of the Apostles, Tone 2:*[^73]
-##### Column B
+**Column B**
 "Thou Who didst make fishermen wiser than rhetoricians, and sent them forth as preachers throughout all the earth: by Thine ineffable love for mankind, O Christ God, for their sake establish Thy Church, and send down Thy blessing upon the faithful: Thou Who alone restest in the saints."
 "The all-simple disciples and eyewitnesses of God: brought to naught the unwise wisdom of philosophers and rhetors, making the nations wise by the simplicity of their preaching, O divine Apostles: that they might orthodoxly hymn the one Creator and Lord."
 *Glory: Both now: Theotokion:*
@@ -355,8 +355,8 @@
 *Glory: Both now: Theotokion:*
 "We have become partakers of the divine nature..."
 
-#### [Right Page — Folio 56r]
-##### Column A
+**[Right Page — Folio 56r]**
+**Column A**
 "...through thee, O Theotokos, ever-Virgin: for thou didst bear God incarnate for us; therefore, as is meet, we all devoutly magnify thee."
 
 *After the 3rd Kathisma, Sessional Hymns, Tone 2. Model: Being full of compassion:*
@@ -365,19 +365,19 @@
 *Glory: Both now: Theotokion:*
 "O unwedded and all-pure, holy Theotokos and Bride unwedded: together with the Apostles ever entreat thy Son, Whom thou didst bear in the flesh beyond nature: to grant forgiveness of transgressions, direction for our life, and a change of our passions, unto all that hymn thee."
 
-# CANON TO THE HOLY APOSTLES
+*CANON TO THE HOLY APOSTLES*
 *Work of Theophanes.*[^74]
 *Ode 1. Tone 2. Heirmos:*
 *"In the deep of old He drowned:"*
 "Having become like lightnings of the Divine Light, O radiant Apostles of the Savior: enlighten me wholly, who am darkened by the blackness of pleasures, and have spent all my life in vain pursuits."
 "O disciples and friends of Christ: deliver me from the enemy whose friend I became through contact with evil things, making my spirit worthy of adoption through Him Who loved the human race out of goodness."
 
-##### Column B
+**Column B**
 "O my humble soul, hasten to repent before death, and weep for thyself who art dead: that He Who raised the four-days-dead Lazarus, as He is compassionate, may raise thee also by the entreaties of the Apostles."
 *Theotokion:*
 "Having borne the good God Who works good in all things, O all-pure one: entreat Him, O all-immaculate one, together with the Prophets, Martyrs, and Apostles: to deliver from all perils them that are held captive by distress."
 
-# ANOTHER CANON TO SAINT NICHOLAS
+*ANOTHER CANON TO SAINT NICHOLAS*
 *Work of Joseph.*
 *Ode 1. Tone 2. Heirmos:*
 *"Come, ye peoples, let us sing a song:"*
@@ -392,8 +392,8 @@
 
 === LEAF p58 ===
 
-#### [Left Page — Folio 56v]
-##### Column A
+**[Left Page — Folio 56v]**
+**Column A**
 *Canon to the Apostles:*
 "Having acquired as their Teacher the Father's Wisdom through the Spirit: the glorious eyewitnesses condemned the wisdom of the Greeks."
 "Loose the barrenness of my soul, O all-praised ones: and cause me to bear the good fruit of deeds in virtues, as worthy and blessed eyewitnesses of the Word."
@@ -411,7 +411,7 @@
 "My strength, and joy, and gladness, and steadfast wall, and protectress art thou, O all-immaculate one, delivering me from temptations and perils."
 
 *Ode 4. Heirmos:*
-##### Column B
+**Column B**
 *"Thy coming from the Virgin:"*
 *Canon to the Apostles:*
 "Unto me who ever hunger and pine away with famine, satisfy me with the food of salvation, O only Lover of mankind, by the divine entreaties of the Apostles who preached Thee throughout the whole world."
@@ -427,8 +427,8 @@
 "Make smooth for me the path that leads yonder, O all-blessed one, lighten for me the waves of this life, and lead me unto the haven of life, O Nicholas, who have enriched myself with thee as a great protector."
 "O hearer of divine words, having heard my voice: deliver me from demonic snares, and from lawless men, and from great afflictions that assail me,"
 
-#### [Right Page — Folio 57r]
-##### Column A
+**[Right Page — Folio 57r]**
+**Column A**
 "...O great Nicholas. *Theotokion:*"
 *Theotokion:*
 "O holy Lady Theotokos: sanctify and preserve me night and day: and direct me unto salvation, who fall into many sins and am cast down by demonic assaults."
@@ -440,14 +440,14 @@
 "With divine light ye enlightened the hearts of them that were in the darkness of deceit, O Apostles; therefore I entreat you: enlighten me who am darkened by sensual passions, O blessed of God."
 "O wretched soul, make haste and repent before the end, crying unto the Lord: 'I have sinned against Thee, O Master, forgive me for the sake of the Apostles, and save me, as Thou art compassionate!' *Theotokion:*"
 *Theotokion:*
-"With Thy light illuminate me who lie in darkness, O Dwelling-place of light: and pray with the Apostles, O all-immaculate one, to deliver me from every necessity."
+"With thy light illuminate me who lie in darkness, O Dwelling-place of light: and pray with the Apostles, O all-immaculate one, to deliver me from every necessity."
 
 *Another [Canon]. Heirmos: O Giver of light:*
 *Canon to Saint Nicholas:*
 "Fulfiller of the law of God: entreat the good God that I may keep the divine laws, and deliver me from lawless enemies and from the most grievous harm, O all-blessed Nicholas."
 "As of old Thou didst appear, O Savior, and deliver the three youths: so also deliver me from great sin by thy prayers unto God, O God-wise Nicholas."
 
-##### Column B
+**Column B**
 "Sacred celebrant of Christ, surety of sinners, great wonderworker: pray unto God the Giver of good, that He put me not to shame in the hour of judgment. *Theotokion:*"
 *Theotokion:*
 "O pure Mother of God, who art good: stand by and deliver me who am held by many passions, that being saved, I may hymn thee with soul, heart, and tongue."
@@ -469,8 +469,8 @@
 
 === LEAF p59 ===
 
-#### [Left Page — Folio 57v]
-##### Column A
+**[Left Page — Folio 57v]**
+**Column A**
 "...as thou hast an abundance of mercy, O Nicholas; strengthen me to walk the narrow path that leads unto the Lord. *Theotokion:*"
 *Theotokion:*
 "Unto me who call upon thee at every time, O all-pure one: may I find thee as a helper, delivering me from great distress and from dread torments."
@@ -488,7 +488,7 @@
 *Canon to Saint Nicholas:*
 "Tossed every day by a storm of temptations, O father Nicholas, passing through the midst of snares like fire: beneath thy generous shelter do I flee; preserve me unharmed, entreating the good God and Lord."
 
-##### Column B
+**Column B**
 "Having heard my words swiftly, O father Nicholas, hasten to come unto my aid, who am tossed by sorrows, and worldly necessities, and demonic afflictions: that being saved, I may hymn thy protection."
 "Thou who of old didst appear in a dream unto the emperor, delivering the innocent who were about to die: deliver me from the perils that ever assail me, and from bodily ailments and diseases of soul, O father Nicholas. *Theotokion:*"
 *Theotokion:*
@@ -503,8 +503,8 @@
 *Theotokion:*
 "The furnace which burned not the Children of old prefigured thy childbirth, O all-immaculate Virgin;"
 
-#### [Right Page — Folio 58r]
-##### Column A
+**[Right Page — Folio 58r]**
+**Column A**
 "...therefore I entreat thee: pray with the Apostles, in the time of judgment, to deliver me from the fire of Gehenna."
 
 *Another [Canon]. Heirmos:*
@@ -522,7 +522,7 @@
 *Canon to the Apostles:*
 "O glorious choir! O blessed Apostles!"
 
-##### Column B
+**Column B**
 "Disciples of the Savior, all-wise preachers: deliver me from every harm, from great wrath, from great sin, from great transgression, and from various perils!"
 "Me who am condemned, me who am uncorrected, who have neglected Thy commandments, and followed harmful deceits: turn me back, O Lord, by the prayers of Thine Apostles!"
 "I bring an uncorrected soul, a conscience buried beneath the weight of transgressions, a defiled heart, and a wretched mind: I cry unto Thee, O Lover of mankind: for the sake of the Apostles, have compassion upon me by Thy mercy! *Theotokion:*"
@@ -537,8 +537,8 @@
 
 === LEAF p60 ===
 
-#### [Left Page — Folio 58v]
-##### Column A
+**[Left Page — Folio 58v]**
+**Column A**
 "...giving fragrance to our hearts: having been the wise primate of Myra, drive away the foul stench of temptations by thy prayers."
 "Thou art the comfort of my soul, O father; invisible amidst a multitude of cruel afflictions, do thou boundless calm my temptations, which the deceitful one stirs up against me day and night, appearing as my good protector, O Nicholas."
 "The dread day of the Master approaches at the doors; what wilt thou do, O my soul, having a multitude of sins? Make haste therefore before the end, and cry unto the Lord diligently: 'By the prayers of Nicholas Thy hierarch, save me!' *Theotokion:*"
@@ -549,7 +549,7 @@
 "Thou hast magnified by Thy command the names of the chief Apostles, O Savior; for they were instructed in heavenly and ineffable things, and granted healings unto earthly men; and their mere shadows healed diseases, working wonders from among the fishermen; and from among the Jews, theologically declaring the teachings of grace; for their sake, O Merciful One, grant us great mercy!"
 "Being ever assailed by unjust deeds, and fleeing unto Thee, Who art truly God:"
 
-##### Column B
+**Column B**
 "...we offer unto Thee the cry of Thy disciples, saying: 'Save us, O Master, we perish! Show Thyself unto our enemies, we pray Thee: for Thou coverest Thy people and savest them from perils: overlooking our sins through the prayers of the Apostles, for the sake of Thy great goodness, O Lord!' *For the Martyrs:*"
 *For the Martyrs:*
 "The multitude of Thy saints entreats Thee, O Christ: have mercy and save us, as Thou art the Lover of mankind."
@@ -566,17 +566,17 @@
 *Both now: Theotokion:*
 "The boast of the Apostles, the adornment of the sufferers art thou, O all-pure Virgin, and the salvation of the world."
 
-#### [Right Page — Folio 59r]
-# ON THURSDAY EVENING, AT "LORD, I CALL:"
+**[Right Page — Folio 59r]**
+*ON THURSDAY EVENING, AT "LORD, I CALL:"*
 *Stichera of the Precious Cross, Tone 2. Podoben: When from the Tree:*[^76]
-##### Column A
+**Column A**
 "O Son, when Thou wast nailed unto the Cross: the sun beheld it and was darkened for fear of Thee; and the veil of the temple was rent in twain; the earth quaked, and the rocks likewise were split in trembling: unable to bear the sight of their Creator and God suffering unjustly of His own will upon the Tree, and insulted by the lawless."
 "The all-cunning serpent was cast down entirely upon the earth; he was utterly brought to naught, and lies in a marvelous fall, when Thou wast lifted up upon the Tree, O Lover of mankind; and Adam is loosed from the curse and saved, who was formerly condemned; therefore we also pray: 'Save us, have compassion upon all of us, and vouchsafe us Thy Kingdom!' "
 "When Thou wast lifted up upon the Cross, and Thy side was pierced with a spear, O Sinless One: the sun hid itself, not wishing to see it, O Savior; the earth was shaken, and the rocks were split in terror at that time while Thou wast insulted; and all creation cried aloud: 'Glory to Thy Crucifixion, O Word, whereby Thou hast saved all, O Lover of mankind!' "
 
 *Other Stichera of the Cross and Theotokos (Stavrotheotokia):*
 *Tone and Podoben the same:*
-##### Column B
+**Column B**
 "Beholding Thee, O Jesus, lifted up upon the Tree of the Cross, the unwedded Maiden wept and said: 'O sweet Child, why hast Thou forsaken me who alone gave Thee birth, O Light unapproachable of the Father without beginning? Hasten and be glorified, that they who glorify Thy divine sufferings may obtain divine glory!' "
 "When the Virgin beheld Him Who is Life dying upon the Tree, and grievously pierced with the spear: weeping, she cried aloud: 'O my Son and my God, what hath the ungrateful assembly repaid Thee? Woe is me, unable to bear the sorrow, I am consumed in my maternal heart, seeing Thee suffer, O Master!' "
 "When the unwedded Maiden beheld her Son taken down from the Tree, stretched out and laid lifeless upon the earth like a mortal man: embracing Him in her bosom and kissing His lips and eyes, she cried aloud unto Him in wonder: 'How is it that Thou Who quickenest all art now seen by me speechless and motionless? In truth, a great wonder!' "

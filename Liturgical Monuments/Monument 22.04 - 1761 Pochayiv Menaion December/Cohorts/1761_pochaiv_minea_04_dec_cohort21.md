@@ -1,15 +1,15 @@
 === LEAF p201 ===
-*Other Stichera to the Most Holy Theotokos, Tone and Podoben the same:*
+*Other Stichera to the Most Holy Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Rain down upon me, O Theotokos, the abyss of thy mercy, and my heart, scorched by the heat of passions, as the Mother of God water it, O Maiden; and make me unceasingly pour forth drops of compunction, I pray, whereby I may be accounted worthy, O pure one, of the consolation that they shall receive who weep sincerely.
 
 Shaken by demonic assaults and cast into the pit of destruction, take pity [on my soul], O Theotokos, and establish me upon the rock of virtues; and having destroyed the counsels of the enemies, make me worthy to do the commandments of Thy Son and our God, that I may obtain remission in the day of judgment.
 
 I have fallen among foul, murderous thieves, O all-undefiled one, and of the incorruptible garment of upper brightness have I been stripped by their incursions, O Maiden, and by them was pitilessly wounded, and was cast down into a place of affliction, scarcely alive; but do thou anticipate and stretch forth thy hand, and raise me up, I pray.
 
-*Glory, both now, Tone and Podoben the same:*
+*Glory, both now, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Upon the bed of despondency I lie, O all-undefiled one, and slothfully do I pass my life, and I am terrified at the end of my time, O Theotokos, lest like a lion the all-evil serpent mercilessly tear apart my humble soul. Therefore, through thy goodness anticipating before the end, raise me up unto repentance.
 
-*Stavrotheotokion, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кw до́бля):*
+*Stavrotheotokion, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́бля):*
 Seeing Christ, the Lover of mankind, being crucified, and His ribs pierced with a spear, the all-pure one weeping cried out: What have the ungrateful people rendered unto Thee for the good things Thou didst do for them? And dost Thou hasten to make me childless, O most beloved One? I marvel, O Tender-hearted One, at Thy voluntary crucifixion!
 
 *At Matins, both canons of the Octoechos, and of the Saint to 4, whose acrostic is: "Faithfully I sing to thee, O most radiant martyr." A composition of Joseph. Tone 4.*
@@ -281,7 +281,7 @@ The earth wherein thy most patient body lies, O wise one, is divinely sanctified
 The Lord appeared from thee, O Virgin, as a light cloud, and delivered over the idols of Egypt by His divine flesh; and He accounted the multitude of passion-bearers worthy to bear this, through this imitator's venerable sufferings.
 
 *In the Same Month, on the 20th Day: The Holy Great-Martyr Artemius.*[^196]
-*At "Lord, I have cried," stichera, to 6, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кw до́бля):*
+*At "Lord, I have cried," stichera, to 6, Tone 4, Podoben: "As one valiant" (Ꙗ҆́кѡ до́бля):*
 Giving over thy much-suffering and most patient body to be punished with manifold tortures of cruel wounds, O God-wise Artemius, Thou didst not deny Christ, nor didst Thou sacrifice to the idols; but Thou didst endure as though another were suffering, awaiting future recompense and immortal glory.
 
 Hung up, scraped, crushed with stones, pierced through on every side with iron, and severed by the sword, thou didst remain unshaken...

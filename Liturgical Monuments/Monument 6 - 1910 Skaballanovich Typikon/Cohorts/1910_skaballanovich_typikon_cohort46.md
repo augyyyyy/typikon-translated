@@ -32,7 +32,7 @@
 244. *Syriac Didascalia* V, 22.
 
 === LEAF p452 ===
-### Notes to the Chapter: Divine Worship in the IV–V Centuries
+**Notes to the Chapter: Divine Worship in the IV–V Centuries**
 
 1. Eusebius Pamphili, *Oration of Emperor Constantine the Great*, inscribed "To the Assembly (*συλλόγῳ*) of the Saints," ch. 13; Migne, *Patrologia Graeca*, vol. 20, col. 1272.
 

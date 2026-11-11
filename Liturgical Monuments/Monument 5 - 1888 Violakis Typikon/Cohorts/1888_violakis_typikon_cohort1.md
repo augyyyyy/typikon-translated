@@ -1,10 +1,10 @@
 === LEAF p1 ===
 
-# GEORGE VIOLAKIS[^1]
+## GEORGE VIOLAKIS[^1]
 
 ## TYPIKON
 
-### THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST
+**THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST**
 
 BILINGUAL EDITION
 
@@ -16,21 +16,21 @@ Christ, the Lord of Holy Wisdom (Agia Sophia) with the kneeling Emperor Leo VI r
 
 === LEAF p3 ===
 
-# GEORGE VIOLAKIS
+## GEORGE VIOLAKIS
 
 ## TYPIKON
 
-### BILINGUAL EDITION
+**BILINGUAL EDITION**
 
 === LEAF p4 ===
 
-# ΤΥΠΙΚΟΝ ΤΗΣ ΤΟΥ ΧΡΙΣΤΟΥ ΜΕΓΑΛΗΣ ΕΚΚΛΗΣΙΑΣ
+## ΤΥΠΙΚΟΝ ΤΗΣ ΤΟΥ ΧΡΙΣΤΟΥ ΜΕΓΑΛΗΣ ΕΚΚΛΗΣΙΑΣ
 
 ## IDENTICAL IN EVERY RESPECT
 
 To the edition approved in Constantinople which was twice published by Constantine the Protopsaltis,[^3] with many additions and corrections by the Protopsaltis
 
-### GEORGE VIOLAKIS
+**GEORGE VIOLAKIS**
 
 Having labored in collaboration with two successive committees appointed for this purpose by Patriarchal decree.
 
@@ -45,13 +45,13 @@ Contributing Translator and Editor
 
 === LEAF p5 ===
 
-# THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST
+## THE RITUAL ORDER OF THE SERVICES OF THE GREAT CHURCH OF CHRIST
 
 ## IDENTICAL IN EVERY RESPECT
 
 With the edition approved in Constantinople and published twice by Constantine the First Chanter with many additions and corrections by the First Chanter
 
-### GEORGE VIOLAKIS
+**GEORGE VIOLAKIS**
 
 Working in collaboration with two successive committees appointed to this task by Patriarchal order.
 
@@ -93,7 +93,7 @@ ISBN: 978-0-692-24874-4
 
 === LEAF p7 ===
 
-# THIS PUBLICATION WAS MADE POSSIBLE BY THE GENEROUS GIFT OF
+## THIS PUBLICATION WAS MADE POSSIBLE BY THE GENEROUS GIFT OF
 
 **James and Becky Economou**  
 **Chris and Vicki Economou**  

@@ -24,7 +24,7 @@ Keep in mind the dread day and hour, O my soul, when the Master will bring thee 
 
 *Theotokion:*
 
-Joyfully do we offer Thee the greeting of divine Gabriel, and cry aloud: Rejoice, O paradise, who ever hast within the Tree of Life! Rejoice, O most glorious palace of the Word, O all-immaculate Virgin!
+Joyfully do we offer thee the greeting of divine Gabriel, and cry aloud: Rejoice, O paradise, who ever hast within the Tree of Life! Rejoice, O most glorious palace of the Word, O all-immaculate Virgin!
 
 *Exapostilarion of the Apostles:*
 
@@ -84,7 +84,7 @@ With unswerving mindset and sober mind let us teach this unto Him Who abides in 
 
 *Both now: Theotokion:*
 
-In truth Thou art the joy of the apostles and the unfading crown of the passion-bearers, O all-immaculate Virgin Mother of God; with them entreat for us, O Sovereign Lady, deliverance from transgressions and amendment of life, who in faith hymn Thee and cry aloud: Save those who bow down before Thee, O Mother of God!
+In truth thou art the joy of the apostles and the unfading crown of the passion-bearers, O all-immaculate Virgin Mother of God; with them entreat for us, O Sovereign Lady, deliverance from transgressions and amendment of life, who in faith hymn thee and cry aloud: Save those who bow down before thee, O Mother of God!
 
 *On Thursday Evening, at "Lord, I have cried," Stichera of the Cross, Tone 5. Model: O venerable father:* [^256]
 
@@ -120,7 +120,7 @@ Let us all weep and stretch out our hands, and strike our breasts weeping warmly
 
 ...make us partakers of Thy kingdom!
 
-Unto whom hast thou become likened, O my soul, ever advancing in worse things, and foolishly adding more sores unto thy wounds, so that plainly the whole body is diseased; not considering that the Judge draws near, before Whom thou shalt stand to receive the punishment and torment due unto thy deeds: but turn back and fall down before the Virgin, crying: O Sovereign Lady, Sovereign Lady, despise me not who have provoked the bountiful God, Who was born of Thee for the salvation of mankind, and was crucified in the flesh!
+Unto whom hast thou become likened, O my soul, ever advancing in worse things, and foolishly adding more sores unto thy wounds, so that plainly the whole body is diseased; not considering that the Judge draws near, before Whom thou shalt stand to receive the punishment and torment due unto thy deeds: but turn back and fall down before the Virgin, crying: O Sovereign Lady, Sovereign Lady, despise me not who have provoked the bountiful God, Who was born of thee for the salvation of mankind, and was crucified in the flesh!
 
 *Glory; Both now: Stavrotheotokion. Model: Rejoice, life-bearing:* [^258]
 
@@ -182,7 +182,7 @@ Today the memory of the passion-bearers shines forth, for they have illumination
 
 *Glory; Both now: Stavrotheotokion:* [^260]
 
-By the Cross of Thy Son, O Lady full of divine joy, all idol deception hath been abolished, and demonic power...
+By the Cross of thy Son, O Lady full of divine joy, all idol deception hath been abolished, and demonic power...
 
 === LEAF p258 ===
 
@@ -222,15 +222,15 @@ A new Child unto us, O pure Virgin, Him Who is Ancient of Days...
 
 **[Left Page — Fol. 256v]**
 
-...hast Thou brought forth, Who renews aged human nature by His divine Passion, O all-immaculate one.
+...hast thou brought forth, Who renews aged human nature by His divine Passion, O all-immaculate one.
 
 *Another Canon to the Most Holy Theotokos, same Heirmos:*
 
-A fountain of tender compassion and a fervent protectress do I know Thee to be, O all-immaculate Virgin Mother Mary; and I cry aloud unto Thee: have mercy and show compassion unto my humble soul!
+A fountain of tender compassion and a fervent protectress do I know thee to be, O all-immaculate Virgin Mother Mary; and I cry aloud unto thee: have mercy and show compassion unto my humble soul!
 
 Within Thy womb the Son of God took up His abode, O pure one, and assumed human nature as He is exceedingly good, and delivered all from the corruption of the serpent.
 
-Be Thou my illumination and hope of salvation, O all-immaculate Mother of God, loosing the bonds of my transgressions, and delivering me from future torment and condemnation.
+Be thou my illumination and hope of salvation, O all-immaculate Mother of God, loosing the bonds of my transgressions, and delivering me from future torment and condemnation.
 
 Deliver my humble soul from evil thoughts, O Mother of God, and make it a dwelling place...
 
@@ -264,13 +264,13 @@ Revealing Thee as mediatress of life unto us, O pure one, Thy Son and Lord appea
 
 *Another Canon, same Heirmos:*
 
-Deliver me, who have fallen into the ruinous pit of grievous sins, O Mother of God, by Thy tender bounty!
+Deliver me, who have fallen into the ruinous pit of grievous sins, O Mother of God, by thy tender bounty!
 
 Having arrived at the evening of my life, and being held fast by perplexity, I cry aloud unto Thee, O all-hymned one: show Thyself to be my helper!
 
 O holy, pure Mother of God, grant remission of my transgressions; entreat salvation and eternal joy for me!
 
-Grant me drops of tears, O pure one, that from my heart I may drive away perplexity and unstainedly hymn Thee.
+Grant me drops of tears, O pure one, that from my heart I may drive away perplexity and unstainedly hymn thee.
 
 *Ode 4. Heirmos: I heard the report of Thee...* [^263]
 
@@ -296,4 +296,4 @@ When the pure one beheld Christ upon the Cross, Whom she had brought forth, she 
 
 *Another Canon, same Heirmos:*
 
-Because of my evil deeds and many transgressions, who shall be able to appease the Judge, if not Thou, O pure one, the only protectress of sinners?
+Because of my evil deeds and many transgressions, who shall be able to appease the Judge, if not thou, O pure one, the only protectress of sinners?

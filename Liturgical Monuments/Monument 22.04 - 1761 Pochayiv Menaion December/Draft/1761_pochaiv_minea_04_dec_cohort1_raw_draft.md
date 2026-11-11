@@ -27,7 +27,7 @@ A light-bearing cloud wast thou revealed to be, O Nahum, prophet of God, pouring
 
 Having become a partaker of incorruptible blessing, O Nahum, prophet of God, and of ineffable glory, unutterable joy, and divine sweetness: pray unto the Master of all on our behalf, O God-inspired one.
 
-*Other Stichera to the Theotokos, same Tone and Podoben.*
+*Other Stichera to the Theotokos, same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже).*
 *(If Alleluia is sung, the Stichera to the Theotokos are sung first, then those of the Saint.)*
 
 Wounded am I by the weapon of the serpent, and scarcely alive, O Maiden; lying upon the bed of despair, heal me swiftly by the medicine of thy maternal prayer, and make me a servant of Thy Son and God.
@@ -206,7 +206,7 @@ Standing upon his divine watch, the venerable Habakkuk...
 
 Rejoicing in the Lord, God Thy Savior, O glorious God-proclaimer, making glad; and receiving the beam of the radiance which is there, and spiritually enlightened by divine light: from afflictions and tribulations deliver by Thy prayers those who with faith celebrate Thy most festive memory.
 
-*Other Stichera to the Theotokos, same Tone and Podoben.*
+*Other Stichera to the Theotokos, same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже).*
 *(If Alleluia is sung, these Stichera are sung first.)*
 
 With showers of the Holy Spirit, O all-pure one, bedew my mind, who didst bear Christ, the boundless drop that washed away the iniquities of earthborn men by His mercies; dry up the fountain of my passions, and vouchsafe me the torrent of delight by thy prayer free from grief.
@@ -215,11 +215,11 @@ Cast down unto the earth, I am deadened by sins, by passions of soul and body; t
 
 Thou who didst contain in thy womb the uncontainable God, Who became man in His love for mankind, and took our mixture from thee, and manifestly deified it: despise me not, O all-pure one, who am now in sorrow, but have compassion swiftly, and free me from every enmity and harm of the evil one.
 
-*Glory... Both now... same Tone and Podoben:*
+*Glory... Both now... same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Myriad times, O all-pure one, did I promise to make repentance for my sins, but my unseemly evil habit does not leave me. Therefore do I cry unto thee, and fervently pray: Deliver me, O gracious Lady, from such torment, guiding me unto better things and those near unto salvation.
 
-*Stavrotheotokion, same Podoben:*
+*Stavrotheotokion, same Podoben (Подо́бенъ то́йже):*
 
 When the Ewe-lamb who bare Thee beheld Thee upon the Wood, the Lamb and Shepherd, she wept and cried out to Thee in maternal sorrow: O Son greatly desired, how art Thou suspended upon the wood of the Cross, O Long-Suffering One? How are Thy hands and Thy feet nailed by the lawless, O Word, and Thou hast poured out Thy blood, O Master?
 

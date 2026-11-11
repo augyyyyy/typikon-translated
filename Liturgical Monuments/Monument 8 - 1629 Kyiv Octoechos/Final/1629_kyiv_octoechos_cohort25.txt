@@ -14,7 +14,7 @@ Thy most glorious life hath revealed thee everywhere as beautiful, O divinely wi
 
 *Glory; Both now: Theotokion:*
 
-From every temptation and snare of the deceitful serpent deliver me, O all-immaculate Lady; bridle the violent assaults of passions, I pray Thee; dispel the mist and darkening of my mind, and pilot me unto the haven of the divine commandments of Thy Son, O Mother of God, that unceasingly I may honor Thee.
+From every temptation and snare of the deceitful serpent deliver me, O all-immaculate Lady; bridle the violent assaults of passions, I pray thee; dispel the mist and darkening of my mind, and pilot me unto the haven of the divine commandments of thy Son, O Mother of God, that unceasingly I may honor thee.
 
 *On the Aposticha, Stichera, Tone 4:* [^244]
 
@@ -32,7 +32,7 @@ Living victims, rational whole-burnt offerings, martyrs of the Lord, perfect sac
 
 *Glory; Both now: Theotokion:*
 
-Having Thee, O Mother of God, as hope and helper, we fear not the assaults of the enemy; for Thou savest our souls.
+Having thee, O Mother of God, as hope and helper, we fear not the assaults of the enemy; for thou savest our souls.
 
 *Then, "Now lettest Thou Thy servant depart." Troparion to the Apostles:* **"O holy apostles,"** *and to Nicholas, Tone 4:* **"A rule of faith."** *Glory; Both now: Theotokion:* **"The Word of the Father, Christ our God."** *Dismissal.*
 
@@ -48,7 +48,7 @@ Even as Moses led Israel out of bondage...
 
 *Glory; Both now: Theotokion:*
 
-Refuge of those in perils, reconciliation unto God for sinners, O all-immaculate Sovereign Lady: save us from every tribulation, and from human malice, and from dread torment, and from the dishonor of passions, who with unhesitating faith ever invoke Thee, O all-hymned Virgin.
+Refuge of those in perils, reconciliation unto God for sinners, O all-immaculate Sovereign Lady: save us from every tribulation, and from human malice, and from dread torment, and from the dishonor of passions, who with unhesitating faith ever invoke thee, O all-hymned Virgin.
 
 *After the 2nd Stichology, Sessional Hymns, Tone 4:*
 
@@ -176,7 +176,7 @@ Dwelling in the heavens, O Nicholas, amidst invisible joys, thou comest unto all
 
 *Theotokion:*
 
-The angelic hosts, struck with awe, O all-immaculate Lady, hymn the majesty of Thy divine childbirth; with them, O Virgin Lady, pray that all may be saved who honor and bless Thee in faith.
+The angelic hosts, struck with awe, O all-immaculate Lady, hymn the majesty of thy divine childbirth; with them, O Virgin Lady, pray that all may be saved who honor and bless thee in faith.
 
 *Ode 5. Heirmos: Thou, O Lord, art my light...*
 
@@ -240,7 +240,7 @@ As of old the commanders doomed unjustly to die were delivered by thy prayers, s
 
 *Theotokion:*
 
-Thy people and Thy city pray Thee, O Mother of God: deliver us from every calamity, O all-pure Sovereign Lady, and from eternal condemnation there.
+Thy people and thy city pray thee, O Mother of God: deliver us from every calamity, O all-pure Sovereign Lady, and from eternal condemnation there.
 
 *Ode 7. Heirmos: In the furnace, the children of Abraham...*
 
@@ -306,7 +306,7 @@ In orthodox manner, O faithful, let us worship the uncreated Holy Trinity, cryin
 
 *Theotokion:*
 
-Vouchsafe me Thy mercy, O blessed Sovereign Lady, who didst give birth to the good and merciful God; and standing before me in the hour of judgment, deliver me from condemnation there.
+Vouchsafe me thy mercy, O blessed Sovereign Lady, who didst give birth to the good and merciful God; and standing before me in the hour of judgment, deliver me from condemnation there.
 
 *Ode 9. Heirmos: A stone cut out without hand from a mountain...*
 

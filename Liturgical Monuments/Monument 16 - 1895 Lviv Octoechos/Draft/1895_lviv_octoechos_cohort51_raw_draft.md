@@ -134,7 +134,7 @@ Rejoice, thou who didst ineffably conceive the Son of God, O All-Immaculate One,
 Rejoice, beauty of Jacob, which God chose and loved, gate of the saved, flame-bearing tongs, loosed curse, all-blessed one, womb that contained God, elevation of the fallen, more holy than the Cherubim, exceeding all creation, sight difficult to behold, most novel hearing, ineffable speech, chariot of the Word, cloud from which shone forth the Sun, illuminating us who sit in darkness, and granting great mercy.[^5052]
 
 *Glory... both now... Theotokion:*
-Let us honor the divinely seemly and venerable Maiden, more honorable than the Cherubim; for the Creator of all, desiring to become man, dwelt in her ineffably. O marvelous things and most glorious mysteries! Who that hath heard this will not marvel? that God becomes man, yet without change in Him; and He passed through the gates of virginity, yet no diminution was left therein, even as the prophet saith: No man shall ever pass through them, save only the Lord God of Israel, who hath great mercy.[^5053]
+Let us honor the divinely seemly and venerable Maiden, more honorable than the Cherubim; for the Creator of all, desiring to become man, dwelt in her ineffably. O marvelous things and most glorious mysteries! Who that hath heard this will not marvel? that God becomes man, yet without change in Him; and He passed through the gates of virginity, yet no diminution was left therein, even as the prophet says: No man shall ever pass through them, save only the Lord God of Israel, who hath great mercy.[^5053]
 
 *Then: Now lettest Thou Thy servant depart. Trisagion. And after Our Father: Troparion: "Co-beginningless Word"; Theotokion: "Rejoice, gate of the Lord"; litany, and the little dismissal.*[^5054]`
 
@@ -205,7 +205,7 @@ Rejoice, impassable gate of the Lord! Rejoice, wall and protection of those who 
 
 === LEAF p510 ===
 *Glory...*
-God, who was well-pleased to receive flesh from thee, O Pure One, established thee as a haven for those in perils. Therefore, falling down before thee, we cry aloud: Grant Thy help unto Thy servants.[^5081]
+God, who was well-pleased to receive flesh from thee, O Pure One, established thee as a haven for those in perils. Therefore, falling down before thee, we cry aloud: Grant thy help unto thy servants.[^5081]
 
 *Both now...*
 May thy prayer, O most pure Virgin, be relief unto thy servants, driving away passions, loosing sins, and cleansing all diseases, O Birthgiver of God.[^5082]

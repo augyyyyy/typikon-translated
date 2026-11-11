@@ -18,7 +18,7 @@ Refactor all AI, agent, brain, and orchestration scripts within the Kyivan Music
 
 ### Translation Pipelines & Scripts
 
-#### [MODIFY] [translate_catalogue_pipeline.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_scratch/translate_catalogue_pipeline.py)
+#### [MODIFY] [translate_catalogue_pipeline.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_scratch/translate_catalogue_pipeline.py)
 - Remove `from google import genai` and `from google.genai import types`.
 - Import `from openai import OpenAI`.
 - Replace `load_gemini_key()` with `get_deepseek_key()`.
@@ -29,14 +29,14 @@ Refactor all AI, agent, brain, and orchestration scripts within the Kyivan Music
 
 ### Auditing Utilities
 
-#### [MODIFY] [api_translation_auditor.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/api_translation_auditor.py)
+#### [MODIFY] [api_translation_auditor.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/_brain/api_translation_auditor.py)
 - Remove `reasoning_effort="high"` from `client.chat.completions.create` when calling DeepSeek V4 Pro in thinking mode. DeepSeek uses `extra_body={"thinking": {"type": "enabled"}}` and does not support the `reasoning_effort` parameter, which could cause validation failures.
 
 ---
 
 ### Workspace Rules
 
-#### [MODIFY] [.cursorrules](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/.cursorrules)
+#### [MODIFY] [.cursorrules](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Kyivan%20Musicology/Irmologia%20Catalogue/.cursorrules)
 - Verify there are no legacy model references and ensure it correctly points to the central rules page `GLOBAL_SYSTEM_RULES.md`.
 
 ## Verification Plan

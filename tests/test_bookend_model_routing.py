@@ -231,8 +231,11 @@ def test_two_tier_flash_resilience_boundary_check(tmp_path):
 def test_phase_2_argon_audit_batching_and_quarantine_gate(monkeypatch, tmp_path):
     """Decision 5: Verifies <=5 direct vs >5 batched <=8 Argon dispatch and unresolved quarantine compilation block."""
     fake_state_file = tmp_path / "ACTIVE_ORCHESTRATOR_STATE.json"
+    fake_reg_file = tmp_path / "codex_registry.json"
     monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
     monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
+    monkeypatch.setattr(orchestrator_state, "REGISTRY_FILE", fake_reg_file)
+    monkeypatch.setattr(autonomous_orchestrator, "REGISTRY_FILE", fake_reg_file)
 
     fake_ws = tmp_path / "mon7_ws"
     (fake_ws / "Audit_Reports").mkdir(parents=True)
@@ -294,8 +297,11 @@ def test_phase_2_argon_audit_batching_and_quarantine_gate(monkeypatch, tmp_path)
 def test_phase_0_vision_budget_contract_and_preflight_brief(monkeypatch, tmp_path):
     """Verifies that run_preflight writes phase0_preflight_brief.json with the 8-leaf / 2-batch vision cap and Octoechos scaffold."""
     fake_state_file = tmp_path / "ACTIVE_ORCHESTRATOR_STATE.json"
+    fake_reg_file = tmp_path / "codex_registry.json"
     monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
     monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
+    monkeypatch.setattr(orchestrator_state, "REGISTRY_FILE", fake_reg_file)
+    monkeypatch.setattr(autonomous_orchestrator, "REGISTRY_FILE", fake_reg_file)
 
     fake_ws = tmp_path / "1630_lviv_octoechos_ws"
     images_dir = fake_ws / "Source Text" / "images"
@@ -392,10 +398,11 @@ def test_phase_0_onboarding_prompt_and_defer_monument(monkeypatch, tmp_path):
     assert defer_res["status"] == "DEFERRED_TO_BACK_OF_QUEUE"
     assert defer_res["deferred_monument_id"] == "1629_kyiv_octoechos"
     assert defer_res["next_monument_id"] == "1630_lviv_octoechos"
-    assert "Orient on and prepare the Phase 0 implementation plan for" in defer_res["onboarding_prompt"]
+    assert "[/plan](slashCommand;plan) Orient on and prepare the Phase 0 implementation plan for Monument " in defer_res["onboarding_prompt"]
+    assert "[/grill-me](slashCommand;grill-me)" in defer_res["onboarding_prompt"]
     assert "1630_lviv_octoechos" in defer_res["onboarding_prompt"]
     assert "implementation_plan.md" in defer_res["onboarding_prompt"]
-    assert "/plan" not in defer_res["onboarding_prompt"]
+    assert not defer_res["onboarding_prompt"].startswith("/plan ")
 
     updated_reg = json.loads(fake_registry_file.read_text(encoding="utf-8"))
     keys = list(updated_reg["monuments"].keys())
@@ -452,9 +459,18 @@ def test_anti_slop_and_footnote_bijectivity_deterministic_healers(tmp_path):
 
 def test_zero_switch_end_of_sprint_auto_progression(monkeypatch, tmp_path):
     """Verifies that when remaining_pages == 0 and 0 leaves are queued, verify_cohort_and_advance auto-compiles without halting for a UI switch."""
+    import chronicle_manager as cm
+
     fake_state_file = tmp_path / "ACTIVE_ORCHESTRATOR_STATE.json"
+    fake_reg_file = tmp_path / "codex_registry.json"
+    fake_chronicle = tmp_path / "CHRONICLE.md"
+    fake_chronicle.write_text("# Fake Chronicle\n", encoding="utf-8")
     monkeypatch.setattr(orchestrator_state, "STATE_FILE", fake_state_file)
     monkeypatch.setattr(autonomous_orchestrator, "STATE_FILE", fake_state_file)
+    monkeypatch.setattr(orchestrator_state, "REGISTRY_FILE", fake_reg_file)
+    monkeypatch.setattr(autonomous_orchestrator, "REGISTRY_FILE", fake_reg_file)
+    monkeypatch.setattr(cm, "CHRONICLE_PATH", fake_chronicle)
+    monkeypatch.setattr(cm.ChronicleManager, "CHRONICLE_PATH", fake_chronicle)
 
     fake_ws = tmp_path / "zero_switch_ws"
     (fake_ws / "Audit_Reports").mkdir(parents=True)
@@ -491,4 +507,5 @@ def test_zero_switch_end_of_sprint_auto_progression(monkeypatch, tmp_path):
     assert res["status"] == "AWAITING_ARGON_POST_SPRINT_AUDIT"
     assert res["queued_leaves"] == 0
     assert res["unresolved_quarantines"] == 0
+
 

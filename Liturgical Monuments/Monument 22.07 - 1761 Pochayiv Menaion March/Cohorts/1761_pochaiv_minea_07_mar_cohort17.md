@@ -78,7 +78,7 @@ The Archangel Gabriel was sent from heaven to announce the conception unto the V
 
 *Verse: His name shall be blessed unto the ages; His name continues before the sun.[^376]*
 
-*The Gospel according to Luke, Pericope 3 [Luke 1:24–38]: In those days, Elisabs conceived...*
+*The Gospel according to Luke, Pericope 3 [Luke 1:24–38]: In those days, Elisabeth conceived...*
 
 *And the rest of the Divine Liturgy of Chrysostom.*
 

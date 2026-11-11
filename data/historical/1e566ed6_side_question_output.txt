@@ -403,7 +403,7 @@ I will search for all copies of `Final_Dolnytsky_part1_structure.md` in the work
 --- MODEL RESPONSE (Step 1942) ---
 I will run the search script to locate all versions of Part 1.
 --- MODEL RESPONSE (Step 1944) ---
-I will update the search script to search inside `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects` and run it to locate all versions of Part 1.
+I will update the search script to search inside `C:\Users\augus\Documents\Google Antigravity\Projects` and run it to locate all versions of Part 1.
 --- MODEL RESPONSE (Step 1946) ---
 I will run the search script across the Projects folder.
 --- MODEL RESPONSE (Step 1948) ---

@@ -1,48 +1,48 @@
 === LEAF p491 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XV Concl., Situation XVI §§ 49–50)
+## Month of March: The Annunciation of the Theotokos (Situation XV Concl., Situation XVI §§ 49–50)
 
 ## Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις ΙΕ΄ Τέλος, Περίπτωσις ΙΣΤ΄ §§ 49–50) [Violakis, p. 476]
 
     Τῷ αὐτῷ Σαββάτῳ ἑσπέρας, ὁ Μ. Ἑσπερινός, καὶ τὸ πρωὶ τῇ Κυριακῇ ὁ Ὄρθρος τῆς ἑορτῆς μετὰ τῆς Λειτουργίας τοῦ Χρυσοστόμου, ψάλλονται ὡς διετάχθησαν ἐν περιπτώσει Η΄ § 27, 28, 29. Ἡ δὲ Ἀκολουθία τῆς Ὁσίας ψάλλεται ἐν τοῖς Ἀποδείπνοις.
     Τὸ ἑσπέρας ἀποδίδοται ἡ ἑορτὴ καὶ ψάλλεται ὁ Ἑσπερινός, ὡς διετάχθη ἐν περιπτώσει Γ΄ § 18.
 
-### ΙΣΤ΄.
+**ΙΣΤ΄.**
 
 49.    Εἰ τύχοι ἡ ἑορτὴ τῇ Παρασκευῇ τῶν Βαΐων, (ἤτοι τῇ Παρασκευῇ πρὶν τοῦ Σαββάτου τοῦ Λαζάρου) τῇ Τετάρτῃ πρωῒ ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα, τὸ Ἰδιόμελον Πλούσιος ἐν πάθεσι δίς, καὶ τὸ Μαρτυρικόν, τὰ γ΄ τῆς σειρᾶς Προσόμοια καὶ δ΄ Προεόρτια. Δόξα, Καὶ νῦν, Εὐαγγελίζεται ὁ Γαβριήλ, Εἴσοδος, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων.
     Τὸ ἑσπέρας τὸ Μέγα Ἀπόδειπνον, τῇ Πέμπτῃ πρωῒ ὁ Ὄρθρος τῆς Παραμονῆς καὶ αἱ Ὧραι ψάλλονται ὡς διετάχθησαν ἐν περιπτώσει Α΄ § 2. Μετὰ τὴν εὐχὴν τῆς ς΄ Ὥρας Ἀπόλυσις.
     Τῇ Πέμπτῃ ἑσπέρας ὁ Μέγας Ἑσπερινός, καὶ τὸ πρωὶ τῆς Παρασκευῆς ὁ Ὄρθρος τῆς ἑορτῆς μετὰ τῆς Λειτουργίας τοῦ Χρυσοστόμου, ψάλλονται ὡς διετάχθησαν ἐν περιπτώσει Α΄ § 3-5.
 
-#### Ἡ Ἀπόδοσις.
+**Ἡ Ἀπόδοσις.**
 
 50.    Τῇ αὐτῇ Παρασκευῇ ἑσπέρας, μετὰ τὸν Προοιμιακόν, εἰς τὸ Κύριε ἐκέκραξα τὰ γ΄ τῆς ἑορτῆς Προσόμοια Βουλὴν προαιώνιον εἰς δ΄, τὸ Ἰδιόμελον Τὴν ψυχωφελῆ πληρώσαντες δίς, καὶ δ΄ Ἰδιόμελα τοῦ Λαζάρου, Δόξα, Τὴν ψυχωφελῆ πληρώσαντες (τὸ μέγα), Καὶ νῦν, Ἀπεστάλη ἐξ Οὐρανοῦ, Εἴσοδος, Φῶς ἱλαρόν, καὶ τὸ Προκείμενον τῆς ἡμέρας. Εἰς τὰ Ἀπόστιχα, τὰ γ΄ Προσόμοια τοῦ μικροῦ Ἑσπερινοῦ Ἄρχων τῶν ἄνω δυνάμεων, Δόξα, Καὶ νῦν, Τῷ ἕκτῳ μηνί, τὸ Ἀπολυτίκιον Σήμερον τῆς Σωτηρίας ἐκ τρίτου, καὶ Ἀπόλυσις. Ὁ Κανὼν τοῦ Λαζάρου ψάλλεται ἐν τοῖς Ἀποδείπνοις, τὸ δὲ πρωῒ ὁ Ὄρθρος καὶ ἡ Λειτουργία τοῦ Λαζάρου ψάλλονται κατὰ τὴν ἐν τῷ Τριῳδίῳ διάταξιν.
 
 === LEAF p492 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XV Concl., Situation XVI §§ 49–50)
+## Month of March: The Annunciation of the Theotokos (Situation XV Concl., Situation XVI §§ 49–50)
 
 ## March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation XV Concl., Situation XVI §§ 49–50) [Violakis, p. 477]
 
     On this Saturday evening, Great Vespers, and on Sunday morning the Matins of the Feast with the Divine Liturgy of Saint John Chrysostom are sung as prescribed in Situation Eight, §§ 27, 28, and 29. The Office of the Venerable Mother Mary of Egypt is chanted at Compline.
     That evening, the Apodosis of the Feast is celebrated, and Vespers is sung as prescribed in Situation Three, § 18.
 
-### SITUATION SIXTEEN
+**SITUATION SIXTEEN**
 
 49.    If the Feast occurs on Friday of the Week of Palms [that is, the Friday before Lazarus Saturday]: on Wednesday morning at Vespers, after the Introductory Psalm [Ps. 103 LXX] and **"Unto the Lord"** (*Πρὸς Κύριον*, Kathisma 18, Pss. 119–133 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*, Ps. 140 LXX), we chant the Idiomelon: **"Rich in passions"** (*Πλούσιος ἐν πάθεσι*) twice, and the Martyrikon once, the 3 Prosomia of the sequence and 4 of the Forefeast; "Glory... Both now and ever...": **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριήλ*). Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Readings of the day [Genesis 43:26–31; 45:1–16; Proverbs 21:23 – 22:4]. Then **"Let my prayer arise"** (*Κατευθυνθήτω*, Ps. 140:2 LXX), and following in order the Divine Liturgy of the Presanctified Gifts.
     In the evening, Great Compline; on Thursday morning, the Matins of the Paramony and the Hours are celebrated as prescribed in Situation One, § 2. After the Prayer of the 6th Hour, Dismissal.
     On Thursday evening, Great Vespers, and on Friday morning the Matins of the Feast with the Divine Liturgy of Saint John Chrysostom are celebrated as prescribed in Situation One, §§ 3–5.
 
-#### The Apodosis
+**The Apodosis**
 
 50.    That Friday evening, after the Introductory Psalm [Ps. 103 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the 3 Prosomia of the Feast: **"Revealing the pre-eternal counsel"** (*Βουλὴν προαιώνιον*) to 4 [repeating the first], the Idiomelon: **"Having completed the soul-saving forty-day fast"** (*Τὴν ψυχωφελῆ πληρώσαντες*) twice, and the 4 Idiomela of Lazarus; "Glory...": **"Having completed the soul-saving forty-day fast"** (*Τὴν ψυχωφελῆ πληρώσαντες*, the great, slow melody); "Both now and ever...": **"He was sent from heaven"** (*Ἀπεστάλη ἐξ Οὐρανοῦ*). Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), and the Prokeimenon of the day [Ps. 123:8 LXX]. At the Aposticha: the 3 Prosomia of Small Vespers: **"Leader of the heavenly powers"** (*Ἄρχων τῶν ἄνω δυνάμεων*); "Glory... Both now and ever...": **"In the sixth month"** (*Τῷ ἕκτῳ μηνί*); the Dismissal Troparion: **"Today is the fountainhead of our salvation"** (*Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον*) three times, and Dismissal. The Canon of Lazarus is sung at Compline; in the morning, the Matins and Divine Liturgy of Lazarus are celebrated according to the order of the Triodion.[^305]
 
 === LEAF p493 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVII Opening §§ 51–53)
+## Month of March: The Annunciation of the Theotokos (Situation XVII Opening §§ 51–53)
 
 ## Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις ΙΖ΄ Ἀρχὴ §§ 51–53) [Violakis, p. 478]
 
-### ΙΖ΄.
+**ΙΖ΄.**
 
 51.    Εἰ τύχοι ἡ ἑορτὴ τῷ Σαββάτῳ τοῦ Λαζάρου, τῇ Πέμπτῃ πρωῒ ἐν τῷ Ἑσπερινῷ, εἰς τὸ Κύριε ἐκέκραξα τὰ γ΄ τοῦ Τριῳδίου τῆς σειρᾶς Προσόμοια, καὶ γ΄ Προεόρτια Κεκρυμμένον μυστήριον, Δόξα, Καὶ νῦν, Εὐαγγελίζεται ὁ Γαβριήλ, Φῶς ἱλαρὸν καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας. Εἰς τὰ Ἀπόστιχα, τὸ Ἰδιόμελον δίς, καὶ τὸ Μαρτυρικὸν ἅπαξ, Δόξα, Καὶ νῦν, τὸ τοῦ Τριῳδίου Σταυροθεοτοκίον, τὸ Τρισάγιον, τὸ Θεοτόκε Παρθένε κτλ. καὶ Ἀπόλυσις.
     Τὸ ἑσπέρας ψάλλεται ὁ Κανὼν τοῦ Λαζάρου, μετὰ μικροῦ Ἀποδείπνου· μετὰ τὸν Εἱρμὸν τῆς Θ΄ τὸ Τρισάγιον, τὸ Κοντάκιον Ἐπελεύσει Πνεύματος, Κύριε ἐλέησον μ΄ Ὁ ἐν παντὶ καιρῷ, τὸ Ἄσπιλε ἀμόλυντε κτλ. καὶ Ἀπόλυσις.
@@ -55,11 +55,11 @@
 
 === LEAF p494 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVII Opening §§ 51–53)
+## Month of March: The Annunciation of the Theotokos (Situation XVII Opening §§ 51–53)
 
 ## March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation XVII Opening §§ 51–53) [Violakis, p. 479]
 
-### SITUATION SEVENTEEN
+**SITUATION SEVENTEEN**
 
 51.    If the Feast occurs on the Saturday of Lazarus: on Thursday morning at Vespers, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the 3 Prosomia of the Triodion of the sequence, and 3 of the Forefeast: **"A hidden mystery"** (*Κεκρυμμένον μυστήριον*); "Glory... Both now and ever...": **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριήλ*). **"O Gladsome Light"** (*Φῶς ἱλαρόν*) and the Readings of the day [Genesis 46:1–7; Proverbs 23:15 – 24:5]. At the Aposticha: the Idiomelon twice and the Martyrikon once; "Glory... Both now and ever...": the Stavrotheotokion of the Triodion, the Trisagion Prayers, **"O Theotokos and Virgin"** (*Θεοτόκε Παρθένε*) etc., and Dismissal.
     In the evening, the Canon of Lazarus is sung with Small Compline; after the 9th Heirmos, the Trisagion Prayers, the Kontakion: **"Upon the descent of the All-Holy Spirit"** (*Ἐπελεύσει Πνεύματος τοῦ Παναγίου*), **"Lord, have mercy"** (40 times), **"Thou Who at all times"** (*Ὁ ἐν παντὶ καιρῷ*), **"O Spotless, Undefiled"** (*Ἄσπιλε, ἀμόλυντε*) etc., and Dismissal.
@@ -72,7 +72,7 @@
 
 === LEAF p495 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVII Concl. §§ 53–54, Situation XVIII Opening § 55)
+## Month of March: The Annunciation of the Theotokos (Situation XVII Concl. §§ 53–54, Situation XVIII Opening § 55)
 
 ## Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις ΙΖ΄ Τέλος §§ 53–54, Περίπτωσις ΙΗ΄ Ἀρχὴ § 55) [Violakis, p. 480]
 
@@ -81,13 +81,13 @@
 
     Τὸ ἑσπέρας, ἐν τῇ Θ΄ Ὥρᾳ λέγομεν Ἀπολυτίκιον καὶ Κοντάκιον τῆς ἑορτῆς, καὶ οὕτως ἀποδίδοται ἡ ἑορτὴ ἐν τῇ περιπτώσει ταύτῃ, κατὰ τὴν γνώμην τῶν ἀοιδίμων Πατριαρχῶν Κωνσταντίνου τοῦ ἀπὸ Σιναίου, καὶ Γρηγορίου τοῦ ς΄.
 
-### ΙΗ΄.
+**ΙΗ΄.**
 
 55.    Εἰ τύχοι ἡ ἑορτὴ τῇ Κυριακῇ τῶν Βαΐων, τῇ Παρασκευῇ, ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα, τὸ Ἰδιόμελον Τὴν ψυχωφελῆ πληρώσαντες δίς, καὶ τὸ Μαρτυρικὸν ἅπαξ, τοῦ Λαζάρου Ἰδιόμελα δ΄ καὶ γ΄ Προεόρτια. Δόξα, Τὴν ψυχωφελῆ πληρώσαντες (τὸ μέγα), Καὶ νῦν,
 
 === LEAF p496 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVII Concl. §§ 53–54, Situation XVIII Opening § 55)
+## Month of March: The Annunciation of the Theotokos (Situation XVII Concl. §§ 53–54, Situation XVIII Opening § 55)
 
 ## March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation XVII Concl. §§ 53–54, Situation XVIII Opening § 55) [Violakis, p. 481]
 
@@ -95,13 +95,13 @@
 54.    At the Divine Liturgy, the Antiphons of the Feast; at the Second Antiphon: **"Who was incarnate for our sake"** (*Ὁ δι᾿ ἡμᾶς σαρκωθείς*); the Eisodikon: **"Proclaim from day to day the salvation of our God... Save us, O Son of God, Who art risen from the dead"** (*Εὐαγγελίζεσθε ἡμέραν ἐξ ἡμέρας . . . Σῶσον ἡμᾶς . . . ὁ ἀναστὰς ἐκ νεκρῶν*); the Dismissal Troparion of the Feast, that of Lazarus: **"Confirming the universal resurrection before Thy Passion"** (*Τὴν κοινὴν Ἀνάστασιν*), and the Kontakion: **"To thee, the Champion Leader"** (*Τῇ ὑπερμάχῳ*); instead of the Trisagion Hymn: **"As many as have been baptized into Christ"** (*Ὅσοι εἰς Χριστὸν ἐβαπτίσθητε*, Galatians 3:27); the Epistle of the Feast [Hebrews 2:11–18]; the Gospel of Lazarus [John 11:1–45]; at "Especially": **"O earth, announce good tidings of great joy"** (*Εὐαγγελίζου, γῆ, χαρὰν μεγάλην*); Communion Hymn: **"The Lord hath chosen Zion"** (*Ἐξελέξατο Κύριος τὴν Σιών*, Ps. 131:13 LXX); Dismissal Troparion: **"Confirming the universal resurrection"**, and Dismissal.
     In the evening at the 9th Hour, we recite the Dismissal Troparion and Kontakion of the Feast, and in this manner the Apodosis of the Feast takes place in this Situation, according to the opinion of the revered Patriarchs Constantine the Sinite and Gregory VI, of blessed memory.
 
-### SITUATION EIGHTEEN
+**SITUATION EIGHTEEN**
 
 55.    If the Feast occurs on Palm Sunday: on Friday, at Vespers after the Introductory Psalm [Ps. 103 LXX] and **"Unto the Lord"** (*Πρὸς Κύριον*, Kathisma 18, Pss. 119–133 LXX), at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant the Idiomelon: **"Having completed the soul-saving forty-day fast"** (*Τὴν ψυχωφελῆ πληρώσαντες*) twice and the Martyrikon once, the 4 Idiomela of Lazarus and 3 of the Forefeast; "Glory...": **"Having completed the soul-saving forty-day fast"** (*Τὴν ψυχωφελῆ πληρώσαντες*, the great, slow melody);[^307]
 
 === LEAF p497 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVIII Cont. §§ 55–58)
+## Month of March: The Annunciation of the Theotokos (Situation XVIII Cont. §§ 55–58)
 
 ## Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις ΙΗ΄ Συνέχεια §§ 55–58) [Violakis, p. 482]
 
@@ -113,7 +113,7 @@
 
 === LEAF p498 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVIII Cont. §§ 55–58)
+## Month of March: The Annunciation of the Theotokos (Situation XVIII Cont. §§ 55–58)
 
 ## March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation XVIII Cont. §§ 55–58) [Violakis, p. 483]
 
@@ -125,7 +125,7 @@
 
 === LEAF p499 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVIII Concl. §§ 58–59)
+## Month of March: The Annunciation of the Theotokos (Situation XVIII Concl. §§ 58–59)
 
 ## Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Περίπτωσις ΙΗ΄ Τέλος §§ 58–59) [Violakis, p. 484]
 
@@ -135,9 +135,9 @@
 
 === LEAF p500 ===
 
-# Month of March: The Annunciation of the Theotokos (Situation XVIII Concl. §§ 58–59)
+## Month of March: The Annunciation of the Theotokos (Situation XVIII Concl. §§ 58–59)
 
 ## March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation XVIII Concl. §§ 58–59) [Violakis, p. 485]
 
     [repeating the first] and 4 Idiomela of Palm Sunday; "Glory... Both now and ever...": **"He was sent from heaven"** (*Ἀπεστάλη ἐξ Οὐρανοῦ*). Little Entrance, **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon: **"The Lord is King"** (*Ὁ Κύριος ἐβασίλευσεν*, Ps. 92:1 LXX). The Old Testament Readings: the first of the Feast [Genesis 28:10–17] and the two of Palm Sunday [Zephaniah 3:14–19; Zechariah 9:9–15]. At the Aposticha: the 3 Idiomela of the Feast: **"In the sixth month"** (*Τῷ ἕκτῳ μηνί*), etc.; "Glory...": **"Today the grace of the Holy Spirit"** (*Σήμερον ἡ χάρις τοῦ Ἁγίου Πνεύματος*); "Both now and ever...": **"Today are the glad tidings of joy"** (*Σήμερον χαρᾶς εὐαγγέλια*); the Dismissal Troparion of the Feast: **"Today is the fountainhead of our salvation"** (*Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον*), that of Palm Sunday: **"Confirming the universal resurrection before Thy Passion"** (*Τὴν κοινὴν Ἀνάστασιν*), again that of the Feast, and the Dismissal of Palm Sunday.
-59.    On Sunday at Matins, after **"Blessed is our God"**, the Trisagion Prayers, Psalm 50 [LXX], the Litiya of the Feast and that of Palm Sunday is chanted; "Glory... Both now and ever...": **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριήλ*); the Trisagion Prayers, the Dismissal Troparion: **"Today is the fountainhead of our salvation"** (*Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον*), and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as at Vespers, the Psalter reading and the Polyeleos of the Feast. At the 1st Stichologia, 2 Kathismata of Palm Sunday; "Both now and ever...": of the Feast: **"The great commander"** (*Ὁ μέγας στρατηγός*). At the 2nd Stichologia, again 2 Kathismata of Palm Sunday; "Both now and ever...": **"Today all creation rejoices"** (*Σήμερον ἅπασα*). At the 3rd Stichologia, the 1st Kathisma of the Feast: **"Gabriel came down from heaven"** (*Γαβριὴλ ἐξ οὐρανοῦ*); then of Palm Sunday: **"He Who sitteth upon the throne of the Cherubim"** (*Ὁ ἐπὶ θρόνου Χερουβίμ*); "Both now and ever...": **"Gabriel was sent"** (*Ἀπεστάλη Γαβριήλ*). The Anavathmoi: the First Antiphon of Tone 4; the Prokeimenon of the Feast; **"Let everything that hath breath praise the Lord"** (*Πᾶσα πνοή*, Ps. 150:6 LXX); the Gospel of the Divine Liturgy of the Feast [Luke 1:24–38]; Psalm 50 [LXX] plainly; "Glory...": **"Through the intercessions of the Theotokos"** (*Ταῖς τῆς Θεοτόκου πρεσβείαις*); "Both now and ever...": repeat the same; the Verse: **"Have mercy upon me, O God"** (*Ἐλέησόν με, ὁ Θεός*, Ps. 50:1 LXX); the Idiomelon: **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριήλ*). The Canon of the Feast to 6, and that of Palm Sunday to 4 without verses. After the 3rd Ode, the Hypakoe: **"Having first praised Thee with branches"** (*Μετὰ κλάδων ὑμνήσαντες πρότερον*); after the 6th Ode, the Kontakion and Ikos of the Feast, the Menologion of the Feast, and the Synaxarion of Palm Sunday. The Katavasiai: **"The springs of the deep were seen"** (*Ὤφθησαν αἱ πηγαί*); then the 9th Ode of both Feasts is chanted, that of the Annunciation taking precedence, with the Magnification and Heirmos: **"O earth, announce good tidings of great joy... As a living ark of God"** (*Εὐαγγελίζου, γῆ, χαρὰν μεγάλην . . . Ὡς ἐμψύχῳ Θεοῦ κιβωτῷ*); and that of Palm Sunday: **"The Lord is God"** (*Θεὸς Κύριος*) without verses; the same hymn (*Θεὸς Κύριος*) is also chanted as the Katavasia of the 9th Ode. Then **"Holy is the Lord our God"** (*Ἅγιος Κύριος ὁ Θεός*) twice (this single versicle only), and the two Exapostilaria of the Feast. After these, the Bishop or Priest reads the Prayer of the Blessing of Palms. At the Praises: 3 Prosomia of the Feast and 3 Idiomela of Palm Sunday: **"A very great multitude, O Lord"** (*Ὁ πλεῖστος ὄχλος, Κύριε*); "Glory...": **"Six days before the Passover"** (*Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα*); "Both now and ever...": **"The mystery hidden from all eternity"** (*Τὸ ἀπ᾿ αἰῶνος μυστήριον*); Great Doxology, and the Dismissal Troparion: **"Today is the fountainhead of our salvation"** (*Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον*).[^309]
+59.    On Sunday at Matins, after **"Blessed is our God"**, the Trisagion Prayers, Psalm 50 [LXX], the Litiya of the Feast and that of Palm Sunday is chanted; "Glory... Both now and ever...": **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριήλ*); the Trisagion Prayers, the Dismissal Troparion: **"Today is the fountainhead of our salvation"** (*Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον*), and the Hexapsalmos. At **"God is the Lord"** (*Θεὸς Κύριος*): the Dismissal Troparia as at Vespers, the Psalter reading and the Polyeleos of the Feast. At the 1st Stichologia, 2 Kathismata of Palm Sunday; "Both now and ever...": of the Feast: **"The great commander"** (*Ὁ μέγας στρατηγός*). At the 2nd Stichologia, again 2 Kathismata of Palm Sunday; "Both now and ever...": **"Today all creation rejoices"** (*Σήμερον ἅπασα*). At the 3rd Stichologia, the 1st Kathisma of the Feast: **"Gabriel came down from heaven"** (*Γαβριὴλ ἐξ οὐρανοῦ*); then of Palm Sunday: **"He Who sits upon the throne of the Cherubim"** (*Ὁ ἐπὶ θρόνου Χερουβίμ*); "Both now and ever...": **"Gabriel was sent"** (*Ἀπεστάλη Γαβριήλ*). The Anavathmoi: the First Antiphon of Tone 4; the Prokeimenon of the Feast; **"Let everything that hath breath praise the Lord"** (*Πᾶσα πνοή*, Ps. 150:6 LXX); the Gospel of the Divine Liturgy of the Feast [Luke 1:24–38]; Psalm 50 [LXX] plainly; "Glory...": **"Through the intercessions of the Theotokos"** (*Ταῖς τῆς Θεοτόκου πρεσβείαις*); "Both now and ever...": repeat the same; the Verse: **"Have mercy upon me, O God"** (*Ἐλέησόν με, ὁ Θεός*, Ps. 50:1 LXX); the Idiomelon: **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριήλ*). The Canon of the Feast to 6, and that of Palm Sunday to 4 without verses. After the 3rd Ode, the Hypakoe: **"Having first praised Thee with branches"** (*Μετὰ κλάδων ὑμνήσαντες πρότερον*); after the 6th Ode, the Kontakion and Ikos of the Feast, the Menologion of the Feast, and the Synaxarion of Palm Sunday. The Katavasiai: **"The springs of the deep were seen"** (*Ὤφθησαν αἱ πηγαί*); then the 9th Ode of both Feasts is chanted, that of the Annunciation taking precedence, with the Magnification and Heirmos: **"O earth, announce good tidings of great joy... As a living ark of God"** (*Εὐαγγελίζου, γῆ, χαρὰν μεγάλην . . . Ὡς ἐμψύχῳ Θεοῦ κιβωτῷ*); and that of Palm Sunday: **"The Lord is God"** (*Θεὸς Κύριος*) without verses; the same hymn (*Θεὸς Κύριος*) is also chanted as the Katavasia of the 9th Ode. Then **"Holy is the Lord our God"** (*Ἅγιος Κύριος ὁ Θεός*) twice (this single versicle only), and the two Exapostilaria of the Feast. After these, the Bishop or Priest reads the Prayer of the Blessing of Palms. At the Praises: 3 Prosomia of the Feast and 3 Idiomela of Palm Sunday: **"A very great multitude, O Lord"** (*Ὁ πλεῖστος ὄχλος, Κύριε*); "Glory...": **"Six days before the Passover"** (*Πρὸ ἓξ ἡμερῶν τοῦ Πάσχα*); "Both now and ever...": **"The mystery hidden from all eternity"** (*Τὸ ἀπ᾿ αἰῶνος μυστήριον*); Great Doxology, and the Dismissal Troparion: **"Today is the fountainhead of our salvation"** (*Σήμερον τῆς σωτηρίας ἡμῶν τὸ κεφάλαιον*).[^309]

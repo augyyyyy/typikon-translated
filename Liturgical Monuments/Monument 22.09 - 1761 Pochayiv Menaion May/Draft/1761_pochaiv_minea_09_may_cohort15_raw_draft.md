@@ -1,10 +1,10 @@
 === LEAF p141 === (Fol. 71r)
 ...save thee, all-immaculate one; for thou alone hast been a spacious dwelling-place of the God of all.
 
-*Kontakion, Tone 4, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*[^282]
+*Kontakion, Tone 4, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*[^282]
 Let us praise the all-radiant star, who enlightened the nations with the light of the knowledge of God, Christ’s Apostle Andronicus, and with him all-wise Junia, who labored in the Gospel, crying: Pray unceasingly to Christ God for us all.
 
-*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Skoro predvari):*
+*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Having become luminous, divine Andronicus enlightened hearts with the light of the knowledge of God to come unto the Lord; therefore even after his demise he pours forth healings unto those who draw near with faith to his honorable temple, and he entreats great mercy for all the faithful.
 
 *Glory..., Now and ever... Of the feast, or Theotokion:*
@@ -117,7 +117,7 @@ Entreat enlightenment for us, O thou who gavest birth to the Light, and remissio
 === LEAF p144 === (Fol. 72v)
 ## May 18. Holy Martyr Theodotus of Ancyra; and Holy Martyrs Peter, Dionysius, and Those with Them; and the Seven Holy Virgins
 
-*Stichera, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Nebesnykh chinov):*
+*Stichera, Tone 1, Podoben: "Joy of the Heavenly Ranks" (Небє́сныхъ чинѡ́въ):*
 
 *Sticheron:*
 Adorned with peaceable disposition, O most blessed Theodotus, thou wast piously chosen to serve all; and illumined with the martyr's crown, thou exultest in the heavens with those who suffered with thee; with them pray thou that we may be saved.
@@ -128,7 +128,7 @@ Having offered thyself unto the Lord as a sacred vessel and obeyed His words, O 
 *Sticheron:*
 Lo, a river of salvation, lo, a living fountain, the shrine of the holy virgins is revealed; therefore come ye eagerly, let us who are sick draw healing now, and joy for those who are in sorrow, through the prayers of the holy brides of Christ.
 
-*Other Stichera, Tone 4, Podoben: "Thou Hast Given a Sign" (Dal yesi znameniye):*
+*Other Stichera, Tone 4, Podoben: "Thou Hast Given a Sign" (Да́лъ є҆сѝ зна́менїе):*
 
 *Sticheron:*
 Illumined by the radiance of the thrice-radiant Godhead, ye passed through the darkness of torments and were revealed as luminous stars, the divine establishment of the Church, ever guiding in light, O holy martyrs;[^286] therefore we celebrate your radiant solemnity, venerating your relics and the dust of your bodies.
@@ -213,10 +213,10 @@ Offering hymnody unto God, O passion-bearers, ye endured every onset of torments
 *Theotokion:*
 Thou alone hast wrought wonder in giving birth; thou alone wast truly known as the minister of the great mystery, having given birth unto God, O Theotokos, Mother Virgin.
 
-*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Skoro predvari):*
+*Sessional Hymn, Tone 4, Podoben: "Speedily Anticipate" (Ско́рѡ предварѝ):*
 Anointed with the Divine Spirit, thou wast a servant unto all, O glorious one; and having suffered steadfastly, thou wast greatly glorified. Therefore having come together we honor thee, O Theodotus, keeping thy holy memory with faith, in which by thy prayers save all.
 
-*Glory..., Tone 4, the same Podoben:*
+*Glory..., Tone 4, the same Podoben (Подо́бенъ то́йже):*
 Adorned with martyr’s blood, ye stand before the Lord, the King of all, O noble-victorious martyrs;[^289] therefore with gladness we celebrate your honorable memory today, asking to receive through you remission of debts and great mercy.
 
 *Now and ever... Of the feast, or Theotokion:*
@@ -323,7 +323,7 @@ Unto Him Who showed forth the all-wise passion-bearers shining like stars upon t
 *Theotokion:*
 As a fertile field, O Theotokos, thou hast sprouted the living Ear of corn Who nourishes the faithful with life, and truly turns away pernicious famine from the earth.
 
-*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Vyshnikh ishcha):*
+*Kontakion, Tone 2, Podoben: "Seeking the Highest" (Вы́шнихъ и҆щѧ̀):*
 Having contested well as a martyr with thy fellow sufferers, O Theodotus, ye received crowns of honor together with the venerable virgin passion-bearers; therefore unceasingly pray Christ God for us all.
 
 *Ode 7. Heirmos:*

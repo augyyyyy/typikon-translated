@@ -18,92 +18,9 @@ In the year from the Nativity of Christ: 1716.
 
 *Troparion:* In giving birth thou didst preserve virginity, and in thy dormition thou didst not forsake the world, O Theotokos; thou hast passed over unto life, being the Mother of Life, and by thy supplications thou deliverest our souls from death.
 
----
-
-## TABLE OF CONTENTS
-
-* **[1716 Kyiv-Pechersk Lavra Theotokarion / Eight-Tone Marian Canons (Богородичник / Канони Богородиці Осмогласні, Київ: Друкарня Лаври, 1716)](#1716-kyiv-pechersk-lavra-theotokarion-eight-tone-marian-canons)**
-* **[PREFACE](#preface)**
-* **[TONE 1](#tone-1)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 1)](#on-saturday-at-small-compline-tone-1)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 1)](#on-sunday-at-small-compline-tone-1)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 1)](#on-monday-at-small-compline-tone-1)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 1)](#on-tuesday-at-small-compline-tone-1)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 1)](#on-wednesday-at-small-compline-tone-1)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 1)](#on-thursday-at-small-compline-tone-1)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 1)](#on-friday-at-small-compline-tone-1)
-* **[TONE 2](#tone-2)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 2)](#on-saturday-at-small-compline-tone-2)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 2)](#on-sunday-at-small-compline-tone-2)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 2)](#on-monday-at-small-compline-tone-2)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 2)](#on-tuesday-at-small-compline-tone-2)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 2)](#on-wednesday-at-small-compline-tone-2)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 2)](#on-thursday-at-small-compline-tone-2)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 2)](#on-friday-at-small-compline-tone-2)
-* **[TONE 3](#tone-3)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 3)](#on-saturday-at-small-compline-tone-3)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 3)](#on-sunday-at-small-compline-tone-3)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 3)](#on-monday-at-small-compline-tone-3)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 3)](#on-tuesday-at-small-compline-tone-3)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 3)](#on-wednesday-at-small-compline-tone-3)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 3)](#on-thursday-at-small-compline-tone-3)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 3)](#on-friday-at-small-compline-tone-3)
-* **[TONE 4](#tone-4)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 4)](#on-saturday-at-small-compline-tone-4)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 4)](#on-sunday-at-small-compline-tone-4)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 4)](#on-monday-at-small-compline-tone-4)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 4)](#on-tuesday-at-small-compline-tone-4)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 4)](#on-wednesday-at-small-compline-tone-4)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 4)](#on-thursday-at-small-compline-tone-4)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 4)](#on-friday-at-small-compline-tone-4)
-* **[TONE 5](#tone-5)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 5)](#on-saturday-at-small-compline-tone-5)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 5)](#on-sunday-at-small-compline-tone-5)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 5)](#on-monday-at-small-compline-tone-5)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 5)](#on-tuesday-at-small-compline-tone-5)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 5)](#on-wednesday-at-small-compline-tone-5)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 5)](#on-thursday-at-small-compline-tone-5)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 5)](#on-friday-at-small-compline-tone-5)
-* **[TONE 6](#tone-6)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 6)](#on-saturday-at-small-compline-tone-6)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 6)](#on-sunday-at-small-compline-tone-6)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 6)](#on-monday-at-small-compline-tone-6)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 6)](#on-tuesday-at-small-compline-tone-6)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 6)](#on-wednesday-at-small-compline-tone-6)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 6)](#on-thursday-at-small-compline-tone-6)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 6)](#on-friday-at-small-compline-tone-6)
-* **[TONE 7](#tone-7)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 7)](#on-saturday-at-small-compline-tone-7)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 7)](#on-sunday-at-small-compline-tone-7)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 7)](#on-monday-at-small-compline-tone-7)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 7)](#on-tuesday-at-small-compline-tone-7)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 7)](#on-wednesday-at-small-compline-tone-7)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 7)](#on-thursday-at-small-compline-tone-7)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 7)](#on-friday-at-small-compline-tone-7)
-* **[TONE 8](#tone-8)**
-  * [ON SATURDAY AT SMALL COMPLINE (TONE 8)](#on-saturday-at-small-compline-tone-8)
-  * [ON SUNDAY AT SMALL COMPLINE (TONE 8)](#on-sunday-at-small-compline-tone-8)
-  * [ON MONDAY AT SMALL COMPLINE (TONE 8)](#on-monday-at-small-compline-tone-8)
-  * [ON TUESDAY AT SMALL COMPLINE (TONE 8)](#on-tuesday-at-small-compline-tone-8)
-  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 8)](#on-wednesday-at-small-compline-tone-8)
-  * [ON THURSDAY AT SMALL COMPLINE (TONE 8)](#on-thursday-at-small-compline-tone-8)
-  * [ON FRIDAY AT SMALL COMPLINE (TONE 8)](#on-friday-at-small-compline-tone-8)
-* **[WEEKDAY OCTOECHOS](#weekday-octoechos)**
-  * [ON SUNDAY AT SMALL COMPLINE](#on-sunday-at-small-compline)
-  * [ON MONDAY AT SMALL COMPLINE](#on-monday-at-small-compline)
-  * [ON TUESDAY AT SMALL COMPLINE](#on-tuesday-at-small-compline)
-  * [ON WEDNESDAY AT SMALL COMPLINE](#on-wednesday-at-small-compline)
-  * [ON THURSDAY AT SMALL COMPLINE](#on-thursday-at-small-compline)
-  * [ON FRIDAY AT SMALL COMPLINE](#on-friday-at-small-compline)
-  * [ON SATURDAY AT SMALL COMPLINE](#on-saturday-at-small-compline)
-  * [PRAYERS FOR THOSE GOING TO SLEEP](#prayers-for-those-going-to-sleep)
-* **[ASCETIC HOMILIES AND COLOPHON](#ascetic-homilies-and-colophon)**
-
----
-
-# PREFACE
-
 [p2RA] [Woodcut headpiece with foliate acanthus scrolls.]
+
+## PREFACE
 
 "Let us magnify the Mother of God with songs," proclaims the Holy Church unto the people gathered together into the divine temple, who desire every day to magnify the Mother of God, who is blessed by all generations. Yet being unable worthily to praise the true Mother of God, as is truly meet, she blesses her with these her very own songs of praise, saying: "My soul doth magnify the Lord, and my spirit hath rejoiced in God my Savior." In no wise can the rules of ordinary rhetoric encompass her who surpassed all natural laws: "The ordinances of nature are overcome in thee, O pure Virgin." What word can eloquently utter, or what created mind can comprehend, that which is beyond the mind: "Thy childbearing is full of marvels, O All-Pure Bride, Blessed Mother!" What tongue can dare to speak concerning the Mother of God, when even supercelestial luminaries behold her in amazement, being as it were speechless fish? What hand of a scribe can depict with artistic strokes that which is not of nature, but the work of God's good pleasure? Truly all the mysteries of the Theotokos are beyond the mind, all are most glorious. Holy Elizabeth prophesied somewhat in praise, yet being filled with the Holy Spirit she said: "Blessed art thou among women, and blessed is the fruit of thy womb." Another woman also from the crowd cried aloud, saying: "Blessed is the womb that bore Thee, and the breasts which Thou didst suck." Yet she was enlightened by the divine words of Christ preaching the Gospel. The divine prophets also foretold beforehand many feast-day things [p3LA] with types did the divine prophets foretell, not by their own exposition, nor by their own will, but the holy men of God spoke from the Holy Spirit. Yet this small portion of praise, even though introduced from divine revelations, what is it compared to the perfect praise of the Mother of God? It is a drop of water of the same nature as the sea, but small compared to the multitude of the rivers of the sea. It is a star having one radiance with the sun, yet incomparable to the majesty of the sun's brilliance. In order perfectly to magnify the Mother of God, whose majesty the Mighty One hath wrought, scarcely can one find from her very lips anything more acceptable in praise besides her own words, to think upon the dignity of which is the work of the heavenly mind itself. Yet according to the fittingness of love to praise her, even if it is awe-inspiring, nevertheless it is an acceptable deed, as the Church chants: "It were fitting for us through fear to choose silence as being without peril; yet out of love, O Virgin, to weave hymns is a precious work." Great is the work of love, through which are all things, and without which is nothing. To speak with human and angelic tongues is exceedingly glorious, but without love it is a sounding cymbal; to prophesy things to come, to understand secret things, to work miracles—these are something divine, yet without love the worker thereof is as nothing. Love is patient and kind; love does not envy, does not boast, is not proud, does not behave rudely, does not seek its own, is not provoked, loves all things, believes all things, hopes all things. Bearing witness in these manners, unto whom can love fail to be pleasing? Whom does it not properly praise? Magnificent is that which is done by illuminating reason, yet only in part, for we know in part; but in love, what is imperfect? Love is the fulfilling of the Law. Knowledge puffs up, but love builds up. Prophecies shall fail, tongues shall cease, knowledge shall pass away, but love never falls away. Following this most excellent way of love shown forth by the Apostle [p3RA] the God-loving man Saint John of Damascus, having found it, went beyond the words of praise of many saints, and especially of the Mother of God; which canons in the eight tones, usually chanted at Compline, now printed in types, the Holy Church sends forth into the world, if not with voice yet in deed crying out to all the Orthodox, saying: "Let us magnify the Mother of God with songs." For the majesty of her divine childbearing, which magnified our race, blessing the Mother of God, let us chant these supplicatory hymns to her who is our continual intercessor with God. We pray to the Mother of Light, we who after daily labors desire to rest in nocturnal sleep, that she may preserve us from the dark sleep of sin, and from every defiling carnal passion; we prayerfully greet the Star of Jacob, who reveals herself not far from us, but carries upon her hands the Sun of Righteousness, Christ the Lord. That falling asleep in natural sleep, we may not sleep the sleep of death, but in her light we may see again the light of day. And if anyone should walk in the midst of the shadow of death, he shall not fear evil, when he has this Blessed One among women, clothed with the Sun, as his companion. For as here with this Mother he was a son of faith and grace, so also in heaven with her may he be counted worthy to be a son of the day and of light. Which, by the goodness of Christ the true Light, through the intercession of the Virgin Mother of God, and of all the saints who have shone forth in a God-pleasing life, may it be granted unto all of us to obtain.
 
@@ -296,6 +213,87 @@ Hasten unto Him, all ye mortals!
 For the All-Good calls all: "Come,
 
 I am the summit of desire; love Me!"
+
+---
+
+## TABLE OF CONTENTS
+
+* **[1716 Kyiv-Pechersk Lavra Theotokarion / Eight-Tone Marian Canons (Богородичник / Канони Богородиці Осмогласні, Київ: Друкарня Лаври, 1716)](#1716-kyiv-pechersk-lavra-theotokarion-eight-tone-marian-canons)**
+  * [PREFACE](#preface)
+* **[TONE 1](#tone-1)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 1)](#on-saturday-at-small-compline-tone-1)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 1)](#on-sunday-at-small-compline-tone-1)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 1)](#on-monday-at-small-compline-tone-1)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 1)](#on-tuesday-at-small-compline-tone-1)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 1)](#on-wednesday-at-small-compline-tone-1)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 1)](#on-thursday-at-small-compline-tone-1)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 1)](#on-friday-at-small-compline-tone-1)
+* **[TONE 2](#tone-2)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 2)](#on-saturday-at-small-compline-tone-2)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 2)](#on-sunday-at-small-compline-tone-2)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 2)](#on-monday-at-small-compline-tone-2)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 2)](#on-tuesday-at-small-compline-tone-2)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 2)](#on-wednesday-at-small-compline-tone-2)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 2)](#on-thursday-at-small-compline-tone-2)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 2)](#on-friday-at-small-compline-tone-2)
+* **[TONE 3](#tone-3)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 3)](#on-saturday-at-small-compline-tone-3)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 3)](#on-sunday-at-small-compline-tone-3)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 3)](#on-monday-at-small-compline-tone-3)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 3)](#on-tuesday-at-small-compline-tone-3)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 3)](#on-wednesday-at-small-compline-tone-3)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 3)](#on-thursday-at-small-compline-tone-3)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 3)](#on-friday-at-small-compline-tone-3)
+* **[TONE 4](#tone-4)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 4)](#on-saturday-at-small-compline-tone-4)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 4)](#on-sunday-at-small-compline-tone-4)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 4)](#on-monday-at-small-compline-tone-4)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 4)](#on-tuesday-at-small-compline-tone-4)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 4)](#on-wednesday-at-small-compline-tone-4)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 4)](#on-thursday-at-small-compline-tone-4)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 4)](#on-friday-at-small-compline-tone-4)
+* **[TONE 5](#tone-5)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 5)](#on-saturday-at-small-compline-tone-5)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 5)](#on-sunday-at-small-compline-tone-5)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 5)](#on-monday-at-small-compline-tone-5)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 5)](#on-tuesday-at-small-compline-tone-5)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 5)](#on-wednesday-at-small-compline-tone-5)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 5)](#on-thursday-at-small-compline-tone-5)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 5)](#on-friday-at-small-compline-tone-5)
+* **[TONE 6](#tone-6)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 6)](#on-saturday-at-small-compline-tone-6)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 6)](#on-sunday-at-small-compline-tone-6)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 6)](#on-monday-at-small-compline-tone-6)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 6)](#on-tuesday-at-small-compline-tone-6)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 6)](#on-wednesday-at-small-compline-tone-6)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 6)](#on-thursday-at-small-compline-tone-6)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 6)](#on-friday-at-small-compline-tone-6)
+* **[TONE 7](#tone-7)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 7)](#on-saturday-at-small-compline-tone-7)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 7)](#on-sunday-at-small-compline-tone-7)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 7)](#on-monday-at-small-compline-tone-7)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 7)](#on-tuesday-at-small-compline-tone-7)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 7)](#on-wednesday-at-small-compline-tone-7)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 7)](#on-thursday-at-small-compline-tone-7)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 7)](#on-friday-at-small-compline-tone-7)
+* **[TONE 8](#tone-8)**
+  * [ON SATURDAY AT SMALL COMPLINE (TONE 8)](#on-saturday-at-small-compline-tone-8)
+  * [ON SUNDAY AT SMALL COMPLINE (TONE 8)](#on-sunday-at-small-compline-tone-8)
+  * [ON MONDAY AT SMALL COMPLINE (TONE 8)](#on-monday-at-small-compline-tone-8)
+  * [ON TUESDAY AT SMALL COMPLINE (TONE 8)](#on-tuesday-at-small-compline-tone-8)
+  * [ON WEDNESDAY AT SMALL COMPLINE (TONE 8)](#on-wednesday-at-small-compline-tone-8)
+  * [ON THURSDAY AT SMALL COMPLINE (TONE 8)](#on-thursday-at-small-compline-tone-8)
+  * [ON FRIDAY AT SMALL COMPLINE (TONE 8)](#on-friday-at-small-compline-tone-8)
+* **[WEEKDAY OCTOECHOS](#weekday-octoechos)**
+  * [ON SUNDAY AT SMALL COMPLINE](#on-sunday-at-small-compline)
+  * [ON MONDAY AT SMALL COMPLINE](#on-monday-at-small-compline)
+  * [ON TUESDAY AT SMALL COMPLINE](#on-tuesday-at-small-compline)
+  * [ON WEDNESDAY AT SMALL COMPLINE](#on-wednesday-at-small-compline)
+  * [ON THURSDAY AT SMALL COMPLINE](#on-thursday-at-small-compline)
+  * [ON FRIDAY AT SMALL COMPLINE](#on-friday-at-small-compline)
+  * [ON SATURDAY AT SMALL COMPLINE](#on-saturday-at-small-compline)
+  * [PRAYERS FOR THOSE GOING TO SLEEP](#prayers-for-those-going-to-sleep)
+* **[ASCETIC HOMILIES AND COLOPHON](#ascetic-homilies-and-colophon)**
 
 ---
 
@@ -2443,7 +2441,7 @@ Now has female nature rejoiced; now has grief ceased, joy has blossomed: for the
 
 *Lord, have mercy (3 times). Glory... Both now... Sessional Hymn, Tone 2.*
 
-*Podoben: "Being the wellspring of loving-kindness" (Милосе́рдія сꙋ́щи и҆сто́чникъ):*
+*Podoben: "Being the wellspring of loving-kindness" (Милосе́рдїа сꙋ́щи):*
 
 Beholding the cruel slothfulness of my soul and the exhaustion of my heart, O Mother of God, heal them by thy prayers, and vouchsafe me the portion of the saved,
 
@@ -3095,7 +3093,7 @@ Implore Jesus the Savior, Whom beyond nature thou didst bear in the flesh, O Vir
 
 *Lord, have mercy (3 times). Glory... Both now... Sessional Hymn, Tone 2.*
 
-*Podoben: "Being the wellspring of loving-kindness" (Милосе́рдія сꙋ́щи и҆сто́чникъ):*
+*Podoben: "Being the wellspring of loving-kindness" (Милосе́рдїа сꙋ́щи):*
 
 Beholding Thee hanging dead upon the Tree, O Christ, Thy Virgin Mother wept bitterly and said: O my Son, what is this strange mystery! How dost Thou, Who grantest eternal life unto all, die of Thine own will upon the Cross by a shameful death?
 
@@ -3733,7 +3731,7 @@ Being harmfully engulfed often by the waves of life, I, wretched one, and ever t
 
 *Sessional Hymn, Tone 3.*
 
-*Podoben: "Of the divine faith" (Бж҃е́ственныя вѣ́ры):* [^36]
+*Podoben: "Of the divine faith" (Боже́ственныя вѣ́ры):* [^36]
 
 Thou didst become the divine Tabernacle of the Word, O only Most Pure Virgin Mother, who in purity didst surpass the Angels: cleanse me, who am defiled above all men by carnal transgressions, with divine waters through thy prayers, granting great mercy, O Pure One.
 
@@ -3961,7 +3959,7 @@ The wounds of transgressions have poured out upon me even unto my soul, O Pure O
 
 *Troparion:*
 
-Sprinkle me, O Pure One, with the Blood from the ribs of Thy Child, according to the multitude of thy [mercies], O Mother, and wash me with streams of tears, and cleanse me from every defilement.
+Sprinkle me, O Pure One, with the Blood from the ribs of thy Child, according to the multitude of thy [mercies], O Mother, and wash me with streams of tears, and cleanse me from every defilement.
 
 *Glory...*
 
@@ -4363,7 +4361,7 @@ The seekings of evil transgressions continually bring forth sorrows. Therefore w
 
 *Troparion:*
 
-Thou givest birth, and art shown to be Pure after Childbirth, O Virgin Theotokos. Therefore pray unceasingly unto Thy Offspring, that we may be delivered from every harm of the enemy by thy prayers.
+Thou givest birth, and art shown to be Pure after Childbirth, O Virgin Theotokos. Therefore pray unceasingly unto thy Offspring, that we may be delivered from every harm of the enemy by thy prayers.
 
 *Both now...*
 
@@ -4473,7 +4471,7 @@ Thee, the Shadow-Covered Mountain, which Habakkuk the Prophet foresaw by the Spi
 
 *Troparion:*
 
-By the sprinkling of the Divine Blood shed from the Divine Rib of Thy Son, O Pure One, wash away the wounds of my heart: that I may magnify thee, and glorify thee as is meet, who art ever-blessed and all-immaculate.
+By the sprinkling of the Divine Blood shed from the Divine Rib of thy Son, O Pure One, wash away the wounds of my heart: that I may magnify thee, and glorify thee as is meet, who art ever-blessed and all-immaculate.
 
 *Glory...*
 
@@ -5205,7 +5203,7 @@ Cleanse our sins, O Lover of mankind, we pray, through the prayers of her that s
 
 *Troparion:*
 
-An evil assembly has gathered against us of those who unrighteously war against us, O Bride of God; but cast them down, as Thou didst of old through Samson.
+An evil assembly has gathered against us of those who unrighteously war against us, O Bride of God; but cast them down, as thou didst of old through Samson.
 
 *Glory...*
 
@@ -6207,7 +6205,7 @@ Sitting in glory upon the Throne of the Godhead, Jesus, the Most Divine, came up
 
 *Troparion:*
 
-Held fast by despondency, wholly darkened by the gloom of passions, and enslaved to sin: free me, O Maiden Blessed of God, and reconcile me unto Thy Son and our God.
+Held fast by despondency, wholly darkened by the gloom of passions, and enslaved to sin: free me, O Maiden Blessed of God, and reconcile me unto thy Son and our God.
 
 *Troparion:*
 
@@ -7751,7 +7749,7 @@ Thou who didst give birth unto the Light, the Maker of luminaries: enlighten my 
 
 [f. 131vA] *Troparion:*
 
-Entreat Thy Son, O Birthgiver of God, Who of old sweetened the waters of Marah,[^85] swiftly to deliver me from grievous passion and bitterness.
+Entreat thy Son, O Birthgiver of God, Who of old sweetened the waters of Marah,[^85] swiftly to deliver me from grievous passion and bitterness.
 
 *Glory...*
 
@@ -8241,7 +8239,7 @@ As I lie upon a bed of pain, raise me up by thy visitation, O Maiden, and grant 
 
 *Troparion:*
 
-Quench the flame of my passions by the dew of thy prayers, O Sovereign Lady, and save me, even as of old Thy Son delivered the Children who exalted Him above all unto the ages.
+Quench the flame of my passions by the dew of thy prayers, O Sovereign Lady, and save me, even as of old thy Son delivered the Children who exalted Him above all unto the ages.
 
 *Both now...*
 
@@ -9069,7 +9067,7 @@ Woe is me, O my soul! How shall we stand then in fear and trembling before the f
 
 *Theotokion:*
 
-Show forth now the unashamed strength of thy protection: for as One indebted, Thy Son is inclined by maternal prayers, O Virgin: anticipate then now in this urgent hour, that I may not depart unprepared, but may live yet longer, O All-hymned Theotokos Pure.
+Show forth now the unashamed strength of thy protection: for as One indebted, thy Son is inclined by maternal prayers, O Virgin: anticipate then now in this urgent hour, that I may not depart unprepared, but may live yet longer, O All-hymned Theotokos Pure.
 
 *Ode 9. Heirmos:*
 
@@ -9277,7 +9275,7 @@ O Bride of God, Mary unwedded, deliver me, thy servant, from every malicious har
 
 *Theotokion:*
 
-To show me, being perfectly cleansed, a partaker of His divine Kingdom, that He might deify mankind, Thy Son, O Sovereign Lady, appeared from thee as perfect Man:
+To show me, being perfectly cleansed, a partaker of His divine Kingdom, that He might deify mankind, thy Son, O Sovereign Lady, appeared from thee as perfect Man:
 
 [f. 158rA] Him do thou entreat, O Pure One.
 
@@ -9627,7 +9625,7 @@ Thou didst give birth to the Word incarnate beyond mind and word, O Pure Virgin,
 
 *Sessional Hymn, Tone 7:*
 
-O Sovereign Lady, Thy Son is angered against thy sinful servants, for we have moved the Compassionate One unto wrath: but turn Him unto mercy, O Pure One; take compassion, O Mother of God, entreat the Tender-hearted One by thine unceasing supplications, and deliver the captives.
+O Sovereign Lady, thy Son is angered against thy sinful servants, for we have moved the Compassionate One unto wrath: but turn Him unto mercy, O Pure One; take compassion, O Mother of God, entreat the Tender-hearted One by thine unceasing supplications, and deliver the captives.
 
 *Ode 7. Heirmos:*
 
@@ -9643,7 +9641,7 @@ Demonic malice holds me fast exceedingly now, and they kindle within me the fire
 
 [f. 165rA] *Troparion:*
 
-In praying unto Thy Son for us, O Most Pure Mother of God, cease not at all by thy prayers to snatch thy servants from the trial of human sorrows. Both now:
+In praying unto thy Son for us, O Most Pure Mother of God, cease not at all by thy prayers to snatch thy servants from the trial of human sorrows. Both now:
 
 *Theotokion:*
 
@@ -9971,7 +9969,7 @@ I cried unto the Lord in my affliction, and unto Thee, and Thou hast brought up 
 
 *Troparion:*
 
-O Sovereign Lady, implore Thy Son Who was lifted up upon the Cross, and delivered men from corruption, that we may be saved.
+O Sovereign Lady, implore thy Son Who was lifted up upon the Cross, and delivered men from corruption, that we may be saved.
 
 *Troparion:*
 
@@ -11907,7 +11905,7 @@ Quench the flame of my passions, and calm the tempest of my heart, O pure Mother
 
 *Troparion:*
 
-Behold my affliction, O Virgin, which the multitude of mine evils hath brought on, and grant me rest before my departure, imploring Thy Son by thy maternal prayers. Both now:
+Behold my affliction, O Virgin, which the multitude of mine evils hath brought on, and grant me rest before my departure, imploring thy Son by thy maternal prayers. Both now:
 
 *Theotokion:*
 
@@ -12351,7 +12349,7 @@ Unto thee, Most Pure Mother of God, do I wretched fall down and pray: Behold, O 
 
 *Prayer 7:*[^423]
 
-O Good Mother of the Good King, Most Pure and Blessed Theotokos Mary: pour out the mercy of Thy Son and our God upon my passionate soul, and by thy prayers guide me unto good deeds, that I may pass the remaining time of my life without blemish, and through thee may find Paradise, O Virgin Theotokos, who alone art pure and blessed.
+O Good Mother of the Good King, Most Pure and Blessed Theotokos Mary: pour out the mercy of thy Son and our God upon my passionate soul, and by thy prayers guide me unto good deeds, that I may pass the remaining time of my life without blemish, and through thee may find Paradise, O Virgin Theotokos, who alone art pure and blessed.
 
 *Prayer 8, unto the Holy Guardian Angel:*[^424]
 
@@ -12577,7 +12575,7 @@ Second: Settle accounts with thine own self, and make an examination of thy cons
 
 [^50]: The troparion explicitly evokes the historical Ruthenian and Ukrainian context of Crimean Tatar and Ottoman Turkish ("Hagarene") slave raids and invasions, petitioning the Mother of God to intervene with the "sword of her prayers" to protect the Orthodox flock.
 
-[^51]: "Arabian" (*Аравлянинъ*, Greek *Ἄраψ*) functions in Byzantine and Ruthenian hymnography as an ethnonymic designation for Islamic Ottoman forces, reflecting the historical raids threatening the southern frontiers of Ruthenia and the wider Christian East.
+[^51]: "Arabian" (*Аравлянинъ*, Greek *Ἄραψ*) functions in Byzantine and Ruthenian hymnography as an ethnonymic designation for Islamic Ottoman forces, reflecting the historical raids threatening the southern frontiers of Ruthenia and the wider Christian East.
 
 [^52]: Sunday Small Compline (*Павечеріє мале*) on Sunday evening liturgically inaugurates Monday, dedicated across the weekly cycle to the Bodiless Hosts (the Holy Angels and Archangels).
 
@@ -12681,7 +12679,7 @@ Second: Settle accounts with thine own self, and make an examination of thy cons
 
 [^102]: Sunday Small Compline (*Павечеріє мале*) on Sunday evening liturgically introduces Monday, dedicated across the Octoechos to the Bodiless Powers and Holy Angels.
 
-[^103]: An allusion to Hebrews 1:3: "Who being the brightness of His glory, and the express image of His person" (ἀпаύγασμα τῆς δόξης).
+[^103]: An allusion to Hebrews 1:3: "Who being the brightness of His glory, and the express image of His person" (ἀπαύγασμα τῆς δόξης).
 
 [^104]: An allusion to Luke 1:28, the angelic salutation of the Archangel Gabriel to the Virgin Mary at the Annunciation.
 
@@ -12703,7 +12701,7 @@ Second: Settle accounts with thine own self, and make an examination of thy cons
 
 [^113]: An allusion to 1 Corinthians 15:22, 45, 47, Christ as the New Adam restoring fallen humanity.
 
-[^114]: The term *ѡ҆чисти́лище* (Greek ἱλαστήριон) denotes a place or means of expiation/cleansing, echoing Exodus 25:17 and Romans 3:25.
+[^114]: The term *ѡ҆чисти́лище* (Greek ἱλαστήριον) denotes a place or means of expiation/cleansing, echoing Exodus 25:17 and Romans 3:25.
 
 [^115]: An allusion to the devil as a ravening beast barking and seeking whom he may devour (cf. 1 Peter 5:8; Psalm 21:17 LXX / Psalm 22:16).
 
@@ -13275,7 +13273,7 @@ Second: Settle accounts with thine own self, and make an examination of thy cons
 
 [^399]: Concluding petition and Trinitarian doxology of the Prayer of Paul of Evergetis at Compline.
 
-[^400]: Antiochus of Palestine (monk of Mar Saba, 7th c.), author of the *Pandects of the Holy Scriptures*. His evening prayer *Каὶ δὸς ἡμῖν, Δέσποτα...* ("And grant unto us, O Master...") is a universal Horologion component of Compline.
+[^400]: Antiochus of Palestine (monk of Mar Saba, 7th c.), author of the *Pandects of the Holy Scriptures*. His evening prayer *Καὶ δὸς ἡμῖν, Δέσποτα...* ("And grant unto us, O Master...") is a universal Horologion component of Compline.
 
 [^401]: Ancient Marian prayer of intercession recited before sleep.
 

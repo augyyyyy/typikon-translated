@@ -20,9 +20,9 @@ We will create a python script `apply_citation_model.py` in the scratch director
 
 ### 1. Splitting Unnumbered Dense Prose (Gap A)
 We will split the identified dense sections into standard numbered rubrics:
-* **[Daily Matins](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part1_structure.md#L946):** `### 1.5.3 Order of Daily Matins`
+* **[Daily Matins](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part1_structure.md#L946):** `### 1.5.3 Order of Daily Matins`
   * Split its 7 paragraphs into numbered rubrics: `##### 1.`, `##### 2.`, etc., before applying the global numbering.
-* **[Exaltation of the Cross](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part3_menaion.md#L45):** `### 3.1.4 14 September: Universal Exaltation of the Precious Cross`
+* **[Exaltation of the Cross](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Final_Dolnytsky_part3_menaion.md#L45):** `### 3.1.4 14 September: Universal Exaltation of the Precious Cross`
   * Convert its uppercase sub-headers (e.g. `PREPARATION OF THE PRECIOUS CROSS`) into standard `####` Level 4 headings.
 
 ### 2. Numbering Level 4 and Level 5 Headings (Gap B & C)

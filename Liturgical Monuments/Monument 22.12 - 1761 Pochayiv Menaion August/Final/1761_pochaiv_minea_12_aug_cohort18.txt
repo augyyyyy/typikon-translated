@@ -255,7 +255,7 @@ The Word possessing flesh was seen upon earth, twofold in nature from thee, O al
 *Exapostilarion of the Image, Podoben: "Give ear, ye women" (Жены̀ оу҆слы́шите):*[^523]  
 O Christ, the unwaning Light, illumine us with the countenance of Thy face, and make us worthy of the brightness of the saints, when Thou shalt sit to render unto each according to his works, by the prayers of the Mother of God who bore Thee. *(Twice)*
 
-*Glory... Both now... of the Feast, the same Podoben:*[^524]  
+*Glory... Both now... of the Feast, the same Podoben (Подо́бенъ то́йже):*[^524]  
 O how great things the Mighty One hath done for thee![^525] For thou wast born of a barren woman, yet thou didst give birth being a virgin, and didst remain a virgin again; and thou abidest after death, having become pure from death: and not forsaking the world, thou prayest for the world.
 
 *At the Praises, Stichera of the Image, on 4, Tone 4, Podoben: "Being called from on high" (Зва́нный свы́ше):*[^526]  

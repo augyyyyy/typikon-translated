@@ -236,7 +236,7 @@ Thou didst appear as a vessel of the Spirit, receiving the light-pourings given 
 *Sticheron:*
 Shining with ray-bearing dawn, and vouchsafed visions, thou didst appear full of the purest and unwaning enlightenment, O blessed one; preserve those who sing of thee, entreating the only Lord to give great mercy unto all.
 
-*Other Stichera to the Most Holy Birthgiver of God, Tone and Podoben the same:*
+*Other Stichera to the Most Holy Birthgiver of God, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 Snatch me away, O compassionate one, from the hand of the man-slaying serpent who wars against me to swallow me up completely by deceit; shatter his jaws, I pray thee, and destroy his craftinesses; that, having been delivered from his claws, I may magnify thy power.
 
 *Theotokion:*

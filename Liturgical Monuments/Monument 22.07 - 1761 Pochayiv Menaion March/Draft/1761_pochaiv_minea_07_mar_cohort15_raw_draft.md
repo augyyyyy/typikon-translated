@@ -21,7 +21,7 @@
 
 *If Saturday occur:*
 
-*Exapostilarion. Podoben:*
+*Exapostilarion. Podoben (Подо́бенъ):*
 
 === LEAF p142 ===
 *Tone 2, Podoben: "With the disciples let us come together" (Оу҆ченикѡ́мъ):*

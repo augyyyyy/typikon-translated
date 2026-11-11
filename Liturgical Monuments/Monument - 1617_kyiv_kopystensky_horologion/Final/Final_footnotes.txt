@@ -219,7 +219,7 @@
 
 [^214]: The Prayer of the Hours (*И́же на всѧ́кое вре́мѧ и҆ на всѧ́кій ча́съ...* / *Ὁ ἐν παντὶ καιρῷ καὶ πάσῃ ὥρᾳ...*), traditionally attributed to Saint Basil the Great, was printed in full during the Daily Midnight Office on fol. 20 (physical leaf p47).
 [^215]: The Prayer of Saint Mardarios (*Владыко Боже, Отче Вседержителю...* / *Δέσποτα Θεέ, Πάτερ παντοκράτορ...*), recited after the priest's blessing, was printed in full on fol. 22 (physical leaf p49).
-[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγалύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
+[^216]: The Prayer of Saint Eustratios (*Величая величаю тя, Господи...* / *Μεγαλύνων μεγαλύνω σε, Κύριε...*), attributed to the 4th-century Great Martyr Eustratios of Sebaste (commemorated December 13), is rubricated here specifically for private cell recitation (*въ келіахъ*) and explicitly excluded from corporate liturgical recitation (*а въ соборѣ сія не глаголется*).
 [^217]: The concluding sequence of the Midnight Office (the trisagion prayers, the troparia of the dead, the litany of supplication, and the mutual forgiveness) is cross-referenced to its complete printing on fol. 23 (physical leaf p51).
 [^218]: The rite of mutual forgiveness (*прощеніе* / *συγχώρησις*) concluded monastic communal prayer, with the superior and brethren making prostrations before one another seeking pardon before retiring.
 [^219]: The rubric specifies that if an All-Night Vigil (*всенощное бдѣніе*) is not celebrated on Saturday evening, the Sunday Midnight Office is chanted in the morning before Matins. Following the usual beginning and Psalm 50 (cross-referenced to the Daily Midnight Office), the Canon to the Holy Trinity of the tone of the week from the Oktoechos is chanted.
@@ -241,7 +241,7 @@
 [^234]: Psalm 62 in the Septuagint (LXX 62; MT 63), the third psalm of the Hexapsalmos, depicting the soul's morning longing for God in the Judean wilderness.
 [^235]: The rubric prescribes *безъ поклоновъ* (*without bows/prostrations*), highlighting the solemn stillness required during the reading of the Six Psalms: the faithful stand motionless in silent contemplation of the Judgment without making metanias or bows during the central doxology.
 [^236]: Psalm 87 in the Septuagint (LXX 87; MT 88), the fourth psalm of the Hexapsalmos, known as the most sorrowful lament in the Psalter, chanted as a contemplation of Christ's descent into Hades and tomb.
-[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Еѵхаὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
+[^237]: This rubric directs the Priest to come out from the sanctuary through the Holy Doors (or from his stall in the choir) and stand before the icon of Christ the Master (or before the Royal Doors with uncovered head) to recite silently the twelve Morning Prayers of Matins (*Εὐχαὶ ἑωθιναί* / *Ѹтренніѧ мл҃твы*) while the Six Psalms are being read.
 [^238]: Psalm 102 in the Septuagint (LXX 102; MT 103), the fifth psalm of the Hexapsalmos, a hymn of radiant thanksgiving for God's boundless mercy, forgiveness, and paternal compassion.
 [^239]: Psalm 142 in the Septuagint (LXX 142; MT 143), the sixth and final psalm of the Hexapsalmos, depicting the soul's total surrender and cry for divine guidance in the face of spiritual enemies.
 [^240]: The Great Litany (*Вели́каѧ є҆кте́ніа* / *Μεγάλη συναπτή*), or Litany of Peace (*Ми́рнаѧ є҆кте́ніа* / *Εἰρηνικά*), is proclaimed by the deacon or priest immediately following the conclusion of the Six Psalms.
@@ -261,7 +261,7 @@
 [^253]: The Psalter verses of the Praises (Lauds / Chvalitny) begin here with Psalm 148.
 [^254]: The printed heading mistakenly numbers this psalm as 'рм҃д' (Psalm 144) instead of 'рм҃ѳ' (Psalm 149), the second psalm of the Praises (Lauds / Chvalitny).
 [^255]: The rubric distinguishes the festal singing of the Great Doxology from the Lenten/daily recitation of the Doxology preceded by the doxological acclamation 'To Thee glory is due...' and accompanied by 3 prostrations (metanias).
-[^256]: Church Slavonic 'брaзꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
+[^256]: Church Slavonic 'бразꙋми́ на' is an abbreviated scribal form for 'вразуми нас' ('make us understand'), reflecting the Greek 'συνέτισόν με' (Ps. 118:27).
 [^257]: The rubric provides the branching sequence for Lenten Matins versus non-fasting Matins: on ordinary days, the dismissal is followed directly by the First Hour, whereas on Lenten days, the special Lenten troparion ('In the temple standing...') and the Prayer of St. Ephrem with prostrations are performed before the First Hour.
 [^258]: Fol. 27r corresponds to physical leaf p48, containing the priestly dismissal cue. The cross-reference to fol. 22r corresponds to physical leaf p43 for the Prayer of St. Ephrem the Syrian.
 [^259]: The First Hour opens with an ornate headpiece and the three introductory invitations to worship ('O come, let us worship...'). In monastic practice, the First Hour is joined directly to the conclusion of Matins.
@@ -369,7 +369,7 @@
 [^356]: In the Slavonic witness, `лю́ди съгрѣ́шшая` is literally "a people that have sinned" / "fallen people", corresponding to Greek τὸν λαὸν τὸν ἀπεγνωσμένον ("despairing people").
 [^357]: Prayer of the Three Holy Children in the Furnace (Daniel 3:34–35, LXX / Song of the Three Children 11–12).
 [^358]: The general prayer of the Hours *Thou Who at every time and at every hour* (*И́же на вся́ко вре́мя*) is here attributed to St. Basil the Great (frequently attributed elsewhere to St. Basil or St. John Chrysostom; cross-reference to its full text earlier in the Horologion).
-[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσпоτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
+[^359]: The canonical prayer of the Ninth Hour composed by St. Basil the Great: *Владыко Господи Іисусе Христе Боже наш, долготерпѣливе о наших согрѣшеніих* (Δέσποτα Κύριε Ἰησοῦ Χριστὲ ὁ Θεὸς ἡμῶν, ὁ μακροθυμήσας ἐπὶ τοῖς ἡμετέροις πλημμελήμασι).
 [^360]: The Prayer of St. Ephrem the Syrian (*Господи и Владыко живота моего*) accompanied by the prescribed monastic prostrations (four great prostrations and twelve waist-bows with *Боже, очисти мя грѣшнаго*), totaling 15 bows.
 [^361]: Cross-reference to the concluding prayer of the Midnight Office (*Владыко Боже Отче Вседержителю*), physically printed earlier at fol. 22.
 [^362]: The Mid-Hours (Междочасіе / Μεσώριον) are supplementary monastic offices sung between the main canonical Hours, especially during the Lenten fast.
@@ -500,7 +500,7 @@
 [^482]: The monastic ritual of mutual forgiveness (*proshcheniye* / *συγχώρησις*) performed at the conclusion of Compline before retiring to sleep.
 [^483]: Cross-reference to the Litany of Supplication (*Pomolimsya o pravoslavnykh khristianekh*) on fol. 26 (physical leaf p49).
 [^484]: Cross-reference to the evening prayer for enemies and benefactors (*Ненавидящихъ и обидящихъ насъ прости, Господи*) on fol. 27 (physical leaf p50).
-[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέлеε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
+[^485]: The great supplicatory prayer of Great Lent at Great Compline, *O Master of many mercies* (*Δέσποτα πολυέλεε* / *Владыко многомилостиве*), recited while all kneel or lie prostrate upon the earth, followed by the mutual forgiveness ceremony.
 
 [^486]: Folio 167v: Internal cross-reference to fol. 26 (p49), where the closing litany of petition for the faithful and suffering (*Помолимся о православных христианех...*) is printed in full at the end of the Midnight Office.
 [^487]: Folio 168r: Slavonic *Меѳимо́нъ* (Methymon), from Greek *Μεθ' ἡμῶν* [ὁ Θεός] ('God is with us', LXX Isa. 8:8–9), the solemn scriptural canticle characteristic of Great Compline during fasts. In Ruthenian and Old Slavic typika, *Меѳимонъ* served as the standard designation for Great Compline during the seasonal fasts (Apostles', Dormition, and Nativity fasts) on days with Alleluia.

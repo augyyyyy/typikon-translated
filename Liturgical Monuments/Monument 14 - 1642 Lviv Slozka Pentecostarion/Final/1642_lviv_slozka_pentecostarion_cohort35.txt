@@ -200,7 +200,7 @@ A radiant and most bright day of the divine cloudy ascent into the Heavens hath 
 *Sticheron 3:*
 Even as Thou didst send Thy Holy Spirit from on high unto the disciples, so also send Thy grace upon Thy people, O Christ Savior!
 
-*Glory... both now and ever... Tone and Podoben the same:*
+*Glory... both now and ever... Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 In praise worthy of God, with the Apostles, O Mother of God, we hymn the Lord, beholding Him borne upon the clouds!
 
 *"Now lettest Thou Thy servant depart..." Trisagion, and after the Our Father: Troparion: "Thou didst ascend in glory..." We sing it. Litany and Dismissal.*
@@ -233,15 +233,15 @@ Not being parted from the Father's bosom, sweetest Jesus, and having lived with 
 *Entrance with the Censer. "Gladsome Light." Prokeimenon of the day.*
 
 *Reading from the Prophecy of Isaiah [LXX Isaiah 2:2-3]:*[^747]
-Thus saith the Lord: It shall come to pass in the last days, that the mountain of the Lord shall be manifest, and the house of God on the tops of the mountains, and it shall be exalted above the hills; and all nations shall come unto it. And many peoples shall go and say: "Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and He will declare unto us His way, and we will walk in it!"
+Thus says the Lord: It shall come to pass in the last days, that the mountain of the Lord shall be manifest, and the house of God on the tops of the mountains, and it shall be exalted above the hills; and all nations shall come unto it. And many peoples shall go and say: "Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and He will declare unto us His way, and we will walk in it!"
 
 *Reading from the Prophecy of Isaiah [LXX Isaiah 62:10-12; 63:1-3, 7-9]:*[^748]
-Thus saith the Lord: Go through My gates, prepare My way, and make a way for My people, and cast away the stones from the way; lift up a standard for the nations. For behold, the Lord hath made it heard unto the ends of the earth: Say ye to the daughter of Sion: Behold, thy Savior comes, having His reward with Him, and His work before His face. And He shall call them a holy people, redeemed by the Lord; and thou shalt be called a City sought out, and not forsaken.
+Thus says the Lord: Go through My gates, prepare My way, and make a way for My people, and cast away the stones from the way; lift up a standard for the nations. For behold, the Lord hath made it heard unto the ends of the earth: Say ye to the daughter of Sion: Behold, thy Savior comes, having His reward with Him, and His work before His face. And He shall call them a holy people, redeemed by the Lord; and thou shalt be called a City sought out, and not forsaken.
 Who is this that comes from Edom, the redness of His garments from Bosor? This One that is glorious in His apparel, crying out with great strength: "I speak righteousness, and the judgment of salvation!" Why are Thy garments red, and Thy apparel as from the treading of a full winepress? "I have trodden the winepress alone, and of the nations there was no man with Me."
 I remembered the mercy of the Lord, the virtues of the Lord in all things wherein He rewards us. The Lord is a good Judge to the house of Israel; He deals with us according to His mercy, and according to the multitude of His righteousness. And He said: "Are they not My people? Children will not reject Me"; and He became salvation unto them out of all their affliction. Neither an intercessor nor an Angel, but the Lord Himself saved them, because He loved them and spared them; He Himself redeemed them, and took them up, and lifted them up all the days of the age.
 
 *Reading from the Prophecy of Zechariah [LXX Zechariah 14:4, 8-11]:*[^749]
-Thus saith the Lord: Behold, the day of the Lord comes, and His feet shall stand in that day upon the Mount of Olives, which is before Jerusalem toward the east; and in that day living water shall go forth out of Jerusalem, half of it toward the former sea, and half of it toward the hinder sea; in summer and in spring it shall be so. And the Lord shall be King over all the earth: in that day shall the Lord be one, and His Name one, encompassing all the earth and the wilderness from Gaba even unto Remmon, over against the ridge of Jerusalem; and it shall be exalted, and shall remain in its place, from the gate of Benjamin even unto the place of the first gate, unto the corner gate, and unto the tower of Hananeel, unto the King's winepresses. Men shall dwell in it, and there shall be no curse any more; and Jerusalem shall dwell securely.
+Thus says the Lord: Behold, the day of the Lord comes, and His feet shall stand in that day upon the Mount of Olives, which is before Jerusalem toward the east; and in that day living water shall go forth out of Jerusalem, half of it toward the former sea, and half of it toward the hinder sea; in summer and in spring it shall be so. And the Lord shall be King over all the earth: in that day shall the Lord be one, and His Name one, encompassing all the earth and the wilderness from Gaba even unto Remmon, over against the ridge of Jerusalem; and it shall be exalted, and shall remain in its place, from the gate of Benjamin even unto the place of the first gate, unto the corner gate, and unto the tower of Hananeel, unto the King's winepresses. Men shall dwell in it, and there shall be no curse any more; and Jerusalem shall dwell securely.
 
 === LEAF p346 ===
 *On Thursday of the Ascension:*
@@ -296,9 +296,9 @@ God is gone up with a shout, the Lord with the sound of a trumpet, to lift up th
 
 *Then: "Now lettest Thou Thy servant depart..." Trisagion; and after the Our Father: At the Blessing of the Loaves, Troparion: "Thou didst ascend in glory, O Christ our God..." at the Litiya, thrice. And the Great Reading: in the Acts, three Homilies of Chrysostom on the Apostles.[^752]*
 
-*Rubric for the Concurrence of Key 7 ([З]) of the Paschalion:*
+*Rubric for the Concurrence of Key 7 ((*З*)) of the Paschalion:*
 
-*Be it known: that if Key 7 ([З]) of the Paschalion should occur, then on this Thursday of the Ascension, May 8, falls the Memory of the Holy Apostle John the Theologian.[^753]*
+*Be it known: that if Key 7 ((*З*)) of the Paschalion should occur, then on this Thursday of the Ascension, May 8, falls the Memory of the Holy Apostle John the Theologian.[^753]*
 
 *At Small Vespers: At "Lord, I have cried," Stichera of the Feast: 3 Prosomoia on 4. Glory... of the Apostle. Both now and ever... of the Feast. At the Aposticha: Stichera of the Apostle with their verses, which are sung at the Aposticha of Great Vespers. Glory... of the Apostle. Both now and ever... of the Feast. Troparion of the Apostle. Glory... both now and ever... of the Feast.*
 
@@ -346,7 +346,7 @@ Unto God Who appeared upon Mount Sinai, and gave the Law to the God-seer Moses, 
 *Theotokion:*
 O all-pure Mother of God, unceasingly pray Him Who was incarnate of thee, and never separated from the bosom of the Father, to save from every distress those whom He fashioned!
 
-*The Second Canon, likewise on 6. Whose acrostic is according to the alphabet; and in the Eighth and Ninth Odes, the acrostic is: (ὨΙΔΗ ІΩСИФ )[Acrostic: Song of Joseph].[^762]*
+*The Second Canon, likewise on 6. Whose acrostic is according to the alphabet; and in the Eighth and Ninth Odes, the acrostic is: (ὨΙΔΗ ІѠСИФ )[Acrostic: Song of Joseph].[^762]*
 
 *Tone 4. Ode 1. Heirmos:*
 "I shall open my mouth, and it shall be filled with the Spirit, and I shall pour forth a word to the Queen Mother, and I shall be seen radiantly keeping festival, and rejoicing I shall sing her wonders!"

@@ -68,7 +68,7 @@
 
 *Sessional Hymn, Tone 4.*
 
-*Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
+*Podoben: "Speedily anticipate" (Скоро предвари):*
 
 By a single nod and by the most pure counsel of Thy Father and of the Spirit, Thou didst create all things, O Christ, Many-Merciful; and Thou didst accept crucifixion for the human race: therefore, giving thanks, we cry aloud unto Thee, O Merciful One: Have mercy on Thy flock, O Lover of mankind!
 
@@ -106,7 +106,7 @@ By a single nod and by the most pure counsel of Thy Father and of the Spirit, Th
 
 *Kontakion, Tone 4.*
 
-*Podoben: "Thou Who wast lifted up upon the Cross" (Вознесы́йся на Крⷭ҇тъ во́лею):*
+*Podoben: "Thou Who wast lifted up upon the Cross" (Вознесыйся):*
 
 Incomprehensible God and unapproachable, one God by nature: O Father, Son, and Holy Spirit, cover and preserve us who cry aloud in faith in Thy holy church, night and day; and deliver us not, O Master, unto the enemies who seek our destruction!
 

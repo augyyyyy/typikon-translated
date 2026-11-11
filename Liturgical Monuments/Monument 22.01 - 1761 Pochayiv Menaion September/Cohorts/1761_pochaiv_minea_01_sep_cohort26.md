@@ -282,7 +282,7 @@ Today the heavens declared Thy glory unto men, O Incomprehensible One [Ps. 18:1;
 *Troparion:*
 By stretching forth his hands, Moses conquered Amalek, prefiguring the form of the Cross of old [Exod. 17:11–12]; and we, now worshiping the Tree of the Cross, trample down the wiles and snares of the enemy, having Christ as our subjugator, Who was lifted up upon it in the flesh, and slew the serpent, and saved man.[^1811]
 
-*Other Stichera, of the Saints, the same Tone and Podoben:*
+*Other Stichera, of the Saints, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Thy calling was from on high, not from men, O Eustathius [Gal. 1:1]; but Christ Himself, the Lover of mankind, appeared unto thee, and caught thee with the nets of faith, O blessed one; and having cleansed thy sins through thy baptism, as Master He extended patience unto thee through the trials of life, and showed thee forth as a renowned victor.[^1812]
 
 *Troparion:*

@@ -73,7 +73,7 @@ For Matins, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patria
 
 ## Σημείωσις τῶν Ἑορτῶν καθ’ ἃς Χοροστατεῖ ὁ Πατριάρχης ἐν τῷ Πατριαρχικῷ Ναῷ (Μέρος Α΄) [Violakis, p. 898]
 
-### ΣΗΜΕΙΩΣΙΣ ΤΩΝ ΕΟΡΤΩΝ ΚΑΘ’ ΑΣ ΧΟΡΟΣΤΑΤΕΙ Ο ΠΑΤΡΙΑΡΧΗΣ ΕΝ Τῼ ΠΑΤΡΙΑΡΧΙΚῼ ΝΑῼ
+**ΣΗΜΕΙΩΣΙΣ ΤΩΝ ΕΟΡΤΩΝ ΚΑΘ’ ΑΣ ΧΟΡΟΣΤΑΤΕΙ Ο ΠΑΤΡΙΑΡΧΗΣ ΕΝ Τῼ ΠΑΤΡΙΑΡΧΙΚῼ ΝΑῼ**
 
 Καθ’ ἅπαντας τοὺς Ἑσπερινοὺς τοῦ Σαββάτου καὶ τὰς Κυριακὰς τοῦ ὅλου ἐνιαυτοῦ.  
 Τὴν ἐπέτειον τοῦ ὀνόματος Αὐτοῦ.  
@@ -113,7 +113,7 @@ For Matins, the bell tolls at the 11th Hour of the Night [5:00 a.m.]; the Patria
 
 ## Register of Feasts at Which the Patriarch Officiates in the Patriarchal Church (Part 1) [Violakis, p. 899]
 
-### REGISTER OF FEASTS AT WHICH THE PATRIARCH OFFICIATES IN THE PATRIARCHAL CHURCH
+**REGISTER OF FEASTS AT WHICH THE PATRIARCH OFFICIATES IN THE PATRIARCHAL CHURCH**
 
 At all Saturday evening Vespers and all Sundays of the entire year.  
 On the anniversary of his namesday [patronal feast].  
@@ -161,7 +161,7 @@ On the anniversary of his namesday [patronal feast].
 | [Αὐγούστου] | ΙΕ΄. | Τῆς Κοιμήσεως τῆς Θεοτόκου. |
 | | ΚΘ΄. | Τῆς Ἀποτομῆς τοῦ Προδρόμου. |
 
-### Τῌ ΑΓΙᾼ ΚΑΙ Μ. ΤΕΣΣΑΡΑΚΟΣΤῌ
+**Τῌ ΑΓΙᾼ ΚΑΙ Μ. ΤΕΣΣΑΡΑΚΟΣΤῌ**
 
 Εἰς τὸν Ἀκάθιστον Ὕμνον τὸ δὲ πρωῒ ἐν τῷ παραθρονίῳ.  
 Τῇ Ἁγίᾳ καὶ Μ. Πέμπτῃ, τὸ πρωῒ εἰς τὴν Λειτουργίαν, καὶ τὸ ἑσπέρας εἰς τὴν Ἀκολουθίαν τῶν Ἁγίων Παθῶν.  
@@ -185,7 +185,7 @@ On the anniversary of his namesday [patronal feast].
 | [**August**] | 15 | The Dormition of the All-Holy Theotokos. |
 | | 29 | The Beheading of the Honorable Forerunner and Baptist John. |
 
-### DURING THE HOLY AND GREAT FAST [LENT]
+**DURING THE HOLY AND GREAT FAST [LENT]**
 
 At the Akathist Hymn, and in the morning at the Parathrone.  
 On Holy and Great Thursday, in the morning at the Divine Liturgy, and in the evening at the Service of the Holy Passions.  
@@ -210,17 +210,17 @@ Apart from these solemn patriarchal officiations (*chorostasiai*), the Ecumenica
 
 ## Περὶ Χειροτονίας Ἀρχιερέως (Μέρος Α΄) [Violakis, p. 902]
 
-### ΠΕΡΙ ΧΕΙΡΟΤΟΝΙΑΣ [ΑΡΧΙΕΡΕΩΣ]
+**ΠΕΡΙ ΧΕΙΡΟΤΟΝΙΑΣ [ΑΡΧΙΕΡΕΩΣ]**
 
-#### Α΄. [Χειροτονία ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς ἄνευ ἑορταζομένου Ἁγίου]
+**Α΄. [Χειροτονία ἐν ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς ἄνευ ἑορταζομένου Ἁγίου]**
 
 Ὅταν γίνηται χειροτονία Ἀρχιερέως ἐν ἡμέρᾳ ἄλλῃ πλὴν τῆς Κυριακῆς καὶ μὴ τύχῃ μνήμη ἑορταζομένου Ἁγίου, ψάλλονται πάντα τὰ τῆς Πεντηκοστῆς Ἀπολυτίκια, Κοντάκια, Καθίσματα, Κανόνες, Καταβασίαι, Ἐξαποστειλάρια, Αἶνοι, Ἀντίφωνα, Εἰσοδικόν, Ἀπόστολος, Εὐαγγέλιον καὶ Κοινωνικόν.
 
-#### Β΄. [Χειροτονία ἐν Κυριακῇ ἁπλῇ]
+**Β΄. [Χειροτονία ἐν Κυριακῇ ἁπλῇ]**
 
 Ἄν δ’ ἡ χειροτονία συμβῇ ἐν Κυριακῇ ἁπλῇ, λέγονται Καταβασίαι τῆς Πεντηκοστῆς, καὶ μετὰ Τὴν τιμιωτέραν ἡ θ΄ Ὠδὴ τῆς Πεντηκοστῆς. Ἐξαποστειλάρια πρῶτον τὸ Ἀναστάσιμον εἶτα τὸ τῆς Πεντηκοστῆς, ἄνευ Θεοτοκίου. Εἰς τοὺς Αἴνους μετὰ τὰ δ΄ Ἀναστάσιμα λέγονται καὶ τὰ τῆς Πεντηκοστῆς Παράδοξα σήμερον, Δόξα, Βασιλεῦ οὐράνιε, Καὶ νῦν, Ὑπερευλογημένη. Μετὰ τὴν Δοξολογίαν τὸ Σήμερον Σωτηρία. Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς Πεντηκοστῆς. Εἰσοδικὸν Δεῦτε προσκυνήσωμεν . . . ὁ ἀναστάς. Εἶτα τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ Εὐλογητὸς εἶ, τὸ τοῦ Ἁγίου τοῦ ναοῦ καὶ Κοντάκιον Ὅτε καταβάς. Τὸ Τρισάγιον, ὁ Ἀπόστολος τῆς Πεντηκοστῆς καὶ Εὐαγγέλιον τῆς Κυριακῆς, Ἄξιόν ἐστιν, Κοινωνικὸν ἀντὶ τοῦ Αἰνεῖτε, Τὸ Πνεῦμά σου τὸ ἀγαθόν.
 
-#### Γ΄. [Χειροτονία ἐν καθημερινῇ μετὰ ἑορταζομένου Ἁγίου]
+**Γ΄. [Χειροτονία ἐν καθημερινῇ μετὰ ἑορταζομένου Ἁγίου]**
 
 Ἡ αὐτὴ ἀναλογία τηρητέα καὶ ὅταν ἡ χειροτονία Ἀρχιερέως γίνηται ἐν ἄλλῃ πλὴν Κυριακῆς ἡμέρᾳ, καὶ ἑορτάζηται ὁ Ἅγιος τῆς
 
@@ -232,13 +232,13 @@ Apart from these solemn patriarchal officiations (*chorostasiai*), the Ecumenica
 
 ## Concerning the Ordination of a Hierarch (Part 1) [Violakis, p. 903]
 
-### CONCERNING THE ORDINATION OF A HIERARCH
+**CONCERNING THE ORDINATION OF A HIERARCH**
 
-#### Situation One: [Ordination on a Weekday without a Commemorated Saint]
+**Situation One: [Ordination on a Weekday without a Commemorated Saint]**
 
 When the ordination of a Hierarch takes place on any day other than Sunday and it does not coincide with the commemoration of a celebrated saint, all the hymns are chanted from the Feast of Pentecost: the Dismissal Troparia, Kontakia, Kathismata, Canons, Katavasiai, Exapostilaria, Praises [Lauds], Antiphons, Entrance Hymn, Epistle [Apostolos], Gospel, and Communion Hymn.
 
-#### Situation Two: [Ordination on an Ordinary Sunday]
+**Situation Two: [Ordination on an Ordinary Sunday]**
 
 If the ordination occurs on an ordinary Sunday [without a major coinciding feast]:
 - At the Canon, the Katavasiai of Pentecost are chanted; and after the Magnification **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), the Ninth Ode of Pentecost is chanted.
@@ -253,7 +253,7 @@ If the ordination occurs on an ordinary Sunday [without a major coinciding feast
 - Megalynarion: **"It is truly meet to bless thee, O Theotokos..."** (*Ἄξιόν ἐστιν*).
 - Communion Hymn: instead of the Sunday Communion Hymn **"Praise the Lord from the heavens..."** (*Αἰνεῖτε τὸν Κύριον*), we chant that of Pentecost: **"Thy Good Spirit shall lead me into the land of uprightness. Alleluia!"** (*Τὸ Πνεῦμά σου τὸ ἀγαθὸν ὁδηγήσει με ἐν γῇ εὐθείᾳ. Ἀλληλούϊα* - Psalm 142:10).
 
-#### Situation Three: [Ordination on a Weekday with a Celebrated Saint]
+**Situation Three: [Ordination on a Weekday with a Celebrated Saint]**
 
 This same liturgical proportion is observed whenever the ordination of a Hierarch takes place on any day other than Sunday, and the commemorated saint of the day is...[^518]
 
@@ -268,19 +268,19 @@ This same liturgical proportion is observed whenever the ordination of a Hierarc
 
 ## Περὶ Χειροτονίας Ἀρχιερέως (Μέρος Β΄) [Violakis, p. 904]
 
-### [Συνέχεια Γ΄]
+**[Συνέχεια Γ΄]**
 
 ἡμέρας· ἀλλ’ ἐν τοιαύτῃ περιπτώσει προηγοῦνται ἐναντιρρήτως τὰ τῆς Πεντηκοστῆς καὶ ἕπονται τὰ τοῦ Ἁγίου.
 
-#### Δ΄. [Χειροτονία ἐν Κυριακῇ μετὰ Ἁγίου δεδοξασμένου]
+**Δ΄. [Χειροτονία ἐν Κυριακῇ μετὰ Ἁγίου δεδοξασμένου]**
 
 Ἐν Κυριακῇ δὲ μετὰ Ἁγίου δεδοξασμένου ἄν συμπέσῃ χειροτονία Ἀρχιερέως, μετὰ τὰς Καταβασίας τῆς Πεντηκοστῆς Τὴν τιμιωτέραν καὶ τὴν θ΄ Ὠδὴν τῆς Πεντηκοστῆς. Ἐξαποστειλάρια τὸ Ἀναστάσιμον, τῆς Πεντηκοστῆς, τοῦ Ἁγίου, καὶ Θεοτοκίον. Εἰς τοὺς Αἴνους Ἀναστάσιμα β΄, τῆς Πεντηκοστῆς γ΄ καὶ τοῦ Ἁγίου γ΄, Δόξα, Βασιλεῦ οὐράνιε, Καὶ νῦν, Ὑπερευλογημένη. Μετὰ τὴν Δοξολογίαν Σήμερον σωτηρία. Εἰς τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς Πεντηκοστῆς, καὶ μετὰ τὴν Εἴσοδον Δεῦτε προσκυνήσωμεν...ὁ ἀναστάς. Ἀπολυτίκια τὸ Ἀναστάσιμον, τῆς Πεντηκοστῆς, τοῦ Ἁγίου τῆς ἡμέρας, τοῦ Ἁγίου τοῦ ναοῦ, καὶ τὸ Κοντάκιον Ὅτε καταβάς. (Τὰ λοιπὰ ὡς ἀνωτέρω ἐν § Β΄.)
 
-#### Ε΄. [Χειροτονία ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς]
+**Ε΄. [Χειροτονία ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς]**
 
 Ἐν ἡμέρᾳ Θεομητορικῆς ἑορτῆς ἄν τελῆται χειροτονία Ἀρχιερέως, Καταβασίαι ψάλλονται αἱ κεκανονισμέναι τῆς ἐποχῆς, καὶ μόνον Ἐξαποστειλάριον πρὸ τοῦ τῆς ἑορτῆς ψάλλεται τῆς Πεντηκοστῆς· καὶ εἰς τοὺς Αἴνους δύο μόνον Στιχηρὰ ἐκ τῶν τῆς Πεντηκοστῆς. Δόξα τὸ Βασιλεῦ οὐράνιε, Καὶ νῦν τῆς ἑορτῆς. Εἰς δὲ τὴν Λειτουργίαν τὰ Ἀντίφωνα τῆς ἑορτῆς. Ἀπολυτίκια, μετὰ τὴν Εἴσοδον, πρῶτον τὸ τῆς Πεντηκοστῆς, δεύτερον τῆς ἑορτῆς, καὶ Ἀπόστολος ἐπίσης τῆς Πεντηκοστῆς.
 
-#### ΣΤ΄. [Χειροτονία ἐν Δεσποτικῇ ἑορτῇ]*
+**ΣΤ΄. [Χειροτονία ἐν Δεσποτικῇ ἑορτῇ]***
 
 Ἐν Δεσποτικῇ ἑορτῇ ἄν τελῆται χειροτονία Ἀρχιερέως, οὐδὲν ἄλλο ψάλλεται ἐκ τῶν τῆς Πεντηκοστῆς εἰμὴ τὸ Ἐξαποστειλάριον, οὗ ὅμως προηγεῖται ἅπαξ τό τῆς ἑορτῆς καὶ ἕπεται αὖθις τὸ αὐτό. Μετὰ δὲ τὴν Εἴσοδον, λέγεται τὸ Ἀπολυτίκιον τῆς Πεντηκοστῆς ἀπὸ τοῦ Βήματος μετὰ τὸ τῆς ἑορτῆς καὶ οὐδὲν πλέον.
 
@@ -295,11 +295,11 @@ This same liturgical proportion is observed whenever the ordination of a Hierarc
 
 ## Concerning the Ordination of a Hierarch (Conclusion) [Violakis, p. 905]
 
-### [Conclusion of Situation Three: Weekday with a Celebrated Saint]
+**[Conclusion of Situation Three: Weekday with a Celebrated Saint]**
 
 ...celebrated; but in such an instance, the hymns of Pentecost indisputably take precedence, and those of the commemorated saint follow.
 
-#### Situation Four: [Ordination on a Sunday with a Doxology or Polyeleos Saint]
+**Situation Four: [Ordination on a Sunday with a Doxology or Polyeleos Saint]**
 
 If the ordination of a Hierarch coincides on a Sunday with a glorified saint [having a Great Doxology or Polyeleos rank]:
 - After the Katavasiai of Pentecost, we chant the Magnification **"More honorable than the Cherubim..."** (*Τὴν τιμιωτέραν τῶν Χερουβίμ*), and the Ninth Ode of Pentecost.
@@ -311,7 +311,7 @@ If the ordination of a Hierarch coincides on a Sunday with a glorified saint [ha
 - Dismissal Troparia: the Resurrection Troparion, the Dismissal Troparion of Pentecost: **"Blessed art Thou, O Christ our God..."** (*Εὐλογητὸς εἶ, Χριστὲ ὁ Θεὸς ἡμῶν*), the Dismissal Troparion of the commemorated Saint of the day, that of the Patron Saint of the temple, and the Kontakion of Pentecost: **"When the Most High descended..."** (*Ὅτε καταβὰς τὰς γλώσσας συνέχεε...*).
 - (All the remainder is performed as detailed above under Situation Two.)
 
-#### Situation Five: [Ordination on a Feast of the Most Holy Theotokos]
+**Situation Five: [Ordination on a Feast of the Most Holy Theotokos]**
 
 If the ordination of a Hierarch is celebrated on the day of a Marian feast [Feast of the Theotokos]:
 - The Katavasiai appointed for the liturgical season are chanted.
@@ -320,7 +320,7 @@ If the ordination of a Hierarch is celebrated on the day of a Marian feast [Feas
 - At the Divine Liturgy: the festal Antiphons of the Feast of the Theotokos are chanted.
 - Dismissal Troparia after the Small Entrance: first the Dismissal Troparion of Pentecost, second that of the Marian Feast; and the Epistle is likewise that of Pentecost.
 
-#### Situation Six: [Ordination on a Dominical Feast of the Lord]*
+**Situation Six: [Ordination on a Dominical Feast of the Lord]***
 
 If the ordination of a Hierarch is celebrated on a Great Feast of the Lord [Dominical Feast]:
 - Nothing else whatsoever of Pentecost is chanted except the Exapostilarion, which is both preceded and followed once by that of the Dominical Feast [i.e., Exapostilarion of the Feast, Exapostilarion of Pentecost, Exapostilarion of the Feast].

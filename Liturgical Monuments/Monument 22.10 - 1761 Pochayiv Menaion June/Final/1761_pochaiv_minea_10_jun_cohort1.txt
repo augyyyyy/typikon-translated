@@ -28,7 +28,7 @@ And from the Nativity of Christ: 1761.[^4]
 *Alleluia, or Troparion.*[^5]
 *At "Lord, I have cried," if we sing [the service], we sing 3 stichera of the Theotokos:*
 *Tone 2, Podoben: "When from the Tree" (Егда̀ ѿ дре́ва):*
-*And 3 of the Saint, Tone 2, Podoben the same:*
+*And 3 of the Saint, Tone 2, Podoben the same (Подо́бенъ то́йже):*
 
 When the ice of ignorance held fast all creation through the assaults of the enemy, and the multitude of idols was served, then, O glorious martyrs, with a fervent heart and with the warmth of divine faith ye brought this to an end, lovingly shedding your blood for Him Who openly poured out His blood upon the Cross.
 
@@ -36,7 +36,7 @@ When by divine beckoning ye separated yourselves for supernatural struggles, hav
 
 John the valiant sufferer, Valerian, and Chariton, and Charita with them, and divine Justin, Euelpistus, and glorious Hierax, having dyed their garment from their divine blood, and being clothed together, stand before the King of all in the heavens, before Christ the King with the Angels.
 
-*Other stichera of the Theotokos, Tone and Podoben the same:*
+*Other stichera of the Theotokos, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*
 
 Rejoice, star radiant as the sun; rejoice, all-immaculate cause of all good things! Rejoice, thou who didst contain the uncontainable God, who didst sprout forth the ear of immortality; rejoice, divine palanquin and all-radiant portal!
 

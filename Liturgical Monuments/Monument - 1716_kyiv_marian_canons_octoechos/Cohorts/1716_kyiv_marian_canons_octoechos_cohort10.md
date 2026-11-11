@@ -406,7 +406,7 @@ Prefiguring the three-day burial, the Prophet Jonah cried, praying in the sea-mo
 Cleanse our sins, O Lover of mankind, we pray, through the prayers of her that seedlessly bore Thee: for for our sake, O Word, Thou didst pour out Thy Precious Blood.
 
 *Troparion:*
-An evil assembly has gathered against us of those who unrighteously war against us, O Bride of God; but cast them down, as Thou didst of old through Samson.
+An evil assembly has gathered against us of those who unrighteously war against us, O Bride of God; but cast them down, as thou didst of old through Samson.
 
 *Glory...*
 

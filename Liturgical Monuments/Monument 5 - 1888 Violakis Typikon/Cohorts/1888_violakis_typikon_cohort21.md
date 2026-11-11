@@ -39,7 +39,7 @@ Tone 3.
 
     *Ὡς τῷ Παύλῳ μαθητευθεῖσα Πανεύφημε, καὶ τῇ πίστει στηριχθεῖσα Πέτρου θεόσοφε, πρωτομάρτυς ἀνεδείχθης καὶ πρώταθλος ἐν γυναιξίν, ἐπέβης τῇ φλογὶ ὡς ἐν λειμῶνι εὐθαλεῖ· θῆρες καὶ ταῦροι ἔφριξάν σε ὁπλισθεῖσαν τῷ Σταυρῷ, πρέσβευε Χριστῷ τῷ Θεῷ, Ἀποστόλων, Θέκλα, συνέκδημε, σωθῆναι τὰς ψυχὰς ἡμῶν.*
 
-### Τῇ Κς΄. Ἡ μετάστασις τοῦ ἁγίου ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου.
+**Τῇ Κς΄. Ἡ μετάστασις τοῦ ἁγίου ἐνδόξου Ἀποστόλου καὶ Εὐαγγελιστοῦ Ἰωάννου τοῦ Θεολόγου.**
 
 1.    Ἐν τῷ Ἑσπερινῷ μετὰ τὸν Προοιμιακὸν καὶ τὴν α΄ Στάσιν τοῦ Ψαλτηρίου, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν τὰ γ΄ Προσόμοια *Ὁ θεατὴς τῶν ἀρρήτων* εἰς ς΄. *Δόξα* *Τὸν Υἱὸν τῆς βροντῆς*, *Καὶ νῦν* *Παρῆλθεν ἡ σκιά*, Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον τῆς ἡμέρας καὶ τὰ Ἀναγνώσματα (καθ’ ἅ ἡμεῖς ἱστάμεθα, ὁ δὲ Διάκονος ἐκφωνεῖ *Πρόσχωμεν, Σοφία, Πρόσχωμεν*). Εἰς τὰ Ἀπόστιχα τὰ Προσόμοια, *Δόξα* *Ἀπόστολε Χριστοῦ*, *Καὶ νῦν* *Θεοτόκε σὺ εἶ ἡ ἄμπελος*, τὸ Ἀπολυτίκιον *Ἀπόστολε Χριστῷ τῷ Θεῷ*· (*Δόξα*,) *Καὶ νῦν* *Πάντα ὑπὲρ ἔννοιαν*, καὶ Ἀπόλυσις.
 2.    Εἰς τὸν Ὄρθρον, μετὰ τὸν Ν΄ Ψαλμόν, ἡ Λιτή, εἶτα τὸ Τρισάγιον, τὸ Ἀπολυτίκιον καὶ ὁ Ἑξάψαλμος. Εἰς τὸ *Θεὸς Κύριος*, τὸ Ἀπολυτίκιον δίς, τὸ Θεοτοκίον, εἶτα τὸ Ψαλτήριον καὶ ὁ Πολυέλεος, τὰ Καθίσματα κατὰ σειράν, οἱ Ἀναβαθμοί, τὸ α΄ Ἀντίφωνον τοῦ δ΄ ἤχου, τὸ Προκείμενον *Εἰς πᾶσαν τὴν γῆν*, *Πᾶσα πνοὴ* καὶ τὸ ΙΑ΄ Ἑωθινὸν Εὐαγγέλιον, ὁ Ν΄ Ψαλμὸς χῦμα, *Δόξα* *Ταῖς τοῦ Ἀποστόλου*, *Καὶ νῦν* *Ταῖς τῆς Θεοτόκου*, Στίχος *Ἐλέησόν με ὁ Θεός*, καὶ τὸ ἰδιόμελον *Θεολόγε Παρθένε*, ὁ Κανὼν τῆς Θεοτόκου καὶ ὁ τοῦ Εὐαγγελιστοῦ· ἀπὸ γ΄ Ὠδῆς τὸ Κάθισμα καὶ τὸ Θεοτοκίον, ἀφ’ ς΄ τὸ Κοντάκιον, ὁ Οἶκος καὶ τὸ Μηνολόγιον, αἱ Καταβασίαι *Ἀνοίξω τὸ στόμα μου*, εἶτα στιχολογοῦμεν *Τὴν τιμιωτέραν*, τὸ Ἐξαποστειλάριον καὶ τὸ Σταυροθεοτοκίον. Εἰς τοὺς Αἴνους τὰ γ΄ Προσόμοια εἰς δ΄. *Δόξα* *Εὐαγγελιστὰ Ἰωάννη*, *Καὶ νῦν* *Δέσποινα πρόσδεξαι*, Δοξολογία Μεγάλη καὶ τὸ Ἀπολυτίκιον.
@@ -53,7 +53,7 @@ Tone 2.
 
     **"Having been taught by Paul, O all-praised one, and established in the faith of Peter, O God-wise one, thou wast revealed as the first woman martyr and victorious athlete among women; thou didst tread upon the flames as upon a flourishing meadow; wild beasts and bulls shuddered before thee who wast armed with the Cross: intercede with Christ God, O Thecla, fellow-traveler of the Apostles, that He may save our souls."** (*Ὡς τῷ Παύλῳ μαθητευθεῖσα Πανεύφημε, καὶ τῇ πίστει στηριχθεῖσα Πέτρου θεόσοφε, πρωτομάρτυς ἀνεδείχθης καὶ πρώταθλος ἐν γυναιξίν, ἐπέβης τῇ φλογὶ ὡς ἐν λειμῶνι εὐθαλεῖ· θῆρες καὶ ταῦροι ἔφριξάν σε ὁπλισθεῖσαν τῷ Σταυρῷ, πρέσβευε Χριστῷ τῷ Θεῷ, Ἀποστόλων, Θέκλα, συνέκδημε, σωθῆναι τὰς ψυχὰς ἡμῶν.*)
 
-### The 26th Day. The Falling Asleep [Metastasis] of the Holy, Glorious Apostle and Evangelist John the Theologian.
+**The 26th Day. The Falling Asleep [Metastasis] of the Holy, Glorious Apostle and Evangelist John the Theologian.**
 
 1.    At Vespers: following the Introductory Psalm [Psalm 103 LXX] and the First Stasis of the First Kathisma of the Psalter [Kathisma 1, Stasis 1: Psalms 1–3 LXX], at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we sing the 3 Prosomia of the Saint: **"As a beholder of ineffable revelations"** (*Ὁ θεατὴς τῶν ἀρρήτων*) doubled unto 6; **"Glory"**: **"The Son of Thunder"** (*Τὸν Υἱὸν τῆς βροντῆς*); **"Both now"**: **"The shadow of the Law hath passed"** (*Παρῆλθεν ἡ σκιά*). Entrance with the censer: **"O Gladsome Light"** (*Φῶς ἱλαρόν*), the Prokeimenon of the day, and the Old Testament Readings [1 John 3:21–4:6; 1 John 4:11–16; 1 John 4:20–5:5] (during which we stand upright, as the Deacon exclaims: **"Let us be attentive! Wisdom! Let us be attentive!"**). At the Aposticha: the Prosomia; **"Glory"**: **"Apostle of Christ"** (*Ἀπόστολε Χριστοῦ*); **"Both now"**: **"O Theotokos, thou art the true vine"** (*Θεοτόκε, σὺ εἶ ἡ ἄμπελος*); the Dismissal Troparion: **"Apostle beloved of Christ God"** (*Ἀπόστολε, Χριστῷ τῷ Θεῷ ἠγαπημένε*); [**"Glory"**,] **"Both now"**: **"All thy mysteries surpass understanding"** (*Πάντα ὑπὲρ ἔννοιαν*), and Dismissal.
 
@@ -86,9 +86,9 @@ Tone 2.
 
 === LEAF p207 ===
 
-# ΜΗΝ ΟΚΤΩΒΡΙΟΣ
+## ΜΗΝ ΟΚΤΩΒΡΙΟΣ
 
-### Ἀκολουθία τῶν ἁγίων Πατέρων τῆς Ζ΄ Οἰκουμενικῆς Συνόδου
+**Ἀκολουθία τῶν ἁγίων Πατέρων τῆς Ζ΄ Οἰκουμενικῆς Συνόδου**
 
 (Σημ. Κατὰ τὴν ια΄ τοῦ παρόντος μηνός, εἰ τύχοι ἐν Κυριακῇ ἢ τῇ πρώτῃ μετ’ αὐτὴν ἐρχομένῃ Κυριακῇ, ψάλλεται ἡ Ἀκολουθία τῶν Ἁγίων Πατέρων τῆς Ζ΄ Οἰκουμενικῆς Συνόδου, κατὰ τὴν ἐφεξῆς διάταξιν).
 1.    Τῷ Σαββάτῳ ἑσπέρας, μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν ἀναστάσιμα Στιχηρὰ δ΄ καὶ τῶν Ἁγίων ς΄. *Δόξα* *Τὰς μυστικὰς σήμερον*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος, *Φῶς ἱλαρόν*, τὸ Προκείμενον καὶ τὰ Ἀναγνώσματα. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, *Δόξα* *Τὴν ἐτήσιον μνήμην σήμερον*, *Καὶ νῦν* *Νεῦσον παρακλήσεσι*, Ἀπολυτίκια τὸ Ἀναστάσιμον, τῶν Ἁγίων, τὸ Θεοτοκίον καὶ Ἀπόλυσις.
@@ -99,9 +99,9 @@ Tone 2.
 
 === LEAF p208 ===
 
-# MONTH OF OCTOBER
+## MONTH OF OCTOBER
 
-### The Service of the Holy Fathers of the Seventh Ecumenical Council.
+**The Service of the Holy Fathers of the Seventh Ecumenical Council.**
 
 (Note: On the 11th of this month falling on a Sunday, or on the first Sunday after this date [October 11–17], the Service of the Holy Fathers of the Seventh Ecumenical Council is sung according to the following order):
 
@@ -118,7 +118,7 @@ Tone 2.
 σπεῖραι τὸν σπόρον αὐτοῦ. (Κυριακὴ Δ΄ Λουκᾶ). Εἰς τὸ *Ἐξαιρέτως* *Ἄξιόν ἐστιν*, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
     (Σημ. Ἰστέον ὅτι τρὶς τοῦ ἐνιαυτοῦ μνήμην ἐπιτελοῦμεν τῶν ἁγίων Πατέρων· καὶ τῆς μὲν Α΄ Συνόδου, κατὰ τὴν Ζ΄ Κυριακὴν ἀπὸ τοῦ Πάσχα, καὶ ἀναγινώσκεται Εὐαγγέλιον κατὰ Ἰωάννην *Τῷ καιρῷ ἐκείνῳ ἐπάρας ὁ Ἰησοῦς τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τὸν οὐρανόν*. Τῆς δὲ Δ΄ Συνόδου, τὴν Κυριακὴν ἥτις ἤθελε τύχει ἀπὸ τῆς ΙΓ΄ μέχρι τῆς ΙΘ΄ τοῦ Ἰουλίου μηνός, καὶ ἀναγινώσκεται Εὐαγγέλιον κατὰ Ματθαῖον *Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ μαθηταῖς· ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου*. Καὶ τῆς Ζ΄ Συνόδου, τὴν ἀπὸ τῆς ΙΑ΄ μέχρι τῆς ΙΖ΄ Ὀκτωβρίου Κυριακὴν ὅτε καὶ ἀναγινώσκεται Εὐαγγέλιον τῆς Δ΄ Κυριακῆς Λουκᾶ *Εἶπεν ὁ Κύριος· ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὐτοῦ*).
 
-### Τῇ ΙΗ΄. Τοῦ ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Λουκᾶ
+**Τῇ ΙΗ΄. Τοῦ ἁγίου Ἀποστόλου καὶ Εὐαγγελιστοῦ Λουκᾶ**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Εὐαγγελιστοῦ ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν τοῦ Μηναίου διάταξιν.
 2.    Εἰ τύχοι ἐν ἡμέρᾳ Κυριακῇ, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν ἀναστάσιμα Στιχηρὰ ς΄ καὶ τοῦ Εὐαγγελίου δ΄. *Δόξα* *Ἀπόστολε Χριστοῦ* *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, *Φῶς ἱλαρόν*, καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, *Δόξα* *Πάνσοφε ἁλιεῦ*, *Καὶ νῦν* *Ὁ ποιητὴς καὶ λυτρωτής μου*, Ἀπολυτίκια τὸ Ἀναστάσιμον, τοῦ Εὐαγγελιστοῦ, τὸ Θεοτοκίον *Σὲ τὴν μεσιτεύσασαν* καὶ Ἀπόλυσις.
@@ -132,7 +132,7 @@ Tone 2.
 
     (Note: One must bear in mind that we celebrate the memory of the Holy Fathers three times throughout the liturgical year: First, the Fathers of the First Ecumenical Council [Nicaea I, 325], on the Seventh Sunday after Pascha [Sunday of the Holy Fathers], when the Gospel according to Saint John is read: **"At that time, Jesus lifted up His eyes to heaven and said: Father, the hour is come"** (*Τῷ καιρῷ ἐκείνῳ ἐπάρας ὁ Ἰησοῦς τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τὸν οὐρανόν*, John 17:1–13); second, the Fathers of the Fourth Ecumenical Council [Chalcedon, 451, together with the first Six Ecumenical Councils], on the Sunday falling between July 13 and 19, when the Gospel according to Saint Matthew is read: **"The Lord said unto His disciples: Ye are the light of the world"** (*Εἶπεν ὁ Κύριος τοῖς ἑαυτοῦ μαθηταῖς· ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου*, Matt. 5:14–19); and third, the Fathers of the Seventh Ecumenical Council [Nicaea II, 787], on the Sunday falling between October 11 and 17, when the Gospel of the Fourth Sunday of Luke is read: **"The Lord said: A sower went out to sow his seed"** (*Εἶπεν ὁ Κύριος· ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὐτοῦ*, Luke 8:5–15)).[^161]
 
-### The 18th Day. The Holy Apostle and Evangelist Luke.
+**The 18th Day. The Holy Apostle and Evangelist Luke.**
 
 1.    If the commemoration of the Evangelist occurs on any weekday other than Sunday: his Service is sung according to the appointed order of the Menaion.
 

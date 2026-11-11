@@ -1,8 +1,3 @@
-# Typik of Fr. Isidore Dolnytsky (1899) — Cohort 30
-
-
----
-
 === LEAF p581 ===
 
 -ing known the Boundary Key of that year, and having gone down along its Column to the month and day of the Sunday, proceed from it along the horizontal row to the right side of the Tablet, and you will find all these things.
@@ -23,8 +18,8 @@ The Curtain, however, according to the current custom of the Athonite Monasterie
 
 ## Table of Contents
 
-### Part I
-#### General Form of the Divine Services
+**Part I**
+**General Form of the Divine Services**
 Page
 
 Great Vespers with an All-Night Vigil . . . . . . . . . 6  
@@ -40,10 +35,10 @@ Daily Matins . . . . . . . . . 44
 Hours . . . . . . . . . 46  
 Vespers with the Liturgy . . . . . . . . . 48  
 
-### Part II
-#### General Rubrics for the Various Services of the Octoechos and Menaion
+# Part II
+**General Rubrics for the Various Services of the Octoechos and Menaion**
 
-##### Outside of a Feast
+**Outside of a Feast**
 1. A Saint without Polyeleos on Sunday . . . . . . . . 50  
 2. A Saint without Polyeleos on Weekdays except Saturday . . . . . . 59  
 3. A Saint without Polyeleos on Saturday . . . . . . . 70  
@@ -52,8 +47,8 @@ Vespers with the Liturgy . . . . . . . . . 48
 6. A Saint with Vigil on Sunday . . . . . . . 83  
 7. A Saint with Vigil on Weekdays . . . . . . . 86  
 
-##### Inside a Feast
-###### In the Forefeast
+**Inside a Feast**
+**In the Forefeast** <a id="in-the-forefeast"></a>
 1. Forefeast with a Saint without Polyeleos on Sunday . . . . . . 88  
 2. Forefeast with a Saint without Polyeleos on Weekdays . . . . . 91  
 
@@ -61,12 +56,12 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 === LEAF p583 ===
 
-###### In the Feast
+**In the Feast**
 3. A Dominical Feast on Sunday and on Weekdays . . . . . 96  
 4. A Theotokion Feast on Sunday . . . . . . 98  
 5. A Theotokion Feast on Weekdays . . . . . . 102  
 
-###### In the Afterfeast
+**In the Afterfeast** <a id="in-the-afterfeast"></a>
 6. Afterfeast with a Saint without Polyeleos on Sunday . . . . . . 103  
 7. Afterfeast with a Saint without Polyeleos on Weekdays . . . . . . 107  
 8. Afterfeast with a Saint with Polyeleos on Sunday . . . . . . 110  
@@ -74,14 +69,14 @@ Vespers with the Liturgy . . . . . . . . . 48
 10. Afterfeast with a Saint with Vigil on Sunday . . . . . . 116  
 11. Afterfeast with a Saint with Vigil on Weekdays . . . . . 117  
 
-###### At the Apodosis of a Feast
+**At the Apodosis of a Feast**
 12. Apodosis of a Dominical and Theotokion Feast on Sunday . . . . . . 117  
 14. Apodosis of a Dominical and Theotokion Feast on Weekdays . . . . 120  
 
-### Part III
-#### Proper Rubrics for Certain Services of the Menaion according to the Order of the Menologion
+# Part III
+**Proper Rubrics for Certain Services of the Menaion according to the Order of the Menologion**
 
-##### September
+**September** <a id="september"></a>
 1. Sept.: Indiction, and Venerable Symeon the Stylite . . . . . . 123  
    Saturday and Sunday before the Elevation . . . . . . 127  
 13. Sept.: Dedication of the Church of the Resurrection, with the Forefeast of the Elevation . . . 130  
@@ -91,13 +86,13 @@ Vespers with the Liturgy . . . . . . . . . 48
 23. Sept.: Conception of St. John the Baptist . . . . . . 143  
 26. Sept.: Repose of the Holy Apostle John the Theologian . . . . . 144  
 
-##### October
+**October**
 1. Oct.: Protection of the Most Holy Theotokos . . . . . . 144  
 11. Oct.: Sunday of the Holy Fathers of the 7th Ecumenical Council . . . . 145  
 26. Oct.: St. Great-Martyr Demetrius the Myroblyte . . . . . . 146  
 31. Oct.: St. Hieromartyr Josaphat . . . . . . 149  
 
-##### November
+**November** <a id="november"></a>
 8. Nov.: St. Michael and the other Bodiless Powers . . . . 150  
 15. Nov.: Beginning of the 40-Day Fast for the Nativity of Christ . . . . 151  
 24. Nov.: Holy Great-Martyrs Catherine and Mercurius . . . . 151  
@@ -107,7 +102,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 === LEAF p584 ===
 
-##### December
+**December** <a id="december"></a>
 9. Dec.: Immaculate Conception of the Most Holy Theotokos . . . . . . 156  
    Concerning the Gospels of the Last Ordinary Sundays and Concerning the Five of the Menaion Relating to the Nativity of Christ and Theophany . . . 157  
 11–17. Dec.: Sunday of the Holy Forefathers . . . . . . 165  
@@ -141,7 +136,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 27. Dec.: Holy Protomartyr Stephen . . . . . . 210  
 31. Dec.: Apodosis of the Nativity of Christ . . . . . . 211  
 
-##### January
+**January** <a id="january"></a>
 1. Jan.: Circumcision of the Lord and Basil the Great . . . . . . 213  
 1. On Weekdays . . . . . . 213  
 
@@ -171,7 +166,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 3. On Cheesefare Monday, Tuesday, and Thursday . . . . . 236  
 4. On Cheesefare Wednesday and Friday . . . . . 237  
 
-##### February
+**February**
 1. Feb.: Forefeast of the Meeting . . . . . . 238  
 1. On the Sunday of the Publican, Prodigal Son, Meatfare, and Cheesefare . . . . 239  
 2. On Meatfare Saturday . . . . . . 241  
@@ -214,7 +209,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 11. On the 2nd Sunday of the Fast . . . . . . 270  
 12. On the 3rd Sunday of the Fast . . . . . . 271  
 
-##### March
+**March** <a id="march"></a>
 9. March: Holy 40 Martyrs . . . . . . 271  
 1. On one of the Fasting Days of the 1st Week of the Fast . . . . 271  
 2. On Saturday of the 1st Week of the Fast . . . . . . 272  
@@ -269,7 +264,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 6. On Thursday of the Great Canon . . . . . . 314  
 7. On Akathist Saturday . . . . . . 315  
 
-##### April
+**April** <a id="april"></a>
 23. April: St. Great-Martyr George . . . . . . 316  
 1. On Great Friday, Great Saturday, and the Day of Pascha . . . . 317  
 2. On one of the Days of Bright Week . . . . . 317  
@@ -285,7 +280,7 @@ Vespers with the Liturgy . . . . . . . . . 48
 25. April: St. Apostle and Evangelist Mark . . . . . 327  
 30. April: St. Apostle James, Brother of St. John the Theologian . . . 327  
 
-##### May
+**May** <a id="may"></a>
 3. May: Venerable Theodosius of the Caves . . . . . . 328  
 7. May: Appearance of the Sign of the Precious Cross . . . . . 329  
 8. May: St. John the Theologian . . . . . . 331  
@@ -300,19 +295,19 @@ Vespers with the Liturgy . . . . . . . . . 48
 21. May: Saints Constantine and Helen . . . . . . 338  
 25. May: Third Finding of the Precious Head of the Forerunner . . . . 338  
 
-##### June
+**June** <a id="june"></a>
 11. June: Holy Apostles Bartholomew and Barnabas . . . . . 341  
 24. June: Nativity of the Forerunner . . . . . . 343  
 29. June: Holy Preeminent Apostles Peter and Paul . . . . 343  
 
-##### July
+**July** <a id="july"></a>
 2. July: Deposition of the Precious Robe of the Most Holy Theotokos . . . . . . 345  
 16. July: Fathers of the Six Councils . . . . . . 347  
 20. July: Holy Prophet Elijah . . . . . . 347  
 25. July: Dormition of St. Anna . . . . . . 348  
 31. July: Forefeast of the Procession of the Precious Cross . . . . 349  
 
-##### August
+**August** <a id="august"></a>
 1. August: Procession of the Precious Cross . . . . . . 351  
 1. On Weekdays . . . . . . 352  
 2. On Sunday . . . . . . 353  
@@ -328,10 +323,10 @@ Vespers with the Liturgy . . . . . . . . . 48
 
 === LEAF p589 ===
 
-### Part IV
-#### Triodion Rubrics
+# Part IV
+**Triodion Rubrics**
 
-##### Lenten Triodion
+**Lenten Triodion**
 Sunday of the Publican and the Pharisee . . . . . . 360  
 Sunday of the Prodigal Son . . . . . . 362  
 Meatfare Saturday . . . . . . 363  
@@ -375,7 +370,7 @@ Saturday of the 5th Week of the Fast: The Akathist . . . . . 416
 5th Sunday of the Fast . . . . . . 420  
 Monday, Tuesday, Wednesday, Thursday, and Friday of the 6th Week of the Fast . . . . 420  
 
-##### Flowery Triodion (Pentecostarion)
+**Flowery Triodion (Pentecostarion)**
 Rule for Pastors of Souls for Passion Week and Bright Week . . . . 420  
 Saturday of the 6th Week of the Fast: Lazarus Saturday . . . . . . 422  
 Palm Sunday [Sunday of Branches] . . . . . . 425  
@@ -426,8 +421,8 @@ Feast of the Eucharist . . . . . . 504
 Apodosis of the Feast of the Eucharist . . . . . . 511  
 On Friday after the Apodosis of the Eucharist: Compassion of the Most Holy Theotokos . . . . 511  
 
-### Part V
-#### Temple Rubrics, Canons, and Liturgical Indices
+# Part V
+**Temple Rubrics, Canons, and Liturgical Indices**
 Rubric Concerning Churches [Temples] . . . . . . 512  
 On the Exposition of the Holy Mysteries . . . . . . 512  
 Procession with the Holy Mysteries at Vespers . . . . . 513  
@@ -449,7 +444,7 @@ Table of Contents . . . . . . 583
 
 ---
 
-### Colophon and Thanksgiving
+**Colophon and Thanksgiving** <a id="colophon-and-thanksgiving"></a>
 
 **The End, and glory be to God.**
 

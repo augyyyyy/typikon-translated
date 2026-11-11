@@ -120,7 +120,7 @@ Being the Light, O Christ, enlighten me through Thyself: through the intercessio
 
 **[Left Page — Fol. 291v]**
 
-[Blank verso of the final printed leaf (Fol. 291v), reinforced with ancient paper repair strips, with pasted slips and manuscript annotations of the 17th–19th centuries.
+*(Vacat — Blank verso of the final printed leaf (Fol. 291v), reinforced with ancient paper repair strips, with pasted slips and manuscript annotations of the 17th–19th centuries.
 
 Affixed to the lower part of the page is a rectangular paper label with a bibliographical note in 19th-century cursive ink:
 "+
@@ -131,7 +131,7 @@ probably should be the verses mentioned by him."
 
 Pasted diagonally in the center of the leaf is a rhomboid paper fragment with 17th-century cursive pen trials: "Lord my God" and calligraphic flourishes.
 
-In the upper part of the leaf beneath the pasted slips can be discerned faded 17th-century cursive notes and pen trials: "... by mercy ...", "... Pan gift ...", "... of the parish clerk ...", as well as ink stains and offsets.]
+In the upper part of the leaf beneath the pasted slips can be discerned faded 17th-century cursive notes and pen trials: "... by mercy ...", "... Pan gift ...", "... of the parish clerk ...", as well as ink stains and offsets.)*
 
 **[Right Page — Fol. [Rear Flyleaf]]**
 

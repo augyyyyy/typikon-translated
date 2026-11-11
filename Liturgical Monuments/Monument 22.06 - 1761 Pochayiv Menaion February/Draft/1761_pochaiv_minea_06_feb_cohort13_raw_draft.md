@@ -38,10 +38,10 @@ O sufferer Charalampes, keeping an unyielding soul and an unassailable mind, tho
 *Sticheron:*
 A radiant joy and all-honorable glory didst thou inherit having suffered, and everlasting rejoicing, O venerable captive,[^308] honorable sufferer, valiant warrior, who by the streams of thy blood didst manifestly drown the army and host of the dragon by grace; and by divine prayer didst truly raise the dead, praying with boldness for our souls.
 
-*Glory... Both now... Theotokion, the same Podoben:*
+*Glory... Both now... Theotokion, the same Podoben (Подо́бенъ то́йже):*
 Wounded by the bandit assaults of demons, and lying completely helpless on the path of this present life, O all-immaculate one, and in need of mercy, visit me speedily, pouring wine and oil upon my incurable wounds, and restore me unto health, that I may glorify thee and with love dutifully hymn thy great deeds, O pure and only Virgin Mother.
 
-*Stavrotheotokion, the same Podoben:*
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):*
 A sword pierced thy heart, as Simeon said [Luke 2:35], O most pure Lady, when thou didst behold Him Who shone forth from thee by an ineffable word, lifted up upon the Cross by the lawless as one condemned, tasting vinegar and gall, pierced in His side, and His hands and feet nailed; and weeping, thou didst cry out, lamenting maternally: "What is this sweetest wonder, this new mystery?"
 
 *Troparion, Tone 4:*

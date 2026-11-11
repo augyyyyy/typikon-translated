@@ -109,9 +109,9 @@ cry aloud: "Glory to God Who is in Trinity!"
 Thou hast sanctified the streams of Jordan, Thou didst crush the dominion of sin, O Christ our God; Thou didst bow Thyself unto the hand of the Forerunner, and didst save the human race from deception. Therefore we entreat Thee: save our souls!
 *After the second stichology, Sessional Hymn, Tone 5, Podoben: "Co-unoriginate Word" (Собезнача́лное сло́во):*
 He Who is most gloriously clothed with light[^804] is encompassed by the streams of Jordan; wherein Thou, O Word of God, hast renewed the nature of Adam, crushed by evil disobedience. Therefore we praise Thee, and we all glorify Thy holy manifestation!
-*Glory, and now, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся i҆ѡ́сифъ):*
+*Glory, and now, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся і҆ѡ́сифъ):*
 "O river Jordan, why art thou amazed, beholding the Invisible One naked?" "I saw and trembled," he said; "and how was I not to be afraid and turn back? His angels trembled as they looked upon Him; heaven was dismayed, and earth trembled, and the sea was troubled, and all things visible and invisible. Christ appeared at the Jordan to sanctify the waters!"
-*And the reading of the feast. After the Polyeleos, Sessional Hymn, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся i҆ѡ́сифъ):*
+*And the reading of the feast. After the Polyeleos, Sessional Hymn, Tone 4, Podoben: "Joseph marveled" (Оу҆диви́ся і҆ѡ́сифъ):*
 Come, let us believers see where Christ was baptized! Let us follow therefore unto the river Jordan, unto the voice of him who cries in the wilderness; and we shall see there the Maker of Adam, having hands laid upon Him by a servant's hand on account of His ineffable compassion; and let us cry out unto Him with a loud voice: "Thou hast come and appeared in Jordan to sanctify the waters!"
 *Glory, and now, the same. And the reading. Gradual Hymns, the first antiphon of Tone 4.*
 *Prokimenon, Tone 4:* The sea saw and fled, Jordan turned back. *Verse:* What ailed thee, O sea, that thou fleddest? And thou, O Jordan, that thou wast driven back? *Let every breath:*

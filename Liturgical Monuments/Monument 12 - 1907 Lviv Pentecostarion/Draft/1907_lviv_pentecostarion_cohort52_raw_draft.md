@@ -181,7 +181,7 @@ While the Angels were marveling at Thy strange ascent, and the Disciples were te
 
 *Glory to the Father, and to the Son, and to the Holy Spirit, both now and for ever and unto ages of ages. Amen. The same.*
 
-*After the 2nd stichology, Sessional Hymn, the same Podoben.*  
+*After the 2nd stichology, Sessional Hymn, the same Podoben (Подо́бенъ то́йже).*  
 When hades was led captive by Thee, O Life-giver, and the world was enlightened at Thy Resurrection, Thou didst ascend in glory, O Savior, holding all things in Thy hand; therefore with the Angels we glorify Thee, O Lord Almighty: Glory to Thy Ascension, O Christ! Glory to Thy Kingdom! Glory to Thy tender-heartedness, O only Lover of mankind![^2056]
 
 === LEAF p517 ===

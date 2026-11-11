@@ -67,7 +67,7 @@ Following the successful completion of the Part IV (Triodion & Pentecostarion) f
 
 ### Logic Hub Database
 
-#### [MODIFY] [02d_logic_temple.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02d_logic_temple.json)
+#### [MODIFY] [02d_logic_temple.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02d_logic_temple.json)
 - Add canonical `variables` block and top-level service types to all 34 cases:
   - `vespers_type`
   - `matins_type`
@@ -81,7 +81,7 @@ Following the successful completion of the Part IV (Triodion & Pentecostarion) f
 
 ### Core Engine Rubrics
 
-#### [MODIFY] [engine/rubrics.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/rubrics.py)
+#### [MODIFY] [engine/rubrics.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/engine/rubrics.py)
 - **`calculate_rank`**:
   Elevate temple feasts to Rank 1 (for Lord/Theotokos) or Rank 2 (for saint) when `context.get("is_temple_feast")` is True, in accordance with Dolnytsky General Rules 1 & 2.
 - **`resolve_temple_case`**:
@@ -95,7 +95,7 @@ Following the successful completion of the Part IV (Triodion & Pentecostarion) f
 
 ### Automated Invariant Tests
 
-#### [NEW] [test_temple_service_types.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/tests/test_temple_service_types.py)
+#### [NEW] [test_temple_service_types.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/tests/test_temple_service_types.py)
 - Test 1: Static verification that all 34 cases in `json_db/02d_logic_temple.json` have non-null, valid canonical service types.
 - Test 2: Dynamic runtime verification across key temple scenarios (e.g. Sep 1 weekday, Sep 1 Sunday, Meatfare Saturday, Clean Monday transfer, Lazarus Saturday, Palm Sunday, Bright Week, Pentecost, Corpus Christi) confirming that `is_temple_feast=True` produces Vigil, Polyeleos=True, and canonical service types.
 

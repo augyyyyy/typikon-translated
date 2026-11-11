@@ -132,7 +132,7 @@
 [^125]: Luke 1:42, 48. The contrast between Eve's curse (Genesis 3:16) and the blessing brought into the world by Mary's childbearing.
 [^126]: 1 Thessalonians 5:5 ("Ye are all the children of light, and the children of the day").
 [^127]: St. Sophronius, Patriarch of Jerusalem (c. 560–638), celebrated champion of Orthodoxy against the Monothelite heresy and author of numerous liturgical hymns, triodia, and the Life of St. Mary of Egypt.
-[^128]: Sophronius (Σωφρόνιος) derives from the Greek σώфρων (*sophron*, "of sound mind, prudent, chaste, temperate").
+[^128]: Sophronius (Σωφρόνιος) derives from the Greek σώφρων (*sophron*, "of sound mind, prudent, chaste, temperate").
 [^129]: Classical Dyothelite and Chalcedonian christological formula defending the two unconfused natures and two operations (energies) and wills of Christ against the Monothelites and Monoenergists.
 [^130]: Psalm 35:9 (LXX; Masoretic: Psalm 36:8: "and thou shalt make them drink of the river of thy pleasures").
 [^131]: St. Joseph the Hymnographer (c. 816–886). The acrostic in Greek is: Σωφρονίας μέλπω μετωνύμου πρόσφορον αἶνον.
@@ -450,7 +450,7 @@
 [^428]: The prayer for the King (*коро́лю*) reflects the historical civil context of the Pochaiv Lavra print shop under the Polish-Lithuanian Commonwealth during the reign of Augustus III.
 
 [^429]: In the Church Slavonic text on leaf 100r, `Цр҃те́ѧ` is an abbreviated scribal form for `Ца́рствїѧ` (*of the Kingdom*).
-[^430]: The Greek alphabetic acrostic preserved in the Slavonic title reads: *Матѡ́нꙋ бж҃е́ственною пою̀ сла́вꙋ. Творе́нїе fеофа́на* ("I sing the divine glory of Matrona. A composition of Theophanes").
+[^430]: The Greek alphabetic acrostic preserved in the Slavonic title reads: *Матѡ́нꙋ бж҃е́ственною пою̀ сла́вꙋ. Творе́нїе ѳеофа́на* ("I sing the divine glory of Matrona. A composition of Theophanes").
 [^431]: In the Church Slavonic text on leaf 101r, the opening word of the troparion is printed as `Та̀`, providing the initial letter *T* for the acrostic while functioning metrically as an accusative or demonstrative pointer.
 [^432]: The Church Slavonic verb `слꙋчи́тися` here preserves its classical patristic sense of mystical union or meeting (*coniungi*) with Christ the heavenly Bridegroom.
 [^433]: In the Church Slavonic text on leaf 102r, `прл҃восла́внꙋ` is an apparent typographical error in the Pochaiv 1761 edition for `правосла́внꙋ` (*Orthodox*).

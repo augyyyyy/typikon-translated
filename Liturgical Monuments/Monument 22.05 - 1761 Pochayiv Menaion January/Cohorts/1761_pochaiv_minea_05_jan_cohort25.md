@@ -138,7 +138,7 @@ Appearing as sojourners and pilgrims upon earth, having pitched your tents in th
 === LEAF p245 ===
 being conformed unto the passions of Christ; therefore ye also endured the barbarian slaughter.[^1524]
 
-*Both now, the same Podoben:*
+*Both now, the same Podoben (Подо́бенъ то́йже):*
 Thou didst sanctify the Jordan's streams, and didst shatter the dominion of sin, O Christ our God. Thou didst bow Thyself beneath the hands of the Forerunner, and didst save the human race from deception: therefore we pray Thee, save our souls.[^1525]
 
 *Ode 4. Heirmos:*

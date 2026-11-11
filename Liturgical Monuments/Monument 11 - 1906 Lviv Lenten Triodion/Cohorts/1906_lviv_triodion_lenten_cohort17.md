@@ -19,7 +19,7 @@ Thou hast exalted the horn of the humble, O Mother of God, who didst give birth 
 *Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*  
 Thee, the Incomprehensible, Who before the morning star didst shine forth without beginning from the immaterial and bodiless womb of the Parent, the Prophets, O Lord, inspired by Thy Spirit, foretold to be a Child incarnate of the Virgin Unwedded, united with men and seen by those upon the earth; through whom, as the Merciful One, make us worthy of Thine illumination, as we hymn Thine ineffable and honorable Resurrection.
 
-*Podoben:*  
+*Podoben (Подо́бенъ):*  
 The God-proclaiming prophets, having preached Thee in word and honored Thee in deeds, brought forth unending life; for not enduring to serve the creature rather than Thee the Creator, they turned away apostolically from the whole world, and were conformed unto Thy Passion which they foretold; by whose prayers make us worthy to pass through the course of abstinence blamelessly, O only Abundantly-Merciful One.
 
 Though by Thy divine nature Thou art uncircumscribed, O Master, having become incarnate in the latter days, Thou didst deign to be circumscribed by the assumption of flesh; and Thou didst take upon Thyself all the properties thereof; therefore, depicting the likeness of Thy form, we lovingly kiss it, being raised unto Thy love, and we draw forth the grace of healing from it, following the apostolic and divine traditions.

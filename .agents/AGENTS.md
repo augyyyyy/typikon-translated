@@ -1,256 +1,68 @@
 # Translation Spoke Master Rules & Operational Standards
 
 ## Preamble & Global Rules Inheritance
-This workspace inherits and enforces all compliance protocols, API configurations, and general code safety standards defined in the parent root:
-* [GLOBAL_SYSTEM_RULES.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/GLOBAL_SYSTEM_RULES.md)
+This workspace inherits all compliance protocols and safety standards defined in:
+* [GLOBAL_SYSTEM_RULES.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/GLOBAL_SYSTEM_RULES.md)
 
-You must strictly comply with the Honesty Protocol, the Evidence Gate, Banned Phrases, UTF-8 Enforcement, Dynamic Path Resolution, the Native Gemini Vision Mandate (Zero Third-Party APIs), the Exclusive Write-Ownership Matrix (§7 — exclusive write owner of `Projects/Translation/` with narrow Drive E carve-out to registered `JPGs/` extraction vaults in `codex_registry.json`), and the Universal Ground-Truth & Anti-Potemkin Law (`SGC-01`..`SGC-04`, §8) defined therein.
-
----
+Strictly comply with the Honesty Protocol, Evidence Gate, Banned Phrases, UTF-8 Enforcement, Dynamic Path Resolution, Native Gemini Vision Mandate (Zero Third-Party APIs), **Exclusive Write-Ownership Matrix** (§7 — exclusive write owner of `Projects/Translation/` with narrow Drive E carve-out to registered `JPGs/` vaults in `codex_registry.json`), and Universal Ground-Truth & Anti-Potemkin Law (`SGC-01`..`SGC-06`, §8).
 
 ## Re-Onboarding & Verification Protocol
-Upon any context reset, restart, or when the agent observes a suspicion of state hallucination, the agent **must first** execute the status check script:
-```powershell
-python scratch/search_anti_patterns.py
-```
-The status output must be compared with the last known "golden" baseline. If the script reports newly introduced violations, the agent halts all code-modifying tasks and notifies the human operator before proceeding. The agent must **never** execute any modification, file I/O, or tool call until this verification passes or is explicitly waived by the operator.
+Upon context reset, restart, or suspected state hallucination, first execute `python scratch/search_anti_patterns.py` and compare against the golden baseline; halt and notify the operator before any modification if new violations appear.
 
 ---
 
-## The Master Rules & Codified Anti-Patterns
+## The Master Rules & Codified Anti-Patterns (Rules 1–13)
 
-### 1. Native Gemini Vision Mandate & Prohibition of Third-Party APIs
-* The Translation spoke operates exclusively using **Native Gemini Vision** (`view_file` on 300 DPI leaf images) and context-sequestered Antigravity subagents (`invoke_subagent`).
-* All third-party LLM/Vision APIs (including DeepSeek, OpenAI, Anthropic, and external OCR endpoints) are permanently prohibited across all active pipelines.
-* Legacy scripts referencing third-party APIs must remain isolated in `scripts/archived_pipelines/` and must never be invoked during production runs.
-
-### 2. Logical & Semantic Chunking Engine
-* Naive character-based chunking splits paragraphs arbitrarily and breaks semantic context, causing false positives and alignment mismatches.
-* Split files dynamically by logical boundary tags such as:
-  * Chapter headers (`###`)
-  * Roman numeral points (`I.`, `II.`, `III.`)
-  * Arabic numeral bullet lists (`1.`, `2.`, `3.`)
-* Align English and Ukrainian chunks by matching these structural keys rather than assuming a simple row-by-row `zip()`.
-* If a single section exceeds 15,000 characters, subdivide it only at sentence boundaries (`. `, `? `, `! ` followed by a space), never in the middle of a paragraph.
-
-### 3. Liturgical Translation, Native Vision & Master Standard (MTS-1)
-* All translations across all monuments must strictly comply with the **Master Translation Standard (MTS-1)** codified in:
-  `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Shared_Lexicon\MASTER_TRANSLATION_STANDARD.md`
-* **Universal Native Vision Mandate**: 100% of translated texts begin with 300 DPI image extraction and direct Gemini Native Vision transcription. Digital texts or existing drafts are strictly secondary concordances.
-* **The Four Registers**: Agents must apply the appropriate genre register (Juridical, Rubrical, Hymnographic, Scholarly).
-* **Scripture & Psalter**: Septuagint (LXX) numbering is mandatory; Masoretic references in brackets in footnotes only.
-* **Rubrical Mood**: Use Active Present Indicative for ceremonial actions; reserve "shall" for statutory legal mandates.
-* **Realia & Melodic Models**: Use technical loanwords (*Tetrapod, Klepalo, Aer, Kolyvo, Plashchanytsia, Sluzhebnik*) and Ruthenian chant headings (*Tone 1–8*, *Podoben: "[Incipit]"*).
-* **Pronouns & Doxology**: 100% capitalization on Deity Trinity pronouns (*He, Him, His, Thou, Thee*); enforce the Father Paul Doxology Standard (ban *"for ever and ever"*).
-
-### 4. Footnote Referencing Protocol
-* Every footnote marker `[^N]` in a Part file MUST have a corresponding `[^N]:` definition in `Final_footnotes.txt`, and vice versa.
-* Never inline footnote definitions in the body text of a Part file (except where structurally required). Maintain footnote descriptions in the master footnotes file.
-
-### 5. Path Enforcement Policy
-* All new and modified Python scripts MUST use `from pathlib import Path` and calculate project-relative paths.
-* Any reference to user home directories or network shares must go through environment variables (e.g., `os.environ.get('TRANSLATION_DATA')`).
-* Hardcoded absolute filesystem paths are strictly prohibited and will be flagged by the anti-pattern searcher.
-
-### 6. P01 – Fabricated Progress Narrative
-Never claim a script has successfully run, parsed, or generated a file without pasting the validation output, file size, or line count diff as proof. If you lack evidence, you must state: *"I have not verified this claim."*
-
-### 7. P03 – Exploratory Drift
-Stay strictly on the task defined in the approved implementation plan. Do not restructure unrelated directories unless explicitly requested.
-
-### 8. P04 – Bare except
-Bare except blocks are prohibited. You must specify the exception type or log it explicitly.
-
-### 9. P05 – Hardcoded Absolute Path
-Do not hardcode paths. Always resolve paths relative to the project root or via environment variables.
-
-### 10. P09 – Missing Encoding Declaration
-Always specify `encoding='utf-8'` in all file open operations for text.
-
-### 11. P12 – State Hallucination
-Do not invent logs, confirmation messages, or file states. Every statement about existing content must be backed by a recent tool call.
-
-### 12. Pre-Flight Checklist (Before ANY Modification)
-Before editing or running any scripts/files, you MUST:
-1. Verify you have read `.agents/AGENTS.md`.
-2. Inspect the file map and understand the target directory (`Final/` and `Final MD/` for deliverables, `scratch/` for utilities).
-3. Confirm that no third-party API calls are introduced and all paths use `pathlib.Path` relative to project root or canonical environment variables.
-
-### 13. Post-Flight Checklist & Handoff (After ANY Modification)
-After modifying files or completing audits:
-1. Run `git diff --stat` to verify changes.
-2. Run a dry run or test suite (`py -m pytest tests/ -v`) of any modified verifiers or linters, and run `python "../scripts/verify_ecosystem_integrity.py" --spoke "Translation"`.
-3. Update the global notice board at `GLOBAL_ECOSYSTEM_STATE.md` if shipping a new translation segment.
-4. Copy finalized deliverables to the Hub's inbox: `C:\Users\augus\OneDrive\Documents\Google Antigravity\Projects\Typikon Coded\Data\Inbox\`.
-5. Write a `handoff_note.md` in the Inbox detailing what was translated and any terminology considerations.
+| Rule | Core Always-On Invariant |
+| :--- | :--- |
+| **### 1. Native Gemini Vision Mandate** | Operate exclusively via **Native Gemini Vision** (`view_file`/`read_file` on 300 DPI leaf images) and context-sequestered subagents (`invoke_subagent`). All third-party LLM/Vision APIs (DeepSeek, OpenAI, Anthropic, external OCR) are permanently prohibited across active pipelines; legacy scripts remain isolated in `scripts/archived_pipelines/`. |
+| **### 2. Logical & Semantic Chunking** | Split dynamically by structural keys (`###`, `I.`, `II.`, `1.`, `2.`), never naive character counts; align bilingual segments by key rather than row-by-row `zip()`. Subdivide sections `> 15,000` chars only at sentence boundaries (`. `, `? `, `! `). |
+| **### 3. Master Standard (MTS-1)** | Comply strictly with `../Shared_Lexicon/MASTER_TRANSLATION_STANDARD.md`: (a) **Physical Ink Primacy** (300 DPI Native Vision; digital/OCR secondary only); (b) **4 Registers** (Juridical, Rubrical, Hymnographic, Scholarly; Active Present Indicative for ceremonial actions, `"shall"` reserved for legal statutes); (c) **LXX Psalter** (MT in `[^N]` only); (d) **Realia & Chant Models** (*Tetrapod, Klepalo, Aer, Kolyvo, Plashchanytsia, Sluzhebnik, Trebnik*; *Tone 1–8*, *Podoben: "<Incipit>"*); (e) **100% Deity Pronouns** (*He, Him, His, Thou, Thee, Thy, Thine* capitalized; human/Marian/adversary lowercase) & **Father Paul Doxology** (ban *"for ever and ever"*). |
+| **### 4. Footnote Referencing Protocol** | Every marker `[^N]` in a Part or Draft file MUST have a 1:1 corresponding `[^N]:` definition in `Final_footnotes.txt` (or cohort footnotes file), and vice versa. Never inline footnote definitions in body prose. |
+| **### 5. Path Enforcement Policy** | Use `from pathlib import Path` with project-relative paths or `os.environ.get('TRANSLATION_DATA')`. Hardcoded absolute paths are prohibited. |
+| **### 6. P01 – Fabricated Narrative** | Never claim execution without pasting validation output, byte size, or line diff; otherwise state: *"I have not verified this claim."* |
+| **### 7. P03 – Exploratory Drift** | Stay strictly on the task in the approved `implementation_plan.md`; do not restructure unrelated directories. |
+| **### 8. P04 – Bare except** | Bare `except:` blocks are prohibited; catch specific exception types and log explicitly. |
+| **### 9. P05 – Hardcoded Path** | Never hardcode user-home or drive paths; resolve relative to project root or environment variables. |
+| **### 10. P09 – Missing Encoding** | Always specify `encoding="utf-8"` in all text file I/O (`open()`, `read_text()`, `write_text()`). |
+| **### 11. P12 – State Hallucination** | Never invent logs or file states; back every claim about existing content with a recent tool call. |
+| **### 12. Pre-Flight Checklist** | Before any edit: (1) Read `.agents/AGENTS.md` & run `python scratch/search_anti_patterns.py`; (2) Inspect target dirs (`Final/`, `Final MD/`, `scratch/`); (3) Confirm zero third-party APIs and relative `pathlib.Path` usage. |
+| **### 13. Post-Flight Checklist** | After any edit/audit: (1) Run `git --no-pager diff --stat`, `py -m pytest tests/ -v`, and `python "../scripts/verify_ecosystem_integrity.py" --spoke "Translation"`; (2) Update `../GLOBAL_ECOSYSTEM_STATE.md` if shipping a segment; (3) Sync deliverables to `../Typikon Coded/Data/Inbox/` and update `handoff_note.md`. |
 
 ---
+
+## Autonomous Orchestration & Epigraphic Governance (Rules 14–22)
 
 ### 14. Inviolable Autonomous Execution, Subagent Isolation & 3-Phase Bookend Hybrid Model Routing Rule
-* **3-Phase Bookend Hybrid Model Routing Architecture**:
-  * **Phase 0 (`PHASE_0_ARGON_PLANNING` — Main UI on `Gemini 4 Argon (High)`)**:
-    * Every new monument initializes in `PHASE_0_ARGON_PLANNING` (`small_pause_gate_status = "PHASE_0_ARGON_PLANNING_LOCKED"`).
-    * The orchestrator runs `py scripts/autonomous_orchestrator.py --preflight --monument <ID>`, which writes `<workspace>/Audit_Reports/phase0_preflight_brief.json` containing the deterministic Phase 0 Vision Budget Contract (`max_vision_leaves = 8`, `max_vision_batches = 2`) and the genre-scaffolded `recommended_publication_spec` from `data/templates/publication_spec_scaffolds.json`.
-    * **Hard Phase 0 Argon Vision Budget Cap (`<= 8` Leaves / `<= 2` Batches)**:
-      * During Phase 0 on `Argon (High)`, the agent may inspect at most **8 physical 300-DPI leaf images across at most 2 `read_file` tool-call batches**:
-        * **Batch 1 (Front Bookend — Max 5 Leaves)**: `Page_0001.jpg` through `Page_0005.jpg` (cover, title page, frontispieces, preface/TOC opening, first text leaf).
-        * **Batch 2 (Rear Bookend — Max 3 Leaves)**: `Page_(N-2).jpg` through `Page_N.jpg` (closing colophon, rear index/table, final folio).
-      * **Absolute Ban on Mid-Codex Visual Binary Searches**: Inspecting internal leaves `p6` through `p(N-3)` during Phase 0 to hunt for internal section/Tone boundaries is strictly prohibited. Instead, Phase 0 uses the deterministic `recommended_publication_spec` scaffold, Phase 1 `Flash` workers emit canonical H1 headings (`# Tone N`, `# Canon ...`, `# Part ...`) when encountered on the physical page, and Phase 2 (`--compile-publication`) binds `start_landmark` regexes against actual translated headings on disk.
-    * **Gate 0 Primary Source Suitability Check & Fast-Fail Deferral (`--defer-monument`)**:
-      * Immediately after inspecting Batch 1 (`p1`–`p5`), if the source PDF is discovered to be a modern excerpted edition, secondary academic monograph, or severely defective/truncated scan rather than a complete historical codex, the agent must **immediately halt further image inspection** (do not read Batch 2 or write a translation plan), report the Gate 0 defect to the human operator, and upon confirmation execute `py scripts/autonomous_orchestrator.py --defer-monument --monument <ID> --reason "..."` to mark the monument `"status": "failed"` (`"wave": 5`), move it to the back of `Liturgical Monuments/codex_registry.json`, and emit the next monument's onboarding prompt.
-    * **Engine-Codified Liturgical Defaults & Zero-Redundancy `/grill-me` Policy**:
-      * `data/templates/publication_spec_scaffolds.json` (`engine_codified_decisions`) and `data/templates/work_order_template.md` (Statutory Mandates 1–12) pre-specify all 6 recurring house-style invariants at the engine level:
-        1. **3-Layer Melodic Model (`Podoben`) Law**: Always format as `*Tone N, Podoben: "<Canonical English Incipit>" (<Slavonic Witness>):*` (never transliterated-first or square-bracketed).
-        2. **Heading & Rubric Hierarchy (`H1 & H2` Only)**: Reserve `#` for `publication_spec` Part landmarks and `##` for primary day/service headpieces; render all sub-services, offices, hours, canons, odes, heirmoi, troparia, and rubrics as inline italics (`*...*`), never `###` or `####`.
-        3. **Structured Liturgical Stanzas**: Render each Heirmos, Troparion, Theotokion, and Sticheron as a distinct paragraph preceded by its inline italic role tag (`*Ode N. Heirmos:*`, `*Troparion:*`, `*Theotokion:*`).
-        4. **Recensional Variants & Homilies**: Translate the physical printed recension strictly as inked without silent harmonization, documenting significant pre-Nikonian/Ruthenian/Greek variants in footnotes `[^N]`.
-        5. **Front-Matter Paratext & State Titulature**: Render Baroque heraldic *virshi* in formal rhythmic unrhymed verse; Early Modern Ruthenian (*prosta mova*) prefaces in elevated 17th-century prose with marginalia mapped to `[^N]`; and Imperial/Papal/Archiepiscopal titulature in 100% diplomatic translation.
-        6. **Modular Part Slicing & Rear Appendices**: Slice Parts strictly in physical leaf order (`Part 0` front matter, `Part 1..K` primary liturgical divisions/Tones) and isolate distinct rear appendices (Parastas, Hagiography, Typikon/Gospel Pillars) into their own dedicated final Part.
-      * During Phase 0 `/grill-me`, agents are **strictly prohibited** from re-asking these 6 pre-decided engine defaults or recommending contradictory heading/Podoben formats; only ask `/grill-me` questions if the 8 bookend leaves reveal a genuine physical anomaly (e.g., Gate 0 truncation, missing folios, or an ambiguous composite binding).
-    * **Hard Circuit-Breaker**: `prepare_cohort()` and `--step` are **programmatically blocked** from emitting a Cohort 1 subagent manifest until the human operator approves `implementation_plan.md`, switches the Main Window UI dropdown from `Argon` $\rightarrow$ `Gemini 3.8 Flash`, and the agent executes `py scripts/autonomous_orchestrator.py --unlock-flash-sprint`.
-  * **Phase 1 (`PHASE_1_FLASH_SPRINT` — Main UI + Subagents Locked to `Gemini 3.8 Flash`)**:
-    * **Lean Custom Worker Subagent (`ephemeral_translator`)**: Defined via `define_subagent` (`EnableWriteTools=True`, `EnableSubagentTools=False`, `EnableMCPTools=False`) and invoked with `Model="flash"` strictly locked across 100% of Phase 1 cohorts and retries (zero silent mid-sprint `"pro"` overrides).
-    * **Automated `argon_review_queue.json` Collector**: `scripts/run_small_pause_gate.py` automatically scans every `=== LEAF pN ===` block and queues a leaf into `Audit_Reports/argon_review_queue.json` on 4 signals:
-      1. Epigraphic uncertainty / lacuna markers (`[?]`, `[illegible]`, `[lacuna]`, `[damaged]`, `[corrupt]`).
-      2. Borderline `SGC-02` draft-to-source length ratios (`< 0.50` or `> 2.20` on non-sparse leaves).
-      3. High-complexity Paschalion/multi-column tables (`>= 5` table rows) or dense polyglot apparatus (`>= 5` footnotes on 1 leaf).
-      4. Quarantined leaves (`status="QUARANTINED_FOR_ARGON"`).
-    * **Two-Tier Unattended Flash Resilience**: On a Small Pause Gate failure, the orchestrator first runs 4-part deterministic Python self-healing (`attempt_deterministic_self_healing()`: leaf banner normalization, inline `[^N]:` footnote migration, 1-to-1 forbidden vocabulary/doxology replacement, and Deity pronoun capitalization), then allows **1 targeted `Flash` subagent retry**. If a content/linter/ratio/footnote anomaly still persists after 1 retry, as long as all expected physical `=== LEAF pN ===` boundaries exist on disk, the offending leaf(s) are quarantined into `argon_review_queue.json` (`status="QUARANTINED_FOR_ARGON"`) and Phase 1 continues auto-chaining non-stop. Hard-stops (`BLOCKED`) occur only if physical files or `=== LEAF pN ===` boundaries are missing.
-  * **Phase 2 (`PHASE_2_AWAITING_ARGON_AUDIT` $\rightarrow$ `PHASE_2_ARGON_DEEP_AUDIT` — Main UI Switched Back to `Gemini 4 Argon (High)`)**:
-    * When `remaining_pages == 0`, the orchestrator halts at `AWAITING_ARGON_POST_SPRINT_AUDIT` so the human operator can switch the Main Window UI dropdown from `Flash` $\rightarrow$ `Gemini 4 Argon (High)`.
-    * Running `py scripts/autonomous_orchestrator.py --run-argon-audit` resolves `argon_review_queue.json` (directly in parent `Argon` if $\le 5$ leaves, or via batched `Model="inherit"` `Argon` subagents of $\le 8$ leaves if $> 5$ leaves), re-verifies touched cohorts, and gates LCPE final compilation (`--compile-publication` / `UniversalPublicationEngine`) on `unresolved_quarantines == 0` before presenting the Sovereign Grand Pause.
-* **Prohibition of the Two-Chat Copy-Paste Anti-Pattern**:
-  * The Orchestrator must **never** generate prompts instructing the human operator to "copy and paste into another chat" or yield turns waiting for human relay.
-  * All worker delegations must be executed programmatically via `invoke_subagent`.
-* **Grand Pause Approval as Chat Lifecycle Boundary & Automated Git Push Pipeline**:
-  * Human operator approval of the Grand Pause marks the **functional conclusion and retirement of that orchestrator chat session**.
-  * Formal approval is executed via `py scripts/autonomous_orchestrator.py --approve-grand-pause` (or agent directive upon human approval).
-  * **Automated Sealing Pipeline**:
-    1. **Publication Gate Assertion**: Re-verifies `unresolved_quarantines == 0`, canonical publication edition integrity, and leaf conservation.
-    2. **Hub Inbox Synchronization**: Copies sealed markdown deliverables to `Typikon Coded/Data/Inbox/` and updates `handoff_note.md`.
-    3. **Automated Git Push**: Stages all deliverables (`git add .`), creates canonical commit (`feat(<monument>): seal canonical publication edition (leaves 1..N)`), and pushes cleanly to upstream remote (`git push origin master`).
-    4. **Sequential Handoff Prompt**: Resolves the next monument in registry and outputs the copy-pasteable `/plan` startup prompt (Rule 19).
-  * The Orchestrator must **never automatically roll into or begin processing the next monument within the same conversation context**.
-  * Each monument in the transmission chain begins in a dedicated, fresh conversation to preserve context isolation, eliminate token memory saturation, and enforce independent lifecycle constraints.
-* **Multi-Monument Sequestered Concurrency Protocol**:
-  * **Explicit Target Binding (`--monument <ID>`)**: When running multiple monuments concurrently across separate sequestered chat sessions, every mutating orchestrator and gate CLI call MUST pass `--monument <ID>` (or set `$env:ACTIVE_MONUMENT_ID="<ID>"` in its shell command).
-  * **Strict Disambiguation Circuit-Breaker (`[DISAMBIGUATION REQUIRED]`)**: When $\ge 2$ monuments hold an active lease (`active_lease=True`), calling any mutating script without `--monument <ID>` or `ACTIVE_MONUMENT_ID` is programmatically blocked with `RuntimeError("[DISAMBIGUATION REQUIRED]...")` so no parallel chat can ever read or mutate another chat's state. Calling read-only `py scripts/autonomous_orchestrator.py --status` without `--monument` displays the **Parallel Sequestered Monuments Telemetry Dashboard**.
-  * **Atomic Lease Claiming, Pausing, and Resuming**:
-    * Use `py scripts/autonomous_orchestrator.py --claim-next-monument` to atomically claim the next unclaimed `"ready"` monument (skipping any monument already leased in another active chat) and output its Rule 19 Phase 0 onboarding prompt.
-    * Use `py scripts/autonomous_orchestrator.py --pause-monument --monument <ID>` to shelve an in-progress monument (`small_pause_gate_status="MONUMENT_PAUSED"`, `active_lease=False`) so it does not trigger disambiguation blocks while paused, and `--resume-monument --monument <ID>` to re-acquire its active lease.
-  * **Scoped Grand Pause Git Commits & Cross-Process Locking**: All shared root files (`Liturgical Monuments/codex_registry.json`, `CHRONICLE.md`, `ACTIVE_ORCHESTRATOR_STATE.json`, `scratch/triage_inbox.jsonl`, and `.git/index`) are protected by cross-process OS file locks (`scripts/concurrency_lock.py`). Grand Pause git commits stage and commit only the completed monument's scoped paths (`git commit --only ... -- <scoped_paths>`) so in-flight cohorts from concurrent monuments are never swept into another monument's sealing commit.
+Full CLI playbooks and Mandates 1–13 reside in `.agents/skills/monument_translation_orchestrator/SKILL.md`:
+
+| Phase / Protocol | Model & State | Core Invariants & Circuit-Breakers |
+| :--- | :--- | :--- |
+| **Phase 0: Bookend Planning** | `Gemini 4 Carbon / Argon (High)` (`PHASE_0_ARGON_PLANNING_LOCKED`) | 1. `--preflight --monument <ID>` writes `Audit_Reports/phase0_preflight_brief.json` (`max_vision_leaves=8`, `max_vision_batches=2`) and `recommended_publication_spec`.<br>2. **Hard Vision Cap (`<= 8` Leaves / `<= 2` Batches)**: Batch 1 (`Page_0001.jpg`–`Page_0005.jpg`) + Batch 2 (`Page_(N-2).jpg`–`Page_N.jpg`). **Ban** mid-codex visual searches (`p6`..`p(N-3)`). Normalize rotated scans via `--rotate-jpgs 90/180/270`.<br>3. **Gate 0 (`--defer-monument`)**: Halt after Batch 1 if source is a modern excerpt, monograph, or truncated scan.<br>4. **Circuit-Breaker**: Cohort 1 blocked until `implementation_plan.md` approved, UI switched `Carbon / Argon` → `Gemini 3.8 Flash`, and `--unlock-flash-sprint` executed. |
+| **8 Engine Defaults & Mandates 1–13** | `publication_spec_scaffolds.json` & `work_order_template.md` | **Zero-Redundancy `/grill-me`** (never re-ask): (1) **3-Layer Podoben** `*Tone N, Podoben: "<English Incipit>" (<Slavonic Witness>):*`; (2) **H1 & H2 Only** (`#` Part landmarks, `##` day/service headpieces, inline italics `*...*` for sub-offices/odes/rubrics, never `###`/`####`); (3) **Structured Stanzas & Dialogue** (`*Ode N. Heirmos:*`, `**Priest:**`); (4) **Recensional Fidelity** (translate ink as printed; variants in `[^N]`); (5) **Front-Matter Paratext** (rhythmic *virshi*, elevated *prosta mova*, diplomatic titulature, `*(Vacat — ...)*`, parenthetical Cyrillic `(*...*)`); (6) **Modular Part Slicing** (`Part 0` front matter, `Part 1..K` body, rear appendix Part); (7) **Patristic Synaxarion Diction** (Mandate 13: classical patristic prose, zero `-eth` verbs, **flush every 2–3 leaves**); (8) **Diachronic Drift Invariance** (Mandate 11: identical shared-lexicon rendering for identical original formulas). |
+| **Phase 1: Flash Sprint** | `Gemini 3.8 Flash` (`PHASE_1_FLASH_SPRINT`) | 1. **Worker (`ephemeral_translator`)**: Invoked via `invoke_subagent` (`Model="flash"`, `EnableWriteTools=True`, `EnableSubagentTools=False`, `EnableMCPTools=False`), sandboxed by `.agents/scripts/governance_gate.py` (Line-0 header check; blocks `search_web`, network cmds, `.py` writes, out-of-sandbox edits). **Never** use two-chat copy-paste.<br>2. **4-Signal `argon_review_queue.json`**: Queues leaves on (1) `[?]`/`[illegible]`/`[lacuna]`/`[damaged]`/`[corrupt]`, (2) `SGC-02` ratio `< 0.50` or `> 2.20`, (3) `>= 5` table rows or `>= 5` footnotes/leaf, (4) `QUARANTINED_FOR_ARGON`.<br>3. **Two-Tier Self-Healing**: Runs 4-part `attempt_deterministic_self_healing()` + max **1 `Flash` retry**, then quarantines persistent anomalies while auto-chaining non-stop (hard-stopping only on missing files or missing `=== LEAF pN ===` banners). |
+| **Phase 2: Carbon / Argon Audit & Grand Pause** | `Gemini 4 Carbon / Argon (High)` (`PHASE_2_ARGON_DEEP_AUDIT`) | 1. At `remaining_pages == 0`, halt at `AWAITING_ARGON_POST_SPRINT_AUDIT` for UI switch `Flash` → `Carbon / Argon (High)`.<br>2. Run `--run-argon-audit` (parent `Carbon / Argon` if `<= 5` leaves; batched `Model="inherit"` subagents of `<= 8` leaves if `> 5`), then `--compile-publication` (`UniversalPublicationEngine`), gated on `unresolved_quarantines == 0`.<br>3. **Grand Pause (`--approve-grand-pause`)**: Asserts gates, syncs `../Typikon Coded/Data/Inbox/`, commits & pushes (`feat(<monument>): seal canonical publication edition (leaves 1..N)`), emits next `/plan` prompt, and **retires the chat session**. |
+| **Sequestered Concurrency** | Parallel Monument Sessions | Pass `--monument <ID>` (or `$env:ACTIVE_MONUMENT_ID`) on all mutating CLI calls; `>= 2` active leases block untargeted calls with `RuntimeError("[DISAMBIGUATION REQUIRED]...")`. Manage leases via `--claim-next-monument`, `--pause-monument`, `--resume-monument`. Shared root files use `scripts/concurrency_lock.py` and `git commit --only`. |
+
+| Rule | Mandatory Epigraphic & Operational Invariant |
+| :--- | :--- |
+| **### 15. Leaf Conservation & Facsimile Indexing** | Cohorts (`default_cohort_size: 10`) execute `1..N` in ascending **Physical PDF Leaf Index** order from `p1` (rear calibration cohorts banned); `Book Page = PDF Leaf - Offset`. `assemble_and_sync_hub.py` enforces `∪_k Leaves(C_k) ≡ {1..N}`; `structural_audit.py` enforces `min(Leaves_K) <= max(Leaves_{K-1}) + 1`. |
+| **### 16. Epigraphic Fidelity & Incipits** | Ground 100% in 300 DPI scans. Never expand printed incipits (`**"God is the Lord"**`, `**"Lord, have mercy"**`, `**"Glory..."**`, *titlo* cues) into unwritten full prayers. Bracket lacunae/restorations `[...]` and document significant variants in `[^N]`. |
+| **### 17. Empirical Discourse & Gate 1B** | Maintain dry, evidence-backed tone (puffery like *"melodic DNA"*, *"twin pillars"*, *"rich tapestry"* is banned). Gate 1B (`scripts/lint_liturgical_slop.py`) rejects pseudo-archaic slop (*verily, betwixt, twas, methinks, hearken, wherefore* in body rubrics, *peradventure, forsooth, haply, effulgent, resplendent, lo and behold*), 3rd-person `-eth` verbs (120+ detector), AI clichés (*testament to, beacon of, delve into*), and rubrical `"shall"`-bombing. |
+| **### 18. Re-Run vs. Patch Protocol** | **In-Place Patch**: Intact scans (`0%` missing), AST/regex/glossary solvable, scope `<= 5%`. **Complete Re-Run**: Missing/misordered folios or omissions `> 5%`, holistic semantic re-translation needed, or scope `> 20%`. Archive prior files to `archive/pre_rerun_YYYYMMDD_HHMMSS/` and run a post-rerun Delta Audit. |
+| **### 19. Universal Onboarding Prompts** | Generate handoff/deferral prompts via `build_phase0_onboarding_prompt()` (`data/templates/phase0_onboarding_prompt_template.md`) using interactive slash-command URI syntax (`[/plan](slashCommand;plan)`, `[/grill-me](slashCommand;grill-me)`, never bare `/plan`), stating only `{title} ({monument_id})` and Turn-1 read-only Phase 0 planning stop. |
+| **### 20. Canonical Drive E Asset Vault** | Drive E (`/Google Drive/Liturgical Library/` and `<canonical_mirror_dir>/JPGs/` in `codex_registry.json`) is the master vault for **300 DPI JPEG (Quality 92)** rasters (`Page_0001.jpg`). Map `Source Text/images/` via `mklink /J` to Drive E (zero Drive C bloat). `extract_cohort_leaves.py` verifies Drive E Tier 1 before rendering Tier 2 (`p{p}.jpg` hardlinks banned). Resolve rasters/PDFs via recursive `.rglob("Page_*.jpg")` and `.rglob(pdf_name)` (§6.1). |
+| **### 21. Potemkin Epigraphy (`PE-HSG-01`..`05`)** | Nested under `GLOBAL_SYSTEM_RULES.md` §8: **`PE-HSG-01`** bans hardcoded prose/reconstructions/`[INSERT DIAGRAM...]` in `.py` builders (keep templates in `data/templates/*.md`); **`PE-HSG-02`** bans range headers (`## ... (pp. X-Y)`) from leaf conservation (require explicit `=== LEAF pN ===`); **`PE-HSG-03` (`SGC-02`)** requires `>= 50` alphanumeric chars, `>= 10` words, and `Source Text/` ↔ `Cohorts/` word-ratio `[0.35, 3.00]`; **`PE-HSG-04`** bans unverified incipit expansion; **`PE-HSG-05`** bans leaked `### Notes`, inline footnote defs, and summary blocks (Gates 1, 5, 6 of `verify_publication_edition.py`); consume the 4 `../Shared_Lexicon/Atomic_Liturgical_Corpus/` shards **read-only** (§7). |
+| **### 22. Anti-Pretraining Law (`SGC-06`)** | (1) **Tabula Rasa**: Construct internal indices, primitives registries, Podoben grids, and rubric catalogs **100% bottom-up from physical leaf ink (`p1`..`pN`)**. (2) **5-Tuple Locus**: Every internal entry requires `>= 1` attestation `⟨Folio/Col, Leaf, Office, Verbatim Rubric, Governed Incipit⟩`. (3) **Epistemic Layering**: Quarantine external Greek roots and cross-monument links in `data/byzantine_automela_concordance.json` or review digest Section 4. (4) **Zero Ghost Stubs**: Ban `0`/`—` un-attested rows; assert `len(attested_loci) > 0` at runtime. |
 
 ---
 
-### 15. Closed Mathematical Leaf Conservation Law & Universal Facsimile Indexing
-* **Absolute Ban on Out-of-Order Cohort Indexing**:
-  * All translation cohorts across every monument must be numbered and executed strictly $1 \dots N$ in monotonically ascending physical PDF facsimile leaf order, starting unconditionally at physical leaf `p1`.
-  * Ad-hoc calibration cohorts executed on rear matter (e.g. testing concluding decrees or fasting rules before chapter 1) under temporary cohort numbering are strictly prohibited.
-* **Coordinate System Disambiguation (Leaf Index vs. Printed Page Number)**:
-  * In historical codices, physical PDF leaf numbers and internal printed book page numbers diverge whenever unnumbered front matter exists ($\mathbf{Book\ Page} = \mathbf{PDF\ Leaf} - \mathbf{Front\ Matter\ Offset}$).
-  * All work orders, cohort partitions, extraction batches, and filenames MUST operate exclusively in **Physical PDF Leaf Index coordinates**. Printed book page numbers are recorded parenthetically in leaf banners for scholarly cross-reference only.
-* **Closed Mathematical Leaf Conservation Invariant**:
-  * The Master Assembler (`scripts/assemble_and_sync_hub.py`) enforces a closed set-union conservation law prior to producing any complete edition or syncing to the Hub:
-    $$\bigcup_{k} \mathbf{Leaves}(C_k) \equiv \{1, 2, \dots, \mathbf{Total\ Physical\ Pages}\}$$
-  * If $\min(\mathbf{Leaves}) \neq 1$, or an internal leaf chasm exists, or tail-end folios are missing, assembly must hard-abort with a fatal exit code.
-* **Inter-Cohort Monotonic Continuity Gate**:
-  * The Small Pause Gatekeeper (`scripts/structural_audit.py`) programmatically audits every cohort $K > 1$ against cohort $K-1$, asserting:
-    $$\min(\mathbf{Leaves}_K) \le \max(\mathbf{Leaves}_{K-1}) + 1$$
-  * Any unmapped gap between cohorts halts autonomous progression immediately.
+## Progressive-Disclosure Skills & On-Demand Reference Router
 
----
-
-### 16. Strict Epigraphic Fidelity & Incipit Preservation
-* **Grounding in Physical Ink**: All translation and transcription must be strictly grounded in the high-resolution 300 DPI page scan images. Digital text layers, OCR, and existing drafts serve strictly as secondary concordances.
-* **Prohibition of Unwritten Incipit Expansions**:
-  * Historical liturgical codices frequently record only the opening words (incipit) of a prayer, troparion, or litany (e.g. `**"God is the Lord"**`, `**"Lord, have mercy"**`, `**"Glory..."**`).
-  * Translators are **strictly prohibited** from expanding an incipit into a full unwritten liturgical text in the translation body unless that full text is physically printed on the leaf.
-* **Brackets and Footnotes for Editorial Restorations**:
-  * Any lacuna, damaged glyph, illegible phrase, or necessary syntactic restoration MUST be enclosed in square brackets `[...]`.
-  * Significant contextual restorations or variant citations must be documented in a corresponding footnote `[^N]` rather than interpolated silently into the body text.
-
----
-
-### 17. Empirical Discourse & Anti-Slop Protocol
-* **Empirical Engineering Tone**:
-  * Agents must communicate in a factual, dry, evidence-backed tone.
-  * Rhetorical puffery, marketing superlatives, self-congratulatory claims, and metaphorical flourishes (e.g., "melodic DNA", "twin pillars", "profound reframing", "rich tapestry") are strictly prohibited in agent conversations and documentation.
-  * Every progress statement must be verified by a concrete tool call, citing exit codes, line numbers, byte diffs, or file paths.
-* **Anti-Slop Linter Enforcement (Gate 1B)**:
-  * All draft and final translations are subjected to `scripts/lint_liturgical_slop.py`.
-  * The linter rejects:
-    1. Pseudo-archaic AI fantasy vocabulary (*verily, betwixt, twas, methinks, hearken, wherefore* in body rubrics, *peradventure, effulgent, resplendent, lo and behold*).
-    2. AI conversational clichés and filler (*testament to, beacon of, delve into, tapestry of, rich history, serves as a reminder, inextricably linked*).
-    3. Rubrical 'shall'-bombing in ceremonial actions (active present indicative is mandatory for bodily motions; "shall" is reserved strictly for juridical statutes).
-
----
-
-### 18. Breakthrough Invalidation & Re-Run vs. Patch Decision Protocol
-When a major developmental breakthrough occurs (e.g., new OCR/vision models, glossary overhauls, discoverable leaf caches, structural engine redesigns), agents and human operators evaluate whether to execute an automated complete re-run or apply targeted in-place patches using the following objective 4-criterion decision matrix:
-
-| Criterion | In-Place Patch Path | Complete Automated Re-Run Path |
-|---|---|---|
-| **Epigraphic Integrity** | Physical leaf images and raw transcriptions are 100% intact and complete. | Missing leaves discovered, misordered folios, corrupt OCR layers, or epigraphic omissions ($> 5\%$). |
-| **Deterministic Solvability** | Defect is isolatable via deterministic Python AST, regex, or glossary mapper (e.g. terminology find-and-replace, footnote numbering shift). | Defect requires holistic semantic or syntactic re-translation across multiple paragraphs. |
-| **Defect Scope** | Defect affects $\le 5\%$ of paragraphs or leaves across the monument. | Defect affects $> 20\%$ of paragraphs or alters fundamental document structure. |
-| **Lifecycle Phase** | Intermediate draft phase or minor post-assembly errata. | Pre-assembly raw draft or systematic breakthrough rendering existing drafts obsolete. |
-
-* **Mandatory Pre-Rerun Archiving Protocol**:
-  * Before triggering any complete re-run of a cohort or monument, the existing cohort markdown and footnote files MUST be archived into a timestamped directory: `archive/pre_rerun_YYYYMMDD_HHMMSS/`.
-  * A programmatic Delta Audit must be executed after the re-run to verify that no prior human corrections or verified glosses were lost.
-
----
-
-### 19. Concise Universal Onboarding Prompts (`GLOBAL_SYSTEM_RULES.md` §10)
-* **Universal Intent-Only Format**: Whenever an agent completes a monument handoff, defers a monument via `--defer-monument`, or responds to a "prompt for the next monument" request, the onboarding prompt **MUST** be generated via `build_phase0_onboarding_prompt()` (`data/templates/phase0_onboarding_prompt_template.md`) as a concise (1–2 sentence) copy-pasteable `text` code block obeying `GLOBAL_SYSTEM_RULES.md` §10:
-  1. **Intent + Target Only (Zero Rule/Metadata Duplication)**: State only the target monument (`{title} ({monument_id})`) and the Turn-1 planning goal. Do **not** dump file paths, page counts, vision budget caps, leaf coordinates, or CLI flags into the prompt—those belong strictly in Rule 14, `codex_registry.json`, and `phase0_preflight_brief.json`.
-  2. **Zero Slash Commands & Zero Auto-Execution Directives**: Never include `/plan`, `/grill-me`, or tool-call checklists inside the copyable prompt block.
-  3. **Infinitive Opening & Turn-1 Planning Stop**: Open with a clean infinitive phrase (`Orient on and prepare the Phase 0 implementation plan for...`) and instruct the incoming agent to run the Phase 0 preflight, author `implementation_plan.md`, and stop for review before executing any cohorts.
-* **Prohibition of Narrative-Only Handoffs**: Always provide the copy-pasteable `text` prompt block directly in the response when handing off or deferring a monument.
-
----
-
-### 20. Canonical Drive E: Master Asset Vault & Storage Tiering Mandate
-* **External Single Source of Truth**:
-  * `E:\Google Drive\Liturgical Library\` (specifically `E:\Google Drive\Liturgical Library\2. Historical Liturgical Texts\Typikons_and_Ordines\<Stem>\JPGs\` for historical Typika and the corresponding `<canonical_mirror_dir>\JPGs\` defined in `Liturgical Monuments/codex_registry.json`) is the immutable canonical master vault for all 300 DPI high-resolution page rasters across all monuments.
-  * Image format is strictly standardized to **300 DPI JPEG (Quality 92)** with 4-digit zero-padded indexing (`Page_0001.jpg`), matching the Chant Indexer spoke specification.
-* **Prohibition of Local Raster Bloat on Drive C:**:
-  * Multi-gigabyte image sets must **never** reside natively on Drive C:, as OneDrive synchronization congests cloud bandwidth and consumes local SSD capacity.
-  * All workspace image folders (`Liturgical Monuments/<Monument>/Source Text/images/`) must be transparently mapped via **NTFS Directory Junctions** (`mklink /J`) pointing to their corresponding Drive E: master vault directory.
-* **Two-Tier Extraction Hierarchy**:
-  * `scripts/extract_cohort_leaves.py` must enforce a 2-tier lookup: Tier 1 verifies existing Drive E: vault images (`Page_{p:04d}.jpg`); Tier 2 renders missing pages directly to Drive E: as quality-92 JPEGs (`Page_{p:04d}.jpg`). Creating `p{p}.jpg` or `p{p}.png` hardlink aliases on Drive E: is strictly prohibited, as cloud sync clients upload hardlinks as duplicate files.
-  * PyMuPDF rendering from source PDF is prohibited when a leaf is already present in the Drive E: vault.
-* **Drive E Recursive `.rglob()` Law (§6.1)**:
-  * Because nested subfolders in the Drive E Liturgical Library may be reorganized at any time, all scripts scanning Drive E vaults (`scripts/extract_cohort_leaves.py`, `scripts/sync_drive_e_asset_mirror.py`, `scripts/verify_publication_edition.py`) must resolve leaf rasters and source PDFs dynamically via recursive `.rglob("Page_*.jpg")` and `.rglob(pdf_name)` searches rather than brittle single-level path joins.
-
----
-
-### 21. Potemkin Epigraphy & Header-Span Goodhart Gaming (`PE-HSG-01`..`05` / `SGC-Translation`)
-Nested under the ecosystem-wide **Synthetic Goodhart Compliance (`SGC-01`..`SGC-05`)** law in `GLOBAL_SYSTEM_RULES.md` §8:
-* **`PE-HSG-01` (Ban on Synthetic Transcription & Hardcoded Prose Builders)**:
-  * Python builder scripts must never embed hardcoded multiline liturgical prose, synthetic Slavonic/Greek reconstructions, or programmatic placeholder injections (`[INSERT DIAGRAM/TABLE HERE FROM ORIGINAL PDF]`, `(Translator's Note:...)`). All document templates must reside in external `.md` files under `data/templates/`.
-* **`PE-HSG-02` (Ban on Range-Interpolated Leaf Conservation)**:
-  * Range-spanning headers (`## ... (pp. X-Y)` or `Regex #5` interpolation) are permanently prohibited from satisfying leaf conservation in `scripts/assemble_and_sync_hub.py` or `scripts/structural_audit.py`. Every physical leaf `pN` must possess an explicit individual `=== LEAF pN ===` boundary banner.
-* **`PE-HSG-03` (3-Tier `SGC-02` Ground-Truth & Primary-Source Bijection)**:
-  * Every leaf block in `Source Text/`, `Draft/`, `Cohorts/`, and `Final/` must pass per-leaf character and word density thresholds (`>= 50` alphanumeric characters and `>= 10` words per non-blank leaf) and `Source Text/` $\leftrightarrow$ `Cohorts/` word-ratio parity (`[0.35, 3.00]`), enforced by `scripts/structural_audit.py` and Gate 6 of `scripts/verify_publication_edition.py`.
-* **`PE-HSG-04` (Ban on Unverified Incipit Expansion)**:
-  * Translators and scripts are prohibited from replacing printed incipits with unverified external full-text maps or silent liturgical interpolations.
-* **`PE-HSG-05` (Apparatus & Summary Block Isolation)**:
-  * Leaked `### Notes` headers, inline footnote definitions inside body prose, and pre-written summary blocks or agent internal reasoning notes are prohibited inside canonical publication files and enforced by Gate 1 and Gate 5 of `scripts/verify_publication_edition.py`.
-* **Shared Atomic Liturgical Corpus Integration (§7)**:
-  * When referencing standard fixed liturgical prayers or psalmody in `Shared_Lexicon/Atomic_Liturgical_Corpus/`, scripts and validators must consume the canonical 4-shard atomic files (`01_horologion_and_fixed_prayers.json`, `02_octoechos_and_menaion_propers.json`, `03_triodion_and_pentecostarion.json`, `04_euchologion_and_sacraments.json`) read-only and never write to `Shared_Lexicon/Atomic_Liturgical_Corpus/`.
-
----
-
-### 22. Universal Epigraphic Grounding & Anti-Pretraining Incursion Law (`SGC-06` / Rule 22)
-* **The Root Problem (Pre-Training Data Incursion)**: LLM agents carry latent pre-trained assumptions from modern liturgical handbooks, standard Byzantine Greek automela compendia, and 19th/20th-century Russian Synodal rubrics. Conflating internal codex evidence with external pre-trained tradition—or projecting external taxonomies onto historical monuments—is a critical failure mode that corrupts the empirical integrity of our research.
-* **Invariant Principles**:
-  1. **Tabula Rasa Internal Ground Truth**: Every monument's internal index, primitives registry, подобен grid, or rubric catalog must be constructed **100% bottom-up from the physical ink of its leaves (`p1`..`pN`)**.
-  2. **Zero Internal Model Hallucination**: No liturgical model, category, or hymnographic primitive may appear in an internal monument dataset unless it possesses $\ge 1$ verified physical attestation tuple on a physical leaf:
-     $$\mathbf{Attestation\ Locus} \equiv \big\langle \mathbf{Physical\ Folio\ \&\ Column},\ \mathbf{Leaf\ Number},\ \mathbf{Liturgical\ Office},\ \mathbf{Verbatim\ Slavonic\ Rubric},\ \mathbf{Governed\ Incipit} \big\rangle$$
-  3. **Strict Epistemic Layering (Internal vs. External Concordance)**:
-     - **Internal Primary Source Layer**: Contains ONLY what is physically printed in that monument.
-     - **External Comparative Layer**: Broad Byzantine Greek roots, post-Nikonian variants, cross-monument links, and general automela concordances MUST be strictly quarantined in separate comparative datasets (e.g. `data/byzantine_automela_concordance.json`, dedicated concordance appendices, or Section 4 of review digests). They must NEVER be merged into primary internal registries or presented as internal codex evidence.
-  4. **Prohibition of Negative Hallucinations / Ghost Stubs**: Internal codex grids and registries must never list un-invoked external textbook models with blank (`—`) or zero (`0`) attestations as if the historical codex was deficient or omitted them. A monument is its own primary witness; missing an external model belonging to a different liturgical cycle (e.g. Menaion or Horologion) is not a codex defect.
-  5. **Programmatic Assertion Gate**: Every primitives registry and podoben grid builder must programmatically assert that 100% of items in any primary monument registry satisfy `len(attested_loci) > 0`. Empty or un-attested stubs are rejected at runtime.
-
+| Skill (`< 4,000 B`) | Domain & On-Demand `.agents/skills/<skill>/references/*.md` Playbooks |
+| :--- | :--- |
+| `monument_translation_orchestrator` | Phase 0/1/2 orchestration (`references/bookend_routing_and_concurrency.md`), 8 Engine Defaults & Mandates 1–13 (`references/house_style_and_work_order_mandates.md`), Drive E vault (`references/drive_e_vault_and_extraction.md`), Re-Run vs. Patch (`references/rerun_vs_patch_and_autopsy.md`). |
+| `liturgical_glossary_enforcer` | MTS-1 registers, realia, & `lint_vocabulary.py` rules (`references/mts1_registers_and_realia.md`), Gate 1B anti-slop & Deity pronoun audit (`references/anti_slop_and_pronoun_gates.md`). |
+| `liturgical_text_auditor` | Bilingual structural-key chunking (`<= 15,000` chars) & `SGC-02` parity auditing (`references/chunking_and_alignment_rules.md`). |
+| `liturgical_vision_auditor` | 300 DPI layout & `[^N]` bijectivity (`references/footnote_bijectivity_and_layout.md`), `PE-HSG-01..05` & 6-Gate LCPE verification (`references/sgc_potemkin_and_publication_gates.md`). |
+| `poetic_hymn_translator` | Slavonic physical ink primacy, colometric `*` handling, `SGC-06` *Tabula Rasa* & 3-layer Podoben grids (`references/sgc06_tabula_rasa_and_podoben_grid.md`). |

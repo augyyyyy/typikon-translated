@@ -1,24 +1,22 @@
-# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 1 (Leaves p1–p10)
-
 === LEAF p1 ===
 
 [Book Page 1]
 
-# TYPIKON,
-### that is:
+## TYPIKON,
+**that is:**
 ## THE ORDER
 ## OF ECCLESIASTICAL CHANTING
-### and Particular Rule-Reading,
-### according to the rubrical directions[^1]
-### found in the church books,
-### with the addition of
+**and Particular Rule-Reading,**
+**according to the rubrical directions[^1]**
+**found in the church books,**
+**with the addition of**
 ## The Gospel Pillars[^2]
-### according to key words,
-### composed and printed
+**according to key words,**
+**composed and printed**
 
-### IN PEREMYSHL,
-### In the Press of the Ruthenian Cathedral Chapter[^3]
-### 1852.
+**IN PEREMYSHL,**
+**In the Press of the Ruthenian Cathedral Chapter[^3]**
+**1852.**
 
 ---
 
@@ -55,7 +53,7 @@ After the Sixth Hour, the Divine Liturgy takes place. But if the Divine Liturgy 
 > 4. **Lenten Triodion** (*Трїѡ́дь по́стная*), beginning from the Sunday of the Publican and the Pharisee; and **Flowery Triodion** (*Трїѡ́дь цвѣ́тная* / Pentecostarion), used from Saturday before Palm Sunday; wherein are set the services for the movable Feasts;  
 > 5. **Psalter** (*Псалти́рь*), divided into 20 Kathismata or sections, and containing at the end the Canticles read in Lent and the Megalynaria;  
 > 6. **Heirmologion** (*І҆рмоло́гїонъ*);  
-> 7. **Liturgikon** (*Литургіко́нъ* / *Служе́бникъ*), the **Apostolos** (*А҆по́столъ*), and the **Gospel Book** (*Єv́а́ггелїе*).
+> 7. **Liturgikon** (*Литургіко́нъ* / *Служе́бникъ*), the **Apostolos** (*А҆по́столъ*), and the **Gospel Book** (*Єѵ́а́ггелїе*).
 
 ---
 
@@ -134,9 +132,9 @@ Concerning the Typika (*Оу҆бѣ́дница*) or the Service of the Typika (*
 [Book Page 9]
 
 # ORDER OF HIERATICAL CELEBRATION,
-### that is: how the Deacon serves with the Priest,
-### or the Priest alone at Great Vespers,
-### Matins, and the Divine Liturgy.
+**that is: how the Deacon serves with the Priest,**
+**or the Priest alone at Great Vespers,**
+**Matins, and the Divine Liturgy.**
 
 ## ORDER
 ## Of Small Vespers
@@ -190,9 +188,9 @@ Then: **"Glory to Thee, O Christ God..."** (*Слава тебѣ Христе Б
 
 ## ORDER
 ## Of the All-Night Vigil,
-### that is: Great Vespers with Litiya, and Matins with the First Hour,
-### on Feasts of the Lord and of the Mother of God,
-### and of Celebrated Saints.
+**that is: Great Vespers with Litiya, and Matins with the First Hour,**
+**on Feasts of the Lord and of the Mother of God,**
+**and of Celebrated Saints.**
 
 After the setting of the sun, or according to local custom here at the 5th hour after midnight before the rising of the sun[^15], the lamplighter goes and strikes the great bell slowly, reciting Psalm 50. And then, having entered, he kindles the lamps and prepares the censer; and going out again, he rings all the bells (*во вся звоны* / festal peal). Returning into the church, he kindles the candles on the candlestick before the Royal Doors, and also upon the Holy Table.
 
@@ -319,7 +317,7 @@ While the last troparion is sung in a loud voice and slowly (prolongedly), the D
 And the Deacon holding the censer with his left hand, and his orarion with three fingers of his right hand, and having said: **"Let us pray to the Lord,"**  
 The Priest says the prayer in a loud voice: **"O Lord Jesus Christ our God, Who didst bless the five loaves and therewith didst satisfy five thousand men..."** (*Господи Іисусе Христе Боже нашъ, благословивый пять хлѣбовъ*)[^22].
 
-And lifting up one loaf, he signs with it the rest of the loaves. And when he says: **"DO THOU THYSELF (AND NOW, O MASTER) BLESS..."** (*САМЪ [и НЫНѢ ВЛАДЫКО] БЛАГОСЛОВИ*), he points with his right hand, having turned it with palm upward, toward the loaves: **"THESE LOAVES..."** (*ХЛѢБЫ СЇЯ*); likewise toward the wheat, wine, and oil: **"THE WHEAT, THE WINE, AND THE OIL."** (*ПШЕНИЦУ, ВИНО И ЕЛЕЙ*).
+And lifting up one loaf, he signs with it the rest of the loaves. And when he says: **"DO THOU THYSELF (AND NOW, O MASTER) BLESS..."** (*САМЪ (*и НЫНѢ ВЛАДЫКО*) БЛАГОСЛОВИ*), he points with his right hand, having turned it with palm upward, toward the loaves: **"THESE LOAVES..."** (*ХЛѢБЫ СЇЯ*); likewise toward the wheat, wine, and oil: **"THE WHEAT, THE WINE, AND THE OIL."** (*ПШЕНИЦУ, ВИНО И ЕЛЕЙ*).
 
 At the conclusion of the prayer and after the **"Amen,"** the Choir sings: **"Blessed be the name of the Lord, from this time forth and unto all ages"** (three times) in Tone 4.  
 Then Psalm 33 is read: **"I will bless the Lord at all times..."** (*Благословлю Господа на всякое время*). And we say

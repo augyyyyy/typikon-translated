@@ -1,6 +1,6 @@
 === LEAF p741 ===
 
-# Great Lent: Friday of the Fifth Week and The Akathist Hymn with Compline Opening (§§ 49, 50 Opening)
+## Great Lent: Friday of the Fifth Week and The Akathist Hymn with Compline Opening (§§ 49, 50 Opening)
 
 ## Παρασκευὴ τῆς Ε΄ Ἑβδομάδος καὶ ὁ Ἀκάθιστος Ὕμνος μετὰ Ἀποδείπνου (§§ 49, 50 Ἀρχή) [Violakis, p. 726]
 
@@ -19,7 +19,7 @@
 
 === LEAF p742 ===
 
-# Great Lent: Friday of the Fifth Week and The Akathist Hymn with Compline Opening (§§ 49, 50 Opening)
+## Great Lent: Friday of the Fifth Week and The Akathist Hymn with Compline Opening (§§ 49, 50 Opening)
 
 ## Friday of the Fifth Week and The Akathist Hymn with Compline Opening (§§ 49, 50 Opening) [Violakis, p. 727]
 
@@ -41,7 +41,7 @@ WITH COMPLINE**
 
 === LEAF p743 ===
 
-# Great Lent: The Akathist Hymn with Compline Concluded, Saturday Matins of the Akathist, and Divine Liturgy Opening (§§ 50 Concluded, 51, 52 Opening)
+## Great Lent: The Akathist Hymn with Compline Concluded, Saturday Matins of the Akathist, and Divine Liturgy Opening (§§ 50 Concluded, 51, 52 Opening)
 
 ## Τέλος τοῦ Ἀκαθίστου Ὕμνου μετὰ Ἀποδείπνου, Ὄρθρος καὶ Θεία Λειτουργία τοῦ Σαββάτου (§§ 50 Τέλος, 51, 52 Ἀρχή) [Violakis, p. 728]
 
@@ -58,13 +58,13 @@ WITH COMPLINE**
 
 === LEAF p744 ===
 
-# Great Lent: The Akathist Hymn with Compline Concluded, Saturday Matins of the Akathist, and Divine Liturgy Opening (§§ 50 Concluded, 51, 52 Opening)
+## Great Lent: The Akathist Hymn with Compline Concluded, Saturday Matins of the Akathist, and Divine Liturgy Opening (§§ 50 Concluded, 51, 52 Opening)
 
 ## The Akathist Hymn with Compline Concluded, Saturday Matins, and Divine Liturgy Opening (§§ 50 Concluded, 51, 52 Opening) [Violakis, p. 729]
 
 ... Champion Leader"** (*Τῇ ὑπερμάχῳ*, recited), **"Lord, have mercy"** (40 times). Then the Prayer of the Hours: **"Thou Who at all times and at every hour art worshipped and glorified in heaven and on earth, Christ our God..."** (*Ὁ ἐν παντὶ καιρῷ*), **"Lord, have mercy"** (3 times), "Glory... Both now and ever...", **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*), **"In the name of the Lord, Father, give the blessing!"** The Priest: **"May God be merciful unto us, and bless us..."** (*Ὁ Θεὸς οἰκτιρήσαι ἡμᾶς*), and then the Prayers: **"O spotless, undefiled, incorrupt, unblemished, pure Virgin, Lady Bride of God..."** (*Ἄσπιλε, ἀμόλυντε*), **"And grant unto us, Master, as we depart unto sleep, rest of body and soul..."** (*Καὶ δὸς ἡμῖν, Δέσποτα*), **"O most glorious Ever-Virgin, Mother of Christ our God..."** (*Ὑπερένδοξε ἀειπάρθενε*), **"The Father is my hope, the Son is my refuge, the Holy Spirit is my protection: O Holy Trinity, glory to Thee!"** (*Ἡ ἐλπίς μου ὁ Πατήρ*), **"All my hope I place in thee, O Mother of God: keep me under thy protection!"** (*Τὴν πᾶσαν ἐλπίδα μου*), and the Dismissal. After the Litany of Mutual Forgiveness: **"Let us pray for the peace of the world..."** (*Εὐξώμεθα ὑπὲρ τῆς εἰρήνης τοῦ κόσμου*), we chant slowly the Sessional Hymn [Kathisma]: **"The beauty of thy virginity and the surpassing splendor of thy purity did Gabriel behold..."** (*Τὴν ὡραιότητα*); then: **"Through the prayers of our holy fathers, Lord Jesus Christ our God, have mercy on us. Amen."** (*Δι' εὐχῶν*).
 
-51.    On Saturday at Matins, after the Midnight Office and the Six Psalms, at **"God is the Lord"** (*Θεὸς Κύριος*), we chant the Troparion: **"When the Angel perceived what had secretly been commanded..."** (*Τὸ προσταχθὲν μυστικῶς*) twice; then the appointed Kathisma of the Psalter followed by the Sessional Hymn [Kathisma]: **"The great commander of the bodiless angels..."** (*Ὁ μέγας στρατηγὸς*) twice, Psalm 50 (recited), and the Canon: **"I shall open my mouth, and it shall be filled with the Spirit..."** (*Ἀνοίξω τὸ στόμα μου*) in six. After the Third Ode, immediately the above Sessional Hymn once. At the Sixth Ode, the Triodia are added; after the Sixth Ode, the Kontakion: **"To Thee, the Champion Leader..."** (*Τῇ ὑπερμάχῳ*) and the Oikos: **"An Archangel was sent from heaven to say to the Mother of God: Rejoice!..."** (*Ἄγγελος πρωτοστάτης*). Then the Menologion of the Saints of the day from the Menaion and the Memorial [Hypomnema] of the Triodion; then we chant the remaining Odes of the Canon with the Triodia. Then the Katavasiai: **"I shall open my mouth..."**; after Ode 8, we chant: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*), then the Exaposteilarion: **"The mystery hidden from all eternity is made known today: God the Word becometh the Son of the Virgin Mary..."** (*Τὸ ἀπ’ αἰῶνος μυστήριον*) twice. At the Praises [Lauds], four Stichera: **"The hidden mystery..."** (*Τὸ κεκρυμμένον μυστήριον*) twice, **"A glorious palace hath been prepared for Thee..."** (*Παστὰς εὐπρεπὴς ἡτοιμάσθη σοι*), **"Gabriel the Archangel came openly unto thee..."** (*Γαβριὴλ ὁ Ἀρχάγγελος*); "Glory... Both now and ever...": **"The Theotokos heard a tongue that she knew not..."** (*Γλῶσσαν ἣν οὐκ ἔγνω*), the Great Doxology, and the Troparion: **"When the Angel perceived what had secretly been commanded..."** (*Τὸ προσταχθὲν μυστικῶς*).
+51.    On Saturday at Matins, after the Midnight Office and the Six Psalms, at **"God is the Lord"** (*Θεὸς Κύριος*), we chant the Troparion: **"When the Angel perceived what had secretly been commanded..."** (*Τὸ προσταχθὲν μυστικῶς*) twice; then the appointed Kathisma of the Psalter followed by the Sessional Hymn [Kathisma]: **"The great commander of the bodiless angels..."** (*Ὁ μέγας στρατηγὸς*) twice, Psalm 50 (recited), and the Canon: **"I shall open my mouth, and it shall be filled with the Spirit..."** (*Ἀνοίξω τὸ στόμα μου*) in six. After the Third Ode, immediately the above Sessional Hymn once. At the Sixth Ode, the Triodia are added; after the Sixth Ode, the Kontakion: **"To Thee, the Champion Leader..."** (*Τῇ ὑπερμάχῳ*) and the Oikos: **"An Archangel was sent from heaven to say to the Mother of God: Rejoice!..."** (*Ἄγγελος πρωτοστάτης*). Then the Menologion of the Saints of the day from the Menaion and the Memorial [Hypomnema] of the Triodion; then we chant the remaining Odes of the Canon with the Triodia. Then the Katavasiai: **"I shall open my mouth..."**; after Ode 8, we chant: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*), then the Exaposteilarion: **"The mystery hidden from all eternity is made known today: God the Word becomes the Son of the Virgin Mary..."** (*Τὸ ἀπ’ αἰῶνος μυστήριον*) twice. At the Praises [Lauds], four Stichera: **"The hidden mystery..."** (*Τὸ κεκρυμμένον μυστήριον*) twice, **"A glorious palace hath been prepared for Thee..."** (*Παστὰς εὐπρεπὴς ἡτοιμάσθη σοι*), **"Gabriel the Archangel came openly unto thee..."** (*Γαβριὴλ ὁ Ἀρχάγγελος*); "Glory... Both now and ever...": **"The Theotokos heard a tongue that she knew not..."** (*Γλῶσσαν ἣν οὐκ ἔγνω*), the Great Doxology, and the Troparion: **"When the Angel perceived what had secretly been commanded..."** (*Τὸ προσταχθὲν μυστικῶς*).
 
 52.    In the Divine Liturgy, the Typika and the Beatitudes [Makarismoi]: Troparia from the Third and Sixth Odes of the Canon of the Theotokos. After the Little Entrance, the Troparion: **"When the Angel perceived what had secretly been commanded..."**, and the Kontakion: **"To Thee, the Champion Leader..."** (*Τῇ ὑπερμάχῳ*). The Epistle [Apostolos]: Hebrews 9:1–7 ("Brethren, the first covenant had ordinances of divine service and an earthly sanctuary..."); and the Gospel: Luke 1:39–56 ("In those days Mary arose and went into the hill country with haste...").[^431]
 
@@ -75,7 +75,7 @@ WITH COMPLINE**
 
 === LEAF p745 ===
 
-# Great Lent: Saturday of the Akathist: Divine Liturgy Concluded and The Akathist Hymn in Matins (§§ 52 Concluded, 53)
+## Great Lent: Saturday of the Akathist: Divine Liturgy Concluded and The Akathist Hymn in Matins (§§ 52 Concluded, 53)
 
 ## Τέλος τῆς Θείας Λειτουργίας τοῦ Σαββάτου καὶ ὁ Ἀκάθιστος Ὕμνος ἐν τῷ Ὄρθρῳ (§§ 52 Τέλος, 53) [Violakis, p. 730]
 
@@ -93,7 +93,7 @@ WITH COMPLINE**
 
 === LEAF p746 ===
 
-# Great Lent: Saturday of the Akathist: Divine Liturgy Concluded and The Akathist Hymn in Matins (§§ 52 Concluded, 53)
+## Great Lent: Saturday of the Akathist: Divine Liturgy Concluded and The Akathist Hymn in Matins (§§ 52 Concluded, 53)
 
 ## Saturday of the Akathist: Divine Liturgy Concluded and The Akathist Hymn in Matins (§§ 52 Concluded, 53) [Violakis, p. 731]
 
@@ -111,7 +111,7 @@ IN MATINS**
 
 === LEAF p747 ===
 
-# Great Lent: The Akathist Hymn in Matins Concluded, and Fifth Sunday of Great Lent (Saint Mary of Egypt) Opening (§§ 53 Concluded, 54, 55 Opening)
+## Great Lent: The Akathist Hymn in Matins Concluded, and Fifth Sunday of Great Lent (Saint Mary of Egypt) Opening (§§ 53 Concluded, 54, 55 Opening)
 
 ## Τέλος τοῦ Ὄρθρου τοῦ Ἀκαθίστου καὶ Κυριακὴ Ε΄ τῶν Νηστειῶν (Μαρίας τῆς Αἰγυπτίας) (§§ 53 Τέλος, 54, 55 Ἀρχή) [Violakis, p. 732]
 
@@ -127,7 +127,7 @@ IN MATINS**
 
 === LEAF p748 ===
 
-# Great Lent: The Akathist Hymn in Matins Concluded, and Fifth Sunday of Great Lent (Saint Mary of Egypt) Opening (§§ 53 Concluded, 54, 55 Opening)
+## Great Lent: The Akathist Hymn in Matins Concluded, and Fifth Sunday of Great Lent (Saint Mary of Egypt) Opening (§§ 53 Concluded, 54, 55 Opening)
 
 ## The Akathist Hymn in Matins Concluded, and Fifth Sunday of Great Lent (Saint Mary of Egypt) Opening (§§ 53 Concluded, 54, 55 Opening) [Violakis, p. 733]
 
@@ -148,7 +148,7 @@ Instead of **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν
 
 === LEAF p749 ===
 
-# Great Lent: Fifth Sunday of Great Lent (Saint Mary of Egypt) Matins Concluded, Basil Liturgy, Sunday Vespers, Wednesday Presanctified, and Friday of the Palms Opening (§§ 55 Concluded, 56, 57, 58, 59 Opening)
+## Great Lent: Fifth Sunday of Great Lent (Saint Mary of Egypt) Matins Concluded, Basil Liturgy, Sunday Vespers, Wednesday Presanctified, and Friday of the Palms Opening (§§ 55 Concluded, 56, 57, 58, 59 Opening)
 
 ## Τέλος τοῦ Ὄρθρου καὶ Θεία Λειτουργία τῆς Ε΄ Κυριακῆς, Μεσοβδόμαδον καὶ Παρασκευὴ τῶν Βαΐων (§§ 55 Τέλος, 56, 57, 58, 59 Ἀρχή) [Violakis, p. 734]
 
@@ -169,7 +169,7 @@ Instead of **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν
 
 === LEAF p750 ===
 
-# Great Lent: Fifth Sunday of Great Lent (Saint Mary of Egypt) Matins Concluded, Basil Liturgy, Sunday Vespers, Wednesday Presanctified, and Friday of the Palms Opening (§§ 55 Concluded, 56, 57, 58, 59 Opening)
+## Great Lent: Fifth Sunday of Great Lent (Saint Mary of Egypt) Matins Concluded, Basil Liturgy, Sunday Vespers, Wednesday Presanctified, and Friday of the Palms Opening (§§ 55 Concluded, 56, 57, 58, 59 Opening)
 
 ## Fifth Sunday of Great Lent Matins Concluded, Basil Liturgy, Sunday Vespers, Wednesday Presanctified, and Friday of the Palms Opening (§§ 55 Concluded, 56, 57, 58, 59 Opening) [Violakis, p. 735]
 

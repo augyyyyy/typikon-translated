@@ -174,7 +174,7 @@ He who was caught up unto the third heaven into paradise [2 Cor. 12:2–4], and 
 *Sessional Hymn of the Saint, Tone 4, Podoben: "Speedily anticipate" (Ско́рѡ предварѝ):*
 Thou didst burn up the deception of the schismatics, O hieromartyr Josaphat; thou didst rightly clarify the faith by the Union, and didst enlighten the world; therefore thou didst appear as a sign-bearing sufferer, a pillar of the Church, and a true pastor: pray unceasingly unto Christ, that we all may be saved.[^1484]
 
-*Glory, both now, in the same tone and same podoben:*
+*Glory, both now, in the same tone and same podoben (Подо́бенъ то́йже):*
 In thee, O thrice-blessed and life-giving Cross, the peoples, feasting, celebrate together with the immaterial choirs; the hierarchal orders devoutly sing hymns, and the multitude of monastics and fasters bow down in worship; and all of us glorify Christ Who was crucified.[^1485]
 
 *Ode 4. Heirmos:*

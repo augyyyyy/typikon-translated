@@ -1,5 +1,3 @@
-# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 2 (Leaves p11–p20)
-
 === LEAF p11 ===
 
 [Book Page 20]
@@ -29,7 +27,7 @@ The Choir: **"And to thy spirit."**
 The Deacon:  
 **"Wisdom! Standing upright, let us hear the holy Gospel."** (*Премꙋ́дрость, про́сти оу҆слы́шимъ ст҃а́гѡ е҆ѵⷢлїа*)  
 The Priest:  
-**"The reading from the holy Gospel according to [Name]."** (*Ѿ [и҆́мѧкъ] е҆ѵⷢлїа чте́нїе*)  
+**"The reading from the holy Gospel according to [Name]."** (*Ѿ (*и҆́мѧкъ*) е҆ѵⷢлїа чте́нїе*)  
 The Choir:  
 **"Glory to Thee, O Lord, glory to Thee."** (*Сла́ва тебѣ̀ Го́споди, сла́ва тебѣ̀*)  
 
@@ -128,8 +126,8 @@ and the complete Dismissal.
 [Book Page 24]
 
 ## The Order
-### OF GREAT VESPERS,
-#### Chanted on Saturday Evening for Sunday.
+**OF GREAT VESPERS,**
+**Chanted on Saturday Evening for Sunday.**
 
 The Priest, having put on the epitrachelion, and standing before the royal doors, says:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  
@@ -171,7 +169,7 @@ The Choir, having
 having read through the remaining verses of Psalm 140 and Psalm 141, set—if it is Sunday—ten verses, beginning from:  
 **"Bring my soul out of prison, that I may praise Thy name."** (*И҆зведѝ и҆зъ те́мницы дꙋ́шꙋ мою̀*)  
 and the Stichera written for **"Lord, I have cried"** are sung, as the rubrical table inscribed hereafter indicates. And when the verse is said:  
-**"For His mercy is confirmed upon us, and the truth of the Lord endureth forever."** (*Ꙗ҆́кѡ оу҆тверди́сѧ ми́лость е҆гѡ̀ на на́съ*)  
+**"For His mercy is confirmed upon us, and the truth of the Lord endures forever."** (*Ꙗ҆́кѡ оу҆тверди́сѧ ми́лость е҆гѡ̀ на на́съ*)  
 then the Priest, having made a bow, enters into the holy sanctuary and vests in the phelonion. When they begin to sing  
 **"Glory to the Father, and to the Son, and to the Holy Spirit, now and forever, and unto the ages of ages. Amen."**  
 in the midst of the church, the Priest opens the royal doors, and going around the holy table by the north side, makes the Entrance with the censer, having his phelonion let down. (If there is a Deacon, he does everything here that is done at the All-Night Vigil.) Two servers with candles precede him. And having stood before the holy doors, he says secretly the Entrance Prayer, and awaits the completion of the First Theotokion (Dogmatikon).[^39]  
@@ -247,7 +245,7 @@ and the rest, as in the Horologion, and commemorates the saint whose service is 
 [Book Page 29]
 
 ## The Order
-### OF SUNDAY MIDNIGHT OFFICE
+**OF SUNDAY MIDNIGHT OFFICE**
 
 Sunday Midnight Office is celebrated before the royal doors in the church.  
 The Priest, having put on the epitrachelion, makes the beginning:  
@@ -282,8 +280,8 @@ and the rest.
 [Book Page 30]
 
 ## The Order
-### OF SUNDAY MATINS,
-#### or Resurrectional Matins.
+**OF SUNDAY MATINS,**
+**or Resurrectional Matins.**
 
 The Priest, after the Dismissal of the Sunday Midnight Office, wearing the epitrachelion only, making a bow, makes the beginning:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  
@@ -300,7 +298,7 @@ Then the Troparia:
 **"Thou Who wast voluntarily lifted up upon the Cross, bestow Thy mercies upon the new commonwealth called by Thy name, O Christ God..."** (*Вознесы́йсѧ на Крⷭ҇тъ...*)  
 **"Now and forever, and unto the ages of ages. Amen."**  
 **"O champion and dread Protectress, despise not our prayers, O Good One..."** (*Предста́тельнице стра́шнаѧ...*)  
-After these the Priest says the Litany for the Emperor [Ца́рская екте́нїя]:  
+After these the Priest says the Litany for the Emperor (*Ца́рская екте́нїя*):  
 **"Have mercy on us, O God, according to Thy great mercy..."**  
 and:  
 **"Again we pray for our most pious Emperor [Franz Joseph I]..."**  
@@ -329,7 +327,7 @@ After the Six Psalms, when the Choir sings
 the Priest, standing before the royal doors, says the Great Litany:  
 **"In peace let us pray to the Lord."**  
 And after the exclamation, the Choir proclaims:  
-**"God is the Lord, and hath appeared unto us: blessed is He that cometh in the name of the Lord."** (*Бо́гъ Госпо́дь и҆ ꙗ҆ви́сѧ на́мъ...*)  
+**"God is the Lord, and hath appeared unto us: blessed is He that comes in the name of the Lord."** (*Бо́гъ Госпо́дь и҆ ꙗ҆ви́сѧ на́мъ...*)  
 and sings it in the occurring tone of the Octoechos. The Priest or the Reader reads also its verses.  
 Then they sing the Resurrectional Troparion twice; "Glory..." of the Saint of that day; "Now and forever, and unto the ages of ages:" Theotokion according to the tone of the troparion of the saint. [Or as is otherwise indicated in the Typikon.]  
 After the troparia, the Choir immediately says:  
@@ -516,15 +514,15 @@ and the rest, and commemorates the saint whose service is sung.
 After the Dismissal the royal doors are closed, and the Choir:  
 **"Come, let us worship and bow down..."** (three times),  
 and reads the First Hour; and after the prayer:  
-**"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world..."** (*Хрїстѐ свѣ́те и҆́стинный...*)  
+**"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world..."** (*Хрїстѐ свѣ́те и҆́стинный...*)  
 the Priest says:  
 **"Glory to Thee, O Christ God, our hope, glory to Thee!"**  
 and the Dismissal takes place.  
 The Third and Sixth Hours are read by the Priest privately.
 
 ## The Order
-### OF GREAT MATINS
-#### On Weekdays, if there occurs a Saint having a Polyeleos.
+**OF GREAT MATINS**
+**On Weekdays, if there occurs a Saint having a Polyeleos.**
 
 The Priest, having put on the epitrachelion, comes before the royal doors, and having made a bow there, says:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  
@@ -543,7 +541,7 @@ the Litany, the Six Psalms, and all the rest of Matins we chant as was prescribe
 After the second Sessional Hymn with "Glory... Now and forever, and unto the ages of ages," and Theotokion, the Choir sings the Polyeleos, that is: verses from the 19th Kathisma:  
 **"Praise the name of the Lord, praise the Lord, O ye servants..."** [Psalm 134]  
 and:  
-**"Give thanks unto the Lord, for He is good: for His mercy endureth forever."** [Psalm 135]  
+**"Give thanks unto the Lord, for He is good: for His mercy endures forever."** [Psalm 135]  
 Then the Megalynarion of the Saint with selected verses from the Psalms. Thereupon the Little Litany is said; and the Choir sings the Sessional Hymn after the Polyeleos, "Glory... Now and forever, and unto the ages of ages," Theotokion.  
 Then the Gradual Hymns (*Степе́нна* / *Anavathmoi*) of Tone 4, 1st Antiphon:  
 **"From my youth up many passions war against me..."** (*Ѿ ю́ности моея̀ мно́зи бо́рютъ мя̀ стра́сти...*)  
@@ -575,7 +573,7 @@ and the rest, as was indicated a little above in Sunday Matins on folio 33, unto
 After the Great Doxology and both litanies, the Priest makes the Great Dismissal, as was indicated for Sunday; and after the Dismissal immediately the Choir:  
 **"Come, let us worship and bow down..."** (three times),  
 and reads the First Hour; and after the Prayer:  
-**"O Christ, the true Light, Who enlightenest and sanctifiest every man that cometh into the world:"**  
+**"O Christ, the true Light, Who enlightenest and sanctifiest every man that comes into the world:"**  
 the Priest:  
 **"Glory to Thee, O Christ God, our hope, glory to Thee!"**  
 Then the complete Dismissal:  
@@ -590,8 +588,8 @@ Then the complete Dismissal:
 [Book Page 39]
 
 ## The Order
-### OF WEEKDAY VESPERS,
-#### or Daily Vespers.
+**OF WEEKDAY VESPERS,**
+**or Daily Vespers.**
 
 The Priest, having entered into the temple, makes three bows before the royal doors; he takes also the epitrachelion, and having blessed it and kissed the cross upon it, puts it upon himself; and standing before the royal doors, with a bow begins according to custom:  
 **"Blessed is our God, always, now and forever, and unto the ages of ages."** (*Благослове́нъ Бо́гъ на́шъ...*)  

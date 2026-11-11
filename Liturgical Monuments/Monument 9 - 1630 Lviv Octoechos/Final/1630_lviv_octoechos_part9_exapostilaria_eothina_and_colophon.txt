@@ -106,7 +106,7 @@ The doors being shut, O Master, when Thou didst enter, Thou didst fill the Apost
 
 Theotokion:
 
-O pure Birth-giver of God and most holy Virgin, joy of the sorrowful, protection of the world, intercessor for sinners: comfort our sorrowing hearts by thy prayers, for after God we the faithful have no other hope save thee, O merciful and pure one, our expectation, lover of peace and salvation of the world, O Maiden![^347]
+O pure Birthgiver of God and most holy Virgin, joy of the sorrowful, protection of the world, intercessor for sinners: comfort our sorrowing hearts by thy prayers, for after God we the faithful have no other hope save thee, O merciful and pure one, our expectation, lover of peace and salvation of the world, O Maiden![^347]
 
 [f. 4vA] Evangelical Stichera 9. Tone 5:
 
@@ -118,7 +118,7 @@ The Sea of Tiberias with the children of Zebedee, and Nathanael with Peter, toge
 
 Theotokion:
 
-Worshipping Thine honored icon, O all-pure one: show us to be children of the light, inhabitants of Paradise, and partakers of the Kingdom; for we are thy suppliants and thy people, O all-pure one! Let us not fall away from thy protection, O Theotokos, and account us all worthy of salvation, O all-immaculate one!
+Worshipping thine honored icon, O all-pure one: show us to be children of the light, inhabitants of Paradise, and partakers of the Kingdom; for we are thy suppliants and thy people, O all-pure one! Let us not fall away from thy protection, O Theotokos, and account us all worthy of salvation, O all-immaculate one!
 
 Evangelical Stichera 10. Tone 6:
 
@@ -130,7 +130,7 @@ After the divine Resurrection, the Lord said thrice unto Peter: Lovest thou Me? 
 
 Theotokion:
 
-Rejoice! we cry aloud unto thee, O all-pure Theotokos: for thou didst announce joy, and didst turn Eve's sorrow into joy, O Virgin; fill us also with thy joy, and by the light of Thy Son account us all worthy of the portion of the elect, O all-pure one, and we all cry aloud unto thee: Rejoice, O pure Maiden!
+Rejoice! we cry aloud unto thee, O all-pure Theotokos: for thou didst announce joy, and didst turn Eve's sorrow into joy, O Virgin; fill us also with thy joy, and by the light of thy Son account us all worthy of the portion of the elect, O all-pure one, and we all cry aloud unto thee: Rejoice, O pure Maiden!
 
 Evangelical Stichera 11. Tone 8:
 
@@ -166,7 +166,13 @@ State Museum of the Book and Printing of the Ukrainian SSR
 
 Fond 2124
 
-Inventory No. CD-97 [p267RA] [Monumental seventeenth-century blind-tooled calfskin binding over bevelled wooden boards. The decorative program consists of an outer rectangular border impressed with a Renaissance floral and vine roll, enclosed within triple fillet blind lines; an intermediate frieze of palmette scrolls; and an inner rectangular panel divided into two quadripartite compartments by diagonal blind fillets forming cross-hatched triangular fields. Along the fore-edge are affixed three chased brass clasp catches mounted upon layered calfskin thongs with brass rivets, matching the front board fittings and preserving the volume under tension. Marking the physical completion of Monument 9: 1630 Lviv Octoechos.][^351]
+Inventory No. CD-97
+
+*(Vacat — Blank protective flyleaf)*
+
+[p267LA] *(Vacat — Blank rear endpaper and vellum guard strip along inner hinge.)*
+
+[p267RA] [Monumental seventeenth-century blind-tooled calfskin binding over bevelled wooden boards. The decorative program consists of an outer rectangular border impressed with a Renaissance floral and vine roll, enclosed within triple fillet blind lines; an intermediate frieze of palmette scrolls; and an inner rectangular panel divided into two quadripartite compartments by diagonal blind fillets forming cross-hatched triangular fields. Along the fore-edge are affixed three chased brass clasp catches mounted upon layered calfskin thongs with brass rivets, matching the front board fittings and preserving the volume under tension. Marking the physical completion of Monument 9: 1630 Lviv Octoechos.][^351]
 
 ---
 
@@ -180,6 +186,6 @@ Inventory No. CD-97 [p267RA] [Monumental seventeenth-century blind-tooled calfsk
 [^346]: Resurrectional Cycle Continued: Tone 7 through Tone 8 (physical leaf p264 Left Page): Tone 7 Exaposteilarion 7 ('When Mary said that they had taken away the Lord') on Simon Peter and John running unto the sepulchre and discovering the folded napkin; Tone 7 Theotokion ('I praise Thy boundless mercy, O my Helmsman'); Tone 7 Evangelical Stichera 7 ('Behold, it was darkness and early') on Mary Magdalene's search and the disciples' belief; and Tone 8 Exaposteilarion 8 incipit ('Beholding two angels within the tomb, Mary was amazed').
 [^347]: Resurrectional Cycle Continued: Tone 8 through Evangelical 9 (physical leaf p264 Right Page): Concluding Tone 8 Exaposteilarion 8 with the command 'Touch Me not, for I ascend unto the Father'; Tone 8 Theotokion ('O Maiden, thou didst ineffably give birth unto One of the Trinity in two natures'); Tone 8 Evangelical Stichera 8 ('Mary's tears are not poured forth warmly in vain') on Mary's apostolic commission as herald unto the disciples; Evangelical 9 Exaposteilarion 9 in Tone 5 ('The doors being shut, O Master') on the breathing of the Holy Spirit and Thomas's confession; and Evangelical 9 Theotokion ('O pure Birth-giver of God and most holy Virgin, joy of the sorrowful').
 [^348]: Resurrectional Cycle Continued: Evangelical 9 through Evangelical 10 (physical leaf p265 Left Page): Evangelical Stichera 9 in Tone 5 ('As in the latter days, when it was late on the Sabbath') on Christ appearing through closed doors and confirming the forgiveness of sins; Evangelical 10 Exaposteilarion 10 in Tone 6 ('The Sea of Tiberias with the children of Zebedee') on the miraculous draught of fishes; Evangelical 10 Theotokion ('Worshipping Thine honored icon, O all-pure one'); and Evangelical 10 Evangelical Stichera 10 incipit in Tone 6 ('After the descent into hades and the Resurrection from the dead') on the disciples returning to their fishing boats.
-[^349]: Resurrectional Cycle Concluded: Evangelical 10 through Evangelical 11 and 1631 Scribal Colophon (physical leaf p265 Right Page): Concluding Evangelical Stichera 10 on the mystical supper of bread and fish upon the coals; Evangelical 11 Exaposteilarion 11 in Tone 2 ('After the divine Resurrection, the Lord said thrice unto Peter: Lovest thou Me?') on Peter's pastoral commission and inquiry concerning John; Evangelical 11 Theotokion ('Rejoice! we cry aloud unto thee, O all-pure Theotokos'); Evangelical 11 Evangelical Stichera 11 in Tone 8 ('Manifesting Thyself unto the disciples after the Resurrection, O Savior'); and the scribal colophon marking the completion of the manuscript supplement on March 11, 1631 ('Конецъ Стихирамъ Еѵангелскимъ дня а̃і марца рwку ҂аха̃').
+[^349]: Resurrectional Cycle Concluded: Evangelical 10 through Evangelical 11 and 1631 Scribal Colophon (physical leaf p265 Right Page): Concluding Evangelical Stichera 10 on the mystical supper of bread and fish upon the coals; Evangelical 11 Exaposteilarion 11 in Tone 2 ('After the divine Resurrection, the Lord said thrice unto Peter: Lovest thou Me?') on Peter's pastoral commission and inquiry concerning John; Evangelical 11 Theotokion ('Rejoice! we cry aloud unto thee, O all-pure Theotokos'); Evangelical 11 Evangelical Stichera 11 in Tone 8 ('Manifesting Thyself unto the disciples after the Resurrection, O Savior'); and the scribal colophon marking the completion of the manuscript supplement on March 11, 1631 ('Конецъ Стихирамъ Еѵангелскимъ дня а̃і марца рѡку ҂аха̃').
 [^350]: 1964 Zaliztsi Novyi Colophon and Soviet State Museum Stamps (physical leaf p266 Left Page & Right Page): Autograph memorandum by cantor Mykola Makar dated December 6, 1964, documenting his clandestine concealment and preservation of the historic 1630 Lviv Octoechos for the Church of the Protection in Zaliztsi Novi during Soviet state-enforced religious closures; facing the cataloguing stamps of the State Museum of the Book and Printing of the Ukrainian SSR in Kyiv (Fond 2124, Inventory No. CD-97).
 [^351]: Historic 17th-Century Blind-Tooled Calfskin Binding (physical leaf p267 Left Page & Right Page): Concluding bibliographic examination of the original 1630 Lviv Dormition Brotherhood binding, featuring bevelled wooden boards covered in dark brown calfskin, blind-stamped with renaissance roll-stamps, concentric framing fillets, and diagonal lattice panels, with three original brass clasps and catches preserved on leather thongs along the fore-edge, marking the physical and codicological completion of Monument 9: 1630 Lviv Octoechos.

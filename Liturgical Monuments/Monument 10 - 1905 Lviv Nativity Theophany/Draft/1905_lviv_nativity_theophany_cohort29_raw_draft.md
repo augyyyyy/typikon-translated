@@ -114,7 +114,7 @@ Every tongue is at a loss...[^1012]
 *Then the refrain of the second canon, and the heirmos:*
 O the marvels beyond comprehension...[^1013]
 
-*Exapostilarion. Podoben: Thou hast visited us:*
+*Exapostilarion. Podoben: Thou hast visited us (Посѣти́лъ ны̀):*
 The Savior, grace and truth, has appeared in the streams of the Jordan, and has enlightened those sleeping in darkness and shadow; for He has come and appeared, the unapproachable Light. *(Thrice)*[^1014]
 
 *At the Praises, Stichera on 4, Tone 1:*

@@ -183,7 +183,7 @@ In those days, Jeremiah wept over Jerusalem, and said: What thing shall I take t
 
 === LEAF p647 ===
 *Lesson 2 (continued, Lamentations 3:22-26):*
-It is of the Lord's mercies that we are not consumed, because His compassions fail not. And I recognized in the morning that great is Thy faithfulness. The Lord is my portion, saith my soul; therefore will I hope in Him. The Lord is good unto them that wait for Him, to the soul that seeks Him. It is good[^2907] that a man should both hope and quietly wait for the salvation of God.
+It is of the Lord's mercies that we are not consumed, because His compassions fail not. And I recognized in the morning that great is Thy faithfulness. The Lord is my portion, says my soul; therefore will I hope in Him. The Lord is good unto them that wait for Him, to the soul that seeks Him. It is good[^2907] that a man should both hope and quietly wait for the salvation of God.
 
 *Reading from the Prophecy of Jeremiah:*[^2908]
 *Lesson 3 (Lamentations 3:40-41, 55-59; 4:1-2, 7, 11, 20; 5:19, 21):*

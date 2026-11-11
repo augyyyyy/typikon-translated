@@ -45,7 +45,7 @@ Save me, O Lord my God, for Thou art salvation unto all! The tempest of passions
 Great is the power of Thy Cross, O Lord! For it was planted in a place, and works throughout the world; and it hath shown forth fishermen as Apostles, and Gentiles as martyrs, that they might pray for our souls.[^2549]
 
 *Glory... Both now... Theotokion:*
-O Theotokos, protectress of all who pray unto thee! In thee do we take courage, and in thee do we boast, and in thee is all our hope; pray unto Him Who was born of thee, for Thine unprofitable servants.[^2550]
+O Theotokos, protectress of all who pray unto thee! In thee do we take courage, and in thee do we boast, and in thee is all our hope; pray unto Him Who was born of thee, for thine unprofitable servants.[^2550]
 
 *Then: "Now lettest Thou Thy servant depart." Trisagion, and after "Our Father": troparion and the Dismissal.*[^2551]
 

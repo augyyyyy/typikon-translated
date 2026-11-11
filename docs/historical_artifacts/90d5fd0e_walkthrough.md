@@ -10,10 +10,10 @@ We ran a global search-and-replace across 112 files in the repository (excluding
 *   **JSON Databases**: Updated `"source_ref"` fields in all service structures (`json_db/01*_struct_*.json`) and logic modules (`json_db/02*_logic_*.json`).
 *   **Documentation**: Reconciled paths in markdown documentation files like `docs/ARCHITECTURE.md` and the Master Citation Matrix.
 
-This guarantees that all citation links point directly to the local master file [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md), making the project fully self-contained.
+This guarantees that all citation links point directly to the local master file [Dolnytsky_Typikon_Master.md](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/Data/Service%20Books/Typikon/Dolnytsky_Typikon_Master.md), making the project fully self-contained.
 
 ### 2. Refactored Compliance Auditor Slicing Logic
-Updated [scripts/deepseek_compliance_audit.py](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/deepseek_compliance_audit.py):
+Updated [scripts/deepseek_compliance_audit.py](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/scripts/deepseek_compliance_audit.py):
 *   Replaced hardcoded split file paths.
 *   Implemented **dynamic master parsing** in `compile_reference_files`:
     *   Reads the unified `Dolnytsky_Typikon_Master.md`.

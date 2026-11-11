@@ -1,4 +1,4 @@
-# 1761 Pochayiv Menaion — Vol. 11: July (Pochayiv Lavra, 1761) <a id="1761-pochayiv-menaion-vol-11-july-pochayiv-lavra-1761"></a>
+# 1761 Pochaiv Menaion — Vol. 11: July (Pochaiv Lavra, 1761) <a id="1761-pochaiv-menaion-vol-11-july-pochaiv-lavra-1761"></a>
 
 *(Title Page: Book of the Menaion — Month of July)*
 
@@ -25,7 +25,7 @@ And from the Nativity of Christ 1761.[^4]
 
 ## TABLE OF CONTENTS
 
-* **[1761 Pochayiv Menaion — Vol. 11: July (Pochayiv Lavra, 1761)](#1761-pochayiv-menaion-vol-11-july-pochayiv-lavra-1761)**
+* **[1761 Pochaiv Menaion — Vol. 11: July (Pochaiv Lavra, 1761)](#1761-pochaiv-menaion-vol-11-july-pochaiv-lavra-1761)**
 * **[MONTH OF JULY](1761_pochaiv_minea_11_jul_part1_month-of-july.md#month-of-july)**
 * **[APPENDIX: RESURRECTIONAL THEOTOKIA FOR THE EIGHT TONES](1761_pochaiv_minea_11_jul_part2_appendix-resurrectional-theotokia-for-th.md#appendix-resurrectional-theotokia-for-the-eight-tones)**
 * **[APPENDIX: THEOTOKIA OF THE EIGHT TONES SUNG THROUGHOUT THE WEEK](1761_pochaiv_minea_11_jul_part3_appendix-theotokia-of-the-eight-tones-su.md#appendix-theotokia-of-the-eight-tones-sung-throughout-the-week)**
@@ -40,4 +40,4 @@ And from the Nativity of Christ 1761.[^4]
 [^2]: Sylvester Lubieniecki-Rudnytsky (Sylwester Łubieniecki-Rudnicki, ca. 1700–1777), Ruthenian Uniate Bishop of Lutsk and Ostroh (1756–1777), who administered the Metropolitanate of Kyiv and Halych as Eparch during the vacancy preceding Felician Wolodkowicz.
 [^3]: Ipatii (Hypatius) Bilynsky (1704–1771), prominent Basilian scholar, Protoarchimandrite of the Order of Saint Basil the Great (OSBM) from 1751 to 1771.
 [^4]: The Byzantine Era year 7269 (counting from 5508 BC) corresponds directly to AD 1761.
-[^5]: "Depiction of the Wonderworking Image of Our Lady Mary of Pochayiv, Crowned in the Year 1773 under Clement XIII." Although Pope Clement XIV (1769–1774) reigned when the icon was solemnly crowned on September 8, 1773, the Pochaiv engraver's inscription attributes the papal decree or initial brief to Clement XIII (1758–1769).
+[^5]: "Depiction of the Wonderworking Image of Our Lady Mary of Pochaiv, Crowned in the Year 1773 under Clement XIII." Although Pope Clement XIV (1769–1774) reigned when the icon was solemnly crowned on September 8, 1773, the Pochaiv engraver's inscription attributes the papal decree or initial brief to Clement XIII (1758–1769).

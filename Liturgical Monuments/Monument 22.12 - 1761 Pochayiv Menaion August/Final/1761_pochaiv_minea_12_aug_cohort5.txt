@@ -28,7 +28,7 @@ They who had died according to nature, truly beyond nature arose straightway as 
 With divine Jamblicus and Maximilian, let us now honor Martinian, and John, Antoninus together with Dionysius, as those who pray for us, praising with them also the wise Exacustodian in godly manner.
 
 === LEAF p42 ===
-*Other Stichera of the Theotokion, in the same tone and podoben:*
+*Other Stichera of the Theotokion, in the same tone and podoben (Гла́съ и҆ подо́бенъ то́йже):*
 
 Most glorified art thou unto generations of generations, O Virgin Maiden Mother, Birthgiver of God Mary, protectress of the world, who didst bear in the flesh the Son of the unoriginate Father, truly co-eternal with the Spirit; Whom do thou beseech to save us.
 

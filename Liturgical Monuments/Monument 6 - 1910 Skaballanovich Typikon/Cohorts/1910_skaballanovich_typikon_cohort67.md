@@ -62,15 +62,15 @@ In the most important Russian cathedrals of the 15th–16th centuries, as the ma
 *(Orig. p. 558)*
 
 === LEAF p668 ===
-# "O GLADSOME LIGHT" (*PHOS HILARON*)
+## "O GLADSOME LIGHT" (*PHOS HILARON*)
 
 ## Content of the Hymn
 
 After the stichera at **"Lord, I have cried"**, as it were in the capacity of a concluding sticheron, follows the hymn **"O Gladsome Light"** (*Svete tikhiy* / *Phōs hilaron*), termed in the Greek Horologion "the Lucernarium (*epilychnios* [printed *epilychnōs* / Gr. ἐπιλύχνως]) thanksgiving", uniting with simplicity an early Christian depth and power of feeling. The hymn contains in itself the glorification through Christ of the Holy Trinity and of Himself, evoked by the appearance of the evening light and by gratitude for having lived unto it. It falls into three parts so independent that they can be regarded as three distinct hymns.
 
-1. **"O Gladsome Light"** (*Phōs hilaron* [Gr. Φῶς ἱλαρόν], in Greek it can also be the nominative of the predicate: "Thou, O Christ, art Light"; "gladsome" [gentle] in view of the evening) **"of the holy glory"** (intolerable for us sinners) **"of the Immortal"** (in contrast unto the setting of the sun and the self-emptying of Christ in His death upon the Cross) **"Heavenly Father, Holy, Blessed"** (whence cometh also visible light; two principal mutually linked attributes of divine life), **"O Jesus Christ"** (Christ as the Son of Man).
+1. **"O Gladsome Light"** (*Phōs hilaron* [Gr. Φῶς ἱλαρόν], in Greek it can also be the nominative of the predicate: "Thou, O Christ, art Light"; "gladsome" [gentle] in view of the evening) **"of the holy glory"** (intolerable for us sinners) **"of the Immortal"** (in contrast unto the setting of the sun and the self-emptying of Christ in His death upon the Cross) **"Heavenly Father, Holy, Blessed"** (whence comes also visible light; two principal mutually linked attributes of divine life), **"O Jesus Christ"** (Christ as the Son of Man).
 2. **"Having come unto the setting of the sun"** (having lived unto sunset), **"having beheld the evening light, we hymn"** (*hymnoumen* [Gr. ὑμνοῦμεν], in thanksgiving for this) **"the Father, the Son, and the Holy Spirit, God"** [^2216]. (A Trinitarian hymn, after which we sing already "a hymn unto Christ as God" [^2217]:)
-3. **"Worthy art Thou at all times"** (not in the evening alone) **"to be hymned with reverent voices"** (more fitting than ours; Greek *aisiois* / *aisiais* [Gr. αἰσίαις / printed αἰσίοας], blessed), **"O Son of God, Who givest life; for which cause the world"** (the thankful world) **"glorifieth Thee"** [^2218] (in certain MSS *heortazei* [Gr. ἑορτάζει]—keepeth festival unto Thee).
+3. **"Worthy art Thou at all times"** (not in the evening alone) **"to be hymned with reverent voices"** (more fitting than ours; Greek *aisiois* / *aisiais* [Gr. αἰσίαις / printed αἰσίοας], blessed), **"O Son of God, Who givest life; for which cause the world"** (the thankful world) **"glorifies Thee"** [^2218] (in certain MSS *heortazei* [Gr. ἑορτάζει]—keeps festival unto Thee).
 
 In this manner, the hymn continues the thoughts of the Theotokion (Dogmatikon) and depicts with words the silent actions of the Entrance.
 

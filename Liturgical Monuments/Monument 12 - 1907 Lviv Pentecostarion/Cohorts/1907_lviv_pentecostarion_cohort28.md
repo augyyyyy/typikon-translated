@@ -133,7 +133,7 @@ The disbelief of Thomas, which touched more boldly with inquiring right hand the
 *And 3 of the Menaion.*
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 2:*
 
-When the doors were shut, Jesus stood before the disciples, granting fearlessness and peace; then He saith unto Thomas: Why dost thou not believe Me, that I am risen from the dead? Bring hither thy hand, and place it into My ribs, and see; for through thy disbelief all have learned to call upon My Passion and My Resurrection, crying with thee: My Lord and my God, glory to Thee!
+When the doors were shut, Jesus stood before the disciples, granting fearlessness and peace; then He says unto Thomas: Why dost thou not believe Me, that I am risen from the dead? Bring hither thy hand, and place it into My ribs, and see; for through thy disbelief all have learned to call upon My Passion and My Resurrection, crying with thee: My Lord and my God, glory to Thee!
 
 *O Gladsome Radiance:*
 *At the Aposticha, stichera.*
@@ -153,7 +153,7 @@ By the prayers of all the saints and of the Mother of God, O Lord, grant us Thy 
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8:*
 
-Touch My ribs with thy hand, saith Christ, and come, feel the marks of the nails: examine with faith, and be believing unto Me, and be not disbelieving. And Thomas, when he touched the Master with his finger, cried aloud with a loud voice: Thou art my God and Lord, O compassionate One, glory to Thee!
+Touch My ribs with thy hand, says Christ, and come, feel the marks of the nails: examine with faith, and be believing unto Me, and be not disbelieving. And Thomas, when he touched the Master with his finger, cried aloud with a loud voice: Thou art my God and Lord, O compassionate One, glory to Thee!
 
 *Then: "Now lettest Thou Thy servant depart..."*
 *And the rest as usual, as was indicated beforehand.*
@@ -211,7 +211,7 @@ O passion-bearers of Christ, come, all ye people, let us honor them with songs a
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8. By Anatolius:*
 
-When the doors were shut and the disciples were assembled, the Savior stood where they were gathered; and standing in the midst of them, He saith unto Thomas: Come, feel and see the marks of the nails; stretch forth thy hand and touch My ribs, and be not disbelieving, but with faith proclaim My Resurrection from the dead!
+When the doors were shut and the disciples were assembled, the Savior stood where they were gathered; and standing in the midst of them, He says unto Thomas: Come, feel and see the marks of the nails; stretch forth thy hand and touch My ribs, and be not disbelieving, but with faith proclaim My Resurrection from the dead!
 
 *At the Aposticha, stichera of the feast.*
 *Tone 4, Podoben: "As noble among the martyrs" (Ꙗ҆́кѡ до́блѧ):*[^489]
@@ -229,7 +229,7 @@ On the day which the Lord hath made this day, let us rejoice, being glad: the Gi
 
 *Glory... Both now and for ever and unto ages of ages. Amen. Tone 8:*
 
-Touch My ribs with thy hand, saith Christ, and come, feel the marks of the nails; examine with faith, and be believing unto Me, and be not disbelieving. And Thomas, when he touched the Master with his finger, cried aloud with a loud voice: Thou art my God and Lord, O compassionate One, glory to Thee!
+Touch My ribs with thy hand, says Christ, and come, feel the marks of the nails; examine with faith, and be believing unto Me, and be not disbelieving. And Thomas, when he touched the Master with his finger, cried aloud with a loud voice: Thou art my God and Lord, O compassionate One, glory to Thee!
 
 *Then: "It is good to give praise unto the Lord..." First Hour, and the Dismissal.*
 *On Friday of Thomas Week, Triodion,*

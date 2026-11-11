@@ -32,7 +32,7 @@ In the earliest of the currently known Greek manuscripts of the Jerusalem Typiko
 Inasmuch as the Ninth Hour still belongs to the preceding liturgical day, the troparion and kontakion at it are read for the expiring day. This is evident from the direction of the Typikon concerning the Ninth Hour preceding St. Thomas Sunday: at it there are appointed the troparion **"Thou didst descend from on high"** (*С высоты снизшел еси*) and the kontakion **"Though Thou didst descend into the grave"** (*Аще и во гроб*) (and not **"When the tomb was sealed"** and **"With his curious right hand"**). By reason of this, there occurs within a single sequence of services at times a conjunction of the most diverse commemorations; thus, before Sunday Vespers of Meatfare Sunday there will be at the Ninth Hour a funeral troparion and kontakion, while before Sunday Vespers of the Sixth Sunday of Lent there will be the troparion **"That which was commanded secretly"** (*Повеленное тайно*), and the like.
 
 === LEAF p575 ===
-# LITTLE VESPERS
+## LITTLE VESPERS
 
 ## General Character of the Service
 
@@ -48,7 +48,7 @@ A rich development of festal ritual was required before the conception of such a
 Notwithstanding that Little Vespers is preceded by the Ninth Hour (which ordinarily is without a dismissal), it begins with the exclamation **"Blessed is our God"** (*Благословен Бог наш*). In this respect Little Vespers is placed on a par with full Daily Vespers, which likewise has this exclamation notwithstanding that it is preceded by the Ninth Hour, whereas Great Lenten Vespers is joined to the Hours without an exclamation. The opening exclamation of Little Vespers, as of Daily and even Great Vespers, is pronounced before the Holy Doors (the exclamations of Matins and the Liturgy, in view of the greater
 
 === LEAF p576 ===
-solemnity of those services, are pronounced before the Holy Table). After the exclamation, there is immediately read **"Amen. O come, let us worship..."**, inasmuch as the 'customary beginning' took place before the Ninth Hour. The Introductory [^1968] Psalm at Little Vespers is appointed to be read not by the superior, as at full Vespers (and as the Six Psalms at Matins), but by the reader [^1969], yet with the requirement that the reading be more solemn and reverent than ordinary: 'in a quiet (slow) and gentle (contrite—*ἡσύχῳ καὶ ἠρεμαίᾳ* / *ήσύχω καί ήρεмаία*) voice'. Following the customary conclusion of the evening Psalm: **"Glory... both now... Alleluia, alleluia, alleluia, glory to Thee, O God"** (three times); in place of the Great Litany there is a threefold **"Lord, have mercy"** (corresponding to the petitions of the litany) and **"Glory... both now..."** (corresponding to its exclamation); consequently, the Introductory Psalm receives the conclusion usual for Psalms at the Hours.
+solemnity of those services, are pronounced before the Holy Table). After the exclamation, there is immediately read **"Amen. O come, let us worship..."**, inasmuch as the 'customary beginning' took place before the Ninth Hour. The Introductory [^1968] Psalm at Little Vespers is appointed to be read not by the superior, as at full Vespers (and as the Six Psalms at Matins), but by the reader [^1969], yet with the requirement that the reading be more solemn and reverent than ordinary: 'in a quiet (slow) and gentle (contrite—*ἡσύχῳ καὶ ἠρεμαίᾳ* / *ήσύχω καί ήρεμαία*) voice'. Following the customary conclusion of the evening Psalm: **"Glory... both now... Alleluia, alleluia, alleluia, glory to Thee, O God"** (three times); in place of the Great Litany there is a threefold **"Lord, have mercy"** (corresponding to the petitions of the litany) and **"Glory... both now..."** (corresponding to its exclamation); consequently, the Introductory Psalm receives the conclusion usual for Psalms at the Hours.
 
 ## Stichera at "Lord, I Have Cried"
 
@@ -97,7 +97,7 @@ The rich content of Little Vespers becomes still more varied when there coincide
 In the case of such a concurrence (of a feast, or of a great or polyeleos saint) with Sunday, Little Vespers undergoes also a series of other alterations in its composition. These alterations concern the stichera at **"Lord, I have cried"**, the aposticha, and the troparion. At Little Vespers—though not on Sunday—there may even be a paremia (if the Meeting of the Lord coincides with Cheesefare Saturday). All these deviations of Sunday Little Vespers from its usual (set forth above) composition will be discussed in the rubrics for feasts whose concurrence with Sunday induces such alterations.
 
 === LEAF p580 ===
-# THE EVENING REFECTORY
+## THE EVENING REFECTORY
 
 ## Liturgical Character of the Refectory
 

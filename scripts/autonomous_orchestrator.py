@@ -107,7 +107,8 @@ EPHEMERAL_TRANSLATOR_DEFINITION: Dict[str, Any] = {
         "6. Strictly ban pseudo-archaic slop ('wherefore' -> 'therefore', 'wondrous' -> 'marvelous', 'verily' -> 'truly', 'hearken' -> 'give ear', 'resplendent'/'effulgent' -> 'radiant') and 3rd-person -eth verbs ('singeth', 'standeth', 'maketh', etc.).\n"
         "7. STRICT EPIGRAPHIC MARKDOWN DISCIPLINE: You are strictly forbidden from emitting ANY markdown heading ('#', '##', '###', '####', etc.) unless it is an authorized primary woodcut book headpiece explicitly printed in large display font on the physical page (e.g. '# TONE N', '# PREFACE: TO THE READER'). Never fabricate modern liturgical office headings (e.g. '## At Sunday Midnight Office', '## At Sunday Matins', '### Canon to...'). All liturgical labels, odes, canons, stichera markers, and sessional hymns must ALWAYS be rendered as inline italic rubrics ('*Ode 1, Tone 2. Heirmos:*', '*Troparion:*', '*Sessional Hymn, Tone 2:*'), never as markdown headers.\n"
         "8. DIACHRONIC DRIFT INVARIANCE & RECENSIONAL FIDELITY: Translate identical original-language terms, formulas, and incipits identically using the canonical lexicon so zero artificial English translator drift is introduced. However, when the physical source text on the leaf genuinely differs in wording, syntax, or rubric from other recensions, translate the printed wording strictly as inked without silent harmonization, and note the recensional variant in a footnote '[^N]'.\n"
-        "9. SYNAXARION DICTION, VACAT, PARENTHETICAL CYRILLIC & INCREMENTAL FLUSH: In patristic homilies and Synaxarion Lives, strictly avoid modern editorial words ('subsequently', 'commenced', 'numerous', 'constructed', 'utilized', 'deceased', 'moreover', 'furthermore', 'consequently') -> use traditional hagiographical prose ('thereafter', 'began', 'many', 'built', 'used', 'reposed', 'and', 'therefore'). Emit blank pages strictly as '*(Vacat — Blank page)*'. Never emit Cyrillic in body prose except inside parenthetical Podoben incipit witnesses '(*...*)'. Flush your output files to disk every 2-3 physical leaves so partial progress is preserved, and NEVER invoke run_small_pause_gate.py yourself."
+        "9. SYNAXARION DICTION, VACAT, PARENTHETICAL CYRILLIC & INCREMENTAL FLUSH: In patristic homilies and Synaxarion Lives, strictly avoid modern editorial words ('subsequently', 'commenced', 'numerous', 'constructed', 'utilized', 'deceased', 'moreover', 'furthermore', 'consequently') -> use traditional hagiographical prose ('thereafter', 'began', 'many', 'built', 'used', 'reposed', 'and', 'therefore'). Emit blank pages strictly as '*(Vacat — Blank page)*'. Never emit Cyrillic in body prose except inside parenthetical Podoben incipit witnesses '(*...*)'. Flush your output files to disk every 2-3 physical leaves so partial progress is preserved, and NEVER invoke run_small_pause_gate.py yourself.\n"
+        "10. ZERO WEB SEARCH & ZERO PYTHON GENERATORS (GATE 4D / VECTOR 11 SANDBOX): You are strictly prohibited from calling search_web, executing external network queries, or writing Python (.py) generator scripts in scratch/. Rely 100% on the physical 300-DPI facsimile images and mark damaged/illegible ink with '[illegible]' or '[?]'."
     ),
     "EnableWriteTools": True,
     "EnableSubagentTools": False,
@@ -214,7 +215,7 @@ def _load_recommended_publication_spec(monument_id: str, mon_info: Dict[str, Any
     rec: Dict[str, Any] = {
         "mode": scaffold.get("mode", "universal_dynamic_h1"),
         "monument_type": mon_type,
-        "hub_inbox_folder": mon_info.get("short_title", monument_id).replace(" ", "_"),
+        "hub_inbox_folder": mon_info.get("short_title", monument_id).rstrip(". ").replace(" ", "_"),
         "master_title": mon_info.get("title", monument_id),
         "parts_strategy": "Automatically slices top-level '# <Heading>' divisions discovered in translated Markdown during Phase 2 (--compile-publication).",
         "footnotes_filename": f"{monument_id}_footnotes.md",
@@ -224,11 +225,38 @@ def _load_recommended_publication_spec(monument_id: str, mon_info: Dict[str, Any
     return rec
 
 
+def resolve_monument_number_label(monument_id: str, mon_info: Dict[str, Any]) -> str:
+    """
+    Resolves the canonical 'Monument N - <Title>' reference for orienting prompts.
+    If workspace_dir contains an explicit 'Monument <N> - ...' number (e.g. '22.01' or '9'),
+    uses that number; otherwise uses the 0-based index in codex_registry.json.
+    """
+    ws_dir = str(mon_info.get("workspace_dir", ""))
+    m_ws = re.search(r"Monument\s+(\d+(?:\.\d+)?)\s*-", ws_dir, re.IGNORECASE)
+    if m_ws:
+        mon_num: Optional[str] = m_ws.group(1)
+    else:
+        mon_num = None
+        try:
+            reg = load_registry()
+            keys = list(reg.get("monuments", {}).keys())
+            if monument_id in keys:
+                mon_num = str(keys.index(monument_id))
+        except Exception:
+            mon_num = None
+    raw_title = str(mon_info.get("title", monument_id)).strip()
+    if re.match(r"^Monument\s+\d", raw_title, re.IGNORECASE):
+        return raw_title
+    if mon_num is not None:
+        return f"Monument {mon_num} - {raw_title}"
+    return f"Monument - {raw_title}"
+
+
 def build_phase0_onboarding_prompt(monument_id: str, mon_info: Dict[str, Any]) -> str:
     tpl_path = PROJECT_ROOT / "data" / "templates" / "phase0_onboarding_prompt_template.md"
     tpl = tpl_path.read_text(encoding="utf-8")
     return tpl.format(
-        title=mon_info.get("title", monument_id),
+        title=resolve_monument_number_label(monument_id, mon_info),
         monument_id=monument_id,
     ).strip()
 
@@ -246,10 +274,35 @@ def run_preflight(monument_id: Optional[str] = None) -> Dict[str, Any]:
     total_cohorts = (total_pages + cohort_size - 1) // cohort_size if cohort_size > 0 else 0
     ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{resolved_id}")
 
-    for sub in ("Source Text", "Source Text/images", "Draft", "Final", "Final MD", "Work_Orders", "Audit_Reports"):
+    for sub in ("Source Text", "Draft", "Final", "Final MD", "Work_Orders", "Audit_Reports"):
         (ws / sub).mkdir(parents=True, exist_ok=True)
 
     img_dir = ws / "Source Text" / "images"
+    front_end = min(MAX_PHASE_0_FRONT_LEAVES, total_pages) if total_pages > 0 else 0
+    rear_start = max(front_end + 1, total_pages - MAX_PHASE_0_REAR_LEAVES + 1) if total_pages > front_end else 0
+    if total_pages > 0:
+        try:
+            extract_leaves(
+                monument_id=resolved_id,
+                cohort_num=1,
+                start_page=1,
+                end_page=front_end,
+                dpi=300,
+            )
+            if rear_start > 0 and rear_start <= total_pages:
+                extract_leaves(
+                    monument_id=resolved_id,
+                    cohort_num=max(1, total_cohorts),
+                    start_page=rear_start,
+                    end_page=total_pages,
+                    dpi=300,
+                )
+        except (FileNotFoundError, OSError, ValueError, RuntimeError) as exc:
+            print(f"  [Preflight Note] Bookend leaf auto-extraction skipped ({exc}); ensuring images directory exists.")
+            img_dir.mkdir(parents=True, exist_ok=True)
+    else:
+        img_dir.mkdir(parents=True, exist_ok=True)
+
     existing_images = list(img_dir.glob("Page_*.jpg"))
 
     first_end = min(total_pages, cohort_size)
@@ -290,6 +343,11 @@ def run_preflight(monument_id: Optional[str] = None) -> Dict[str, Any]:
             pass
 
     vision_contract = _compute_phase0_vision_contract(total_pages)
+    rel_img_dir = str(img_dir.relative_to(PROJECT_ROOT)).replace("\\", "/") if img_dir.is_relative_to(PROJECT_ROOT) else str(img_dir).replace("\\", "/")
+    front_paths = [f"{rel_img_dir}/Page_{i:04d}.jpg" for i in range(1, front_end + 1)] if front_end > 0 else []
+    rear_paths = [f"{rel_img_dir}/Page_{i:04d}.jpg" for i in range(rear_start, total_pages + 1)] if (rear_start > 0 and rear_start <= total_pages) else []
+    vision_contract["batch_1_front_image_paths"] = front_paths
+    vision_contract["batch_2_rear_image_paths"] = rear_paths
     partitions = compute_monument_cohort_partitions(total_pages, cohort_size) if total_pages > 0 else []
     md_rows = ["| Cohort | Physical Leaves | Leaf Count |", "| :---: | :---: | :---: |"]
     for p in partitions:
@@ -316,6 +374,7 @@ def run_preflight(monument_id: Optional[str] = None) -> Dict[str, Any]:
         "total_physical_pages": total_pages,
         "default_cohort_size": cohort_size,
         "total_cohorts": total_cohorts,
+        "registry_entry": mon_info,
         "vision_budget_contract": vision_contract,
         "cohort_partition_table": partitions,
         "cohort_markdown_table": "\n".join(md_rows),
@@ -341,7 +400,8 @@ def run_preflight(monument_id: Optional[str] = None) -> Dict[str, Any]:
         "routing_phase": state.get("routing_phase"),
         "small_pause_gate_status": state.get("small_pause_gate_status"),
         "next_required_human_handshake": (
-            "1. Inspect at most 8 bookend leaves (Batch 1: p1..p5; Batch 2: rear 3 leaves) and read Audit_Reports/phase0_preflight_brief.json.\n"
+            "1. Inspect at most 8 bookend leaves (Batch 1: p1..p5; Batch 2: rear 3 leaves) and read Audit_Reports/phase0_preflight_brief.json (which embeds the full codex_registry.json entry under 'registry_entry').\n"
+            f"1b. If bookend scans are rotated/inverted (90°, 180°, or 270°), normalize all leaves upright in place via 'py scripts/autonomous_orchestrator.py --rotate-jpgs <90|180|270> --monument {resolved_id}'.\n"
             "2. Author implementation_plan.md and complete /grill-me on Gemini 4 Argon (High).\n"
             "3. Wait for user approval and manual Main Window UI dropdown switch from Argon -> Gemini 3.8 Flash.\n"
             f"4. Run 'py scripts/autonomous_orchestrator.py --unlock-flash-sprint --monument {resolved_id}' to begin Cohort 1 on Flash."
@@ -352,11 +412,14 @@ def run_preflight(monument_id: Optional[str] = None) -> Dict[str, Any]:
     print("=" * 70)
     print(f"  Total Physical Leaves : {total_pages} ({total_cohorts} cohorts of {cohort_size} leaves)")
     print(f"  Phase 0 Vision Cap    : <= {MAX_PHASE_0_VISION_LEAVES} leaves across <= {MAX_PHASE_0_VISION_BATCHES} batches (Front: {vision_contract['allowed_front_leaves']}, Rear: {vision_contract['allowed_rear_leaves']})")
+    print(f"  Batch 1 Front Images  : {', '.join(front_paths) if front_paths else 'N/A'}")
+    print(f"  Batch 2 Rear Images   : {', '.join(rear_paths) if rear_paths else 'N/A'}")
+    print(f"  Orientation Helper    : If scans are inverted/rotated, run '--rotate-jpgs <90|180|270> --monument {resolved_id}'")
     print(f"  Forbidden Mid-Search  : {vision_contract['forbidden_internal_range']} (Strictly Banned in Phase 0)")
-    print(f"  Pre-Flight Brief      : {summary['preflight_brief_path']}")
+    print(f"  Pre-Flight Brief      : {summary['preflight_brief_path']} (embeds full 'registry_entry' — do not query codex_registry.json)")
     print(f"  Routing Phase         : {state.get('routing_phase')}")
     print(f"  Circuit Breaker Lock  : {state.get('small_pause_gate_status')}")
-    print(f"  Next Step             : Complete /plan + /grill-me on Argon, switch UI to Flash, then run --unlock-flash-sprint --monument {resolved_id}.")
+    print(f"  Next Step             : Read the bookend images listed above + {summary['preflight_brief_path']}, author implementation_plan.md, switch UI to Flash, then run --unlock-flash-sprint --monument {resolved_id}.")
     print("=" * 70)
     return summary
 
@@ -531,6 +594,12 @@ def prepare_cohort(
     save_state(state, monument_id=resolved_id)
 
     rel_ws = mon_info.get("workspace_dir", resolved_id).replace("\\", "/")
+    scaffold = load_monument_scaffold(resolved_id, mon_info)
+    h1_inst = (
+        mon_info.get("publication_spec", {}).get("canonical_h1_instruction")
+        or scaffold.get("canonical_h1_instruction")
+        or "Emit top-level H1 ('# ...') headers at major Part, Tone, or Service headpiece openings."
+    )
     manifest: Dict[str, Any] = {
         "action": "INVOKE_SUBAGENT",
         "subagent_type": "ephemeral_translator",
@@ -546,8 +615,9 @@ def prepare_cohort(
             f"Transcribe and translate physical leaves p{start_page} through p{end_page} directly from 300 DPI images in '{rel_ws}/Source Text/images/'.\n"
             f"Write all three output files to disk (Source, Draft MD, Footnotes) with UTF-8 encoding, flushing incrementally every 2-3 physical leaves.\n"
             f"Ensure every physical leaf p{start_page}..p{end_page} has an explicit '=== LEAF pN ===' banner.\n"
-            f"STRICT EPIGRAPHIC DISCIPLINE: Do NOT emit any '##', '###', or '####' markdown headings for offices, canons, or odes. Render all rubrics, odes, heirmoi, troparia, and prayers as inline italics ('*...*'). Reserve '#' strictly for major decorative woodcut headings present in ink.\n"
-            f"Do NOT run run_small_pause_gate.py yourself; when finished writing all 3 files, immediately send a completion notification to the parent orchestrator."
+            f"CANONICAL H1 PART LANDMARKS: {h1_inst}\n"
+            f"STRICT EPIGRAPHIC DISCIPLINE: Do NOT emit any '###' or '####' markdown headings for offices, canons, or odes. Render all sub-services, rubrics, odes, heirmoi, troparia, and prayers as inline italics ('*...*'). Reserve '#' strictly for major decorative woodcut Part/Service headings present in ink and '##' for primary day/service headpieces.\n"
+            f"SANDBOX INVARIANT (GATE 4D / VECTOR 11): Never call search_web and never create .py scripts in scratch/. Do NOT run run_small_pause_gate.py yourself; when finished writing all 3 files, immediately send a completion notification to the parent orchestrator."
         ),
     }
 
@@ -1096,6 +1166,7 @@ def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> boo
     any_modified = False
     repairs_map: Dict[str, bool] = {
         "leaf_banners": False,
+        "orthographic_v5c": False,
         "inline_footnote_migration": False,
         "footnote_bijectivity": False,
         "vocabulary_and_slop_body": False,
@@ -1105,17 +1176,27 @@ def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> boo
         "monument_type_structure": False,
     }
 
-    # 1. Gate 4: Normalize leaf banners in Source Text and Draft MD
+    # 1. Gate 4 & Vector 5C: Normalize leaf banners and heal 'Ѿц'/'ѿц' fake-archaisms in Source Text (and normalize CRLF -> LF)
     if source_path.exists():
-        src_txt = source_path.read_text(encoding="utf-8")
+        from scripts.audit_transcript_trajectory import heal_source_orthographic_hypercorrections
+        src_raw = source_path.read_text(encoding="utf-8")
+        src_txt = src_raw.replace("\r\n", "\n")
         norm_src, src_mod = _normalize_leaf_banners(src_txt)
-        if src_mod:
-            source_path.write_text(norm_src, encoding="utf-8")
-            any_modified = True
-            repairs_map["leaf_banners"] = True
+        norm_src, v5c_cnt = heal_source_orthographic_hypercorrections(norm_src)
+        if src_mod or v5c_cnt > 0 or ("\r\n" in src_raw):
+            source_path.write_text(norm_src, encoding="utf-8", newline="\n")
+            if src_mod:
+                any_modified = True
+                repairs_map["leaf_banners"] = True
+            if v5c_cnt > 0:
+                any_modified = True
+                repairs_map["orthographic_v5c"] = True
 
-    draft_txt = draft_path.read_text(encoding="utf-8")
-    draft_txt, banner_mod = _normalize_leaf_banners(draft_txt)
+    draft_raw = draft_path.read_text(encoding="utf-8")
+    if "\r\n" in draft_raw:
+        draft_raw = draft_raw.replace("\r\n", "\n")
+        draft_path.write_text(draft_raw, encoding="utf-8", newline="\n")
+    draft_txt, banner_mod = _normalize_leaf_banners(draft_raw)
     if banner_mod:
         any_modified = True
         repairs_map["leaf_banners"] = True
@@ -1140,11 +1221,13 @@ def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> boo
         repairs_map["vocabulary_and_slop_body"] = True
     if footnotes_path.exists():
         fn_raw = footnotes_path.read_text(encoding="utf-8-sig")
-        fn_healed, fn_vocab_mod = heal_cohort_and_apparatus_text(fn_raw, is_footnotes=True)
-        if fn_vocab_mod:
-            footnotes_path.write_text(fn_healed if fn_healed.endswith("\n") else fn_healed + "\n", encoding="utf-8")
-            any_modified = True
-            repairs_map["vocabulary_and_slop_footnotes"] = True
+        fn_norm = fn_raw.replace("\r\n", "\n")
+        fn_healed, fn_vocab_mod = heal_cohort_and_apparatus_text(fn_norm, is_footnotes=True)
+        if fn_vocab_mod or ("\r\n" in fn_raw):
+            footnotes_path.write_text(fn_healed if fn_healed.endswith("\n") else fn_healed + "\n", encoding="utf-8", newline="\n")
+            if fn_vocab_mod:
+                any_modified = True
+                repairs_map["vocabulary_and_slop_footnotes"] = True
 
     # 4. Gate 2: Pronoun healing
     lines = draft_txt.splitlines()
@@ -1179,7 +1262,7 @@ def attempt_deterministic_self_healing(monument_id: str, cohort_num: int) -> boo
     _record_post_processing_telemetry(ws, monument_id, cohort_num, repairs_map)
 
     if any_modified:
-        draft_path.write_text(draft_txt if draft_txt.endswith("\n") else draft_txt + "\n", encoding="utf-8")
+        draft_path.write_text(draft_txt if draft_txt.endswith("\n") else draft_txt + "\n", encoding="utf-8", newline="\n")
         print(f"  [Self-Healing] Applied deterministic repairs ({[k for k, v in repairs_map.items() if v]}) to {draft_path.name}. Re-verifying gate...")
         retry_res = run_gate(monument_id=monument_id, cohort_num=cohort_num, custom_draft=draft_path)
         return retry_res == 0
@@ -1461,11 +1544,15 @@ def verify_cohort_and_advance(monument_id: Optional[str] = None, cohort_num: Opt
         print("\n" + "=" * 70)
         print("  PHASE 1 FLASH COHORT SPRINT 100% COMPLETE!")
         print(f"  Queued for Argon Deep Audit: {queued_total} leaves ({quarantined_total} quarantined).")
-        print("  CIRCUIT-BREAKER HALT: Switch Main Window UI dropdown from Flash -> Gemini 4 Argon (High),")
-        print(f"  then execute: py scripts/autonomous_orchestrator.py --run-argon-audit --monument {resolved_id}")
+        print("  [AGENT DIRECTIVE — STOP YOUR TURN IMMEDIATELY]:")
+        print("  DO NOT execute --run-argon-audit in this turn! You are currently running on Flash.")
+        print("  Report Phase 1 completion to the user and END YOUR TURN so the human operator can")
+        print("  switch the Main Window UI dropdown from Flash -> Gemini 4 Argon (High) before running:")
+        print(f"    py scripts/autonomous_orchestrator.py --run-argon-audit --monument {resolved_id}")
         print("=" * 70 + "\n")
         return {
             "status": "AWAITING_ARGON_POST_SPRINT_AUDIT",
+            "agent_directive": "STOP_TURN_IMMEDIATELY_WAIT_FOR_HUMAN_UI_SWITCH_TO_ARGON",
             "queued_leaves": queued_total,
             "unresolved_quarantines": quarantined_total,
         }
@@ -1543,7 +1630,7 @@ def run_argon_post_sprint_audit(monument_id: Optional[str] = None) -> Dict[str, 
             ),
         })
 
-    return {
+    dispatch_res = {
         "status": "PHASE_2_ARGON_AUDIT_DISPATCH",
         "monument_id": resolved_id,
         "strategy": strategy,
@@ -1551,6 +1638,26 @@ def run_argon_post_sprint_audit(monument_id: Optional[str] = None) -> Dict[str, 
         "batches_count": len(batch_manifests),
         "batches": batch_manifests,
     }
+    print("\n" + "=" * 70)
+    print(f"  PHASE 2 ARGON DEEP AUDIT DISPATCH: {mon_info.get('short_title', resolved_id)}")
+    print("=" * 70)
+    print(f"  Strategy             : {strategy}")
+    print(f"  Active Queued Leaves : {len(active_items)} across {len(batch_manifests)} batch(es)")
+    for bm in batch_manifests:
+        print(f"  - Batch {bm['batch_index']}/{len(batch_manifests)}: Leaves {bm['leaves']} (Cohorts {bm['cohorts']})")
+        for it in bm["items"]:
+            print(f"      * Leaf p{it.get('leaf_num')} (Cohort {it.get('cohort')}): signals={it.get('signals')} status={it.get('status')}")
+    print("-" * 70)
+    if strategy == "DIRECT_PARENT_ARGON":
+        print("  [ACTION REQUIRED]: Inspect the 300 DPI images for the leaves above directly in parent Argon,")
+        print("  verify/repair Source Text, Draft MD, and Footnotes if needed, then run:")
+        print(f"    py scripts/autonomous_orchestrator.py --resolve-all-argon-leaves --monument {resolved_id}")
+        print(f"    py scripts/autonomous_orchestrator.py --compile-publication --monument {resolved_id}")
+    else:
+        print("  [ACTION REQUIRED]: Dispatch batched subagents with Model='inherit' (Argon) for each batch above,")
+        print("  then resolve all leaves and run --compile-publication.")
+    print("=" * 70 + "\n")
+    return dispatch_res
 
 
 def resolve_argon_leaf(
@@ -1593,14 +1700,38 @@ def resolve_argon_leaf(
     q_data["unresolved_quarantines"] = len(quarantined_items)
     atomic_write_json(queue_file, q_data)
 
-    # Re-run Small Pause Gate & re-ingest touched cohorts
+    # Re-run Small Pause Gate (against Draft first so Argon repairs in Draft are audited before promotion) & re-ingest touched cohorts
     for c_num in sorted(touched_cohorts):
-        gate_rc = run_gate(monument_id=resolved_id, cohort_num=c_num)
+        draft_cand = ws / "Draft" / f"{resolved_id}_cohort{c_num}_raw_draft.md"
+        custom_draft_arg = draft_cand if draft_cand.exists() else None
+        gate_rc = run_gate(monument_id=resolved_id, cohort_num=c_num, custom_draft=custom_draft_arg)
         if gate_rc == 0:
             ingest_and_sync(monument_id=resolved_id, cohort_num=c_num)
 
-    # Re-read queue file in case run_gate updated non-resolved items
+    # Re-read queue file and ensure explicitly resolved leaves remain RESOLVED_BY_ARGON
     q_data = json.loads(queue_file.read_text(encoding="utf-8"))
+    resolved_set = set(resolved_leaves)
+    for it in q_data.get("items", []):
+        if not isinstance(it, dict):
+            continue
+        p_num = int(it.get("leaf_num", -1))
+        if (resolve_all or p_num in resolved_set) and it.get("status") not in ("RESOLVED_BY_ARGON", "INFO_TELEMETRY_ONLY"):
+            it["status"] = "RESOLVED_BY_ARGON"
+            it["resolved_at"] = datetime.now(timezone.utc).isoformat()
+            if p_num not in resolved_set:
+                resolved_leaves.append(p_num)
+                resolved_set.add(p_num)
+    active_after = [
+        it for it in q_data.get("items", [])
+        if isinstance(it, dict) and it.get("status") not in ("RESOLVED_BY_ARGON", "INFO_TELEMETRY_ONLY")
+    ]
+    quarantined_after = [
+        it for it in q_data.get("items", [])
+        if isinstance(it, dict) and it.get("status") == "QUARANTINED_FOR_ARGON"
+    ]
+    q_data["total_queued_leaves"] = len(active_after)
+    q_data["unresolved_quarantines"] = len(quarantined_after)
+    atomic_write_json(queue_file, q_data)
     state["argon_review_queue_count"] = int(q_data.get("total_queued_leaves", 0))
     state["unresolved_quarantines"] = int(q_data.get("unresolved_quarantines", 0))
     save_state(state, monument_id=resolved_id)
@@ -2229,7 +2360,8 @@ def approve_grand_pause(
     hub_inbox = PROJECT_ROOT.parent / "Typikon Coded" / "Data" / "Inbox"
     if hub_inbox.exists() and "publication_spec" in mon_info:
         pub_spec = mon_info["publication_spec"]
-        target_inbox = hub_inbox / pub_spec.get("hub_inbox_folder", resolved_id)
+        clean_inbox_name = pub_spec.get("hub_inbox_folder", resolved_id).rstrip(". ").replace(" ", "_")
+        target_inbox = hub_inbox / clean_inbox_name
         target_inbox.mkdir(parents=True, exist_ok=True)
         final_md_dir = ws / "Final MD"
 
@@ -2431,6 +2563,95 @@ def defer_monument_to_back_of_queue(
     }
 
 
+def normalize_jpg_orientation(
+    monument_id: Optional[str] = None,
+    degrees_cw: int = 180,
+    start_page: int = 1,
+    end_page: Optional[int] = None,
+    force: bool = False,
+) -> Dict[str, Any]:
+    """
+    Phase 0 Image Orientation & Inversion Normalizer:
+    Rotates extracted 300-DPI leaf JPEGs (Page_XXXX.jpg) in <workspace>/Source Text/images/
+    by degrees_cw (90, 180, or 270 clockwise) in place so Phase 1 Flash workers never waste
+    tool calls creating rotated copies in scratch/. Records applied rotations in
+    Audit_Reports/orientation_normalization.json to prevent accidental double-rotation.
+    """
+    if degrees_cw not in (90, 180, 270):
+        raise ValueError(f"--rotate-jpgs must be 90, 180, or 270 (got {degrees_cw}).")
+
+    try:
+        from PIL import Image
+    except ImportError as exc:
+        raise RuntimeError("Pillow (PIL) is required for --rotate-jpgs.") from exc
+
+    _state, mon_info, resolved_id = get_current_context(monument_id)
+    total_pages = int(mon_info.get("total_physical_pages", 0))
+    if end_page is None or end_page <= 0:
+        end_page = total_pages
+    if start_page < 1 or (total_pages > 0 and end_page > total_pages) or start_page > end_page:
+        raise ValueError(f"Invalid page range {start_page}..{end_page} (total_physical_pages={total_pages}).")
+
+    ws = PROJECT_ROOT / mon_info.get("workspace_dir", f"Liturgical Monuments/{resolved_id}")
+    images_dir = ws / "Source Text" / "images"
+    audit_dir = ws / "Audit_Reports"
+    audit_dir.mkdir(parents=True, exist_ok=True)
+    ledger_path = audit_dir / "orientation_normalization.json"
+
+    ledger: Dict[str, Any] = {"monument_id": resolved_id, "normalized_leaves": {}}
+    if ledger_path.exists():
+        try:
+            ledger = json.loads(ledger_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            ledger = {"monument_id": resolved_id, "normalized_leaves": {}}
+    norm_map: Dict[str, Any] = ledger.setdefault("normalized_leaves", {})
+
+    # Ensure target leaves are extracted first
+    extract_leaves(
+        monument_id=resolved_id,
+        cohort_num=1,
+        start_page=start_page,
+        end_page=end_page,
+        dpi=300,
+    )
+
+    rotated_count = 0
+    skipped_count = 0
+    for p in range(start_page, end_page + 1):
+        leaf_key = f"p{p}"
+        img_path = images_dir / f"Page_{p:04d}.jpg"
+        if not img_path.exists():
+            continue
+        if leaf_key in norm_map and not force:
+            skipped_count += 1
+            continue
+        with Image.open(img_path) as im:
+            rotated = im.rotate(-degrees_cw, expand=True)
+            rotated.save(img_path, format="JPEG", quality=92)
+        norm_map[leaf_key] = {
+            "degrees_cw": degrees_cw,
+            "updated_at": datetime.now(timezone.utc).isoformat(),
+        }
+        rotated_count += 1
+
+    ledger["updated_at"] = datetime.now(timezone.utc).isoformat()
+    ledger_path.write_text(json.dumps(ledger, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(
+        f"  [Orientation Normalizer] {resolved_id}: rotated {rotated_count} leaf image(s) by {degrees_cw}° CW "
+        f"(skipped {skipped_count} already-normalized leaves) in {images_dir}."
+    )
+    return {
+        "status": "ORIENTATION_NORMALIZED",
+        "monument_id": resolved_id,
+        "degrees_cw": degrees_cw,
+        "start_page": start_page,
+        "end_page": end_page,
+        "rotated_count": rotated_count,
+        "skipped_count": skipped_count,
+        "ledger_path": str(ledger_path.relative_to(PROJECT_ROOT)),
+    }
+
+
 def main():
     parser = argparse.ArgumentParser(description="Autonomous Multi-Cohort State Machine & Loop Controller")
     parser.add_argument("--status", action="store_true", help="Display current telemetry dashboard")
@@ -2453,12 +2674,26 @@ def main():
     parser.add_argument("--generate-retrospective", action="store_true", help="Synthesize engine_hardening_retrospective.{json,md} for --monument")
     parser.add_argument("--harvest-telemetry", action="store_true", help="Aggregate cross-monument telemetry into Audit_Reports/CROSS_MONUMENT_TELEMETRY_LEDGER.{json,md}")
     parser.add_argument("--apply-calibration", action="store_true", help="Write harvested empirical distribution telemetry into publication_spec_scaffolds.json")
+    parser.add_argument("--rotate-jpgs", type=int, choices=[90, 180, 270], help="Normalize rotated/inverted 300-DPI leaf JPEGs in place by 90, 180, or 270 degrees clockwise")
+    parser.add_argument("--start-page", type=int, default=1, help="Start page for --rotate-jpgs (default: 1)")
+    parser.add_argument("--end-page", type=int, default=None, help="End page for --rotate-jpgs (default: total_physical_pages)")
     parser.add_argument("--no-git-push", action="store_true", help="Skip remote git push during Grand Pause approval")
     parser.add_argument("--monument", help="Override monument ID")
     parser.add_argument("--cohort", type=int, help="Override cohort number")
     parser.add_argument("--json", action="store_true", help="Output results in JSON format")
 
     args = parser.parse_args()
+
+    if args.rotate_jpgs is not None:
+        res = normalize_jpg_orientation(
+            monument_id=args.monument,
+            degrees_cw=args.rotate_jpgs,
+            start_page=args.start_page,
+            end_page=args.end_page,
+        )
+        if args.json:
+            print(json.dumps(res, indent=2, ensure_ascii=False))
+        return
 
     if args.harvest_telemetry:
         res = harvest_telemetry(apply_calibration=args.apply_calibration)

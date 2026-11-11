@@ -7,52 +7,51 @@
 > with external Byzantine Greek Automelon concordances segregated into a comparative apparatus.
 
 - **Monument ID**: `1763_kyiv_caves_fathers_services`
-- **Total Physical Podoben Invocations**: `92`
-- **Distinct Model Families Prescribed**: `32` across Tones 1–8
+- **Total Physical Podoben Invocations**: `91`
+- **Distinct Model Families Prescribed**: `31` across Tones 1–8
 - **Attestation Purity**: `100% physically attested within codex source scans`
 
 ---
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 8 | `f. 1v (p17)` | f. 1v (p17), f. 17v (p22), f. 46r (p50), f. 52v (p57), f. 62r (p66) (+3 more) | *Τῶν οὐρανίων ταγμάτων* |
-| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 5 | `f. 2r (p6)` | f. 2r (p6), f. 35v (p40), f. 41v (p46), f. 47v (p77), f. 38v (p92) | *Πανεύφημοι μάρτυρες* |
-| Tone 1 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 4 | `f. 22r (p26)` | f. 22r (p26), f. 47r (p51), f. 30v (p67), f. 105v (p110) | *Ὁ κληθεὶς ἄνωθεν* |
-| Tone 1 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 4 | `f. 42v (p47)` | f. 42v (p47), f. 63v (p68), f. 88r (p92), f. 95r (p99) | *Ταχὺ προκατάλαβε* |
-| Tone 1 | `POD.T1.EXT_THE_ANGELIC_CHOIR` | **The Angelic Choir** | 1 | `f. 23v (p28)` | f. 23v (p28) | *—* |
-| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | **When the stone had been sealed** | 1 | `f. 49v (p54)` | f. 49v (p54) | *Τοῦ λίθου σφραγισθέντος* |
-| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 5 | `f. 7r (p11)` | f. 7r (p11), f. 31r (p35), f. 38v (p87), f. 100r (p104), f. 110r (p114) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 2 | `POD.T2.EXT_HOUSE_OF_EPHRATHA` | **House of Ephratha** | 1 | `f. 21v (p26)` | f. 21v (p26) | *—* |
-| Tone 2 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 1 | `f. 23r (p27)` | f. 23r (p27) | *Τί ὑμᾶς καλέσωμεν ἅγιοι* |
-| Tone 2 | `POD.T2.EXT_O_HOUSE_OF` | **O House of Ephratha** | 1 | `f. 115v (p120)` | f. 115v (p120) | *—* |
-| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 1 | `f. 124r (p128)` | f. 124r (p128) | *Τὰ ἄνω ζητῶν* |
-| Tone 2 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 1 | `f. 125r (p129)` | f. 125r (p129) | *Γυναῖκες ἀκουτίσθητε* |
-| Tone 3 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 8 | `f. 12r (p16)` | f. 12r (p16), f. 27v (p32), f. 32r (p36), f. 53v (p58), f. 81r (p85) (+3 more) | *Ἔδωκας σημείωσιν* |
-| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 2 | `f. 42v (p47)` | f. 42v (p47), f. 73r (p77) | *Τὴν ὡραιότητα τῆς παρθενίας σου* |
-| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 7 | `f. 2v (p7)` | f. 2v (p7), f. 13v (p18), f. 36v (p41), f. 73r (p77), f. 88v (p93) (+2 more) | *Ἐπεφάνης σήμερον* |
-| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 7 | `f. 8r (p12)` | f. 8r (p12), f. 18r (p22), f. 28r (p32), f. 67v (p72), f. 77v (p82) (+2 more) | *Ὡς γενναῖον ἐν Μάρτυσιν* |
-| Tone 4 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 3 | `f. 13v (p18)` | f. 13v (p18), f. 49v (p54), f. 100v (p105) | *Τὸν τάφον σου Σωτήρ* |
-| Tone 4 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 2 | `f. 1r (p5)` | f. 1r (p5), f. 49r (p53) | *Ὅλην ἀποθέμενοι* |
-| Tone 4 | `POD.T4.EXT_BEING_COMMANDED_MYSTICALLY` | **Being Commanded Mystically** | 1 | `f. 14r (p18)` | f. 14r (p18) | *—* |
-| Tone 4 | `POD.T4.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 1 | `f. 63r (p67)` | f. 63r (p67) | *—* |
-| Tone 4 | `POD.T4.SAME` | **The same (то́йже)** | 1 | `f. 101r (p105)` | f. 101r (p105) | *Τὸ αὐτό* |
-| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 8 | `f. 23v (p28)` | f. 23v (p28), f. 37r (p41), f. 50r (p54), f. 63v (p68), f. 73v (p78) (+3 more) | *Τὸν συνάναρχον Λόγον* |
-| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 2 | `f. 21v (p26)` | f. 21v (p26), f. 35v (p40) | *Χαίροις ἀσκητικῶν* |
-| Tone 5 | `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | **Rejoice, O life-bearing Cross** | 1 | `f. 72r (p76)` | f. 72r (p76) | *Χαίροις ὁ ζωηφόρος Σταυρός* |
-| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 2 | `f. 36v (p41)` | f. 36v (p41), f. 30v (p46) | *Τριήμερος ἀνέστης* |
-| Tone 6 | `POD.T6.EXT_HAVING_LAID_ALL` | **Having laid all aside** | 1 | `f. 99r (p103)` | f. 99r (p103) | *—* |
-| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 6 | `f. 3r (p7)` | f. 3r (p7), f. 24r (p28), f. 37r (p41), f. 42v (p47), f. 95v (p100) (+1 more) | *Τῆς σοφίας ὁδηγέ* |
-| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 3 | `f. 57v (p62)` | f. 57v (p62), f. 82r (p86), f. 115r (p119) | *Ὢ τοῦ παραδόξου θαύματος* |
-| Tone 8 | `POD.T8.EXT_O_MOST_MARVELLOUS` | **O Most Marvellous Wonder** | 1 | `f. 12v (p17)` | f. 12v (p17) | *—* |
-| Tone 8 | `POD.T8.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 1 | `f. 38v (p87)` | f. 38v (p87) | *—* |
-| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 1 | `f. 38v (p87)` | f. 38v (p87) | *Τὸ προσταχθὲν μυστικῶς* |
-| Tone 8 | `POD.T8.EXT_O_MARVELOUS_WONDER` | **O marvelous wonder** | 1 | `f. 98r (p102)` | f. 98r (p102) | *—* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.NEBESNYKH_CHINOV` | **Joy of the heavenly ranks** | 8 | `f. 1v (p17)` | f. 1v (p17), f. 17v (p22), f. 46r (p50), f. 52v (p57), f. 62r (p66) (+3 more) |
+| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 5 | `f. 2r (p6)` | f. 2r (p6), f. 35v (p40), f. 41v (p46), f. 47v (p77), f. 38v (p92) |
+| Tone 1 | `POD.T4.ZVANNYI_SVYSHE` | **Being called from on high** | 4 | `f. 22r (p26)` | f. 22r (p26), f. 47r (p51), f. 30v (p67), f. 105v (p110) |
+| Tone 1 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 4 | `f. 42v (p47)` | f. 42v (p47), f. 63v (p68), f. 88r (p92), f. 95r (p99) |
+| Tone 1 | `POD.T1.EXT_THE_ANGELIC_CHOIR` | **The Angelic Choir** | 1 | `f. 23v (p28)` | f. 23v (p28) |
+| Tone 1 | `POD.T1.KAMENI_ZAPECHATLENU` | **When the stone had been sealed** | 1 | `f. 49v (p54)` | f. 49v (p54) |
+| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 5 | `f. 7r (p11)` | f. 7r (p11), f. 31r (p35), f. 38v (p87), f. 100r (p104), f. 110r (p114) |
+| Tone 2 | `POD.T2.EXT_HOUSE_OF_EPHRATHA` | **House of Ephratha** | 1 | `f. 21v (p26)` | f. 21v (p26) |
+| Tone 2 | `POD.T8.CHTO_VAS_NARECHEM` | **What shall we call you, O holy ones** | 1 | `f. 23r (p27)` | f. 23r (p27) |
+| Tone 2 | `POD.T2.EXT_O_HOUSE_OF` | **O House of Ephratha** | 1 | `f. 115v (p120)` | f. 115v (p120) |
+| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 1 | `f. 124r (p128)` | f. 124r (p128) |
+| Tone 2 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 1 | `f. 125r (p129)` | f. 125r (p129) |
+| Tone 3 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 8 | `f. 12r (p16)` | f. 12r (p16), f. 27v (p32), f. 32r (p36), f. 53v (p58), f. 81r (p85) (+3 more) |
+| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 2 | `f. 42v (p47)` | f. 42v (p47), f. 73r (p77) |
+| Tone 4 | `POD.T4.YAVILSYA_ESI_DNESS` | **Thou hast appeared today** | 7 | `f. 2v (p7)` | f. 2v (p7), f. 13v (p18), f. 36v (p41), f. 73r (p77), f. 88v (p93) (+2 more) |
+| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 7 | `f. 8r (p12)` | f. 8r (p12), f. 18r (p22), f. 28r (p32), f. 67v (p72), f. 77v (p82) (+2 more) |
+| Tone 4 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 3 | `f. 13v (p18)` | f. 13v (p18), f. 49v (p54), f. 100v (p105) |
+| Tone 4 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 2 | `f. 1r (p5)` | f. 1r (p5), f. 49r (p53) |
+| Tone 4 | `POD.T4.EXT_BEING_COMMANDED_MYSTICALLY` | **Being Commanded Mystically** | 1 | `f. 14r (p18)` | f. 14r (p18) |
+| Tone 4 | `POD.T4.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 1 | `f. 63r (p67)` | f. 63r (p67) |
+| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 8 | `f. 23v (p28)` | f. 23v (p28), f. 37r (p41), f. 50r (p54), f. 63v (p68), f. 73v (p78) (+3 more) |
+| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 2 | `f. 21v (p26)` | f. 21v (p26), f. 35v (p40) |
+| Tone 5 | `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | **Rejoice, O life-bearing Cross** | 1 | `f. 72r (p76)` | f. 72r (p76) |
+| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 2 | `f. 36v (p41)` | f. 36v (p41), f. 30v (p46) |
+| Tone 6 | `POD.T6.EXT_HAVING_LAID_ALL` | **Having laid all aside** | 1 | `f. 99r (p103)` | f. 99r (p103) |
+| Tone 8 | `POD.T8.PREMUDROSTI_NASTAVNICHE` | **Guiding unto wisdom** | 6 | `f. 3r (p7)` | f. 3r (p7), f. 24r (p28), f. 37r (p41), f. 42v (p47), f. 95v (p100) (+1 more) |
+| Tone 8 | `POD.T8.O_PRESLAVNAGO_CHUDESE` | **O most marvelous wonder** | 3 | `f. 57v (p62)` | f. 57v (p62), f. 82r (p86), f. 115r (p119) |
+| Tone 8 | `POD.T8.EXT_O_MOST_MARVELLOUS` | **O Most Marvellous Wonder** | 1 | `f. 12v (p17)` | f. 12v (p17) |
+| Tone 8 | `POD.T8.EXT_THE_ANGELIC_CHOIR` | **The angelic choir** | 1 | `f. 38v (p87)` | f. 38v (p87) |
+| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 1 | `f. 38v (p87)` | f. 38v (p87) |
+| Tone 8 | `POD.T8.EXT_O_MARVELOUS_WONDER` | **O marvelous wonder** | 1 | `f. 98r (p102)` | f. 98r (p102) |
 
 ---
 
-## Part II: Complete Chronological Invocation Concordance (92 Physical Occurrences)
+## Part II: Complete Chronological Invocation Concordance (91 Physical Occurrences)
 
 | # | Locus | Tone | Office & Service Slot | Source Slavonic Rubric Witness | Prescribed Podoben Reading | Governed Hymn Incipit |
 | :---: | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -137,17 +136,16 @@
 | 79 | `f. 100r` (p104) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва* | **When from the Tree** | "When the grace of the All-Holy Spirit kindled Thy heart..." |
 | 80 | `f. 100v` (p105) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Гро́бъ тво́й* | **While the soldiers were guarding Thy tomb** | "Come, ye people, let us honor in hymns the beautiful..." |
 | 81 | `f. 100v` (p105) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Ꙗ҆ви́лсѧ є҆сѝ* | **Thou hast appeared today** | "Having labored with many sweats, and received guiltless martyrdom, O..." |
-| 82 | `f. 101r` (p105) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Гро́бъ тво́й* | **The same (то́йже)** | "The enclosed garden of the Mother of God brought forth..." |
-| 83 | `f. 105v` (p110) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Зва́нный свы́ше* | **Being called from on high** | "Having the image of the glory of God ever in..." |
-| 84 | `f. 109v` (p114) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Ꙗ҆́кѡ до́блѧ* | **As one valiant among martyrs** | "Let us the people sing after the manner of David..." |
-| 85 | `f. 110r` (p114) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва* | **When from the Tree** | "Goodly concord convenes the assemblies of the faithful piously and..." |
-| 86 | `f. 115r` (p119) | T8 | MONTH OF AUGUST — *Hymnographic Propers* | *Ѡ҆ пресла́внагѡ чꙋдесѐ* | **O most marvelous wonder** | "The God-wise Theodosius, voivode of the Good King, gathered a..." |
-| 87 | `f. 115v` (p120) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *До́ме є҆ѵфра́ѳовъ* | **O House of Ephratha** | "God-planted laborers, our venerable Caves fathers: ye planted a spiritual..." |
-| 88 | `f. 116r` (p120) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Ꙗ҆ви́лся є҆сѝ* | **Thou hast appeared today** | "Through many tribulations ye traversed the path of this life,..." |
-| 89 | `f. 116v` (p121) | T8 | MONTH OF AUGUST — *Hymnographic Propers* | *Премꙋ́дрости* | **Guiding unto wisdom** | "Following the calling of your Lord, taking up the Cross..." |
-| 90 | `f. 121r` (p125) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Да́лъ є҆сѝ зна́менїе* | **Thou hast given a sign** | "Ye enslaved carnal mindedness by the subjection of the mind..." |
-| 91 | `f. 124r` (p128) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Вы́шнихъ и҆ща̀* | **Seeking the highest** | "Having divinely armed thyself with purity of soul, and having..." |
-| 92 | `f. 125r` (p129) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Жены́ ᲂу҆слы́шите* | **Give ear, ye women** | "Thou didst blossom like a palm tree according to David,..." |
+| 82 | `f. 105v` (p110) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Зва́нный свы́ше* | **Being called from on high** | "Having the image of the glory of God ever in..." |
+| 83 | `f. 109v` (p114) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Ꙗ҆́кѡ до́блѧ* | **As one valiant among martyrs** | "Let us the people sing after the manner of David..." |
+| 84 | `f. 110r` (p114) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Е҆гда̀ ѿ дре́ва* | **When from the Tree** | "Goodly concord convenes the assemblies of the faithful piously and..." |
+| 85 | `f. 115r` (p119) | T8 | MONTH OF AUGUST — *Hymnographic Propers* | *Ѡ҆ пресла́внагѡ чꙋдесѐ* | **O most marvelous wonder** | "The God-wise Theodosius, voivode of the Good King, gathered a..." |
+| 86 | `f. 115v` (p120) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *До́ме є҆ѵфра́ѳовъ* | **O House of Ephratha** | "God-planted laborers, our venerable Caves fathers: ye planted a spiritual..." |
+| 87 | `f. 116r` (p120) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Ꙗ҆ви́лся є҆сѝ* | **Thou hast appeared today** | "Through many tribulations ye traversed the path of this life,..." |
+| 88 | `f. 116v` (p121) | T8 | MONTH OF AUGUST — *Hymnographic Propers* | *Премꙋ́дрости* | **Guiding unto wisdom** | "Following the calling of your Lord, taking up the Cross..." |
+| 89 | `f. 121r` (p125) | T4 | MONTH OF AUGUST — *Hymnographic Propers* | *Да́лъ є҆сѝ зна́менїе* | **Thou hast given a sign** | "Ye enslaved carnal mindedness by the subjection of the mind..." |
+| 90 | `f. 124r` (p128) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Вы́шнихъ и҆ща̀* | **Seeking the highest** | "Having divinely armed thyself with purity of soul, and having..." |
+| 91 | `f. 125r` (p129) | T2 | MONTH OF AUGUST — *Hymnographic Propers* | *Жены́ ᲂу҆слы́шите* | **Give ear, ye women** | "Thou didst blossom like a palm tree according to David,..." |
 
 ---
 

@@ -10,7 +10,7 @@
 
 [^4]: The Byzantine Era year 7269 (counting from 5508 BC) corresponds directly to AD 1761.
 
-[^5]: "Depiction of the Wonderworking Image of Our Lady Mary of Pochayiv, Crowned in the Year 1773 under Clement XIII." Although Pope Clement XIV (1769–1774) reigned when the icon was solemnly crowned on September 8, 1773, the Pochaiv engraver's inscription attributes the papal decree or initial brief to Clement XIII (1758–1769).
+[^5]: "Depiction of the Wonderworking Image of Our Lady Mary of Pochaiv, Crowned in the Year 1773 under Clement XIII." Although Pope Clement XIV (1769–1774) reigned when the icon was solemnly crowned on September 8, 1773, the Pochaiv engraver's inscription attributes the papal decree or initial brief to Clement XIII (1758–1769).
 
 [^6]: The Holy Wonderworkers and Unmercenaries Cosmas and Damian of Rome (July 1), distinct from Cosmas and Damian of Cilicia (October 17) and Cosmas and Damian of Mesopotamia (November 1).
 
@@ -162,7 +162,7 @@
 
 [^80]: The name Athanasios signifies "immortal" (ἀ- privative + θάνατος, death).
 
-[^81]: The Church Slavonic idiom ѿ мѧ́гкихъ ногте́й literally renders Greek ἐξ ἁпаλῶν ὀνύχων ("from tender fingernails", i.e. from infancy/early childhood).
+[^81]: The Church Slavonic idiom ѿ мѧ́гкихъ ногте́й literally renders Greek ἐξ ἁπαλῶν ὀνύχων ("from tender fingernails", i.e. from infancy/early childhood).
 
 [^82]: Dan. 7:9, 13, 22.
 
@@ -366,7 +366,7 @@
 
 [^182]: Procopius' martyrdom inspired the conversion of his mother Theodosia, twelve noble women, and two military tribunes (Nicostratus and Antiochus) with their soldiers, all of whom were martyred together with him.
 
-[^183]: A classic Patristic expression of the doctrine of *theosis* (deification by grace): "by position/adoption a god, through the deification of participation" (Greek: θέσει θεὸς χρηματίσας τῇ μεθέξει τῆς θεώсеως; cf. Ps. 81:6; Jn. 10:34–35; 2 Pet. 1:4).
+[^183]: A classic Patristic expression of the doctrine of *theosis* (deification by grace): "by position/adoption a god, through the deification of participation" (Greek: θέσει θεὸς χρηματίσας τῇ μεθέξει τῆς θεώσεως; cf. Ps. 81:6; Jn. 10:34–35; 2 Pet. 1:4).
 
 [^184]: Exod. 14:21–29; 17:11–12. Heirmos of Ode 1, Tone 4.
 
@@ -472,7 +472,7 @@
 
 [^235]: Isaiah 53:2.
 
-[^236]: The Greek acrostic of the canon by Joseph the Hymnographer: Θεοστεφῆ φάлаγγα μέλπω μαρτύρων ("I sing the God-crowned company of martyrs").
+[^236]: The Greek acrostic of the canon by Joseph the Hymnographer: Θεοστεφῆ φάλαγγα μέλπω μαρτύρων ("I sing the God-crowned company of martyrs").
 
 [^237]: Heirmos of Ode 1, Tone 5 (Exodus 15:1–19).
 
@@ -684,7 +684,7 @@
 
 [^341]: *By paradoxical deeds* (*Преквїрными*): an East Slavic/Ruthenian liturgical calque (cf. Polish *przekorny* / Greek *παραδόξοις*) indicating paradoxical, contrary-to-nature wonders, whereby mortal suffering is exchanged for immutable heavenly glory.
 
-[^342]: *Threefold-named* translates *Трезоимени́тѡ* (or *тезоимени́тѡ* / Greek *ὁμωνύμως* or *τρισεπώνυме*); Cyricus (Greek *Κύρικος*, from *Κύριος*, Lord) is hailed as named after the Lord.
+[^342]: *Threefold-named* translates *Трезоимени́тѡ* (or *тезоимени́тѡ* / Greek *ὁμωνύμως* or *τρισεπώνυμε*); Cyricus (Greek *Κύρικος*, from *Κύριος*, Lord) is hailed as named after the Lord.
 
 [^343]: *Guide of strangers* (*странноводе́цъ* / *страннокоде́цъ*): referring to the holy Apostle Aquila's hospitality and accompaniment of the Apostle Paul as recorded in the Book of Acts (Acts 18:2–3, 18, 26).
 
@@ -864,7 +864,7 @@
 
 [^431]: The Holy Martyr Hyacinth of Amastris (in Paphlagonia, martyred under Trajan, c. 98–117 AD) and the Holy Martyr Emilian of Silistria (Durostorum in Moesia Inferior, martyred under Julian the Apostate in 362 AD).
 
-[^432]: Tone 4 automelon *Ὡς γενναῖον ἐν μάρτυσιν* (*Ꙗ҆́кw до́блѧ* / "As one valiant").
+[^432]: Tone 4 automelon *Ὡς γενναῖον ἐν μάρτυσιν* (*Ꙗ҆́кѡ до́блѧ* / "As one valiant").
 
 [^433]: Acrostic in Church Slavonic: *Є҆міліа́на мч҃нка пою̀ сла́внѡ* ("Emilian the martyr do I sing gloriously"). Greek: *Αἰμιλιανὸν τὸν μάτυρα μέλπω*, composed by St. Joseph the Hymnographer.
 
@@ -1198,7 +1198,7 @@
 
 [^598]: Gospel of Luke, pericope 106 (Luke 21:12–19), the festal Matins Gospel appointed for great martyrs ("The Lord said to His disciples: Beware of men; for they will lay their hands on you and persecute you...").
 
-[^599]: The canon is the work of St. Theophanes the Branded (Graptos, c. 778–845); its acrostic in Greek forms Παντελεήμονα παναρίδηλον μέлπω, rendered faithfully in the Church Slavonic text as `Пантелеи́мона всеизря́днаго мꙋ́ченика пою̀` ("I sing of Panteleimon the most excellent martyr").
+[^599]: The canon is the work of St. Theophanes the Branded (Graptos, c. 778–845); its acrostic in Greek forms Παντελεήμονα παναρίδηλον μέλπω, rendered faithfully in the Church Slavonic text as `Пантелеи́мона всеизря́днаго мꙋ́ченика пою̀` ("I sing of Panteleimon the most excellent martyr").
 
 [^600]: An allusion to the elder priest Hermolaus who instructed Panteleimon in spiritual wisdom and baptized him, framed typologically against the righteous elder Simeon who took Christ into his arms in the Temple (Luke 2:25–35).
 
@@ -1214,7 +1214,7 @@
 
 [^606]: Dan. 6:16–23; the Prophet Daniel in the lions' den, a recurring typological model for Christian martyrs unharmed by ravenous beasts in the arena.
 
-[^607]: Etymological wordplay on the martyr's name *Panteleimon* (Greek: Παντελεήμων, "all-merciful"), compound of πᾶς ("all") and ἐлеήμων ("merciful").
+[^607]: Etymological wordplay on the martyr's name *Panteleimon* (Greek: Παντελεήμων, "all-merciful"), compound of πᾶς ("all") and ἐλεήμων ("merciful").
 
 [^608]: Pericope 292 of the Apostle (2 Tim. 2:1–10: "My son Timothy, be strong in the grace that is in Christ Jesus...").
 
@@ -1282,7 +1282,7 @@
 
 [^640]: St. Eudocimus was buried in Charsianon; eighteen months later his mother opened the tomb and found his body completely incorrupt, fragrant, and performing miraculous healings; his relics were later translated to the Church of the Theotokos in Constantinople.
 
-[^641]: A direct play on the saint's name Eudocimus (`тезоименитно`, "consistently with thy name", εὐ-δόкиμος).
+[^641]: A direct play on the saint's name Eudocimus (`тезоименитно`, "consistently with thy name", εὐ-δόκιμος).
 
 [^642]: Jonah 2:2–9; the prayer of the Prophet Jonah from the belly of the sea-monster.
 

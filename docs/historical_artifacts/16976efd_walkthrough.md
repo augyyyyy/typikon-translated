@@ -12,8 +12,8 @@ We completed a full visual, layout, and typographic verification pass across the
 * **Incipit Italicization & Curved Quotes:** Standardized liturgical incipits in bold lead-ins and text bodies (*“Blessed is the man”*, *“God is the Lord”*, *“Lord, I have cried”*, *“Gladsome Light”*, *“Lord, now lettest Thou”*, *“Holy God”*, *“It is truly meet”*, *“Most Blessed Art Thou”*).
 
 ### B. Persistent Visual Audit Ledger Updated
-* Updated [`visual_audit_log.md`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/visual_audit_log.md) to provide 100% complete audit coverage across all 288 page scans mapped directly to the target `.md` files in `Final MD/`.
-* Generated discrepancy and audit summary report at [`Audit_Reports/visual_and_typographic_discrepancies.md`](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Translation/Audit_Reports/visual_and_typographic_discrepancies.md).
+* Updated [`visual_audit_log.md`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/visual_audit_log.md) to provide 100% complete audit coverage across all 288 page scans mapped directly to the target `.md` files in `Final MD/`.
+* Generated discrepancy and audit summary report at [`Audit_Reports/visual_and_typographic_discrepancies.md`](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Translation/Audit_Reports/visual_and_typographic_discrepancies.md).
 
 ---
 

@@ -10,7 +10,7 @@ Accept praise and honor from an impoverished mind, O incomprehensible, all-perfe
 
 *Theotokion:*
 
-Taking upon Himself human nature without change, O most pure Theotokos, Thy Son ascended unto the heavens by the surpassing abundance of His goodness, delivering ancient Adam, unto Whom also we thank-offeringly sing:
+Taking upon Himself human nature without change, O most pure Theotokos, thy Son ascended unto the heavens by the surpassing abundance of His goodness, delivering ancient Adam, unto Whom also we thank-offeringly sing:
 
 **[Right Page — Fol. 9r]**
 
@@ -340,7 +340,7 @@ as all-powerful.
 
 *Ode 7:*
 
-*Resurrection Canon. Heirmos:* Thee, O Theotokos, do we the faithful perceive as a spiritual furnace; for just as the Exalted One saved the three youths, so He has renewed the world, being made complete within thy womb: the praised God of our fathers, blessed art Thou!
+*Resurrection Canon. Heirmos:* Thee, O Theotokos, do we the faithful perceive as a spiritual furnace; for just as the Exalted One saved the three youths, so He has renewed the world, being made complete within thy womb: the praised God of our fathers, blessed art thou!
 
 The earth was seized with fear, and the sun hid itself, and the light was darkened; the divine veil of the temple was rent in twain, and the rocks were split; for upon the Cross hangs the Righteous One: the praised and all-glorious God of our fathers!
 

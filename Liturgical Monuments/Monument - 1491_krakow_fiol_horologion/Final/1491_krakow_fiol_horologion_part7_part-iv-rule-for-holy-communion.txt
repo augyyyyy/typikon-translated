@@ -246,7 +246,7 @@ O my soul, if thou dost fast, despise not thy neighbor;[^1278] if thou dost abst
 [^1282]: Church Slavonic: `крⷭ҇тобц҃:~ [В]сечистаа іако видѣ тя на крестѣ висеніа • рыдающи възъıваше матеръскы` (Cross-Theotokion: "When the All-Pure One saw Thee hanging upon the Cross, weeping she cried aloud maternal-wise").
 [^1283]: Church Slavonic: `сп҃се мои и б҃е мои , сладкое моє чадо • како тръпиши страсть поносноую` ("O my Savior and my God, my sweet Child, how dost Thou endure shameful passion?").
 [^1284]: Church Slavonic: `сѣⷣ на д҃ ст҃лѡ гла҃ ѕ҃:~` (Rubric: Sessional Hymns on 4, Tone 6).
-[^1285]: Church Slavonic: `[П]одъıшлаю днь ѡныи страшныи • и плачюся дѣянии моихъ лоукавыxъ` (Tone 6 penitential sessional hymn: "I ponder that fearsome day and weep over my evil deeds").
+[^1285]: Church Slavonic: `[П]одъıшлаю днь ѡныи страшныи • и плачюся дѣянии моихъ лоукавыхъ` (Tone 6 penitential sessional hymn: "I ponder that fearsome day and weep over my evil deeds").
 [^1286]: Church Slavonic: `како ѡвѣщаю бесоумрътномоу цр҃ю • кыим ли дрѣзновениемъ възрю на сꙋдию блꙋдныи азь` ("How shall I answer the Immortal King? Or with what boldness shall I, the prodigal, look upon the Judge?").
 [^1287]: Church Slavonic: `бл҃гооутробне ѡч҃е сн҃е єдинородне , дш҃е ст҃ыи помилꙋи мя` (Hieratic Deity capitalization: "O Compassionate Father, Only-Begotten Son, Holy Spirit, have mercy on me!").
 [^1288]: Church Slavonic: `[В]ъ юдоли плачевнѣыи на мѣстѣ • идеже завѣща • єгда сѧдеши милостиве • сътворити правеныи сꙋдъ` ("In the vale of weeping, in the place which Thou hast appointed, when Thou, O Merciful One, shalt sit to execute righteous judgment").

@@ -13,7 +13,7 @@
 === LEAF p2 ===
 *(Editorial Annotation & Master Table of Contents)*
 
-### Annotation
+**Annotation**
 
 The text of the *Tolkovy Typikon* contains Greek citations with full diacritics and requires a complete Unicode font containing this Unicode range (such as Arial Unicode MS, Palatino Linotype). In curly brackets of the form `{p. NN}` is indicated the page numbering of the original, marked at the beginning of each page according to the edition: *Tolkovy Typikon: Explanatory Exposition of the Typikon with an Historical Introduction*, Sretensky Monastery Publishing House, Moscow, 2004.
 
@@ -23,9 +23,9 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
 
 ---
 
-### Tolkovy Typikon: History of the Liturgical Typikon
+**Tolkovy Typikon: History of the Liturgical Typikon**
 
-#### Introductory Chapter
+**Introductory Chapter**
 - From the Author
 - **A. The Liturgical Typikon prior to the Appearance of Its Complete Manuscripts**
   - **Old Testament Jewish Divine Worship**
@@ -286,7 +286,7 @@ The text represents the first part of the *Tolkovy Typikon*, comprising Chapter 
 
 ---
 
-### Tolkovy Typikon: History of the Liturgical Typikon
+**Tolkovy Typikon: History of the Liturgical Typikon**
 
 ---
 

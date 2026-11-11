@@ -7,11 +7,11 @@
     Τῇ Δευτέρᾳ πρωῒ ἡ Ἀκολουθία τοῦ Ὄρθρου, αἱ Ὧραι καὶ ἡ Λειτουργία τῶν Προηγιασμένων, ψάλλονται ὡς διετάχθησαν ἐν τῇ Α΄ περιπτώσει § 2, 3.
     Εἰ δὲ τύχοι τῇ Τρίτῃ τῆς Β΄, Γ΄, Δ΄ καὶ Ε΄ ἑβδομάδος, ἐν τῷ Ἑσπερινῷ τῆς Προηγιασμένης, τὸ Ἰδιόμελον τῶν Ἀποστίχων τῆς ἡμέρας δίς, τὸ Μαρτυρικὸν ἅπαξ, τὰ γ΄ τῆς σειρᾶς Προσόμοια καὶ δ΄ τῶν Ἁγίων, Δόξα, τῶν Ἁγίων, Καὶ νῦν, Προσόμοιον Σταυροθεοτοκίον κτλ. ὡς ἐν περιπτώσει Α΄ § 2, 3.
 
-### Ζ΄.
+**Ζ΄.**
 
 12.    Εἰ τύχοι τῇ Τετάρτῃ τῆς Δ΄ ἑβδομάδος, τὸ πρωῒ ἡ Ἀκολουθία τοῦ Ὄρθρου ψάλλεται ὡς διετάχθη ἐν περιπτώσει Α΄ § 2, 3, αἱ δὲ Ὧραι ἀναγινώσκονται λιταὶ καὶ λέγομεν ἀντὶ τοῦ Τὸ πρωῒ εἰσάκουσον τῆς φωνῆς μου καὶ Κύριε ὁ τὸ Πανάγιόν σου κτλ. Τὸν Σταυρόν σου Προσκυνοῦμεν Δέσποτα. Ἀπολυτίκιον Τὰς ἀλγηδόνας τῶν Ἁγίων, καὶ Κοντάκιον Οὐκέτι φλογίνη ῥομφαία. Ἐν δὲ τῷ Ἑσπερινῷ μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα τὰ δύο Ἰδιόμελα καὶ τὸ Μαρτυρικόν, τοῦ Τριῳδίου γ΄ Προσόμοια, καὶ τῶν Ἁγίων δ΄, Δόξα, Τὴν λίμνην ὡς παράδεισον, Καὶ νῦν, Σήμερον ὁ ἀπρόσιτος τῇ οὐσίᾳ, Εἴσοδος μετὰ τοῦ Εὐαγγελίου, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, Ἀπόστολος καὶ Εὐαγγέλιον τῶν Μαρτύρων, καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων, Κοινωνικὸν Εἰς μνημόσυνον, Εὐλογήσω τὸν Κύριον καὶ Ἀπόλυσις.
 
-### Η΄.
+**Η΄.**
 
 13.    Εἰ τύχοι ἐν Σαββάτῳ τῆς Β΄, Γ΄ καὶ Δ΄ ἑβδομάδος: τῇ Παρασκευῇ πρωῒ εἰς τὸν Ἑσπερινόν, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τὸ Ἰδιόμελον τῆς ἡμέρας δίς, δ΄ Μαρτυρικὰ τοῦ τυχόντος ἤχου καὶ δ΄ τῶν Ἁγίων, Δόξα, Ἐν ᾠδαῖς ᾀσμάτων, Καὶ νῦν, τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἴσοδος μετὰ θυμιατοῦ, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων, Κοινωνικὸν Γεύσασθε καὶ ἴδετε, Εὐλογήσω τὸν Κύριον, καὶ Ἀπόλυσις. Τὸ ἑσπέρας ἀναγινώσκονται οἱ Οἶκοι τῆς Θεοτόκου ὡς εἴθισται.
 
@@ -24,11 +24,11 @@
     On Monday morning the Service of Matins, the Hours and the Liturgy of the Presanctified Gifts are chanted as prescribed in Situation One, Paragraphs 2 and 3.
     If the Feast occurs on Tuesday of the 2nd, 3rd, 4th, or 5th Week: in the Vespers of the Presanctified, the Idiomelon of the Aposticha of the day twice, the Martyrikon once, the 3 Prosomia of the sequence, and 4 of the Saints; "Glory...": of the Saints; "Both now and ever...": Prosomion Stavrotheotokion, etc., as in Situation One, Paragraphs 2 and 3.
 
-### SITUATION SEVEN
+**SITUATION SEVEN**
 
 12.    If the Feast occurs on Wednesday of the 4th Week [Mid-Lent Wednesday]: in the morning the Service of Matins is sung as prescribed in Situation One, Paragraphs 2 and 3; the Hours are read plainly, and instead of **"In the morning hear my voice"** and **"O Lord, Who at the third hour didst send down Thy Most Holy Spirit..."** etc., we say: **"Thy Cross do we adore, O Master"** (*Τὸν Σταυρόν σου Προσκυνοῦμεν Δέσποτα*). Dismissal Troparion: **"By reason of the sufferings which the Saints endured for Thy sake, O Lord"** (*Τὰς ἀλγηδόνας τῶν Ἁγίων*); and Kontakion: **"No longer doth the flaming sword"** (*Οὐκέτι φλογίνη ῥομφαία*). In Vespers, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried": the two Idiomela and the Martyrikon, the 3 Prosomia of the Triodion, and 4 of the Saints; "Glory...": **"The lake as paradise"** (*Τὴν λίμνην ὡς παράδεισον*); "Both now and ever...": **"Today He Who is unapproachable in essence"** (*Σήμερον ὁ ἀπρόσιτος τῇ οὐσίᾳ*); Entrance with the Holy Gospel Book, "O Gladsome Light", and the Readings of the day; **"Let my prayer arise"** [Ps. 140:2 LXX], the Epistle and Gospel of the Martyrs, and then the Liturgy of the Presanctified Gifts follows in due order; Communion Verse: **"In everlasting remembrance shall the righteous be"** (*Εἰς μνημόσυνον*, Ps. 111:6 LXX); **"I will bless the Lord at all times"** (*Εὐλογήσω τὸν Κύριον*, Ps. 33:2 LXX), and Dismissal.
 
-### SITUATION EIGHT
+**SITUATION EIGHT**
 
 13.    If the Feast occurs on Saturday of the 2nd, 3rd, or 4th Week: on Friday morning at Vespers, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried", we sing the Idiomelon of the day twice, 4 Martyrika in the Tone occurring, and 4 of the Saints; "Glory...": **"In songs and hymns let us praise"** (*Ἐν ᾠδαῖς ᾀσμάτων*); "Both now and ever...": the first Theotokion of the Tone; Entrance with the censer, "O Gladsome Light", and the Readings of the day; **"Let my prayer arise"** [Ps. 140:2 LXX], and then the Liturgy of the Presanctified Gifts follows in due order; Communion Verse: **"O taste and see"** (*Γεύσασθε καὶ ἴδετε*, Ps. 33:9 LXX); **"I will bless the Lord at all times"** (*Εὐλογήσω τὸν Κύριον*, Ps. 33:2 LXX), and Dismissal. In the evening, the Oikoi of the Theotokos [Akathist Stasis] are read as customary, with the Kontakion: **"Every army"** (*Πᾶσαν στρατιάν*).[^280]
 
@@ -41,12 +41,12 @@
     Κοντάκιον Πᾶσαν στρατιάν.
     Τῷ Σαββάτῳ πρωῒ ἡ Ἀκολουθία τοῦ Ὄρθρου μετὰ τῆς Λειτουργίας τοῦ Χρυσοστόμου ψάλλονται κατὰ τὴν γνωστὴν διάταξιν. Ἀπόστολος καὶ Εὐαγγέλιον τῶν Ἁγίων. Κοινωνικὸν Εἰς μνημόσυνον.
 
-### Θ΄.
+**Θ΄.**
 
 14.    Εἰ τύχοι τῇ Τετάρτῃ τῆς Ε΄ ἑβδομάδος, τὸ πρωῒ ἡ Ἀκολουθία τοῦ Ὄρθρου καὶ τῶν Ὡρῶν ψάλλεται ὡς διετάχθη ἐν περιπτώσει Α΄ § 2. Ἐν δὲ τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα ἀρχόμεθα ἀπὸ τοῦ Στίχου Πεσοῦνται ἐν ἀμφιβλήστρῳ αὐτῶν οἱ ἁμαρτωλοί, καὶ ψάλλομεν τὸ Ἰδιόμελον τῆς ἡμέρας δίς, καὶ τὸ Μαρτυρικόν, εἶτα τὰ γ΄ τῆς σειρᾶς τοῦ Τριῳδίου Προσόμοια, καὶ δ΄ τῶν Ἁγίων Φέροντες τὰ παρόντα γενναίως, καὶ ἀκολούθως κατ᾿ ἀλφάβητον Στιχηρὰ τοῦ Τριῳδίου Ἅπας ὁ βίος μου, μέχρι τοῦ Στιχηροῦ Ὢ τῆς ἀφάτου σου εὐσπλαγχνίας· Δόξα, τῶν Ἁγίων, Τὴν λίμνην ὡς παράδεισον, Καὶ νῦν, Ἔργοις σκοτεινοῖς συναπαχθείς. Εἴσοδος μετὰ τοῦ Εὐαγγελίου, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, Ἀπόστολος καὶ Εὐαγγέλιον τῶν Ἁγίων, καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων, Κοινωνικὸν Εἰς μνημόσυνον, Εὐλογήσω τὸν Κύριον καὶ Ἀπόλυσις.
     Τὸ ἑσπέρας ψάλλεται ὁ Μ. Κανών, ὡς εἴθισται, μετὰ μικροῦ Ἀποδείπνου.
 
-### Ι΄.
+**Ι΄.**
 
 15.    Εἰ τύχοι τῇ Πέμπτῃ τοῦ Μεγάλου Κανόνος, τῇ Τετάρτῃ πρωῒ ὁ Ἑσπερινὸς καὶ ἡ Λειτουργία ψάλλονται ὡς ἐν περιπτώσει Θ΄ § 14· ἀλλὰ Ἀπόστολος καὶ Εὐαγγέλιον, ὡς καὶ τὸ Δοξαστικόν, οὐ λέγονται, Κοινωνικὸν δὲ τὸ Γεύσασθε. Τῇ Πέμπτῃ πρωΐ, μετὰ τὸν Ν΄ ψαλμόν, τὸ Τρισάγιον, τὸ Ἀπολυτίκιον τῶν Ἁγίων καὶ ὁ Ἑξάψαλμος. Εἰς τὸ Θεὸς Κύριος, τὸ Ἀπολυτίκιον τῶν Ἁγίων δίς, καὶ τὸ Θεοτοκίον· εἶτα τὸ Ψαλτήριον, τὰ Καθίσματα τῶν Ἁγίων μετὰ τῶν Θεοτοκίων αὐτῶν, ὁ Ν΄ ψαλμὸς χῦμα, καὶ ἀναγινώσκεται ἡ α΄ καὶ γ΄ Ὠδὴ τοῦ Κανόνος τῶν Ἁγίων ὡς καὶ τὸ μετὰ τὴν Αἴτησιν Κάθισμα τῶν Ἁγίων καὶ τὸ Θεοτοκίον· εἶτα ἡ δ΄ Ὠδὴ τοῦ Τριῳδίου καὶ ἡ τῶν Ἁγίων, ἡ ε΄ καὶ ἡ ς΄ Ὠδὴ τῶν Ἁγίων καὶ ἡ Αἴτησις, τὸ Κοντάκιον Ψυχή μου ψυχή μου καὶ τὸ Μηνολόγιον τῶν Μαρτύρων, εἶτα (ἡ ζ΄ ᾠδὴ
 
@@ -59,12 +59,12 @@
     Kontakion: **"Every army"** (*Πᾶσαν στρατιάν*).
     On Saturday morning, the Service of Matins with the Liturgy of Saint John Chrysostom are sung according to the known order; Epistle and Gospel of the Saints; Communion Verse: **"In everlasting remembrance shall the righteous be"** (*Εἰς μνημόσυνον*, Ps. 111:6 LXX).
 
-### SITUATION NINE
+**SITUATION NINE**
 
 14.    If the Feast occurs on Wednesday of the 5th Week: in the morning, the Service of Matins and the Hours are sung as prescribed in Situation One, Paragraph 2. At Vespers, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried", we begin from the Verse: **"The sinners shall fall into their net"** [Ps. 140:10 LXX], and we sing the Idiomelon of the day twice, and the Martyrikon; then the 3 Prosomia of the sequence of the Triodion, and 4 of the Saints: **"Bravely enduring the sufferings of the present life"** (*Φέροντες τὰ παρόντα γενναίως*); and following these, the alphabetical Stichira of the Triodion: **"All my life"** (*Ἅπας ὁ βίος μου*), until the Stichiron: **"O Thine ineffable loving-kindness"** (*Ὢ τῆς ἀφάτου σου εὐσπλαγχνίας*); "Glory...": of the Saints: **"The lake as paradise"** (*Τὴν λίμνην ὡς παράδεισον*); "Both now and ever...": **"Led away by works of darkness"** (*Ἔργοις σκοτεινοῖς συναπαχθείς*); Entrance with the Holy Gospel Book, "O Gladsome Light", and the Readings of the day; **"Let my prayer arise"** [Ps. 140:2 LXX], the Epistle and Gospel of the Saints, and then the Liturgy of the Presanctified Gifts follows in due order; Communion Verse: **"In everlasting remembrance shall the righteous be"** (*Εἰς μνημόσυνον*, Ps. 111:6 LXX); **"I will bless the Lord at all times"** (*Εὐλογήσω τὸν Κύριον*, Ps. 33:2 LXX), and Dismissal.
     In the evening, the Great Canon is chanted, as customary, with the Small Compline.
 
-### SITUATION TEN
+**SITUATION TEN**
 
 15.    If the Feast occurs on Thursday of the Great Canon: on Wednesday morning, Vespers and the Liturgy are sung as in Situation Nine, Paragraph 14; but the Epistle and Gospel, as well as the Doxastikon, are not said; Communion Verse: **"O taste and see"** (*Γεύσασθε καὶ ἴδετε*, Ps. 33:9 LXX). On Thursday morning, after Psalm 50 [LXX], the Trisagion Prayers, the Dismissal Troparion of the Saints, and the Hexapsalmos. At "God is the Lord": the Dismissal Troparion of the Saints twice, and the Theotokion; then the Psalter, the Kathismata of the Saints with their Theotokia, Psalm 50 read plainly; and the 1st and 3rd Odes of the Canon of the Saints are read, as well as the Kathisma of the Saints and the Theotokion which follow the Little Litany; then the 4th Ode of the Triodion and that of the Saints; then the 5th and 6th Odes of the Saints and the Little Litany, the Kontakion: **"My soul, my soul, arise"** (*Ψυχή μου ψυχή μου*) and the Menologion of the Martyrs; then [the 7th Ode, which is omitted here, perhaps due to a typographical error][^281]
 
@@ -78,7 +78,7 @@
 
 16.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τὸ Ἰδιόμελον Αὐτεξουσίως ἐξεδόθην δίς, καὶ τὸ Μαρτυρικόν, τὰ γ΄ Προσόμοια τοῦ Τριῳδίου καὶ δ΄ τῶν Ἁγίων, Δόξα, Ἐν ᾠδαῖς ᾀσμάτων, Καὶ νῦν, Σταυροθεοτοκίον Προσόμοιον, Εἴσοδος μετὰ τοῦ Εὐαγγελίου, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, Ἀπόστολος καὶ Εὐαγγέλιον τῶν Ἁγίων καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων, Κοινωνικὸν Εἰς μνημόσυνον, Εὐλογήσω τὸν Κύριον καὶ Ἀπόλυσις.
 
-### ΙΑ΄.
+**ΙΑ΄.**
 
 17.    Εἰ τύχοι τῇ Παρασκευῇ τῆς αὐτῆς ἑβδομάδος, τῇ Πέμπτῃ πρωῒ εἰς τὸν Ἑσπερινόν, μετὰ τὸ Ἰδιόμελον τὸ Μαρτυρικὸν καὶ τὰ γ΄ τῆς σειρᾶς Προσόμοια, καὶ δ΄ τῶν Μαρτύρων, Δόξα, Καὶ νῦν, Προσόμοιον Σταυροθεοτοκίον κτλ. Τῇ Παρασκευῇ πρωΐ, ἡ Ἀκολουθία τοῦ Ὄρθρου μετὰ τῶν Ὡρῶν ψάλλεται ὡς διετάχθη ἐν περιπτώσει Α΄ § 2.
 18.    Ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα τὸ Ἰδιόμελον Ὡς ἐξ Ἱερουσαλὴμ δίς, δ΄ Προσόμοια τῆς Θεοτόκου Βουλὴν προαιώνιον, καὶ δ΄ τῶν Ἁγίων· Δόξα, Τὴν λίμνην ὡς παράδεισον, Καὶ νῦν, Τὸ ἀπ᾿ αἰῶνος μυστήριον. Εἴσοδος μετὰ τοῦ Εὐαγγελίου, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, Ἀπόστολος καὶ Εὐαγγέλιον τῶν Ἁγίων καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων. Κοινωνικὸν Εἰς μνημόσυνον, Εὐλογήσω τὸν Κύριον καὶ Ἀπόλυσις.
@@ -92,7 +92,7 @@
 omission,] the 8th and 9th Odes of the Triodion as well as that of the Saints; Katavasiai: **"I shall open my mouth"** (*Ἀνοίξω τὸ στόμα μου*); and after "More honorable than the Cherubim", the Exapostilarion of the Saints and the Theotokion. At the Praises: the Prosomia: **"Come, O brethren, let us praise in song the band of martyrs"** (*Δεῦτε μαρτυρικὴν ἀδελφοί*); "Glory...": **"O prize-bearing martyrs of Christ"** (*Ἀθλοφόροι Χριστοῦ*); "Both now and ever...": **"We bless thee, O Virgin Theotokos"** (*Μακαρίζομέν σε*); Great Doxology; the Dismissal Troparion of the Martyrs; and the Hours are read, in which we say the Dismissal Troparion: **"By reason of the sufferings which the Saints endured for Thy sake, O Lord"** (*Τὰς ἀλγηδόνας τῶν Ἁγίων*), and the Kontakion: **"My soul, my soul, arise"** (*Ψυχή μου ψυχή μου*). At the 9th Hour, the Beatitudes are chanted and the rest of the order as prescribed in the Feast of Saint Charalampos, Situation Eight, Paragraph 14, and Dismissal.
 16.    In Vespers, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried", we sing the Idiomelon: **"Of my own free will"** (*Αὐτεξουσίως ἐξεδόθην*) twice, and the Martyrikon; the 3 Prosomia of the Triodion, and 4 of the Saints; "Glory...": **"In songs and hymns let us praise"** (*Ἐν ᾠδαῖς ᾀσμάτων*); "Both now and ever...": the Prosomion Stavrotheotokion; Entrance with the Holy Gospel Book, "O Gladsome Light", and the Readings of the day; **"Let my prayer arise"** [Ps. 140:2 LXX], the Epistle and Gospel of the Saints, and then the Liturgy of the Presanctified Gifts follows in due order; Communion Verse: **"In everlasting remembrance shall the righteous be"** (*Εἰς μνημόσυνον*, Ps. 111:6 LXX); **"I will bless the Lord at all times"** (*Εὐλογήσω τὸν Κύριον*, Ps. 33:2 LXX), and Dismissal.
 
-### SITUATION ELEVEN
+**SITUATION ELEVEN**
 
 17.    If the Feast occurs on Friday of the same week: on Thursday morning at Vespers, after the Idiomelon, the Martyrikon, the 3 Prosomia of the sequence, and 4 of the Martyrs; "Glory... Both now and ever...": Prosomion Stavrotheotokion, etc. On Friday morning, the Service of Matins with the Hours is chanted as prescribed in Situation One, Paragraph 2.
 18.    In Vespers, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried": the Idiomelon **"As from Jerusalem"** (*Ὡς ἐξ Ἱερουσαλὴμ*) twice, 4 Prosomia of the Theotokos: **"Revealing to thee the pre-eternal counsel"** (*Βουλὴν προαιώνιον*), and 4 of the Saints; "Glory...": **"The lake as paradise"** (*Τὴν λίμνην ὡς παράδεισον*); "Both now and ever...": **"The mystery which was hidden from all eternity"** (*Τὸ ἀπ᾿ αἰῶνος μυστήριον*); Entrance with the Holy Gospel Book, "O Gladsome Light", and the Readings of the day; **"Let my prayer arise"** [Ps. 140:2 LXX], the Epistle and Gospel of the Saints, and then the Liturgy of the Presanctified Gifts follows in due order; Communion Verse: **"In everlasting remembrance shall the righteous be"** (*Εἰς μνημόσυνον*, Ps. 111:6 LXX); **"I will bless the Lord at all times"** (*Εὐλογήσω τὸν Κύριον*, Ps. 33:2 LXX), and Dismissal.[^282]
@@ -105,7 +105,7 @@ omission,] the 8th and 9th Odes of the Triodion as well as that of the Saints; K
 
     Τὸ ἑσπέρας ψάλλεται ὁ Ἀκάθιστος Ὕμνος μετὰ Μικροῦ Ἀποδείπνου, ὡς εἴθισται· Κοντάκιον Τῇ ὑπερμάχῳ.
 
-### ΙΒ΄.
+**ΙΒ΄.**
 
 19.    Εἰ τύχοι τῷ Σαββάτῳ τοῦ Ἀκαθίστου, τῇ Παρασκευῇ πρωῒ ἐν τῷ Ἑσπερινῷ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν τὸ Ἰδιόμελον Ὡς ἐξ Ἱερουσαλὴμ δίς, δ΄ Προσόμοια τῆς Θεοτόκου Βουλὴν προαιώνιον, καὶ δ΄ τῶν Μαρτύρων· Δόξα, Προφητικῶς ἀνεβόα, Καὶ νῦν, Τὸ ἀπ᾿ αἰῶνος μυστήριον. Εἴσοδος μετὰ θυμιατοῦ, Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, καὶ καθεξῆς ἡ Λειτουργία τῶν Προηγιασμένων, Κοινωνικὸν Γεύσασθε καὶ ἴδετε, Εὐλογήσω τὸν Κύριον, καὶ Ἀπόλυσις.
     Τὸ ἑσπέρας ψάλλεται ὁ Ἀκάθιστος Ὕμνος μετὰ μικροῦ Ἀποδείπνου, ὡς εἴθισται· Κοντάκιον Τῇ ὑπερμάχῳ.
@@ -120,7 +120,7 @@ omission,] the 8th and 9th Odes of the Triodion as well as that of the Saints; K
 
     In the evening, the Akathist Hymn is sung with the Small Compline, as customary; Kontakion: **"To thee, the Champion Leader"** (*Τῇ ὑπερμάχῳ*).
 
-### SITUATION TWELVE
+**SITUATION TWELVE**
 
 19.    If the Feast occurs on the Saturday of the Akathist: on Friday morning at Vespers, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried", we chant the Idiomelon: **"As from Jerusalem"** (*Ὡς ἐξ Ἱερουσαλὴμ*) twice, 4 Prosomia of the Theotokos: **"Revealing to thee the pre-eternal counsel"** (*Βουλὴν προαιώνιον*), and 4 of the Martyrs; "Glory...": **"David cried out prophetically in the psalms"** (*Προφητικῶς ἀνεβόα*); "Both now and ever...": **"The mystery which was hidden from all eternity"** (*Τὸ ἀπ᾿ αἰῶνος μυστήριον*); Entrance with the censer, "O Gladsome Light", and the Readings of the day; **"Let my prayer arise"** [Ps. 140:2 LXX], and then the Liturgy of the Presanctified Gifts follows in due order; Communion Verse: **"O taste and see"** (*Γεύσασθε καὶ ἴδετε*, Ps. 33:9 LXX); **"I will bless the Lord at all times"** (*Εὐλογήσω τὸν Κύριον*, Ps. 33:2 LXX), and Dismissal.
     In the evening, the Akathist Hymn is sung with the Small Compline, as customary; Kontakion: **"To thee, the Champion Leader"** (*Τῇ ὑπερμάχῳ*).
@@ -139,9 +139,9 @@ omission,] the 8th and 9th Odes of the Triodion as well as that of the Saints; K
 
 ## Τῇ ΚΕ΄: Ὁ Εὐαγγελισμὸς τῆς Θεοτόκου (Σημείωσις Παραμονῆς, Περίπτωσις Α΄ § 1) [Violakis, p. 434]
 
-### ΠΕΡΙΠΤΩΣΕΙΣ
+**ΠΕΡΙΠΤΩΣΕΙΣ**
 
-#### Α΄.
+**Α΄.**
 
 Σημείωσις.    Ἐὰν ἡ παραμονὴ τῆς ἑορτῆς τοῦ Εὐαγγελισμοῦ τύχῃ ἐν ἡμέρᾳ Τετάρτῃ ἢ Παρασκευῇ, ἐν αἷς, ὡς ἔθος, τελεῖται Προηγιασμένη Λειτουργία, ἐν μὲν ταῖς Ἱεραῖς Ἐκκλησίαις τῶν πόλεων οὐ τελεῖται Προηγιασμένη διὰ τὸ μηδὲ ἀγρυπνίαν τελεῖσθαι ἐν ταύταις ἐξαιρουμένης τῆς Μεγάλης Τρίτης καὶ Μ. Τετάρτης, ἐν αἷς τελεῖται Προηγιασμένη μετὰ μικροῦ Ἑσπερινοῦ. Ἐν ταῖς Ἱεραῖς ὅμως Μοναῖς διὰ τὴν διαφορὰν τοῦ μοναχικοῦ βίου καὶ διὰ τὸ τελεῖσθαι πάντοτε ἐν ταύταις ἀγρυπνίαν, τελεῖται τῇ παραμονῇ Προηγιασμένη μετὰ μικροῦ Ἑσπερινοῦ, τῶν ἀρχαίων κτητορικῶν Τυπικῶν ἀμετακινήτων διαμενόντων.
 1.    Εἰ τύχοι ὁ Εὐαγγελισμὸς τῇ Παρασκευῇ τῆς Γ΄ ἑβδομάδος τῶν Νηστειῶν, τῇ Τετάρτῃ πρωῒ ἐν τῷ Ἑσπερινῷ τῆς Προηγιασμένης Λειτουργίας, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ Κύριε ἐκέκραξα ψάλλεται (ἐκ τοῦ Τριῳδίου) τὸ Ἰδιόμελον τῆς ἡμέρας δὶς καὶ τὸ Μαρτυρικὸν ἅπαξ· τὰ γ΄ τοῦ Τριῳδίου τῆς σειρᾶς Προσόμοια καὶ δ΄ Προεόρτια Κεκρυμμένον Μυστήριον· Δόξα, Καὶ νῦν, Εὐαγγελίζεται ὁ Γαβριὴλ Εἴσοδος Φῶς ἱλαρόν, καὶ τὰ Ἀναγνώσματα τῆς ἡμέρας, τὸ Κατευθυνθήτω, καὶ καθεξῆς ἡ
@@ -159,9 +159,9 @@ omission,] the 8th and 9th Odes of the Triodion as well as that of the Saints; K
 
 ## March 25: The Annunciation of Our Most Holy Lady, the Theotokos and Ever-Virgin Mary (Situation I § 1) [Violakis, p. 435]
 
-### SITUATIONS
+**SITUATIONS**
 
-#### SITUATION ONE
+**SITUATION ONE**
 
 Note: If the Paramony [Eve] of the Feast of the Annunciation falls on a Wednesday or Friday, on which days, according to custom, the Liturgy of the Presanctified Gifts is celebrated: in the holy parish churches of the cities the Presanctified Liturgy is not celebrated, because an all-night vigil is not kept in them (except on Great and Holy Tuesday and Great and Holy Wednesday, on which the Presanctified Liturgy is celebrated following Small Vespers). In the holy monasteries, however, owing to the distinction of the monastic way of life and because all-night vigils are always celebrated therein, the Presanctified Liturgy is celebrated on the Paramony following Small Vespers, the ancient monastic typika remaining immovable.
 1.    If the Feast of the Annunciation falls on Friday of the 3rd Week of the Great Fast: on Wednesday morning at the Vespers of the Presanctified Liturgy, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried", we sing [from the Triodion] the Idiomelon of the day twice, and the Martyrikon once; then the 3 Prosomia of the sequence of the Triodion, and 4 Forefeast Prosomia: **"A hidden mystery"** (*Κεκρυμμένον μυστήριον*); "Glory... Both now and ever...": **"Gabriel announces"** (*Εὐαγγελίζεται ὁ Γαβριὴλ*); Little Entrance, "O Gladsome Light", and the Readings of the day; then **"Let my prayer arise"** [Ps. 140:2 LXX], and the Liturgy of the Presanctified Gifts follows in due order. Then in the evening, the Great[^284]

@@ -4,25 +4,25 @@
 
 ## Τῇ ΚΔ΄: Ἡ Α΄ καὶ Β΄ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου (Περιπτώσεις Α΄–Ε΄ §§ 1–5) [Violakis, p. 406]
 
-### ΠΕΡΙΠΤΩΣΕΙΣ
+**ΠΕΡΙΠΤΩΣΕΙΣ**
 
-#### Α΄.
+**Α΄.**
 
 1.    Εἰ τύχοι ἡ ἑορτὴ αὕτη ἐν πάσῃ ἄλλῃ ἡμέρᾳ πλὴν Κυριακῆς, ἀπὸ τῆς Πέμπτης τῆς ἑβδομάδος τοῦ Ἀσώτου μέχρι τῆς Παρασκευῆς τῆς Τυρινῆς, ἡ Ἀκολουθία ψάλλεται ὡς ἐστι διατεταγμένη ἐν τῷ Μηναίῳ.
 
-#### Β΄.
+**Β΄.**
 
 2.    Εἰ τύχοι τῷ Σαββάτῳ τῶν Ψυχῶν, ἡ Ἀκολουθία προψάλλεται τῇ Παρασκευῇ μετὰ τῆς τοῦ ἁγίου Πολυκάρπου, ἡ δὲ τῶν Ψυχῶν ψάλλεται ἀμεταθέτως τῷ Σαββάτῳ.
 
-#### Γ΄.
+**Γ΄.**
 
 3.    Εἰ τύχοι τῇ Κυριακῇ τῆς Ἀπόκρεω, ἢ τῆς Τυρινῆς, τὴν διάταξιν τῆς Ἀκολουθίας ὅρα ἐν τῇ μνήμῃ τοῦ ἁγίου Χαραλάμπους, ἐν περιπτώσει Γ΄ § 3, 4, 5.
 
-#### Δ΄.
+**Δ΄.**
 
 4.    Εἰ τύχοι τῷ Σαββάτῳ τῆς Τυρινῆς, ἡ Ἀκολουθία ψάλλεται κατὰ τὴν διάταξιν τῆς Ἀκολουθίας τοῦ ἁγίου Χαραλάμπους ἐν περιπτώσει Ϛ΄ § 10, 11.
 
-#### Ε΄.
+**Ε΄.**
 
 5.    Εἰ τύχοι τῇ Δευτέρᾳ τῆς Α΄ ἑβδομάδος τῶν Νηστειῶν, ἡ Ἀκολουθία αὐτοῦ προψάλλεται τῇ Κυριακῇ τῆς Τυρινῆς, κατὰ τὴν διάταξιν τῆς Ἀκολουθίας τοῦ Ἁγίου Χαραλάμπους ἐν περιπτώσει Γ΄ § 3, 4, 5.
 
@@ -34,25 +34,25 @@
 
 ## February 24: First and Second Finding of the Precious Head of the Forerunner (Situations I–V §§ 1–5) [Violakis, p. 407]
 
-### SITUATIONS
+**SITUATIONS**
 
-#### SITUATION ONE
+**SITUATION ONE**
 
 1.    If this Feast occurs on any day except Sunday, from Thursday of the Week of the Prodigal Son until Friday of Cheesefare Week: the Service is chanted as prescribed in the Menaion.
 
-#### SITUATION TWO
+**SITUATION TWO**
 
 2.    If the Feast occurs on the Saturday of Souls [All Souls Saturday]: the Service is chanted in advance on Friday together with that of the Holy Hieromartyr Polycarp, whereas the Service of the Saturday of Souls is chanted, without being transferred, on Saturday.
 
-#### SITUATION THREE
+**SITUATION THREE**
 
 3.    If the Feast occurs on Meatfare Sunday or Cheesefare Sunday: for the order of service see the Feast of St. Charalampos under Situation Three, Paragraphs 3, 4, and 5.
 
-#### SITUATION FOUR
+**SITUATION FOUR**
 
 4.    If the Feast occurs on the Saturday of Cheesefare: the Service is chanted according to the order of the Service of St. Charalampos under Situation Six, Paragraphs 10 and 11.
 
-#### SITUATION FIVE
+**SITUATION FIVE**
 
 5.    If the Feast occurs on Monday of the First Week of the Great Fast: his Service is chanted in advance on Cheesefare Sunday, according to the order of service of the Feast of St. Charalampos under Situation Three, Paragraphs 3, 4, and 5.[^270]
 
@@ -64,7 +64,7 @@
 
 ## Τῇ ΚΔ΄: Ἡ Α΄ καὶ Β΄ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου (Περίπτωσις Ϛ΄ §§ 6–8) [Violakis, p. 408]
 
-### Ϛ΄.
+**Ϛ΄.**
 
 6.    Εἰ τύχοι τῇ Τρίτῃ τῆς Α΄ ἑβδομάδος τῶν Νηστειῶν, τῇ Δευτέρᾳ πρωῒ μετὰ τὸν Προοιμιακὸν καὶ τὸ *Κύριε ἐκέκραξα*, ψάλλομεν γ΄ Προσόμοια τῆς σειρᾶς τοῦ Τριῳδίου καὶ γ΄ τοῦ Προδρόμου *Χαίροις ἡ ἱερὰ κεφαλή*, *Δόξα*, *Καὶ νῦν* Προσόμοιον Θεοτοκίον, τὸ *Φῶς ἱλαρὸν* καὶ τὰ Ἀναγνώσματα τοῦ Τριῳδίου. Εἰς τὰ Ἀπόστιχα, τὸ τοῦ Τριῳδίου Ἰδιόμελον δίς, καὶ τὸ Μαρτυρικὸν ἅπαξ, *Δόξα*, *Καὶ νῦν* Θεοτοκίον, *Νῦν ἀπολύεις*, τὸ Τρισάγιον, τὸ *Θεοτόκε Παρθένε*, καὶ Ἀπόλυσις.
 
@@ -80,7 +80,7 @@
 
 ## February 24: First and Second Finding of the Precious Head of the Forerunner (Situation VI §§ 6–8) [Violakis, p. 409]
 
-### SITUATION SIX
+**SITUATION SIX**
 
 6.    If the Feast occurs on Tuesday of the First Week of the Great Fast: on Monday morning, after the Introductory Psalm [Ps. 103 LXX], at "Lord, I have cried", we chant 3 Prosomia of the cycle of the Triodion and 3 Prosomia of the Forerunner: **"Rejoice, O sacred head"** (*Χαίροις ἡ ἱερὰ κεφαλή*); "Glory... Both now and ever...": Prosomion Theotokion; "O Gladsome Light" and the Old Testament Readings of the Triodion. At the Aposticha: the Idiomelon of the Triodion twice, and the Martyrikon once; "Glory... Both now and ever...": Theotokion; then "Now lettest Thou Thy servant depart" [Luke 2:29] and the Trisagion Prayers; then **"O Virgin Theotokos"** (*Θεοτόκε Παρθένε*), and Dismissal.
 
@@ -96,11 +96,11 @@
 
 ## Τῇ ΚΔ΄: Ἡ Α΄ καὶ Β΄ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου (Περιπτώσεις Ζ΄ § 9, Η΄ §§ 10–11) [Violakis, p. 410]
 
-### Ζ΄.
+**Ζ΄.**
 
 9.    Εἰ τύχοι τῇ Τετάρτῃ, Πέμπτῃ, ἢ Παρασκευῇ τῆς αὐτῆς ἑβδομάδος, τὴν τυπικὴν διάταξιν τῆς Ἀκολουθίας ὅρα ἐν τῇ ἑορτῇ τοῦ Ἁγίου Χαραλάμπους κατὰ τὴν Θ΄ καὶ ΙΑ΄ περίπτωσιν, § 12 καὶ 16.
 
-### Η΄.
+**Η΄.**
 
 10.    Εἰ τύχοι τῷ Σαββάτῳ τῆς αὐτῆς [Α΄] ἑβδομάδος, τῇ Παρασκευῇ πρωΐ, μετὰ τὸν Προοιμιακὸν καὶ τὰ Πρὸς Κύριον, εἰς τὸ *Κύριε ἐκέκραξα* ψάλλομεν τὸ Ἰδιόμελον τῆς ἡμέρας *Δεῦτε πιστοὶ ἐπεργασώμεθα* δίς, τοῦ Προδρόμου Προσόμοια δ΄ καὶ δ΄ τοῦ ἁγίου Θεοδώρου, *Δόξα*, *Ὀργάνῳ χρησάμενος*, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ τυχόντος ἤχου, Εἴσοδος μετὰ θυμιατοῦ, *Φῶς ἱλαρὸν* καὶ τὰ Ἀναγνώσματα τοῦ Τριῳδίου, τὸ *Κατευθυνθήτω*, *Νῦν αἱ δυνάμεις*, Κοινωνικὸν *Γεύσασθε καὶ ἴδετε*, *Εὐλογήσω τὸν Κύριον* καὶ Ἀπόλυσις.
 
@@ -114,11 +114,11 @@
 
 ## February 24: First and Second Finding of the Precious Head of the Forerunner (Situation VII § 9, Situation VIII §§ 10–11) [Violakis, p. 411]
 
-### SITUATION SEVEN
+**SITUATION SEVEN**
 
 9.    If the Feast occurs on Wednesday, Thursday, or Friday of this same week: for the typikon order of the Service see the Feast of St. Charalampos under Situations Nine and Eleven, Paragraphs 16 and 18 [cross-reference noted in the source text as §§ 12 and 16].
 
-### SITUATION EIGHT
+**SITUATION EIGHT**
 
 10.    If the Feast occurs on Saturday of this same [First] week [Miracle of the Kolyva of St. Theodore the Recruit]: on Friday morning, after the Introductory Psalm [Ps. 103 LXX] and "Unto the Lord" [Kathisma 18, Pss. 119–133 LXX], at "Lord, I have cried", we chant the Idiomelon of the day: **"Come, ye faithful, let us work"** (*Δεῦτε πιστοὶ ἐπεργασώμεθα*, twice), 4 Prosomia of the Forerunner, and 4 of St. Theodore; "Glory...": **"Using the apostate emperor as his tool"** (*Ὀργάνῳ χρησάμενος*); "Both now and ever...": the first Dogmatic Theotokion of the Tone occurring; Little Entrance with the censer, "O Gladsome Light", and the Old Testament Readings of the Triodion; **"Let my prayer arise"** [Ps. 140:2 LXX]; **"Now the powers of heaven"** (*Νῦν αἱ δυνάμεις*); Communion Verse: **"O taste and see that the Lord is good"** (*Γεύσασθε καὶ ἴδετε*, Ps. 33:9 LXX); **"I will bless the Lord at all times"** (Ps. 33:2 LXX), and Dismissal.
 
@@ -132,11 +132,11 @@
 
 ## Τῇ ΚΔ΄: Ἡ Α΄ καὶ Β΄ Εὕρεσις τῆς Τιμίας Κεφαλῆς τοῦ Προδρόμου (Περιπτώσεις Θ΄ § 12, Ι΄ §§ 13–14) [Violakis, p. 412]
 
-### Θ΄.
+**Θ΄.**
 
 12.    Εἰ τύχοι τῇ Α΄ Κυριακῇ τῶν Νηστειῶν², τὴν τῆς Ἀκολουθίας διάταξιν ὅρα ἐν τῇ τοῦ ἁγίου Χαραλάμπους ἑορτῇ ἐν περιπτώσει ΙΓ΄ § 23-25.
 
-### Ι΄.
+**Ι΄.**
 
 13.    Εἰ τύχοι τῇ Β΄ Κυριακῇ τῶν Νηστειῶν, τῷ Σαββάτῳ ἑσπέρας μετὰ τὸν Προοιμιακὸν καὶ τὸ Ψαλτήριον, εἰς τὸ *Κύριε ἐκέκραξα* Ἀναστάσιμα δ΄, τοῦ Προδρόμου γ΄ καὶ τοῦ ἁγίου Γρηγορίου γ΄. *Δόξα* τοῦ Τριῳδίου, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου, Εἴσοδος, *Φῶς ἱλαρὸν* καὶ τὸ Προκείμενον. Εἰς τὰ Ἀπόστιχα, τὰ ἀναστάσιμα Στιχηρά, *Δόξα* τοῦ Προδρόμου *Ἡ τῶν θείων ἐννοιῶν*, *Καὶ νῦν*, *Ὢ θαύματος καινοῦ*, τὸ ἀναστάσιμον Ἀπολυτίκιον, τοῦ Προδρόμου, τοῦ ἁγίου Γρηγορίου, τὸ Θεοτοκίον καὶ Ἀπόλυσις.
 
@@ -153,11 +153,11 @@ _________________
 
 ## February 24: First and Second Finding of the Precious Head of the Forerunner (Situation IX § 12, Situation X §§ 13–14) [Violakis, p. 413]
 
-### SITUATION NINE
+**SITUATION NINE**
 
 12.    If the Feast occurs on the First Sunday of Lent [Sunday of Orthodoxy]: see the Feast of St. Charalampos, Situation Thirteen, Paragraphs 23–25 for the order of service.
 
-### SITUATION TEN
+**SITUATION TEN**
 
 13.    If the Feast occurs on the Second Sunday of Lent [St. Gregory Palamas]: on Saturday evening at Vespers, after the Introductory Psalm [Ps. 103 LXX] and the Reading from the Psalter [Kathisma 1], at "Lord, I have cried", we chant 4 Resurrectional Stichira, 3 of the Forerunner, and 3 of St. Gregory; "Glory...": of the Triodion; "Both now and ever...": the first Dogmatic Theotokion of the Tone; Little Entrance, "O Gladsome Light", and the Prokeimenon of Saturday evening. At the Aposticha: the Resurrectional Stichira; "Glory...": of the Forerunner: **"The divine treasure"** (*Ἡ τῶν θείων ἐννοιῶν*); "Both now and ever...": **"O strange marvel"** (*Ὢ θαύματος καινοῦ*); Dismissal Troparia: of the Resurrection, of the Forerunner, of St. Gregory, the Theotokion, and Dismissal.
 
@@ -173,7 +173,7 @@ _________________
 
 15.    Εἰς τὴν Λειτουργίαν, τὰ Τυπικὰ καὶ οἱ Μακαρισμοὶ τοῦ ἤχου εἰς δ΄ καὶ ἐκ τῆς ς΄ Ὠδῆς τοῦ Κανόνος τοῦ Τριῳδίου δ΄. Μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τοῦ Προδρόμου, τοῦ ἁγίου Γρηγορίου, τοῦ Ἁγίου τοῦ Ναοῦ καὶ Κοντάκιον *Τῇ ὑπερμάχῳ*, Ἀπόστολος τοῦ Προδρόμου, καὶ Εὐαγγέλιον τῆς Κυριακῆς, καὶ καθεξῆς ἡ Λειτουργία τοῦ Μ. Βασιλείου, Κοινωνικὸν *Αἰνεῖτε*, *Εἴδομεν τὸ φῶς* καὶ Ἀπόλυσις.
 
-### ΙΑ΄.
+**ΙΑ΄.**
 
 16.    Εἰ τύχοι τῇ Γ΄ Κυριακῇ τῶν Νηστειῶν, τῷ Σαββάτῳ εἰς τὸν Ἑσπερινόν, ψάλλομεν στιχηρὰ Ἀναστάσιμα δ΄, τοῦ Σταυροῦ γ΄ καὶ τοῦ Προδρόμου γ΄. *Δόξα* τοῦ Τριῳδίου, *Καὶ νῦν* τὸ α΄ Θεοτοκίον τοῦ ἤχου. Εἰς τὰ Ἀπόστιχα, *Δόξα* τοῦ Προδρόμου, *Καὶ νῦν*, *Ὁ συμμαχήσας Κύριε*, τὰ Ἀπολυτίκια, τὸ Ἀναστάσιμον, τοῦ Προδρόμου καὶ τὸ *Σῶσον Κύριε*. Τῷ πρωῒ εἰς τὸ *Θεὸς Κύριος*, τὰ Ἀπολυτίκια ὡς εἰς τὸν Ἑσπερινόν, Καθίσματα ἀναστάσιμα καὶ ἀνὰ ἓν τοῦ Προδρόμου μετὰ τῶν Θεοτοκίων· εἰς τὴν γ΄ Στιχολογίαν, τοῦ Προδρόμου καὶ τὸ *Ἐν Παραδείσῳ*· εἶτα ὁ Κανὼν τοῦ Τριῳδίου καὶ ὁ τοῦ Προδρόμου. Ἀπὸ γ΄ Ὠδῆς μετὰ τὸ ἀναστάσιμον Κοντάκιον καὶ τὸν Οἶκον, Καθίσματα τοῦ Προδρόμου καὶ τοῦ Τριῳδίου. Ἐξαποστειλάρια, τὸ Ἀναστάσιμον, τοῦ Τριῳδίου, τοῦ Προδρόμου μετὰ τοῦ Θεοτοκίου. Εἰς τοὺς Αἴνους, Ἀναστάσιμα δ΄ καὶ τοῦ Σταυροῦ δ΄. Εἰς τὴν Λειτουργίαν, μετὰ τὴν Εἴσοδον, τὸ ἀναστάσιμον Ἀπολυτίκιον, τὸ *Σῶσον Κύριε τὸν λαόν σου*, τοῦ Προδρόμου, τὸ τοῦ Ἁγίου τοῦ Ναοῦ, καὶ καθεξῆς· Ἀπόστολος τοῦ Προδρόμου, καὶ Εὐαγγέλιον τῆς Κυριακῆς. Κοινωνικὸν *Ἐσημειώθη* κτλ.
 
@@ -191,7 +191,7 @@ _________________
 
 15.    At the Divine Liturgy: the Typika and the Beatitudes of the Tone in 4, and 4 from the 6th Ode of the Canon of the Triodion. After the Little Entrance: the Dismissal Troparia of the Resurrection, of the Forerunner, of St. Gregory, of the Patron Saint of the Temple, and the Kontakion: **"To thee, the champion leader"** (*Τῇ ὑπερμάχῳ*); Epistle of the Forerunner and Gospel of the Sunday, and then the Divine Liturgy of St. Basil the Great; Communion Verse: **"Praise the Lord from the heavens"** (*Αἰνεῖτε τὸν Κύριον*, Ps. 148:1 LXX), "We have seen the true light", and Dismissal.
 
-### SITUATION ELEVEN
+**SITUATION ELEVEN**
 
 16.    If the Feast occurs on the Third Sunday of Lent [Veneration of the Precious and Life-Giving Cross]: on Saturday at Vespers, after the Introductory Psalm [Ps. 103 LXX] and the Reading from the Psalter [Kathisma 1], at "Lord, I have cried", we chant 4 Resurrectional Stichira, 3 of the Cross, and 3 of the Forerunner; "Glory...": of the Triodion; "Both now and ever...": the first Dogmatic Theotokion of the Tone; At the Aposticha: the Resurrectional Stichira; "Glory...": of the Forerunner; "Both now and ever...": of the Triodion: **"O Lord, Who didst aid gentle David"** (*Ὁ συμμαχήσας Κύριε*); Dismissal Troparia: of the Resurrection, of the Forerunner, and **"Save, O Lord, Thy people"** (*Σῶσον Κύριε τὸν λαόν σου*), and Dismissal. In the morning at "God is the Lord": the Dismissal Troparia as at Vespers. At the Kathismata: 1 of the Resurrection, 1 of the Forerunner, and the Theotokion. Then the third Stichologia of the Forerunner and the Kathisma: **"In Paradise of old"** (*Ἐν Παραδείσῳ*); then the Canon of the Triodion and that of the Forerunner. After the 3rd Ode, the Resurrectional Kontakion and Ikos, then the Kathismata of the Forerunner and of the Triodion. The Exapostilaria: of the Resurrection, of the Triodion, and of the Forerunner with the Theotokion. At the Praises: 4 Resurrectional Stichira and 4 of the Cross. At the Divine Liturgy, after the Little Entrance: the Dismissal Troparion of the Resurrection, **"Save, O Lord, Thy people"**, that of the Forerunner, that of the Patron Saint of the Temple, and so on; Epistle of the Forerunner and Gospel of the Sunday; Communion Verse: **"The light of Thy countenance is signed upon us, O Lord"** (*Ἐσημειώθη ἐφ᾿ ἡμᾶς τὸ φῶς τοῦ προσώπου σου, Κύριε*, Ps. 4:7 LXX), etc.
 

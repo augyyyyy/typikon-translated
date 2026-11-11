@@ -40,12 +40,12 @@ Having shone forth like the sun from the East, O all-glorious one, thou didst en
 
 ...having placed your souls: neither famine, nor peril, nor nakedness, nor wounds, nor indeed the most violent death, could separate you from the love of God, O right marvelous ones;[^309] but as lambs to the slaughter, following the Shepherd, from the West unto the never-waning rest of the Heavenly Kingdom ye have attained, O crown-bearing passion-bearers.
 
-*Glory, both now, Theotokion, the same Tone and Podoben:* Deliver my humble soul from condemnation and grievous transgressions, O most holy Bride of God, and rescue me from death by thy prayers; and grant that I may obtain justification on the day of trial...
+*Glory, both now, Theotokion, the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):* Deliver my humble soul from condemnation and grievous transgressions, O most holy Bride of God, and rescue me from death by thy prayers; and grant that I may obtain justification on the day of trial...
 
 === LEAF p133 ===
 ...trial, which the assemblies of the saints have obtained; show me purified by repentance and outpourings of tears before the end.
 
-*Stavrotheotokion, the same Podoben:* When the ewe-lamb and Thy Mother beheld Thee nailed upon the Cross, O Lord, she marveled and cried: What is this sight, O most desired Son? Hath the faithless and lawless assembly rendered this unto Thee, which enjoyed Thy many miracles? But glory to Thine ineffable condescension, O Master!
+*Stavrotheotokion, the same Podoben (Подо́бенъ то́йже):* When the ewe-lamb and Thy Mother beheld Thee nailed upon the Cross, O Lord, she marveled and cried: What is this sight, O most desired Son? Hath the faithless and lawless assembly rendered this unto Thee, which enjoyed Thy many miracles? But glory to Thine ineffable condescension, O Master!
 
 *Canon, whose acrostic is: "I sing of thee who art named for victory, O blessed one. Joseph."[^310] Tone 4.*
 
@@ -69,7 +69,7 @@ Having shone forth like the sun from the East, O all-glorious one, thou didst en
 
 *Theotokion:* The company of martyrs represented Thy slaughter, O Master, having known Thee Who didst bud forth from the unwedded Maiden.
 
-*Sessional Hymn, Tone 4, Podoben:*
+*Sessional Hymn, Tone 4, Podoben (Подо́бенъ):*
 
 
 === LEAF p134 ===
@@ -163,11 +163,11 @@ The light-bearing chamber, the pure womb of the Maiden of God, is prepared for T
 
 Gabriel the Archangel shall come manifestly unto thee, O all-immaculate one, and shall cry unto thee: Rejoice, loosening of the curse, restoration of the fallen! Rejoice, thou who alone wast chosen for God! Rejoice, chariot of the Sun of glory: receive the Bodiless One, Who desires to dwell within thy womb!
 
-*Glory, both now, Tone 2, Idiomelon:* Today Gabriel announcs good tidings unto her who is full of grace: Rejoice, unwedded and virginal Mother! Marvel not at my strange appearance, neither be terrified, for I am an archangel: the serpent deceived Eve of old; but now I announce good tidings of joy unto thee, and thou shalt remain incorrupt, and shalt bear the Lord, O all-pure one!
+*Glory, both now, Tone 2, Idiomelon:* Today Gabriel announces good tidings unto her who is full of grace: Rejoice, unwedded and virginal Mother! Marvel not at my strange appearance, neither be terrified, for I am an archangel: the serpent deceived Eve of old; but now I announce good tidings of joy unto thee, and thou shalt remain incorrupt, and shalt bear the Lord, O all-pure one!
 
 *Entrance. Prokeimenon. And the readings of the day. And the rest of the Presanctified Gifts.*
 
-*And where there are no Presanctified Gifts, we sing: of the Triodion, 3; and of the Forefeast, 3. Glory, both now: "Gabriel announcs good tidings."*
+*And where there are no Presanctified Gifts, we sing: of the Triodion, 3; and of the Forefeast, 3. Glory, both now: "Gabriel announces good tidings."*
 
 *At the Aposticha, the Idiomelon of the Triodion, and the Martyricon. Glory, both now, of the Forefeast, Tone 2:*
 

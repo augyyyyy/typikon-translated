@@ -65,7 +65,7 @@ the cities and villages. The Typika of the Monasteries remain unchanged, untouch
 
     Σημ. Κατὰ τὸ ͵αωιζ΄ ἐπὶ τῶν ἡμερῶν τοῦ ἀοιδίμου Πατριάρχου Κωνσταντινουπόλεως Κυρίου Κυρίλλου, συνέπεσεν ὁ Εὐαγγελισμὸς τὴν ἡμέραν τοῦ Πάσχα καὶ ἐψάλη ἡ Ἀναστάσιμος Ἀκολουθία μετὰ τὰς τοῦ Εὐαγγελισμοῦ ἀπαραλλάκτως κατὰ τὴν ἀνωτέρω διατύπωσιν, ἥτις καὶ ἔκτοτε ἐκανονίσθη.
 
-### ΚΔ΄. [ΚΕ΄.]
+**ΚΔ΄. [ΚΕ΄.]**
 
 73.    Εἰ τύχοι ἡ ἑορτὴ τῇ Δευτέρᾳ τῆς Διακαινησίμου, τῇ Μ. Κυριακῇ ἐν τῷ Ἑσπερινῷ, μετὰ τὸ Δόξα τῇ ἁγίᾳ καὶ ὁμοουσίῳ, τὸ Χριστὸς ἀνέστη μετὰ τῶν Στίχων αὐτοῦ καὶ τὴν Μ. Συναπτήν. Εἰς τὸ Κύριε ἐκέκραξα, ἀναστάσιμα Στιχηρὰ Τὸν πρὸ αἰώνων ἐκ πατρὸς δ΄, καὶ τῆς ἑορτῆς Προσόμοια δ΄, Δόξα, Καὶ νῦν, Ἀπεστάλη ἐξ οὐρανοῦ, Εἴσοδος μετὰ τοῦ Εὐαγγελίου, Φῶς ἱλαρόν, τὸ Προκείμενον Τίς Θεὸς μέγας μετὰ τῶν Στίχων αὐτοῦ, καὶ τὰ Ἀναγνώσματα τῆς ἑορτῆς καὶ εὐθὺς ὁ Ἀρχιερεὺς (ἢ ὁ Ἱερεὺς) Καὶ ὑπὲρ τοῦ Καταξιωθῆναι, καὶ ἀναγινώσκεται τὸ Εὐαγγέλιον Οὔσης ὀψίας κατὰ τὸ ἔθος· μετὰ τὸ τέλος ἡ Ἐκτενής, τὸ Καταξίωσον, Πληρώσωμεν τὴν ἑσπερινήν, Εἴη τὸ κράτος, καὶ ψάλλεται τὸ ἀναστάσιμον Ἀπόστιχον Ἡ Ἀνάστασίς σου Χριστὲ Σωτὴρ καὶ τὰ Στιχηρὰ Πάσχα ἱερόν, Δόξα, Σήμερον χαρᾶς εὐαγγέλια, Καὶ νῦν,
 ---
@@ -80,7 +80,7 @@ the cities and villages. The Typika of the Monasteries remain unchanged, untouch
 is risen from the dead." The Festal Eisodikon: **"Proclaim from day to day the salvation of our God... Save us, O Son of God, Who art risen from the dead, who sing to Thee: Alleluia"** (*Εὐαγγελίζεσθε ἡμέραν ἐξ ἡμέρας, Σῶσον ἡμᾶς . . . ὁ ἀναστὰς ἐκ νεκρῶν*); the Dismissal Troparion: **"Christ is risen"**, the Dismissal Troparion of the Feast: **"Today is the fountainhead of our salvation"**, the Ypakoi: **"They who were with Mary"** (*Προλαβοῦσαι τὸν ὄρθρον*), and the Kontakion: **"Though Thou didst descend into the tomb"** (*Εἰ καὶ ἐν τάφῳ*). Instead of the Trisagion, **"As many of you as have been baptized into Christ"** (Galatians 3:27); Epistle and Gospel of Pascha (Acts 1:1–8, John 1:1–17). At "Especially": **"The Angel cried out to her that is full of grace... Shine, shine"** (*Ὁ Ἄγγελος ἐβόα τῇ κεχαριτωμένῃ . . . Φωτίζου φωτίζου*)[^317]; Communion Hymn: **"Receive the Body of Christ"** (*Σῶμα Χριστοῦ μεταλάβετε*). At "With the fear of God" (more accurately at "O Lord, save Thy people"), we sing: **"Christ is risen"**; instead of **"Blessed be the name of the Lord"**, we sing: **"Christ is risen"** (thrice plainly in recitative style); then the Catechetical Homily of Saint John Chrysostom, his Dismissal Troparion, and Dismissal.
     Note: In 1817, during the days of the ever-memorable Patriarch of Constantinople Cyril, the Feast of the Annunciation concurred on Easter Sunday, and the Resurrection Service was celebrated together with the Service of the Annunciation precisely according to the above formulation, which has been definitively codified since then.
 
-### SITUATION TWENTY-FOUR [XXV]
+**SITUATION TWENTY-FOUR [XXV]**
 
 73.    If the Feast occurs on Monday of Bright Week, on Easter Sunday [Great Sunday of Pascha] at Vespers, after **"Glory to the Holy, Consubstantial, Life-Creating, and Undivided Trinity"**, we chant: **"Christ is risen"** with its verses, and the Great Litany. At **"Lord, I have cried"**, 4 Resurrection Stichira: **"Him Who was begotten of the Father before all ages"** (*Τὸν πρὸ αἰώνων ἐκ Πατρός*), and 4 Prosomia of the Feast; "Glory... Both now and ever...": **"The Archangel Gabriel was sent down from heaven"** (*Ἀπεστάλη ἐξ οὐρανοῦ*). Entrance with the Holy Gospel, **"O Gladsome Light"**, the Great Prokeimenon: **"What God is as great as our God?"** (*Τίς Θεὸς μέγας*, Ps. 76:14–15 LXX) with its verses, and the Old Testament Lessons of the Feast; and immediately the presiding Hierarch (or the Priest) proclaims: **"And that we may be accounted worthy"**, and the Holy Gospel: **"When it was evening"** (*Οὔσης ὀψίας*, John 20:19–25) is read according to custom. At the end, the Insistent Litany [Ektenia], **"Vouchsafe, O Lord"**, the Evening Supplication Litany, and the Exclamation: **"For Thine is the kingdom"**. Then we chant the Resurrection Apostichon: **"Thy Resurrection, O Christ Savior"** (*Ἡ Ἀνάστασίς σου Χριστὲ Σωτήρ*), and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": **"Today is the announcement of joy"** (*Σήμερον χαρᾶς εὐαγγέλια*); "Both now and
 
@@ -122,13 +122,13 @@ ever...": **"It is the day of Resurrection"** (*Ἀναστάσεως ἡμέρ�
 
     Σημειωτέον ὅτι ἡ ἑορτὴ τοῦ Εὐαγγελισμοῦ δυνατόν νὰ συμπέσῃ ἐν τῷ Τριῳδίῳ ἀπὸ τῆς Παρασκευῆς τῆς Γ΄ ἑβδομάδος τῶν Νηστειῶν καὶ ἐντεῦθεν, ἐν δὲ τῷ Πεντηκοσταρίῳ μέχρι τῆς Τετάρτης τῆς Διακαινησίμου. (Ὅρα τὸν τοῦ Ἑορτοδρομίου Πίνακα).
 
-### ΜΗΝ ΑΠΡΙΛΙΟΣ
+**ΜΗΝ ΑΠΡΙΛΙΟΣ**
 
 ## Τῇ ΚΓ΄: Τοῦ ἁγίου ἐνδόξου μεγαλομάρτυρος Γεωργίου τοῦ Τροπαιοφόρου.
 
-### ΠΕΡΙΠΤΩΣΕΙΣ
+**ΠΕΡΙΠΤΩΣΕΙΣ**
 
-### Α΄.
+**Α΄.**
 
 1.    Εἰ τύχοι ἡ μνήμη τοῦ Ἁγίου τῷ Μ. Σαββάτῳ ἢ τῇ Μ. Κυριακῇ [ἤτοι Κυριακῇ τοῦ Πάσχα], ἡ Ἀκολουθία αὐτοῦ μετατίθεται καὶ ψάλλεται τῇ Δευτέρᾳ τῆς Διακαινησίμου μετὰ τῆς ἀναστασίμου Ἀκολουθίας ὡς ἑξῆς.
     Τῇ Κυριακῇ τοῦ Πάσχα ἐν τῷ Ἑσπερινῷ, εἰς τὸ Κύριε ἐκέκραξα ψάλλομεν ἀναστάσιμα Στιχηρὰ Τὸν πρὸ αἰώνων ἐκ Πατρὸς δ΄ καὶ τοῦ Ἁγίου Προσόμοια δ΄, Δόξα, Ἀξίως τοῦ ὀνόματος, Καὶ νῦν, Παρῆλθεν ἡ σκιά, Εἴσοδος μετὰ τοῦ Εὐαγγελίου, Φῶς ἱλαρόν, τὸ Προκείμενον Τίς Θεὸς μέγας μετὰ τῶν Στίχων αὐτοῦ καὶ εὐθὺς τὸ Εὐαγγέλιον ὡς εἴθισται. Εἰς τὰ Ἀπόστιχα τὸ ἀναστάσιμον Στιχηρόν, ἀπὸ τοῦ β΄ Χοροῦ Ἡ Ἀνάστασίς σου Χριστὲ Σωτήρ, καὶ τὰ Στιχηρὰ Πάσχα ἱερόν, Δόξα, Τὸν νοερὸν ἀδάμαντα, Καὶ νῦν, Ἀναστάσεως ἡμέρα, τὸ Χριστὸς ἀνέστη ἅπαξ, τὸ Ἀπολυτίκιον τοῦ Ἁγίου, καὶ αὖθις τὸ Χριστὸς ἀνέστη, καὶ Ἀπόλυσις.
@@ -145,13 +145,13 @@ Apodosis. In the morning, we celebrate only the Resurrection Office of the day, 
     The order of service for the Feast as prescribed in Paragraphs 73, 74, 75 and 76 is observed even when the Feast occurs on Tuesday or Wednesday of Bright Week, with the exception of the Gospel read at the Vespers of Pascha.
     Note that the Feast of the Annunciation may concur in the Triodion period from Friday of the Third Week of the Great Fast and onward, and in the Pentecostarion period until Wednesday of Bright Week. (See the Table of the Heortodromion).
 
-### MONTH OF APRIL
+**MONTH OF APRIL**
 
 ## April 23: The Holy Glorious Great-Martyr George the Trophy-Bearer
 
-### SITUATIONS
+**SITUATIONS**
 
-### SITUATION ONE
+**SITUATION ONE**
 
 1.    If the commemoration of the Saint occurs on Holy and Great Saturday or Easter Sunday [Great and Holy Sunday of Pascha], his Office is transferred and is sung on Monday of Bright Week together with the Resurrection Office as follows:
     On the Sunday of Pascha at Vespers, at **"Lord, I have cried"** (*Κύριε ἐκέκραξα*), we chant 4 Resurrection Stichira: **"Him Who was begotten of the Father before all ages"** (*Τὸν πρὸ αἰώνων ἐκ Πατρός*, in Tone 2) and 4 Prosomia of the Saint; "Glory...": **"Worthily according to thy name, O warrior George"** (*Ἀξίως τοῦ ὀνόματος, στρατιῶτα Γεώργιε*); "Both now and ever...": the Dogmatikon **"The shadow of the Law hath passed away"** (*Παρῆλθεν ἡ σκιὰ τοῦ νόμου*). Entrance with the Holy Gospel, **"O Gladsome Light"**, the Great Prokeimenon: **"What God is as great as our God?"** (*Τίς Θεὸς μέγας*) with its verses, and immediately the Gospel as customary. At the Aposticha: the Resurrection Apostichon, chanted by the second choir: **"Thy Resurrection, O Christ Savior"** (*Ἡ Ἀνάστασίς σου Χριστὲ Σωτήρ*), and the Paschal Stichira: **"A sacred Pascha"** (*Πάσχα ἱερόν*); "Glory...": **"The spiritual diamond"** (*Τὸν νοερὸν ἀδάμαντα*); "Both now and ever...": **"It is the day of Resurrection"** (*Ἀναστάσεως ἡμέρα*). The Dismissal Troparion: **"Christ is risen"** once, the Dismissal Troparion of the Saint: **"Liberator of captives"** (*Ὡς τῶν αἰχμαλώτων ἐλευθερωτής*), and again: **"Christ is risen"**, and Dismissal.

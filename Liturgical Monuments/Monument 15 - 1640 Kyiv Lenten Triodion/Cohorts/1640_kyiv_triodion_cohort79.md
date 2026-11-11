@@ -158,7 +158,7 @@ The venerable Mary was from Egypt. From her youth she lived at first in wantonne
 *Then of the Venerable Mother, Tone 3, Podoben: "Having adorned heaven with stars" (Не́бо ѕвѣзда́ми):*
 Having thee as a pattern of repentance, O all-venerable Mary, pray thou unto Christ that in the time of the fast this may be granted unto us, so that in faith and love we may praise thee with hymns![^2559]
 
-*Theotokion, Podoben:*
+*Theotokion, Podoben (Подо́бенъ):*
 O Sweetness of the Angels, Joy of the afflicted, Protectress of Christians, O Virgin Mother of the Lord: intercede for me, and save me from eternal torments![^2560]
 
 *At the Praises: Resurrection Stichera of the Oktoechos, 4; and Anatolian, 4. Then we say the verse: "Arise, O Lord my God, lift up Thine hand, forget not Thy poor for ever" (Ps. 9:33 LXX [10:12]): Idiomelon, Tone 1:*[^2561]

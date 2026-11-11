@@ -1,6 +1,6 @@
 === LEAF p341 ===
 
-# Month of January: Situation Three Concluded (§ 22–26) & Sunday after the Lights Opening (§ 27)
+## Month of January: Situation Three Concluded (§ 22–26) & Sunday after the Lights Opening (§ 27)
 
 ## Ἑορτὴ ἐν Κυριακῇ: Κατακλεὶς καὶ Κυριακὴ μετὰ τὰ Φῶτα [Violakis, p. 326]
 
@@ -14,7 +14,7 @@
 
 26.    Τῇ αὐτῇ Κυριακῇ ἑσπέρας καὶ τῇ Δευτέρᾳ πρωῒ ψάλλεται ἡ ἀκολουθία τοῦ τιμίου Προδρόμου, ὡς διετάχθη ἐν περιπτώσει Α΄ § 5, 6, 7. Ἀπόστολος καὶ Εὐαγγέλιον τοῦ Προδρόμου, Κοινωνικὸν *Εἰς μνημόσυνον*.
 
-### Κυριακὴ μετὰ τὰ Φῶτα.
+**Κυριακὴ μετὰ τὰ Φῶτα.**
 
 27.    Ἡ Κυριακὴ μετὰ τὰ Φῶτα κατὰ τὴν Γ΄ ταύτην περίπτωσιν
 
@@ -22,7 +22,7 @@
 
 === LEAF p342 ===
 
-# Month of January: Situation Three Concluded (§ 22–26) & Sunday after the Lights Opening (§ 27)
+## Month of January: Situation Three Concluded (§ 22–26) & Sunday after the Lights Opening (§ 27)
 
 ## Situation Three Concluded: Sunday after the Lights [Violakis, p. 327]
 
@@ -36,7 +36,7 @@
 
 26.    On that same Sunday evening and on Monday morning: the office of the Honorable Forerunner is chanted, as appointed in Situation One, § 5, 6, and 7. The Epistle [Acts 19:1–8] and the Gospel [John 1:29–34] of the Forerunner; Communion Verse: **"The righteous shall be in everlasting remembrance"** (*Εἰς μνημόσυνον αἰώνιον*, Ps. 111:6 LXX).
 
-### Sunday after the Lights [Epiphany]
+**Sunday after the Lights [Epiphany]**
 
 27.    The Sunday after the Lights according to this Third Situation...[^230]
 
@@ -44,17 +44,17 @@
 
 === LEAF p343 ===
 
-# Month of January: Sunday after the Lights Concluded (§ 27–28) & Situation Four (Theophany on Monday) (§ 29–33)
+## Month of January: Sunday after the Lights Concluded (§ 27–28) & Situation Four (Theophany on Monday) (§ 29–33)
 
 ## Ἀπόδοσις καὶ Ἑορτὴ ἐν Δευτέρᾳ [Violakis, p. 328]
 
 συμπίπτει τῇ ΙΓ΄ τοῦ μηνός, ψάλλεται δὲ ἡ Ἀκολουθία ὡς διετάχθη ἐν περιπτώσει Α΄ § 8, 9, 10.
 
-### Ἡ Ἀπόδοσις.
+**Ἡ Ἀπόδοσις.**
 
 28.    Ἡ Ἀπόδοσις συμπίπτει τῇ ἐπιούσῃ ἡμέρᾳ Δευτέρᾳ (ΙΔ΄ τοῦ μηνός), ἐν ᾗ ψάλλονται ἅπαντα τὰ τῆς ἑορτῆς, ὡς προδιετάχθη ἐν περιπτώσει Α΄ § 11. Ἀπόστολος καὶ Εὐαγγέλιον λέγονται τῆς ἡμέρας, Κοινωνικὸν *Ἐπεφάνη ἡ χάρις*, *Ἐν Ἰορδάνῃ* καὶ Ἀπόλυσις.
 
-### Δ΄. Ὅταν ἡ ἑορτὴ τύχῃ ἐν Δευτέρᾳ.
+**Δ΄. Ὅταν ἡ ἑορτὴ τύχῃ ἐν Δευτέρᾳ.**
 
 29.    Εἰ τύχοι ἡ ἑορτὴ ἐν Δευτέρᾳ, τῇ Παρασκευῇ πρωῒ (Γ΄ τοῦ μηνός), μετὰ τὴν τοῦ Ὄρθρου ἐνδιάτακτον Ἀκολουθίαν, ψάλλονται αἱ Μ. Ὧραι μόναι καὶ λέγεται Τροπάριον *Ἑτοιμάζου Ζαβουλὼν* καὶ Κοντάκιον *Ἐν τοῖς ῥείθροις σήμερον*· μετὰ τὴν Εὐχὴν τῆς Θ΄ Ὥρας Ἀπόλυσις.
 
@@ -70,15 +70,15 @@
 
 === LEAF p344 ===
 
-# Month of January: Sunday after the Lights Concluded (§ 27–28) & Situation Four (Theophany on Monday) (§ 29–33)
+## Month of January: Sunday after the Lights Concluded (§ 27–28) & Situation Four (Theophany on Monday) (§ 29–33)
 
 ## Sunday after the Lights Concluded, Apodosis, and Situation Four [Violakis, p. 329]
 
 ...falls on the 13th of the month; and the office is chanted as appointed in Situation One, § 8, 9, and 10.
 
-### The Apodosis
+**The Apodosis**
 
-28.    The Apodosis falls on the following day, Monday (the 14th of the month), on which all the services of the Feast are chanted, as previously appointed in Situation One, § 11. The Epistle and the Gospel of the day are read; Communion Verse: **"The grace of God that bringeth salvation hath appeared unto all men"** (*Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ*, Titus 2:11); **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and Dismissal.
+28.    The Apodosis falls on the following day, Monday (the 14th of the month), on which all the services of the Feast are chanted, as previously appointed in Situation One, § 11. The Epistle and the Gospel of the day are read; Communion Verse: **"The grace of God that brings salvation hath appeared unto all men"** (*Ἐπεφάνη ἡ χάρις τοῦ Θεοῦ*, Titus 2:11); **"When Thou, O Lord, wast baptized in the Jordan"** (*Ἐν Ἰορδάνῃ*), and Dismissal.
 
 ## Situation Four: When the Feast Falls on a Monday
 
@@ -86,7 +86,7 @@
 
 30.    On that same Friday evening: Forefeast Vespers is chanted according to the order of the Menaion; after **"Lord, now lettest Thou Thy servant depart"** (*Νῦν ἀπολύεις*, Luke 2:29–32), the Forefeast Canon of Vespers is chanted, and after the Heirmos of the Ninth Ode, the Trisagion Prayers, the Dismissal Troparion: **"Make ready, O Zebulun"** (*Ἑτοιμάζου Ζαβουλών*), and Dismissal.
 
-31.    On Saturday at Matins: after the Midnight Service, etc., at **"God is the Lord"** (*Θεὸς Κύριος*), the Dismissal Troparion: **"Make ready, O Zebulun"** (twice); Canons: the Forefeast Canon: **"Traversing the deep on foot as on dry land"** (*Ὡς ἐν ἠπείρῳ πεζεύσας*) and that of the Seventy Apostles: **"Having been discipled unto Christ"** (*Χριστῷ μαθητεύσαντες*, seek on the 4th of the month); after the Sixth Ode, the Kontakion and Ikos of the Forefeast, and the Menologion of the Saints of the day; then the Heirmos of the Eighth Ode, and we recite the Magnificat: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilarion of the Seventy Apostles: **"Having forsaken the world"** (*Καταλιπόντες κόσμον*) and the Forefeast Exapostilarion: **"Begotten timelessly of the Father"** (*Ὁ ἐκ Πατρὸς ἀχρόνως*); at the Praises: **"To Thee belongeth glory"** (*Σοὶ δόξα πρέπει*), and the Aposticha. At the Divine Liturgy: the Epistle [1 Timothy 3:14–4:5] and the Gospel [Matthew 3:1–11] of the Saturday before the Lights [Epiphany]; Communion Verse: **"Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord"** (*Μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε*, Ps. 64:5 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.
+31.    On Saturday at Matins: after the Midnight Service, etc., at **"God is the Lord"** (*Θεὸς Κύριος*), the Dismissal Troparion: **"Make ready, O Zebulun"** (twice); Canons: the Forefeast Canon: **"Traversing the deep on foot as on dry land"** (*Ὡς ἐν ἠπείρῳ πεζεύσας*) and that of the Seventy Apostles: **"Having been discipled unto Christ"** (*Χριστῷ μαθητεύσαντες*, seek on the 4th of the month); after the Sixth Ode, the Kontakion and Ikos of the Forefeast, and the Menologion of the Saints of the day; then the Heirmos of the Eighth Ode, and we recite the Magnificat: **"More honorable than the Cherubim"** (*Τὴν τιμιωτέραν*). Exapostilarion of the Seventy Apostles: **"Having forsaken the world"** (*Καταλιπόντες κόσμον*) and the Forefeast Exapostilarion: **"Begotten timelessly of the Father"** (*Ὁ ἐκ Πατρὸς ἀχρόνως*); at the Praises: **"To Thee belongs glory"** (*Σοὶ δόξα πρέπει*), and the Aposticha. At the Divine Liturgy: the Epistle [1 Timothy 3:14–4:5] and the Gospel [Matthew 3:1–11] of the Saturday before the Lights [Epiphany]; Communion Verse: **"Blessed are they whom Thou hast chosen and taken unto Thyself, O Lord"** (*Μακάριοι οὓς ἐξελέξω καὶ προσελάβου, Κύριε*, Ps. 64:5 LXX); **"We have seen the true light"** (*Εἴδομεν τὸ φῶς τὸ ἀληθινόν*), and Dismissal.
 
 32.    On Saturday evening and Sunday morning: the office of the Sunday before the Lights [Epiphany] is chanted, together with the Divine Liturgy of Saint John Chrysostom and the Blessing of the Waters, as formulated in Situation Two, § 4, 5, and 6. At table, dispensation for wine and oil is permitted.
 
@@ -96,7 +96,7 @@
 
 === LEAF p345 ===
 
-# Month of January: Situation Four Concluded (§ 33–36), Situation Five (§ 37) & St. Theodosios Heading
+## Month of January: Situation Four Concluded (§ 33–36), Situation Five (§ 37) & St. Theodosios Heading
 
 ## Ἑορτὴ ἐν Δευτέρᾳ Κατακλεὶς καὶ Ἑορτὴ ἐν Τρίτῃ, Τετάρτῃ, ἢ Πέμπτῃ [Violakis, p. 330]
 
@@ -106,23 +106,23 @@
 
 35.    Τῇ αὐτῇ Δευτέρᾳ ἑσπέρας καὶ τῇ Τρίτῃ πρωῒ ψάλλεται ἡ ἀκολουθία τοῦ τιμίου Προδρόμου, ὡς διετυπώθη ἐν περιπτώσει Α΄ § 5, 6, 7.
 
-### Ἡ Κυριακὴ μετὰ τὰ Φῶτα.
+**Ἡ Κυριακὴ μετὰ τὰ Φῶτα.**
 
 36.    Ἡ Κυριακὴ μετὰ τὰ Φῶτα συμπίπτει κατὰ τὴν Δ΄ ταύτην περίπτωσιν τῇ ΙΒ΄ τοῦ μηνὸς καὶ ψάλλεται ἡ Ἀκολουθία ἐν τῷ Ἑσπερινῷ καὶ τῷ Ὄρθρῳ, ὡς διετυπώθη ἐν περιπτώσει Α΄ § 8, 9, 10.
        Ἡ δὲ Ἀπόδοσις κατὰ τὴν περίστασιν ταύτην συμπίπτει τῇ Τρίτῃ τῆς προσεχοῦς ἑβδομάδος, καθ’ ἣν ψάλλονται, ὡς προερρήθη ἐν § 11, ἅπαντα τὰ τῆς ἑορτῆς, Ἀπόστολος καὶ Εὐαγγέλιον τῆς ἡμέρας.
 
-### Ε΄. Ὅταν ἡ ἑορτὴ τύχῃ ἐν Τρίτῃ, Τετάρτῃ, ἢ Πέμπτῃ.
+**Ε΄. Ὅταν ἡ ἑορτὴ τύχῃ ἐν Τρίτῃ, Τετάρτῃ, ἢ Πέμπτῃ.**
 
 37.    Εἰ τύχοι ἡ ἑορτὴ ἐν Τρίτῃ, Τετάρτῃ, ἢ Πέμπτῃ, τὴν διάταξιν τῆς Ἀκολουθίας τῶν Μ. Ὡρῶν, ἐν τῇ Παραμονῇ, τοῦ Μ. Ἑσπερινοῦ, τῆς Λειτουργίας τοῦ Μ. Βασιλείου καὶ τοῦ Ἁγιασμοῦ, ὅρα ἐν περιπτώσει Α΄ § 1, 2. Τῆς δὲ κυρίας ἡμέρας τὴν τῆς Ἀκολουθίας τοῦ Ὄρθρου, τοῦ Μ. Ἁγιασμοῦ καὶ τῆς Λειτουργίας τοῦ Χρυσοστόμου διάταξιν ὅρα ἐν περιπτώσει Α΄ § 3, 4.
        Τὴν διάταξιν τῆς Ἀκολουθίας τοῦ τιμίου Προδρόμου τῇ ἐπιούσῃ ἡμέρᾳ, ὅρα ἐν τῇ αὐτῇ Α΄ περιπτώσει § 5, 6, 7. Ἡ δὲ Κυριακὴ μετὰ τὰ Φῶτα, κατὰ τὴν ἐν ἡμέρᾳ Τρίτῃ σύμπτωσιν τῆς ἑορτῆς, συμπίπτει τῇ ΙΑ΄ τοῦ μηνός, καθ’ ἣν ἑορτάζεται καὶ ἡ μνήμη τοῦ Ὁσίου Θεοδοσίου τοῦ Κοινοβιάρχου. Τούτου ἡ Ἀκολουθία συμψάλλεται τῇ τῆς Κυριακῆς κατὰ τὴν ἐν § 39 διάταξιν.
 
-### Τῇ ΙΑ΄. Τοῦ ὁσίου Πατρὸς ἡμῶν Θεοδοσίου τοῦ Κοινοβιάρχου.
+**Τῇ ΙΑ΄. Τοῦ ὁσίου Πατρὸς ἡμῶν Θεοδοσίου τοῦ Κοινοβιάρχου.**
 
 *(Printed Page 330)*
 
 === LEAF p346 ===
 
-# Month of January: Situation Four Concluded (§ 33–36), Situation Five (§ 37) & St. Theodosios Heading
+## Month of January: Situation Four Concluded (§ 33–36), Situation Five (§ 37) & St. Theodosios Heading
 
 ## Situation Four Concluded, Situation Five, and St. Theodosios [Violakis, p. 331]
 
@@ -132,7 +132,7 @@
 
 35.    On that same Monday evening and Tuesday morning: the office of the Honorable Forerunner is chanted, as formulated in Situation One, § 5, 6, and 7.
 
-### Sunday after the Lights [Epiphany]
+**Sunday after the Lights [Epiphany]**
 
 36.    The Sunday after the Lights in this Fourth Situation falls on the 12th of the month, and the office is chanted at Vespers and Matins as formulated in Situation One, § 8, 9, and 10.
        The Apodosis in this situation falls on Tuesday of the following week [January 14], on which day all the services of the Feast are chanted, as previously stated in § 11; the Epistle and Gospel of the day are read.
@@ -142,7 +142,7 @@
 37.    If the Feast falls on a Tuesday, Wednesday, or Thursday: for the order of the service of the Great Hours on the Paramony [Eve], of Great Vespers, of the Divine Liturgy of Saint Basil the Great, and of the Blessing of the Waters, see Situation One, § 1–2. On the principal day of the Feast, for the order of the office of Matins, the Great Blessing of the Waters, and the Divine Liturgy of Saint John Chrysostom, see Situation One, § 3–4.
        For the order of the office of the Honorable Forerunner on the following day, see that same Situation One, § 5, 6, and 7. The Sunday after the Lights, when the Feast occurs on a Tuesday, falls on the 11th of the month, on which day the memory of our Righteous Father Theodosios the Cenobiarch is also celebrated. His office is chanted jointly with that of the Sunday, according to the order formulated in § 39.
 
-### January 11: Our Righteous Father Theodosios the Cenobiarch
+**January 11: Our Righteous Father Theodosios the Cenobiarch**
 
 38.    If the commemoration of the Righteous Saint falls on any day except Sunday...[^232]
 
@@ -150,7 +150,7 @@
 
 === LEAF p347 ===
 
-# Month of January: St. Theodosios the Cenobiarch Concurrence (§ 38–41)
+## Month of January: St. Theodosios the Cenobiarch Concurrence (§ 38–41)
 
 ## Τοῦ Ὁσίου Θεοδοσίου τοῦ Κοινοβιάρχου [Violakis, p. 332]
 
@@ -166,7 +166,7 @@
 
 === LEAF p348 ===
 
-# Month of January: St. Theodosios the Cenobiarch Concurrence (§ 38–41)
+## Month of January: St. Theodosios the Cenobiarch Concurrence (§ 38–41)
 
 ## Commemoration of Our Righteous Father Theodosios the Cenobiarch [Violakis, p. 333]
 
@@ -182,7 +182,7 @@
 
 === LEAF p349 ===
 
-# Month of January: Sunday after the Lights with the Triodion (§ 42–44)
+## Month of January: Sunday after the Lights with the Triodion (§ 42–44)
 
 ## Κυριακὴ μετὰ τὰ Φῶτα μετὰ Τριῳδίου [Violakis, p. 334]
 
@@ -198,7 +198,7 @@
 
 === LEAF p350 ===
 
-# Month of January: Sunday after the Lights with the Triodion (§ 42–44)
+## Month of January: Sunday after the Lights with the Triodion (§ 42–44)
 
 ## Sunday after the Lights with the Triodion [Violakis, p. 335]
 

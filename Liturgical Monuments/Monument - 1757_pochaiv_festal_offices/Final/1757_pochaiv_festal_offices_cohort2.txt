@@ -106,7 +106,7 @@ In those days, Jeremiah wept over Jerusalem, and said: Let us search out our way
 
 *Glory... Now and ever... The same.*
 
-*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben: The same.* What is this spectacle that is visible to mine eyes, O Master! He Who holds all creation is lifted up upon the Tree, and Thou diest, Who givest life unto all! cried weeping the Birthgiver of God, when she beheld Him Who ineffably shone forth from her, God and Man, lifted up upon the Tree. (Twice).
+*After the 2nd Kathisma, Sessional Hymn, Tone and Podoben: The same (Гла́съ и҆ подо́бенъ то́йже).* What is this spectacle that is visible to mine eyes, O Master! He Who holds all creation is lifted up upon the Tree, and Thou diest, Who givest life unto all! cried weeping the Birthgiver of God, when she beheld Him Who ineffably shone forth from her, God and Man, lifted up upon the Tree. (Twice).
 
 *Megalynarion:* We magnify thee, O all-blameless Virgin, Mother of Christ our God, and we honor thy most venerable sorrows, which thou didst endure in the passion of thy Son.
 
@@ -263,7 +263,7 @@ I hymn Thy compassion, O Lover of mankind, and I worship the wealth of Thy mercy
 
 *Glory... Now and ever... The same.*
 
-*At the Praises, Stichera, on 4, Tone 2. Podoben: "Ye angelic powers, go before":*
+*At the Praises, Stichera, on 4, Tone 2. Podoben: "Ye angelic powers, go before" (А҆́гг҃льскїѧ пред̾иди́те си́лы):*
 
 *Sticheron 1:* Vivify my soul, slain by many passions, O Sovereign Lady, who didst bear God the Word impassibly, Who suffered passions being impassible, and Who put death and Hades to death: by His mortification slay the sin that lives within me, and direct my turbulent thoughts unto divine things. (Twice).
 
@@ -478,7 +478,7 @@ Grant us help by thy prayers, O all-pure one, driving away the assaults of fierc
 
 ...therefore a wonderworking sufferer didst thou appear, a pillar of the Church, and a true shepherd: pray unceasingly unto Christ, that we all may be saved.
 
-*Glory... Now and ever... of the Feast, Tone and Podoben: The same.* In thee, O thrice-blessed and life-giving Cross, the people rejoicing celebrate with immaterial choirs: ranks of hierarchs reverently sing praise, the multitude of monastics and ascetics bow down, and Christ Who was crucified we all glorify.
+*Glory... Now and ever... of the Feast, Tone and Podoben: The same (Гла́съ и҆ подо́бенъ то́йже).* In thee, O thrice-blessed and life-giving Cross, the people rejoicing celebrate with immaterial choirs: ranks of hierarchs reverently sing praise, the multitude of monastics and ascetics bow down, and Christ Who was crucified we all glorify.
 
 *Ode 4. Heirmos: I have heard, O Lord, the report of Thy coming:*
 

@@ -68,9 +68,9 @@ Christ is come unto the streams of the Jordan, asking for baptism, He Who cleans
 Let the mountains drop down the sweetness of gladness; mystically clap your hands now, ye nations; let the wilderness blossom; O Jordan, receive Him; come, O Baptist; serve the mystery of the Redeemer, rejoicing! Ye people, let us sing: Blessed art Thou Who hast appeared, O our God, glory to Thee![^286]  
 *Sticheron 4:*  
 The Light from Light, Who shone forth before the ages, has appeared unto those sitting in night, and has cleansed the darkness of sin, and enlightened: dance, O Adam, and be glad, O Eve: Christ the redemption is come! O forefather, cry aloud: Blessed art Thou Who hast appeared, O our God, glory to Thee![^287]  
-*Glory, Tone and Podoben the same:*  
+*Glory, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 A Star from Jacob has shone forth unto the world; and having taken upon Himself the burning sin of men, He buries it in the waters of the Jordan, shining with the radiance of Godhead, and granting the enlightenment of the knowledge of God unto the nations: Blessed art Thou Who hast appeared, O our God, glory to Thee![^288]  
-*Both now, Podoben the same:*  
+*Both now, Podoben the same (Подо́бенъ то́йже):*  
 Having become the fulfiller of the Law according to the flesh, Christ is come unto the Jordan to accomplish the beginning of salvation, as He is tenderhearted; and He bows His head unto the Baptist, who cries aloud in faith. Ye people, let us cry: Blessed art Thou Who hast appeared, O our God, glory to Thee!  
 *At the Aposticha, Stichera, Tone 2, Podoben: "O House of Ephratha" (До́ме Є҆ѵфра́ѳовъ):*[^289]  
 *Sticheron 1:*  
@@ -87,7 +87,7 @@ Prepare thou also thy streams, O Jordan, for He Who baptizes with fire draws nea
 [Fol. 26v]
 *Month of January*
 
-*Glory, both now, Tone and Podoben the same:*  
+*Glory, both now, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 The manifestation of glory, the Father's radiance, in the streams of the Jordan, by baptism cleanses the defilement of our souls.[^293]  
 *At the Liturgy:*  
 *The Beatitudes from the Canon of the Forefeast, Ode 3, on 6.*  

@@ -11,7 +11,7 @@
 [^951]: LXX Psalm 50:13.
 [^952]: Leaf p393 (fol. 389r): Troparion of Holy Pentecost in Tone 8 (*Блгⷭ҇ве́нъ є҆сѝ хрⷭ҇тѐ бж҃е на́шъ* / *Blessed art Thou, O Christ our God*).
 [^953]: Leaf p393 (fol. 389r): Melodic model (Podoben) *Tone 4, Podoben: "Thou who wast lifted up upon the Cross" (Ꙗ҆ви́лся є҆сѝ дне́сь):* corresponds to Greek *Ἐπεφάνης σήμερον*.
-[^954]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):* corresponds to Greek *Τὸν συνάнаρχον Λόγον*.
+[^954]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 5, Podoben: "The Word co-unoriginate" (Собезнача́льное Сло́во):* corresponds to Greek *Τὸν συνάναρχον Λόγον*.
 [^955]: Leaf p394 (fol. 389v): Melodic model (Podoben) *Tone 8, Podoben: "That which was mystically commanded" (Повелѣ́нное та́инственно):* corresponds to Greek *Τὸ προσταχθὲν μυστικῶς*.
 [^956]: LXX Psalm 142:10.
 [^957]: Leaf p394 (fol. 389v): Gospel reading at Pentecost Matins: John 20:19–23.
@@ -34,7 +34,7 @@
 [^974]: Leaf p397 (fol. 393r): Ode 8 Heirmos of the Second (Iambic) Canon.
 [^975]: Leaf p398 (fol. 393v): Ode 9 Heirmos of the First Canon.
 [^976]: Leaf p398 (fol. 393v): Ode 9 Heirmos of the Second (Iambic) Canon.
-[^977]: Leaf p398 (fol. 393v): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸн τοῖς ἄστροις*.
+[^977]: Leaf p398 (fol. 393v): Melodic model (Podoben) *Tone 3, Podoben: "He that adorned the heavens with stars" (Не́бо ѕвѣ́здами):* corresponds to Greek *Ὁ οὐρανὸν τοῖς ἄστροις*.
 [^978]: Leaf p398 (fol. 394r): Stichera at the Praises (Lauds) in Tone 4, based on the narrative of Acts 2:1–11.
 [^979]: Leaf p399 (fol. 394v): Liturgy Antiphons for the Feast of Pentecost based on LXX Psalms 18, 19, and 20.
 [^980]: Leaf p399 (fol. 394v): Galatians 3:27, replacing the Trisagion at the Divine Liturgy of Pentecost.

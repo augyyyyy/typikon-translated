@@ -1,6 +1,6 @@
 === LEAF p761 ===
 
-# Holy Week: Great and Holy Monday (Matins Opening and Rubrics) (§§ 66 Concluded, 67 Opening)
+## Holy Week: Great and Holy Monday (Matins Opening and Rubrics) (§§ 66 Concluded, 67 Opening)
 
 ## Μεγάλη Ἑβδομάς: Μεγάλη Δευτέρα εἰς τὸν Ὄρθρον (§§ 66 Τέλος, 67 Ἀρχή) [Violakis, p. 746]
 
@@ -19,7 +19,7 @@
 
 === LEAF p762 ===
 
-# Holy Week: Great and Holy Monday (Matins Opening and Rubrics) (§§ 66 Concluded, 67 Opening)
+## Holy Week: Great and Holy Monday (Matins Opening and Rubrics) (§§ 66 Concluded, 67 Opening)
 
 ## Great and Holy Monday: Matins Opening and Rubrics (§§ 66 Concluded, 67 Opening) [Violakis, p. 747]
 
@@ -38,7 +38,7 @@
 
 === LEAF p763 ===
 
-# Holy Week: Great and Holy Monday (Matins Concluded) (§ 67 Concluded)
+## Holy Week: Great and Holy Monday (Matins Concluded) (§ 67 Concluded)
 
 ## Μεγάλη Ἑβδομάς: Μεγάλη Δευτέρα εἰς τὸν Ὄρθρον (Τέλος) (§ 67 Τέλος) [Violakis, p. 748]
 
@@ -53,7 +53,7 @@
 
 === LEAF p764 ===
 
-# Holy Week: Great and Holy Monday (Matins Concluded) (§ 67 Concluded)
+## Holy Week: Great and Holy Monday (Matins Concluded) (§ 67 Concluded)
 
 ## Great and Holy Monday: Matins Concluded (§ 67 Concluded) [Violakis, p. 749]
 
@@ -68,7 +68,7 @@
 
 === LEAF p765 ===
 
-# Holy Week: Great Monday (Hours, Presanctified, Compline) and Great Tuesday (Matins, Hours, Presanctified) (§§ 68, 69, 70, 71, 72, 73)
+## Holy Week: Great Monday (Hours, Presanctified, Compline) and Great Tuesday (Matins, Hours, Presanctified) (§§ 68, 69, 70, 71, 72, 73)
 
 ## Μεγάλη Ἑβδομάς: Μεγάλη Δευτέρα καὶ Μεγάλη Τρίτη (§§ 68, 69, 70, 71, 72, 73) [Violakis, p. 750]
 
@@ -90,7 +90,7 @@
 
 === LEAF p766 ===
 
-# Holy Week: Great Monday (Hours, Presanctified, Compline) and Great Tuesday (Matins, Hours, Presanctified, Compline Opening) (§§ 68, 69, 70, 71, 72, 73, 74 Opening)
+## Holy Week: Great Monday (Hours, Presanctified, Compline) and Great Tuesday (Matins, Hours, Presanctified, Compline Opening) (§§ 68, 69, 70, 71, 72, 73, 74 Opening)
 
 ## Great Monday (Hours, Presanctified, Compline) and Great Tuesday (Matins, Hours, Presanctified, Compline Opening) (§§ 68, 69, 70, 71, 72, 73, 74 Opening) [Violakis, p. 751]
 
@@ -114,7 +114,7 @@
 
 === LEAF p767 ===
 
-# Holy Week: Great Tuesday (Compline Concluded) and Great Wednesday (Matins, Hours, Presanctified, Compline Opening) (§§ 74 Concluded, 75, 76, 77 Opening)
+## Holy Week: Great Tuesday (Compline Concluded) and Great Wednesday (Matins, Hours, Presanctified, Compline Opening) (§§ 74 Concluded, 75, 76, 77 Opening)
 
 ## Μεγάλη Ἑβδομάς: Μεγάλη Τρίτη καὶ Μεγάλη Τετάρτη (§§ 74 Τέλος, 75, 76, 77 Ἀρχή) [Violakis, p. 752]
 
@@ -136,7 +136,7 @@
 
 === LEAF p768 ===
 
-# Holy Week: Great Tuesday (Compline Concluded) and Great Wednesday (Matins, Hours, Presanctified, Compline Opening) (§§ 74 Concluded, 75, 76, 77 Opening)
+## Holy Week: Great Tuesday (Compline Concluded) and Great Wednesday (Matins, Hours, Presanctified, Compline Opening) (§§ 74 Concluded, 75, 76, 77 Opening)
 
 ## Great Tuesday (Compline Concluded) and Great Wednesday (Matins, Hours, Presanctified, Compline Opening) (§§ 74 Concluded, 75, 76, 77 Opening) [Violakis, p. 753]
 
@@ -158,7 +158,7 @@
 
 === LEAF p769 ===
 
-# Holy Week: Great Wednesday (Compline Concluded) and Great Thursday (Matins, Vespers Opening) (§§ 77 Concluded, 78, 79 Opening)
+## Holy Week: Great Wednesday (Compline Concluded) and Great Thursday (Matins, Vespers Opening) (§§ 77 Concluded, 78, 79 Opening)
 
 ## Μεγάλη Ἑβδομάς: Μεγάλη Τετάρτη καὶ Μεγάλη Πέμπτη (§§ 77 Τέλος, 78, 79 Ἀρχή) [Violakis, p. 754]
 
@@ -174,7 +174,7 @@
 
 === LEAF p770 ===
 
-# Holy Week: Great Wednesday (Compline Concluded) and Great Thursday (Matins, Vespers Opening) (§§ 77 Concluded, 78, 79 Opening)
+## Holy Week: Great Wednesday (Compline Concluded) and Great Thursday (Matins, Vespers Opening) (§§ 77 Concluded, 78, 79 Opening)
 
 ## Great Wednesday (Compline Concluded) and Great Thursday (Matins, Vespers Opening) (§§ 77 Concluded, 78, 79 Opening) [Violakis, p. 755]
 

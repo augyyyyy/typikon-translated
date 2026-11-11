@@ -165,7 +165,7 @@ O divinely-wise Timothy, thou didst drink the torrent of pleasure,[^2231] and in
 *Sticheron:*  
 Obeying Paul, conversing through the Scriptures of the Spirit, thou wast wholly light-radiant, a workman unashamed,[^2232] and a fervent servant of the Lord, O all-wise one, having lived chastely and piously, O Timothy; and thou wast accounted worthy of crowns of victory, as a lawful athlete.[^2233]
 
-*Stichera of the Venerable Martyr, Tone and Podoben the same:*  
+*Stichera of the Venerable Martyr, Tone and Podoben the same (Гла́съ и҆ подо́бенъ то́йже):*  
 O boast of martyrs, having set up radiant victories over deception, thou bearest in thy name the well-blessed appellation of the Resurrection,[^2234] O all-blessed one, borne abroad everywhere as a steadfast conqueror, O Anastasius; and now raise up from falls of sin those who honor thy memory with faith.
 
 *Sticheron:*  

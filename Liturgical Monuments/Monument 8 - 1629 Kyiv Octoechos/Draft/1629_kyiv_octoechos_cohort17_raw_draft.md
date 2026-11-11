@@ -14,7 +14,7 @@ Having received the Lord into thy virginal womb, O all-pure one, thou didst give
 *Another Heirmos: In the beginning, the heavens with Thine all-powerful Word.*
 The crawling serpent, having crept out from Eden and deceived me with the craving for divinity, cast me down to the earth; but as the merciful One, by nature compassionate, showing bountiful mercy, He deifies me, having made His abode in thy womb and become like unto me, O Mother and Virgin.
 Blessed is the fruit of thy womb, O Virgin Theotokos, the Joy of all; for thou didst bear joy unto all the world, and true gladness, destroying sinful sorrow, O Bride of God.
-Eternal life, and light, and peace, O Virgin Birth-giver of God, hast thou brought forth unto us, quieting mankind's ancient enmity toward the Father and God,
+Eternal life, and light, and peace, O Virgin Birthgiver of God, hast thou brought forth unto us, quieting mankind's ancient enmity toward the Father and God,
 
 === LEAF p162 ===
 
@@ -113,7 +113,7 @@ Thou Who by the piercing of Thy side and the sprinkling of Thy divine blood dids
 The undivided Nature we orthodoxly theologize: God the unoriginate Father, and the Word and the Spirit of the same dominion, crying: Blessed art Thou, O God of our fathers.[^169]
 *Another Heirmos: The furnace for the youths.*
 Having acquired for thyself a variegated, gilded adornment, thy Creator and Lord loved thee: Supremely exalted God of our fathers, blessed art Thou.
-Isaiah is cleansed, receiving a live coal of old, beholding typically thy childbearing, O Maiden: Supremely exalted God of our fathers, blessed art Thou.
+Isaiah is cleansed, receiving a live coal of old, beholding typically thy childbearing, O Maiden: Supremely exalted God of our fathers, blessed art thou.
 
 === LEAF p167 ===
 
@@ -139,7 +139,7 @@ Him Who abolished the dominion of death, and rose from the tomb with glory, and 
 
 The only compassionate One, the pre-eternal Word, Who in the end was born of the Virgin, and saved the human race: praise, ye priests, and supremely exalt Him, ye peoples, unto ages.
 *Another Heirmos: Unconsumed by fire.*
-By the radiance of thy childbearing, in wondrously-fitting manner thou didst illumine the universe, O Birth-giver of God; thou dost carry in thy hands Him Who is truly God, Who illumines those who faithfully cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
+By the radiance of thy childbearing, in wondrously-fitting manner thou didst illumine the universe, O Birthgiver of God; thou dost carry in thy hands Him Who is truly God, Who illumines those who faithfully cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
 With piety we sing of thy womb, O pure one, which ineffably contained God being incarnate, Who gave the enlightenment of divine knowledge unto all the faithful who ever cry: All ye works of the Lord, sing ye the Lord, and supremely exalt Him unto ages.
 
 **[Right Page — Fol. 166r]**

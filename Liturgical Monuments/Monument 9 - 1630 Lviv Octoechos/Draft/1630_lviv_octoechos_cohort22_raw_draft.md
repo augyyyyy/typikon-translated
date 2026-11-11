@@ -1,8 +1,8 @@
 === LEAF p211 ===
 
-#### [Left Page — Folio 211v]
-##### Column A
-[1] ...mind of the flesh, O Birth-giver of God, who didst bear the Life: by death having washed away death by divine power, O all-immaculate and pure one, destroying it!
+**[Left Page — Folio 211v]**
+**Column A**
+[1] ...mind of the flesh, O Birthgiver of God, who didst bear the Life: by death having washed away death by divine power, O all-immaculate and pure one, destroying it!
 Penitential Canon.
 Ode 6. Heirmos:
 Into the deep of transgressions have I fallen, O Master; as Jonah from the whale, I cry unto Thee: Lead my life up from corruption, and save me, O Lover of mankind!
@@ -19,7 +19,7 @@ Ode 6. Heirmos: Jonah cried from the belly of hades:
 [7] Having shone forth like the beams of virtues and through radiant martyrdom, O holy one, thou dost enlighten all creation with the spiritual Orient, blessed and noble one!
 [8] Thou didst blossom forth from a barren mother, O blessed one...
 
-##### Column B
+**Column B**
 ...therefore I cry unto thee: me who am grown old through many sins, renew by the beauties of repentance through thy prayers!
 [1] O lamp of the unwaning Light, divine Forerunner: kindle the extinguished lamp of my soul by thy prayers, and make me a partaker of the divine Light!
 Theotokion:
@@ -34,9 +34,9 @@ Martyrs:
 [5] Desiring eternal life, O Martyrs, ye put to death worldly deceit; and having utterly slain the enemy, ye took flight unto the heavens, ever praying for us, O sufferers!
 [6] By the tearing of your flesh ye loosed that bodily constraint of deceptive bonds; and bound in soul by the strong love of Christ, O Martyrs, ye proclaimed Him Who appeared in the flesh and destroyed corruption!
 
-#### [Right Page — Folio 212r]
-##### Column A
-[1] The Prophet foresaw Thee as a new scroll, wherein the Father's Word was written; therefore, O pure one, I pray Thee: account me worthy to be written in the Book of the Living, tearing up the handwriting of my many evils!
+**[Right Page — Folio 212r]**
+**Column A**
+[1] The Prophet foresaw thee as a new scroll, wherein the Father's Word was written; therefore, O pure one, I pray thee: account me worthy to be written in the Book of the Living, tearing up the handwriting of my many evils!
 Another Canon [to the Forerunner].
 Ode 7. Heirmos: The Children in the furnace:
 [2] Grant me showers of tears, I pray thee, O blessed one, having sharpened my sorrow; thou who didst wash away the mud of the abyss with river streams, O Forerunner: cleanse me entirely from the defilement of flesh and spirit!
@@ -50,13 +50,13 @@ Him Who is unceasingly praised by the Angels and glorified as God: let the heave
 Troparia:
 [6] Having excessively and mindlessly delighted in harmful pleasures, senseless as I am, I have surpassed every sinner: O Thou Who hast an abundance of loving-kindness, grant me cleansing of my transgressions!
 
-##### Column B
+**Column B**
 [1] Now the Bridegroom is at the doors: adorn thy lamps, O soul, fueling them with the oil of mercy and with all good works, before the doors are shut: make haste to enter with Christ into ineffable joy!
 Martyrs:
 [2] When the valiant sufferers endured the pain of torments, they cried: "Lo, the acceptable time! Let us all stand with a steadfast mind; by small pains let us acquire a life free from sickness and food that never grows old!"
 [3] Watered abundantly with divine waters, O passion-bearers of the Savior, ye water the earth with the imitation of your struggles, and make it fruitful in virtues unto the ages in Christ!
 Theotokion:
-[4] O Birth-giver of God, sure protectress and hope of Christians: in the dreadful day stand by me who have sinned greatly, and deliver me from the dreadful Gehenna, numbering me with the sheep on the right hand!
+[4] O Birthgiver of God, sure protectress and hope of Christians: in the dreadful day stand by me who have sinned greatly, and deliver me from the dreadful Gehenna, numbering me with the sheep on the right hand!
 Another Canon [to the Forerunner].
 Ode 8. Heirmos: Unto the only Beginningless King of glory:
 [5] To be loosed from the bonds of many sins, pray, O Forerunner, unto the only Redeemer, Who was bound and granted release unto the bound, that I may unceasingly glorify thee unto the ages!
@@ -65,15 +65,15 @@ Ode 8. Heirmos: Unto the only Beginningless King of glory:
 
 === LEAF p212 ===
 
-#### [Left Page — Folio 212v]
-##### Column A
+**[Left Page — Folio 212v]**
+**Column A**
 [1] ...greatly, and am humble and condemned.
 [2] As I have excessively buried in the earth the talent entrusted unto me by God, I await bitter torment: from which snatch me away, O Baptist, by thy prayers, as I faithfully beseech thee!
 Theotokion:
 [3] Thou didst remain unburnt, O Virgin, having received the incomprehensible Fire in thy womb: therefore snatch me away from the unquenchable fire, dewing me now with beauteous forms of genuine repentance!
 Penitential Canon.
 Ode 9. Heirmos:
-Who among the earthborn can declare the conception of the seedless birth? Who among men marvels not at the birthgiving of the incorruptible birth? Therefore all we, the earthly generations, magnify thee, O Birth-giver of God!
+Who among the earthborn can declare the conception of the seedless birth? Who among men marvels not at the birthgiving of the incorruptible birth? Therefore all we, the earthly generations, magnify thee, O Birthgiver of God!
 Troparia:
 [4] Let us weep, let us groan, let us entreat Christ while we, the faithful, yet have time for repentance and supplication, that the enduring good things may overtake us!
 [5] Like the Canaanite woman I cry unto Thee: Have mercy upon me, O Christ! As of old Thou didst heal the bowed-down woman, make me upright, O Lord; and save me, O Savior, who am submerged in sins!
@@ -83,7 +83,7 @@ Martyrs:
 Theotokion:
 [8] The Lord clothed Himself with me, having passed through Thee, O all-pure one; do Thou therefore entreat Him, O Virgin, to enlighten me with a radiant garment, having stripped me of the grievous sackcloth of passions...
 
-##### Column B
+**Column B**
 ...the most burdensome.
 Another Canon [to the Forerunner].
 Ode 9. Heirmos: O Master and Lover of mankind:
@@ -97,8 +97,8 @@ Aposticha Stichera,
 Penitential. Tone 7:
 [6] Like the barren fig tree, cut me not down, O Savior, sinful as I am; but grant me patience for many years, watering my soul...
 
-#### [Right Page — Folio 213r]
-##### Column A
+**[Right Page — Folio 213r]**
+**Column A**
 ...with the tears of repentance, that I may bring forth unto Thee the fruit of almsgiving!
 [1] As Thou art the righteous Sun: enlighten the hearts of them that praise Thee; O Lord, glory to Thee!
 Martyrs:
@@ -111,7 +111,7 @@ Beatitudes. Tone 7:
 [5] Heal the incurable wounds of my heart, O compassionate Lord, as Thou art the Physician of souls and bodies; and always prosper my walking uprightly in the paths of salvation!
 [6] O Baptist of Christ, forerunner unto the righteous Sun: kindle the lamp of my soul that is extinguished by many evils, through thy divine prayers, that being saved, I may ever call thee blessed!
 
-##### Column B
+**Column B**
 Martyrs:
 [1] Having suffered and been crowned, ye put the enemy to shame, O most wise Martyrs; and now ye dwell in the heavens, filled with unceasing light, praying for our souls!
 Glory: Triadikon:
@@ -129,8 +129,8 @@ Tone 7. Model: "Today Judas":
 
 === LEAF p213 ===
 
-#### [Left Page — Folio 213v]
-##### Column A
+**[Left Page — Folio 213v]**
+**Column A**
 [1] ...the spotless Ewe-lamb and Virgin, between two thieves, cried aloud: "Woe is me, my sweetest Child! What is this strange and most glorious mystery? How hath the lawless council lifted Thee up upon the Cross, and given gall to drink unto Him Who satisfied men with manna?"
 [2] When the Virgin and Thy Mother beheld Thee nailed upon the Cross, O my Christ, by the judgment of the lawless, by the Jews in the Place of the Skull, she cried aloud: "Woe is me, my most beloved Son! What is this strange sight? How do the senseless children of the Hebrews nail Thee upon the Cross, Who art the Lord of all?"
 [3] Thee alone, O all-hymned Sovereign Lady, did we know as Virgin after childbearing, and seeing Him Whom thou didst bear without seed willingly nailing His hands upon the Tree, the all-pure one weeping cried aloud: "Willingly, O Long-suffering One, Thou diest, delivering from death all them that praise Thee!"
@@ -140,7 +140,7 @@ Aposticha Stichera
 to the Cross. Tone 7:
 [5] No longer are we forbidden from the Tree of Life, having the hope of Thy Cross: O Lord, glory to Thee!
 
-##### Column B
+**Column B**
 [1] Having been hanged upon the Tree, O Immortal One, Thou didst break the snares of the devil: O Lord, glory to Thee!
 Martyrs:
 [2] O holy Martyrs, who also courageously preached Christ at the tribunal: ye received from Him the reward for your torments; but as ye have boldness, entreat Him as Almighty God to save our souls, who flee unto you, we pray you, O glorious ones!
@@ -152,13 +152,13 @@ of the Cross. Tone 7:
 [4] Jacob cries aloud unto Thee, O Christ God, worshipping Thee through the pine, the cedar, and the cypress: grant victories unto our hierarchs, O Compassionate One, and have mercy upon us!
 [5] Thou Who for my sake didst endure being nailed upon the Cross: accept also my vigilant praise, O Christ God, and save me!
 Glory: Now and ever: Stavrotheotokion:
-[6] Unceasingly pray, O Virgin Birth-giver of God, unto Christ our King Who was crucified for our sake and hath cast down the dominion of death, that He may save our souls!
+[6] Unceasingly pray, O Virgin Birthgiver of God, unto Christ our King Who was crucified for our sake and hath cast down the dominion of death, that He may save our souls!
 After the 2nd Kathisma, Sessional Hymns
 of the Cross. Tone 7:
 [7] A fire brighter and more efficacious than flame hast Thou shown forth the Tree of Thy Cross to be, consuming the sins of men and enlightening...
 
-#### [Right Page — Folio 214r]
-##### Column A
+**[Right Page — Folio 214r]**
+**Column A**
 ...the hearts of them that praise Thy voluntary crucifixion: O Christ God, glory to Thee!
 [1] O Thou Who rulest over the bodiless hosts: heal the blindness of my soul, and by Thy Cross save me, O Christ, as Thou art the Lover of mankind!
 Martyrs:
@@ -170,14 +170,14 @@ of the Cross. Tone 7:
 [4] When Thou wast crucified, O good Christ, the enemy was bound, and from the dead the souls that were held fast in hades beneath were loosed from their bonds!
 [5] Thou Who for our sake didst accept reproachful crucifixion: accept them that praise Thy passions, O Christ God, and save us!
 Glory: Now and ever: Stavrotheotokion:
-[6] Being ever preserved by the Cross of thy Son, O Virgin, we escape the assault of heretical errors; therefore, as is meet, praising thee we glorify thee, O all-hymned Birth-giver of God!
+[6] Being ever preserved by the Cross of thy Son, O Virgin, we escape the assault of heretical errors; therefore, as is meet, praising thee we glorify thee, O all-hymned Birthgiver of God!
 CANON to the Precious and
 Life-Creating Cross of the Lord.
 Work of Joseph.
 Ode 1. Tone 7. Heirmos:
 By Thy nod upon the earth:
 
-##### Column B
+**Column B**
 Troparia:
 [1] The Master, enduring crucifixion and reproach, bears the reproaches of men, as He is the Lover of mankind!
 [2] Pierced in the side with a spear, He slaughters the warring enemy!
@@ -190,14 +190,14 @@ Theotokion:
 [6] The handwriting of Adam was torn asunder, cried the all-pure Ewe-lamb, when Thy side was pierced with a spear, O Son; therefore I praise Thy suffering which hath poured forth dispassion unto all!
 Another Canon to the Most Holy Theotokos.
 Ode 1. Same Heirmos.
-[7] Loving to praise thy greatness, O Birth-giver of God, save thy people and deliver them from harm; for thou art our protectress, pure guide, and confirmation!
+[7] Loving to praise thy greatness, O Birthgiver of God, save thy people and deliver them from harm; for thou art our protectress, pure guide, and confirmation!
 [8] Having brought forth the Water of Immortality, O Virgin, grant us waters of healing, washing away all death-bearing passions from our souls and bodies!
-[9] Thou wast shown forth as the joyful dwelling-place, O Birth-giver of God full of God's grace, of Him Who honored the nature of our forefather: therefore, O pure one, we pray thee: deliver us from every dishonor of passions...[^292]
+[9] Thou wast shown forth as the joyful dwelling-place, O Birthgiver of God full of God's grace, of Him Who honored the nature of our forefather: therefore, O pure one, we pray thee: deliver us from every dishonor of passions...[^292]
 
 === LEAF p214 ===
 
-#### [Left Page — Folio 214v]
-##### Column A
+**[Left Page — Folio 214v]**
+**Column A**
 [1] ...passions which assail us!
 [2] Having given birth unto the Sun of Righteousness for the world, O Maiden, Who hast enlightened all that are in darkness: in thy light-bearing and holy temple, O all-immaculate one!
 Canon of the Cross.
@@ -213,9 +213,9 @@ Theotokion:
 [7] When the Ewe-lamb and Mother beheld the Lamb Who came willingly unto the slaughter, weeping she cried aloud: "What is this strange wonder? How diest Thou, O Blessed One, Who hast willed to make alive all them that are dead?"
 Another Canon [to the Theotokos].
 Ode 3. Same Heirmos:
-[8] Grant forgiveness unto Thy servants, O pure one...
+[8] Grant forgiveness unto thy servants, O pure one...
 
-##### Column B
+**Column B**
 ...in this holy temple, wherein thou hast shown a fountain of wonders to flow continually: delivering us from eternal torment by thy divine mediation!
 [1] Having given birth, O pure one, unto Christ the abyss of grace, Who is beyond cause and word, the Giver of all good things: by thy divine visitation heal the wounds of my soul from great passions!
 [2] Blessed is the fruit of thy womb, O Virgin, who didst bear joy unto all the world, and didst in truth contain the Lover of mankind: destroy the sorrow of my sins, O Virgin!
@@ -229,14 +229,14 @@ Troparia:
 Martyrs:
 [5] By the fierce burning of fire, and by the cutting-off of hands and feet, and by many torments, the Martyrs endured, interceding for us...
 
-#### [Right Page — Folio 215r]
-##### Column A
+**[Right Page — Folio 215r]**
+**Column A**
 ...unto the divine enjoyment of the end of bodily struggles, crying aloud unto the God of all: their voices were heard, and they were accounted worthy of divine perfection!
 Theotokion:
-[1] I pray thee, who didst bear the Incarnate One: make me, who am poor and in need of help, a temple of the Holy Spirit, O Birth-giver of God; that I may find help in the time of judgment, through the mediation of Him Who was born of thee, glorifying thee!
+[1] I pray thee, who didst bear the Incarnate One: make me, who am poor and in need of help, a temple of the Holy Spirit, O Birthgiver of God; that I may find help in the time of judgment, through the mediation of Him Who was born of thee, glorifying thee!
 Another Canon [to the Theotokos].
 Ode 4. Heirmos: Habakkuk foresaw the mountain:
-[2] O pure Birth-giver of God, adorned with the beauty of virtues, O Sovereign Lady, put out the fire of primal evil, which hath kindled within me!
+[2] O pure Birthgiver of God, adorned with the beauty of virtues, O Sovereign Lady, put out the fire of primal evil, which hath kindled within me!
 [3] Accept the supplication of Thy servants, O pure one, who didst bring forth Christ: save from every harm them that are redeemed by His blood, as we praise thee as is meet!
 [4] Thy grace is exceedingly praised, O Maiden full of God's grace; for it heals the sickness of souls and bodies, and cleanses defilement, as we faithfully glorify thee!
 [5] By thy visitation, O Virgin, save us from temptations and afflictions, and by thy holy prayers, deliver us who love thee from all evil, granting us life and forgiveness!
@@ -246,7 +246,7 @@ O Lord my God, from the night I awake early unto Thee, I pray Thee: grant me rem
 Troparia:
 [6] When Thou wast lifted up upon the Cross, O Word of God, Thou didst receive gall...
 
-##### Column B
+**Column B**
 ...tasting it, Thou didst destroy the bitterness of the ancient food: Glory to Thy great mercy, O Savior!
 [1] When Thou wast lifted up upon the Tree, the whole earth was shaken, O Christ, by Thy divine power; and the shaken souls of men Thou didst establish in the knowledge of Thee!
 Martyrs:
@@ -260,12 +260,12 @@ Ode 5. Heirmos: Having driven away the dark night:
 [5] Deliver me, O pure one, from the heavy slumber of sin, who wake early in thy holy temple, praising thee, O all-immaculate one!
 Theotokion:
 [6] Extend thy hand unto all of us, O pure one, who flee unto thee: deliver us from the darkness of all evil defilement, and heal our diseases by thy prayers!
-[7] Having conceived God in thy virgin womb, O Birth-giver of God, and given birth unto Him, O pure one: deliver from eternal condemnation them that praise thee, who with faith enter into thy temple...[^293]
+[7] Having conceived God in thy virgin womb, O Birthgiver of God, and given birth unto Him, O pure one: deliver from eternal condemnation them that praise thee, who with faith enter into thy temple...[^293]
 
 === LEAF p215 ===
 
-#### [Left Page — Folio 215v]
-##### Column A
+**[Left Page — Folio 215v]**
+**Column A**
 [1] ...who walk therein: renewing our soul that is grown old through sin: and as is meet we praise thee, O all-immaculate one!
 Canon of the Cross.
 Ode 6. Heirmos:
@@ -281,9 +281,9 @@ Another Canon [to the Theotokos].
 Ode 6. Heirmos: Jonah cried from the belly of hades:
 [6] Remember us, O Savior, who call upon Thee...
 
-##### Column B
+**Column B**
 ...Thou Who alone art the Lover of mankind, who didst deliver our race from delusion; by the prayers of the all-pure one, and through Thy Cross, grant us freedom from passions!
-[1] Cleanse the sores of our souls, O Birth-giver of God, by the sprinkling of thy compassion, and heal bodily illnesses, that we may glorify thee, the good protectress!
+[1] Cleanse the sores of our souls, O Birthgiver of God, by the sprinkling of thy compassion, and heal bodily illnesses, that we may glorify thee, the good protectress!
 [2] Having broken the bond of ancient Eve, O Maiden, by thy divine childbearing: loose the bonds of our transgressions, who faithfully run unto thy shelter!
 Canon of the Cross.
 Ode 7. Heirmos:
@@ -296,8 +296,8 @@ Martyrs:
 Theotokion:
 [6] How dost Thou endure crucifixion, O Child, cried the all-pure Virgin; I behold Thee hanging upon the Tree, Who didst establish the earth upon the waters...
 
-#### [Right Page — Folio 216r]
-##### Column A
+**[Right Page — Folio 216r]**
+**Column A**
 ...O Child, beholding Thee, how can I not weep, seeing Thee suffer unjustly, Who hast crowned creation with beauty!
 Another Canon [to the Theotokos].
 Ode 7. Same Heirmos:
@@ -310,7 +310,7 @@ The unconsumed fire on Sinai showed forth the virginity of the Mother of God; an
 Troparia:
 [4] Crowned with thorns, O Savior, Thou didst pull up the thorns of the ancient curse; and tasting vinegar and gall, Thou didst sweeten our bitterness: let all works praise the Lord, and supremely exalt Him unto all ages!
 
-##### Column B
+**Column B**
 Martyrs:
 [1] The Martyrs, rich in the treasures of truth, accounted worldly poverty as nothing, and through their blood enriched the Church, crying: Let all works praise the Lord, and supremely exalt Him unto all ages!
 Martyrs:
@@ -326,10 +326,10 @@ Ode 8. Same Heirmos:
 
 === LEAF p216 ===
 
-#### [Left Page — Folio 216v]
-##### Column A
+**[Left Page — Folio 216v]**
+**Column A**
 [1] ...and bless Him Who was born of thee unto all ages!
-[2] In the light of thy childbearing, O Birth-giver of God, the world was enlightened; for thou didst bear the true God, Who enlightened all by His Cross: let all works praise the Lord, and supremely exalt Him unto all ages!
+[2] In the light of thy childbearing, O Birthgiver of God, the world was enlightened; for thou didst bear the true God, Who enlightened all by His Cross: let all works praise the Lord, and supremely exalt Him unto all ages!
 Canon of the Cross.
 Ode 9. Heirmos:
 A Mother of God and Virgin, giving birth and remaining a virgin, is not a work of nature, but the condescension of God: therefore as the only Mother of divine gifts, we magnify thee, O pure one!
@@ -340,14 +340,14 @@ Martyrs:
 [5] Imitating the passions of Christ, the glorious Martyrs endured diverse torments: therefore having received crowns of glory, they were accounted worthy of Thy Kingdom, O Christ!
 [6] The assemblies of the faithful praise the memories of the Martyrs; who by their blood adorned the Church of Christ: therefore we celebrate their venerable memory!
 
-##### Column B
+**Column B**
 Theotokion:
 [1] Beholding Thee hanging upon the Tree, O my Son, cried the Virgin, my heart is wounded with sorrow: but rising on the third day, as God, raise up Adam who was fallen!
 Another Canon [to the Theotokos].
 Ode 9. Same Heirmos:
 [2] Higher than the heavens art thou shown forth, O pure Virgin, having brought forth the Creator of all: therefore with the Angels we unceasingly magnify thee!
 [3] As the radiant mountain of God, the Prophet foresaw thee of old, O Virgin; from whence Christ came forth, enlightening the ends of the earth: therefore we call thee blessed!
-[4] Thou didst appear as the golden jar, containing the heavenly Manna, Christ the Giver of Life: therefore we faithfully praise thee, O Birth-giver of God!
+[4] Thou didst appear as the golden jar, containing the heavenly Manna, Christ the Giver of Life: therefore we faithfully praise thee, O Birthgiver of God!
 [5] A glorious tabernacle and holy dwelling-place of God didst thou appear, O Maiden; therefore deliver me from the defilement of sins, that I may magnify thee with pure lips!
 [6] O Virgin who didst bear the unwaning Light: deliver me from eternal darkness, and enlighten my darkened soul, that in love I may hymn thee!
 Aposticha Stichera
@@ -355,8 +355,8 @@ to the Cross. Tone 7:
 [7] Having redeemed the world by Thy Cross, O Lover of mankind: O Lord, glory to Thee!
 [8] When Thou wast nailed upon the Cross, the sun was darkened, and the earth was shaken: O Lord, glory to Thee!
 
-#### [Right Page — Folio 217r]
-##### Column A
+**[Right Page — Folio 217r]**
+**Column A**
 [1] Thou didst grant Thy Cross as an invincible weapon unto Thy people: O Lord, glory to Thee!
 Martyrs:
 [2] The passion-bearing Martyrs of Christ endured torments, and received the reward of victory: therefore they pray for our souls!
@@ -368,13 +368,13 @@ Tone 7:
 [5] Stretched upon the Cross, Thou didst stretch out Thy hands, O Savior, gathering the scattered children of Adam into one fold!
 [6] By Thy crucifixion, O Christ, the enemy was bound, and hades was despoiled: O Lord, glory to Thee!
 
-##### Column B
+**Column B**
 Martyrs:
 [1] Through your struggles, O holy Martyrs, ye trampled down the hostile enemy, and now rejoice with the Angels: pray for our souls!
 Glory: Triadikon:
 [2] O Consubstantial Trinity, Father, Son, and Holy Spirit: save them that praise Thee in faith, and deliver us from eternal torment!
 Now and ever: Stavrotheotokion:
-[3] Beholding Him Who was born of thee hanging upon the Tree, O pure Virgin, weeping she cried: "How sufferest Thou willingly, my Son, wishing to deliver the nature of mortals from passions?"
+[3] Beholding Him Who was born of thee hanging upon the Tree, O pure Virgin, weeping she cried: "How sufferest thou willingly, my Son, wishing to deliver the nature of mortals from passions?"
 ON WEDNESDAY EVENING, AT "LORD, I HAVE CRIED":
 Stichera of the Holy Apostles, Tone 7. Model: "No longer are we forbidden":
 [4] Ye spiritual luminaries of the Church, glorious Apostles: who by your preaching enlightened the whole earth, and dispelled the mist of idolatry: pray unto Christ our God that our souls may be saved!
@@ -383,8 +383,8 @@ Stichera of the Holy Apostles, Tone 7. Model: "No longer are we forbidden":
 
 === LEAF p217 ===
 
-#### [Left Page — Folio 217v]
-##### Column A
+**[Left Page — Folio 217v]**
+**Column A**
 [1] ...of God, the assemblies of the nations.
 Other Stichera to Saint Nicholas,
 Tone 7. Same Model:
@@ -399,7 +399,7 @@ to the Holy Apostles, Tone 7:
 Martyrs:
 [7] Praised Martyrs, spiritual sacrifices, acceptable whole burnt offerings well-pleasing unto Christ: the earth hath hidden you now, but...
 
-##### Column B
+**Column B**
 ...heaven hath received you; ye were made partakers with the Angels: with them pray, we beseech you, unto our Savior and God, to grant peace unto the world and save our souls!
 Glory: Now and ever: Theotokion:
 [1] Thee alone as pure Virgin after childbearing do we hymn, saying: As the Mother of God the Word: Glory to Thee!
@@ -416,8 +416,8 @@ of the Apostles. Tone 7:
 Martyrs:
 [6] Thy Martyrs, O Lord, overcame the enemy and put idolatrous deceit to shame, being armed with the power of Thy Cross: therefore singing with the Angels, they cry aloud the victory hymn, glorifying Thee, O Christ: by their prayers grant cleansing and great mercy unto our souls!
 
-#### [Right Page — Folio 218r]
-##### Column A
+**[Right Page — Folio 218r]**
+**Column A**
 [1] ...grant cleansing and great mercy unto our souls!
 Glory: Now and ever: Theotokion:
 [2] Rejoice, for the unavoidable and unchangeable Word became flesh and dwelt among us! Rejoice, pure one, rejoicing of the Apostles and Martyrs, and salvation unto us the faithful! Rejoice, Mother of Christ God!
@@ -435,11 +435,11 @@ Troparia:
 [6] Having become God-beholders through divine assent, when ye brought the ungodly to completion, ye lifted them up unto divine love, O all-honorable Apostles of Christ!
 [7] Called as the salt of all the earth, O loud-voiced Apostles of the Lord: stop all the rotting...
 
-##### Column B
+**Column B**
 ...of my heart, and heal that which is grievously corrupted!
 [1] When the most righteous Judge of all is about to sit with you in His second coming, O divine Apostles: then deliver us from all condemnation!
 Theotokion:
-[2] O all-pure Birth-giver of God, with the Bodiless Angels, the Prophets, the Martyrs, and the Apostles: pray that we may receive remission of transgressions and rich mercy!
+[2] O all-pure Birthgiver of God, with the Bodiless Angels, the Prophets, the Martyrs, and the Apostles: pray that we may receive remission of transgressions and rich mercy!
 Another Canon to Saint Nicholas.
 Work of Joseph.
 Ode 1. Tone 7. Heirmos:
@@ -448,7 +448,7 @@ Unto God Who worked salvation:
 [4] Sailing across the deep of corruptible life, tossed by the billows of temptations, O all-blessed one, we are surrounded: preserve us therefrom!
 [5] Extend unto me now a helpful hand, O father Nicholas: and deliver me from enemies visible and invisible!
 Theotokion:
-[6] He Who created the bodiless ministers, O Birth-giver of God, was born of thee through ineffable mercy, and was seen as man!
+[6] He Who created the bodiless ministers, O Birthgiver of God, was born of thee through ineffable mercy, and was seen as man!
 Canon of the Apostles.
 Ode 3. Heirmos:
 In the beginning the heavens, O Almighty:
@@ -457,8 +457,8 @@ In the beginning the heavens, O Almighty:
 
 === LEAF p218 ===
 
-#### [Left Page — Folio 218v]
-##### Column A
+**[Left Page — Folio 218v]**
+**Column A**
 [1] ...having been shown forth: from the arrows of the evil one deliver me, O most wise disciples of the Lord, and heal my heart that is grievously wounded by the weapon of sin!
 [2] Me who am grievously deceived and stripped naked of divine garments: make haste to enlighten with divine garments, O disciples of Christ, who through faith laid bare all the wiles of the enemy, and clothed him with shame!
 Theotokion:
@@ -472,7 +472,7 @@ Thou Who didst establish the heavens by Thy Word, and didst make firm the earthl
 Theotokion:
 [7] As the bush that received the Divine Fire within thy divine womb and was not consumed: burn up our transgressions, O all-pure one!
 
-##### Column B
+**Column B**
 Canon of the Apostles.
 Ode 4. Heirmos:
 Without leaving the Father's bosom:
@@ -491,8 +491,8 @@ Canon of the Apostles.
 Ode 5. Heirmos:
 O Lord my God, from the night I awake early unto Thee, I pray Thee: grant me remission...
 
-#### [Right Page — Folio 219r]
-##### Column A
+**[Right Page — Folio 219r]**
+**Column A**
 ...of my transgressions, and direct my path unto the light of Thy commandments, I pray Thee!
 [1] O Lord my God, Who of old didst grant Thy peace unto Thine Apostles: by their prayers grant peace and remission of transgressions unto all!
 [2] O Lord my God, Who knowest the transgressions of my soul, and the uncorrected disposition of my heart: freely have compassion upon me and save me, through the prayers of the Apostles!
@@ -509,7 +509,7 @@ Ode 6. Heirmos:
 Floating on the sea:
 [1] Having become divine disciples by His wisdom, they made foolish the wisdom of the Greeks, and destroyed the malice of the wise, and being most wise they enlightened them that wandered in ignorance unto piety!
 
-##### Column B
+**Column B**
 [2] Thou Who of old didst cleanse Peter's denial through tears: by his prayers cleanse the unnumbered transgressions of my soul, according to Thy great loving-kindness and surpassing grace, O Christ!
 [3] Thou Who of old didst have compassion upon the Ninevites who repented: by Thine own loving-kindness have mercy upon me for the sake of Thine Apostles, and deliver me from being surrendered to many torments for the multitude of my transgressions, O Redeemer!
 Theotokion:
@@ -523,8 +523,8 @@ Ode 6. Heirmos: Jonah cried from the belly of hades:
 
 === LEAF p219 ===
 
-#### [Left Page — Folio 219v]
-##### Column A
+**[Left Page — Folio 219v]**
+**Column A**
 [1] Heal, O all-immaculate one, my wretched soul that is incurably sick with worldly delusions and grown old through many sins!
 Canon of the Apostles.
 Ode 7. Heirmos:
@@ -540,9 +540,9 @@ Ode 7. Heirmos: He Who cooled the burning furnace:
 [7] With the showers of thy prayers, O wise Nicholas, water the hearts of all of us: that we may bring forth unto thee fruits of divine virtues, mediating an unending life!
 [8] Enlighten our thoughts through prayers, who awake early in faith and pray unto God, O holy Nicholas, who by thy prayers didst destroy the temple of Artemis!
 
-##### Column B
+**Column B**
 Theotokion:
-[1] Every nation glorifies thee in faith, O pure one: as the only glory and praise of our race, and the guide of the wandering, O all-blessed Birth-giver of God!
+[1] Every nation glorifies thee in faith, O pure one: as the only glory and praise of our race, and the guide of the wandering, O all-blessed Birthgiver of God!
 Canon of the Apostles.
 Ode 8. Heirmos:
 Unconsumed by fire on Sinai:
@@ -555,8 +555,8 @@ Another Canon [to St. Nicholas].
 Ode 8. Heirmos: Likened unto the Children in the furnace:
 [6] Having received the grace of the Spirit, likened unto the Children in the furnace, in faith we cry aloud: Bless the Lord, all ye works of the Lord; praise the Lord, and supremely exalt Him unto all ages!
 
-#### [Right Page — Folio 220r]
-##### Column A
+**[Right Page — Folio 220r]**
+**Column A**
 ...supremely exalt Him unto all ages!
 [1] Thy body lying in Myra, all-holy Nicholas, and smelling of fragrant myrrh, pours forth streams of myrrh unto them that run thither, and assuages diseases!
 [2] He Who is the Creator and Lord of the world showed thee forth as a protector unto the world; therefore, O Nicholas, unto them that now call upon thee thou art found a ready deliverer!
@@ -571,7 +571,7 @@ She who brought forth the fountain of incorruption:
 [7] Me who have despised Thy divine laws, and have become a dwelling of demons and a workshop of every sin: have compassion upon me, O Word, through the prayers of Thy glorious Apostles, as Thou art the Lover of mankind!
 [8] Send me not into the fire prepared for me: the Virgin who bore Thee entreats Thee, and the divine bodiless choirs...
 
-##### Column B
+**Column B**
 ...Apostles, Prophets, Martyrs, Hierarchs, and all the righteous: O all-compassionate and most merciful One!
 Another Canon [to St. Nicholas].
 Ode 9. Heirmos: Her that is Mother above nature and Virgin:
@@ -588,8 +588,8 @@ to the Holy Apostles, Tone 7:
 
 === LEAF p220 ===
 
-#### [Left Page — Folio 220v]
-##### Column A
+**[Left Page — Folio 220v]**
+**Column A**
 [1] ...bearing the Cross upon your shoulders like a plow, plowing the earth that was barren through idolatrous deceit: ye sowed the word of faith, and are worthily praised, O holy Apostles of Christ!
 Martyrs:
 [2] United in mind, and looking unto the One, the passion-bearing Martyrs found the one path of life, even death for Christ: equally emulating one another in their end!
@@ -600,7 +600,7 @@ ON THURSDAY,
 Beatitudes. Tone 7:
 [5] Beautiful was that fruit and good for food which put me to death; but Christ is the Tree of Life, whereof eating I die not, but cry aloud with the Thief: Remember me, O Lord, when Thou comest into Thy Kingdom!
 
-##### Column B
+**Column B**
 [1] From the deep edge of evils, O most wise Apostles, ye caught the flocks of the nations unto the God-comely faith, and faithfully brought all as well-instructed disciples unto the spiritual table, O glorious Apostles!
 Martyrs:
 [2] Having driven away the darkness of grievous deceit by the light of preaching, O Apostles of the Lord: ye enlightened the hearts of us, the pious: therefore in divine songs we call you blessed!
@@ -615,8 +615,8 @@ Stichera of the Cross, Tone 7. Model: "No longer are we forbidden":
 [7] When the Jewish council desired to crucify Thee, O Jesus: the earth was shaken, and the light of the sun was hidden!
 [8] The crown of thorns...
 
-#### [Right Page — Folio 221r]
-##### Column A
+**[Right Page — Folio 221r]**
+**Column A**
 ...wherewith the lawless crowned Thee, O Immortal One: uprooted the thorns of deceit, renewing mankind!
 Other Stichera to the Most Holy Theotokos,
 Tone 7. Model: "Today Judas":
@@ -626,7 +626,7 @@ Tone 7. Model: "Today Judas":
 Glory: Now and ever: Stavrotheotokion:
 [4] O all-hymned Sovereign Lady, Virgin who didst bear the Lord, Who for compassion's sake was nailed upon the Cross and poured forth streams of life unto the world: do thou entreat Him that our souls may be saved; for thee alone have we, the faithful, as refuge, rampart, and protection: therefore do we flee...
 
-##### Column B
+**Column B**
 ...unto thy protection!
 Aposticha Stichera
 to the Cross. Tone 7:
@@ -641,7 +641,7 @@ of the Cross. Tone 7:
 [5] Jacob cries aloud unto Thee, O Christ God, worshipping Thee through the pine, the cedar, and the cypress: grant victories unto our hierarchs, O Compassionate One, and have mercy upon us!
 [6] Thou Who for my sake didst endure being nailed upon the Cross: accept also my unslumbering supplication, O Christ God, as Thou art the Lover of mankind!
 Glory: Now and ever: Stavrotheotokion:
-[7] Being ever preserved by the Cross of thy Son, O Virgin, we escape the assault of heretical errors; therefore, as is meet, praising thee we glorify thee, O all-hymned Birth-giver of God!
+[7] Being ever preserved by the Cross of thy Son, O Virgin, we escape the assault of heretical errors; therefore, as is meet, praising thee we glorify thee, O all-hymned Birthgiver of God!
 After the 2nd Kathisma, Sessional Hymns
 of the Cross. Tone 7:
 [8] A fire brighter and more efficacious than flame hast Thou shown forth the Tree...[^299]

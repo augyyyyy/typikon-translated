@@ -201,10 +201,10 @@ Who can worthily sing of thy tribulations and illnesses, thy afflictions and sor
 **[Left Page — Fol. 214v]**
 ...before God; therefore we beseech thee, for thou hast boldness, pray to the Lord on our behalf, that our souls may be saved.
 
-*Glory, and now, Theotokion, in the same Tone and Podoben:*
+*Glory, and now, Theotokion, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*
 Having received flesh from thy blood, the God before all ages showed thee forth as an intercessor unto men, O pure one; therefore deliver thy servants from every affliction and distress, and from the snares of the deceitful enemy; and vouchsafe all who glorify and worship thee to partake of the radiance of the elect.
 
-*Stavrotheotokion, in the same Podoben:*
+*Stavrotheotokion, in the same Podoben (Подо́бенъ то́йже):*
 Seeing Thee nailed upon the Cross, O Jesus, and accepting sufferings willingly, Thy Virgin Mother cried out, O Master: Woe is me, O sweet Child! How dost Thou unjustly endure wounds, O Physician Who didst heal human infirmity and deliver all from corruption by Thy tender mercy?
 
 *Troparion, Tone 4:*

@@ -98,7 +98,7 @@ Thou wast the dwelling of God, having contained in thy womb Him Who cannot be co
 === LEAF p124 === (Fol. 62v)
 ## May 14. The Holy Martyr Isidore of Chios
 
-*At Vespers, Stichera of the Feast, 3; and of the Martyr, 3; Tone 4, Podoben: "Thou hast given a sign" (Dal yesi znameniye):*
+*At Vespers, Stichera of the Feast, 3; and of the Martyr, 3; Tone 4, Podoben: "Thou hast given a sign" (Да́лъ є҆сѝ зна́менїе):*
 Torn with stripes, thou didst strip off the coats of skin of deadness; and clad in the garment of incorruption and a bright purple robe, thou didst swiftly come unto the tree of life, having truly received indestructible life and unending glory: whereof now taking thy fill, preserve those who sing of thee!
 
 *Sticheron:*
@@ -148,10 +148,10 @@ Render the Judge of all merciful by thy prayers, O passion-bearer, unto those wh
 *Theotokion:*
 Put to death the wisdom of our flesh, O Sovereign Lady, and quicken our souls, O Virgin, who in faith sing of thee!
 
-*Kontakion, Tone 4, Podoben: "Thou hast appeared today" (Yavilsya yesi):*
+*Kontakion, Tone 4, Podoben: "Thou hast appeared today" (Ꙗ҆ви́лсѧ є҆сѝ):*
 A most great governor of the universe wast thou shown forth, O holy one, by thy prayers unto God; therefore we sing of thee today, O God-wise martyr Isidore, most glorious one.
 
-*Sessional Hymn, Tone 3, Podoben: "Beholding the beauty of thy virginity" (Krasote devstva):*
+*Sessional Hymn, Tone 3, Podoben: "Beholding the beauty of thy virginity" (Красотѣ̀ дв҃ства):*
 Rousing thyself against the serpent, thou didst set up a trophy of victory, O martyr Isidore; shining as a lantern from Egypt to illumine the world under the sun, thou didst shine forth unto all, directing thy movements unto Him Who shone forth from the Virgin Maiden of God: for Whose sake having been slain, O passion-bearer, thou becamest a sweet-smelling sacrifice.
 
 *Glory... Both now... of the Feast.*
@@ -258,7 +258,7 @@ As having given birth unto the Savior and Deliverer, account me worthy to obtain
 === LEAF p129 === (Fol. 65r)
 ## May 15. Our Venerable Father Pachomius the Great
 
-*At Vespers, Stichera of the Feast, 3; and of the Venerable One, 3; Tone 6, Podoben: "Having laid aside all earthly hope" (Vse otlozhshe):*
+*At Vespers, Stichera of the Feast, 3; and of the Venerable One, 3; Tone 6, Podoben: "Having laid aside all earthly hope" (Всѐ ѿло́жше):*
 Having stretched out all thy desire unto God, thou didst forsake worldly beauty as passing away, and didst commit thyself wholly unto Christ, O all-wise one; having cleansed thyself in every way by abstinence, O Pachomius, thou didst show forth patient resistance against the inflamed passions, and undergoing the martyrdom of conscience, O God-wise one, as a victor thou didst receive an unfading crown!
 
 *Sticheron:*

@@ -67,5 +67,5 @@ To model the Triodion season without inflating the Case count, **Typikon Coded**
 
 ### Advantages of the Lviv 2010 Overlay Model:
 1.  **Canonical Integrity**: The Liturgical Context card dynamically pulls and displays the canonical base case (e.g. `Case 1 — Sunday with Simple Saint`), matching the Lviv 2010 directory.
-2.  **No Code Inflation**: Complex seasonal shifts (like Lenten canon ratios or Presanctified Liturgy triggers) are handled via dynamic variable switches in [02c_logic_triodion.json](file:///c:/Users/augus/OneDrive/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02c_logic_triodion.json) rather than defining new, redundant Case frameworks.
+2.  **No Code Inflation**: Complex seasonal shifts (like Lenten canon ratios or Presanctified Liturgy triggers) are handled via dynamic variable switches in [02c_logic_triodion.json](file:///c:/Users/augus/Documents/Google%20Antigravity/Projects/Typikon%20Coded/json_db/02c_logic_triodion.json) rather than defining new, redundant Case frameworks.
 3.  **Visual Transparency**: The UI displays the *Selected Outlines* (such as `lenten` or `presanctified`) and the *Resolution Trace* to clearly explain the active sub-case overrides without cluttering the primary case classification.

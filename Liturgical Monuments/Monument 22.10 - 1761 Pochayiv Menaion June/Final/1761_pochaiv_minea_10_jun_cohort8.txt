@@ -95,7 +95,7 @@ O God-wise Father Onuphrius, * the night-time frost and the daytime heat * throu
 
 O God-wise Father Onuphrius, * glorious Paphnutius found thee * hiding in the desert like a treasure,[^259] * and clearly related unto them in the world * the accomplishments of thy labors, * enriching the faithful with narratives * of thy God-pleasing life, O all-praised one: * make us also imitators thereof * by thy prayers, O glorious one!
 
-*Other Stichera, of the Venerable Peter, Tone and Podoben the same [Tone 8, Podoben: "O most marvelous wonder"]:*
+*Other Stichera, of the Venerable Peter, Tone and Podoben the same [Tone 8, Podoben: "O most marvelous wonder"] (Ѽ пресла́внагѡ чꙋдесѐ):*
 
 As namesake of divine Peter,[^260] * following him in truth * and piously arriving at zeal for the faith, * we know thee, O venerable one: * for thou didst love the good Law, * and didst desire his divine commandments, O Father, * and didst adorn thy soul with virtues: * therefore do we honor and call thee blessed!
 

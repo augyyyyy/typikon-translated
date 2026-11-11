@@ -1,13 +1,11 @@
-# Typikon of Fr. Jacob Doskovsky (Peremyshl, 1852) — Cohort 15 (Leaf p141)
-
 === LEAF p141 ===
 
 [Book Page 278 (Table of Contents Conclusion)]
 
 — 278 —
 
-### TABLE OF CONTENTS (Conclusion)
-### Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics
+**TABLE OF CONTENTS (Conclusion)**
+**Part 4: Holy Great Lent, Holy Week, the Pentecostarion, and General Rubrics**
 
 - Typikon for Cheesefare Sunday . . . p. 198  
 - Typikon for Monday of the First Week of Holy Lent . . . p. 202  

@@ -107,7 +107,7 @@
 
 *Troparion 2:* Having spent my life in slothfulness, I have become unfruitful, and I dread the examination and the unquenchable fire of Gehenna; O thou that didst bear the unendurable Fire, O Theotokos, hasten to deliver me by thy prayers.[^9849]
 
-*Glory:* The great wonder of thy childbirth is higher than all wonders, O pure Virgin; therefore I cry unto thee, O Mother of God: show marvelous Thy mercies upon me, and deliver and save me from the wrath to come.[^9850]
+*Glory:* The great wonder of thy childbirth is higher than all wonders, O pure Virgin; therefore I cry unto thee, O Mother of God: show marvelous thy mercies upon me, and deliver and save me from the wrath to come.[^9850]
 
 *Both now:* As the Benefactor God and plenteous in mercy, have compassion, O Savior, for the sake of her that bare Thee, upon me who have lived in slothfulness and disregarded Thy holy laws and Thy precious commandments, O Christ.[^9851]
 

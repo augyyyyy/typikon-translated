@@ -1,0 +1,29 @@
+{
+  "schema_version": "4.1.0",
+  "spoke": "Translation",
+  "generated_at_utc": "2026-11-10T19:32:02.285483+00:00",
+  "total_deliverables_indexed": 3,
+  "deliverables": [
+    {
+      "deliverable_id": "CODEX_REGISTRY",
+      "path": "Liturgical Monuments/codex_registry.json",
+      "description": "Master 132-Monument Historical Liturgical Translation Registry (41 Sealed Monuments)",
+      "sha256": "33aa01dcc38bcee0a8127be2c26603bd65ca002741e960e447875982b4947ccc",
+      "size_bytes": 332769
+    },
+    {
+      "deliverable_id": "ATOMIC_CORPUS_LEDGER",
+      "path": "Audit_Reports/ATOMIC_CORPUS_LEDGER.md",
+      "description": "Cross-Monument Stage-1A Atomic Liturgical Corpus Ledger",
+      "sha256": "264d0691711294ff61422c059f81b0decf42c7f38e90d735521b745ea6682431",
+      "size_bytes": 5603
+    },
+    {
+      "deliverable_id": "CROSS_MONUMENT_TELEMETRY_LEDGER",
+      "path": "Audit_Reports/CROSS_MONUMENT_TELEMETRY_LEDGER.md",
+      "description": "3-Phase Bookend Hybrid Routing & Quality Gate Telemetry Ledger",
+      "sha256": "87df32a5be8f1dcd9442f99fe7e931ca4d7065d55d08013e9530ab20898b1eb5",
+      "size_bytes": 5629
+    }
+  ]
+}

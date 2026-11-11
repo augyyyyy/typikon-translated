@@ -3,7 +3,7 @@ from datetime import date
 from ruthenian_engine import RuthenianEngine
 
 # Initialize the engine in the project root
-engine = RuthenianEngine(base_dir="c:/Users/augus/OneDrive/Documents/Google Antigravity/Projects/Typikon Coded")
+engine = RuthenianEngine(base_dir="c:/Users/augus/Documents/Google Antigravity/Projects/Typikon Coded")
 
 # Target date: June 13, 2026
 target_date = date(2026, 6, 13)

@@ -34,7 +34,7 @@ There are Nine Biblical Canticles appointed for liturgical use at Matins (*Ὄρ
 2. The (Second) Song of Moses (**"Give ear, O heavens"**, Deuteronomy 32:1–43)
 3. The Prayer of Hannah, the mother of Samuel the Prophet (**"My heart is established in the Lord"**, 1 Kingdoms 2:1–10 LXX [1 Samuel 2:1–10])
 4. The Prayer of the Prophet Habakkuk (**"O Lord, I have heard Thy report, and was afraid"**, Habakkuk 3:2–19 LXX)
-5. The Prayer of the Prophet Isaiah (**"From night until morning my spirit seeketh Thee early"**, Isaiah 26:9–20 LXX)
+5. The Prayer of the Prophet Isaiah (**"From night until morning my spirit seeks Thee early"**, Isaiah 26:9–20 LXX)
 6. The Prayer of the Prophet Jonah (**"I cried in mine affliction unto the Lord"**, Jonah 2:2–9 LXX)
 *7. The Prayer of the Three Holy Children in the Furnace (**"Blessed art Thou, O Lord God of our fathers"**, Daniel 3:26–56 LXX)
 *8. The Song of the Three Holy Children (**"Bless the Lord, all ye works of the Lord"** / *The Benedicite*, Daniel 3:57–88 LXX)

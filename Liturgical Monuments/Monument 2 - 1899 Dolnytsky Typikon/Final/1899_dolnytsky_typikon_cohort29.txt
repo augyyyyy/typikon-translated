@@ -7,24 +7,24 @@
 
 ## Directory of Movable Services
 
-### Of the Lenten Triodion
+**Of the Lenten Triodion**
 
-#### Sunday of the Publican and the Pharisee
+**Sunday of the Publican and the Pharisee**
 In the six days from Monday until the Saturday of the Prodigal Son, the Triodion has nothing, but only the Octoechos and the Menaion. — Fast-free week.
 
-#### Sunday of the Prodigal Son
+**Sunday of the Prodigal Son**
 **1.** In the five days from Monday until Meatfare Friday, the Triodion has nothing, but only the Octoechos and the Menaion.  
 **2.** Meatfare Saturday: For the Dead (All Souls), without the Menaion.
 
-#### Sunday of Meatfare
-##### Of the Dread Judgment
+**Sunday of Meatfare**
+**Of the Dread Judgment**
 **1.** The Service of Cheesefare Week is Penitential, as a Forefeast of the Great Forty Days.  
 **2.** On Monday, Tuesday, and Thursday, the Triodion has little, and the Octoechos and the Menaion hold the rest.  
 **3.** On Wednesday and Friday, the Triodion has the fuller Fasting Service.  
 **4.** **(:** Cheesefare Saturday: To the Holy Ascetics.
 
-#### Sunday of Cheesefare
-##### Adam’s Expulsion from Paradise
+**Sunday of Cheesefare**
+**Adam’s Expulsion from Paradise**
 **1.** In the five days from Monday until Friday of the 1st Week of the Fast, the Service is Fasting. — With Monday begins the Great Forty Days.  
 **2.** 1st Saturday of the Fast: Great Martyr Theodore the Recruit (Tyro).
 
@@ -32,24 +32,24 @@ In the six days from Monday until the Saturday of the Prodigal Son, the Triodion
 
 === LEAF p562 ===
 
-#### 1st Sunday of the Fast
-##### Orthodoxy: Against the Iconoclasts
+**1st Sunday of the Fast**
+**Orthodoxy: Against the Iconoclasts**
 **1.** In the five days from Monday until Friday of the 2nd Week of the Fast, the Service is Fasting.  
 **2.** From Monday and downward, we sing at Compline the Canons of the Saints of the Menaion that will occur from Lazarus Saturday until Thomas Sunday, both inclusive.  
 **3.** 2nd Saturday of the Fast: Service to the Martyrs, Hierarchs, and all Saints, likewise for the Deceased, according to the Typikon of Alleluia Saturdays, with the Service of the ordinary Saint of the Menaion. Thus it takes place also on the 3rd and 4th Saturdays of the Fast.
 
-#### 2nd Sunday of the Fast
-##### Nameless, Penitential
+**2nd Sunday of the Fast**
+**Nameless, Penitential**
 **1.** In the five days from Monday until Friday of the 3rd Week of the Fast, the Service is Fasting.  
 **2.** 3rd Saturday of the Fast: Service of an Alleluia Saturday, as that of the 2nd.
 
-#### 3rd Sunday of the Fast
-##### Veneration of the Precious Cross
+**3rd Sunday of the Fast**
+**Veneration of the Precious Cross**
 **1.** In the five days from Monday until Friday of the 4th Week of the Fast, the Service is of the Cross-Veneration.  
 **2.** 4th Saturday of the Fast: Service as on the 2nd and 3rd of the Fast.
 
-#### 4th Sunday of the Fast
-##### Nameless, Penitential
+**4th Sunday of the Fast**
+**Nameless, Penitential**
 At discretion, also the Service to Saint John of the Ladder (Climacus).  
 **1.** On Monday, Tuesday, Wednesday, and Friday of the 5th Week of the Fast, the Service is Fasting.
 
@@ -60,24 +60,24 @@ At discretion, also the Service to Saint John of the Ladder (Climacus).
 **2.** On Thursday of the 5th Week of the Fast: Penitential Service of the Great Canon, with prostrations.  
 **3.** 5th Saturday of the Fast: Of the Akathist.
 
-#### 5th Sunday of the Fast
-##### Nameless, Penitential
+**5th Sunday of the Fast**
+**Nameless, Penitential**
 At discretion, also the Service of Venerable Mary of Egypt.  
 In the five days from Monday until Friday of the 6th Week of the Fast, the Service is Fasting.
 
-### Of the Flowery Triodion (Pentecostarion)
+**Of the Flowery Triodion (Pentecostarion)**
 
-#### 6th Saturday of the Fast: Of Lazarus
+**6th Saturday of the Fast: Of Lazarus**
 The Canons of the Saints that occur in the ordinary course of the Menaion from this Saturday until Thomas Sunday have been pre-sung at Compline from Monday of the 2nd Week of the Fast downward.
 
-#### ⊕ 6th Sunday of the Fast: Palm Sunday (Flowery)
+**⊕ 6th Sunday of the Fast: Palm Sunday (Flowery)**
 Feast of one day, with a Vigil.  
 **1.** On Great Monday, Tuesday, and Wednesday: Passion-Penitential Service, as a Forefeast of Christ's Sufferings.[^741]  
 **2.** On Great Thursday: The Mystical Supper, and the beginning of Christ's Passion.  
 **3.** On Great Friday: The Passion of Christ.  
 **4.** On Great Saturday: The Laying of Christ in the Tomb.
 
-#### ⊕⊕ Sunday of Pascha: THE RESURRECTION OF CHRIST
+**⊕⊕ Sunday of Pascha: THE RESURRECTION OF CHRIST**
 Feast of thirty-nine days.  
 **1.** From Monday until Bright Saturday inclusive, we sing the entire Service to Pascha.
 
@@ -87,20 +87,20 @@ Feast of thirty-nine days.
 
 **2.** On Monday and Tuesday we abstain from labor and are present at divine services; and during the entire week we are permitted meat (fast-free).
 
-#### ⊕⊕ 2nd Sunday after Pascha: Antipascha: Of Thomas
+**⊕⊕ 2nd Sunday after Pascha: Antipascha: Of Thomas**
 Feast of seven days, with a Vigil.  
 Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday: Within the Feast of Thomas Sunday, with the Menaion.
 
-#### 3rd Sunday after Pascha: Of the Myrrh-Bearers
+**3rd Sunday after Pascha: Of the Myrrh-Bearers**
 Feast of seven days.  
 Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday: Within the Feast of the Myrrh-Bearers, with the Menaion.
 
-#### 4th Sunday after Pascha: Of the Paralytic
+**4th Sunday after Pascha: Of the Paralytic**
 Feast of three days.  
 **1.** Monday and Tuesday: Within the Feast of the Paralytic, with the Menaion.  
 **2.** Wednesday of Mid-Pentecost: Feast of eight days, without a Vigil, and without a Polyeleos.
 
-#### 5th Sunday after Pascha: Of the Samaritan Woman
+**5th Sunday after Pascha: Of the Samaritan Woman**
 Feast of four days.  
 **1.** Monday and Tuesday: Within the Feast of Mid-Pentecost; but the Service of the Samaritan Woman is deferred until the Feast of Mid-Pentecost is concluded (Apodosis).  
 **2.** **(:** Wednesday: Apodosis of Mid-Pentecost.  
@@ -110,23 +110,23 @@ Feast of four days.
 
 === LEAF p565 ===
 
-#### 6th Sunday after Pascha: Of the Blind Man
+**6th Sunday after Pascha: Of the Blind Man**
 Feast of four days.  
 **1.** Monday, Tuesday, and Wednesday: Within the Feast of the Blind Man; and on Wednesday also the ⊕ Apodosis of Pascha, and the Forefeast of the Ascension.  
 **2.** **⊕⊕** Thursday: ASCENSION. Feast of nine days, with a Vigil.
 
-#### 7th Sunday after Pascha: Of the Holy Fathers
+**7th Sunday after Pascha: Of the Holy Fathers**
 **1.** Monday, Tuesday, Wednesday, and Thursday: Within the Feast of the Ascension.  
 **2.** **(:** Friday: Apodosis of the Ascension.  
 **3.** Saturday for the Dead (All Souls), according to the Meatfare Typikon, here on page 363.
 
-#### ⊕⊕ Sunday of Pentecost: DESCENT OF THE HOLY SPIRIT
+**⊕⊕ Sunday of Pentecost: DESCENT OF THE HOLY SPIRIT**
 Feast of seven days, with a Vigil.  
 **1.** Monday of the Holy Spirit (and the Feast of the Holy Trinity, at discretion): Abstinence from labor, with attendance at divine services.  
 **2.** Dispensation for meat (fast-free) throughout the entire week.  
 **3.** **(:** Saturday: Apodosis of the Descent of the Holy Spirit.
 
-#### 1st Sunday after Pentecost: All Saints
+**1st Sunday after Pentecost: All Saints**
 Here is the end of the ancient Triodion.  
 **1.** With this Sunday begins the series of Sunday Matins Gospels and daily Liturgy Gospels.  
 **2.** On Monday, Tuesday, and Wednesday, the Triodion has nothing.  
@@ -136,12 +136,12 @@ Here is the end of the ancient Triodion.
 
 === LEAF p566 ===
 
-#### 2nd Sunday after Pentecost: Vigil of the Eucharist
+**2nd Sunday after Pentecost: Vigil of the Eucharist**
 **1.** With this Sunday begins the cycle of the Tones.  
 **2.** **(:** On Thursday: Apodosis of the Feast of the Eucharist.  
 **3.** **+** On Friday: Compassion of the Most Holy Theotokos. Feast of one day, with a Polyeleos; and with this is the end of the new Triodion.
 
-### Of the Octoechos
+**Of the Octoechos**
 
 | Day | Service | Dedication |
 | :--- | :--- | :--- |
@@ -156,8 +156,8 @@ Here is the end of the ancient Triodion.
 
 === LEAF p567 ===
 
-### Tablet I
-#### Dominical Letters and Boundary Keys
+**Tablet I** <a id="tablet-i"></a>
+**Dominical Letters and Boundary Keys**
 For the last 40 years of the Indiction, that is, of the Cycle of 532 years, the 14th from the creation of the world.
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
@@ -183,8 +183,8 @@ For the last 40 years of the Indiction, that is, of the Cycle of 532 years, the 
 
 === LEAF p568 ===
 
-### Tablet II
-#### Dominical Letters and Boundary Keys
+**Tablet II**
+**Dominical Letters and Boundary Keys**
 For all 532 years of the 15th Indiction from the creation of the world (Years 1941 to 2000).
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
@@ -214,7 +214,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p569 ===
 
-### Tablet II (Continued: Years 2001 to 2084)
+**Tablet II (Continued: Years 2001 to 2084)**
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -251,7 +251,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p570 ===
 
-### Tablet II (Continued: Years 2085 to 2168)
+**Tablet II (Continued: Years 2085 to 2168)**
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -288,7 +288,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p571 ===
 
-### Tablet II (Continued: Years 2169 to 2252)
+**Tablet II (Continued: Years 2169 to 2252)**
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -325,7 +325,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p572 ===
 
-### Tablet II (Continued: Years 2253 to 2336)
+**Tablet II (Continued: Years 2253 to 2336)**
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -362,7 +362,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p573 ===
 
-### Tablet II (Continued: Years 2337 to 2420)
+**Tablet II (Continued: Years 2337 to 2420)**
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -399,7 +399,7 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p574 ===
 
-### Tablet II (Concluded: Years 2421 to 2472)
+**Tablet II (Concluded: Years 2421 to 2472)**
 
 | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key | Year A.D. | Dominical Letter | Boundary Key |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -426,8 +426,8 @@ For all 532 years of the 15th Indiction from the creation of the world (Years 19
 
 === LEAF p575 ===
 
-### Roman and Greek Paschas
-#### Difference
+**Roman and Greek Paschas**
+**Difference**
 For the last 40 years of the 14th Indiction.[^742]  
 Apr. = April. — Mar. = March. — 0 = equal (same day).
 
@@ -458,10 +458,10 @@ Apr. = April. — Mar. = March. — 0 = equal (same day).
 
 === LEAF p576 ===
 
-### Tablet III: Perpetual Table
+**Tablet III: Perpetual Table**
 Containing 35 Columns of the Sundays of the Entire Year, with Indication of the Regular Gospels and Tones.
 
-### Part 1: Columns 1–21 (Keys 1 to 21: A to U)
+**Part 1: Columns 1–21 (Keys 1 to 21: A to U)**
 | Month | 1 (A) | 2 (B) | 3 (V) | 4 (G) | 5 (D) | 6 (E) | 7 (Zh) | 8 (S) | 9 (Z) | 10 (I) | 11 (I) | 12 (K) | 13 (L) | 14 (M) | 15 (N) | 16 (O) | 17 (P) | 18 (R) | 19 (S) | 20 (T) | 21 (U) | Sunday Title |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | January | | | | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 7 | 8 | 9 | 10 | After Enlightenment |
@@ -483,7 +483,7 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 | | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 10 after Pentecost (Tone 1, Gospel 10) |
 | | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 11 after Pentecost (Tone 2, Gospel 11) |
 
-### Part 2: Columns 22–35 (Keys 22 to 35: F to Yus M.) with Ordinary Indicators
+**Part 2: Columns 22–35 (Keys 22 to 35: F to Yus M.) with Ordinary Indicators**
 | 22 (F) | 23 (Kh) | 24 (O) | 25 (Ts) | 26 (Ch) | 27 (Sh) | 28 (Shch) | 29 (Yer) | 30 (Yery) | 31 (Yer') | 32 (Yat) | 33 (Yu) | 34 (Yus B.) | 35 (Yus M.) | Sunday Title | Tone | Gospel |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 11 | 12 | 13 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 7 | 8 | 9 | 10 | After Enlightenment | | |
@@ -509,10 +509,10 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 
 === LEAF p577 ===
 
-### Tablet III: Perpetual Table (Continued)
-#### Sundays 12 to 29 after Pentecost
+**Tablet III: Perpetual Table (Continued)**
+**Sundays 12 to 29 after Pentecost**
 
-### Part 1: Columns 1–21 (Sundays 12 to 29 after Pentecost)
+**Part 1: Columns 1–21 (Sundays 12 to 29 after Pentecost)**
 | Month | 1 (A) | 2 (B) | 3 (V) | 4 (G) | 5 (D) | 6 (E) | 7 (Zh) | 8 (S) | 9 (Z) | 10 (I) | 11 (I) | 12 (K) | 13 (L) | 14 (M) | 15 (N) | 16 (O) | 17 (P) | 18 (R) | 19 (S) | 20 (T) | 21 (U) | Sunday Title |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 12 after Pentecost (Tone 3, Gospel 1) |
@@ -534,7 +534,7 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 | | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 28 after Pentecost (Tone 3, Gospel 6) |
 | | 29 | 30 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 29 after Pentecost (Tone 4, Gospel 7) |
 
-### Part 2: Columns 22–35 (Sundays 12 to 29 after Pentecost)
+**Part 2: Columns 22–35 (Sundays 12 to 29 after Pentecost)**
 | 22 (F) | 23 (Kh) | 24 (O) | 25 (Ts) | 26 (Ch) | 27 (Sh) | 28 (Shch) | 29 (Yer) | 30 (Yery) | 31 (Yer') | 32 (Yat) | 33 (Yu) | 34 (Yus B.) | 35 (Yus M.) | Sunday | Tone | Gospel |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 12. | Tone 3 | Gospel 1 |
@@ -560,10 +560,10 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 
 === LEAF p578 ===
 
-### Tablet III: Perpetual Table (Concluded)
-#### Sundays 30 to 32 after Pentecost, Pre-Lenten Cycle, and Legend of Concurring Gospels
+**Tablet III: Perpetual Table (Concluded)**
+**Sundays 30 to 32 after Pentecost, Pre-Lenten Cycle, and Legend of Concurring Gospels**
 
-### Part 1: Columns 1–21 (Sundays 30 to 32, Pre-Lenten Cycle, February)
+**Part 1: Columns 1–21 (Sundays 30 to 32, Pre-Lenten Cycle, February)**
 | Month | 1 (A) | 2 (B) | 3 (V) | 4 (G) | 5 (D) | 6 (E) | 7 (Zh) | 8 (S) | 9 (Z) | 10 (I) | 11 (I) | 12 (K) | 13 (L) | 14 (M) | 15 (N) | 16 (O) | 17 (P) | 18 (R) | 19 (S) | 20 (T) | 21 (U) | Sunday Title |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 30 after Pentecost (Tone 5, Gospel 8) |
@@ -582,7 +582,7 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 | March | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | Sunday (Tone 2, Gospel 10) |
 | February | 0 | 2 | 3 | 4 | 5 | 5 | 6 | 5 | 6 | 5 | 6 | 7 | 8 | 5 | 6 | 7 | 8 | 9 | 9 | 9 | 9 | February Key Indicator |
 
-### Part 2: Columns 22–35 (Sundays 30 to 32, Pre-Lenten Cycle, February)
+**Part 2: Columns 22–35 (Sundays 30 to 32, Pre-Lenten Cycle, February)**
 | 22 (F) | 23 (Kh) | 24 (O) | 25 (Ts) | 26 (Ch) | 27 (Sh) | 28 (Shch) | 29 (Yer) | 30 (Yery) | 31 (Yer') | 32 (Yat) | 33 (Yu) | 34 (Yus B.) | 35 (Yus M.) | Sunday | Tone | Gospel |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 27 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 30. | Tone 5 | Gospel 8 |
@@ -601,7 +601,7 @@ Containing 35 Columns of the Sundays of the Entire Year, with Indication of the 
 | 28 | 29 | 30 | 31 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | Sunday | Tone 2 | Gospel 10 |
 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | Apodosis of the Meeting | | |
 
-#### Gospels of Special Sundays of the Menaion
+**Gospels of Special Sundays of the Menaion**
 Concurring with the Gospels of the Ordinary Sundays.
 
 - **a)** Sunday of the Holy Fathers of the First Six Ecumenical Councils: July 16.
@@ -619,7 +619,7 @@ Concurring with the Gospels of the Ordinary Sundays.
 
 === LEAF p579 ===
 
-### Explanation of the Tablet
+**Explanation of the Tablet**
 
 **1.** The Tablet contains 35 Columns of the Sundays of the entire year according to the number of the 35 Boundary Keys, and the 35 Paschal days corresponding to them.
 

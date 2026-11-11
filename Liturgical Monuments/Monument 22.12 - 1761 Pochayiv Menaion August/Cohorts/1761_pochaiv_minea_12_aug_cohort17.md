@@ -237,7 +237,7 @@ What awesome hymns did all the apostles of the Word offer thee then, O Virgin, s
 
 What spiritual songs shall we now offer thee, O pious one? For by thine immortal falling asleep thou hast illumined the whole world, and hast passed over unto the transcendent realms, to contemplate the beauty of the Almighty, and to rejoice with Him as a Mother, while the angelic ranks escort thee, O pure one, and the souls of the righteous; with whom do thou ask peace and great mercy for us!
 
-*Other Stichera of the Image, in the same Tone and Podoben:*  
+*Other Stichera of the Image, in the same Tone and Podoben (Гла́съ и҆ подо́бенъ то́йже):*  
 With what eyes shall we who are earthborn look upon Thine image, shining with divine light, upon which the angelic armies cannot easily gaze? For it departs today from the land of the unbelieving, and comes unto the ruling city and unto the pious people by divine nod: at whose arrival emperors appear, falling down before it with fear and faith, O Christ![^459]
 
 With what hands shall we who are earthly touch Thine image, O Word, being defiled with sins, of our sinless God, inaccessible unto the defiled? The cherubim cover their eyes in trembling, the seraphim cannot bear to look upon Thy glory, and creation serves Thee with fear: condemn us not therefore, who unworthily

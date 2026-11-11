@@ -15,40 +15,40 @@
 
 ## Part I: Prescribed Melodic Model Families
 
-| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci | Byzantine Greek Automelon |
-| :---: | :--- | :--- | :---: | :---: | :--- | :--- |
-| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 2 | `f. 5r (p7)` | f. 5r (p7), f. 7r (p9) | *Τὸν τάφον σου Σωτήρ* |
-| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 1 | `f. 24v (p27)` | f. 24v (p27) | *Πανεύφημοι μάρτυρες* |
-| Tone 1 | `POD.T1.SAME` | **The same (то́йже)** | 1 | `f. 25r (p27)` | f. 25r (p27) | *Τὸ αὐτό* |
-| Tone 1 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 1 | `f. 206r (p208)` | f. 206r (p208) | *Γυναῖκες ἀκουτίσθητε* |
-| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 2 | `f. 31r (p33)` | f. 31r (p33), f. 32v (p35) | *Τὰ ἄνω ζητῶν* |
-| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 2 | `f. 47v (p50)` | f. 47v (p50), f. 208v (p211) | *Ὅτε ἐκ τοῦ ξύλου* |
-| Tone 2 | `POD.T2.SAME` | **The same (то́йже)** | 1 | `f. 48r (p50)` | f. 48r (p50) | *Τὸ αὐτό* |
-| Tone 2 | `POD.T2.MILOSERDIA_SUSHCHI` | **Being the wellspring of loving-kindness** | 1 | `f. 211r (p213)` | f. 211r (p213) | *Εὐσπλαγχνίας ὑπάρχουσα πηγή* |
-| Tone 2 | `POD.T3.VELIA_MUCHENIK_TVOIKH` | **Great is the power of Thy martyrs** | 1 | `f. 223v (p226)` | f. 223v (p226) | *Μεγάλη τῶν Μαρτύρων σου* |
-| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 1 | `f. 53v (p56)` | f. 53v (p56) | *Τὴν ὡραιότητα τῆς παρθενίας σου* |
-| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 1 | `f. 55v (p58)` | f. 55v (p58) | *Ἡ Παρθένος σήμερον* |
-| Tone 3 | `POD.T3.VELIA_KRESTA_TVOEGO` | **Great is the power of Thy Cross, O Lord** | 1 | `f. 71r (p73)` | f. 71r (p73) | *Μεγάλη τοῦ Σταυροῦ σου, Κύριε* |
-| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 2 | `f. 96r (p98)` | f. 96r (p98), f. 237v (p240) | *Ὡς γενναῖον ἐν Μάρτυσιν* |
-| Tone 4 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 1 | `f. 76v (p79)` | f. 76v (p79) | *Ταχὺ προκατάλαβε* |
-| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 1 | `f. 78v (p81)` | f. 78v (p81) | *Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ* |
-| Tone 4 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 1 | `f. 95v (p98)` | f. 95v (p98) | *Ἔδωκας σημείωσιν* |
-| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 3 | `f. 102r (p104)` | f. 102r (p104), f. 104r (p106), f. 255v (p258) | *Τὸν συνάναρχον Λόγον* |
-| Tone 5 | `POD.T5.SAME` | **The same (то́йже)** | 2 | `f. 120v (p123)` | f. 120v (p123), f. 252r (p254) | *Τὸ αὐτό* |
-| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 1 | `f. 119v (p122)` | f. 119v (p122) | *Χαίροις ἀσκητικῶν* |
-| Tone 5 | `POD.T5.PREPODOBNE_OTCHE` | **O venerable father** | 1 | `f. 251r (p253)` | f. 251r (p253) | *Ὅσιε Πάτερ* |
-| Tone 5 | `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | **Rejoice, O life-bearing Cross** | 1 | `f. 253r (p255)` | f. 253r (p255) | *Χαίροις ὁ ζωηφόρος Σταυρός* |
-| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `f. 126v (p129)` | f. 126v (p129), f. 128v (p131) | *Τὴν ὑπὲρ ἡμῶν πληρώσας οἰκονομίαν* |
-| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 2 | `f. 264v (p267)` | f. 264v (p267), f. 277r (p279) | *Ὅλην ἀποθέμενοι* |
-| Tone 6 | `POD.T6.ANGELSKIYA_SILY` | **The Angelic Powers** | 1 | `f. 146r (p148)` | f. 146r (p148) | *Αἱ Ἀγγελικαὶ δυνάμεις* |
-| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 1 | `f. 146v (p149)` | f. 146v (p149) | *Τριήμερος ἀνέστης* |
-| Tone 6 | `POD.T6.SAME` | **The same (то́йже)** | 1 | `f. 265v (p268)` | f. 265v (p268) | *Τὸ αὐτό* |
-| Tone 7 | `POD.T7.IZHE_MENE_RADI` | **He Who for my sake** | 1 | `f. 151v (p154)` | f. 151v (p154) | *Ὁ δι' ἐμὲ* |
-| Tone 7 | `POD.T7.OGNYA_SVETLEE` | **Brighter than fire** | 1 | `f. 152v (p155)` | f. 152v (p155) | *Πυρὸς τηλαυγέστερον* |
-| Tone 7 | `POD.T7.DNES_BDIT_IUDA` | **Today Judas watches** | 1 | `f. 170r (p172)` | f. 170r (p172) | *Σήμερον γρηγορεῖ ὁ Ἰούδας* |
-| Tone 7 | `POD.T7.NE_KTOMU_VOZBRANENI` | **No longer are we forbidden** | 1 | `f. 170v (p173)` | f. 170v (p173) | *Οὐκέτι κωλυόμεθα* |
-| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 2 | `f. 175v (p178)` | f. 175v (p178), f. 178r (p180) | *Τὸ προσταχθὲν μυστικῶς* |
-| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 1 | `f. 194r (p196)` | f. 194r (p196) | *Κύριε, εἰ καὶ κριτηρίῳ παρέστης* |
+| Tone | Registry ID | Prescribed Canonical Incipit | Invocations | First Attested Locus | Representative Loci |
+| :---: | :--- | :--- | :---: | :---: | :--- |
+| Tone 1 | `POD.T1.GROB_TVOI_SPASE` | **While the soldiers were guarding Thy tomb** | 2 | `f. 5r (p7)` | f. 5r (p7), f. 7r (p9) |
+| Tone 1 | `POD.T1.VSEKHVALNII_MUCHENITSY` | **O all-lauded martyrs** | 1 | `f. 24v (p27)` | f. 24v (p27) |
+| Tone 1 | `POD.T1.SAME` | **The same (то́йже)** | 1 | `f. 25r (p27)` | f. 25r (p27) |
+| Tone 1 | `POD.EXAP.ZHENY_USLYSHITE` | **Give ear, ye women** | 1 | `f. 206r (p208)` | f. 206r (p208) |
+| Tone 2 | `POD.T2.VYSHNIKH_ISHCHA` | **Seeking the highest** | 2 | `f. 31r (p33)` | f. 31r (p33), f. 32v (p35) |
+| Tone 2 | `POD.T2.EGDA_OT_DREVA` | **When from the Tree** | 2 | `f. 47v (p50)` | f. 47v (p50), f. 208v (p211) |
+| Tone 2 | `POD.T2.SAME` | **The same (то́йже)** | 1 | `f. 48r (p50)` | f. 48r (p50) |
+| Tone 2 | `POD.T2.MILOSERDIA_SUSHCHI` | **Being the wellspring of loving-kindness** | 1 | `f. 211r (p213)` | f. 211r (p213) |
+| Tone 2 | `POD.T3.VELIA_MUCHENIK_TVOIKH` | **Great is the power of Thy martyrs** | 1 | `f. 223v (p226)` | f. 223v (p226) |
+| Tone 3 | `POD.T3.KRASOTE_DEVSTVA` | **Beholding the beauty of thy virginity** | 1 | `f. 53v (p56)` | f. 53v (p56) |
+| Tone 3 | `POD.T3.DEVA_DNESS` | **Today the Virgin** | 1 | `f. 55v (p58)` | f. 55v (p58) |
+| Tone 3 | `POD.T3.VELIA_KRESTA_TVOEGO` | **Great is the power of Thy Cross, O Lord** | 1 | `f. 71r (p73)` | f. 71r (p73) |
+| Tone 4 | `POD.T4.YAKO_DOBLYA` | **As one valiant among martyrs** | 2 | `f. 96r (p98)` | f. 96r (p98), f. 237v (p240) |
+| Tone 4 | `POD.T4.SKORO_PREDVARI` | **Speedily anticipate** | 1 | `f. 76v (p79)` | f. 76v (p79) |
+| Tone 4 | `POD.T4.VOZNESYISYA_NA_KREST` | **Thou Who wast lifted up upon the Cross** | 1 | `f. 78v (p81)` | f. 78v (p81) |
+| Tone 4 | `POD.T4.DALS_ESI_ZNAMENIE` | **Thou hast given a sign** | 1 | `f. 95v (p98)` | f. 95v (p98) |
+| Tone 5 | `POD.T5.SLOVO_SOBEZNACHALNOE` | **The Word co-unoriginate** | 3 | `f. 102r (p104)` | f. 102r (p104), f. 104r (p106), f. 255v (p258) |
+| Tone 5 | `POD.T5.SAME` | **The same (то́йже)** | 2 | `f. 120v (p123)` | f. 120v (p123), f. 252r (p254) |
+| Tone 5 | `POD.T5.RADUISYA_POSTNIKOV` | **Rejoice, O container of ascetics** | 1 | `f. 119v (p122)` | f. 119v (p122) |
+| Tone 5 | `POD.T5.PREPODOBNE_OTCHE` | **O venerable father** | 1 | `f. 251r (p253)` | f. 251r (p253) |
+| Tone 5 | `POD.T5.RADUISYA_ZHIVONOSNYI_KRESTE` | **Rejoice, O life-bearing Cross** | 1 | `f. 253r (p255)` | f. 253r (p255) |
+| Tone 6 | `POD.T6.EZHE_O_NAS` | **Fulfilling the dispensation for our sake** | 2 | `f. 126v (p129)` | f. 126v (p129), f. 128v (p131) |
+| Tone 6 | `POD.T6.VSE_OTLOZHSHE` | **Having laid aside all earthly hope** | 2 | `f. 264v (p267)` | f. 264v (p267), f. 277r (p279) |
+| Tone 6 | `POD.T6.ANGELSKIYA_SILY` | **The Angelic Powers** | 1 | `f. 146r (p148)` | f. 146r (p148) |
+| Tone 6 | `POD.T6.TRIDNEVEN_VOSKRESL_ESI` | **Having risen on the third day** | 1 | `f. 146v (p149)` | f. 146v (p149) |
+| Tone 6 | `POD.T6.SAME` | **The same (то́йже)** | 1 | `f. 265v (p268)` | f. 265v (p268) |
+| Tone 7 | `POD.T7.IZHE_MENE_RADI` | **He Who for my sake** | 1 | `f. 151v (p154)` | f. 151v (p154) |
+| Tone 7 | `POD.T7.OGNYA_SVETLEE` | **Brighter than fire** | 1 | `f. 152v (p155)` | f. 152v (p155) |
+| Tone 7 | `POD.T7.DNES_BDIT_IUDA` | **Today Judas watches** | 1 | `f. 170r (p172)` | f. 170r (p172) |
+| Tone 7 | `POD.T7.NE_KTOMU_VOZBRANENI` | **No longer are we forbidden** | 1 | `f. 170v (p173)` | f. 170v (p173) |
+| Tone 8 | `POD.T8.POVELENNOE_TAINSTVENNO` | **That which was commanded mystically** | 2 | `f. 175v (p178)` | f. 175v (p178), f. 178r (p180) |
+| Tone 8 | `POD.T8.GOSPODI_ASHCHE_I_NA_SUDISHCHI` | **O Lord, though Thou didst stand before the tribunal** | 1 | `f. 194r (p196)` | f. 194r (p196) |
 
 ---
 

@@ -25,7 +25,7 @@ Unto the glory of the Holy, Consubstantial, Life-Creating, and Undivided Trinity
 
 By the diligence and expense of the STAUROPEGION INSTITUTE, at the Church of the Dormition of the Most Holy Mother of God.[^5]
 
-*[Circular seal of the Stauropegion Institute in Lviv: displaying the double patriarchal cross with Christological monogram and legend: (*(*"СТАВРОПИГІЙСКІЙ ІНСТИТУТЪ"*)*) within concentric beaded borders]*
+*(*Circular seal of the Stauropegion Institute in Lviv: displaying the double patriarchal cross with Christological monogram and legend: (*(*"СТАВРОПИГІЙСКІЙ ІНСТИТУТЪ"*)*) within concentric beaded borders*)*
 
 *[Institutional stamp: Patriarchal Liturgical Commission of the Ukrainian Greek-Catholic Church, Lviv]*
 

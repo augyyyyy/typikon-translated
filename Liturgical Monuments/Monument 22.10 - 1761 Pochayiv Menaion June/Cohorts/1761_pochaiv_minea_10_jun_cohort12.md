@@ -315,7 +315,7 @@ O protection of all, Mother of God: I am bowed down by a dark abyss, and am ever
 === LEAF p120 === (Fol. 59v)
 *...and the righteous: as having given birth unto the Abyss of the Lover of mankind!*
 
-*Glory... Both now... Podoben: The same [What shall we call you]:*
+*Glory... Both now... Podoben: The same [What shall we call you] (Что̀ вы̀ нарече́мъ):*
 Having given birth unto the unendurable Fire That burns up sins and bedews the faithful: by thy prayers, O all-immaculate, pure one, burn up the material stuff of my measureless transgressions; and with dew refresh my soul melted by passions, that I thy servant may magnify thy mercy and power with a loud voice!
 
 *Stavrotheotokion:*

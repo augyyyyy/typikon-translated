@@ -263,7 +263,7 @@ Bearing the Cross of the Lord upon thy shoulders, O our father Sabbas, thou dids
 
 Having refuted the deceit of the crafty demons by the power of the Cross, thou didst also elucidate the glory of Christ, O Sabbas, our father.
 
-*Glory, Both now, Theotokion, the same Podoben:*
+*Glory, Both now, Theotokion, the same Podoben (Подо́бенъ то́йже):*
 
 O good Sovereign Lady, lift up thine all-holy hands unto thy Son, the soul-loving Creator, to have compassion upon thy servants.
 
